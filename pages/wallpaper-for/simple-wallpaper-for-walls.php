@@ -1,0 +1,129 @@
+<title>Transform Your Space: Simple Wall Wallpapers</title>
+                    <meta name="description" content="Discover simple wallpaper options for your walls that elevate your decor effortlessly. Perfect for any space, our selection offers subtle patterns and colors to enhance your interiors without the hassle. Ideal for renters and those on a budget. Refresh your home today!">
+                    <meta name="keywords" content="simple wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/simple-wallpaper-for-walls">
+                            <span itemprop="name">simple wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Simple Wall Wallpapers</h1>
+                <p>Simple wallpaper for walls can transform a space with minimal effort. Choose subtle patterns or soft colors for a serene backdrop that enhances your decor. Easy to apply and remove, it's perfect for renters and budget-conscious homeowners. Elevate your interiors with a touch of personal style using simple wallpaper designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/simple_mockup3.jpg?v=1717012585&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/simple_mockup3.jpg?v=1717012585&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Simple Dark Green ZZ3145 Self-adhesive Wallpaper Mural Peel and Stick  Wallpaper Removable Wall Prints Stickers Feature Wall Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24866310/r/il/59ba87/2654393321/il_570xN.2654393321_w3jw.jpg' alt='3D Simple Dark Green ZZ3145 Self-adhesive Wallpaper Mural Peel and Stick  Wallpaper Removable Wall Prints Stickers Feature Wall Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24866310/r/il/59ba87/2654393321/il_570xN.2654393321_w3jw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Polka Dots Simple Wallpaper for Girls Room Decor, Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/ecebfa/3374235783/il_fullxfull.3374235783_jn6s.jpg' alt='Gold Polka Dots Simple Wallpaper for Girls Room Decor, Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/ecebfa/3374235783/il_fullxfull.3374235783_jn6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q QIHANG Modern Simple European Striped 3D Embossed Damask Non-Woven  Wallpaper Bedroom Living Room TV Background Wall 20.87" Wx393.7 L  Non-Pasted ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ehyF5lxsL._AC_UF894,1000_QL80_.jpg' alt='Q QIHANG Modern Simple European Striped 3D Embossed Damask Non-Woven  Wallpaper Bedroom Living Room TV Background Wall 20.87" Wx393.7 L  Non-Pasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ehyF5lxsL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Simple 3d wallpaper living room bedroom walls Rotating white spac  background wall home improvement 3d mural wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M00/1B/69/rBVaVF4Fsd6ADh94AAPeGv6oxtA688.jpg' alt='New Simple 3d wallpaper living room bedroom walls Rotating white spac  background wall home improvement 3d mural wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g8/M00/1B/69/rBVaVF4Fsd6ADh94AAPeGv6oxtA688.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Stripe by Albany - Beige - Wallpaper - 38665-2">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/211117_1_orig.jpg?v=1694164063' alt='Simple Stripe by Albany - Beige - Wallpaper - 38665-2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/211117_1_orig.jpg?v=1694164063' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Wallpaper for Sleek Interiors | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2023-05/First-Spring-Leaves-Wall-Mural-by-Julia-Dreams-Available-from-Wallsauce.jpg' alt='Simple Wallpaper for Sleek Interiors | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2023-05/First-Spring-Leaves-Wall-Mural-by-Julia-Dreams-Available-from-Wallsauce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Modern Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/fe43f9b64ef126648c3cc83522e42aef13f45b4b.jpg?v=1678799103' alt='Elegant Modern Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/fe43f9b64ef126648c3cc83522e42aef13f45b4b.jpg?v=1678799103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Simple Wallpaper Designs For Your Living Room - How Not to ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0285/1316/files/Sage-and-cream-geometric-contemporary-chic-wallpaper-Hamptons-Haute_For-Living-Rooms_1024x1024.jpg?v=1676396346' alt='5 Simple Wallpaper Designs For Your Living Room - How Not to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0285/1316/files/Sage-and-cream-geometric-contemporary-chic-wallpaper-Hamptons-Haute_For-Living-Rooms_1024x1024.jpg?v=1676396346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6071746317_g5fl.jpg?v=1722452227&width=1445' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6071746317_g5fl.jpg?v=1722452227&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

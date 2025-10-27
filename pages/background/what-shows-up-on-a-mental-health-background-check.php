@@ -1,0 +1,129 @@
+<title>Understanding Mental Health Background Checks</title>
+                    <meta name="description" content="Discover what information is included in mental health background checks, including treatment history and psychiatric evaluations. This essential guide helps you understand the process and key factors for employers and individuals looking to assess mental wellness effectively.">
+                    <meta name="keywords" content="what shows up on a mental health background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-shows-up-on-a-mental-health-background-check">
+                            <span itemprop="name">what shows up on a mental health background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Mental Health Background Checks</h1>
+                <p>A mental health background check typically reveals psychiatric evaluations, treatment history, and any diagnoses that an individual may have received. It may also include medications prescribed and their purpose. This information can be crucial for employers, healthcare providers, or legal entities assessing an individual's mental wellness and stability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For gun checks, mental health records can still be a blind spot">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2022/06/15/USAT/ac7ff8f7-5533-4d45-9b56-6fd79305b1d5-Shooting_4473.jpg' alt='For gun checks, mental health records can still be a blind spot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2022/06/15/USAT/ac7ff8f7-5533-4d45-9b56-6fd79305b1d5-Shooting_4473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will My Mental Health Record Show Up in My Background Check? -">
+                                <img itemprop="contentUrl url" src='https://www.activescreening.com/wp-content/uploads/2019/07/about_02-1080x581.jpg' alt='Will My Mental Health Record Show Up in My Background Check? -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Active Screening" />
+                                </span>
+                                <a href='https://www.activescreening.com/wp-content/uploads/2019/07/about_02-1080x581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does an employee background check reveal mental history | FHE Health">
+                                <img itemprop="contentUrl url" src='https://fherehab.com/wp-content/uploads/2022/10/employer-background-check-900.jpg' alt='Does an employee background check reveal mental history | FHE Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FHE Health" />
+                                </span>
+                                <a href='https://fherehab.com/wp-content/uploads/2022/10/employer-background-check-900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Mental Health Records Show Up On A Background Check? - Psychological  Clarity">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6GUrftCocKk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDA9vrz7xdYAqn9Y5qBGSflitz0BQ' alt='Will Mental Health Records Show Up On A Background Check? - Psychological  Clarity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6GUrftCocKk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDA9vrz7xdYAqn9Y5qBGSflitz0BQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Gun Background Checks Include Mental Health">
+                                <img itemprop="contentUrl url" src='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/4.jpg' alt='Do Gun Background Checks Include Mental Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Gun Background Checks Include Mental Health">
+                                <img itemprop="contentUrl url" src='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/3.jpg' alt='Do Gun Background Checks Include Mental Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental Health Background Check: What Shows (And When To Be Worried)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/05/Mental-Health-Background-Check-Featured-Image.png' alt='Mental Health Background Check: What Shows (And When To Be Worried)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/05/Mental-Health-Background-Check-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Show Medical History? - ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://www.scoutlogicscreening.com/wp-content/uploads/2024/06/CTA-Transparent-Destop-Option-2.png' alt='Do Background Checks Show Medical History? - ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="964">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScoutLogic" />
+                                </span>
+                                <a href='https://www.scoutlogicscreening.com/wp-content/uploads/2024/06/CTA-Transparent-Destop-Option-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Include Mental Health?">
+                                <img itemprop="contentUrl url" src='https://www.1stchoicefingerprints.org/media/iahi0ng3/do-background-checks-include-mental-health.png' alt='Do Background Checks Include Mental Health?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1st Choice Fingerprinting" />
+                                </span>
+                                <a href='https://www.1stchoicefingerprints.org/media/iahi0ng3/do-background-checks-include-mental-health.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Gun Background Checks Include Mental Health">
+                                <img itemprop="contentUrl url" src='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/1.jpg' alt='Do Gun Background Checks Include Mental Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-gun-background-checks-include-mental-health.govbackgroundchecks.com/screenshots/do-gun-background-checks-include-mental-health/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

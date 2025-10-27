@@ -1,0 +1,129 @@
+<title>Dynamic Motion in Rubens' "Raising of the Cross" Painting</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="how does peter paul ruben convey dynamic action and movement in his painting raising of the cross?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-does-peter-paul-ruben-convey-dynamic-action-and-movement-in-his-painting-raising-of-the-cross">
+                            <span itemprop="name">how does peter paul ruben convey dynamic action and movement in his painting raising of the cross?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Motion in Rubens' "Raising of the Cross" Painting</h1>
+                <p>In "Raising of the Cross," Peter Paul Rubens masterfully conveys dynamic action and movement through his vigorous brushwork and dramatic poses. The figures are arranged in a pyramidal composition, enhancing the scene's tension and energy. The strong contrasts of light and shadow highlight muscular forms, emphasizing the struggle and emotion of the moment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art in Context: Peter Paul Rubens' Altarpiece, The Raising of the ...">
+                                <img itemprop="contentUrl url" src='https://blog.artgeek.io/wp-content/uploads/2020/04/AOLC-Rubens-Raising-crop-center.jpg' alt='Art in Context: Peter Paul Rubens' Altarpiece, The Raising of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1645">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtGeek" />
+                                </span>
+                                <a href='https://blog.artgeek.io/wp-content/uploads/2020/04/AOLC-Rubens-Raising-crop-center.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Raising of the Cross (1609 – 1610) by Peter Paul Rubens – Artchive">
+                                <img itemprop="contentUrl url" src='https://www.artchive.com/wp-content/uploads/2024/05/the-raising-of-the-cross-peter-paul-rubens-1609-1610.jpg' alt='The Raising of the Cross (1609 – 1610) by Peter Paul Rubens – Artchive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1410">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artchive" />
+                                </span>
+                                <a href='https://www.artchive.com/wp-content/uploads/2024/05/the-raising-of-the-cross-peter-paul-rubens-1609-1610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elevation of the Cross (1610–11) by Pieter Paul Rubens ...">
+                                <img itemprop="contentUrl url" src='https://www.artmajeur.com/media/cache/resolve/standard/a/d/administrator/blog/64469069c56222.47477795_the-raising-of-the-cross.jpg' alt='The Elevation of the Cross (1610–11) by Pieter Paul Rubens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="artmajeur" />
+                                </span>
+                                <a href='https://www.artmajeur.com/media/cache/resolve/standard/a/d/administrator/blog/64469069c56222.47477795_the-raising-of-the-cross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art in Context: Peter Paul Rubens' Altarpiece, The Raising of the ...">
+                                <img itemprop="contentUrl url" src='https://blog.artgeek.io/wp-content/uploads/2020/04/Rubens-Raising-of-the-Cross-small-no-frame.jpg' alt='Art in Context: Peter Paul Rubens' Altarpiece, The Raising of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1475">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtGeek" />
+                                </span>
+                                <a href='https://blog.artgeek.io/wp-content/uploads/2020/04/Rubens-Raising-of-the-Cross-small-no-frame.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elevation of the Cross" by Peter Paul Rubens - An Analysis">
+                                <img itemprop="contentUrl url" src='https://artincontext.org/wp-content/uploads/2024/06/The-Elevation-of-the-Cross-by-Peter-Paul-Rubens-Composition.jpg' alt='The Elevation of the Cross" by Peter Paul Rubens - An Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art in Context" />
+                                </span>
+                                <a href='https://artincontext.org/wp-content/uploads/2024/06/The-Elevation-of-the-Cross-by-Peter-Paul-Rubens-Composition.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elevation of the Cross" by Peter Paul Rubens - An Analysis">
+                                <img itemprop="contentUrl url" src='https://artincontext.org/wp-content/uploads/2024/06/The-Elevation-of-the-Cross-by-Peter-Paul-Rubens.jpg' alt='The Elevation of the Cross" by Peter Paul Rubens - An Analysis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art in Context" />
+                                </span>
+                                <a href='https://artincontext.org/wp-content/uploads/2024/06/The-Elevation-of-the-Cross-by-Peter-Paul-Rubens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Raising of the Cross – Peter Paul Rubens | Athanasius Contra ...">
+                                <img itemprop="contentUrl url" src='https://athanasiuscm.org/wp-content/uploads/2014/10/elevation_diagonal2.jpg' alt='The Raising of the Cross – Peter Paul Rubens | Athanasius Contra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athanasius Contra Mundum" />
+                                </span>
+                                <a href='https://athanasiuscm.org/wp-content/uploads/2014/10/elevation_diagonal2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Raising of the Cross, 1620 - 1621 - Peter Paul Rubens ...">
+                                <img itemprop="contentUrl url" src='https://uploads0.wikiart.org/images/peter-paul-rubens/the-raising-of-the-cross-1621.jpg!Large.jpg' alt='The Raising of the Cross, 1620 - 1621 - Peter Paul Rubens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WikiArt" />
+                                </span>
+                                <a href='https://uploads0.wikiart.org/images/peter-paul-rubens/the-raising-of-the-cross-1621.jpg!Large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smarthistory – A-Level: Peter Paul Rubens, Elevation of the Cross">
+                                <img itemprop="contentUrl url" src='https://ka-perseus-images.s3.amazonaws.com/6b5ac47e93d6d40f53014d6b55c0cf84c95ea45b.jpg' alt='Smarthistory – A-Level: Peter Paul Rubens, Elevation of the Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="446">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarthistory" />
+                                </span>
+                                <a href='https://ka-perseus-images.s3.amazonaws.com/6b5ac47e93d6d40f53014d6b55c0cf84c95ea45b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubens, Elevation of the Cross (article) | Khan Academy">
+                                <img itemprop="contentUrl url" src='https://cdn.kastatic.org/ka-content-images/2a79d626f68d0e7271ec3cff6194b1f69a1a021d.jpg' alt='Rubens, Elevation of the Cross (article) | Khan Academy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3137">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Khan Academy" />
+                                </span>
+                                <a href='https://cdn.kastatic.org/ka-content-images/2a79d626f68d0e7271ec3cff6194b1f69a1a021d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

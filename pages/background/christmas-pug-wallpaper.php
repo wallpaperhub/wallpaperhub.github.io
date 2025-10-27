@@ -1,0 +1,129 @@
+<title>Adorable Christmas Pug Wallpaper for Festive Cheer</title>
+                    <meta name="description" content="Get into the holiday spirit with our charming Christmas pug wallpaper! Perfect for dog lovers, these festive designs will brighten up your screens and spread joy during the season. Download now for a delightful and cheerful touch to your digital devices!">
+                    <meta name="keywords" content="christmas pug wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-pug-wallpaper">
+                            <span itemprop="name">christmas pug wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Christmas Pug Wallpaper for Festive Cheer</h1>
+                <p>Transform your device with our festive Christmas pug wallpaper! Celebrate the holiday spirit with adorable pugs decked out in Santa hats and holiday attire. Perfect for adding a playful touch to your screens, these wallpapers bring joy and warmth to your winter season. Download now for a cheerful upgrade!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Christmas Images – Browse 19,664 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/02/25/93/360_F_302259384_8ByuCBP5J6YJ8XZNYSFjgPmBG5wMI7DH.jpg' alt='Pug Christmas Images – Browse 19,664 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/02/25/93/360_F_302259384_8ByuCBP5J6YJ8XZNYSFjgPmBG5wMI7DH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12183760/p/f/m/uTSTp-VANBhtVMRJ6xipwkMIUaN96vut7h5Jubi0qsVeZhE78YUAYQdATA/Cute%20Pug%20Christmas%20stocking%20red%20fabric.jpg' alt='Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12183760/p/f/m/uTSTp-VANBhtVMRJ6xipwkMIUaN96vut7h5Jubi0qsVeZhE78YUAYQdATA/Cute%20Pug%20Christmas%20stocking%20red%20fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pug Images – Browse 18,776 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/96/51/56/360_F_396515618_2RVUpSy2spzjq5qy33Fg70mfhdrjZDfS.jpg' alt='Christmas Pug Images – Browse 18,776 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/96/51/56/360_F_396515618_2RVUpSy2spzjq5qy33Fg70mfhdrjZDfS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200 PUG WALLPAPER SCREENSAVER ideas | pug wallpaper, pugs, cute pugs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/24/93/4e/24934ed8a15a834c0eb9ec25c903b18a.jpg' alt='200 PUG WALLPAPER SCREENSAVER ideas | pug wallpaper, pugs, cute pugs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/24/93/4e/24934ed8a15a834c0eb9ec25c903b18a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Christmas Images – Browse 19,664 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/30/25/88/360_F_130258808_sSy8MhF87euYp156K7UKJB8Mu0qjuGfd.jpg' alt='Pug Christmas Images – Browse 19,664 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/30/25/88/360_F_130258808_sSy8MhF87euYp156K7UKJB8Mu0qjuGfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12183757/p/f/m/b_2SFKKfdmHyq_Ues433q49mpgCJcNJk9XwApxKOpTNpRFlRrbhuY4zA9A/Cute%20Pug%20Christmas%20stocking%20turquoise.jpg' alt='Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12183757/p/f/m/b_2SFKKfdmHyq_Ues433q49mpgCJcNJk9XwApxKOpTNpRFlRrbhuY4zA9A/Cute%20Pug%20Christmas%20stocking%20turquoise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,300+ Christmas Pug Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1290324693/photo/dog-in-funny-christmas-reindeer-costume-french-bulldog-wearing-headband-with-antlers-with.jpg?s=612x612&w=0&k=20&c=U_PO0YFWrcreqFfOf7nm9lfuMYMTO3x76q2hjv4UVb0=' alt='3,300+ Christmas Pug Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1290324693/photo/dog-in-funny-christmas-reindeer-costume-french-bulldog-wearing-headband-with-antlers-with.jpg?s=612x612&w=0&k=20&c=U_PO0YFWrcreqFfOf7nm9lfuMYMTO3x76q2hjv4UVb0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pug">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/600x315/9a/2b/f1/9a2bf18993b9df11f2a2e0c52d433301.jpg' alt='Christmas Pug'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/600x315/9a/2b/f1/9a2bf18993b9df11f2a2e0c52d433301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13076833/p/f/m/tQnrpy3VHBz3Bc7wUzsDLgZNHE4bogyMEDcrxknKN_rVQv5RNSumO820SQ/Cute%20Pug%20Christmas%20dog%20fabric%20xmas%20dark%20blue.jpg' alt='Pug Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13076833/p/f/m/tQnrpy3VHBz3Bc7wUzsDLgZNHE4bogyMEDcrxknKN_rVQv5RNSumO820SQ/Cute%20Pug%20Christmas%20dog%20fabric%20xmas%20dark%20blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,043 Christmas Pug Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/dogs-christmas-costumes-two-french-600nw-1850738611.jpg' alt='9,043 Christmas Pug Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/dogs-christmas-costumes-two-french-600nw-1850738611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Harry Potter: A Magical Journey</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="harry potter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-potter-background">
+                            <span itemprop="name">harry potter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Harry Potter: A Magical Journey</h1>
+                <p>Harry Potter is a fantasy series written by J.K. Rowling, centered around a young boy who discovers he's a wizard on his 11th birthday. Set in a magical world filled with spells, mythical creatures, and dark forces, the story follows Harry and his friends Hermione Granger and Ron Weasley as they navigate the challenges of growing up and battling the dark wizard Voldemort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' alt='Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Art Print Harry Potter - Hogwarts | Gifts & Merchandise | Abposters.com">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/750/105088.jpg' alt='Wall Art Print Harry Potter - Hogwarts | Gifts & Merchandise | Abposters.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/750/105088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Stock Illustrations – 697 Hogwarts Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/harry-potter-hogwarts-stunning-image-harry-potter-universe-harry-potter-hogwarts-stunning-image-harry-potter-344605851.jpg' alt='Hogwarts Stock Illustrations – 697 Hogwarts Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/harry-potter-hogwarts-stunning-image-harry-potter-universe-harry-potter-hogwarts-stunning-image-harry-potter-344605851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter | Try our new Harry Potter themed video call ...">
+                                <img itemprop="contentUrl url" src='https://contentful.harrypotter.com/usf1vwtuqyxm/FguKzCQXYbXvJMS27FKqZ/5a936f1febc6e5767626c1831ded406a/USH_Hogwarts2_VB.jpg' alt='Harry Potter | Try our new Harry Potter themed video call ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizarding World" />
+                                </span>
+                                <a href='https://contentful.harrypotter.com/usf1vwtuqyxm/FguKzCQXYbXvJMS27FKqZ/5a936f1febc6e5767626c1831ded406a/USH_Hogwarts2_VB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpaper : r/harrypotter">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cxeimwflyo881.png?width=800&format=png&auto=webp&s=2160be26be2b962a1b9048c2e6236bbfe643c71c' alt='Harry Potter Wallpaper : r/harrypotter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cxeimwflyo881.png?width=800&format=png&auto=webp&s=2160be26be2b962a1b9048c2e6236bbfe643c71c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter hogwarts 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hogwarts-aesthetic-gcztte8rnc68ag2o.jpg' alt='Harry potter hogwarts 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hogwarts-aesthetic-gcztte8rnc68ag2o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts sign separated in four squares for each school hogwarts ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/69/5d/8d695d3edeb59021fa33379ae425e831.jpg' alt='Hogwarts sign separated in four squares for each school hogwarts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/69/5d/8d695d3edeb59021fa33379ae425e831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Harry Potter Background! | Harry Potter Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6392/1633ae0fa7d51189de7b9aed8d73b89467aabf1b_hq.jpg' alt='DIY Harry Potter Background! | Harry Potter Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6392/1633ae0fa7d51189de7b9aed8d73b89467aabf1b_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Great Hall Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RMK12541M.jpg?v=1695066227' alt='Harry Potter Great Hall Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RMK12541M.jpg?v=1695066227' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>SpongeBob's Magical Night Sky Adventures</title>
+                    <meta name="description" content="Explore the enchanting world of SpongeBob SquarePants under the night sky! Discover whimsical adventures, starry constellations, and a celebration of friendship in a magical underwater setting. Perfect for fans of all ages, join SpongeBob and his pals under the stars!">
+                    <meta name="keywords" content="spongebob night sky">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-night-sky">
+                            <span itemprop="name">spongebob night sky</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SpongeBob's Magical Night Sky Adventures</h1>
+                <p>Under the enchanting sway of the night sky, SpongeBob SquarePants embarks on whimsical adventures among the stars. He gazes at constellations shaped like jellyfish and wears a starry hat. Join SpongeBob and his friends as they explore the aquatic wonders under this celestial canvas, celebrating friendship and imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by kat ♡ on spongebob scenery | Spongebob, Spongebob ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/5b/93/195b932ae2aba5630eeb9c1e04c6b5de.jpg' alt='Pin by kat ♡ on spongebob scenery | Spongebob, Spongebob ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/5b/93/195b932ae2aba5630eeb9c1e04c6b5de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="¿Quién quiere una Cangreburger?     ">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7296280287720361221&location=0&aid=1988' alt='¿Quién quiere una Cangreburger?     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7296280287720361221&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/37/12/2037128de0a3a42d0835619f762ea529.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/37/12/2037128de0a3a42d0835619f762ea529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'd pay for a book of all the background art used in the show ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l2l3ugh9wl181.png' alt='I'd pay for a book of all the background art used in the show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1368">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l2l3ugh9wl181.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spongebob night sky by bloatyartstuff on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afc0c902-05f3-4311-9adc-cf2c50d900c8/dfq0i1h-15367b54-124b-47ab-9bb9-e6422d55587c.png/v1/fill/w_894,h_894,q_70,strp/spongebob_night_sky_by_bloatyartstuff_dfq0i1h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2FmYzBjOTAyLTA1ZjMtNDMxMS05YWRjLWNmMmM1MGQ5MDBjOFwvZGZxMGkxaC0xNTM2N2I1NC0xMjRiLTQ3YWItOWJiOS1lNjQyMmQ1NTU4N2MucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OLGH6-dLLWCqKd-w2J3gkyQwnqVGIDCD0Km2pmjbbUU' alt='spongebob night sky by bloatyartstuff on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afc0c902-05f3-4311-9adc-cf2c50d900c8/dfq0i1h-15367b54-124b-47ab-9bb9-e6422d55587c.png/v1/fill/w_894,h_894,q_70,strp/spongebob_night_sky_by_bloatyartstuff_dfq0i1h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2FmYzBjOTAyLTA1ZjMtNDMxMS05YWRjLWNmMmM1MGQ5MDBjOFwvZGZxMGkxaC0xNTM2N2I1NC0xMjRiLTQ3YWItOWJiOS1lNjQyMmQ1NTU4N2MucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OLGH6-dLLWCqKd-w2J3gkyQwnqVGIDCD0Km2pmjbbUU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Night Sky Background Cel SpongeBob Animation">
+                                <img itemprop="contentUrl url" src='https://dygtyjqp7pi0m.cloudfront.net/i/7919/9687287_1m.jpg?v=8CCF6662F275040' alt='Original Night Sky Background Cel SpongeBob Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCollector.com" />
+                                </span>
+                                <a href='https://dygtyjqp7pi0m.cloudfront.net/i/7919/9687287_1m.jpg?v=8CCF6662F275040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'd pay for a book of all the background art used in the show ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rs02air8wl181.png?width=640&crop=smart&auto=webp&s=9b7d63848fc405e4a6330eb48c19bbb15e3a8c56' alt='I'd pay for a book of all the background art used in the show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rs02air8wl181.png?width=640&crop=smart&auto=webp&s=9b7d63848fc405e4a6330eb48c19bbb15e3a8c56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/bf/6d/babf6d6b4fdc2b2d5920645fc6fcee82.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/bf/6d/babf6d6b4fdc2b2d5920645fc6fcee82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPSB] Background Sky by SpongeDrew250 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/380dbd01-38ee-4146-93df-31ce051f4b83/dfw2dwf-c98775da-20e8-4de6-886d-90ee05a210c6.png/v1/fill/w_1920,h_1460,q_80,strp/_spsb__background_sky_by_spongedrew250_dfw2dwf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MCIsInBhdGgiOiJcL2ZcLzM4MGRiZDAxLTM4ZWUtNDE0Ni05M2RmLTMxY2UwNTFmNGI4M1wvZGZ3MmR3Zi1jOTg3NzVkYS0yMGU4LTRkZTYtODg2ZC05MGVlMDVhMjEwYzYucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xypDaJz4Qy56HRWxHVNCggRBveCi_rkT5TyUE-bzjPw' alt='SPSB] Background Sky by SpongeDrew250 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/380dbd01-38ee-4146-93df-31ce051f4b83/dfw2dwf-c98775da-20e8-4de6-886d-90ee05a210c6.png/v1/fill/w_1920,h_1460,q_80,strp/_spsb__background_sky_by_spongedrew250_dfw2dwf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MCIsInBhdGgiOiJcL2ZcLzM4MGRiZDAxLTM4ZWUtNDE0Ni05M2RmLTMxY2UwNTFmNGI4M1wvZGZ3MmR3Zi1jOTg3NzVkYS0yMGU4LTRkZTYtODg2ZC05MGVlMDVhMjEwYzYucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xypDaJz4Qy56HRWxHVNCggRBveCi_rkT5TyUE-bzjPw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Production Art — Jellyfish fields paintings (day and ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/5bdfa9f62a381ba45f10fee1fb1e03bb/af14c6e8cb06ece1-4e/s1280x1920/1fe7add2355cdc72d5f94452e45a06d88106e6d8.png' alt='SpongeBob Production Art — Jellyfish fields paintings (day and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="977">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpongeBob Production Art - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/5bdfa9f62a381ba45f10fee1fb1e03bb/af14c6e8cb06ece1-4e/s1280x1920/1fe7add2355cdc72d5f94452e45a06d88106e6d8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

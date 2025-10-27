@@ -1,0 +1,129 @@
+<title>Decorative Writing Aesthetic Wallpapers for Inspiration</title>
+                    <meta name="description" content="Discover a collection of writing aesthetic wallpapers that inspire creativity and elegance. Perfect for desktops and mobile devices, these designs blend beautiful typography with soothing colors to elevate your environment. Transform your space and boost motivation with our unique wallpaper selections!">
+                    <meta name="keywords" content="writing aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/writing-aesthetic-wallpaper">
+                            <span itemprop="name">writing aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Decorative Writing Aesthetic Wallpapers for Inspiration</h1>
+                <p>Writing aesthetic wallpaper is a captivating way to enhance your workspace or home environment. Combine inspiring quotes, elegant typography, and serene color palettes to create a visual masterpiece. Whether it’s for personal motivation or artistic expression, the right wallpaper can ignite creativity and transform any space into a haven of inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Writing Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/messy-papers-with-cute-writing-m4todb28rxtbqtpw.jpg' alt='100+] Cute Writing Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/messy-papers-with-cute-writing-m4todb28rxtbqtpw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="writer – @some-aesthetic-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ecdb352a9ac203b7b0423fe8af026039/tumblr_pigazpJKDz1sa30yz_640.jpg' alt='writer – @some-aesthetic-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ecdb352a9ac203b7b0423fe8af026039/tumblr_pigazpJKDz1sa30yz_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Writing Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/writing-aesthetic-fzeds9mstv67iwr9.jpg' alt='100+] Writing Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/writing-aesthetic-fzeds9mstv67iwr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writer Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/19/1a/73191a157de3c7f7d81e36ecadf0afd7.jpg' alt='Writer Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/19/1a/73191a157de3c7f7d81e36ecadf0afd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writer Aesthetic    Anonymous asked: Hi! Love your work.    Could ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3845376cc3dc7a84469e6519d136021d/tumblr_pigazo6KU81sa30yz_500.jpg' alt='Writer Aesthetic    Anonymous asked: Hi! Love your work.    Could ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3845376cc3dc7a84469e6519d136021d/tumblr_pigazo6KU81sa30yz_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writer's mood board | Book wallpaper, Cute laptop wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/80/5c/5c805c12a1a672a92f53244c1045cd83.jpg' alt='Writer's mood board | Book wallpaper, Cute laptop wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/80/5c/5c805c12a1a672a92f53244c1045cd83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Vintage Writing Set With A Quill And Ink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-vintage-writing-set-with-a-quill-and-ink-1e7zz8zypbazmfyl.jpg' alt='A Vintage Writing Set With A Quill And Ink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-vintage-writing-set-with-a-quill-and-ink-1e7zz8zypbazmfyl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writer aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/cc/3a/bacc3a42e9d367dc777e074ca6b65a4d.jpg' alt='Writer aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/cc/3a/bacc3a42e9d367dc777e074ca6b65a4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13154162.jpg' alt='Writing Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13154162.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="writer – @some-aesthetic-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/574e18a56c588183fd3e622904ce3278/tumblr_p658nfqjQ01xnych8o1_1280.jpg' alt='writer – @some-aesthetic-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/574e18a56c588183fd3e622904ce3278/tumblr_p658nfqjQ01xnych8o1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

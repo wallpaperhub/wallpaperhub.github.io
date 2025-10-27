@@ -1,0 +1,129 @@
+<title>Puma: Discover Its German Roots</title>
+                    <meta name="description" content="Explore the origins of Puma, the iconic sportswear brand. Founded in Herzogenaurach, Germany, Puma has been shaping athletic fashion since 1948. Learn more about its rich history and influence in the sports industry.">
+                    <meta name="keywords" content="where is puma from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-puma-from">
+                            <span itemprop="name">where is puma from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Puma: Discover Its German Roots</h1>
+                <p>Puma is a globally recognized brand, originating from Herzogenaurach, Germany. Founded in 1948 by Rudolf Dassler, it started as a manufacturer of athletic footwear and has since expanded into apparel and accessories. Known for its innovative design and commitment to performance, Puma has become a leader in the sportswear industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma (genus) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2e/CMM_MountainLion.jpg' alt='Puma (genus) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2e/CMM_MountainLion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma (brand) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG/250px-Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG' alt='Puma (brand) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG/250px-Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma (brand) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/d/da/Puma_complete_logo.svg' alt='Puma (brand) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="446">
+                                <meta itemprop="height" content="223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/d/da/Puma_complete_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma (genus) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cougar_range_map_2010.png/220px-Cougar_range_map_2010.png' alt='Puma (genus) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cougar_range_map_2010.png/220px-Cougar_range_map_2010.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Lion | Felidae Conservation Fund">
+                                <img itemprop="contentUrl url" src='https://felidaefund.org/media/cache/autosized/images/static/puma-map-256.webp' alt='Mountain Lion | Felidae Conservation Fund'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felidae Conservation Fund" />
+                                </span>
+                                <a href='https://felidaefund.org/media/cache/autosized/images/static/puma-map-256.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma | Large Cat Species, Habitat & Diet | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/20/93520-050-3E663489/Puma.jpg' alt='Puma | Large Cat Species, Habitat & Diet | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/20/93520-050-3E663489/Puma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma genomes from North and South America provide insights into ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-12741-1/MediaObjects/41467_2019_12741_Fig1_HTML.png' alt='Puma genomes from North and South America provide insights into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-12741-1/MediaObjects/41467_2019_12741_Fig1_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma - Lamar University">
+                                <img itemprop="contentUrl url" src='https://www.lamar.edu/arts-sciences/_files/images/biology/jungle-critters-2012/puma.jpg' alt='Puma - Lamar University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lamar University" />
+                                </span>
+                                <a href='https://www.lamar.edu/arts-sciences/_files/images/biology/jungle-critters-2012/puma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puma | Large Cat Species, Habitat & Diet | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/101742-050-D7AC106C/Florida-panther.jpg' alt='Puma | Large Cat Species, Habitat & Diet | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/101742-050-D7AC106C/Florida-panther.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are pumas subordinate carnivores, and does it matter? [PeerJ]">
+                                <img itemprop="contentUrl url" src='https://dfzljdn9uc3pi.cloudfront.net/2018/4293/1/fig-2-full.png' alt='Are pumas subordinate carnivores, and does it matter? [PeerJ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2008">
+                                <meta itemprop="height" content="2653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PeerJ" />
+                                </span>
+                                <a href='https://dfzljdn9uc3pi.cloudfront.net/2018/4293/1/fig-2-full.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

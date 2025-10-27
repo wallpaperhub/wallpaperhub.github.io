@@ -1,0 +1,129 @@
+<title>Skye Paw Patrol Birthday Party Ideas</title>
+                    <meta name="description" content="Explore fun and creative Skye Paw Patrol birthday party ideas! From vibrant decorations to exciting games, make your child's special day unforgettable with a pawsitively delightful celebration. Perfect for all young Paw Patrol fans!">
+                    <meta name="keywords" content="birthday skye paw patrol background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-skye-paw-patrol-background">
+                            <span itemprop="name">birthday skye paw patrol background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skye Paw Patrol Birthday Party Ideas</h1>
+                <p>Celebrate your little one's special day with a Skye Paw Patrol themed birthday! Transform the party area into an exciting Paw Patrol adventure with vibrant decorations featuring Skye, the daring pup. Fun games, delightful cupcakes, and paw-some activities will make this a memorable birthday celebration for all the guests!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Paw Patrol skye Birthday Banner Personalized Party Backdrop  Decoration 60x42 Inches - 5x3 Feet : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XOF239n4S.jpg' alt='Amazon.com: Paw Patrol skye Birthday Banner Personalized Party Backdrop  Decoration 60x42 Inches - 5x3 Feet : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XOF239n4S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/BBB115.jpg?v=1591791088' alt='Paw Patrol Skye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/BBB115.jpg?v=1591791088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Marcelita Perez on Crear invitaciones de cumpleaños | Paw ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/7c/27/ee7c274e3a71ffcd7c1131704f78fbfe.jpg' alt='Pin by Marcelita Perez on Crear invitaciones de cumpleaños | Paw ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/7c/27/ee7c274e3a71ffcd7c1131704f78fbfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Paw Pups Patrol Birthday Backdrop - Girls Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Qf+R+wxqL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Paw Pups Patrol Birthday Backdrop - Girls Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Qf+R+wxqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Backdrop Round Cover For Girls Birthday Party ...">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Sb24b3e32c66747bdb7433b99df44d38fX.jpg' alt='Paw Patrol Skye Backdrop Round Cover For Girls Birthday Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Sb24b3e32c66747bdb7433b99df44d38fX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Party Backdrop Children Skye Chase Birthday Decorations  Background">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/quoAAOSw9T5k93cj/s-l1200.jpg' alt='Paw Patrol Party Backdrop Children Skye Chase Birthday Decorations  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/quoAAOSw9T5k93cj/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ideas for banners on paw patrol">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b8/94/84/b894841cdc488d93ed1ec7d2242dbad0.png' alt='Ideas for banners on paw patrol'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b8/94/84/b894841cdc488d93ed1ec7d2242dbad0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Skye Everest Pink Background">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/IBB02.jpg?v=1652591017' alt='Paw Patrol Skye Everest Pink Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/IBB02.jpg?v=1652591017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Products">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/51/bb/34/51bb34f3c4e03e74479a80318ad417d4.jpg' alt='Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/51/bb/34/51bb34f3c4e03e74479a80318ad417d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAW Patrol Skye sitting, Wheelgate Park Paper Birthday Patrol ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/7d/71/467d7194c3a66083580fdc3e52f21a3d.jpg' alt='PAW Patrol Skye sitting, Wheelgate Park Paper Birthday Patrol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/7d/71/467d7194c3a66083580fdc3e52f21a3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

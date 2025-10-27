@@ -1,0 +1,129 @@
+<title>Stunning Turquoise Marble Backgrounds for Elegant Designs</title>
+                    <meta name="description" content="Discover beautiful turquoise marble backgrounds that enhance your design projects. Perfect for wallpapers, web graphics, and more, these elegant textures bring sophistication and a refreshing vibe to any setting. Explore our collection today for striking visuals!">
+                    <meta name="keywords" content="turquoise marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turquoise-marble-background">
+                            <span itemprop="name">turquoise marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Turquoise Marble Backgrounds for Elegant Designs</h1>
+                <p>Turquoise marble backgrounds offer a captivating blend of elegance and tranquility. With its mesmerizing patterns and rich hues, this natural stone creates a stunning visual appeal in any design project. Ideal for wallpapers, web design, or social media graphics, turquoise marble adds a touch of sophistication and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/74/44/90/360_F_474449020_NbnoGbLYuB4QMODjLeLcJY8YGXWtdFUu.jpg' alt='Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/74/44/90/360_F_474449020_NbnoGbLYuB4QMODjLeLcJY8YGXWtdFUu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Turquoise Green Marble Stone Wallpaper Light Luxury TV Background  Wall Marble Wallpaper Design Mural Paper Living Room Peel and Stick -  Custom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/519UJbXkNSL._UF894,1000_QL80_.jpg' alt='Natural Turquoise Green Marble Stone Wallpaper Light Luxury TV Background  Wall Marble Wallpaper Design Mural Paper Living Room Peel and Stick -  Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/519UJbXkNSL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/34/52/89/360_F_634528992_ERpuf6HkF6BnxUfLtcJOdXUm5myYrwrs.jpg' alt='Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/34/52/89/360_F_634528992_ERpuf6HkF6BnxUfLtcJOdXUm5myYrwrs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Marble Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-alcohol-ink-background_23-2149232015.jpg' alt='Turquoise Marble Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-alcohol-ink-background_23-2149232015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise And Silver Marble wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/d1/29/8ed12913c3050b2b33c191f9ea229bf6.jpg' alt='Turquoise And Silver Marble wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/d1/29/8ed12913c3050b2b33c191f9ea229bf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Marble Gold Vein Wallpaper Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_2fc4979d-441c-48c0-bdf1-6f6654e9472c.jpg?v=1665558657' alt='Luxurious Marble Gold Vein Wallpaper Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_2fc4979d-441c-48c0-bdf1-6f6654e9472c.jpg?v=1665558657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Marble Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pastel-cyan-mint-liquid-marble-watercolor-background-with-gold-lines-brush-stains-teal-turquoise-marbled-alcohol-ink-drawing-effect-vector-illustration-backdrop-watercolour-wedding-invitation_397657-304.jpg?semt=ais_hybrid' alt='Turquoise Marble Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pastel-cyan-mint-liquid-marble-watercolor-background-with-gold-lines-brush-stains-teal-turquoise-marbled-alcohol-ink-drawing-effect-vector-illustration-backdrop-watercolour-wedding-invitation_397657-304.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/52/43/07/360_F_552430753_9QrPAJofAencfvIpZk4wIN6z9iZJEAzu.jpg' alt='Turquoise Marble Images – Browse 162,743 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/52/43/07/360_F_552430753_9QrPAJofAencfvIpZk4wIN6z9iZJEAzu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Turquoise Aesthetic Marble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-turquoise-aesthetic-marble-tlwuf0vhjcrzp9vw.jpg' alt='Dark Turquoise Aesthetic Marble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-turquoise-aesthetic-marble-tlwuf0vhjcrzp9vw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise and Gold Marble Background with Fluid Figures Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/turquoise-gold-marble-background-fluid-figures-green-marble-gold-silver-wallpapers-pc-featuring-detailed-290210611.jpg' alt='Turquoise and Gold Marble Background with Fluid Figures Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/turquoise-gold-marble-background-fluid-figures-green-marble-gold-silver-wallpapers-pc-featuring-detailed-290210611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

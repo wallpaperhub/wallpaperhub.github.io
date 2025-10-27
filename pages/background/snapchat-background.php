@@ -1,0 +1,129 @@
+<title>Perfect Your Snaps with Custom Snapchat Backgrounds</title>
+                    <meta name="description" content="Enhance your Snapchat experience with custom backgrounds! Discover tips to choose or create backgrounds that reflect your style. Stand out on Snapchat with unique designs and ideas that make your snaps more eye-catching and fun. Explore your creativity today!">
+                    <meta name="keywords" content="snapchat background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/snapchat-background">
+                            <span itemprop="name">snapchat background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Your Snaps with Custom Snapchat Backgrounds</h1>
+                <p>Snapchat backgrounds are essential for customizing your snaps, allowing users to express their personality and creativity. With a variety of features available, including filters and stickers, you can enhance your photos and videos. Discover different styles, from simple colors to intricate designs, and make your snaps stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Keep connected with your loved ones on Snapchat ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/snapchat-background-3rg0pn4qdmx3uztt.jpg' alt='Download Keep connected with your loved ones on Snapchat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/snapchat-background-3rg0pn4qdmx3uztt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapchat Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/00/70/8a0070fe66c467b7994ed566f82b6fb9.jpg' alt='Snapchat Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/00/70/8a0070fe66c467b7994ed566f82b6fb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Snapchat logo in neon with space for text and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/snapchat-logo-neon-with-space-text-graphics-yellow-background_494516-184.jpg' alt='Premium Photo | Snapchat logo in neon with space for text and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/snapchat-logo-neon-with-space-text-graphics-yellow-background_494516-184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snap agrees to $35 million settlement over privacy lawsuit | The Verge">
+                                <img itemprop="contentUrl url" src='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9030239/snapChatPattern_BW.jpg?quality=90&strip=all&crop=0,0,100,100' alt='Snap agrees to $35 million settlement over privacy lawsuit | The Verge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Verge" />
+                                </span>
+                                <a href='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9030239/snapChatPattern_BW.jpg?quality=90&strip=all&crop=0,0,100,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Snapchat Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/snapchat-background-3yizvh927eocqk08.jpg' alt='100+] Snapchat Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/snapchat-background-3yizvh927eocqk08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapchat App On Smartphone Screen On Stock Photo 2019705728 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/snapchat-app-on-smartphone-screen-260nw-2015885282.jpg' alt='Snapchat App On Smartphone Screen On Stock Photo 2019705728 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/snapchat-app-on-smartphone-screen-260nw-2015885282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapchat Abstract Pastel Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/snapchat-abstract-pastel-aesthetic-sn7jwuf5al1sk4s8.jpg' alt='Snapchat Abstract Pastel Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="973">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/snapchat-abstract-pastel-aesthetic-sn7jwuf5al1sk4s8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Snapchat logo with space for text and graphics on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/snapchat-logo-with-space-text-graphics-top-view-yellow-background-3d-rendering_494516-415.jpg' alt='Premium Photo | Snapchat logo with space for text and graphics on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/snapchat-logo-with-space-text-graphics-top-view-yellow-background-3d-rendering_494516-415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapchat Logo Girly Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/snapchat-logo-girly-aesthetic-8mqvcz38f3akwbt5.jpg' alt='Snapchat Logo Girly Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/snapchat-logo-girly-aesthetic-8mqvcz38f3akwbt5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapchat Logo PNG, Snapchat Logo Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/snapchat-logo/snapchat-logo-transparent-background-0.png' alt='Snapchat Logo PNG, Snapchat Logo Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/snapchat-logo/snapchat-logo-transparent-background-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

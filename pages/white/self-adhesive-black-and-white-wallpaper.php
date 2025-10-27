@@ -1,0 +1,129 @@
+<title>Stylish Self-Adhesive Black and White Wallpaper for Easy Updates</title>
+                    <meta name="description" content="Discover elegant self-adhesive black and white wallpaper that transforms any space in minutes. Perfect for renters, it's easy to apply and remove, allowing for a quick style refresh. Explore bold patterns and subtle textures to elevate your home decor effortlessly.">
+                    <meta name="keywords" content="self-adhesive black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/self-adhesive-black-and-white-wallpaper">
+                            <span itemprop="name">self-adhesive black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Self-Adhesive Black and White Wallpaper for Easy Updates</h1>
+                <p>Transform your space effortlessly with self-adhesive black and white wallpaper. This chic design adds a modern touch to any room without the need for messy paste. Easy to apply and remove, it's perfect for renters or those wanting a quick update. Choose bold patterns or subtle textures to express your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 118.1 in Black Chevron Removable Wall Paper Peel ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cukzgzqvL.jpg' alt='Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 118.1 in Black Chevron Removable Wall Paper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cukzgzqvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Removable Wallpaper. Floral Wallpaper. Black and White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21131879/r/il/b7cef4/2287820867/il_570xN.2287820867_kodk.jpg' alt='Minimalist Removable Wallpaper. Floral Wallpaper. Black and White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21131879/r/il/b7cef4/2287820867/il_570xN.2287820867_kodk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' alt='Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Graphic Tile Peel & Stick Wallpaper - Black & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW30300.jpg?v=1636749089' alt='NextWall Graphic Tile Peel & Stick Wallpaper - Black & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW30300.jpg?v=1636749089' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Black Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33858/floral-medallion-wallpaper-l-black-white.jpg?q=1711546925' alt='White And Black Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33858/floral-medallion-wallpaper-l-black-white.jpg?q=1711546925' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Geometric Shapes Self Adhesive Wall Mural - Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/d701e7/5872975222/il_fullxfull.5872975222_9ryx.jpg' alt='Black & White Geometric Shapes Self Adhesive Wall Mural - Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/d701e7/5872975222/il_fullxfull.5872975222_9ryx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flroalplus Black and White Wallpaper Removable Wallpaper Peel and Stick  Modern Wallpaper for Accent Wall Home Decor Self Adhesive Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CS-vmvhjL.jpg' alt='Flroalplus Black and White Wallpaper Removable Wallpaper Peel and Stick  Modern Wallpaper for Accent Wall Home Decor Self Adhesive Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CS-vmvhjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Lines Wallpaper - Black and White - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/03/lines_wallpaper_black_white_wallberry.jpg' alt='Minimalist Lines Wallpaper - Black and White - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/03/lines_wallpaper_black_white_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Bohemian Hand-Drawn Pattern Wallpaper – HaokHome">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/products/Modern_Circle_Oval_Stripe_Peel_and_Stick_Wallpaper_Black_White_Vinyl_Self_Adhesive_Decorative-1.jpg?v=1720772685&width=416' alt='Black and White Bohemian Hand-Drawn Pattern Wallpaper – HaokHome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/products/Modern_Circle_Oval_Stripe_Peel_and_Stick_Wallpaper_Black_White_Vinyl_Self_Adhesive_Decorative-1.jpg?v=1720772685&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caltero Waterproof Marble Wallpaper, Black White Granite, Self ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Caltero-Marble-Wallpaper-Black-White-Granite-Wallpaper-Peel-and-Stick-Self-Adhesive-Contact-Paper-15-7-x-394_e6ce421b-cd42-4f46-9c15-0996d2d2b374.277b843d69275fe83d989b759cbcb1a0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Caltero Waterproof Marble Wallpaper, Black White Granite, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Caltero-Marble-Wallpaper-Black-White-Granite-Wallpaper-Peel-and-Stick-Self-Adhesive-Contact-Paper-15-7-x-394_e6ce421b-cd42-4f46-9c15-0996d2d2b374.277b843d69275fe83d989b759cbcb1a0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

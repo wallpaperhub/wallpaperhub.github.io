@@ -1,0 +1,129 @@
+<title>Understanding Theory Background: Key Concepts Explained</title>
+                    <meta name="description" content="Explore the essential elements of theory background in research. This guide provides a concise overview of key concepts and frameworks that inform studies, helping you situate your work within the academic landscape and identify gaps. Perfect for students and researchers!">
+                    <meta name="keywords" content="theory background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/theory-background">
+                            <span itemprop="name">theory background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Theory Background: Key Concepts Explained</h1>
+                <p>The theory background serves as the foundation of any research or study, encompassing key concepts, frameworks, and existing literature that contextualize the topic. Understanding this background allows researchers to situate their work within the broader scholarly dialogue, justifying their approach and methodology and highlighting gaps that their study aims to address.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Feature – Advice on Using Theory in Academic Work">
+                                <img itemprop="contentUrl url" src='https://www.e-ir.info/wp-content/uploads/fly-images/90780/Chinnapong.-shutterstock_1471288775-807x455-c.jpg' alt='Student Feature – Advice on Using Theory in Academic Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E-International Relations" />
+                                </span>
+                                <a href='https://www.e-ir.info/wp-content/uploads/fly-images/90780/Chinnapong.-shutterstock_1471288775-807x455-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cognitive Gadgets Theory Might Change Your Mind—Literally ...">
+                                <img itemprop="contentUrl url" src='https://www.educationnext.org/wp-content/uploads/2021/09/sept21-web-riley-gadget-img01.png' alt='Cognitive Gadgets Theory Might Change Your Mind—Literally ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Education Next" />
+                                </span>
+                                <a href='https://www.educationnext.org/wp-content/uploads/2021/09/sept21-web-riley-gadget-img01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theory Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/blackboard-inscribed-human-brain-scientific-260nw-2191867281.jpg' alt='Theory Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/blackboard-inscribed-human-brain-scientific-260nw-2191867281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relational Frame Theory 101: The background & basics – New ...">
+                                <img itemprop="contentUrl url" src='https://d2tdui6flib2aa.cloudfront.net/new-harbinger-wp/wp-content/uploads/2020/10/29095903/head-abstract-blue-thread.jpg' alt='Relational Frame Theory 101: The background & basics – New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Harbinger Publications" />
+                                </span>
+                                <a href='https://d2tdui6flib2aa.cloudfront.net/new-harbinger-wp/wp-content/uploads/2020/10/29095903/head-abstract-blue-thread.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learning Theories In Our Digital Age - eLearning Industry">
+                                <img itemprop="contentUrl url" src='https://elearningindustry.com/wp-content/uploads/2021/04/learning-theories-important-or-not.png' alt='Learning Theories In Our Digital Age - eLearning Industry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eLearning Industry" />
+                                </span>
+                                <a href='https://elearningindustry.com/wp-content/uploads/2021/04/learning-theories-important-or-not.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,597 Theory Background Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/technology-hypothesis-analysis-data-theory-observation-innovation-science-dynamic-background-illustration-342075016.jpg' alt='14,597 Theory Background Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/technology-hypothesis-analysis-data-theory-observation-innovation-science-dynamic-background-illustration-342075016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theory Concept Word Cloud Background Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/lculig/lculig1507/lculig150701008/42380885-theory-concept-word-cloud-background.jpg' alt='Theory Concept Word Cloud Background Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/lculig/lculig1507/lculig150701008/42380885-theory-concept-word-cloud-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theory Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/word-theory-composed-wooden-cubes-260nw-1454307755.jpg' alt='Theory Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/word-theory-composed-wooden-cubes-260nw-1454307755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Educational Learning Theories | University of Phoenix">
+                                <img itemprop="contentUrl url" src='https://uop.scene7.com/is/image/phoenixedu/blog-hero-socrates-statue-on-abstract-shapes-with-scribbles-on-brown-background-yellow-border.webp?fmt=webp-alpha&qlt=70&fit=constrain,1&wid=704' alt='Educational Learning Theories | University of Phoenix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Phoenix" />
+                                </span>
+                                <a href='https://uop.scene7.com/is/image/phoenixedu/blog-hero-socrates-statue-on-abstract-shapes-with-scribbles-on-brown-background-yellow-border.webp?fmt=webp-alpha&qlt=70&fit=constrain,1&wid=704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Information Processing Theory: Definition and Examples">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/6Gcaysz5ELOz26c2lu703yToTZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/InformationProcessingTheory-4f17da089b5a4383af8e3aa6a31ff346.jpg' alt='Information Processing Theory: Definition and Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/6Gcaysz5ELOz26c2lu703yToTZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/InformationProcessingTheory-4f17da089b5a4383af8e3aa6a31ff346.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

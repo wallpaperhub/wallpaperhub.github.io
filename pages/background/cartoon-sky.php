@@ -1,0 +1,129 @@
+<title>"Exploring the Whimsy of Cartoon Skies"</title>
+                    <meta name="description" content="Discover the enchanting world of cartoon skies! Explore vibrant colors, fluffy clouds, and magical elements that inspire creativity. Perfect for children's art enthusiasts and animation lovers. Dive into a whimsical adventure today!">
+                    <meta name="keywords" content="cartoon sky">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cartoon-sky">
+                            <span itemprop="name">cartoon sky</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Whimsy of Cartoon Skies"</h1>
+                <p>A cartoon sky is a delightful illustration often filled with vibrant colors and whimsical elements. Picture bright blue backgrounds adorned with fluffy white clouds, cheerful suns, and radiant rainbows. These imaginative skies evoke a sense of joy and wonder, transforming ordinary scenes into magical landscapes. Perfect for children's art and animation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/394/347/non_2x/blue-sky-with-clouds-anime-style-background-with-shining-sun-and-white-fluffy-clouds-sunny-day-sky-scene-cartoon-illustration-vector.jpg' alt='Cartoon Sky Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1505">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/394/347/non_2x/blue-sky-with-clouds-anime-style-background-with-shining-sun-and-white-fluffy-clouds-sunny-day-sky-scene-cartoon-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/anime-style-clouds_23-2151071731.jpg' alt='Cartoon Sky Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/anime-style-clouds_23-2151071731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/76/01/51/360_F_176015185_mPGNcaL7WygUCaaNWR5nhiC08H4tboBE.jpg' alt='Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/76/01/51/360_F_176015185_mPGNcaL7WygUCaaNWR5nhiC08H4tboBE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/67/83/92/360_F_267839295_jVbzpVskpRpnPaq3xLFjjX9gYjNRocxN.jpg' alt='Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/67/83/92/360_F_267839295_jVbzpVskpRpnPaq3xLFjjX9gYjNRocxN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue sky full of clouds moving right to left. Cartoon sky background. Flat  animation. stock video 978958908">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/978958908/video/blue-sky-full-of-clouds-moving-right-to-left-cartoon-sky-background-flat-animation.jpg?s=640x640&k=20&c=Dm0VVLyH8CSfKOxQNfXj9FjM1tFht5pAfNVy6ujS4Z8=' alt='Blue sky full of clouds moving right to left. Cartoon sky background. Flat  animation. stock video 978958908'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/978958908/video/blue-sky-full-of-clouds-moving-right-to-left-cartoon-sky-background-flat-animation.jpg?s=640x640&k=20&c=Dm0VVLyH8CSfKOxQNfXj9FjM1tFht5pAfNVy6ujS4Z8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Clouds Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/sky-wallpaper-video-conference_23-2148613913.jpg' alt='Sky Clouds Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/sky-wallpaper-video-conference_23-2148613913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87,000+ Beautiful Sky Cartoon Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/531242144/vector/sunrise-over-green-hills.jpg?s=612x612&w=0&k=20&c=6g3VwxwIqgU0RGZr0t1fRxdYxbzgYEA3hQmvQiAQwXY=' alt='87,000+ Beautiful Sky Cartoon Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/531242144/vector/sunrise-over-green-hills.jpg?s=612x612&w=0&k=20&c=6g3VwxwIqgU0RGZr0t1fRxdYxbzgYEA3hQmvQiAQwXY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cloud Sky Background (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2021/07/cartoon-cloud-sky-background-1.jpg' alt='Cartoon Cloud Sky Background (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4104">
+                                <meta itemprop="height" content="2917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2021/07/cartoon-cloud-sky-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/789/809/small/landscape-cartoon-scene-with-green-hills-and-white-cloud-in-summer-blue-sky-background-vector.jpg' alt='Cartoon Sky Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/789/809/small/landscape-cartoon-scene-with-green-hills-and-white-cloud-in-summer-blue-sky-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/68/67/77/360_F_168677789_F4ZCV7KeLsyEEhjQ1pkM4yytp1i4AjHF.jpg' alt='Cartoon Sky Images – Browse 2,084,192 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/68/67/77/360_F_168677789_F4ZCV7KeLsyEEhjQ1pkM4yytp1i4AjHF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Dragon Ball Aesthetic Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a captivating collection of Dragon Ball aesthetic wallpapers! Perfect for fans, these vibrant designs showcase beloved characters and moments, allowing you to personalize your devices while celebrating the iconic series. Download now to add a touch of Dragon Ball magic to your screens!">
+                    <meta name="keywords" content="dragon ball aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-ball-aesthetic-wallpaper">
+                            <span itemprop="name">dragon ball aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Dragon Ball Aesthetic Wallpapers for Your Devices</h1>
+                <p>Discover stunning Dragon Ball aesthetic wallpapers that bring your favorite characters to life! Featuring vibrant colors and dynamic designs, these wallpapers capture the essence of the beloved series. Transform your device with artistic interpretations of Goku, Vegeta, and more, perfect for any fan seeking style and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime & Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/28/dc/11/28dc119cda886feb65a0ceb3e10d3b44.jpg' alt='Anime & Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/28/dc/11/28dc119cda886feb65a0ceb3e10d3b44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210 Dragon ball ideas | dragon ball, dragon ball wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ac/07/11/ac0711325c61658a79df25ff80e97b13.jpg' alt='210 Dragon ball ideas | dragon ball, dragon ball wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ac/07/11/ac0711325c61658a79df25ff80e97b13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dbz aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/795/339/HD-wallpaper-dbz-phone-aesthetic-dragon-ball-z.jpg' alt='HD dbz aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/795/339/HD-wallpaper-dbz-phone-aesthetic-dragon-ball-z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball aesthetic wallpaper by PistiMcBacon on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0659e59-3535-4d3c-b696-678413705ca0/dfzn1wj-c1ea165a-0209-489c-a46a-85c4fc2a7904.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjU5ZTU5LTM1MzUtNGQzYy1iNjk2LTY3ODQxMzcwNWNhMFwvZGZ6bjF3ai1jMWVhMTY1YS0wMjA5LTQ4OWMtYTQ2YS04NWM0ZmMyYTc5MDQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L0IA5DPTX57rrroQrQC3LPfigcw_05IC1XPZAi0QqAI' alt='Dragon ball aesthetic wallpaper by PistiMcBacon on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0659e59-3535-4d3c-b696-678413705ca0/dfzn1wj-c1ea165a-0209-489c-a46a-85c4fc2a7904.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjU5ZTU5LTM1MzUtNGQzYy1iNjk2LTY3ODQxMzcwNWNhMFwvZGZ6bjF3ai1jMWVhMTY1YS0wMjA5LTQ4OWMtYTQ2YS04NWM0ZmMyYTc5MDQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L0IA5DPTX57rrroQrQC3LPfigcw_05IC1XPZAi0QqAI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Ohseung Ahn on 드래곤볼 | Dragon ball wallpapers, Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/fb/05/48fb05821437bc8094624f66cd20cecd.jpg' alt='Pin by Ohseung Ahn on 드래곤볼 | Dragon ball wallpapers, Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/fb/05/48fb05821437bc8094624f66cd20cecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegetto Base [Dragon Ball Z] - Aesthetic Wallpaper by Shakenss on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e29063db-e5c6-4ca3-85c5-a1a458eaf67c/ddoywus-6ad1dac0-f165-4467-a9b5-51c22057adc4.png/v1/fill/w_670,h_1192,q_70,strp/vegetto_base__dragon_ball_z____aesthetic_wallpaper_by_shakenss_ddoywus-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2UyOTA2M2RiLWU1YzYtNGNhMy04NWM1LWExYTQ1OGVhZjY3Y1wvZGRveXd1cy02YWQxZGFjMC1mMTY1LTQ0NjctYTliNS01MWMyMjA1N2FkYzQucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.A3HkJ6MMh4dbk3oOU6h8TGQaFSLJV1QTv8oSEliQ670' alt='Vegetto Base [Dragon Ball Z] - Aesthetic Wallpaper by Shakenss on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e29063db-e5c6-4ca3-85c5-a1a458eaf67c/ddoywus-6ad1dac0-f165-4467-a9b5-51c22057adc4.png/v1/fill/w_670,h_1192,q_70,strp/vegetto_base__dragon_ball_z____aesthetic_wallpaper_by_shakenss_ddoywus-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2UyOTA2M2RiLWU1YzYtNGNhMy04NWM1LWExYTQ1OGVhZjY3Y1wvZGRveXd1cy02YWQxZGFjMC1mMTY1LTQ0NjctYTliNS01MWMyMjA1N2FkYzQucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.A3HkJ6MMh4dbk3oOU6h8TGQaFSLJV1QTv8oSEliQ670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Ball Z Goku Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-aesthetic-cu63c94tqgwtvon4.jpg' alt='Download Dragon Ball Z Goku Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="951">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-aesthetic-cu63c94tqgwtvon4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="drop your favorite dbz wallpaper. : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-1fj11njmxpbd1.jpeg?width=2160&format=pjpg&auto=webp&s=86075e660d827158585798f4f0bc416efceb7ca0' alt='drop your favorite dbz wallpaper. : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-1fj11njmxpbd1.jpeg?width=2160&format=pjpg&auto=webp&s=86075e660d827158585798f4f0bc416efceb7ca0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nostalgic Dragon Ball Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7318041088445517062&location=0&aid=1988' alt='Nostalgic Dragon Ball Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7318041088445517062&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball wallpaper     ️‼️">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_03F4Polle/1/image.jpg' alt='Dragon Ball wallpaper     ️‼️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_03F4Polle/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

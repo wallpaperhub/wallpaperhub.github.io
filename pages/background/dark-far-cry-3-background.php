@@ -1,0 +1,129 @@
+<title>Explore the Dark Themes of Far Cry 3</title>
+                    <meta name="description" content="Dive into the chilling world of Far Cry 3, where lush landscapes hide dark themes of madness and survival. Follow Jason Brody’s harrowing journey through a dangerous paradise filled with pirates and moral dilemmas. Experience the thrilling blend of beauty and brutality in this iconic gaming masterpiece.">
+                    <meta name="keywords" content="dark far cry 3 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-far-cry-3-background">
+                            <span itemprop="name">dark far cry 3 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Dark Themes of Far Cry 3</h1>
+                <p>Far Cry 3's dark background is rooted in themes of madness, survival, and the perilous beauty of a tropical paradise. The game's protagonist, Jason Brody, confronts brutal pirates and a merciless island while grappling with his own morality. This lush yet sinister setting amplifies the psychological horror, embodying the struggle between civilization and savagery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 3 Text Black by StefanS02">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/339/339890.jpg' alt='Far Cry 3 Text Black by StefanS02'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/339/339890.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Far Cry 3 Island In The Dark Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/far-cry-3-island-m4zj28um44ya3toe.jpg' alt='Download Far Cry 3 Island In The Dark Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/far-cry-3-island-m4zj28um44ya3toe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 3 Logo On Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/far-cry-3-logo-on-black-noiwlatffroznrje.jpg' alt='Far Cry 3 Logo On Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/far-cry-3-logo-on-black-noiwlatffroznrje.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 3 HD Wallpaper: Island of Secrets">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/371/371376.jpg' alt='Far Cry 3 HD Wallpaper: Island of Secrets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/371/371376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Far Cry 3 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/284/284369.jpg' alt='Download Video Game Far Cry 3 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/284/284369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Farcry 3 wallpaper, Far Cry 3, Hoyt Volker, black ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/443/1017/275/far-cry-3-far-cry-hoyt-volker-black-background-wallpaper-preview.jpg' alt='HD wallpaper: Farcry 3 wallpaper, Far Cry 3, Hoyt Volker, black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/443/1017/275/far-cry-3-far-cry-hoyt-volker-black-background-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Far Cry 3 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1440p-far-cry-3-background-s7lcreboynx78l39.jpg' alt='200+] Far Cry 3 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1440p-far-cry-3-background-s7lcreboynx78l39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 3 Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/5/4/1325-1920x1200-desktop-hd-far-cry-3-background.jpg' alt='Far Cry 3 Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/5/4/1325-1920x1200-desktop-hd-far-cry-3-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Far Cry 3 Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/4/c/94983-1242x2208-samsung-hd-far-cry-3-background-photo.jpg' alt='Far Cry 3 Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/4/c/94983-1242x2208-samsung-hd-far-cry-3-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Far Cry 3 Wallpaper by MrJewsbury on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/232bc4d2-8f7f-4d49-95c2-45430bec409a/d5ppmq5-6a073fa5-69e7-49a8-bd14-c07cf7bc4a1a.jpg/v1/fill/w_683,h_384,q_75,strp/minimalist_far_cry_3_wallpaper_by_mrjewsbury_d5ppmq5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg0IiwicGF0aCI6IlwvZlwvMjMyYmM0ZDItOGY3Zi00ZDQ5LTk1YzItNDU0MzBiZWM0MDlhXC9kNXBwbXE1LTZhMDczZmE1LTY5ZTctNDlhOC1iZDE0LWMwN2NmN2JjNGExYS5qcGciLCJ3aWR0aCI6Ijw9NjgzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wfsmutEVzu-PsE00GqSGf2JEPqr3w781t0a7L6j979A' alt='Minimalist Far Cry 3 Wallpaper by MrJewsbury on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/232bc4d2-8f7f-4d49-95c2-45430bec409a/d5ppmq5-6a073fa5-69e7-49a8-bd14-c07cf7bc4a1a.jpg/v1/fill/w_683,h_384,q_75,strp/minimalist_far_cry_3_wallpaper_by_mrjewsbury_d5ppmq5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg0IiwicGF0aCI6IlwvZlwvMjMyYmM0ZDItOGY3Zi00ZDQ5LTk1YzItNDU0MzBiZWM0MDlhXC9kNXBwbXE1LTZhMDczZmE1LTY5ZTctNDlhOC1iZDE0LWMwN2NmN2JjNGExYS5qcGciLCJ3aWR0aCI6Ijw9NjgzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wfsmutEVzu-PsE00GqSGf2JEPqr3w781t0a7L6j979A' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Large Floral Pattern Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of large floral pattern wallpaper! Ideal for adding style and character to your home, these stunning designs are perfect for any room. Explore vibrant options that enhance your decor and create a welcoming atmosphere. Elevate your space effortlessly!">
+                    <meta name="keywords" content="large floral pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/large-floral-pattern-wallpaper">
+                            <span itemprop="name">large floral pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Large Floral Pattern Wallpaper</h1>
+                <p>Large floral pattern wallpaper can transform any space into a vibrant oasis of color and style. Perfect for living rooms, bedrooms, or accent walls, these bold designs add a touch of nature and elegance. Whether you prefer vintage roses or modern, abstract florals, large patterns make a statement and create an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scarlett Wallpaper | Fall Garden Drama – Anewall">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/large_floral_print_wallpaper.jpg?v=1579811531' alt='Scarlett Wallpaper | Fall Garden Drama – Anewall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/large_floral_print_wallpaper.jpg?v=1579811531' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Wallpaper Roll Paper Seamless floral pattern with a large  scale design of a vine with Removable Peel and Stick Wallpaper Decorative  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zCOK6FqRL.jpg' alt='Self Adhesive Wallpaper Roll Paper Seamless floral pattern with a large  scale design of a vine with Removable Peel and Stick Wallpaper Decorative  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zCOK6FqRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Blooming Floral Wallpaper Mural | Wallflorashop.com">
+                                <img itemprop="contentUrl url" src='http://wallflorashop.com/cdn/shop/products/il_794xN.3427595348_hfg8.jpg?v=1707647219' alt='Large Blooming Floral Wallpaper Mural | Wallflorashop.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallflora" />
+                                </span>
+                                <a href='http://wallflorashop.com/cdn/shop/products/il_794xN.3427595348_hfg8.jpg?v=1707647219' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' alt='Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Floral, Large Floral Wallpaper, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/8c8271/1961429382/il_570xN.1961429382_jtl5.jpg' alt='Peel and Stick Wallpaper Floral, Large Floral Wallpaper, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/8c8271/1961429382/il_570xN.1961429382_jtl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mia (White) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/2_bde943ad-d058-4bf3-97b4-e148998b8289.jpg?v=1703172915&width=2048' alt='Mia (White) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/2_bde943ad-d058-4bf3-97b4-e148998b8289.jpg?v=1703172915&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' alt='Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Scale Florals • Beautiful Designer Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/04/KH164-B-WaratahMedley-Bondi-1.jpg' alt='Large Scale Florals • Beautiful Designer Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/04/KH164-B-WaratahMedley-Bondi-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Floral Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' alt='Big Floral Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Large Dark Floral Wallpaper | Peel And Stick Wallpaper  | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 459">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3487522058_pu6a.jpg' alt='Removable Wallpaper Large Dark Floral Wallpaper | Peel And Stick Wallpaper  | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 459'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3487522058_pu6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

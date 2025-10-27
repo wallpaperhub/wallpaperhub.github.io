@@ -1,0 +1,129 @@
+<title>Charming Christmas Gnome Wallpaper for Your Holiday Decor</title>
+                    <meta name="description" content="Discover enchanting Christmas gnome wallpapers to elevate your holiday decor! Perfect for creating a festive atmosphere, these delightful designs will add warmth and joy to any room. Transform your space this season with our unique and charming gnome-themed options!">
+                    <meta name="keywords" content="christmas wallpaper gnome">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-gnome">
+                            <span itemprop="name">christmas wallpaper gnome</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Christmas Gnome Wallpaper for Your Holiday Decor</h1>
+                <p>Bring the festive spirit to your home with charming Christmas gnome wallpapers! These delightful designs feature whimsical gnomes amid snowflakes and holiday cheer, perfect for creating a cozy ambiance. Whether you're decorating your living room or bedroom, these wallpapers add a touch of magic and joy to your holiday celebrations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40,000+ Free Christmas Gnome & Gnome Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/11/01/08/48/gnome-7561663_640.jpg' alt='40,000+ Free Christmas Gnome & Gnome Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/11/01/08/48/gnome-7561663_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Gnome Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-gnome-8hy3jrnbx89a5yza.jpg' alt='100+] Christmas Gnome Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-gnome-8hy3jrnbx89a5yza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Gnome Images – Browse 103,391 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/11/85/56/360_F_311855631_vnhMBNZo0RMPz5KIqaTB6oYf1iat4sEp.jpg' alt='Christmas Gnome Images – Browse 103,391 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/11/85/56/360_F_311855631_vnhMBNZo0RMPz5KIqaTB6oYf1iat4sEp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Merry Christmas Plaid Gnome Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-merry-christmas-plaid-gnome-6cb8tp4j2plf5l13.jpg' alt='Cute Merry Christmas Plaid Gnome Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-merry-christmas-plaid-gnome-6cb8tp4j2plf5l13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,773 Christmas Gnomes Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/two-christmas-gnomes-red-santa-hat-tree-decoration-new-year-343012762.jpg' alt='3,773 Christmas Gnomes Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/two-christmas-gnomes-red-santa-hat-tree-decoration-new-year-343012762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Christmas Gnome With A Gift And A Cookie Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-gnome-it784mo8ypwhxw3v.jpg' alt='Download A Christmas Gnome With A Gift And A Cookie Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-gnome-it784mo8ypwhxw3v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Christmas gnome with festive decorations on a background  snow-covered fir branches, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/02/34/29/23/1000_F_234292397_OeKZjwe8CwUorgZcfZQKVf5g6rbcUzCj.jpg' alt='Poster, Print Christmas gnome with festive decorations on a background  snow-covered fir branches, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/02/34/29/23/1000_F_234292397_OeKZjwe8CwUorgZcfZQKVf5g6rbcUzCj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Gnome 2411 (5) by BelindaBindi on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70c3b9b4-0a31-4edc-bc93-71c40f60d22d/dim9hsl-ed24f05c-54e5-49a7-aa41-93a5069c9b6e.png/v1/fill/w_1194,h_669,q_70,strp/christmas_wallpaper_gnome_2411__5__by_belindabindi_dim9hsl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwYzNiOWI0LTBhMzEtNGVkYy1iYzkzLTcxYzQwZjYwZDIyZFwvZGltOWhzbC1lZDI0ZjA1Yy01NGU1LTQ5YTctYWE0MS05M2E1MDY5YzliNmUucG5nIiwiaGVpZ2h0IjoiPD03MTgiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83MGMzYjliNC0wYTMxLTRlZGMtYmM5My03MWM0MGY2MGQyMmRcL2JlbGluZGFiaW5kaS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.Z06Uz_dTpTmIgLBimKoy1HgpH34zWRfZhexT1VQwwZo' alt='Christmas Wallpaper Gnome 2411 (5) by BelindaBindi on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1194">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70c3b9b4-0a31-4edc-bc93-71c40f60d22d/dim9hsl-ed24f05c-54e5-49a7-aa41-93a5069c9b6e.png/v1/fill/w_1194,h_669,q_70,strp/christmas_wallpaper_gnome_2411__5__by_belindabindi_dim9hsl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwYzNiOWI0LTBhMzEtNGVkYy1iYzkzLTcxYzQwZjYwZDIyZFwvZGltOWhzbC1lZDI0ZjA1Yy01NGU1LTQ5YTctYWE0MS05M2E1MDY5YzliNmUucG5nIiwiaGVpZ2h0IjoiPD03MTgiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83MGMzYjliNC0wYTMxLTRlZGMtYmM5My03MWM0MGY2MGQyMmRcL2JlbGluZGFiaW5kaS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.Z06Uz_dTpTmIgLBimKoy1HgpH34zWRfZhexT1VQwwZo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,200+ Christmas Gnome Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1417614826/photo/cute-christmas-gnomes-on-wooden-table-in-decorated-room-space-for-text.jpg?s=612x612&w=0&k=20&c=ool0apOiMeUneVpqidKHA1gqJJUFxXDGQ1SpEInLxjs=' alt='15,200+ Christmas Gnome Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1417614826/photo/cute-christmas-gnomes-on-wooden-table-in-decorated-room-space-for-text.jpg?s=612x612&w=0&k=20&c=ool0apOiMeUneVpqidKHA1gqJJUFxXDGQ1SpEInLxjs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68 Best Gnome wallpaper ideas | gnome wallpaper, gnomes, gnome ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/69/68/6d/69686d0058946e3baf128d48584aed83.png' alt='68 Best Gnome wallpaper ideas | gnome wallpaper, gnomes, gnome ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/69/68/6d/69686d0058946e3baf128d48584aed83.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

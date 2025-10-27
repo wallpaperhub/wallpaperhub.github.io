@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Coastal Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="vintage coastal wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-coastal-wallpaper">
+                            <span itemprop="name">vintage coastal wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Coastal Wallpaper</h1>
+                <p>Vintage coastal wallpaper brings a timeless charm to any space, merging nostalgia with beachy vibes. Ideal for seaside homes or chic urban retreats, these patterns often feature shells, nautical themes, and serene palettes reminiscent of ocean breezes. Elevate your décor with elegant designs that evoke relaxation and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Retro Tropical Wall Mural, Vintage Wallpaper, Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/8278ae/3906207092/il_570xN.3906207092_mqvt.jpg' alt='Coastal Retro Tropical Wall Mural, Vintage Wallpaper, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/8278ae/3906207092/il_570xN.3906207092_mqvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GR5953 | Fernwater Cranes Vintage Scenic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-fernwater-cranes-vintage-scenic-wa-brbc-m.jpg' alt='GR5953 | Fernwater Cranes Vintage Scenic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-fernwater-cranes-vintage-scenic-wa-brbc-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Coastal Palm Wallpaper / Palm Wallpaper / Palm Leaves ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20797190/r/il/d388ed/5182207961/il_570xN.5182207961_dfyy.jpg' alt='Subtle Coastal Palm Wallpaper / Palm Wallpaper / Palm Leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20797190/r/il/d388ed/5182207961/il_570xN.5182207961_dfyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage nautical journey , ocean, Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8669912/i/l/OCvoW5K7KSFhI5TIB-WigxRKVAQJLymIFe3LCYyMaDvCWk-u2McU/8669912-vintage-nautical-journey-ocean-sea-waves-coastal-fabric-wallpaper-by-whimsical_brush.jpg' alt='Vintage nautical journey , ocean, Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8669912/i/l/OCvoW5K7KSFhI5TIB-WigxRKVAQJLymIFe3LCYyMaDvCWk-u2McU/8669912-vintage-nautical-journey-ocean-sea-waves-coastal-fabric-wallpaper-by-whimsical_brush.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper: Blue, Beach, and Modern Designs | EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Sea_waves_sketch_pattern._Ocean_surf_wave_hand_drawn_horizontal_10-min.jpg?v=1739231767&width=460' alt='Coastal Wallpaper: Blue, Beach, and Modern Designs | EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Sea_waves_sketch_pattern._Ocean_surf_wave_hand_drawn_horizontal_10-min.jpg?v=1739231767&width=460' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COASTAL WALLPAPER – Mitchell Black">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/collections/WCHH104-BL_1.jpg?v=1685041413' alt='COASTAL WALLPAPER – Mitchell Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/collections/WCHH104-BL_1.jpg?v=1685041413' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Coastal Wallpaper Designs & Patterns - Cailini Coastal">
+                                <img itemprop="contentUrl url" src='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_1080x.jpg?v=1687300337' alt='Wallpaper - Coastal Wallpaper Designs & Patterns - Cailini Coastal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_1080x.jpg?v=1687300337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Octopus Sea Coastal Nautical Vintage Beach  Summer Animal Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/216180415608526473.jpeg?fit=inside|540:540' alt='Peel & Stick Wallpaper 2FT Wide Octopus Sea Coastal Nautical Vintage Beach  Summer Animal Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/216180415608526473.jpeg?fit=inside|540:540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace Coastal Vibes - Coastal Wallpaper Collection – Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/CK9073-coral-and-kelp-arctic-splash-living-roomcopy.jpg?v=1714748187&width=1080' alt='Embrace Coastal Vibes - Coastal Wallpaper Collection – Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/CK9073-coral-and-kelp-arctic-splash-living-roomcopy.jpg?v=1714748187&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Paradise Wallpaper in Coastal Blue from the Beach House ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0153/0623/products/Paradise_Wallpaper_from_the_Beach_House_Collection_by_Seabrook_Wallcoverings.jpg?v=1571712038' alt='Shop Paradise Wallpaper in Coastal Blue from the Beach House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0153/0623/products/Paradise_Wallpaper_from_the_Beach_House_Collection_by_Seabrook_Wallcoverings.jpg?v=1571712038' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

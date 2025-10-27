@@ -1,0 +1,129 @@
+<title>Chill Out with Ice Cubes: The Ultimate Beverage Essential</title>
+                    <meta name="description" content="Discover the versatility of ice cubes! Perfect for chilling drinks, soothing injuries, and more. Learn how these essential kitchen staples enhance your beverages and everyday life. Find out the different shapes and sizes to suit your needs! Keep cool and refreshing with ice cubes.">
+                    <meta name="keywords" content="ice cube">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ice-cube">
+                            <span itemprop="name">ice cube</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chill Out with Ice Cubes: The Ultimate Beverage Essential</h1>
+                <p>Ice cubes are small, frozen pieces of water that add chill to drinks, making them refreshing and enjoyable. Commonly used in beverages like cocktails, sodas, and water, they can also serve as a handy tool for soothing minor injuries. With various shapes and sizes available, ice cubes are a versatile and essential kitchen staple.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube | Biography, Albums, Songs, & Movies | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/14/198514-050-72C159BB/Ice-Cube-2015.jpg' alt='Ice Cube | Biography, Albums, Songs, & Movies | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/14/198514-050-72C159BB/Ice-Cube-2015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/57/Ice_Cube_2024.png' alt='Ice Cube - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/57/Ice_Cube_2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTYyMTE0NDQwMV5BMl5BanBnXkFtZTcwMDA1NjA1Nw@@._V1_.jpg' alt='Ice Cube - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1329">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTYyMTE0NDQwMV5BMl5BanBnXkFtZTcwMDA1NjA1Nw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/827_v9_bb.jpg' alt='Ice Cube | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/827_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube - Age, Movies & NWA">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ice_cube_photo_by_munawar_hosain_getty_images_entertainment_getty_3017236.jpg' alt='Ice Cube - Age, Movies & NWA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ice_cube_photo_by_munawar_hosain_getty_images_entertainment_getty_3017236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube">
+                                <img itemprop="contentUrl url" src='https://icecube.com/wp-content/uploads/2024/12/960x0-500x500.webp' alt='Ice Cube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="icecube.com" />
+                                </span>
+                                <a href='https://icecube.com/wp-content/uploads/2024/12/960x0-500x500.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube | Biography, Albums, Songs, & Movies | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/14/198514-050-72C159BB/Ice-Cube-2015.jpg?w=400&h=300&c=crop' alt='Ice Cube | Biography, Albums, Songs, & Movies | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/14/198514-050-72C159BB/Ice-Cube-2015.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044340043473' alt='Ice Cube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1319">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044340043473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen in time: why does nobody want to hear Ice Cube rap any more ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/67eec8ab7e348a4152ff3f0ea2a3fc1060f38e28/493_44_4711_2827/master/4711.jpg?width=1200&quality=85&auto=format&fit=max&s=a8016b01e08d999485ad842b6d8d9931' alt='Frozen in time: why does nobody want to hear Ice Cube rap any more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/67eec8ab7e348a4152ff3f0ea2a3fc1060f38e28/493_44_4711_2827/master/4711.jpg?width=1200&quality=85&auto=format&fit=max&s=a8016b01e08d999485ad842b6d8d9931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cube | John Peel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/peel/images/4/4e/Ice_Cube.jpg/revision/latest?cb=20230316140024' alt='Ice Cube | John Peel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Peel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/peel/images/4/4e/Ice_Cube.jpg/revision/latest?cb=20230316140024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

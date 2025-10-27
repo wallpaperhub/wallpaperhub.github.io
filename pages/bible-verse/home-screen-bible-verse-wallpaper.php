@@ -1,0 +1,129 @@
+<title>Uplifting Bible Verse Wallpapers for Your Home Screen</title>
+                    <meta name="description" content="Discover a collection of stunning Bible verse wallpapers for your home screen. Infuse your device with daily inspiration and faith, all while enjoying beautiful designs optimized for your mobile experience. Elevate your spirit every time you unlock your phone!">
+                    <meta name="keywords" content="home screen bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/home-screen-bible-verse-wallpaper">
+                            <span itemprop="name">home screen bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uplifting Bible Verse Wallpapers for Your Home Screen</h1>
+                <p>Transform your home screen with inspiring Bible verse wallpapers. Choose from a vast selection of beautiful designs that resonate with your faith and uplift your spirit daily. These wallpapers not only enhance your device's aesthetic but also serve as a constant reminder of hope, love, and divine guidance wherever you go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' alt='Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Bible Verse Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/b3/8c/2db38cabec5b321cfb0d17d22ff7bf84.jpg' alt='Trendy Bible Verse Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/b3/8c/2db38cabec5b321cfb0d17d22ff7bf84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Free Bible Wallpapers - God's fingerprints">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' alt='25 Free Bible Wallpapers - God's fingerprints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="God's fingerprints" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1052/4170/files/bible-verse-wallpapers-iphone.jpg?v=1559976986' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Christian phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/70/d9/1470d9262e5e1a831d2ee2340d295633.jpg' alt='Trendy Christian phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/70/d9/1470d9262e5e1a831d2ee2340d295633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 amazing Bible verse wallpapers for free | Biblejar.com">
+                                <img itemprop="contentUrl url" src='https://biblejar.com/images/blog/wallpapers/bible-verse-wallpapers-03.jpg' alt='15 amazing Bible verse wallpapers for free | Biblejar.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://biblejar.com/images/blog/wallpapers/bible-verse-wallpapers-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scripture Lock Screens: James 1:7">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Nov_Lockscreen_rose.jpg?8621' alt='Scripture Lock Screens: James 1:7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Nov_Lockscreen_rose.jpg?8621' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspiring Free Bible Verse Wallpaper For Your Phone – The ...">
+                                <img itemprop="contentUrl url" src='https://thecreatorsclassroom.com/wp-content/uploads/2024/01/32-577x1025.jpg' alt='Inspiring Free Bible Verse Wallpaper For Your Phone – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Creator's Classroom" />
+                                </span>
+                                <a href='https://thecreatorsclassroom.com/wp-content/uploads/2024/01/32-577x1025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Bible Verse Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/bible-verse-1ageql3mbz0ls35t.jpg' alt='500+] Bible Verse Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/bible-verse-1ageql3mbz0ls35t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

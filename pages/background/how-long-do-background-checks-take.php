@@ -1,0 +1,129 @@
+<title>How Long Do Background Checks Take? A Comprehensive Guide</title>
+                    <meta name="description" content="Discover the typical duration of background checks and factors that influence the time it takes. From standard checks to expedited services, learn what to expect and how to navigate the process efficiently.">
+                    <meta name="keywords" content="how long do background checks take">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-do-background-checks-take">
+                            <span itemprop="name">how long do background checks take</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Do Background Checks Take? A Comprehensive Guide</h1>
+                <p>Background checks can vary widely in duration, typically taking anywhere from a few days to several weeks. Factors influencing the timeframe include the type of check, the thoroughness required, and the responsiveness of the sources being verified. Some expedited services can shorten the process significantly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take? | Peopletrail">
+                                <img itemprop="contentUrl url" src='https://peopletrail.com/wp-content/uploads/2019/08/Background-Turnaround-2.jpg' alt='How Long Does a Background Check Take? | Peopletrail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peopletrail" />
+                                </span>
+                                <a href='https://peopletrail.com/wp-content/uploads/2019/08/Background-Turnaround-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Do Pre-Employment Background Checks Take">
+                                <img itemprop="contentUrl url" src='https://verifiedfirst.com/wp-content/uploads/2023/03/Truv-Blog-Image.png' alt='How Long Do Pre-Employment Background Checks Take'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verified First" />
+                                </span>
+                                <a href='https://verifiedfirst.com/wp-content/uploads/2023/03/Truv-Blog-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Could a Background Check Take for Employment? | Shareable">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/how-long-does-an-employment-background-check-take/_jcr_content/root/pagesection/image_1368147347.coreimg.png/1714507417098/how-long-bg-check-take-02.png' alt='How Long Could a Background Check Take for Employment? | Shareable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/how-long-does-an-employment-background-check-take/_jcr_content/root/pagesection/image_1368147347.coreimg.png/1714507417098/how-long-bg-check-take-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to do with background check red flags? | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' alt='What to do with background check red flags? | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh5.googleusercontent.com/ZEIMmAX2ikT1YBnUZqWsPl2YCtxBZxiUqZmKE88uIjTy8Tv5SJb8VBTMIZ_xjxJ874ElzgkuemU_NmJQM6VKgMCkBjugsfudYdBFmqRh7-rqUuQ2jhO3Kg5Bfbaz7m3YX_LpgbED' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Often Should Background Checks Be Done?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/bg-checks-completed-02-bg-check-length.png' alt='How Often Should Background Checks Be Done?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/bg-checks-completed-02-bg-check-length.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

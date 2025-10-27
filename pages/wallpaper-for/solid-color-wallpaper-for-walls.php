@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Solid Color Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of solid color wallpaper for your walls. With vibrant shades and easy application, transform your interiors effortlessly. Perfect for any room, solid color wallpaper adds elegance and style to your decor. Explore our collection and find the ideal hue for your home today!">
+                    <meta name="keywords" content="solid color wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/solid-color-wallpaper-for-walls">
+                            <span itemprop="name">solid color wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Solid Color Wallpaper</h1>
+                <p>Solid color wallpaper transforms your walls, offering a sleek and stylish look that fits any decor. Whether you prefer bold hues or soft pastels, solid colors provide versatility and depth to your space. Easy to apply and maintain, solid color wallpaper can enhance any room, creating a beautiful backdrop for your furnishings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Solid Color Wallpaper - Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/05/blue_solid_color_wallpaper_peel_and_Stick.jpg' alt='Blue Solid Color Wallpaper - Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/05/blue_solid_color_wallpaper_peel_and_Stick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarla - Plain Solid Color Wallpaper">
+                                <img itemprop="contentUrl url" src='http://peelandpaper.com/cdn/shop/files/SolidColorWallpaperInFarmhouseLivingRoomWithNeutralColoredInterior_BeigeSofaandFireplaceFullOfChoppedWoodcopy.jpg?v=1736948865' alt='Sarla - Plain Solid Color Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2655">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='http://peelandpaper.com/cdn/shop/files/SolidColorWallpaperInFarmhouseLivingRoomWithNeutralColoredInterior_BeigeSofaandFireplaceFullOfChoppedWoodcopy.jpg?v=1736948865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid color wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/solid-color-lilac-removable-wallpaper-in-minimal-style-home-office-683x1024.jpg' alt='Solid color wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/solid-color-lilac-removable-wallpaper-in-minimal-style-home-office-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Solid Color Wallpaper Industrial Cement Effect 5 Color Options (5.3 ㎡)">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/Retro-Solid-Color-Metallic-Plain-Wallpaper-For-Walls-Roll-Cement-Concrete-Industrial-Wall-Paper-Gold-Grey_fc5bb7ec-242d-4d0b-86c0-afa914214589_2048x.jpg?v=1571609153' alt='Retro Solid Color Wallpaper Industrial Cement Effect 5 Color Options (5.3 ㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/Retro-Solid-Color-Metallic-Plain-Wallpaper-For-Walls-Roll-Cement-Concrete-Industrial-Wall-Paper-Gold-Grey_fc5bb7ec-242d-4d0b-86c0-afa914214589_2048x.jpg?v=1571609153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyFun 11 Yards Solid Color Lake Blue Wallpaper, Peel and Stick Contact  Paper, Thickened Textured Waterproof Removable, Colored Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Z2aDpEtUL.jpg' alt='MyFun 11 Yards Solid Color Lake Blue Wallpaper, Peel and Stick Contact  Paper, Thickened Textured Waterproof Removable, Colored Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Z2aDpEtUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Bright Yellow Solid Color, Wallpaper Home ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22296004/r/il/6ba015/2251117479/il_570xN.2251117479_nzu0.jpg' alt='Peel and Stick Wallpaper Bright Yellow Solid Color, Wallpaper Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22296004/r/il/6ba015/2251117479/il_570xN.2251117479_nzu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D426">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5268075405_iy1c.jpg?v=1707009799&width=1946' alt='Almond Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D426'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5268075405_iy1c.jpg?v=1707009799&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Peel and Stick Wallpaper / One Color Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_fullxfull.2111424606_n4jh.jpg' alt='Solid Color Peel and Stick Wallpaper / One Color Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/133827/2111424606/il_fullxfull.2111424606_n4jh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Solid Color Wallpaper for Walls Online in India - Magic Decor">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/10/18114430/Plain-Dark-Green-Colour-Pattern-Wallpaper-for-Walls-M-710x488.jpg' alt='Buy Solid Color Wallpaper for Walls Online in India - Magic Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/10/18114430/Plain-Dark-Green-Colour-Pattern-Wallpaper-for-Walls-M-710x488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyFun 11 Yards Solid Color Light Blue Wallpaper, Peel and Stick Contact  Paper, Thickened Textured Waterproof Removable, Colored Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71V-gt+c4XL.jpg' alt='MyFun 11 Yards Solid Color Light Blue Wallpaper, Peel and Stick Contact  Paper, Thickened Textured Waterproof Removable, Colored Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1590">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71V-gt+c4XL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

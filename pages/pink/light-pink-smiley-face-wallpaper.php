@@ -1,0 +1,129 @@
+<title>Light Pink Smiley Face Wallpaper: Cheerful & Cute Designs</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="light pink smiley face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/light-pink-smiley-face-wallpaper">
+                            <span itemprop="name">light pink smiley face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Pink Smiley Face Wallpaper: Cheerful & Cute Designs</h1>
+                <p>Discover the perfect light pink smiley face wallpaper to brighten up your device! This cheerful design features adorable smiley faces against a soft pink background, creating a warm and inviting atmosphere. Ideal for those who love a touch of whimsy, this wallpaper adds personality and joy to your everyday digital experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Mobile Phone Wallpaper | Crumbl Cookies">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/8a/18/c88a18da72e95d54a23e00525bb71338.jpg' alt='Smiley Mobile Phone Wallpaper | Crumbl Cookies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/8a/18/c88a18da72e95d54a23e00525bb71338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11497725/p/f/l/MpwDwaTSQE3GDIUzMWLKAnycKvGKbjUJtw6QfBZDTu5vcca0cnmdRYy99A/Smiley%20Daisy%20Flowers%20on%20Pink.jpg' alt='Pink Smiley Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11497725/p/f/l/MpwDwaTSQE3GDIUzMWLKAnycKvGKbjUJtw6QfBZDTu5vcca0cnmdRYy99A/Smiley%20Daisy%20Flowers%20on%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smile Face Seamless Pattern White Smiles on Light Pink Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39920968/r/il/e0db1f/5697161344/il_fullxfull.5697161344_47yu.jpg' alt='Smile Face Seamless Pattern White Smiles on Light Pink Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39920968/r/il/e0db1f/5697161344/il_fullxfull.5697161344_47yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c0/f3/ffc0f35efc470a8ac4eebe41917ae595.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c0/f3/ffc0f35efc470a8ac4eebe41917ae595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21612829/r/il/affd36/4441499131/il_570xN.4441499131_g5zb.jpg' alt='Pink Smiley Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21612829/r/il/affd36/4441499131/il_570xN.4441499131_g5zb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/44/12/5444129c4136a7d084e237b2cd9d5ebb.jpg' alt='Pink Smiley Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/44/12/5444129c4136a7d084e237b2cd9d5ebb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/15/9e/2f159ec1c2f654eb30b6cabf2543fb69.jpg' alt='Smiley Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/15/9e/2f159ec1c2f654eb30b6cabf2543fb69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Smile App Cover">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/48/ab/8148ab2bd94a292feba1d3c971bfb30b.jpg' alt='Light Pink Smile App Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/48/ab/8148ab2bd94a292feba1d3c971bfb30b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,300+ Pink Smiley Face Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418757910/vector/checkered-hot-pink-retro-flowers-and-happy-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=rI7bySBVDVus-0CLFDTauNB2m7LocO7TPn7iWplO9iY=' alt='6,300+ Pink Smiley Face Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418757910/vector/checkered-hot-pink-retro-flowers-and-happy-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=rI7bySBVDVus-0CLFDTauNB2m7LocO7TPn7iWplO9iY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-pink-shapes-background-mi3enyej4g31sszj.jpg' alt='100+] Pink Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-pink-shapes-background-mi3enyej4g31sszj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

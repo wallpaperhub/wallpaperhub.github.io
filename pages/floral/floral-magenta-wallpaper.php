@@ -1,0 +1,129 @@
+<title>Vibrant Floral Magenta Wallpaper for Stunning Interiors</title>
+                    <meta name="description" content="Discover the beauty of floral magenta wallpaper to elevate your home decor. Perfect for any room, this striking design offers a bold, fresh look that's sure to impress. Transform your walls with rich colors and intricate patterns that breathe life into your space. Ideal for stylish renovations!">
+                    <meta name="keywords" content="floral magenta wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-magenta-wallpaper">
+                            <span itemprop="name">floral magenta wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Magenta Wallpaper for Stunning Interiors</h1>
+                <p>Floral magenta wallpaper adds a vibrant touch to any room, transforming your space into a lively haven. Its rich, deep pink hue combined with intricate floral patterns can breathe life into dull walls. Perfect for creating a bold statement in living areas or adding a pop of color in bedrooms, it's a stylish choice for refreshing your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Magenta Floral Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/26/6e/7e266ed4cdeea55285152df44fe34fe7.jpg' alt='Free Vector | Magenta Floral Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/26/6e/7e266ed4cdeea55285152df44fe34fe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Bunch of fresh magenta roses floral background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/bunch-fresh-magenta-roses-floral-background_120795-1977.jpg' alt='Premium Photo | Bunch of fresh magenta roses floral background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/bunch-fresh-magenta-roses-floral-background_120795-1977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magenta Floral Pattern Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/63662/magenta-floral-pattern-roll.jpg?w=1400&auto=format&q=40' alt='Magenta Floral Pattern Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/63662/magenta-floral-pattern-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and magenta floral pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/31/f6/4831f68cd89160a0870d83140f3c1014.jpg' alt='Black and magenta floral pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/31/f6/4831f68cd89160a0870d83140f3c1014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Magenta Peony Floral Background Blooming Flowers Decoration ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1131318290/photo/pink-magenta-peony-floral-background-blooming-flowers-decoration.jpg?s=612x612&w=0&k=20&c=RKQD6fi28L-WhwO4GIUorSPri8-LdO0QtwFM6ybCNJM=' alt='Pink Magenta Peony Floral Background Blooming Flowers Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1131318290/photo/pink-magenta-peony-floral-background-blooming-flowers-decoration.jpg?s=612x612&w=0&k=20&c=RKQD6fi28L-WhwO4GIUorSPri8-LdO0QtwFM6ybCNJM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magenta Floral Inspired Wallpaper Background Seamless Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/magenta-floral-inspired-wallpaper-background-260nw-25102132.jpg' alt='Magenta Floral Inspired Wallpaper Background Seamless Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/magenta-floral-inspired-wallpaper-background-260nw-25102132.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free vector magenta floral background | Premium AI-generated vector">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/free-vector-magenta-floral-background_602454-5378.jpg' alt='Free vector magenta floral background | Premium AI-generated vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/free-vector-magenta-floral-background_602454-5378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: flower, pink, blossom, flora, petal, magenta, plant ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/75/60/a57560cc2612a5a75a4075af100fceb1.jpg' alt='HD wallpaper: flower, pink, blossom, flora, petal, magenta, plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/75/60/a57560cc2612a5a75a4075af100fceb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD florals in magenta wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/684/87/HD-wallpaper-delicate-floral-shine-magenta-spring-delicate-dainty-floral-butterfly-flowing-summer-flowers-pink-firefox-persona-theme.jpg' alt='HD florals in magenta wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/684/87/HD-wallpaper-delicate-floral-shine-magenta-spring-delicate-dainty-floral-butterfly-flowing-summer-flowers-pink-firefox-persona-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magenta Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-hot-pink-background_23-2150863340.jpg' alt='Magenta Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-hot-pink-background_23-2150863340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

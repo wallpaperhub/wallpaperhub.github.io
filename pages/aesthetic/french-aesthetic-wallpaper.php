@@ -1,0 +1,129 @@
+<title>French Aesthetic Wallpaper: Elevate Your Décor</title>
+                    <meta name="description" content="Add a touch of elegance to your home with French aesthetic wallpaper. Perfect for creating a romantic and sophisticated ambiance, these designs feature timeless patterns and soft colors. Explore our collection for an effortless transformation that enhances any room's character and charm.">
+                    <meta name="keywords" content="french aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/french-aesthetic-wallpaper">
+                            <span itemprop="name">french aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>French Aesthetic Wallpaper: Elevate Your Décor</h1>
+                <p>Transform your space with French aesthetic wallpaper, which blends elegance and charm seamlessly. These wallpapers feature intricate patterns, soft pastels, and romantic motifs, perfect for creating a cozy yet sophisticated atmosphere. Whether for a bedroom or living area, French wallpaper adds a timeless touch to your décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/29/1c/40291c614d9273ceef4d90930b0d28df.jpg' alt='Paris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/29/1c/40291c614d9273ceef4d90930b0d28df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/83/b0/f583b0c38720d5bb4bba6b00300e220a.jpg' alt='Paris Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/83/b0/f583b0c38720d5bb4bba6b00300e220a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J'aime la France     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/a1/05/a2a10579f823f80ad756806e8c3f2f91.jpg' alt='J'aime la France     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/a1/05/a2a10579f823f80ad756806e8c3f2f91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="France Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5897012.jpg' alt='France Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5897012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 If it's French I love it ideas | paris france, paris, paris travel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/38/e0/dc/38e0dc13e5f1144a73177ad7d4dc6083.jpg' alt='260 If it's French I love it ideas | paris france, paris, paris travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/38/e0/dc/38e0dc13e5f1144a73177ad7d4dc6083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] French Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/french-pictures-1jkq3oc16eahfwuq.jpg' alt='300+] French Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/french-pictures-1jkq3oc16eahfwuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="paris #france #vintage #music #moodboard #collage #aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/6d/2b/066d2b8f26a46c2e1fd350199f791ee6.jpg' alt='paris #france #vintage #music #moodboard #collage #aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/6d/2b/066d2b8f26a46c2e1fd350199f791ee6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="France, Houses, Cities, Rocamadour, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/127/396/HD-wallpaper-eiffel-tower-city-france-paris-rainy-thumbnail.jpg' alt='France, Houses, Cities, Rocamadour, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/127/396/HD-wallpaper-eiffel-tower-city-france-paris-rainy-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris Aesthetic Wallpaper: Capturing the Charm of the City of Love">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7119874488497425670&location=0&aid=1988' alt='Paris Aesthetic Wallpaper: Capturing the Charm of the City of Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7119874488497425670&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic France Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12946906.jpg' alt='Aesthetic France Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12946906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

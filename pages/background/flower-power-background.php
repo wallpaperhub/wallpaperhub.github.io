@@ -1,0 +1,129 @@
+<title>Embrace the Spirit of Flower Power: A Vibrant Background</title>
+                    <meta name="description" content="Explore the colorful essence of flower power, a symbol of peace and love from the 1960s. Discover its rich history and impact on culture, art, and social movements. Join us as we celebrate this timeless symbol of harmony and change!">
+                    <meta name="keywords" content="flower power background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-power-background">
+                            <span itemprop="name">flower power background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Spirit of Flower Power: A Vibrant Background</h1>
+                <p>Flower power, originating from the 1960s counterculture, symbolizes peace, love, and social change. It emerged as a vibrant response to war and societal issues, primarily associated with the hippie movement. Bright colors and floral motifs represent the belief in nature’s healing powers and the desire for a harmonious world, making it timelessly relevant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/groovy-flower-pattern-design_23-2150920588.jpg' alt='Flower Power Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/groovy-flower-pattern-design_23-2150920588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55,000+ Flower Power Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1350971810/vector/vector-background-with-retro-flowers-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=E1MfH_rh_MK_8Pu4FTFvSUwK9Rjws08UQCooLLy77Yk=' alt='55,000+ Flower Power Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1350971810/vector/vector-background-with-retro-flowers-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=E1MfH_rh_MK_8Pu4FTFvSUwK9Rjws08UQCooLLy77Yk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Images – Browse 270,285 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/02/21/12/360_F_502211200_NEIkLPupeDtzLBsxVptMFfWyRzHLlUnS.jpg' alt='Flower Power Images – Browse 270,285 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/02/21/12/360_F_502211200_NEIkLPupeDtzLBsxVptMFfWyRzHLlUnS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/groovy-floral-pattern_23-2148849894.jpg' alt='Flower Power Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/groovy-floral-pattern_23-2148849894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome 70s Flower Power Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/0f/8e/9d0f8e1877863b12da78975a5c3942ee.jpg' alt='Awesome 70s Flower Power Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/0f/8e/9d0f8e1877863b12da78975a5c3942ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro groovy flower power background. Vintage 1970s floral ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/44/63/06/1000_F_544630634_ctcUMOYqePQkQVWjCElc0DuRTn5ppFbs.jpg' alt='Retro groovy flower power background. Vintage 1970s floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/44/63/06/1000_F_544630634_ctcUMOYqePQkQVWjCElc0DuRTn5ppFbs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,127 Flower Power Background Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-seamless-pattern-hand-drawn-260nw-2449748869.jpg' alt='42,127 Flower Power Background Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-seamless-pattern-hand-drawn-260nw-2449748869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,024 Flower Power Background High Res Illustrations - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1165537006/vector/kids-floral-pattern.jpg?s=612x612&w=gi&k=20&c=uHDKD_13siUneMKcrh7Ar6JEUI1SGYwd1iZrDtCqXAE=' alt='1,024 Flower Power Background High Res Illustrations - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1165537006/vector/kids-floral-pattern.jpg?s=612x612&w=gi&k=20&c=uHDKD_13siUneMKcrh7Ar6JEUI1SGYwd1iZrDtCqXAE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seventies retro Flower Power background with hippie flowers ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2NJY6DY/seventies-retro-flower-power-background-with-hippie-flowers-international-womens-day-8th-march-day-mothers-day-colorful-pastel-illustration-in-70s-2NJY6DY.jpg' alt='Seventies retro Flower Power background with hippie flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2NJY6DY/seventies-retro-flower-power-background-with-hippie-flowers-international-womens-day-8th-march-day-mothers-day-colorful-pastel-illustration-in-70s-2NJY6DY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55,000+ Flower Power Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/821472110/vector/vintage-flowers-2.jpg?s=612x612&w=0&k=20&c=EZw_-F_9XkQyYu8UjtNuWgTKkPsQIBDcIHTpUElCrFM=' alt='55,000+ Flower Power Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/821472110/vector/vintage-flowers-2.jpg?s=612x612&w=0&k=20&c=EZw_-F_9XkQyYu8UjtNuWgTKkPsQIBDcIHTpUElCrFM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

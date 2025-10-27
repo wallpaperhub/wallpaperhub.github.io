@@ -1,0 +1,129 @@
+<title>Extras Casting in Atlanta: Join the Film Scene!</title>
+                    <meta name="description" content="Discover opportunities in extras casting in Atlanta! Whether you're a seasoned performer or a beginner, find your place in the thriving film industry. Explore casting calls and showcase your talent in exciting projects that shape the creative landscape of the South. Join us and be part of the action!">
+                    <meta name="keywords" content="extras casting atlanta">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/extras-casting-atlanta">
+                            <span itemprop="name">extras casting atlanta</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Extras Casting in Atlanta: Join the Film Scene!</h1>
+                <p>Atlanta is a vibrant hub for film and television productions, making extras casting an exciting opportunity for those looking to break into the industry. Whether you're experienced or a newcomer, various casting agencies seek individuals for roles in diverse projects. Explore casting calls online and join the bustling community of aspiring actors in Atlanta!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Atlanta Extras Casting">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064540457888' alt='Profile for Atlanta Extras Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064540457888' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extras Casting Atlanta">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10150709196035259' alt='Extras Casting Atlanta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10150709196035259' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Extras Atlanta">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069800844761' alt='Profile for Extras Atlanta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069800844761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ATLANTA EXTRAS CASTING CALL!! No Experience Required. #extras ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2684538936557967268' alt='ATLANTA EXTRAS CASTING CALL!! No Experience Required. #extras ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1034">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2684538936557967268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extras Casting Atlanta Upcoming Tuesday and Wednesday 10/22 and 10 ...">
+                                <img itemprop="contentUrl url" src='https://ozmagazine.com/wp-content/uploads/wix-archive/366666_73a98310f76c40279fc501579f2cb2c4_mv2.png' alt='Extras Casting Atlanta Upcoming Tuesday and Wednesday 10/22 and 10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oz Magazine" />
+                                </span>
+                                <a href='https://ozmagazine.com/wp-content/uploads/wix-archive/366666_73a98310f76c40279fc501579f2cb2c4_mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extras Casting Atlanta - Casting Director | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/callsheet/agentlogos/ECA.png' alt='Extras Casting Atlanta - Casting Director | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="244">
+                                <meta itemprop="height" content="102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/callsheet/agentlogos/ECA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ✨ Casting Background Actors ✨  , Location: Around Atlanta, GA area., To  apply & see upcoming roles go to, Apply.CastingAllTalent.com., If you are  new to Casting All Talent join at, ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3308649042040053665' alt='  ✨ Casting Background Actors ✨  , Location: Around Atlanta, GA area., To  apply & see upcoming roles go to, Apply.CastingAllTalent.com., If you are  new to Casting All Talent join at, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3308649042040053665' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+ Atlanta Extras and Background Casting For TV, Film, and more ...">
+                                <img itemprop="contentUrl url" src='https://d3uscstcbhvk7k.cloudfront.net/static/6d9061ea1f416266c888.jpg' alt='80+ Atlanta Extras and Background Casting For TV, Film, and more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d3uscstcbhvk7k.cloudfront.net/static/6d9061ea1f416266c888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Extras Atlanta">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=645318537603588' alt='Profile for Extras Atlanta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=645318537603588' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casting Call: Casting Extras In Atlanta">
+                                <img itemprop="contentUrl url" src='https://images.radio.com/aiu-media/CastingCallv32updated2-with-Greg-Clarkson-eb24982f-bb42-40f2-b8f4-82e670936a8a.jpg?width=800' alt='Casting Call: Casting Extras In Atlanta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audacy" />
+                                </span>
+                                <a href='https://images.radio.com/aiu-media/CastingCallv32updated2-with-Greg-Clarkson-eb24982f-bb42-40f2-b8f4-82e670936a8a.jpg?width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

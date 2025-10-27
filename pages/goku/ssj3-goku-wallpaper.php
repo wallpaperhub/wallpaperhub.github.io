@@ -1,0 +1,129 @@
+<title>Epic SSJ3 Goku Wallpapers: Power Up Your Screen</title>
+                    <meta name="description" content="Discover high-resolution SSJ3 Goku wallpapers to enhance your devices. Perfect for Dragon Ball fans, these wallpapers showcase Goku's legendary transformation in stunning detail. Download now and give your screens an epic upgrade!">
+                    <meta name="keywords" content="ssj3 goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/ssj3-goku-wallpaper">
+                            <span itemprop="name">ssj3 goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic SSJ3 Goku Wallpapers: Power Up Your Screen</h1>
+                <p>Transform your devices with stunning SSJ3 Goku wallpapers! Experience the power and intensity of Super Saiyan 3 Goku, the iconic Dragon Ball character, in vibrant and high-resolution images. Perfect for fans looking to personalize their screens with epic moments from the series! Download your favorite designs now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan 3 Goku HD Wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mvy04xqoxaj21.png?auto=webp&s=e99eeca2c2914d1c563b75846be7053389b874a2' alt='Super Saiyan 3 Goku HD Wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mvy04xqoxaj21.png?auto=webp&s=e99eeca2c2914d1c563b75846be7053389b874a2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan 3 Goku Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1d/9c/86/1d9c86247c6e07ca99e54cbf2a3d8cff.jpg' alt='Super Saiyan 3 Goku Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1d/9c/86/1d9c86247c6e07ca99e54cbf2a3d8cff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku's Third Super Saiyan Transformation Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ssj3-1080-x-1920-wallpaper-k4qojqqxjpn9a0st.jpg' alt='Download Goku's Third Super Saiyan Transformation Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ssj3-1080-x-1920-wallpaper-k4qojqqxjpn9a0st.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goku Ssj3 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-ssj3-8z0o3qy89fco16kq.jpg' alt='100+] Goku Ssj3 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-ssj3-8z0o3qy89fco16kq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Best Super Saiyan 3 ideas | dragon ball art, anime dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/75/d2/ed/75d2edde8f8ebb3af6c74bd2b10657d6.jpg' alt='55 Best Super Saiyan 3 ideas | dragon ball art, anime dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/75/d2/ed/75d2edde8f8ebb3af6c74bd2b10657d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku ssj3 wallpaper by goodnightbr on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22c1d6f3-f308-4791-ad79-c0dfb3cebbb0/dfgmdkd-c2a1319e-98b6-43e6-90cc-9dc23537df57.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyYzFkNmYzLWYzMDgtNDc5MS1hZDc5LWMwZGZiM2NlYmJiMFwvZGZnbWRrZC1jMmExMzE5ZS05OGI2LTQzZTYtOTBjYy05ZGMyMzUzN2RmNTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wQgJ-pJP7McL2U7bHrSVSyH-wXqxXr-Z2Mw6BKU4w7c' alt='Goku ssj3 wallpaper by goodnightbr on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22c1d6f3-f308-4791-ad79-c0dfb3cebbb0/dfgmdkd-c2a1319e-98b6-43e6-90cc-9dc23537df57.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyYzFkNmYzLWYzMDgtNDc5MS1hZDc5LWMwZGZiM2NlYmJiMFwvZGZnbWRrZC1jMmExMzE5ZS05OGI2LTQzZTYtOTBjYy05ZGMyMzUzN2RmNTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wQgJ-pJP7McL2U7bHrSVSyH-wXqxXr-Z2Mw6BKU4w7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Saiyan 3 Goku Anime Dragon Ball HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/128/1288946.jpg' alt='Download Super Saiyan 3 Goku Anime Dragon Ball HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/128/1288946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ssj3 goku, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/704/282/HD-wallpaper-ssj3-goku.jpg' alt='Ssj3 goku, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/704/282/HD-wallpaper-ssj3-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLUFF] SSJ3 Goku wallpaper : r/DBZDokkanBattle">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Pj-q94EVKwR4hr8foWVRj2N5iDTKNubITzJdU3Bwatc.jpg?auto=webp&s=4c3f054c0d6c50e8c5396df858b86965ae2d49ae' alt='FLUFF] SSJ3 Goku wallpaper : r/DBZDokkanBattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Pj-q94EVKwR4hr8foWVRj2N5iDTKNubITzJdU3Bwatc.jpg?auto=webp&s=4c3f054c0d6c50e8c5396df858b86965ae2d49ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SSJ3 Goku Wallpaper dragonballz">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_q5t1xKaOi/2/image.jpg' alt='SSJ3 Goku Wallpaper dragonballz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_q5t1xKaOi/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

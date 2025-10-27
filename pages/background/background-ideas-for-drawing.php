@@ -1,0 +1,129 @@
+<title>Creative Background Ideas for Drawings</title>
+                    <meta name="description" content="Discover inspiring background ideas for your drawings! From serene landscapes to abstract designs, find the perfect setting that enhances your artwork. Explore vibrant cityscapes, magical forests, and more to bring your creations to life. Perfect for artists of all levels!">
+                    <meta name="keywords" content="background ideas for drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-ideas-for-drawing">
+                            <span itemprop="name">background ideas for drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Background Ideas for Drawings</h1>
+                <p>When choosing a background for your drawing, consider a dreamy forest with fantasy elements, a vibrant city skyline at sunset, or serene mountains reflecting in water. You can also explore abstract designs using bold colors or soft pastels for emotional impact. Let your imagination guide the setting to enrich your main subject!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art techniques - 6 EASY & QUICK BACKGROUND IDEAS for MARKER DRAWINGS">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zQeWSfN2ny8/maxresdefault.jpg' alt='Art techniques - 6 EASY & QUICK BACKGROUND IDEAS for MARKER DRAWINGS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zQeWSfN2ny8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw & Paint Creatively with Easy Ideas | Flower drawing & painting  colored backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/96DMJTKHOfU/maxresdefault.jpg' alt='How to draw & Paint Creatively with Easy Ideas | Flower drawing & painting  colored backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/96DMJTKHOfU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Creative Background Drawing Ideas for Your Next Art Project ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/6d/3c/0e6d3cd03c4248a4e0830c79f008b86a.jpg' alt='25 Creative Background Drawing Ideas for Your Next Art Project ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/6d/3c/0e6d3cd03c4248a4e0830c79f008b86a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract patterns to draw - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c8/24/bb/c824bbfb454ad83b8b070f83a269f6ff.jpg' alt='abstract patterns to draw - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c8/24/bb/c824bbfb454ad83b8b070f83a269f6ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Easy Backgrounds to add to Your Art, Drawings and Sketchbook: A Few Ideas  and Tips">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4InVJmm0qHs/maxresdefault.jpg' alt='5 Easy Backgrounds to add to Your Art, Drawings and Sketchbook: A Few Ideas  and Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4InVJmm0qHs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61,300+ Pencil Drawing Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1127101153/vector/sketch-backgrounds_05.jpg?s=612x612&w=0&k=20&c=_8WhRn6ghZhtsd4buzGZ2zId0SCH6ASito4BvPbLYWs=' alt='61,300+ Pencil Drawing Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1127101153/vector/sketch-backgrounds_05.jpg?s=612x612&w=0&k=20&c=_8WhRn6ghZhtsd4buzGZ2zId0SCH6ASito4BvPbLYWs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Art Challenge: Screen Shot Backgrounds – @wickiria on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/beac3d8ba059cb452361582bcb1d30dd/tumblr_inline_pkggyecfpC1vcfdap_540.jpg' alt='Better Art Challenge: Screen Shot Backgrounds – @wickiria on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/beac3d8ba059cb452361582bcb1d30dd/tumblr_inline_pkggyecfpC1vcfdap_540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just curious — Erin's guide to BACKGROUNDS">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ea84c60e193d3a860c5b7a841e16c388/tumblr_inline_o0eu8n3ZOF1tw6zos_1280.png' alt='Just curious — Erin's guide to BACKGROUNDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="determinately-curious - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ea84c60e193d3a860c5b7a841e16c388/tumblr_inline_o0eu8n3ZOF1tw6zos_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY - Backgrounds ideas for artwork /zentangle">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lVy1CMAkSwY/maxresdefault.jpg' alt='DIY - Backgrounds ideas for artwork /zentangle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lVy1CMAkSwY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Creative Background Drawing Ideas for a Wow-Worthy Artwork">
+                                <img itemprop="contentUrl url" src='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/og-image-background-drawing-ideas.jpg' alt='25 Creative Background Drawing Ideas for a Wow-Worthy Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Prompts" />
+                                </span>
+                                <a href='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/og-image-background-drawing-ideas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Full Bokeh Background Videos for Your Creative Projects</title>
+                    <meta name="description" content="Enhance your videos with breathtaking full bokeh background videos. Perfect for any creative project, these visually captivating clips add depth and elegance, making your content stand out. Explore a variety of styles to find the ideal backdrop for your videos today!">
+                    <meta name="keywords" content="bokeh background video full">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bokeh-background-video-full">
+                            <span itemprop="name">bokeh background video full</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Full Bokeh Background Videos for Your Creative Projects</h1>
+                <p>Discover the beauty of bokeh background video full! Perfect for enhancing your visual content, these videos create a stunning depth of field that draws attention to the subject while adding a dreamy aesthetic. Ideal for vlogs, presentations, or as ambient backdrops, bokeh videos elevate your projects effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Defocused golden bokeh lights background. This elegant motion background  animation with hexagonal lens blur bokeh particles is full HD and a  seamless loop.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/021/031/484/small_2x/defocused-golden-bokeh-lights-background-this-elegant-motion-background-animation-with-hexagonal-lens-blur-bokeh-particles-is-full-hd-and-a-seamless-loop-video.jpg' alt='Defocused golden bokeh lights background. This elegant motion background  animation with hexagonal lens blur bokeh particles is full HD and a  seamless loop.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/021/031/484/small_2x/defocused-golden-bokeh-lights-background-this-elegant-motion-background-animation-with-hexagonal-lens-blur-bokeh-particles-is-full-hd-and-a-seamless-loop-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bokeh Background Video Loop, Purple Orange Red Motion Background | Free  Stock Footage">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/B1WKNL3CgVc/maxresdefault.jpg' alt='Bokeh Background Video Loop, Purple Orange Red Motion Background | Free  Stock Footage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/B1WKNL3CgVc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Bokeh Background Full Hd Raw Stock Footage Video (100 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1101933363/thumb/1.jpg?ip=x480' alt='Nature Bokeh Background Full Hd Raw Stock Footage Video (100 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1101933363/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract bokeh background animation with gently flickering defocused warm  blue and amber light spheres. This elegant motion background is full HD and  a seamless loop.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/034/346/859/small_2x/abstract-bokeh-background-animation-with-gently-flickering-defocused-warm-blue-and-amber-light-spheres-this-elegant-motion-background-is-full-hd-and-a-seamless-loop-free-video.jpg' alt='Abstract bokeh background animation with gently flickering defocused warm  blue and amber light spheres. This elegant motion background is full HD and  a seamless loop.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/034/346/859/small_2x/abstract-bokeh-background-animation-with-gently-flickering-defocused-warm-blue-and-amber-light-spheres-this-elegant-motion-background-is-full-hd-and-a-seamless-loop-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Bokeh - HD Video Background Loop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CNyVnC9qT1Q/maxresdefault.jpg' alt='Golden Bokeh - HD Video Background Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CNyVnC9qT1Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful bokeh spheres background animation with shiny glittering golden  stars. This festive Christmas background is full HD and a seamless loop.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/035/363/460/small_2x/colorful-bokeh-spheres-background-animation-with-shiny-glittering-golden-stars-this-festive-christmas-background-is-full-hd-and-a-seamless-loop-free-video.jpg' alt='Colorful bokeh spheres background animation with shiny glittering golden  stars. This festive Christmas background is full HD and a seamless loop.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/035/363/460/small_2x/colorful-bokeh-spheres-background-animation-with-shiny-glittering-golden-stars-this-festive-christmas-background-is-full-hd-and-a-seamless-loop-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Blur Bokeh Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/16916575/thumb/1.jpg?ip=x480' alt='Beautiful Blur Bokeh Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/16916575/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter, Particles">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2024/02/06/199558-910609536_tiny.jpg' alt='Glitter, Particles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2024/02/06/199558-910609536_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical video - abstract bokeh background animation with gently flickering  defocused warm blue and amber light spheres. This elegant motion background  is full HD and a seamless loop.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/037/494/601/small_2x/vertical-abstract-bokeh-background-animation-with-gently-flickering-defocused-warm-blue-and-amber-light-spheres-this-elegant-motion-background-is-full-hd-and-a-seamless-loop-free-video.jpg' alt='Vertical video - abstract bokeh background animation with gently flickering  defocused warm blue and amber light spheres. This elegant motion background  is full HD and a seamless loop.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/037/494/601/small_2x/vertical-abstract-bokeh-background-animation-with-gently-flickering-defocused-warm-blue-and-amber-light-spheres-this-elegant-motion-background-is-full-hd-and-a-seamless-loop-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Bokeh Background Animation Gently Flickering">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1111293953/thumb/1.jpg?ip=x480' alt='Abstract Bokeh Background Animation Gently Flickering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1111293953/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

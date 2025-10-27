@@ -1,0 +1,129 @@
+<title>Exploring the Dark Charm of Wednesday Addams</title>
+                    <meta name="description" content="Delve into the eerie allure of Wednesday Addams: a beloved character from the "Addams Family" known for her gothic style and quirky personality. Discover her origins, character traits, and cultural impact through the years in an engaging exploration that captures her unique charm and influence. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="wednesday addams background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wednesday-addams-background">
+                            <span itemprop="name">wednesday addams background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Dark Charm of Wednesday Addams</h1>
+                <p>Wednesday Addams, a fictional character from the "Addams Family," originally created by cartoonist Charles Addams, embodies a unique blend of goth charm and dark humor. With her pale skin, black attire, and iconic braid, she stands as a symbol of individuality and subversion against societal norms, captivating audiences in films, TV shows, and more.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Photo Backdrop Birthday Party Decor Photo Studio Kids  Photography Background">
+                                <img itemprop="contentUrl url" src='http://www.dreamybackdrop.com/cdn/shop/products/2023-03-13_4.22.04_1024x.png?v=1678695965' alt='Wednesday Addams Photo Backdrop Birthday Party Decor Photo Studio Kids  Photography Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='http://www.dreamybackdrop.com/cdn/shop/products/2023-03-13_4.22.04_1024x.png?v=1678695965' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Phone Backgrounds For More: 30+ Wednesday Addams ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3036fd559461dd63b6f04526ad3a2594/233e7e55b93b0d49-8a/s1280x1920/a220989e7c17dcb26bc0360b9f56614c2ebc0e9c.jpg' alt='Wednesday Addams Phone Backgrounds For More: 30+ Wednesday Addams ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3036fd559461dd63b6f04526ad3a2594/233e7e55b93b0d49-8a/s1280x1920/a220989e7c17dcb26bc0360b9f56614c2ebc0e9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wednesday Addams TV Show Wednesday HD Wallpaper by Jakub ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/129/1297224.jpg' alt='Download Wednesday Addams TV Show Wednesday HD Wallpaper by Jakub ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/129/1297224.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wednesday Addams Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/wednesday-addams-6uc7xq301f83uu3s.jpg' alt='100+] Wednesday Addams Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/wednesday-addams-6uc7xq301f83uu3s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Minimalism, Figure, Art, Addams, Wednesday Addams, The ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2500x1400/e/81/by-vincenttrinidad-vincenttrinidad-by-vincent-trinidad-vi-12.jpg' alt='Wallpaper Minimalism, Figure, Art, Addams, Wednesday Addams, The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2500x1400/e/81/by-vincenttrinidad-vincenttrinidad-by-vincent-trinidad-vi-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams (Netflix) Animated Wallpaper by Favorisxp on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfk63nj-143d8fbe-67f5-4517-a482-74165e75c3bc.jpg' alt='Wednesday Addams (Netflix) Animated Wallpaper by Favorisxp on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfk63nj-143d8fbe-67f5-4517-a482-74165e75c3bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/a9/95/d6a9956852a7d200483d80d3467892e8.jpg' alt='Wednesday Addams Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/a9/95/d6a9956852a7d200483d80d3467892e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wednesday Addams Backdrop 7x5 Nevermore Academy Backdrops for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lEGChz3mL._AC_UF1000,1000_QL80_.jpg' alt='Wednesday Addams Backdrop 7x5 Nevermore Academy Backdrops for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lEGChz3mL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wednesday Addams TV Show Wednesday HD Wallpaper by Jade ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/129/1296174.jpg' alt='Download Wednesday Addams TV Show Wednesday HD Wallpaper by Jade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/129/1296174.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOCKSCREENS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/70/ce/3370ce59dc10bd9f5ea43333ab2f54a9.jpg' alt='LOCKSCREENS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/70/ce/3370ce59dc10bd9f5ea43333ab2f54a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpapers: Personalize Your Screen</title>
+                    <meta name="description" content="Discover the perfect wallpaper for your iPhone! Browse a vast selection of high-quality images to express your style and keep your screen fresh. Upgrade your device's aesthetic effortlessly and find the ideal backdrop for every mood.">
+                    <meta name="keywords" content="wallpaper for your iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-for-your-iphone">
+                            <span itemprop="name">wallpaper for your iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpapers: Personalize Your Screen</h1>
+                <p>Transform your iPhone's look with stunning wallpapers! From nature scenes to abstract art, you can personalize your device to match your style. Explore a variety of options and choose high-resolution images that enhance your screen. Updating your wallpaper regularly can keep your device feeling fresh and inspiring!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers | 100+ best free background, grey, iphone ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1535392432937-a27c36ec07b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMDY1NDEyfHxlbnwwfHx8fHw%3D' alt='iPhone Wallpapers | 100+ best free background, grey, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1535392432937-a27c36ec07b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMDY1NDEyfHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh, Spring Wallpapers for Your iPhone! - Activate Her Awesome">
+                                <img itemprop="contentUrl url" src='https://activateherawesome.com/wp-content/uploads/2019/04/Yes-You-Can-Wallpaper-via-Krista-Smith-ActivateHerAwesome.com_.png' alt='Fresh, Spring Wallpapers for Your iPhone! - Activate Her Awesome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Activate Her Awesome" />
+                                </span>
+                                <a href='https://activateherawesome.com/wp-content/uploads/2019/04/Yes-You-Can-Wallpaper-via-Krista-Smith-ActivateHerAwesome.com_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/05/large-158-600x1067.jpg' alt='iPhone Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/05/large-158-600x1067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/b1/cd/45b1cd26509fe2d4abd53d6251797977.jpg' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/b1/cd/45b1cd26509fe2d4abd53d6251797977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is your favorite iPhone and ios default wallpaper? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=640&crop=smart&auto=webp&s=f19397c7949d812afa6fd8af2989cef30fccedc6' alt='what is your favorite iPhone and ios default wallpaper? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-your-favorite-iphone-and-ios-default-wallpaper-v0-4s5ngbslqq4c1.jpg?width=640&crop=smart&auto=webp&s=f19397c7949d812afa6fd8af2989cef30fccedc6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/article-new/2023/02/lock-screen-photo-shuffle.jpg' alt='Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4137">
+                                <meta itemprop="height" content="2716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/article-new/2023/02/lock-screen-photo-shuffle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Automatically change your iphone wallpaper - Brett Stanley ...">
+                                <img itemprop="contentUrl url" src='https://brettstanley.com/wp-content/uploads/2021/07/Untitled-1-1000x1000.jpg' alt='Automatically change your iphone wallpaper - Brett Stanley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brett Stanley" />
+                                </span>
+                                <a href='https://brettstanley.com/wp-content/uploads/2021/07/Untitled-1-1000x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers for iphone is the best high definition iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wallpapers-iphone-is-best-high-definition-iphone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-iphone-wallpaper_902338-43385.jpg' alt='Wallpapers for iphone is the best high definition iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wallpapers-iphone-is-best-high-definition-iphone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-iphone-wallpaper_902338-43385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

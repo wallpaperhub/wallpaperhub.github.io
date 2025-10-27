@@ -1,0 +1,129 @@
+<title>Discover Trisha Paytas: YouTube Star, Musician & Influencer</title>
+                    <meta name="description" content="Explore the fascinating world of Trisha Paytas! Follow their journey as a YouTube sensation, musician, and influencer, known for their bold personality and engaging content. Stay updated on their latest projects, trends, and insights that captivate millions worldwide.">
+                    <meta name="keywords" content="trisha paytas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trisha-paytas">
+                            <span itemprop="name">trisha paytas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Trisha Paytas: YouTube Star, Musician & Influencer</h1>
+                <p>Trisha Paytas is a multifaceted internet personality, known for her vibrant YouTube career, music, and unique online presence. With a history of viral videos, they engage millions with their authenticity and candidness. Trisha's life encompasses everything from cooking shows to personal vlogs, resonating with fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w500/5aadzVz0Sux6b4La3DL1GrNhxM2.jpg' alt='Trisha Paytas — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w500/5aadzVz0Sux6b4La3DL1GrNhxM2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas: The Eras of Trish Tour | Portland'5">
+                                <img itemprop="contentUrl url" src='https://www.portland5.com/sites/default/files/styles/event_square_large/public/events/2025/01/16/TrishaPaytas_PORT%2COR_438x400_IMAGE.jpg?itok=E_RBzy7B' alt='Trisha Paytas: The Eras of Trish Tour | Portland'5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Portland'5 Centers for the Arts" />
+                                </span>
+                                <a href='https://www.portland5.com/sites/default/files/styles/event_square_large/public/events/2025/01/16/TrishaPaytas_PORT%2COR_438x400_IMAGE.jpg?itok=E_RBzy7B' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/10/37-Trisha-Paytas-1200x834.jpg' alt='Trisha Paytas Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/10/37-Trisha-Paytas-1200x834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Achona | Why Trisha Paytas' New Video Is So Detrimental To The ...">
+                                <img itemprop="contentUrl url" src='https://achonaonline.com/wp-content/uploads/2019/10/Achona-Story-Trisha-Paytas-e1571336121875.jpg' alt='Achona | Why Trisha Paytas' New Video Is So Detrimental To The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Achona" />
+                                </span>
+                                <a href='https://achonaonline.com/wp-content/uploads/2019/10/Achona-Story-Trisha-Paytas-e1571336121875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas Hacmon (@trishapaytasbackup) • Instagram photos and ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGYLZsuOMIe/0/image.jpg' alt='Trisha Paytas Hacmon (@trishapaytasbackup) • Instagram photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGYLZsuOMIe/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YouTuber Trisha Paytas Criticized for Coming Out As Transgender ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5d9c698fe94e8656af1766b9?width=1200&format=jpeg' alt='YouTuber Trisha Paytas Criticized for Coming Out As Transgender ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5d9c698fe94e8656af1766b9?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas - ACL Live at The Moody Theater">
+                                <img itemprop="contentUrl url" src='https://www.acllive.com/assets/img/Trisha-Paytas-AXS-678x399-c577a81d35.jpg' alt='Trisha Paytas - ACL Live at The Moody Theater'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACL Live" />
+                                </span>
+                                <a href='https://www.acllive.com/assets/img/Trisha-Paytas-AXS-678x399-c577a81d35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trisha Paytas | H3 Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/h3h3/images/b/b0/Trisha_Paytas.png/revision/latest?cb=20230927164407' alt='Trisha Paytas | H3 Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="491">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="H3 Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/h3h3/images/b/b0/Trisha_Paytas.png/revision/latest?cb=20230927164407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Trisha Paytas Spent $12 Million To Become “Mother Of The ...">
+                                <img itemprop="contentUrl url" src='https://media.vogue.co.uk/photos/6650971d143fe0de0ff94c67/2:3/w_2560%2Cc_limit/Snapinsta.app_442562087_302730629549081_3397558646061137042_n_1080.jpg' alt='Why Trisha Paytas Spent $12 Million To Become “Mother Of The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Vogue" />
+                                </span>
+                                <a href='https://media.vogue.co.uk/photos/6650971d143fe0de0ff94c67/2:3/w_2560%2Cc_limit/Snapinsta.app_442562087_302730629549081_3397558646061137042_n_1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Trisha Paytas? the Life and Drama of the Controversial ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5d4c4793c697db0403759043?width=700' alt='Who Is Trisha Paytas? the Life and Drama of the Controversial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5d4c4793c697db0403759043?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

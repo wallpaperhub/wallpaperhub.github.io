@@ -1,0 +1,129 @@
+<title>Stunning Deep Rock Galactic Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an amazing collection of Deep Rock Galactic wallpapers! Perfect for fans seeking vibrant, high-quality designs to enhance their devices. Dive into the cosmic mining adventure with stunning visuals that celebrate your favorite characters. Ideal for mobile and desktop screens!">
+                    <meta name="keywords" content="deep rock galactic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/deep-rock-galactic-wallpaper">
+                            <span itemprop="name">deep rock galactic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Deep Rock Galactic Wallpapers for Every Fan</h1>
+                <p>Transform your device with stunning Deep Rock Galactic wallpapers! Featuring vibrant graphics and your favorite dwarven characters, these wallpapers bring the excitement of cosmic mining to life. Perfect for fans of the game, every wallpaper captures the adventurous spirit and provides a great backdrop for your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467562015-MWVX7EH618KN61QMDLEP/DRG_Wallpaper_CrystalCaves.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467562015-MWVX7EH618KN61QMDLEP/DRG_Wallpaper_CrystalCaves.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467779220-JA9UTDVL8FF9IKFHOOMF/Wallpaper_Team_HD.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467779220-JA9UTDVL8FF9IKFHOOMF/Wallpaper_Team_HD.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1547827451369-JX3S8JTAWQMWHYFYDVNK/Magma.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1547827451369-JX3S8JTAWQMWHYFYDVNK/Magma.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467575016-X4ACF9C4HUAB7PV7L3OX/DRG_Wallpaper_RadioactiveZone.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467575016-X4ACF9C4HUAB7PV7L3OX/DRG_Wallpaper_RadioactiveZone.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467575287-2JMW8W2J3EJFYMP2QZQR/DRG_Wallpaper_GlacialStrata.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467575287-2JMW8W2J3EJFYMP2QZQR/DRG_Wallpaper_GlacialStrata.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467561521-5NX7NRHK3X3ZD5SAHY91/DRG_Wallpaper_DenseBiozone.jpg?format=1000w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467561521-5NX7NRHK3X3ZD5SAHY91/DRG_Wallpaper_DenseBiozone.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Deep Rock Galactic">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1528195945225-J6OMDJ8O062N4VV3VN7G/Fungus_Bug_final.jpg?format=1500w' alt='Wallpapers — Deep Rock Galactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Rock Galactic" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1528195945225-J6OMDJ8O062N4VV3VN7G/Fungus_Bug_final.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Deep Rock Galactic 4k Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/128/1286244.jpg' alt='Download Video Game Deep Rock Galactic 4k Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/128/1286244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helldivers, Warhammer 40k and Deep Rock Galactic wallpaper : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/helldivers-warhammer-40k-and-deep-rock-galactic-wallpaper-v0-lnqgx8tisr8d1.jpeg?auto=webp&s=5d42066fbfed6547ad98e64ad17958699b4a0336' alt='Helldivers, Warhammer 40k and Deep Rock Galactic wallpaper : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/helldivers-warhammer-40k-and-deep-rock-galactic-wallpaper-v0-lnqgx8tisr8d1.jpeg?auto=webp&s=5d42066fbfed6547ad98e64ad17958699b4a0336' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I used an AI to create deep rock galactic : r/DeepRockGalactic">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1njdw9sc6i581.jpg' alt='I used an AI to create deep rock galactic : r/DeepRockGalactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1njdw9sc6i581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

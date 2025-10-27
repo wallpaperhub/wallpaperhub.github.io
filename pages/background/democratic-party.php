@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="democratic party">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/democratic-party">
+                            <span itemprop="name">democratic party</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Divisions plague California Democrats- CalMatters">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/calmatters.org/wp-content/uploads/2021/09/091421_NewsomRecall_AW_02.jpg?fit=1200%2C800&ssl=1' alt='Divisions plague California Democrats- CalMatters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CalMatters" />
+                                </span>
+                                <a href='https://i0.wp.com/calmatters.org/wp-content/uploads/2021/09/091421_NewsomRecall_AW_02.jpg?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democratic Party (United States) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/800px-US_Democratic_Party_Logo.svg.png' alt='Democratic Party (United States) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/800px-US_Democratic_Party_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democratic Party – NewsForKids.net">
+                                <img itemprop="contentUrl url" src='https://newsforkids.net/wp-content/uploads/2018/02/1050px-DemocraticLogo.svg_.png' alt='Democratic Party – NewsForKids.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News for Kids" />
+                                </span>
+                                <a href='https://newsforkids.net/wp-content/uploads/2018/02/1050px-DemocraticLogo.svg_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democratic Party">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/04/democratic-party-gettyimages-582537415.jpg' alt='Democratic Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/04/democratic-party-gettyimages-582537415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Next leader will shape Indiana Democratic Party trajectory for the ...">
+                                <img itemprop="contentUrl url" src='https://indianacapitalchronicle.com/wp-content/uploads/2025/03/Copy-of-Your-paragraph-text-1-1536x864.png' alt='Next leader will shape Indiana Democratic Party trajectory for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana Capital Chronicle" />
+                                </span>
+                                <a href='https://indianacapitalchronicle.com/wp-content/uploads/2025/03/Copy-of-Your-paragraph-text-1-1536x864.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democratic Party Donkey Logo Embroidered Patch Democrat Political Iron-On  Emblem">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71HMyCgGxHL._AC_UF894,1000_QL80_.jpg' alt='Democratic Party Donkey Logo Embroidered Patch Democrat Political Iron-On  Emblem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71HMyCgGxHL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Democratic Party">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c73920c9d41495645130c78/fd1b339c-d442-4698-bcb8-2fa563e1e6ae/SF-Dems_FullNameStacked_CMYK_full-color.jpg' alt='San Francisco Democratic Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2101">
+                                <meta itemprop="height" content="2101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sfdemocrats.org" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c73920c9d41495645130c78/fd1b339c-d442-4698-bcb8-2fa563e1e6ae/SF-Dems_FullNameStacked_CMYK_full-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Democratic Party - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6c/California_Democratic_Party_logo.svg' alt='California Democratic Party - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6c/California_Democratic_Party_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Political Party Preferences Shifted Greatly During 2021">
+                                <img itemprop="contentUrl url" src='https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/vfxfelaoxe6sddy4rvnjoa.jpg' alt='U.S. Political Party Preferences Shifted Greatly During 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallup News" />
+                                </span>
+                                <a href='https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/vfxfelaoxe6sddy4rvnjoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Democratic Party | History, Definition, & Beliefs | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/34/73634-050-B12861D8/pin-Democratic-Party.jpg' alt='Democratic Party | History, Definition, & Beliefs | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/34/73634-050-B12861D8/pin-Democratic-Party.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

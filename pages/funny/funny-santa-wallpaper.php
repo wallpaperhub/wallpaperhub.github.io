@@ -1,0 +1,129 @@
+<title>Funny Santa Wallpapers: Holiday Humor at Hand</title>
+                    <meta name="description" content="Brighten your holiday season with our funny Santa wallpapers! Discover a playful mix of designs that capture Santa in hilarious antics and quirky scenarios, perfect for spreading festive cheer. Download now and celebrate Christmas with a smile!">
+                    <meta name="keywords" content="funny santa wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-santa-wallpaper">
+                            <span itemprop="name">funny santa wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Santa Wallpapers: Holiday Humor at Hand</h1>
+                <p>Looking for a laugh this holiday season? Our collection of funny Santa wallpapers will bring a smile to your face! Featuring Santa in hilarious poses, quirky situations, and whimsical designs, these wallpapers add a humorous touch to your Christmas decor. Get ready to jingle all the way with joy and laughter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="273,900+ Funny Santa Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/491059242/photo/santa-claus-wearing-sunglasses-dancing-outdoors-at-north-pole.jpg?s=612x612&w=0&k=20&c=v5hYQT-ioqUzgpaYpF_Jc3aFeECaMjfl7pWL3Ub-xLA=' alt='273,900+ Funny Santa Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/491059242/photo/santa-claus-wearing-sunglasses-dancing-outdoors-at-north-pole.jpg?s=612x612&w=0&k=20&c=v5hYQT-ioqUzgpaYpF_Jc3aFeECaMjfl7pWL3Ub-xLA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus Holding Champagne Funny Christmas Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/santa-claus-holding-champagne-funny-christmas-djkj4dqkgm1j049u.webp' alt='Santa Claus Holding Champagne Funny Christmas Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/santa-claus-holding-champagne-funny-christmas-djkj4dqkgm1j049u.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-christmas-lg24wzqgmzo4dqpi.jpg' alt='100+] Funny Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-christmas-lg24wzqgmzo4dqpi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free iPhone Wallpapers, Backgrounds and Themes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/1e/37/e21e37c5c998c685fc43e4ec110b95b6.jpg' alt='Download Free iPhone Wallpapers, Backgrounds and Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/1e/37/e21e37c5c998c685fc43e4ec110b95b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="273,900+ Funny Santa Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175686088/photo/closeup-photo-of-funny-funky-wild-vocalist-screaming-in-microphone-wearing-fur-coat-gloves.jpg?s=612x612&w=0&k=20&c=rPAvTuNZ8EhQIW8E963tVRlbCN3scZ2gqJEJccNvYWY=' alt='273,900+ Funny Santa Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175686088/photo/closeup-photo-of-funny-funky-wild-vocalist-screaming-in-microphone-wearing-fur-coat-gloves.jpg?s=612x612&w=0&k=20&c=rPAvTuNZ8EhQIW8E963tVRlbCN3scZ2gqJEJccNvYWY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus Reindeer And Sleigh Funny Christmas Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/santa-claus-riding-bicycle-funny-christmas-4u6myj0yyfq9lz0f.webp' alt='Santa Claus Reindeer And Sleigh Funny Christmas Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/santa-claus-riding-bicycle-funny-christmas-4u6myj0yyfq9lz0f.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ag32-funny-christmas-santa-illust-art - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-ag32-funny-christmas-santa-illust-art-33-iphone6-wallpaper.jpg' alt='ag32-funny-christmas-santa-illust-art - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-ag32-funny-christmas-santa-illust-art-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Santa 4K Live Wallpaper for Holiday Cheer">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7450061325180341526&location=0&aid=1988' alt='Funny Santa 4K Live Wallpaper for Holiday Cheer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7450061325180341526&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Santa Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/front-view-smiling-santa-claus-with-long-white-beard-showing-peace-with-two-fingers-up-funny-senior-stylish-man-sunglasses-posing_7502-5190.jpg' alt='Funny Santa Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/front-view-smiling-santa-claus-with-long-white-beard-showing-peace-with-two-fingers-up-funny-senior-stylish-man-sunglasses-posing_7502-5190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Christmas Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-christmas-iphone-cky354rpn7gpeo6o.jpg' alt='100+] Funny Christmas Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-christmas-iphone-cky354rpn7gpeo6o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

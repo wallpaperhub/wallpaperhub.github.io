@@ -1,0 +1,129 @@
+<title>Mastering iPhone Camera Focus: Foreground vs. Background</title>
+                    <meta name="description" content="Discover how to expertly use your iPhone camera's focus capabilities to differentiate between foreground and background elements. Learn techniques to create striking images that highlight your subject while beautifully blurring the surroundings, enhancing your photography skills with every shot.">
+                    <meta name="keywords" content="iphone camera focus on foreground and background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iphone-camera-focus-on-foreground-and-background">
+                            <span itemprop="name">iphone camera focus on foreground and background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering iPhone Camera Focus: Foreground vs. Background</h1>
+                <p>The iPhone camera utilizes advanced algorithms to adjust focus between foreground and background, allowing users to create stunning photographs with depth. By tapping the screen, you can set the focal point, achieving crisp details in your subject while softly blurring the background. This feature enhances composition and adds a professional touch to your photos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Focus Tips For Perfectly Sharp iPhone Photos">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/24991/1120/focus-tips.jpg' alt='10 Focus Tips For Perfectly Sharp iPhone Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/24991/1120/focus-tips.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Focus Tips For Perfectly Sharp iPhone Photos">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/25031/1120/focus-tips.jpg' alt='10 Focus Tips For Perfectly Sharp iPhone Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/25031/1120/focus-tips.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Focus Tips For Perfectly Sharp iPhone Photos">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/25051/1120/focus-tips.jpg' alt='10 Focus Tips For Perfectly Sharp iPhone Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/25051/1120/focus-tips.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Depth of Field. Easy to do. Try it. | by Thomas Dean ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*PEw8L38h_VILZXN6jpJPjQ.png' alt='iPhone Depth of Field. Easy to do. Try it. | by Thomas Dean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*PEw8L38h_VILZXN6jpJPjQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera in iOS 16: Portrait and Cinematic improvements | iOS 17 ...">
+                                <img itemprop="contentUrl url" src='https://www.tapsmart.com/wp-content/uploads/2022/07/ios16-foregroundblur.jpg' alt='Camera in iOS 16: Portrait and Cinematic improvements | iOS 17 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TapSmart" />
+                                </span>
+                                <a href='https://www.tapsmart.com/wp-content/uploads/2022/07/ios16-foregroundblur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera focus: how to control focus and exposure | iOS 11 Guide ...">
+                                <img itemprop="contentUrl url" src='https://www.tapsmart.com/wp-content/uploads/2016/08/camera-focus-2.png' alt='Camera focus: how to control focus and exposure | iOS 11 Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2018">
+                                <meta itemprop="height" content="2805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TapSmart" />
+                                </span>
+                                <a href='https://www.tapsmart.com/wp-content/uploads/2016/08/camera-focus-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make iPhone Focus on Object and Background (explained)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IbS1T68SHJ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDuV6S9-yTXwrBkEY1XiKy2pEbWVw' alt='How to Make iPhone Focus on Object and Background (explained)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IbS1T68SHJ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDuV6S9-yTXwrBkEY1XiKy2pEbWVw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Advanced iPhone Camera Controls For Jaw-Dropping Photography">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/28309/1120/iPhone-Camera-Controls.jpg' alt='6 Advanced iPhone Camera Controls For Jaw-Dropping Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="2163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/28309/1120/iPhone-Camera-Controls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take portraits with your iPhone camera - Apple Support (MD)">
+                                <img itemprop="contentUrl url" src='https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/en_US/efe737c90463fbebb9188e04480848b4.png' alt='Take portraits with your iPhone camera - Apple Support (MD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support" />
+                                </span>
+                                <a href='https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/en_US/efe737c90463fbebb9188e04480848b4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Your iPhone Portraits with This Must-Know Refocusing ...">
+                                <img itemprop="contentUrl url" src='https://i.giphy.com/4fUQBtWLEtamxIN6Ss.gif' alt='Transform Your iPhone Portraits with This Must-Know Refocusing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="446">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple - Gadget Hacks" />
+                                </span>
+                                <a href='https://i.giphy.com/4fUQBtWLEtamxIN6Ss.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

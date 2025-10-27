@@ -1,0 +1,129 @@
+<title>Stunning iPhone Galaxy Space Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best iPhone galaxy space wallpapers that bring the beauty of the cosmos right to your screen! Perfect for any style, these vibrant and captivating designs will transform your phone’s look. Explore and download your favorites today for a stellar upgrade!">
+                    <meta name="keywords" content="iphone galaxy space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/iphone-galaxy-space-wallpaper">
+                            <span itemprop="name">iphone galaxy space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Galaxy Space Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with stunning iPhone galaxy space wallpapers. Dive into a universe filled with vibrant colors, starry nights, and celestial wonders. Whether you prefer a minimalist design or a more dynamic cosmic scene, these wallpapers will elevate your device’s appearance. Download your favorite today and explore the galaxy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Galaxy Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-galaxy-iphone-9wvnrws1ki1ac6f3.jpg' alt='100+] Blue Galaxy Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-galaxy-iphone-9wvnrws1ki1ac6f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Saturn Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/planet-saturn-galaxy-iphone-cwak3mm03amrxcqs.jpg' alt='Planet Saturn Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/planet-saturn-galaxy-iphone-cwak3mm03amrxcqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Clouds Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-galaxy-clouds-space-iphone-0wm09fycuvgwetdb.jpg' alt='Purple Galaxy Clouds Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-galaxy-clouds-space-iphone-0wm09fycuvgwetdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Galaxy iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/71/98/c971987db585d0bb0090f3184ef7a7c4.jpg' alt='   Galaxy iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/71/98/c971987db585d0bb0090f3184ef7a7c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet R1, Galaxy, Iphone, Nebula, Space, lightning, red, redxarts ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/496/HD-wallpaper-planet-r1-galaxy-iphone-nebula-space-lightning-red-redxarts.jpg' alt='Planet R1, Galaxy, Iphone, Nebula, Space, lightning, red, redxarts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/496/HD-wallpaper-planet-r1-galaxy-iphone-nebula-space-lightning-red-redxarts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper Iphone X Space Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/ce/74/cace745e8ea73bfdf492c5c58e65df5f.jpg' alt='4K Wallpaper Iphone X Space Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/ce/74/cace745e8ea73bfdf492c5c58e65df5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Space Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-iphone-ajvn48g89j7wesx7.jpg' alt='200+] Space Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-iphone-ajvn48g89j7wesx7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/08/purple-pink-nebula-iphone-background-scaled.jpg' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1097">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/08/purple-pink-nebula-iphone-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Essential Guide to BIB International Criminal Background Checks</title>
+                    <meta name="description" content="Discover the importance of BIB international criminal background checks for safety and compliance. Learn how these checks can help employers and organizations make informed decisions by accessing comprehensive international criminal records. Optimize your hiring process with accurate background information today!">
+                    <meta name="keywords" content="bib international criminal background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bib-international-criminal-background-check">
+                            <span itemprop="name">bib international criminal background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to BIB International Criminal Background Checks</h1>
+                <p>A BIB international criminal background check is a crucial tool used to assess the criminal history of individuals across borders. This comprehensive verification process ensures that employers, organizations, and individuals can make informed decisions, fostering safety and trust. It's essential for hiring, volunteering, and various legal circumstances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Modern%20Neutral%20Digital%20Product%20Computer%20Mockup%20Promotional%20Instagram%20Post-1.png' alt='Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1561">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIB.com" />
+                                </span>
+                                <a href='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Modern%20Neutral%20Digital%20Product%20Computer%20Mockup%20Promotional%20Instagram%20Post-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home">
+                                <img itemprop="contentUrl url" src='https://lp.bib.com/hs-fs/hubfs/bchex%20BIB%20logo%20300%20ppi-1.png?width=1108&height=459&name=bchex%20BIB%20logo%20300%20ppi-1.png' alt='Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1108">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bib.com" />
+                                </span>
+                                <a href='https://lp.bib.com/hs-fs/hubfs/bchex%20BIB%20logo%20300%20ppi-1.png?width=1108&height=459&name=bchex%20BIB%20logo%20300%20ppi-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home">
+                                <img itemprop="contentUrl url" src='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Mode-1.png' alt='Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3960">
+                                <meta itemprop="height" content="2760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bib.com" />
+                                </span>
+                                <a href='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Mode-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks 101">
+                                <img itemprop="contentUrl url" src='https://blog.bib.com/hubfs/Background-Check.webp' alt='Background Checks 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIB" />
+                                </span>
+                                <a href='https://blog.bib.com/hubfs/Background-Check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apostille an FBI Background Check">
+                                <img itemprop="contentUrl url" src='https://internationalapostille.com/wp-content/uploads/2018/01/Example-of-FBI-Background-Check.jpg' alt='How to Apostille an FBI Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Apostille" />
+                                </span>
+                                <a href='https://internationalapostille.com/wp-content/uploads/2018/01/Example-of-FBI-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apostille Criminal Background Check – Kimchi Teaching">
+                                <img itemprop="contentUrl url" src='https://kimchiteaching.wordpress.com/wp-content/uploads/2012/02/fingerprintcard.jpg' alt='Apostille Criminal Background Check – Kimchi Teaching'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimchi Teaching - WordPress.com" />
+                                </span>
+                                <a href='https://kimchiteaching.wordpress.com/wp-content/uploads/2012/02/fingerprintcard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check: Identity History Summary | GlobalPassport™">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' alt='FBI Background Check: Identity History Summary | GlobalPassport™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GlobalPassport™" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home">
+                                <img itemprop="contentUrl url" src='https://www.bib.com/hubfs/Copy%20of%20Untitled%20Design-1.png' alt='Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3182">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bib.com" />
+                                </span>
+                                <a href='https://www.bib.com/hubfs/Copy%20of%20Untitled%20Design-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home">
+                                <img itemprop="contentUrl url" src='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Modern%20Neutral%20Digital%20Product%20Computer%20Mockup%20Promotional%20Instagram%20Post%20(2)-1.png' alt='Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1537">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bib.com" />
+                                </span>
+                                <a href='https://www.bib.com/hubfs/Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Copy%20of%20Modern%20Neutral%20Digital%20Product%20Computer%20Mockup%20Promotional%20Instagram%20Post%20(2)-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

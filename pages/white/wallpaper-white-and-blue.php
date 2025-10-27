@@ -1,0 +1,129 @@
+<title>Elegant White and Blue Wallpaper Ideas</title>
+                    <meta name="description" content="Explore stunning white and blue wallpaper designs that enhance your living spaces. Perfect for creating a serene and stylish ambiance, discover a range of patterns and textures that fit seamlessly into any decor. Refresh your home today with chic wallpaper solutions!">
+                    <meta name="keywords" content="wallpaper white and blue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/wallpaper-white-and-blue">
+                            <span itemprop="name">wallpaper white and blue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White and Blue Wallpaper Ideas</h1>
+                <p>White and blue wallpaper creates a calming and elegant atmosphere in any space. Ideal for bedrooms, living rooms, or offices, this color combination offers versatility while promoting relaxation and clarity. Choose patterns or textures that complement your decor for a refreshing look that elevates your interior design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Geometric Wallpaper Modern Stripe Contact Paper Self  Adhesive Removable Waterproof Wall Paper for Cabinets Shiplap  Decoration17.71In X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ErFX+TyHL.jpg' alt='Blue and White Geometric Wallpaper Modern Stripe Contact Paper Self  Adhesive Removable Waterproof Wall Paper for Cabinets Shiplap  Decoration17.71In X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ErFX+TyHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1901-1 Botanical Blue White Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/1901-1BotanicalBlueWhiteWallpaper.jpg?v=1711648215' alt='1901-1 Botanical Blue White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/1901-1BotanicalBlueWhiteWallpaper.jpg?v=1711648215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lillian August Designer Stripe Peel & Stick Wallpaper - Hampton Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/LN20412_27f33259-6867-410f-bceb-e2b198c97535.jpg?v=1615655027' alt='Lillian August Designer Stripe Peel & Stick Wallpaper - Hampton Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/LN20412_27f33259-6867-410f-bceb-e2b198c97535.jpg?v=1615655027' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, Light Blue & White Plums and Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' alt='Blue, Light Blue & White Plums and Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-light-blue-white-plums-and-leaves--vtjz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ashford House Old World Toile Blue/White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6710804414510_20.jpg?v=1698904467' alt='Ashford House Old World Toile Blue/White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6710804414510_20.jpg?v=1698904467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Blue Sharp Geometric Wallpaper R6316">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/90702.jpg?v=1736262369&width=1024' alt='White & Blue Sharp Geometric Wallpaper R6316'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/90702.jpg?v=1736262369&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper  Non-Pasted Wallpaper Roll G56647">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_600.jpg' alt='Unbranded Delicate Floral Trail Blue/White Matte Finish Non-Woven Paper  Non-Pasted Wallpaper Roll G56647'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7056d655-4b10-43b9-8f23-06401ef2193f/svn/wallpaper-rolls-g56647-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Powder Blue – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePowderBlue_Thumbnail_ILW50309_WEB_6f449b6f-83aa-4ee4-982f-5b5a8bbe683a.webp?crop=center&height=1024&v=1737041758&width=1024' alt='Classic Stripe Wallpaper in Powder Blue – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePowderBlue_Thumbnail_ILW50309_WEB_6f449b6f-83aa-4ee4-982f-5b5a8bbe683a.webp?crop=center&height=1024&v=1737041758&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain White And Cool Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/plain-white-and-cool-blue-ccxk8f2af3wpetpi.jpg' alt='Plain White And Cool Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/plain-white-and-cool-blue-ccxk8f2af3wpetpi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Grunge">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716222292/articles/WA0057BU30W_interior2.jpg' alt='Blue & White Grunge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716222292/articles/WA0057BU30W_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

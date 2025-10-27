@@ -1,0 +1,129 @@
+<title>Scooby-Doo Pattern Backgrounds: Fun & Whimsical Designs</title>
+                    <meta name="description" content="Discover Scooby-Doo pattern backgrounds filled with vibrant designs featuring your favorite characters. Perfect for crafts, events, or digital projects, these fun and whimsical backgrounds add a touch of nostalgia and adventure to any creation. Explore our collection today!">
+                    <meta name="keywords" content="scooby doo pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scooby-doo-pattern-background">
+                            <span itemprop="name">scooby doo pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scooby-Doo Pattern Backgrounds: Fun & Whimsical Designs</h1>
+                <p>Scooby-Doo pattern backgrounds feature vibrant colors and whimsical designs that are perfect for fans of the iconic cartoon. These patterns often showcase Scooby-Doo, Shaggy, and the Mystery Inc. crew in fun poses and eerie settings. Ideal for parties, crafts, and digital designs, they bring the spirit of adventure to your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scooby pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/29/35/222935bb748031433171b8059c6fb42f.jpg' alt='scooby pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/29/35/222935bb748031433171b8059c6fb42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystery machine wallpaper (1920×1080) : r/Scoobydoo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pfuz8v1sx0md1.png' alt='Mystery machine wallpaper (1920×1080) : r/Scoobydoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pfuz8v1sx0md1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby Doo Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12281367/p/f/m/zf08vbK2PdYP51jEcEW1HwcocCXd3zQYBgrJ7ri3xkSAxcFB3EXu/Groovy%20Wallpaper.jpg' alt='Scooby Doo Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12281367/p/f/m/zf08vbK2PdYP51jEcEW1HwcocCXd3zQYBgrJ7ri3xkSAxcFB3EXu/Groovy%20Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="scooby doo aesthetic/ seventies hippie & retro wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/ab/39/d2ab39a1976a297e9259bf0c88081be4.jpg' alt='scooby doo aesthetic/ seventies hippie & retro wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/ab/39/d2ab39a1976a297e9259bf0c88081be4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystery Inc Pattern (Teal) | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.416974293.5974/flat,750x1000,075,t.u6.jpg' alt='Mystery Inc Pattern (Teal) | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.416974293.5974/flat,750x1000,075,t.u6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystery pattern | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.579256059.5094/flat,750x,075,f-pad,750x1000,f8f8f8.u8.jpg' alt='Mystery pattern | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.579256059.5094/flat,750x,075,f-pad,750x1000,f8f8f8.u8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystery Machine inspired pattern    lmk what you think ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3019296958967065790' alt='Mystery Machine inspired pattern    lmk what you think ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3019296958967065790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby-Doo School Spirit Collection - SD School Mystery Solving">
+                                <img itemprop="contentUrl url" src='https://www.ezfabricinc.com/cdn/shop/products/23700554M-03Blue.jpg?v=1665702242&width=1200' alt='Scooby-Doo School Spirit Collection - SD School Mystery Solving'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EZ Fabric" />
+                                </span>
+                                <a href='https://www.ezfabricinc.com/cdn/shop/products/23700554M-03Blue.jpg?v=1665702242&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby Doo Cotton Fabric by the Yard - Scooby Doo School Spirit Homework  Aqua - Camelot 23700548-1">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22098416/r/il/f1068c/5052318457/il_fullxfull.5052318457_m5l8.jpg' alt='Scooby Doo Cotton Fabric by the Yard - Scooby Doo School Spirit Homework  Aqua - Camelot 23700548-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22098416/r/il/f1068c/5052318457/il_fullxfull.5052318457_m5l8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scooby Doo Cliparts Free 15 Digital Papers, Instant Download PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20200047/r/il/0ee555/3654164264/il_fullxfull.3654164264_gvem.jpg' alt='Scooby Doo Cliparts Free 15 Digital Papers, Instant Download PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2494">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20200047/r/il/0ee555/3654164264/il_fullxfull.3654164264_gvem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

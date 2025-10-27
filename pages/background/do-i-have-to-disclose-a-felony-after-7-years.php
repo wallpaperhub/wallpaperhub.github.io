@@ -1,0 +1,129 @@
+<title>Do I Need to Disclose a Felony After 7 Years?</title>
+                    <meta name="description" content="Wondering if you need to reveal a felony conviction after 7 years? Explore your legal obligations and factors affecting disclosure based on your state and profession. Get informed on how to navigate this important aspect of your background. Stay compliant and understand your rights!">
+                    <meta name="keywords" content="do i have to disclose a felony after 7 years">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-i-have-to-disclose-a-felony-after-7-years">
+                            <span itemprop="name">do i have to disclose a felony after 7 years</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do I Need to Disclose a Felony After 7 Years?</h1>
+                <p>In many cases, you may not be required to disclose a felony after 7 years, but this varies by state and the circumstances of your conviction. Certain jobs, especially in law enforcement or finance, may require full disclosure regardless of time. Always check specific local laws and employer requirements for clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do I Have To Disclose A Felony After 7 Years? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5w9ppwPPMZs/maxresdefault.jpg' alt='Do I Have To Disclose A Felony After 7 Years? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5w9ppwPPMZs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Felony Go Away After 7 Years? | Eagle Eye Screening">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/86e9a4f7/dms3rep/multi/opt/nervous+interview_1-640w.jpg' alt='Does a Felony Go Away After 7 Years? | Eagle Eye Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eagle Eye Screening Solutions" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/86e9a4f7/dms3rep/multi/opt/nervous+interview_1-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the 7-Year Limit & State Laws Affect Employment Background ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2023/09/seven-year-limit-background-check.jpg' alt='How the 7-Year Limit & State Laws Affect Employment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2023/09/seven-year-limit-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Your Criminal Record Clear After 7 Years? - Law Office of ...">
+                                <img itemprop="contentUrl url" src='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_1174972870-1.jpg' alt='Does Your Criminal Record Clear After 7 Years? - Law Office of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Criminal Defense Lawyer" />
+                                </span>
+                                <a href='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_1174972870-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do I Have To Disclose A Felony After 7 Years? - CountyOffice.org ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rvSE4xkr0P0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggZShiMA8=&rs=AOn4CLDy_O2RIKS1yKiwa8pb07rPif6Y4w' alt='Do I Have To Disclose A Felony After 7 Years? - CountyOffice.org ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rvSE4xkr0P0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggZShiMA8=&rs=AOn4CLDy_O2RIKS1yKiwa8pb07rPif6Y4w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Felony Show Up After 7 Years In California?">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/f7b20a_d9467fc6756748dda8233445e0fa2e9d~mv2.jpg/v1/fill/w_568,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f7b20a_d9467fc6756748dda8233445e0fa2e9d~mv2.jpg' alt='Will A Felony Show Up After 7 Years In California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goss Law" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/f7b20a_d9467fc6756748dda8233445e0fa2e9d~mv2.jpg/v1/fill/w_568,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f7b20a_d9467fc6756748dda8233445e0fa2e9d~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Your Criminal Record Clear After 7 Years? - Law Office of ...">
+                                <img itemprop="contentUrl url" src='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_571652542-1-300x200.jpg' alt='Does Your Criminal Record Clear After 7 Years? - Law Office of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Criminal Defense Lawyer" />
+                                </span>
+                                <a href='https://www.wm-attorneys.com/wp-content/uploads/2023/09/shutterstock_571652542-1-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Your Criminal Record Clear After 7 Years? Unraveling The Myth">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/9b1e71b8/dms3rep/multi/opt/black-prints-fingers-handcuffs-paper-640w.jpg' alt='Does Your Criminal Record Clear After 7 Years? Unraveling The Myth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office of Rolando Cantu" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/9b1e71b8/dms3rep/multi/opt/black-prints-fingers-handcuffs-paper-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Slate 3.0 expands record-sealing eligibility in Pennsylvania ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d8d4c603aab2563d4a30208/1707496380181-DUJJEKPEHAQ0YCBZ1JJN/2024-2-7+Clean+slate+3.0+LASP+flyerP2-Final.jpg' alt='Clean Slate 3.0 expands record-sealing eligibility in Pennsylvania ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Aid of Southeastern PA" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d8d4c603aab2563d4a30208/1707496380181-DUJJEKPEHAQ0YCBZ1JJN/2024-2-7+Clean+slate+3.0+LASP+flyerP2-Final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

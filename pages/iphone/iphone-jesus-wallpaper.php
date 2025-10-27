@@ -1,0 +1,129 @@
+<title>Stunning Jesus Wallpapers for Your iPhone: A Touch of Faith</title>
+                    <meta name="description" content="Discover beautiful Jesus wallpapers for your iPhone that inspire and uplift. Easy to download and customize, these vibrant designs bring a touch of faith to your device. Perfect for anyone looking to enrich their digital space. Elevate your iPhone's aesthetic today!">
+                    <meta name="keywords" content="iphone jesus wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-jesus-wallpaper">
+                            <span itemprop="name">iphone jesus wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jesus Wallpapers for Your iPhone: A Touch of Faith</h1>
+                <p>Transform your iPhone into a divine display with our stunning Jesus wallpapers. Featuring vibrant artwork and inspiring messages, each wallpaper enhances your device's aesthetics while uplifting your spirit. Perfect for daily motivation, these wallpapers are easy to download and customize, allowing you to carry your faith wherever you go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jesus Lds Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' alt='100+] Jesus Lds Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Jesus Wallpapers for iPhone on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/30/a1/7b/30a17b2ac00dab66ea7b9864c6b936c1.jpg' alt='   Jesus Wallpapers for iPhone on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/30/a1/7b/30a17b2ac00dab66ea7b9864c6b936c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Jesus Wallpapers for iPhone on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/f8/9e/4df89e4072ab506790af03aca7b28f7b.jpg' alt='   Jesus Wallpapers for iPhone on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/f8/9e/4df89e4072ab506790af03aca7b28f7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holy Cross Jesus 4k Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/holy-cross-jesus-4k-iphone-vedfw0fbf1rgd0xq.jpg' alt='Holy Cross Jesus 4k Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/holy-cross-jesus-4k-iphone-vedfw0fbf1rgd0xq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Iphone Jesus Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/christian-iphone-jesus-w3lwwmqgyhccs0lk.jpg' alt='Christian Iphone Jesus Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/christian-iphone-jesus-w3lwwmqgyhccs0lk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Connect with Jesus on your Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-iphone-ba6b0yjmxlc64br2.jpg' alt='Download Connect with Jesus on your Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-iphone-ba6b0yjmxlc64br2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus Wallpapers for iPhone 14 | Download Free images | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/16369bd0f42686fa3757f4d439de3a8c/o9dItZNFzWxf12PpTBO3.jpg?q=70&w=500' alt='Jesus Wallpapers for iPhone 14 | Download Free images | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/16369bd0f42686fa3757f4d439de3a8c/o9dItZNFzWxf12PpTBO3.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus iphone wallpaper on Craiyon">
+                                <img itemprop="contentUrl url" src='https://pics.craiyon.com/2023-07-19/d0de66d5b8464269892801c23196ba73.webp' alt='Jesus iphone wallpaper on Craiyon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craiyon" />
+                                </span>
+                                <a href='https://pics.craiyon.com/2023-07-19/d0de66d5b8464269892801c23196ba73.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Heart of Jesus Phone Wallpaper for iPhone Samsung and More ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41997765/r/il/e544cb/5945639880/il_fullxfull.5945639880_3br6.jpg' alt='Sacred Heart of Jesus Phone Wallpaper for iPhone Samsung and More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41997765/r/il/e544cb/5945639880/il_fullxfull.5945639880_3br6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f2/59/fc/f259fc95eb24543ae4afc5e8677f3930.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f2/59/fc/f259fc95eb24543ae4afc5e8677f3930.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

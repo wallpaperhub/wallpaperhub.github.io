@@ -1,0 +1,129 @@
+<title>Discover the Best Royalty Free Metal Music Online</title>
+                    <meta name="description" content="Explore our collection of royalty free metal music. Find energetic tracks for your film, game, or video project without worrying about licensing costs. Perfect for enhancing your content and captivating your audience with powerful soundscapes!">
+                    <meta name="keywords" content="royalty free metal music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royalty-free-metal-music">
+                            <span itemprop="name">royalty free metal music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Best Royalty Free Metal Music Online</h1>
+                <p>Royalty free metal music offers an extensive collection of powerful, high-energy tracks perfect for various projects such as films, games, and YouTube videos. With no licensing fees or copyright concerns, creators can confidently use these tracks to enhance their projects, deliver intense soundscapes, and engage their audience effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Heavy Metal For YouTube Videos and Content Creators (1 Hour)  (Royalty Free Music)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/O_OouCvmJjU/maxresdefault.jpg' alt='Royalty Free Heavy Metal For YouTube Videos and Content Creators (1 Hour)  (Royalty Free Music)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/O_OouCvmJjU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy Metal Royalty-Free Music - Album by MediaTunes | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b27375f4a1fded7fd6f44e2e5467' alt='Heavy Metal Royalty-Free Music - Album by MediaTunes | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b27375f4a1fded7fd6f44e2e5467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free METAL Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jow3wbW2fW4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCmUXctcAMiDcBksLFZJob4o2YpkA' alt='Royalty Free METAL Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jow3wbW2fW4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCmUXctcAMiDcBksLFZJob4o2YpkA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Heavy Metal Instrumental - Game Over">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DpxZ5PHa6xo/maxresdefault.jpg' alt='Royalty Free Heavy Metal Instrumental - Game Over'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DpxZ5PHa6xo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Metal Instrumental [ music no copyright ] - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SjP0RDYz4lk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDtjIIgZ-ImydvQjmcnqx65j43VQ' alt='Royalty Free Metal Instrumental [ music no copyright ] - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SjP0RDYz4lk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDtjIIgZ-ImydvQjmcnqx65j43VQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free Metal | Metal Compilation Vol.1 | Instrumental Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2Pnga5ToNdQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-t7ObrgB_jUIT9lrwa2nSvjA-9g' alt='Royalty-Free Metal | Metal Compilation Vol.1 | Instrumental Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2Pnga5ToNdQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-t7ObrgB_jUIT9lrwa2nSvjA-9g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Music Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/083/335/small_2x/rock-n-roll-music-symbol-vector-background.jpg' alt='Metal Music Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/083/335/small_2x/rock-n-roll-music-symbol-vector-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Metal Music | Ollie Beanz">
+                                <img itemprop="contentUrl url" src='https://www.olliebeanz.com/img/Royalty_Free_Metal_Music_OG.jpg' alt='Royalty Free Metal Music | Ollie Beanz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OllieBeanz" />
+                                </span>
+                                <a href='https://www.olliebeanz.com/img/Royalty_Free_Metal_Music_OG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Metal Music (Royalty Free) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qNlTYQC67q4/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZSRA2mvNNg7z4jdgeQfNcZxGtRg' alt='   Metal Music (Royalty Free) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qNlTYQC67q4/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZSRA2mvNNg7z4jdgeQfNcZxGtRg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Hard Rock Metal | Royalty Free Background Music by ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000559795485-cribvy-t500x500.jpg' alt='Listen to Hard Rock Metal | Royalty Free Background Music by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000559795485-cribvy-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

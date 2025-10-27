@@ -1,0 +1,129 @@
+<title>Stunning Cyber Aesthetic Wallpapers for Your Digital Space</title>
+                    <meta name="description" content="Discover captivating cyber aesthetic wallpapers that blend technology and art. Perfect for personalizing your screens with vibrant colors and unique designs. Elevate your digital experience today!">
+                    <meta name="keywords" content="cyber aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cyber-aesthetic-wallpaper">
+                            <span itemprop="name">cyber aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cyber Aesthetic Wallpapers for Your Digital Space</h1>
+                <p>Cyber aesthetic wallpaper merges technology and artistry, creating stunning visuals that resonate with digital culture. From glitch effects to vibrant neon colors, these wallpapers enhance your device's screen, making it a reflection of your style. Perfect for those who love a futuristic vibe, explore various designs to elevate your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon cyber city wallpaper <33">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/c5/05/a4c505360d549d32dd0431e971a820a5.jpg' alt='neon cyber city wallpaper <33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/c5/05/a4c505360d549d32dd0431e971a820a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber Cat Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27887577/r/il/0a11e5/5010176204/il_570xN.5010176204_8pgf.jpg' alt='Cyber Cat Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27887577/r/il/0a11e5/5010176204/il_570xN.5010176204_8pgf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cyber city wallpaper by NamelessGyal - Download on ZEDGE™ | 925a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/fd/3f/ebfd3f5e731e8db3810e32094892be99.jpg' alt='cyber city wallpaper by NamelessGyal - Download on ZEDGE™ | 925a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/fd/3f/ebfd3f5e731e8db3810e32094892be99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Cyberpunk Aesthetic Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1561344640-2453889cde5b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3liZXJwdW5rJTIwYWVzdGhldGljfGVufDB8fDB8fHww' alt='45,628+ Cyberpunk Aesthetic Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1561344640-2453889cde5b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3liZXJwdW5rJTIwYWVzdGhldGljfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-cybercore-collage-y2-k-aesthetic-jpg-127751nettxwm260.jpg' alt='100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-cybercore-collage-y2-k-aesthetic-jpg-127751nettxwm260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk wallpapers collection (1920x1080) : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/kFNiMZVltZJO8AafC3UUk0DnSeSkRl50lxLLylE2S9I.jpg?width=1080&crop=smart&auto=webp&s=0ba9e5f6aefc80c7c3275f25a6be48f20ad196cf' alt='Cyberpunk wallpapers collection (1920x1080) : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/kFNiMZVltZJO8AafC3UUk0DnSeSkRl50lxLLylE2S9I.jpg?width=1080&crop=smart&auto=webp&s=0ba9e5f6aefc80c7c3275f25a6be48f20ad196cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber street Night iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/2c/85/c52c85223f78774c762e4394f645a41f.jpg' alt='Cyber street Night iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/2c/85/c52c85223f78774c762e4394f645a41f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cyber Y2k Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-hearts-cyber-y2k-aesthetic-nt6mtwh5y0eq7rdc.jpg' alt='100+] Cyber Y2k Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-hearts-cyber-y2k-aesthetic-nt6mtwh5y0eq7rdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber PC [2560x1440] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/RJQWqLdnmRTADCm2sTPSO3r3Jh8AWtHDxTWC_edkUsU.jpg?width=640&crop=smart&auto=webp&s=befb00d27190b2606be05046d59176d77e7577bd' alt='Cyber PC [2560x1440] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/RJQWqLdnmRTADCm2sTPSO3r3Jh8AWtHDxTWC_edkUsU.jpg?width=640&crop=smart&auto=webp&s=befb00d27190b2606be05046d59176d77e7577bd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber Y2K backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/f5/d8/26f5d898b65582c877cd49ad13d47672.jpg' alt='Cyber Y2K backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/f5/d8/26f5d898b65582c877cd49ad13d47672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

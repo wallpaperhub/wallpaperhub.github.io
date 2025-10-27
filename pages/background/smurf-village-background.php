@@ -1,0 +1,129 @@
+<title>Discover the Enchanting World of Smurf Village</title>
+                    <meta name="description" content="Explore the magical Smurf Village, a charming setting filled with vibrant mushroom homes and enchanting landscapes. Join the Smurfs on their adventures and uncover the heartwarming tales of friendship and community that make this whimsical place unforgettable.">
+                    <meta name="keywords" content="smurf village background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smurf-village-background">
+                            <span itemprop="name">smurf village background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchanting World of Smurf Village</h1>
+                <p>Smurf Village is a whimsical setting inspired by the beloved Smurfs franchise. Nestled in a lush, enchanted forest, this vibrant community features charming mushroom-shaped houses where the Smurfs live and play. Their idyllic surroundings are filled with magical elements and a sense of community, showcasing themes of friendship and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Smurfs Smurf Village Painted Master Background (Hanna-Barbera ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B1%2F2%2F3%2F2%2F0%2F12320659%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='The Smurfs Smurf Village Painted Master Background (Hanna-Barbera ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B1%2F2%2F3%2F2%2F0%2F12320659%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visit Smurf Village in Smurfs Reboot Concept Art">
+                                <img itemprop="contentUrl url" src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/3ub0MkOGl5U1usA5zBNadVlu5cL75j.jpg' alt='Visit Smurf Village in Smurfs Reboot Concept Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1027">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MovieWeb" />
+                                </span>
+                                <a href='https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/3ub0MkOGl5U1usA5zBNadVlu5cL75j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smurf Village | Smurfs Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/smurfs/images/0/07/Smurf_Village_Comic_Books.jpg/revision/latest?cb=20120417231142' alt='Smurf Village | Smurfs Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smurfs Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/smurfs/images/0/07/Smurf_Village_Comic_Books.jpg/revision/latest?cb=20120417231142' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Smurfs Smurf Village Production Painted Background | Lot ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B1%2F6%2F0%2F8%2F2%2F16082119%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='The Smurfs Smurf Village Production Painted Background | Lot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B1%2F6%2F0%2F8%2F2%2F16082119%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Assala ‏ on Smurfs | Smurf village, Smurfs, Lost village">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/48/88/6e48884690945abdc2dd8a8ba1713265.jpg' alt='Pin by Assala ‏ on Smurfs | Smurf village, Smurfs, Lost village'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/48/88/6e48884690945abdc2dd8a8ba1713265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Bishop - Smurfs Village Fan Art">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/013/972/352/large/tommy-bishop-smurfvilliage-render-finish.jpg?1541904491' alt='Tommy Bishop - Smurfs Village Fan Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tommy Bishop" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/013/972/352/large/tommy-bishop-smurfvilliage-render-finish.jpg?1541904491' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smurfs' village background by Raul3452 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de30591-30a1-41cb-9120-60fcc82712e9/dh0gppa-89fd7765-3a42-4902-be42-b9590e74fce3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTMwNTkxLTMwYTEtNDFjYi05MTIwLTYwZmNjODI3MTJlOVwvZGgwZ3BwYS04OWZkNzc2NS0zYTQyLTQ5MDItYmU0Mi1iOTU5MGU3NGZjZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6n6tzAHiG2NAiooNyqIXc7MX82HeHiYK6UTWEOtT0zw' alt='Smurfs' village background by Raul3452 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de30591-30a1-41cb-9120-60fcc82712e9/dh0gppa-89fd7765-3a42-4902-be42-b9590e74fce3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTMwNTkxLTMwYTEtNDFjYi05MTIwLTYwZmNjODI3MTJlOVwvZGgwZ3BwYS04OWZkNzc2NS0zYTQyLTQ5MDItYmU0Mi1iOTU5MGU3NGZjZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6n6tzAHiG2NAiooNyqIXc7MX82HeHiYK6UTWEOtT0zw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play The Smurfs - Mission Vileaf | Amazon Luna Cloud Gaming - No ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/B18FrMec4bL._SX666.6666666666666_QL65_FMwebp_.png' alt='Play The Smurfs - Mission Vileaf | Amazon Luna Cloud Gaming - No ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon Luna" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/B18FrMec4bL._SX666.6666666666666_QL65_FMwebp_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The video game The Smurfs - Village Party is now available | Microids">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.microids.com/wp-content/uploads/2024/03/SMURFS_VILLAGE-PARTY_KEYART_RGB__WIDE-scaled.jpg?fit=2560%2C1773&ssl=1' alt='The video game The Smurfs - Village Party is now available | Microids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microids" />
+                                </span>
+                                <a href='https://i0.wp.com/www.microids.com/wp-content/uploads/2024/03/SMURFS_VILLAGE-PARTY_KEYART_RGB__WIDE-scaled.jpg?fit=2560%2C1773&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Smurfs' Village - Finished Projects - Blender Artists Community">
+                                <img itemprop="contentUrl url" src='https://blenderartists.org/uploads/default/original/3X/1/e/1e1e7086c348931d2d1215d9a345c06371c977d9.jpg' alt='The Smurfs' Village - Finished Projects - Blender Artists Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blender Artists" />
+                                </span>
+                                <a href='https://blenderartists.org/uploads/default/original/3X/1/e/1e1e7086c348931d2d1215d9a345c06371c977d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

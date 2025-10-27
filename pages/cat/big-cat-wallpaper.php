@@ -1,0 +1,129 @@
+<title>Stunning Big Cat Wallpaper for Wild-Looking Walls</title>
+                    <meta name="description" content="Discover eye-catching big cat wallpaper to elevate your decor! Ideal for nature enthusiasts, these designs feature majestic felines, adding elegance and vibrancy to any space. Transform your home with wild aesthetics today, making your interiors stand out in style!">
+                    <meta name="keywords" content="big cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/big-cat-wallpaper">
+                            <span itemprop="name">big cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Big Cat Wallpaper for Wild-Looking Walls</h1>
+                <p>Transform your space with stunning big cat wallpaper! From majestic lions to sleek leopards, these vibrant designs bring the wild to your walls. Perfect for animal lovers and those seeking bold decor, big cat wallpaper adds a touch of elegance and adventure to any room. Explore unique patterns and elevate your interiors today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Cats of the World">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/57453/big-cats-of-the-world.jpg?h=699&q=85' alt='Big Cats of the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/57453/big-cats-of-the-world.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Big Cat Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/02/Wallpaper-ATee-Amazon-Big-Cat-Warm-Grey-1.jpg.optimal.jpg' alt='Amazon Big Cat Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/02/Wallpaper-ATee-Amazon-Big-Cat-Warm-Grey-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big cats - Fantasy & Abstract Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2461/2461306-bigthumbnail.jpg' alt='Big cats - Fantasy & Abstract Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2461/2461306-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Cat Photos, Download The BEST Free Big Cat Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/46254/leopard-wildcat-big-cat-botswana-46254.jpeg?cs=srgb&dl=pexels-pixabay-46254.jpg&fm=jpg' alt='Big Cat Photos, Download The BEST Free Big Cat Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/46254/leopard-wildcat-big-cat-botswana-46254.jpeg?cs=srgb&dl=pexels-pixabay-46254.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="big cat collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/7b/06/9c7b06492526fb31c07d9051b2e592fa.jpg' alt='big cat collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/7b/06/9c7b06492526fb31c07d9051b2e592fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Big Cat Pictures [HD] | Download Free Images & Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1623645481161-0d8160281cbf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmlnJTIwY2F0fGVufDB8fDB8fHww' alt='100+ Big Cat Pictures [HD] | Download Free Images & Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1623645481161-0d8160281cbf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmlnJTIwY2F0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Cats Wallpaper Sample - Green">
+                                <img itemprop="contentUrl url" src='https://www.renndesigns.com/cdn/shop/products/BigCatsSample_1024x1024.jpg?v=1600622036' alt='Big Cats Wallpaper Sample - Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="793">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renn Designs" />
+                                </span>
+                                <a href='https://www.renndesigns.com/cdn/shop/products/BigCatsSample_1024x1024.jpg?v=1600622036' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Cat Fantasy, leopard, fantasy, tiger, snow leopard, abstract ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/103/880/HD-wallpaper-big-cat-fantasy-leopard-fantasy-tiger-snow-leopard-abstract-panther-cats-lion.jpg' alt='Big Cat Fantasy, leopard, fantasy, tiger, snow leopard, abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/103/880/HD-wallpaper-big-cat-fantasy-leopard-fantasy-tiger-snow-leopard-abstract-panther-cats-lion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Cat Pictures - Big Cat Wallpapers - National Geographic">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/d5b7bc74-57a0-41d2-88f5-ac9dffd0d098/492.jpg' alt='Big Cat Pictures - Big Cat Wallpapers - National Geographic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/d5b7bc74-57a0-41d2-88f5-ac9dffd0d098/492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper eyes, mustache, look, predator, leopard, Big cat for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2880x1800/a/e2/bolshaya-koshka-leopard-glaza.jpg' alt='Wallpaper eyes, mustache, look, predator, leopard, Big cat for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2880x1800/a/e2/bolshaya-koshka-leopard-glaza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

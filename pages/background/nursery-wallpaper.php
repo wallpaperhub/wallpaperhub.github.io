@@ -1,0 +1,129 @@
+<title>Colorful Nursery Wallpaper: Transform Your Child's Room</title>
+                    <meta name="description" content="Discover stunning nursery wallpaper that transforms your child's space! Shop whimsical patterns and soothing colors to inspire creativity. Easy to apply and remove, our selection offers a perfect backdrop as your child grows. Create a magical environment today!">
+                    <meta name="keywords" content="nursery wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nursery-wallpaper">
+                            <span itemprop="name">nursery wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Nursery Wallpaper: Transform Your Child's Room</h1>
+                <p>Transform your child's space with enchanting nursery wallpaper! From whimsical patterns to soothing colors, nursery wallpaper creates a delightful environment that sparks imagination. Easy to apply and remove, it offers a quick refresh for any room. Choose designs that grow with your child, making it a cherished backdrop for years to come!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland Nursery Wallpaper Peel and Stick, Kids Mural Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/287c4b/2909608649/il_fullxfull.2909608649_eywr.jpg' alt='Woodland Nursery Wallpaper Peel and Stick, Kids Mural Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2034">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/287c4b/2909608649/il_fullxfull.2909608649_eywr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Bear Wallpaper in Neutrals – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-LittleBear-Neutrals_ILW50365_Roomset_WEB.webp?crop=center&height=1024&v=1706006217&width=1024' alt='Little Bear Wallpaper in Neutrals – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-LittleBear-Neutrals_ILW50365_Roomset_WEB.webp?crop=center&height=1024&v=1706006217&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Bunny Nursery Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D125">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5041970485_fykz.jpg?v=1707003463&width=1946' alt='Neutral Bunny Nursery Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D125'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5041970485_fykz.jpg?v=1707003463&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Crane Baby Floral Wallpaper for Nursery, Removable Wallpaper  for Boys and Girls, Pink Floral, 20.87”w x 270" h">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VMHKJkcGL._AC_UF350,350_QL80_.jpg' alt='Amazon.com: Crane Baby Floral Wallpaper for Nursery, Removable Wallpaper  for Boys and Girls, Pink Floral, 20.87”w x 270" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VMHKJkcGL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936a.jpg?v=1705512257&width=1080' alt='Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936a.jpg?v=1705512257&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Pine Tree Forest Mural | Woodland Boys Kids Nursery Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/files/0.jpg?v=1722533388&width=1080' alt='Foggy Pine Tree Forest Mural | Woodland Boys Kids Nursery Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/files/0.jpg?v=1722533388&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland Nursery Wallpaper, Removable Fox & Rabbit Wallpaper, Pre ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30480992/r/il/b88a1b/3887963107/il_fullxfull.3887963107_9wj6.jpg' alt='Woodland Nursery Wallpaper, Removable Fox & Rabbit Wallpaper, Pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30480992/r/il/b88a1b/3887963107/il_fullxfull.3887963107_9wj6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black delicate herringbone nursery wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Minimal-boho-nursery-interior.jpg?v=1595361885' alt='Black delicate herringbone nursery wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Minimal-boho-nursery-interior.jpg?v=1595361885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Nursery Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/neutral-nursery-removable-peel-and-stick-wallpaper-541913.png?v=1707297290' alt='Neutral Nursery Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/neutral-nursery-removable-peel-and-stick-wallpaper-541913.png?v=1707297290' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Deer Woodland Nursery Wallpaper - Sample: 17''W x 11''H / Peel & Stick  Canvas">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/Watercolorcompositionwithforestanimalsandnaturalelements.Deer_fox_bear_greentrees_pine_fir_flowersandmountains.Woodlandcreaturesinthewild.Illustrationfornursery_wallpaper7.jpg?v=1739232015&width=1920' alt='Baby Deer Woodland Nursery Wallpaper - Sample: 17''W x 11''H / Peel & Stick  Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1582">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/Watercolorcompositionwithforestanimalsandnaturalelements.Deer_fox_bear_greentrees_pine_fir_flowersandmountains.Woodlandcreaturesinthewild.Illustrationfornursery_wallpaper7.jpg?v=1739232015&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

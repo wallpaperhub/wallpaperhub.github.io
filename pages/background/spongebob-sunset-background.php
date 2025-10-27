@@ -1,0 +1,129 @@
+<title>Spongebob Sunset Background: Vibrant and Whimsical Decor</title>
+                    <meta name="description" content="Discover the enchanting Spongebob sunset background! Perfect for fans, this vibrant decor adds a touch of nostalgia and whimsy to your space. Brighten your walls with lively colors that capture the essence of Bikini Bottom adventures. Perfect for children's rooms or any playful setting!">
+                    <meta name="keywords" content="spongebob sunset background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-sunset-background">
+                            <span itemprop="name">spongebob sunset background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spongebob Sunset Background: Vibrant and Whimsical Decor</h1>
+                <p>Transform your space with a stunning Spongebob sunset background! Imagine vibrant colors transitioning from warm oranges to deep purples, all set against the whimsical Bikini Bottom. Perfect for fans of all ages, this lively backdrop will bring joy and nostalgia to any room while capturing the essence of childhood adventures with Spongebob and friends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Sunset Background | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3652755946.5763/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Spongebob Sunset Background | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3652755946.5763/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Spongebob Window | Greeting Card">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2949965814.2960/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Sunset Spongebob Window | Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2949965814.2960/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Sunset Background | Canvas Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3652755899.5763/fcp,small,wall_texture,product,750x1000.jpg' alt='Spongebob Sunset Background | Canvas Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3652755899.5763/fcp,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset in Bikini Bottom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/24/d7/d624d76fa0cb5adc500d49cd87216597.jpg' alt='Sunset in Bikini Bottom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/24/d7/d624d76fa0cb5adc500d49cd87216597.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunsets in Bikini Bottom    : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sunsets-in-bikini-bottom-v0-31tgjzqwwkdb1.jpg?width=640&crop=smart&auto=webp&s=4f399b4c21fea12ef40f8a55d17d21982da577af' alt='Sunsets in Bikini Bottom    : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sunsets-in-bikini-bottom-v0-31tgjzqwwkdb1.jpg?width=640&crop=smart&auto=webp&s=4f399b4c21fea12ef40f8a55d17d21982da577af' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Sunset Background" Greeting Card for Sale by sabahnaveed ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3652755899.5763/papergc,500x,w,f8f8f8-pad,1000x1000,f8f8f8.jpg' alt='Spongebob Sunset Background" Greeting Card for Sale by sabahnaveed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3652755899.5763/papergc,500x,w,f8f8f8-pad,1000x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Sunsets are always beautiful : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/11svo9ru6yhb1.jpg' alt='SpongeBob Sunsets are always beautiful : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/11svo9ru6yhb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob and Gary's Sunset Adventure - HD Wallpaper from The ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/133/1335373.jpeg' alt='SpongeBob and Gary's Sunset Adventure - HD Wallpaper from The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/133/1335373.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Quote of the Day on X: "Here it is, the sunset! I always ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ESNEuDaUYAEMHqQ.jpg:large' alt='SpongeBob Quote of the Day on X: "Here it is, the sunset! I always ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ESNEuDaUYAEMHqQ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Sunset Background | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3652755899.5763/farp,large,wall_texture,product,750x1000.jpg' alt='Spongebob Sunset Background | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3652755899.5763/farp,large,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Perfectly Resize Photos for Phone Wallpaper</title>
+                    <meta name="description" content="Discover how to easily resize your photos for a stunning phone wallpaper! Follow simple steps to adjust dimensions, ensuring the perfect fit and vibrant display on any smartphone screen. Elevate your phone’s look with beautiful, customized backgrounds that reflect your style.">
+                    <meta name="keywords" content="resize photo for phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/resize-photo-for-phone-wallpaper">
+                            <span itemprop="name">resize photo for phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfectly Resize Photos for Phone Wallpaper</h1>
+                <p>To resize a photo for your phone wallpaper, start by selecting an image with the right resolution to match your phone's screen. Use editing software or apps like Canva or Photoshop to crop and resize your image to fit. Aim for an aspect ratio of 16:9 or 18:9 for most smartphones, ensuring clarity and vibrancy for the best visual experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Picture Fit Wallpaper on Android">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/34Ct2FQk0Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCW3Epe1_KnZhFUXLCSsuNDpH6grg' alt='How to Make Picture Fit Wallpaper on Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/34Ct2FQk0Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCW3Epe1_KnZhFUXLCSsuNDpH6grg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make any full sized photo fit as your wallpaper | make your  wallpaper fit">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7_YWlYBtgQ8/maxresdefault.jpg' alt='How to make any full sized photo fit as your wallpaper | make your  wallpaper fit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7_YWlYBtgQ8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make any full sized photo fit as your wallpaper (Android version)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MS4980wchN8/maxresdefault.jpg' alt='How to make any full sized photo fit as your wallpaper (Android version)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MS4980wchN8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Resize Photos for Wallpaper on iPhone iOS 18 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6DYv4DFM_Vo/sddefault.jpg' alt='How to Resize Photos for Wallpaper on iPhone iOS 18 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6DYv4DFM_Vo/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Ways to Make a Picture Fit Wallpaper on iPhone">
+                                <img itemprop="contentUrl url" src='https://images.hitpaw.com/topics/photo-tips/instasize-1.jpg' alt='Top Ways to Make a Picture Fit Wallpaper on iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HitPaw" />
+                                </span>
+                                <a href='https://images.hitpaw.com/topics/photo-tips/instasize-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Any Photo Fit as your Wallpaper (2022)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Byy2BHzgiRk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCnnLgSVrw9EHUauD_y_WzROZmtfA' alt='How to Make Any Photo Fit as your Wallpaper (2022)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Byy2BHzgiRk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCnnLgSVrw9EHUauD_y_WzROZmtfA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resize Image to Phone Wallpaper | Stable Diffusion Online">
+                                <img itemprop="contentUrl url" src='https://imgcdn.stablediffusionweb.com/2024/4/23/a0038447-1ca7-4bae-aa43-60721e20a9f3.jpg' alt='Resize Image to Phone Wallpaper | Stable Diffusion Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stable Diffusion Online" />
+                                </span>
+                                <a href='https://imgcdn.stablediffusionweb.com/2024/4/23/a0038447-1ca7-4bae-aa43-60721e20a9f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' alt='Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

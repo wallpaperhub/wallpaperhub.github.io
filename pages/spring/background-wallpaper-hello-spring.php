@@ -1,0 +1,129 @@
+<title>Hello Spring: Refreshing Background Wallpapers</title>
+                    <meta name="description" content="Discover vibrant "Hello Spring" backgrounds to renew your devices. Brighten up your screens with floral designs and lush greenery that capture the essence of spring, perfect for mobile and desktop. Embrace the season with stunning wallpapers that inspire joy and positivity!">
+                    <meta name="keywords" content="background wallpaper hello spring">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/background-wallpaper-hello-spring">
+                            <span itemprop="name">background wallpaper hello spring</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hello Spring: Refreshing Background Wallpapers</h1>
+                <p>Transform your device with a "Hello Spring" background wallpaper! Celebrate the beauty of the season with vibrant colors, blooming flowers, and refreshing greenery that bring warmth and joy to your screen. Perfect for adding a splash of spring cheer to your phone or desktop, these wallpapers set a positive and uplifting tone as nature awakens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/28/55/47/360_F_328554744_m9hGdfhiuJACHfXy99ZAUUftSjkewFwZ.jpg' alt='Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/28/55/47/360_F_328554744_m9hGdfhiuJACHfXy99ZAUUftSjkewFwZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/37/96/82/360_F_137968291_NFO61CHHd0ot3m3EzYAAe3Coknatx3FA.jpg' alt='Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/37/96/82/360_F_137968291_NFO61CHHd0ot3m3EzYAAe3Coknatx3FA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/16/32/74/360_F_316327479_T7zbdmTJJ7vBP4LYy2sCVWPAz3InfVKz.jpg' alt='Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/16/32/74/360_F_316327479_T7zbdmTJJ7vBP4LYy2sCVWPAz3InfVKz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="203,800+ Hello Spring Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/936027504/photo/easter-and-spring-flat-lay-on-a-white-wooden-background.jpg?s=612x612&w=0&k=20&c=c9wWcIrRDy5u1rvZF_AvlXPoaQNAw_PKiSRrWLpVzTg=' alt='203,800+ Hello Spring Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/936027504/photo/easter-and-spring-flat-lay-on-a-white-wooden-background.jpg?s=612x612&w=0&k=20&c=c9wWcIrRDy5u1rvZF_AvlXPoaQNAw_PKiSRrWLpVzTg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Photos, Download The BEST Free Hello Spring Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/6945793/pexels-photo-6945793.jpeg?cs=srgb&dl=pexels-polina-kovaleva-6945793.jpg&fm=jpg' alt='Hello Spring Photos, Download The BEST Free Hello Spring Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4592">
+                                <meta itemprop="height" content="3064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/6945793/pexels-photo-6945793.jpeg?cs=srgb&dl=pexels-polina-kovaleva-6945793.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring! Phone wallpaper/desktop/decal.      | Hello spring ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/40/97/a6409774b208bb08277d89559aeb088b.jpg' alt='Hello Spring! Phone wallpaper/desktop/decal.      | Hello spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/40/97/a6409774b208bb08277d89559aeb088b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Background 4651182 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/651/182/non_2x/hello-spring-background-free-vector.jpg' alt='Hello Spring Background 4651182 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/651/182/non_2x/hello-spring-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/41/85/73/360_F_241857353_YNcGUIbcCn3n0seKTy4N1pXSEkSGIV6h.jpg' alt='Hello Spring Images – Browse 108,770 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/41/85/73/360_F_241857353_YNcGUIbcCn3n0seKTy4N1pXSEkSGIV6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello spring hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2AGMTAK/colorful-fresh-tulips-on-white-background-and-text-hello-spring-2AGMTAK.jpg' alt='Hello spring hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2AGMTAK/colorful-fresh-tulips-on-white-background-and-text-hello-spring-2AGMTAK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Spring: New Life and Saying Goodbye - Fresh Mommy Blog">
+                                <img itemprop="contentUrl url" src='https://freshmommyblog.com/wp-content/uploads/2016/03/Hello-Spring-iPad-Background.jpg' alt='Hello Spring: New Life and Saying Goodbye - Fresh Mommy Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Mommy Blog -" />
+                                </span>
+                                <a href='https://freshmommyblog.com/wp-content/uploads/2016/03/Hello-Spring-iPad-Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

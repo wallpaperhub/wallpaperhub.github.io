@@ -1,0 +1,129 @@
+<title>Discover Fascinating Bob Ross Facts</title>
+                    <meta name="description" content="Explore intriguing facts about Bob Ross, the beloved painter known for his calming presence and cheerful outlook! Learn about his art, life, and the legacy that continues to inspire creativity across generations. Perfect for fans and new viewers alike!">
+                    <meta name="keywords" content="bob ross facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bob-ross-facts">
+                            <span itemprop="name">bob ross facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating Bob Ross Facts</h1>
+                <p>Bob Ross, the iconic painter and host of "The Joy of Painting," inspired millions with his soothing voice and easy-going style. Did you know he was a veteran and a skilled airbrush artist? He painted over 30,000 canvases in his career and famously promoted the idea that "there are no mistakes, only happy accidents."</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Ross | Biography, Art, Death, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/03/193803-050-CBC590FA/Bob-Ross.jpg' alt='Bob Ross | Biography, Art, Death, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1379">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/03/193803-050-CBC590FA/Bob-Ross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KS2 All About Bob Ross for Kids Fact File | Famous Artists">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/64/b9/t-ad-1648648144-ks2-all-about-bob-ross-fact-file_ver_1.jpg' alt='KS2 All About Bob Ross for Kids Fact File | Famous Artists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/64/b9/t-ad-1648648144-ks2-all-about-bob-ross-fact-file_ver_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The hair, the history: 34 facts for Bob Ross fans | SBS What's On">
+                                <img itemprop="contentUrl url" src='https://images.sbs.com.au/drupal/guide/public/bobross_1280.jpg' alt='The hair, the history: 34 facts for Bob Ross fans | SBS What's On'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SBS" />
+                                </span>
+                                <a href='https://images.sbs.com.au/drupal/guide/public/bobross_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The hair, the history: 34 facts for Bob Ross fans | SBS What's On">
+                                <img itemprop="contentUrl url" src='https://images.sbs.com.au/dims4/default/fecf351/2147483647/strip/true/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fguide%2Fpublic%2F98d0fa42-d703-467e-be6c-52fd66a7cd7c_1666650060.jpeg' alt='The hair, the history: 34 facts for Bob Ross fans | SBS What's On'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SBS" />
+                                </span>
+                                <a href='https://images.sbs.com.au/dims4/default/fecf351/2147483647/strip/true/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fguide%2Fpublic%2F98d0fa42-d703-467e-be6c-52fd66a7cd7c_1666650060.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's Get Crazy: 10 Bob Ross Facts - Bookmans Entertainment Exchange">
+                                <img itemprop="contentUrl url" src='http://bookmans.com/wp-content/uploads/2018/08/bob-ross-photo-by-acey-harper.png' alt='Let's Get Crazy: 10 Bob Ross Facts - Bookmans Entertainment Exchange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bookmans Entertainment Exchange" />
+                                </span>
+                                <a href='http://bookmans.com/wp-content/uploads/2018/08/bob-ross-photo-by-acey-harper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Bob Ross Story">
+                                <img itemprop="contentUrl url" src='https://experience.bobross.com/wp-content/uploads/2019/04/racoon_bob_bw.png' alt='The Bob Ross Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1967">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bob Ross - Bob Ross Inc." />
+                                </span>
+                                <a href='https://experience.bobross.com/wp-content/uploads/2019/04/racoon_bob_bw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Little-Known Facts About Bob Ross | by Sabana Grande | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1022/1*F_6Bmb9u_n7Vqt7dtRD4WA.jpeg' alt='8 Little-Known Facts About Bob Ross | by Sabana Grande | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sabana Grande - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1022/1*F_6Bmb9u_n7Vqt7dtRD4WA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bob ross facts wtf fun facts">
+                                <img itemprop="contentUrl url" src='https://wtffunfact.com/wp-content/uploads/2019/06/fun-facts-bob-ross-facts-wtf-fun-facts.png' alt='bob ross facts wtf fun facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WTF Fun Facts" />
+                                </span>
+                                <a href='https://wtffunfact.com/wp-content/uploads/2019/06/fun-facts-bob-ross-facts-wtf-fun-facts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Ross: Biography, Painter, PBS TV Show Host">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/paint-still-1-64260493a6c8e.jpg' alt='Bob Ross: Biography, Painter, PBS TV Show Host'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3420">
+                                <meta itemprop="height" content="2198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/paint-still-1-64260493a6c8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Happy Little Facts About Bob Ross - FAIL Blog - Funny Fails">
+                                <img itemprop="contentUrl url" src='https://i.chzbgr.com/full/9085422848/h054E741F/his-paintings-including-those-created-during-his-shows-were-never-sold-but-donqted-to-pbs-stations' alt='18 Happy Little Facts About Bob Ross - FAIL Blog - Funny Fails'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cheezburger" />
+                                </span>
+                                <a href='https://i.chzbgr.com/full/9085422848/h054E741F/his-paintings-including-those-created-during-his-shows-were-never-sold-but-donqted-to-pbs-stations' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

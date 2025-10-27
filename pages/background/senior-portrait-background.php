@@ -1,0 +1,129 @@
+<title>Stunning Senior Portrait Background Ideas</title>
+                    <meta name="description" content="Discover creative ideas for senior portrait backgrounds that enhance your photography experience. From scenic outdoor settings to urban landscapes, find the perfect backdrop that reflects your personality and makes your portraits unforgettable!">
+                    <meta name="keywords" content="senior portrait background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/senior-portrait-background">
+                            <span itemprop="name">senior portrait background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Senior Portrait Background Ideas</h1>
+                <p>Choosing the perfect background for senior portraits is crucial. Popular options include serene nature scenes, urban settings, or classic studio backdrops. Ensure the background complements the subject’s personality and style, whether it's vibrant and lively or soft and elegant. It sets the tone for memorable keepsakes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - Galeone Photographers">
+                                <img itemprop="contentUrl url" src='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/Bishop_bg%208x10.jpg' alt='Backgrounds - Galeone Photographers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.galeonephoto.com" />
+                                </span>
+                                <a href='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/Bishop_bg%208x10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - Galeone Photographers">
+                                <img itemprop="contentUrl url" src='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/blbl2-18x10.jpg' alt='Backgrounds - Galeone Photographers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.galeonephoto.com" />
+                                </span>
+                                <a href='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/blbl2-18x10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Black Abstract Old Master Senior Portrait Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/J06822-E.png?v=1628142838&width=666' alt='Kate Black Abstract Old Master Senior Portrait Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/J06822-E.png?v=1628142838&width=666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Contrast Blue Portrait Studio Digital Backdrop, Photography Backdrop,  Studio, Green Screen, School Pictures, Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/9e44e8/1918993141/il_fullxfull.1918993141_svl5.jpg' alt='High Contrast Blue Portrait Studio Digital Backdrop, Photography Backdrop,  Studio, Green Screen, School Pictures, Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/9e44e8/1918993141/il_fullxfull.1918993141_svl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - Galeone Photographers">
+                                <img itemprop="contentUrl url" src='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/black_8x10-4.jpg' alt='Backgrounds - Galeone Photographers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.galeonephoto.com" />
+                                </span>
+                                <a href='https://www.galeonephoto.com/images/BackgroundImages/senior_2020/black_8x10-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laeacco 5x7ft Abstract Vintage Blue Portrait Headshots Backdrop for  Photography Retro Blue Backdrop Pure Solid Blue Simple Background for  Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6173VWE0eVL._AC_UF894,1000_QL80_.jpg' alt='Laeacco 5x7ft Abstract Vintage Blue Portrait Headshots Backdrop for  Photography Retro Blue Backdrop Pure Solid Blue Simple Background for  Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6173VWE0eVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Gray Light Blue Abstract Texture Senior Portrait Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/b1/c3/b8b1c3caa89a8b1e13919cb91d2d3533.jpg' alt='Kate Gray Light Blue Abstract Texture Senior Portrait Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/b1/c3/b8b1c3caa89a8b1e13919cb91d2d3533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Old Master Abstract Portrait Photography Backdrop DBD-19486">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/DBD-19486.jpg?v=1693810213&width=560' alt='Blue Old Master Abstract Portrait Photography Backdrop DBD-19486'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/DBD-19486.jpg?v=1693810213&width=560' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops">
+                                <img itemprop="contentUrl url" src='http://www.whosedrop.com/cdn/shop/products/MH-071_600x.jpg?v=1566552156' alt='Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="397">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whosedrop" />
+                                </span>
+                                <a href='http://www.whosedrop.com/cdn/shop/products/MH-071_600x.jpg?v=1566552156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sfondo ritratto senior old master astratto in nero">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/J06822.jpg?v=1624050321&width=1200' alt='Sfondo ritratto senior old master astratto in nero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/J06822.jpg?v=1624050321&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

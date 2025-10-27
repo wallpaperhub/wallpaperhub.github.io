@@ -1,0 +1,129 @@
+<title>Beautiful Blue Wavy Backgrounds: Elevate Your Designs!</title>
+                    <meta name="description" content="Discover stunning blue wavy backgrounds that elevate your design projects. Perfect for websites, social media, and presentations. Create a calming, fluid aesthetic that captivates and engages your audience effortlessly. Upgrade your visuals today!">
+                    <meta name="keywords" content="blue wavy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-wavy-background">
+                            <span itemprop="name">blue wavy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Blue Wavy Backgrounds: Elevate Your Designs!</h1>
+                <p>Elevate your designs with a stunning blue wavy background. This eye-catching element blends soothing hues and elegant curves, perfect for websites, presentations, or social media graphics. It evokes a sense of tranquility and fluidity, making it a versatile choice to enhance your visuals and captivate your audience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Blue wavy background gradient design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-wavy-background-gradient-design_677411-2743.jpg' alt='Free Vector | Blue wavy background gradient design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-wavy-background-gradient-design_677411-2743.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Wavy Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/1522744-LhOTOPibZL-high_0010.jpg?w=660&q=60&fit=max&auto=format' alt='Abstract Blue Wavy Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/1522744-LhOTOPibZL-high_0010.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Blue Background Images – Browse 2,480,699 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/14/84/64/360_F_314846423_lE6jmwPXVbmdtBxuowmjCxHUZIHgF5xq.jpg' alt='Wavy Blue Background Images – Browse 2,480,699 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/14/84/64/360_F_314846423_lE6jmwPXVbmdtBxuowmjCxHUZIHgF5xq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Paper style gradient blue wavy background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-gradient-blue-wavy-background_23-2149121741.jpg' alt='Free Vector | Paper style gradient blue wavy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-gradient-blue-wavy-background_23-2149121741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/2f/93/9e2f939698ef10b34e439f5666887020.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/2f/93/9e2f939698ef10b34e439f5666887020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Smooth Blue Wavy Background 4569002 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/569/002/non_2x/gradient-smooth-blue-wavy-background-free-vector.jpg' alt='Gradient Smooth Blue Wavy Background 4569002 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/569/002/non_2x/gradient-smooth-blue-wavy-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wavy Background 1590655 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/590/655/non_2x/blue-wavy-background-free-vector.jpg' alt='Blue Wavy Background 1590655 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/590/655/non_2x/blue-wavy-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Blue wavy background modern design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-wavy-background-modern-design_677411-2138.jpg' alt='Free Vector | Blue wavy background modern design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-wavy-background-modern-design_677411-2138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Dynamic Blue Wavy Background">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/04/rm222batch3-mind-03-e1655933542213.jpg?resize=1000%2C750&ssl=1' alt='Elegant Dynamic Blue Wavy Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Backgrounds for Download" />
+                                </span>
+                                <a href='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/04/rm222batch3-mind-03-e1655933542213.jpg?resize=1000%2C750&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wavy Background Or Wave On Dark Backgrounds | JPG Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230428/9280c3310d0b2dbe6b90cfcf924e3eae.jpg!w700wp' alt='Blue Wavy Background Or Wave On Dark Backgrounds | JPG Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230428/9280c3310d0b2dbe6b90cfcf924e3eae.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

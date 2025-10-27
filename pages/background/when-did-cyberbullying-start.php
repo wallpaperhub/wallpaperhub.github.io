@@ -1,0 +1,129 @@
+<title>When Did Cyberbullying Start? Understanding Its Origins</title>
+                    <meta name="description" content="Explore the origins of cyberbullying, tracing its rise alongside the internet and social media in the late 1990s. Learn about its impact on youth and the growing awareness that led to preventive measures. Stay informed about this significant issue affecting many adolescents today.">
+                    <meta name="keywords" content="when did cyberbullying start">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-cyberbullying-start">
+                            <span itemprop="name">when did cyberbullying start</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did Cyberbullying Start? Understanding Its Origins</h1>
+                <p>Cyberbullying began to emerge in the late 1990s with the rise of the internet and social media platforms. As these technologies gained popularity, they provided new avenues for harassment, affecting many adolescents. By the early 2000s, awareness grew, leading to discussions about its impact and the need for preventive measures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Teen Survey Reveals Cyberbullying Moving Beyond Social Media ...">
+                                <img itemprop="contentUrl url" src='https://www.the74million.org/wp-content/uploads/2017/08/cyberbullying-1.png' alt='New Teen Survey Reveals Cyberbullying Moving Beyond Social Media ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The 74" />
+                                </span>
+                                <a href='https://www.the74million.org/wp-content/uploads/2017/08/cyberbullying-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason: A Brief History of Cyberbullying – Quest California Tutoring">
+                                <img itemprop="contentUrl url" src='https://questcalifornia.com/wp-content/uploads/2023/02/teen-girl-being-cyberbullied_3.png' alt='Jason: A Brief History of Cyberbullying – Quest California Tutoring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quest California Tutoring" />
+                                </span>
+                                <a href='https://questcalifornia.com/wp-content/uploads/2023/02/teen-girl-being-cyberbullied_3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cyberbullying: A Helpful, Informative Guide - Bark">
+                                <img itemprop="contentUrl url" src='https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/07/History_of_Cyberbullying_blog_Square.jpg' alt='The History of Cyberbullying: A Helpful, Informative Guide - Bark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bark" />
+                                </span>
+                                <a href='https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/07/History_of_Cyberbullying_blog_Square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bullying During the COVID-19 Pandemic - Cyberbullying Research Center">
+                                <img itemprop="contentUrl url" src='https://cyberbullying.org/wp-content/uploads/2021/09/4_school-bullying-and-COVID-Patchin.jpg' alt='Bullying During the COVID-19 Pandemic - Cyberbullying Research Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1881">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cyberbullying Research Center" />
+                                </span>
+                                <a href='https://cyberbullying.org/wp-content/uploads/2021/09/4_school-bullying-and-COVID-Patchin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberbullying - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cyberbullying_By_Year.jpg/220px-Cyberbullying_By_Year.jpg' alt='Cyberbullying - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cyberbullying_By_Year.jpg/220px-Cyberbullying_By_Year.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Cyberbullying: A Helpful, Informative Guide - Bark">
+                                <img itemprop="contentUrl url" src='https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2017/03/History_of_Cyberbullying_blog_Header-1024x536.jpeg' alt='The History of Cyberbullying: A Helpful, Informative Guide - Bark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bark" />
+                                </span>
+                                <a href='https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2017/03/History_of_Cyberbullying_blog_Header-1024x536.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberbullying Statistics 2021 | Age, Gender, Sexual Orientation ...">
+                                <img itemprop="contentUrl url" src='https://cyberbullying.org/wp-content/uploads/2021/10/cyberbullying-victimization-by-age.png' alt='Cyberbullying Statistics 2021 | Age, Gender, Sexual Orientation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1036">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cyberbullying Research Center" />
+                                </span>
+                                <a href='https://cyberbullying.org/wp-content/uploads/2021/10/cyberbullying-victimization-by-age.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teens and Cyberbullying 2022 | Pew Research Center">
+                                <img itemprop="contentUrl url" src='https://www.pewresearch.org/wp-content/uploads/sites/20/2022/11/PI_2022.12.13_teens-cyberbullying_0-03.png' alt='Teens and Cyberbullying 2022 | Pew Research Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pew Research Center" />
+                                </span>
+                                <a href='https://www.pewresearch.org/wp-content/uploads/sites/20/2022/11/PI_2022.12.13_teens-cyberbullying_0-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution of Bullying: From Schoolyard to Smartphone 24/7">
+                                <img itemprop="contentUrl url" src='https://www.kaspersky.com/content/en-global/images/repository/pr/bullying.jpg' alt='The Evolution of Bullying: From Schoolyard to Smartphone 24/7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaspersky" />
+                                </span>
+                                <a href='https://www.kaspersky.com/content/en-global/images/repository/pr/bullying.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New National Bullying and Cyberbullying Statistics">
+                                <img itemprop="contentUrl url" src='https://cyberbullying.org/wp-content/uploads/2016/10/cyberbullying-gender.jpg' alt='New National Bullying and Cyberbullying Statistics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cyberbullying Research Center" />
+                                </span>
+                                <a href='https://cyberbullying.org/wp-content/uploads/2016/10/cyberbullying-gender.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

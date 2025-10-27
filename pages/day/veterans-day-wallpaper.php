@@ -1,0 +1,129 @@
+<title>Stunning Veterans Day Wallpapers to Honor Our Heroes</title>
+                    <meta name="description" content="Explore a collection of beautiful Veterans Day wallpapers perfect for honoring our brave veterans. Celebrate their service and sacrifice with inspiring designs you can set as your background. Download your favorite images today and show your gratitude in style.">
+                    <meta name="keywords" content="veterans day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/veterans-day-wallpaper">
+                            <span itemprop="name">veterans day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Veterans Day Wallpapers to Honor Our Heroes</h1>
+                <p>Honor our heroes this Veterans Day by decorating your digital space with meaningful wallpaper. Choose from inspiring images showcasing courage, sacrifice, and pride. Let each background serve as a tribute to those who bravely served in the military. Celebrate their legacy with stunning visuals that remind us of their dedication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Veterans Day Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1748959203/vector/silhouette-of-soldier-with-usa-flag-against-the-sunset.jpg?s=612x612&w=0&k=20&c=BUq4sWDXxKs1xBS7kpVS0GsrHlHYoN8dLoFeT2SIzXc=' alt='2,700+ Veterans Day Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1748959203/vector/silhouette-of-soldier-with-usa-flag-against-the-sunset.jpg?s=612x612&w=0&k=20&c=BUq4sWDXxKs1xBS7kpVS0GsrHlHYoN8dLoFeT2SIzXc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Tribute - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/552/thumb-1920-552924.jpg' alt='Veterans Day Tribute - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/552/thumb-1920-552924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Veterans Day Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1741431243/vector/thank-you-veterans-veterans-day-background-card-vector.jpg?s=612x612&w=gi&k=20&c=5SOeN8uZknA72MDsf54zW7VwEoLGDUaKpzNKtw4bKgE=' alt='280 Veterans Day Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1741431243/vector/thank-you-veterans-veterans-day-background-card-vector.jpg?s=612x612&w=gi&k=20&c=5SOeN8uZknA72MDsf54zW7VwEoLGDUaKpzNKtw4bKgE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Wallpapers and Facebook Covers, Veterans Day History ...">
+                                <img itemprop="contentUrl url" src='https://www.kate.net/holidays/veteransday/images/katenetveteransday2009a_1440.jpg' alt='Veterans Day Wallpapers and Facebook Covers, Veterans Day History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate.net" />
+                                </span>
+                                <a href='https://www.kate.net/holidays/veteransday/images/katenetveteransday2009a_1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Veterans Day 4k Iphone 11 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/happy-veterans-day-4k-iphone-11-zwfk2daldvgqraac.jpg' alt='Happy Veterans Day 4k Iphone 11 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1551">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/happy-veterans-day-4k-iphone-11-zwfk2daldvgqraac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Background Images – Browse 357,862 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/07/13/98/360_F_507139885_KhSedn26c8vl27vnWnerlI3MRafmfshU.jpg' alt='Veterans Background Images – Browse 357,862 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/07/13/98/360_F_507139885_KhSedn26c8vl27vnWnerlI3MRafmfshU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Veterans Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/remembering-who-served-veterans-day-yg402c7lg9bix995.jpg' alt='100+] Veterans Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/remembering-who-served-veterans-day-yg402c7lg9bix995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring The Brave: Veterans Day Salute Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/honoring-the-brave-veterans-day-salute-5gfzwgb4dluawm1m.jpg' alt='Honoring The Brave: Veterans Day Salute Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/honoring-the-brave-veterans-day-salute-5gfzwgb4dluawm1m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-flat-veteran-s-day-background_52683-73075.jpg' alt='Veterans Day Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-flat-veteran-s-day-background_52683-73075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Honoring Our Veterans This Veterans Day">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/552/552943.jpg' alt='HD Wallpaper: Honoring Our Veterans This Veterans Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1838">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/552/552943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

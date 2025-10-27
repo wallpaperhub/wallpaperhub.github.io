@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="gusto background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gusto-background-checks">
+                            <span itemprop="name">gusto background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/595/large/Background_Check_Dashboard.png?1670344010' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/595/large/Background_Check_Dashboard.png?1670344010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/apps/logos/000/000/259/original/Gusto-Checkr_logos.svg?1670344009' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/apps/logos/000/000/259/original/Gusto-Checkr_logos.svg?1670344009' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/592/large/Landing_page.png?1670344009' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/592/large/Landing_page.png?1670344009' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/593/large/Plan.png?1670344009' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/593/large/Plan.png?1670344009' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/596/large/Flow_start.png?1670344010' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/596/large/Flow_start.png?1670344010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto / Checkr Integration User Guide">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634m' alt='Gusto / Checkr Integration User Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634m' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto integrates with Background Checks | Payroll Integrations">
+                                <img itemprop="contentUrl url" src='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/594/large/Policy.png?1670344010' alt='Gusto integrates with Background Checks | Payroll Integrations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gusto" />
+                                </span>
+                                <a href='https://d3cfmt5dlbf1me.cloudfront.net/app_ecosystem/app_photos/images/000/000/594/large/Policy.png?1670344010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto / Checkr Integration User Guide">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634k' alt='Gusto / Checkr Integration User Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gusto / Checkr Integration User Guide">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634d' alt='Gusto / Checkr Integration User Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="869">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002TkH&feoid=00NQr000002fF8Q&refid=0EMQr000009634d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks 101 | Checkr + Gusto">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/bd620f8726/screenshot-2023-04-05-at-2-05-23-pm.png/m/' alt='Background Checks 101 | Checkr + Gusto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3388">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/bd620f8726/screenshot-2023-04-05-at-2-05-23-pm.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

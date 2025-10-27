@@ -1,0 +1,129 @@
+<title>Stay Updated with SportsCenter: Your Go-To Sports News</title>
+                    <meta name="description" content="Your all-in-one source for the latest sports news, highlights, and analysis. SportsCenter keeps you informed about your favorite teams and athletes with real-time updates. Never miss a moment in sports—get the coverage you need, whenever and wherever you are!">
+                    <meta name="keywords" content="sportscenter">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sportscenter">
+                            <span itemprop="name">sportscenter</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Updated with SportsCenter: Your Go-To Sports News</h1>
+                <p>SportsCenter is your ultimate destination for real-time updates, highlights, and in-depth analysis of the latest sports events. Whether you're a fan of basketball, football, soccer, or more, we bring you coverage from the biggest leagues and tournaments. Stay connected with your favorite teams and athletes every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch SportsCenter Streaming Online | Hulu">
+                                <img itemprop="contentUrl url" src='https://img4.hulu.com/user/v3/artwork/d668a36d-5059-4ee7-95f9-1aad58af1be2?base_image_bucket_name=image_manager&base_image=bac129b6-418a-4744-b75c-0cc980eaa0df&region=US&format=webp&size=952x536' alt='Watch SportsCenter Streaming Online | Hulu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hulu" />
+                                </span>
+                                <a href='https://img4.hulu.com/user/v3/artwork/d668a36d-5059-4ee7-95f9-1aad58af1be2?base_image_bucket_name=image_manager&base_image=bac129b6-418a-4744-b75c-0cc980eaa0df&region=US&format=webp&size=952x536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SportsCenter' adds 38 million pixels in Studio X upgrade ...">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/uploads/2022/08/ESPN_Studio-X_066.jpg' alt='SportsCenter' adds 38 million pixels in Studio X upgrade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/uploads/2022/08/ESPN_Studio-X_066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SportsCenter: ESPN Will Launch Morning Edition Of Sports Staple">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2016/01/espn-sportscenter-am.jpg' alt='SportsCenter: ESPN Will Launch Morning Edition Of Sports Staple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2016/01/espn-sportscenter-am.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN Announces SportsCenter Anchor Lineup for New Year - ESPN ...">
+                                <img itemprop="contentUrl url" src='https://espnpressroom.com/us/files/2020/12/Elle_Sage_1600-780x470.jpg' alt='ESPN Announces SportsCenter Anchor Lineup for New Year - ESPN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN Press Room" />
+                                </span>
+                                <a href='https://espnpressroom.com/us/files/2020/12/Elle_Sage_1600-780x470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream SportsCenter Videos on Watch ESPN - ESPN">
+                                <img itemprop="contentUrl url" src='https://artwork.espncdn.com/categories/1fc53390-aca2-4d45-9acf-c9cd2bd30b1c/1x1Feature/1440_20210826002014.jpg' alt='Stream SportsCenter Videos on Watch ESPN - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://artwork.espncdn.com/categories/1fc53390-aca2-4d45-9acf-c9cd2bd30b1c/1x1Feature/1440_20210826002014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SportsCenter Sees Year-Over-Year Viewership Growth for All ...">
+                                <img itemprop="contentUrl url" src='https://espnpressroom.com/us/files/2024/01/20221202_JF206481-scaled.jpg' alt='SportsCenter Sees Year-Over-Year Viewership Growth for All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN Press Room" />
+                                </span>
+                                <a href='https://espnpressroom.com/us/files/2024/01/20221202_JF206481-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN to Launch Daily Digital 'SportsCenter' Series">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2013/06/sportscenter.jpg?w=1000&h=565&crop=1' alt='ESPN to Launch Daily Digital 'SportsCenter' Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2013/06/sportscenter.jpg?w=1000&h=565&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SportsCenter's New Anchor Amina Smith Talks Getting Her 'Dream ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/37akaYO7MxwmvcQB7yqUkpb3YWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(761x187:763x189)/Amina-Smith-sports-center-042324-tout-3797800980f54c52878e453fcc54bd3c.jpg' alt='SportsCenter's New Anchor Amina Smith Talks Getting Her 'Dream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/37akaYO7MxwmvcQB7yqUkpb3YWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(761x187:763x189)/Amina-Smith-sports-center-042324-tout-3797800980f54c52878e453fcc54bd3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We're having so much fun doing it and when you see it, I think you ...">
+                                <img itemprop="contentUrl url" src='https://www.espnfrontrow.com/wp-content/uploads/2020/09/RS780712_20200604_016A7324.JPG1_-scaled.jpg' alt='We're having so much fun doing it and when you see it, I think you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN Front Row" />
+                                </span>
+                                <a href='https://www.espnfrontrow.com/wp-content/uploads/2020/09/RS780712_20200604_016A7324.JPG1_-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN announces new full-time SportsCenter anchor with major ...">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/acc-networks-kelsey-riggs-prior-926645370.jpg?strip=all&w=960' alt='ESPN announces new full-time SportsCenter anchor with major ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/acc-networks-kelsey-riggs-prior-926645370.jpg?strip=all&w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Dark Blue iPhone Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover beautifully designed dark blue wallpapers for your iPhone lock screen. Perfect for adding a touch of elegance and tranquility to your device, these wallpapers enhance clarity and style. Explore unique designs that suit your taste and personalize your iPhone effortlessly!">
+                    <meta name="keywords" content="lock screen iphone dark blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screen-iphone-dark-blue-wallpaper">
+                            <span itemprop="name">lock screen iphone dark blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Blue iPhone Lock Screen Wallpapers</h1>
+                <p>Unlock the elegance of your iPhone with a dark blue wallpaper for your lock screen. The deep shades of blue not only provide a calming backdrop but also enhance the phone's screen clarity. Choose a design that reflects your style, whether it's minimalist, patterned, or abstract. Transform your device's look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Blue Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-iphone-x8xd17u987250jog.jpg' alt='100+] Dark Blue Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-iphone-x8xd17u987250jog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/08/4a/3b084abc034ae4d89bd610542c010a45.jpg' alt='Aesthetic Blue Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/08/4a/3b084abc034ae4d89bd610542c010a45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Blue Iphone Lock Screen Theme Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-iphone-vod3q58rziigjl3r.jpg' alt='Download Dark Blue Iphone Lock Screen Theme Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-iphone-vod3q58rziigjl3r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonfly Navy Blue Wallpaper Vintage Aesthetic iPhone Lockscreen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/04/81/98/0481980cb22c1e177214383bc3a4fd6f.jpg' alt='Dragonfly Navy Blue Wallpaper Vintage Aesthetic iPhone Lockscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/04/81/98/0481980cb22c1e177214383bc3a4fd6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Navy Blue Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/navy-blue-iphone-yzjsghc6werkxnrj.jpg' alt='100+] Navy Blue Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/navy-blue-iphone-yzjsghc6werkxnrj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 BEAUTIFUL NATURE WALLPAPER FREE TO DOWNLOAD. - Godfather Style">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/2a/d6/6d2ad6dff6b7cd4e8dd1723efc71ca8d.jpg' alt='60 BEAUTIFUL NATURE WALLPAPER FREE TO DOWNLOAD. - Godfather Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/2a/d6/6d2ad6dff6b7cd4e8dd1723efc71ca8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen, blue, galaxy, locked, neon, note, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/358/67/HD-wallpaper-lock-screen-blue-galaxy-locked-neon-note.jpg' alt='Lock screen, blue, galaxy, locked, neon, note, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/358/67/HD-wallpaper-lock-screen-blue-galaxy-locked-neon-note.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Apple | Lockscreen - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/02/iSpazio-6-473x1024.jpg' alt='Dark Blue Apple | Lockscreen - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/02/iSpazio-6-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Textured / Abstract / Phone Lock Screen / Smartphone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36437479/r/il/12909c/4029747227/il_570xN.4029747227_m31b.jpg' alt='Dark Blue Textured / Abstract / Phone Lock Screen / Smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36437479/r/il/12909c/4029747227/il_570xN.4029747227_m31b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/a7/ec/48a7ec03c26b9b4a4f72ed3a49f605d4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/a7/ec/48a7ec03c26b9b4a4f72ed3a49f605d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

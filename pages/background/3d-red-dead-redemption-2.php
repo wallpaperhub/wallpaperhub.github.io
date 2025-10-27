@@ -1,0 +1,129 @@
+<title>Explore the Wild West in 3D: Red Dead Redemption 2</title>
+                    <meta name="description" content="Discover the immersive 3D world of Red Dead Redemption 2. Experience stunning visuals, rich storytelling, and thrilling adventures in the wild west. Join Arthur Morgan on a journey filled with action and exploration in one of gaming's most celebrated landscapes.">
+                    <meta name="keywords" content="3d red dead redemption 2">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-red-dead-redemption-2">
+                            <span itemprop="name">3d red dead redemption 2</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wild West in 3D: Red Dead Redemption 2</h1>
+                <p>Explore the mesmerizing world of 3D Red Dead Redemption 2, where stunning graphics and immersive storytelling blend seamlessly. Experience the wild west like never before, with meticulously crafted landscapes, realistic character models, and dynamic weather systems. Dive into an epic adventure filled with action, exploration, and unforgettable moments!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 3D Map - 3D model by v7x (@v7x) [af68b23]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/af68b2398b99446dbf0f7e90f9f104f3/thumbnails/13ed3db65dc343c4ae2ca2cffbba297a/92a79e750a9b48aab66ce40f7b6b2357.jpeg' alt='Red Dead Redemption 2 3D Map - 3D model by v7x (@v7x) [af68b23]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/af68b2398b99446dbf0f7e90f9f104f3/thumbnails/13ed3db65dc343c4ae2ca2cffbba297a/92a79e750a9b48aab66ce40f7b6b2357.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dead Redemption 2 - Arthur Morgan | 3D Print Model">
+                                <img itemprop="contentUrl url" src='https://img-new.cgtrader.com/items/2986555/dd9d4bccb2/large/red-dead-redemption-2-arthur-morgan-3d-model-dd9d4bccb2.jpg' alt='Red Dead Redemption 2 - Arthur Morgan | 3D Print Model'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CGTrader" />
+                                </span>
+                                <a href='https://img-new.cgtrader.com/items/2986555/dd9d4bccb2/large/red-dead-redemption-2-arthur-morgan-3d-model-dd9d4bccb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan Red Dead Redemption Resin 3d printed DIY model kit 1 ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/U5YAAOSwGx1jrIZH/s-l1200.png' alt='Arthur Morgan Red Dead Redemption Resin 3d printed DIY model kit 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/U5YAAOSwGx1jrIZH/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - 3D Model of Arthur Morgan, John Marston and Red ...">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/039/859/719/large/hossein-diba-2.jpg?1627151453' alt='ArtStation - 3D Model of Arthur Morgan, John Marston and Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/039/859/719/large/hossein-diba-2.jpg?1627151453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Marston 3D Printed Figure - Red Dead Redemption Collectible ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19956056/r/il/4b04b8/6265400491/il_570xN.6265400491_smgp.jpg' alt='John Marston 3D Printed Figure - Red Dead Redemption Collectible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19956056/r/il/4b04b8/6265400491/il_570xN.6265400491_smgp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RED DEAD REDEMPTION 2 || FREE 3D Models RIGGED DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kpWUkBylvv8/maxresdefault.jpg' alt='RED DEAD REDEMPTION 2 || FREE 3D Models RIGGED DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kpWUkBylvv8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan Red Dead Redemption 2 - STL 3D print files">
+                                <img itemprop="contentUrl url" src='https://studio3dprint.net/9525-large_default/arthur-morgan-red-dead-redemption-2-stl-3d-print-files.jpg' alt='Arthur Morgan Red Dead Redemption 2 - STL 3D print files'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studio3Dprint" />
+                                </span>
+                                <a href='https://studio3dprint.net/9525-large_default/arthur-morgan-red-dead-redemption-2-stl-3d-print-files.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JOHN MARSTON Statue from Red Dead Redemption 2 | 3D Print Model">
+                                <img itemprop="contentUrl url" src='https://img-new.cgtrader.com/items/3404113/b86484da52/large/john-marston-statue-from-red-dead-redemption-2-3d-model-stl.jpg' alt='JOHN MARSTON Statue from Red Dead Redemption 2 | 3D Print Model'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CGTrader" />
+                                </span>
+                                <a href='https://img-new.cgtrader.com/items/3404113/b86484da52/large/john-marston-statue-from-red-dead-redemption-2-3d-model-stl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STL file Red Dead Redemption 3D Print 3D print model    ・3D ...">
+                                <img itemprop="contentUrl url" src='https://fbi.cults3d.com/uploaders/15549436/illustration-file/739f6e52-dcde-4c78-8cd9-82f5efbaf54d/RenderTest4.jpg' alt='STL file Red Dead Redemption 3D Print 3D print model    ・3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cults 3D" />
+                                </span>
+                                <a href='https://fbi.cults3d.com/uploaders/15549436/illustration-file/739f6e52-dcde-4c78-8cd9-82f5efbaf54d/RenderTest4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Morgan RDR2 - 3D model by Nina Krutkyté (@nkrutkyte) [0d236ce]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/0d236cee825a4d28b15d70bfe9cd4628/thumbnails/824aad0d869e44f49c7b1ce64b8f5711/8fd279b28a674d90b2547ddb6846c214.jpeg' alt='Arthur Morgan RDR2 - 3D model by Nina Krutkyté (@nkrutkyte) [0d236ce]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/0d236cee825a4d28b15d70bfe9cd4628/thumbnails/824aad0d869e44f49c7b1ce64b8f5711/8fd279b28a674d90b2547ddb6846c214.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

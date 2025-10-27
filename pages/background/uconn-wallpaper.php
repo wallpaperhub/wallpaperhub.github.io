@@ -1,0 +1,129 @@
+<title>UConn Wallpaper: Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover a wide selection of UConn wallpapers to personalize your device. From vibrant logos to scenic campus views, find the perfect image to showcase your UConn pride. Ideal for smartphones and desktops, these high-quality wallpapers keep you inspired wherever you go!">
+                    <meta name="keywords" content="uconn wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/uconn-wallpaper">
+                            <span itemprop="name">uconn wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>UConn Wallpaper: Stunning Designs for Your Device</h1>
+                <p>Transform your device with stunning UConn wallpapers! Show off your school spirit and pride with a variety of high-resolution images featuring the iconic UConn logo, beautiful campus scenery, and thrilling athletic moments. Perfect for smartphones, tablets, and desktops, these wallpapers will keep you connected to your alma mater.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='https://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_2.jpg?width=600&mode=crop&format=jpg&quality=80' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='https://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_2.jpg?width=600&mode=crop&format=jpg&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='https://uconnhuskies.com/images/2024/4/19/Phone_2024_MBB_Champions.jpg' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='https://uconnhuskies.com/images/2024/4/19/Phone_2024_MBB_Champions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='http://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_Jersey_Husky.jpg?width=600&mode=crop&format=jpg&quality=80' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='http://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_Jersey_Husky.jpg?width=600&mode=crop&format=jpg&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='https://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_Jonathan_1.jpg?width=600&mode=crop&format=jpg&quality=80' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='https://uconnhuskies.com/images/2020/4/8/UConn_Phone_Wallpaper_Jonathan_1.jpg?width=600&mode=crop&format=jpg&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='https://uconnhuskies.com/images/2024/3/14/Paige-Bueckers_1080x1920.jpeg' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='https://uconnhuskies.com/images/2024/3/14/Paige-Bueckers_1080x1920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UConn Huskies Logo - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/138/1384097.png' alt='UConn Huskies Logo - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/138/1384097.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uconn Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e1/a4/70/e1a4703b379dd5c391b9b1220a122d3c.jpg' alt='Uconn Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e1/a4/70/e1a4703b379dd5c391b9b1220a122d3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpapers - University of Connecticut Athletics">
+                                <img itemprop="contentUrl url" src='https://uconnhuskies.com/images/2020/4/8/UConn_Wallpaper_Jonathan_Gampel.jpg?width=800&mode=crop&format=jpg&quality=80' alt='Digital Wallpapers - University of Connecticut Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UConn Athletics" />
+                                </span>
+                                <a href='https://uconnhuskies.com/images/2020/4/8/UConn_Wallpaper_Jonathan_Gampel.jpg?width=800&mode=crop&format=jpg&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UConn Huskies - Bringing you    on this Wallpaper Wednesday ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=848921320610915' alt='UConn Huskies - Bringing you    on this Wallpaper Wednesday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=848921320610915' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Sports Wallpaper Thread">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/06/64/a90664fc032fcfd62e915a6607268ca8.jpg' alt='iPhone 6 Sports Wallpaper Thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/06/64/a90664fc032fcfd62e915a6607268ca8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

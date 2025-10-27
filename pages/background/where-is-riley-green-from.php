@@ -1,0 +1,129 @@
+<title>Where Is Riley Green From? Discover His Hometown</title>
+                    <meta name="description" content="Learn about Riley Green's roots and the Southern influences that shape his music. From Jacksonville, Alabama, Riley's hometown plays a crucial role in his authentic country sound and compelling storytelling. Explore the journey of this rising country star!">
+                    <meta name="keywords" content="where is riley green from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-riley-green-from">
+                            <span itemprop="name">where is riley green from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Where Is Riley Green From? Discover His Hometown</h1>
+                <p>Riley Green hails from Jacksonville, Alabama, a city that has greatly influenced his country music style. Growing up surrounded by Southern traditions and values, Green's music often reflects his roots, embodying authentic storytelling and a deep appreciation for his hometown, making him a distinctive voice in contemporary country music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Welcome_Riley_Green_%287%29_%28cropped%29.jpg/640px-Welcome_Riley_Green_%287%29_%28cropped%29.jpg' alt='Riley Green - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Welcome_Riley_Green_%287%29_%28cropped%29.jpg/640px-Welcome_Riley_Green_%287%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green | Barefoot Country Music Fest">
+                                <img itemprop="contentUrl url" src='https://barefootcountrymusicfest.com/wp-content/uploads/2024/07/RileyGreenMainPhoto-scaled.jpg' alt='Riley Green | Barefoot Country Music Fest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barefoot Country Music Fest" />
+                                </span>
+                                <a href='https://barefootcountrymusicfest.com/wp-content/uploads/2024/07/RileyGreenMainPhoto-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green Found Perspective, and Along Came His Best Songs Yet">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/204/files/2021/07/attachment-riley-green-interview.jpg?w=780&q=75' alt='Riley Green Found Perspective, and Along Came His Best Songs Yet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Boot" />
+                                </span>
+                                <a href='https://townsquare.media/site/204/files/2021/07/attachment-riley-green-interview.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music - Riley Green">
+                                <img itemprop="contentUrl url" src='https://www.rileygreenmusic.com/files/2022/11/artwork-440x440-4-compressed.jpg' alt='Music - Riley Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riley Green" />
+                                </span>
+                                <a href='https://www.rileygreenmusic.com/files/2022/11/artwork-440x440-4-compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green | NTCA - The Rural Broadband Association">
+                                <img itemprop="contentUrl url" src='https://www.ntca.org/sites/default/files/styles/headshot/public/images/2021-01/headshot_Riley_Green.jpg?itok=r3Cjsen8' alt='Riley Green | NTCA - The Rural Broadband Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NTCA - The Rural Broadband Association" />
+                                </span>
+                                <a href='https://www.ntca.org/sites/default/files/styles/headshot/public/images/2021-01/headshot_Riley_Green.jpg?itok=r3Cjsen8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green: 20 Questions Interview on ACMs & EP">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2020/09/Riley-Green-cr-Ryan-Smith-2020-billboard-1548-1599588813.jpg' alt='Riley Green: 20 Questions Interview on ACMs & EP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2020/09/Riley-Green-cr-Ryan-Smith-2020-billboard-1548-1599588813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About - Riley Green">
+                                <img itemprop="contentUrl url" src='https://www.rileygreenmusic.com/files/2024/04/RG_WEB_WayOutHere_Collection_WebAssets_Meta_1200x600_NoCopy_2024.03.19_FNL-compressed.jpg' alt='About - Riley Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riley Green" />
+                                </span>
+                                <a href='https://www.rileygreenmusic.com/files/2024/04/RG_WEB_WayOutHere_Collection_WebAssets_Meta_1200x600_NoCopy_2024.03.19_FNL-compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green on His Mustache, Workouts, New Album, & Being a Homebody">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/204/files/2018/10/Riley-Green-Live-Review.jpg' alt='Riley Green on His Mustache, Workouts, New Album, & Being a Homebody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIKN Country" />
+                                </span>
+                                <a href='https://townsquare.media/site/204/files/2018/10/Riley-Green-Live-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Green | Opry">
+                                <img itemprop="contentUrl url" src='https://www.opry.com/assets/img/GOO_Riley_Green_1200x628-ac96cf152a.jpg' alt='Riley Green | Opry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grand Ole Opry" />
+                                </span>
+                                <a href='https://www.opry.com/assets/img/GOO_Riley_Green_1200x628-ac96cf152a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yes Riley Green Is Still Single, But ...">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/204/files/2023/10/attachment-Riley-Green-Sophia.jpg?w=1080&q=75' alt='Yes Riley Green Is Still Single, But ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taste of Country" />
+                                </span>
+                                <a href='https://townsquare.media/site/204/files/2023/10/attachment-Riley-Green-Sophia.jpg?w=1080&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

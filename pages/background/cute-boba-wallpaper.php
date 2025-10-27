@@ -1,0 +1,129 @@
+<title>Charming Cute Boba Wallpaper Ideas</title>
+                    <meta name="description" content="Discover the cutest boba wallpaper that adds charm to any room! Perfect for bubble tea enthusiasts, these designs elevate your decor with fun and flair. Shop now to find the perfect match that will make your walls pop and enhance your creative space! Ideal for bedrooms, cafes, or your favorite hangout spot.">
+                    <meta name="keywords" content="cute boba wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-boba-wallpaper">
+                            <span itemprop="name">cute boba wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Cute Boba Wallpaper Ideas</h1>
+                <p>Transform your space with cute boba wallpaper! Perfect for any bubble tea lover, these vibrant designs bring joy and a playful touch to your walls. Choose from adorable boba designs featuring delightful cups, colorful tapioca pearls, and whimsical elements that make every glance a treat. Ideal for bedrooms, cafes, or social media backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' alt='Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Boba Tea Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' alt='Kawaii Boba Tea Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' alt='cute boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Bubble Tea Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1256532152/vector/bubble-tea-seamless-pattern-vector-illustration-boba-pattern-on-chocolate-color-background.jpg?s=612x612&w=0&k=20&c=RHt0mkpXmerIqpHM_Fwujv_JYQcTA2MjRHvlTFUFxxc=' alt='1,100+ Bubble Tea Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1256532152/vector/bubble-tea-seamless-pattern-vector-illustration-boba-pattern-on-chocolate-color-background.jpg?s=612x612&w=0&k=20&c=RHt0mkpXmerIqpHM_Fwujv_JYQcTA2MjRHvlTFUFxxc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Boba Tea Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' alt='100+] Cute Boba Tea Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-boba-tea-k3i1yxz4qhm8bby5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Boba Wallpaper | Aesthetic Simple iPad Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24151985/r/il/7c4a28/3649300895/il_340x270.3649300895_2cp3.jpg' alt='Aesthetic Blue Boba Wallpaper | Aesthetic Simple iPad Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24151985/r/il/7c4a28/3649300895/il_340x270.3649300895_2cp3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba Tea">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/de/73/1ede7347ec4d0943483b8d46e037d08e.jpg' alt='Boba Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/de/73/1ede7347ec4d0943483b8d46e037d08e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Boba Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16683831/p/f/l/GY8bzJsMrjWZi4b2S5ZtEBorwVhh1sG8POOKfphu0pbNmrf0X1JItN6T7g/Kitty%20Boba%20Bliss%20on%20Pink%2C%20Mini.jpg' alt='Pink Boba Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16683831/p/f/l/GY8bzJsMrjWZi4b2S5ZtEBorwVhh1sG8POOKfphu0pbNmrf0X1JItN6T7g/Kitty%20Boba%20Bliss%20on%20Pink%2C%20Mini.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boba, Cute Boba, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/213/113/HD-wallpaper-boba-cute-boba-thumbnail.jpg' alt='Boba, Cute Boba, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/213/113/HD-wallpaper-boba-cute-boba-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Boba Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11993694/p/f/m/WF1AlccyrIBDnMdEX3QeZjk9vhdBS3BZIO6rt_kMZS5Oq3z7CQzQhOk/Bubble%20Tea%2C%20Boba%20Tea.jpg' alt='Pink Boba Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11993694/p/f/m/WF1AlccyrIBDnMdEX3QeZjk9vhdBS3BZIO6rt_kMZS5Oq3z7CQzQhOk/Bubble%20Tea%2C%20Boba%20Tea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

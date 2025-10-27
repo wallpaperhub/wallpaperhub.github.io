@@ -1,0 +1,129 @@
+<title>Stunning Mustang Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Mustang wallpapers for your iPhone! Our collection features eye-catching designs that highlight the beauty and speed of these legendary cars. Perfect for car enthusiasts and anyone looking to add a touch of horsepower to their device. Download now and showcase your passion!">
+                    <meta name="keywords" content="mustang wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mustang-wallpaper-iphone">
+                            <span itemprop="name">mustang wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mustang Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Mustang wallpapers that showcase the power and beauty of these iconic cars. Whether you’re a fan of sleek pony cars or classic muscle, our collection features vibrant images that capture the spirit of Mustang. Personalize your device with the ultimate automotive aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Mustang iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/76/12/9476129de40be68021246a8eea0efa99.jpg' alt='Ford Mustang iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/76/12/9476129de40be68021246a8eea0efa99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mustang Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mustang-iphone-a1cuvyrbqqnb1lfj.jpg' alt='100+] Mustang Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mustang-iphone-a1cuvyrbqqnb1lfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby Mustang iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/2a/c7/362ac701d5e0d1c1274dcb16f383c0a1.jpg' alt='Shelby Mustang iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/2a/c7/362ac701d5e0d1c1274dcb16f383c0a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford mustang bbs motorsport iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/72/f3/ab72f36b9faa4054415ed1fb280ed633.jpg' alt='Ford mustang bbs motorsport iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/72/f3/ab72f36b9faa4054415ed1fb280ed633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang Lights iPhone Wallpaper - iPhone Wallpaper by MAXBOOSTED ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75a1736b-8ad6-4b3e-b47b-19f5987e9711/deigp9j-8deb955f-6180-4e8e-91b7-9eb83fa786b2.jpg/v1/fill/w_670,h_1192,q_70,strp/mustang_lights_iphone_wallpaper___iphone_wallpaper_by_maxboosted_deigp9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzc1YTE3MzZiLThhZDYtNGIzZS1iNDdiLTE5ZjU5ODdlOTcxMVwvZGVpZ3A5ai04ZGViOTU1Zi02MTgwLTRlOGUtOTFiNy05ZWI4M2ZhNzg2YjIuanBnIiwid2lkdGgiOiI8PTc2OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TOa7ya0_G6YnOLRnR33-ixQmW_NY_0eEvfkHXCx8nl4' alt='Mustang Lights iPhone Wallpaper - iPhone Wallpaper by MAXBOOSTED ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75a1736b-8ad6-4b3e-b47b-19f5987e9711/deigp9j-8deb955f-6180-4e8e-91b7-9eb83fa786b2.jpg/v1/fill/w_670,h_1192,q_70,strp/mustang_lights_iphone_wallpaper___iphone_wallpaper_by_maxboosted_deigp9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzc1YTE3MzZiLThhZDYtNGIzZS1iNDdiLTE5ZjU5ODdlOTcxMVwvZGVpZ3A5ai04ZGViOTU1Zi02MTgwLTRlOGUtOTFiNy05ZWI4M2ZhNzg2YjIuanBnIiwid2lkdGgiOiI8PTc2OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TOa7ya0_G6YnOLRnR33-ixQmW_NY_0eEvfkHXCx8nl4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool iPhone wallpaper if you want it : r/Mustang">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mg31nkgs32421.jpg' alt='Cool iPhone wallpaper if you want it : r/Mustang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mg31nkgs32421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone X Car Green Shelby Mustang Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-x-car-green-shelby-mustang-0m2lju96zsnlbvyr.jpg' alt='Iphone X Car Green Shelby Mustang Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-x-car-green-shelby-mustang-0m2lju96zsnlbvyr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang Shelby Gt500 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6480744.jpg' alt='Mustang Shelby Gt500 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6480744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang iPhone Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/a6/09/55a6091244eda3f21a36e86327584339.jpg' alt='Mustang iPhone Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/a6/09/55a6091244eda3f21a36e86327584339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ford mustang boss 429 iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/160/87/HD-wallpaper-best-ford-mustang-boss-429-iphone.jpg' alt='Best Ford mustang boss 429 iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/160/87/HD-wallpaper-best-ford-mustang-boss-429-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

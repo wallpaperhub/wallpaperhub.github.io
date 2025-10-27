@@ -1,0 +1,129 @@
+<title>Stunning Purple Wave Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover our vibrant purple wave wallpaper, perfect for adding a touch of elegance to any room. Easy to apply and stylish, it transforms your interiors with soothing colors and artistic flair. Ideal for those seeking to elevate their home decor effortlessly!">
+                    <meta name="keywords" content="purple wave wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-wave-wallpaper">
+                            <span itemprop="name">purple wave wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Wave Wallpaper for Elegant Interiors</h1>
+                <p>Transform your space with stunning purple wave wallpaper, a perfect blend of elegance and modern artistry. This vibrant design brings a calming yet invigorating ambiance to any room, making it an ideal choice for bedrooms, living areas, and offices. Embrace the essence of creativity and style with this eye-catching decor solution!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wave Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-background-with-purple-wave_1048-4576.jpg' alt='Purple Wave Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-background-with-purple-wave_1048-4576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wave Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/392/047/non_2x/abstract-purple-wave-wallpaper-with-extreme-close-up-detail-for-presentation-slides-photo.jpg' alt='Purple Wave Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/392/047/non_2x/abstract-purple-wave-wallpaper-with-extreme-close-up-detail-for-presentation-slides-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple waves [3840×2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0rmaq8z5voc61.jpg' alt='Purple waves [3840×2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0rmaq8z5voc61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wave Background Images – Browse 2,109,091 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/62/17/10/360_F_762171083_eOUn6i0fQ9QwplPeZ62IhE7lKxx9wqpd.jpg' alt='Purple Wave Background Images – Browse 2,109,091 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/62/17/10/360_F_762171083_eOUn6i0fQ9QwplPeZ62IhE7lKxx9wqpd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Tumblr Purple Wave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/c2/1b/b6c21bc6c4ce657997f0f9aa1f4eee3a.jpg' alt='Wallpaper Tumblr Purple Wave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/c2/1b/b6c21bc6c4ce657997f0f9aa1f4eee3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wave Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-render-modern-background-with-flowing-cyber-particles_1048-14716.jpg' alt='Purple Wave Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-render-modern-background-with-flowing-cyber-particles_1048-14716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Wave Pattern Wallpaper - GetWalls.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/89/28/7f8928654c3ceb7489df8eadc2eb6a28.jpg' alt='Download Purple Wave Pattern Wallpaper - GetWalls.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/89/28/7f8928654c3ceb7489df8eadc2eb6a28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wave Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/725/345/small/abstract-wave-background-purple-color-vector.jpg' alt='Purple Wave Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/725/345/small/abstract-wave-background-purple-color-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Abstract Purple Wave A Mesmerizing Texture For Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/vibrant-abstract-purple-wave-a-mesmerizing-texture-for-wallpaper-or-backdrop_9916637.jpg!sw800' alt='Vibrant Abstract Purple Wave A Mesmerizing Texture For Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/vibrant-abstract-purple-wave-a-mesmerizing-texture-for-wallpaper-or-backdrop_9916637.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE WAVES POSTER">
+                                <img itemprop="contentUrl url" src='https://posterfi.com/cdn/shop/files/purple-waves-poster-32670410899615.png?format=jpg&v=1692225646&width=1080' alt='PURPLE WAVES POSTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterFi" />
+                                </span>
+                                <a href='https://posterfi.com/cdn/shop/files/purple-waves-poster-32670410899615.png?format=jpg&v=1692225646&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

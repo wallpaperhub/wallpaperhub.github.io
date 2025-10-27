@@ -1,0 +1,129 @@
+<title>Unlock Your Potential with Tony Robbins</title>
+                    <meta name="description" content="Discover the transformative teachings of Tony Robbins, a leading life coach and motivational speaker. Learn how to unleash your potential, set achievable goals, and create a life filled with passion and purpose. Join the millions inspired by his powerful insights and strategies for personal growth and success.">
+                    <meta name="keywords" content="tony robbins">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tony-robbins">
+                            <span itemprop="name">tony robbins</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Your Potential with Tony Robbins</h1>
+                <p>Tony Robbins is a renowned life coach, entrepreneur, and author known for his transformative seminars and motivational speaking. He empowers individuals to unlock their potential, achieve their goals, and foster a meaningful life. With over four decades of experience, Robbins emphasizes personal growth and peak performance in various aspects of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tony_Robbins.jpg/640px-Tony_Robbins.jpg' alt='Tony Robbins - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tony_Robbins.jpg/640px-Tony_Robbins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Success Story of a Life & Business Coach | Tony Robbins">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/nyyhaljw/production/0e7675a954325153791048427a8a8c9b72f47943-787x878.png?w=787&h=878&q=80&auto=format&w=1920' alt='The Success Story of a Life & Business Coach | Tony Robbins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tony Robbins" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/nyyhaljw/production/0e7675a954325153791048427a8a8c9b72f47943-787x878.png?w=787&h=878&q=80&auto=format&w=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Q & A with Tony Robbins - Psychotherapy Networker">
+                                <img itemprop="contentUrl url" src='https://www.psychotherapynetworker.org/wp-content/uploads/2021/08/ND17_TRobbins_Headshot.jpg' alt='A Q & A with Tony Robbins - Psychotherapy Networker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Psychotherapy Networker" />
+                                </span>
+                                <a href='https://www.psychotherapynetworker.org/wp-content/uploads/2021/08/ND17_TRobbins_Headshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Website of Tony Robbins: Personal & Business Results ...">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/nyyhaljw/production/6c7baa043858ec31ff59d463923feb7bfc64294f-1560x878.jpg?rect=122,0,1317,878&w=600&h=400&q=80&auto=format&w=3840' alt='Official Website of Tony Robbins: Personal & Business Results ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.tonyrobbins.com" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/nyyhaljw/production/6c7baa043858ec31ff59d463923feb7bfc64294f-1560x878.jpg?rect=122,0,1317,878&w=600&h=400&q=80&auto=format&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Success Story of a Life & Business Coach | Tony Robbins">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/nyyhaljw/production/3649fc07df8bc585aea452126ee2d7e516cf6b64-512x512.jpg?w=512&h=512&q=80&auto=format&w=3840' alt='The Success Story of a Life & Business Coach | Tony Robbins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tony Robbins" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/nyyhaljw/production/3649fc07df8bc585aea452126ee2d7e516cf6b64-512x512.jpg?w=512&h=512&q=80&auto=format&w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins, The CEO Whisperer | Fortune">
+                                <img itemprop="contentUrl url" src='https://fortune.com/img-assets/wp-content/uploads/2014/10/rob17_1.jpg' alt='Tony Robbins, The CEO Whisperer | Fortune'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortune" />
+                                </span>
+                                <a href='https://fortune.com/img-assets/wp-content/uploads/2014/10/rob17_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins biography, books and net worth - Toolshero">
+                                <img itemprop="contentUrl url" src='https://www.toolshero.com/wp-content/uploads/2018/01/tony-robbins-toolshero-1.jpg' alt='Tony Robbins biography, books and net worth - Toolshero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toolshero" />
+                                </span>
+                                <a href='https://www.toolshero.com/wp-content/uploads/2018/01/tony-robbins-toolshero-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins on How to Resolve Internal Conflict (#186) - The Blog ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tim.blog/wp-content/uploads/2016/09/tony-r.png?fit=359%2C359&ssl=1' alt='Tony Robbins on How to Resolve Internal Conflict (#186) - The Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tim Ferriss" />
+                                </span>
+                                <a href='https://i0.wp.com/tim.blog/wp-content/uploads/2016/09/tony-r.png?fit=359%2C359&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins: Rules To Becoming Wealthy—How To Become Rich Without ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6006c0a8de4c89e25e8c3eb3/Celebrities-Visit-SiriusXM---March-9--2017/960x0.jpg?height=807&width=711&fit=bounds' alt='Tony Robbins: Rules To Becoming Wealthy—How To Become Rich Without ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6006c0a8de4c89e25e8c3eb3/Celebrities-Visit-SiriusXM---March-9--2017/960x0.jpg?height=807&width=711&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tony Robbins | Feeding America">
+                                <img itemprop="contentUrl url" src='https://www.feedingamerica.org/sites/default/files/styles/max_325x325/public/assets/images/our-perspective/tony_300x300.jpg?itok=3yy3JvGv' alt='Tony Robbins | Feeding America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feeding America" />
+                                </span>
+                                <a href='https://www.feedingamerica.org/sites/default/files/styles/max_325x325/public/assets/images/our-perspective/tony_300x300.jpg?itok=3yy3JvGv' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

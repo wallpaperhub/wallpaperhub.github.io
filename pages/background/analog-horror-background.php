@@ -1,0 +1,129 @@
+<title>Exploring the Chilling World of Analog Horror</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="analog horror background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/analog-horror-background">
+                            <span itemprop="name">analog horror background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Chilling World of Analog Horror</h1>
+                <p>Analog horror blends nostalgia with fear, using retro aesthetics to evoke psychological tension. Originating from low-fi media and urban legends, these visuals create a sense of unease, often featuring distorted VHS tapes or grainy films. The genre dabbles in the uncanny, inviting viewers to confront deeper fears through eerie storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elements of Analog Horror – The Vault Publication">
+                                <img itemprop="contentUrl url" src='https://thevaultpublication.com/wp-content/uploads/2022/02/analog-horror.jpg' alt='The Elements of Analog Horror – The Vault Publication'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Vault Publication" />
+                                </span>
+                                <a href='https://thevaultpublication.com/wp-content/uploads/2022/02/analog-horror.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My first attempt at analog horror">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/my-first-attempt-at-analog-horror-v0-eCYj3YE2HsWvqYk0-CqPBFComjyOTp8TNfazKLfx_fw.png?format=pjpg&auto=webp&s=39d9331dc0690a00f2addc4fad0ea124c4785570' alt='My first attempt at analog horror'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/my-first-attempt-at-analog-horror-v0-eCYj3YE2HsWvqYk0-CqPBFComjyOTp8TNfazKLfx_fw.png?format=pjpg&auto=webp&s=39d9331dc0690a00f2addc4fad0ea124c4785570' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Cctv Vhs Video White Noise">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1102470391/thumb/1.jpg?ip=x480' alt='Retro Cctv Vhs Video White Noise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1102470391/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just some photos for an analog horror series based on PSAs im ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5rsz9wjxw0t71.png?width=640&crop=smart&auto=webp&s=533c8bc0b37f158f2fb7463cdea1a41aa8cd1750' alt='Just some photos for an analog horror series based on PSAs im ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5rsz9wjxw0t71.png?width=640&crop=smart&auto=webp&s=533c8bc0b37f158f2fb7463cdea1a41aa8cd1750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="971 Analog Horror Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/retro-cctv-vhs-video-noise-600nw-2504365485.jpg' alt='971 Analog Horror Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/retro-cctv-vhs-video-noise-600nw-2504365485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Skinamarink Uses - and Expands Upon - the Tropes of Analog Horror">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/analog-horror.jpg' alt='How Skinamarink Uses - and Expands Upon - the Tropes of Analog Horror'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/analog-horror.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just some photos for an analog horror series based on PSAs im ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iigafulww0t71.png?width=640&crop=smart&auto=webp&s=10d1dd099355dd39c1367b9098f0352e803aa37d' alt='Just some photos for an analog horror series based on PSAs im ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iigafulww0t71.png?width=640&crop=smart&auto=webp&s=10d1dd099355dd39c1367b9098f0352e803aa37d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Analog Horror | Aesthetics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aesthetics/images/f/fb/AnalogHorror2.gif/revision/latest?cb=20220414173759' alt='Analog Horror | Aesthetics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aesthetics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aesthetics/images/f/fb/AnalogHorror2.gif/revision/latest?cb=20220414173759' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Analog Horror (2022) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjM2NzdkMmEtMTg1OC00NmMzLWI2NjQtYzA2NWU1ODBkMjhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The History of Analog Horror (2022) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjM2NzdkMmEtMTg1OC00NmMzLWI2NjQtYzA2NWU1ODBkMjhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Analog horror - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6c/Peringatan_Darurat.png' alt='Analog horror - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6c/Peringatan_Darurat.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

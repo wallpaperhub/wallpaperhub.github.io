@@ -1,0 +1,129 @@
+<title>Do Civil Penalties Appear on Background Checks?</title>
+                    <meta name="description" content="Discover whether civil penalties show up on background checks and how they might impact your employment opportunities. Learn the nuances of different types of background checks and what potential employers can see. Stay informed to protect your career prospects!">
+                    <meta name="keywords" content="do civil penalties show up on background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-civil-penalties-show-up-on-background-checks">
+                            <span itemprop="name">do civil penalties show up on background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Civil Penalties Appear on Background Checks?</h1>
+                <p>Civil penalties can appear on background checks, depending on the nature of the penalty and the type of check being conducted. Typically, criminal background checks focus on felonies and misdemeanors, while civil penalties may be reported in certain employment or professional licensing checks, particularly if they indicate ethical violations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy-3.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1352">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Background Checks: A Complete Guide for Employers [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/04/new-york-background-check-1.jpg' alt='New York Background Checks: A Complete Guide for Employers [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/04/new-york-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show up on a Background Check? What Employers ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2022/11/pending-charges-background-check.jpg' alt='Do Pending Charges Show up on a Background Check? What Employers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2022/11/pending-charges-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Consequences of Non-Compliance with NY Background Check ...">
+                                <img itemprop="contentUrl url" src='https://www.metro-check.com/wp-content/uploads/2025/01/3-7-1024x536.jpg' alt='The Consequences of Non-Compliance with NY Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metrodata Services" />
+                                </span>
+                                <a href='https://www.metro-check.com/wp-content/uploads/2025/01/3-7-1024x536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks & Court Records | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' alt='Civil Court Background Checks & Court Records | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks & Court Records | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/filters:quality(0):blur(15)/' alt='Civil Court Background Checks & Court Records | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/filters:quality(0):blur(15)/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show up on a Background Check">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67439b40f1bfe712ab7df535_Do%20Pending%20Charges%20Show%20up%20on%20a%20Background%20Check.webp' alt='Do Pending Charges Show up on a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5411">
+                                <meta itemprop="height" content="5411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67439b40f1bfe712ab7df535_Do%20Pending%20Charges%20Show%20up%20on%20a%20Background%20Check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1383">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Show Employers?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' alt='What Does a Background Check Show Employers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

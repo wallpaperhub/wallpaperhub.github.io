@@ -1,0 +1,129 @@
+<title>Festive Christmas Party Invitation Template</title>
+                    <meta name="description" content="Create a stunning Christmas party invitation with our template! Perfect for gathering friends and family, it makes planning easy and festive. Celebrate the holiday season with style and joy. Download now for a memorable celebration!">
+                    <meta name="keywords" content="christmas party invitation template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-party-invitation-template">
+                            <span itemprop="name">christmas party invitation template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Party Invitation Template</h1>
+                <p>Join us for a festive Christmas Party! This invitation template will help you gather friends and family to celebrate the joy of the season. Enjoy delicious food, merry music, and delightful games. Dress in your holiday best and be ready for a night of laughter and fun. Let’s make this Christmas unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Party Invitation Template, Instant Download, Holiday Party  Invite, Printable Christmas Invitation, Editable Christmas Invitation - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11528983/r/il/2c1cb0/2624937259/il_1080xN.2624937259_k95n.jpg' alt='Christmas Party Invitation Template, Instant Download, Holiday Party  Invite, Printable Christmas Invitation, Editable Christmas Invitation - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11528983/r/il/2c1cb0/2624937259/il_1080xN.2624937259_k95n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invitation">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFSlvo-lY4/1/0/1135w/canva-red-green-minimalist-christmas-party-invitation-dQ_CUhEZ8HE.jpg' alt='Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFSlvo-lY4/1/0/1135w/canva-red-green-minimalist-christmas-party-invitation-dQ_CUhEZ8HE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Party Invitation Templates 2025 (Free) | Greetings Island">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/holidays/christmas/previews/rustic-pine-wreath-19259.jpeg?auto=format,compress' alt='Christmas Party Invitation Templates 2025 (Free) | Greetings Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/holidays/christmas/previews/rustic-pine-wreath-19259.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Christmas Party Invitation Holiday Company It's Cold ...">
+                                <img itemprop="contentUrl url" src='https://www.designmypartystudio.com/cdn/shop/products/il_fullxfull.2609214926_5dcb_3af0b758-4bc8-4184-bed7-95e742bbe556_1600x.jpg?v=1690046974' alt='Editable Christmas Party Invitation Holiday Company It's Cold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design My Party Studio" />
+                                </span>
+                                <a href='https://www.designmypartystudio.com/cdn/shop/products/il_fullxfull.2609214926_5dcb_3af0b758-4bc8-4184-bed7-95e742bbe556_1600x.jpg?v=1690046974' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, printable, customizable Christmas invitation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFS3Of3--Q/1/0/1135w/canva-red-%26-white-festive-christmas-party-invitation-TjYLlDU3cFY.jpg' alt='Free, printable, customizable Christmas invitation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFS3Of3--Q/1/0/1135w/canva-red-%26-white-festive-christmas-party-invitation-TjYLlDU3cFY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas party invitation 2025 template">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/11/27/Christmas-Invitation-Template-Graphics-48795189-1.png' alt='Christmas party invitation 2025 template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2320">
+                                <meta itemprop="height" content="1544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/11/27/Christmas-Invitation-Template-Graphics-48795189-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Invitation Templates, Editable and Printable">
+                                <img itemprop="contentUrl url" src='https://images.template.net/460457/Printable-Christmas-Invitation-Template-edit-online.png' alt='Free Christmas Invitation Templates, Editable and Printable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/460457/Printable-Christmas-Invitation-Template-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITABLE Christmas Party Invitation Template - Holiday Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18746217/r/il/d78f22/2608318370/il_570xN.2608318370_hf5f.jpg' alt='EDITABLE Christmas Party Invitation Template - Holiday Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18746217/r/il/d78f22/2608318370/il_570xN.2608318370_hf5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Invitation Template V4Thats Design Store On inside Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/5e/66/f85e66a95248376a773dba8d649fb668.jpg' alt='Christmas Invitation Template V4Thats Design Store On inside Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/5e/66/f85e66a95248376a773dba8d649fb668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Party Invitation Free Google Docs Template - gdoc.io">
+                                <img itemprop="contentUrl url" src='https://gdoc.io/uploads/holiday-party-invitation-free-google-docs-template-t.jpg' alt='Holiday Party Invitation Free Google Docs Template - gdoc.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1424">
+                                <meta itemprop="height" content="1968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gdoc.io" />
+                                </span>
+                                <a href='https://gdoc.io/uploads/holiday-party-invitation-free-google-docs-template-t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

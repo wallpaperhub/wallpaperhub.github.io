@@ -1,0 +1,129 @@
+<title>Ginkgo Leaves Peel and Stick Wallpaper – Nature's Elegance for Your Walls</title>
+                    <meta name="description" content="Discover our ginkgo leaves peel and stick wallpaper, designed for easy application and beautiful transformation. Perfect for any room, this wallpaper brings nature's elegance indoors. Ideal for renters or DIY enthusiasts, refresh your space effortlessly with this stunning and removable decor!">
+                    <meta name="keywords" content="ginkgo leaves peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/ginkgo-leaves-peel-and-stick-wallpaper">
+                            <span itemprop="name">ginkgo leaves peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ginkgo Leaves Peel and Stick Wallpaper – Nature's Elegance for Your Walls</h1>
+                <p>Transform your space with ginkgo leaves peel and stick wallpaper! Featuring elegant, nature-inspired designs, this versatile wallpaper is perfect for any room. It's easy to apply and remove, making it ideal for renters or those who love to change their decor frequently. Add a touch of tranquility and style effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginkgo Leaves Peel and Stick Wallpaper. Black and White Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21131879/r/il/3fb2c9/3086462074/il_fullxfull.3086462074_tez3.jpg' alt='Ginkgo Leaves Peel and Stick Wallpaper. Black and White Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21131879/r/il/3fb2c9/3086462074/il_fullxfull.3086462074_tez3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind Peel and Stick Wallpaper White and Gold Contact Paper for Cabinets  Removable Self-Adhesive Wallpaper for Bedroom Bathroom Wall Covering ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810lyqZXmpL.jpg' alt='CiCiwind Peel and Stick Wallpaper White and Gold Contact Paper for Cabinets  Removable Self-Adhesive Wallpaper for Bedroom Bathroom Wall Covering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810lyqZXmpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Gingko Leaves Peel and Stick Wallpaper (Covers 28.18 sq ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/43c5eb10-096c-4c56-b535-8dfd56a6a690/svn/roommates-wallpaper-rolls-rmk11602wp-64_600.jpg' alt='RoomMates Gingko Leaves Peel and Stick Wallpaper (Covers 28.18 sq ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/43c5eb10-096c-4c56-b535-8dfd56a6a690/svn/roommates-wallpaper-rolls-rmk11602wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GloryTik Green Peel and Stick Wallpaper Ginkgo Leaves Floral Contact Paper  Removable Self-Adhesive Wallpaper Modern Green and White Wallpaper for Room  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81POtXioVYL._AC_UF894,1000_QL80_.jpg' alt='GloryTik Green Peel and Stick Wallpaper Ginkgo Leaves Floral Contact Paper  Removable Self-Adhesive Wallpaper Modern Green and White Wallpaper for Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81POtXioVYL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginkgo Leaves Peel and Stick Wallpaper. Black and White Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21131879/r/il/c6afa6/3134193585/il_570xN.3134193585_fvd5.jpg' alt='Ginkgo Leaves Peel and Stick Wallpaper. Black and White Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21131879/r/il/c6afa6/3134193585/il_570xN.3134193585_fvd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginkgo Leaves Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11603WP_e2662d44-a9cc-44f8-bff8-80eb7a71397f.jpg?v=1703791380&width=2400' alt='Ginkgo Leaves Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11603WP_e2662d44-a9cc-44f8-bff8-80eb7a71397f.jpg?v=1703791380&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Ginkgo Leaf Self Adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/10/beige_ginkgo_leaf_wallpaper_2-2.jpg' alt='Beige Ginkgo Leaf Self Adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/10/beige_ginkgo_leaf_wallpaper_2-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginkgo Leaves Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11601WP_GingkoLeaves_RS3_8d5e1e4a-7e85-4f8d-8260-e312ca46e29c.jpg?v=1703791380&width=2400' alt='Ginkgo Leaves Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11601WP_GingkoLeaves_RS3_8d5e1e4a-7e85-4f8d-8260-e312ca46e29c.jpg?v=1703791380&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Ginkgo Leaf Self Adhesive Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/10/beige-ginkgo-wallpaper-pattern.jpg' alt='Beige Ginkgo Leaf Self Adhesive Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/10/beige-ginkgo-wallpaper-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind Peel and Stick Wallpaper Black Gold Wallpaper Ginkgo Leaves  Contact Paper 17.3In×118In Removable Self-Adhesive Wallpaper for Bedroom  Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91GsuqVaetL.jpg' alt='CiCiwind Peel and Stick Wallpaper Black Gold Wallpaper Ginkgo Leaves  Contact Paper 17.3In×118In Removable Self-Adhesive Wallpaper for Bedroom  Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91GsuqVaetL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

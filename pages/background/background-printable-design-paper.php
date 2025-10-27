@@ -1,0 +1,129 @@
+<title>Vibrant Background Printable Design Paper for Creative Projects</title>
+                    <meta name="description" content="Discover vibrant background printable design paper ideal for scrapbooking and DIY crafts. With an array of eye-catching patterns and themes, elevate your creativity and enhance your projects effortlessly. Perfect for hobbyists looking to add a unique touch to their artwork. Download and print today!">
+                    <meta name="keywords" content="background printable design paper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-printable-design-paper">
+                            <span itemprop="name">background printable design paper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Background Printable Design Paper for Creative Projects</h1>
+                <p>Background printable design paper is perfect for crafting, scrapbooking, and DIY projects. With a range of designs and patterns, it adds aesthetic appeal to any creation. Available in various themes such as florals, abstracts, and textures, this versatile paper enhances visual interest, making it a must-have for artists and hobbyists alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105 FREE Printable Papers">
+                                <img itemprop="contentUrl url" src='https://s3.eu-west-2.amazonaws.com/craft-world/cms/content/2021/06/105-collage.jpg' alt='105 FREE Printable Papers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftWorld" />
+                                </span>
+                                <a href='https://s3.eu-west-2.amazonaws.com/craft-world/cms/content/2021/06/105-collage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230927/pngtree-printable-floral-paper-borders-image_13371361.jpg' alt='Printable Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230927/pngtree-printable-floral-paper-borders-image_13371361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,000+ Free Digital Paper & Paper Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2020/10/12/16/45/pattern-5649403_1280.jpg' alt='90,000+ Free Digital Paper & Paper Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2020/10/12/16/45/pattern-5649403_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Scrapbook Paper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/79/76/f379762c3e2685bd9c4eba9814c5aeee.jpg' alt='Printable Scrapbook Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/79/76/f379762c3e2685bd9c4eba9814c5aeee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook Paper - 8 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/15/39/d01539a2eaeaa30ce2bf7e9ab61132b4.jpg' alt='Scrapbook Paper - 8 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/15/39/d01539a2eaeaa30ce2bf7e9ab61132b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="780 Printables - Papers & Backgrounds ideas | paper background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5e/ac/2d/5eac2dd1ab129e9354129ecd33b3cd3c.jpg' alt='780 Printables - Papers & Backgrounds ideas | paper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5e/ac/2d/5eac2dd1ab129e9354129ecd33b3cd3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Pattern Background Printable Scrapbook Paper Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/geometric-pattern-background-printable-scrapbook-260nw-2315417719.jpg' alt='Geometric Pattern Background Printable Scrapbook Paper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/geometric-pattern-background-printable-scrapbook-260nw-2315417719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Butterfly Background, Old Paper Design, Postcard, Printable ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/pampuch90/pampuch901511/pampuch90151100002/49207927-blue-butterfly-background-old-paper-design-postcard-printable-on-canvas-good-for-scrapbooking.jpg' alt='Blue Butterfly Background, Old Paper Design, Postcard, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/pampuch90/pampuch901511/pampuch90151100002/49207927-blue-butterfly-background-old-paper-design-postcard-printable-on-canvas-good-for-scrapbooking.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic contemporary printable seamless pattern with leaves in ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/514/722/non_2x/aesthetic-contemporary-printable-seamless-pattern-with-leaves-in-pastel-rainbow-colors-modern-floral-background-for-textile-fabric-wallpaper-wrapping-gift-wrap-paper-scrapbook-vector.jpg' alt='Aesthetic contemporary printable seamless pattern with leaves in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/514/722/non_2x/aesthetic-contemporary-printable-seamless-pattern-with-leaves-in-pastel-rainbow-colors-modern-floral-background-for-textile-fabric-wallpaper-wrapping-gift-wrap-paper-scrapbook-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring / Summer SEAMLESS Digital Papers background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/c1-9b8e79b7af24e9a53e88c7f4cbce98445e2e3535cc8f2751a723182d59d1d440.jpg' alt='Spring / Summer SEAMLESS Digital Papers background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/c1-9b8e79b7af24e9a53e88c7f4cbce98445e2e3535cc8f2751a723182d59d1d440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

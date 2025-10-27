@@ -1,0 +1,129 @@
+<title>Trendy May Aesthetic Wallpaper 2023: Refresh Your Space</title>
+                    <meta name="description" content="Discover the latest May aesthetic wallpaper trends for 2023! Elevate your decor with beautiful patterns and soothing colors that inspire tranquility. Perfect for any room, these designs are both stylish and calming. Refresh your home or office with our curated selection today!">
+                    <meta name="keywords" content="may aesthetic wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/may-aesthetic-wallpaper-2023">
+                            <span itemprop="name">may aesthetic wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy May Aesthetic Wallpaper 2023: Refresh Your Space</h1>
+                <p>May 2023 brings a fresh wave of aesthetic wallpaper trends that blend serene colors and nature-inspired patterns. Perfect for personalizing spaces, these wallpapers showcase pastel shades, floral designs, and minimalist textures. Elevate your home or workspace with captivating designs that offer a soothing and stylish ambiance throughout the month.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Start planning your month for May 2023 with this calendar ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/may-2023-calendar-2lk9df10gnl97sl0.jpg' alt='Download Start planning your month for May 2023 with this calendar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/may-2023-calendar-2lk9df10gnl97sl0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May Moodboard (Desktop & iPhone Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCsZfDm8pIQbX210KPwerw4biDU-qrH1ViXapMuTMIn35BGI8ZRAcqItciPEii77_ji1Hz3iiRDB8TNPKzCnU0sTMKecTriwEnvh0sWuMtBet3KKsmYhDJsKdOZM5CIMgXosfQvnDz7KBmN-A28nY3Lym_fw0NSrGEIaWEpdySplGs0vtKHkR8gIX37g/s3500/may%202023%20moodboard%20JPEG.jpg' alt='May Moodboard (Desktop & iPhone Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fran Acciardo" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCsZfDm8pIQbX210KPwerw4biDU-qrH1ViXapMuTMIn35BGI8ZRAcqItciPEii77_ji1Hz3iiRDB8TNPKzCnU0sTMKecTriwEnvh0sWuMtBet3KKsmYhDJsKdOZM5CIMgXosfQvnDz7KBmN-A28nY3Lym_fw0NSrGEIaWEpdySplGs0vtKHkR8gIX37g/s3500/may%202023%20moodboard%20JPEG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May calendar | Aesthetic wallpaper 2023">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/88/a9/7c88a9e95dda6b8095486e704496c39c.jpg' alt='May calendar | Aesthetic wallpaper 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/88/a9/7c88a9e95dda6b8095486e704496c39c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May 2023 Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/05/05-2023-wallpaper-iphone-art-scaled.jpg' alt='May 2023 Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/05/05-2023-wallpaper-iphone-art-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Schedule Out Your May 2023 Plans with This Calendar ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/may-2023-calendar-ouvrd5sfn9iqebkf.jpg' alt='Download "Schedule Out Your May 2023 Plans with This Calendar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/may-2023-calendar-ouvrd5sfn9iqebkf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May Moodboard (Desktop & iPhone Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLcR-obiZQUVjZw5Lzwhjd7QWm1XpEOgv11aSZRyK-h7Udaiso7v-nuNd7SrhplaXhYVQOzy4t23-Cib3Q4krPyKA5tS180DUQxUABZqNQJgZGm2dUWlUfvNo92-ZkuOjTvZy4EHiG1oytRJlfuh8DakG7-SrzeP815StVxS8gUL16jitCtps_sL4uw/s3392/may%202023%20moodboard%20iphone%20JPEG.jpg' alt='May Moodboard (Desktop & iPhone Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fran Acciardo" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLcR-obiZQUVjZw5Lzwhjd7QWm1XpEOgv11aSZRyK-h7Udaiso7v-nuNd7SrhplaXhYVQOzy4t23-Cib3Q4krPyKA5tS180DUQxUABZqNQJgZGm2dUWlUfvNo92-ZkuOjTvZy4EHiG1oytRJlfuh8DakG7-SrzeP815StVxS8gUL16jitCtps_sL4uw/s3392/may%202023%20moodboard%20iphone%20JPEG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 6 - Free and customizable spring desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFfcnExEaw/1/0/1600w/canva-beige-brown-aesthetic-photo-flower-may-calendar-2023-spring-desktop-wallpaper-9WVH9MaDYEY.jpg' alt='Page 6 - Free and customizable spring desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFfcnExEaw/1/0/1600w/canva-beige-brown-aesthetic-photo-flower-may-calendar-2023-spring-desktop-wallpaper-9WVH9MaDYEY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calendar May With Aesthetic Background, Calendar, 2023, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220724/original/pngtree-calendar-may-with-aesthetic-background-picture-image_1742200.jpg' alt='Calendar May With Aesthetic Background, Calendar, 2023, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220724/original/pngtree-calendar-may-with-aesthetic-background-picture-image_1742200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] May 2023 Calendar Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/may-2023-calendar-c6rjtzw0sai535ar.jpg' alt='100+] May 2023 Calendar Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/may-2023-calendar-c6rjtzw0sai535ar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Aesthetic botanical abstract May ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/3b/f1/a23bf156df19cc386037304e1be4e518.jpg' alt='Download premium vector of Aesthetic botanical abstract May ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/3b/f1/a23bf156df19cc386037304e1be4e518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

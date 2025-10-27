@@ -1,0 +1,129 @@
+<title>Explore the Exciting Background of Jumanji</title>
+                    <meta name="description" content="Delve into the fascinating background of Jumanji, the beloved adventure franchise featuring a magical game that transports players to perilous jungles. Discover its origins, themes, and impact on popular culture. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="jumanji background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jumanji-background">
+                            <span itemprop="name">jumanji background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Exciting Background of Jumanji</h1>
+                <p>Jumanji, a captivating adventure film franchise, began with the 1995 movie featuring a magical board game that unleashes jungle dangers and challenges. The story revolves around players facing perilous quests and fantastic creatures, blurring the lines between reality and fantasy, while highlighting themes of friendship, teamwork, and bravery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji by BETACRYSTAL on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f0880e0-bd13-4d53-a4d5-6814f2e1dca6/dbzgfm7-ca450fbd-10ef-4ff3-9aad-5f6514b9095a.jpg/v1/fill/w_1024,h_576,q_75,strp/jumanji_by_betacrystal_dbzgfm7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvM2YwODgwZTAtYmQxMy00ZDUzLWE0ZDUtNjgxNGYyZTFkY2E2XC9kYnpnZm03LWNhNDUwZmJkLTEwZWYtNGZmMy05YWFkLTVmNjUxNGI5MDk1YS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.STd66CBFJXAlye31blXj_8pI_m34oBbWM0_enm5LLBc' alt='Jumanji by BETACRYSTAL on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f0880e0-bd13-4d53-a4d5-6814f2e1dca6/dbzgfm7-ca450fbd-10ef-4ff3-9aad-5f6514b9095a.jpg/v1/fill/w_1024,h_576,q_75,strp/jumanji_by_betacrystal_dbzgfm7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvM2YwODgwZTAtYmQxMy00ZDUzLWE0ZDUtNjgxNGYyZTFkY2E2XC9kYnpnZm03LWNhNDUwZmJkLTEwZWYtNGZmMy05YWFkLTVmNjUxNGI5MDk1YS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.STd66CBFJXAlye31blXj_8pI_m34oBbWM0_enm5LLBc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PHONE WALLPAPERS - Jumanji: The Next Level | American flag ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/f2/d8/91f2d89125a1a63d0c5e0f0956c8e738.jpg' alt='PHONE WALLPAPERS - Jumanji: The Next Level | American flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/f2/d8/91f2d89125a1a63d0c5e0f0956c8e738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji: Welcome to the Jungle Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/b/6/2085942-1536x2732-phone-hd-jumanji-welcome-to-the-jungle-background-photo.jpg' alt='Jumanji: Welcome to the Jungle Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/b/6/2085942-1536x2732-phone-hd-jumanji-welcome-to-the-jungle-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji' Franchise Extending To Theme Parks, Rides, Hotels & More ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/yfkBrPyXAdYCGAPy84NBHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://media.zenfs.com/en/deadline.com/8d2747a7d0b7c695ba1271a6c4b95b54' alt='Jumanji' Franchise Extending To Theme Parks, Rides, Hotels & More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Money" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/yfkBrPyXAdYCGAPy84NBHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://media.zenfs.com/en/deadline.com/8d2747a7d0b7c695ba1271a6c4b95b54' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contents Download | Jumanji The Adventure">
+                                <img itemprop="contentUrl url" src='https://www.gardaland.it/media/jbsjwjmk/jungla-1920x1080.jpg' alt='Contents Download | Jumanji The Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardaland" />
+                                </span>
+                                <a href='https://www.gardaland.it/media/jbsjwjmk/jungla-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji: Welcome to the Jungle - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/901/901361.jpg' alt='Jumanji: Welcome to the Jungle - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/901/901361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Safari Photography Backdrop (Jumanji)">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/Jumanji_LB_Jessica_Ruth_Photography.jpg' alt='Jungle Safari Photography Backdrop (Jumanji)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/Jumanji_LB_Jessica_Ruth_Photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji: Welcome to the Jungle 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/901/901363.jpg' alt='Jumanji: Welcome to the Jungle 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/901/901363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why is Jumanji GREAT? – The East Rock Record">
+                                <img itemprop="contentUrl url" src='https://eastrockrecord.org/wp-content/uploads/2024/02/9886200_749-1200x685.jpg' alt='Why is Jumanji GREAT? – The East Rock Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The East Rock Record" />
+                                </span>
+                                <a href='https://eastrockrecord.org/wp-content/uploads/2024/02/9886200_749-1200x685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jumanji Welcome to the Jungle HD Wallpapers and 4K Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/jumanji-welcome-to-the-jungle-poster_a2Zla2uUmZqaraWkpJRta2llrWloZ2U.jpg' alt='Jumanji Welcome to the Jungle HD Wallpapers and 4K Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8640">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/jumanji-welcome-to-the-jungle-poster_a2Zla2uUmZqaraWkpJRta2llrWloZ2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

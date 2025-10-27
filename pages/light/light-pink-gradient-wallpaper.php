@@ -1,0 +1,129 @@
+<title>Serene Light Pink Gradient Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the elegance of light pink gradient wallpaper to elevate your decor. Perfect for any room, this stylish design offers a calming ambiance and versatility, blending seamlessly with various styles. Create a peaceful atmosphere in your home with this beautiful wall treatment.">
+                    <meta name="keywords" content="light pink gradient wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-pink-gradient-wallpaper">
+                            <span itemprop="name">light pink gradient wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Light Pink Gradient Wallpaper for Your Space</h1>
+                <p>Light pink gradient wallpaper adds a soft, calming touch to any space. Its blend of subtle hues creates a versatile backdrop that enhances your room's ambiance. Ideal for nurseries or stylish studios, this wallpaper complements various decor styles. Transform your walls and create a serene environment with this chic design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Pink Images – Browse 3,015,944 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/05/61/83/360_F_305618326_FLfJ8M102BuJbamF3SIjMhVUB9dm6u0B.jpg' alt='Gradient Pink Images – Browse 3,015,944 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/05/61/83/360_F_305618326_FLfJ8M102BuJbamF3SIjMhVUB9dm6u0B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gradient Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pink-yellow-plain_53876-96060.jpg' alt='Pink Gradient Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pink-yellow-plain_53876-96060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,100+ Light Pink Gradient Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1475995926/photo/light-pale-crystal-pink-rose-white-abstract-background-color-gradient-blurred-lines-elegant.jpg?s=612x612&w=0&k=20&c=zurFGduAKFWG3MWP6qJvOE90myqtY-NaIE85paUFhGo=' alt='3,100+ Light Pink Gradient Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1475995926/photo/light-pale-crystal-pink-rose-white-abstract-background-color-gradient-blurred-lines-elegant.jpg?s=612x612&w=0&k=20&c=zurFGduAKFWG3MWP6qJvOE90myqtY-NaIE85paUFhGo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Gradient #2 Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Soft-Pink-Gradient-2-Wall-Mural.jpg?v=1640971776' alt='Soft Pink Gradient #2 Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Soft-Pink-Gradient-2-Wall-Mural.jpg?v=1640971776' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink color gradient light pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/52/75/77/527577cf42eb3bade64a16591e2a4ebd.jpg' alt='Download premium image of Pink color gradient light pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/52/75/77/527577cf42eb3bade64a16591e2a4ebd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink gradient background. Y2k aesthetic blurred wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/932/564/non_2x/soft-pink-gradient-background-y2k-aesthetic-blurred-wallpaper-abstract-banner-aura-effect-vector.jpg' alt='Soft pink gradient background. Y2k aesthetic blurred wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/932/564/non_2x/soft-pink-gradient-background-y2k-aesthetic-blurred-wallpaper-abstract-banner-aura-effect-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Gradient Wallpaper Image | ILLUSTLIVE">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/39.png' alt='Light Pink Gradient Wallpaper Image | ILLUSTLIVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/39.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250,800+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1130070387/vector/pink-color-vector-background.jpg?s=612x612&w=0&k=20&c=XkXlxa5sFrl50X4n8IjQ6dZMk0-u0t15ICQpOkYGzow=' alt='250,800+ Pink Gradient Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1130070387/vector/pink-color-vector-background.jpg?s=612x612&w=0&k=20&c=XkXlxa5sFrl50X4n8IjQ6dZMk0-u0t15ICQpOkYGzow=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Purple Gradient Circle Rose Gold Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-light-pink-purple-gradient-circle-rose-gold-background-picture-image_1456456.jpg' alt='Light Pink Purple Gradient Circle Rose Gold Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-light-pink-purple-gradient-circle-rose-gold-background-picture-image_1456456.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Clements Crew Line - "Pretty in Pink" Pink Gradient Peel and ...">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/MuralSnip.jpg?v=1717013528&width=2048' alt='The Clements Crew Line - "Pretty in Pink" Pink Gradient Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/MuralSnip.jpg?v=1717013528&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

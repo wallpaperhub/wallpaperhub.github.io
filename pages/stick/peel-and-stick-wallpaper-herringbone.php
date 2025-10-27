@@ -1,0 +1,129 @@
+<title>Transform Your Space with Herringbone Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add a sophisticated touch to your decor with herringbone peel and stick wallpaper. Easy to apply and leave no marks behind, it’s ideal for renters or DIY enthusiasts. Quickly refresh any room with modern style and texture—perfect for creating stunning accent walls in your home.">
+                    <meta name="keywords" content="peel and stick wallpaper herringbone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-herringbone">
+                            <span itemprop="name">peel and stick wallpaper herringbone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Herringbone Peel and Stick Wallpaper</h1>
+                <p>Peel and stick wallpaper in herringbone patterns is a stylish and versatile design choice for any room. Easy to apply and remove, it allows for hassle-free decorating without damaging walls. Perfect for renters or those seeking quick changes, this wallpaper adds a modern touch, while its herringbone design brings texture and elegance to your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' alt='RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' alt='Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochrome Herringbone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/monochrome-herringbone-wallpaper-peel-stick-640885.jpg?v=1666799201' alt='Monochrome Herringbone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/monochrome-herringbone-wallpaper-peel-stick-640885.jpg?v=1666799201' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighthearted Herringbone - Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-lighthearted-herringbone-peel-and-stick-wallpaper-lighthearted-herringbone-12098162032726.jpg?v=1619794730' alt='Lighthearted Herringbone - Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-lighthearted-herringbone-peel-and-stick-wallpaper-lighthearted-herringbone-12098162032726.jpg?v=1619794730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Blue Herringbone Peel & Stick Wallpaper | Shop Now">
+                                <img itemprop="contentUrl url" src='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_blue-herringbone_main-view-300x400.jpg' alt='The Best Blue Herringbone Peel & Stick Wallpaper | Shop Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Sticky" />
+                                </span>
+                                <a href='https://www.hellosticky.com/wp-content/uploads/2021/01/hello-sticky_shop_peel-stick-removable-wallpaper_stripe-spot-dot-wallpaper_blue-herringbone_main-view-300x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 590.5 in Black Chevron Removable Wall Paper Peel ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cukzgzqvL.jpg' alt='Orainege Black and White Peel and Stick Wallpaper Herringbone Contact Paper  for Bathroom 17.7 in x 590.5 in Black Chevron Removable Wall Paper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cukzgzqvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/herringbone-peel-and-stick-wallpaper-282127.png?crop=center&height=1256&v=1670645987&width=1256' alt='Herringbone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/herringbone-peel-and-stick-wallpaper-282127.png?crop=center&height=1256&v=1670645987&width=1256' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Herringbone Peel and Stick Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/289d6f/2786428578/il_570xN.2786428578_qzwz.jpg' alt='Modern Herringbone Peel and Stick Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/289d6f/2786428578/il_570xN.2786428578_qzwz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Wood Boards Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK11454WP_RS2.jpg?v=1579185744' alt='Herringbone Wood Boards Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK11454WP_RS2.jpg?v=1579185744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern delicate herringbone removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-delicate-herringbone-wallpaper-by-livettes-wallpaper.jpg?v=1637840116' alt='Modern delicate herringbone removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-delicate-herringbone-wallpaper-by-livettes-wallpaper.jpg?v=1637840116' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

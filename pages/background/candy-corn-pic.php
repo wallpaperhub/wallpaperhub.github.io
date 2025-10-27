@@ -1,0 +1,129 @@
+<title>Candy Corn: A Halloween Favorite in Pictures</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="candy corn pic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-corn-pic">
+                            <span itemprop="name">candy corn pic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Corn: A Halloween Favorite in Pictures</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy corn - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Candy-Corn.jpg/1200px-Candy-Corn.jpg' alt='Candy corn - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Candy-Corn.jpg/1200px-Candy-Corn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Homemade Candy Corn">
+                                <img itemprop="contentUrl url" src='https://bastecutfold.com/wp-content/uploads/2024/02/DSC_0049-6.jpg' alt='How to Make Homemade Candy Corn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="baste cut fold" />
+                                </span>
+                                <a href='https://bastecutfold.com/wp-content/uploads/2024/02/DSC_0049-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn">
+                                <img itemprop="contentUrl url" src='https://serenalissy.com/wp-content/uploads/2014/11/Candy-Corn.jpg' alt='Candy Corn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serena Lissy" />
+                                </span>
+                                <a href='https://serenalissy.com/wp-content/uploads/2014/11/Candy-Corn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn and Peanuts (fall snack mix)">
+                                <img itemprop="contentUrl url" src='https://www.garlicandzest.com/wp-content/uploads/2017/10/harvest-snack-mix-6.jpg' alt='Candy Corn and Peanuts (fall snack mix)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Garlic & Zest" />
+                                </span>
+                                <a href='https://www.garlicandzest.com/wp-content/uploads/2017/10/harvest-snack-mix-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn Cookies: Adorable Halloween Cookie Recipe">
+                                <img itemprop="contentUrl url" src='https://chelsweets.com/wp-content/uploads/2024/10/baked-candy-corn-cookies-5-3-768x1024.jpg.webp' alt='Candy Corn Cookies: Adorable Halloween Cookie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsweets" />
+                                </span>
+                                <a href='https://chelsweets.com/wp-content/uploads/2024/10/baked-candy-corn-cookies-5-3-768x1024.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Healthy Candy Corn Parfait">
+                                <img itemprop="contentUrl url" src='https://www.superhealthykids.com/wp-content/uploads/2015/10/candy-corn-parfait-featured-image-square-1.jpg' alt='Healthy Candy Corn Parfait'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Healthy Kids" />
+                                </span>
+                                <a href='https://www.superhealthykids.com/wp-content/uploads/2015/10/candy-corn-parfait-featured-image-square-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn - By the Pound - Nuts.com">
+                                <img itemprop="contentUrl url" src='https://nuts.com/images/rackcdn/ed910ae2d60f0d25bcb8-80550f96b5feb12604f4f720bfefb46d.ssl.cf1.rackcdn.com/5140_CandyCorn_pile-37H-IK5L-large.jpg' alt='Candy Corn - By the Pound - Nuts.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nuts.com" />
+                                </span>
+                                <a href='https://nuts.com/images/rackcdn/ed910ae2d60f0d25bcb8-80550f96b5feb12604f4f720bfefb46d.ssl.cf1.rackcdn.com/5140_CandyCorn_pile-37H-IK5L-large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Candy Corn (No Corn Syrup + Dye Free!)">
+                                <img itemprop="contentUrl url" src='https://www.yourhomemadehealthy.com/wp-content/uploads/2024/10/Featured-Homemade-Candy-Corn.jpg' alt='Homemade Candy Corn (No Corn Syrup + Dye Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Home, Made Healthy" />
+                                </span>
+                                <a href='https://www.yourhomemadehealthy.com/wp-content/uploads/2024/10/Featured-Homemade-Candy-Corn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn Snack Mix">
+                                <img itemprop="contentUrl url" src='https://celebrationsathomeblog.com/wp-content/uploads/2018/09/candy-corn-snack-mix-recipe-720x720.jpg' alt='Candy Corn Snack Mix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celebrations at Home" />
+                                </span>
+                                <a href='https://celebrationsathomeblog.com/wp-content/uploads/2018/09/candy-corn-snack-mix-recipe-720x720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Corn Blondies | Baking the Goods">
+                                <img itemprop="contentUrl url" src='https://bakingthegoods.com/wp-content/uploads/2020/10/Candy-Corn-Blondies-4-683x1024.jpg' alt='Candy Corn Blondies | Baking the Goods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baking the Goods" />
+                                </span>
+                                <a href='https://bakingthegoods.com/wp-content/uploads/2020/10/Candy-Corn-Blondies-4-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Wreath Pictures: Seasonal Decor Inspiration</title>
+                    <meta name="description" content="Explore captivating wreath pictures showcasing seasonal decor ideas. From festive holiday designs to vibrant spring arrangements, get inspired to enhance your home with beautiful wreaths that add charm and personality to any space. Perfect for decor enthusiasts and DIY lovers alike!">
+                    <meta name="keywords" content="wreath picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wreath-picture">
+                            <span itemprop="name">wreath picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wreath Pictures: Seasonal Decor Inspiration</h1>
+                <p>Wreath pictures capture the beauty and elegance of seasonal decorations. From vibrant holiday wreaths adorned with ornaments to fresh floral designs for spring, these images inspire creativity for your own home decor. Share your favorites to add warmth and charm to any space, showcasing the artistry of wreath-making.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fragrant Holiday Wreath">
+                                <img itemprop="contentUrl url" src='http://www.creeksidefarms.com/cdn/shop/products/fragrant-holiday-wreath-588881.jpg?v=1684451372' alt='Fragrant Holiday Wreath'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creekside Farms" />
+                                </span>
+                                <a href='http://www.creeksidefarms.com/cdn/shop/products/fragrant-holiday-wreath-588881.jpg?v=1684451372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Meaning Behind the Christmas Wreath? — Christmas ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/6574e1918e6d4445cfa149a8/t/668293ef935e1e09f1c2114e/1719833593165/What+is+the+meaning+behind+the+Christmas+wreath.png?format=1500w' alt='What is the Meaning Behind the Christmas Wreath? — Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christmas enthusiasts" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/6574e1918e6d4445cfa149a8/t/668293ef935e1e09f1c2114e/1719833593165/What+is+the+meaning+behind+the+Christmas+wreath.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="163,800+ Christmas Wreath Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1429764399/vector/christmas-wreath.jpg?s=612x612&w=0&k=20&c=osPmPGraeLRtQLl7MdbGbSg9_h-n37DPvXEOC433o70=' alt='163,800+ Christmas Wreath Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1429764399/vector/christmas-wreath.jpg?s=612x612&w=0&k=20&c=osPmPGraeLRtQLl7MdbGbSg9_h-n37DPvXEOC433o70=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wreaths for Front Door, Winter Wreath - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14407900/r/il/5a3cea/5435029851/il_fullxfull.5435029851_q16u.jpg' alt='Christmas Wreaths for Front Door, Winter Wreath - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14407900/r/il/5a3cea/5435029851/il_fullxfull.5435029851_q16u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wreath">
+                                <img itemprop="contentUrl url" src='https://www.avasflowers.net/img/prod_img/avasflowers-christmas-wreath.jpg' alt='Christmas Wreath'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avas Flowers" />
+                                </span>
+                                <a href='https://www.avasflowers.net/img/prod_img/avasflowers-christmas-wreath.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mixed Holly">
+                                <img itemprop="contentUrl url" src='https://lynchcreekwreaths.com/cdn/shop/products/MixedHolly2020_2.jpg?v=1662687823&width=1920' alt='Mixed Holly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lynch Creek Farm" />
+                                </span>
+                                <a href='https://lynchcreekwreaths.com/cdn/shop/products/MixedHolly2020_2.jpg?v=1662687823&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Floribus 18 Inch Holly Berry Pine Cones Wreath Christmas Wreath  for Front Door, Evergreen Winter Holiday Wreath, Green Holly Front Door ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810InmK2D5L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Floribus 18 Inch Holly Berry Pine Cones Wreath Christmas Wreath  for Front Door, Evergreen Winter Holiday Wreath, Green Holly Front Door ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810InmK2D5L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make a Christmas wreath | National Trust">
+                                <img itemprop="contentUrl url" src='https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/library/discover-and-learn/crafts/christmas-wreath-scotney-castle-kent-1498870.jpg' alt='How to make a Christmas wreath | National Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Trust" />
+                                </span>
+                                <a href='https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/library/discover-and-learn/crafts/christmas-wreath-scotney-castle-kent-1498870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wreath, Elegant Christmas Wreath, Christmas Ball Wreath ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21084432/r/il/21359d/6183350294/il_fullxfull.6183350294_tmun.jpg' alt='Christmas Wreath, Elegant Christmas Wreath, Christmas Ball Wreath ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2888">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21084432/r/il/21359d/6183350294/il_fullxfull.6183350294_tmun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Idyllic 18 Inches Bright Floral Wreath- Artificial Colorful  Daisy and Green Leaves Wreath for Summer Indoor Decor : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ecyukRDSL.jpg' alt='Amazon.com: Idyllic 18 Inches Bright Floral Wreath- Artificial Colorful  Daisy and Green Leaves Wreath for Summer Indoor Decor : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ecyukRDSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

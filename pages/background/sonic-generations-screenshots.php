@@ -1,0 +1,129 @@
+<title>Sonic Generations Screenshots: Nostalgia in Every Pixel</title>
+                    <meta name="description" content="Discover a visual feast with Sonic Generations screenshots. Explore iconic levels, vibrant settings, and the thrilling blend of classic and modern Sonic gameplay. Dive into nostalgia and excitement as you relive the greatest moments in the Sonic franchise!">
+                    <meta name="keywords" content="sonic generations screenshots">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sonic-generations-screenshots">
+                            <span itemprop="name">sonic generations screenshots</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sonic Generations Screenshots: Nostalgia in Every Pixel</h1>
+                <p>Sonic Generations screenshots showcase a vibrant blend of classic and modern gameplay, highlighting stunning visuals and nostalgic levels. From Green Hill Zone to Chemical Plant, each screenshot captures the essence of speed and exploration, making fans yearn for the excitement of both 2D and 3D worlds. Experience Sonic like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Generations Screenshots">
+                                <img itemprop="contentUrl url" src='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg6.jpg?width=900' alt='Sonic Generations Screenshots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrueAchievements" />
+                                </span>
+                                <a href='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg6.jpg?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Screenshots of Sonic X Shadow Generations Hit the Web ...">
+                                <img itemprop="contentUrl url" src='https://www.sonicstadium.org/uploads/monthly_2024_01/2024-shadgens1.webp.ca70ed5853c153dda184258110e98bde.webp' alt='First Screenshots of Sonic X Shadow Generations Hit the Web ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sonic Stadium" />
+                                </span>
+                                <a href='https://www.sonicstadium.org/uploads/monthly_2024_01/2024-shadgens1.webp.ca70ed5853c153dda184258110e98bde.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Generations Screenshots">
+                                <img itemprop="contentUrl url" src='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg8.jpg?width=900' alt='Sonic Generations Screenshots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrueAchievements" />
+                                </span>
+                                <a href='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg8.jpg?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screenshot of Sonic Generations (Windows, 2011) - MobyGames">
+                                <img itemprop="contentUrl url" src='https://cdn.mobygames.com/screenshots/11827014-sonic-generations-windows-green-hill-modern.jpg' alt='Screenshot of Sonic Generations (Windows, 2011) - MobyGames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screenshot of Sonic Generations (Windows, 2011) - MobyGames" />
+                                </span>
+                                <a href='https://cdn.mobygames.com/screenshots/11827014-sonic-generations-windows-green-hill-modern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Sonic Generations freecam screenshots! : r/SonicTheHedgehog">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7py5gjc8gcm61.png?width=1920&format=png&auto=webp&s=eb67cd11615386cdc8f2d1a44693356c444fa364' alt='Some Sonic Generations freecam screenshots! : r/SonicTheHedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7py5gjc8gcm61.png?width=1920&format=png&auto=webp&s=eb67cd11615386cdc8f2d1a44693356c444fa364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Generations' Announced, Screenshots and Trailer Released">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/Sonic-Generations-Trailer.jpg' alt='Sonic Generations' Announced, Screenshots and Trailer Released'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/Sonic-Generations-Trailer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="took screenshots of characters in sonic generations. came out ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/erw2ipy7ydv81.png?width=640&crop=smart&auto=webp&s=0591dd5b9ed349d5eafc1390453de30f65c19af0' alt='took screenshots of characters in sonic generations. came out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/erw2ipy7ydv81.png?width=640&crop=smart&auto=webp&s=0591dd5b9ed349d5eafc1390453de30f65c19af0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Generations Screenshots">
+                                <img itemprop="contentUrl url" src='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg1.jpg?width=900' alt='Sonic Generations Screenshots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrueAchievements" />
+                                </span>
+                                <a href='https://ip.trueachievements.com/remote/download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450848/1033/screenlg1.jpg?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Generations PS3 Screenshots - Image #7163 | New Game Network">
+                                <img itemprop="contentUrl url" src='https://www.newgamenetwork.com/images/uploads/gallery/SonicGenerations/sonicgenerations_04.jpg' alt='Sonic Generations PS3 Screenshots - Image #7163 | New Game Network'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Game Network" />
+                                </span>
+                                <a href='https://www.newgamenetwork.com/images/uploads/gallery/SonicGenerations/sonicgenerations_04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Screenshots of Sonic X Shadow Generations Hit the Web ...">
+                                <img itemprop="contentUrl url" src='https://www.sonicstadium.org/uploads/monthly_2024_01/2024-shadgens4.webp.484b96c53956cf55b61aa1a591018162.webp' alt='First Screenshots of Sonic X Shadow Generations Hit the Web ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sonic Stadium" />
+                                </span>
+                                <a href='https://www.sonicstadium.org/uploads/monthly_2024_01/2024-shadgens4.webp.484b96c53956cf55b61aa1a591018162.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

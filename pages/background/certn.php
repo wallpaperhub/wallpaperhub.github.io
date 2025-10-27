@@ -1,0 +1,129 @@
+<title>Transform Your Hiring with Certn: Streamlined Background Checks</title>
+                    <meta name="description" content="Discover Certn, the innovative platform that simplifies background screening for faster, safer hiring. Get reliable checks tailored to your industry and make informed decisions with ease. Elevate your recruitment process with Certn today!">
+                    <meta name="keywords" content="certn">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/certn">
+                            <span itemprop="name">certn</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Hiring with Certn: Streamlined Background Checks</h1>
+                <p>Certn is a leading background screening platform designed to streamline hiring processes for businesses. Offering advanced technology for quick, reliable background checks, Certn empowers organizations to make informed hiring decisions while ensuring compliance. With customizable solutions, it caters to various industries and enhances workplace safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The World's Easiest Background Checks | Certn">
+                                <img itemprop="contentUrl url" src='https://certn.co/wp-content/uploads/2021/08/certn-logo.svg' alt='The World's Easiest Background Checks | Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn" />
+                                </span>
+                                <a href='https://certn.co/wp-content/uploads/2021/08/certn-logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Certn">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063537641524' alt='Profile for Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063537641524' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The World's Easiest Background Checks | Certn">
+                                <img itemprop="contentUrl url" src='https://certn.co/wp-content/uploads/2024/01/homepage_feature_temporary.png' alt='The World's Easiest Background Checks | Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn" />
+                                </span>
+                                <a href='https://certn.co/wp-content/uploads/2024/01/homepage_feature_temporary.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certn - Drata Technology Partner Directory">
+                                <img itemprop="contentUrl url" src='https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvOGVkMzJmMTktZjM1Ni00NmIwLTg0NWEtOGFiY2M0MGVkZmQ3LzBjMzlmNDk5LWNhYTctNGUxMS1iMjc5LTMyYTc1NThmZjdiOC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0=' alt='Certn - Drata Technology Partner Directory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drata" />
+                                </span>
+                                <a href='https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvOGVkMzJmMTktZjM1Ni00NmIwLTg0NWEtOGFiY2M0MGVkZmQ3LzBjMzlmNDk5LWNhYTctNGUxMS1iMjc5LTMyYTc1NThmZjdiOC5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MH19fX0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certn Background Screening Gets US $30M Boost with Support from ...">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20230420006045/en/1770583/22/certn-logo.jpg' alt='Certn Background Screening Gets US $30M Boost with Support from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20230420006045/en/1770583/22/certn-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certn Reviews 2025: Details, Pricing, & Features | G2">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_41b8489fdb5fea28f5452038b8c4e1fc/certn.png' alt='Certn Reviews 2025: Details, Pricing, & Features | G2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_41b8489fdb5fea28f5452038b8c4e1fc/certn.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The "Why" Behind Certn's Brand Evolution | Certn">
+                                <img itemprop="contentUrl url" src='https://certn.co/wp-content/uploads/2024/04/The-22Why22-Behind-Certn-Brand-Evolution-Banner-1024x377.png' alt='The "Why" Behind Certn's Brand Evolution | Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn" />
+                                </span>
+                                <a href='https://certn.co/wp-content/uploads/2024/04/The-22Why22-Behind-Certn-Brand-Evolution-Banner-1024x377.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Application and check statuses – Certn">
+                                <img itemprop="contentUrl url" src='https://help.certn.co/hc/article_attachments/14635959699347' alt='Application and check statuses – Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2426">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn" />
+                                </span>
+                                <a href='https://help.certn.co/hc/article_attachments/14635959699347' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Certn Background Check Process | Certn">
+                                <img itemprop="contentUrl url" src='https://certn.co/wp-content/uploads/2023/05/Certn-background-check.webp' alt='The Certn Background Check Process | Certn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certn" />
+                                </span>
+                                <a href='https://certn.co/wp-content/uploads/2023/05/Certn-background-check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certn Reviews 2025: Pricing & Features - Tekpon">
+                                <img itemprop="contentUrl url" src='https://media.tekpon.com/2023/05/Certn-Logo.webp' alt='Certn Reviews 2025: Pricing & Features - Tekpon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tekpon" />
+                                </span>
+                                <a href='https://media.tekpon.com/2023/05/Certn-Logo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

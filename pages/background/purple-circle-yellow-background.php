@@ -1,0 +1,129 @@
+<title>Stunning Purple Circle on Yellow Background</title>
+                    <meta name="description" content="Explore the striking contrast of a purple circle against a yellow background. This vibrant color pairing enhances any design, adding energy and creativity to your projects. Perfect for artists and designers looking to make a bold statement! Discover tips and inspirations today!">
+                    <meta name="keywords" content="purple circle yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-circle-yellow-background">
+                            <span itemprop="name">purple circle yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Circle on Yellow Background</h1>
+                <p>Discover the captivating visual appeal of a purple circle set against a vibrant yellow background. This bold color combination evokes energy and creativity, making it a perfect choice for artists, designers, and anyone looking to brighten their space. Explore how these colors can influence mood and aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morgan Carpenter - The intersex flag">
+                                <img itemprop="contentUrl url" src='https://morgancarpenter.com/wp-content/uploads/2019/06/intersex-flag.svg' alt='Morgan Carpenter - The intersex flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morgan Carpenter -" />
+                                </span>
+                                <a href='https://morgancarpenter.com/wp-content/uploads/2019/06/intersex-flag.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | 3D yellow purple geometric abstract background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/3d-yellow-purple-geometric-abstract-background-overlap-layer-bright-space-with-circle-decoration_135960-1362.jpg' alt='Premium Vector | 3D yellow purple geometric abstract background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/3d-yellow-purple-geometric-abstract-background-overlap-layer-bright-space-with-circle-decoration_135960-1362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/78/4a/af784a9efa3f1dc710a4151001f14541.jpg' alt='    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/78/4a/af784a9efa3f1dc710a4151001f14541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Neon Circle PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230130/ourmid/pngtree-purple-neon-circle-with-yellow-background-png-image_6574215.png' alt='Purple Neon Circle PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230130/ourmid/pngtree-purple-neon-circle-with-yellow-background-png-image_6574215.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustration Purple Yellow Concentric Circles Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/illustration-purple-yellow-concentric-circles-260nw-580868263.jpg' alt='Illustration Purple Yellow Concentric Circles Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/illustration-purple-yellow-concentric-circles-260nw-580868263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colours of Pride: The Intersex Flag Explained - Rainbow Republic">
+                                <img itemprop="contentUrl url" src='https://rainbowrepublic.co.nz/wp-content/uploads/2023/12/intersex.jpg' alt='Colours of Pride: The Intersex Flag Explained - Rainbow Republic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1222">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rainbow Republic" />
+                                </span>
+                                <a href='https://rainbowrepublic.co.nz/wp-content/uploads/2023/12/intersex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow And Purple Twibbon Design For Social Media Post Vector ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ca/6a/09/ca6a09f5ddb379eb4f844f77d2b3224f.jpg' alt='Yellow And Purple Twibbon Design For Social Media Post Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ca/6a/09/ca6a09f5ddb379eb4f844f77d2b3224f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Purple and yellow circular plate">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/purple-yellow-circular-plate_658787-646.jpg' alt='Premium PSD | Purple and yellow circular plate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/purple-yellow-circular-plate_658787-646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Intersex Flag: Its Colors, Meaning and the Community Itself">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cadehildreth.com/wp-content/uploads/2022/07/Intersex-Inclusive-Pride-Flag.png?fit=1200%2C762&ssl=1&resize=350%2C200' alt='The Intersex Flag: Its Colors, Meaning and the Community Itself'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cade Hildreth" />
+                                </span>
+                                <a href='https://i0.wp.com/cadehildreth.com/wp-content/uploads/2022/07/Intersex-Inclusive-Pride-Flag.png?fit=1200%2C762&ssl=1&resize=350%2C200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="      ️‍  Intersex Pride  ️‍       : r/RedditLaqueristas">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/intersex-pride-v0-1lhor34e056d1.png?width=640&crop=smart&auto=webp&s=2fd3852a5716e0d166b5efc5e1f33261930bd3d0' alt='      ️‍  Intersex Pride  ️‍       : r/RedditLaqueristas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/intersex-pride-v0-1lhor34e056d1.png?width=640&crop=smart&auto=webp&s=2fd3852a5716e0d166b5efc5e1f33261930bd3d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Astroworld Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the perfect Astroworld wallpaper for your device! Explore a collection of vibrant, high-quality images inspired by Travis Scott's Astroworld album, designed to brighten up your screen and showcase your fandom. Download yours now to elevate your device's aesthetic!">
+                    <meta name="keywords" content="astroworld wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/astroworld-wallpaper">
+                            <span itemprop="name">astroworld wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Astroworld Wallpapers for Your Device</h1>
+                <p>Astroworld wallpaper brings a vibrant and energetic touch to your device, perfectly capturing the essence of Travis Scott's iconic Astroworld album. Featuring vivid colors and striking visuals, these wallpapers are perfect for fans seeking a daily reminder of their favorite tracks and imagery. Transform your screen with this stunning art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astroworld Cover as Phone Wallpaper : r/travisscott">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/waiirrevmdd11.jpg' alt='Astroworld Cover as Phone Wallpaper : r/travisscott'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/waiirrevmdd11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Beautiful Aesthetic Astroworld Album Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/beautiful-hd-astroworld-album-ap7it9jjyzu5xvbs.webp' alt='Hd Beautiful Aesthetic Astroworld Album Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/beautiful-hd-astroworld-album-ap7it9jjyzu5xvbs.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day and Night astroworld IPhone Wallpaper : r/travisscott">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/OEA3ho5.jpg' alt='Day and Night astroworld IPhone Wallpaper : r/travisscott'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/OEA3ho5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Cool Aesthetic Astroworld Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hd-cool-aesthetic-astroworld-zdbui9wgwac4c71p.jpg' alt='Hd Cool Aesthetic Astroworld Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hd-cool-aesthetic-astroworld-zdbui9wgwac4c71p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ASTROWORLD By jhgfx phone wallpaper + info in comments : r/travisscott">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hBrWs_URNE6tFcMZG65fQu-lvjPc3YWphGgAeOhW894.png?auto=webp&s=acaa9bad55f59f613d083322e0f2639f72a13b5c' alt='ASTROWORLD By jhgfx phone wallpaper + info in comments : r/travisscott'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hBrWs_URNE6tFcMZG65fQu-lvjPc3YWphGgAeOhW894.png?auto=webp&s=acaa9bad55f59f613d083322e0f2639f72a13b5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Travis Scott Astroworld Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/travis-scott-astroworld-wbjy4ev5kouvtcbs.jpg' alt='100+] Travis Scott Astroworld Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/travis-scott-astroworld-wbjy4ev5kouvtcbs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image] Astroworld Desktop Wallpaper (2880 × 1800) : r/travisscott">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cd3n4zpdwp121.png?auto=webp&s=af60aab163516871f4356fd55f049c8f5df6464b' alt='Image] Astroworld Desktop Wallpaper (2880 × 1800) : r/travisscott'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cd3n4zpdwp121.png?auto=webp&s=af60aab163516871f4356fd55f049c8f5df6464b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travis Scott Astroworld Desert Theme Park Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/travis-scott-astroworld-desert-theme-park-rgmqb88bh5gh8xep.jpg' alt='Travis Scott Astroworld Desert Theme Park Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/travis-scott-astroworld-desert-theme-park-rgmqb88bh5gh8xep.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="        Astroworld  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/c3/80/30c38076ee62ba2f5fe15f9207499d94.jpg' alt='        Astroworld  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/c3/80/30c38076ee62ba2f5fe15f9207499d94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Astroworld Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/explicit-astroworld-album-portrait-7m4w4k0icuda6g44.jpg' alt='100+] Astroworld Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/explicit-astroworld-album-portrait-7m4w4k0icuda6g44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

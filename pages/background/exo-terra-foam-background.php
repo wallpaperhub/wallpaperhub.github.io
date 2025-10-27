@@ -1,0 +1,129 @@
+<title>Enhance Your Terrarium with Exo Terra Foam Backgrounds</title>
+                    <meta name="description" content="Discover Exo Terra foam backgrounds for an authentic, visually appealing habitat. Perfect for reptiles and amphibians, these easy-to-install backgrounds add depth and comfort to your terrarium. Transform your space today while promoting a stress-free environment for your pets!">
+                    <meta name="keywords" content="exo terra foam background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/exo-terra-foam-background">
+                            <span itemprop="name">exo terra foam background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Terrarium with Exo Terra Foam Backgrounds</h1>
+                <p>Exo Terra foam backgrounds are a game-changer for reptile and amphibian habitats. These lightweight, durable backgrounds mimic natural environments, providing hides and climbing surfaces. They are easy to install and customizable, enhancing your terrarium's aesthetics while reducing stress for your pets. Perfect for beginners and enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Background, 12-Inch by 18-Inch, PT2951A3">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UYm+24hCL._AC_UF1000,1000_QL80_.jpg' alt='Exo Terra Background, 12-Inch by 18-Inch, PT2951A3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UYm+24hCL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Background, 18-Inch by 24-Inch">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gKQ7lRfkL._AC_UF1000,1000_QL80_.jpg' alt='Exo Terra Background, 18-Inch by 24-Inch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gKQ7lRfkL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wholesale Exo Terra Background">
+                                <img itemprop="contentUrl url" src='https://www.reptilesupplyco.com/601/background-36-x-24-exo-terra.jpg' alt='Wholesale Exo Terra Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reptile Supply Company" />
+                                </span>
+                                <a href='https://www.reptilesupplyco.com/601/background-36-x-24-exo-terra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Foam Rock Background - Jungle Jewel Exotics">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/junglejewelexotics.com/wp-content/uploads/2024/10/Exo-terra-Rock-Foam-Background-12x12x18.jpg?fit=1600%2C1600&ssl=1' alt='Exo Terra Foam Rock Background - Jungle Jewel Exotics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jungle Jewel Exotics" />
+                                </span>
+                                <a href='https://i0.wp.com/junglejewelexotics.com/wp-content/uploads/2024/10/Exo-terra-Rock-Foam-Background-12x12x18.jpg?fit=1600%2C1600&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Foam Backgrounds For Pt2613 Pt2965 015561229654 – Pets ...">
+                                <img itemprop="contentUrl url" src='https://petswarehouse.com/cdn/shop/files/PT2965_Background_Packaging.jpg?v=1724083597&width=1946' alt='Exo Terra Foam Backgrounds For Pt2613 Pt2965 015561229654 – Pets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pets Warehouse" />
+                                </span>
+                                <a href='https://petswarehouse.com/cdn/shop/files/PT2965_Background_Packaging.jpg?v=1724083597&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Foam Background">
+                                <img itemprop="contentUrl url" src='https://bold-custom-projects.myshopify.com/cdn/shop/products/PT2955_Background.jpeg?v=1431098981' alt='Exo Terra Foam Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bold-custom-projects" />
+                                </span>
+                                <a href='https://bold-custom-projects.myshopify.com/cdn/shop/products/PT2955_Background.jpeg?v=1431098981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating foam/silicone background ontop of exo-terra bakground ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/wUOaigA.jpg' alt='Creating foam/silicone background ontop of exo-terra bakground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dendroboard" />
+                                </span>
+                                <a href='https://i.imgur.com/wUOaigA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Foam Background">
+                                <img itemprop="contentUrl url" src='https://bold-custom-projects.myshopify.com/cdn/shop/products/PT2955_Background_Packaging.jpeg?v=1431098981' alt='Exo Terra Foam Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bold-custom-projects" />
+                                </span>
+                                <a href='https://bold-custom-projects.myshopify.com/cdn/shop/products/PT2955_Background_Packaging.jpeg?v=1431098981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo-Terra Foam Backgrounds For Pt2613">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/b4757d1b-1a6a-469d-8fc8-de9fb4b4be61.fb3d05695ccff1c675b974da7f42a65c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Exo-Terra Foam Backgrounds For Pt2613'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/b4757d1b-1a6a-469d-8fc8-de9fb4b4be61.fb3d05695ccff1c675b974da7f42a65c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exo Terra Foam Background - how to turn it into Natural Rainforest Rock">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Qcvy7VEU9O0/sddefault.jpg' alt='Exo Terra Foam Background - how to turn it into Natural Rainforest Rock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Qcvy7VEU9O0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

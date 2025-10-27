@@ -1,0 +1,129 @@
+<title>Stunning Puffin Pictures: A Visual Delight</title>
+                    <meta name="description" content="Explore captivating puffin pictures showcasing these unique seabirds in their natural habitat. From vibrant beaks to playful antics, these images celebrate the beauty and charm of puffins, perfect for bird enthusiasts and nature lovers alike. Discover the world of puffins through stunning photography!">
+                    <meta name="keywords" content="puffin pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/puffin-pictures">
+                            <span itemprop="name">puffin pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Puffin Pictures: A Visual Delight</h1>
+                <p>Puffin pictures capture the charm and quirky nature of these adorable seabirds. Known for their colorful beaks and distinctively stout bodies, puffins are often seen perched on rocky cliffs or diving into the ocean. Photographs reveal their playful personalities, making them a favorite among birdwatchers and wildlife photographers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantic puffin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg' alt='Atlantic puffin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3317">
+                                <meta itemprop="height" content="3317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantic Puffin Identification, All About Birds, Cornell Lab of ...">
+                                <img itemprop="contentUrl url" src='https://www.allaboutbirds.org/guide/assets/photo/302851271-480px.jpg' alt='Atlantic Puffin Identification, All About Birds, Cornell Lab of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Birds" />
+                                </span>
+                                <a href='https://www.allaboutbirds.org/guide/assets/photo/302851271-480px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puffins | The Urban Nature Enthusiast">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/urbannature.blog/wp-content/uploads/beak-to-beak-puffins-1.jpg?ssl=1' alt='Puffins | The Urban Nature Enthusiast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Urban Nature Enthusiast" />
+                                </span>
+                                <a href='https://i0.wp.com/urbannature.blog/wp-content/uploads/beak-to-beak-puffins-1.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puffin facts! - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.creatureandcoagency.com/uploads/2014/06/Puffin-Facts-Image-2.jpg' alt='Puffin facts! - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://cdn.creatureandcoagency.com/uploads/2014/06/Puffin-Facts-Image-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantic Puffin Identification, All About Birds, Cornell Lab of ...">
+                                <img itemprop="contentUrl url" src='https://www.allaboutbirds.org/guide/assets/photo/70034501-480px.jpg' alt='Atlantic Puffin Identification, All About Birds, Cornell Lab of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Birds" />
+                                </span>
+                                <a href='https://www.allaboutbirds.org/guide/assets/photo/70034501-480px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantic Puffin | National Geographic">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/496b9ca3-0839-43b9-9a4f-5501502d258a/atlantic-puffin_thumb_2x1.jpg' alt='Atlantic Puffin | National Geographic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/496b9ca3-0839-43b9-9a4f-5501502d258a/atlantic-puffin_thumb_2x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puffin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29_with_lesser_sand_eels_%28Ammodytes_tobianus%29.jpg' alt='Puffin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c4/Puffin_%28Fratercula_arctica%29_with_lesser_sand_eels_%28Ammodytes_tobianus%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Incredible Facts About Atlantic Puffins, Iceland's Emblematic ...">
+                                <img itemprop="contentUrl url" src='https://www.expeditions.com/globalassets/expedition-stories/10-reasons-everyone-loves-to-spot-puffins-in-iceland/large-rgb-lex-iceland-ap-is-1296-1.jpg' alt='Incredible Facts About Atlantic Puffins, Iceland's Emblematic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lindblad Expeditions" />
+                                </span>
+                                <a href='https://www.expeditions.com/globalassets/expedition-stories/10-reasons-everyone-loves-to-spot-puffins-in-iceland/large-rgb-lex-iceland-ap-is-1296-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabird of the month - Atlantic Puffin (Fratercula arctica ...">
+                                <img itemprop="contentUrl url" src='https://www.birdlife.org/wp-content/uploads/2022/04/shutterstock_771064963-Frank-Fichtmueller-1024x683.jpg' alt='Seabird of the month - Atlantic Puffin (Fratercula arctica ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BirdLife International" />
+                                </span>
+                                <a href='https://www.birdlife.org/wp-content/uploads/2022/04/shutterstock_771064963-Frank-Fichtmueller-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elusive Puffin - Lisa-Marie's Made in Maine">
+                                <img itemprop="contentUrl url" src='https://lisamariesmadeinmaine.com/wp-content/uploads/2022/04/Atlantic-Puffin.jpg' alt='The Elusive Puffin - Lisa-Marie's Made in Maine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lisa-Marie's Made in Maine" />
+                                </span>
+                                <a href='https://lisamariesmadeinmaine.com/wp-content/uploads/2022/04/Atlantic-Puffin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

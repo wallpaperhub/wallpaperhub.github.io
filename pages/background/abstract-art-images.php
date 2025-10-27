@@ -1,0 +1,129 @@
+<title>Explore Stunning Abstract Art Images</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="abstract art images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abstract-art-images">
+                            <span itemprop="name">abstract art images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Abstract Art Images</h1>
+                <p>Abstract art images captivate the viewer with their vivid colors and imaginative forms, breaking away from traditional representation. Each piece invites personal interpretation, allowing emotions and thoughts to flow freely. Whether displayed in homes or galleries, abstract art engages and inspires, making a bold statement in any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Abstract Art">
+                                <img itemprop="contentUrl url" src='https://thevirtualinstructor.com/blog/wp-content/uploads/2013/08/understanding-abstract-art.jpg' alt='Understanding Abstract Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Virtual Instructor" />
+                                </span>
+                                <a href='https://thevirtualinstructor.com/blog/wp-content/uploads/2013/08/understanding-abstract-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract art original print Modern woman pop Decor HUGE Canvas by  Fidostudio | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/IyIAAOSwZQRYgpvv/s-l400.jpg' alt='Abstract art original print Modern woman pop Decor HUGE Canvas by  Fidostudio | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/IyIAAOSwZQRYgpvv/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Art Photos, Download The BEST Free Abstract Art Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?cs=srgb&dl=pexels-steve-1585325.jpg&fm=jpg' alt='Abstract Art Photos, Download The BEST Free Abstract Art Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3449">
+                                <meta itemprop="height" content="4368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?cs=srgb&dl=pexels-steve-1585325.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Art, Abstract Art, Contemporary Art, Geometric Art, Small ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26444570/r/il/50de82/3546699860/il_fullxfull.3546699860_3why.jpg' alt='Original Art, Abstract Art, Contemporary Art, Geometric Art, Small ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2290">
+                                <meta itemprop="height" content="2309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26444570/r/il/50de82/3546699860/il_fullxfull.3546699860_3why.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Famous Abstract Art and Artists">
+                                <img itemprop="contentUrl url" src='https://art.rtistiq.com/en-us/_next/image?url=https%3A%2F%2Fd28jbe41jq1wak.cloudfront.net%2FBlogsImages%2Fabstract_art_Compressed_638250928944386407.jpg&w=1920&q=75' alt='Famous Abstract Art and Artists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RtistiQ" />
+                                </span>
+                                <a href='https://art.rtistiq.com/en-us/_next/image?url=https%3A%2F%2Fd28jbe41jq1wak.cloudfront.net%2FBlogsImages%2Fabstract_art_Compressed_638250928944386407.jpg&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Original Abstract Paintings and Prints by Sally Trace ...">
+                                <img itemprop="contentUrl url" src='https://www.sallytrace.com/cdn/shop/files/three-six-and-nine-abstract-art-painting.jpg?v=1736885742&width=533' alt='Contemporary Original Abstract Paintings and Prints by Sally Trace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.sallytrace.com" />
+                                </span>
+                                <a href='https://www.sallytrace.com/cdn/shop/files/three-six-and-nine-abstract-art-painting.jpg?v=1736885742&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Abstract Art Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664438942574-e56510dc5ce5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWJzdHJhY3QlMjBhcnR8ZW58MHx8MHx8fDA%3D' alt='500+ Abstract Art Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664438942574-e56510dc5ce5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWJzdHJhY3QlMjBhcnR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric abstract art, structured shattering, 14x17in : r/AbstractArt">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rzgylxmckjk91.jpg' alt='Geometric abstract art, structured shattering, 14x17in : r/AbstractArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2312">
+                                <meta itemprop="height" content="1771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rzgylxmckjk91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Art Photos, Download The BEST Free Abstract Art Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg' alt='Abstract Art Photos, Download The BEST Free Abstract Art Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Faces in Abstract Painting by Nidhi Agarwal | Saatchi Art">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1689730/art/8044808/7111855-YJMFMQHC-7.jpg' alt='Three Faces in Abstract Painting by Nidhi Agarwal | Saatchi Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1689730/art/8044808/7111855-YJMFMQHC-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

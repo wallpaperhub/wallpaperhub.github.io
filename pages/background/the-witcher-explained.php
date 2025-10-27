@@ -1,0 +1,129 @@
+<title>The Witcher: A Comprehensive Guide</title>
+                    <meta name="description" content="Discover the world of "The Witcher," featuring Geralt of Rivia's epic adventures. Explore its rich lore, characters, and moral complexities in this concise guide. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="the witcher explained">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-witcher-explained">
+                            <span itemprop="name">the witcher explained</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Witcher: A Comprehensive Guide</h1>
+                <p>"The Witcher" is a fantasy series based on Andrzej Sapkowski's novels, focusing on Geralt of Rivia, a monster hunter with supernatural abilities. Set in a rich, immersive world, the story intertwines politics, magic, and moral ambiguity. Geralt navigates a path filled with quests, mythical creatures, and complex relationships.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confused About 'The Witcher'? This Timeline Guide Will Help">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5e177478f6366400064b8f75/Witcher-Timeline/960x0.jpg?height=400&width=711&fit=bounds' alt='Confused About 'The Witcher'? This Timeline Guide Will Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5e177478f6366400064b8f75/Witcher-Timeline/960x0.jpg?height=400&width=711&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witcher intro symbols with their names and reference (meaning ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9fryu8obut841.jpg' alt='Witcher intro symbols with their names and reference (meaning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9fryu8obut841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPOILERS] 'The Witcher' Deconstructed Timeline : r/netflixwitcher">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dlh1ryif48841.jpg' alt='SPOILERS] 'The Witcher' Deconstructed Timeline : r/netflixwitcher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dlh1ryif48841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher Timelines Explained - How to Understand Geralt ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/the-witcher-timelines-explained-1578061819.jpg' alt='The Witcher Timelines Explained - How to Understand Geralt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/the-witcher-timelines-explained-1578061819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher, explained: All the backstory and characters you need ...">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/eb053deb92b07b0496fbd22ce6ab16fc5c0a5a76/hub/2019/12/13/b921910f-7218-43dc-a4bf-487d04da3d4c/thewitcher-101-unit-06900-rt-fk3ph4dhp.jpg?auto=webp&width=1200' alt='The Witcher, explained: All the backstory and characters you need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/eb053deb92b07b0496fbd22ce6ab16fc5c0a5a76/hub/2019/12/13/b921910f-7218-43dc-a4bf-487d04da3d4c/thewitcher-101-unit-06900-rt-fk3ph4dhp.jpg?auto=webp&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher' Franchise Explained: Books, Games, Netflix Series & More">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/06/the-witcher-season-3-henry-cavill-1.jpg' alt='The Witcher' Franchise Explained: Books, Games, Netflix Series & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/06/the-witcher-season-3-henry-cavill-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher, explained: All the backstory and characters you need ...">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/a2fcd8a6283eb6c0a563cb710eb1214ee20ec61f/hub/2019/12/06/e07b4a85-5869-4d26-9878-39efc7714a77/witcherbig.jpg?auto=webp&fit=crop&height=1200&width=1200' alt='The Witcher, explained: All the backstory and characters you need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/a2fcd8a6283eb6c0a563cb710eb1214ee20ec61f/hub/2019/12/06/e07b4a85-5869-4d26-9878-39efc7714a77/witcherbig.jpg?auto=webp&fit=crop&height=1200&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a timeline for the tv series explaining when the characters ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ronve430yy541.png?auto=webp&s=40818695dcc06f50210cc453f88e79172ec0729e' alt='I made a timeline for the tv series explaining when the characters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ronve430yy541.png?auto=webp&s=40818695dcc06f50210cc453f88e79172ec0729e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is 'The Witcher' About? 'The Witcher' Plot, Explained | The ...">
+                                <img itemprop="contentUrl url" src='https://www.themarysue.com/wp-content/uploads/2023/03/Henry-Cavill-Geralt-of-Rivia-The-Witcher.webp' alt='What Is 'The Witcher' About? 'The Witcher' Plot, Explained | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mary Sue" />
+                                </span>
+                                <a href='https://www.themarysue.com/wp-content/uploads/2023/03/Henry-Cavill-Geralt-of-Rivia-The-Witcher.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher S1 Timeline and Map Explained - Netflix Show - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EqFZMkHQ2vA/hqdefault.jpg' alt='The Witcher S1 Timeline and Map Explained - Netflix Show - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EqFZMkHQ2vA/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

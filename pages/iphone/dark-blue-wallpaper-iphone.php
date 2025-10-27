@@ -1,0 +1,129 @@
+<title>Dark Blue Wallpaper for iPhone: Elevate Your Aesthetic</title>
+                    <meta name="description" content="Discover elegant dark blue wallpaper options for your iPhone. Enhance your device’s look with rich tones and stylish designs that reflect your personality. Perfect for any occasion, transform your phone's appearance effortlessly! Find your ideal wallpaper today.">
+                    <meta name="keywords" content="dark blue wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dark-blue-wallpaper-iphone">
+                            <span itemprop="name">dark blue wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Blue Wallpaper for iPhone: Elevate Your Aesthetic</h1>
+                <p>Transform your iPhone with stunning dark blue wallpaper! This sleek and modern design adds elegance to your device, perfect for both personal and professional use. Choose from various shades and patterns to match your style, creating a sophisticated backdrop that enhances your icon display. Elevate your phone's aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark blue wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/abs2q7flz8jd1.jpeg' alt='Dark blue wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1892">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/abs2q7flz8jd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 50+ Best Dark Blue iPhone Wallpapers (Free 4k HD)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/54/78/f454782bc6b356a09bad2257e646336f.jpg' alt='Download 50+ Best Dark Blue iPhone Wallpapers (Free 4k HD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/54/78/f454782bc6b356a09bad2257e646336f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pure Dark Blue Ocean Gradation Blur Background iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/e6/67/ede667da3dddcc6be676d12377432dd5.jpg' alt='Pure Dark Blue Ocean Gradation Blur Background iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/e6/67/ede667da3dddcc6be676d12377432dd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Blue Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-blue-iphone-x8xd17u987250jog.jpg' alt='100+] Dark Blue Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-blue-iphone-x8xd17u987250jog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Navy Blue Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/navy-blue-iphone-yzjsghc6werkxnrj.jpg' alt='100+] Navy Blue Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/navy-blue-iphone-yzjsghc6werkxnrj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 50+ Best Dark Blue iPhone Wallpapers (Free 4k HD)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/42/6c/71426c6e1d992c4f0d2537128587eb0a.jpg' alt='Download 50+ Best Dark Blue iPhone Wallpapers (Free 4k HD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/42/6c/71426c6e1d992c4f0d2537128587eb0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Galaxy In Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-blue-galaxy-in-space-iphone-77ulr6vs3pcq9y2z.jpg' alt='Dark Blue Galaxy In Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-blue-galaxy-in-space-iphone-77ulr6vs3pcq9y2z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/02/ispazio-2-1280x2769.png' alt='Dark Blue - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/02/ispazio-2-1280x2769.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Dark Blue Aesthetic iPhone, Unique Blue, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/542/724/HD-wallpaper-30-best-dark-blue-aesthetic-iphone-unique-blue.jpg' alt='30 Best Dark Blue Aesthetic iPhone, Unique Blue, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/542/724/HD-wallpaper-30-best-dark-blue-aesthetic-iphone-unique-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download these blue wallpapers for iPhone, iPad, and Mac">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/10/Pacfic-Blue-iphone-wallpaper-idownloadblog-smartechdaily-abstract.jpg' alt='Download these blue wallpapers for iPhone, iPad, and Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/10/Pacfic-Blue-iphone-wallpaper-idownloadblog-smartechdaily-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

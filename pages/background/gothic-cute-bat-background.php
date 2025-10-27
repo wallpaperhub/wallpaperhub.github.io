@@ -1,0 +1,129 @@
+<title>Gothic Cute Bat Background: Stylish & Spooky</title>
+                    <meta name="description" content="Discover the perfect gothic cute bat background to enhance your space! This unique design features charming bat motifs that blend edgy and adorable, ideal for personal use or as a stylish decoration. Perfect for lovers of gothic aesthetics looking to add some flair and fun!">
+                    <meta name="keywords" content="gothic cute bat background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gothic-cute-bat-background">
+                            <span itemprop="name">gothic cute bat background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Cute Bat Background: Stylish & Spooky</h1>
+                <p>Transform your space with a gothic cute bat background! This whimsical design combines a dark aesthetic with adorable bat illustrations, perfect for adding a touch of charm to your room or digital devices. Ideal for those who love a blend of spooky and sweet, it brings a playful yet edgy vibe to any environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Bat Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11930801/p/f/m/LSWcbQs4AeSFUmdr_RAO8EmI508iPQXjDQsjXHzAERebv1z2cSkxvww/Pastel%20bat%20floral.jpg' alt='Pastel Goth Bat Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11930801/p/f/m/LSWcbQs4AeSFUmdr_RAO8EmI508iPQXjDQsjXHzAERebv1z2cSkxvww/Pastel%20bat%20floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless illustration of bats on background of ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-illustration-bats-background-starry-sky_630078-2.jpg' alt='Premium Vector | Seamless illustration of bats on background of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-illustration-bats-background-starry-sky_630078-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel goth bats …">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/f4/0a/44f40a98ed44e9463b2ff36f66fbe175.jpg' alt='Pastel goth bats …'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/f4/0a/44f40a98ed44e9463b2ff36f66fbe175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Lolita Bats Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15167377/p/f/m/1mdIsPB-xklwbXXM-3-cI5gRURPcAm_rVv9JV4gqFDXuUWc6ekeHfBc/Pastel%20Goth%20Bat%20Halloween%20Purple%20Clouds%20Moon%20Celestial%20.jpg' alt='Gothic Lolita Bats Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15167377/p/f/m/1mdIsPB-xklwbXXM-3-cI5gRURPcAm_rVv9JV4gqFDXuUWc6ekeHfBc/Pastel%20Goth%20Bat%20Halloween%20Purple%20Clouds%20Moon%20Celestial%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/ca/d5/77cad586bb95536e6c164920c0356579.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/ca/d5/77cad586bb95536e6c164920c0356579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bat Gothic Stock Illustrations – 21,522 Bat Gothic Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/repeating-pattern-featuring-detailed-bat-illustrations-intricate-gothic-designs-beige-background-monochromatic-color-351815075.jpg' alt='Bat Gothic Stock Illustrations – 21,522 Bat Gothic Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/repeating-pattern-featuring-detailed-bat-illustrations-intricate-gothic-designs-beige-background-monochromatic-color-351815075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Bat Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEyL3Jhd3BpeGVsX29mZmljZV8zMV9nb3RoaWNfYmF0X3BhdHRlcm5faWxsdXN0cmF0aW9uX3dhbGxhcGFwZXJfYl82ODUwOGNmNS05ZGEyLTQwMmUtYjA1YS04MTNiZjc2OTE5MzlfMS5qcGc.jpg' alt='Gothic Bat Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEyL3Jhd3BpeGVsX29mZmljZV8zMV9nb3RoaWNfYmF0X3BhdHRlcm5faWxsdXN0cmF0aW9uX3dhbGxhcGFwZXJfYl82ODUwOGNmNS05ZGEyLTQwMmUtYjA1YS04MTNiZjc2OTE5MzlfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Bat Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12582732/p/f/l/BkgFeAuuqDp7kNHlWRTamhTrOmi5h2kN9smqG2C3joeqLCifJ6fioElmxA/Kawaii%20Emo%20Bat%20Scene%20Kid%20Alt%20Aesthetic%20Goth%20.jpg' alt='Emo Bat Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12582732/p/f/l/BkgFeAuuqDp7kNHlWRTamhTrOmi5h2kN9smqG2C3joeqLCifJ6fioElmxA/Kawaii%20Emo%20Bat%20Scene%20Kid%20Alt%20Aesthetic%20Goth%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Bat Wallpapers ideas | halloween wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4b/92/84/4b92843dde29b509d8126fa4319bd89f.jpg' alt='11 Bat Wallpapers ideas | halloween wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4b/92/84/4b92843dde29b509d8126fa4319bd89f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 3ft x 2ft - Night Flight Gothic Halloween Bats Grey  Bat Animal Spooky Dark Cave Emo Creatures Wildlife Custom Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61lA3u7iBYL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 3ft x 2ft - Night Flight Gothic Halloween Bats Grey  Bat Animal Spooky Dark Cave Emo Creatures Wildlife Custom Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61lA3u7iBYL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

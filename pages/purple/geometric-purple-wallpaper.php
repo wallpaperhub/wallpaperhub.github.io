@@ -1,0 +1,129 @@
+<title>Stylish Geometric Purple Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Discover stunning geometric purple wallpaper that transforms your space. Ideal for accent walls or entire rooms, our collection balances modern style with artistic flair. Elevate your home décor effortlessly today!">
+                    <meta name="keywords" content="geometric purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/geometric-purple-wallpaper">
+                            <span itemprop="name">geometric purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Geometric Purple Wallpaper for Modern Interiors</h1>
+                <p>Geometric purple wallpaper adds a modern touch to any room, showcasing intricate patterns that elevate your décor. Perfect for creating an accent wall or for use throughout a space, this stylish wallpaper brings a calming yet vibrant atmosphere. Explore various designs to find the perfect fit for your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Geometric Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148909931.jpg' alt='Purple Geometric Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148909931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Purple Background Images – Browse 1,527,462 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/33/10/70/360_F_633107016_xHAgkS9dVg4z4L0rmSpYMUXKXYRrGpP1.jpg' alt='Geometric Purple Background Images – Browse 1,527,462 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/33/10/70/360_F_633107016_xHAgkS9dVg4z4L0rmSpYMUXKXYRrGpP1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Geometric Abstract Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50373_WP.jpg' alt='Purple Geometric Abstract Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50373_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Geometric Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-abstract-geometric-myxfyc5dm80xjmf8-3.jpg' alt='Purple Abstract Geometric Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-abstract-geometric-myxfyc5dm80xjmf8-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Gold Lines Geometric Art Wallpaper Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/fd16b0/2677223649/il_570xN.2677223649_itr5.jpg' alt='Purple Background Gold Lines Geometric Art Wallpaper Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/fd16b0/2677223649/il_570xN.2677223649_itr5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Purple Background Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/168568/list/3f50f04f88c1b90b0b467b63395c1220-geometric-purple-background-design.jpg' alt='Geometric Purple Background Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/168568/list/3f50f04f88c1b90b0b467b63395c1220-geometric-purple-background-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract geometric polygon purple background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-geometric-polygon-purple-background-illustration-perfect-wallpaper-backdrop-postcard_565280-546.jpg?w=360' alt='Premium Vector | Abstract geometric polygon purple background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-geometric-polygon-purple-background-illustration-perfect-wallpaper-backdrop-postcard_565280-546.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Purple Geometric Wallpaper SR1040">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/SparklingPurpleGeometricWallpaperSR1040.png?v=1735842275&width=1024' alt='Sparkling Purple Geometric Wallpaper SR1040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/SparklingPurpleGeometricWallpaperSR1040.png?v=1735842275&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/83/e6/3783e6f69713b3ee98b68a38b9d96abd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/83/e6/3783e6f69713b3ee98b68a38b9d96abd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Geometric Wallpaper Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://negativespace.co/wp-content/uploads/2019/08/negative-space-abstract-shape-pattern-background-1.jpg' alt='Abstract Geometric Wallpaper Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NegativeSpace" />
+                                </span>
+                                <a href='https://negativespace.co/wp-content/uploads/2019/08/negative-space-abstract-shape-pattern-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

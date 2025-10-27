@@ -1,0 +1,129 @@
+<title>White Background with Hearts: Love in Every Shade</title>
+                    <meta name="description" content="Discover the enchanting charm of a white background adorned with hearts. Perfect for any occasion, this design adds a romantic touch to your projects, invitations, or social media. Embrace love and creativity with a simple yet vibrant heart-filled aesthetic.">
+                    <meta name="keywords" content="white background with hearts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-background-with-hearts">
+                            <span itemprop="name">white background with hearts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Background with Hearts: Love in Every Shade</h1>
+                <p>A white background filled with hearts creates a charming and romantic ambiance. This design can be used for various occasions like weddings, Valentine’s Day, or just expressing love. The simplicity of a white canvas paired with vibrant or pastel hearts brings a fresh and joyful touch, making it perfect for invitations, decorations, or social media posts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts On White Background Images – Browse 3,419,686 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/94/70/50/360_F_694705088_bTFeig7BrwFaJQky2byk3teJzbbXIoUf.jpg' alt='Hearts On White Background Images – Browse 3,419,686 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/94/70/50/360_F_694705088_bTFeig7BrwFaJQky2byk3teJzbbXIoUf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts On White Background Images – Browse 3,419,686 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/44/25/56/360_F_244255693_SRdxcS3FpkxA9Lgv6DTAN2Ny9EPGvLZD.jpg' alt='Hearts On White Background Images – Browse 3,419,686 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/44/25/56/360_F_244255693_SRdxcS3FpkxA9Lgv6DTAN2Ny9EPGvLZD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts On White Background Images – Browse 3,419,686 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/11/42/97/360_F_211429758_glSnMaZ6PU6ec0vj8mq4WaLJJTUpkDlG.jpg' alt='Hearts On White Background Images – Browse 3,419,686 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/11/42/97/360_F_211429758_glSnMaZ6PU6ec0vj8mq4WaLJJTUpkDlG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="780+ Simple Black And White Pattern With Hearts Seamless Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/941733700/vector/seamless-pattern-with-hand-drawn-hearts-vector-illustration-in-scandinavian-style.jpg?s=612x612&w=0&k=20&c=pIJSxrGeFx4jIbtO5E_gWXCYc8zde8JvxUHP42p65WA=' alt='780+ Simple Black And White Pattern With Hearts Seamless Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/941733700/vector/seamless-pattern-with-hand-drawn-hearts-vector-illustration-in-scandinavian-style.jpg?s=612x612&w=0&k=20&c=pIJSxrGeFx4jIbtO5E_gWXCYc8zde8JvxUHP42p65WA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Hearts Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/light-pink-heart-pattern_53876-67660.jpg' alt='White Hearts Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/light-pink-heart-pattern_53876-67660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts On A White Background, Heart Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/karenr/karenr1001/karenr100100080/6278672-red-hearts-on-a-white-background-heart-background.jpg' alt='Red Hearts On A White Background, Heart Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/karenr/karenr1001/karenr100100080/6278672-red-hearts-on-a-white-background-heart-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tile pattern with pink hearts on white background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/64/50/tile-pattern-with-pink-hearts-on-white-background-vector-4556450.jpg' alt='Tile pattern with pink hearts on white background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/64/50/tile-pattern-with-pink-hearts-on-white-background-vector-4556450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine white background hearts vector free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2019/09/Valentine-white-background-hearts-vector.jpg' alt='Valentine white background hearts vector free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2019/09/Valentine-white-background-hearts-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts On White Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hearts-on-white-background-fn0wvvyvhbouhpgh.jpg' alt='Hearts On White Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hearts-on-white-background-fn0wvvyvhbouhpgh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and white heart shape pattern background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/98/14/red-and-white-heart-shape-pattern-background-vector-3789814.jpg' alt='Red and white heart shape pattern background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/98/14/red-and-white-heart-shape-pattern-background-vector-3789814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

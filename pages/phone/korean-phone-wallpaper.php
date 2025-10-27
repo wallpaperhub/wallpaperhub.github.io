@@ -1,0 +1,129 @@
+<title>Discover Stunning Korean Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of beautiful Korean phone wallpapers! Perfect for adding a cultural touch to your device, our wallpapers feature vibrant designs and themes inspired by Korea's rich heritage. Refresh your phone's look and express your style effortlessly!">
+                    <meta name="keywords" content="korean phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/korean-phone-wallpaper">
+                            <span itemprop="name">korean phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Korean Phone Wallpapers for Your Device</h1>
+                <p>Elevate your device's aesthetics with stunning Korean phone wallpapers! Dive into a world of vibrant colors, unique designs, and cultural motifs. From K-pop icons to tranquil landscapes, there's a wallpaper to suit every mood. Refresh your phone's look and showcase your love for Korea with these artistic backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korea Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/0/0/144573-1080x1920-samsung-full-hd-korea-wallpaper.jpg' alt='Korea Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/0/0/144573-1080x1920-samsung-full-hd-korea-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Lock Screen Korean Wallpaper iPhone Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/4d/f2/c64df280ccd25c26da355a32ec066a1a.jpg' alt='   Free download Lock Screen Korean Wallpaper iPhone Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/4d/f2/c64df280ccd25c26da355a32ec066a1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute, aesthetic, chibi, korean, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/240/370/HD-wallpaper-cute-aesthetic-chibi-korean.jpg' alt='Cute, aesthetic, chibi, korean, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/240/370/HD-wallpaper-cute-aesthetic-chibi-korean.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korean Phone Background Wallpaper for iPhone / Android / Samsung - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27747754/r/il/5bea5b/3612926981/il_1080xN.3612926981_rkd1.jpg' alt='Korean Phone Background Wallpaper for iPhone / Android / Samsung - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27747754/r/il/5bea5b/3612926981/il_1080xN.3612926981_rkd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korea Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/6/a/145488-1080x1920-iphone-1080p-korea-background-photo.jpg' alt='Korea Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/6/a/145488-1080x1920-iphone-1080p-korea-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Translate---> SpringTime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/68/24/32/6824326b6cdd71643ad38d95969cd58f.png' alt='Translate---> SpringTime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/68/24/32/6824326b6cdd71643ad38d95969cd58f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RJ i'm Tired in Korean Wallpaper Aesthetic Simple iPhone XR Wallpapers  Digital Download Art - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24151985/r/il/696f03/3649326459/il_1080xN.3649326459_8u3a.jpg' alt='RJ i'm Tired in Korean Wallpaper Aesthetic Simple iPhone XR Wallpapers  Digital Download Art - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24151985/r/il/696f03/3649326459/il_1080xN.3649326459_8u3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetically Pleasing Korea-Style Phone Wallpapers To Lift Your ...">
+                                <img itemprop="contentUrl url" src='https://images-sg.girlstyle.com/wp-content/uploads/2020/08/efcdec970d766a61e4b810dfce451e7c.jpg?auto=format&w=1053' alt='Aesthetically Pleasing Korea-Style Phone Wallpapers To Lift Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="girlstyle.com" />
+                                </span>
+                                <a href='https://images-sg.girlstyle.com/wp-content/uploads/2020/08/efcdec970d766a61e4b810dfce451e7c.jpg?auto=format&w=1053' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seoul, city, korean, love, night, roads, south korea, square, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/344/408/HD-wallpaper-seoul-city-korean-love-night-roads-south-korea-square.jpg' alt='Seoul, city, korean, love, night, roads, south korea, square, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/344/408/HD-wallpaper-seoul-city-korean-love-night-roads-south-korea-square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korea Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a6/92/8a/a6928a0ec6294371a6353ed3ac90ed23.jpg' alt='Korea Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a6/92/8a/a6928a0ec6294371a6353ed3ac90ed23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

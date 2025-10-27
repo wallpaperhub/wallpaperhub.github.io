@@ -1,0 +1,129 @@
+<title>Vibrant Pink Ikat Wallpaper: Style Your Space!</title>
+                    <meta name="description" content="Discover the elegance of pink ikat wallpaper to elevate your home's decor. Featuring lively patterns and rich colors, this wallpaper brings warmth and style to any room. Perfect for making a bold statement or adding subtle charm, transform your space effortlessly. Shop now for the best designs!">
+                    <meta name="keywords" content="pink ikat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-ikat-wallpaper">
+                            <span itemprop="name">pink ikat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Ikat Wallpaper: Style Your Space!</h1>
+                <p>Transform your space with stunning pink ikat wallpaper, a perfect blend of modern style and traditional patterns. Its vibrant hues and dynamic designs add a pop of color to any room, making it ideal for feature walls or entire spaces. Embrace the beauty of artisan craftsmanship and elevate your decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Ikat Wallpaper Hot Hibiscus Pink - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9025718/r/il/d1a5fa/3838715506/il_570xN.3838715506_p0sd.jpg' alt='Bubblegum Pink Ikat Wallpaper Hot Hibiscus Pink - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9025718/r/il/d1a5fa/3838715506/il_570xN.3838715506_p0sd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ikat Wallpaper - Fashionable Wall Decor">
+                                <img itemprop="contentUrl url" src='https://claire-bella.com/cdn/shop/products/ikat600_84af9adc-e8a2-451f-904c-eca49541b2e1.jpg?v=1668190578' alt='Ikat Wallpaper - Fashionable Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clairebella" />
+                                </span>
+                                <a href='https://claire-bella.com/cdn/shop/products/ikat600_84af9adc-e8a2-451f-904c-eca49541b2e1.jpg?v=1668190578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ikat Wallpaper - Fashionable Wall Decor">
+                                <img itemprop="contentUrl url" src='https://claire-bella.com/cdn/shop/products/ikatpink_62f48aec-8735-492f-88bd-006eaedc438f_900x.jpg?v=1668190578' alt='Ikat Wallpaper - Fashionable Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clairebella" />
+                                </span>
+                                <a href='https://claire-bella.com/cdn/shop/products/ikatpink_62f48aec-8735-492f-88bd-006eaedc438f_900x.jpg?v=1668190578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Teardrop Ikat Wallpaper Hot Pink and Magenta pre ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9025718/r/il/7d2926/4987113403/il_fullxfull.4987113403_oqxw.jpg' alt='Traditional Teardrop Ikat Wallpaper Hot Pink and Magenta pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9025718/r/il/7d2926/4987113403/il_fullxfull.4987113403_oqxw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patara Ikat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lionheartwallpaper.com/cdn/shop/products/T64142-2-WALLPAPER_1445x.jpg?v=1654856635' alt='Patara Ikat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lionheart Wallpaper" />
+                                </span>
+                                <a href='https://www.lionheartwallpaper.com/cdn/shop/products/T64142-2-WALLPAPER_1445x.jpg?v=1654856635' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kasuri Pink Ikat Wallpaper | Sanderson">
+                                <img itemprop="contentUrl url" src='https://www.fabricsandpapers.com/media/catalog/product/cache/6eb7ad2e23ee8696c4e64c0befcff895/p/i/pink-ikat-wallpaper-kasuri.jpg' alt='Kasuri Pink Ikat Wallpaper | Sanderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="181">
+                                <meta itemprop="height" content="181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabrics and Papers" />
+                                </span>
+                                <a href='https://www.fabricsandpapers.com/media/catalog/product/cache/6eb7ad2e23ee8696c4e64c0befcff895/p/i/pink-ikat-wallpaper-kasuri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Ikat Wallpaper by Kandola - Fuchsia / Grey - Wallpaper - DW1566/01/001">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/100882/tiled/kandola-new-ikat-wallpaper-fuchsia-grey-wallpaper-tiled-100882.jpg' alt='New Ikat Wallpaper by Kandola - Fuchsia / Grey - Wallpaper - DW1566/01/001'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/100882/tiled/kandola-new-ikat-wallpaper-fuchsia-grey-wallpaper-tiled-100882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Santa Barbara Ikat Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/2074218233923_4.jpg?v=1714036250' alt='Schumacher Santa Barbara Ikat Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/2074218233923_4.jpg?v=1714036250' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink, Purple and Orange Ikat Design Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-pink-purple-and-orange-ikat-design-peel-stick-wallpaper-playa-flamingo-6567560708196.jpg?v=1619661910' alt='Pink, Purple and Orange Ikat Design Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-pink-purple-and-orange-ikat-design-peel-stick-wallpaper-playa-flamingo-6567560708196.jpg?v=1619661910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Ikat Wallpaper Hot Hibiscus Pink - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9025718/r/il/051576/3701419284/il_570xN.3701419284_n194.jpg' alt='Bubblegum Pink Ikat Wallpaper Hot Hibiscus Pink - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9025718/r/il/051576/3701419284/il_570xN.3701419284_n194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

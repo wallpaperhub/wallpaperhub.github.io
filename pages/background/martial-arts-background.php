@@ -1,0 +1,129 @@
+<title>Exploring the Rich Heritage of Martial Arts</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="martial arts background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/martial-arts-background">
+                            <span itemprop="name">martial arts background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich Heritage of Martial Arts</h1>
+                <p>Martial arts has a rich history, stemming from ancient practices developed for combat, self-defense, and spiritual development. Various styles emerged across cultures, like karate from Japan and kung fu from China, each incorporating unique techniques and philosophies. Today, martial arts promotes discipline, fitness, and self-confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,800+ Martial Arts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/162543556/vector/karate.jpg?s=612x612&w=0&k=20&c=kKZDybFWU2qJl0Bs-z-4XOnx6Pek83YtHQv3Td-33ig=' alt='3,800+ Martial Arts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/162543556/vector/karate.jpg?s=612x612&w=0&k=20&c=kKZDybFWU2qJl0Bs-z-4XOnx6Pek83YtHQv3Td-33ig=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/13/73/26/360_F_413732606_HRyaNDWlgJtnukp3k2nJpulLWkihZdjg.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="741">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/13/73/26/360_F_413732606_HRyaNDWlgJtnukp3k2nJpulLWkihZdjg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/20/49/52/360_F_720495246_ElJ8FvZPniE4oOQ0t1ejVt1uhDZxsGBz.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/20/49/52/360_F_720495246_ElJ8FvZPniE4oOQ0t1ejVt1uhDZxsGBz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/55/41/02/360_F_955410219_gcEXMN7MGgEhQvBpINa1iJjl1U7gpOUT.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/55/41/02/360_F_955410219_gcEXMN7MGgEhQvBpINa1iJjl1U7gpOUT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Art Banner Images – Browse 9,818 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/17/76/58/360_F_117765874_W7HAkystS1e66aBpVf3BaHkKUleDrkBE.jpg' alt='Martial Art Banner Images – Browse 9,818 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/17/76/58/360_F_117765874_W7HAkystS1e66aBpVf3BaHkKUleDrkBE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karate Fight Images – Browse 125,324 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/22/01/99/360_F_222019964_iWGfiIWx6WevuVcrvtR7KLlRlmsyESBm.jpg' alt='Karate Fight Images – Browse 125,324 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/22/01/99/360_F_222019964_iWGfiIWx6WevuVcrvtR7KLlRlmsyESBm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/73/74/86/360_F_773748629_UZTO5YC0RhM8hXQnKVVt21tjXaCtdJR1.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/73/74/86/360_F_773748629_UZTO5YC0RhM8hXQnKVVt21tjXaCtdJR1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/35/43/09/360_F_1035430978_LAhgsUdqj3Mp4AhuZ16oDDu7xwFPe5kH.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/35/43/09/360_F_1035430978_LAhgsUdqj3Mp4AhuZ16oDDu7xwFPe5kH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A person in a karate stance against a bright red background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/person-karate-stance-against-bright-red-background_153912-360083.jpg' alt='A person in a karate stance against a bright red background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/person-karate-stance-against-bright-red-background_153912-360083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martial Arts Background Images – Browse 118,398 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/29/27/95/360_F_1029279542_F4tzkZwBra0E7lD7PfCUS9WvjXA8e08Y.jpg' alt='Martial Arts Background Images – Browse 118,398 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/29/27/95/360_F_1029279542_F4tzkZwBra0E7lD7PfCUS9WvjXA8e08Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

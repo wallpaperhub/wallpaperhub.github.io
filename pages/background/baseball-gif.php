@@ -1,0 +1,129 @@
+<title>Exciting Baseball GIFs: Capture the Action!</title>
+                    <meta name="description" content="Discover a collection of thrilling baseball GIFs showcasing the best moments in the sport. Perfect for sharing or enjoying solo, these animated clips highlight home runs, spectacular catches, and game highlights. Experience baseball like never before with these engaging short clips!">
+                    <meta name="keywords" content="baseball gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baseball-gif">
+                            <span itemprop="name">baseball gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting Baseball GIFs: Capture the Action!</h1>
+                <p>Baseball GIFs bring the excitement of the game to life with dynamic and entertaining animations. From incredible home runs to stunning catches, these short clips capture the essence of baseball moments. Whether you're sharing a favorite play or just looking to enjoy some baseball fun, GIFs are the perfect way to celebrate the sport!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rays Up Mlb Regular Season GIF by MLB - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/TUxOrAQlYqlwyHvjNJ/giphy.gif?cid=6c09b952blbbihimzqq1839ph31ibmytk86nfh6ifhthxdas&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Rays Up Mlb Regular Season GIF by MLB - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/TUxOrAQlYqlwyHvjNJ/giphy.gif?cid=6c09b952blbbihimzqq1839ph31ibmytk86nfh6ifhthxdas&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLB GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/l29NnO7DSFsGYfNjGH/200.gif' alt='MLB GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="378">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/l29NnO7DSFsGYfNjGH/200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Major League Baseball Sport GIF by MLB - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/4V0mAzoxs73gSl2wxz/giphy.gif?cid=6c09b9521ztfajpiyc1wbqqhyksopo8eks5wfj0lsxvugz97&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Major League Baseball Sport GIF by MLB - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/4V0mAzoxs73gSl2wxz/giphy.gif?cid=6c09b9521ztfajpiyc1wbqqhyksopo8eks5wfj0lsxvugz97&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="major league baseball sport GIF by MLB - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/2YteF33BLJ3PM6mR25/giphy.gif?cid=6c09b952p9mirxkhlbs47m2c1m75ngrs9l30l3xzschchsiz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='major league baseball sport GIF by MLB - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/2YteF33BLJ3PM6mR25/giphy.gif?cid=6c09b952p9mirxkhlbs47m2c1m75ngrs9l30l3xzschchsiz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seu Baseball GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/MqYxsSj6USK6zdWSiR/200w.gif?cid=6c09b952p1xo9v0y78e72s6qcg4115om9b6chn330p55un7l&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Seu Baseball GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/MqYxsSj6USK6zdWSiR/200w.gif?cid=6c09b952p1xo9v0y78e72s6qcg4115om9b6chn330p55un7l&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Coolest Baseball GIF of All Time | FanGraphs Baseball">
+                                <img itemprop="contentUrl url" src='http://www.fangraphs.com/blogs/wp-content/uploads/2013/04/DarvishGIF.gif' alt='The Coolest Baseball GIF of All Time | FanGraphs Baseball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FanGraphs Baseball" />
+                                </span>
+                                <a href='http://www.fangraphs.com/blogs/wp-content/uploads/2013/04/DarvishGIF.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Major League Baseball Sport GIF by MLB - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/o5VRQFTjwKPSROzOih/giphy.gif?cid=6c09b952367i0appqa2zrct6ys5lqhr1n6gke8x3w9mna5fv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Major League Baseball Sport GIF by MLB - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/o5VRQFTjwKPSROzOih/giphy.gif?cid=6c09b952367i0appqa2zrct6ys5lqhr1n6gke8x3w9mna5fv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make It Major GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/5gxF40vy6sycn604Qj/giphy.gif' alt='Make It Major GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/5gxF40vy6sycn604Qj/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excited Major League Baseball GIF by MLB - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/ehcIj21xIc8KnsjEaA/giphy.gif?cid=6c09b952zc58k7gxmo9davefgxusxnllup7l0ybwkuux7grh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Excited Major League Baseball GIF by MLB - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/ehcIj21xIc8KnsjEaA/giphy.gif?cid=6c09b952zc58k7gxmo9davefgxusxnllup7l0ybwkuux7grh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Pitch GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/SeFselNYL30ripA51Y/giphy.gif?cid=6c09b952mo82095ael7klz6l76q9mtcef213sxk4mewl06wf&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Baseball Pitch GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/SeFselNYL30ripA51Y/giphy.gif?cid=6c09b952mo82095ael7klz6l76q9mtcef213sxk4mewl06wf&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

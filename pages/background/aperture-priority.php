@@ -1,0 +1,129 @@
+<title>Mastering Aperture Priority for Stunning Photos</title>
+                    <meta name="description" content="Discover how to use aperture priority mode to enhance your photography skills. Learn to control depth of field and achieve the perfect exposure for beautiful images, whether you're shooting portraits or landscapes. Unlock your creative potential with this essential camera setting!">
+                    <meta name="keywords" content="aperture priority">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aperture-priority">
+                            <span itemprop="name">aperture priority</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Aperture Priority for Stunning Photos</h1>
+                <p>Aperture priority is a camera setting that allows photographers to control the aperture (f-stop) while the camera automatically selects the appropriate shutter speed. This mode is perfect for achieving the desired depth of field, making it ideal for portraits or landscape photography. Mastering aperture priority enhances creative expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperture priority - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aperture_priority_mode.svg/1200px-Aperture_priority_mode.svg.png' alt='Aperture priority - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aperture_priority_mode.svg/1200px-Aperture_priority_mode.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperture Priority and Depth of Field in Digital Photography">
+                                <img itemprop="contentUrl url" src='http://thedigitalprocess.com/wp-content/uploads/2011/03/aperture-diagram.gif' alt='Aperture Priority and Depth of Field in Digital Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the DIGITAL process" />
+                                </span>
+                                <a href='http://thedigitalprocess.com/wp-content/uploads/2011/03/aperture-diagram.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperture priority - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/69/Aperture_priority_mode.svg' alt='Aperture priority - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/69/Aperture_priority_mode.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Creative With Aperture Priority Mode">
+                                <img itemprop="contentUrl url" src='https://www.creative-photographer.com/wp-content/uploads/2019/08/aperture-priority-mode-1.jpg' alt='Get Creative With Aperture Priority Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Creative Photographer" />
+                                </span>
+                                <a href='https://www.creative-photographer.com/wp-content/uploads/2019/08/aperture-priority-mode-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Introduction to Aperture Priority and Shutter Priority Modes">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2012/05/aperture-and-shutter-priority-modes.png?fit=1904%2C966&ssl=1' alt='An Introduction to Aperture Priority and Shutter Priority Modes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1904">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Photography School" />
+                                </span>
+                                <a href='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2012/05/aperture-and-shutter-priority-modes.png?fit=1904%2C966&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Shoot in Aperture Priority Mode?">
+                                <img itemprop="contentUrl url" src='https://llandscapes-10674.kxcdn.com/wp-content/uploads/2015/08/5882398501_9e1112e858_o.png' alt='Why Shoot in Aperture Priority Mode?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loaded Landscapes" />
+                                </span>
+                                <a href='https://llandscapes-10674.kxcdn.com/wp-content/uploads/2015/08/5882398501_9e1112e858_o.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Shoot in Aperture Priority Mode">
+                                <img itemprop="contentUrl url" src='https://simpleasthatblog.com/wp-content/uploads/2016/08/how-to-shoot-in-aperture-priority-mode-1.jpg' alt='How to Shoot in Aperture Priority Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple as That Blog" />
+                                </span>
+                                <a href='https://simpleasthatblog.com/wp-content/uploads/2016/08/how-to-shoot-in-aperture-priority-mode-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperture Priority and Depth of Field in Digital Photography">
+                                <img itemprop="contentUrl url" src='http://www.thedigitalprocess.com/wp-content/uploads/2011/03/how-aperture-affects-your-photos.jpg' alt='Aperture Priority and Depth of Field in Digital Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the DIGITAL process" />
+                                </span>
+                                <a href='http://www.thedigitalprocess.com/wp-content/uploads/2011/03/how-aperture-affects-your-photos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Shoot in Aperture Priority Mode">
+                                <img itemprop="contentUrl url" src='https://simpleasthatblog.com/wp-content/uploads/2016/08/Artboard-1.png' alt='How to Shoot in Aperture Priority Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple as That Blog" />
+                                </span>
+                                <a href='https://simpleasthatblog.com/wp-content/uploads/2016/08/Artboard-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperture Priority Auto Exposure Definition - What is Aperture ...">
+                                <img itemprop="contentUrl url" src='https://slrlounge.com/wp-content/uploads/2019/12/aperture-priority.jpg' alt='Aperture Priority Auto Exposure Definition - What is Aperture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLR Lounge" />
+                                </span>
+                                <a href='https://slrlounge.com/wp-content/uploads/2019/12/aperture-priority.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

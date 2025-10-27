@@ -1,0 +1,129 @@
+<title>Embrace Dark Mode: Enhance Your User Experience</title>
+                    <meta name="description" content="Discover the benefits of dark mode for apps and systems. Improve your experience with reduced eye strain, stylish aesthetics, and battery savings on OLEDs. Switch to dark mode today for a modern touch!">
+                    <meta name="keywords" content="word dark mode">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/word-dark-mode">
+                            <span itemprop="name">word dark mode</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Dark Mode: Enhance Your User Experience</h1>
+                <p>Dark mode has become a popular feature across various apps and operating systems, allowing users to switch to a darker color scheme for enhanced readability and reduced eye strain. This mode not only saves battery life on OLED screens but also provides a sleek, modern aesthetic. Explore how dark mode enhances user experience and productivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ExpressBasics: How to get dark mode on Microsoft Word?">
+                                <img itemprop="contentUrl url" src='https://images.indianexpress.com/2022/01/Dark-mode-on-Word-Feature-Image.jpg' alt='ExpressBasics: How to get dark mode on Microsoft Word?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Indian Express" />
+                                </span>
+                                <a href='https://images.indianexpress.com/2022/01/Dark-mode-on-Word-Feature-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to keep Microsoft Word documents white in dark mode — Syvantis ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61f06825a9e7b14f111b242e/2efdc0f1-a42d-4c73-b803-70aa44d4cae7/dark%2Bmode%2B1.png' alt='How to keep Microsoft Word documents white in dark mode — Syvantis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Syvantis Technologies, Inc." />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61f06825a9e7b14f111b242e/2efdc0f1-a42d-4c73-b803-70aa44d4cae7/dark%2Bmode%2B1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Word editor goes full dark mode - SuperTekBoy">
+                                <img itemprop="contentUrl url" src='https://cdn.supertekboy.com/wp-content/uploads/2020/11/Microsoft-Word-Dark-Mode-Turning-on-the-lights.jpg' alt='Microsoft Word editor goes full dark mode - SuperTekBoy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SuperTekBoy" />
+                                </span>
+                                <a href='https://cdn.supertekboy.com/wp-content/uploads/2020/11/Microsoft-Word-Dark-Mode-Turning-on-the-lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Word Is Dark Mode">
+                                <img itemprop="contentUrl url" src='http://ms.codes/cdn/shop/articles/darkmodenewquick.gif?v=1709211199' alt='Microsoft Word Is Dark Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2175">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MS.Codes" />
+                                </span>
+                                <a href='http://ms.codes/cdn/shop/articles/darkmodenewquick.gif?v=1709211199' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is there a way to easily use Word 2016 in TRUE "dark mode"? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/69sgf1m2thg11.png?width=3840&format=png&auto=webp&s=0687d201bff4d0be5537a842af4485a801fd8f33' alt='Is there a way to easily use Word 2016 in TRUE "dark mode"? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/69sgf1m2thg11.png?width=3840&format=png&auto=webp&s=0687d201bff4d0be5537a842af4485a801fd8f33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to enable dark mode in Ms Word (with dark or white page ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3ieK_Wn7Fyk/sddefault.jpg?v=64077d12' alt='How to enable dark mode in Ms Word (with dark or white page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3ieK_Wn7Fyk/sddefault.jpg?v=64077d12' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Word editor goes full dark mode - SuperTekBoy">
+                                <img itemprop="contentUrl url" src='https://cdn.supertekboy.com/wp-content/uploads/2020/11/Dark-Mode-in-Microsoft-Word-Build-2012.jpg' alt='Microsoft Word editor goes full dark mode - SuperTekBoy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SuperTekBoy" />
+                                </span>
+                                <a href='https://cdn.supertekboy.com/wp-content/uploads/2020/11/Dark-Mode-in-Microsoft-Word-Build-2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colors - Full dark-mode in Microsoft Word (2016): dark page ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/wWnhJ.png' alt='colors - Full dark-mode in Microsoft Word (2016): dark page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1348">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super User" />
+                                </span>
+                                <a href='https://i.sstatic.net/wWnhJ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Enable Dark Mode in Microsoft Office">
+                                <img itemprop="contentUrl url" src='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/word-in-dark-mode-on-windows-11.png' alt='How to Enable Dark Mode in Microsoft Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How-To Geek" />
+                                </span>
+                                <a href='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/word-in-dark-mode-on-windows-11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colors - Full dark-mode in Microsoft Word (2016): dark page ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/O7uwS.png' alt='colors - Full dark-mode in Microsoft Word (2016): dark page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super User" />
+                                </span>
+                                <a href='https://i.sstatic.net/O7uwS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

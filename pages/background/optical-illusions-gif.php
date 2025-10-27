@@ -1,0 +1,129 @@
+<title>Mind-Bending Optical Illusions GIFs to Challenge Your Perception</title>
+                    <meta name="description" content="Discover stunning optical illusions GIFs that will amaze and confuse your mind! Perfect for social sharing, these dynamic animations twist perception and provide endless entertainment. Dive into this captivating visual journey and share the surprise with your friends!">
+                    <meta name="keywords" content="optical illusions gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/optical-illusions-gif">
+                            <span itemprop="name">optical illusions gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mind-Bending Optical Illusions GIFs to Challenge Your Perception</h1>
+                <p>Explore the mesmerizing world of optical illusions through captivating GIFs that challenge your perception! These animated visuals twist reality, making you second-guess what you see. Perfect for sharing with friends or as a fun addition to your social media feed, these GIFs provide entertainment and intrigue in equal measure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visual Illusion GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/GmWeN9bM2VCIlxoIfw/200w.gif?cid=6c09b95227sr0e3dms08p6csvmhtnp4mrpv4we6a18egn24a&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Visual Illusion GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/GmWeN9bM2VCIlxoIfw/200w.gif?cid=6c09b95227sr0e3dms08p6csvmhtnp4mrpv4we6a18egn24a&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optical Illusions GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/GvG57zvOVM8Ao/200w.gif?cid=6c09b952xv6o97o5lvj7638vtl1hghz51s5q4pbp0blwaaml&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Optical Illusions GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/GvG57zvOVM8Ao/200w.gif?cid=6c09b952xv6o97o5lvj7638vtl1hghz51s5q4pbp0blwaaml&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illusion Optica GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/WV_gxhS4M6IAAAAM/moving-formation.gif' alt='Illusion Optica GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/WV_gxhS4M6IAAAAM/moving-formation.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optical Illusions Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/01/icegif-1523.gif' alt='Optical Illusions Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/01/icegif-1523.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optical Illusions Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/03/icegif-661.gif' alt='Optical Illusions Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/03/icegif-661.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Spinning Optical Illusion GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/l3R9ET6H486piDQcUX/200w.gif?cid=6c09b952e7smn3dxynjlhqalacfr5wd92a74egbpcepy78fg&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Trippy Spinning Optical Illusion GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/l3R9ET6H486piDQcUX/200w.gif?cid=6c09b952e7smn3dxynjlhqalacfr5wd92a74egbpcepy78fg&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illusion GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3gGBN3q97tUE8/200w.gif?cid=6c09b952maetb9g3notidpbwjd6pq2iesyob67qh1udsf607&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Illusion GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3gGBN3q97tUE8/200w.gif?cid=6c09b952maetb9g3notidpbwjd6pq2iesyob67qh1udsf607&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600 Optical Art GIF'S ideas | optical art, optical illusions ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2e/5e/93/2e5e930fb6778f6552ebe5985119a110.gif' alt='600 Optical Art GIF'S ideas | optical art, optical illusions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2e/5e/93/2e5e930fb6778f6552ebe5985119a110.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optical Illusions GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/MahwLPliaF1nF3hooQ/giphy.gif' alt='Optical Illusions GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/MahwLPliaF1nF3hooQ/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Optical illusion in isometric.gif - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8e/Optical_illusion_in_isometric.gif' alt='File:Optical illusion in isometric.gif - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8e/Optical_illusion_in_isometric.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

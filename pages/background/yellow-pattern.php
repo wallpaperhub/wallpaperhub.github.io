@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Patterns: Brighten Your Style</title>
+                    <meta name="description" content="Explore the allure of yellow patterns in fashion and decor! Discover how these cheerful designs can enhance your style and brighten your environment. Perfect for adding warmth and creativity to any space. Dive into the vibrant world of yellow today!">
+                    <meta name="keywords" content="yellow pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-pattern">
+                            <span itemprop="name">yellow pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Patterns: Brighten Your Style</h1>
+                <p>Yellow patterns bring vibrancy and energy to any space or design. Their warmth can evoke feelings of happiness and creativity, making them perfect for fashion, interior decor, and art. Whether in cheerful stripes, delicate florals, or bold geometric shapes, yellow patterns can brighten your day and ignite inspiration in everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,084,300+ Yellow Patterns Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/469806772/vector/yellow-and-white-waves-seamless-pattern.jpg?s=612x612&w=0&k=20&c=f71etxOPJvaKEwCbGuPfNZi-WWGJafpYoTv2JE4eebQ=' alt='3,084,300+ Yellow Patterns Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/469806772/vector/yellow-and-white-waves-seamless-pattern.jpg?s=612x612&w=0&k=20&c=f71etxOPJvaKEwCbGuPfNZi-WWGJafpYoTv2JE4eebQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow starbursts pattern - Sally Cummings Designs">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5822c09715d5dbd718461a0e/1498288903391-EPYYAHMNHHVZOG82BWCE/YellowStarburstsPattern_WM_1500px72dpi.jpg' alt='Yellow starbursts pattern - Sally Cummings Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sally Cummings Designs" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5822c09715d5dbd718461a0e/1498288903391-EPYYAHMNHHVZOG82BWCE/YellowStarburstsPattern_WM_1500px72dpi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Pattern Designs | Free Seamless Vector, Illustration & PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMDZhLWtyb2lxemMyLmpwZw.jpg' alt='Yellow Pattern Designs | Free Seamless Vector, Illustration & PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMDZhLWtyb2lxemMyLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/zigzag-pattern-yellow-background-geometric-style_1017-41286.jpg' alt='Yellow Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/zigzag-pattern-yellow-background-geometric-style_1017-41286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Flowers reimagined paisley Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11287109/p/f/m/ARJR8Us1PuiJFhf0ypqCWNaeRhLE8eD1qEQH_XMijthQ96wpPZJD/Forest_Flowers_reimagined_paisley_pattern_mustard_yellow_large_scale.jpg' alt='Forest Flowers reimagined paisley Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11287109/p/f/m/ARJR8Us1PuiJFhf0ypqCWNaeRhLE8eD1qEQH_XMijthQ96wpPZJD/Forest_Flowers_reimagined_paisley_pattern_mustard_yellow_large_scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Seamless Pattern Stock Illustrations – 578,788 Yellow ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/vector-chevron-yellow-seamless-pattern-painted-background-zigzag-brush-strokes-composition-fabric-print-63457025.jpg' alt='Yellow Seamless Pattern Stock Illustrations – 578,788 Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/vector-chevron-yellow-seamless-pattern-painted-background-zigzag-brush-strokes-composition-fabric-print-63457025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,084,300+ Yellow Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/937269072/vector/pattern-stripe-seamless-yellow-two-tone-colors-chevron-stripe-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=H2rhQjQ5s5RyYgmEkRA0O2rU8lxT-e2cSlFjk1gclO8=' alt='3,084,300+ Yellow Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/937269072/vector/pattern-stripe-seamless-yellow-two-tone-colors-chevron-stripe-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=H2rhQjQ5s5RyYgmEkRA0O2rU8lxT-e2cSlFjk1gclO8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Patterns, Digital Patterns, Seamless Yellow Pattern, Print ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42797836/r/il/909fb3/4886270443/il_fullxfull.4886270443_8qrn.jpg' alt='Yellow Patterns, Digital Patterns, Seamless Yellow Pattern, Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42797836/r/il/909fb3/4886270443/il_fullxfull.4886270443_8qrn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free yellow repeating background patterns and textures overview.">
+                                <img itemprop="contentUrl url" src='https://background-tiles.com/overview/yellow/patterns/large/1056.png' alt='Free yellow repeating background patterns and textures overview.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="background-tiles.com" />
+                                </span>
+                                <a href='https://background-tiles.com/overview/yellow/patterns/large/1056.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Pattern Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/028/283/984/non_2x/yellow-turing-reaction-gradient-background-abstract-diffusion-pattern-with-chaotic-shapes-illustration-vector.jpg' alt='Yellow Pattern Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/028/283/984/non_2x/yellow-turing-reaction-gradient-background-abstract-diffusion-pattern-with-chaotic-shapes-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

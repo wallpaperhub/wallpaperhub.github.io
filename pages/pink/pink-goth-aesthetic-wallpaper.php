@@ -1,0 +1,129 @@
+<title>"Vibrant Pink Goth Aesthetic Wallpaper for Unique Spaces"</title>
+                    <meta name="description" content="Discover the perfect fusion of dark and playful with our pink goth aesthetic wallpaper. Transform your walls into an eclectic haven of whimsy and mystique, featuring bold colors and unique designs. Ideal for any room, this wallpaper is a statement of style and individuality.">
+                    <meta name="keywords" content="pink goth aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-goth-aesthetic-wallpaper">
+                            <span itemprop="name">pink goth aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Vibrant Pink Goth Aesthetic Wallpaper for Unique Spaces"</h1>
+                <p>Pink goth aesthetic wallpaper blends dark and whimsical elements, creating a unique visual experience. Featuring shades of pink intermingled with gothic motifs like skulls, roses, and lace, this aesthetic captivates those who embrace both darkness and softness. Ideal for personalizing your space, it reflects individuality and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth pink aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/90/dd/3090dd4990fe0e16c33a35db4e0c80c5.jpg' alt='Goth pink aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/90/dd/3090dd4990fe0e16c33a35db4e0c80c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Goth Collage Aesthetic.jpg Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-goth-collage-aesthetic-jpg-bong8awp4wsre8hy.jpg' alt='Download Pink Goth Collage Aesthetic.jpg Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-goth-collage-aesthetic-jpg-bong8awp4wsre8hy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' alt='Goth wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Goth Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-goth-aesthetic-collage-5dnbw6lugqp7e2d3.jpg' alt='Download Pink Goth Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-goth-aesthetic-collage-5dnbw6lugqp7e2d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Gothic Hearts Abstract Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-gothic-hearts-abstract-osn7dlzhgag16tz5.jpg' alt='Download Pink Gothic Hearts Abstract Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-gothic-hearts-abstract-osn7dlzhgag16tz5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Princess wallpaper by RoseWater17 - Download on ZEDGE™ | 6395 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/cc/09/6dcc092eee2d86db0ba9274d1041c148.jpg' alt='Goth Princess wallpaper by RoseWater17 - Download on ZEDGE™ | 6395 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/cc/09/6dcc092eee2d86db0ba9274d1041c148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pink goth wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/66/918/HD-wallpaper-pink-grunge-goth-kawaii-kawaii-pastel-pink-goth-pink-gun-pink-pills.jpg' alt='HD pink goth wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/66/918/HD-wallpaper-pink-grunge-goth-kawaii-kawaii-pastel-pink-goth-pink-gun-pink-pills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Planet Aesthetics Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-goth-galaxy-pink-hand-d7caqfuogog9zpmh.webp' alt='Pastel Goth Planet Aesthetics Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-goth-galaxy-pink-hand-d7caqfuogog9zpmh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Goth Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-goth-aesthetic-collage-e39xh21brehsv9fl.jpg' alt='Download Pink Goth Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-goth-aesthetic-collage-e39xh21brehsv9fl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink mallgoth aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/cd/11/12cd11ce4eb886ba942faf644799b2a4.jpg' alt='pink mallgoth aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/cd/11/12cd11ce4eb886ba942faf644799b2a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

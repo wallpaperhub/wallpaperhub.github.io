@@ -1,0 +1,129 @@
+<title>Charming Sanrio Pattern Wallpaper: Perfect for Any Room</title>
+                    <meta name="description" content="Discover the delightful world of Sanrio pattern wallpaper! Featuring beloved characters, these wallpapers are ideal for adding fun and style to your home. Easy to apply and perfect for any room, explore our collection and let your space reflect your personality. Shop now for unique decor!">
+                    <meta name="keywords" content="sanrio pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/sanrio-pattern-wallpaper">
+                            <span itemprop="name">sanrio pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Sanrio Pattern Wallpaper: Perfect for Any Room</h1>
+                <p>Transform your space with adorable Sanrio pattern wallpaper that adds a touch of whimsy and charm to any room. Character designs like Hello Kitty, My Melody, and others create a vibrant atmosphere, perfect for kids and adults alike. Easy to apply and remove, these wallpapers are ideal for creating a playful yet stylish home environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987cj5-2-28-CN-WALLPAPER-Fav-Things-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987cj5-2-28-CN-WALLPAPER-Fav-Things-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/68/1c/72/681c729b1bcb5e539ca7f1677342c32f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/68/1c/72/681c729b1bcb5e539ca7f1677342c32f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987W97-2-28-CN-WALLPAPER-Friends-1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987W97-2-28-CN-WALLPAPER-Friends-1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Hello Kitty Ice Cream Pattern Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/10/sanrio-hello-kitty-ice-cream-pattern-wallpaper.jpg' alt='Sanrio Hello Kitty Ice Cream Pattern Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/10/sanrio-hello-kitty-ice-cream-pattern-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987bZI-10-26-NATL-Pumpkin-Day-Wallpaper-1500x2000-A-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987bZI-10-26-NATL-Pumpkin-Day-Wallpaper-1500x2000-A-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Sanrio Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sanrio-1kne0am39hwzcjdd.jpg' alt='100+] Cute Sanrio Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sanrio-1kne0am39hwzcjdd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/110624_HK50th_WALLPAPER_ClearPattern_1500x2000_d5ff4549-40e7-48ea-8c57-697ebbdb9654.png?v=1730930695' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/110624_HK50th_WALLPAPER_ClearPattern_1500x2000_d5ff4549-40e7-48ea-8c57-697ebbdb9654.png?v=1730930695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-898740Q-110624_HK50th_WALLPAPER_HelloEveryonePattern3_1500x2000-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-898740Q-110624_HK50th_WALLPAPER_HelloEveryonePattern3_1500x2000-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡น่ารัก">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/b0/24/84b024a3d325e1ba84cfd316ab1e8691.jpg' alt='♡น่ารัก'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/b0/24/84b024a3d325e1ba84cfd316ab1e8691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio on X: "Take @hellokitty on the go with new backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FD7m5N-WQA4NPhc.png' alt='Sanrio on X: "Take @hellokitty on the go with new backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FD7m5N-WQA4NPhc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

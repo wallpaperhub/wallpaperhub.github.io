@@ -1,0 +1,129 @@
+<title>Last Day of School Wallpaper: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover captivating last day of school wallpapers to refresh your device! Explore colorful designs and motivational quotes that celebrate the end of the school year. Perfect for kids and teens—make your screen a reminder of summer fun ahead!">
+                    <meta name="keywords" content="last day of school wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/last-day-of-school-wallpaper">
+                            <span itemprop="name">last day of school wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Last Day of School Wallpaper: Brighten Your Screen!</h1>
+                <p>Celebrate the excitement of freedom with our vibrant last day of school wallpapers! Featuring playful designs, inspiring quotes, and colorful graphics, these wallpapers perfectly capture the joy of summer vacation. Transform your screen and embrace the adventures that await you. It's time to say goodbye to the classroom and hello to fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1389456013/vector/happy-last-day-of-school-greeting-banner-on-white.jpg?s=612x612&w=0&k=20&c=RO5ZuozpfY_K9w4397umKxXqMpDr3Tg9VSEZ3Es9wNs=' alt='450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1389456013/vector/happy-last-day-of-school-greeting-banner-on-white.jpg?s=612x612&w=0&k=20&c=RO5ZuozpfY_K9w4397umKxXqMpDr3Tg9VSEZ3Es9wNs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,902 Last Day School Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/rainbow-colorful-happy-last-day-260nw-2159968665.jpg' alt='7,902 Last Day School Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="217">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/rainbow-colorful-happy-last-day-260nw-2159968665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Of School Year Images – Browse 8,597 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/97/87/03/360_F_597870357_BQsEElStQ8k4SSHb5L85LOicYsAQqjr9.jpg' alt='End Of School Year Images – Browse 8,597 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/97/87/03/360_F_597870357_BQsEElStQ8k4SSHb5L85LOicYsAQqjr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1476762702/vector/happy-last-day-of-school-banner-end-of-school-year-concept.jpg?s=612x612&w=0&k=20&c=F22fphggbSkeG8VcgmDYBy2MzeXugkgWgRtOCkEWdDg=' alt='450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1476762702/vector/happy-last-day-of-school-banner-end-of-school-year-concept.jpg?s=612x612&w=0&k=20&c=F22fphggbSkeG8VcgmDYBy2MzeXugkgWgRtOCkEWdDg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Last day of school svg, end of school year svg, Last day of school  svg, cut files for cricut silhouette">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17552481/r/il/237f46/1544496625/il_570xN.1544496625_mvxs.jpg' alt='Happy Last day of school svg, end of school year svg, Last day of school  svg, cut files for cricut silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17552481/r/il/237f46/1544496625/il_570xN.1544496625_mvxs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Last Day School Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-end-school-lettering_23-2149412123.jpg' alt='Happy Last Day School Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="501">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-end-school-lettering_23-2149412123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1985267087/vector/happy-last-day-of-school-2023-2024-banner-on-white-end-of-school-year-concept.jpg?s=612x612&w=0&k=20&c=oDw96pz23Q-4CT_Bol8SgyZQvca16ivWeKBUbKM0HYU=' alt='450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1985267087/vector/happy-last-day-of-school-2023-2024-banner-on-white-end-of-school-year-concept.jpg?s=612x612&w=0&k=20&c=oDw96pz23Q-4CT_Bol8SgyZQvca16ivWeKBUbKM0HYU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,902 Last Day School Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/happy-last-day-school-heart-260nw-1901707660.jpg' alt='7,902 Last Day School Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/happy-last-day-school-heart-260nw-1901707660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1389832893/vector/happy-last-day-of-school-banner-on-black-background.jpg?s=612x612&w=0&k=20&c=7TLB7bDKNuENDu3Nc8xhPSWEMz852gf9-nD11wnRQVs=' alt='450+ Last Day Of School Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1389832893/vector/happy-last-day-of-school-banner-on-black-background.jpg?s=612x612&w=0&k=20&c=7TLB7bDKNuENDu3Nc8xhPSWEMz852gf9-nD11wnRQVs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 15 | Happy Last Day School Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-end-school-background_23-2149385929.jpg' alt='Page 15 | Happy Last Day School Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-end-school-background_23-2149385929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Viva México: Imágenes que Celebran Nuestra Cultura</title>
+                    <meta name="description" content="Descubre imágenes impresionantes de México que destacan su rica cultura, paisajes y tradiciones. Desde coloridos festivales hasta deliciosos platillos, sumérgete en el espíritu vibrante de este hermoso país. ¡Viva México en cada imagen!">
+                    <meta name="keywords" content="viva mexico imagenes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/viva-mexico-imagenes">
+                            <span itemprop="name">viva mexico imagenes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Viva México: Imágenes que Celebran Nuestra Cultura</h1>
+                <p>¡Viva México! Este es un homenaje visual a la rica cultura, paisajes deslumbrantes y tradiciones vibrantes del país. Desde las coloridas calles de Oaxaca hasta las playas de Cancún, las imágenes reflejan la alegría de su gente. Explora la gastronomía, festivales y el patrimonio que hacen de México un destino fascinante.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Mexico Mexican independence day - I Love Mexico PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37340556/r/il/b551ff/4212804785/il_fullxfull.4212804785_scg1.jpg' alt='Viva Mexico Mexican independence day - I Love Mexico PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2138">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37340556/r/il/b551ff/4212804785/il_fullxfull.4212804785_scg1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Mexico Independencia de Mexico Bandera de Mexico | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4049451611.9106/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Viva Mexico Independencia de Mexico Bandera de Mexico | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4049451611.9106/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Mexico Sticker Decal Mexico Calcomania (12x10.8)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HU3isYxOL._AC_UF894,1000_QL80_.jpg' alt='Viva Mexico Sticker Decal Mexico Calcomania (12x10.8)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HU3isYxOL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Viva Mexico Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/viva-mexico-8ya29c59lsz2278c.jpg' alt='100+] Viva Mexico Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/viva-mexico-8ya29c59lsz2278c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Mexico Independencia de Mexico Bandera de Mexico | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4049451847.9106/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Viva Mexico Independencia de Mexico Bandera de Mexico | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4049451847.9106/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,201 Viva Mexico Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/viva-mexico-vector-backgorund-114555122.jpg' alt='1,201 Viva Mexico Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/viva-mexico-vector-backgorund-114555122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva mexico label with mexican flag Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/87/38/viva-mexico-label-with-mexican-flag-vector-27438738.jpg' alt='Viva mexico label with mexican flag Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/87/38/viva-mexico-label-with-mexican-flag-vector-27438738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Viva Mexico Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/522482268/vector/viva-mexico-background.jpg?s=612x612&w=0&k=20&c=NUWfNZSMm6EzS7RtjUcfbjvhe1dtSbL5tw2STiUmnB0=' alt='1,700+ Viva Mexico Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/522482268/vector/viva-mexico-background.jpg?s=612x612&w=0&k=20&c=NUWfNZSMm6EzS7RtjUcfbjvhe1dtSbL5tw2STiUmnB0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Mexico Images – Browse 14,672 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/17/03/35/360_F_217033545_wF1L5akHid5vRkHZceEVbXzcw6Xltl4f.jpg' alt='Viva Mexico Images – Browse 14,672 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/17/03/35/360_F_217033545_wF1L5akHid5vRkHZceEVbXzcw6Xltl4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Mexican Flag With The Words Viva Mexico Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-mexican-flag-with-the-words-viva-mexico-kd10eauqqdijqf5c.jpg' alt='A Mexican Flag With The Words Viva Mexico Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-mexican-flag-with-the-words-viva-mexico-kd10eauqqdijqf5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Guardians of the Galaxy iPhone Wallpapers: Epic Cosmic Designs</title>
+                    <meta name="description" content="Enhance your iPhone with our amazing Guardians of the Galaxy wallpapers! Download vibrant designs featuring your favorite characters and add a touch of cosmic adventure to your device. Perfect for fans looking to showcase their love for the Guardians. Explore and download your favorites today!">
+                    <meta name="keywords" content="guardians of the galaxy wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/guardians-of-the-galaxy-wallpaper-iphone">
+                            <span itemprop="name">guardians of the galaxy wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Guardians of the Galaxy iPhone Wallpapers: Epic Cosmic Designs</h1>
+                <p>Your iPhone deserves a cosmic makeover! Explore our stunning Guardians of the Galaxy wallpapers perfect for your device. Featuring vibrant characters like Star-Lord, Rocket, and Groot, these wallpapers bring the adventurous spirit of the galaxy to your screen. Download now and let the Guardians protect your phone in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/01/Guardians-of-the-Galaxy-iPhone-5-wallpaper-moon.jpg' alt='Guardians of the Galaxy wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="1818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/01/Guardians-of-the-Galaxy-iPhone-5-wallpaper-moon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I created a Wallpaper for GOTG 3 and thought of posting it here ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/twg28q3le13b1.jpg' alt='I created a Wallpaper for GOTG 3 and thought of posting it here ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/twg28q3le13b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardian Of The Galaxy iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5531593.jpg' alt='Guardian Of The Galaxy iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5531593.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Marvel IPhone 11 Guardians Of The Galaxy Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/marvel-iphone-11-7ssjdh5xh2n6deih.jpg' alt='Download Marvel IPhone 11 Guardians Of The Galaxy Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/marvel-iphone-11-7ssjdh5xh2n6deih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy 3 Wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fpwp9p1d464a1.jpg' alt='Guardians of the Galaxy 3 Wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fpwp9p1d464a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy Vol. 2 wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/04/Guardians-of-the-Galaxy-Wallpaper-Vol-2-iPhone-1.jpg' alt='Guardians of the Galaxy Vol. 2 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/04/Guardians-of-the-Galaxy-Wallpaper-Vol-2-iPhone-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy 3 Movie Cast 4K Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/guardians-of-the-galaxy-3-movie-cast-537@1@k-phone-4k.jpg' alt='Guardians of the Galaxy 3 Movie Cast 4K Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/guardians-of-the-galaxy-3-movie-cast-537@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/be/db/95bedbac45308c5de0a4e499468c92fc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/be/db/95bedbac45308c5de0a4e499468c92fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians Of The Galaxy Volume 3 Movie, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/284/280/HD-wallpaper-guardians-of-the-galaxy-volume-3-movie.jpg' alt='Guardians Of The Galaxy Volume 3 Movie, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/284/280/HD-wallpaper-guardians-of-the-galaxy-volume-3-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians Of The Galaxy In Action Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/guardians-of-the-galaxy-mobile-art-cvlxjo3apqfadifa.webp' alt='Guardians Of The Galaxy In Action Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/guardians-of-the-galaxy-mobile-art-cvlxjo3apqfadifa.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

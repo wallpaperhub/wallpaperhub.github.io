@@ -1,0 +1,129 @@
+<title>Adorable Kitten PNGs for Your Creative Needs</title>
+                    <meta name="description" content="Explore a charming selection of kitten PNGs that will elevate your projects! Perfect for websites, social media, and graphic designs, these cute images are easy to use and ready to download. Bring joy to your creative work with these delightful kitten graphics!">
+                    <meta name="keywords" content="kitten png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kitten-png">
+                            <span itemprop="name">kitten png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kitten PNGs for Your Creative Needs</h1>
+                <p>Discover an adorable collection of kitten PNGs perfect for all your design needs! From playful poses to serene sleeping shots, these high-quality images are transparent and easy to use. Ideal for crafting social media posts, websites, or any projects that need a touch of cuteness. Download your favorite kitten PNG today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Kitten Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTJfcGhvdG9fb2ZfYV9iYWJ5X2NhdF9mdWxsX2JvZHlfc2ltcGxlX2Flc3RoZXRpY19iOGUxNjdiNC03MmI3LTQ0Y2YtYWNmOS0yODUyZDUxMzk0ODkucG5n.png' alt='Baby Kitten Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTJfcGhvdG9fb2ZfYV9iYWJ5X2NhdF9mdWxsX2JvZHlfc2ltcGxlX2Flc3RoZXRpY19iOGUxNjdiNC03MmI3LTQ0Y2YtYWNmOS0yODUyZDUxMzk0ODkucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Kitten PNG PNG Image - PurePNG | Free transparent CC0 PNG ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/51502308190ywg3xhop2e1u94ebcskyi25hrgeulctsuiw8g47ix8ok1w14mfxodwoq2gi80jzib2nrc9wanirro49nakdq3pgz2qcufshojrjc.png' alt='Cute Cat Kitten PNG PNG Image - PurePNG | Free transparent CC0 PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/51502308190ywg3xhop2e1u94ebcskyi25hrgeulctsuiw8g47ix8ok1w14mfxodwoq2gi80jzib2nrc9wanirro49nakdq3pgz2qcufshojrjc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kittens png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/655/882/png-clipart-orange-kitten-cute-kitten-animals-cats-thumbnail.png' alt='Kittens png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/655/882/png-clipart-orange-kitten-cute-kitten-animals-cats-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat kitten small PNG transparent image download, size: 900x900px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cat_PNG50533.png' alt='Cat kitten small PNG transparent image download, size: 900x900px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cat_PNG50533.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kitten PNG Images, Cute Clipart, Physical Map, Animal PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/2e/bf/162ebf3917176c19e604a128ff9b49d3.jpg' alt='Cute Kitten PNG Images, Cute Clipart, Physical Map, Animal PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/2e/bf/162ebf3917176c19e604a128ff9b49d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitten playing PNG transparent image download, size: 1520x934px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cat_PNG50488.png' alt='Kitten playing PNG transparent image download, size: 1520x934px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1520">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cat_PNG50488.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitten PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190530/ourmid/pngtree-cute-simulation-kitten-png-image_1258019.jpg' alt='Kitten PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190530/ourmid/pngtree-cute-simulation-kitten-png-image_1258019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat PNG, Cat Clipart, Cute Kitten, Kitty Clip art, Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19468294/r/il/fe4597/4492833947/il_fullxfull.4492833947_oivb.jpg' alt='Cat PNG, Cat Clipart, Cute Kitten, Kitty Clip art, Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19468294/r/il/fe4597/4492833947/il_fullxfull.4492833947_oivb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable kitten PNG by yotoots on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2acc139b-8d65-4eb7-8788-fad993edf59a/des0ye5-e57e8aed-43aa-417c-b79d-56603360b54c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhY2MxMzliLThkNjUtNGViNy04Nzg4LWZhZDk5M2VkZjU5YVwvZGVzMHllNS1lNTdlOGFlZC00M2FhLTQxN2MtYjc5ZC01NjYwMzM2MGI1NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vgn-geLIuniXO4Qe1ESuLYJgwku9siYc_PSVjpivBEs' alt='Adorable kitten PNG by yotoots on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2acc139b-8d65-4eb7-8788-fad993edf59a/des0ye5-e57e8aed-43aa-417c-b79d-56603360b54c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhY2MxMzliLThkNjUtNGViNy04Nzg4LWZhZDk5M2VkZjU5YVwvZGVzMHllNS1lNTdlOGFlZC00M2FhLTQxN2MtYjc5ZC01NjYwMzM2MGI1NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vgn-geLIuniXO4Qe1ESuLYJgwku9siYc_PSVjpivBEs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kitten transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b57fbd9996e24bc43bb94.png' alt='Cute Kitten transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="335">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b57fbd9996e24bc43bb94.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

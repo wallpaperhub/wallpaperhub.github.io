@@ -1,0 +1,129 @@
+<title>Bluey Desktop Wallpapers: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover a delightful collection of Bluey desktop wallpapers! Perfect for fans, these colorful designs will liven up your workspace. Download now to enjoy a cheerful vibe every time you use your computer. Get inspired by Bluey and friends today!">
+                    <meta name="keywords" content="bluey desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/bluey-desktop-wallpaper">
+                            <span itemprop="name">bluey desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bluey Desktop Wallpapers: Brighten Your Screen!</h1>
+                <p>Transform your desktop with vibrant Bluey wallpapers! Perfect for fans of the beloved children's show, these wallpapers feature Bluey, Bingo, and their family in joyful scenes that bring a smile to your face. Download and enjoy colorful, engaging designs that make your workspace more fun and inviting. Let Bluey brighten up your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/03/Tablet-1.png' alt='Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/03/Tablet-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All of the wallpapers provided in the official Bluey website were ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/all-of-the-wallpapers-provided-in-the-official-bluey-v0-f5hasdng4kha1.png?width=1920&format=png&auto=webp&s=d9bc9535fae22b6eabd044f221fff98622c01aab' alt='All of the wallpapers provided in the official Bluey website were ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/all-of-the-wallpapers-provided-in-the-official-bluey-v0-f5hasdng4kha1.png?width=1920&format=png&auto=webp&s=d9bc9535fae22b6eabd044f221fff98622c01aab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/03/image-select-7.png' alt='Bluey 'The Sign': Phone and Tablet Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/03/image-select-7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Family Cartoon HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/134/1345012.png' alt='Bluey Family Cartoon HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/134/1345012.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All of the wallpapers provided in the official Bluey website were ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/all-of-the-wallpapers-provided-in-the-official-bluey-v0-vrlvilq02kha1.png?width=1920&format=png&auto=webp&s=be48eaec683841dd012600dceedaa121a3917349' alt='All of the wallpapers provided in the official Bluey website were ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/all-of-the-wallpapers-provided-in-the-official-bluey-v0-vrlvilq02kha1.png?width=1920&format=png&auto=webp&s=be48eaec683841dd012600dceedaa121a3917349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bluedigitalcat on X: "Been doing some #bluey desktop wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EBOyQZwVAAA5Uia.jpg:large' alt='bluedigitalcat on X: "Been doing some #bluey desktop wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EBOyQZwVAAA5Uia.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey and Friends HD Wallpaper for Desktop">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/134/1345010.png' alt='Bluey and Friends HD Wallpaper for Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/134/1345010.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Bluey Christmas Wallpapers - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2023/12/zoom.jpg' alt='More Bluey Christmas Wallpapers - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2023/12/zoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey Grandma Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/f9/10/36f910d5ba3e41ac8f01993e5bdd2ac2.jpg' alt='Bluey Grandma Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/f9/10/36f910d5ba3e41ac8f01993e5bdd2ac2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some minimalist Bluey wallpapers for desktop : r/bluey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-minimalist-bluey-wallpapers-for-desktop-v0-2wwoo3wbb1cb1.png?width=3840&format=png&auto=webp&s=dae135e7d3b950ed2c222312009f434e74902fb1' alt='I made some minimalist Bluey wallpapers for desktop : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-minimalist-bluey-wallpapers-for-desktop-v0-2wwoo3wbb1cb1.png?width=3840&format=png&auto=webp&s=dae135e7d3b950ed2c222312009f434e74902fb1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

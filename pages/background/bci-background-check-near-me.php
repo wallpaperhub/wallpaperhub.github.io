@@ -1,0 +1,129 @@
+<title>Find Local BCI Background Check Services Near You</title>
+                    <meta name="description" content="Discover reliable BCI background check services in your area. Ensure thorough, efficient checks for employment or other needs. Get peace of mind with trusted local providers. Fast processing and convenient options available!">
+                    <meta name="keywords" content="bci background check near me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bci-background-check-near-me">
+                            <span itemprop="name">bci background check near me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Local BCI Background Check Services Near You</h1>
+                <p>When searching for a BCI background check near you, consider local agencies or authorized providers. These checks are crucial for employment, volunteering, or personal reasons. Many organizations offer fast services and can provide the necessary paperwork on-site or online. Be sure to verify credentials and reviews of the service provider.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where To Get BCI And FBI Background Check Near Me? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/m5fwI9IFaEE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCT-ufO4LjrS97h6q_sKLZ3ofyYHw' alt='Where To Get BCI And FBI Background Check Near Me? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/m5fwI9IFaEE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCT-ufO4LjrS97h6q_sKLZ3ofyYHw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bci Background Check | PDF">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/256797235/original/367606cc4a/1?v=1' alt='Bci Background Check | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/256797235/original/367606cc4a/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PrintScan - Background Check Locations">
+                                <img itemprop="contentUrl url" src='https://printscan.com/img/locations/background-check-locations/printscan-seal.png' alt='PrintScan - Background Check Locations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PrintScan" />
+                                </span>
+                                <a href='https://printscan.com/img/locations/background-check-locations/printscan-seal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Out of State Background Checks | Counselor and Social Worker Board">
+                                <img itemprop="contentUrl url" src='https://cswmft.ohio.gov/wps/wcm/connect/gov/3914daa1-ea68-402b-bac7-e5a271966b67/4/form_001.png?MOD=AJPERES' alt='Out of State Background Checks | Counselor and Social Worker Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ohio CSWMFT Board - Ohio.gov" />
+                                </span>
+                                <a href='https://cswmft.ohio.gov/wps/wcm/connect/gov/3914daa1-ea68-402b-bac7-e5a271966b67/4/form_001.png?MOD=AJPERES' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BCI and FBI background check locations near me in Ohio">
+                                <img itemprop="contentUrl url" src='https://www.1stchoicefingerprints.org/media/k3ipnsku/bci-and-fbi-background-check-locations-near-me.png' alt='BCI and FBI background check locations near me in Ohio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1st Choice Fingerprinting" />
+                                </span>
+                                <a href='https://www.1stchoicefingerprints.org/media/k3ipnsku/bci-and-fbi-background-check-locations-near-me.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BCI Background Check - acloché">
+                                <img itemprop="contentUrl url" src='http://www.acloche.com/wp-content/uploads/2020/01/BCI-Blog-Image-1024x512.jpg' alt='BCI Background Check - acloché'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acloche" />
+                                </span>
+                                <a href='http://www.acloche.com/wp-content/uploads/2020/01/BCI-Blog-Image-1024x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jefferson County ESC - Are you in need of a BCI/FBI background ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2527702230598766' alt='Jefferson County ESC - Are you in need of a BCI/FBI background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2527702230598766' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your Ohio State Background Check From Outside Ohio">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/80832f_5f61f567ca5d4e5fb4ec760126215021~mv2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/80832f_5f61f567ca5d4e5fb4ec760126215021~mv2.jpg' alt='How to Get Your Ohio State Background Check From Outside Ohio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office Of Parviz Malakouti" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/80832f_5f61f567ca5d4e5fb4ec760126215021~mv2.jpg/v1/fill/w_773,h_1000,al_c,q_85,usm_0.66_1.00_0.01/80832f_5f61f567ca5d4e5fb4ec760126215021~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BCI background check Ohio locations Know More:">
+                                <img itemprop="contentUrl url" src='https://www.1stchoicefingerprints.org/media/1u2n1dmi/where-can-i-find-bci-background-check-ohio-locations-1st-choice-fingerprinting.png' alt='BCI background check Ohio locations Know More:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1st Choice Fingerprinting" />
+                                </span>
+                                <a href='https://www.1stchoicefingerprints.org/media/1u2n1dmi/where-can-i-find-bci-background-check-ohio-locations-1st-choice-fingerprinting.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Webcheck Community Listing - Ohio Attorney General Dave Yost">
+                                <img itemprop="contentUrl url" src='https://www.ohioattorneygeneral.gov/Images/Backgrounds/background-check.aspx' alt='Webcheck Community Listing - Ohio Attorney General Dave Yost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ohio Attorney General" />
+                                </span>
+                                <a href='https://www.ohioattorneygeneral.gov/Images/Backgrounds/background-check.aspx' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

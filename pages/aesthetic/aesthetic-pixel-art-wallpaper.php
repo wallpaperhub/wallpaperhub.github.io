@@ -1,0 +1,129 @@
+<title>Aesthetic Pixel Art Wallpaper for Your Digital Spaces</title>
+                    <meta name="description" content="Discover the beauty of aesthetic pixel art wallpaper! Transform your screens with unique, colorful designs that add a retro touch to your digital environment. Perfect for gamers and art lovers alike.">
+                    <meta name="keywords" content="aesthetic pixel art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-pixel-art-wallpaper">
+                            <span itemprop="name">aesthetic pixel art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Pixel Art Wallpaper for Your Digital Spaces</h1>
+                <p>Aesthetic pixel art wallpaper brings a charming, retro vibe to your digital spaces. With vibrant colors and intricate designs, these wallpapers transform any screen into a visual delight. Whether you love fantasy landscapes, pixelated characters, or minimalist styles, there’s a pixel art wallpaper perfect for enhancing your aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Pixel Art Hd Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pixel-art-hd-kzdwtvh6bdsyvjv7.jpg' alt='100+] Aesthetic Pixel Art Hd Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1913">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pixel-art-hd-kzdwtvh6bdsyvjv7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/0a/4e/a20a4e44df1fc952a6c26eec31c99218.jpg' alt='Pixel art wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/0a/4e/a20a4e44df1fc952a6c26eec31c99218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Colorful Pixel Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pixel-art-hd-4rlu2v2afh4lvz9o.jpg' alt='Download Colorful Pixel Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pixel-art-hd-4rlu2v2afh4lvz9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pixel Art Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/buildings-and-tower-cranes-in-aesthetic-pixel-art-19ma3aad929xqum8.jpg' alt='Aesthetic Pixel Art Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/buildings-and-tower-cranes-in-aesthetic-pixel-art-19ma3aad929xqum8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13012376.png' alt='Pixel Art iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13012376.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Cityscape Wallpaper, Lofi, Urban Cyber Punk, Night Sky, Cozy  Pixel Art Background for iPhone - Little Pixel Bus Station">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20365791/r/il/8690d8/4611080746/il_570xN.4611080746_6su8.jpg' alt='Pixel Art Cityscape Wallpaper, Lofi, Urban Cyber Punk, Night Sky, Cozy  Pixel Art Background for iPhone - Little Pixel Bus Station'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20365791/r/il/8690d8/4611080746/il_570xN.4611080746_6su8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Pixel Art Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pixel-art-garden-at-night-0ax4fopcqzot21lj.jpg' alt='100+] Aesthetic Pixel Art Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pixel-art-garden-at-night-0ax4fopcqzot21lj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T-Shirts by 8BitShop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/88/fd/67/88fd6764077d4c6a5d985c02110c24c4.jpg' alt='T-Shirts by 8BitShop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/88/fd/67/88fd6764077d4c6a5d985c02110c24c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpaper [gallery] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redditmedia.com/AUXwGcVgSh0v6POuTDYvWH1kEzBQvK1EWb777KbSp4w.jpg?s=7417d7fcca26778f6d2b0f43196cc18e' alt='Pixel Art Wallpaper [gallery] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redditmedia.com/AUXwGcVgSh0v6POuTDYvWH1kEzBQvK1EWb777KbSp4w.jpg?s=7417d7fcca26778f6d2b0f43196cc18e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pixel Art Sunrise Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-pixel-art-sunrise-kf0at2uqrnne56ir.jpg' alt='Aesthetic Pixel Art Sunrise Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-pixel-art-sunrise-kf0at2uqrnne56ir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

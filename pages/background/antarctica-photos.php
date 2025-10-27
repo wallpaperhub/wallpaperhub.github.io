@@ -1,0 +1,129 @@
+<title>Stunning Antarctica Photos: Explore the Frozen Continent</title>
+                    <meta name="description" content="Discover breathtaking Antarctica photos featuring mesmerizing landscapes, unique wildlife, and the awe-inspiring beauty of the world's southernmost continent. Perfect for nature lovers and adventurers seeking to experience the wonders of this frozen paradise through stunning imagery.">
+                    <meta name="keywords" content="antarctica photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/antarctica-photos">
+                            <span itemprop="name">antarctica photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Antarctica Photos: Explore the Frozen Continent</h1>
+                <p>Antarctica photos capture the stunning beauty and raw wilderness of this frozen continent. From majestic glaciers and icebergs to the unique wildlife like penguins and seals, these images showcase breathtaking landscapes and the stark contrast of icy blues against the pristine white. Experience the marvels of Earth's last great wilderness through photography!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10 Best Places to Visit in Antarctica - Swoop Antarctica Blog">
+                                <img itemprop="contentUrl url" src='https://www.swoop-antarctica.com/blog/wp-content/uploads/2024/02/Peninsula.jpg' alt='The 10 Best Places to Visit in Antarctica - Swoop Antarctica Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Swoop Antarctica" />
+                                </span>
+                                <a href='https://www.swoop-antarctica.com/blog/wp-content/uploads/2024/02/Peninsula.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 fascinating Antarctic features | HX Hurtigruten Expeditions US">
+                                <img itemprop="contentUrl url" src='https://images.eu.ctfassets.net/vy34d8u43l9r/6fP5rnw4wL4iTNrFPB0Biy/2613c20a99991e63ef32d68a0e34783b/Antarctica_Kerr_Point_HGR_166600_1920_Photo_Yuri_Matisse_Choufour.jpg' alt='10 fascinating Antarctic features | HX Hurtigruten Expeditions US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expedition Cruises" />
+                                </span>
+                                <a href='https://images.eu.ctfassets.net/vy34d8u43l9r/6fP5rnw4wL4iTNrFPB0Biy/2613c20a99991e63ef32d68a0e34783b/Antarctica_Kerr_Point_HGR_166600_1920_Photo_Yuri_Matisse_Choufour.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Breathtaking Pictures of Antarctica">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/enchanting/q_70,f_auto,w_1024,h_682,c_fit/quark-web/2024/09/DO_pax_port_charcot_general_acaciajohnson.jpg' alt='20 Breathtaking Pictures of Antarctica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quark Expeditions" />
+                                </span>
+                                <a href='https://res.cloudinary.com/enchanting/q_70,f_auto,w_1024,h_682,c_fit/quark-web/2024/09/DO_pax_port_charcot_general_acaciajohnson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On an Antarctica Cruise: 50,000 Shades of Gray, Silver and Blue ...">
+                                <img itemprop="contentUrl url" src='https://silversea-discover.imgix.net/2020/06/Paradise-Bay-Antarctica32.jpg?auto=compress%2Cformat&ixlib=php-3.3.1' alt='On an Antarctica Cruise: 50,000 Shades of Gray, Silver and Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Silversea" />
+                                </span>
+                                <a href='https://silversea-discover.imgix.net/2020/06/Paradise-Bay-Antarctica32.jpg?auto=compress%2Cformat&ixlib=php-3.3.1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antarctica - WWF-Australia | Antarctica | WWF Australia">
+                                <img itemprop="contentUrl url" src='http://assets.wwf.org.au/image/upload/f_auto/q_auto/v1678762789/img-penguins-in-Antarctica-1000px.jpg' alt='Antarctica - WWF-Australia | Antarctica | WWF Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWF Australia" />
+                                </span>
+                                <a href='http://assets.wwf.org.au/image/upload/f_auto/q_auto/v1678762789/img-penguins-in-Antarctica-1000px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Fun Facts About Antarctica | Poseidon Expeditions">
+                                <img itemprop="contentUrl url" src='https://poseidonexpeditions.com/upload/medialibrary/0ae/7hm47cm55j98vvms7b4obrp1m3lr4yc5/15facts2c8.jpg' alt='15 Fun Facts About Antarctica | Poseidon Expeditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poseidon Expeditions" />
+                                </span>
+                                <a href='https://poseidonexpeditions.com/upload/medialibrary/0ae/7hm47cm55j98vvms7b4obrp1m3lr4yc5/15facts2c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather and Seasons in Antarctica | Polartours">
+                                <img itemprop="contentUrl url" src='https://www.polartours.com/_next/image?url=https%3A%2F%2Fmedia.venturatravel.org%2Funsafe%2F1920x%2Fsmart%2Fheader_media%2F8bf8bcb3-a306-4d9f-aa50-bb69ab5154fd-2022-12-13-day-7-pm-yalour-island-antarctica-ocean-victory-582-of-601-.jpg&w=3840&q=75' alt='Weather and Seasons in Antarctica | Polartours'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polartours" />
+                                </span>
+                                <a href='https://www.polartours.com/_next/image?url=https%3A%2F%2Fmedia.venturatravel.org%2Funsafe%2F1920x%2Fsmart%2Fheader_media%2F8bf8bcb3-a306-4d9f-aa50-bb69ab5154fd-2022-12-13-day-7-pm-yalour-island-antarctica-ocean-victory-582-of-601-.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Photos That Will Make You Want to Visit Antarctica | Condé Nast ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/58a5d89287666e798dbdb573/16:9/w_2580,c_limit/antarctica-scotia-sea-chinstrap-penguins-GettyImages-126249208.jpg' alt='20 Photos That Will Make You Want to Visit Antarctica | Condé Nast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/58a5d89287666e798dbdb573/16:9/w_2580,c_limit/antarctica-scotia-sea-chinstrap-penguins-GettyImages-126249208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antarctica: Photos from Earth's last wilderness| Adventure.com">
+                                <img itemprop="contentUrl url" src='https://adventure.com/wp-content/uploads/2017/03/Antarctica-Lafranchi-1.jpg' alt='Antarctica: Photos from Earth's last wilderness| Adventure.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adventure.com" />
+                                </span>
+                                <a href='https://adventure.com/wp-content/uploads/2017/03/Antarctica-Lafranchi-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What it's like to visit Antarctica – earth's last great wilderness ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveller.com/photos/611be87c24f18e2bd3cbdfdc/16:9/w_2560%2Cc_limit/7antarctica-april2020issue-tom.jpg' alt='What it's like to visit Antarctica – earth's last great wilderness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CN Traveller" />
+                                </span>
+                                <a href='https://media.cntraveller.com/photos/611be87c24f18e2bd3cbdfdc/16:9/w_2560%2Cc_limit/7antarctica-april2020issue-tom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

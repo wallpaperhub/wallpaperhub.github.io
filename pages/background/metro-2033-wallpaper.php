@@ -1,0 +1,129 @@
+<title>Stunning Metro 2033 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating Metro 2033 wallpapers that enhance your screens with their dark, immersive visuals. Perfect for fans and gamers, these designs bring the chilling essence of the post-apocalyptic world to your devices. Download now to refresh your wallpaper collection!">
+                    <meta name="keywords" content="metro 2033 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metro-2033-wallpaper">
+                            <span itemprop="name">metro 2033 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Metro 2033 Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning Metro 2033 wallpapers that capture the eerie atmosphere of this post-apocalyptic world. Featuring iconic scenes and characters, these wallpapers offer a glimpse into the haunting beauty of Moscow's underground. Perfect for gamers and fans alike, elevate your device's aesthetic with unique designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 Redux HD Wallpaper: A Dive into Post-Apocalyptic Gaming">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/519/thumb-1920-519795.png' alt='Metro 2033 Redux HD Wallpaper: A Dive into Post-Apocalyptic Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/519/thumb-1920-519795.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/d/0/1825024-1920x1200-desktop-hd-metro-2033-wallpaper-photo.jpg' alt='Metro 2033 Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/d/0/1825024-1920x1200-desktop-hd-metro-2033-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 HD Wallpaper: A Dive into the Post-Apocalyptic World">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/251/251710.jpg' alt='Metro 2033 HD Wallpaper: A Dive into the Post-Apocalyptic World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/251/251710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metro 2033 Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/709/thumb-1920-70990.jpg' alt='Download Video Game Metro 2033 Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/709/thumb-1920-70990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 (1920x1080) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/dtaFhXQL4wU5Wc_TRe93cLLSPde47FDiItzRi4b_IAM.jpg?auto=webp&s=40bfdc6ac55eb5ffc0388f0a041c5464468f5386' alt='Metro 2033 (1920x1080) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/dtaFhXQL4wU5Wc_TRe93cLLSPde47FDiItzRi4b_IAM.jpg?auto=webp&s=40bfdc6ac55eb5ffc0388f0a041c5464468f5386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro Exodus Artyom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/de/68/eb/de68eb023906d076850542d757506b01.jpg' alt='Metro Exodus Artyom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/de/68/eb/de68eb023906d076850542d757506b01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper dark, lighter, helmet, tunnel, Metro: Last Light, 4A ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/2/66/badfon-metro-redux-metro-2033-metro-599.webp' alt='Wallpaper dark, lighter, helmet, tunnel, Metro: Last Light, 4A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/2/66/badfon-metro-redux-metro-2033-metro-599.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery | Metro 2033 Redux (Multi, 2014) – Gaming Picks">
+                                <img itemprop="contentUrl url" src='https://gamingpicks.wordpress.com/wp-content/uploads/2015/01/metro-redux_20140907190144.jpg' alt='Gallery | Metro 2033 Redux (Multi, 2014) – Gaming Picks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gaming Picks - WordPress.com" />
+                                </span>
+                                <a href='https://gamingpicks.wordpress.com/wp-content/uploads/2015/01/metro-redux_20140907190144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1366x768 Metro 2033 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1366x768-metro-2033-background-1366-x-768-epczuvq33duu2ev3.jpg' alt='100+] 1366x768 Metro 2033 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1366x768-metro-2033-background-1366-x-768-epczuvq33duu2ev3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Metro 2033 ideas | metro 2033, metro, post apocalyptic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/08/55/c0/0855c029984a23d2fcc54e38325e12d4.jpg' alt='22 Metro 2033 ideas | metro 2033, metro, post apocalyptic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/08/55/c0/0855c029984a23d2fcc54e38325e12d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

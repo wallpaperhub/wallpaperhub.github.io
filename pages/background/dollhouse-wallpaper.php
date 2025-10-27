@@ -1,0 +1,129 @@
+<title>Charming Dollhouse Wallpaper Ideas for Every Style</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dollhouse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dollhouse-wallpaper">
+                            <span itemprop="name">dollhouse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Dollhouse Wallpaper Ideas for Every Style</h1>
+                <p>Dollhouse wallpaper brings miniature spaces to life, offering countless designs to suit every taste. From whimsical patterns to realistic textures, it adds charm and personality to your dollhouse. Easy to apply and customize, dollhouse wallpaper transforms plain interiors into vibrant rooms, making playtime even more magical.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolls House Wallpaper 1/12th or 1/24th scale Quality Paper Blue Dollhouse  Miniature #14">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5886615/r/il/bc820b/612600310/il_570xN.612600310_8n33.jpg' alt='Dolls House Wallpaper 1/12th or 1/24th scale Quality Paper Blue Dollhouse  Miniature #14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5886615/r/il/bc820b/612600310/il_570xN.612600310_8n33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.katezaremba.com/cdn/shop/files/ABM_July22_Social_AKellyPhoto-079.jpg?v=1683027771' alt='Dollhouse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Zaremba Company" />
+                                </span>
+                                <a href='https://www.katezaremba.com/cdn/shop/files/ABM_July22_Social_AKellyPhoto-079.jpg?v=1683027771' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Miniature Shabby Chic Wallpaper Yellow & Pink Stripe Floral 1:12  Roses | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/yOAAAOSwvjRe~3J0/s-l400.jpg' alt='Dollhouse Miniature Shabby Chic Wallpaper Yellow & Pink Stripe Floral 1:12  Roses | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/yOAAAOSwvjRe~3J0/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dollhouse Collection – Olive and Eve, LLC">
+                                <img itemprop="contentUrl url" src='https://oliveandeveco.com/cdn/shop/products/IMG_3048_3e032ef6-f300-43d6-9ca2-2ad904696d97_1500x.jpg?v=1595638434' alt='Wallpaper Dollhouse Collection – Olive and Eve, LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive & Eve co" />
+                                </span>
+                                <a href='https://oliveandeveco.com/cdn/shop/products/IMG_3048_3e032ef6-f300-43d6-9ca2-2ad904696d97_1500x.jpg?v=1595638434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolls House Wallpaper 1/12th or 1/24th scale Quality Paper Fairies  Dollhouse Miniature #53">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5886615/r/il/94e41f/612610884/il_570xN.612610884_n7y7.jpg' alt='Dolls House Wallpaper 1/12th or 1/24th scale Quality Paper Fairies  Dollhouse Miniature #53'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5886615/r/il/94e41f/612610884/il_570xN.612610884_n7y7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty And Pink Dollhouse Wallpaper: Lovely wallpaper for decorating doll's  houses and model buildings. Beautiful sets of papers for your model ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71DiC5lhiqS._AC_UF1000,1000_QL80_.jpg' alt='Pretty And Pink Dollhouse Wallpaper: Lovely wallpaper for decorating doll's  houses and model buildings. Beautiful sets of papers for your model ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71DiC5lhiqS._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majvillan - Dollhouse Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/180314327-origpic-efbf8a_orig.jpg' alt='Majvillan - Dollhouse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/180314327-origpic-efbf8a_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dried Flowers Dollhouse Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.madeofsundays.com/cdn/shop/products/dried-flowers-dollhouse-wallpaper-made-of-sundays-812709_700x700.jpg?v=1707970101' alt='Dried Flowers Dollhouse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Made of Sundays" />
+                                </span>
+                                <a href='https://www.madeofsundays.com/cdn/shop/products/dried-flowers-dollhouse-wallpaper-made-of-sundays-812709_700x700.jpg?v=1707970101' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1:12 Scale Miniature Dollhouse Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.melvinsminiatures.com/cdn/shop/products/image_ef88e623-baec-45db-a75c-13be53aebad0.jpg?v=1610065548' alt='1:12 Scale Miniature Dollhouse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melvin's Miniatures" />
+                                </span>
+                                <a href='http://www.melvinsminiatures.com/cdn/shop/products/image_ef88e623-baec-45db-a75c-13be53aebad0.jpg?v=1610065548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollhouse Wallpaper – kidswallpapercompany">
+                                <img itemprop="contentUrl url" src='https://kidswallpapercompany.com/cdn/shop/products/147-01-2-WALLPAPER_1445x.jpg?v=1702482628' alt='Dollhouse Wallpaper – kidswallpapercompany'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1328">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids Wallpaper Company" />
+                                </span>
+                                <a href='https://kidswallpapercompany.com/cdn/shop/products/147-01-2-WALLPAPER_1445x.jpg?v=1702482628' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Funny Meme Wallpapers: Brighten Your Screen</title>
+                    <meta name="description" content="Discover a hilarious selection of funny meme wallpapers to add a touch of humor to your devices. Perfect for keeping your spirits high, these wallpapers are easy to download and designed for all screen sizes. Transform your background with a laugh today!">
+                    <meta name="keywords" content="memes funny wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/memes-funny-wallpaper">
+                            <span itemprop="name">memes funny wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Meme Wallpapers: Brighten Your Screen</h1>
+                <p>Looking to brighten your screen? Explore our collection of funny meme wallpapers that are perfect for adding a dose of humor to your phone or desktop. From classic memes to the latest viral sensations, these wallpapers are guaranteed to bring a smile to your face every time you unlock your device. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD funny memes wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/241/849/HD-wallpaper-troll-funny-meme-thumbnail.jpg' alt='HD funny memes wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/241/849/HD-wallpaper-troll-funny-meme-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Meme Wallpapers on Wallpaper Engine — Wallpaper Engine Space">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/9cd368b3-c0b8-4279-9930-92066601c71b/Life+Goes+On' alt='Ultimate Meme Wallpapers on Wallpaper Engine — Wallpaper Engine Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/9cd368b3-c0b8-4279-9930-92066601c71b/Life+Goes+On' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Meme HD Wallpaper - World Burn">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/249/249347.jpg' alt='Duck Meme HD Wallpaper - World Burn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/249/249347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Funny Meme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dinosaur-funny-meme-w37g0w6ozthv9p01.jpg' alt='Dinosaur Funny Meme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dinosaur-funny-meme-w37g0w6ozthv9p01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Funny Meme Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-meme-imohr6gd8vdsy8jj.jpg' alt='300+] Funny Meme Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-meme-imohr6gd8vdsy8jj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool wallpaper Funny & Memes - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/LF5PW8pVsEsy3OD3kGrvwGNNPmu0e7sczrvGz49b7PMXpLAm0lmmdM83jZfFmIlLmQ=w240-h480-rw' alt='Cool wallpaper Funny & Memes - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/LF5PW8pVsEsy3OD3kGrvwGNNPmu0e7sczrvGz49b7PMXpLAm0lmmdM83jZfFmIlLmQ=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700+] Meme Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/meme-ete8bd6yl8pkzukg.jpg' alt='700+] Meme Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/meme-ete8bd6yl8pkzukg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Funny Trollface Meme HD Wallpaper In For on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/24/1d/d9241d87ade728dcbbe3ad8fb7518a71.jpg' alt='   Free download Funny Trollface Meme HD Wallpaper In For on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/24/1d/d9241d87ade728dcbbe3ad8fb7518a71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper meme templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGlvWuzm8/1/0/1600w/canva-yellow-white-3d-simple-funny-meme-XumAOJ02HrU.jpg' alt='Free and customizable wallpaper meme templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGlvWuzm8/1/0/1600w/canva-yellow-white-3d-simple-funny-meme-XumAOJ02HrU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Funny Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/299/299773.jpg' alt='Download Funny Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/299/299773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

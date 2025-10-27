@@ -1,0 +1,129 @@
+<title>Beautiful Heart Love Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a captivating selection of heart love wallpapers to personalize your device. Perfect for expressing your romantic side, these stunning designs will brighten your screen and your day. Explore our collection and find the ideal wallpaper that resonates with your love story!">
+                    <meta name="keywords" content="heart love wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/heart-love-wallpaper">
+                            <span itemprop="name">heart love wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Heart Love Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning heart love wallpapers that capture the essence of romance. Whether you seek vibrant colors or subtle tones, our collection offers perfect designs to express your feelings. Adorn your background with these beautiful images, reminding you of love's joy every time you glance at your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper Phone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' alt='Heart Wallpaper Phone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' alt='Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Heart Images | Download Free Pictures On Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1535615615570-3b839f4359be?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG92ZSUyMGhlYXJ0fGVufDB8fDB8fHww' alt='500+ Heart Images | Download Free Pictures On Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1535615615570-3b839f4359be?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG92ZSUyMGhlYXJ0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love heart wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/676/944/858/love-pink-heart-hearts-love-hd-wallpaper-preview.jpg' alt='Love heart wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/676/944/858/love-pink-heart-hearts-love-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/7c/3b/167c3b08863f8e4054975f8983a16632.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/7c/3b/167c3b08863f8e4054975f8983a16632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love heart, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/633/583/HD-wallpaper-love-heart.jpg' alt='Love heart, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/633/583/HD-wallpaper-love-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Love Hearts Wallpaper | Free Background by picjumbo">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/picjumbo.com/wp-content/uploads/colorful-love-hearts-wallpaper-free-image.jpg?w=2210&quality=70' alt='Colorful Love Hearts Wallpaper | Free Background by picjumbo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2210">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picjumbo" />
+                                </span>
+                                <a href='https://i0.wp.com/picjumbo.com/wp-content/uploads/colorful-love-hearts-wallpaper-free-image.jpg?w=2210&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Heart Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/92/47/f1/9247f145365c7d67c23d5cf2b0fa3d0b.jpg' alt='Love Heart Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/92/47/f1/9247f145365c7d67c23d5cf2b0fa3d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love heart wallpaper 2025 hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0c/09/ea/0c09ea4140f8facc76e98f313142ac6e.jpg' alt='Love heart wallpaper 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0c/09/ea/0c09ea4140f8facc76e98f313142ac6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful read love heart - 3D and CG & Abstract Background ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1213/1213787-bigthumbnail.jpg' alt='Beautiful read love heart - 3D and CG & Abstract Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1213/1213787-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

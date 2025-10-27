@@ -1,0 +1,129 @@
+<title>Unveiling the History of Airbnb: From Air Mattresses to Global Domination</title>
+                    <meta name="description" content="Explore the fascinating journey of Airbnb from its humble beginnings in 2008 to its status as a global leader in travel accommodations. Discover how this innovative platform reshaped the way we experience travel, connecting hosts and guests worldwide.">
+                    <meta name="keywords" content="airbnb history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/airbnb-history">
+                            <span itemprop="name">airbnb history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the History of Airbnb: From Air Mattresses to Global Domination</h1>
+                <p>Airbnb was founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk. The idea began when they rented out air mattresses in their San Francisco apartment to cover rent. This simple concept evolved into a global platform, allowing users to list, discover, and book accommodations in more than 220 countries, transforming the travel industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Airbnb – airbnb">
+                                <img itemprop="contentUrl url" src='https://airbnb370.wordpress.com/wp-content/uploads/2016/11/airbnb-infographic.png' alt='History of Airbnb – airbnb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="airbnb - WordPress.com" />
+                                </span>
+                                <a href='https://airbnb370.wordpress.com/wp-content/uploads/2016/11/airbnb-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airbnb Founder Story: From Selling Cereals To A $25B Company">
+                                <img itemprop="contentUrl url" src='https://getpaidforyourpad.com/wp-content/uploads/2015/09/timeline-airbnb.png' alt='Airbnb Founder Story: From Selling Cereals To A $25B Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Get Paid For Your Pad" />
+                                </span>
+                                <a href='https://getpaidforyourpad.com/wp-content/uploads/2015/09/timeline-airbnb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Airbnb - FourWeekMBA">
+                                <img itemprop="contentUrl url" src='https://fourweekmba.com/wp-content/uploads/2023/01/history-of-airbnb.png' alt='History of Airbnb - FourWeekMBA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FourWeekMBA" />
+                                </span>
+                                <a href='https://fourweekmba.com/wp-content/uploads/2023/01/history-of-airbnb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Airbnb Got Its First Thousand Users">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E12AQFC8VdrR1grIQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1695725197080?e=2147483647&v=beta&t=Zwd9F7tribOquT7hw6PCfUI_kP-pkemfddAdr47u-wg' alt='How Airbnb Got Its First Thousand Users'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E12AQFC8VdrR1grIQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1695725197080?e=2147483647&v=beta&t=Zwd9F7tribOquT7hw6PCfUI_kP-pkemfddAdr47u-wg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airbnb Startup Story: The Journey of Airbnb Founder Brian Chesky">
+                                <img itemprop="contentUrl url" src='https://www.boldbusiness.com/wp-content/uploads/2019/05/airbnb_infographic-01-492x1024.jpg' alt='Airbnb Startup Story: The Journey of Airbnb Founder Brian Chesky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bold Business" />
+                                </span>
+                                <a href='https://www.boldbusiness.com/wp-content/uploads/2019/05/airbnb_infographic-01-492x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does Airbnb Work? Airbnb Business Model Explained">
+                                <img itemprop="contentUrl url" src='https://www.apurple.co/wp-content/uploads/2020/04/complete-timeline-path-airbnb.jpg' alt='How Does Airbnb Work? Airbnb Business Model Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apurple" />
+                                </span>
+                                <a href='https://www.apurple.co/wp-content/uploads/2020/04/complete-timeline-path-airbnb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The evolution of Airbnb's business model – Airbnb Before, During ...">
+                                <img itemprop="contentUrl url" src='https://uq.pressbooks.pub/app/uploads/sites/10/2021/03/Airbnb-Milestones-2008-2020-14042021-e1618364107683.png' alt='The evolution of Airbnb's business model – Airbnb Before, During ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1238">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Open Textbooks @ UQ" />
+                                </span>
+                                <a href='https://uq.pressbooks.pub/app/uploads/sites/10/2021/03/Airbnb-Milestones-2008-2020-14042021-e1618364107683.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Airbnb – airbnb">
+                                <img itemprop="contentUrl url" src='https://airbnb370.wordpress.com/wp-content/uploads/2016/11/screen-shot-2016-11-13-at-11-51-46-am.png?w=486&h=376' alt='History of Airbnb – airbnb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="airbnb - WordPress.com" />
+                                </span>
+                                <a href='https://airbnb370.wordpress.com/wp-content/uploads/2016/11/screen-shot-2016-11-13-at-11-51-46-am.png?w=486&h=376' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made  Billions . . . and Created Plenty of Controversy: Gallagher, Leigh: ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yJdpSAcaL._AC_UF1000,1000_QL80_.jpg' alt='The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made  Billions . . . and Created Plenty of Controversy: Gallagher, Leigh: ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yJdpSAcaL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Airbnb - Keycafe Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.keycafe.com/wp-content/uploads/2019/05/Screenshot-2019-05-15-at-1.55.45-PM.png?fit=1339%2C609&ssl=1' alt='The History of Airbnb - Keycafe Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1339">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keycafe Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.keycafe.com/wp-content/uploads/2019/05/Screenshot-2019-05-15-at-1.55.45-PM.png?fit=1339%2C609&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

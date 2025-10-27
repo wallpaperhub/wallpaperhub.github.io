@@ -1,0 +1,129 @@
+<title>Soul Train: A Cultural Journey Through Music and Dance</title>
+                    <meta name="description" content="Discover the legacy of "Soul Train," the groundbreaking show that transformed music and dance culture. Join us as we explore its impact on African American entertainment and fashion, celebrating iconic performances and the vibrant spirit of the era.">
+                    <meta name="keywords" content="soul train background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soul-train-background">
+                            <span itemprop="name">soul train background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soul Train: A Cultural Journey Through Music and Dance</h1>
+                <p>"Soul Train" is an iconic television show that premiered in 1971, celebrating African American culture through music and dance. Hosted by Don Cornelius, it became a platform for artists to perform their hits and showcased the vibrant styles of the era. Its influence extended into fashion, dance, and music, making it a cultural phenomenon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : XLL 70's and 80's Soul Train Neon Glow Theme Photo Background  7x5ft Singing Old Fashioned Dance Disco Dancing Prom Photography Backdrops  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PjSQR4CXL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : XLL 70's and 80's Soul Train Neon Glow Theme Photo Background  7x5ft Singing Old Fashioned Dance Disco Dancing Prom Photography Backdrops  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PjSQR4CXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Photography Backdrop in the 70's Airbrushed Look">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/soul-train-photo-booth-prop-prom-dance-party-decorations-photography-backdrop-by-alba-backgrounds-pro-10ft-w-x-8ft-h-w-o-floor-31921884201151_aa3232ae-3bfa-4ff0-a816-a0b6bf912d3f.jpg?v=1738772666&width=1445' alt='Soul Train Photography Backdrop in the 70's Airbrushed Look'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/soul-train-photo-booth-prop-prom-dance-party-decorations-photography-backdrop-by-alba-backgrounds-pro-10ft-w-x-8ft-h-w-o-floor-31921884201151_aa3232ae-3bfa-4ff0-a816-a0b6bf912d3f.jpg?v=1738772666&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Party Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/soul-train-solid-gold-photo-booth-props-party-decorations-photo-backdrop-with-floor-disco-birthday-banner-and-dance-backdrop-31799510859967_237e6902-c229-4043-8e5d-96cf32951fd5.jpg?v=1738771820&width=1445' alt='Soul Train Party Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/soul-train-solid-gold-photo-booth-props-party-decorations-photo-backdrop-with-floor-disco-birthday-banner-and-dance-backdrop-31799510859967_237e6902-c229-4043-8e5d-96cf32951fd5.jpg?v=1738771820&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Birthday Backdrop, Soul Train Backdrop, Soul Train ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24550194/r/il/c51cfd/3608246338/il_570xN.3608246338_iu82.jpg' alt='Soul Train Birthday Backdrop, Soul Train Backdrop, Soul Train ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24550194/r/il/c51cfd/3608246338/il_570xN.3608246338_iu82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Soul Train Theme Pography Backdrop Po Booth Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PC-QGT3ML._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Soul Train Theme Pography Backdrop Po Booth Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PC-QGT3ML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Photo Background Birthday Party Photography Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20432923/r/il/52aa9b/3520628684/il_fullxfull.3520628684_m2oo.jpg' alt='Soul Train Photo Background Birthday Party Photography Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20432923/r/il/52aa9b/3520628684/il_fullxfull.3520628684_m2oo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70'S and 80'S Soul Train Neon Glow Theme Photo Background 7X5Ft Singing Old  Fash">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/vLsAAOSw9IxnTARE/s-l1200.png' alt='70'S and 80'S Soul Train Neon Glow Theme Photo Background 7X5Ft Singing Old  Fash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/vLsAAOSw9IxnTARE/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Photo Backdrops Backgrounds and Banners">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/soul-train-photo-backdrops-backgrounds-and-banners-pro-9ft-w-x-16ft-h-with-floor-31799544709311_11165ada-26cf-40c6-8e31-5d9e4a4d5152.jpg?v=1738771449&width=1445' alt='Soul Train Photo Backdrops Backgrounds and Banners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/soul-train-photo-backdrops-backgrounds-and-banners-pro-9ft-w-x-16ft-h-with-floor-31799544709311_11165ada-26cf-40c6-8e31-5d9e4a4d5152.jpg?v=1738771449&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8x8FT Disco Club Dancer Music Wall Stripes Soul Train Custom Photo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/ab/f8/04abf8d26fa5ce5754703990cb2110c5.jpg' alt='8x8FT Disco Club Dancer Music Wall Stripes Soul Train Custom Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/ab/f8/04abf8d26fa5ce5754703990cb2110c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Train Photo Background Birthday Party Photography Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20432923/r/il/b2829e/3520629172/il_340x270.3520629172_rtby.jpg' alt='Soul Train Photo Background Birthday Party Photography Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20432923/r/il/b2829e/3520629172/il_340x270.3520629172_rtby.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

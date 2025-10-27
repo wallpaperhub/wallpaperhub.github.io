@@ -1,0 +1,129 @@
+<title>"Explore the Chilling FNaF Office: Survive the Night!"</title>
+                    <meta name="description" content=""Dive into the heart of Five Nights at Freddy's! Discover the thrill of survival in the FNaF office, where every sound could be your last. Monitor animatronics, conserve power, and test your nerves in this tense gaming experience!"">
+                    <meta name="keywords" content="fnaf office">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnaf-office">
+                            <span itemprop="name">fnaf office</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Explore the Chilling FNaF Office: Survive the Night!"</h1>
+                <p>The Five Nights at Freddy's (FNaF) office serves as the nerve-wracking hub for the player, often characterized by limited lighting and surveillance cameras. Players must monitor animatronic movements while conserving power, creating an intense atmosphere. Every sound, shadow, and flicker heightens the suspense, leaving players on edge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office | Five Nights at Freddy's Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/24/OfficeEmpty.png/revision/latest?cb=20220806131812' alt='The Office | Five Nights at Freddy's Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Five Nights at Freddy's Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/24/OfficeEmpty.png/revision/latest?cb=20220806131812' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office (UCN) | Five Nights at Freddy's Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/35/UNC_Standard_Office_Light.png/revision/latest?cb=20180705193739' alt='The Office (UCN) | Five Nights at Freddy's Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Five Nights at Freddy's Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/35/UNC_Standard_Office_Light.png/revision/latest?cb=20180705193739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What colors are the walls in the FNaF 1 office? They look blue ...">
+                                <img itemprop="contentUrl url" src='http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3b/Office_Normal.png/revision/latest?cb=20140825010224' alt='What colors are the walls in the FNaF 1 office? They look blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3b/Office_Normal.png/revision/latest?cb=20140825010224' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fnaf 1 office except it's a bit different | Five Nights At ...">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7630/9457a5776cd7305737517b6b6d831dedf163a681r1-2000-1500v2_uhq.jpg' alt='Fnaf 1 office except it's a bit different | Five Nights At ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7630/9457a5776cd7305737517b6b6d831dedf163a681r1-2000-1500v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF:1] Office remake : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/0Qe5eqU.jpg' alt='FNAF:1] Office remake : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/0Qe5eqU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fnaf 1 Office">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/0f/61/a50f61b7dcc8353bc987b5da397ac970.jpg' alt='Fnaf 1 Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/0f/61/a50f61b7dcc8353bc987b5da397ac970.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office (FNaF2) | Five Nights at Freddy's Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f8/The_Office_2_No_Flashlight.png/revision/latest?cb=20141126225944' alt='The Office (FNaF2) | Five Nights at Freddy's Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Five Nights at Freddy's Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f8/The_Office_2_No_Flashlight.png/revision/latest?cb=20141126225944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF Office Render By Blender by abedinhos on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81771905-146a-45ec-b96f-645d805e8aa1/dfzw2hn-eaef2622-0681-4669-98f5-6deb582d65dd.png/v1/fill/w_1280,h_579/fnaf_office_render_by_blender_by_abedinhos_dfzw2hn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc5IiwicGF0aCI6IlwvZlwvODE3NzE5MDUtMTQ2YS00NWVjLWI5NmYtNjQ1ZDgwNWU4YWExXC9kZnp3MmhuLWVhZWYyNjIyLTA2ODEtNDY2OS05OGY1LTZkZWI1ODJkNjVkZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3PIGasGjhSo4Ji75CWaj0hSWTLaY0fHdZJvpW9PID-Q' alt='FNAF Office Render By Blender by abedinhos on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81771905-146a-45ec-b96f-645d805e8aa1/dfzw2hn-eaef2622-0681-4669-98f5-6deb582d65dd.png/v1/fill/w_1280,h_579/fnaf_office_render_by_blender_by_abedinhos_dfzw2hn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc5IiwicGF0aCI6IlwvZlwvODE3NzE5MDUtMTQ2YS00NWVjLWI5NmYtNjQ1ZDgwNWU4YWExXC9kZnp3MmhuLWVhZWYyNjIyLTA2ODEtNDY2OS05OGY1LTZkZWI1ODJkNjVkZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3PIGasGjhSo4Ji75CWaj0hSWTLaY0fHdZJvpW9PID-Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::FNaF 1 - Office">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/960849443770056031/F7A7BFD3A1C985DA50EEAB6267DE085C6119EE3A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::FNaF 1 - Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/960849443770056031/F7A7BFD3A1C985DA50EEAB6267DE085C6119EE3A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Nights at Freddy's Office (FNAF 1) - 3D model by Arnau ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/5acfb6e741e34002aecd81a8b91b2a42/thumbnails/449641077ace4762ba91a9c605e05079/0995b85d336e40de987853cd1148e936.jpeg' alt='Five Nights at Freddy's Office (FNAF 1) - 3D model by Arnau ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/5acfb6e741e34002aecd81a8b91b2a42/thumbnails/449641077ace4762ba91a9c605e05079/0995b85d336e40de987853cd1148e936.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

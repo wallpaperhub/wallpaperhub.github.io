@@ -1,0 +1,129 @@
+<title>Witchy Christmas Wallpaper: Enchant Your Holiday Decor</title>
+                    <meta name="description" content="Discover magical witchy Christmas wallpaper to spice up your holiday decor! From mystical designs to festive patterns, find the perfect backdrop that blends the charm of the season with witchy aesthetics for a truly enchanting atmosphere. Perfect for any decor style!">
+                    <meta name="keywords" content="witchy christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/witchy-christmas-wallpaper">
+                            <span itemprop="name">witchy christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Witchy Christmas Wallpaper: Enchant Your Holiday Decor</h1>
+                <p>Transform your holiday season with enchanting witchy Christmas wallpaper! These unique designs blend mystical elements with festive cheer, featuring themes like dark forests, crescent moons, and spellbound ornaments. Perfect for those who celebrate the season with a hint of magic, adding a whimsical touch to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Cute Christmas Wallpaper Options to Make Your Device Festive">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/29/cd/2a/29cd2ae1b597d9a2861a947cf35b2b8d.jpg' alt='45+ Cute Christmas Wallpaper Options to Make Your Device Festive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/29/cd/2a/29cd2ae1b597d9a2861a947cf35b2b8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Christmas Witch Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1355485825/photo/yule-winter-solstice-concept-natural-gift-wrapped-in-linen-fabric-tree-branches-red-berries.jpg?s=612x612&w=0&k=20&c=bXjZnx_W54O3lVWQmgidCgUMF2xyj1AKWtTC1VL4U8M=' alt='1,900+ Christmas Witch Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1355485825/photo/yule-winter-solstice-concept-natural-gift-wrapped-in-linen-fabric-tree-branches-red-berries.jpg?s=612x612&w=0&k=20&c=bXjZnx_W54O3lVWQmgidCgUMF2xyj1AKWtTC1VL4U8M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yule Wallpaper || Spooky Christmas Wallpaper || Spooky Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/d7/96/31d7963c67b6af5f0f67db59946f46b4.jpg' alt='Yule Wallpaper || Spooky Christmas Wallpaper || Spooky Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/d7/96/31d7963c67b6af5f0f67db59946f46b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Christmas and Halloween Wallpaper | Interior Design  Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7432215337128430881&location=0&aid=1988' alt='Studio Ghibli Christmas and Halloween Wallpaper | Interior Design  Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7432215337128430881&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yule Wallpaper/ Witchy Blockscreen/ Yule background/ Yule ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/3d/2d/c33d2dbe7a71ae839aa8a5d632fcfa13.jpg' alt='Yule Wallpaper/ Witchy Blockscreen/ Yule background/ Yule ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/3d/2d/c33d2dbe7a71ae839aa8a5d632fcfa13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Yule!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/b6/46/45b6469a943ce4a0b0e49c4fb46084e7.jpg' alt='Happy Yule!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/b6/46/45b6469a943ce4a0b0e49c4fb46084e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Christmas Wallpaper Holiday Wallpaper Lofi Wallpaper Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42410412/r/il/d82809/5822210894/il_570xN.5822210894_n7z5.jpg' alt='Witchy Christmas Wallpaper Holiday Wallpaper Lofi Wallpaper Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42410412/r/il/d82809/5822210894/il_570xN.5822210894_n7z5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Generated Dark Mystery Art | November Winter Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7436798423262612758&location=0&aid=1988' alt='AI Generated Dark Mystery Art | November Winter Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7436798423262612758&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter solstice, pagan, wicca, wiccan, yule, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/154/770/HD-wallpaper-winter-solstice-pagan-wicca-wiccan-yule.jpg' alt='Winter solstice, pagan, wicca, wiccan, yule, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/154/770/HD-wallpaper-winter-solstice-pagan-wicca-wiccan-yule.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' alt='Gothic Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

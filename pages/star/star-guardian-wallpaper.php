@@ -1,0 +1,129 @@
+<title>Magical Star Guardian Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our collection of captivating Star Guardian wallpapers, designed to transform your screens. Featuring stunning characters and vibrant art, these wallpapers are perfect for fans. Download now to bring the magic of the Star Guardian universe to your devices!">
+                    <meta name="keywords" content="star guardian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-guardian-wallpaper">
+                            <span itemprop="name">star guardian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Star Guardian Wallpapers for Your Devices</h1>
+                <p>Enhance your digital space with enchanting Star Guardian wallpapers! These stunning designs, inspired by the beloved characters and vibrant aesthetic of the Star Guardian universe, bring a magical touch to your screens. Perfect for fans of the series, each wallpaper captures the essence of adventure and friendship. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Guardians in 4K Ultra HD - League of Legends Wallpaper by Suke">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/990/990411.png' alt='Star Guardians in 4K Ultra HD - League of Legends Wallpaper by Suke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/990/990411.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::League of Legends - Star Guardian Login Screen ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/155775833369090043/6326E61712BF7E084F363152095F0D2868D7C763/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::League of Legends - Star Guardian Login Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/155775833369090043/6326E61712BF7E084F363152095F0D2868D7C763/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Guardian 2022 Skins League of Legends 4K Wallpaper - Download ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/star-guardian-2022-skins-league-of-legends-4k-wallpaper/?download-img=4k' alt='Star Guardian 2022 Skins League of Legends 4K Wallpaper - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/star-guardian-2022-skins-league-of-legends-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Guardians Kai'Sa (League Of Legends) Video Game ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/125/1250601.jpg' alt='Download Star Guardians Kai'Sa (League Of Legends) Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/125/1250601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hope Burns Brighter Than Fear in Star Guardian 2022 | Riot Games">
+                                <img itemprop="contentUrl url" src='https://www.riotgames.com/darkroom/1440/1f9c3a260cb6e7a4da054ecbcdfa1c05:4d39bd726e06f6540ab9054ca21dbc8d/sg22-franchise-kv-final.jpg' alt='Hope Burns Brighter Than Fear in Star Guardian 2022 | Riot Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Riot Games" />
+                                </span>
+                                <a href='https://www.riotgames.com/darkroom/1440/1f9c3a260cb6e7a4da054ecbcdfa1c05:4d39bd726e06f6540ab9054ca21dbc8d/sg22-franchise-kv-final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: League of Legends Star Guardians wallpaper, Lux ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/46/94/9f4694cd03711c54189a5531a393d713.jpg' alt='HD wallpaper: League of Legends Star Guardians wallpaper, Lux ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/46/94/9f4694cd03711c54189a5531a393d713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Guardian - League of Legends - HD Wallpaper by Riot Games ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Star.Guardian.full.4208003.jpg' alt='Star Guardian - League of Legends - HD Wallpaper by Riot Games ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Star.Guardian.full.4208003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allright i'm gonna need that ... Star Guardian Valoran City ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/star-guardian-valoran-city-1920x1080-v0-l02iu9skm7xa1.jpg?auto=webp&s=b47e95c6fa448a483b287c2808c183368def4945' alt='Allright i'm gonna need that ... Star Guardian Valoran City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/star-guardian-valoran-city-1920x1080-v0-l02iu9skm7xa1.jpg?auto=webp&s=b47e95c6fa448a483b287c2808c183368def4945' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Guardian Xayah, Orianna, Senna, Seraphine Skins LoL Wild Rift ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/star-guardian-xayah-orianna-senna-seraphine-skins-lol-wild-rift-4k-wallpaper/?download-img=4k' alt='Star Guardian Xayah, Orianna, Senna, Seraphine Skins LoL Wild Rift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/star-guardian-xayah-orianna-senna-seraphine-skins-lol-wild-rift-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Guardian Lux | Julia Len">
+                                <img itemprop="contentUrl url" src='https://julialen.com/wp-content/uploads/2015/09/star-guardian-lux5.png?w=640' alt='Star Guardian Lux | Julia Len'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julia Len" />
+                                </span>
+                                <a href='https://julialen.com/wp-content/uploads/2015/09/star-guardian-lux5.png?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

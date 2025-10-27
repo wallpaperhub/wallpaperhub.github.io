@@ -1,0 +1,129 @@
+<title>"Understanding Non-Adjudication and Background Checks"</title>
+                    <meta name="description" content="Discover whether non-adjudication cases appear on background checks. Learn how these legal outcomes can affect your record and what factors influence reporting. Stay informed to protect your employability and legal rights.">
+                    <meta name="keywords" content="will a non adjudication show on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-a-non-adjudication-show-on-background-check">
+                            <span itemprop="name">will a non adjudication show on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding Non-Adjudication and Background Checks"</h1>
+                <p>A non-adjudication typically refers to a situation where a case is not formally decided in court. Generally, these cases may not show up on background checks, especially if they are dismissed or not resulting in a conviction. However, background check policies can vary by state and employer, so it’s essential to understand local laws.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Non-Adjudication Show on a Background Check? | MS DUI">
+                                <img itemprop="contentUrl url" src='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi-1-thegem-blog-default.jpg' alt='Will A Non-Adjudication Show on a Background Check? | MS DUI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drunk Driving Defense" />
+                                </span>
+                                <a href='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi-1-thegem-blog-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New HUD Guidelines and Best Practices for Criminal Background ...">
+                                <img itemprop="contentUrl url" src='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' alt='New HUD Guidelines and Best Practices for Criminal Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelley, Grant, & Tanis, P.A." />
+                                </span>
+                                <a href='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Non-Adjudication DUI in Mississippi | Mississippi DUI Law">
+                                <img itemprop="contentUrl url" src='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi.jpg' alt='Non-Adjudication DUI in Mississippi | Mississippi DUI Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drunk Driving Defense" />
+                                </span>
+                                <a href='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Could Deferred Adjudication Defeat Your Background Check? - Imperative">
+                                <img itemprop="contentUrl url" src='https://www.imperativeinfo.com/wp-content/uploads/2017/05/Imperative-DeferredAdjudication-Alt-1200x675.jpg' alt='Could Deferred Adjudication Defeat Your Background Check? - Imperative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperative Information Group" />
+                                </span>
+                                <a href='https://www.imperativeinfo.com/wp-content/uploads/2017/05/Imperative-DeferredAdjudication-Alt-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Adjudication: Definition, Guide, and Best Practices">
+                                <img itemprop="contentUrl url" src='https://yardstik.com/wp-content/uploads/2024/08/Blog_Adjudication.png' alt='Background Check Adjudication: Definition, Guide, and Best Practices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1373">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yardstik" />
+                                </span>
+                                <a href='https://yardstik.com/wp-content/uploads/2024/08/Blog_Adjudication.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Non-Adjudication Show on a Background Check? | MS DUI">
+                                <img itemprop="contentUrl url" src='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-DUI-Show-Up-On-A-Background-Check-in-Mississippi.jpg' alt='Will A Non-Adjudication Show on a Background Check? | MS DUI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drunk Driving Defense" />
+                                </span>
+                                <a href='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-DUI-Show-Up-On-A-Background-Check-in-Mississippi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Adjudication and Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/6c70805059a7f7043f2c2afa05882deb/Article-background-check-adjudication-963x418-1.png' alt='The Ultimate Guide to Adjudication and Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/6c70805059a7f7043f2c2afa05882deb/Article-background-check-adjudication-963x418-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screenings | NNA">
+                                <img itemprop="contentUrl url" src='https://www.nationalnotary.org/image%20library/nna/knowledge%20center/signing-agent-tools/quick-facts-about-bgs-infographic.png' alt='Background Screenings | NNA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Notary Association" />
+                                </span>
+                                <a href='https://www.nationalnotary.org/image%20library/nna/knowledge%20center/signing-agent-tools/quick-facts-about-bgs-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Non-Adjudication Show on Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.scoutlogicscreening.com/wp-content/uploads/2024/01/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg' alt='Will a Non-Adjudication Show on Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScoutLogic" />
+                                </span>
+                                <a href='https://www.scoutlogicscreening.com/wp-content/uploads/2024/01/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

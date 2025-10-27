@@ -1,0 +1,129 @@
+<title>Vibrant Halo Infinite Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore a captivating selection of Halo Infinite wallpapers designed for gamers. Transform your screens with high-quality images of your favorite characters and breathtaking scenes from the game. Perfect for desktops and mobiles—download now to enhance your gaming experience!">
+                    <meta name="keywords" content="halo infinite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halo-infinite-wallpaper">
+                            <span itemprop="name">halo infinite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Halo Infinite Wallpapers for Gamers</h1>
+                <p>Discover stunning Halo Infinite wallpapers that immerse you in the thrilling universe of Master Chief. From breathtaking landscapes to epic battles, our collection captures the essence of the game. Perfect for your desktop or mobile screen, these wallpapers bring your favorite Halo moments to life. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Infinite Chief wallpaper : r/halo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4klrew7nqec51.jpg' alt='HD Infinite Chief wallpaper : r/halo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4klrew7nqec51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite edited box art cover background wallpaper blank (no ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ess0891583l71.png' alt='Halo Infinite edited box art cover background wallpaper blank (no ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3724">
+                                <meta itemprop="height" content="1862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ess0891583l71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo: Infinite Wallpaper (1080p) : r/halo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zy2kyxd6p8311.png?auto=webp&s=b65b32a0804b5f60c5ba798f29ee7d696cbcbdb7' alt='Halo: Infinite Wallpaper (1080p) : r/halo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zy2kyxd6p8311.png?auto=webp&s=b65b32a0804b5f60c5ba798f29ee7d696cbcbdb7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Archives | Halo - Official Site (en)">
+                                <img itemprop="contentUrl url" src='https://wpassets.halowaypoint.com/wp-content/2021/10/Autumnarchives_thumbnail-2.jpg' alt='Autumn Archives | Halo - Official Site (en)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halo Waypoint" />
+                                </span>
+                                <a href='https://wpassets.halowaypoint.com/wp-content/2021/10/Autumnarchives_thumbnail-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite HD Clean Mobile Wallpaper [1995x3980]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/00/95/aa0095fed0b4cdffe16e435aad165e22.jpg' alt='Halo Infinite HD Clean Mobile Wallpaper [1995x3980]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/00/95/aa0095fed0b4cdffe16e435aad165e22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Halo Infinite 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/942843106664524832/FF4A36A9CB694F4AABD53C144D6BF39B88825D58/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Halo Infinite 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/942843106664524832/FF4A36A9CB694F4AABD53C144D6BF39B88825D58/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Halo Infinite Wallpaper (removed Logo) [2560x1440] : r/halo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/726ija288vd71.jpg?width=1080&crop=smart&auto=webp&s=b82dc13393e185964b934298e8ae3d71c00dfd4c' alt='New Halo Infinite Wallpaper (removed Logo) [2560x1440] : r/halo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/726ija288vd71.jpg?width=1080&crop=smart&auto=webp&s=b82dc13393e185964b934298e8ae3d71c00dfd4c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite HD Wallpaper Showcase">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/102/1023546.jpg' alt='Halo Infinite HD Wallpaper Showcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/102/1023546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo infinite wallpaper store 4k">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/927/927678.png' alt='Halo infinite wallpaper store 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/927/927678.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Archives | Halo - Official Site (en)">
+                                <img itemprop="contentUrl url" src='https://content.halocdn.com/media/Default/community/blogs/fullres_halo_infinite_courage_keyart_horiz_notitle_1120-5249e58b6fcd4f42b772a5cffe881b22.jpg' alt='Autumn Archives | Halo - Official Site (en)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halo Waypoint" />
+                                </span>
+                                <a href='https://content.halocdn.com/media/Default/community/blogs/fullres_halo_infinite_courage_keyart_horiz_notitle_1120-5249e58b6fcd4f42b772a5cffe881b22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

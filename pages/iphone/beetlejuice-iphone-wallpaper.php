@@ -1,0 +1,129 @@
+<title>Beetlejuice iPhone Wallpapers – Spookify Your Screen!</title>
+                    <meta name="description" content="Discover a variety of Beetlejuice iPhone wallpapers that bring the offbeat charm of Tim Burton's classic to your screen. Choose from vivid designs featuring beloved characters and spooky themes, perfect for fans looking to personalize their devices while keeping it stylish and fun!">
+                    <meta name="keywords" content="beetlejuice iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/beetlejuice-iphone-wallpaper">
+                            <span itemprop="name">beetlejuice iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beetlejuice iPhone Wallpapers – Spookify Your Screen!</h1>
+                <p>Transform your iPhone with stunning Beetlejuice wallpapers! Whether you're a fan of the iconic Tim Burton film or just love its quirky aesthetics, our collection features vibrant designs that capture the essence of Beetlejuice, Lydia, and the afterlife. Personalize your device and showcase your love for this classic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys! I'll share the desktop version of the wallpaper as well ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hey-guys-ill-share-the-desktop-version-of-the-wallpaper-as-v0-cklcvghyjbdd1.jpg?width=640&crop=smart&auto=webp&s=788cbd7d74dcc2cd06073f9a063c4c3521ac0bfc' alt='Hey guys! I'll share the desktop version of the wallpaper as well ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hey-guys-ill-share-the-desktop-version-of-the-wallpaper-as-v0-cklcvghyjbdd1.jpg?width=640&crop=smart&auto=webp&s=788cbd7d74dcc2cd06073f9a063c4c3521ac0bfc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beetlejuice Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/a7/db/bba7db75efaf3059a2b1eab941334249.jpg' alt='Beetlejuice Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/a7/db/bba7db75efaf3059a2b1eab941334249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Keaton (Beetlejuice) Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/e/e/494199-2000x3000-iphone-hd-michael-keaton-beetlejuice-background-photo.jpg' alt='Michael Keaton (Beetlejuice) Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/e/e/494199-2000x3000-iphone-hd-michael-keaton-beetlejuice-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD beetlejuice wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/331/225/HD-wallpaper-beetlejuice-movies-scary.jpg' alt='HD beetlejuice wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/331/225/HD-wallpaper-beetlejuice-movies-scary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys! I edited the new Beetlejuice poster in Photoshop to use ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hey-guys-i-edited-the-new-beetlejuice-poster-in-photoshop-v0-yn404gw3lcdd1.jpeg?width=1080&format=pjpg&auto=webp&s=780e9e26422fd73b45b20ebea933fc6eb17a3d51' alt='Hey guys! I edited the new Beetlejuice poster in Photoshop to use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hey-guys-i-edited-the-new-beetlejuice-poster-in-photoshop-v0-yn404gw3lcdd1.jpeg?width=1080&format=pjpg&auto=webp&s=780e9e26422fd73b45b20ebea933fc6eb17a3d51' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beetlejuice Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/a-chilling-presence-michael-keaton-in-beetlejuice-gl2pmv3dautv512l.jpg' alt='100+] Beetlejuice Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/a-chilling-presence-michael-keaton-in-beetlejuice-gl2pmv3dautv512l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beetlejuice Beetlejuice Wallpaper 4K, 2024 Movies">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/beetlejuice-1242x2208-17619.jpg' alt='Beetlejuice Beetlejuice Wallpaper 4K, 2024 Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/beetlejuice-1242x2208-17619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loving this Beetlejuice wallpaper : r/Beetlejuice">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/loving-this-beetlejuice-wallpaper-v0-0tbfexcjsupd1.jpeg?width=1080&crop=smart&auto=webp&s=9b8c93e1321f26b187e31ba84b84b1084d3cf60d' alt='Loving this Beetlejuice wallpaper : r/Beetlejuice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/loving-this-beetlejuice-wallpaper-v0-0tbfexcjsupd1.jpeg?width=1080&crop=smart&auto=webp&s=9b8c93e1321f26b187e31ba84b84b1084d3cf60d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beetlejuice Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/68/42/906842c4a8ddeb4a8d107b6c570329b4.jpg' alt='Beetlejuice Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/68/42/906842c4a8ddeb4a8d107b6c570329b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beetlejuice, coffin, lydia, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/813/85/HD-wallpaper-beetlejuice-coffin-lydia.jpg' alt='Beetlejuice, coffin, lydia, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/813/85/HD-wallpaper-beetlejuice-coffin-lydia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

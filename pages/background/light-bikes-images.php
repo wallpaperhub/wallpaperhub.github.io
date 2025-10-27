@@ -1,0 +1,129 @@
+<title>Stunning Light Bikes Images for Cyclists</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="light bikes images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-bikes-images">
+                            <span itemprop="name">light bikes images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Bikes Images for Cyclists</h1>
+                <p>Light bikes images showcase the sleek design and innovative engineering behind modern cycling technology. These stunning visuals highlight their lightweight frames, aerodynamic shapes, and vibrant colors, making them perfect for both enthusiasts and casual riders alike. Explore the world of light bikes and find inspiration for your next cycling adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid Side Light Set">
+                                <img itemprop="contentUrl url" src='https://www.blackburndesign.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-blackburn-copilot-master-catalog/default/dw4ad10875/images/large/bbn-grid-side-bike-light-black-lifestyle-3.jpg?sw=800&sh=800&sm=fit' alt='Grid Side Light Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blackburn Design" />
+                                </span>
+                                <a href='https://www.blackburndesign.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-blackburn-copilot-master-catalog/default/dw4ad10875/images/large/bbn-grid-side-bike-light-black-lifestyle-3.jpg?sw=800&sh=800&sm=fit' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightest road bikes 2025 — fantastically featherweight rides that ...">
+                                <img itemprop="contentUrl url" src='https://cdn.road.cc/sites/default/files/styles/teasers/public/2022-reilly-fusion-aero-road-disc-riding-1.jpg' alt='Lightest road bikes 2025 — fantastically featherweight rides that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="road.cc" />
+                                </span>
+                                <a href='https://cdn.road.cc/sites/default/files/styles/teasers/public/2022-reilly-fusion-aero-road-disc-riding-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yescom Bright LED Bike Wheel Light Auto Open and Close Bicycle ...">
+                                <img itemprop="contentUrl url" src='https://www.kroger.com/product/images/large/front/0063750947079' alt='Yescom Bright LED Bike Wheel Light Auto Open and Close Bicycle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fred Meyer" />
+                                </span>
+                                <a href='https://www.kroger.com/product/images/large/front/0063750947079' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,404 Bike Led Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/captivating-image-mountain-bike-featuring-600nw-2435151681.jpg' alt='3,404 Bike Led Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/captivating-image-mountain-bike-featuring-600nw-2435151681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Need to Know About Bike Lights">
+                                <img itemprop="contentUrl url" src='https://cdn.outsideonline.com/wp-content/uploads/2020/08/24/bike-safety-lights-london_s.jpg' alt='What You Need to Know About Bike Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.outsideonline.com" />
+                                </span>
+                                <a href='https://cdn.outsideonline.com/wp-content/uploads/2020/08/24/bike-safety-lights-london_s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woanger 3 Pcs LED Bike Lights Bike Frame LED Lights Bright Colorful Bike  Frame LED Light Battery Powered Bicycle Accessories Gifts for Riding at  Night ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Se9ZeGPYL._AC_UF1000,1000_QL80_.jpg' alt='Woanger 3 Pcs LED Bike Lights Bike Frame LED Lights Bright Colorful Bike  Frame LED Light Battery Powered Bicycle Accessories Gifts for Riding at  Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Se9ZeGPYL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cruzin Brightz">
+                                <img itemprop="contentUrl url" src='https://brightz.com/cdn/shop/files/Cruzin_1_grande.jpg?v=1691002113' alt='Cruzin Brightz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brightz" />
+                                </span>
+                                <a href='https://brightz.com/cdn/shop/files/Cruzin_1_grande.jpg?v=1691002113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Brightest Bike Light - Reactual">
+                                <img itemprop="contentUrl url" src='https://reactual.com/wp-content/uploads/2019/05/DING-Bike-Lights.jpg' alt='The Brightest Bike Light - Reactual'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reactual" />
+                                </span>
+                                <a href='https://reactual.com/wp-content/uploads/2019/05/DING-Bike-Lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brightz GoBrightz LED Bicycle Accessory Frame Light, Weather-Resistant, 1  Count, Width 0.75 in, Red">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/9b6a1e7d-6f4b-4edb-b205-5c02ea87b072.d97a0ba32b8e0165acdcc1a243197329.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Brightz GoBrightz LED Bicycle Accessory Frame Light, Weather-Resistant, 1  Count, Width 0.75 in, Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/9b6a1e7d-6f4b-4edb-b205-5c02ea87b072.d97a0ba32b8e0165acdcc1a243197329.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brightz GoBrightz LED Bike Frame Light - LED Bike Frame Light for Night  Riding - 4 Modes for Flashing or Constant Glow Light - Fun Safety Light  Bike ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61FJG5ZL54L._AC_UF1000,1000_QL80_.jpg' alt='Brightz GoBrightz LED Bike Frame Light - LED Bike Frame Light for Night  Riding - 4 Modes for Flashing or Constant Glow Light - Fun Safety Light  Bike ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61FJG5ZL54L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

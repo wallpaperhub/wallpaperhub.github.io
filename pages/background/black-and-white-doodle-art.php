@@ -1,0 +1,129 @@
+<title>Discover the Magic of Black and White Doodle Art</title>
+                    <meta name="description" content="Explore the captivating world of black and white doodle art! Unleash your creativity with intricate designs that inspire relaxation and imagination. Perfect for decor or personal expression, these unique doodles offer endless artistic possibilities. Dive into the artistry today!">
+                    <meta name="keywords" content="black and white doodle art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-doodle-art">
+                            <span itemprop="name">black and white doodle art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Black and White Doodle Art</h1>
+                <p>Black and white doodle art combines intricate patterns and whimsical shapes, creating visually striking designs. This artistic form invites creativity and imagination, allowing artists to express their thoughts freely. Whether simple or complex, these doodles can serve as stress relief or stunning decor, captivating viewers with their enchanting details.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Doodles II - Artinrug">
+                                <img itemprop="contentUrl url" src='https://artinrug.com/wp-content/uploads/2023/07/Wotto_Black-White-Doodles-II.jpg' alt='Black & White Doodles II - Artinrug'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art in Rug" />
+                                </span>
+                                <a href='https://artinrug.com/wp-content/uploads/2023/07/Wotto_Black-White-Doodles-II.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Doodle art black and white">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/doodle-art-black-white_473883-1108.jpg' alt='Premium Vector | Doodle art black and white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/doodle-art-black-white_473883-1108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Black White Doodle Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/3000_1000_2627a177-60da-4717-974d-eb6da6107eb8.webp?v=1655194814&width=1445' alt='Whimsical Black White Doodle Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/3000_1000_2627a177-60da-4717-974d-eb6da6107eb8.webp?v=1655194814&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Doodles by Wotto 76">
+                                <img itemprop="contentUrl url" src='https://cdn.inprnt.com/thumbs/c0/ef/c0efaad9c33c77071113f70bb0adbc18.jpg?response-cache-control=max-age=2628000' alt='Black & White Doodles by Wotto 76'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="INPRNT" />
+                                </span>
+                                <a href='https://cdn.inprnt.com/thumbs/c0/ef/c0efaad9c33c77071113f70bb0adbc18.jpg?response-cache-control=max-age=2628000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Doodle Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/doodle-illustration-happy-faces-objects_1294240-21373.jpg?semt=ais_hybrid' alt='Black White Doodle Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/doodle-illustration-happy-faces-objects_1294240-21373.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best doodle art, black and white ideas in 2025 | doodle art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/222x/fb/5d/c1/fb5dc1355bdcd4172a8510b0e41bf355.jpg' alt='900+ Best doodle art, black and white ideas in 2025 | doodle art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/222x/fb/5d/c1/fb5dc1355bdcd4172a8510b0e41bf355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Black White Doodle Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/files/42_f3407383-4e9d-4e56-b4d6-20e2b9633645.jpg?v=1732535614' alt='Whimsical Black White Doodle Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/files/42_f3407383-4e9d-4e56-b4d6-20e2b9633645.jpg?v=1732535614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="     ] Black and white doodle page! I like the way this one turned ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2235968425040492761' alt='     ] Black and white doodle page! I like the way this one turned ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2235968425040492761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Doodle Detailed Art Background Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/black-white-doodle-detailed-art-260nw-1506498410.jpg' alt='Black White Doodle Detailed Art Background Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="343">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/black-white-doodle-detailed-art-260nw-1506498410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Doodle Art by Cross Version">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/black-and-white-doodle-art-fbmovercrafts.jpg' alt='Black and White Doodle Art by Cross Version'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/black-and-white-doodle-art-fbmovercrafts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

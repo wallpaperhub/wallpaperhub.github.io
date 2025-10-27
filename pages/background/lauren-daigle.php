@@ -1,0 +1,129 @@
+<title>Discover the Inspirational Music of Lauren Daigle</title>
+                    <meta name="description" content="Explore the music of Lauren Daigle, a Grammy-winning Christian artist known for her poignant songs and powerful performances. Dive into her inspiring journey and discover how her faith-based music resonates with listeners around the world. Perfect for fans of uplifting, heartfelt tunes!">
+                    <meta name="keywords" content="lauren daigle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lauren-daigle">
+                            <span itemprop="name">lauren daigle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Inspirational Music of Lauren Daigle</h1>
+                <p>Lauren Daigle is a Grammy Award-winning Christian music artist known for her powerful vocals and heartfelt lyrics. With hits like "You Say" and "Rescue," she inspires many with messages of hope and faith. Her unique blend of pop and worship music resonates with audiences worldwide, making her a prominent figure in contemporary Christianity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Lauren_Daigle_%40_The_Novo_05_11_2023_%2853048053550%29.jpg' alt='Lauren Daigle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8b/Lauren_Daigle_%40_The_Novo_05_11_2023_%2853048053550%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Lauren Daigle">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044245368707' alt='Profile for Lauren Daigle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044245368707' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle | Centricity Press">
+                                <img itemprop="contentUrl url" src='https://centricitymusic.com/app/uploads/sites/16/2018/08/Lauren-Daigle-2023-MAIN-PRESS-IMAGE_0-e1719950040230-3000x2001.jpg' alt='Lauren Daigle | Centricity Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Centricity Press" />
+                                </span>
+                                <a href='https://centricitymusic.com/app/uploads/sites/16/2018/08/Lauren-Daigle-2023-MAIN-PRESS-IMAGE_0-e1719950040230-3000x2001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle: God Showed Me My Future - Guideposts">
+                                <img itemprop="contentUrl url" src='https://guideposts.org/wp-content/uploads/2019/01/lauren_daigle_marquee.jpg.optimal.jpg' alt='Lauren Daigle: God Showed Me My Future - Guideposts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guideposts" />
+                                </span>
+                                <a href='https://guideposts.org/wp-content/uploads/2019/01/lauren_daigle_marquee.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Lauren Daigle? – Le Petit Colonel">
+                                <img itemprop="contentUrl url" src='https://bccolonels.com/wp-content/uploads/2022/03/Lauren-Daigle.jpeg' alt='Who is Lauren Daigle? – Le Petit Colonel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Le Petit Colonel" />
+                                </span>
+                                <a href='https://bccolonels.com/wp-content/uploads/2022/03/Lauren-Daigle.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle Talks About 'Losing Her Religion' in New Album | CBN ...">
+                                <img itemprop="contentUrl url" src='https://cbn.com/sites/default/files/laurendaigle2_hdv.jpg' alt='Lauren Daigle Talks About 'Losing Her Religion' in New Album | CBN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBN" />
+                                </span>
+                                <a href='https://cbn.com/sites/default/files/laurendaigle2_hdv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle Debuts Music Video For “Rescue”">
+                                <img itemprop="contentUrl url" src='https://getuperica.com/wp-content/uploads/sites/54/2019/08/15652806605518.jpg?strip=all&quality=80' alt='Lauren Daigle Debuts Music Video For “Rescue”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Get Up! Mornings With Erica Campbell" />
+                                </span>
+                                <a href='https://getuperica.com/wp-content/uploads/sites/54/2019/08/15652806605518.jpg?strip=all&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle and the struggle between relevancy & authenticity ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56f9d85937013b6b2932e484/230482e2-ca1a-4baf-8427-cfe70c5802ca/laurendaigle2021f-scaled.jpg' alt='Lauren Daigle and the struggle between relevancy & authenticity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Sound Music" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56f9d85937013b6b2932e484/230482e2-ca1a-4baf-8427-cfe70c5802ca/laurendaigle2021f-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle: Grammy Award-winning artist adds Nashville stop to tour">
+                                <img itemprop="contentUrl url" src='https://www.tennessean.com/gcdn/authoring/authoring-images/2023/08/30/PNAS/70715145007-lauren-daigle-083023-an-006.jpg' alt='Lauren Daigle: Grammy Award-winning artist adds Nashville stop to tour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennessean" />
+                                </span>
+                                <a href='https://www.tennessean.com/gcdn/authoring/authoring-images/2023/08/30/PNAS/70715145007-lauren-daigle-083023-an-006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lauren Daigle [10-Track Album]">
+                                <img itemprop="contentUrl url" src='http://store.centricitymusic.com/cdn/shop/products/LD_Self-Titled_CVR_88ab441e-efe2-48e0-9064-c885caa6dfdf.jpg?v=1680723267' alt='Lauren Daigle [10-Track Album]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1425">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Centricity Music - Centricity Music" />
+                                </span>
+                                <a href='http://store.centricitymusic.com/cdn/shop/products/LD_Self-Titled_CVR_88ab441e-efe2-48e0-9064-c885caa6dfdf.jpg?v=1680723267' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

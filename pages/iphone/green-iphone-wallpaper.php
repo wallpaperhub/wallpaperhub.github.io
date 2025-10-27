@@ -1,0 +1,129 @@
+<title>Stunning Green iPhone Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="green iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/green-iphone-wallpaper">
+                            <span itemprop="name">green iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green iPhone Wallpapers for a Fresh Look</h1>
+                <p>Transform your iPhone with stunning green wallpapers that celebrate nature's beauty. From lush forests to vibrant emerald hues, these backgrounds not only brighten your screen but also bring a sense of tranquility. Explore a collection that suits your style, inspires creativity, and enhances your daily tech experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green ♤ | Dark green aesthetic, Iphone wallpaper green, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/c5/7f/50c57f6719e0e8ac1082e285c7a4fd35.jpg' alt='Dark Green ♤ | Dark green aesthetic, Iphone wallpaper green, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/c5/7f/50c57f6719e0e8ac1082e285c7a4fd35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Green Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-iphone-ahpebq9w69qhji3w.jpg' alt='200+] Green Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-iphone-ahpebq9w69qhji3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/44/e2/2f/44e22f0a20441d244274fd7a6b2a7a34.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/44/e2/2f/44e22f0a20441d244274fd7a6b2a7a34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Green wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/09/iOS-13-iPhone-11-Pro-wallpaper-inspired-ar72014-iPad.png' alt='Midnight Green wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3208">
+                                <meta itemprop="height" content="3208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/09/iOS-13-iPhone-11-Pro-wallpaper-inspired-ar72014-iPad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space And Stars Green Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/mint-brick-wall-green-iphone-6m0inip6hw7wa2kc.webp' alt='Space And Stars Green Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/mint-brick-wall-green-iphone-6m0inip6hw7wa2kc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper 4k - green liquid - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhM_njs7L7X9fgxfCFjaIv5vnCo0tNb20epuHy-KXKNbcWqaZMsZJQq0V9-FzLFyHvNSQfm_Mx-ZdTs6hlhaJQVkuPILHV0C7R6JYBpnrhmFfovO5FMQ4VG8JdphYL8djGw7sabf8Dq_Ox4-kGEBEhyl76p7WSwTmTHE3mABi7gFrleB6iADc8jRIyD2A=w1600' alt='iphone wallpaper 4k - green liquid - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhM_njs7L7X9fgxfCFjaIv5vnCo0tNb20epuHy-KXKNbcWqaZMsZJQq0V9-FzLFyHvNSQfm_Mx-ZdTs6hlhaJQVkuPILHV0C7R6JYBpnrhmFfovO5FMQ4VG8JdphYL8djGw7sabf8Dq_Ox4-kGEBEhyl76p7WSwTmTHE3mABi7gFrleB6iADc8jRIyD2A=w1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+] iPhone Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/7/3/5816022-1360x2940-iphone-hd-iphone-wallpaper-photo.jpg' alt='70+] iPhone Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="2934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/7/3/5816022-1360x2940-iphone-hd-iphone-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE3NTItcmVtaXgtMjJjLWMuanBn.jpg' alt='Green iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE3NTItcmVtaXgtMjJjLWMuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD green iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/318/928/HD-wallpaper-midnight-green-dark-dark-iphone-iphone-11-pro-max-midnight-green-prime-thumbnail.jpg' alt='HD green iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/318/928/HD-wallpaper-midnight-green-dark-dark-iphone-iphone-11-pro-max-midnight-green-prime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Green iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/d3/a2/ddd3a24767b0164eb8f829acaa0cc737.jpg' alt='Nature Green iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/d3/a2/ddd3a24767b0164eb8f829acaa0cc737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

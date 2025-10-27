@@ -1,0 +1,129 @@
+<title>Aesthetic Sailor Moon Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover enchanting Sailor Moon wallpapers that elevate your device's aesthetic. Perfect for fans, these stunning designs capture the essence of the beloved anime, bringing charm and nostalgia to your screen. Explore a variety of images to personalize your space today!">
+                    <meta name="keywords" content="aesthetic sailor moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-sailor-moon-wallpaper">
+                            <span itemprop="name">aesthetic sailor moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Sailor Moon Wallpapers for Your Screen</h1>
+                <p>Aesthetic Sailor Moon wallpapers add a magical touch to your screen, transforming your space with dreamy visuals inspired by the beloved anime. Featuring vibrant colors, iconic characters, and captivating scenes, these wallpapers evoke nostalgia and whimsy. Perfect for fans looking to celebrate their love for Sailor Moon!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/c8/df/54c8dfed223e8fa986fef55955ed28d4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/c8/df/54c8dfed223e8fa986fef55955ed28d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute aesthetic wallpapers      : r/sailormoon">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rx0danpb30c71.jpg?width=640&crop=smart&auto=webp&s=937311fc288f8613ce06afb5d1975518104f2057' alt='Cute aesthetic wallpapers      : r/sailormoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rx0danpb30c71.jpg?width=640&crop=smart&auto=webp&s=937311fc288f8613ce06afb5d1975518104f2057' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="     Forever Obsessing Over Sailor Moon Backgrounds     : r/sailormoon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rx8rscyke3o71.jpg' alt='     Forever Obsessing Over Sailor Moon Backgrounds     : r/sailormoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rx8rscyke3o71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Aesthetic, pink, Sailor Moon, cute, anime, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/826/602/HD-wallpaper-sailor-moon-aesthetic-pink-sailor-moon-cute-anime.jpg' alt='Sailor Moon Aesthetic, pink, Sailor Moon, cute, anime, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/826/602/HD-wallpaper-sailor-moon-aesthetic-pink-sailor-moon-cute-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/84/16/658416823e94c85846b13c90deded1e6.jpg' alt='Sailor moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/84/16/658416823e94c85846b13c90deded1e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/1/2/33116-1920x1080-desktop-1080p-sailor-moon-wallpaper-image.jpg' alt='Sailor Moon Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/1/2/33116-1920x1080-desktop-1080p-sailor-moon-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Anime Aesthetic Sailor Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-anime-aesthetic-sailor-moon-ia2k9f5kf7tf0uho.jpg' alt='Pink Anime Aesthetic Sailor Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-anime-aesthetic-sailor-moon-ia2k9f5kf7tf0uho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailormoon, aesthetic, anime, sailor moon, vibe, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/41/384/HD-wallpaper-sailormoon-aesthetic-anime-sailor-moon-vibe.jpg' alt='Sailormoon, aesthetic, anime, sailor moon, vibe, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/41/384/HD-wallpaper-sailormoon-aesthetic-anime-sailor-moon-vibe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Sailor Moon Wallpaper! ideas | sailor moon wallpaper, sailor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2a/6a/d0/2a6ad0afd7af3f3a845ae8ed1a9e4860.jpg' alt='23 Sailor Moon Wallpaper! ideas | sailor moon wallpaper, sailor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2a/6a/d0/2a6ad0afd7af3f3a845ae8ed1a9e4860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Sailor Moon Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-sailor-moon-background-3z3wzc7rf9fipos2.jpg' alt='100+] Aesthetic Sailor Moon Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-sailor-moon-background-3z3wzc7rf9fipos2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

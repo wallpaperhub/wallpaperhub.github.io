@@ -1,0 +1,129 @@
+<title>Elegant Black and White Swirl Art</title>
+                    <meta name="description" content="Discover the beauty of black and white swirl designs that embody elegance and contrast. Perfect for art lovers, these stunning patterns can enhance your decor or fashion style, offering a unique blend of sophistication and style. Explore the captivating world of black and white swirls today!">
+                    <meta name="keywords" content="black and white swirl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-white-swirl">
+                            <span itemprop="name">black and white swirl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Swirl Art</h1>
+                <p>Black and white swirls create a captivating visual experience, embodying contrast and elegance. This artistic design symbolizes balance and harmony, often used in fashion, interior decor, and graphic art. The interplay of light and dark draws the eye, making it a popular choice for creating striking patterns and unique statements.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,900+ Black And White Swirl Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1182734257/vector/black-and-white-swirl-backgrounds.jpg?s=612x612&w=0&k=20&c=a0d2CS3ixlwJ6ykvGdgve3Abr4i_PFTmw2hwFyiPlB4=' alt='42,900+ Black And White Swirl Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1182734257/vector/black-and-white-swirl-backgrounds.jpg?s=612x612&w=0&k=20&c=a0d2CS3ixlwJ6ykvGdgve3Abr4i_PFTmw2hwFyiPlB4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker Black and white swirl lines. Optical illusion background, vector">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/52/16/01/38/700_FO52160138_e91992c272842cfd16e0b24b6a08865f.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-black-and-white-swirl-lines-optical-illusion-background-vector.jpg.jpg' alt='Sticker Black and white swirl lines. Optical illusion background, vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/52/16/01/38/700_FO52160138_e91992c272842cfd16e0b24b6a08865f.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-black-and-white-swirl-lines-optical-illusion-background-vector.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl Black White Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/790716049/display_1500/stock-vector-hypnotic-psychedelic-spiral-background-vector-illustration-790716049.jpg' alt='Swirl Black White Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/790716049/display_1500/stock-vector-hypnotic-psychedelic-spiral-background-vector-illustration-790716049.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Black and White Swirl">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/181047.jpg' alt='Wall Mural Black and White Swirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/181047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Swirl GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/mrkDh1v4_BkAAAAM/hipnotis-hitam.gif' alt='Black And White Swirl GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/mrkDh1v4_BkAAAAM/hipnotis-hitam.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Swirls Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/826/483/small/twisted-abstract-spiral-pattern-black-and-white-free-vector.jpg' alt='Black And White Swirls Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/826/483/small/twisted-abstract-spiral-pattern-black-and-white-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Swirl by Dan Golub">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/black-and-white-swirl-dan-golub.jpg' alt='Black and White Swirl by Dan Golub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/black-and-white-swirl-dan-golub.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,900+ Black And White Spiral Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436274566/vector/swirl-hypnotic-black-and-white-spiral-monochrome-abstract-background-vector-flat-geometric.jpg?s=612x612&w=0&k=20&c=QYJJ9G6cH7P-a5HcyG8Gyuoyh1dGRIpokCXY45Nh-b8=' alt='8,900+ Black And White Spiral Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436274566/vector/swirl-hypnotic-black-and-white-spiral-monochrome-abstract-background-vector-flat-geometric.jpg?s=612x612&w=0&k=20&c=QYJJ9G6cH7P-a5HcyG8Gyuoyh1dGRIpokCXY45Nh-b8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl hypnotic black and white spiral. Monochrome abstract ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2J0D796/swirl-hypnotic-black-and-white-spiral-monochrome-abstract-background-vector-flat-geometric-illustrationtemplate-design-for-banner-website-2J0D796.jpg' alt='Swirl hypnotic black and white spiral. Monochrome abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2J0D796/swirl-hypnotic-black-and-white-spiral-monochrome-abstract-background-vector-flat-geometric-illustrationtemplate-design-for-banner-website-2J0D796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink and paint swirls black and white. by David Ilzhoefer">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/ink-and-paint-swirls-black-and-white-david-ilzhoefer.jpg' alt='Ink and paint swirls black and white. by David Ilzhoefer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Ilzhoefer - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/ink-and-paint-swirls-black-and-white-david-ilzhoefer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

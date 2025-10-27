@@ -1,0 +1,129 @@
+<title>Adorable Baby Yoda Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the cutest Baby Yoda phone wallpapers! Enhance your mobile experience with a variety of charming designs featuring the beloved character from "The Mandalorian." Perfect for fans of all ages. Download your favorites and make your phone truly out of this galaxy!">
+                    <meta name="keywords" content="baby yoda phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/baby-yoda-phone-wallpaper">
+                            <span itemprop="name">baby yoda phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Baby Yoda Phone Wallpapers for Every Fan</h1>
+                <p>Transform your device with adorable Baby Yoda phone wallpapers! Explore a collection of stunning images featuring the beloved character from "The Mandalorian." Perfect for fans, each wallpaper captures his charming essence and will give your phone a unique touch. Download your favorite now and enjoy a daily dose of cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yoda phone wallpaper collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/5e/8a/e15e8ac6a7f6cc27f7db182a49c45b86.jpg' alt='Baby Yoda phone wallpaper collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/5e/8a/e15e8ac6a7f6cc27f7db182a49c45b86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yoda phone wallpaper collection - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2019-12/1577030165_youloveit_com_baby_yoda_wallpaper03.jpg' alt='Baby Yoda phone wallpaper collection - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2019-12/1577030165_youloveit_com_baby_yoda_wallpaper03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grogu, baby yoda, mandalorin, star wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/601/441/HD-wallpaper-grogu-baby-yoda-mandalorin-star-wars.jpg' alt='Grogu, baby yoda, mandalorin, star wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/601/441/HD-wallpaper-grogu-baby-yoda-mandalorin-star-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The child "Baby Yoda" background wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8f/71/f4/8f71f46d77877371e0deec5401811c78.jpg' alt='The child "Baby Yoda" background wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8f/71/f4/8f71f46d77877371e0deec5401811c78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The child "Baby Yoda" background wallpapers - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFUncHhhQIxvxcZHZWD_BwwLk2m44TQUj2qFsB9Ob4PMmzWQG-IjOYNqQW6gmQGyxdKgjCe7OsP0deG2N8gWWGFNtBmBK7dXGiSt0ZuMAoMK6BevlUFTD0-q84vnJ0i-AGBT1tsbdzFQ/w1153-d/baby-yoda-phone-wallpaper-art-by-Renata-Cunha.png' alt='The child "Baby Yoda" background wallpapers - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFUncHhhQIxvxcZHZWD_BwwLk2m44TQUj2qFsB9Ob4PMmzWQG-IjOYNqQW6gmQGyxdKgjCe7OsP0deG2N8gWWGFNtBmBK7dXGiSt0ZuMAoMK6BevlUFTD0-q84vnJ0i-AGBT1tsbdzFQ/w1153-d/baby-yoda-phone-wallpaper-art-by-Renata-Cunha.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yoda Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/4/a/467188-1080x2340-iphone-hd-baby-yoda-wallpaper.jpg' alt='Baby Yoda Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/4/a/467188-1080x2340-iphone-hd-baby-yoda-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yoda phone wallpaper collection - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2019-12/1577030169_youloveit_com_baby_yoda_wallpaper06.jpg' alt='Baby Yoda phone wallpaper collection - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2019-12/1577030169_youloveit_com_baby_yoda_wallpaper06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's everyone's phone wallpaper? This is mine. : r/BabyYoda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/voeoy69bdcg41.png?auto=webp&s=b032c8d15f40b9f2506875f3a396368707dd234c' alt='What's everyone's phone wallpaper? This is mine. : r/BabyYoda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/voeoy69bdcg41.png?auto=webp&s=b032c8d15f40b9f2506875f3a396368707dd234c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yoda, Baby Yoda Cool, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/963/311/HD-wallpaper-baby-yoda-baby-yoda-cool.jpg' alt='Baby Yoda, Baby Yoda Cool, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/963/311/HD-wallpaper-baby-yoda-baby-yoda-cool.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baby Yoda Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baby-yoda-iphone-utq67re4zzthno18.jpg' alt='100+] Baby Yoda Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baby-yoda-iphone-utq67re4zzthno18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

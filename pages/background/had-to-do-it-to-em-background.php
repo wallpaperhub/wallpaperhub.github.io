@@ -1,0 +1,129 @@
+<title>"Embrace the Confidence: Had to Do It to 'Em Explained"</title>
+                    <meta name="description" content=""Discover the meaning behind the viral 'Had to do it to 'em' meme. Dive into its roots, cultural impact, and how it expresses confidence and individuality in the digital age. Join the trend and explore the humor that resonates with so many!"">
+                    <meta name="keywords" content="had to do it to em background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/had-to-do-it-to-em-background">
+                            <span itemprop="name">had to do it to em background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Embrace the Confidence: Had to Do It to 'Em Explained"</h1>
+                <p>"Had to do it to 'em" is a popular internet meme originating from a viral video featuring a young man showcasing his dance moves while being playfully criticized. Set against a humorous backdrop, the phrase captures moments of confidence and sass, making it a relatable expression for those unapologetically embracing their individuality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Know I Had To Do It To Em - by Kathryn Winn - MEMEFORUM">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54e81e63-b941-42c8-9322-659cf43241d2_540x571.jpeg' alt='You Know I Had To Do It To Em - by Kathryn Winn - MEMEFORUM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="memeforum - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54e81e63-b941-42c8-9322-659cf43241d2_540x571.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Know I Had To Do It To Em - by Kathryn Winn - MEMEFORUM">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5aae8621-8d7a-4103-bd7d-43e3c320f663_575x804.jpeg' alt='You Know I Had To Do It To Em - by Kathryn Winn - MEMEFORUM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="memeforum - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5aae8621-8d7a-4103-bd7d-43e3c320f663_575x804.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The sidewalk had to do it to em'. : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yhvfdu65ng471.jpg' alt='The sidewalk had to do it to em'. : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yhvfdu65ng471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MEME TEMPLATE] You Know I Had to Do It to Em by EricSonic18 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12132fe4-1709-4287-9dcc-4ee9fc252a01/ddawtz8-74111286-fd04-402b-ba7c-e1bad34e39be.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyMTMyZmU0LTE3MDktNDI4Ny05ZGNjLTRlZTlmYzI1MmEwMVwvZGRhd3R6OC03NDExMTI4Ni1mZDA0LTQwMmItYmE3Yy1lMWJhZDM0ZTM5YmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PY3YGSDa4jZf4RqISJungHjLNyBRJ4J6Qc615rGWuIs' alt='MEME TEMPLATE] You Know I Had to Do It to Em by EricSonic18 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12132fe4-1709-4287-9dcc-4ee9fc252a01/ddawtz8-74111286-fd04-402b-ba7c-e1bad34e39be.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyMTMyZmU0LTE3MDktNDI4Ny05ZGNjLTRlZTlmYzI1MmEwMVwvZGRhd3R6OC03NDExMTI4Ni1mZDA0LTQwMmItYmE3Yy1lMWJhZDM0ZTM5YmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PY3YGSDa4jZf4RqISJungHjLNyBRJ4J6Qc615rGWuIs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The sidewalk had to do it to em'. : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yhvfdu65ng471.jpg?auto=webp&s=f5543f46e2f53ca3e1980f60573afda5e9741588' alt='The sidewalk had to do it to em'. : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yhvfdu65ng471.jpg?auto=webp&s=f5543f46e2f53ca3e1980f60573afda5e9741588' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucky Luciano Recreates the Photo Ten Years Later | You Know I Had ...">
+                                <img itemprop="contentUrl url" src='https://i.kym-cdn.com/photos/images/newsfeed/002/122/201/ca8' alt='Lucky Luciano Recreates the Photo Ten Years Later | You Know I Had ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Know Your Meme" />
+                                </span>
+                                <a href='https://i.kym-cdn.com/photos/images/newsfeed/002/122/201/ca8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Many Lives of the 'You Know I Had to Do It to Em' Meme">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/1cb/e55/f2eb717b602271de3a29ab37d8df86e305-do-ittoem.2x.w710.jpg' alt='The Many Lives of the 'You Know I Had to Do It to Em' Meme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Magazine" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/1cb/e55/f2eb717b602271de3a29ab37d8df86e305-do-ittoem.2x.w710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I had to do it to em: Meme still brings fans to real Tampa street ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/tbt/AMPXL5K66VA2TP3QBGZZJYDDWM.JPG' alt='I had to do it to em: Meme still brings fans to real Tampa street ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5100">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tampa Bay Times" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/tbt/AMPXL5K66VA2TP3QBGZZJYDDWM.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Know I Had to Do It to Em | Know Your Meme">
+                                <img itemprop="contentUrl url" src='https://wompimages.ampify.care/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F435%2F679%2F6bb.jpg' alt='You Know I Had to Do It to Em | Know Your Meme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Know Your Meme" />
+                                </span>
+                                <a href='https://wompimages.ampify.care/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F435%2F679%2F6bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::You know I had to do it to em">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/928173417862293815/D5597A1657F6917ED123EB751F7573D04FE96995/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::You know I had to do it to em'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/928173417862293815/D5597A1657F6917ED123EB751F7573D04FE96995/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

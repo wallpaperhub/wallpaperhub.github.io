@@ -1,0 +1,129 @@
+<title>Preppy Rainbow: Brighten Up Your Style</title>
+                    <meta name="description" content="Explore the vibrant world of preppy rainbow fashion! Discover how to blend classic preppy styles with bold colors, perfect for expressing your personality with elegance and flair. Get inspired by our tips for creating chic outfits that are ideal for any occasion. Embrace the rainbow today!">
+                    <meta name="keywords" content="preppy rainbow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/preppy-rainbow">
+                            <span itemprop="name">preppy rainbow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Rainbow: Brighten Up Your Style</h1>
+                <p>Preppy rainbow fashion combines classic styles with vibrant colors, creating a playful yet sophisticated look. Emphasizing clean lines and tailored fits, this trend features pastel and bold shades in clothing, accessories, and footwear. Perfect for any occasion, preppy rainbow outfits allow for self-expression while maintaining an elegant vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute preppy rainbow | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2485348836.5034/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' alt='cute preppy rainbow | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2485348836.5034/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Rainbow Doodle Clip Art Hand Drawn Images - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14665610/r/il/8671d4/2397045293/il_570xN.2397045293_inbw.jpg' alt='Preppy Rainbow Doodle Clip Art Hand Drawn Images - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14665610/r/il/8671d4/2397045293/il_570xN.2397045293_inbw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Rainbow | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4413233292.1202/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Preppy Rainbow | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4413233292.1202/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy aesthetic wallpaper rainbow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/61/98/90619899b9417f9b036da39e967fa5c1.jpg' alt='preppy aesthetic wallpaper rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/61/98/90619899b9417f9b036da39e967fa5c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Rainbow | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4413233292.1202/fposter,small,wall_texture,product,750x1000.jpg' alt='Preppy Rainbow | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4413233292.1202/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Rainbow Doodle Clip Art Hand Drawn Images - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14665610/r/il/e07229/2349453062/il_570xN.2349453062_p0cp.jpg' alt='Preppy Rainbow Doodle Clip Art Hand Drawn Images - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14665610/r/il/e07229/2349453062/il_570xN.2349453062_p0cp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Preppy_shrekk's Shuffles Preppy rainbow wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/24/ce/58/24ce587b6ab62307ad27131f1f8c24cb.jpg' alt='Check out Preppy_shrekk's Shuffles Preppy rainbow wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/24/ce/58/24ce587b6ab62307ad27131f1f8c24cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Rainbow | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4413228433.1092/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='Preppy Rainbow | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4413228433.1092/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Rainbow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/3e/e8/a93ee8d2fe522a0c123b14c4f6415b17.jpg' alt='Boho Rainbow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/3e/e8/a93ee8d2fe522a0c123b14c4f6415b17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Preppy_shrekk's Shuffles Preppy rainbow wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/432x292/24/ce/58/24ce587b6ab62307ad27131f1f8c24cb.jpg' alt='Check out Preppy_shrekk's Shuffles Preppy rainbow wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/432x292/24/ce/58/24ce587b6ab62307ad27131f1f8c24cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

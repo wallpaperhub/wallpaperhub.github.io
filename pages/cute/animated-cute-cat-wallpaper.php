@@ -1,0 +1,129 @@
+<title>Cute Animated Cat Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a delightful collection of cute animated cat wallpapers! Perfect for adding personality to your device with adorable designs that bring cats to life. Browse now and find your favorite feline companion to enhance your digital experience!">
+                    <meta name="keywords" content="animated cute cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/animated-cute-cat-wallpaper">
+                            <span itemprop="name">animated cute cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Animated Cat Wallpapers for Your Device</h1>
+                <p>Transform your screen with adorable animated cute cat wallpapers! Perfect for cat lovers, these charming designs bring warmth and joy to your devices. Whether you prefer playful kittens or serene sleeping cats, there's a perfect wallpaper for you. Add a touch of cuteness to your everyday digital experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable cat phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFY18T-DFU/2/0/900w/canva-orange-and-white-illustration-meow-phone-wallpaper-HBGil5mWd8I.jpg' alt='Free customizable cat phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFY18T-DFU/2/0/900w/canva-orange-and-white-illustration-meow-phone-wallpaper-HBGil5mWd8I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sc: fp Gatitos">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/08/b0/2608b0251fe7e4078d32be67784f3600.jpg' alt='Sc: fp Gatitos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/08/b0/2608b0251fe7e4078d32be67784f3600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/423/831/non_2x/cute-cat-kitten-greeting-cartoon-doodle-background-wallpaper-free-vector.jpg' alt='Cat Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/423/831/non_2x/cute-cat-kitten-greeting-cartoon-doodle-background-wallpaper-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Wallpaper (Cartoon, Cute, Purple) HD Cat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.catbreedslist.com/cat-wallpapers/cat-wallpaper-cartoon-cute-purple-1024x768.jpg' alt='Cat Wallpaper (Cartoon, Cute, Purple) HD Cat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat Breeds List" />
+                                </span>
+                                <a href='https://www.catbreedslist.com/cat-wallpapers/cat-wallpaper-cartoon-cute-purple-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/904/116/non_2x/cute-animal-little-cat-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' alt='Cute Cat Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/904/116/non_2x/cute-animal-little-cat-seamless-pattern-wallpaper-with-design-light-pink-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute cat wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFddFvI0Yg/2/0/900w/canva-pink-organic-illustrative-cat-phone-wallpaper-5OSmmg6aup0.jpg' alt='Free and customizable cute cat wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFddFvI0Yg/2/0/900w/canva-pink-organic-illustrative-cat-phone-wallpaper-5OSmmg6aup0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Cartoon Kitties ideas | kawaii, cute wallpapers, kawaii wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2a/fd/e8/2afde85de95f0fec66f5d46da2844993.jpg' alt='170 Cartoon Kitties ideas | kawaii, cute wallpapers, kawaii wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2a/fd/e8/2afde85de95f0fec66f5d46da2844993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute cat kitten family greeting cartoon doodle ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-cat-kitten-family-greeting-cartoon-doodle-wallpaper-cover_40564-384.jpg' alt='Premium Vector | Cute cat kitten family greeting cartoon doodle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-cat-kitten-family-greeting-cartoon-doodle-wallpaper-cover_40564-384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Baby Cartoon Cat With Pink Paws Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/adorable-baby-cartoon-cat-with-pink-paws-gv2cuweirq0x96yx.jpg' alt='Adorable Baby Cartoon Cat With Pink Paws Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/adorable-baby-cartoon-cat-with-pink-paws-gv2cuweirq0x96yx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Cat, adorable, cartoon, cat, cats, collage, cute, drawing ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/223/807/HD-wallpaper-pusheen-cat-adorable-cartoon-cat-cats-collage-cute-drawing-gato-kawaii-pusheen.jpg' alt='Pusheen Cat, adorable, cartoon, cat, cats, collage, cute, drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/223/807/HD-wallpaper-pusheen-cat-adorable-cartoon-cat-cats-collage-cute-drawing-gato-kawaii-pusheen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

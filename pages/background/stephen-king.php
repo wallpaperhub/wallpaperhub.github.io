@@ -1,0 +1,129 @@
+<title>Discover the Thrilling World of Stephen King</title>
+                    <meta name="description" content="Explore Stephen King's spine-tingling stories that haunt and mesmerize. Delve into his iconic novels and discover why he remains a titan in horror fiction. Perfect for fans and newcomers alike, immerse yourself in the dark, thrilling experiences of his literary universe.">
+                    <meta name="keywords" content="stephen king">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stephen-king">
+                            <span itemprop="name">stephen king</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Thrilling World of Stephen King</h1>
+                <p>Stephen King is a master of horror and suspense, captivating readers with his chilling tales. With notable works like "It," "The Shining," and "Carrie," King explores the dark corners of the human psyche. His storytelling combines vivid characters, intricate plots, and a touch of the supernatural, making him an enduring icon in literature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/1200px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg' alt='Stephen King - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/1200px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King | The Author">
+                                <img itemprop="contentUrl url" src='https://stephenking.com/images/press/stephenking-sm.jpg' alt='Stephen King | The Author'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stephen King" />
+                                </span>
+                                <a href='https://stephenking.com/images/press/stephenking-sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King | Biography, Books, Movies, TV Shows, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/20/217720-050-857D712B/American-novelist-Stephen-King-2004.jpg' alt='Stephen King | Biography, Books, Movies, TV Shows, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/20/217720-050-857D712B/American-novelist-Stephen-King-2004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King's Reaction to Trump's Clash With Zelensky Takes Off ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2598546/stephen-king.jpg?w=1200&f=7809b08819be88c40ee42cfa18a12a2b' alt='Stephen King's Reaction to Trump's Clash With Zelensky Takes Off ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2598546/stephen-king.jpg?w=1200&f=7809b08819be88c40ee42cfa18a12a2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Author Celebration: Stephen King | San Jose Public Library">
+                                <img itemprop="contentUrl url" src='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/142/2023/08/Stephen-King.jpg' alt='Author Celebration: Stephen King | San Jose Public Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Jose Public Library" />
+                                </span>
+                                <a href='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/142/2023/08/Stephen-King.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the secret behind Stephen King's success? - Authors A.I.">
+                                <img itemprop="contentUrl url" src='https://authors.b-cdn.net/wp-content/uploads/2020/07/stephen-king.jpg' alt='What's the secret behind Stephen King's success? - Authors A.I.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Authors A.I." />
+                                </span>
+                                <a href='https://authors.b-cdn.net/wp-content/uploads/2020/07/stephen-king.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Fantasy, Stephen King Gets Personal">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/stephen-king-1662043565.jpg' alt='In Fantasy, Stephen King Gets Personal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/stephen-king-1662043565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King - Books, Movies & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-187751114.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*' alt='Stephen King - Books, Movies & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-187751114.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen King's new story took him 45 years to write | New ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2024/05/21/ap21056480405009-22a85758785af449b6e6fc1b514a0e9bcbf2c081.jpg' alt='Stephen King's new story took him 45 years to write | New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2707">
+                                <meta itemprop="height" content="2030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2024/05/21/ap21056480405009-22a85758785af449b6e6fc1b514a0e9bcbf2c081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Books Recommended by Stephen King">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/12/stephen-king-cropped.jpg' alt='8 Books Recommended by Stephen King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3446">
+                                <meta itemprop="height" content="1723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/12/stephen-king-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

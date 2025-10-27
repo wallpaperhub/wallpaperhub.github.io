@@ -1,0 +1,129 @@
+<title>"Stunning Bed of Roses Background for Every Occasion"</title>
+                    <meta name="description" content="Discover the enchanting allure of a bed of roses background. Perfect for enhancing events, photography, or personal spaces, this vibrant and beautiful backdrop brings warmth and elegance to any setting. Transform your atmosphere with the timeless beauty of roses today!">
+                    <meta name="keywords" content="bed of roses background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bed-of-roses-background">
+                            <span itemprop="name">bed of roses background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stunning Bed of Roses Background for Every Occasion"</h1>
+                <p>A bed of roses background symbolizes beauty, tranquility, and romance. Often used in design and art, its luscious blooms and vibrant colors evoke feelings of warmth and joy. Ideal for events or personal spaces, such a backdrop creates an inviting atmosphere, making it perfect for weddings, photography sessions, and more.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365013018/photo/bunch-of-beautiful-red-roses.jpg?s=612x612&w=0&k=20&c=MsY56ZzNFSPdn7ncoBpOEszHI3it8beaLtVE04TdlhI=' alt='2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365013018/photo/bunch-of-beautiful-red-roses.jpg?s=612x612&w=0&k=20&c=MsY56ZzNFSPdn7ncoBpOEszHI3it8beaLtVE04TdlhI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/474500172/photo/good-looking-deep-roses.jpg?s=612x612&w=0&k=20&c=gebwc3kI45wFFla-5pGLBEA1g9l1Gi_Xw9X_d5UXWok=' alt='2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/474500172/photo/good-looking-deep-roses.jpg?s=612x612&w=0&k=20&c=gebwc3kI45wFFla-5pGLBEA1g9l1Gi_Xw9X_d5UXWok=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="578 Bed Of Roses Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/154926738/photo/bed-of-flowers.jpg?s=612x612&w=gi&k=20&c=zTfqJ8Kjc3TZgFmddCdrV6F6rKstZarvhDf_uwnd1Mw=' alt='578 Bed Of Roses Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/154926738/photo/bed-of-flowers.jpg?s=612x612&w=gi&k=20&c=zTfqJ8Kjc3TZgFmddCdrV6F6rKstZarvhDf_uwnd1Mw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300984619/photo/red-roses-background.jpg?s=612x612&w=0&k=20&c=67gd4KquqZ-lQ7UcY_7u7z2Du3VlGPOxPu28fvkYK38=' alt='2,800+ Bed Of Roses Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300984619/photo/red-roses-background.jpg?s=612x612&w=0&k=20&c=67gd4KquqZ-lQ7UcY_7u7z2Du3VlGPOxPu28fvkYK38=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Photography - Bed of Roses I, Botanical Photograph, Floral Still Life,  Nature Photography, Large Wall Art, Home Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5570408/r/il/6392d2/1044237259/il_1080xN.1044237259_697w.jpg' alt='Rose Photography - Bed of Roses I, Botanical Photograph, Floral Still Life,  Nature Photography, Large Wall Art, Home Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5570408/r/il/6392d2/1044237259/il_1080xN.1044237259_697w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,480 Bed Roses Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bed-roses-25059365.jpg' alt='12,480 Bed Roses Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bed-roses-25059365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bed of Roses Church Worship Background | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1453762776090_37/img_mouseover3.jpg' alt='Bed of Roses Church Worship Background | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1453762776090_37/img_mouseover3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bed of Red Roses by Connie Cooper-Edwards">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/bed-of-red-roses-connie-cooper-edwards.jpg' alt='Bed of Red Roses by Connie Cooper-Edwards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/bed-of-red-roses-connie-cooper-edwards.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bed Of Roses Poster by Ecastill0 - Photos.com">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/poster/8/5.5/break/images/artworkimages/medium/2/bed-of-roses-ecastill0.jpg' alt='Bed Of Roses Poster by Ecastill0 - Photos.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/poster/8/5.5/break/images/artworkimages/medium/2/bed-of-roses-ecastill0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="578 Bed Of Roses Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/116142650/photo/red-love.jpg?s=612x612&w=gi&k=20&c=n37zMIt2mIYgGoUAawVrfFaVPPCJi6pEeMbOjjdlDLs=' alt='578 Bed Of Roses Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/116142650/photo/red-love.jpg?s=612x612&w=gi&k=20&c=n37zMIt2mIYgGoUAawVrfFaVPPCJi6pEeMbOjjdlDLs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

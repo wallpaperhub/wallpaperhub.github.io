@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="teams backgrounds free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/teams-backgrounds-free">
+                            <span itemprop="name">teams backgrounds free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Microsoft Teams Backgrounds: the ultimate collection of ...">
+                                <img itemprop="contentUrl url" src='https://cboardinggroup.com/wp-content/uploads/2020/04/Free-Microsoft-Teams-Backgrounds-Custom-Microsoft-Teams-Backgrounds.png' alt='Best Free Microsoft Teams Backgrounds: the ultimate collection of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C Boarding Group" />
+                                </span>
+                                <a href='https://cboardinggroup.com/wp-content/uploads/2020/04/Free-Microsoft-Teams-Backgrounds-Custom-Microsoft-Teams-Backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Microsoft Teams backgrounds | FREE Festive Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Autumnal%20Window%20Nook.png' alt='FREE Microsoft Teams backgrounds | FREE Festive Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Wiki" />
+                                </span>
+                                <a href='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Autumnal%20Window%20Nook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Teams Background Images | Download for free">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1678183732-vbl-02.jpg?fm=png&auto=format' alt='Microsoft Teams Background Images | Download for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1678183732-vbl-02.jpg?fm=png&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft Teams Background Images | Download for free">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1642701841-home_008.jpg?h=195&w=344&fit=crop&fm=jpg&auto=format' alt='Microsoft Teams Background Images | Download for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1642701841-home_008.jpg?h=195&w=344&fit=crop&fm=jpg&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Free Microsoft Teams Backgrounds: the ultimate collection of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/d8/da/6ad8dac9ec8388310d5ebb460788dc81.jpg' alt='Best Free Microsoft Teams Backgrounds: the ultimate collection of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/d8/da/6ad8dac9ec8388310d5ebb460788dc81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Teams Virtual Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/teams-virtual-background-7utw8dx5o41p19u9.jpg' alt='100+] Teams Virtual Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/teams-virtual-background-7utw8dx5o41p19u9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Free San Diego Zoom and Microsoft Teams Backgrounds">
+                                <img itemprop="contentUrl url" src='https://blog.sandiego.org/wp-content/uploads/2020/04/SDT_Zoom-Backgrounds_April-8_Windansea-1_1600x800.jpg' alt='7 Free San Diego Zoom and Microsoft Teams Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Diego Travel Blog" />
+                                </span>
+                                <a href='https://blog.sandiego.org/wp-content/uploads/2020/04/SDT_Zoom-Backgrounds_April-8_Windansea-1_1600x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Microsoft Teams background templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFavFTPsXw/1/0/1600w/canva-grey-photo-corporate-professional-business-office-desk-microsoft-teams-background-PebjbGJyIwo.jpg' alt='Free editable Microsoft Teams background templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFavFTPsXw/1/0/1600w/canva-grey-photo-corporate-professional-business-office-desk-microsoft-teams-background-PebjbGJyIwo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teams Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661760152554-232dbda17a44?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVhbXMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='Teams Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661760152554-232dbda17a44?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVhbXMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Microsoft Teams backgrounds | FREE Festive Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/perfectwiki-meta/backgrounds/winter-wonderland.png' alt='FREE Microsoft Teams backgrounds | FREE Festive Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Wiki" />
+                                </span>
+                                <a href='https://storage.googleapis.com/perfectwiki-meta/backgrounds/winter-wonderland.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

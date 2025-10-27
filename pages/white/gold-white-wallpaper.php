@@ -1,0 +1,129 @@
+<title>Elegant Gold White Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Transform your space with our exquisite gold white wallpaper. Perfect for adding a touch of luxury and elegance to any room. Shop now for versatile designs that suit both modern and traditional aesthetics. Elevate your home decor effortlessly!">
+                    <meta name="keywords" content="gold white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/gold-white-wallpaper">
+                            <span itemprop="name">gold white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold White Wallpaper for Stylish Interiors</h1>
+                <p>Gold white wallpaper combines elegance and sophistication, creating a stunning backdrop for any room. Perfect for both modern and classic interiors, its radiant hues add warmth and luxury to your space. Whether in a living room, bedroom, or office, this wallpaper elevates décor and creates a chic atmosphere that captivates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White & Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' alt='Manhattan Modern Wallpaper in White & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_1080xN.4333326735_g6t4.jpg' alt='Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_1080xN.4333326735_g6t4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold White Wallpaper Peel and Stick | Big Print Wallpaper | Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40200943/r/il/ffee2e/4511406420/il_570xN.4511406420_brjw.jpg' alt='Gold White Wallpaper Peel and Stick | Big Print Wallpaper | Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40200943/r/il/ffee2e/4511406420/il_570xN.4511406420_brjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Modern Marble Wallpaper in White with Gold Effect – I ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_WhitewithGoldEffect_ILW50312_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420074&width=1024' alt='Sample of Modern Marble Wallpaper in White with Gold Effect – I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_WhitewithGoldEffect_ILW50312_Thumbnail_WEB.webp?crop=center&height=1024&v=1705420074&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Gold Marble Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715949526/articles/MA0029WH30W_product.jpg' alt='White & Gold Marble Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715949526/articles/MA0029WH30W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angles Gold/White">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/angles-goldwhite-rkpo-l.jpg' alt='Angles Gold/White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/angles-goldwhite-rkpo-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury White Leather Gold Wallpaper with Ornate Crown Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/15/8e/21158ea464d37036ba52ff89e8e9cf00.jpg' alt='Luxury White Leather Gold Wallpaper with Ornate Crown Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/15/8e/21158ea464d37036ba52ff89e8e9cf00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MelunMer Geometric Peel and Stick Wallpaper Gold 118In L 17.7In W Self  Adhesive Removable Wallpaper for Bedroom/Bathroom Waterproof Modern Contact  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81FFFEqhgiL.jpg' alt='MelunMer Geometric Peel and Stick Wallpaper Gold 118In L 17.7In W Self  Adhesive Removable Wallpaper for Bedroom/Bathroom Waterproof Modern Contact  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81FFFEqhgiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Gold Geometric Wallpaper [26+ Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/54/geometric-wallpaper-white-and-gold-1080x1920.jpg' alt='White and Gold Geometric Wallpaper [26+ Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/54/geometric-wallpaper-white-and-gold-1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold, White and Gray Marble Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/gold-white-and-gray-marble-wallpaper-mural-custom-sizes-available-maughons-153012_1024x1024.jpg?v=1631733919' alt='Gold, White and Gray Marble Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/gold-white-and-gray-marble-wallpaper-mural-custom-sizes-available-maughons-153012_1024x1024.jpg?v=1631733919' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

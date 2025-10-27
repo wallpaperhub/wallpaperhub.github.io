@@ -1,0 +1,129 @@
+<title>Stanford Logo: A Symbol of Excellence in Education</title>
+                    <meta name="description" content="Discover the significance of the Stanford logo, featuring the distinguished El Palo Alto tree. This emblem represents Stanford University's rich heritage and leadership in research and technology. Learn more about the design and its impact on school pride and identity.">
+                    <meta name="keywords" content="stanford logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stanford-logo">
+                            <span itemprop="name">stanford logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stanford Logo: A Symbol of Excellence in Education</h1>
+                <p>The Stanford University logo is a symbol of excellence and innovation. Featuring the iconic El Palo Alto tree with the bold red and white colors, the logo represents the university's rich history and commitment to education. Known for its prestigious academic programs, Stanford is a leader in research and technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Block S with Tree - Identity Guide">
+                                <img itemprop="contentUrl url" src='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png' alt='Block S with Tree - Identity Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford Identity Guide - Stanford University" />
+                                </span>
+                                <a href='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford Logos - Identity Guide">
+                                <img itemprop="contentUrl url" src='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png' alt='Stanford Logos - Identity Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford Identity Guide - Stanford University" />
+                                </span>
+                                <a href='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Stanford Cardinal logo.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/1341px-Stanford_Cardinal_logo.svg.png' alt='File:Stanford Cardinal logo.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="2054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/1341px-Stanford_Cardinal_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford University logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2018/02/Stanford-University-Logo.jpg' alt='Stanford University logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2018/02/Stanford-University-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford Logos - Identity Guide">
+                                <img itemprop="contentUrl url" src='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/seal-short-1.png' alt='Stanford Logos - Identity Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford Identity Guide - Stanford University" />
+                                </span>
+                                <a href='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/seal-short-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford Logos - Identity Guide">
+                                <img itemprop="contentUrl url" src='https://identity.stanford.edu/wp-content/uploads/sites/3/2024/05/blockS_tree.png' alt='Stanford Logos - Identity Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford Identity Guide - Stanford University" />
+                                </span>
+                                <a href='https://identity.stanford.edu/wp-content/uploads/sites/3/2024/05/blockS_tree.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for stanford">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/cf/7d/98cf7d6d899badc5d9752a12d6e97209.jpg' alt='Image result for stanford'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/cf/7d/98cf7d6d899badc5d9752a12d6e97209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford University Logo Kls81 by Kakanda Lee Setiawan">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/stanford-university-logo-kls81-kakanda-lee-setiawan.jpg' alt='Stanford University Logo Kls81 by Kakanda Lee Setiawan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/stanford-university-logo-kls81-kakanda-lee-setiawan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford Logos - Identity Guide">
+                                <img itemprop="contentUrl url" src='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/stanford-university-stacked.png' alt='Stanford Logos - Identity Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford Identity Guide - Stanford University" />
+                                </span>
+                                <a href='http://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/stanford-university-stacked.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanford Transparent Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5842f616a6515b1e0ad75b21.png' alt='Stanford Transparent Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5842f616a6515b1e0ad75b21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

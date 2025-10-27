@@ -1,0 +1,129 @@
+<title>Stunning Starfield iPhone Wallpapers HD & 4K</title>
+                    <meta name="description" content="Discover breathtaking starfield wallpapers for your iPhone in HD and 4K. Explore a vast selection of cosmic visuals that bring the beauty of the night sky to your screen. Perfect for space enthusiasts and anyone looking to elevate their phone’s aesthetic. Download your favorites today!">
+                    <meta name="keywords" content="starfield iphone wallpaper hd 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/starfield-iphone-wallpaper-hd-4k">
+                            <span itemprop="name">starfield iphone wallpaper hd 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Starfield iPhone Wallpapers HD & 4K</h1>
+                <p>Transform your device with stunning starfield iPhone wallpapers in HD and 4K resolution. Experience the beauty of the cosmos as you explore a vast array of mesmerizing images, each capturing the enchanting allure of twinkling stars and galaxies. Perfect for anyone who loves the night sky and breathtaking visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've made a Starfield Mobile Wallpaper (made with iOS UI in mind ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ld7aj55iwsab1.png' alt='I've made a Starfield Mobile Wallpaper (made with iOS UI in mind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1845">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ld7aj55iwsab1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got tired of not having a good starfield wallpaper and made one ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2q7vdrol4t8b1.png' alt='Got tired of not having a good starfield wallpaper and made one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2q7vdrol4t8b1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/mmhYgEF.jpg' alt='New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/mmhYgEF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield | Official Website | Bethesda.net">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/rporu91m20dc/16IBfeXW6gFk7VRxcCbmnT/3831c369b6f1af88233fb537caa4cb59/Starfield-FirstSteps_Wallpaper_1125x2436-02.jpg' alt='Starfield | Official Website | Bethesda.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bethesda.net" />
+                                </span>
+                                <a href='https://images.ctfassets.net/rporu91m20dc/16IBfeXW6gFk7VRxcCbmnT/3831c369b6f1af88233fb537caa4cb59/Starfield-FirstSteps_Wallpaper_1125x2436-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Game 4K Wallpaper iPhone HD Phone #7871l">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/starfield-game-787@1@l-phone-4k.jpg' alt='Starfield Game 4K Wallpaper iPhone HD Phone #7871l'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/starfield-game-787@1@l-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've made a Starfield Mobile Wallpaper (made with iOS UI in mind ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u8knq6kiwsab1.png' alt='I've made a Starfield Mobile Wallpaper (made with iOS UI in mind ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1845">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u8knq6kiwsab1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Starfield ideas | cool wallpapers art, art wallpaper, apple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/22/16/19/2216191f72aaaba9722fd615e4d3b88f.jpg' alt='8 Starfield ideas | cool wallpapers art, art wallpaper, apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/22/16/19/2216191f72aaaba9722fd615e4d3b88f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-official-starfield-wallpaper-from-bethesda-v0-gryc86s5ivjb1.jpg?auto=webp&s=8ec53faed81a1c71ce60609047b45ced21b1083c' alt='New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-official-starfield-wallpaper-from-bethesda-v0-gryc86s5ivjb1.jpg?auto=webp&s=8ec53faed81a1c71ce60609047b45ced21b1083c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1008094.png' alt='Starfield iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1008094.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Wallpaper 4K, Artwork, 5K, 2023 Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/starfield-artwork-1284x2778-11746.jpg' alt='Starfield Wallpaper 4K, Artwork, 5K, 2023 Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/starfield-artwork-1284x2778-11746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

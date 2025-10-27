@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Striking Red Art Deco Wallpaper</title>
+                    <meta name="description" content="Add a touch of glamour and sophistication to your home with red art deco wallpaper. Its eye-catching designs and vibrant color enhance any room, making it a perfect choice for a stylish makeover. Transform your decor effortlessly and enjoy a vintage-inspired ambiance today!">
+                    <meta name="keywords" content="red art deco wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-art-deco-wallpaper">
+                            <span itemprop="name">red art deco wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Striking Red Art Deco Wallpaper</h1>
+                <p>Red art deco wallpaper adds a bold and sophisticated flair to any space. Its geometric patterns and rich hues create a stunning focal point, blending vintage charm with modern aesthetics. Perfect for accent walls or entire rooms, it transforms spaces into stylish retreats. Embrace the allure of art deco with this striking design choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Wallpaper Red and Gold - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39106989/r/il/0b0139/4687621092/il_fullxfull.4687621092_80nb.jpg' alt='Art Deco Wallpaper Red and Gold - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39106989/r/il/0b0139/4687621092/il_fullxfull.4687621092_80nb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Havana in Mahogany">
+                                <img itemprop="contentUrl url" src='https://bradbury.com/wp-content/uploads/GO-HVW-9_detail.jpg' alt='Havana in Mahogany'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bradbury & Bradbury" />
+                                </span>
+                                <a href='https://bradbury.com/wp-content/uploads/GO-HVW-9_detail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper Art Deco | Red and Black — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/leaves-verti-28_1200x1200_crop_center.jpg?v=1736201231' alt='Mural Wallpaper Art Deco | Red and Black — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/leaves-verti-28_1200x1200_crop_center.jpg?v=1736201231' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Art Deco Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallvy.com/pic/ga/tap/958-280/l/red-art-deco-leaves-wallpaper.jpg' alt='Red Art Deco Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallvy" />
+                                </span>
+                                <a href='https://wallvy.com/pic/ga/tap/958-280/l/red-art-deco-leaves-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rasch Art Deco Wallpaper Paste The Wall Textured Vinyl Red Gold Glitter">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/MAYAAOSwyvJh6XnY/s-l1200.jpg' alt='Rasch Art Deco Wallpaper Paste The Wall Textured Vinyl Red Gold Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/MAYAAOSwyvJh6XnY/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Luxury Red and Yellow Vintage Geometric Pattern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21115285/r/il/6c6b69/4487512110/il_fullxfull.4487512110_rctu.jpg' alt='Art Deco Luxury Red and Yellow Vintage Geometric Pattern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21115285/r/il/6c6b69/4487512110/il_fullxfull.4487512110_rctu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marsala Red New Art Deco striped fans Pre-pasted Wallpaper – Dana ...">
+                                <img itemprop="contentUrl url" src='https://danadudesign.com/wp-content/uploads/marsala-red-new-art-deco-striped-fans-removable-wallpaper-by-danadudesign.jpg' alt='Marsala Red New Art Deco striped fans Pre-pasted Wallpaper – Dana ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dana Du Design" />
+                                </span>
+                                <a href='https://danadudesign.com/wp-content/uploads/marsala-red-new-art-deco-striped-fans-removable-wallpaper-by-danadudesign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage seamless red and black art deco wallpaper pattern vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/99/70/96/1000_F_199709698_KG4R0uyCXGQhwbSKCt88oJD4yYQsVREf.jpg' alt='Vintage seamless red and black art deco wallpaper pattern vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/99/70/96/1000_F_199709698_KG4R0uyCXGQhwbSKCt88oJD4yYQsVREf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Art Deco Wallpaper Red Peel and Stick Wall Decor Rose Red ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Q3p-4T65L._AC_UF894,1000_QL80_.jpg' alt='YANFENQI Art Deco Wallpaper Red Peel and Stick Wall Decor Rose Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Q3p-4T65L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Art Deco Wallpaper CC338">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/04zoom_1_ec462ac3-9796-464a-ae66-a2935bb5c4b4.jpg?v=1722513547' alt='Burgundy Art Deco Wallpaper CC338'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/04zoom_1_ec462ac3-9796-464a-ae66-a2935bb5c4b4.jpg?v=1722513547' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

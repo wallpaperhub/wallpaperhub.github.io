@@ -1,0 +1,129 @@
+<title>Find Reliable Background Check Services Near You</title>
+                    <meta name="description" content="Looking for dependable background check services nearby? Our comprehensive, local solutions ensure you get accurate information swiftly, helping you make informed hiring or rental decisions. Protect yourself with a thorough background check today!">
+                    <meta name="keywords" content="background check near me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-near-me">
+                            <span itemprop="name">background check near me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Reliable Background Check Services Near You</h1>
+                <p>When hiring new employees or renting out property, conducting a thorough background check is essential for safety and peace of mind. If you're searching for "background check near me," it's crucial to find reliable services that can provide accurate and timely information. Local agencies often offer comprehensive checks, ensuring you make informed decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Pre-Employment Screening - Accurate Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://americaneagleinv.com/wp-content/uploads/2022/10/new-york-employment-screening-near-you-american-eagle-investigations.jpg' alt='New York Pre-Employment Screening - Accurate Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Eagle Investigations" />
+                                </span>
+                                <a href='https://americaneagleinv.com/wp-content/uploads/2022/10/new-york-employment-screening-near-you-american-eagle-investigations.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Fingerprinting | Fingerprinting For Background Checks | Printscan">
+                                <img itemprop="contentUrl url" src='https://newyorkfingerprints.com/wp-content/uploads/2020/06/Untitled-design-47.png' alt='FBI Fingerprinting | Fingerprinting For Background Checks | Printscan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Fingerprints" />
+                                </span>
+                                <a href='https://newyorkfingerprints.com/wp-content/uploads/2020/06/Untitled-design-47.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Check | Zillow Rental Manager">
+                                <img itemprop="contentUrl url" src='https://www.zillowstatic.com/bedrock/app/uploads/sites/42/tenant-background-check-d70194.jpg' alt='Tenant Background Check | Zillow Rental Manager'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zillow" />
+                                </span>
+                                <a href='https://www.zillowstatic.com/bedrock/app/uploads/sites/42/tenant-background-check-d70194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PrintScan - Background Check Locations">
+                                <img itemprop="contentUrl url" src='https://printscan.com/img/locations/background-check-locations/printscan-seal.png' alt='PrintScan - Background Check Locations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PrintScan" />
+                                </span>
+                                <a href='https://printscan.com/img/locations/background-check-locations/printscan-seal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks and the Texas 7-Year Rule | Law Office of Brett ...">
+                                <img itemprop="contentUrl url" src='https://www.brettpritchardlaw.com/images/blog/Image-2-2508x1254.jpg' alt='Background Checks and the Texas 7-Year Rule | Law Office of Brett ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2508">
+                                <meta itemprop="height" content="1254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office of Brett H. Pritchard" />
+                                </span>
+                                <a href='https://www.brettpritchardlaw.com/images/blog/Image-2-2508x1254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Services In Oregon | PDX Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2022/11/FBI-Background-Check.png' alt='FBI Background Check Services In Oregon | PDX Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2022/11/FBI-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Lawyer in Florida - Pre Employment Background ...">
+                                <img itemprop="contentUrl url" src='https://www.fhlawpa.com/wp-content/uploads/2020/01/Pre-Employment-Background-Check-What-Shows-Up.jpg' alt='Background Check Lawyer in Florida - Pre Employment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fowkes & Hasanbasic, Accident and Insurance Lawyers" />
+                                </span>
+                                <a href='https://www.fhlawpa.com/wp-content/uploads/2020/01/Pre-Employment-Background-Check-What-Shows-Up.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where To Get BCI And FBI Background Check Near Me? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/m5fwI9IFaEE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCT-ufO4LjrS97h6q_sKLZ3ofyYHw' alt='Where To Get BCI And FBI Background Check Near Me? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/m5fwI9IFaEE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCT-ufO4LjrS97h6q_sKLZ3ofyYHw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 background check near me at 1stchoicefingerprinting">
+                                <img itemprop="contentUrl url" src='https://www.1stchoicefingerprints.org/media/qzjenpne/level-2-background-check-near-me.png' alt='Level 2 background check near me at 1stchoicefingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1st Choice Fingerprinting" />
+                                </span>
+                                <a href='https://www.1stchoicefingerprints.org/media/qzjenpne/level-2-background-check-near-me.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personal Background Checks - What Information Can You Obtain From ...">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2021/08/Personal-Background-Checks.jpg' alt='Personal Background Checks - What Information Can You Obtain From ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2021/08/Personal-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

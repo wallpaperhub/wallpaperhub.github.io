@@ -1,0 +1,129 @@
+<title>Ocean Waves Peel and Stick Wallpaper: Refresh Your Space</title>
+                    <meta name="description" content="Discover ocean waves peel and stick wallpaper, your simple solution for stunning interior design. Easy to apply and reposition, it’s perfect for creating a calming coastal vibe. Ideal for renters or home decorators looking to transform any room. Dive into style effortlessly today!">
+                    <meta name="keywords" content="ocean waves peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/ocean-waves-peel-and-stick-wallpaper">
+                            <span itemprop="name">ocean waves peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ocean Waves Peel and Stick Wallpaper: Refresh Your Space</h1>
+                <p>Transform your space with ocean waves peel and stick wallpaper. This stunning décor option features mesmerizing wave patterns that bring the tranquility of the sea to your home. Easy to apply and reposition, it's perfect for renters or DIY enthusiasts. Refresh any room effortlessly and make a splash with your interior design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Ocean Wave, Peel and Stick Repositionable Fabric Wallpaper for  Interior Home Decor (118 x 78 inches) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kmPrJBjzL.jpg' alt='Wall Mural Ocean Wave, Peel and Stick Repositionable Fabric Wallpaper for  Interior Home Decor (118 x 78 inches) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kmPrJBjzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Blue Crashing Ocean Waves Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3834">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3777486273_8sjp.jpg?v=1647325162&width=3000' alt='Wallpaper Peel and Stick Wallpaper Blue Crashing Ocean Waves Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 3834'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3777486273_8sjp.jpg?v=1647325162&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: TEGUYE Ocean Waves Wall Wallpaper, Natural Landscape  Self-Adhesive High Resolution Pictures Art Decor Paintings,for Dining Room  Sofa ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vXJn-Dd0L.jpg' alt='Amazon.com: TEGUYE Ocean Waves Wall Wallpaper, Natural Landscape  Self-Adhesive High Resolution Pictures Art Decor Paintings,for Dining Room  Sofa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vXJn-Dd0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese Waves Peel and Stick Wallpaper Removable Blue-gray Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/956c2f/3215724457/il_570xN.3215724457_hl2b.jpg' alt='Chinese Waves Peel and Stick Wallpaper Removable Blue-gray Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/956c2f/3215724457/il_570xN.3215724457_hl2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coloritto Ocean Waves Peel and Stick Wallpaper | Removable Self Adhesive  Waves Wallpaper | Peel and Stick Wallpaper (1 roll 24" W x 96" H) - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yYWQEPJJL.jpg' alt='Coloritto Ocean Waves Peel and Stick Wallpaper | Removable Self Adhesive  Waves Wallpaper | Peel and Stick Wallpaper (1 roll 24" W x 96" H) - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1588">
+                                <meta itemprop="height" content="1985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yYWQEPJJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves pattern nursery removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/kids-waves_1100x.jpg?v=1643189831' alt='Waves pattern nursery removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/kids-waves_1100x.jpg?v=1643189831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Drawn Aqua Ocean Wave Swirls Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-hand-drawn-aqua-ocean-wave-swirls-peel-stick-wallpaper-ocean-dream-mural-28789565784150.jpg?v=1668779052' alt='Hand Drawn Aqua Ocean Wave Swirls Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-hand-drawn-aqua-ocean-wave-swirls-peel-stick-wallpaper-ocean-dream-mural-28789565784150.jpg?v=1668779052' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Ocean Waves S1506 Wallpaper Mural Self-adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/YmcAAOSwOs1ivnq3/s-l1200.jpg' alt='3D Ocean Waves S1506 Wallpaper Mural Self-adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/YmcAAOSwOs1ivnq3/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 28.29 sq. ft. Asian Waves Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/551f2033-dca3-4291-8b0c-6487b4641989/svn/roommates-wallpaper-rolls-rmk11902rl-64_1000.jpg' alt='RoomMates 28.29 sq. ft. Asian Waves Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/551f2033-dca3-4291-8b0c-6487b4641989/svn/roommates-wallpaper-rolls-rmk11902rl-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach waves removable wallpaper | Nautical theme wallpaper by ...">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/client-photo-listing-coastal-kids-room-interior_1200x1200.jpg?v=1643189831' alt='Beach waves removable wallpaper | Nautical theme wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/client-photo-listing-coastal-kids-room-interior_1200x1200.jpg?v=1643189831' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

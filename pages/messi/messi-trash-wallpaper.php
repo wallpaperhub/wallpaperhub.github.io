@@ -1,0 +1,129 @@
+<title>Messi Trash Wallpapers: Fun & Unique Fan Art</title>
+                    <meta name="description" content="Discover quirky Messi trash wallpapers that add humor to your device! Perfect for true fans and those looking for a creative twist. Showcase your love for Messi with these playful designs. Enjoy a unique look that stands out and brings a smile! Download now for a fresh, fun wallpaper experience.">
+                    <meta name="keywords" content="messi trash wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-trash-wallpaper">
+                            <span itemprop="name">messi trash wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Messi Trash Wallpapers: Fun & Unique Fan Art</h1>
+                <p>Looking for a unique twist on football fan art? Explore our collection of Messi trash wallpapers that blend humor and creativity! These wallpapers showcase the talented player in playful, whimsical, or satirical ways, perfect for fans who appreciate a laugh. Transform your device's look with a touch of Messi mischief!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Planet - Mbappe has told Messi to take out the trash at ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5799131336768284' alt='Football Planet - Mbappe has told Messi to take out the trash at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="342">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5799131336768284' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi is trash!! | Goal Amino Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6945/2b977afd9222c67fac1e7ba2c30f09155f6483abr1-576-732v2_uhq.jpg' alt='Messi is trash!! | Goal Amino Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6945/2b977afd9222c67fac1e7ba2c30f09155f6483abr1-576-732v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo of 'Messi Carrying Trash at PSG' Shared by Netizens To Troll ...">
+                                <img itemprop="contentUrl url" src='https://st1.latestly.com/wp-content/uploads/2022/05/merge1-9-2.jpg' alt='Photo of 'Messi Carrying Trash at PSG' Shared by Netizens To Troll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LatestLY" />
+                                </span>
+                                <a href='https://st1.latestly.com/wp-content/uploads/2022/05/merge1-9-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garbage Messi Man | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7429403365714545962&location=0&aid=1988' alt='Garbage Messi Man | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7429403365714545962&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi's Unforgettable Moments in Football History">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7192729220601204011&location=0&aid=1988' alt='Messi's Unforgettable Moments in Football History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7192729220601204011&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Trash can ideas | lionel messi, messi, messi photos">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a6/93/15/a693157b4ad4577e28919e809f9518ee.jpg' alt='26 Trash can ideas | lionel messi, messi, messi photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a6/93/15/a693157b4ad4577e28919e809f9518ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi ready to bin his Barcelona shirt | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=925618604514445&get_thumbnail=1' alt='Messi ready to bin his Barcelona shirt | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=925618604514445&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi talking trash? It happened in Copa America penalty ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/2021-08/lionel-messi-bloody-sock-copa-america-july-2021_nl3skeb5cwwl1weysh38dfr5f.jpg' alt='Lionel Messi talking trash? It happened in Copa America penalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/2021-08/lionel-messi-bloody-sock-copa-america-july-2021_nl3skeb5cwwl1weysh38dfr5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Messi ideas | messi, messi soccer, soccer funny">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/35/71/6b/35716b02b28a3c9f0097250e3c3b9ce0.jpg' alt='10 Messi ideas | messi, messi soccer, soccer funny'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/35/71/6b/35716b02b28a3c9f0097250e3c3b9ce0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#messi#wallpaper save as live photo | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6978078664382549254&location=0&aid=1988' alt='#messi#wallpaper save as live photo | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6978078664382549254&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

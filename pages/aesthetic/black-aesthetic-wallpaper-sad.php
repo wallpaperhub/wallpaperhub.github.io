@@ -1,0 +1,129 @@
+<title>Dark Aesthetic Wallpaper: Embrace the Sadness</title>
+                    <meta name="description" content="Explore our collection of black aesthetic wallpapers that capture the essence of sadness and beauty. Transform your space with designs that evoke profound emotions, making a powerful statement in any room. Ideal for those who appreciate the beauty in darkness.">
+                    <meta name="keywords" content="black aesthetic wallpaper sad">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/black-aesthetic-wallpaper-sad">
+                            <span itemprop="name">black aesthetic wallpaper sad</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Aesthetic Wallpaper: Embrace the Sadness</h1>
+                <p>Discover the allure of black aesthetic wallpaper that embodies a somber yet stylish vibe. Perfect for those who appreciate the darker side of beauty, these designs evoke emotions and transform spaces. Explore a variety of textures and patterns that resonate with feelings of melancholy, solitude, and introspection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Dark Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/ce/ab/c5ceabb695fa5dc702031d7aefdeacf4.jpg' alt='Sad Dark Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/ce/ab/c5ceabb695fa5dc702031d7aefdeacf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sad aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/419/812/HD-wallpaper-black-aesthetic-black-aesthetic-noir-sad.jpg' alt='HD sad aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/419/812/HD-wallpaper-black-aesthetic-black-aesthetic-noir-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Aesthetic Tumblr Dark Daisy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sad-aesthetic-tumblr-dark-daisy-mj63bi2gu50ed7eu.jpg' alt='Sad Aesthetic Tumblr Dark Daisy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sad-aesthetic-tumblr-dark-daisy-mj63bi2gu50ed7eu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Aesthetic Background With Sad Quote | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-background-ka3rscbzpz0mae9c.jpg' alt='Download Black Aesthetic Background With Sad Quote | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-background-ka3rscbzpz0mae9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Aesthetic Lost Myself Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-black-aesthetic-lost-myself-idnajl2qtx2rrk62.jpg' alt='Cute Black Aesthetic Lost Myself Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-black-aesthetic-lost-myself-idnajl2qtx2rrk62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sad Aesthetic White And Black Iphone With Sad Quotes ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-white-and-black-iphone-vwf758pp0uc7r201.jpg' alt='Download Sad Aesthetic White And Black Iphone With Sad Quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-white-and-black-iphone-vwf758pp0uc7r201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sad aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' alt='sad aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic, black, black and red, depressed, glitch, not happy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/164/935/HD-wallpaper-dark-aesthetic-black-black-and-red-depressed-glitch-not-happy-red-sad-aesthetic-unhappy.jpg' alt='Dark Aesthetic, black, black and red, depressed, glitch, not happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/164/935/HD-wallpaper-dark-aesthetic-black-black-and-red-depressed-glitch-not-happy-red-sad-aesthetic-unhappy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sad black wallpaper   just follow... - Aesthetic wallpapers | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=908272016451540' alt='sad black wallpaper   just follow... - Aesthetic wallpapers | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=908272016451540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Aesthetic Tumblr Dark Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sad-aesthetic-tumblr-dark-butterflies-xaedo30fsfq18xmz.jpg' alt='Sad Aesthetic Tumblr Dark Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sad-aesthetic-tumblr-dark-butterflies-xaedo30fsfq18xmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

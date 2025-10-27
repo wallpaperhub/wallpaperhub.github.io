@@ -1,0 +1,129 @@
+<title>Charming Bear Aesthetic Wallpaper for Cozy Spaces</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="bear aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/bear-aesthetic-wallpaper">
+                            <span itemprop="name">bear aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Bear Aesthetic Wallpaper for Cozy Spaces</h1>
+                <p>Bear aesthetic wallpaper brings a cozy, whimsical vibe to your space. Adorn your walls with charming designs featuring cute bears set against serene landscapes or playful patterns. Perfect for bedrooms or nurseries, these wallpapers evoke a sense of comfort and nature’s beauty, allowing you to embrace the bear aesthetic effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bear aesthetic wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/eb/e5/94ebe590ff822cfc3dacca8e97863b31.jpg' alt='bear aesthetic wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/eb/e5/94ebe590ff822cfc3dacca8e97863b31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown bear    wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/0a/c3/b70ac379aca998b4f70961d6dfe09923.jpg' alt='Brown bear    wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/0a/c3/b70ac379aca998b4f70961d6dfe09923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic brown bear wallpaper :3 | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://assets.userstyles.org/assets_packs/type=style/user_id=3861234/screenshot_764755de-fb8a-40db-b7b9-579ae23ede8b.webp' alt='aesthetic brown bear wallpaper :3 | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://assets.userstyles.org/assets_packs/type=style/user_id=3861234/screenshot_764755de-fb8a-40db-b7b9-579ae23ede8b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bear Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-bear-aesthetic-wallpaper-2.webp' alt='Cute Bear Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-bear-aesthetic-wallpaper-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ice Bear Cartoon Aesthetic Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ice-bear-cartoon-aesthetic-iphone-plu31vuzihmlg8oy.jpg' alt='Download Ice Bear Cartoon Aesthetic Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ice-bear-cartoon-aesthetic-iphone-plu31vuzihmlg8oy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Bears Beige Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-bears-beige-aesthetic-hcbqpuz89h00m32d.jpg' alt='Download Kawaii Bears Beige Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-bears-beige-aesthetic-hcbqpuz89h00m32d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Cartoon Ice Bear Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-cartoon-ice-bear-mieiqkt5fscldmyg.jpg' alt='Cute Aesthetic Cartoon Ice Bear Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-cartoon-ice-bear-mieiqkt5fscldmyg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bear wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFHlMDlRm4/1/0/900w/canva-brown-illustrated-teddy-bear-phone-wallpaper-lrU95WFSK9U.jpg' alt='Free and customizable bear wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFHlMDlRm4/1/0/900w/canva-brown-illustrated-teddy-bear-phone-wallpaper-lrU95WFSK9U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bear wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFAk1vJ0DY/1/0/900w/canva-yellow-cute-bear-phone-wallpaper-F-AwbI1qlwI.jpg' alt='Free and customizable bear wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFAk1vJ0DY/1/0/900w/canva-yellow-cute-bear-phone-wallpaper-F-AwbI1qlwI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Bear Aesthetic Wallpapers - Wallpaper Cave B69">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/af/75/f7af754fbc48683bb262404379dddacb.jpg' alt='Ice Bear Aesthetic Wallpapers - Wallpaper Cave B69'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/af/75/f7af754fbc48683bb262404379dddacb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

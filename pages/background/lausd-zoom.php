@@ -1,0 +1,129 @@
+<title>LAUSD Zoom: Transforming Virtual Learning for Students</title>
+                    <meta name="description" content="Discover how LAUSD Zoom enhances online education for students and teachers in LAUSD, offering interactive lessons and effective communication tools for a seamless virtual learning experience. Stay connected and engaged in your education from anywhere! Perfect for students and educators alike.">
+                    <meta name="keywords" content="lausd zoom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lausd-zoom">
+                            <span itemprop="name">lausd zoom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LAUSD Zoom: Transforming Virtual Learning for Students</h1>
+                <p>LAUSD Zoom provides an effective online learning platform for students and educators within the Los Angeles Unified School District. It supports virtual classrooms, enabling teachers to engage with students through video conferencing, interactive lessons, and collaborative tools. This technology enhances remote education and facilitates communication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Conferencing, Web Conferencing, Online Meetings, Screen ...">
+                                <img itemprop="contentUrl url" src='https://zoom.us/account/branding/p/07bf8c5f-21a0-4309-87ef-9d4c41377332.png' alt='Video Conferencing, Web Conferencing, Online Meetings, Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zoom" />
+                                </span>
+                                <a href='https://zoom.us/account/branding/p/07bf8c5f-21a0-4309-87ef-9d4c41377332.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Connect to LAUSD Zoom Meetings – Resources for Students ...">
+                                <img itemprop="contentUrl url" src='https://3.files.edl.io/ff28/20/08/25/220056-6ab0e42e-dd4a-4a0a-9f5f-6c336de00b86.jpg' alt='How to Connect to LAUSD Zoom Meetings – Resources for Students ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arleta High School" />
+                                </span>
+                                <a href='https://3.files.edl.io/ff28/20/08/25/220056-6ab0e42e-dd4a-4a0a-9f5f-6c336de00b86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Log in to your Zoom with LAUSD - PC | Los Angeles Center ...">
+                                <img itemprop="contentUrl url" src='https://d3id26kdqbehod.cloudfront.net/LACES/2020/08/19/rnfKtRyJZGk70uWlZPtlADBA3MKeeeYKEGoyDKt646SdU2lWUq8YKjdYoAe3/mp4_ph720-1.jpg' alt='How to Log in to your Zoom with LAUSD - PC | Los Angeles Center ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1340">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Center For Enriched Studies" />
+                                </span>
+                                <a href='https://d3id26kdqbehod.cloudfront.net/LACES/2020/08/19/rnfKtRyJZGk70uWlZPtlADBA3MKeeeYKEGoyDKt646SdU2lWUq8YKjdYoAe3/mp4_ph720-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Connect to LAUSD Zoom Meetings – Resources for Students ...">
+                                <img itemprop="contentUrl url" src='https://3.files.edl.io/473e/20/08/25/220120-0491afc9-4976-49b3-a2ec-393a1385bc40.jpg' alt='How to Connect to LAUSD Zoom Meetings – Resources for Students ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arleta High School" />
+                                </span>
+                                <a href='https://3.files.edl.io/473e/20/08/25/220120-0491afc9-4976-49b3-a2ec-393a1385bc40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Connect to LAUSD Zoom Meetings – Resources for Students ...">
+                                <img itemprop="contentUrl url" src='https://3.files.edl.io/1cc6/20/08/25/220050-356b8b57-fe59-4577-a428-58da00f694c9.jpg' alt='How to Connect to LAUSD Zoom Meetings – Resources for Students ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arleta High School" />
+                                </span>
+                                <a href='https://3.files.edl.io/1cc6/20/08/25/220050-356b8b57-fe59-4577-a428-58da00f694c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@LAUSDSup's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/ext_tw_video_thumb/1588594153805398016/pu/img/W_bA2w3Fj0AU1QLH.jpg:large' alt='@LAUSDSup's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/ext_tw_video_thumb/1588594153805398016/pu/img/W_bA2w3Fj0AU1QLH.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Unified School District">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064803273731' alt='Los Angeles Unified School District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064803273731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job Aid-How to sign into LAUSD Zoom via the web with your LAUSD ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d9d42e0745282cf0fdfec1dbd3fc7aac197d46e6b830eba62840d3057086e7d6' alt='Job Aid-How to sign into LAUSD Zoom via the web with your LAUSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1227">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.lausd.org" />
+                                </span>
+                                <a href='x-raw-image:///d9d42e0745282cf0fdfec1dbd3fc7aac197d46e6b830eba62840d3057086e7d6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Connect to LAUSD Zoom Meetings – Resources for Students ...">
+                                <img itemprop="contentUrl url" src='https://3.files.edl.io/1d12/20/08/25/220114-f93fdf38-daa9-4f2c-bb6e-3c96f7cdeff9.jpg' alt='How to Connect to LAUSD Zoom Meetings – Resources for Students ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arleta High School" />
+                                </span>
+                                <a href='https://3.files.edl.io/1d12/20/08/25/220114-f93fdf38-daa9-4f2c-bb6e-3c96f7cdeff9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office of the Superintendent / Brand">
+                                <img itemprop="contentUrl url" src='https://www.lausd.org/cms/lib/CA01000043/Centricity/Domain/635/combo-do-3v3.jpg' alt='Office of the Superintendent / Brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2026">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Unified School District" />
+                                </span>
+                                <a href='https://www.lausd.org/cms/lib/CA01000043/Centricity/Domain/635/combo-do-3v3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

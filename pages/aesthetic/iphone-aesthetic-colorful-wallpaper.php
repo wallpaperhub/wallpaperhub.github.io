@@ -1,0 +1,129 @@
+<title>Vibrant Aesthetic Colorful Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a stunning collection of colorful aesthetic wallpapers for your iPhone. Elevate your device's look with vibrant designs that showcase your unique style. Perfect for personalizing your home and lock screens, these wallpapers bring a refreshing touch to your everyday technology.">
+                    <meta name="keywords" content="iphone aesthetic colorful wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/iphone-aesthetic-colorful-wallpaper">
+                            <span itemprop="name">iphone aesthetic colorful wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Aesthetic Colorful Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with vibrant and aesthetic colorful wallpapers that breathe life into your device. From abstract designs to nature-inspired patterns, these stunning backgrounds bring a unique flair to your screen. Choose from a myriad of colors that reflect your personality and style, making your iPhone truly yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Aesthetic Rainbow Wallpapers for iPhone (Free & HD) - The Mood ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/19/3c/6e/193c6ef700e4060f0c058ff38b7775e9.jpg' alt='60+ Aesthetic Rainbow Wallpapers for iPhone (Free & HD) - The Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/19/3c/6e/193c6ef700e4060f0c058ff38b7775e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful inspirational aesthetic wallpaper #iphonecases ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/0c/7c/c7/0c7cc75096cbb30b05c58c7a5d8708bf.jpg' alt='Colorful inspirational aesthetic wallpaper #iphonecases ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/0c/7c/c7/0c7cc75096cbb30b05c58c7a5d8708bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image Colorful And Fun Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/image-colorful-and-fun-iphone-2l5jbcl5qvjram4a.jpg' alt='Image Colorful And Fun Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/image-colorful-and-fun-iphone-2l5jbcl5qvjram4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rainbow-iphone-xtnpxsl3avgvg6t7.jpg' alt='100+] Rainbow Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rainbow-iphone-xtnpxsl3avgvg6t7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images By Shystarr Faith On Wallpapers | Colourful Wallpaper Iphone 3F">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/1e/bf/5f1ebf31a8589323432a06a0b762df2b.jpg' alt='Images By Shystarr Faith On Wallpapers | Colourful Wallpaper Iphone 3F'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/1e/bf/5f1ebf31a8589323432a06a0b762df2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 14 Aesthetic Colorful Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ios-14-aesthetic-colorful-lights-mf9cqr2f2142uqf9.jpg' alt='Ios 14 Aesthetic Colorful Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ios-14-aesthetic-colorful-lights-mf9cqr2f2142uqf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-iphone-nlfoag3cyqt5aoa8.jpg' alt='100+] Pastel Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-iphone-nlfoag3cyqt5aoa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Colorful iPhone Wallpaper by Enbeedeh">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/57/82/0c5782db416c37412959346208dfde5a.jpg' alt='Free Colorful iPhone Wallpaper by Enbeedeh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/57/82/0c5782db416c37412959346208dfde5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Abstract Wallpapers: Add an Artistic Touch to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-abstract-wallpapers/fluid-art-iphone-wallpaper' alt='iPhone Abstract Wallpapers: Add an Artistic Touch to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-abstract-wallpapers/fluid-art-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' alt='Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

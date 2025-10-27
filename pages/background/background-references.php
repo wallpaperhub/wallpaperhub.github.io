@@ -1,0 +1,129 @@
+<title>Essential Background References: Unlocking Trust in Hiring</title>
+                    <meta name="description" content="Discover the significance of background references in hiring and academic assessments. This concise guide explores how these references enhance trust, support informed decisions, and ensure candidate reliability. Perfect for employers and students alike!">
+                    <meta name="keywords" content="background references">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-references">
+                            <span itemprop="name">background references</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Background References: Unlocking Trust in Hiring</h1>
+                <p>Background references are essential in various contexts, particularly in hiring processes and academic settings. They provide insights into a person's past performance, character, and reliability. By contacting former employers or educators, organizations ensure candidates have the necessary qualifications and integrity, fostering trust and informed decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing Backgrounds Using Reference Photos and the Perspective ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/d6ee/88898/7d925b384fbd345a08bc855b28471f68_en-us' alt='Drawing Backgrounds Using Reference Photos and the Perspective ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/d6ee/88898/7d925b384fbd345a08bc855b28471f68_en-us' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Background References ideas | environment concept art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/96/ab/4a96ab484a506acd5936961c7eba010f.jpg' alt='900+ Background References ideas | environment concept art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/96/ab/4a96ab484a506acd5936961c7eba010f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing Backgrounds Using Reference Photos and the Perspective ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/3fae/89001/55865e24ce9a794917766502a1eb5331_en-us' alt='Drawing Backgrounds Using Reference Photos and the Perspective ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/3fae/89001/55865e24ce9a794917766502a1eb5331_en-us' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Architectural Background References with Free 3D Models ...">
+                                <img itemprop="contentUrl url" src='https://theartshake.wordpress.com/wp-content/uploads/2015/12/screen-shot-2015-12-03-at-9-15-10-pm.png' alt='Creating Architectural Background References with Free 3D Models ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1576">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="theartshake - WordPress.com" />
+                                </span>
+                                <a href='https://theartshake.wordpress.com/wp-content/uploads/2015/12/screen-shot-2015-12-03-at-9-15-10-pm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Anime Background Reference ideas | anime background, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c1/9b/c5/c19bc50b396c7199226d6fc7b9671fbe.jpg' alt='100 Anime Background Reference ideas | anime background, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c1/9b/c5/c19bc50b396c7199226d6fc7b9671fbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Background | AriahDLyn by Buzzbees on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9dc09eab-53a6-4e80-83b8-501852de9448/ddc2unr-9c7c9dcc-1f8a-4efe-900d-647e09ba21ef.png/v1/fill/w_1280,h_905,q_80,strp/reference_background___ariahdlyn_by_buzzbees_ddc2unr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvOWRjMDllYWItNTNhNi00ZTgwLTgzYjgtNTAxODUyZGU5NDQ4XC9kZGMydW5yLTljN2M5ZGNjLTFmOGEtNGVmZS05MDBkLTY0N2UwOWJhMjFlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FTaLpYyKuQaWLAoEwVNP4fjPDWFPwSy6nFlDWj5glVQ' alt='Reference Background | AriahDLyn by Buzzbees on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9dc09eab-53a6-4e80-83b8-501852de9448/ddc2unr-9c7c9dcc-1f8a-4efe-900d-647e09ba21ef.png/v1/fill/w_1280,h_905,q_80,strp/reference_background___ariahdlyn_by_buzzbees_ddc2unr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvOWRjMDllYWItNTNhNi00ZTgwLTgzYjgtNTAxODUyZGU5NDQ4XC9kZGMydW5yLTljN2M5ZGNjLTFmOGEtNGVmZS05MDBkLTY0N2UwOWJhMjFlZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FTaLpYyKuQaWLAoEwVNP4fjPDWFPwSy6nFlDWj5glVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background References | student blog andre">
+                                <img itemprop="contentUrl url" src='https://andrelecoz3.wordpress.com/wp-content/uploads/2011/07/screen-shot-2011-07-27-at-3-36-49-pm.png' alt='Background References | student blog andre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="student blog andre - WordPress.com" />
+                                </span>
+                                <a href='https://andrelecoz3.wordpress.com/wp-content/uploads/2011/07/screen-shot-2011-07-27-at-3-36-49-pm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Animation background n layouts references......... ideas in ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/07/7c/50/077c50bac2dddb5054495e08344995ac.jpg' alt='900+ Animation background n layouts references......... ideas in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/07/7c/50/077c50bac2dddb5054495e08344995ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing Backgrounds Using Reference Photos and the Perspective ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/42f5/88901/39c18c8dedf60775b12e4d20ce2942ad_en-us' alt='Drawing Backgrounds Using Reference Photos and the Perspective ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/42f5/88901/39c18c8dedf60775b12e4d20ce2942ad_en-us' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mims Memokkeen - Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/009/964/616/large/mimosa-bjorn-canvas-swap-issue-1-background.jpg?1521812128' alt='Mims Memokkeen - Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mims Memokkeen" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/009/964/616/large/mimosa-bjorn-canvas-swap-issue-1-background.jpg?1521812128' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

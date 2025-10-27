@@ -1,0 +1,129 @@
+<title>D&D Character Backgrounds: Unlock Your Story</title>
+                    <meta name="description" content="Explore the captivating world of Dungeons & Dragons character backgrounds. Discover how these unique stories enhance gameplay and foster engaging role-play adventures. Dive into personal histories that shape your character's journey and interactions in the game world.">
+                    <meta name="keywords" content="dnd book background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-book-background">
+                            <span itemprop="name">dnd book background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>D&D Character Backgrounds: Unlock Your Story</h1>
+                <p>In Dungeons & Dragons, a character's background adds depth and story to their journey. Each background offers unique skills, proficiencies, and personal history, shaping how players interact with the game world. From nobility to relative outcasts, these backstories enhance gameplay, encouraging rich role-play and collaborative story-building.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Backstory Based on Your DND Background">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60944b4ca3b19025d14e37aa/1703109269136-ZRVPTX7LEW99LY5EL11M/Create-a-DND-Backstory' alt='How to Create a Backstory Based on Your DND Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Young Dragonslayers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60944b4ca3b19025d14e37aa/1703109269136-ZRVPTX7LEW99LY5EL11M/Create-a-DND-Backstory' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish backgrounds for a Players Guide | EN World D&D & Tabletop ...">
+                                <img itemprop="contentUrl url" src='https://www.enworld.org/attachments/paper-jpg.37958/' alt='Stylish backgrounds for a Players Guide | EN World D&D & Tabletop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://www.enworld.org/attachments/paper-jpg.37958/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help me with a good source for DnD content! : r/DnD">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-me-with-a-good-source-for-dnd-content-v0-956852t0m21b1.png?width=427&format=png&auto=webp&s=4c176438b8f1a38a3d2a4ba20baed66639aaf666' alt='Help me with a good source for DnD content! : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-me-with-a-good-source-for-dnd-content-v0-956852t0m21b1.png?width=427&format=png&auto=webp&s=4c176438b8f1a38a3d2a4ba20baed66639aaf666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D's Next Edition: Backgrounds and Feats – Mythcreants">
+                                <img itemprop="contentUrl url" src='https://mythcreants.com/wp-content/uploads/2022/09/Stryxhaven-824x550.png' alt='D&D's Next Edition: Backgrounds and Feats – Mythcreants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mythcreants" />
+                                </span>
+                                <a href='https://mythcreants.com/wp-content/uploads/2022/09/Stryxhaven-824x550.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background │ Preserved : r/UnearthedArcana">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0yr08a0m6ol41.jpg' alt='Background │ Preserved : r/UnearthedArcana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5100">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0yr08a0m6ol41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Backgrounds: (2.0 Expanded!) 17 new flavorful backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/x5MXJJ4.png' alt='Better Backgrounds: (2.0 Expanded!) 17 new flavorful backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/x5MXJJ4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e Homebrew — PHB Homebrewing Tutorial">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b1e78abb179ae1293b25c11afc8d8b40/tumblr_inline_nyp2iwWb2P1rx820c_1280.png' alt='DnD 5e Homebrew — PHB Homebrewing Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD 5e Homebrew - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b1e78abb179ae1293b25c11afc8d8b40/tumblr_inline_nyp2iwWb2P1rx820c_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds Reference - Print - Flip eBook Pages 1-5 | AnyFlip">
+                                <img itemprop="contentUrl url" src='https://online.anyflip.com/ppys/jler/files/mobile/1.jpg' alt='Backgrounds Reference - Print - Flip eBook Pages 1-5 | AnyFlip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1272">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AnyFlip" />
+                                </span>
+                                <a href='https://online.anyflip.com/ppys/jler/files/mobile/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D Plain Backgrounds (By @flamableconcrete on Deviantart) - dnd5e ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/Ax3bOZig.jpg' alt='D&D Plain Backgrounds (By @flamableconcrete on Deviantart) - dnd5e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/Ax3bOZig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big Book of Backgrounds (5e) - P.B. Publishing | DriveThruRPG">
+                                <img itemprop="contentUrl url" src='https://d1vzi28wh99zvq.cloudfront.net/images/12725/281467.jpg' alt='The Big Book of Backgrounds (5e) - P.B. Publishing | DriveThruRPG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DriveThruRPG" />
+                                </span>
+                                <a href='https://d1vzi28wh99zvq.cloudfront.net/images/12725/281467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

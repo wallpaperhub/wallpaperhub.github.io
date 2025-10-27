@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Modern Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover the charm of yellow modern wallpaper! Brighten any room with stylish designs that blend color and contemporary trends. Suitable for various spaces, our collection offers the perfect solution to enhance your decor effortlessly. Transform your home today!">
+                    <meta name="keywords" content="yellow modern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-modern-wallpaper">
+                            <span itemprop="name">yellow modern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Modern Wallpaper: Brighten Your Space</h1>
+                <p>Elevate your space with vibrant yellow modern wallpaper! Perfect for adding a splash of color, this wallpaper creates a cheerful atmosphere while maintaining a contemporary look. Ideal for living rooms, bedrooms, or office spaces, you can choose from bold patterns to subtle textures that seamlessly fit your style. Transform your interiors today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Yellow Modern Wallpaper Abstract Mural Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14949670/r/il/7ddfeb/5308505296/il_fullxfull.5308505296_74ob.jpg' alt='Black and Yellow Modern Wallpaper Abstract Mural Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14949670/r/il/7ddfeb/5308505296/il_fullxfull.5308505296_74ob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Herringbone Pastel Wallpaper, Minimalist Simple Chevron ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/a38237/3409572559/il_fullxfull.3409572559_tl4w.jpg' alt='Yellow Herringbone Pastel Wallpaper, Minimalist Simple Chevron ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/a38237/3409572559/il_fullxfull.3409572559_tl4w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow leaves wallpaper | Boho wall mural - belarteSTUDIO.">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/VintageVibe-Leaves-BAS00701050-Yellow-8_1080x.jpg?v=1699363308' alt='Yellow leaves wallpaper | Boho wall mural - belarteSTUDIO.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/VintageVibe-Leaves-BAS00701050-Yellow-8_1080x.jpg?v=1699363308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Watercolor Weave Large' Grasscloth Wallpaper by Wallshoppe - Yellow">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Watercolor_Weave_Large_Wallpaper_Yellow_RS.jpg?v=1621466483' alt=''Watercolor Weave Large' Grasscloth Wallpaper by Wallshoppe - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Watercolor_Weave_Large_Wallpaper_Yellow_RS.jpg?v=1621466483' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Pattern Yellow Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-1013-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMekV5TXpNd0wyMXBaRjlqWlc1MGRYSjVYM0JoZEhSbGNtNWZlV1ZzYkc5M1gyUnBjM0JzWVhrdWFuQm5QM2M5TVRNME55Wm9QVEV5TlRNbVptbDBQV055YjNBbVkzSnZjRDFqWlc1MFpYSWxNa05qWlc1MFpYSW1ZbXhsYm1RdFkyOXNiM0k5TURBd01EQXdKbUpzWlc1a0xXMXZaR1U5YlhWc2RHbHdiSGttWW14bGJtUXRZV3h3YUdFOU1TWmljbWs5TmlaellYUTlNVEFtY1QwNU9RJTNEJTNEJmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MCZibGVuZC14PTU1NQ%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTEwMTMtZC5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmNyb3A9Y2VudGVyJmF1dG89Zm9ybWF0JnE9NTA%3D&mark-x=0&mark-y=0' alt='Mid Century Pattern Yellow Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-1013-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMekV5TXpNd0wyMXBaRjlqWlc1MGRYSjVYM0JoZEhSbGNtNWZlV1ZzYkc5M1gyUnBjM0JzWVhrdWFuQm5QM2M5TVRNME55Wm9QVEV5TlRNbVptbDBQV055YjNBbVkzSnZjRDFqWlc1MFpYSWxNa05qWlc1MFpYSW1ZbXhsYm1RdFkyOXNiM0k5TURBd01EQXdKbUpzWlc1a0xXMXZaR1U5YlhWc2RHbHdiSGttWW14bGJtUXRZV3h3YUdFOU1TWmljbWs5TmlaellYUTlNVEFtY1QwNU9RJTNEJTNEJmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MCZibGVuZC14PTU1NQ%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTEwMTMtZC5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmNyb3A9Y2VudGVyJmF1dG89Zm9ybWF0JnE9NTA%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Yellow - Wallpaper Removable Wallpaper Peel and Stick Wallpaper  Wall Paper Wall Mural - B246">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6007650379_h5x3.jpg?v=1722476367&width=1946' alt='Minimal Yellow - Wallpaper Removable Wallpaper Peel and Stick Wallpaper  Wall Paper Wall Mural - B246'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6007650379_h5x3.jpg?v=1722476367&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NIVFOEASC Peel and Stick Wallpaper Abstract Bohemian Geometric Mustard  Yellow Wall Mural Modern Contact Paper Removable Self Adhesive Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fVebtJiyL.jpg' alt='NIVFOEASC Peel and Stick Wallpaper Abstract Bohemian Geometric Mustard  Yellow Wall Mural Modern Contact Paper Removable Self Adhesive Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fVebtJiyL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power, Scandinavian Floral Wallpaper, Peel And Stick Orange, Yellow  Green Wall Mural - Sample H12 x W20">
+                                <img itemprop="contentUrl url" src='https://midcenturymoderngal.com/cdn/shop/files/1360c7.jpg?v=1721364496&width=1500' alt='Flower Power, Scandinavian Floral Wallpaper, Peel And Stick Orange, Yellow  Green Wall Mural - Sample H12 x W20'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='https://midcenturymoderngal.com/cdn/shop/files/1360c7.jpg?v=1721364496&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' alt='Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prism Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8693/13131/104741_2__76103.1682003024.jpg' alt='Prism Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8693/13131/104741_2__76103.1682003024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

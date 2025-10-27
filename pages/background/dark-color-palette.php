@@ -1,0 +1,129 @@
+<title>Stylish Dark Color Palette Ideas for Modern Design</title>
+                    <meta name="description" content="Explore elegant dark color palette ideas that elevate your design projects. Perfect for both modern interiors and digital art, these rich tones create depth and intrigue. Discover how to use dark colors effectively for sophistication and striking contrast in your work today!">
+                    <meta name="keywords" content="dark color palette">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-color-palette">
+                            <span itemprop="name">dark color palette</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Dark Color Palette Ideas for Modern Design</h1>
+                <p>A dark color palette can evoke strong emotions and create a sense of drama in design. It incorporates hues like deep blues, mysterious blacks, and rich burgundies, perfect for modern themes. This palette enhances sophistication and can provide striking contrast when paired with lighter accents, making it popular in interiors and digital art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette: Dark + Moody — Paper Heart Design Co.">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/7fa774ea-0264-4fbe-9a00-78cd3534864a/Moody+Leaves.jpg' alt='Color Palette: Dark + Moody — Paper Heart Design Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Heart Design Co." />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/7fa774ea-0264-4fbe-9a00-78cd3534864a/Moody+Leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red and black Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/85078.png' alt='Dark Red and black Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/85078.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette: Dark + Moody — Paper Heart Design Co.">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/1de36daf-62c7-4c23-84c1-c7c808017e87/Moody+Purple+Flower.jpg' alt='Color Palette: Dark + Moody — Paper Heart Design Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Heart Design Co." />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/1de36daf-62c7-4c23-84c1-c7c808017e87/Moody+Purple+Flower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia, Color Swatches, Color Palette, iPAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27701696/r/il/9ae5f2/4044578066/il_fullxfull.4044578066_gaxu.jpg' alt='Dark Academia, Color Swatches, Color Palette, iPAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27701696/r/il/9ae5f2/4044578066/il_fullxfull.4044578066_gaxu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/the-dark.png' alt='The Dark Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/the-dark.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Color Palette | OFFEO">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/646c83f933925057cfe27156_image.jpg' alt='Dark Color Palette | OFFEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1172">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OFFEO" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/646c83f933925057cfe27156_image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette: Dark + Moody — Paper Heart Design Co.">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/850155b3-9eb6-4a61-8b29-9cfc82e4a3ca/Moody+Green+Orange.jpg' alt='Color Palette: Dark + Moody — Paper Heart Design Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Heart Design Co." />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5720ede5555986b16f146642/850155b3-9eb6-4a61-8b29-9cfc82e4a3ca/Moody+Green+Orange.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Shades Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/68781.png' alt='Dark Shades Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/68781.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Color Palette | OFFEO">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/646c84de8457146cf3256928_image%20(5).jpg' alt='Dark Color Palette | OFFEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1173">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OFFEO" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/646c84de8457146cf3256928_image%20(5).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Dark Color Palettes for Dramatic Designs | Color Meanings">
+                                <img itemprop="contentUrl url" src='https://www.color-meanings.com/wp-content/uploads/2023/08/Dark-Color-Palette-16-1024x1024.jpg' alt='31 Dark Color Palettes for Dramatic Designs | Color Meanings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Meanings" />
+                                </span>
+                                <a href='https://www.color-meanings.com/wp-content/uploads/2023/08/Dark-Color-Palette-16-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Waverly Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Upgrade your decor with Waverly peel and stick wallpaper. Enjoy beautiful designs and easy installation, perfect for creating a fresh look in any room. Ideal for renters or DIYers, this wallpaper is removable and leaves no residue. Redefine your space effortlessly today!">
+                    <meta name="keywords" content="waverly peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/waverly-peel-and-stick-wallpaper">
+                            <span itemprop="name">waverly peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Waverly Peel and Stick Wallpaper</h1>
+                <p>Waverly peel and stick wallpaper offers effortless style and convenience for any space. With a variety of elegant patterns and colors, it enhances your decor without the commitment of traditional wallpaper. Easy to apply and remove, it’s perfect for DIY enthusiasts looking to refresh their rooms with minimal hassle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Live Artfully Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11883RL_1f742292-7c81-4ee7-baa1-d91dd31278c3.jpg?v=1703815402&width=800' alt='Waverly Live Artfully Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11883RL_1f742292-7c81-4ee7-baa1-d91dd31278c3.jpg?v=1703815402&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Wailea Coast Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11894RL_RS2_b2992234-d2e8-4848-9758-fbe81b43d4b4.jpg?v=1703815551&width=2400' alt='Waverly Wailea Coast Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11894RL_RS2_b2992234-d2e8-4848-9758-fbe81b43d4b4.jpg?v=1703815551&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Zen Garden Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11854RL_RS1_f0c92d97-043a-4e5b-b2e0-d130f9beec09.jpg?v=1703815570&width=2400' alt='Waverly Zen Garden Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11854RL_RS1_f0c92d97-043a-4e5b-b2e0-d130f9beec09.jpg?v=1703815570&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Waverly Live Artfully Peel and Stick Wallpaper (Covers 28.29 sq.  ft.) RMK11884RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bb35fac3-6bf6-496c-82fd-7dff8dcb9859/svn/roommates-wallpaper-rolls-rmk11884rl-64_600.jpg' alt='RoomMates Waverly Live Artfully Peel and Stick Wallpaper (Covers 28.29 sq.  ft.) RMK11884RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bb35fac3-6bf6-496c-82fd-7dff8dcb9859/svn/roommates-wallpaper-rolls-rmk11884rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Waverly RMK11882RL Exotic Curiosity Peel and Stick Wallpaper (18  in x 18.86 ft) – Easy Application, No Sticky Residue – Taupe and Pink">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Jv3+yN0HL._AC_UF894,1000_QL80_.jpg' alt='RoomMates Waverly RMK11882RL Exotic Curiosity Peel and Stick Wallpaper (18  in x 18.86 ft) – Easy Application, No Sticky Residue – Taupe and Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Jv3+yN0HL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Live Artfully Floral Peel and Stick Wallpaper RMK11884RL ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/0dce7b/3143462296/il_570xN.3143462296_ip6k.jpg' alt='Waverly Live Artfully Floral Peel and Stick Wallpaper RMK11884RL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/0dce7b/3143462296/il_570xN.3143462296_ip6k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Zen Garden Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/RMK11854Rl_5256e271-440d-408b-b67c-5fac91b55034.jpg?v=1703815570&width=1024' alt='Waverly Zen Garden Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/RMK11854Rl_5256e271-440d-408b-b67c-5fac91b55034.jpg?v=1703815570&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Peel and Stick Wallpaper – RoomMates Decor">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/collections/RMK11875RL_RS2.jpg?v=1681328487&width=2400' alt='Waverly Peel and Stick Wallpaper – RoomMates Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/collections/RMK11875RL_RS2.jpg?v=1681328487&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waverly Peel & Stick Toile Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/54866355/compr-r85/1346/134687242/waverly-peel-stick-toile-roll.jpg' alt='Waverly Peel & Stick Toile Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/54866355/compr-r85/1346/134687242/waverly-peel-stick-toile-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Waverly RMK11883RL Live Artfully Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Tq1veA4SL._AC_UF894,1000_QL80_.jpg' alt='RoomMates Waverly RMK11883RL Live Artfully Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Tq1veA4SL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

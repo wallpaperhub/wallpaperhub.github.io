@@ -1,0 +1,129 @@
+<title>MLK Jr.: Legacy of Equality and Justice</title>
+                    <meta name="description" content="Explore the life and impact of Martin Luther King Jr., a key figure in the civil rights movement. Learn about his vision for equality, his powerful speeches, and how his advocacy for justice continues to inspire today's activists. Join us in honoring his enduring legacy and commitment to peace.">
+                    <meta name="keywords" content="mlk jr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mlk-jr">
+                            <span itemprop="name">mlk jr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>MLK Jr.: Legacy of Equality and Justice</h1>
+                <p>Martin Luther King Jr. was a pivotal leader in the American civil rights movement, known for his advocacy of nonviolent resistance and social justice. His iconic "I Have a Dream" speech inspired millions to fight against racial inequality. King's legacy continues to influence activism, promoting peace and equality for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg' alt='Martin Luther King Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King, Jr. | Biography, Speeches, Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/1918-050-0166D6BB/Martin-Luther-King-Jr.jpg' alt='Martin Luther King, Jr. | Biography, Speeches, Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/1918-050-0166D6BB/Martin-Luther-King-Jr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr.: Biography, Civil Rights Activist, MLK Jr.">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/martin-luther-king-jr-9365086-2-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Martin Luther King Jr.: Biography, Civil Rights Activist, MLK Jr.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/martin-luther-king-jr-9365086-2-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. ‑ Biography, Quotes & Legacy | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/hero-crop-gettyimages-459534214.jpg' alt='Martin Luther King Jr. ‑ Biography, Quotes & Legacy | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3370">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/hero-crop-gettyimages-459534214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King, Jr.—facts and information">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/f0f3505e-a427-453f-814c-696a3831e401/06-martin-luther-king_16x9.jpg' alt='Martin Luther King, Jr.—facts and information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/f0f3505e-a427-453f-814c-696a3831e401/06-martin-luther-king_16x9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 things to know about Martin Luther King Jr. and the legacy of ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/1200/675/Martin-Luther-King-Jr-GETTY-2.jpg?ve=1&tl=1' alt='5 things to know about Martin Luther King Jr. and the legacy of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/1200/675/Martin-Luther-King-Jr-GETTY-2.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering the Legacy of Martin Luther King Jr. | Office of ...">
+                                <img itemprop="contentUrl url" src='https://diversity.sonoma.edu/sites/diversity/files/styles/width_sm_1x/public/5a5152677c9db.image_.jpg?itok=iL4i81gY' alt='Remembering the Legacy of Martin Luther King Jr. | Office of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Office of Institutional Equity and Belonging - Sonoma State University" />
+                                </span>
+                                <a href='https://diversity.sonoma.edu/sites/diversity/files/styles/width_sm_1x/public/5a5152677c9db.image_.jpg?itok=iL4i81gY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of Dr. Martin Luther King, Jr. | National Endowment for ...">
+                                <img itemprop="contentUrl url" src='https://www.arts.gov/sites/default/files/images/UnseenHistories-MLKOption1-smallerversion_1.jpg' alt='The Art of Dr. Martin Luther King, Jr. | National Endowment for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1672">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Arts" />
+                                </span>
+                                <a href='https://www.arts.gov/sites/default/files/images/UnseenHistories-MLKOption1-smallerversion_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King, Jr.">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/dfe12b8f-f049-4837-ab45-ebd0ab99d5f9/mlk-jr-05_3x2.jpg' alt='Martin Luther King, Jr.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/dfe12b8f-f049-4837-ab45-ebd0ab99d5f9/mlk-jr-05_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Papers of Martin Luther King, Jr. | National Endowment for the ...">
+                                <img itemprop="contentUrl url" src='https://www.neh.gov/sites/default/files/2019-10/mlk-jr.jpg' alt='The Papers of Martin Luther King, Jr. | National Endowment for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Humanities" />
+                                </span>
+                                <a href='https://www.neh.gov/sites/default/files/2019-10/mlk-jr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

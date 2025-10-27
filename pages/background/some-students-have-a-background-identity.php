@@ -1,0 +1,129 @@
+<title>Understanding Student Background Identity: Embracing Diversity in Learning</title>
+                    <meta name="description" content="Explore how students' diverse backgrounds influence their identities and learning experiences. Discover the importance of inclusivity and respect for different perspectives to enrich classroom dynamics and foster a supportive educational environment.">
+                    <meta name="keywords" content="some students have a background identity">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/some-students-have-a-background-identity">
+                            <span itemprop="name">some students have a background identity</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Student Background Identity: Embracing Diversity in Learning</h1>
+                <p>Every student comes with a unique background identity that shapes their perspectives and experiences. These identities, rooted in culture, ethnicity, and personal history, enhance classroom discussions and foster diverse viewpoints. Recognizing and valuing these differences encourages inclusivity and enriches the learning environment for everyone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="college essay.docx - 1. Some students have a background identity ...">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/thumb/f5/03/f503bf6683aa964a63a0cea4ab5770ce85888e75_180.jpg' alt='college essay.docx - 1. Some students have a background identity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/thumb/f5/03/f503bf6683aa964a63a0cea4ab5770ce85888e75_180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It’s time to start on your narrative essay/personal statement! Here’s an  explanation of Common App Prompt #1, with goals, examples, and pitfalls.  #collegeprep #vanguardcollegeprep #collegecounseling ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7257932086097628458&location=0&aid=1988' alt='It’s time to start on your narrative essay/personal statement! Here’s an  explanation of Common App Prompt #1, with goals, examples, and pitfalls.  #collegeprep #vanguardcollegeprep #collegecounseling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7257932086097628458&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common App Essay Montage Style - Some students have a background ...">
+                                <img itemprop="contentUrl url" src='https://website-assets.studocu.com/img/document_thumbnails/07f6b493bf4cfe12c6610a21b3540902/thumb_1200_1553.png' alt='Common App Essay Montage Style - Some students have a background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studocu" />
+                                </span>
+                                <a href='https://website-assets.studocu.com/img/document_thumbnails/07f6b493bf4cfe12c6610a21b3540902/thumb_1200_1553.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherkaoui Raeda - Cherkaoui Raeda Prompt: Some students have a ...">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/thumb/34/1b/341b820523cd9e3fff37463a0912281e817e7e1e_180.jpg' alt='Cherkaoui Raeda - Cherkaoui Raeda Prompt: Some students have a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/thumb/34/1b/341b820523cd9e3fff37463a0912281e817e7e1e_180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Common App Essay that Got Me into the Ivy League">
+                                <img itemprop="contentUrl url" src='https://public-files.gumroad.com/rp7z8zlasq23cxdp4p7w7j8d7ysf' alt='The Common App Essay that Got Me into the Ivy League'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gumroad" />
+                                </span>
+                                <a href='https://public-files.gumroad.com/rp7z8zlasq23cxdp4p7w7j8d7ysf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FactBuffet on X: "That essay got high school senior Brittany ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CfufzntVAAAdrb2.jpg' alt='FactBuffet on X: "That essay got high school senior Brittany ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CfufzntVAAAdrb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common App Essay Essentials: Prompt #1: Some students have a background,  identity, interest, or talent that is so meaningful they believe their ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712tpBQ6fGL._AC_UF1000,1000_QL80_.jpg' alt='Common App Essay Essentials: Prompt #1: Some students have a background,  identity, interest, or talent that is so meaningful they believe their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712tpBQ6fGL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The College Essay “I do want to express myself. And I don't need ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/13112111/79/images/5/Some+students+have+a+background%2C+identity%2C+interest%2C+or+talent+that+is+so+meaningful+they+believe+their+application+would+be+incomplete+without+it.+If+this+sounds+like+you%2C+then+please+share+your+story..jpg' alt='The College Essay “I do want to express myself. And I don't need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/13112111/79/images/5/Some+students+have+a+background%2C+identity%2C+interest%2C+or+talent+that+is+so+meaningful+they+believe+their+application+would+be+incomplete+without+it.+If+this+sounds+like+you%2C+then+please+share+your+story..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College Essay Writing Hack in 10 Minutes!">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7155977913848827179&location=0&aid=1988' alt='College Essay Writing Hack in 10 Minutes!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7155977913848827179&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What're some of the most common essay prompts? Swipe through above ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3470124062581983066' alt='What're some of the most common essay prompts? Swipe through above ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3470124062581983066' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

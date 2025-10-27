@@ -1,0 +1,129 @@
+<title>Stunning Floral Wallpaper for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful floral wallpaper designs for your iPhone. Brighten your device with nature-inspired aesthetics that reflect your style. Perfect for daily use and refreshing your screen, these wallpapers add elegance and charm to your iPhone experience.">
+                    <meta name="keywords" content="iphone:ese2l5uu6vc= floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoneese2l5uu6vc-floral-wallpaper">
+                            <span itemprop="name">iphone:ese2l5uu6vc= floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Floral Wallpaper for Your iPhone</h1>
+                <p>Transform your iPhone with stunning floral wallpaper! Whether you prefer vibrant blossoms or soft pastels, floral designs add a touch of nature and elegance to your device. Explore a variety of options to match your mood and style. Elevate your screen’s aesthetic while enjoying the beauty of flowers every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone SE (2020) / 7 / 8 Pastel Floral Wallpaper - Vintage Watercolor  Flower Art Case">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61-wl+XAmzL._AC_UF894,1000_QL80_.jpg' alt='iPhone SE (2020) / 7 / 8 Pastel Floral Wallpaper - Vintage Watercolor  Flower Art Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61-wl+XAmzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone 12 Wallpaper . Instant Download . Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34418120/r/il/1e3b9f/6073836495/il_570xN.6073836495_rjzo.jpg' alt='Floral iPhone 12 Wallpaper . Instant Download . Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34418120/r/il/1e3b9f/6073836495/il_570xN.6073836495_rjzo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Floral Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/floral-iphone-twraxvywtrdxflpc.jpg' alt='200+] Floral Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/floral-iphone-twraxvywtrdxflpc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral iPhone Wallpaper, Minimalist Design, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43448371/r/il/260d36/5301592689/il_1080xN.5301592689_lccr.jpg' alt='Watercolor Floral iPhone Wallpaper, Minimalist Design, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43448371/r/il/260d36/5301592689/il_1080xN.5301592689_lccr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone 12 Wallpaper . Instant Download . Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34418120/r/il/d435c7/6073836711/il_570xN.6073836711_pbaq.jpg' alt='Floral iPhone 12 Wallpaper . Instant Download . Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34418120/r/il/d435c7/6073836711/il_570xN.6073836711_pbaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Aesthetics iPhone Screensaver, Apple iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38961434/r/il/da5ba0/4463881223/il_570xN.4463881223_8ksk.jpg' alt='Flowers Aesthetics iPhone Screensaver, Apple iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38961434/r/il/da5ba0/4463881223/il_570xN.4463881223_8ksk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Floral iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/61/ff/3f61ff21dba861b77a497f906a95b121.jpg' alt='Awesome Floral iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/61/ff/3f61ff21dba861b77a497f906a95b121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral background iPhone Wallpapers | Flower wallpaper, Iphone 5s ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/78/6a/79786a914ef559dafccd3137cd56c749.jpg' alt='Floral background iPhone Wallpapers | Flower wallpaper, Iphone 5s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/78/6a/79786a914ef559dafccd3137cd56c749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral, iPhone Wallpaper, Garden Phone Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/87be43/4880664584/il_fullxfull.4880664584_2qa6.jpg' alt='Watercolor Floral, iPhone Wallpaper, Garden Phone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/87be43/4880664584/il_fullxfull.4880664584_2qa6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Phone Wallpapers, Floral Wallpaper Iphone, Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40305353/r/il/c7ec5b/5748553506/il_1080xN.5748553506_c2c3.jpg' alt='Summer Phone Wallpapers, Floral Wallpaper Iphone, Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40305353/r/il/c7ec5b/5748553506/il_1080xN.5748553506_c2c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

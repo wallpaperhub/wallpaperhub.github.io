@@ -1,0 +1,129 @@
+<title>I Love You Backgrounds: Perfect Designs for Love</title>
+                    <meta name="description" content="Discover stunning "I love you" backgrounds to express your heartfelt emotions. Explore unique designs that enhance your love messages and celebrations. Perfect for couples, gifts, or personal use. Find the ideal backdrop to convey your feelings in style!">
+                    <meta name="keywords" content="i love you background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/i-love-you-background">
+                            <span itemprop="name">i love you background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Love You Backgrounds: Perfect Designs for Love</h1>
+                <p>When it comes to expressing your feelings, a "I love you" background can enhance the sentiment. Whether it’s for a romantic gesture, a heartfelt message, or simply to celebrate love, choosing the right imagery and color palette is key. Soft hues, intertwined hearts, or serene landscapes can create the perfect atmosphere to convey your emotions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You Background Images – Browse 15,517,862 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/34/52/39/360_F_234523923_zTp6zAnVNxrp3HX0aYrJmNkJElkZCSJ1.jpg' alt='I Love You Background Images – Browse 15,517,862 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/34/52/39/360_F_234523923_zTp6zAnVNxrp3HX0aYrJmNkJElkZCSJ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-valentine-pattern-background-with-pink-heart-words-i-love-you_3119-885.jpg' alt='I Love You Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-valentine-pattern-background-with-pink-heart-words-i-love-you_3119-885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day I Love You Background​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/12920' alt='Valentine's Day I Love You Background​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/12920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'I Love You' Wallpaper by Sugar Paper - White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Iloveyou_white_for_web_4a81d669-b3ce-4a97-805c-73d6847313cc.jpg?v=1615485084' alt=''I Love You' Wallpaper by Sugar Paper - White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Iloveyou_white_for_web_4a81d669-b3ce-4a97-805c-73d6847313cc.jpg?v=1615485084' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love you background with hearts Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/83/99/i-love-you-background-with-hearts-vector-21378399.jpg' alt='I love you background with hearts Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/83/99/i-love-you-background-with-hearts-vector-21378399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Love You On Red Background Stock Illustration 1011237574 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1011237574/display_1500/stock-photo-heart-and-i-love-you-on-a-red-background-romantic-illustration-for-wallpaper-packaging-1011237574.jpg' alt='Heart Love You On Red Background Stock Illustration 1011237574 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1011237574/display_1500/stock-photo-heart-and-i-love-you-on-a-red-background-romantic-illustration-for-wallpaper-packaging-1011237574.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You Background Images – Browse 15,517,862 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/08/53/07/360_F_408530777_X4aBKSOBIEAikJrwEKp9PQEFJh1lflb3.jpg' alt='I Love You Background Images – Browse 15,517,862 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/08/53/07/360_F_408530777_X4aBKSOBIEAikJrwEKp9PQEFJh1lflb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Heart You Backgrounds Images & Pictures | Free Download On Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-creative-vector-card-concept-i-love-you-lettering-with-red-heart-image_533295.jpg' alt='I Heart You Backgrounds Images & Pictures | Free Download On Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-creative-vector-card-concept-i-love-you-lettering-with-red-heart-image_533295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,300+ I Love You Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1213662917/vector/handwritten-lettering-of-i-love-you-with-hand-drawn-hearts-on-white-background.jpg?s=612x612&w=0&k=20&c=LlV5nkF4w8XZ938llX6e21VL1gC0I3uzIE4HP_B74_g=' alt='60,300+ I Love You Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1213662917/vector/handwritten-lettering-of-i-love-you-with-hand-drawn-hearts-on-white-background.jpg?s=612x612&w=0&k=20&c=LlV5nkF4w8XZ938llX6e21VL1gC0I3uzIE4HP_B74_g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/valentine-s-day-background-design_1142-563.jpg' alt='I Love You Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/valentine-s-day-background-design_1142-563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

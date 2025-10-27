@@ -1,0 +1,129 @@
+<title>Protect Your Child with Prevnar: Essential Vaccine for Pneumonia</title>
+                    <meta name="description" content="Discover the importance of Prevnar, a crucial vaccine in childhood preventative care, protecting against harmful S. pneumoniae infections. Ensure your child's health and well-being with timely vaccinations.">
+                    <meta name="keywords" content="prevnar is a vaccine against s. pneumoniae and is part of recommended childhood preventative care.">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prevnar-is-a-vaccine-against-s-pneumoniae-and-is-part-of-recommended-childhood-preventative-care">
+                            <span itemprop="name">prevnar is a vaccine against s. pneumoniae and is part of recommended childhood preventative care.</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Protect Your Child with Prevnar: Essential Vaccine for Pneumonia</h1>
+                <p>Prevnar is a vital vaccine that protects children against Streptococcus pneumoniae, a bacterium responsible for pneumonia and other severe infections. As part of recommended preventative care, it helps safeguard young immune systems, ensuring better health and fewer complications. Vaccination contributes significantly to children's well-being.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HealthMatch - Discover The Pneumonia Vaccine: Prevnar 20">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/ld5gan8tjh6b/5e9QNlsPKAJWomDABGiefL/b023c65f4abec1a6b7aa0e92ede0c53b/What_does_Prevnar_20_protect_against' alt='HealthMatch - Discover The Pneumonia Vaccine: Prevnar 20'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HealthMatch" />
+                                </span>
+                                <a href='https://images.ctfassets.net/ld5gan8tjh6b/5e9QNlsPKAJWomDABGiefL/b023c65f4abec1a6b7aa0e92ede0c53b/What_does_Prevnar_20_protect_against' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pneumococcal Vaccines Update for 2023">
+                                <img itemprop="contentUrl url" src='https://www.uspharmacist.com/CMSImagesContent/2023/07/_PneumococcalVac-F1.gif' alt='Pneumococcal Vaccines Update for 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Pharmacist" />
+                                </span>
+                                <a href='https://www.uspharmacist.com/CMSImagesContent/2023/07/_PneumococcalVac-F1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Information About Pneumonia | Voices For Vaccines">
+                                <img itemprop="contentUrl url" src='https://www.voicesforvaccines.org/content/uploads/2021/10/Screen-Shot-2021-10-03-at-3.32.07-PM.png' alt='Information About Pneumonia | Voices For Vaccines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voices For Vaccines" />
+                                </span>
+                                <a href='https://www.voicesforvaccines.org/content/uploads/2021/10/Screen-Shot-2021-10-03-at-3.32.07-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prevnar: Package Insert / Prescribing Information">
+                                <img itemprop="contentUrl url" src='https://www.drugs.com/pro/images/7abf4185-109d-4e3c-5da7-0b0658921637/uk24446-3-1-3-prevnar-carton.jpg' alt='Prevnar: Package Insert / Prescribing Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drugs.com" />
+                                </span>
+                                <a href='https://www.drugs.com/pro/images/7abf4185-109d-4e3c-5da7-0b0658921637/uk24446-3-1-3-prevnar-carton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pneumococcal conjugate vaccine - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Prevenar_13.jpg/640px-Prevenar_13.jpg' alt='Pneumococcal conjugate vaccine - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Prevenar_13.jpg/640px-Prevenar_13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intranasal Vaccine Delivery Technology for Respiratory Tract ...">
+                                <img itemprop="contentUrl url" src='https://www.mdpi.com/vaccines/vaccines-09-00589/article_deploy/html/images/vaccines-09-00589-g001.png' alt='Intranasal Vaccine Delivery Technology for Respiratory Tract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2590">
+                                <meta itemprop="height" content="1892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://www.mdpi.com/vaccines/vaccines-09-00589/article_deploy/html/images/vaccines-09-00589-g001.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Use of 15-Valent Pneumococcal Conjugate Vaccine Among U.S. ...">
+                                <img itemprop="contentUrl url" src='https://www.cdc.gov/mmwr/volumes/71/wr/social-media/mm7137a3_PneumococcalConjugateVax_IMAGE_16Sep22_1200x675-medium.jpg?_=62521' alt='Use of 15-Valent Pneumococcal Conjugate Vaccine Among U.S. ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDC" />
+                                </span>
+                                <a href='https://www.cdc.gov/mmwr/volumes/71/wr/social-media/mm7137a3_PneumococcalConjugateVax_IMAGE_16Sep22_1200x675-medium.jpg?_=62521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pneumonia Vaccine for Seniors: Protecting Your Health and ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tR1sU1x5jR0/maxresdefault.jpg' alt='The Pneumonia Vaccine for Seniors: Protecting Your Health and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skippack Pharmacy" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tR1sU1x5jR0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Pneumococcal Vaccines: Important Facts to Know - VaxCare">
+                                <img itemprop="contentUrl url" src='https://www.vaxcare.com/wp-content/uploads/2022/01/2022_0126_Pneumo.jpg' alt='New Pneumococcal Vaccines: Important Facts to Know - VaxCare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VaxCare" />
+                                </span>
+                                <a href='https://www.vaxcare.com/wp-content/uploads/2022/01/2022_0126_Pneumo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QUESTION: What and when to get a pneumonia shot for 65 and older ...">
+                                <img itemprop="contentUrl url" src='https://www.kelley-ross.com/wp-content/uploads/Screen-Shot-2016-11-04-at-10.29.49-AM-1.png' alt='QUESTION: What and when to get a pneumonia shot for 65 and older ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelley-Ross Pharmacy Group" />
+                                </span>
+                                <a href='https://www.kelley-ross.com/wp-content/uploads/Screen-Shot-2016-11-04-at-10.29.49-AM-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

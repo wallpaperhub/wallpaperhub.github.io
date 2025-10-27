@@ -1,0 +1,129 @@
+<title>Stunning Minecraft Sky Backgrounds: Explore Endless Possibilities</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="minecraft sky background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-sky-background">
+                            <span itemprop="name">minecraft sky background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Minecraft Sky Backgrounds: Explore Endless Possibilities</h1>
+                <p>Experience the breathtaking beauty of Minecraft's sky background, where vibrant colors paint the horizon at sunrise and sunset. Discover the endless possibilities of creating stunning landscapes and unique structures under the changing skies. Let your imagination soar as you explore this pixelated paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Sky Background in Illustrator, EPS, SVG, JPG, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/104024/free-minecraft-sky-background-4qmjm.png' alt='Minecraft Sky Background in Illustrator, EPS, SVG, JPG, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/104024/free-minecraft-sky-background-4qmjm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/fe/ee/8cfeeeb2e890e7cd6a8fd2e2cfb01d37.jpg' alt='Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/fe/ee/8cfeeeb2e890e7cd6a8fd2e2cfb01d37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel minecraft style land background. Concept of game ground ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2EX9E84/pixel-minecraft-style-land-background-concept-of-game-ground-pixelated-horizontal-background-with-blue-sky-sun-cloud-vector-illustration-2EX9E84.jpg' alt='Pixel minecraft style land background. Concept of game ground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2EX9E84/pixel-minecraft-style-land-background-concept-of-game-ground-pixelated-horizontal-background-with-blue-sky-sun-cloud-vector-illustration-2EX9E84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="minecraft">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/be/14/97be14ab1d3e56bf35ccd738ed6aa7c0.jpg' alt='minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/be/14/97be14ab1d3e56bf35ccd738ed6aa7c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Sky Wallpaper by Zeminio on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01959082-cb72-4c7e-8da9-fe78734c937b/d69p77p-cbd5511e-8a99-4757-a066-8ad01a3d9415.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxOTU5MDgyLWNiNzItNGM3ZS04ZGE5LWZlNzg3MzRjOTM3YlwvZDY5cDc3cC1jYmQ1NTExZS04YTk5LTQ3NTctYTA2Ni04YWQwMWEzZDk0MTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vKWCI_yNg0fp-WkHI3CYO_4VNRN02WKXw8XnsSQMNYE' alt='Minecraft Sky Wallpaper by Zeminio on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01959082-cb72-4c7e-8da9-fe78734c937b/d69p77p-cbd5511e-8a99-4757-a066-8ad01a3d9415.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxOTU5MDgyLWNiNzItNGM3ZS04ZGE5LWZlNzg3MzRjOTM3YlwvZDY5cDc3cC1jYmQ1NTExZS04YTk5LTQ3NTctYTA2Ni04YWQwMWEzZDk0MTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vKWCI_yNg0fp-WkHI3CYO_4VNRN02WKXw8XnsSQMNYE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minecraft, Sky, Nature. Royalty-Free Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2023/02/01/20/38/minecraft-7761269_1280.png' alt='Download Minecraft, Sky, Nature. Royalty-Free Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2023/02/01/20/38/minecraft-7761269_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="596 Minecraft Sky Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-landscape-sunset-over-sea-260nw-2094751003.jpg' alt='596 Minecraft Sky Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-landscape-sunset-over-sea-260nw-2094751003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why does my sky look like this? : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-does-my-sky-look-like-this-v0-z9j9den5h06d1.png?width=1920&format=png&auto=webp&s=f14d5c10307a2a8686a3a8fdf42393ecd94dfc19' alt='Why does my sky look like this? : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-does-my-sky-look-like-this-v0-z9j9den5h06d1.png?width=1920&format=png&auto=webp&s=f14d5c10307a2a8686a3a8fdf42393ecd94dfc19' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="596 Minecraft Sky Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/eightbit-blue-sky-background-white-260nw-2062919579.jpg' alt='596 Minecraft Sky Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/eightbit-blue-sky-background-white-260nw-2062919579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic sky - recolors Minecraft Texture Pack">
+                                <img itemprop="contentUrl url" src='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2024/313/17825459_xl.webp' alt='Aesthetic sky - recolors Minecraft Texture Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Minecraft" />
+                                </span>
+                                <a href='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2024/313/17825459_xl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

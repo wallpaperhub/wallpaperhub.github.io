@@ -1,0 +1,129 @@
+<title>How to Set a Picture as PowerPoint Background</title>
+                    <meta name="description" content="Learn how to easily set a picture as the background in your PowerPoint slides. This simple guide walks you through the steps to customize your presentations and enhance visual appeal with stunning backgrounds!">
+                    <meta name="keywords" content="how to make a picture the background on powerpoint">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-make-a-picture-the-background-on-powerpoint">
+                            <span itemprop="name">how to make a picture the background on powerpoint</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Set a Picture as PowerPoint Background</h1>
+                <p>To set a picture as the background in PowerPoint, start by opening your presentation and selecting the slide you want to edit. Right-click on the slide and choose "Format Background". Then, select "Picture or texture fill", and click "Insert" to locate your picture. Finally, apply your changes and enjoy your custom background!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To... Use Your Own Photos as a Slide Background in PowerPoint ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NXunNp5TRQ0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLByThLImisQnJE5TU7lf4vsT95dNg' alt='How To... Use Your Own Photos as a Slide Background in PowerPoint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NXunNp5TRQ0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CIAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLByThLImisQnJE5TU7lf4vsT95dNg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Picture as a Background in PowerPoint">
+                                <img itemprop="contentUrl url" src='https://images.wondershare.com/pdfelement/powerpoint/set-background-in-ppt-02.jpg' alt='How to Make a Picture as a Background in PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare PDFelement" />
+                                </span>
+                                <a href='https://images.wondershare.com/pdfelement/powerpoint/set-background-in-ppt-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 ways to create slide backgrounds in PowerPoint | BrightCarbon">
+                                <img itemprop="contentUrl url" src='https://www.brightcarbon.com/wp/wp-content/uploads/2023/03/Screenshots-Slide-10-scaled-e1679909898976.jpg' alt='3 ways to create slide backgrounds in PowerPoint | BrightCarbon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrightCarbon" />
+                                </span>
+                                <a href='https://www.brightcarbon.com/wp/wp-content/uploads/2023/03/Screenshots-Slide-10-scaled-e1679909898976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Insert the PowerPoint 2010 Background Image">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iOByQJRG-aU/maxresdefault.jpg' alt='How to Insert the PowerPoint 2010 Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iOByQJRG-aU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Background Picture to PowerPoint Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/nagKAvPD3vm417syzeXeG3xaUc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Capture-5c045bb3c9e77c0001846996.JPG' alt='How to Add a Background Picture to PowerPoint Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/nagKAvPD3vm417syzeXeG3xaUc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Capture-5c045bb3c9e77c0001846996.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Picture the Background in PowerPoint: Step-by-Step Guide">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/how-to-make-a-picture-the-background-in-powerpoint-step-by-step-guide-cover.png' alt='How to Make a Picture the Background in PowerPoint: Step-by-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/how-to-make-a-picture-the-background-in-powerpoint-step-by-step-guide-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Edit Background Graphics in PowerPoint">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/08-powerpoint-designer-edit-background-graphics-in-powerpoint.png' alt='How to Edit Background Graphics in PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/08-powerpoint-designer-edit-background-graphics-in-powerpoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Background Picture to PowerPoint Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/zpEBVijyz8l8uz69SnwZk5BFMNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Capture-5c045b0146e0fb0001b88e64.JPG' alt='How to Add a Background Picture to PowerPoint Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/zpEBVijyz8l8uz69SnwZk5BFMNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Capture-5c045b0146e0fb0001b88e64.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 ways to create slide backgrounds in PowerPoint | BrightCarbon">
+                                <img itemprop="contentUrl url" src='https://www.brightcarbon.com/wp/wp-content/uploads/2023/03/Screenshots-Slide-2-scaled-e1679909230725.jpg' alt='3 ways to create slide backgrounds in PowerPoint | BrightCarbon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrightCarbon" />
+                                </span>
+                                <a href='https://www.brightcarbon.com/wp/wp-content/uploads/2023/03/Screenshots-Slide-2-scaled-e1679909230725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a PowerPoint Template using a JPG Image Background">
+                                <img itemprop="contentUrl url" src='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/08/finance-powerpoint-template-custom.jpg' alt='How to Create a PowerPoint Template using a JPG Image Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PowerPoint Templates" />
+                                </span>
+                                <a href='https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2013/08/finance-powerpoint-template-custom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

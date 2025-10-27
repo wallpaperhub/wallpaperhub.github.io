@@ -1,0 +1,129 @@
+<title>Quick Guide to Felony Record Searches</title>
+                    <meta name="description" content="Discover how to perform a felony record search effectively. Learn the importance of checking criminal histories for job applications, housing, and legal matters. Get access to reliable resources to make informed decisions while ensuring compliance with legal regulations.">
+                    <meta name="keywords" content="felony record search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/felony-record-search">
+                            <span itemprop="name">felony record search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Quick Guide to Felony Record Searches</h1>
+                <p>A felony record search allows individuals to check for criminal histories, often required for employment, housing, or legal reasons. Access to these records can help inform decisions by revealing past convictions. It's crucial to conduct a thorough search to ensure compliance with regulations and protect oneself from potential liabilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Court Search – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/countycriminal.jpg' alt='County Court Search – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1998">
+                                <meta itemprop="height" content="1852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/countycriminal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to View and Search for Public Records: Free & Online">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/b/bb/Do-Free-Public-Records-Searches-Online-Step-25-Version-3.jpg' alt='How to View and Search for Public Records: Free & Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/b/bb/Do-Free-Public-Records-Searches-Online-Step-25-Version-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Criminal Records Search - Accurate Public Records">
+                                <img itemprop="contentUrl url" src='https://accuratepublicrecords.com/wp-content/uploads/2021/08/County-Criminal-Records-Search.png' alt='County Criminal Records Search - Accurate Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Public Records" />
+                                </span>
+                                <a href='https://accuratepublicrecords.com/wp-content/uploads/2021/08/County-Criminal-Records-Search.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips on How to Get a Criminal Record Check for Employment">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/how-to-check-criminal-record-02.png' alt='Tips on How to Get a Criminal Record Check for Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/how-to-check-criminal-record-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comprehensive Background Check Services | Secure Your Peace of ...">
+                                <img itemprop="contentUrl url" src='https://chcked.com/build/images/report-samples/countyCHCKEDsample.png' alt='Comprehensive Background Check Services | Secure Your Peace of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comprehensive Background Check Services | Secure Your Peace of ..." />
+                                </span>
+                                <a href='https://chcked.com/build/images/report-samples/countyCHCKEDsample.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Check if You Have a Criminal Record | Immigrant Legal ...">
+                                <img itemprop="contentUrl url" src='https://www.ilrc.org/sites/default/files/styles/scaled_350/public/images/pdf-thumbs/screen_shot_2019-11-26_at_4.00.05_pm.png?itok=umuBWfI5' alt='How to Check if You Have a Criminal Record | Immigrant Legal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Immigrant Legal Resource Center" />
+                                </span>
+                                <a href='https://www.ilrc.org/sites/default/files/styles/scaled_350/public/images/pdf-thumbs/screen_shot_2019-11-26_at_4.00.05_pm.png?itok=umuBWfI5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Criminal Record Checks for Employers - Accurate">
+                                <img itemprop="contentUrl url" src='https://www.accurate.com/wp-content/uploads/2023/09/blog_featured_criminal-history-checks.jpg' alt='Understanding Criminal Record Checks for Employers - Accurate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Background" />
+                                </span>
+                                <a href='https://www.accurate.com/wp-content/uploads/2023/09/blog_featured_criminal-history-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Public Criminal Records">
+                                <img itemprop="contentUrl url" src='https://texas-public-criminal-records.govbackgroundchecks.com/screenshots/texas-public-criminal-records/5.jpg' alt='Texas Public Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://texas-public-criminal-records.govbackgroundchecks.com/screenshots/texas-public-criminal-records/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Online Can do FREE Criminal Background Record Check Search Someone  (Felony Crime DUI Drug 2017">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MvXriuGNB0o/sddefault.jpg' alt='Where Online Can do FREE Criminal Background Record Check Search Someone  (Felony Crime DUI Drug 2017'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MvXriuGNB0o/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

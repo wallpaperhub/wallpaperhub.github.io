@@ -1,0 +1,129 @@
+<title>Stunning Friends Apartment Photos That Capture Life and Style</title>
+                    <meta name="description" content="Explore captivating friends apartment photos showcasing vibrant decor and cherished memories. Discover inspiration for your living space and get a glimpse into the unique styles of shared homes. Perfect for decorating ideas and a boost of creativity!">
+                    <meta name="keywords" content="friends apartment photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/friends-apartment-photos">
+                            <span itemprop="name">friends apartment photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Friends Apartment Photos That Capture Life and Style</h1>
+                <p>Friends apartment photos capture the essence of shared moments and unique styles. Whether it's a cozy living room, a colorful kitchen, or an inviting balcony, these images reflect the personality of the inhabitants. Showcasing decor ideas, favorite spots, and group gatherings, they create memories and inspire home transformations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See the 'Friends' apartment updated for 2018">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_19/1337916/monicas-apartment-today-tease-180509.jpg' alt='See the 'Friends' apartment updated for 2018'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_19/1337916/monicas-apartment-today-tease-180509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Revealing Reasons That People Visit the “Friends” Building ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5d25148f65e1ee0009b29f2c/master/w_1600%2Cc_limit/Schulman-FriendsApartment-2.jpg' alt='The Revealing Reasons That People Visit the “Friends” Building ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5d25148f65e1ee0009b29f2c/master/w_1600%2Cc_limit/Schulman-FriendsApartment-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1st look at ‘Friends’ reunion">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/friends-1-ht-er-210517_1621275682856_hpMain_4x3_992.jpg?w=384' alt='1st look at ‘Friends’ reunion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Morning America" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/friends-1-ht-er-210517_1621275682856_hpMain_4x3_992.jpg?w=384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends Apartment Experience Sleepover in NYC | Apartment Therapy">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fnews-culture%2F2021-05%2FTFE_Rooms_113' alt='Friends Apartment Experience Sleepover in NYC | Apartment Therapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fnews-culture%2F2021-05%2FTFE_Rooms_113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends set decorator shares secrets of the show">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/EKtzGI4CY4kZ9T4mv-i2BjyfZSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1466781614-gettyimages-138422680-2000-8565e17ed5ab444fbf178f060b753c8d.jpg' alt='Friends set decorator shares secrets of the show'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/EKtzGI4CY4kZ9T4mv-i2BjyfZSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1466781614-gettyimages-138422680-2000-8565e17ed5ab444fbf178f060b753c8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Booking.com offers Monica and Rachel's 'Friends' apartment for ...">
+                                <img itemprop="contentUrl url" src='https://images.moneycontrol.com/static-mcnews/2021/05/pjimage-64.jpg?impolicy=website&width=1600&height=900' alt='Booking.com offers Monica and Rachel's 'Friends' apartment for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moneycontrol" />
+                                </span>
+                                <a href='https://images.moneycontrol.com/static-mcnews/2021/05/pjimage-64.jpg?impolicy=website&width=1600&height=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends' in NYC: How plausible were the Greenwich Village ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.6sqft.com/wp-content/uploads/2019/09/12101100/90-Bedford-Street-Friends-House.jpg?w=1560&format=webp' alt='Friends' in NYC: How plausible were the Greenwich Village ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="2080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="6sqft" />
+                                </span>
+                                <a href='https://thumbs.6sqft.com/wp-content/uploads/2019/09/12101100/90-Bedford-Street-Friends-House.jpg?w=1560&format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Can Book a Sleepover in Monica & Rachel's Friends Apartment ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/PERG6qD6hGBeGnzabuZf1rwaSvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(704x509:706x511)/friends-sleepover-1-4f77ad51a05f45d384b0c5fad78da683.jpg' alt='You Can Book a Sleepover in Monica & Rachel's Friends Apartment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/PERG6qD6hGBeGnzabuZf1rwaSvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(704x509:706x511)/friends-sleepover-1-4f77ad51a05f45d384b0c5fad78da683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floor plan for Chandler,Joey & Monica,Rachel Apartments in Friends ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hqO09ChEqywP8wl4D99rji5ZPXR8L2DYIz_ozytz4xc.jpg?auto=webp&s=56d52412713a2285019018bb7fd666ba700c99d0' alt='Floor plan for Chandler,Joey & Monica,Rachel Apartments in Friends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hqO09ChEqywP8wl4D99rji5ZPXR8L2DYIz_ozytz4xc.jpg?auto=webp&s=56d52412713a2285019018bb7fd666ba700c99d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends: 10 Hidden Details About Monica And Rachel's Apartment">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2019/11/Drapes-Cropped.jpg' alt='Friends: 10 Hidden Details About Monica And Rachel's Apartment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2019/11/Drapes-Cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,60 @@
+<title>Terms of Use</title>
+<meta name="description" content="Terms of Use">
+<meta name="keywords" content="Terms of Use">
+</head>
+<body>
+<?php include_once("././navbar.php"); ?>
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/">
+            <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page">
+            <span itemprop="name">Page</span></a>
+        <meta itemprop="position" content="2" />
+    </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="/page/terms-of-use">
+            <span itemprop="name">Terms of Use</span></a>
+        <meta itemprop="position" content="3" />
+    </li>
+</ul>
+<h1>Terms of Use</h1>
+<p>Welcome to Giasuglory.edu.vn. These Terms of Use govern your access to and use of this website. By accessing, browsing, or downloading content from Giasuglory.edu.vn, you accept and agree to be bound by the terms and conditions set forth herein. If you do not agree with these terms, you should not use this website.</p>
+<h2>Acceptance of Terms</h2>
+<p>Your use of Giasuglory.edu.vn constitutes your agreement to comply with and be legally bound by these Terms of Use. This agreement applies to all visitors, users, and others who access the website.</p>
+<h2>Use of Website and Content</h2>
+<p>Giasuglory.edu.vn provides free downloadable wallpapers intended for <b>personal, non-commercial use</b> only. You are granted a limited, non-exclusive, non-transferable license to access and use the content solely for personal purposes, in accordance with our License Policy.</p>
+<p>You agree not to:</p>
+<ul>
+    <li>Use the content for any commercial purpose without prior written permission</li>
+    <li>Modify, reproduce, distribute, or publicly display the content without authorization</li>
+    <li>Host the content on another website or platform</li>
+    <li>Circumvent, disable, or otherwise interfere with any security-related features of the website</li>
+    <li>Use the website in any manner that could harm, disable, or impair the website or its services</li>
+</ul>
+<h2>Intellectual Property</h2>
+<p>Unless otherwise stated, all content and materials on Giasuglory.edu.vn, including wallpapers, design, layout, logos, and text, are either the property of Giasuglory.edu.vn or used with permission. All intellectual property rights are reserved.</p>
+<p>You may not use, copy, or reproduce any materials from this website for commercial or public purposes without explicit written consent.</p>
+<h2>Disclaimer of Warranties</h2>
+<p>All content provided on Giasuglory.edu.vn is made available on an "as is" and "as available" basis. While reasonable efforts are made to ensure the accuracy and quality of the content, the website does not guarantee that all information or files are free from errors, inaccuracies, viruses, or other harmful components.</p>
+<p>Giasuglory.edu.vn expressly disclaims all warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
+<h2>Limitation of Liability</h2>
+<p>Under no circumstances shall Giasuglory.edu.vn, its administrators, or affiliates be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the website or its content, even if we have been advised of the possibility of such damages.</p>
+<p>This includes, but is not limited to, damages for loss of data, profits, or goodwill.</p>
+<h2>Links to Third-Party Websites</h2>
+<p>Giasuglory.edu.vn may contain links to external websites that are not controlled or maintained by us. We are not responsible for the content, accuracy, or practices of any third-party websites. Users access such sites at their own risk.</p>
+<h2>Termination</h2>
+<p>Giasuglory.edu.vn reserves the right to restrict or terminate access to the website or its content, without prior notice, for any user who violates these Terms of Use or engages in behavior deemed harmful to the website or its community.</p>
+<h2>Changes to Terms</h2>
+<p>We reserve the right to update or modify these Terms of Use at any time without prior notice. Any changes will be posted on this page with the updated effective date. Continued use of the website after such changes constitutes acceptance of the revised terms.</p>
+<h2>Governing Law</h2>
+<p>These Terms of Use shall be governed by and interpreted in accordance with the laws of the jurisdiction in which the website is operated, without regard to its conflict of law provisions.</p>
+<h2>Contact Information</h2>
+<p>For questions or concerns regarding these Terms of Use, please contact:</p>
+<p><b>Email:</b> <a href="mailto:legal@giasuglory.edu.vn" title="legal@giasuglory.edu.vn">legal@giasuglory.edu.vn</a></p>

@@ -1,0 +1,129 @@
+<title>Inspiring Lock Screen Bible Verse Black Wallpaper</title>
+                    <meta name="description" content="Discover beautiful lock screen Bible verse black wallpapers that uplift and inspire. Perfect for daily motivation, these wallpapers combine elegance with faith, creating a meaningful backdrop for your device. Download now and keep the word of God close at hand, right where you need it.">
+                    <meta name="keywords" content="lock screen bible verse black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-bible-verse-black-wallpaper">
+                            <span itemprop="name">lock screen bible verse black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Lock Screen Bible Verse Black Wallpaper</h1>
+                <p>Transform your device with a stunning lock screen Bible verse black wallpaper. This design not only enhances your phone's aesthetic but also serves as a daily source of inspiration and faith. With elegant typography and heartfelt scripture, your screen becomes a reminder of God's love and guidance throughout your day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scripture Lock Screens - Minimalist Black | Hosanna Revival">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/07/8c/5f078c49dd50d1ed40f6b9bf3a798fbb.jpg' alt='Scripture Lock Screens - Minimalist Black | Hosanna Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/07/8c/5f078c49dd50d1ed40f6b9bf3a798fbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible verse wallpaper black">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/51/b3/6751b3aa8db62db721d2a5e7ceeabd48.jpg' alt='Bible verse wallpaper black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/51/b3/6751b3aa8db62db721d2a5e7ceeabd48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 16:9, bible, jesus, bible verse, black, dark, god, water ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/468/450/HD-wallpaper-proverbs-16-9-bible-jesus-bible-verse-black-dark-god-water-ripple.jpg' alt='Proverbs 16:9, bible, jesus, bible verse, black, dark, god, water ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/468/450/HD-wallpaper-proverbs-16-9-bible-jesus-bible-verse-black-dark-god-water-ripple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philippians 4:13 Wallpaper for Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7377990495542185262&location=0&aid=1988' alt='Philippians 4:13 Wallpaper for Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7377990495542185262&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Wallpaper | Black and White">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/6e/65/216e658f2d0d6468fa9ba9fc6462bf52.jpg' alt='Bible Verse Wallpaper | Black and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/6e/65/216e658f2d0d6468fa9ba9fc6462bf52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bible lockscreen Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2022/01/Be-holy-in-all-you-do.jpg' alt='bible lockscreen Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2022/01/Be-holy-in-all-you-do.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty, quotes, code, lock, bible, white, programming, sayings ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1018/804/HD-wallpaper-beauty-quotes-code-lock-bible-white-programming-sayings-jesus-wars-verses.jpg' alt='Beauty, quotes, code, lock, bible, white, programming, sayings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1018/804/HD-wallpaper-beauty-quotes-code-lock-bible-white-programming-sayings-jesus-wars-verses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cornerstone Baptist Church of Hannibal">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a1311726f4ca32e9aa53d04/1624205355351-GPE7NZOMD82UIA4A5XFC/IMG_7752.png' alt='Cornerstone Baptist Church of Hannibal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cornerstone Baptist Church of Hannibal" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a1311726f4ca32e9aa53d04/1624205355351-GPE7NZOMD82UIA4A5XFC/IMG_7752.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @ELLIE   there u go! #christian #wallpaper #bibleverses #love  #jesuslovesyou">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7158130039400189190&location=0&aid=1988' alt='Replying to @ELLIE   there u go! #christian #wallpaper #bibleverses #love  #jesuslovesyou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7158130039400189190&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Bible Verse Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/d2/f6/bdd2f6518a38521764921c6ed838b565.jpg' alt='Trendy Bible Verse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/d2/f6/bdd2f6518a38521764921c6ed838b565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

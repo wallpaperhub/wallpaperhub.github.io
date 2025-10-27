@@ -1,0 +1,129 @@
+<title>Epic Star Wars Wallpapers for Your Chromebook</title>
+                    <meta name="description" content="Discover the best Star Wars wallpapers for your Chromebook! From iconic characters to epic scenes, personalize your device with our curated collection. Perfect for any fan, these stunning images will transform your screen and showcase your love for the galaxy far, far away. Download now!">
+                    <meta name="keywords" content="star wars wallpaper chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/star-wars-wallpaper-chromebook">
+                            <span itemprop="name">star wars wallpaper chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Wallpapers for Your Chromebook</h1>
+                <p>Transform your Chromebook with stunning Star Wars wallpapers that bring your favorite characters and scenes to life. Whether you prefer epic battles or iconic quotes, our selection of high-quality images will personalize your device. Explore different themes and download your favorites for an out-of-this-world experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/star-wars-chromebook-wallpaper.jpg' alt='Star Wars Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/star-wars-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Darth Vader Wallpaper For Chromebook | Chromebook ...">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/star-wars-darth-vader-1920x1080.jpg' alt='Star Wars: Darth Vader Wallpaper For Chromebook | Chromebook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/star-wars-darth-vader-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/g-OgtUCQrg2azX27EvO16LrCp8s4E3JDaivg0RakHMhfEs6zV6z6WAkeESJvIQwWXfJhyCIrhnAosyygmgW7rJxzAdc=s1280-w1280-h800' alt='Star Wars Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/g-OgtUCQrg2azX27EvO16LrCp8s4E3JDaivg0RakHMhfEs6zV6z6WAkeESJvIQwWXfJhyCIrhnAosyygmgW7rJxzAdc=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Chromebook Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-wars-chromebook-background-zhsnql3tgpzxpbxz.jpg' alt='Star Wars Chromebook Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-wars-chromebook-background-zhsnql3tgpzxpbxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Sith Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/star-wars-sith-1920x1080.jpg' alt='Star Wars Sith Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/star-wars-sith-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/Qk41VMqaAtbanP0zAnFvjJSTjHDpN9TdlP6lpT9IlX5VBQt_OK6lgxz-3NjV33kTgyokWv1qyi_h6OZDcS3pV0tq=s1280-w1280-h800' alt='Star Wars - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/Qk41VMqaAtbanP0zAnFvjJSTjHDpN9TdlP6lpT9IlX5VBQt_OK6lgxz-3NjV33kTgyokWv1qyi_h6OZDcS3pV0tq=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody know who made this wallpaper? I like it a lot : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shknbk0x3ks31.jpg' alt='Anybody know who made this wallpaper? I like it a lot : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shknbk0x3ks31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Star Wars Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-background-vdgqv4b95q9ur6ak.jpg' alt='500+] Star Wars Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-background-vdgqv4b95q9ur6ak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars 2560x1700 Resolution Wallpapers Chromebook Pixel">
+                                <img itemprop="contentUrl url" src='https://images.hdqwalls.com/wallpapers/thumb/dark-side-h1.jpg' alt='Star Wars 2560x1700 Resolution Wallpapers Chromebook Pixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hdqwalls" />
+                                </span>
+                                <a href='https://images.hdqwalls.com/wallpapers/thumb/dark-side-h1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahsoka (Star Wars) Wallpaper 4K, Poster, TV series, 2023 Series">
+                                <img itemprop="contentUrl url" src='http://4kwallpapers.com/images/walls/thumbs_2t/12874.jpg' alt='Ahsoka (Star Wars) Wallpaper 4K, Poster, TV series, 2023 Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='http://4kwallpapers.com/images/walls/thumbs_2t/12874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

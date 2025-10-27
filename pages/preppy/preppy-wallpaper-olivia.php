@@ -1,0 +1,129 @@
+<title>Chic Preppy Wallpaper Inspired by Olivia</title>
+                    <meta name="description" content="Discover stylish preppy wallpaper inspired by Olivia's iconic aesthetic. Perfect for adding charm and elegance to your home, these designs enhance any room with vibrant patterns. Elevate your decor effortlessly with our chic wallpaper selections tailored for a refined ambiance.">
+                    <meta name="keywords" content="preppy wallpaper olivia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-olivia">
+                            <span itemprop="name">preppy wallpaper olivia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Wallpaper Inspired by Olivia</h1>
+                <p>Transform your space with preppy wallpaper inspired by Olivia's chic style. Perfect for adding a touch of sophistication and personality to any room, these wallpapers feature vibrant patterns and classic designs. Create an inviting and stylish atmosphere that reflects your refined taste with Olivia's preppy wallpaper collections.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone olivia name wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/d1/6d/6ad16d3a345bfbce495ea88254e7e435.jpg' alt='iphone olivia name wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/d1/6d/6ad16d3a345bfbce495ea88254e7e435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper (Olivia)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/ae/2a/88ae2ad873fb894056e4e35209ba1495.jpg' alt='Preppy wallpaper (Olivia)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/ae/2a/88ae2ad873fb894056e4e35209ba1495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olivia Images – Browse 1,606 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/19/58/28/360_F_619582894_ScGLp4h53OhseCAOL0pkUWyD00TBr5VV.jpg' alt='Olivia Images – Browse 1,606 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/19/58/28/360_F_619582894_ScGLp4h53OhseCAOL0pkUWyD00TBr5VV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""OLIVIA name" Sticker for Sale by Julia Santos">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3181795870.9757/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"OLIVIA name" Sticker for Sale by Julia Santos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3181795870.9757/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olivia Images – Browse 1,606 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/56/78/73/360_F_356787309_VnGm1oiHBqWay8siRMl889xSSsKFzHPK.jpg' alt='Olivia Images – Browse 1,606 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/56/78/73/360_F_356787309_VnGm1oiHBqWay8siRMl889xSSsKFzHPK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="olivia name sticker | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1430408337.0140/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='olivia name sticker | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1430408337.0140/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out addi2832's Shuffles Since y'all loved the other Olivia ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/63/12/3c/63123cb49ae4b9013589dae65f2b3a8c.jpg' alt='Check out addi2832's Shuffles Since y'all loved the other Olivia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/63/12/3c/63123cb49ae4b9013589dae65f2b3a8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What name should I do next #fyp #oliva #wallpaper @livbedumb | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6976044136843529478&location=0&aid=1988' alt='What name should I do next #fyp #oliva #wallpaper @livbedumb | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6976044136843529478&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Olivia! Stitch wallpapers are so popular!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/a7/63/41a76323be3585dfc4ed65ef3a4d4941.jpg' alt='Wallpaper for Olivia! Stitch wallpapers are so popular!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/a7/63/41a76323be3585dfc4ed65ef3a4d4941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olivia rodrigo ♡♡♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/bc/d0/06bcd0ae54ef28394bf600b41521b00b.jpg' alt='Olivia rodrigo ♡♡♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/bc/d0/06bcd0ae54ef28394bf600b41521b00b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

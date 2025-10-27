@@ -1,0 +1,129 @@
+<title>Stylish Among Us Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover vibrant Among Us lock screen wallpapers to personalize your device. Choose from dynamic designs featuring crewmates and impostors. Perfect for fans, these wallpapers offer a fun way to express your love for the game while keeping your phone stylish and unique!">
+                    <meta name="keywords" content="among us lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/among-us-lock-screen-wallpaper">
+                            <span itemprop="name">among us lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Among Us Lock Screen Wallpapers for Your Phone</h1>
+                <p>Enhance your device with an ‘Among Us’ lock screen wallpaper! Featuring vibrant colors and iconic characters, these wallpapers bring the fun and mystery of the game to your phone. Choose your favorite crewmate or impostor design to showcase your love for ‘Among Us’. Make looking at your screen a joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AmongLock: AmongUs Lock Screen - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/EIo3dEezmAtLNfj9TUp5P3bW7VwmyDbV9uTQauXx5AEp5oxkLWprRJadWkU6KbI0fg=w526-h296-rw' alt='AmongLock: AmongUs Lock Screen - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/EIo3dEezmAtLNfj9TUp5P3bW7VwmyDbV9uTQauXx5AEp5oxkLWprRJadWkU6KbI0fg=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us! | Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/13/51/19135136bb6f927b6bbce6e22f943431.jpg' alt='Among Us! | Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/13/51/19135136bb6f927b6bbce6e22f943431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper By Ern3st - E7 - Free On Zedge™ AC">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/45/f2/6a45f24b8e6c2a4cceea20596a092902.jpg' alt='Among Us Wallpaper By Ern3st - E7 - Free On Zedge™ AC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/45/f2/6a45f24b8e6c2a4cceea20596a092902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AmongLock Among Us Lock Screen - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/kuP1PsRUB0UIq379uIH_MzQItKcMz6fgkdGYMcpZ1bOIU2h6ghWbMEUw7hAgK07fVMye' alt='AmongLock Among Us Lock Screen - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/kuP1PsRUB0UIq379uIH_MzQItKcMz6fgkdGYMcpZ1bOIU2h6ghWbMEUw7hAgK07fVMye' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this Among us lock screen wallpaper, I hope you guys like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vgu793fa6yr51.jpg?auto=webp&s=2812d76dace1473db606371725dd2c0260126df2' alt='I made this Among us lock screen wallpaper, I hope you guys like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vgu793fa6yr51.jpg?auto=webp&s=2812d76dace1473db606371725dd2c0260126df2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Among Us Galaxy Lock Screen Sus Portrait Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/among-us-galaxy-mfrdqqcqyukriw21.jpg' alt='Download Among Us Galaxy Lock Screen Sus Portrait Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/among-us-galaxy-mfrdqqcqyukriw21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper wallpaper by Jxsnxx - Download on ZEDGE™ | 0f96">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/93/f3/4e/93f34e4094b5492a236684f78d83d4bc.jpg' alt='Among Us Wallpaper wallpaper by Jxsnxx - Download on ZEDGE™ | 0f96'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/93/f3/4e/93f34e4094b5492a236684f78d83d4bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Among Us, among us, cyan, sus, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/428/116/HD-wallpaper-lock-screen-among-us-among-us-cyan-sus.jpg' alt='Lock Screen Among Us, among us, cyan, sus, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/428/116/HD-wallpaper-lock-screen-among-us-among-us-cyan-sus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AmongLock Among Us Lock Screen - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/UWEGNrMGechZCTOAYXbh_8qfw8A8PlCvuSELC5MqIjf-POil7fF3eDEX0YtsFUQiIyk=w526-h296-rw' alt='AmongLock Among Us Lock Screen - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/UWEGNrMGechZCTOAYXbh_8qfw8A8PlCvuSELC5MqIjf-POil7fF3eDEX0YtsFUQiIyk=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among us | wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/7f/2e/347f2e9431a902b74b361d36197f9789.jpg' alt='Among us | wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/7f/2e/347f2e9431a902b74b361d36197f9789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

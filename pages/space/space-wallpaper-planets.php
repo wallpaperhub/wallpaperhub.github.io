@@ -1,0 +1,129 @@
+<title>Stunning Space Wallpaper: Embrace Cosmic Beauty</title>
+                    <meta name="description" content="Discover breathtaking space wallpaper featuring enchanting planets. Transform your room into a celestial haven with our unique designs. Ideal for all spaces, these wallpapers are perfect for inspiring creativity and adventure. Explore our collection now and elevate your interior style!">
+                    <meta name="keywords" content="space wallpaper planets">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-wallpaper-planets">
+                            <span itemprop="name">space wallpaper planets</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Wallpaper: Embrace Cosmic Beauty</h1>
+                <p>Transform your space with stunning planet-themed wallpaper! From the vibrant hues of distant galaxies to detailed lunar landscapes, our collection brings the cosmos right to your walls. Perfect for bedrooms, offices, or any space that needs a touch of wonder. Explore the beauty of planets while creating an inspiring atmosphere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets in Space">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/56982/planets-in-space.jpg?h=699&q=85' alt='Planets in Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1011">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/56982/planets-in-space.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmos Space Wallpaper by Arthouse Solar System Planets Blue 668100">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/~gUAAOSwKfVXIjV8/s-l1200.jpg' alt='Cosmos Space Wallpaper by Arthouse Solar System Planets Blue 668100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/~gUAAOSwKfVXIjV8/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wall Mural, Planets, Space Photo Wallpaper Mural, Kids ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13371893/r/il/c892bb/1027374904/il_fullxfull.1027374904_m9kq.jpg' alt='Galaxy Wall Mural, Planets, Space Photo Wallpaper Mural, Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13371893/r/il/c892bb/1027374904/il_fullxfull.1027374904_m9kq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Wallpaper Galaxy Solar System Earth Space Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/c1b88c/3091850613/il_570xN.3091850613_rq4y.jpg' alt='Planet Wallpaper Galaxy Solar System Earth Space Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/c1b88c/3091850613/il_570xN.3091850613_rq4y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orbits Space Wallpaper | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/32QMHA7GgLX4LpXcieSo5R.jpg' alt='Orbits Space Wallpaper | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/32QMHA7GgLX4LpXcieSo5R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets Wallpaper 4K, Colorful Sky, Surreal, Stars">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/planets-colorful-1280x1280-10059.jpg' alt='Planets Wallpaper 4K, Colorful Sky, Surreal, Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/planets-colorful-1280x1280-10059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : FHZON 10x7ft Outer Space Photo Backdrop Solar System Planet  Rotation Cosmic Galaxy Photography Background Themed Party Wallpaper Video  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LzWkp0zDL.jpg' alt='Amazon.com : FHZON 10x7ft Outer Space Photo Backdrop Solar System Planet  Rotation Cosmic Galaxy Photography Background Themed Party Wallpaper Video  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LzWkp0zDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets in space space wallpaper iphone cartoon image in pink blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/ef/07/51ef07901f817199b7238ed0b695da7a.jpg' alt='Planets in space space wallpaper iphone cartoon image in pink blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/ef/07/51ef07901f817199b7238ed0b695da7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud Wall Murals buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/95000/95384/u97222pir10ms_1800.webp' alt='Cloud Wall Murals buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/95000/95384/u97222pir10ms_1800.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: universe and planet wallpaper, landscape, science ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/bf/a3/9fbfa33d37cb8fbf9e81b31b62331ba4.jpg' alt='HD wallpaper: universe and planet wallpaper, landscape, science ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/bf/a3/9fbfa33d37cb8fbf9e81b31b62331ba4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

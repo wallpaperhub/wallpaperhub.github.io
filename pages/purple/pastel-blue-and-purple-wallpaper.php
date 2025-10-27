@@ -1,0 +1,129 @@
+<title>Pastel Blue & Purple Wallpaper: A Dreamy Decor Choice</title>
+                    <meta name="description" content="Add a touch of tranquility to your home with pastel blue and purple wallpaper. Perfect for any room, this stylish design brings elegance and charm, creating a calming environment. Ideal for bedrooms or nurseries, elevate your living space with this beautiful wallpaper that inspires creativity and relaxation.">
+                    <meta name="keywords" content="pastel blue and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/pastel-blue-and-purple-wallpaper">
+                            <span itemprop="name">pastel blue and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Blue & Purple Wallpaper: A Dreamy Decor Choice</h1>
+                <p>Transform your space with pastel blue and purple wallpaper, bringing a serene and calming atmosphere to any room. This trendy color combination is perfect for adding a touch of elegance and whimsy, making it suitable for bedrooms, nurseries, or creative spaces. Elevate your decor and create a dreamy ambiance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | sl94-soft-pastel-purple-blue-blur ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-sl94-soft-pastel-purple-blue-blur-gradation-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | sl94-soft-pastel-purple-blue-blur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-sl94-soft-pastel-purple-blue-blur-gradation-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/e6/7c/61e67ca9dab4b42a55b441e99fff7bda.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/e6/7c/61e67ca9dab4b42a55b441e99fff7bda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple And Blue Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9053357.jpg' alt='Pastel Purple And Blue Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9053357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple blue pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/a1/1e/44a11ea94ad8a253ff9de5565c47cf4f.png' alt='Purple blue pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/a1/1e/44a11ea94ad8a253ff9de5565c47cf4f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902030.jpg?semt=ais_hybrid' alt='Pastel Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902030.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/105/ombre-purple-and-blue-wallpaper-1242x2208.jpg' alt='Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/105/ombre-purple-and-blue-wallpaper-1242x2208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract light steel blue, lavender blue and light pastel purple ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/92/52/49/1000_F_292524930_joyXZg6dAeVpW7i9cFoansaQCmYA8NWi.jpg' alt='abstract light steel blue, lavender blue and light pastel purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/92/52/49/1000_F_292524930_joyXZg6dAeVpW7i9cFoansaQCmYA8NWi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic pastel wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/91/97/9a9197ac311aee42501a203ffd06f36c.jpg' alt='aesthetic pastel wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/91/97/9a9197ac311aee42501a203ffd06f36c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Blue and Pink, adorable, cute, material, nice, pretty, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/253/204/HD-wallpaper-pastel-blue-and-pink-adorable-cute-material-nice-pretty-thumbnail.jpg' alt='Pastel Blue and Pink, adorable, cute, material, nice, pretty, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/253/204/HD-wallpaper-pastel-blue-and-pink-adorable-cute-material-nice-pretty-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Purple Romantic Light Effect Glitter Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220714/original/pngtree-blue-purple-romantic-light-effect-glitter-background-picture-image_1604326.jpg' alt='Blue Purple Romantic Light Effect Glitter Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220714/original/pngtree-blue-purple-romantic-light-effect-glitter-background-picture-image_1604326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

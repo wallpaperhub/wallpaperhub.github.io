@@ -1,0 +1,129 @@
+<title>Pittsburgh Pirates iPhone Wallpapers: Show Your Team Spirit</title>
+                    <meta name="description" content="Discover the best Pittsburgh Pirates iPhone wallpapers! Download vibrant designs featuring your favorite team logos and moments, perfect for showcasing your Pirates pride on your mobile device. Elevate your phone's aesthetic while celebrating your love for baseball! Get yours today!">
+                    <meta name="keywords" content="pittsburgh pirates iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pittsburgh-pirates-iphone-wallpaper">
+                            <span itemprop="name">pittsburgh pirates iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pittsburgh Pirates iPhone Wallpapers: Show Your Team Spirit</h1>
+                <p>Unlock your love for the Pittsburgh Pirates with stunning iPhone wallpapers that showcase the team's spirit! From iconic logos to breathtaking game shots, personalize your device and carry the essence of PNC Park wherever you go. Celebrate every home run and strikeout right on your screen! Go Pirates!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Pittsburgh Pirates Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/34/b9/9b34b9f364be708140a75de5a0ef331e.jpg' alt='Awesome Pittsburgh Pirates Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/34/b9/9b34b9f364be708140a75de5a0ef331e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates Iphone Baseball Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pittsburgh-pirates-iphone-baseball-cuk7nmvha0dfkxdq.jpg' alt='Pittsburgh Pirates Iphone Baseball Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pittsburgh-pirates-iphone-baseball-cuk7nmvha0dfkxdq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates Wallpaper | PNC Park Photos">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/219592_9d9e85631ab948f09cd66abc5609ae9d~mv2.jpg/v1/fill/w_220,h_330,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jeff%20Palicki%20Photography%20PNC%20Park%20Pittsburgh%20Pirates%20Wallpaper%20MLB%20Photographer_1560.jpg' alt='Pittsburgh Pirates Wallpaper | PNC Park Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jeff Palicki Photography" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/219592_9d9e85631ab948f09cd66abc5609ae9d~mv2.jpg/v1/fill/w_220,h_330,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jeff%20Palicki%20Photography%20PNC%20Park%20Pittsburgh%20Pirates%20Wallpaper%20MLB%20Photographer_1560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made Some Phone Backgrounds Based On All The Pirates Jerseys ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/adg7svpnoc071.jpg' alt='I Made Some Phone Backgrounds Based On All The Pirates Jerseys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1949">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/adg7svpnoc071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates wallpaper by JeremyNeal1 - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=4YMLCFlNoLeYQ9IRT-FbsKT2SUZejZJGgPjCTV54fmRm1RgV6LxpO7iyKfBEJbnWW9enkwu1JL3LJiAa1dEgllgPKMmrrWNYh0CiK8fqryYFRwbNE7olt9L7FP6w6xV3UlB0diGTJI_pMnL1NKQnrzW7MDqJTNRqnuKXidIR9ZNh9EbfZxT3XgQsHLwFxtbMrtzHAW5LUmxNLZykmxG4b6sf9huV5OVFAV-jSw' alt='Pittsburgh Pirates wallpaper by JeremyNeal1 - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=4YMLCFlNoLeYQ9IRT-FbsKT2SUZejZJGgPjCTV54fmRm1RgV6LxpO7iyKfBEJbnWW9enkwu1JL3LJiAa1dEgllgPKMmrrWNYh0CiK8fqryYFRwbNE7olt9L7FP6w6xV3UlB0diGTJI_pMnL1NKQnrzW7MDqJTNRqnuKXidIR9ZNh9EbfZxT3XgQsHLwFxtbMrtzHAW5LUmxNLZykmxG4b6sf9huV5OVFAV-jSw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates Baseball Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pittsburgh-pirates-baseball-pvnrxom1iiccrg37.jpg' alt='Pittsburgh Pirates Baseball Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pittsburgh-pirates-baseball-pvnrxom1iiccrg37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/84/9c/34849ceed1c2d978678cd85850d151c6.jpg' alt='Pittsburgh Pirates Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/84/9c/34849ceed1c2d978678cd85850d151c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Pirates Wallpaper | PNC Park Photos">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/219592_6030eaf461f6464a80de83260b0085d0~mv2.jpg/v1/fill/w_220,h_330,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jeff%20Palicki%20Photography%20-%20B_%20Reynolds%20PNC%20Background%20Pittsburgh%20Pirates%20iphone%20Wallpaper_.jpg' alt='Pittsburgh Pirates Wallpaper | PNC Park Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jeff Palicki Photography" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/219592_6030eaf461f6464a80de83260b0085d0~mv2.jpg/v1/fill/w_220,h_330,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jeff%20Palicki%20Photography%20-%20B_%20Reynolds%20PNC%20Background%20Pittsburgh%20Pirates%20iphone%20Wallpaper_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/74/a2/a574a246bc0da8c7a37c940be131f2ae.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/74/a2/a574a246bc0da8c7a37c940be131f2ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh pirates, baseball, mlb, pittsburgh pirates, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/169/36/HD-wallpaper-pittsburgh-pirates-baseball-mlb-pittsburgh-pirates.jpg' alt='Pittsburgh pirates, baseball, mlb, pittsburgh pirates, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/169/36/HD-wallpaper-pittsburgh-pirates-baseball-mlb-pittsburgh-pirates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

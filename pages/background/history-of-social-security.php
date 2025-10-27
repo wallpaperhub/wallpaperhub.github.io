@@ -1,0 +1,129 @@
+<title>Understanding the History of Social Security</title>
+                    <meta name="description" content="Explore the fascinating history of Social Security, from its inception in the 1930s to its evolution into a vital support system for millions. Learn how this critical program has shaped financial security in America over the decades.">
+                    <meta name="keywords" content="history of social security">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-social-security">
+                            <span itemprop="name">history of social security</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the History of Social Security</h1>
+                <p>Social Security originated in the 1930s during the Great Depression, aimed at providing financial support to the elderly and unemployed. Introduced by President Franklin D. Roosevelt, the program evolved over decades, expanding benefits to cover disability and survivor's assistance. It remains a key pillar of America's social safety net.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Security in the United States - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/28/Signing_Of_The_Social_Security_Act.jpg' alt='History of Social Security in the United States - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4130">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/28/Signing_Of_The_Social_Security_Act.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline of Key Events in the History of Social Security">
+                                <img itemprop="contentUrl url" src='https://aarp.widen.net/content/zunutrddmy/jpeg/1140-social-security-1930s.jpg?crop=true&anchor=0,0&q=80&color=ffffffff&u=ovnylx&w=1140&h=655' alt='Timeline of Key Events in the History of Social Security'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://aarp.widen.net/content/zunutrddmy/jpeg/1140-social-security-1930s.jpg?crop=true&anchor=0,0&q=80&color=ffffffff&u=ovnylx&w=1140&h=655' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security History">
+                                <img itemprop="contentUrl url" src='https://www.ssa.gov/history/pics/dadds2.jpg' alt='Social Security History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Security History" />
+                                </span>
+                                <a href='https://www.ssa.gov/history/pics/dadds2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Social Security and Teachers | TeacherPensions.org">
+                                <img itemprop="contentUrl url" src='https://www.teacherpensions.org/sites/default/files/Timeline%20%28marked%29.png' alt='A Brief History of Social Security and Teachers | TeacherPensions.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeacherPensions.org" />
+                                </span>
+                                <a href='https://www.teacherpensions.org/sites/default/files/Timeline%20%28marked%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security History">
+                                <img itemprop="contentUrl url" src='https://www.ssa.gov/history/pics/adv50.gif' alt='Social Security History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Security History" />
+                                </span>
+                                <a href='https://www.ssa.gov/history/pics/adv50.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security History">
+                                <img itemprop="contentUrl url" src='https://www.ssa.gov/history/ssa/historychart.jpg' alt='Social Security History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Security History" />
+                                </span>
+                                <a href='https://www.ssa.gov/history/ssa/historychart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security History">
+                                <img itemprop="contentUrl url" src='https://www.ssa.gov/history/pics/ssbbrief.jpg' alt='Social Security History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Security History" />
+                                </span>
+                                <a href='https://www.ssa.gov/history/pics/ssbbrief.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security Act">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/01/social-security-act-gettyimages-625141486.jpg' alt='Social Security Act'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/01/social-security-act-gettyimages-625141486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Security History">
+                                <img itemprop="contentUrl url" src='https://www.ssa.gov/history/pics/AgencyHistoryHome.jpg' alt='Social Security History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SSA" />
+                                </span>
+                                <a href='https://www.ssa.gov/history/pics/AgencyHistoryHome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Security in the United States - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SocialSecurityposter2.gif/220px-SocialSecurityposter2.gif' alt='History of Social Security in the United States - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SocialSecurityposter2.gif/220px-SocialSecurityposter2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

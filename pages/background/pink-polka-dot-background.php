@@ -1,0 +1,129 @@
+<title>Playful Pink Polka Dot Backgrounds for Your Creative Needs</title>
+                    <meta name="description" content="Discover delightful pink polka dot backgrounds to elevate your designs. Perfect for projects, social media, and more, this fun pattern adds charm and personality. Explore our collection and unleash your creativity today!">
+                    <meta name="keywords" content="pink polka dot background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-polka-dot-background">
+                            <span itemprop="name">pink polka dot background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Playful Pink Polka Dot Backgrounds for Your Creative Needs</h1>
+                <p>Embrace the charm of a pink polka dot background, perfect for adding a playful touch to your designs. This vibrant pattern combines the sweetness of pink with the classic polka dot motif, creating a whimsical yet chic aesthetic. Ideal for websites, social media posts, or DIY projects, it brings a lively energy to any visual.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Polka Dot Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/polka-dot-white-with-pink-background_78370-5138.jpg' alt='Pink Polka Dot Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/polka-dot-white-with-pink-background_78370-5138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dot Background Pink Images – Browse 124,793 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/65/03/78/360_F_65037872_WwbuU36z15K901vImQutmS7Udc6pWeot.jpg' alt='Polka Dot Background Pink Images – Browse 124,793 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/65/03/78/360_F_65037872_WwbuU36z15K901vImQutmS7Udc6pWeot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_pink_F_for_web_ef80f6ad-4ba9-4652-acd7-90351b7f24de.jpg?v=1615485579' alt=''Polka Dot' Wallpaper by Sugar Paper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_pink_F_for_web_ef80f6ad-4ba9-4652-acd7-90351b7f24de.jpg?v=1615485579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="F2U] Pink polka dot background by GeneticDecove on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f973ca87-cb0f-4977-8667-21821749caee/dc3y7oy-e3e732e1-596a-4821-8bce-6a9613b9add4.png/v1/fill/w_655,h_1220,q_70,strp/_f2u__pink_polka_dot_background_by_geneticdecove_dc3y7oy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY3NSIsInBhdGgiOiJcL2ZcL2Y5NzNjYTg3LWNiMGYtNDk3Ny04NjY3LTIxODIxNzQ5Y2FlZVwvZGMzeTdveS1lM2U3MzJlMS01OTZhLTQ4MjEtOGJjZS02YTk2MTNiOWFkZDQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cPh7LaSdHtO0G-clQSVYCwVol2XcAWnCrFHgVckZgHY' alt='F2U] Pink polka dot background by GeneticDecove on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f973ca87-cb0f-4977-8667-21821749caee/dc3y7oy-e3e732e1-596a-4821-8bce-6a9613b9add4.png/v1/fill/w_655,h_1220,q_70,strp/_f2u__pink_polka_dot_background_by_geneticdecove_dc3y7oy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY3NSIsInBhdGgiOiJcL2ZcL2Y5NzNjYTg3LWNiMGYtNDk3Ny04NjY3LTIxODIxNzQ5Y2FlZVwvZGMzeTdveS1lM2U3MzJlMS01OTZhLTQ4MjEtOGJjZS02YTk2MTNiOWFkZDQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cPh7LaSdHtO0G-clQSVYCwVol2XcAWnCrFHgVckZgHY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Polka Dots Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/20/63/78/1000_F_220637859_d2vwWtq80t9n4GGQAF7WukV19GfTYal1.jpg' alt='Pink Polka Dots Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/20/63/78/1000_F_220637859_d2vwWtq80t9n4GGQAF7WukV19GfTYal1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33,200+ Pink Polka Dots Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/944846292/vector/irregular-polka-dot-repeating-pink-circles-on-white-background-endless-print-drawn-by-hand.jpg?s=612x612&w=0&k=20&c=SjLFkrvo1qpoexCqXiWdsuQVTu5MNYMcFm0HEcAzitU=' alt='33,200+ Pink Polka Dots Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/944846292/vector/irregular-polka-dot-repeating-pink-circles-on-white-background-endless-print-drawn-by-hand.jpg?s=612x612&w=0&k=20&c=SjLFkrvo1qpoexCqXiWdsuQVTu5MNYMcFm0HEcAzitU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Polka Dots on Light Pink Background Wallpaper Image | ILLUSTLIVE">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/110.png' alt='White Polka Dots on Light Pink Background Wallpaper Image | ILLUSTLIVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/110.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Polka Dot Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-polka-dot-background-etenae1le5pdnnp7.jpg' alt='100+] Pink Polka Dot Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-polka-dot-background-etenae1le5pdnnp7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A White Background With Pastel Pink Polka Dots In A Seamless ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230803/original/pngtree-a-white-background-with-pastel-pink-polka-dots-in-a-seamless-vector-pattern-vector-picture-image_9415971.png' alt='A White Background With Pastel Pink Polka Dots In A Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230803/original/pngtree-a-white-background-with-pastel-pink-polka-dots-in-a-seamless-vector-pattern-vector-picture-image_9415971.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Pink feminine geometric background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/2e/ec/3e2eecdcc769be4fb84212e77fa26939.jpg' alt='Download premium vector of Pink feminine geometric background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/2e/ec/3e2eecdcc769be4fb84212e77fa26939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

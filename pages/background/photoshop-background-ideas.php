@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="photoshop background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photoshop-background-ideas">
+                            <span itemprop="name">photoshop background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photoshop Backgrounds Images – Browse 124,250 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/95/50/86/360_F_195508679_tMnsBg8hznqrvJNFPyZD7qFUyyzdc56M.jpg' alt='Photoshop Backgrounds Images – Browse 124,250 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/95/50/86/360_F_195508679_tMnsBg8hznqrvJNFPyZD7qFUyyzdc56M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cool Abstract and Background Photoshop Tutorials - Hongkiat">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/40-cool-abstract-and-background-photoshop-tutorials/adobe-photoshop-tut-abstract.jpg' alt='30 Cool Abstract and Background Photoshop Tutorials - Hongkiat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/40-cool-abstract-and-background-photoshop-tutorials/adobe-photoshop-tut-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Photoshop Background & Texture Tutorials - Super Dev Resources">
+                                <img itemprop="contentUrl url" src='https://superdevresources.com/wp-content/uploads/2016/02/colorful-bokeh-tutorial.jpg' alt='18 Photoshop Background & Texture Tutorials - Super Dev Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Dev Resources" />
+                                </span>
+                                <a href='https://superdevresources.com/wp-content/uploads/2016/02/colorful-bokeh-tutorial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photoshop ideas to inspire your creativity - Adobe">
+                                <img itemprop="contentUrl url" src='https://www.adobe.com/creativecloud/photography/discover/media_1554f4397a8b1c8c2f9b34afc612256e89203ef96.jpeg?width=1200&format=pjpg&optimize=medium' alt='Photoshop ideas to inspire your creativity - Adobe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://www.adobe.com/creativecloud/photography/discover/media_1554f4397a8b1c8c2f9b34afc612256e89203ef96.jpeg?width=1200&format=pjpg&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cool Abstract and Background Photoshop Tutorials - Hongkiat">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/40-cool-abstract-and-background-photoshop-tutorials/polygon-shapes-beginner.jpg' alt='30 Cool Abstract and Background Photoshop Tutorials - Hongkiat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/40-cool-abstract-and-background-photoshop-tutorials/polygon-shapes-beginner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Smooth Colorful Backgrounds Photoshop Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8dEhNCf7qng/maxresdefault.jpg' alt='Create Smooth Colorful Backgrounds Photoshop Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8dEhNCf7qng/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Photoshop Background & Texture Tutorials - Super Dev Resources">
+                                <img itemprop="contentUrl url" src='https://superdevresources.com/wp-content/uploads/2016/02/mosaic-background-photoshop.jpg' alt='18 Photoshop Background & Texture Tutorials - Super Dev Resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Dev Resources" />
+                                </span>
+                                <a href='https://superdevresources.com/wp-content/uploads/2016/02/mosaic-background-photoshop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ideas to improve the background of this manipulation? : r/photoshop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dtpaly62a6j71.jpg' alt='Ideas to improve the background of this manipulation? : r/photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dtpaly62a6j71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photoshop Tutorials : Remove and Change Background Indoor to ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xb3ehQNa0Gk/sddefault.jpg' alt='Photoshop Tutorials : Remove and Change Background Indoor to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xb3ehQNa0Gk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make a Cool Low Poly Background - Photoshop CS6,CC Tutorial  (Background Design)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zZ7W1yBju0U/maxresdefault.jpg' alt='How to make a Cool Low Poly Background - Photoshop CS6,CC Tutorial  (Background Design)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zZ7W1yBju0U/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

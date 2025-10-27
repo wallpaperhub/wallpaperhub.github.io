@@ -1,0 +1,129 @@
+<title>Classic Movie iPhone Wallpapers: Timeless Charm for Your Screen</title>
+                    <meta name="description" content="Explore a collection of classic movie iPhone wallpapers that add a touch of nostalgia to your device. From timeless scenes to iconic actors, find the perfect wallpaper that reflects your love for cinema and enhances your mobile experience. Download now and celebrate the golden age of film!">
+                    <meta name="keywords" content="classic movie iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/classic-movie-iphone-wallpaper">
+                            <span itemprop="name">classic movie iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Movie iPhone Wallpapers: Timeless Charm for Your Screen</h1>
+                <p>Transform your iPhone with stunning classic movie wallpapers! Celebrate cinematic history by bringing iconic scenes and legendary actors to your screen. Discover wallpapers that capture the nostalgia of timeless films, giving your device a touch of elegance and class. Perfect for film lovers wanting a vintage aesthetic. Dive into movie magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Movie Poster Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-movie-poster-retro-aesthetic-iphone-3pmxwf9neeyc7q3w.jpg' alt='Vintage Movie Poster Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-movie-poster-retro-aesthetic-iphone-3pmxwf9neeyc7q3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11558078.jpg' alt='Cinema iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11558078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 high-resolution iPhone wallpapers for people who love movies">
+                                <img itemprop="contentUrl url" src='https://bgr.com/wp-content/uploads/2016/09/blade-runner.jpg?quality=82&strip=all&w=201' alt='80 high-resolution iPhone wallpapers for people who love movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="201">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BGR" />
+                                </span>
+                                <a href='https://bgr.com/wp-content/uploads/2016/09/blade-runner.jpg?quality=82&strip=all&w=201' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Pulp Fiction Iphone Wallpaper FULL HD 1920×1080 For PC Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/29/f9/5e29f99c7f17ff9772ef677e5cdbe8ad.jpg' alt='10 Top Pulp Fiction Iphone Wallpaper FULL HD 1920×1080 For PC Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/29/f9/5e29f99c7f17ff9772ef677e5cdbe8ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11558237.jpg' alt='Cinema iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11558237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pulp Fiction Wallpaper | Pulp fiction, Movie posters vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/86/ec/e686ec0080e3abc9d96ae52d53733546.jpg' alt='Pulp Fiction Wallpaper | Pulp fiction, Movie posters vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/86/ec/e686ec0080e3abc9d96ae52d53733546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Movies - And Then There Were None (1945), And Then There ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/347/HD-wallpaper-apocalypse-now-classic-coppola-design-movies-war.jpg' alt='Classic Movies - And Then There Were None (1945), And Then There ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/347/HD-wallpaper-apocalypse-now-classic-coppola-design-movies-war.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie posters, horror, movies, posters, scarry, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/395/452/HD-wallpaper-movie-posters-horror-movies-posters-scarry.jpg' alt='Movie posters, horror, movies, posters, scarry, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/395/452/HD-wallpaper-movie-posters-horror-movies-posters-scarry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone - for iPhone 8, iPhone X and iPhone 7. Classic movie ...">
+                                <img itemprop="contentUrl url" src='https://e0.pxfuel.com/wallpapers/589/667/desktop-wallpaper-iphone-for-iphone-8-iphone-x-and-iphone-7-classic-movie-posters-movie-poster-art-movie-posters-design.jpg' alt='IPhone - for iPhone 8, iPhone X and iPhone 7. Classic movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pxfuel" />
+                                </span>
+                                <a href='https://e0.pxfuel.com/wallpapers/589/667/desktop-wallpaper-iphone-for-iphone-8-iphone-x-and-iphone-7-classic-movie-posters-movie-poster-art-movie-posters-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 high-resolution iPhone wallpapers for people who love movies">
+                                <img itemprop="contentUrl url" src='https://bgr.com/wp-content/uploads/2016/09/back-to-the-future-wallpaper.png' alt='80 high-resolution iPhone wallpapers for people who love movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BGR" />
+                                </span>
+                                <a href='https://bgr.com/wp-content/uploads/2016/09/back-to-the-future-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

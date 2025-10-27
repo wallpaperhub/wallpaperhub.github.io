@@ -1,0 +1,129 @@
+<title>Coastal Wallpaper: Transform Your Space with Beach-Inspired Designs</title>
+                    <meta name="description" content="Elevate your home decor with our stunning coastal wallpaper. Perfect for creating a relaxing atmosphere, our beach-inspired designs bring the essence of the shore indoors. Explore a variety of hues and patterns that evoke tranquility and style! Ideal for any room in your home.">
+                    <meta name="keywords" content="coastal wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/coastal-wallpaper-for-walls">
+                            <span itemprop="name">coastal wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coastal Wallpaper: Transform Your Space with Beach-Inspired Designs</h1>
+                <p>Transform your space with coastal wallpaper that evokes the serenity of the shore. Featuring vibrant hues of blue, sandy beiges, and stunning marine life, these designs bring the beauty of the beach right into your home. Perfect for living rooms, bedrooms, or bathrooms, coastal wallpaper adds a refreshing touch and creates a calm ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COASTAL WALLPAPER – Mitchell Black">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/collections/WCHH104-BL_1.jpg?v=1685041413' alt='COASTAL WALLPAPER – Mitchell Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/collections/WCHH104-BL_1.jpg?v=1685041413' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Paradise Wallpaper in Coastal Blue from the Beach House ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0153/0623/products/Paradise_Wallpaper_from_the_Beach_House_Collection_by_Seabrook_Wallcoverings.jpg?v=1571712038' alt='Shop Paradise Wallpaper in Coastal Blue from the Beach House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0153/0623/products/Paradise_Wallpaper_from_the_Beach_House_Collection_by_Seabrook_Wallcoverings.jpg?v=1571712038' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper - Decorate with Beach House Luxe Style Online ...">
+                                <img itemprop="contentUrl url" src='https://oliveetoriel.com/cdn/shop/collections/shop-new-removable-coastal-beach-house-style-wallpaper-arrivals-online-olive-et-oriel.jpg?v=1679991977' alt='Coastal Wallpaper - Decorate with Beach House Luxe Style Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='https://oliveetoriel.com/cdn/shop/collections/shop-new-removable-coastal-beach-house-style-wallpaper-arrivals-online-olive-et-oriel.jpg?v=1679991977' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Coastal Wallpaper - Life On Virginia Street">
+                                <img itemprop="contentUrl url" src='https://lifeonvirginiastreet.com/wp-content/uploads/2023/04/colorful-coastal-wallpaper.jpg' alt='Colorful Coastal Wallpaper - Life On Virginia Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life On Virginia Street" />
+                                </span>
+                                <a href='https://lifeonvirginiastreet.com/wp-content/uploads/2023/04/colorful-coastal-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Canvas Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Sea_waves_sketch_pattern._Ocean_surf_wave_hand_drawn_horizontal_10-min.jpg?v=1739231767&width=1214' alt='Sample: 17''W x 11''H / Canvas Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Sea_waves_sketch_pattern._Ocean_surf_wave_hand_drawn_horizontal_10-min.jpg?v=1739231767&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Scallop Sky Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_620x.jpg?v=1687300337' alt='Riley Scallop Sky Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cailinicoastal.com/cdn/shop/products/WALL-1004-HERO_792621f4-8b29-4fb7-ae67-6e9e0dd9e610_620x.jpg?v=1687300337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Coastal Wallpaper Peel and Stick 17.3" X 394" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bFkUfH6-L.jpg' alt='WENMER Coastal Wallpaper Peel and Stick 17.3" X 394" White and Light Blue  Contact Paper Coral Seashell Starfish Wallpaper Self Adhesive Beach Ocean  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bFkUfH6-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper: Peel and Stick and Traditional Options ...">
+                                <img itemprop="contentUrl url" src='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' alt='Coastal Wallpaper: Peel and Stick and Traditional Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newport Lane" />
+                                </span>
+                                <a href='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral and Kelp Peel and Stick Wall Mural">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/CK9073-coral-and-kelp-arctic-splash-living-roomcopy.jpg?v=1714748187' alt='Coral and Kelp Peel and Stick Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/CK9073-coral-and-kelp-arctic-splash-living-roomcopy.jpg?v=1714748187' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Palm Silhouette Hampton Blue Coastal 20.5 in. x 18 ft. Peel and  Stick Wallpaper NW39812">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/207252d0-b008-4b71-b6b8-54facb56f0c5/svn/nextwall-wallpaper-rolls-nw39812-64_600.jpg' alt='NextWall Palm Silhouette Hampton Blue Coastal 20.5 in. x 18 ft. Peel and  Stick Wallpaper NW39812'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/207252d0-b008-4b71-b6b8-54facb56f0c5/svn/nextwall-wallpaper-rolls-nw39812-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

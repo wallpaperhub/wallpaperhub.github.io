@@ -1,0 +1,129 @@
+<title>Green Aesthetic iPhone Wallpapers: Nature-Inspired Designs</title>
+                    <meta name="description" content="Elevate your iPhone’s look with stunning green aesthetic wallpapers. Discover nature-inspired designs that enhance your screen while providing a calming vibe. Perfect for eco-lovers and anyone wanting a fresh, stylish update. Explore our collection now!">
+                    <meta name="keywords" content="green wallpaper aesthetic iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/green-wallpaper-aesthetic-iphone">
+                            <span itemprop="name">green wallpaper aesthetic iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green Aesthetic iPhone Wallpapers: Nature-Inspired Designs</h1>
+                <p>Discover the beauty of green wallpaper aesthetics for your iPhone. From soothing forest hues to vibrant emerald tones, green wallpapers can transform your device into a serene escape. Perfect for nature lovers, these designs not only rejuvenate your screen but also create a calming atmosphere. Explore options for every style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☁️☁️  ☁️☁️  ☁️☁️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5b/d2/68/5bd26861d12919808ddd2b47074ecb45.jpg' alt='☁️☁️  ☁️☁️  ☁️☁️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5b/d2/68/5bd26861d12919808ddd2b47074ecb45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/28/47/dd28474d3c41d61492f49d66e31d93d7.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/28/47/dd28474d3c41d61492f49d66e31d93d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Aesthetic Iphone Lock Screen Theme Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-aesthetic-iphone-u3380ssiqt8v78vt.jpg' alt='Download Green Aesthetic Iphone Lock Screen Theme Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-aesthetic-iphone-u3380ssiqt8v78vt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Wallpaper for Phone HD (40+ images) - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/59/d8/9059d8c11d7388c5eed12c1783825e21.jpg' alt='Sage Green Wallpaper for Phone HD (40+ images) - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/59/d8/9059d8c11d7388c5eed12c1783825e21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oriental Nature Art Green Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/oriental-nature-art-green-iphone-72q8h2sdb820uxvk.jpg' alt='Oriental Nature Art Green Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/oriental-nature-art-green-iphone-72q8h2sdb820uxvk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD green aesthetics wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall-thumbnail.jpg' alt='HD green aesthetics wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Wallpaper Aesthetic Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80MF9hX21pbmltYWxzbV9pbGx1c3RyYXRpb25fb2Zfc2FnZV9ncmVlbl9sb2ZpX18zMDk0YTgwYi04ZDVhLTQxZGYtYWUxZi1jY2MwMmExZjgyMWYuanBn.jpg' alt='Sage Green Wallpaper Aesthetic Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80MF9hX21pbmltYWxzbV9pbGx1c3RyYXRpb25fb2Zfc2FnZV9ncmVlbl9sb2ZpX18zMDk0YTgwYi04ZDVhLTQxZGYtYWUxZi1jY2MwMmExZjgyMWYuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Green Aesthetic Iphone Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-aesthetic-iphone-4ar1cpgimvclpzy0.jpg' alt='Download Green Aesthetic Iphone Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-aesthetic-iphone-4ar1cpgimvclpzy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b6/6b/f9/b66bf98149595c4aa5f6b6884a128f6e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b6/6b/f9/b66bf98149595c4aa5f6b6884a128f6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Field Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/white-flowery-plants-plain-aesthetic-8lp64xwmq4qcs1i4.webp' alt='Dark Green Field Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/white-flowery-plants-plain-aesthetic-8lp64xwmq4qcs1i4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

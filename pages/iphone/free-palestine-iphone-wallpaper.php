@@ -1,0 +1,129 @@
+<title>Free Palestine iPhone Wallpapers - Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover beautiful and impactful free Palestine iPhone wallpapers. Choose from a variety of stunning designs that inspire hope and raise awareness. Perfect for personalizing your device while showing solidarity. Download now to make a statement!">
+                    <meta name="keywords" content="free palestine iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/free-palestine-iphone-wallpaper">
+                            <span itemprop="name">free palestine iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Palestine iPhone Wallpapers - Stunning Designs for Your Device</h1>
+                <p>Show your support for a free Palestine with stunning iPhone wallpapers that capture the spirit of resilience and hope. These beautifully designed backgrounds feature iconic symbols and empowering messages, perfect for personalizing your device while raising awareness. Download your favorite images today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | David Bernie">
+                                <img itemprop="contentUrl url" src='https://www.davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Wallpaper-Free-Palestine-Watermelon-I-Mobile-1290x2796-1-scaled.jpg' alt='Wallpapers | David Bernie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Bernie" />
+                                </span>
+                                <a href='https://www.davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Wallpaper-Free-Palestine-Watermelon-I-Mobile-1290x2796-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestine, gaza, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/991/621/HD-wallpaper-palestine-gaza.jpg' alt='Palestine, gaza, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/991/621/HD-wallpaper-palestine-gaza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="palestine wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4f/d7/c4/4fd7c4d6ed750bca1937f01b4d349e19.jpg' alt='palestine wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4f/d7/c4/4fd7c4d6ed750bca1937f01b4d349e19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Palestine Phone Wallpaper Support Palestine Art Lockscreen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43474236/r/il/a2f850/5697528194/il_1080xN.5697528194_qv9d.jpg' alt='Free Palestine Phone Wallpaper Support Palestine Art Lockscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43474236/r/il/a2f850/5697528194/il_1080xN.5697528194_qv9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | David Bernie">
+                                <img itemprop="contentUrl url" src='https://www.davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Wallpaper-Free-Palestine-Watermelon-II-Mobile-Alternative-1290x2796-1-scaled.jpg' alt='Wallpapers | David Bernie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Bernie" />
+                                </span>
+                                <a href='https://www.davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Wallpaper-Free-Palestine-Watermelon-II-Mobile-Alternative-1290x2796-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="palestine">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0d/fc/83/0dfc838ea18e4bbdbeea1d9a1fbd8d14.jpg' alt='palestine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0d/fc/83/0dfc838ea18e4bbdbeea1d9a1fbd8d14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Save Palestine, muslim, philistine, iphone, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/740/127/HD-wallpaper-save-palestine-muslim-philistine-iphone.jpg' alt='Save Palestine, muslim, philistine, iphone, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/740/127/HD-wallpaper-save-palestine-muslim-philistine-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Palestine Fist 5K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/palestine-fist-5k-1080x2160-14075.png' alt='Free Palestine Fist 5K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/palestine-fist-5k-1080x2160-14075.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Palestine iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-138987/palestine.jpg' alt='Best Palestine iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-138987/palestine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestine flag, flag, palestine, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/611/542/HD-wallpaper-palestine-flag-flag-palestine.jpg' alt='Palestine flag, flag, palestine, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/611/542/HD-wallpaper-palestine-flag-flag-palestine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

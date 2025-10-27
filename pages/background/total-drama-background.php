@@ -1,0 +1,129 @@
+<title>Unveiling the Total Drama Background: A Reality Show Parody</title>
+                    <meta name="description" content="Discover the intriguing background of Total Drama, a vibrant animated series that cleverly parodies reality TV. Explore its unique setting, memorable characters, and humorous competition challenges that captivate audiences of all ages.">
+                    <meta name="keywords" content="total drama background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/total-drama-background">
+                            <span itemprop="name">total drama background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Total Drama Background: A Reality Show Parody</h1>
+                <p>Total Drama is a Canadian animated reality television series that parodies competition formats. Set in a fictional summer camp, it follows contestants as they endure challenges and navigate alliances, rivalries, and drama. With its diverse cast and unique animation style, it's known for humor, satire, and memorable characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no, we won — Total Drama Background Masterpost">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/52315881364df24d7d648018a11a484d/tumblr_inline_pk1bmfSsTT1rwzdd6_500.jpg' alt='no, we won — Total Drama Background Masterpost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@jasmineshawn on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/52315881364df24d7d648018a11a484d/tumblr_inline_pk1bmfSsTT1rwzdd6_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total Drama Island Background Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/11/87/75118794d4e10e66adf4fad93e2fffc6.jpg' alt='Total Drama Island Background Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/11/87/75118794d4e10e66adf4fad93e2fffc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new BACKGROUND of Total Drama I Made : r/Totaldrama">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9oski55zd5781.png' alt='The new BACKGROUND of Total Drama I Made : r/Totaldrama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6616">
+                                <meta itemprop="height" content="3704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9oski55zd5781.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no, we won — Total Drama Background Masterpost">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b827800fb0840e67800dd7196e294e4b/tumblr_inline_pk1bme0xd41rwzdd6_500.jpg' alt='no, we won — Total Drama Background Masterpost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@jasmineshawn on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b827800fb0840e67800dd7196e294e4b/tumblr_inline_pk1bme0xd41rwzdd6_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gen 2 redesigns group pic! (on the dock because I'm not recreating ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gen-2-redesigns-group-pic-on-the-dock-because-im-not-v0-my7nym0570591.png?auto=webp&s=ede0a36bba6e10e842185e8eaf9902f6b5b00f97' alt='Gen 2 redesigns group pic! (on the dock because I'm not recreating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2437">
+                                <meta itemprop="height" content="1713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gen-2-redesigns-group-pic-on-the-dock-because-im-not-v0-my7nym0570591.png?auto=webp&s=ede0a36bba6e10e842185e8eaf9902f6b5b00f97' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfire Ceremony | Total Drama Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/totaldramaisland/images/f/f6/TDIcampfire.jpg/revision/latest?cb=20100825222947' alt='Campfire Ceremony | Total Drama Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Drama Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/totaldramaisland/images/f/f6/TDIcampfire.jpg/revision/latest?cb=20100825222947' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total Drama Background - Middle Beach by Ianxdzeta on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57850965-c25d-47d8-9b3e-2ab39fd5bdd2/dfmiccr-597dbfba-848d-4e18-b35d-212013bcbaf0.png/v1/fill/w_1280,h_915,q_80,strp/total_drama_background___middle_beach_by_ianxdzeta_dfmiccr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE1IiwicGF0aCI6IlwvZlwvNTc4NTA5NjUtYzI1ZC00N2Q4LTliM2UtMmFiMzlmZDViZGQyXC9kZm1pY2NyLTU5N2RiZmJhLTg0OGQtNGUxOC1iMzVkLTIxMjAxM2JjYmFmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WuRAxTuqZiRqmvS255gq6zKP_9_TOC7bVurP4EQs1iI' alt='Total Drama Background - Middle Beach by Ianxdzeta on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57850965-c25d-47d8-9b3e-2ab39fd5bdd2/dfmiccr-597dbfba-848d-4e18-b35d-212013bcbaf0.png/v1/fill/w_1280,h_915,q_80,strp/total_drama_background___middle_beach_by_ianxdzeta_dfmiccr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE1IiwicGF0aCI6IlwvZlwvNTc4NTA5NjUtYzI1ZC00N2Q4LTliM2UtMmFiMzlmZDViZGQyXC9kZm1pY2NyLTU5N2RiZmJhLTg0OGQtNGUxOC1iMzVkLTIxMjAxM2JjYmFmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WuRAxTuqZiRqmvS255gq6zKP_9_TOC7bVurP4EQs1iI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total Drama Amazon Background by comicstrip2000 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/0e/22/d40e2298a0a71981e45cef128fc0d453.jpg' alt='Total Drama Amazon Background by comicstrip2000 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/0e/22/d40e2298a0a71981e45cef128fc0d453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no, we won — Total Drama Background Masterpost">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8ee71888b9a0b6bcfbe1a10ec86ae8a7/tumblr_inline_pk1bmdo7Q51rwzdd6_500.jpg' alt='no, we won — Total Drama Background Masterpost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@jasmineshawn on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8ee71888b9a0b6bcfbe1a10ec86ae8a7/tumblr_inline_pk1bmdo7Q51rwzdd6_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total Drama Escenario Background by Alexanderlovato on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bffaf93-c7f7-4bb4-b9bf-29d3613c3c07/dacboww-6f58d4d6-ba7f-4bde-b912-3bbdd94cfd3b.png/v1/fill/w_1600,h_800/total_drama_escenario_background_by_alexanderlovato_dacboww-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNWJmZmFmOTMtYzdmNy00YmI0LWI5YmYtMjlkMzYxM2MzYzA3XC9kYWNib3d3LTZmNThkNGQ2LWJhN2YtNGJkZS1iOTEyLTNiYmRkOTRjZmQzYi5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y8eCCzdESyb_woj2L4yl_NakWH-A0XMDHgNfdKbWQ-U' alt='Total Drama Escenario Background by Alexanderlovato on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bffaf93-c7f7-4bb4-b9bf-29d3613c3c07/dacboww-6f58d4d6-ba7f-4bde-b912-3bbdd94cfd3b.png/v1/fill/w_1600,h_800/total_drama_escenario_background_by_alexanderlovato_dacboww-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNWJmZmFmOTMtYzdmNy00YmI0LWI5YmYtMjlkMzYxM2MzYzA3XC9kYWNib3d3LTZmNThkNGQ2LWJhN2YtNGJkZS1iOTEyLTNiYmRkOTRjZmQzYi5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y8eCCzdESyb_woj2L4yl_NakWH-A0XMDHgNfdKbWQ-U' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

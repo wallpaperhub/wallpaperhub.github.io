@@ -1,0 +1,129 @@
+<title>Elegant White Floral Wallpaper for Timeless Elegance</title>
+                    <meta name="description" content="Discover stunning white floral wallpaper to elevate your home decor. Perfect for any room, these designs bring a fresh, serene feel while adding a touch of elegance. Explore our collection for your ideal match and transform your space effortlessly.">
+                    <meta name="keywords" content="white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-floral-wallpaper">
+                            <span itemprop="name">white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Floral Wallpaper for Timeless Elegance</h1>
+                <p>Transform your space with elegant white floral wallpaper, a perfect blend of charm and sophistication. Ideal for creating a serene atmosphere, it complements various decors, from modern to vintage. The delicate floral patterns add a touch of nature indoors, making rooms feel fresh and inviting. Perfect for any home or office!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Floral Peel and Stick Wallpaper - Black & White Vintage Peony  Sketched Floral Self-Adhesive Prepasted Wall Decor Contact Paper Covering  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HhrhKUG4L.jpg' alt='JiffDiff Floral Peel and Stick Wallpaper - Black & White Vintage Peony  Sketched Floral Self-Adhesive Prepasted Wall Decor Contact Paper Covering  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HhrhKUG4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Medley 56.4-Sq. Feet White Paper Floral Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/1d56d80f-d04c-4208-94ce-bc7518017451/16719520.jpg' alt='Fine Decor Medley 56.4-Sq. Feet White Paper Floral Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="983">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/1d56d80f-d04c-4208-94ce-bc7518017451/16719520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nami White Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' alt='Nami White Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peonies & Anemones Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-1.jpg' alt='Peonies & Anemones Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hibiscus at Double Bay Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/11/BL097-B-HibiscusAtDoubleBay-Beige-1.jpg' alt='Hibiscus at Double Bay Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/11/BL097-B-HibiscusAtDoubleBay-Beige-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_dc4ef4f6-b558-4f7d-8035-1aa7e1440c1e.jpg?v=1696365995&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_dc4ef4f6-b558-4f7d-8035-1aa7e1440c1e.jpg?v=1696365995&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' alt='Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="2950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Soft White Wallpaper">
+                                <img itemprop="contentUrl url" src='http://portraydecor.com/cdn/shop/files/BOSW-Botanical-Soft-White-LivingRoom-DiningRoom-Countertop-Kitchen-PeelandStickWallpaper-TraditionalWallpaper-WaterActivatedWallpaper_ad5d7244-3a5d-4a33-a86c-5054adacf871.jpg?v=1689794956' alt='Botanical Soft White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="portray decor" />
+                                </span>
+                                <a href='http://portraydecor.com/cdn/shop/files/BOSW-Botanical-Soft-White-LivingRoom-DiningRoom-Countertop-Kitchen-PeelandStickWallpaper-TraditionalWallpaper-WaterActivatedWallpaper_ad5d7244-3a5d-4a33-a86c-5054adacf871.jpg?v=1689794956' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Beige Floral Removable Wallpaper 1111| Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/8bc3320e7aa45e453ed1cea5f37556f1_grande.jpg?v=1723298728' alt='White and Beige Floral Removable Wallpaper 1111| Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/8bc3320e7aa45e453ed1cea5f37556f1_grande.jpg?v=1723298728' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

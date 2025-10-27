@@ -1,0 +1,129 @@
+<title>Vibrant Caribbean Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Discover the allure of Caribbean wallpaper! Explore vibrant designs that bring tropical beauty to your living spaces. Perfect for creating a refreshing ambiance, these wallpapers capture the essence of island life. Transform your home decor today with stunning prints and colors that inspire relaxation and joy.">
+                    <meta name="keywords" content="caribbean wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/caribbean-wallpaper">
+                            <span itemprop="name">caribbean wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Caribbean Wallpaper Ideas for Your Home</h1>
+                <p>Transform your space with vibrant Caribbean wallpaper, featuring stunning tropical prints and colors! Perfect for adding a touch of paradise to your home, these designs evoke the beauty of swaying palm trees and crystal-clear waters. Create a refreshing atmosphere that transports you to the islands every day. Ideal for any room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Beach At Sunset Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236286/Tropical-Beach-At-Sunset-Mural-Wallpaper.jpg?v=638164405127130000' alt='Tropical Beach At Sunset Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236286/Tropical-Beach-At-Sunset-Mural-Wallpaper.jpg?v=638164405127130000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caribbean Photos, Download The BEST Free Caribbean Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?cs=srgb&dl=pexels-asadphoto-1450353.jpg&fm=jpg' alt='Caribbean Photos, Download The BEST Free Caribbean Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4180">
+                                <meta itemprop="height" content="2776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?cs=srgb&dl=pexels-asadphoto-1450353.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caribbean Beach Sunset Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50334_WP.jpg' alt='Caribbean Beach Sunset Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50334_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall mural or wallpaper sunny paradisiacal caribbean beach illustration">
+                                <img itemprop="contentUrl url" src='https://www.stickerforwall.com/44276-thickbox/wall-mural-or-wallpaper-sunny-paradisiacal-caribbean-beach-illustration.jpg' alt='Wall mural or wallpaper sunny paradisiacal caribbean beach illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decorative vinyls - stickers" />
+                                </span>
+                                <a href='https://www.stickerforwall.com/44276-thickbox/wall-mural-or-wallpaper-sunny-paradisiacal-caribbean-beach-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sunset Over The Sea Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240833/Beautiful-Sunset-Over-The-Sea-Mural-Wallpaper.jpg?v=638164440174470000' alt='Beautiful Sunset Over The Sea Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240833/Beautiful-Sunset-Over-The-Sea-Mural-Wallpaper.jpg?v=638164440174470000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Tree Caribbean Beach Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50336_WP.jpg' alt='Palm Tree Caribbean Beach Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50336_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GREAT ART Large Photo Wallpaper Wallpaper – Palm Trees Beach – Decoration  Caribbean Bay Tropic Paradise Nature Island Palms Tropical Isle Landscape  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51GW3QtV7xL._AC_UF894,1000_QL80_.jpg' alt='GREAT ART Large Photo Wallpaper Wallpaper – Palm Trees Beach – Decoration  Caribbean Bay Tropic Paradise Nature Island Palms Tropical Isle Landscape  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51GW3QtV7xL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caribbean Sunset">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/48918/caribbean-sunset-3.jpg?h=699&q=85' alt='Caribbean Sunset'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/48918/caribbean-sunset-3.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tropical-beach-wallpaper – St. Lucie West Centennial High">
+                                <img itemprop="contentUrl url" src='https://schools.stlucie.k12.fl.us/swc/files/2015/06/tropical-beach-wallpaper.jpg' alt='tropical-beach-wallpaper – St. Lucie West Centennial High'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St Lucie Public Schools Sites" />
+                                </span>
+                                <a href='https://schools.stlucie.k12.fl.us/swc/files/2015/06/tropical-beach-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caribbean Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyaWJiZWFuJTIwYmVhY2h8ZW58MHx8MHx8fDA%3D' alt='Caribbean Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyaWJiZWFuJTIwYmVhY2h8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

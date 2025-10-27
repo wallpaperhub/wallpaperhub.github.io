@@ -1,0 +1,129 @@
+<title>Inspiring Prayer and Fasting Background Images</title>
+                    <meta name="description" content="Discover beautiful prayer and fasting background images that enhance your spiritual journey. Perfect for meditation and reflection, these visuals create a peaceful atmosphere for your devotional practices. Explore serene landscapes and symbolic themes that inspire a deeper connection to your faith.">
+                    <meta name="keywords" content="prayer and fasting background images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prayer-and-fasting-background-images">
+                            <span itemprop="name">prayer and fasting background images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Prayer and Fasting Background Images</h1>
+                <p>Prayer and fasting background images serve as powerful reminders of devotion and spirituality. These serene visuals often depict peaceful landscapes, tranquil settings, or symbolic elements that resonate with the essence of prayer and fasting. They inspire reflection, meditation, and a deeper connection to faith, enhancing the overall experience of spiritual practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A REFLECTION ON PRAYER AND FASTING… | Kirk's Journal">
+                                <img itemprop="contentUrl url" src='https://klzehnder.com/wp-content/uploads/2024/01/prayer.fasting.jpg' alt='A REFLECTION ON PRAYER AND FASTING… | Kirk's Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kirk's Journal" />
+                                </span>
+                                <a href='https://klzehnder.com/wp-content/uploads/2024/01/prayer.fasting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Fasting Prayer Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681825182140-52a339be2b0a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFzdGluZyUyMHByYXllcnxlbnwwfHwwfHx8MA%3D%3D' alt='30,000+ Fasting Prayer Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681825182140-52a339be2b0a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFzdGluZyUyMHByYXllcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer And Fasting Sermon PowerPoint Template | Clover Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1509987305036_3/slide-02.jpg' alt='Prayer And Fasting Sermon PowerPoint Template | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1509987305036_3/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fasting And Prayer Christian Images – Browse 9,555 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/40/20/95/360_F_40209531_wg1HZ0Hszr7x46IJMDqzDHu1nGDJOhmB.jpg' alt='Fasting And Prayer Christian Images – Browse 9,555 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/40/20/95/360_F_40209531_wg1HZ0Hszr7x46IJMDqzDHu1nGDJOhmB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer and Fasting - Healing Place Church">
+                                <img itemprop="contentUrl url" src='https://healingplacechurch.org/wp-content/uploads/2023/01/Prayer-and-Fasting-Title.png' alt='Prayer and Fasting - Healing Place Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healing Place Church" />
+                                </span>
+                                <a href='https://healingplacechurch.org/wp-content/uploads/2023/01/Prayer-and-Fasting-Title.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Prayer And Fasting Sermon Worship Background ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1509990447256_92.jpg' alt='ShareFaith Media » Prayer And Fasting Sermon Worship Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1509990447256_92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Prayer Fasting Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/spirituality-religion-hands-folded-prayer-holy-bible-church-concept-faith_1150-12945.jpg' alt='Christian Prayer Fasting Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/spirituality-religion-hands-folded-prayer-holy-bible-church-concept-faith_1150-12945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Prayer Fasting: Over 1,074 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/prayer-fasting-bible-lettering-time-600nw-583651372.jpg' alt='Christian Prayer Fasting: Over 1,074 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/prayer-fasting-bible-lettering-time-600nw-583651372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATIONAL FAST AND PRAYER DAY - April 11, 2025 - National Today">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/08/33-National-Fast-and-Prayer-Day-1200x834.jpg' alt='NATIONAL FAST AND PRAYER DAY - April 11, 2025 - National Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/08/33-National-Fast-and-Prayer-Day-1200x834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fasting and Prayer Guide | Faithward.org">
+                                <img itemprop="contentUrl url" src='https://www.faithward.org/wp-content/uploads/2021/05/wnrxqgbhbh8.jpg' alt='Fasting and Prayer Guide | Faithward.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Faithward.org" />
+                                </span>
+                                <a href='https://www.faithward.org/wp-content/uploads/2021/05/wnrxqgbhbh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

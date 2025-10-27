@@ -1,0 +1,129 @@
+<title>Essential Guide to Sarma Background Checks</title>
+                    <meta name="description" content="Discover the importance of Sarma background checks for hiring and renting. This concise guide offers insights into how these checks enhance trust and security, helping you make informed decisions. Optimize your hiring process with effective background verification.">
+                    <meta name="keywords" content="sarma background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sarma-background-check">
+                            <span itemprop="name">sarma background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Sarma Background Checks</h1>
+                <p>Sarma background checks are crucial for ensuring trust in any hiring process. Whether it’s for employment, renting, or lending, a thorough background check can reveal criminal records, credit history, and more. This helps employers and organizations make informed decisions, safeguarding their interests while providing a sense of security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Consumer Resources – sarma.com">
+                                <img itemprop="contentUrl url" src='https://sarma.com/wp-content/uploads/2020/08/Sample-SCI-Invoice-and-Credit-Report-1.jpg' alt='Consumer Resources – sarma.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1447">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sarma.com" />
+                                </span>
+                                <a href='https://sarma.com/wp-content/uploads/2020/08/Sample-SCI-Invoice-and-Credit-Report-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarma | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQHp66XuIkRyoA/company-logo_200_200/company-logo_200_200/0/1631311027299?e=2147483647&v=beta&t=rSRdHbmj3RJLg8QNHJM-ViZCZE7tYCF2K8mAMHP91vU' alt='Sarma | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQHp66XuIkRyoA/company-logo_200_200/company-logo_200_200/0/1631311027299?e=2147483647&v=beta&t=rSRdHbmj3RJLg8QNHJM-ViZCZE7tYCF2K8mAMHP91vU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Client Login Portal – sarma.com">
+                                <img itemprop="contentUrl url" src='https://sarma.com/wp-content/uploads/2020/08/SCI_notag.jpg' alt='Client Login Portal – sarma.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sarma.com" />
+                                </span>
+                                <a href='https://sarma.com/wp-content/uploads/2020/08/SCI_notag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening – sarma.com">
+                                <img itemprop="contentUrl url" src='https://sarma.com/wp-content/uploads/2020/12/NARPM-1.png' alt='Background Screening – sarma.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1554">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sarma.com" />
+                                </span>
+                                <a href='https://sarma.com/wp-content/uploads/2020/12/NARPM-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eScreenMeNow Verify your own background check, criminal, sex ...">
+                                <img itemprop="contentUrl url" src='http://www.escreenmenow.com/wp-content/uploads/2014/02/escreen001.jpg' alt='eScreenMeNow Verify your own background check, criminal, sex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.escreenmenow.com" />
+                                </span>
+                                <a href='http://www.escreenmenow.com/wp-content/uploads/2014/02/escreen001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening – sarma.com">
+                                <img itemprop="contentUrl url" src='https://sarma.com/wp-content/uploads/2020/09/Sarma-11-scaled.jpg' alt='Background Screening – sarma.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sarma.com" />
+                                </span>
+                                <a href='https://sarma.com/wp-content/uploads/2020/09/Sarma-11-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarma | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5605AQG-rdSSfCDpgQ/videocover-low/B56ZQ_MC0fHoCQ-/0/1736226936390?e=2147483647&v=beta&t=QFfPUwbtEGpHYEAu0V7P9bPtk-c2jQQ6bafgJZNEXMc' alt='Sarma | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5605AQG-rdSSfCDpgQ/videocover-low/B56ZQ_MC0fHoCQ-/0/1736226936390?e=2147483647&v=beta&t=QFfPUwbtEGpHYEAu0V7P9bPtk-c2jQQ6bafgJZNEXMc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening – sarma.com">
+                                <img itemprop="contentUrl url" src='https://sarma.com/wp-content/uploads/2020/11/ACA-2.png' alt='Background Screening – sarma.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sarma.com" />
+                                </span>
+                                <a href='https://sarma.com/wp-content/uploads/2020/11/ACA-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Screening Services Corporation a division of Sarma - South ...">
+                                <img itemprop="contentUrl url" src='https://assets.noviams.com/novi-file-uploads/sefaa/members/united-screening-logo_front-cvr-flyer-2.png' alt='United Screening Services Corporation a division of Sarma - South ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEFAA" />
+                                </span>
+                                <a href='https://assets.noviams.com/novi-file-uploads/sefaa/members/united-screening-logo_front-cvr-flyer-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarma: Stuffed Sour Cabbage Rolls">
+                                <img itemprop="contentUrl url" src='https://balkanlunchbox.com/wp-content/uploads/2017/10/AR6A7851a.jpg' alt='Sarma: Stuffed Sour Cabbage Rolls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balkan Lunch Box" />
+                                </span>
+                                <a href='https://balkanlunchbox.com/wp-content/uploads/2017/10/AR6A7851a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>10 Timeless Vintage Thanksgiving Wallpaper Designs</title>
+                    <meta name="description" content="Discover the beauty of vintage Thanksgiving wallpaper! Transform your home with classic designs featuring autumn leaves, pumpkins, and cozy harvest themes. Perfect for creating a festive atmosphere for the holiday season, these wallpapers invite warmth and nostalgia into your celebrations. Explore our top picks today!">
+                    <meta name="keywords" content="vintage thanksgiving wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-thanksgiving-wallpaper">
+                            <span itemprop="name">vintage thanksgiving wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>10 Timeless Vintage Thanksgiving Wallpaper Designs</h1>
+                <p>Vintage Thanksgiving wallpaper adds a nostalgic charm to your holiday decor, transforming any space into a warm, inviting atmosphere. Featuring classic autumn motifs like pumpkins, turkeys, and falling leaves, these wallpapers evoke memories of cherished family gatherings. Perfect for creating a festive backdrop, they enhance the spirit of gratitude and togetherness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charming Vintage Thanksgiving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/5c/40/575c40dde3570d494efb0c31f9fe1112.jpg' alt='Charming Vintage Thanksgiving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/5c/40/575c40dde3570d494efb0c31f9fe1112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Turkey Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13888463/p/f/l/c5ZuXvkeYYZ1FrlL6J8QZslR3eoywQeMZEK_wswhWDq4TpeZOUi71nDWUQ/Thanksgiving%20approaching%2C%20vintage%20turkey%2C%20antique%20pumpkin%2Cfestive%20food%2C%20nostalgic%20colourful%20autumn%20leaves%20-%20dramatic%20strong%20contrast%20black%20.jpg' alt='Vintage Turkey Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13888463/p/f/l/c5ZuXvkeYYZ1FrlL6J8QZslR3eoywQeMZEK_wswhWDq4TpeZOUi71nDWUQ/Thanksgiving%20approaching%2C%20vintage%20turkey%2C%20antique%20pumpkin%2Cfestive%20food%2C%20nostalgic%20colourful%20autumn%20leaves%20-%20dramatic%20strong%20contrast%20black%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Vintage Image Turkey, Pumpkin, Corn Field, Barn Download  Printable Wall Art - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9009356/r/il/e07e2c/648989307/il_1080xN.648989307_877u.jpg' alt='Happy Thanksgiving Vintage Image Turkey, Pumpkin, Corn Field, Barn Download  Printable Wall Art - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9009356/r/il/e07e2c/648989307/il_1080xN.648989307_877u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Old Fashioned Thanksgiving ideas | thanksgiving, vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/75/01/3f/75013f29c43d48ad07d2685dfa815539.jpg' alt='250 Old Fashioned Thanksgiving ideas | thanksgiving, vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/75/01/3f/75013f29c43d48ad07d2685dfa815539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Thanksgiving Banner on Wooden Fence happy thanksgiving ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-thanksgiving-banner-wooden-fence-happy-thanksgiving-wallpaper-banner-background-image_1020697-632551.jpg' alt='Vintage Thanksgiving Banner on Wooden Fence happy thanksgiving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-thanksgiving-banner-wooden-fence-happy-thanksgiving-wallpaper-banner-background-image_1020697-632551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Thanksgiving Postcard: Thanksgiving Day">
+                                <img itemprop="contentUrl url" src='http://www.ribboncandyhooking.com/cdn/shop/products/Vintage_thanskgiving_day_1200x1200.png?v=1669301744' alt='Vintage Thanksgiving Postcard: Thanksgiving Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ribbon Candy Hooking" />
+                                </span>
+                                <a href='http://www.ribboncandyhooking.com/cdn/shop/products/Vintage_thanskgiving_day_1200x1200.png?v=1669301744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vintage-happy-thanksgiving-postcard - Gutiérrez Hubbell House">
+                                <img itemprop="contentUrl url" src='http://gutierrezhubbellhouse.org/home/wp-content/uploads/2014/03/vintage-happy-thanksgiving-postcard.jpg' alt='vintage-happy-thanksgiving-postcard - Gutiérrez Hubbell House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1132">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gutierrez Hubbell House" />
+                                </span>
+                                <a href='http://gutierrezhubbellhouse.org/home/wp-content/uploads/2014/03/vintage-happy-thanksgiving-postcard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 White Turkey Images - Vintage Thanksgiving! - The Graphics Fairy">
+                                <img itemprop="contentUrl url" src='https://thegraphicsfairy.com/wp-content/uploads/2020/10/White-Turkey-Girl-Thanksgiving-Image-GraphicsFairy.jpg' alt='7 White Turkey Images - Vintage Thanksgiving! - The Graphics Fairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1059">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Graphics Fairy" />
+                                </span>
+                                <a href='https://thegraphicsfairy.com/wp-content/uploads/2020/10/White-Turkey-Girl-Thanksgiving-Image-GraphicsFairy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Archives">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/58/55/ef5855675b3fcb4d20f2e387cd3624c5.jpg' alt='Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/58/55/ef5855675b3fcb4d20f2e387cd3624c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD vintage thanksgiving wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/785/386/HD-wallpaper-thanksgiving-dinner-holiday-vintage-butterfly-dream-american.jpg' alt='HD vintage thanksgiving wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/785/386/HD-wallpaper-thanksgiving-dinner-holiday-vintage-butterfly-dream-american.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

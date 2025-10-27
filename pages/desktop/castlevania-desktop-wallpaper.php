@@ -1,0 +1,129 @@
+<title>Stunning Castlevania Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover breathtaking Castlevania desktop wallpapers that bring the dark fantasy world to life. Perfect for die-hard fans and gamers, these stunning images will elevate your screen's aesthetic. Explore our collection today and transform your desktop into a tribute to this iconic series!">
+                    <meta name="keywords" content="castlevania desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/castlevania-desktop-wallpaper">
+                            <span itemprop="name">castlevania desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Castlevania Desktop Wallpapers for Gamers</h1>
+                <p>Transform your desktop with stunning Castlevania wallpapers that capture the dark, gothic essence of this beloved game series. From iconic characters like Dracula and Simon Belmont to haunting landscapes, these wallpapers will immerse you in the world of Castlevania. Perfect for gamers and fans alike, enhance your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania: Symphony of the Night (PSX) - Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://fantasyanime.com/valhalla/castlevaniasotn/images/castlevania-sotn-wlpr01_3840x2160.jpg' alt='Castlevania: Symphony of the Night (PSX) - Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FantasyAnime" />
+                                </span>
+                                <a href='https://fantasyanime.com/valhalla/castlevaniasotn/images/castlevania-sotn-wlpr01_3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dracula (Castlevania) Trevor Belmont Anime Castlevania HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/971/971960.jpg' alt='Download Dracula (Castlevania) Trevor Belmont Anime Castlevania HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/971/971960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Castlevania Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/castlevania-9ym4u6d7uyfye4kd.jpg' alt='100+] Castlevania Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/castlevania-9ym4u6d7uyfye4kd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/4/c/45749-3840x2160-desktop-4k-castlevania-netflix-wallpaper-photo.jpg' alt='Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/4/c/45749-3840x2160-desktop-4k-castlevania-netflix-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alucard: HD Wallpaper from Castlevania's Magical Battle by Ayami ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/821/82157.jpg' alt='Alucard: HD Wallpaper from Castlevania's Magical Battle by Ayami ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/821/82157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania Digital Art Wallpaper, HD TV Series 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/castlevania-digital-art_bGpnZmuUmZqaraWkpJRnZWltrWZmamc.jpg' alt='Castlevania Digital Art Wallpaper, HD TV Series 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/castlevania-digital-art_bGpnZmuUmZqaraWkpJRnZWltrWZmamc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Castlevania, Castlevania: Symphony of the Night ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/f2/e9/18f2e9391506dbbbf5da340c1ba0a38f.jpg' alt='HD wallpaper: Castlevania, Castlevania: Symphony of the Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/f2/e9/18f2e9391506dbbbf5da340c1ba0a38f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take On The The Forces Of Darkness In One Of The Most Iconic Video ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/take-on-the-the-forces-of-darkness-in-one-of-the-most-iconic-video-game-series-ever-castlevania-svwqdjsy1aqnz9rx.jpg' alt='Take On The The Forces Of Darkness In One Of The Most Iconic Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/take-on-the-the-forces-of-darkness-in-one-of-the-most-iconic-video-game-series-ever-castlevania-svwqdjsy1aqnz9rx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania [Netflix] S.2 Wallpaper HD : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ch8cmar8hju11.png' alt='Castlevania [Netflix] S.2 Wallpaper HD : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ch8cmar8hju11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/5olbfFpWF6el8D07Tma5FE6wKm7sLxZorUVOPPJyh1vaO8532-DiOSuj6IEk3hBKPxgkDi569onGFZdZ-fxFy7ehJQ=s1280-w1280-h800' alt='Castlevania - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/5olbfFpWF6el8D07Tma5FE6wKm7sLxZorUVOPPJyh1vaO8532-DiOSuj6IEk3hBKPxgkDi569onGFZdZ-fxFy7ehJQ=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Honoring Heroes: Stunning Remembrance Day Images</title>
+                    <meta name="description" content="Explore captivating Remembrance Day images that commemorate the bravery of our heroes. From poignant ceremonies to vibrant tributes, these visuals capture the essence of remembrance and gratitude. Share and reflect on the sacrifices made for peace with our curated gallery of heartfelt images.">
+                    <meta name="keywords" content="remembrance day images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/remembrance-day-images">
+                            <span itemprop="name">remembrance day images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Honoring Heroes: Stunning Remembrance Day Images</h1>
+                <p>Remembrance Day images evoke powerful emotions and memories, honoring those who served and sacrificed for their country. From solemn ceremonies to vibrant poppy displays, each image tells a story of bravery and dedication. These visuals serve as poignant reminders of the importance of peace and gratitude, ensuring that the legacy of heroes endures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Remembrance Day Poppy Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1277469865/vector/remembrance-day-lest-we-forget.jpg?s=612x612&w=0&k=20&c=wm80f-rgTXJChBYJHX4BRMEcVMDM1kd0g-A_LLCk900=' alt='1,400+ Remembrance Day Poppy Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1277469865/vector/remembrance-day-lest-we-forget.jpg?s=612x612&w=0&k=20&c=wm80f-rgTXJChBYJHX4BRMEcVMDM1kd0g-A_LLCk900=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things to do on Remembrance Day in London | Go City®">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/gc-v1/london-pass/Shutterstock_1827887714?_a=BAVARSAP0' alt='Things to do on Remembrance Day in London | Go City®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The London Pass" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/gc-v1/london-pass/Shutterstock_1827887714?_a=BAVARSAP0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembrance Day Silhouette Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-remembrance-day-illustration_52683-74636.jpg' alt='Remembrance Day Silhouette Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-remembrance-day-illustration_52683-74636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teaching the True Meaning of Remembrance Day to Children - Wee College">
+                                <img itemprop="contentUrl url" src='https://weecollege.com/wp-content/uploads/2023/11/remmmm.jpg' alt='Teaching the True Meaning of Remembrance Day to Children - Wee College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wee College" />
+                                </span>
+                                <a href='https://weecollege.com/wp-content/uploads/2023/11/remmmm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40,079 Remembrance Day Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/military-helmet-lies-field-bright-red-poppies-evoking-remembrance-day-honoring-who-served-rests-vibrant-333263299.jpg' alt='40,079 Remembrance Day Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/military-helmet-lies-field-bright-red-poppies-evoking-remembrance-day-honoring-who-served-rests-vibrant-333263299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembrance Day, Poppy Flowers, Armistice Day - Woodlawn Memorial ...">
+                                <img itemprop="contentUrl url" src='https://www.woodlawnmemorialpark.ca/wp-content/uploads/2019/11/iStock-1072767290.jpg' alt='Remembrance Day, Poppy Flowers, Armistice Day - Woodlawn Memorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodlawn Memorial Park" />
+                                </span>
+                                <a href='https://www.woodlawnmemorialpark.ca/wp-content/uploads/2019/11/iStock-1072767290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poppy Remembrance Stock Illustrations – 6,963 Poppy Remembrance ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/red-poppy-remembrance-day-79689397.jpg' alt='Poppy Remembrance Stock Illustrations – 6,963 Poppy Remembrance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/red-poppy-remembrance-day-79689397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reflections on Remembrance Day | Blog | First Alliance Church, Calgary">
+                                <img itemprop="contentUrl url" src='https://www.faccalgary.com/wp-content/uploads/2023/11/oscar-nord-V0kdKo5CV0U-unsplash-1.webp' alt='Reflections on Remembrance Day | Blog | First Alliance Church, Calgary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Alliance Church" />
+                                </span>
+                                <a href='https://www.faccalgary.com/wp-content/uploads/2023/11/oscar-nord-V0kdKo5CV0U-unsplash-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembrance Day" Images – Browse 35,098 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/82/44/35/360_F_982443555_huk6eDcx3d0G25lmpyD9mPVg7Aixg85S.jpg' alt='Remembrance Day" Images – Browse 35,098 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/82/44/35/360_F_982443555_huk6eDcx3d0G25lmpyD9mPVg7Aixg85S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembrance Day Ceremony » Nipissing First Nation">
+                                <img itemprop="contentUrl url" src='https://nfn.ca/wp-content/uploads/2019/10/Remembrance-Day-1024x576.jpg' alt='Remembrance Day Ceremony » Nipissing First Nation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nipissing First Nation" />
+                                </span>
+                                <a href='https://nfn.ca/wp-content/uploads/2019/10/Remembrance-Day-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

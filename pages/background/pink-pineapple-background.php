@@ -1,0 +1,129 @@
+<title>Vibrant Pink Pineapple Backgrounds for Trendy Decor</title>
+                    <meta name="description" content="Discover the charm of pink pineapple backgrounds! Ideal for wallpapers and décor, these vibrant designs bring a playful touch to your space. Perfect for adding a tropical vibe wherever you need it. Explore our collection now!">
+                    <meta name="keywords" content="pink pineapple background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-pineapple-background">
+                            <span itemprop="name">pink pineapple background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Pineapple Backgrounds for Trendy Decor</h1>
+                <p>Transform your space with a trendy pink pineapple background that adds a vibrant touch to any décor. Perfect for phone wallpapers, social media, or home design, this eye-catching pattern merges tropical vibes with playful elegance. Embrace the unique blend of style and fun that a pink pineapple backdrop offers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Bold Pink Pineapple Peel and Stick Wallpaper Watercolor Pink  Wallpaper 17.7''x354'' Pink Contact Paper Decorative Self Adhesive  Removable Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81x-K55kVVL.jpg' alt='VEELIKE Bold Pink Pineapple Peel and Stick Wallpaper Watercolor Pink  Wallpaper 17.7''x354'' Pink Contact Paper Decorative Self Adhesive  Removable Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81x-K55kVVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Pink III">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/77378/pineapple-pink-iii.jpg?h=699&q=85' alt='Pineapple Pink III'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/77378/pineapple-pink-iii.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pineapple Images – Browse 55,966 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/37/06/54/360_F_1137065411_JpNVJiycSk6Leu5hOVIk9CK1yBAkO03S.jpg' alt='Pink Pineapple Images – Browse 55,966 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/37/06/54/360_F_1137065411_JpNVJiycSk6Leu5hOVIk9CK1yBAkO03S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pineapple Pattern by dylanxh | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e2/7d/e6/e27de6bcf2a4bdc92a1f0b6f16dcc123.jpg' alt='Pink Pineapple Pattern by dylanxh | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e2/7d/e6/e27de6bcf2a4bdc92a1f0b6f16dcc123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pineapple Pink VI">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/77510/pineapple-pink-vi.jpg?h=699&q=85' alt='Pineapple Pink VI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/77510/pineapple-pink-vi.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Pineapples Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/3500/pastel_pink_pineapples_limited.jpg' alt='Pastel Pink Pineapples Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/3500/pastel_pink_pineapples_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Pink pineapple wallpaper ideas | pineapple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e4/15/81/e41581f157c57f6c59c16204e11d626d.jpg' alt='7 Best Pink pineapple wallpaper ideas | pineapple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e4/15/81/e41581f157c57f6c59c16204e11d626d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pineapple fabric and wallpaper Fabric bymagentarosedesigns">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9924552/p/f/m/z0AHuf7w7AZa5GTMmJH09VqpxMbAmbORorRRF8ANrh7DNgxyTkDLrEe-/Pink_Pineapple_fabric_and_wallpaper.jpg' alt='Pink Pineapple fabric and wallpaper Fabric bymagentarosedesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9924552/p/f/m/z0AHuf7w7AZa5GTMmJH09VqpxMbAmbORorRRF8ANrh7DNgxyTkDLrEe-/Pink_Pineapple_fabric_and_wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,600+ Pink Pineapple Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/699565098/photo/painted-pink-pineapple-with-sunglasses.jpg?s=612x612&w=0&k=20&c=P8sN6a_FIZytiF_d51CW_8YAfnBNkm5ha6qRPzHPS2Y=' alt='11,600+ Pink Pineapple Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/699565098/photo/painted-pink-pineapple-with-sunglasses.jpg?s=612x612&w=0&k=20&c=P8sN6a_FIZytiF_d51CW_8YAfnBNkm5ha6qRPzHPS2Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pineapple Background Images – Browse 40,723 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/37/06/53/360_F_1137065396_MFuCRPQELChGPT2S7CSjk83vIrZnVbS5.jpg' alt='Pink Pineapple Background Images – Browse 40,723 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/37/06/53/360_F_1137065396_MFuCRPQELChGPT2S7CSjk83vIrZnVbS5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

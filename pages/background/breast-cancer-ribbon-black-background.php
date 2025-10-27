@@ -1,0 +1,129 @@
+<title>Breast Cancer Awareness: The Significance of the Black Ribbon</title>
+                    <meta name="description" content="Discover the meaning behind the breast cancer ribbon against a black background. This imagery signifies the struggle, remembrance, and determination in the fight against breast cancer. Join us in raising awareness and advocating for support and research in this critical health issue.">
+                    <meta name="keywords" content="breast cancer ribbon black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/breast-cancer-ribbon-black-background">
+                            <span itemprop="name">breast cancer ribbon black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Breast Cancer Awareness: The Significance of the Black Ribbon</h1>
+                <p>Breast cancer awareness is symbolized by a pink ribbon, but the black background represents the fight against the disease's severe realities. It embodies solidarity, strength, and remembrance for those affected. This contrasting imagery highlights the importance of raising awareness and honoring survivors while advocating for more research and support.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink ribbon breast cancer on black background with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-ribbon-breast-cancer-black-background-with-copy-space_483511-1572.jpg' alt='Premium Photo | Pink ribbon breast cancer on black background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-ribbon-breast-cancer-black-background-with-copy-space_483511-1572.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ribbon Breast Cancer Awareness Support Black Design">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51KWyrlscaL.jpg' alt='Pink Ribbon Breast Cancer Awareness Support Black Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51KWyrlscaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Breast cancer awareness ribbon on black smokey ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/breast-cancer-awareness-ribbon-black-smokey-background_185193-55081.jpg' alt='Premium Photo | Breast cancer awareness ribbon on black smokey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/breast-cancer-awareness-ribbon-black-smokey-background_185193-55081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,278 Black Awareness Ribbon Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/awareness-ribbon-sign-vector-pink-260nw-628538684.jpg' alt='19,278 Black Awareness Ribbon Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/awareness-ribbon-sign-vector-pink-260nw-628538684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,692 Breast Cancer Pink Ribbon On Black Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/77/52/64/7752649d3a8f1e6e40b5dbe309c7ce1e.jpg' alt='4,692 Breast Cancer Pink Ribbon On Black Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/77/52/64/7752649d3a8f1e6e40b5dbe309c7ce1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink ribbon on black paper for supporting breast ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-ribbon-black-paper-supporting-breast-cancer-awareness_53476-4102.jpg' alt='Premium Photo | Pink ribbon on black paper for supporting breast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-ribbon-black-paper-supporting-breast-cancer-awareness_53476-4102.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,560 Black Cancer Ribbon Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/breast-cancer-sensibilation-banner-pink-ribbon-isolated-black-background-173145453.jpg' alt='3,560 Black Cancer Ribbon Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/breast-cancer-sensibilation-banner-pink-ribbon-isolated-black-background-173145453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130+ Breast Cancer Awareness Ribbon On Black Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/537534290/vector/vector-pink-ribbon-breast-cancer-awareness-symboll.jpg?s=612x612&w=0&k=20&c=pLahFxilBhtHPTU3WCeeUvopgzELmwZ4hGntT2HkjFQ=' alt='130+ Breast Cancer Awareness Ribbon On Black Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/537534290/vector/vector-pink-ribbon-breast-cancer-awareness-symboll.jpg?s=612x612&w=0&k=20&c=pLahFxilBhtHPTU3WCeeUvopgzELmwZ4hGntT2HkjFQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isolated pink color ribbon on the black background">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/38/30/isolated-pink-color-ribbon-on-the-black-background-vector-10663830.jpg' alt='Isolated pink color ribbon on the black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/38/30/isolated-pink-color-ribbon-on-the-black-background-vector-10663830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast cancer awareness symbol. Pink ribbon isolated on black ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/511/398/small_2x/word-cloud-breast-cancer-ribbon-t-shirt-design-free-vector.jpg' alt='Breast cancer awareness symbol. Pink ribbon isolated on black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/511/398/small_2x/word-cloud-breast-cancer-ribbon-t-shirt-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

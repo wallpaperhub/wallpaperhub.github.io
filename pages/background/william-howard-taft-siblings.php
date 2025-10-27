@@ -1,0 +1,129 @@
+<title>William Howard Taft: A Look at His Siblings</title>
+                    <meta name="description" content="Explore the fascinating family background of William Howard Taft, the 27th US President. Discover insights into his siblings and how they influenced his life and political career, all in a concise read designed for mobile users.">
+                    <meta name="keywords" content="william howard taft siblings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/william-howard-taft-siblings">
+                            <span itemprop="name">william howard taft siblings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>William Howard Taft: A Look at His Siblings</h1>
+                <p>William Howard Taft, the 27th President of the United States, was part of a notable family. He had three siblings: Helen, Charles, and Edward. The Taft siblings grew up in a politically engaged household, influenced by their father's role in law and politics. Their close-knit family dynamic played a role in shaping Taft's character and leadership style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Howard Taft's Children | Grateful American® Foundation">
+                                <img itemprop="contentUrl url" src='https://gratefulamericanfoundation.com/wp-content/uploads/2019/07/Taft-with-children-2-3-e1607567193798.jpg' alt='William Howard Taft's Children | Grateful American® Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grateful American® Foundation" />
+                                </span>
+                                <a href='https://gratefulamericanfoundation.com/wp-content/uploads/2019/07/Taft-with-children-2-3-e1607567193798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Howard Taft's Children - America250">
+                                <img itemprop="contentUrl url" src='https://america250.org/wp-content/uploads/2023/05/William-Taft-and-family-in-Washington-D.C.-home-1000x807.jpeg' alt='William Howard Taft's Children - America250'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="America 250" />
+                                </span>
+                                <a href='https://america250.org/wp-content/uploads/2023/05/William-Taft-and-family-in-Washington-D.C.-home-1000x807.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerging scandals put Taft family's reputation in peril | The Blade">
+                                <img itemprop="contentUrl url" src='https://www.toledoblade.com/image/2005/06/26/1140x_a10-7_cTC/Emerging-scandals-put-family-s-reputation-in-peril.jpg' alt='Emerging scandals put Taft family's reputation in peril | The Blade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toledo Blade" />
+                                </span>
+                                <a href='https://www.toledoblade.com/image/2005/06/26/1140x_a10-7_cTC/Emerging-scandals-put-family-s-reputation-in-peril.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Taft influence, University of Cincinnati">
+                                <img itemprop="contentUrl url" src='https://magazine.uc.edu/content/dam/magazine/images/0413/Taft_influence/Taft%20opening.jpg' alt='The Taft influence, University of Cincinnati'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UC News - University of Cincinnati" />
+                                </span>
+                                <a href='https://magazine.uc.edu/content/dam/magazine/images/0413/Taft_influence/Taft%20opening.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1911 Print William Taft Family President Portrait Yale ORIGINAL HISTORIC PM2">
+                                <img itemprop="contentUrl url" src='https://www.periodpaper.com/cdn/shop/products/PM2_784.jpg?v=1571709972' alt='1911 Print William Taft Family President Portrait Yale ORIGINAL HISTORIC PM2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Period Paper Historic Art LLC" />
+                                </span>
+                                <a href='https://www.periodpaper.com/cdn/shop/products/PM2_784.jpg?v=1571709972' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helen Taft Biography :: National First Ladies' Library">
+                                <img itemprop="contentUrl url" src='http://archive.firstladies.org/images/biographies/taft/TAFT%20E.jpg' alt='Helen Taft Biography :: National First Ladies' Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="579">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National First Ladies' Library" />
+                                </span>
+                                <a href='http://archive.firstladies.org/images/biographies/taft/TAFT%20E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helen Taft Biography :: National First Ladies' Library">
+                                <img itemprop="contentUrl url" src='http://archive.firstladies.org/images/biographies/taft/TAFT%20H.jpg' alt='Helen Taft Biography :: National First Ladies' Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National First Ladies' Library" />
+                                </span>
+                                <a href='http://archive.firstladies.org/images/biographies/taft/TAFT%20H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helen Herron Taft - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/President_Taft_and_his_family_%281912%29.png/220px-President_Taft_and_his_family_%281912%29.png' alt='Helen Herron Taft - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/President_Taft_and_his_family_%281912%29.png/220px-President_Taft_and_his_family_%281912%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will and Nellie Taft: A Modern Marriage, Part 1 | Presidential ...">
+                                <img itemprop="contentUrl url" src='https://featherschwartzfoster.blog/wp-content/uploads/2020/05/the-tafts.jpg' alt='Will and Nellie Taft: A Modern Marriage, Part 1 | Presidential ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Presidential History Blog" />
+                                </span>
+                                <a href='https://featherschwartzfoster.blog/wp-content/uploads/2020/05/the-tafts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Howard Taft Family by Granger">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large/william-howard-taft-family-granger.jpg' alt='William Howard Taft Family by Granger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Granger Art on Demand" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large/william-howard-taft-family-granger.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

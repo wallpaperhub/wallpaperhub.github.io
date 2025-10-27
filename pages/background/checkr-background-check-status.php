@@ -1,0 +1,129 @@
+<title>Checkr Background Check Status: Here’s How to Check</title>
+                    <meta name="description" content="Stay updated on your Checkr background check status easily. Discover how to quickly check if your check is in progress or completed. Get insights on any potential issues and move forward with your application process effortlessly. Knowing your background check status is just a click away!">
+                    <meta name="keywords" content="checkr background check status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/checkr-background-check-status">
+                            <span itemprop="name">checkr background check status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Checkr Background Check Status: Here’s How to Check</h1>
+                <p>To check the status of your Checkr background check, log into your Checkr account. Navigate to the "Background Checks" section and locate the specific check you want to review. Here, you can view the current status, such as "In Progress," "Completed," or any issues that may have arisen. Stay informed and be proactive in your application process!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Background Check Statuses and Results | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/776x450/abace457f3/customer-webinar-february-2024-eventspage-388x225.png/m/' alt='Understanding Background Check Statuses and Results | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/776x450/abace457f3/customer-webinar-february-2024-eventspage-388x225.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Employee Background Report | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/9ea5c35aaf/checkr-sample-report_01-scaled-1.jpeg/m/' alt='Sample Employee Background Report | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1272">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/9ea5c35aaf/checkr-sample-report_01-scaled-1.jpeg/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which Background Check is Right For You? | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/51d9289fdd/pmm_editable-packages-animation_clip-2_v2.gif/m/' alt='Which Background Check is Right For You? | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/51d9289fdd/pmm_editable-packages-animation_clip-2_v2.gif/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to track background check status with Freshteam-Checkr ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19085573597/original/xGdlv5StJb5pNbw3-gjxFzZ3d60Lgcg9Aw.PNG?1639389170' alt='How to track background check status with Freshteam-Checkr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1747">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freshteam" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19085573597/original/xGdlv5StJb5pNbw3-gjxFzZ3d60Lgcg9Aw.PNG?1639389170' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What information do I receive from a background check through ...">
+                                <img itemprop="contentUrl url" src='https://help.workable.com/hc/article_attachments/21216966948887' alt='What information do I receive from a background check through ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1617">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Workable Help" />
+                                </span>
+                                <a href='https://help.workable.com/hc/article_attachments/21216966948887' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="International Campaign - Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/242c0bf6b8/candidate-report-and-dashboard-2.png/m/' alt='International Campaign - Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1319">
+                                <meta itemprop="height" content="970">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/242c0bf6b8/candidate-report-and-dashboard-2.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Read a Background Check | Checkr Blog">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/filters:quality(0):blur(15)/' alt='How To Read a Background Check | Checkr Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1440x1000/59b926f0a6/checkr-web-article-how-to-read-bgc.webp/m/filters:quality(0):blur(15)/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've turned my life around and my background check report doesn't ...">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002hNR&feoid=00NQr000002fF8Q&refid=0EMQr00000963J1' alt='I've turned my life around and my background check report doesn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002hNR&feoid=00NQr000002fF8Q&refid=0EMQr00000963J1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Status Tracking in Axxess Care">
+                                <img itemprop="contentUrl url" src='https://www.axxess.com/help/wp-content/uploads/sites/2/2023/06/screenshot-iPhone-13-Pro-15.0-9-1.png' alt='Background Check Status Tracking in Axxess Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="2317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Axxess" />
+                                </span>
+                                <a href='https://www.axxess.com/help/wp-content/uploads/sites/2/2023/06/screenshot-iPhone-13-Pro-15.0-9-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

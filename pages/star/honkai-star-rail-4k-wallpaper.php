@@ -1,0 +1,129 @@
+<title>Honkai Star Rail: Stunning 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 4K wallpapers from Honkai Star Rail! Perfect for fans, these high-resolution images bring your favorite characters and scenes to life. Download now to elevate your screens with incredible visuals! Easy to access and mobile-friendly, making your devices stand out.">
+                    <meta name="keywords" content="honkai star rail 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/honkai-star-rail-4k-wallpaper">
+                            <span itemprop="name">honkai star rail 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Honkai Star Rail: Stunning 4K Wallpapers for Your Device</h1>
+                <p>Elevate your device's aesthetics with stunning 4K wallpapers from Honkai Star Rail. Featuring high-resolution images of your favorite characters and breathtaking landscapes, these wallpapers will immerse you in the game's universe. Perfect for any fan looking to enhance their screen with vibrant visuals and dynamic art styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kafka (Honkai: Star Rail) Blade (Honkai: Star Rail ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/132/1328243.jpeg' alt='Download Kafka (Honkai: Star Rail) Blade (Honkai: Star Rail ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/132/1328243.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Honkai Star Rail 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2484371601597098828/FE97C2C0C562B2465AABAD7F4140B2C46D975EC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Honkai Star Rail 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2484371601597098828/FE97C2C0C562B2465AABAD7F4140B2C46D975EC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Honkai: Star Rail 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/129/1296424.jpg' alt='Download Video Game Honkai: Star Rail 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/129/1296424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail wallpaper for mobile and PC">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper-astral-express.jpg' alt='Honkai Star Rail wallpaper for mobile and PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper-astral-express.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official (with logo) "Wallpaper" image, in 4K! : r/HonkaiStarRail">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tva0ionbqaw81.jpg' alt='Official (with logo) "Wallpaper" image, in 4K! : r/HonkaiStarRail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tva0ionbqaw81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1+ Honkai Star Rail HD Wallpapers in 4K, 3840x2160 Resolution ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/wl-star-rail-4k-firefly-honkai-2024-art_92337.jpg' alt='1+ Honkai Star Rail HD Wallpapers in 4K, 3840x2160 Resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/wl-star-rail-4k-firefly-honkai-2024-art_92337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stelle (Honkai: Star Rail) Kafka (Honkai: Star Rail ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/132/1328242.jpeg' alt='Download Stelle (Honkai: Star Rail) Kafka (Honkai: Star Rail ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/132/1328242.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail wallpaper for mobile and PC">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper.jpg' alt='Honkai Star Rail wallpaper for mobile and PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/honkai-star-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai: Star Rail Wallpaper 4K, Video Game, Characters, Stelle">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/honkai-star-rail-3840x2160-13869.jpg' alt='Honkai: Star Rail Wallpaper 4K, Video Game, Characters, Stelle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/honkai-star-rail-3840x2160-13869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Honkai: Star Rail - Robin 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2514774704643006729/1A8BDC342E968554C7CCF8624E33CB5527C9316E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Honkai: Star Rail - Robin 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2514774704643006729/1A8BDC342E968554C7CCF8624E33CB5527C9316E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

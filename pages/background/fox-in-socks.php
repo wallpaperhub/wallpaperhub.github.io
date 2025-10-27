@@ -1,0 +1,129 @@
+<title>Fun with Fox in Socks: A Rhyming Adventure</title>
+                    <meta name="description" content="Discover the playful journey of "Fox in Socks," a delightful story that combines clever rhymes and vibrant illustrations. Perfect for kids and parents alike, this whimsical tale encourages creativity and strengthens reading skills through fun tongue twisters. Join the adventure today!">
+                    <meta name="keywords" content="fox in socks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fox-in-socks">
+                            <span itemprop="name">fox in socks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun with Fox in Socks: A Rhyming Adventure</h1>
+                <p>In the whimsical world of "Fox in Socks," a clever fox dons colorful socks while engaging in a playful rhyming adventure. This delightful tale invites readers to explore a magical landscape filled with tongue-twisting fun. Bursting with creativity, it inspires imagination, laughter, and a love for reading. Join the fox in his charming escapades!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fox in Socks (Beginner Books): 9780394800387: Dr. Seuss,  Theodore Geisel: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81FCWL2XNiL.jpg' alt='Amazon.com: Fox in Socks (Beginner Books): 9780394800387: Dr. Seuss,  Theodore Geisel: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1868">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81FCWL2XNiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox in Socks: Green Back Book (Dr Seuss - Green Back Book)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Stz2E3kIL._AC_UF1000,1000_QL80_.jpg' alt='Fox in Socks: Green Back Book (Dr Seuss - Green Back Book)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Stz2E3kIL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox in Socks by Dr. Seuss on Apple Books">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/a4/b7/21/a4b721e3-051d-3f74-105e-868c4a4f6fec/9780385372077.jpg/1200x1200wz.jpg' alt='Fox in Socks by Dr. Seuss on Apple Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Books" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/a4/b7/21/a4b721e3-051d-3f74-105e-868c4a4f6fec/9780385372077.jpg/1200x1200wz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knox in Box. Fox in Socks. - Single (unframed) — The Art of Dr. Seuss  Collection, Published by Chaseart Companies">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52f51a96e4b0ec7646cd474a/1611857145004-XW7M5SBIU4ZB12HHT3FR/Fox+in+Sox+Single+sm+shadow.png?format=1000w' alt='Knox in Box. Fox in Socks. - Single (unframed) — The Art of Dr. Seuss  Collection, Published by Chaseart Companies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art of Dr. Seuss" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52f51a96e4b0ec7646cd474a/1611857145004-XW7M5SBIU4ZB12HHT3FR/Fox+in+Sox+Single+sm+shadow.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Seuss Fox in Socks Handstand christmas present by Lex Ajwa">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dr-seuss-fox-in-socks-handstand-christmas-present-lex-ajwa.jpg' alt='Dr Seuss Fox in Socks Handstand christmas present by Lex Ajwa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dr-seuss-fox-in-socks-handstand-christmas-present-lex-ajwa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox in Socks Svg, Dr Seuss Svg, Dr Seuss Clipart, Dr Seuss Hat Svg, Cat In  the Hat Svg, Dr Seuss Teacher Svg, Png">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1702949069_11.png' alt='Fox in Socks Svg, Dr Seuss Svg, Dr Seuss Clipart, Dr Seuss Hat Svg, Cat In  the Hat Svg, Dr Seuss Teacher Svg, Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5765">
+                                <meta itemprop="height" content="5537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1702949069_11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox in Socks - Seussville">
+                                <img itemprop="contentUrl url" src='https://www.seussville.com/app/uploads/2019/11/game_fox.jpg' alt='Fox in Socks - Seussville'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seussville" />
+                                </span>
+                                <a href='https://www.seussville.com/app/uploads/2019/11/game_fox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora® - Dr. Seuss™ - 12" Fox In Socks">
+                                <img itemprop="contentUrl url" src='https://auroragift.com/cdn/shop/products/15930a_d5c8b223-55f9-478a-9979-458e06608893.jpg?v=1595618360' alt='Aurora® - Dr. Seuss™ - 12" Fox In Socks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2588">
+                                <meta itemprop="height" content="3398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aurora World" />
+                                </span>
+                                <a href='https://auroragift.com/cdn/shop/products/15930a_d5c8b223-55f9-478a-9979-458e06608893.jpg?v=1595618360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DR. SEUSS FOX IN SOCKS FIRST EDITION 1965">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/A~wAAOSwwxlgypSy/s-l1200.jpg' alt='DR. SEUSS FOX IN SOCKS FIRST EDITION 1965'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/A~wAAOSwwxlgypSy/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox In Socks 50th Anniversary by Dr. Seuss | Printed Editions">
+                                <img itemprop="contentUrl url" src='https://www.printed-editions.com/wp-content/uploads/2022/06/Dr.-Seuss-FOX-IN-SOCKS-50TH-ANNIVERSARY.jpg' alt='Fox In Socks 50th Anniversary by Dr. Seuss | Printed Editions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printed Editions" />
+                                </span>
+                                <a href='https://www.printed-editions.com/wp-content/uploads/2022/06/Dr.-Seuss-FOX-IN-SOCKS-50TH-ANNIVERSARY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

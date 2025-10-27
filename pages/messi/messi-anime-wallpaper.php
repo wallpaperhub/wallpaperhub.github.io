@@ -1,0 +1,129 @@
+<title>Epic Messi Anime Wallpapers for Football Fans</title>
+                    <meta name="description" content="Discover captivating Messi anime wallpapers that blend sports and art. Perfect for football enthusiasts, these designs showcase the magic of Messi in vibrant, unique styles. Elevate your device's appearance with stunning visuals that celebrate one of football's greatest icons!">
+                    <meta name="keywords" content="messi anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-anime-wallpaper">
+                            <span itemprop="name">messi anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Messi Anime Wallpapers for Football Fans</h1>
+                <p>Explore the vibrant world of Messi anime wallpaper, where the legendary footballer comes to life in stunning illustrations. Whether you’re a die-hard fan or just love unique art, you'll find wallpapers that capture Messi's incredible skills and personality. Perfect for personalizing your devices while celebrating your hero!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime x #Football - Messi in Bluelock   Tag a Messi fan   I know I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3377646907215554650' alt='Anime x #Football - Messi in Bluelock   Tag a Messi fan   I know I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3377646907215554650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi 10 Football Player Anime Wall Sticker Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51RB97N3d4L.jpg' alt='Messi 10 Football Player Anime Wall Sticker Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com.be" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51RB97N3d4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Anime Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/1f/8c/151f8c4145675a75dbee852ebc5b9dd4.jpg' alt='Messi Anime Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/1f/8c/151f8c4145675a75dbee852ebc5b9dd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/03/98/0f0398fe005ef107fb3d4dc274e65af8.jpg' alt='124+ Cool Lionel Messi Wallpaper HD For Free Download | 121 Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/03/98/0f0398fe005ef107fb3d4dc274e65af8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Football ideas | football wallpaper, soccer art, messi vs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/36/f6/59/36f65981531a71c359dbddcc1cee2b93.jpg' alt='11 Football ideas | football wallpaper, soccer art, messi vs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/36/f6/59/36f65981531a71c359dbddcc1cee2b93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Anime wallpaper by Adrissl17 - Download on ZEDGE™ | 384d">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=r1gi2gDZLnKmnnEOWQRtRxd0_1lgma5b0CeIaS2WkSZ66h4bio8HoDvrKASwaWXoy0YADm8lvu5lcdg8rxDD5C0HbPGv1wy1Nkj4G1gxPzxmoPbFrsgLRxjWq9NlsSq6co11B4F2jgbYosNOCyF_StjjANqPav9Kw-Xlsd05vYpkdB_CJL8QJiYkAd8fANNLE9b5F-C2kXN7twJcYjiFsegNxKkC3nqlDwJDTQ' alt='Messi Anime wallpaper by Adrissl17 - Download on ZEDGE™ | 384d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=r1gi2gDZLnKmnnEOWQRtRxd0_1lgma5b0CeIaS2WkSZ66h4bio8HoDvrKASwaWXoy0YADm8lvu5lcdg8rxDD5C0HbPGv1wy1Nkj4G1gxPzxmoPbFrsgLRxjWq9NlsSq6co11B4F2jgbYosNOCyF_StjjANqPav9Kw-Xlsd05vYpkdB_CJL8QJiYkAd8fANNLE9b5F-C2kXN7twJcYjiFsegNxKkC3nqlDwJDTQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime x #Football - Messi in Bluelock   Tag a Messi fan   I know I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3377646907207121686' alt='Anime x #Football - Messi in Bluelock   Tag a Messi fan   I know I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1375">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3377646907207121686' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi anime    wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DFNociqs_Ha/2/image.jpg' alt='Messi anime    wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DFNociqs_Ha/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omar Momani - Leo Messi FC Barcelona | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10210039201670712' alt='Omar Momani - Leo Messi FC Barcelona | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10210039201670712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chibi Anime Lionel Messi GOAT Soccer Player Transparent Sticker - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43164270/r/il/488fae/5376139945/il_fullxfull.5376139945_12ri.jpg' alt='Chibi Anime Lionel Messi GOAT Soccer Player Transparent Sticker - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43164270/r/il/488fae/5376139945/il_fullxfull.5376139945_12ri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

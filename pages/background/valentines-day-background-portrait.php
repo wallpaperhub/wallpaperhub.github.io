@@ -1,0 +1,129 @@
+<title>Valentine's Day Portrait Backgrounds: Capture Love's Essence</title>
+                    <meta name="description" content="Discover beautiful Valentine's Day portrait backgrounds to enhance your romantic moments. Perfect for any celebration, our designs add a special touch to your love-themed photos. Elevate your photography and create lasting memories with our enchanting backdrops, ideal for couples and friends alike!">
+                    <meta name="keywords" content="valentines day background portrait">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/valentines-day-background-portrait">
+                            <span itemprop="name">valentines day background portrait</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Valentine's Day Portrait Backgrounds: Capture Love's Essence</h1>
+                <p>Celebrate love with a Valentine's Day background portrait that captures the essence of romance! Choose from enchanting floral designs, soft pastels, or sweet heart motifs to create a stunning backdrop for your cherished memories. Perfect for couples, friends, or family, these portraits evoke warmth and affection on this special day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,400+ Valentines Day Background Vertical Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1456675470/vector/valentines-day-3d-heart-frame-background.jpg?s=612x612&w=0&k=20&c=13IrCEyVl68PVq-hLkJGvssgcN4LBUNbvU2SCuKqKwU=' alt='17,400+ Valentines Day Background Vertical Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1456675470/vector/valentines-day-3d-heart-frame-background.jpg?s=612x612&w=0&k=20&c=13IrCEyVl68PVq-hLkJGvssgcN4LBUNbvU2SCuKqKwU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Background Vertical Images – Browse 103,653 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/79/98/57/360_F_479985790_ldKsTV66rVlwMWVPlM1s0fzR6BUpqOiP.jpg' alt='Valentines Background Vertical Images – Browse 103,653 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/79/98/57/360_F_479985790_ldKsTV66rVlwMWVPlM1s0fzR6BUpqOiP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Backdrop Love Heart With Wood Floor Background F-3013">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/F-3013.jpg?v=1577254442' alt='Valentine's Day Backdrop Love Heart With Wood Floor Background F-3013'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/F-3013.jpg?v=1577254442' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate 80 90's Valentine's Day Backdrop Red Sweet Heart Love for Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/Kate_Valentine_s_Day_Backdrop_Sweet_Love_for_Photography_5x7ft_B1031381D.jpg?v=1632986687' alt='Kate 80 90's Valentine's Day Backdrop Red Sweet Heart Love for Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/Kate_Valentine_s_Day_Backdrop_Sweet_Love_for_Photography_5x7ft_B1031381D.jpg?v=1632986687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Red Heart Balloons Gifts 7x5ft Backdrop Vinyl Photo  Background | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rusAAOSwERFd5dFm/s-l400.jpg' alt='Valentine's Day Red Heart Balloons Gifts 7x5ft Backdrop Vinyl Photo  Background | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rusAAOSwERFd5dFm/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Day Red Gradient Romantic Heart Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/d4/6c/95d46c98697a5c1c4b49df086cbf05de.jpg' alt='Valentines Day Red Gradient Romantic Heart Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/d4/6c/95d46c98697a5c1c4b49df086cbf05de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Valentines Day greeting card vertical format with gift box ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/016/404/035/large_2x/happy-valentines-day-greeting-card-vertical-format-with-gift-box-candels-and-red-heart-shape-baloons-on-pink-background-photo.jpg' alt='Happy Valentines Day greeting card vertical format with gift box ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/016/404/035/large_2x/happy-valentines-day-greeting-card-vertical-format-with-gift-box-candels-and-red-heart-shape-baloons-on-pink-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Fox Affordable Vinyl/Fabric Red Heart Valentine's Day Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.foxbackdrop.com/cdn/shop/products/J17530-1.jpg?v=1680157514' alt='Shop Fox Affordable Vinyl/Fabric Red Heart Valentine's Day Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foxbackdrop" />
+                                </span>
+                                <a href='https://www.foxbackdrop.com/cdn/shop/products/J17530-1.jpg?v=1680157514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,400+ Valentines Day Background Vertical Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/113483462/vector/hearts-background.jpg?s=612x612&w=0&k=20&c=QBrY2IlhHLuFuej1d5GlSFYAzjugiGk4zNO9zibGydA=' alt='17,400+ Valentines Day Background Vertical Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/113483462/vector/hearts-background.jpg?s=612x612&w=0&k=20&c=QBrY2IlhHLuFuej1d5GlSFYAzjugiGk4zNO9zibGydA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines Day Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/st-valentine-s-day-concept-top-view-vertical-photo-small-giftbox-with-ribbon-bow-heart-shaped-candles-sprinkles-isolated-pastel-pink-background-with-empty-space_352249-9762.jpg?semt=ais_hybrid' alt='Valentines Day Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/st-valentine-s-day-concept-top-view-vertical-photo-small-giftbox-with-ribbon-bow-heart-shaped-candles-sprinkles-isolated-pastel-pink-background-with-empty-space_352249-9762.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

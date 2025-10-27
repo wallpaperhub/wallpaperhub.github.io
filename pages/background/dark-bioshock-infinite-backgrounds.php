@@ -1,0 +1,129 @@
+<title>Bioshock Infinite's Dark Backgrounds Explained</title>
+                    <meta name="description" content="Discover the chilling depths of "Bioshock Infinite" with our exploration of its dark backgrounds. Uncover how these visuals enhance the game's atmosphere and storytelling, adding layers of intrigue and suspense for a captivating gaming experience.">
+                    <meta name="keywords" content="dark bioshock infinite backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-bioshock-infinite-backgrounds">
+                            <span itemprop="name">dark bioshock infinite backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bioshock Infinite's Dark Backgrounds Explained</h1>
+                <p>In "Bioshock Infinite," the atmospheric depth is enriched by its darker backgrounds, adding layers of intrigue and suspense. The stark contrasts, hauntingly beautiful landscapes, and shadowy elements weave a narrative that draws players into a world teeming with psychological complexity. Explore these dark visuals that define the game's unique aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite HD Wallpaper: A Dark Adventure Awaits">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/486/486412.jpg' alt='Bioshock Infinite HD Wallpaper: A Dark Adventure Awaits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/486/486412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite HD Wallpaper: Dark Atmosphere Unleashed">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/138/thumb-1920-1380419.png' alt='Bioshock Infinite HD Wallpaper: Dark Atmosphere Unleashed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/138/thumb-1920-1380419.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Bioshock Infinite HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/611/thumb-1920-611769.png' alt='Download Video Game Bioshock Infinite HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/611/thumb-1920-611769.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bioshock Infinite HD Wallpaper: Elizabeth with Heart by RAIVIS DRAKA">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/864/864952.jpg' alt='Bioshock Infinite HD Wallpaper: Elizabeth with Heart by RAIVIS DRAKA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/864/864952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper girl, retro, the dark background, bioshok, Elizabeth ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/70/bioshock-infinite-burial-at-2621.webp' alt='Wallpaper girl, retro, the dark background, bioshok, Elizabeth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/70/bioshock-infinite-burial-at-2621.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Building a Darker Version of Bioshock Infinite Scene">
+                                <img itemprop="contentUrl url" src='https://cdn.80.lv/api/upload/post/2848/images/5d2c62292d49e/widen_2440x0.jpg' alt='Building a Darker Version of Bioshock Infinite Scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2440">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="80 Level" />
+                                </span>
+                                <a href='https://cdn.80.lv/api/upload/post/2848/images/5d2c62292d49e/widen_2440x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Best Bioshock Infinite Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-bioshock-infinite-background-51ggzf9jc6yc4oeu.jpg' alt='100+] Best Bioshock Infinite Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-bioshock-infinite-background-51ggzf9jc6yc4oeu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 3440x1440p Bioshock Infinite Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/3440x1440p-bioshock-infinite-background-3440-x-1440-2pwo2z66th9oali3.jpg' alt='100+] 3440x1440p Bioshock Infinite Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/3440x1440p-bioshock-infinite-background-3440-x-1440-2pwo2z66th9oali3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spoilers] 46x Bioshock 1/2/Infinite wallpapers, all 1920x1080+ : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/spoilers-46x-bioshock-1-2-infinite-wallpapers-all-1920x1080-v0-8qwsqjve88z91.jpg?auto=webp&s=248a5b1333054da8f639030a3de14fa471fd2fc9' alt='Spoilers] 46x Bioshock 1/2/Infinite wallpapers, all 1920x1080+ : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/spoilers-46x-bioshock-1-2-infinite-wallpapers-all-1920x1080-v0-8qwsqjve88z91.jpg?auto=webp&s=248a5b1333054da8f639030a3de14fa471fd2fc9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Elizabeth (Bioshock Infinite) Bioshock Infinite Night ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/774/774032.jpg' alt='Download Elizabeth (Bioshock Infinite) Bioshock Infinite Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3333">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/774/774032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

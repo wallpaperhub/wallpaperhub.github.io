@@ -1,0 +1,129 @@
+<title>Aesthetic Black Wallpapers: Cute Designs for Your Device</title>
+                    <meta name="description" content="Explore a stunning collection of cute black wallpapers, perfect for adding a touch of aesthetic charm to your device. Browse unique designs that suit your style and uplift your screen with delightful visuals. Ideal for making your digital space both stylish and fun!">
+                    <meta name="keywords" content="cute wallpaper aesthetic black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cute-wallpaper-aesthetic-black">
+                            <span itemprop="name">cute wallpaper aesthetic black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Black Wallpapers: Cute Designs for Your Device</h1>
+                <p>Discover the charm of cute black aesthetic wallpapers that enhance your device's look. From playful patterns to minimalist designs, these wallpapers offer a perfect blend of style and mood. Transform your screens with adorable visuals that radiate personality, making every glance a joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Black Aesthetic Wallpaper For Your Phone! - Prada & Pearls %">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/0f/e4/490fe4a1e659f3fbc80ca00a07ce7be2.jpg' alt='50+ Free Black Aesthetic Wallpaper For Your Phone! - Prada & Pearls %'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/0f/e4/490fe4a1e659f3fbc80ca00a07ce7be2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/HmDyXA3pRtbaXbYGcVsdvchf9XVFBbmpm0Eum0FRLLuGmKEjSSltnUtb_JV_u6m9-DKI=w526-h296-rw' alt='Black Aesthetic Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/HmDyXA3pRtbaXbYGcVsdvchf9XVFBbmpm0Eum0FRLLuGmKEjSSltnUtb_JV_u6m9-DKI=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute store wallpapers black">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' alt='Cute store wallpapers black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Black Aesthetic Wallpapers For 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bf/91/dd/bf91dd1a9a02558a6f2fc9fe65450bf5.jpg' alt='50+ Black Aesthetic Wallpapers For 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bf/91/dd/bf91dd1a9a02558a6f2fc9fe65450bf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic White And Black Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-white-and-black-iphone-6g7ro7op7fzvwmqj.jpg' alt='100+] Aesthetic White And Black Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-white-and-black-iphone-6g7ro7op7fzvwmqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black And White Aesthetic Smiling Raincloud Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-black-and-white-aesthetic-smiling-raincloud-3kdrwpw62de1g0qs.jpg' alt='Cute Black And White Aesthetic Smiling Raincloud Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-black-and-white-aesthetic-smiling-raincloud-3kdrwpw62de1g0qs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cute Aesthetic Dark Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-cute-aesthetic-dark-theme-dm9j4sm5pf2klcpd.jpg' alt='Dark Cute Aesthetic Dark Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-cute-aesthetic-dark-theme-dm9j4sm5pf2klcpd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper black templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFA1w8PJ5Y/1/0/225w/canva-black-line-illustration-outer-space-phone-wallpaper-voL4TL9hCXI.jpg' alt='Free and customizable wallpaper black templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFA1w8PJ5Y/1/0/225w/canva-black-line-illustration-outer-space-phone-wallpaper-voL4TL9hCXI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/1f6t-C9aObvVHpydPWcJuW00UakN9q8t2QxW0oDPPI-8m4IyshmGLAyfGMqu7OWURcBZ=w526-h296-rw' alt='Black Aesthetic Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="137">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/1f6t-C9aObvVHpydPWcJuW00UakN9q8t2QxW0oDPPI-8m4IyshmGLAyfGMqu7OWURcBZ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Black Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-black-quotes-aesthetic-collage-6ue23kand4u6up5s.jpg' alt='100+] Cute Black Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-black-quotes-aesthetic-collage-6ue23kand4u6up5s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

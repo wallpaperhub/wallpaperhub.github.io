@@ -1,0 +1,129 @@
+<title>Beautiful Christmas Cross Wallpaper for a Festive Touch</title>
+                    <meta name="description" content="Discover beautiful Christmas cross wallpaper that combines faith and festive spirit. Perfect for holiday decor, it enhances any space with elegance and warmth. Transform your home into a cozy, inviting haven this Christmas with our stunning wallpaper collections!">
+                    <meta name="keywords" content="christmas cross wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-cross-wallpaper">
+                            <span itemprop="name">christmas cross wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Christmas Cross Wallpaper for a Festive Touch</h1>
+                <p>Transform your holiday decor with stunning Christmas cross wallpaper. Featuring intricate designs incorporating festive motifs, this wallpaper adds a spiritual touch to your celebration. Perfect for creating a warm, inviting atmosphere, it harmonizes beautifully with any Christmas decor, making your home feel serene and festive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » A Child Is Born Christmas Cross Background ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1478198557036_552.jpg' alt='ShareFaith Media » A Child Is Born Christmas Cross Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:600/h:450/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1478198557036_552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Christmas Cross Worship Background – ShareFaith ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:485/h:776/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1289505115699_662.jpg' alt='ShareFaith Media » Christmas Cross Worship Background – ShareFaith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:485/h:776/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1289505115699_662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Background Red Candle Wood Cross Stock Photo 496214914 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/christmas-background-red-candle-wood-260nw-496214914.jpg' alt='Christmas Background Red Candle Wood Cross Stock Photo 496214914 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/christmas-background-red-candle-wood-260nw-496214914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cross Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1481471626462-69d759ff3d4a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hyaXN0bWFzJTIwY3Jvc3N8ZW58MHx8MHx8fDA%3D' alt='Christmas Cross Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1481471626462-69d759ff3d4a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hyaXN0bWFzJTIwY3Jvc3N8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas cross - Photography & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/538/538555-bigthumbnail.jpg' alt='Christmas cross - Photography & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/538/538555-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cross Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/881/965/small/religious-beige-background-with-cross-and-olive-twigs-photo.jpg' alt='Christmas Cross Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/881/965/small/religious-beige-background-with-cross-and-olive-twigs-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,989 Christmas Cross Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christian-wood-cross-christmas-stars-christian-wood-cross-christmas-stars-wooden-background-129644107.jpg' alt='28,989 Christmas Cross Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christian-wood-cross-christmas-stars-christian-wood-cross-christmas-stars-wooden-background-129644107.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus Christ Cross Sunrise Backdrop Christmas Photo Background Studio Props">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/xvsAAOSwC-NhdMRg/s-l1200.jpg' alt='Jesus Christ Cross Sunrise Backdrop Christmas Photo Background Studio Props'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/xvsAAOSwC-NhdMRg/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Religious Christmas Backgrounds Images – Browse 131,393 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/37/96/56/360_F_237965625_AFCkcSnj1XCQ7BVak64LP5VnNh6A96o9.jpg' alt='Religious Christmas Backgrounds Images – Browse 131,393 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/37/96/56/360_F_237965625_AFCkcSnj1XCQ7BVak64LP5VnNh6A96o9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Manger To The Cross Christmas phone wallpaper by missjas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/98/30/dc/9830dc0f14cd7a48ec916f88fbd6fe7c.jpg' alt='Free Manger To The Cross Christmas phone wallpaper by missjas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/98/30/dc/9830dc0f14cd7a48ec916f88fbd6fe7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

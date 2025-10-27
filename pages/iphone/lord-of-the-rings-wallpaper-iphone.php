@@ -1,0 +1,129 @@
+<title>Epic Lord of the Rings iPhone Wallpapers</title>
+                    <meta name="description" content="Discover the best collection of Lord of the Rings wallpapers for your iPhone. Perfect for fans of the epic saga, these wallpapers showcase stunning visuals from Middle-earth. Personalize your device with your favorite characters and scenes for a touch of adventure every day!">
+                    <meta name="keywords" content="lord of the rings wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lord-of-the-rings-wallpaper-iphone">
+                            <span itemprop="name">lord of the rings wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Lord of the Rings iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning Lord of the Rings wallpapers! Featuring iconic scenes, characters like Frodo and Gandalf, and breathtaking landscapes of Middle-earth, these wallpapers are perfect for fans. Immerse yourself in the magic of Tolkien's world every time you unlock your phone. Explore, download, and personalize now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord of the Rings iPhone Wallpaper Greeting Card">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/lord-of-the-rings-iphone-wallpaper-luci-morris.jpg' alt='Lord of the Rings iPhone Wallpaper Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/lord-of-the-rings-iphone-wallpaper-luci-morris.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper anyone? : r/lotr">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-wallpaper-anyone-v0-jz4u15nzxzbb1.jpg?width=683&format=pjpg&auto=webp&s=091b89a7ebcc89f2b7f967da6031c5b605085feb' alt='Phone wallpaper anyone? : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-wallpaper-anyone-v0-jz4u15nzxzbb1.jpg?width=683&format=pjpg&auto=webp&s=091b89a7ebcc89f2b7f967da6031c5b605085feb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Share your LOTR/Hobbit wallpapers! : r/lotr">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/share-your-lotr-hobbit-wallpapers-v0-hf7tewrjr8ya1.jpg?width=1080&crop=smart&auto=webp&s=58933fddaab51f185926742c66b946b3b79a5aef' alt='Share your LOTR/Hobbit wallpapers! : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/share-your-lotr-hobbit-wallpapers-v0-hf7tewrjr8ya1.jpg?width=1080&crop=smart&auto=webp&s=58933fddaab51f185926742c66b946b3b79a5aef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Lord of the Rings iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/9e/c1/f69ec10ddccc49b16ddcff7dd774a9de.jpg' alt='Awesome Lord of the Rings iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/9e/c1/f69ec10ddccc49b16ddcff7dd774a9de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lord of the Rings Wallpapers (96 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/9/e/138229-1080x1920-mobile-1080p-the-lord-of-the-rings-background.jpg' alt='The Lord of the Rings Wallpapers (96 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/9/e/138229-1080x1920-mobile-1080p-the-lord-of-the-rings-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your Lord of the Rings phone background currently? : r/lotr">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/im1zvb0l50c31.jpg?auto=webp&s=29426913fea9d8d725c805eb99e0cec0c548ff4e' alt='What is your Lord of the Rings phone background currently? : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/im1zvb0l50c31.jpg?auto=webp&s=29426913fea9d8d725c805eb99e0cec0c548ff4e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord of the Rings iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/2f/9f/4f2f9fab7c6803d1961ba901b5613a93.jpg' alt='Lord of the Rings iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/2f/9f/4f2f9fab7c6803d1961ba901b5613a93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lotr rivendell, elves, fantasy, galadriel, lord, lord of the rings ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/222/114/HD-wallpaper-lotr-rivendell-elves-fantasy-galadriel-lord-lord-of-the-rings-of-rings-the.jpg' alt='Lotr rivendell, elves, fantasy, galadriel, lord, lord of the rings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/222/114/HD-wallpaper-lotr-rivendell-elves-fantasy-galadriel-lord-lord-of-the-rings-of-rings-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lord of the Rings Wallpapers (96 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/a/e/137637-1536x2732-mobile-hd-the-lord-of-the-rings-wallpaper.jpg' alt='The Lord of the Rings Wallpapers (96 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/a/e/137637-1536x2732-mobile-hd-the-lord-of-the-rings-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Wallpaper of the Argonath : r/lotr">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uowam660yjp91.jpg' alt='iOS 16 Wallpaper of the Argonath : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uowam660yjp91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

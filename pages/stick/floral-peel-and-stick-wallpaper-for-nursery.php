@@ -1,0 +1,129 @@
+<title>Charming Floral Peel and Stick Wallpaper for Nursery</title>
+                    <meta name="description" content="Discover delightful floral peel and stick wallpaper perfect for your nursery. Effortlessly beautify your child's space with removable, easy-to-install designs that inspire creativity and warmth. Ideal for a fresh, whimsical touch that grows with your little one!">
+                    <meta name="keywords" content="floral peel and stick wallpaper for nursery">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/floral-peel-and-stick-wallpaper-for-nursery">
+                            <span itemprop="name">floral peel and stick wallpaper for nursery</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Floral Peel and Stick Wallpaper for Nursery</h1>
+                <p>Transform your nursery with beautiful floral peel and stick wallpaper. Easy to install and remove, it adds a charming touch to your baby's room without commitment. Choose from various colors and patterns to create a whimsical atmosphere. Perfect for accent walls or to cover all surfaces, this wallpaper makes decorating effortless and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Removable Wallpaper (peel and stick)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/watercolor-floral-removable-wallpaper-peel-and-stick-399909.jpg?v=1691631870&width=1920' alt='Watercolor Floral Removable Wallpaper (peel and stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/watercolor-floral-removable-wallpaper-peel-and-stick-399909.jpg?v=1691631870&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Cream Floral Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Removable Wallpaper | 135">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3908485184_maza.jpg' alt='Vintage Cream Floral Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Removable Wallpaper | 135'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2515">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3908485184_maza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Nursery Wallpaper, Removable Stick on Wallpaper, Pre-pasted ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30480992/r/il/2eaec4/3757646689/il_570xN.3757646689_tbfa.jpg' alt='Floral Nursery Wallpaper, Removable Stick on Wallpaper, Pre-pasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30480992/r/il/2eaec4/3757646689/il_570xN.3757646689_tbfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pink Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 555a">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/tinywow_555_17033807.jpg?v=1679318893&width=2048' alt='Vintage Pink Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper 555a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/tinywow_555_17033807.jpg?v=1679318893&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' alt='Moody Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/moody-floral-wallpaper-peel-stick-737815.png?v=1666799218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursery Pastel Peony Watercolor Floral For Girls Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000077_moc3.jpg' alt='Nursery Pastel Peony Watercolor Floral For Girls Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000077_moc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Watercolor Wallpaper Nursery Flowers Wallpaper Peel and Stick  Wallpaper Home Decor - A264">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5809421653_rx4o.jpg?v=1722441321&width=1946' alt='Floral Watercolor Wallpaper Nursery Flowers Wallpaper Peel and Stick  Wallpaper Home Decor - A264'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5809421653_rx4o.jpg?v=1722441321&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanie Mural | Boho Floral Girl Nursery Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/files/009_Front_Interior_Scenecopy_2fb1ab70-6707-4557-988b-7584a2f0988c.jpg?v=1723063082&width=1080' alt='Melanie Mural | Boho Floral Girl Nursery Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/files/009_Front_Interior_Scenecopy_2fb1ab70-6707-4557-988b-7584a2f0988c.jpg?v=1723063082&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dainty Floral Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/716b.jpg?v=1717469468' alt='Dainty Floral Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/716b.jpg?v=1717469468' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Watercolor  Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses (24" W x  132" ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RTeu8IpGL._AC_UF894,1000_QL80_.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Watercolor  Pink Floral Pattern, Nursery Room Decor • Girl's Peonies & Roses (24" W x  132" ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RTeu8IpGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

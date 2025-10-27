@@ -1,0 +1,129 @@
+<title>Witchy iPhone Wallpapers: Enchant Your Screen</title>
+                    <meta name="description" content="Explore a captivating selection of witchy iPhone wallpapers! Perfect for those who love the mystical and magical, these designs elevate your device's aesthetic. Discover enchanting visuals that inspire creativity and charm—ideal for showcasing your unique style on the go!">
+                    <meta name="keywords" content="iphone wallpaper witchy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-witchy">
+                            <span itemprop="name">iphone wallpaper witchy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Witchy iPhone Wallpapers: Enchant Your Screen</h1>
+                <p>Discover enchanting iPhone wallpapers that embrace the witchy aesthetic! From mystical forests and moonlit nights to spellbinding symbols and dark florals, our collection brings a touch of magic to your device. Transform your screen into a realm of enchantment, inspiring you every day. Choose your vibe and let your phone reflect your inner witch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Art IPhone Wallpaper - IPhone Wallpapers : iPhone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/63/48/cb634800e9d6fdbf4326ecd5f26c22d7.jpg' alt='Moon Art IPhone Wallpaper - IPhone Wallpapers : iPhone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/63/48/cb634800e9d6fdbf4326ecd5f26c22d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Elementals For Iphone Screens Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/witchy-elementals-for-iphone-screens-d3f0n42v9lorlscd.jpg' alt='Witchy Elementals For Iphone Screens Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/witchy-elementals-for-iphone-screens-d3f0n42v9lorlscd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Witchy Wallpapers ideas | witchy wallpaper, witchy, witch wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/0e/e4/070ee4d4375d9a5536df83b4337df5b5.jpg' alt='63 Witchy Wallpapers ideas | witchy wallpaper, witchy, witch wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/0e/e4/070ee4d4375d9a5536df83b4337df5b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Doodle Art For Iphone Screens Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/witchy-doodle-art-for-iphone-screens-g4s1ixtkqn1wgcff.jpg' alt='Witchy Doodle Art For Iphone Screens Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/witchy-doodle-art-for-iphone-screens-g4s1ixtkqn1wgcff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD witch aesthetic iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/668/990/HD-wallpaper-trendy-halloween-backgrounds-for-your-iphone-witch-aesthetic-iphone.jpg' alt='HD witch aesthetic iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/668/990/HD-wallpaper-trendy-halloween-backgrounds-for-your-iphone-witch-aesthetic-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Witch Cake    على X: "Witchy and magical wallpapers for your ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DKQwUr_W4AIlTE1.jpg' alt='   Witch Cake    على X: "Witchy and magical wallpapers for your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DKQwUr_W4AIlTE1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 50+ Best Witchcraft Wallpaper For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/51/73/e8517325d45fea15e73c769e74fa75d4.jpg' alt='The 50+ Best Witchcraft Wallpaper For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/51/73/e8517325d45fea15e73c769e74fa75d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic Witchy Doodle Wallpaper For Iphones Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minimalistic-witchy-doodle-wallpaper-for-iphones-ru2kld1jqflaq691.jpg' alt='Minimalistic Witchy Doodle Wallpaper For Iphones Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minimalistic-witchy-doodle-wallpaper-for-iphones-ru2kld1jqflaq691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witch Aesthetic iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11381622.jpg' alt='Witch Aesthetic iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11381622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moth Wallpaper-moon Snake Witch Witchy Pink background Phone - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33611791/r/il/2738ad/4618244049/il_1080xN.4618244049_qbf1.jpg' alt='Moth Wallpaper-moon Snake Witch Witchy Pink background Phone - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33611791/r/il/2738ad/4618244049/il_1080xN.4618244049_qbf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

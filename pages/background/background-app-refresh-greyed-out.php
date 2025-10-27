@@ -1,0 +1,129 @@
+<title>Fixing Greyed Out Background App Refresh</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="background app refresh greyed out">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-app-refresh-greyed-out">
+                            <span itemprop="name">background app refresh greyed out</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fixing Greyed Out Background App Refresh</h1>
+                <p>Background App Refresh allows apps to update content in the background, but sometimes it can appear greyed out. This typically occurs due to restrictions like low power mode, limited data usage settings, or if the device is connected to Wi-Fi only. To enable it, check your settings in the Privacy or General menus and adjust preferences accordingly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background App Refresh is grayed out - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/60785516-d58d-402a-ad6b-e8f67d58ae50' alt='Background App Refresh is grayed out - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/60785516-d58d-402a-ad6b-e8f67d58ae50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Background App Refresh is Greyed Out - How to FIX & Enable it">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-LhBtT06T8M/sddefault.jpg' alt='iPhone Background App Refresh is Greyed Out - How to FIX & Enable it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-LhBtT06T8M/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fixed : Background app refresh is grayed out in iPhone - 2 Ways">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lZcRm_vu5Fg/maxresdefault.jpg' alt='Fixed : Background app refresh is grayed out in iPhone - 2 Ways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lZcRm_vu5Fg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why is background refresh greyed out? : r/ios">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-is-background-refresh-greyed-out-v0-pdlougf9dh1d1.jpeg?auto=webp&s=8c02596a51973c7e5964b4f612e073e03e5331ba' alt='Why is background refresh greyed out? : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-is-background-refresh-greyed-out-v0-pdlougf9dh1d1.jpeg?auto=webp&s=8c02596a51973c7e5964b4f612e073e03e5331ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fixed: Background app refresh is grayed out in iPhone - 2 Methods">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MQU8bdc9-v0/maxresdefault.jpg' alt='Fixed: Background app refresh is grayed out in iPhone - 2 Methods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MQU8bdc9-v0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Fix Background App Refresh Greyed Out Issue On iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1o4eQdctIVY/maxresdefault.jpg' alt='How To Fix Background App Refresh Greyed Out Issue On iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1o4eQdctIVY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why is “Background refresh” greyed out? - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/4c696367-afdc-45fb-baff-fb709f010ad4' alt='Why is “Background refresh” greyed out? - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/4c696367-afdc-45fb-baff-fb709f010ad4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why can't I enable background app refresh? Everytime I open ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p71y9vadwsxa1.jpg' alt='Why can't I enable background app refresh? Everytime I open ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p71y9vadwsxa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background App Refresh Greyed Out in iPhone Fix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uEhe95G0MoM/hqdefault.jpg' alt='Background App Refresh Greyed Out in iPhone Fix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uEhe95G0MoM/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Fix Background App Refresh Greyed Out on iPhone I iPhone Background  App Refresh Not Available">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OwGQiuB6PsU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC400kS49GRRy1U1Kf89AJk--R7mg' alt='How to Fix Background App Refresh Greyed Out on iPhone I iPhone Background  App Refresh Not Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OwGQiuB6PsU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC400kS49GRRy1U1Kf89AJk--R7mg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

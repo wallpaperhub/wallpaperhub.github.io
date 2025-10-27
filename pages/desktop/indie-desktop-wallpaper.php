@@ -1,0 +1,129 @@
+<title>Explore Unique Indie Desktop Wallpapers for Your PC</title>
+                    <meta name="description" content="Discover a curated collection of indie desktop wallpapers that transform your workspace! Ideal for creatives seeking inspiration, our unique designs celebrate individuality and artistic expression. Find the perfect wallpaper to personalize your computer and elevate your daily productivity!">
+                    <meta name="keywords" content="indie desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/indie-desktop-wallpaper">
+                            <span itemprop="name">indie desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Unique Indie Desktop Wallpapers for Your PC</h1>
+                <p>Indie desktop wallpapers bring a unique style to your workspace, infusing creativity and personality into your daily grind. From abstract designs to vibrant landscapes, these wallpapers reflect individualism and artistic flair. Download a stunning indie wallpaper to inspire your productivity and showcase your unique aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Indie Wall Collage Desktop Wallpaper Art Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/bd/53/55bd53a9592fd7acb8287b74a11de1ec.jpg' alt='   Free download Indie Wall Collage Desktop Wallpaper Art Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/bd/53/55bd53a9592fd7acb8287b74a11de1ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Indie Colorful Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hippie-indie-colorful-art-loququkeio3ekjwz.jpg' alt='Hippie Indie Colorful Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hippie-indie-colorful-art-loququkeio3ekjwz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Indie Aesthetic Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/stylish-indie-aesthetic-desktop-collage-qwtfp9wxzchibvsr.jpg' alt='100+] Indie Aesthetic Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/stylish-indie-aesthetic-desktop-collage-qwtfp9wxzchibvsr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="indie wallpaper for computers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f8/0a/63/f80a63162a69f6c7af88b71b3070a151.jpg' alt='indie wallpaper for computers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2823">
+                                <meta itemprop="height" content="1882">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f8/0a/63/f80a63162a69f6c7af88b71b3070a151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Indie Desktop Artistic Design Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-desktop-artistic-design-fib540h07lkw314n.jpg' alt='Download Indie Desktop Artistic Design Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-desktop-artistic-design-fib540h07lkw314n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Aesthetic Desktop Wallpaper by franzhere on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5fac2d5-4dad-4187-a2ae-40603c99b8db/dg2mshl-cb86ef13-1973-40cb-ae42-b7a796e0e9d4.jpg/v1/fill/w_1280,h_720,q_75,strp/indie_aesthetic_desktop_wallpaper_by_franzhere_dg2mshl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTVmYWMyZDUtNGRhZC00MTg3LWEyYWUtNDA2MDNjOTliOGRiXC9kZzJtc2hsLWNiODZlZjEzLTE5NzMtNDBjYi1hZTQyLWI3YTc5NmUwZTlkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.z64wKekFI-iKEa7ywMced0_iy45HIg1CMailMVr5Iok' alt='Indie Aesthetic Desktop Wallpaper by franzhere on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5fac2d5-4dad-4187-a2ae-40603c99b8db/dg2mshl-cb86ef13-1973-40cb-ae42-b7a796e0e9d4.jpg/v1/fill/w_1280,h_720,q_75,strp/indie_aesthetic_desktop_wallpaper_by_franzhere_dg2mshl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTVmYWMyZDUtNGRhZC00MTg3LWEyYWUtNDA2MDNjOTliOGRiXC9kZzJtc2hsLWNiODZlZjEzLTE5NzMtNDBjYi1hZTQyLWI3YTc5NmUwZTlkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.z64wKekFI-iKEa7ywMced0_iy45HIg1CMailMVr5Iok' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-retro-60s-70s-background_23-2149937628.jpg' alt='Indie Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-retro-60s-70s-background_23-2149937628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Indie Desktop: Aesthetic Workspace Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-desktop-1920-x-948-wallpaper-nwu91lrlvrx1cdhf.jpg' alt='Download Indie Desktop: Aesthetic Workspace Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-desktop-1920-x-948-wallpaper-nwu91lrlvrx1cdhf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8322565.jpg' alt='Indie PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8322565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Indie Desktop Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/4f/10/2e4f1094f769f5d31826bb98f08269eb.jpg' alt='   Indie Desktop Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/4f/10/2e4f1094f769f5d31826bb98f08269eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Spain: Culture, Cuisine & Attractions</title>
+                    <meta name="description" content="Explore Spain's unique blend of rich history, vibrant culture, and breathtaking landscapes. From stunning architecture to delicious cuisine, uncover the beauty of this diverse country in just a few clicks. Perfect for travelers seeking an unforgettable experience in Southern Europe!">
+                    <meta name="keywords" content="spain">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spain">
+                            <span itemprop="name">spain</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Spain: Culture, Cuisine & Attractions</h1>
+                <p>Spain is a vibrant country located in Southwestern Europe, known for its rich history, diverse culture, and stunning landscapes. From the architectural marvels of Gaudí in Barcelona to the picturesque beaches of Costa del Sol, Spain offers a unique blend of traditions and modern attractions. Enjoy its delicious cuisine, flamenco dancing, and lively festivals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png' alt='Spain - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7EDC/production/_129767423_bbcm_spain_country_profile_map_180523.png' alt='Spain country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7EDC/production/_129767423_bbcm_spain_country_profile_map_180523.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain | History, Map, Flag, Population, Currency, Climate, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/4337-050-F5CCBA06/Spain.jpg' alt='Spain | History, Map, Flag, Population, Currency, Climate, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/4337-050-F5CCBA06/Spain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/e800ca90-2b5b-4dad-b4d7-b67a48c96c91/spain-madrid_16x9.jpg?w=1200' alt='Spain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/e800ca90-2b5b-4dad-b4d7-b67a48c96c91/spain-madrid_16x9.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/65/00/f0/es-01.jpg' alt='Spain Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2816">
+                                <meta itemprop="height" content="2707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/65/00/f0/es-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain Country Information ⋅ Natucate">
+                                <img itemprop="contentUrl url" src='https://imgproxy.natucate.com/wF8RACmH64YN4YV3BSgRXmhB7LtrW2eBW-xf6wRpJmQ/rs:fill/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlemllbGUvNDI4YTYzZWUtMmYzOS00YmFjLTgwY2UtNmY2N2Y4Yzc1NzJlL2MxNDJhZjc3MWUtMTY3OTQ4Njc1MC9zcGFuaWVuLWxhZW5kZXJpbmZvcm1hdGlvbmVuLXN0YWR0LW96ZWFuLXdhc3Nlci1uYXR1Y2F0ZS5qcGc' alt='Spain Country Information ⋅ Natucate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4150">
+                                <meta itemprop="height" content="2756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natucate" />
+                                </span>
+                                <a href='https://imgproxy.natucate.com/wF8RACmH64YN4YV3BSgRXmhB7LtrW2eBW-xf6wRpJmQ/rs:fill/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlemllbGUvNDI4YTYzZWUtMmYzOS00YmFjLTgwY2UtNmY2N2Y4Yzc1NzJlL2MxNDJhZjc3MWUtMTY3OTQ4Njc1MC9zcGFuaWVuLWxhZW5kZXJpbmZvcm1hdGlvbmVuLXN0YWR0LW96ZWFuLXdhc3Nlci1uYXR1Y2F0ZS5qcGc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 things you didn't know about Spain">
+                                <img itemprop="contentUrl url" src='https://digitalpress.fra1.cdn.digitaloceanspaces.com/1t1tkuj/2022/04/5_things_you_didnt_know_Spain_image_cover.jpg' alt='5 things you didn't know about Spain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZappTax" />
+                                </span>
+                                <a href='https://digitalpress.fra1.cdn.digitaloceanspaces.com/1t1tkuj/2022/04/5_things_you_didnt_know_Spain_image_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spain – EU country profile | European Union">
+                                <img itemprop="contentUrl url" src='https://european-union.europa.eu/sites/default/files/styles/oe_theme_small_no_crop/public/2022-02/Flag_of_Spain.png?itok=_Q6YGM8-' alt='Spain – EU country profile | European Union'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="European Union" />
+                                </span>
+                                <a href='https://european-union.europa.eu/sites/default/files/styles/oe_theme_small_no_crop/public/2022-02/Flag_of_Spain.png?itok=_Q6YGM8-' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visiting Spain: What to Do? What to See? (6 Essentials)">
+                                <img itemprop="contentUrl url" src='https://img.sandayagroupe.eu/images/7/9/5/6/666597-1-fre-FR/1e1cc587a560-Espagne.jpg' alt='Visiting Spain: What to Do? What to See? (6 Essentials)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandaya" />
+                                </span>
+                                <a href='https://img.sandayagroupe.eu/images/7/9/5/6/666597-1-fre-FR/1e1cc587a560-Espagne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Places to Visit in Spain | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/6603d64d13a27b5703522946/16:9/w_4496,h_2529,c_limit/509288876' alt='The Best Places to Visit in Spain | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4496">
+                                <meta itemprop="height" content="2529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/6603d64d13a27b5703522946/16:9/w_4496,h_2529,c_limit/509288876' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

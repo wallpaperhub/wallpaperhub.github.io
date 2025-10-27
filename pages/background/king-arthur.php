@@ -1,0 +1,129 @@
+<title>Discovering the Legend of King Arthur</title>
+                    <meta name="description" content="Explore the captivating legend of King Arthur, the heroic king of England. Learn about Excalibur, the Knights of the Round Table, and timeless themes of bravery and chivalry. Join us on a journey through Arthurian history and uncover the magic of his stories.">
+                    <meta name="keywords" content="king arthur">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/king-arthur">
+                            <span itemprop="name">king arthur</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Legend of King Arthur</h1>
+                <p>King Arthur, a legendary figure of medieval England, is best known for his noble quest to unite the kingdom, wielding the magical sword Excalibur. His reign, alongside the valiant Knights of the Round Table, is steeped in tales of bravery, loyalty, and chivalry. Arthur's story symbolizes the enduring quest for justice and honor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/54/Arth_tapestry2.jpg' alt='King Arthur - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/54/Arth_tapestry2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur | Story, Legend, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/79/147179-050-14CCB8B7/King-Arthur-illustration-NC-title-page-Wyeth.jpg' alt='King Arthur | Story, Legend, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1232">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/79/147179-050-14CCB8B7/King-Arthur-illustration-NC-title-page-Wyeth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur | Myth and Folklore Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/mythology/images/6/61/Charles_Ernest_Butler_-_King_Arthur.jpg/revision/latest?cb=20211126043342' alt='King Arthur | Myth and Folklore Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3317">
+                                <meta itemprop="height" content="5702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Myth and Folklore Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/mythology/images/6/61/Charles_Ernest_Butler_-_King_Arthur.jpg/revision/latest?cb=20211126043342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur | Story, Legend, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/79/147179-131-4008E4C3/King-Arthur-illustration-NC-title-page-Wyeth.jpg' alt='King Arthur | Story, Legend, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/79/147179-131-4008E4C3/King-Arthur-illustration-NC-title-page-Wyeth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur: Legend of the Sword (2017) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_FMjpg_UX1000_.jpg' alt='King Arthur: Legend of the Sword (2017) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur | Marc's Story of King Arthur Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marcs-story-of-king-arthur/images/b/b8/Kingarthur1.jpg/revision/latest?cb=20190615193509' alt='King Arthur | Marc's Story of King Arthur Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marc's Story of King Arthur Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marcs-story-of-king-arthur/images/b/b8/Kingarthur1.jpg/revision/latest?cb=20190615193509' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur – The Truth Behind the Legend | Olivia Hayfield">
+                                <img itemprop="contentUrl url" src='https://www.oliviahayfield.com/wp-content/uploads/2024/06/Arther-and-Guine.jpg' alt='King Arthur – The Truth Behind the Legend | Olivia Hayfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olivia Hayfield" />
+                                </span>
+                                <a href='https://www.oliviahayfield.com/wp-content/uploads/2024/06/Arther-and-Guine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was King Arthur a Real Person? | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2017/05/king-arthur-gettyimages-90009832.jpg' alt='Was King Arthur a Real Person? | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2017/05/king-arthur-gettyimages-90009832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Arthur - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1200x900/6630.jpg' alt='King Arthur - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1200x900/6630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Telling Is The Tale: Who Owns the Legend of King Arthur? - Reactor">
+                                <img itemprop="contentUrl url" src='https://reactormag.com/wp-content/uploads/2020/08/Arthur-Excalibur-WalterCrane.jpg' alt='The Telling Is The Tale: Who Owns the Legend of King Arthur? - Reactor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reactor" />
+                                </span>
+                                <a href='https://reactormag.com/wp-content/uploads/2020/08/Arthur-Excalibur-WalterCrane.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

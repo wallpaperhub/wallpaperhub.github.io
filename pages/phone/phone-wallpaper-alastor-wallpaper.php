@@ -1,0 +1,129 @@
+<title>Awesome Alastor Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover and download the best Alastor wallpapers for your phone! Enhance your device's look with vibrant designs featuring this beloved character from Hazbin Hotel. Perfect for fans seeking stylish customization. Explore our collection today!">
+                    <meta name="keywords" content="phone wallpaper alastor wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-wallpaper-alastor-wallpaper">
+                            <span itemprop="name">phone wallpaper alastor wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Alastor Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning Alastor wallpapers! Experience the unique style of this quirky character from Hazbin Hotel. Choose from vibrant designs showcasing his charm, perfect for fans of the show. Customize your device's look and express your love for Alastor with these eye-catching wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor phone wallpaper : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1upi8o25q5n41.png?auto=webp&s=a65800da2559456331a726a7c69c3598af4742eb' alt='Alastor phone wallpaper : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1upi8o25q5n41.png?auto=webp&s=a65800da2559456331a726a7c69c3598af4742eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor OLED Wallpaper (1440x2880) : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/px32ebrw5yl41.png' alt='Alastor OLED Wallpaper (1440x2880) : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/px32ebrw5yl41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD alastor wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/118/411/HD-wallpaper-hazbin-hotel-alastor-hazbin-hotel.jpg' alt='HD alastor wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/118/411/HD-wallpaper-hazbin-hotel-alastor-hazbin-hotel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor, halloween, hazbin hotel, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/714/306/HD-wallpaper-alastor-halloween-hazbin-hotel.jpg' alt='Alastor, halloween, hazbin hotel, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/714/306/HD-wallpaper-alastor-halloween-hazbin-hotel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new wallpaper on my phone. : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qkg1um5b9e861.png?width=1080&crop=smart&auto=webp&s=1d50db3bfd40b70ec305d6686ad2f69f778f512d' alt='My new wallpaper on my phone. : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qkg1um5b9e861.png?width=1080&crop=smart&auto=webp&s=1d50db3bfd40b70ec305d6686ad2f69f778f512d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/c8/37/13c8370ab542046e614a1d2ef870f46a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/c8/37/13c8370ab542046e614a1d2ef870f46a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dose any one have any good Alastor wallpapers for my iPhone : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dose-any-one-have-any-good-alastor-wallpapers-for-my-iphone-v0-ll9uyfvf15oc1.jpeg?width=736&format=pjpg&auto=webp&s=304b75610c6b2c2e12275481129e592ccecedaff' alt='Dose any one have any good Alastor wallpapers for my iPhone : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dose-any-one-have-any-good-alastor-wallpapers-for-my-iphone-v0-ll9uyfvf15oc1.jpeg?width=736&format=pjpg&auto=webp&s=304b75610c6b2c2e12275481129e592ccecedaff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor, hotel hazabin, radio demon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/998/988/HD-wallpaper-alastor-hotel-hazabin-radio-demon.jpg' alt='Alastor, hotel hazabin, radio demon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/998/988/HD-wallpaper-alastor-hotel-hazabin-radio-demon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Alastor wallpapers ideas | hotel art, alastor hazbin hotel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/08/bf/a008bfed677d9dfa1de608a847f03c68.jpg' alt='75 Alastor wallpapers ideas | hotel art, alastor hazbin hotel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="745">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/08/bf/a008bfed677d9dfa1de608a847f03c68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alastor, hazbin hotel, venao venao, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/103/HD-wallpaper-alastor-hazbin-hotel-venao-venao.jpg' alt='Alastor, hazbin hotel, venao venao, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/103/HD-wallpaper-alastor-hazbin-hotel-venao-venao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

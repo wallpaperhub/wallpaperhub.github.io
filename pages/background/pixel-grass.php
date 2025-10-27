@@ -1,0 +1,129 @@
+<title>Vibrant Pixel Grass: Enhance Your Digital Art</title>
+                    <meta name="description" content="Discover the charm of pixel grass in digital design. Perfect for games and animations, this retro style brings vibrancy and texture to your projects. Explore ways to incorporate pixel grass into your artwork and elevate your creative expression today!">
+                    <meta name="keywords" content="pixel grass">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-grass">
+                            <span itemprop="name">pixel grass</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pixel Grass: Enhance Your Digital Art</h1>
+                <p>Pixel grass is a digital representation of grass in pixel art style. Often used in video games and digital design, it features vibrant colors and simplistic shapes, capturing the essence of nature in a charming, retro aesthetic. Ideal for 2D animations, pixel grass adds unique texture and depth to your creative projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CC] [NEWBIE] [OC] Pixel Art Grass : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/eps8woq9nh9z.png?auto=webp&s=345c650bdbff7e66d877458d2dccce48a76ea04f' alt='CC] [NEWBIE] [OC] Pixel Art Grass : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/eps8woq9nh9z.png?auto=webp&s=345c650bdbff7e66d877458d2dccce48a76ea04f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's Pixel - RPG Grass Background Tiles - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9TlmBmMonIc/sddefault.jpg' alt='Let's Pixel - RPG Grass Background Tiles - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9TlmBmMonIc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green bush pixel art. Vector grass.The concept of games background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/642/657/non_2x/green-bush-pixel-art-grass-the-concept-of-games-background-vector.jpg' alt='Green bush pixel art. Vector grass.The concept of games background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/642/657/non_2x/green-bush-pixel-art-grass-the-concept-of-games-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass Pixel Art | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/grass_15.png' alt='Grass Pixel Art | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/grass_15.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tofu - Pixel Art —    How to draw simple grass for a game">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/a8b1259381625eacadfd88e40e37ae73/795bab8c5363fda8-1e/s500x750/1bdd0a86b7bbe44d8763bdd60f70b8f94af211d8.png' alt='Tofu - Pixel Art —    How to draw simple grass for a game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tofu - Pixel Art - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/a8b1259381625eacadfd88e40e37ae73/795bab8c5363fda8-1e/s500x750/1bdd0a86b7bbe44d8763bdd60f70b8f94af211d8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Grass Images – Browse 30,618 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/01/25/23/360_F_401252360_L9Ophcvy3yjnU5akk2JJi0dMFOZZQUXb.jpg' alt='Pixel Grass Images – Browse 30,618 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/01/25/23/360_F_401252360_L9Ophcvy3yjnU5akk2JJi0dMFOZZQUXb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CC] How can I improve my first attempt at a grass texture? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5m8846s5ix601.png?auto=webp&s=6b38bb03e4d6053a3af5767c2213ac74b1274e7d' alt='CC] How can I improve my first attempt at a grass texture? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5m8846s5ix601.png?auto=webp&s=6b38bb03e4d6053a3af5767c2213ac74b1274e7d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelart Tutorial - Texture - Bushy Grass / Bush">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3bc3FKxVKj8/hqdefault.jpg' alt='Pixelart Tutorial - Texture - Bushy Grass / Bush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3bc3FKxVKj8/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Bit Grass Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/backyard-bushes-pixel-art-icon-set-tropical-shrub-logo-collection_418367-296.jpg' alt='8 Bit Grass Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/backyard-bushes-pixel-art-icon-set-tropical-shrub-logo-collection_418367-296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelated Grass - Pixelated Grass and Soil - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180407/tpw/avgsz4s31.webp' alt='Pixelated Grass - Pixelated Grass and Soil - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180407/tpw/avgsz4s31.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

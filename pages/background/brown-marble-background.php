@@ -1,0 +1,129 @@
+<title>Elegant Brown Marble Backgrounds for Stunning Designs</title>
+                    <meta name="description" content="Discover the beauty of brown marble backgrounds, perfect for elevating your design projects with elegance and warmth. Ideal for various applications, these rich-toned backdrops bring a sophisticated touch to websites, presentations, and interiors, ensuring a stylish and timeless aesthetic. Explore now!">
+                    <meta name="keywords" content="brown marble background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-marble-background">
+                            <span itemprop="name">brown marble background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Brown Marble Backgrounds for Stunning Designs</h1>
+                <p>Brown marble backgrounds exude elegance and sophistication, featuring rich tones and unique veining patterns that can enhance any design project. Ideal for websites, presentations, or interior decor, this backdrop adds warmth and style. Its versatility allows it to blend seamlessly with various color palettes, making it a timeless choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Texture Background Abstract Natural Patterns Backdrop D106">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/D106-fondo-textura-marmol-brown-textura-marmol-abstracta.jpg?v=1577251962' alt='Brown Marble Texture Background Abstract Natural Patterns Backdrop D106'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/D106-fondo-textura-marmol-brown-textura-marmol-abstracta.jpg?v=1577251962' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-foundation-mix-still-life_23-2149511241.jpg' alt='Brown Marble Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-foundation-mix-still-life_23-2149511241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Texture Background (High Resolution Scan) Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/srckomkrit/srckomkrit1512/srckomkrit151200413/48981490-brown-marble-texture-background-high-resolution-scan.jpg' alt='Brown Marble Texture Background (High Resolution Scan) Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/srckomkrit/srckomkrit1512/srckomkrit151200413/48981490-brown-marble-texture-background-high-resolution-scan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mixed Colors Of Brown Marble Texture Background, Liquid ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/1d/ae/801dae35302d4927c793546fbf889273.jpg' alt='Mixed Colors Of Brown Marble Texture Background, Liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/1d/ae/801dae35302d4927c793546fbf889273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210823/pngtree-brown-marble-wallpaper-image_768546.jpg' alt='Brown Marble Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210823/pngtree-brown-marble-wallpaper-image_768546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown themed marble pattern perfect for background or wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/946/409/non_2x/brown-themed-marble-pattern-perfect-for-background-or-wallpaper-vector.jpg' alt='brown themed marble pattern perfect for background or wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/946/409/non_2x/brown-themed-marble-pattern-perfect-for-background-or-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1706962204636-bbfa6bccf1e8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnJvd24lMjBtYXJibGV8ZW58MHx8MHx8fDA%3D' alt='Brown Marble Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1706962204636-bbfa6bccf1e8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnJvd24lMjBtYXJibGV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grungy-brown-marble-textured-background_53876-108404.jpg' alt='Brown Marble Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grungy-brown-marble-textured-background_53876-108404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Dark Marble Effect Wall Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/dark-brown-marble-_-plain-mural-wallpaper.jpg?v=1721715707' alt='Luxurious Dark Marble Effect Wall Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/dark-brown-marble-_-plain-mural-wallpaper.jpg?v=1721715707' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown marble texture backgrond seamless on white cream color ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/31/19/69/1000_F_331196925_fWSTWsdws321DXTKFsEaFkWl0AKiEYAk.jpg' alt='Brown marble texture backgrond seamless on white cream color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/31/19/69/1000_F_331196925_fWSTWsdws321DXTKFsEaFkWl0AKiEYAk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

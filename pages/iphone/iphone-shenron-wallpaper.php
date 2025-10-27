@@ -1,0 +1,129 @@
+<title>Stunning Shenron Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful Shenron wallpapers for your iPhone! Perfect for any Dragon Ball fan, these striking designs elevate your device's look. Download now to personalize your iPhone with iconic imagery that stands out while keeping your screen stylish!">
+                    <meta name="keywords" content="iphone shenron wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-shenron-wallpaper">
+                            <span itemprop="name">iphone shenron wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shenron Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's aesthetic with stunning Shenron wallpapers! Featuring vibrant colors and intricate designs, these wallpapers bring the essence of Dragon Ball's legendary dragon to your screen. Perfect for fans, each wallpaper is crafted for clarity and style, ensuring your device stands out. Choose your favorite Shenron design and transform your iPhone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Dragon Ball Z Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' alt='Shenron Dragon Ball Z Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/46/bd/9546bd03a1bb381ab66555bf0d414d62.jpg' alt='Shenron wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/46/bd/9546bd03a1bb381ab66555bf0d414d62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shen Long Dragon Ball iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/af/d1/67afd19a41d1c3428be534270bd215e7.jpg' alt='Shen Long Dragon Ball iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/af/d1/67afd19a41d1c3428be534270bd215e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron, dragon ball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/691/720/HD-wallpaper-shenron-dragon-ball.jpg' alt='Shenron, dragon ball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/691/720/HD-wallpaper-shenron-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, shenron, dragon ball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/929/567/HD-wallpaper-goku-shenron-dragon-ball.jpg' alt='Goku, shenron, dragon ball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/929/567/HD-wallpaper-goku-shenron-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Resurrection | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2202965141.0407/flat,750x1000,075,t.jpg' alt='Shenron Resurrection | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2202965141.0407/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Wallpaper 4K, Dragon, Japanese culture">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/shenron-dragon-2560x2560-12105.jpg' alt='Shenron Wallpaper 4K, Dragon, Japanese culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/shenron-dragon-2560x2560-12105.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Shenron (Dragon Ball)" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/9f/9f1b9cefa02c6b045a7a95ecb4f34cc4.jpeg' alt='Download "Shenron (Dragon Ball)" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/9f/9f1b9cefa02c6b045a7a95ecb4f34cc4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron, anime, anime, dragonball, nature, hop, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/990/550/HD-wallpaper-shenron-anime-anime-dragonball-nature-hop.jpg' alt='Shenron, anime, anime, dragonball, nature, hop, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/990/550/HD-wallpaper-shenron-anime-anime-dragonball-nature-hop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/ff/b3/1fffb36758d10a0bc71061d82a886f7b.jpg' alt='Shenron Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/ff/b3/1fffb36758d10a0bc71061d82a886f7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High-Resolution Nightmare Before Christmas Wallpapers</title>
+                    <meta name="description" content="Discover high-resolution "Nightmare Before Christmas" wallpapers for your desktop! Perfectly designed for Tim Burton fans, these vibrant images will enhance your screen’s aesthetic. Download now and enjoy the magic of Halloween Town every day!">
+                    <meta name="keywords" content="high resolution nightmare before christmas desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/high-resolution-nightmare-before-christmas-desktop-wallpaper">
+                            <span itemprop="name">high resolution nightmare before christmas desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Resolution Nightmare Before Christmas Wallpapers</h1>
+                <p>Transform your desktop with stunning high-resolution "Nightmare Before Christmas" wallpapers! These enchanting images capture the whimsical spirit of Halloween Town, featuring Jack Skellington, Sally, and the enchanting landscapes. Perfect for fans of Tim Burton's classic, these wallpapers will bring a festive touch to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack's Dreamscape: An HD Wallpaper from The Nightmare Before Christmas">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/325/32532.jpg' alt='Jack's Dreamscape: An HD Wallpaper from The Nightmare Before Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/325/32532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nightmare Before Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-nightmare-before-christmas-x-corpse-bride-hzl0fk9lv6yfax4a.jpg' alt='100+] Nightmare Before Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-nightmare-before-christmas-x-corpse-bride-hzl0fk9lv6yfax4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nightmare Before Christmas Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/f/d/51424-1920x1080-desktop-full-hd-the-nightmare-before-christmas-background-image.jpg' alt='The Nightmare Before Christmas Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/f/d/51424-1920x1080-desktop-full-hd-the-nightmare-before-christmas-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nightmare Before Christmas Desktop Wallpaper by CyanideSeason on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b8e4cca-02b8-4357-b258-348bf0c50887/d4kx9ao-a7ccdc5d-3a49-40d4-8ef6-01126a91d986.jpg/v1/fill/w_900,h_543,q_75,strp/nightmare_before_christmas_desktop_wallpaper_by_cyanideseason_d4kx9ao-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQzIiwicGF0aCI6IlwvZlwvMWI4ZTRjY2EtMDJiOC00MzU3LWIyNTgtMzQ4YmYwYzUwODg3XC9kNGt4OWFvLWE3Y2NkYzVkLTNhNDktNDBkNC04ZWY2LTAxMTI2YTkxZDk4Ni5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B8NoojVfqrpGpsZuO_dpOo0wYlwpTYBz03SqtYlmJrc' alt='Nightmare Before Christmas Desktop Wallpaper by CyanideSeason on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b8e4cca-02b8-4357-b258-348bf0c50887/d4kx9ao-a7ccdc5d-3a49-40d4-8ef6-01126a91d986.jpg/v1/fill/w_900,h_543,q_75,strp/nightmare_before_christmas_desktop_wallpaper_by_cyanideseason_d4kx9ao-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQzIiwicGF0aCI6IlwvZlwvMWI4ZTRjY2EtMDJiOC00MzU3LWIyNTgtMzQ4YmYwYzUwODg3XC9kNGt4OWFvLWE3Y2NkYzVkLTNhNDktNDBkNC04ZWY2LTAxMTI2YTkxZDk4Ni5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B8NoojVfqrpGpsZuO_dpOo0wYlwpTYBz03SqtYlmJrc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sally (The Nightmare Before Christmas) Jack Skellington ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/128/1285923.jpg' alt='Download Sally (The Nightmare Before Christmas) Jack Skellington ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/128/1285923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jack (The Nightmare Before Christmas) Movie The Nightmare ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/494/494783.jpg' alt='Download Jack (The Nightmare Before Christmas) Movie The Nightmare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/494/494783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nightmare Before Christmas Jack Skellington Hd Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/the-nightmare-before-christmas-jack-skellington-hd-arel23dpn1e6wqnb.jpg' alt='The Nightmare Before Christmas Jack Skellington Hd Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/the-nightmare-before-christmas-jack-skellington-hd-arel23dpn1e6wqnb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Nightmare Before Christmas Backdrop FULL HD 1080p For PC ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/86/e7/7c86e7dcd2d3ebeb3b1b0b15b13f2ea3.jpg' alt='10 Best Nightmare Before Christmas Backdrop FULL HD 1080p For PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/86/e7/7c86e7dcd2d3ebeb3b1b0b15b13f2ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween, Holiday, Skeleton, Movie, The Nightmare Before ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/124/798/HD-wallpaper-halloween-holiday-skeleton-movie-the-nightmare-before-christmas-cemetery-jack-o-lantern-jack-the-nightmare-before-christmas.jpg' alt='Halloween, Holiday, Skeleton, Movie, The Nightmare Before ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/124/798/HD-wallpaper-halloween-holiday-skeleton-movie-the-nightmare-before-christmas-cemetery-jack-o-lantern-jack-the-nightmare-before-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nightmare Before Christmas 4k Wallpaper, HD Movies 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/the-nightmare-before-christmas-4k_bWxraGaUmZqaraWkpJRobWllrWdma2U.jpg' alt='The Nightmare Before Christmas 4k Wallpaper, HD Movies 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/the-nightmare-before-christmas-4k_bWxraGaUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Unveiling Poison Ivy: The Green Queen of Villainy</title>
+                    <meta name="description" content="Discover the multifaceted character of Poison Ivy, the iconic DC villainess. Explore her powers, motivation, and complex relationships in the world of superheroes. Join us as we delve into her environmental activism and intricate narratives that make her a captivating character.">
+                    <meta name="keywords" content="poison ivy character">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/poison-ivy-character">
+                            <span itemprop="name">poison ivy character</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling Poison Ivy: The Green Queen of Villainy</h1>
+                <p>Poison Ivy, a formidable villainess from the DC Universe, is a master of plant-related abilities. She wields toxic pheromones and control over flora, often using her powers to protect the environment. With a complex history, she’s both an adversary and ally to protagonists like Batman, exploring themes of love, betrayal, and environmentalism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/5c/Poison_Ivy_Batman_Vol_3_26.png' alt='Poison Ivy (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/5c/Poison_Ivy_Batman_Vol_3_26.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy | Harley Quinn Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/harleyquinntv/images/6/64/Posion_Ivy.jpg/revision/latest?cb=20191230181034' alt='Poison Ivy | Harley Quinn Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harley Quinn Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/harleyquinntv/images/6/64/Posion_Ivy.jpg/revision/latest?cb=20191230181034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy | Character Level Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/character-level/images/f/f8/43cd88a18079047aaac8495d6e4b4306-d6qng56.png/revision/latest?cb=20190411132611' alt='Poison Ivy | Character Level Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Level Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/character-level/images/f/f8/43cd88a18079047aaac8495d6e4b4306-d6qng56.png/revision/latest?cb=20190411132611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy | Total Movies Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/total-movies/images/c/c3/Poison_Ivy.1.jpg/revision/latest?cb=20131128171657' alt='Poison Ivy | Total Movies Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Movies Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/total-movies/images/c/c3/Poison_Ivy.1.jpg/revision/latest?cb=20131128171657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/PamelaIsleyBatmanandRobin.jpg/170px-PamelaIsleyBatmanandRobin.jpg' alt='Poison Ivy (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/PamelaIsleyBatmanandRobin.jpg/170px-PamelaIsleyBatmanandRobin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy | Batman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/batman/images/5/53/Poison_ivy_fireworks.jpg/revision/latest?cb=20191212215459' alt='Poison Ivy | Batman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/batman/images/5/53/Poison_ivy_fireworks.jpg/revision/latest?cb=20191212215459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dress Like Poison Ivy Costume | Halloween and Cosplay Guides">
+                                <img itemprop="contentUrl url" src='https://cdn.costumewall.com/wp-content/uploads/2017/02/poison-ivy.jpg' alt='Dress Like Poison Ivy Costume | Halloween and Cosplay Guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Costume Wall" />
+                                </span>
+                                <a href='https://cdn.costumewall.com/wp-content/uploads/2017/02/poison-ivy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy (Character) - Comic Vine">
+                                <img itemprop="contentUrl url" src='https://comicvine.gamespot.com/a/uploads/original/11132/111329300/6515340-poison_ivy.jpg' alt='Poison Ivy (Character) - Comic Vine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comic Vine" />
+                                </span>
+                                <a href='https://comicvine.gamespot.com/a/uploads/original/11132/111329300/6515340-poison_ivy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy | Bi Characters | Bi.org">
+                                <img itemprop="contentUrl url" src='https://ucarecdn.com/4f545325-9dea-48ad-813f-1bba50571965/-/crop/700x700/263,0/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' alt='Poison Ivy | Bi Characters | Bi.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bi.org" />
+                                </span>
+                                <a href='https://ucarecdn.com/4f545325-9dea-48ad-813f-1bba50571965/-/crop/700x700/263,0/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poison Ivy - DC CONTINUITY PROJECT">
+                                <img itemprop="contentUrl url" src='http://www.dccontinuityproject.com/uploads/5/4/5/1/54516433/published/299115408.jpg?1510413082' alt='Poison Ivy - DC CONTINUITY PROJECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dc continuity project" />
+                                </span>
+                                <a href='http://www.dccontinuityproject.com/uploads/5/4/5/1/54516433/published/299115408.jpg?1510413082' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

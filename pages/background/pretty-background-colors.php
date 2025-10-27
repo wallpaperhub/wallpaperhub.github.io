@@ -1,0 +1,129 @@
+<title>Discover Beautiful Background Colors for Any Design</title>
+                    <meta name="description" content="Explore the impact of pretty background colors on design aesthetics! From calming pastels to vibrant shades, learn how to choose the perfect hues to enhance creativity and set the right mood for any space or project. Perfect for designers looking to elevate their work!">
+                    <meta name="keywords" content="pretty background colors">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pretty-background-colors">
+                            <span itemprop="name">pretty background colors</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Beautiful Background Colors for Any Design</h1>
+                <p>Pretty background colors can transform any space or design, enhancing its overall aesthetic. Soft pastels create a calming atmosphere, while vibrant hues energize the surroundings. The right color sets the mood—think serene blues for tranquility or warm oranges for vibrancy. Choosing the perfect background enhances creativity and engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Beautiful Color Gradients For Your Next Design Project">
+                                <img itemprop="contentUrl url" src='https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-001-warm-flame.png' alt='30 Beautiful Color Gradients For Your Next Design Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Synopsis" />
+                                </span>
+                                <a href='https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-001-warm-flame.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Watercolor Contrast Color Smudge Brushstroke Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-beautiful-watercolor-contrast-color-smudge-brushstroke-background-picture-image_1274126.jpg' alt='Beautiful Watercolor Contrast Color Smudge Brushstroke Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-beautiful-watercolor-contrast-color-smudge-brushstroke-background-picture-image_1274126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Solid Color Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/solid-color-background-1ui9ck18stlebxzx.jpg' alt='Download Solid Color Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/solid-color-background-1ui9ck18stlebxzx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7680x4320 Soap Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/7680x4320/7680x4320-soap-solid-color-background.jpg' alt='7680x4320 Soap Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/7680x4320/7680x4320-soap-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Elegant pastel color beautiful background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-pastel-color-beautiful-background_1017-33496.jpg' alt='Free Vector | Elegant pastel color beautiful background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-pastel-color-beautiful-background_1017-33496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Beautiful Color Gradients For Your Next Design Project">
+                                <img itemprop="contentUrl url" src='https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-010-winter-neva.png' alt='30 Beautiful Color Gradients For Your Next Design Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Synopsis" />
+                                </span>
+                                <a href='https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-010-winter-neva.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/181/339/non_2x/pretty-watercolor-background-in-turquoise-color-free-vector.jpg' alt='Pretty Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/181/339/non_2x/pretty-watercolor-background-in-turquoise-color-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone 6 Wallpaper / Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/22/ce/c122ce55de8aae5f97030391bb315e15.jpg' alt='Free iPhone 6 Wallpaper / Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/22/ce/c122ce55de8aae5f97030391bb315e15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Solid Color Cute Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210711/original/pngtree-simple-solid-color-cute-background-picture-image_1096780.jpg' alt='Simple Solid Color Cute Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210711/original/pngtree-simple-solid-color-cute-background-picture-image_1096780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Beautiful Color Gradients For Your Next Project :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/d9449681381729.5cfe517a357b2.jpg' alt='40+ Beautiful Color Gradients For Your Next Project :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/disp/d9449681381729.5cfe517a357b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

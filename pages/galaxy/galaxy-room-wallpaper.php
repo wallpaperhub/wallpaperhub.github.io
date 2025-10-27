@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Room Wallpaper: Bring the Cosmos Home</title>
+                    <meta name="description" content="Add a cosmic touch to your decor with our galaxy room wallpaper. Vibrant designs create an inspiring atmosphere, perfect for any space. Easy to apply and maintain, elevate your interiors effortlessly with celestial beauty. Explore now and transform your room into a stunning galactic retreat!">
+                    <meta name="keywords" content="galaxy room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-room-wallpaper">
+                            <span itemprop="name">galaxy room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Room Wallpaper: Bring the Cosmos Home</h1>
+                <p>Transform your space with galaxy room wallpaper, a stunning choice that brings the cosmos into your home. Featuring vibrant colors and intricate designs, these wallpapers create a peaceful ambiance perfect for relaxation or inspiration. Ideal for bedrooms, offices, or creative spaces, they invite the beauty of the universe indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' alt='Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/390237/pr22/1/1280/galaxy-purple-nebula-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper Kids Room. Milky Way Wall Mural. Outer Space ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17354593/r/il/b81fee/3645292282/il_570xN.3645292282_dk6x.jpg' alt='Galaxy Wallpaper Kids Room. Milky Way Wall Mural. Outer Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17354593/r/il/b81fee/3645292282/il_570xN.3645292282_dk6x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Purple Star Wallpaper Mural, Galaxy Planets That Peel and Stick  Large Wallpaper Mural, Suitable for Bedroom Living Room Children's Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811S8IugHNL._AC_UF894,1000_QL80_.jpg' alt='Custom Purple Star Wallpaper Mural, Galaxy Planets That Peel and Stick  Large Wallpaper Mural, Suitable for Bedroom Living Room Children's Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811S8IugHNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Mural, Space Wallpaper, Galaxy Mural, Galaxy Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5719876/r/il/0ace5d/2121072912/il_1080xN.2121072912_hv9b.jpg' alt='Space Mural, Space Wallpaper, Galaxy Mural, Galaxy Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5719876/r/il/0ace5d/2121072912/il_1080xN.2121072912_hv9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jdayda Space Galaxy Wallpaper Night Sky and Stars Wall Mural for Ceiling  Living Room Bedroom Bathroom - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71XIt7YlEiL.jpg' alt='Jdayda Space Galaxy Wallpaper Night Sky and Stars Wall Mural for Ceiling  Living Room Bedroom Bathroom - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71XIt7YlEiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stellar Space Galaxy Wall Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/space-galaxy-wallpaper-mural-room.jpg?v=1696830160&width=1445' alt='Stellar Space Galaxy Wall Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/space-galaxy-wallpaper-mural-room.jpg?v=1696830160&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Photo Wallpaper Galaxy Stars Ceiling Fresco Art Home Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ggAAAOSwokNgLTRm/s-l1200.jpg' alt='3D Photo Wallpaper Galaxy Stars Ceiling Fresco Art Home Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ggAAAOSwokNgLTRm/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Galaxy - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1638276610/articles/R16911_interior2.jpg' alt='Star Galaxy - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1638276610/articles/R16911_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Galaxy Solar System Entire Room Wallpaper Wall Murals Art Prints  IDCQW-000141">
+                                <img itemprop="contentUrl url" src='https://www.idecoroom.com/cdn/shop/products/IDCQW-000141-1_grande.jpg?v=1494466773' alt='3D Galaxy Solar System Entire Room Wallpaper Wall Murals Art Prints  IDCQW-000141'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDecoRoom" />
+                                </span>
+                                <a href='https://www.idecoroom.com/cdn/shop/products/IDCQW-000141-1_grande.jpg?v=1494466773' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy – popular wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interior-images/791153.jpg?q=75&w=958&h=521' alt='Galaxy – popular wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interior-images/791153.jpg?q=75&w=958&h=521' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

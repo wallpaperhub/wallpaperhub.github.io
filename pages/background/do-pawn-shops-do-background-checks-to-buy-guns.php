@@ -1,0 +1,129 @@
+<title>Pawn Shops & Gun Sales: Do They Conduct Background Checks?</title>
+                    <meta name="description" content="Discover whether pawn shops conduct background checks when buying firearms. Learn about state regulations and what you need to know to ensure legal and safe transactions in the world of pawned guns.">
+                    <meta name="keywords" content="do pawn shops do background checks to buy guns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-pawn-shops-do-background-checks-to-buy-guns">
+                            <span itemprop="name">do pawn shops do background checks to buy guns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pawn Shops & Gun Sales: Do They Conduct Background Checks?</h1>
+                <p>Pawn shops do not typically conduct background checks when buying guns from individuals. However, regulations vary by state, and some states may require checks for firearms sales. It's essential to be aware of local laws when engaging in transactions at pawn shops regarding firearms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pawnshops Pawn Firearms? — Pocket Pawn">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/552dca17e4b050a3fd6a5197/1572815732745-1JL8X0HBFHAX3KAZW2VD/unnamed.png' alt='Do Pawnshops Pawn Firearms? — Pocket Pawn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Pawn" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/552dca17e4b050a3fd6a5197/1572815732745-1JL8X0HBFHAX3KAZW2VD/unnamed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pawn Shops Run Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-pawn-shops-run-background-checks.govbackgroundchecks.com/screenshots/do-pawn-shops-run-background-checks/0.jpg' alt='Do Pawn Shops Run Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-pawn-shops-run-background-checks.govbackgroundchecks.com/screenshots/do-pawn-shops-run-background-checks/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to know before pawning a firearm">
+                                <img itemprop="contentUrl url" src='https://blog.quikpawnshop.com/hubfs/QP%20store%20pictures/quikpawnshop-midfield-employee-with-guns.jpg' alt='What to know before pawning a firearm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quik Pawn Shop Blog" />
+                                </span>
+                                <a href='https://blog.quikpawnshop.com/hubfs/QP%20store%20pictures/quikpawnshop-midfield-employee-with-guns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Should Know Before Purchasing a Gun From a Pawn Shop ...">
+                                <img itemprop="contentUrl url" src='https://www.findlaw.com/static/c/images/images/c_scale,w_822/f_auto,q_auto/v1629704755/aemwp-prod/content/dam/content/original-images/AR15s/AR15s.jpg?_i=AA' alt='What You Should Know Before Purchasing a Gun From a Pawn Shop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FindLaw" />
+                                </span>
+                                <a href='https://www.findlaw.com/static/c/images/images/c_scale,w_822/f_auto,q_auto/v1629704755/aemwp-prod/content/dam/content/original-images/AR15s/AR15s.jpg?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buying a Gun from a Pawn Shop: What You Need to Know | Mo Money ...">
+                                <img itemprop="contentUrl url" src='https://momoneypawn.com/wp-content/uploads/2022/05/DSC9419.jpg' alt='Buying a Gun from a Pawn Shop: What You Need to Know | Mo Money ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mo Money Pawn Shop" />
+                                </span>
+                                <a href='https://momoneypawn.com/wp-content/uploads/2022/05/DSC9419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks for gun sales actually work, just look at the data">
+                                <img itemprop="contentUrl url" src='https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UCGWOGV45FBEDAT5MYEZR5PSMY.jpg?auth=f265de6aa24f679195622da409645a568f6bd78cd3b801870a8075b3bfaf393a&height=1878&quality=80' alt='Background checks for gun sales actually work, just look at the data'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2816">
+                                <meta itemprop="height" content="1878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dallas Morning News" />
+                                </span>
+                                <a href='https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UCGWOGV45FBEDAT5MYEZR5PSMY.jpg?auth=f265de6aa24f679195622da409645a568f6bd78cd3b801870a8075b3bfaf393a&height=1878&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buying a Gun from a Pawn Shop - Gene's Jewelry & Pawn">
+                                <img itemprop="contentUrl url" src='https://www.genespawn.com/wp-content/uploads/bb-plugin/cache/man-looking-at-guns-to-buy-from-a-pawnbroker-panorama-a74a1c7fdb6446f395b5306a07f24180-61b26d888205f.jpg' alt='Buying a Gun from a Pawn Shop - Gene's Jewelry & Pawn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gene's Jewelry & Pawn" />
+                                </span>
+                                <a href='https://www.genespawn.com/wp-content/uploads/bb-plugin/cache/man-looking-at-guns-to-buy-from-a-pawnbroker-panorama-a74a1c7fdb6446f395b5306a07f24180-61b26d888205f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firearm Shopping 101: Tips for Buying Guns at Pawn Shops – Florida ...">
+                                <img itemprop="contentUrl url" src='https://floridapawnandgun.com/wp-content/uploads/2024/11/Untitled-design-5.png' alt='Firearm Shopping 101: Tips for Buying Guns at Pawn Shops – Florida ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Pawn & Gun" />
+                                </span>
+                                <a href='https://floridapawnandgun.com/wp-content/uploads/2024/11/Untitled-design-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New DOJ rules set to increase gun purchase background checks | Fox 59">
+                                <img itemprop="contentUrl url" src='https://fox59.com/wp-content/uploads/sites/21/2022/10/70c0919f1d8c4c02a29b9025d6d0de22.jpg' alt='New DOJ rules set to increase gun purchase background checks | Fox 59'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4707">
+                                <meta itemprop="height" content="3138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox 59" />
+                                </span>
+                                <a href='https://fox59.com/wp-content/uploads/sites/21/2022/10/70c0919f1d8c4c02a29b9025d6d0de22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helpful Tips for Buying a Gun from a Pawn Shop">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/8a1cfa_09976b6cb45a469598496ff8652b519f~mv2.jpg/v1/fill/w_568,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8a1cfa_09976b6cb45a469598496ff8652b519f~mv2.jpg' alt='Helpful Tips for Buying a Gun from a Pawn Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chesapeake Pawn and Gun" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/8a1cfa_09976b6cb45a469598496ff8652b519f~mv2.jpg/v1/fill/w_568,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8a1cfa_09976b6cb45a469598496ff8652b519f~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

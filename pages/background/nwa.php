@@ -1,0 +1,129 @@
+<title>Explore the Legacy of NWA Wrestling</title>
+                    <meta name="description" content="Discover the history and influence of the National Wrestling Alliance (NWA), a cornerstone of professional wrestling. Learn about its legendary figures and matches that have shaped the industry, making NWA a vital part of wrestling culture today.">
+                    <meta name="keywords" content="nwa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nwa">
+                            <span itemprop="name">nwa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Legacy of NWA Wrestling</h1>
+                <p>NWA, or National Wrestling Alliance, is a premier professional wrestling organization known for its rich history and prestige in the wrestling world. Established in 1948, it has showcased countless legendary wrestlers and matches, becoming a significant part of sports entertainment culture. NWA continues to influence modern wrestling with its classic legacy and innovative stories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NWA - Greatest Hits">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+u0MJpDHL._UF1000,1000_QL80_.jpg' alt='NWA - Greatest Hits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+u0MJpDHL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Straight Outta Compton // N.W.A // Audioxide">
+                                <img itemprop="contentUrl url" src='https://api.audioxide.com/images/album-artwork/straight-outta-compton-nwa-large-standard.jpg' alt='Review: Straight Outta Compton // N.W.A // Audioxide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audioxide" />
+                                </span>
+                                <a href='https://api.audioxide.com/images/album-artwork/straight-outta-compton-nwa-large-standard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.W.A - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8d/Nwa-Logo.svg' alt='N.W.A - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8d/Nwa-Logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.W.A's 'Straight Outta Compton': 12 Things You Didn't Know">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/08/NWA-10-things-you-didnt-know.jpg' alt='N.W.A's 'Straight Outta Compton': 12 Things You Didn't Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2962">
+                                <meta itemprop="height" content="1975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/08/NWA-10-things-you-didnt-know.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The N.W.A Flowchart. The comprehensive family tree of the… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*_gvvBMq11ugUwoaeZI-FCA.jpeg' alt='The N.W.A Flowchart. The comprehensive family tree of the… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*_gvvBMq11ugUwoaeZI-FCA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forget 'Straight Outta Compton' – This Is The Real Story Of NWA">
+                                <img itemprop="contentUrl url" src='https://www.nme.com/wp-content/uploads/2016/09/1990NWAPhotoshot250815.hero_-696x390.jpg' alt='Forget 'Straight Outta Compton' – This Is The Real Story Of NWA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NME" />
+                                </span>
+                                <a href='https://www.nme.com/wp-content/uploads/2016/09/1990NWAPhotoshot250815.hero_-696x390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.W.A. - Hip Hop Golden Age Hip Hop Golden Age">
+                                <img itemprop="contentUrl url" src='https://hiphopgoldenage.com/wp-content/uploads/2015/07/nwa1.png' alt='N.W.A. - Hip Hop Golden Age Hip Hop Golden Age'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hip Hop Golden Age" />
+                                </span>
+                                <a href='https://hiphopgoldenage.com/wp-content/uploads/2015/07/nwa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Straight Outta Compton - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/84/StraightOuttaComptonN.W.A..jpg' alt='Straight Outta Compton - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/84/StraightOuttaComptonN.W.A..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.W.A. Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/6c6c5456aa373c9cbf4f385c2dd69c4177e6e3fa' alt='N.W.A. Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/6c6c5456aa373c9cbf4f385c2dd69c4177e6e3fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive: The moment N.W.A changed the music world - Los Angeles ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/fbf5ed4/2147483647/strip/true/crop/2048x1151+0+0/resize/1200x674!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb3%2F65%2Fdaf8cb3bd863ee9a9547f8f652ae%2Fla-1512109111-ew3xhywr3t-snap-image' alt='Exclusive: The moment N.W.A changed the music world - Los Angeles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/fbf5ed4/2147483647/strip/true/crop/2048x1151+0+0/resize/1200x674!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb3%2F65%2Fdaf8cb3bd863ee9a9547f8f652ae%2Fla-1512109111-ew3xhywr3t-snap-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

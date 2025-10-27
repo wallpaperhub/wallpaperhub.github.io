@@ -1,0 +1,129 @@
+<title>Stunning Beach Boardwalk Views: A Perfect Escape</title>
+                    <meta name="description" content="Discover the beauty of beach boardwalks, where sun-soaked paths meet lively entertainment. Explore vibrant shops, delicious snacks, and breathtaking ocean views. Perfect for families and couples alike, this quintessential seaside experience awaits you. Enjoy a day of fun by the shore!">
+                    <meta name="keywords" content="beach boardwalk background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beach-boardwalk-background">
+                            <span itemprop="name">beach boardwalk background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Beach Boardwalk Views: A Perfect Escape</h1>
+                <p>The beach boardwalk is a vibrant fusion of sun, sea, and fun. Stretching along sandy shores, it buzzes with energy from families, tourists, and street performers. Colorful shops, food stands, and playful attractions abound, creating a picturesque setting for lazy strolls, exciting bike rides, and unforgettable sunset views over the ocean.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1148693836/photo/boardwalk-leading-to-the-beach-at-sunrise.jpg?s=612x612&w=0&k=20&c=85eiY9pIxsnJ9A59TPPH6buFnqtwjiqstH4OAJkFOEE=' alt='52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1148693836/photo/boardwalk-leading-to-the-beach-at-sunrise.jpg?s=612x612&w=0&k=20&c=85eiY9pIxsnJ9A59TPPH6buFnqtwjiqstH4OAJkFOEE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Boardwalk">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67380/beach-boardwalk.jpg?h=699&q=85' alt='Beach Boardwalk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67380/beach-boardwalk.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1174851995/photo/steel-pier-atlantic-city-new-jersey.jpg?s=612x612&w=0&k=20&c=XmPEpWCcdiPcbc37C2GDCGNYsUd0N30fCQaZwbowjO8=' alt='52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1174851995/photo/steel-pier-atlantic-city-new-jersey.jpg?s=612x612&w=0&k=20&c=XmPEpWCcdiPcbc37C2GDCGNYsUd0N30fCQaZwbowjO8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/511361356/photo/board-walk-on-the-beach.jpg?s=612x612&w=0&k=20&c=ZouFbcLQHt7UDsPC-CVxAjU4fSMoNW9SDhY3poSZUjE=' alt='52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/511361356/photo/board-walk-on-the-beach.jpg?s=612x612&w=0&k=20&c=ZouFbcLQHt7UDsPC-CVxAjU4fSMoNW9SDhY3poSZUjE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Boardwalk Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1428899530170-95753c69f40d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2glMjBib2FyZHdhbGt8ZW58MHx8MHx8fDA%3D' alt='Beach Boardwalk Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1428899530170-95753c69f40d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2glMjBib2FyZHdhbGt8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital background of beach boardwalk at sunset">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6768057/r/il/a74774/1464543018/il_570xN.1464543018_d8z3.jpg' alt='Digital background of beach boardwalk at sunset'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6768057/r/il/a74774/1464543018/il_570xN.1464543018_d8z3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boardwalk Beach Images – Browse 117,382 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/02/47/88/360_F_202478853_Gbz6EFq02sGNYMbftp06GZAqGfF9LItR.jpg' alt='Boardwalk Beach Images – Browse 117,382 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/02/47/88/360_F_202478853_Gbz6EFq02sGNYMbftp06GZAqGfF9LItR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/612497864/photo/summer-vacation-background.jpg?s=612x612&w=0&k=20&c=9AuZDJEPUtMTK8g67DuGeYBGeRFJmAa0FhQPp4Crx6k=' alt='52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/612497864/photo/summer-vacation-background.jpg?s=612x612&w=0&k=20&c=9AuZDJEPUtMTK8g67DuGeYBGeRFJmAa0FhQPp4Crx6k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/626839970/photo/sunset-benches-beach.jpg?s=612x612&w=0&k=20&c=Sn-y1lVUS3HmGh80Wc5wYWoLa6iEHSU7loo0hu5-BAg=' alt='52,500+ Beach Boardwalk Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/626839970/photo/sunset-benches-beach.jpg?s=612x612&w=0&k=20&c=Sn-y1lVUS3HmGh80Wc5wYWoLa6iEHSU7loo0hu5-BAg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Boardwalk with Dunes and Sea Oats — Stock Photo © forestpath ...">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1358283/5298/i/950/depositphotos_52988921-stock-photo-beach-boardwalk-with-dunes-and.jpg' alt='Beach Boardwalk with Dunes and Sea Oats — Stock Photo © forestpath ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1358283/5298/i/950/depositphotos_52988921-stock-photo-beach-boardwalk-with-dunes-and.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Light Gray Wallpaper: Perfect Your Space</title>
+                    <meta name="description" content="Discover the beauty of light gray wallpaper! Enhance your home with this versatile and elegant choice that suits any decor style. Create a serene atmosphere while allowing your space to shine with style. Ideal for living rooms, bedrooms, and more. Transform your walls today!">
+                    <meta name="keywords" content="light gray wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-gray-wallpaper">
+                            <span itemprop="name">light gray wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Gray Wallpaper: Perfect Your Space</h1>
+                <p>Light gray wallpaper is the perfect choice for creating a calm and sophisticated ambiance in any room. Its neutral tone complements various decor styles, from modern to traditional. This versatile color allows you to play with different furniture and accent colors, brightening your space while keeping it subtly elegant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elle Decor ELLE Decoration Collection Light Grey Plain Glitter Structure  Vinyl Non-Woven Non-Pasted Wallpaper Roll (Covers 57sq.ft) 10171-29 - The  ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2bd6e7fa-07d6-4cb2-a6c3-34b8cd4c92ea/svn/elle-decor-wallpaper-rolls-10171-29-64_1000.jpg' alt='Elle Decor ELLE Decoration Collection Light Grey Plain Glitter Structure  Vinyl Non-Woven Non-Pasted Wallpaper Roll (Covers 57sq.ft) 10171-29 - The  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2bd6e7fa-07d6-4cb2-a6c3-34b8cd4c92ea/svn/elle-decor-wallpaper-rolls-10171-29-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Faux Light Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/watercolor-faux-light-grey-wallpaper-qdct-l.jpg' alt='Watercolor Faux Light Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/watercolor-faux-light-grey-wallpaper-qdct-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grace Plain Light Grey 5744-10 Wallpaper - Designer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/5744-10__99252.1464407482.1280.1280_1000x.jpg?v=1571723225' alt='Grace Plain Light Grey 5744-10 Wallpaper - Designer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/5744-10__99252.1464407482.1280.1280_1000x.jpg?v=1571723225' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grey Faux Texture Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/light-grey-faux-texture-wallpaper-szsm-l.jpg' alt='Light Grey Faux Texture Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/light-grey-faux-texture-wallpaper-szsm-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speckle Faux Tweed Light Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/speckle-faux-tweed-light-grey-wallpaper-fmxt-l.jpg' alt='Speckle Faux Tweed Light Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/speckle-faux-tweed-light-grey-wallpaper-fmxt-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Light Grey Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/watercolor-texture-background-light-gray-wallpaper_53876-104729.jpg' alt='Page 2 | Light Grey Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/watercolor-texture-background-light-gray-wallpaper_53876-104729.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light grey 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/de/ae/b5deae330352de835bb810c17be4b906.jpg' alt='Light grey 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/de/ae/b5deae330352de835bb810c17be4b906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighter Solid Grey Cement Texture Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lighter-solid-grey-cement-texture-background-kc6ss4hyhrogstkq.jpg' alt='Lighter Solid Grey Cement Texture Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lighter-solid-grey-cement-texture-background-kc6ss4hyhrogstkq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unis Stripes Plain Light Grey 254818 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/254818__71799.1464407636.1280.1280_800x.jpg?v=1571723231' alt='Unis Stripes Plain Light Grey 254818 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/254818__71799.1464407636.1280.1280_800x.jpg?v=1571723231' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Gray Fluid Art Wallpaper, Alcohol Ink Art. Cotton Seed ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17348157/r/il/c0fdfa/4795707004/il_fullxfull.4795707004_srnc.jpg' alt='Light Gray Fluid Art Wallpaper, Alcohol Ink Art. Cotton Seed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17348157/r/il/c0fdfa/4795707004/il_fullxfull.4795707004_srnc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

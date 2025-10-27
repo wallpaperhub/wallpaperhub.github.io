@@ -1,0 +1,129 @@
+<title>Satoru Gojo Wallpapers for iPhone: Stunning Designs!</title>
+                    <meta name="description" content="Discover the best Satoru Gojo wallpapers for your iPhone! Explore a variety of eye-catching designs that bring this iconic character from Jujutsu Kaisen to your screen. Perfect for fans looking to personalize their devices with stylish and unique backgrounds. Download your favorites now!">
+                    <meta name="keywords" content="satoru gojo wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/satoru-gojo-wallpaper-iphone">
+                            <span itemprop="name">satoru gojo wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Satoru Gojo Wallpapers for iPhone: Stunning Designs!</h1>
+                <p>Transform your iPhone with stunning Satoru Gojo wallpapers! Choose from a variety of designs that capture the essence of this beloved character from Jujutsu Kaisen. Whether you prefer vibrant action scenes or minimalist aesthetics, our collection has something for every fan. Update your phone's look today and enjoy the charm of Gojo on your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Satoru Gojo Jujutsu Kaisen iPhone 6s on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/83/e4/eb83e4e0de11af93c4533342a82c0321.jpg' alt='   Free download Satoru Gojo Jujutsu Kaisen iPhone 6s on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/83/e4/eb83e4e0de11af93c4533342a82c0321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Gojo Jujutsu Kaisen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/neon-gojo-jujutsu-kaisen-iphone-ld84xju074asaov3.webp' alt='Simple Gojo Jujutsu Kaisen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/neon-gojo-jujutsu-kaisen-iphone-ld84xju074asaov3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1007438.jpeg' alt='Satoru Gojo iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1925">
+                                <meta itemprop="height" content="3625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1007438.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Wallpaper 4K, Jujutsu Kaisen, Manga series">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/satoru-gojo-jujutsu-1179x2556-9292.jpg' alt='Satoru Gojo Wallpaper 4K, Jujutsu Kaisen, Manga series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/satoru-gojo-jujutsu-1179x2556-9292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gojo Jujutsu Kaisen Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-gojo-jujutsu-kaisen-iphone-z633bp354fahe1cq.jpg' alt='Purple Gojo Jujutsu Kaisen Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-gojo-jujutsu-kaisen-iphone-z633bp354fahe1cq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/8d/2f/ac8d2fb7fe08468fb560713baf6376ac.jpg' alt='Gojo   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/8d/2f/ac8d2fb7fe08468fb560713baf6376ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Wallpaper 4K, Black background, 8K, AMOLED, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/satoru-gojo-black-1242x2208-14684.png' alt='Satoru Gojo Wallpaper 4K, Black background, 8K, AMOLED, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/satoru-gojo-black-1242x2208-14684.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo (Jujutsu Kaisen) Wallpaper iPhone Phone 4K #5790e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/satoru-gojo-jujutsu-kaisen-579@0@e-phone-4k.jpg' alt='Satoru Gojo (Jujutsu Kaisen) Wallpaper iPhone Phone 4K #5790e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/satoru-gojo-jujutsu-kaisen-579@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Wallpaper (Iphone) by artixfr on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/605e39f6-9f22-44f9-8f9a-fb84ce15c035/dehuj29-a419f909-312e-414c-a152-4133377a8a6e.jpg/v1/fill/w_670,h_1192,q_70,strp/gojo_satoru_wallpaper__iphone__by_artixfr_dehuj29-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIwOCIsInBhdGgiOiJcL2ZcLzYwNWUzOWY2LTlmMjItNDRmOS04ZjlhLWZiODRjZTE1YzAzNVwvZGVodWoyOS1hNDE5ZjkwOS0zMTJlLTQxNGMtYTE1Mi00MTMzMzc3YThhNmUuanBnIiwid2lkdGgiOiI8PTEyNDIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XAy6mq6RohKbsF5Et3FiiX4l_izjv9jimJsQJ4KI4Yg' alt='Gojo Satoru Wallpaper (Iphone) by artixfr on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/605e39f6-9f22-44f9-8f9a-fb84ce15c035/dehuj29-a419f909-312e-414c-a152-4133377a8a6e.jpg/v1/fill/w_670,h_1192,q_70,strp/gojo_satoru_wallpaper__iphone__by_artixfr_dehuj29-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIwOCIsInBhdGgiOiJcL2ZcLzYwNWUzOWY2LTlmMjItNDRmOS04ZjlhLWZiODRjZTE1YzAzNVwvZGVodWoyOS1hNDE5ZjkwOS0zMTJlLTQxNGMtYTE1Mi00MTMzMzc3YThhNmUuanBnIiwid2lkdGgiOiI8PTEyNDIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XAy6mq6RohKbsF5Et3FiiX4l_izjv9jimJsQJ4KI4Yg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 840x1336 satoru gojo, jujutsu kaisen, anime art ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/840x1336/43d414/jujutsu-kaisen-satoru-gojo-digital-art.jpg' alt='Download wallpaper 840x1336 satoru gojo, jujutsu kaisen, anime art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/840x1336/43d414/jujutsu-kaisen-satoru-gojo-digital-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

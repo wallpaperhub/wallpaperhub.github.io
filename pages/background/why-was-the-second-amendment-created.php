@@ -1,0 +1,129 @@
+<title>Understanding the Purpose of the Second Amendment</title>
+                    <meta name="description" content="Explore why the Second Amendment was established, focusing on individual rights, militia importance, and protection against tyranny. Learn how it continues to impact gun rights and legislation in America today.">
+                    <meta name="keywords" content="why was the second amendment created">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-was-the-second-amendment-created">
+                            <span itemprop="name">why was the second amendment created</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Purpose of the Second Amendment</h1>
+                <p>The Second Amendment was created to ensure the right of individuals to bear arms, emphasizing the importance of a well-regulated militia for security. It reflects the founders' desire to protect citizens from tyranny and enable self-defense. The amendment represents a balance between governmental authority and personal freedoms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2ND AMENDMENT EXPLAINED – American Enlightenment Project">
+                                <img itemprop="contentUrl url" src='https://americanenlightenmentproject.org/wp-content/uploads/2020/12/The-2nd-Ammendment-Explained-1-scaled.jpg' alt='2ND AMENDMENT EXPLAINED – American Enlightenment Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Enlightenment Project" />
+                                </span>
+                                <a href='https://americanenlightenmentproject.org/wp-content/uploads/2020/12/The-2nd-Ammendment-Explained-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the 2nd Amendment Means What It Says - The Shooter's Log">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/blog.cheaperthandirt.com/wp-content/uploads/2018/04/SecondAmendment_FreeToUseUnderCCL-1.jpg?fit=900%2C487&ssl=1' alt='Why the 2nd Amendment Means What It Says - The Shooter's Log'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Shooter's Log - Cheaper Than Dirt" />
+                                </span>
+                                <a href='https://i0.wp.com/blog.cheaperthandirt.com/wp-content/uploads/2018/04/SecondAmendment_FreeToUseUnderCCL-1.jpg?fit=900%2C487&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the origin and evolutions of the Second Amendment">
+                                <img itemprop="contentUrl url" src='https://ewscripps.brightspotcdn.com/dims4/default/d4909f5/2147483647/strip/true/crop/1280x724+0+0/resize/1280x724!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F68%2Ffc%2Fb4f2b433471d9f226b911c22f5c3%2F2nd-amendment.png' alt='Understanding the origin and evolutions of the Second Amendment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRTV" />
+                                </span>
+                                <a href='https://ewscripps.brightspotcdn.com/dims4/default/d4909f5/2147483647/strip/true/crop/1280x724+0+0/resize/1280x724!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F68%2Ffc%2Fb4f2b433471d9f226b911c22f5c3%2F2nd-amendment.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Second Amendment - Point of View - Point of View">
+                                <img itemprop="contentUrl url" src='https://pointofview.net/wp-content/uploads/2018/04/The-2nd-Amendment.jpg' alt='Second Amendment - Point of View - Point of View'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pointofview.net" />
+                                </span>
+                                <a href='https://pointofview.net/wp-content/uploads/2018/04/The-2nd-Amendment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the 2nd Amendment | Blue Alpha">
+                                <img itemprop="contentUrl url" src='https://www.bluealphabelts.com/wp-content/uploads/2022/07/2nd_Amendment_V4.jpg' alt='History of the 2nd Amendment | Blue Alpha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Alpha Belts" />
+                                </span>
+                                <a href='https://www.bluealphabelts.com/wp-content/uploads/2022/07/2nd_Amendment_V4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRUTH about the 2nd Amendment - Forgotten History">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pE2VIj7ozyA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmJRfUCY94GKKnKEXauj82GIiVBQ' alt='TRUTH about the 2nd Amendment - Forgotten History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pE2VIj7ozyA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmJRfUCY94GKKnKEXauj82GIiVBQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Was the Second Amendment Created? – 2A4LIFE">
+                                <img itemprop="contentUrl url" src='https://2a4life.com/cdn/shop/articles/stand_featured_image_720x.png?v=1598492240' alt='How Was the Second Amendment Created? – 2A4LIFE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="2A4LIFE" />
+                                </span>
+                                <a href='https://2a4life.com/cdn/shop/articles/stand_featured_image_720x.png?v=1598492240' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Second Amendment Facts  Proposed on Sept. 25, 1789  Ratified ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/25/8059068/slides/slide_2.jpg' alt='Second Amendment Facts  Proposed on Sept. 25, 1789  Ratified ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/25/8059068/slides/slide_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History and Timeline of the Second Amendment in America">
+                                <img itemprop="contentUrl url" src='https://gunmagwarehouse.com/blog/wp-content/uploads/2022/10/Second-Amendment-2.jpg' alt='A History and Timeline of the Second Amendment in America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GunMag Warehouse" />
+                                </span>
+                                <a href='https://gunmagwarehouse.com/blog/wp-content/uploads/2022/10/Second-Amendment-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Second Amendment: Original Intent | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/59097347ebe912338a3775a6/master/pass/Quaintance-Second-Amendment-Original-Intent.jpg' alt='The Second Amendment: Original Intent | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/59097347ebe912338a3775a6/master/pass/Quaintance-Second-Amendment-Original-Intent.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

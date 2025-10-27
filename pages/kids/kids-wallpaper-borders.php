@@ -1,0 +1,129 @@
+<title>Vibrant Kids Wallpaper Borders for Every Room</title>
+                    <meta name="description" content="Discover colorful kids wallpaper borders that brighten up any child's room! Easy to apply and remove, our fun designs inspire creativity and make decorating a breeze. Ideal for nurseries, playrooms, and bedrooms, transform your space with playful styles today!">
+                    <meta name="keywords" content="kids wallpaper borders">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/kids-wallpaper-borders">
+                            <span itemprop="name">kids wallpaper borders</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Kids Wallpaper Borders for Every Room</h1>
+                <p>Transform your child’s room with delightful kids wallpaper borders! Available in vibrant colors and fun designs, these borders add a playful touch and inspire imagination. Easy to install and remove, they allow for creative freedom without permanent changes. Perfect for nurseries, playrooms, or any kid's bedroom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOYS THEMED WALLPAPER BORDERS KIDS BEDROOM CARS, DINOSAUR, SPACE WALL DECOR">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/-UAAAOSwmgJY6CHi/s-l1200.jpg' alt='BOYS THEMED WALLPAPER BORDERS KIDS BEDROOM CARS, DINOSAUR, SPACE WALL DECOR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/-UAAAOSwmgJY6CHi/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids b73513 Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/08ef9fac6aaec67f3cc5883968a52d0c_1000x.jpg?v=1571723185' alt='Kids b73513 Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/08ef9fac6aaec67f3cc5883968a52d0c_1000x.jpg?v=1571723185' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAPPY HOME Wallpaper Border, Removable Wallpaper, Kids Room Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8756805/r/il/3194f0/1824523952/il_fullxfull.1824523952_t7q2.jpg' alt='HAPPY HOME Wallpaper Border, Removable Wallpaper, Kids Room Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8756805/r/il/3194f0/1824523952/il_fullxfull.1824523952_t7q2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CONCORD WALLCOVERINGS ™ Kids Wallpaper Border Painted Construction Trucks  for Play Room Bedroom, Blue Red Green, 15 ft by 6 in 5814636">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51wh3rqvVPL._AC_UF894,1000_QL80_.jpg' alt='CONCORD WALLCOVERINGS ™ Kids Wallpaper Border Painted Construction Trucks  for Play Room Bedroom, Blue Red Green, 15 ft by 6 in 5814636'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51wh3rqvVPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Border - Kids Blue Green Pink Hearts Wall Border  Retro Design, 15 ft x 7 in (4.57m x 17.78cm), Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://dundeedeco.com/wp-content/uploads/2022/03/BD9329_full-scaled.jpg' alt='Peel and Stick Wallpaper Border - Kids Blue Green Pink Hearts Wall Border  Retro Design, 15 ft x 7 in (4.57m x 17.78cm), Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dundee Deco" />
+                                </span>
+                                <a href='https://dundeedeco.com/wp-content/uploads/2022/03/BD9329_full-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Blue Wallpaper Border Peel and Stick Border Bow-Knot Wall Border  for Kids Bedrooms Bathrooms Self Adhesive Wallpaper Borders for Teen Girls  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71OaE3J+nfL.jpg' alt='Livelynine Blue Wallpaper Border Peel and Stick Border Bow-Knot Wall Border  for Kids Bedrooms Bathrooms Self Adhesive Wallpaper Borders for Teen Girls  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71OaE3J+nfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco's Peel and Stick Wallpaper Border - Kids Yellow Pink Purple  Hearts Wall Border Retro Design, 15 ft x 7 in, Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Kids-Yellow-Pink-Purple-Hearts-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_77c5d1e8-8206-4957-84b1-0a786ab8cce2.664ce0fd4b3c6358a31bdd3b0f433aea.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Dundee Deco's Peel and Stick Wallpaper Border - Kids Yellow Pink Purple  Hearts Wall Border Retro Design, 15 ft x 7 in, Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Dundee-Deco-s-Peel-and-Stick-Wallpaper-Border-Kids-Yellow-Pink-Purple-Hearts-Wall-Border-Retro-Design-15-ft-x-7-in-Self-Adhesive_77c5d1e8-8206-4957-84b1-0a786ab8cce2.664ce0fd4b3c6358a31bdd3b0f433aea.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids 7058722 Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://www.giftedparrot.com/cdn/shop/products/488c54f78331aa4193433a9a8b244024_1000x.jpg?v=1655834082' alt='Kids 7058722 Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Parrot" />
+                                </span>
+                                <a href='https://www.giftedparrot.com/cdn/shop/products/488c54f78331aa4193433a9a8b244024_1000x.jpg?v=1655834082' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAPPY HOME Wallpaper Border, Removable Wallpaper, Kids Room Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8756805/r/il/dc752d/1580103650/il_fullxfull.1580103650_obah.jpg' alt='HAPPY HOME Wallpaper Border, Removable Wallpaper, Kids Room Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2055">
+                                <meta itemprop="height" content="2055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8756805/r/il/dc752d/1580103650/il_fullxfull.1580103650_obah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco Falkirk Dandy II Pink Green Yellow Bees and Bugs Kids Peel and  Stick Wallpaper Border DDHDBD9338">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ace468c0-fecb-45f7-9040-d6902cbb5cd4/svn/dundee-deco-wallpaper-borders-ddhdbd9338-44_600.jpg' alt='Dundee Deco Falkirk Dandy II Pink Green Yellow Bees and Bugs Kids Peel and  Stick Wallpaper Border DDHDBD9338'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ace468c0-fecb-45f7-9040-d6902cbb5cd4/svn/dundee-deco-wallpaper-borders-ddhdbd9338-44_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

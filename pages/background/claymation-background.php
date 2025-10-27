@@ -1,0 +1,129 @@
+<title>Discover the Magic of Claymation Animation</title>
+                    <meta name="description" content="Explore the enchanting world of claymation! Learn about this captivating animation technique that brings characters and stories to life using clay models. Perfect for aspiring animators and fans alike. Dive into the artistry and creativity behind claymation today!">
+                    <meta name="keywords" content="claymation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/claymation-background">
+                            <span itemprop="name">claymation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Claymation Animation</h1>
+                <p>Claymation, a unique animation technique that uses clay figures, brings creativity to life. Each character and scene is meticulously crafted, allowing artists to create imaginative worlds. The process involves photographing the models and making slight adjustments frame by frame, creating fluid motion. It's a captivating blend of art and storytelling!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Clay Scenery | Stop Motion">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ybNQ16A7ukE/maxresdefault.jpg' alt='How to Create Clay Scenery | Stop Motion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ybNQ16A7ukE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop motion set making for beginners and kids – HUE">
+                                <img itemprop="contentUrl url" src='https://images.huehd.com/wp-content/uploads/2023/02/RB-yorkshire-countryside-stop-motion-set-background-1-1024x574.png' alt='Stop motion set making for beginners and kids – HUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HUE HD" />
+                                </span>
+                                <a href='https://images.huehd.com/wp-content/uploads/2023/02/RB-yorkshire-countryside-stop-motion-set-background-1-1024x574.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red car riding, river, trees, duck, clay, plasticine, animation, stop  motion stock video 683812910">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/683812910/video/red-car-riding-river-trees-duck-clay-plasticine-animation-stop-motion.jpg?s=640x640&k=20&c=OrFWablzRdUiVu0MvuUQu0TKw5KUbCfBvLo_iQTi3Cs=' alt='Red car riding, river, trees, duck, clay, plasticine, animation, stop  motion stock video 683812910'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/683812910/video/red-car-riding-river-trees-duck-clay-plasticine-animation-stop-motion.jpg?s=640x640&k=20&c=OrFWablzRdUiVu0MvuUQu0TKw5KUbCfBvLo_iQTi3Cs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="127 Claymation Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/whimsical-claymation-rocket-soaring-dark-sky-filled-colorful-planets-stars-fluffy-clouds-above-vibrant-351759012.jpg' alt='127 Claymation Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/whimsical-claymation-rocket-soaring-dark-sky-filled-colorful-planets-stars-fluffy-clouds-above-vibrant-351759012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Clay Animation | Animation Explainers">
+                                <img itemprop="contentUrl url" src='https://animationexplainers.com/wp-content/uploads/2022/01/Clay-Animation.jpg' alt='The History Of Clay Animation | Animation Explainers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animation Explainers" />
+                                </span>
+                                <a href='https://animationexplainers.com/wp-content/uploads/2022/01/Clay-Animation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claymation: A Century-Old Stop-Motion Animation Technique - Superpixel">
+                                <img itemprop="contentUrl url" src='https://superpixel.sg/wp-content/uploads/2023/03/Claymotion.webp' alt='Claymation: A Century-Old Stop-Motion Animation Technique - Superpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Superpixel" />
+                                </span>
+                                <a href='https://superpixel.sg/wp-content/uploads/2023/03/Claymotion.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Claymation ideas | stop motion, animation stop motion, clay ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/68/83/ab/6883aba779c17b45788fe7925562501a.jpg' alt='7 Claymation ideas | stop motion, animation stop motion, clay ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/68/83/ab/6883aba779c17b45788fe7925562501a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop motion set making for beginners and kids – HUE">
+                                <img itemprop="contentUrl url" src='https://images.huehd.com/wp-content/uploads/2023/02/GreenBabyHUE-AnimatingRedBlob-BeachBackground-SetMakingBlog-1024x576.png' alt='Stop motion set making for beginners and kids – HUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HUE HD" />
+                                </span>
+                                <a href='https://images.huehd.com/wp-content/uploads/2023/02/GreenBabyHUE-AnimatingRedBlob-BeachBackground-SetMakingBlog-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surreal claymation landscape autumn vibes eerie vibes dark ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/surreal-claymation-landscape-autumn-vibes-eerie-vibes-dark-background-with-colorful-leaves-dark_1309778-27055.jpg' alt='Surreal claymation landscape autumn vibes eerie vibes dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/surreal-claymation-landscape-autumn-vibes-eerie-vibes-dark-background-with-colorful-leaves-dark_1309778-27055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claymation Sun Clouds Passing By Transparent">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1008445933/thumb/1.jpg?ip=x480' alt='Claymation Sun Clouds Passing By Transparent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1008445933/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

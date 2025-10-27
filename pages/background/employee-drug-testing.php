@@ -1,0 +1,129 @@
+<title>Essential Guide to Employee Drug Testing</title>
+                    <meta name="description" content="Discover the importance of employee drug testing for a safer workplace. Learn about effective policies, compliance regulations, and the benefits of promoting a drug-free environment for improved productivity and staff well-being.">
+                    <meta name="keywords" content="employee drug testing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/employee-drug-testing">
+                            <span itemprop="name">employee drug testing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Employee Drug Testing</h1>
+                <p>Employee drug testing is crucial for maintaining a safe and productive workplace. It helps employers identify substance abuse issues and ensure compliance with industry regulations. Implementing a fair testing policy promotes accountability, enhances employee well-being, and ultimately benefits the organization by reducing accidents and improving performance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Benefits of Drug Testing in the Workplace">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/376e8bb8/dms3rep/multi/opt/Drug+testing+in+the+workplace-640w.jpg' alt='The Benefits of Drug Testing in the Workplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CourtHouse Concepts" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/376e8bb8/dms3rep/multi/opt/Drug+testing+in+the+workplace-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers Must Carefully Craft Drug-Testing Policies">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/dw66ys5x4vcw/3Uj4bdBSI3XbIA8fBHUDHG/1035f6bc8d046c201e5d4b77571d8f53/drug-testing-policies.jpg' alt='Employers Must Carefully Craft Drug-Testing Policies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purdue Global Law School" />
+                                </span>
+                                <a href='https://images.ctfassets.net/dw66ys5x4vcw/3Uj4bdBSI3XbIA8fBHUDHG/1035f6bc8d046c201e5d4b77571d8f53/drug-testing-policies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10-Panel Drug Test for Pre-Employment Screening">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/71bc65f3-3aca-46be-965a-752d5aabc73f/drug%20test%20pre-employment%20.png/:/rs=w:1280' alt='10-Panel Drug Test for Pre-Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HealthRoute" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/71bc65f3-3aca-46be-965a-752d5aabc73f/drug%20test%20pre-employment%20.png/:/rs=w:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should Employees be Tested for Drugs?">
+                                <img itemprop="contentUrl url" src='https://drugtestsinbulk.com/blog/wp-content/uploads/2016/11/should-employees-be-drug-tested-1080x675.jpg' alt='Should Employees be Tested for Drugs?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drug Tests in Bulk" />
+                                </span>
+                                <a href='https://drugtestsinbulk.com/blog/wp-content/uploads/2016/11/should-employees-be-drug-tested-1080x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug and Alcohol Testing in the Workplace: Employee Rights">
+                                <img itemprop="contentUrl url" src='https://www.dnalegal.com/sites/default/files/styles/content_image/public/blog-images/drug-test.jpg?itok=9SBxjoeC' alt='Drug and Alcohol Testing in the Workplace: Employee Rights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DNA Legal" />
+                                </span>
+                                <a href='https://www.dnalegal.com/sites/default/files/styles/content_image/public/blog-images/drug-test.jpg?itok=9SBxjoeC' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre Employment Drug Test; Australia Drug Testing">
+                                <img itemprop="contentUrl url" src='https://www.australiadrugtesting.com/wp-content/uploads/2022/06/Pre-Employment-Drug-Test-1.jpg' alt='Pre Employment Drug Test; Australia Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australia Drug Testing" />
+                                </span>
+                                <a href='https://www.australiadrugtesting.com/wp-content/uploads/2022/06/Pre-Employment-Drug-Test-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Employers ONLY Drug Test Marijuana For Recent Use">
+                                <img itemprop="contentUrl url" src='https://www.cnsoccmed.com/wp-content/uploads/2023/11/CA_DRUG_TEST_2024-scaled-e1701191736890.jpg' alt='California Employers ONLY Drug Test Marijuana For Recent Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNS Occupational Medicine" />
+                                </span>
+                                <a href='https://www.cnsoccmed.com/wp-content/uploads/2023/11/CA_DRUG_TEST_2024-scaled-e1701191736890.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Need to Know About Pre-employment Drug Tests - Concentra">
+                                <img itemprop="contentUrl url" src='https://www.concentra.com/-/media/project/concentra/dotcom/usa/images/resource-center/facebook/what-do-you-need-to-know-about-pre-employement-drug-test-fb.jpg?rev=197c4fce445b47f3a850b9250b85bc2b&t=20220507001704' alt='What You Need to Know About Pre-employment Drug Tests - Concentra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Concentra" />
+                                </span>
+                                <a href='https://www.concentra.com/-/media/project/concentra/dotcom/usa/images/resource-center/facebook/what-do-you-need-to-know-about-pre-employement-drug-test-fb.jpg?rev=197c4fce445b47f3a850b9250b85bc2b&t=20220507001704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers Not Required to Compensate Job Applicants for Pre ...">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/657/194840/large/iStock-1133937327.jpg?1657929967' alt='Employers Not Required to Compensate Job Applicants for Pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Castle Law: California Employment Counsel, PC" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/657/194840/large/iStock-1133937327.jpg?1657929967' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Employment Drug Testing">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/iJM1qq-NiYCk4jvciRGg1rIKF6VVA_7sOQZQKrfvOk9GUqjLM4GRkzZkt_JsGfSIvjs31ntc_KOWjUai9PDOD4g7_Dr2tXeNEBch83c49G7AfgP8zPeBVF2T_brYf78hCRAV2E8XMiMVBxzG' alt='Pre-Employment Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canada Safety Training" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/iJM1qq-NiYCk4jvciRGg1rIKF6VVA_7sOQZQKrfvOk9GUqjLM4GRkzZkt_JsGfSIvjs31ntc_KOWjUai9PDOD4g7_Dr2tXeNEBch83c49G7AfgP8zPeBVF2T_brYf78hCRAV2E8XMiMVBxzG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

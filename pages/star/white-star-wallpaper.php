@@ -1,0 +1,129 @@
+<title>Elevate Your Space with White Star Wallpaper</title>
+                    <meta name="description" content="Discover the charm of white star wallpaper! Perfect for all rooms, it adds a touch of elegance and whimsy to your decor. Easy to install and remove, it suits any design theme. Transform your space effortlessly with this stunning wallpaper choice!">
+                    <meta name="keywords" content="white star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/white-star-wallpaper">
+                            <span itemprop="name">white star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with White Star Wallpaper</h1>
+                <p>Transform your space with elegant white star wallpaper, ideal for creating a serene atmosphere. Perfect for bedrooms, nurseries, or living areas, this design adds a touch of whimsy and sophistication. Easy to apply and remove, it offers versatility and style, making it a fantastic choice for any decor theme.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Silver / White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Silver-on-white_design_6a0157fc-0687-4265-974d-12469ffe4f05.jpg?v=1633377770' alt=''Star' Wallpaper by Clare V. - Silver / White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Silver-on-white_design_6a0157fc-0687-4265-974d-12469ffe4f05.jpg?v=1633377770' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black/white stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/36/96/ab3696b5a04107f488a8b77034bc5ca7.jpg' alt='Black/white stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/36/96/ab3696b5a04107f488a8b77034bc5ca7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey stars on white">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/34/cf/eb34cf360f4c2139c3b820de782788e0.jpg' alt='Grey stars on white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/34/cf/eb34cf360f4c2139c3b820de782788e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars by Galerie - White / Warm Grey - Wallpaper - G23103">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/146651/tiled/galerie-stars-white-warm-grey-wallpaper-0@lg.webp' alt='Stars by Galerie - White / Warm Grey - Wallpaper - G23103'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/146651/tiled/galerie-stars-white-warm-grey-wallpaper-0@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free White Star Background Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/366840/White-Star-Background-edit-online-3.jpg' alt='Free White Star Background Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/366840/White-Star-Background-edit-online-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twinkle Twinkle Large Star Wallpaper in Shaded White Background">
+                                <img itemprop="contentUrl url" src='https://www.peonyandsage.com/wp-content/uploads/2015/07/Shaded-White.jpg' alt='Twinkle Twinkle Large Star Wallpaper in Shaded White Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peony & Sage" />
+                                </span>
+                                <a href='https://www.peonyandsage.com/wp-content/uploads/2015/07/Shaded-White.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Yellow / White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Yellow-on-White_design_9cb7d63c-9269-4ba6-88f9-682c4d8d6207.jpg?v=1633377761' alt=''Star' Wallpaper by Clare V. - Yellow / White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Yellow-on-White_design_9cb7d63c-9269-4ba6-88f9-682c4d8d6207.jpg?v=1633377761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white stars">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/black-and-white-stars-pattern-repeat-removable-wallpaper-design.jpg' alt='Black and white stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/black-and-white-stars-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star phone wallpaper!! | Phone wallpaper, Homescreen wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/2b/2a/902b2a45440eb57c7c2e78ee4591dbf2.jpg' alt='Star phone wallpaper!! | Phone wallpaper, Homescreen wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/2b/2a/902b2a45440eb57c7c2e78ee4591dbf2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Falling Stars White & Black Wallpaper Border TK608 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/55d21910-e8f9-421c-bc7b-eb576d07aedd/svn/tempaper-wallpaper-borders-tk608-64_1000.jpg' alt='Tempaper Falling Stars White & Black Wallpaper Border TK608 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/55d21910-e8f9-421c-bc7b-eb576d07aedd/svn/tempaper-wallpaper-borders-tk608-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

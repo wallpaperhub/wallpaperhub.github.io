@@ -1,0 +1,129 @@
+<title>Exploring the Symbolism of Yellow Wallpaper Art</title>
+                    <meta name="description" content="Discover the beauty and meaning behind yellow wallpaper art. This unique style explores themes of mental health, confinement, and liberation, making it a compelling reflection of personal and societal struggles. Embrace the intricate designs and rich symbolism in this fascinating artistic movement.">
+                    <meta name="keywords" content="yellow wallpaper art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-wallpaper-art">
+                            <span itemprop="name">yellow wallpaper art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Symbolism of Yellow Wallpaper Art</h1>
+                <p>Yellow wallpaper art represents the intersection of psychological struggle and aesthetic beauty. Often associated with the feminist movement, its intricate patterns reflect themes of confinement and freedom. This art form captivates audiences, inviting deep reflection on mental health and societal norms, making it a powerful visual statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper [PRINT] - Nucleus | Art Gallery and Store">
+                                <img itemprop="contentUrl url" src='https://84d70f39dda4f8d63311-09dac41207c435675bfd529a14211b5c.ssl.cf1.rackcdn.com/assets/attachments_p/000/098/046/original_AbigailL_TheYellowWallpaper_WEB.webp' alt='The Yellow Wallpaper [PRINT] - Nucleus | Art Gallery and Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Nucleus" />
+                                </span>
+                                <a href='https://84d70f39dda4f8d63311-09dac41207c435675bfd529a14211b5c.ssl.cf1.rackcdn.com/assets/attachments_p/000/098/046/original_AbigailL_TheYellowWallpaper_WEB.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jen Yoon's AR illustrations adapt The Yellow Wallpaper for a ...">
+                                <img itemprop="contentUrl url" src='https://www.creativeboom.com/upload/articles/46/461492eddd3e5da86de8aabfea616b31c2abd461_1280.jpg' alt='Jen Yoon's AR illustrations adapt The Yellow Wallpaper for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Boom" />
+                                </span>
+                                <a href='https://www.creativeboom.com/upload/articles/46/461492eddd3e5da86de8aabfea616b31c2abd461_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Painting by Louise Lennon | Saatchi Art">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1651303/art/7962569/7030028-AMPVIPIU-7.jpg' alt='The Yellow Wallpaper Painting by Louise Lennon | Saatchi Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1651303/art/7962569/7030028-AMPVIPIU-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper I by hyperphagia on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/ac/17/7fac1757735603ec6472d18ccb06629f.jpg' alt='The Yellow Wallpaper I by hyperphagia on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/ac/17/7fac1757735603ec6472d18ccb06629f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b9/23/6c/b9236c6ec5a8f885a7fb683fe39f4046.jpg' alt='The Yellow Wallpaper by Charlotte Perkins Gilman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b9/23/6c/b9236c6ec5a8f885a7fb683fe39f4046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia">
+                                <img itemprop="contentUrl url" src='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg' alt='The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pagesofjulia" />
+                                </span>
+                                <a href='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow wallpaper | Unleash the warming power of the sun ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/37/df/51/audrey_82012351b0d456102ca.jpg' alt='Yellow wallpaper | Unleash the warming power of the sun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/37/df/51/audrey_82012351b0d456102ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...">
+                                <img itemprop="contentUrl url" src='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' alt='Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manifold @CUNY" />
+                                </span>
+                                <a href='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a12a2e44294381.580eb5332719e.jpg' alt='The Yellow Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a12a2e44294381.580eb5332719e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern interpertaion of The Yellow Wallpaper | COVE">
+                                <img itemprop="contentUrl url" src='https://editions.covecollective.org/sites/default/files/styles/gallery_zoom/public/gallery/yellow%20walllpaper.jpg?itok=M1yibSSC' alt='Modern interpertaion of The Yellow Wallpaper | COVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COVE" />
+                                </span>
+                                <a href='https://editions.covecollective.org/sites/default/files/styles/gallery_zoom/public/gallery/yellow%20walllpaper.jpg?itok=M1yibSSC' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

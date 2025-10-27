@@ -1,0 +1,129 @@
+<title>Official eBay Site: Buy & Sell Hassle-Free</title>
+                    <meta name="description" content="Discover the official eBay site for easy buying and selling! Browse millions of listings across categories with secure transactions and great deals. Join the eBay community today for a seamless shopping experience.">
+                    <meta name="keywords" content="official ebay site">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/official-ebay-site">
+                            <span itemprop="name">official ebay site</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Official eBay Site: Buy & Sell Hassle-Free</h1>
+                <p>The official eBay site is your one-stop destination for buying and selling a wide range of products. Explore millions of listings, including new and used items across various categories. Enjoy secure transactions, competitive prices, and a user-friendly interface tailored to enhance your shopping experience. Join the eBay community today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electronics, Cars, Fashion, Collectibles & More | eBay">
+                                <img itemprop="contentUrl url" src='https://ir.ebaystatic.com/cr/v/c1/ebay-logo-1-1200x630-margin.png' alt='Electronics, Cars, Fashion, Collectibles & More | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.ebay.com" />
+                                </span>
+                                <a href='https://ir.ebaystatic.com/cr/v/c1/ebay-logo-1-1200x630-margin.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sell worldwide with eBay">
+                                <img itemprop="contentUrl url" src='https://export.ebay.com/_next/static/images/og-image-ebay-9997ef0e03c45b550a3e445b411aa3c7.png' alt='Sell worldwide with eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://export.ebay.com/_next/static/images/og-image-ebay-9997ef0e03c45b550a3e445b411aa3c7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay - Buy, Sell & Save Money - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41xNWzvMucL.png' alt='eBay - Buy, Sell & Save Money - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41xNWzvMucL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The eBay Stores Shopping Experience | Seller Center">
+                                <img itemprop="contentUrl url" src='https://ir.ebaystatic.com/cr/v/c01/set-up-your-store-edit.jpg' alt='The eBay Stores Shopping Experience | Seller Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://ir.ebaystatic.com/cr/v/c01/set-up-your-store-edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/1200px-EBay_logo.svg.png' alt='eBay - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/1200px-EBay_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New eBay Stores">
+                                <img itemprop="contentUrl url" src='https://ir.ebaystatic.com/pictures/aw/pics/stores/2013sf/hero/1.jpg' alt='New eBay Stores'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://ir.ebaystatic.com/pictures/aw/pics/stores/2013sf/hero/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay Login | www.ebay.com Login Help 2021 | ebay.com Sign In | e ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MzYH7t_6ca8/maxresdefault.jpg' alt='eBay Login | www.ebay.com Login Help 2021 | ebay.com Sign In | e ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MzYH7t_6ca8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay online shopping & selling – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/EZocI6jrz3WBfZUAYGXRTyWUbOpJzqQC8ILAoGqeW3kiOLJB19FR1v5TeTPYwfvUNDg' alt='eBay online shopping & selling – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/EZocI6jrz3WBfZUAYGXRTyWUbOpJzqQC8ILAoGqeW3kiOLJB19FR1v5TeTPYwfvUNDg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay Login 2022 | www.ebay.com Account Login Help | eBay.com Sign ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RHGZCg_8aX0/maxresdefault.jpg' alt='eBay Login 2022 | www.ebay.com Account Login Help | eBay.com Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RHGZCg_8aX0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop by Category | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/qs0AAOSwISpksEEa/s-l1200.jpg' alt='Shop by Category | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/qs0AAOSwISpksEEa/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Heartfelt Sad Anime Wallpaper Collection</title>
+                    <meta name="description" content="Discover a heartfelt collection of sad anime wallpapers. Perfect for expressing your emotions, these captivating designs capture the essence of longing and introspection. Upgrade your device's aesthetic with our selection that resonates with your favorite anime moments. Explore now and find your perfect wallpaper!">
+                    <meta name="keywords" content="sad anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sad-anime-wallpaper">
+                            <span itemprop="name">sad anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartfelt Sad Anime Wallpaper Collection</h1>
+                <p>Sad anime wallpapers evoke deep emotions, often capturing pivotal moments of loss, longing, and introspection. These visuals can enhance your device's aesthetic while reminding you of poignant anime moments and characters. Perfect for fans looking to express their feelings and resonate with the art they love, sad anime wallpapers are both beautiful and meaningful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Sad And Dark Anime Character Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-sad-and-dark-anime-character-w5snceqyhmbwdh8r.jpg' alt='A Sad And Dark Anime Character Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-sad-and-dark-anime-character-w5snceqyhmbwdh8r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sad Boy Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sad-boy-anime-cb3fxaudx0fi8yju.jpg' alt='100+] Sad Boy Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sad-boy-anime-cb3fxaudx0fi8yju.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Dark Anime [wallpaper] Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sad-dark-anime-wallpaper-rqz6ei5jhi6qs89q.jpg' alt='Sad Dark Anime [wallpaper] Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sad-dark-anime-wallpaper-rqz6ei5jhi6qs89q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/97/dc/2997dc6379f846cdf7c9b9ede5da854c.jpg' alt='Sad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/97/dc/2997dc6379f846cdf7c9b9ede5da854c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Boy Anime Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FEidu8AnL.png' alt='Sad Boy Anime Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FEidu8AnL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/4d/34/be4d34e714e01a189f3ce0cf8492c50d.jpg' alt='Sad anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/4d/34/be4d34e714e01a189f3ce0cf8492c50d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Anime Wallpaper with quote by FildaTheBeast">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/949/949094.jpg' alt='Sad Anime Wallpaper with quote by FildaTheBeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/949/949094.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Close-up Sad Anime Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pondering-sad-anime-girl-30lelo3c7k8bimwg.webp' alt='Close-up Sad Anime Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pondering-sad-anime-girl-30lelo3c7k8bimwg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Sad Boy Wallpapers in 4K">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7312110531563785478&location=0&aid=1988' alt='Anime Sad Boy Wallpapers in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7312110531563785478&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad anime wallpaper by BisexualAnimehuman08 - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=HKwdB9CaqbjNi-0A0Ru0CXFL_3YEE6GpDCWlkpfGe2FcrCMHgyWjm6uWib2tv2hqq-vvZeFOv27rB44u-hICfAnSmzTEUjtfwgQYipPskT0IyRAlsYGrypj6Pe_ZTVBr1gZs-9VngIhTMeFaWZxixH6O9xQSgelV-ob5E8PlpRcxj0oWiBonXv9ABGe8rfbk1pMi0k9XwF7hVXJt3oGURHCQvWg7YFRX8hgWbDkbZhdYXldkFCYF413XOlo' alt='Sad anime wallpaper by BisexualAnimehuman08 - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=HKwdB9CaqbjNi-0A0Ru0CXFL_3YEE6GpDCWlkpfGe2FcrCMHgyWjm6uWib2tv2hqq-vvZeFOv27rB44u-hICfAnSmzTEUjtfwgQYipPskT0IyRAlsYGrypj6Pe_ZTVBr1gZs-9VngIhTMeFaWZxixH6O9xQSgelV-ob5E8PlpRcxj0oWiBonXv9ABGe8rfbk1pMi0k9XwF7hVXJt3oGURHCQvWg7YFRX8hgWbDkbZhdYXldkFCYF413XOlo' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High-Quality Pills PNG: Perfect for Your Projects</title>
+                    <meta name="description" content="Discover top-quality pills PNG images ideal for use in designs and educational projects. Our collection offers clear, versatile visuals that enhance your content and engage your audience effectively. Download now for an effortless way to incorporate medication graphics into your work!">
+                    <meta name="keywords" content="pills png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pills-png">
+                            <span itemprop="name">pills png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Pills PNG: Perfect for Your Projects</h1>
+                <p>Pills PNG images are essential resources for designers, marketers, and health professionals. They provide a clear and visually appealing representation of medication and supplements, making them perfect for websites, presentations, and educational materials. Easily downloadable and versatile, pills PNG files can enhance your projects with their high-quality graphics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Pill Capsule PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Red_and_White_Pill_Capsule_PNG_Clipart-360.png' alt='Red and White Pill Capsule PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Red_and_White_Pill_Capsule_PNG_Clipart-360.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zNV9waG90b19vZl9mbG9hdGluZ19zbWFsbF9ncm91cF9vZl9yZWFsX21lZGljaV8xMWY3ODRkYS0wYjIwLTQxYWYtYmNlMS1mMDUwODRkMjY0NzgucG5n.png' alt='Pills Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zNV9waG90b19vZl9mbG9hdGluZ19zbWFsbF9ncm91cF9vZl9yZWFsX21lZGljaV8xMWY3ODRkYS0wYjIwLTQxYWYtYmNlMS1mMDUwODRkMjY0NzgucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230816/original/pngtree-capsule-and-pills-icon-picture-image_7988303.png' alt='Pills PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230816/original/pngtree-capsule-and-pills-icon-picture-image_7988303.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pills Drugs Medicine Medication Capsules | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/blue-pills-drugs-medicine-medication-capsules-735811696959091xz2ybpzemt.png' alt='Blue Pills Drugs Medicine Medication Capsules | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/blue-pills-drugs-medicine-medication-capsules-735811696959091xz2ybpzemt.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling pills, transparent background 42534829 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/534/829/small_2x/falling-pills-transparent-background-png.png' alt='Falling pills, transparent background 42534829 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/534/829/small_2x/falling-pills-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills PNG transparent image download, size: 2721x1861px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pills_PNG16526.png' alt='Pills PNG transparent image download, size: 2721x1861px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2721">
+                                <meta itemprop="height" content="1861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pills_PNG16526.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/blue-white-pills-levitating-midair-medicine-healthcare-wellness-treatment_191095-90491.jpg' alt='Pills Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/blue-white-pills-levitating-midair-medicine-healthcare-wellness-treatment_191095-90491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills PNG Images & PSDs for Download | PixelSquid - S11268021A">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/pills-pill-04rzxOA-600.jpg' alt='Pills PNG Images & PSDs for Download | PixelSquid - S11268021A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/pills-pill-04rzxOA-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills PNG transparent image download, size: 700x624px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pills_PNG16512.png' alt='Pills PNG transparent image download, size: 700x624px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pills_PNG16512.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Pills PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/647/475/small_2x/bunch-of-round-white-pills-isolated-png.png' alt='White Pills PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/647/475/small_2x/bunch-of-round-white-pills-isolated-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Purple Bat Wallpaper: A Bold Statement for Your Walls</title>
+                    <meta name="description" content="Discover captivating purple bat wallpaper designs that elevate your décor! Perfect for a spooky vibe or a unique flair any time of the year. Browse our collection and unleash your creativity today!">
+                    <meta name="keywords" content="purple bat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-bat-wallpaper">
+                            <span itemprop="name">purple bat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Bat Wallpaper: A Bold Statement for Your Walls</h1>
+                <p>Transform your space with stunning purple bat wallpaper, perfect for adding a touch of whimsy and elegance to any room. Ideal for Halloween décor or everyday use, these wallpapers feature intricate designs that capture the beauty of bats against a vibrant purple backdrop. Embrace your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/f3/07/d6f307560a0b5a3a28dc980b32343c9b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/f3/07/d6f307560a0b5a3a28dc980b32343c9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bats Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9889799/p/f/m/fLcm0DbOph-k9dWjy3ceOnW3J0dT2MvVKnWvJkN7ubncBS1ycEg_bqZ-/Bats%20and%20Beasts%20-%20Royal%20Purple%20.jpg' alt='Purple Bats Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9889799/p/f/m/fLcm0DbOph-k9dWjy3ceOnW3J0dT2MvVKnWvJkN7ubncBS1ycEg_bqZ-/Bats%20and%20Beasts%20-%20Royal%20Purple%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light princess bat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/1b/89/ff1b89d167b8f91513a37558a86b87ca.jpg' alt='Light princess bat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/1b/89/ff1b89d167b8f91513a37558a86b87ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bat Purple Fire Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bat-r35xbcs70o5tnyxh.jpg' alt='Download Bat Purple Fire Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bat-r35xbcs70o5tnyxh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper purple, the moon, creatures, Halloween, Halloween, bats ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2560x1600/6/7b/halloween-hellouin-letuchie.jpg' alt='Wallpaper purple, the moon, creatures, Halloween, Halloween, bats ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2560x1600/6/7b/halloween-hellouin-letuchie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween flying bat. Halloween vector purple seamless pattern ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/22/51/55/1000_F_222515505_KNqrH9xuqtLRLzr7UeblV4JhnMyRfr9p.jpg' alt='Halloween flying bat. Halloween vector purple seamless pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/22/51/55/1000_F_222515505_KNqrH9xuqtLRLzr7UeblV4JhnMyRfr9p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/25/3e/fc/253efc46ebdf0756f1893c4562f1ad7f.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/25/3e/fc/253efc46ebdf0756f1893c4562f1ad7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Design Purple Bat Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/a-beautiful-black-bat-hangs-from-a-branch-m8qm3rfztxv9t3ei.webp' alt='Halloween Design Purple Bat Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/a-beautiful-black-bat-hangs-from-a-branch-m8qm3rfztxv9t3ei.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Halloween bat purple wallpaper">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/44/446575c721a29e137b9d24cab42bab53_t.jpeg' alt='Free Vectors | Halloween bat purple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/44/446575c721a29e137b9d24cab42bab53_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Halloween Purple Castle Bats Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/a-bat-perched-in-a-tree-92y4vx2q8k7qesj9.webp' alt='Download free Halloween Purple Castle Bats Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/a-bat-perched-in-a-tree-92y4vx2q8k7qesj9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Painted Floral Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover stunning painted floral wallpaper that brings life and elegance to your home. Perfect for any room, our collection features eye-catching designs that enhance your interior. Elevate your decor effortlessly with vibrant patterns and colors that create a cozy, inviting atmosphere.">
+                    <meta name="keywords" content="painted floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/painted-floral-wallpaper">
+                            <span itemprop="name">painted floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Painted Floral Wallpaper: Transform Your Space</h1>
+                <p>Painted floral wallpaper adds a burst of color and vibrancy to any room. Its artistic designs can transform a dull space into a lively, enchanting environment. With various patterns—from delicate blossoms to bold blooms—this wallpaper offers versatility. Ideal for accent walls or entire rooms, it elevates decor and creates a cozy atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Painted Flowers Floral Wallpaper RM2069">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BluePaintedFlowersFloralWallpaperRM2068_6c03e8d1-0330-44dd-befd-7a55eff443c9.jpg?v=1736260453&width=1200' alt='Blue Painted Flowers Floral Wallpaper RM2069'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BluePaintedFlowersFloralWallpaperRM2068_6c03e8d1-0330-44dd-befd-7a55eff443c9.jpg?v=1736260453&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Hand Painted Orchids Floral Wallpaper R8142">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' alt='Dark Green Hand Painted Orchids Floral Wallpaper R8142'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_0d68d0e5-0b1f-4851-8864-a3a40b6bdbb5.jpg?v=1693599715&width=2048' alt='LUXE Traditional / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_0d68d0e5-0b1f-4851-8864-a3a40b6bdbb5.jpg?v=1693599715&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Painted Flowers Floral Wallpaper RM2071">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/PurplePaintedFlowersFloralWallpaperRM2070_bc38df32-ffe5-4704-8038-912ae4b0dffe.jpg?v=1736260449&width=1200' alt='Purple Painted Flowers Floral Wallpaper RM2071'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/PurplePaintedFlowersFloralWallpaperRM2070_bc38df32-ffe5-4704-8038-912ae4b0dffe.jpg?v=1736260449&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Painted Floral Faux Wallpaper - Lolly Jane">
+                                <img itemprop="contentUrl url" src='https://lollyjane.com/wp-content/uploads/2016/06/09-18212-post/Easy-Painted-Floral-Wallpaper-Tutorial-2.jpg' alt='Easy Painted Floral Faux Wallpaper - Lolly Jane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- Lolly Jane" />
+                                </span>
+                                <a href='https://lollyjane.com/wp-content/uploads/2016/06/09-18212-post/Easy-Painted-Floral-Wallpaper-Tutorial-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with Beautiful flowers. Watercolor or acrylic painting.  Floral background. Wildflower wallpaper with pink wild rose, lavender and  ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/seamless-pattern-with-beautiful-flowers-watercolor-or-acrylic-painting-floral-background-wildflower-wallpaper-with-pink-wild-rose-lavender-and-pappy-nature-artistic-print-design-julien.jpg' alt='Seamless pattern with Beautiful flowers. Watercolor or acrylic painting.  Floral background. Wildflower wallpaper with pink wild rose, lavender and  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/seamless-pattern-with-beautiful-flowers-watercolor-or-acrylic-painting-floral-background-wildflower-wallpaper-with-pink-wild-rose-lavender-and-pappy-nature-artistic-print-design-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Oil Painting Mural, Dutch Painting Wallpaper, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13633394/r/il/5aba55/2069626200/il_570xN.2069626200_2nk5.jpg' alt='Dark Floral Oil Painting Mural, Dutch Painting Wallpaper, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13633394/r/il/5aba55/2069626200/il_570xN.2069626200_2nk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handpainted American Style Dark Background Flowers Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18081845/r/il/608cf7/1793506383/il_570xN.1793506383_gs79.jpg' alt='Handpainted American Style Dark Background Flowers Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18081845/r/il/608cf7/1793506383/il_570xN.1793506383_gs79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Chinoiserie Floral Mural Hand Painted Silk Wallpaper Panel - 3  Panels">
+                                <img itemprop="contentUrl url" src='https://chairish-prod.freetls.fastly.net/image/product/master/b6d99588-a0d3-4fec-aa18-35cfbb1dc4ab/contemporary-chinoiserie-floral-mural-hand-painted-silk-wallpaper-panel-3-panels-3737' alt='Contemporary Chinoiserie Floral Mural Hand Painted Silk Wallpaper Panel - 3  Panels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3521">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chairish" />
+                                </span>
+                                <a href='https://chairish-prod.freetls.fastly.net/image/product/master/b6d99588-a0d3-4fec-aa18-35cfbb1dc4ab/contemporary-chinoiserie-floral-mural-hand-painted-silk-wallpaper-panel-3-panels-3737' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Painting Floral Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flower-painting-floral-iphone-0skvwmd8p7y2zpl8.jpg' alt='Flower Painting Floral Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flower-painting-floral-iphone-0skvwmd8p7y2zpl8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

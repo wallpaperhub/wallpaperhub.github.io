@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Lock Screen Wallpapers for Your MacBook</title>
+                    <meta name="description" content="Discover the best aesthetic lock screen wallpapers for your MacBook. Explore designs that inspire creativity and tranquility, perfect for enhancing your workspace. Find your unique style and transform your MacBook's look with beautiful wallpapers that showcase your personality!">
+                    <meta name="keywords" content="macbook lock screen wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/macbook-lock-screen-wallpaper-aesthetic">
+                            <span itemprop="name">macbook lock screen wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Lock Screen Wallpapers for Your MacBook</h1>
+                <p>Elevate your MacBook with stunning lock screen wallpapers that reflect your personal style. From minimalist designs to vibrant landscapes, find the perfect aesthetic that inspires you every time you open your laptop. Create a serene workspace with wallpapers that bring harmony, creativity, and beauty at a glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best macbook lock screen ideas | macbook wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/78/5d/a0/785da06d7b9937f3a8453d16122cc705.jpg' alt='30 Best macbook lock screen ideas | macbook wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/78/5d/a0/785da06d7b9937f3a8453d16122cc705.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macbook screensavers. — julia k crist">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e3075c42b7a45683b14cf9e/1627647934045-7QJ2Z52YK2OO2MZG5UIQ/back+go+school+imac.png' alt='macbook screensavers. — julia k crist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="julia k crist" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e3075c42b7a45683b14cf9e/1627647934045-7QJ2Z52YK2OO2MZG5UIQ/back+go+school+imac.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colorful nature laptop lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/14/58/3a/14583a9798f6674579e0aa3ca1a86c1d.jpg' alt='colorful nature laptop lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/14/58/3a/14583a9798f6674579e0aa3ca1a86c1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Macbook Pro Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-macbook-pro-3dbl66kpc7s6ae11.jpg' alt='Download Cute Macbook Pro Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-macbook-pro-3dbl66kpc7s6ae11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper #lockscreen #desktop #blue #ocean #collage #vsco ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/9e/cf/389ecfcefd3167a265a6eece95661e91.jpg' alt='wallpaper #lockscreen #desktop #blue #ocean #collage #vsco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/9e/cf/389ecfcefd3167a265a6eece95661e91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic beige MacBook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/2a/84/832a846a7fffaa3b871707dfab08f86e.jpg' alt='aesthetic beige MacBook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/2a/84/832a846a7fffaa3b871707dfab08f86e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Macbook Pro Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/see-good-macbook-pro-aesthetic-blue-28lbt5222i4rtqdd.jpg' alt='100+] Macbook Pro Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/see-good-macbook-pro-aesthetic-blue-28lbt5222i4rtqdd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macbook screensavers. — julia k crist">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e3075c42b7a45683b14cf9e/1586207513458-3SNUYAJJ0F56TKZUTG7K/julia+k+crist+neutral+collage' alt='macbook screensavers. — julia k crist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="julia k crist" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e3075c42b7a45683b14cf9e/1586207513458-3SNUYAJJ0F56TKZUTG7K/julia+k+crist+neutral+collage' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free pink aesthetic desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEthkBVLfQ/1/0/1600w/canva-blush-wave-desktop-wallpaper-drvq3zaYl2E.jpg' alt='Free pink aesthetic desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEthkBVLfQ/1/0/1600w/canva-blush-wave-desktop-wallpaper-drvq3zaYl2E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macbook Wallpaper Aesthetic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/minimalist-elegant-photo-landscape_23-2148928261.jpg' alt='Macbook Wallpaper Aesthetic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/minimalist-elegant-photo-landscape_23-2148928261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

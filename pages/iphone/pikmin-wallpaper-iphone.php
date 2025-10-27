@@ -1,0 +1,129 @@
+<title>Pikmin Wallpapers for iPhone: Vibrant & Unique Designs</title>
+                    <meta name="description" content="Elevate your iPhone display with charming Pikmin wallpapers! Explore a collection of vibrant and unique designs that feature your favorite characters and amazing landscapes. Perfect for fans of the game, these wallpapers will make your phone visually stunning and one-of-a-kind. Download yours today!">
+                    <meta name="keywords" content="pikmin wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pikmin-wallpaper-iphone">
+                            <span itemprop="name">pikmin wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pikmin Wallpapers for iPhone: Vibrant & Unique Designs</h1>
+                <p>Transform your iPhone with vibrant Pikmin wallpapers! Discover stunning visuals that bring the enchanting world of Pikmin to life on your screen. Perfect for fans, these wallpapers showcase the adorable characters and lush environments of the game, making your device unique and visually appealing. Download your favorite designs now and enjoy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin backgrounds! : r/Pikmin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pikmin-backgrounds-v0-69ybko5qozcb1.jpg?width=2364&format=pjpg&auto=webp&s=88bfaa94a5f14eed7fd05f37818bb678d7f857b2' alt='Pikmin backgrounds! : r/Pikmin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pikmin-backgrounds-v0-69ybko5qozcb1.jpg?width=2364&format=pjpg&auto=webp&s=88bfaa94a5f14eed7fd05f37818bb678d7f857b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin backgrounds! : r/Pikmin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pikmin-backgrounds-v0-lrcs3bypozcb1.jpg?width=2216&format=pjpg&auto=webp&s=fa616019ea08f340248373ffdbc94b51931c1137' alt='Pikmin backgrounds! : r/Pikmin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2216">
+                                <meta itemprop="height" content="4796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pikmin-backgrounds-v0-lrcs3bypozcb1.jpg?width=2216&format=pjpg&auto=webp&s=fa616019ea08f340248373ffdbc94b51931c1137' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin backgrounds! : r/Pikmin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pikmin-backgrounds-v0-5gr8t7cqozcb1.jpg?width=2364&format=pjpg&auto=webp&s=9d5fa3917b82962dcfb2af0d59eae3ba9587c1aa' alt='Pikmin backgrounds! : r/Pikmin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pikmin-backgrounds-v0-5gr8t7cqozcb1.jpg?width=2364&format=pjpg&auto=webp&s=9d5fa3917b82962dcfb2af0d59eae3ba9587c1aa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Pikmin wallpapers for desktop and mobile from Nintendo - My ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/07/Pikmin_Mobile13.jpg?resize=473%2C1024&ssl=1' alt='New Pikmin wallpapers for desktop and mobile from Nintendo - My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo News" />
+                                </span>
+                                <a href='https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/07/Pikmin_Mobile13.jpg?resize=473%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin 4 Artwork Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-4-artwork-01-1668x2388-1.jpg' alt='Pikmin 4 Artwork Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1668">
+                                <meta itemprop="height" content="2388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-4-artwork-01-1668x2388-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New pikmin wallpapers : r/Pikmin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/new-pikmin-wallpapers-v0-dlbjduixwidd1.jpg?width=1242&format=pjpg&auto=webp&s=5f778c8b88bf5077fd9ba6a265ef755ac22b6be2' alt='New pikmin wallpapers : r/Pikmin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/new-pikmin-wallpapers-v0-dlbjduixwidd1.jpg?width=1242&format=pjpg&auto=webp&s=5f778c8b88bf5077fd9ba6a265ef755ac22b6be2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin 2 Artwork Version 2 Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-2-art-02-1440x2960-1.jpg' alt='Pikmin 2 Artwork Version 2 Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-2-art-02-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin 1 Artwork Version 4 Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-1-art-04-1440x2960-1.jpg' alt='Pikmin 1 Artwork Version 4 Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-1-art-04-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikmin 2 Pikmin Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-2-pikmin-01-1080x2340-1.jpg' alt='Pikmin 2 Pikmin Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/07/pikmin-2-pikmin-01-1080x2340-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Pikmin Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/19/6f/a6196f4a8a2c673f6df5f1d8fd1f21c2.jpg' alt='Phone Pikmin Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/19/6f/a6196f4a8a2c673f6df5f1d8fd1f21c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

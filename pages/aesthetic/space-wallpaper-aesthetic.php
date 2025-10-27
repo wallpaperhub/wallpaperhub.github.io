@@ -1,0 +1,129 @@
+<title>Cosmic Space Wallpaper Aesthetic for Your Home</title>
+                    <meta name="description" content="Discover the captivating world of space wallpaper aesthetics! Ideal for any room, these cosmic designs enhance your decor with vibrant galaxies and serene starlit skies. Elevate your space's ambiance while capturing the beauty of the universe at home. Perfect for space lovers and dreamers alike!">
+                    <meta name="keywords" content="space wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/space-wallpaper-aesthetic">
+                            <span itemprop="name">space wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cosmic Space Wallpaper Aesthetic for Your Home</h1>
+                <p>Transform your space with stunning space wallpaper aesthetics that evoke the beauty of the cosmos. From vibrant nebulae to starry skies, these wallpapers bring a sense of wonder and tranquility to any room. Perfect for space enthusiasts or anyone seeking a celestial touch to their decor, let your walls reflect the universe's majesty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Space Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-space-aesthetic-l5eez37mf9esjayy.jpg' alt='Purple Space Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-space-aesthetic-l5eez37mf9esjayy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Aesthetic Shooting Star Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/space-aesthetic-astronaut-hopscotch-lhtbzx2qiudk2ii8.webp' alt='Space Aesthetic Shooting Star Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/space-aesthetic-astronaut-hopscotch-lhtbzx2qiudk2ii8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Aesthetic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_53876-136887.jpg?semt=ais_hybrid' alt='Space Aesthetic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_53876-136887.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg' alt='Space Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD space aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/733/557/HD-wallpaper-space-aesthetic-aesthetic-space-thumbnail.jpg' alt='HD space aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/733/557/HD-wallpaper-space-aesthetic-aesthetic-space-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Astronaut Wallpaper Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' alt='Most Popular Astronaut Wallpaper Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Space Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/space-aesthetic-retro-moon-m5gpep9tkblgl6s0.jpg' alt='300+] Space Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/space-aesthetic-retro-moon-m5gpep9tkblgl6s0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Space for Laptop Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/bc/6e/96bc6ea01f41377f683bd52e3ed34b66.jpg' alt='Aesthetic Space for Laptop Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/bc/6e/96bc6ea01f41377f683bd52e3ed34b66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 396+ Space Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF6bgMAY9c/1/0/900w/canva-black-aesthetic-space-phone-wallpaper-g2VilerLaOc.jpg' alt='Customize 396+ Space Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF6bgMAY9c/1/0/900w/canva-black-aesthetic-space-phone-wallpaper-g2VilerLaOc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop-wallpaper-aesthetic-space-cute-space-aesth by Milky-thee ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ccf8bda-4709-4e46-9efc-162d606cf72c/dfj0chx-c37aa824-e765-4741-8b6e-7044d9b0940a.jpg/v1/fill/w_850,h_478,q_75,strp/desktop_wallpaper_aesthetic_space_cute_space_aesth_by_milky_thee_cow_dfj0chx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDc4IiwicGF0aCI6IlwvZlwvN2NjZjhiZGEtNDcwOS00ZTQ2LTllZmMtMTYyZDYwNmNmNzJjXC9kZmowY2h4LWMzN2FhODI0LWU3NjUtNDc0MS04YjZlLTcwNDRkOWIwOTQwYS5qcGciLCJ3aWR0aCI6Ijw9ODUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ErwFgDsMmjg0QWP4HpbZ78C4BlPGQWsdkkRGP0WjGhE' alt='Desktop-wallpaper-aesthetic-space-cute-space-aesth by Milky-thee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ccf8bda-4709-4e46-9efc-162d606cf72c/dfj0chx-c37aa824-e765-4741-8b6e-7044d9b0940a.jpg/v1/fill/w_850,h_478,q_75,strp/desktop_wallpaper_aesthetic_space_cute_space_aesth_by_milky_thee_cow_dfj0chx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDc4IiwicGF0aCI6IlwvZlwvN2NjZjhiZGEtNDcwOS00ZTQ2LTllZmMtMTYyZDYwNmNmNzJjXC9kZmowY2h4LWMzN2FhODI0LWU3NjUtNDc0MS04YjZlLTcwNDRkOWIwOTQwYS5qcGciLCJ3aWR0aCI6Ijw9ODUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ErwFgDsMmjg0QWP4HpbZ78C4BlPGQWsdkkRGP0WjGhE' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

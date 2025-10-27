@@ -1,0 +1,129 @@
+<title>Star Wars GIF Wallpapers: Bring the Galaxy to Your Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of Star Wars GIF wallpapers! Enhance your device with stunning visuals and animations of beloved characters and epic scenes. Perfect for fans looking to showcase their love for the saga in a creative way. Download your favorite GIF wallpapers and transform your screen today!">
+                    <meta name="keywords" content="star wars gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-wars-gif-wallpaper">
+                            <span itemprop="name">star wars gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars GIF Wallpapers: Bring the Galaxy to Your Screen</h1>
+                <p>Transform your screen with dynamic Star Wars GIF wallpapers that bring the galaxy far, far away right to your device! With stunning visuals and animations of your favorite characters and scenes, these wallpapers capture the essence of the iconic saga. Perfect for fans, these GIFs add creativity and excitement to your digital space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Star Wars Battlefront">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/780728328746725827/3D3B01955C120C08514AB3214429BE9E869A613F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Star Wars Battlefront'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/780728328746725827/3D3B01955C120C08514AB3214429BE9E869A613F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="StarWars.gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/78/c3/e6/78c3e6eb88020af5d436d6e31062ac73.gif' alt='StarWars.gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/78/c3/e6/78c3e6eb88020af5d436d6e31062ac73.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's celebrate the update with this new animated desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cdjfo92k7d541.gif' alt='Let's celebrate the update with this new animated desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cdjfo92k7d541.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas2019 Star Wars GIF - Christmas2019 Star Wars - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/65/1a/fc651a9f05ed5a3b29a496a99f0c9dbf.gif' alt='Christmas2019 Star Wars GIF - Christmas2019 Star Wars - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/65/1a/fc651a9f05ed5a3b29a496a99f0c9dbf.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Live Wallpapers | Darth Vader [x] – @rochellenorlund1990 ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9364fe0769361b41e19edc10a3b38d03/tumblr_pw7qieJ2jL1w4t7wqo1_540.gif' alt='Star Wars Live Wallpapers | Darth Vader [x] – @rochellenorlund1990 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9364fe0769361b41e19edc10a3b38d03/tumblr_pw7qieJ2jL1w4t7wqo1_540.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/UeSwvGrIdi0qQ/200w.gif?cid=6c09b952xg0112sd38b69bqvttfhm23nx0aefg554cih6pce&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Star Wars Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/UeSwvGrIdi0qQ/200w.gif?cid=6c09b952xg0112sd38b69bqvttfhm23nx0aefg554cih6pce&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Live Wallpapers | Darth Vader [x] – @rochellenorlund1990 ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3f87d6d95cc188c4827c99121963f11a/tumblr_pw7qieJ2jL1w4t7wqo2_540.gifv' alt='Star Wars Live Wallpapers | Darth Vader [x] – @rochellenorlund1990 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3f87d6d95cc188c4827c99121963f11a/tumblr_pw7qieJ2jL1w4t7wqo2_540.gifv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No disintegrations" - I made this animated wallpaper for Star Wars ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i5vasnd4nt141.gif' alt='No disintegrations" - I made this animated wallpaper for Star Wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i5vasnd4nt141.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: The Force Awakens - Kylo Ren Animated Windows ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/2-19-2017/NzVgdd.gif' alt='Star Wars: The Force Awakens - Kylo Ren Animated Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/2-19-2017/NzVgdd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Stormtrooper in Action - A Star Wars Tribute">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/136/13622.gif' alt='Animated Stormtrooper in Action - A Star Wars Tribute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/136/13622.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

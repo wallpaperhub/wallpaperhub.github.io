@@ -1,0 +1,129 @@
+<title>"Stylish White Grunge Background for Creative Projects"</title>
+                    <meta name="description" content="Elevate your designs with a stylish white grunge background! Perfect for artists, brands, and social media, this textured backdrop adds an edgy touch while keeping a clean aesthetic. Discover how to enhance your creative projects effortlessly with this versatile design element!">
+                    <meta name="keywords" content="white grunge background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-grunge-background">
+                            <span itemprop="name">white grunge background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stylish White Grunge Background for Creative Projects"</h1>
+                <p>A white grunge background is a versatile design element that adds an edgy, textured feel to various projects. This background features subtle imperfections, scratches, and stains that evoke a sense of nostalgia and rawness. Perfect for use in digital art, branding, or social media, a white grunge background can enhance visual interest while maintaining a clean aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grunge Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grunge-wall-texture_1194-5281.jpg' alt='White Grunge Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grunge-wall-texture_1194-5281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grunge Background (Grunge-And-Rust) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/white-grunge-background-thumb23.jpg' alt='White Grunge Background (Grunge-And-Rust) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/white-grunge-background-thumb23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grunge Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/painted-concrete-wall_53876-88812.jpg' alt='White Grunge Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/painted-concrete-wall_53876-88812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge white abstract texture vector background 4224436 Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/224/436/non_2x/grunge-white-abstract-texture-background-vector.jpg' alt='Grunge white abstract texture vector background 4224436 Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/224/436/non_2x/grunge-white-abstract-texture-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free vector "White wall texture, grunge background"">
+                                <img itemprop="contentUrl url" src='https://d29fhpw069ctt2.cloudfront.net/photo/6555/preview/1e648a91-44c8-4b05-914e-97f30b533358_1280x1280.jpg' alt='Free vector "White wall texture, grunge background"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stockio" />
+                                </span>
+                                <a href='https://d29fhpw069ctt2.cloudfront.net/photo/6555/preview/1e648a91-44c8-4b05-914e-97f30b533358_1280x1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A white, grungy backdrop providing high contrast against ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-grunge-background-3pc8xwtfxjslhlff.jpg' alt='Download A white, grungy backdrop providing high contrast against ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-grunge-background-3pc8xwtfxjslhlff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Grunge Widescreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-grunge-widescreen-jiodrk41tgnk2pxe.jpg' alt='White Grunge Widescreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-grunge-widescreen-jiodrk41tgnk2pxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="442,800+ White Grunge Texture Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430878163/vector/distressed-black-texture.jpg?s=612x612&w=0&k=20&c=D0Ammw7W2D9RxlZfDCU4XsHCqqNE___ES-FGCkMXRU4=' alt='442,800+ White Grunge Texture Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430878163/vector/distressed-black-texture.jpg?s=612x612&w=0&k=20&c=D0Ammw7W2D9RxlZfDCU4XsHCqqNE___ES-FGCkMXRU4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE 13+ White Grunge Photoshop Texture Designs in PSD | Vector EPS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/d6/28/f2d628e4f442ff2b35ab045bc054c7cb.jpg' alt='FREE 13+ White Grunge Photoshop Texture Designs in PSD | Vector EPS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/d6/28/f2d628e4f442ff2b35ab045bc054c7cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White grunge background, white old wall texture, light grunge ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/304/76/HD-wallpaper-white-grunge-background-white-old-wall-texture-light-grunge-background-creative-background-grunge-texture.jpg' alt='White grunge background, white old wall texture, light grunge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/304/76/HD-wallpaper-white-grunge-background-white-old-wall-texture-light-grunge-background-creative-background-grunge-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

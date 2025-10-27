@@ -1,0 +1,129 @@
+<title>Stunning 3D Starcraft II Images: Epic Visuals</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="3d starcraft ii images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-starcraft-ii-images">
+                            <span itemprop="name">3d starcraft ii images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Starcraft II Images: Epic Visuals</h1>
+                <p>Explore stunning 3D images of Starcraft II, showcasing the epic battles, unique characters, and breathtaking environments of this iconic game. From Terran to Zerg, these visuals immerse fans in the universe, capturing the intricate details and high-energy action that make Starcraft II a timeless favorite among gamers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="StarCraft II 3D Renders : r/starcraft">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/MbBHaO9.jpg' alt='StarCraft II 3D Renders : r/starcraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/MbBHaO9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft 2 Zerg 3d printed models : r/starcraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/starcraft-2-zerg-3d-printed-models-v0-wxr1s2xty6ra1.png?width=640&crop=smart&auto=webp&s=f7a11b3774dcace17d91e1460c4cbe3292f1e95a' alt='Starcraft 2 Zerg 3d printed models : r/starcraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/starcraft-2-zerg-3d-printed-models-v0-wxr1s2xty6ra1.png?width=640&crop=smart&auto=webp&s=f7a11b3774dcace17d91e1460c4cbe3292f1e95a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft II Adjutant - 3D model by zeroswat (@zeroswat) [34928e1]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/34928e1a2d1a42b08533c703591079a2/thumbnails/28d7ddeea77b46e5a7ba5f5d52278812/c2b177897a694fd6b33df63570b3c3af.jpeg' alt='Starcraft II Adjutant - 3D model by zeroswat (@zeroswat) [34928e1]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/34928e1a2d1a42b08533c703591079a2/thumbnails/28d7ddeea77b46e5a7ba5f5d52278812/c2b177897a694fd6b33df63570b3c3af.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft 2 Marine 3D model : r/starcraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/starcraft-2-marine-3d-model-v0-7sujg5fq1iqa1.jpg?width=1080&crop=smart&auto=webp&s=98f46503a76289db057056419ff1481b78f2e097' alt='Starcraft 2 Marine 3D model : r/starcraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/starcraft-2-marine-3d-model-v0-7sujg5fq1iqa1.jpg?width=1080&crop=smart&auto=webp&s=98f46503a76289db057056419ff1481b78f2e097' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="StarCraft II 3D Renders : r/starcraft">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/v8aT2zT.jpg' alt='StarCraft II 3D Renders : r/starcraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/v8aT2zT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft 2 SCV Fan Art - 3D model by KhoaMinh (@duongminhkhoa231 ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/947b99b950bc4816a3cdec749951e940/thumbnails/4815955753a04b36b11b99c0a14233ca/0a4606e3ae84459eaf5aca47b7c7aad7.jpeg' alt='Starcraft 2 SCV Fan Art - 3D model by KhoaMinh (@duongminhkhoa231 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/947b99b950bc4816a3cdec749951e940/thumbnails/4815955753a04b36b11b99c0a14233ca/0a4606e3ae84459eaf5aca47b7c7aad7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft 2 | Jim Raynor | Marine - 3D model by Canis_Lepophagus ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/97232a447c354032930a44048642b978/thumbnails/4ccdc2d7f2d64ccb843dbb15678d3ac8/8c8351382f8c431e99c8a65791602b4c.jpeg' alt='Starcraft 2 | Jim Raynor | Marine - 3D model by Canis_Lepophagus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/97232a447c354032930a44048642b978/thumbnails/4ccdc2d7f2d64ccb843dbb15678d3ac8/8c8351382f8c431e99c8a65791602b4c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starcraft II Marine Action Figure 3D Print File [st-builder] - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17010239/r/il/2287f5/1811453644/il_1080xN.1811453644_72ip.jpg' alt='Starcraft II Marine Action Figure 3D Print File [st-builder] - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17010239/r/il/2287f5/1811453644/il_1080xN.1811453644_72ip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Print of Starcraft II - Zeratul full figure by Yurioki">
+                                <img itemprop="contentUrl url" src='https://dl.myminifactory.com/object-assets/5b7f199c1af31/images/720X720-photo-2020-03-17-19-34-29.jpg' alt='3D Print of Starcraft II - Zeratul full figure by Yurioki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyMiniFactory" />
+                                </span>
+                                <a href='https://dl.myminifactory.com/object-assets/5b7f199c1af31/images/720X720-photo-2020-03-17-19-34-29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Printed Starcraft 2 marine by NEMO_NK2 | Pinshape">
+                                <img itemprop="contentUrl url" src='https://assets.pinshape.com/uploads/image/file/492832/starcraft-2-marine-3d-printing-492832.webp' alt='3D Printed Starcraft 2 marine by NEMO_NK2 | Pinshape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinshape" />
+                                </span>
+                                <a href='https://assets.pinshape.com/uploads/image/file/492832/starcraft-2-marine-3d-printing-492832.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

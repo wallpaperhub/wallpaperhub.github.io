@@ -1,0 +1,129 @@
+<title>Stunning Virgo Wallpaper Designs for Your Space</title>
+                    <meta name="description" content="Explore our captivating Virgo wallpaper collection! Perfect for astrology enthusiasts, these designs bring elegance and tranquility to any room. Transform your walls with beautiful patterns that reflect the Virgo spirit—meticulous, earthy, and stylish. Ideal for home or office decor!">
+                    <meta name="keywords" content="virgo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/virgo-wallpaper">
+                            <span itemprop="name">virgo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Virgo Wallpaper Designs for Your Space</h1>
+                <p>Transform your space with stunning Virgo wallpaper! Inspired by the meticulous and earthy nature of this astrological sign, our collection features elegant designs, soothing colors, and intricate details that resonate with Virgo's personality. Perfect for any room, these wallpapers infuse calm and organization while showcasing your zodiac pride.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Virgo Zodiac Lady Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-virgo-zodiac-lady-vcn4gu9cyo1eahaa.jpg' alt='Blue Virgo Zodiac Lady Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-virgo-zodiac-lady-vcn4gu9cyo1eahaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virgo astrology aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/17/0f/e3170fb5fc33b2c7696fa00006f4d9da.jpg' alt='Virgo astrology aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/17/0f/e3170fb5fc33b2c7696fa00006f4d9da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Crown Skull Virgo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flower-crown-skull-virgo-oa5547ugp7nstuyp.jpg' alt='Flower Crown Skull Virgo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flower-crown-skull-virgo-oa5547ugp7nstuyp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Virgo Wallpaper by thatl1lVIRGO on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e02a8fa1-0b40-4b0f-801c-aacf56c3a634/dfv0r1u-ea403b26-eee9-4a1f-bcf3-60d576aaef58.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UwMmE4ZmExLTBiNDAtNGIwZi04MDFjLWFhY2Y1NmMzYTYzNFwvZGZ2MHIxdS1lYTQwM2IyNi1lZWU5LTRhMWYtYmNmMy02MGQ1NzZhYWVmNTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YK5zTFrgjpF__Iv0qw_pFksFHwRizKWnGLcyEeQlXuk' alt='Aesthetic Virgo Wallpaper by thatl1lVIRGO on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e02a8fa1-0b40-4b0f-801c-aacf56c3a634/dfv0r1u-ea403b26-eee9-4a1f-bcf3-60d576aaef58.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UwMmE4ZmExLTBiNDAtNGIwZi04MDFjLWFhY2Y1NmMzYTYzNFwvZGZ2MHIxdS1lYTQwM2IyNi1lZWU5LTRhMWYtYmNmMy02MGQ1NzZhYWVmNTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YK5zTFrgjpF__Iv0qw_pFksFHwRizKWnGLcyEeQlXuk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE VIRGO DESKTOP + PHONE WALLPAPER - Spirit You">
+                                <img itemprop="contentUrl url" src='https://www.spirityou.com/wp-content/uploads/2020/08/virgo-phone.png' alt='FREE VIRGO DESKTOP + PHONE WALLPAPER - Spirit You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spirit You" />
+                                </span>
+                                <a href='https://www.spirityou.com/wp-content/uploads/2020/08/virgo-phone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper (Digital Download) - "Full Moon in Virgo"">
+                                <img itemprop="contentUrl url" src='https://paintedraina.com/cdn/shop/products/desktop-wallpaper-digital-download-full-moon-in-virgo-847439.jpg?v=1652904094&width=1946' alt='Desktop Wallpaper (Digital Download) - "Full Moon in Virgo"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painted Raina" />
+                                </span>
+                                <a href='https://paintedraina.com/cdn/shop/products/desktop-wallpaper-digital-download-full-moon-in-virgo-847439.jpg?v=1652904094&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virgo Zodiac Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/74/48/8a7448f5add11e860d18dcbc21d510f9.jpg' alt='Virgo Zodiac Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/74/48/8a7448f5add11e860d18dcbc21d510f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virgo Zodiac Sign Wallpapers (16 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/a/1/909085-1242x2208-phone-hd-virgo-zodiac-sign-background-photo.jpg' alt='Virgo Zodiac Sign Wallpapers (16 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/a/1/909085-1242x2208-phone-hd-virgo-zodiac-sign-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Zodiac Wallpapers: Discover The Virgo Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molang_wallpaper_virgo_1200x2134.jpg?v=1661774733' alt='Molang Zodiac Wallpapers: Discover The Virgo Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molang_wallpaper_virgo_1200x2134.jpg?v=1661774733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD virgo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/299/991/HD-wallpaper-virgo-universe-basak-burcu-burjland-burjland-virgo-qiz-burcu-virgo-constellation-virgo-sign-virgo.jpg' alt='HD virgo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/299/991/HD-wallpaper-virgo-universe-basak-burcu-burjland-burjland-virgo-qiz-burcu-virgo-constellation-virgo-sign-virgo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

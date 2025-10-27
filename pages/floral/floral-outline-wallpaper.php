@@ -1,0 +1,129 @@
+<title>Embrace Elegance with Floral Outline Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of floral outline wallpaper, perfect for adding charm and style to any room. With intricate designs and versatile color options, elevate your home decor effortlessly. Ideal for creating a serene atmosphere, our floral wallpapers are the ultimate choice for modern interiors.">
+                    <meta name="keywords" content="floral outline wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-outline-wallpaper">
+                            <span itemprop="name">floral outline wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Elegance with Floral Outline Wallpaper</h1>
+                <p>Floral outline wallpaper enhances any space with its elegant and timeless design. Featuring intricate floral patterns in soft hues or bold tones, it brings a touch of nature indoors. Ideal for accent walls or an entire room, this wallpaper seamlessly blends style and sophistication, making your decor stand out beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' alt='Sketch Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Outline Wallpaper | Bold Flowers | Bobbi Beck | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/OUTLINE-FLORAL-GREEN_428x545_crop_center.jpg?v=1633449715' alt='Floral Outline Wallpaper | Bold Flowers | Bobbi Beck | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/OUTLINE-FLORAL-GREEN_428x545_crop_center.jpg?v=1633449715' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beth Schneider Floral Sketch Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK12360PLWex.jpg?v=1676571594' alt='Beth Schneider Floral Sketch Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK12360PLWex.jpg?v=1676571594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poppy Drawing Floral Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/s/s/ss191529659_style1_crop.jpg' alt='Poppy Drawing Floral Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/s/s/ss191529659_style1_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7176 Modern Floral Black & White Leaf Outline plants contemporary Wallpaper  FP2660">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/ModernFloralBlack_WhiteLeafOutlineplantscontemporaryWallpaper.jpg?v=1712175610' alt='7176 Modern Floral Black & White Leaf Outline plants contemporary Wallpaper  FP2660'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/ModernFloralBlack_WhiteLeafOutlineplantscontemporaryWallpaper.jpg?v=1712175610' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Outline Wallpaper Black and White Camellia Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34961968/r/il/108d31/4053146364/il_fullxfull.4053146364_807z.jpg' alt='Floral Outline Wallpaper Black and White Camellia Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34961968/r/il/108d31/4053146364/il_fullxfull.4053146364_807z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpapers | Peel & Stick + Prepasted Options">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l.jpg?q=1740438584' alt='Floral Wallpapers | Peel & Stick + Prepasted Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/34797/vintage-anemones-wallpaper-l.jpg?q=1740438584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral seamless line art pattern. Flower outline background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HTFGG3/floral-seamless-line-art-pattern-flower-outline-background-floral-linear-drawn-texture-with-flowers-flourish-tiled-wallpaper-2HTFGG3.jpg' alt='Floral seamless line art pattern. Flower outline background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HTFGG3/floral-seamless-line-art-pattern-flower-outline-background-floral-linear-drawn-texture-with-flowers-flourish-tiled-wallpaper-2HTFGG3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Black White Large Floral ...">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4671347200_gfov.jpg?v=1707627187&width=2121' alt='Wallpaper Peel and Stick Wallpaper Black White Large Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4671347200_gfov.jpg?v=1707627187&width=2121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outline Tropical Flowers Wallpaper - Removable Wallpaper Peel and Stick  Wallpaper Wall Paper Wall Mural - B432">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6045080939_8mgj.jpg?v=1725037410&width=1946' alt='Outline Tropical Flowers Wallpaper - Removable Wallpaper Peel and Stick  Wallpaper Wall Paper Wall Mural - B432'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6045080939_8mgj.jpg?v=1725037410&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

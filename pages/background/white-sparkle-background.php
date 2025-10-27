@@ -1,0 +1,129 @@
+<title>White Sparkle Background: Elevate Your Design</title>
+                    <meta name="description" content="Discover the beauty of a white sparkle background! Perfect for enhancing your designs, this elegant backdrop brings a magical touch to invitations, social media posts, and more. Transform your projects with shimmering sparkles that captivate and inspire. Ideal for any creative endeavor!">
+                    <meta name="keywords" content="white sparkle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-sparkle-background">
+                            <span itemprop="name">white sparkle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Sparkle Background: Elevate Your Design</h1>
+                <p>A white sparkle background adds a touch of elegance and sophistication to any design. Perfect for enhancing visuals, this backdrop creates a dreamy atmosphere, ideal for personal projects, invitations, or social media posts. The gentle sparkles catch the light, making your designs pop and adding a whimsical charm that attracts attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1077626348/photo/silver-glitter-texture-white-sparkling-shiny-wrapping-paper-background-for-christmas-holiday.jpg?s=612x612&w=0&k=20&c=i_u8O9UJNIV3J3VWV4cpWAFy8b4bQ1kWoku57tSeqsc=' alt='447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1077626348/photo/silver-glitter-texture-white-sparkling-shiny-wrapping-paper-background-for-christmas-holiday.jpg?s=612x612&w=0&k=20&c=i_u8O9UJNIV3J3VWV4cpWAFy8b4bQ1kWoku57tSeqsc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Sparkle Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-background-with-silver-bokeh-lights-snowflakes-design_1048-13454.jpg' alt='White Sparkle Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-background-with-silver-bokeh-lights-snowflakes-design_1048-13454.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1489988183/photo/abstract-background-with-a-white-light-blur.jpg?s=612x612&w=0&k=20&c=Wrfr6-97s2ASBVFhui41oZzM7YsJnM9ahJRkvz5qwG0=' alt='447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1489988183/photo/abstract-background-with-a-white-light-blur.jpg?s=612x612&w=0&k=20&c=Wrfr6-97s2ASBVFhui41oZzM7YsJnM9ahJRkvz5qwG0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Sparkle Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/756/275/small/bokeh-background-blurs-natural-gray-and-white-colorful-bokeh-sparkles-illustration-free-vector.jpg' alt='White Sparkle Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/756/275/small/bokeh-background-blurs-natural-gray-and-white-colorful-bokeh-sparkles-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White glitter wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e1/ff/51/e1ff51934b7f737fa971be5374a204ca.jpg' alt='White glitter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e1/ff/51/e1ff51934b7f737fa971be5374a204ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Sparkle Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-background-with-bokeh-lights_53876-120103.jpg' alt='White Sparkle Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-background-with-bokeh-lights_53876-120103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Glitter Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/085/059/small_2x/free-silver-glitter-vector-background.jpg' alt='White Glitter Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/085/059/small_2x/free-silver-glitter-vector-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Glitter Sparkle Background Graphic by Rizu Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/08/10/White-Glitter-Sparkle-Background-Graphics-15717253-1.jpg' alt='White Glitter Sparkle Background Graphic by Rizu Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/08/10/White-Glitter-Sparkle-Background-Graphics-15717253-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/483293394/photo/background.jpg?s=612x612&w=0&k=20&c=aEzhmYK1PDrbYQ8OvyCY-z0lsQlhJdFLb4gkMPNOOhA=' alt='447,500+ White Glitter Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/483293394/photo/background.jpg?s=612x612&w=0&k=20&c=aEzhmYK1PDrbYQ8OvyCY-z0lsQlhJdFLb4gkMPNOOhA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White glitter 2025 background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/30/c8/87/30c8874d18f4992d197da164ff57e7c7.jpg' alt='White glitter 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/30/c8/87/30c8874d18f4992d197da164ff57e7c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

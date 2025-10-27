@@ -1,0 +1,129 @@
+<title>Download Lively Wallpapers for PC | Energize Your Screen</title>
+                    <meta name="description" content="Discover and download a variety of lively wallpapers for your PC. Transform your desktop with vibrant, animated backgrounds that boost your creativity and brighten your day. Elevate your workspace aesthetic easily and quickly with stunning visuals that reflect your personality and style!">
+                    <meta name="keywords" content="lively wallpaper download for pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/lively-wallpaper-download-for-pc">
+                            <span itemprop="name">lively wallpaper download for pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Lively Wallpapers for PC | Energize Your Screen</h1>
+                <p>Lively wallpapers can transform the look of your PC, adding color and energy to your workspace! Download vibrant, animated wallpapers that bring your screen to life. From mesmerizing nature scenes to dynamic abstract designs, there's something for everyone. Enjoy a fresh and inspiring atmosphere at work or during your leisure time!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.28293.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.0dbed0c5-75f5-4c15-9b43-ea96f1670b4f' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.28293.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.0dbed0c5-75f5-4c15-9b43-ea96f1670b4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.54314.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.4a622505-995e-4cd9-bfcd-7a4885695170' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.54314.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.4a622505-995e-4cd9-bfcd-7a4885695170' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper by rocksdanister">
+                                <img itemprop="contentUrl url" src='https://www.rocksdanister.com/lively/assets/synthwave_preview.webp' alt='Lively Wallpaper by rocksdanister'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocksdanister" />
+                                </span>
+                                <a href='https://www.rocksdanister.com/lively/assets/synthwave_preview.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.40033.14416131676512756.c6928841-2a67-4a42-b5d4-44ded2ce0cf1.017d07e6-bb58-4002-ab85-25ceed2cd80c' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.40033.14416131676512756.c6928841-2a67-4a42-b5d4-44ded2ce0cf1.017d07e6-bb58-4002-ab85-25ceed2cd80c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This free Windows wallpaper app gives your desktop superpowers ...">
+                                <img itemprop="contentUrl url" src='https://www.pcworld.com/wp-content/uploads/2024/06/livelywallpaperhero.jpg?quality=50&strip=all&w=1024' alt='This free Windows wallpaper app gives your desktop superpowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCWorld" />
+                                </span>
+                                <a href='https://www.pcworld.com/wp-content/uploads/2024/06/livelywallpaperhero.jpg?quality=50&strip=all&w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add Animated Wallpapers in Windows 10 FREE 2020 | Lively Wallpaper  Review">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mg8GHmhx6Fc/sddefault.jpg' alt='How to add Animated Wallpapers in Windows 10 FREE 2020 | Lively Wallpaper  Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mg8GHmhx6Fc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper for Windows - Download it from Uptodown for free">
+                                <img itemprop="contentUrl url" src='https://img.utdstc.com/screen/3ac/1cc/3ac1ccd7a12be08e356b7569fa68e2038a9c5b5677d323a2804d8529b9447292:600' alt='Lively Wallpaper for Windows - Download it from Uptodown for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="973">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lively-wallpaper.en.uptodown.com" />
+                                </span>
+                                <a href='https://img.utdstc.com/screen/3ac/1cc/3ac1ccd7a12be08e356b7569fa68e2038a9c5b5677d323a2804d8529b9447292:600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper for Windows - Download it from Uptodown for free">
+                                <img itemprop="contentUrl url" src='https://img.utdstc.com/icon/2af/75f/2af75f1d6ab1809e91f1a42e814ec627c9f448db79dd2d4e14cb2972c6445bc3:200' alt='Lively Wallpaper for Windows - Download it from Uptodown for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lively-wallpaper.en.uptodown.com" />
+                                </span>
+                                <a href='https://img.utdstc.com/icon/2af/75f/2af75f1d6ab1809e91f1a42e814ec627c9f448db79dd2d4e14cb2972c6445bc3:200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

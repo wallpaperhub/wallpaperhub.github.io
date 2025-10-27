@@ -1,0 +1,129 @@
+<title>Easy Peel and Stick Wallpaper for Home Makeovers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="at home peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/at-home-peel-and-stick-wallpaper">
+                            <span itemprop="name">at home peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easy Peel and Stick Wallpaper for Home Makeovers</h1>
+                <p>Transform your space with at-home peel and stick wallpaper! It's an easy, cost-effective way to give any room a fresh look without the mess of traditional wallpaper. Simply peel off the backing, stick it on your wall, and enjoy a stylish new design. Perfect for renters or DIY enthusiasts looking for a quick upgrade!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Autumn Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D152">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5290389304_o6qw.jpg?v=1719969452&width=1946' alt='Floral Autumn Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D152'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5290389304_o6qw.jpg?v=1719969452&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper White Blue Tropical Floral Modern  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 104">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3883874362_5sm5.jpg' alt='Wallpaper Peel and Stick Wallpaper White Blue Tropical Floral Modern  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 104'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2163">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3883874362_5sm5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' alt='Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable Wallpaper  Wall Decor Home Decor Wall Art Room Decor 3848">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' alt='Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable Wallpaper  Wall Decor Home Decor Wall Art Room Decor 3848'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho  Leaves Peel and Stick Wallpaper Self-Adhesive Wallpaper Waterproof ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AX6FitYPL.jpg' alt='Amazon.com: Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho  Leaves Peel and Stick Wallpaper Self-Adhesive Wallpaper Waterproof ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1602">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AX6FitYPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' alt='MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Gold Cream Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 322">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4136698993_k785.jpg' alt='Boho Gold Cream Sun Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 322'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2414">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4136698993_k785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D109">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5048602865_jhp3_8f500510-1ab1-4694-b528-84d3013365d7.jpg?v=1725062732&width=1946' alt='Scandinavian Flower Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D109'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5048602865_jhp3_8f500510-1ab1-4694-b528-84d3013365d7.jpg?v=1725062732&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Transform Your Space with Peel and Stick Wallpaper - Emmy ...">
+                                <img itemprop="contentUrl url" src='https://emmyloustyles.com/wp-content/uploads/2020/04/Peel-and-stick-wallpaper-in-a-home-office.jpg' alt='How to Transform Your Space with Peel and Stick Wallpaper - Emmy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emmy Lou Styles" />
+                                </span>
+                                <a href='https://emmyloustyles.com/wp-content/uploads/2020/04/Peel-and-stick-wallpaper-in-a-home-office.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Hummingbirds Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' alt='Golden Hummingbirds Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3549">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

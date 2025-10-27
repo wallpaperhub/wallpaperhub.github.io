@@ -1,0 +1,129 @@
+<title>Vibrant Purple GTR Wallpaper: For Speed Lovers</title>
+                    <meta name="description" content="Discover stunning purple GTR wallpapers ideal for car lovers! Elevate your device's look with these vibrant and sleek designs. Perfect for showcasing your passion for speed and luxury. Download now and enhance your screen's aesthetic!">
+                    <meta name="keywords" content="purple gtr wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-gtr-wallpaper">
+                            <span itemprop="name">purple gtr wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple GTR Wallpaper: For Speed Lovers</h1>
+                <p>Transform your screen with stunning purple GTR wallpapers! Featuring sleek designs and vibrant shades, these wallpapers capture the essence of luxury and speed. Perfect for car enthusiasts, each image showcases the bold styling and performance of GTR models. Download now to add a touch of dynamism to your devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTR R 35  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/33/a5/b533a573c68323600e5754843bab927b.jpg' alt='GTR R 35  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/33/a5/b533a573c68323600e5754843bab927b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Nissan, GT-R, Tuning, Nissan GT-R, Widebody, Purple ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2500x1449/3/3f/purple-pandem-rocketbunny-widebody-nissan-gt-r-purple-pandem.jpg' alt='Wallpaper Nissan, GT-R, Tuning, Nissan GT-R, Widebody, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2500x1449/3/3f/purple-pandem-rocketbunny-widebody-nissan-gt-r-purple-pandem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Nissan Skyline GTR parked in front of city skyline at night">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/32/79/c43279363e2a7182136db1f542ccd96c.jpg' alt='Purple Nissan Skyline GTR parked in front of city skyline at night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="1290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/32/79/c43279363e2a7182136db1f542ccd96c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/88/7e/41887e6eff8fd8dff1056ad734ea91d1.jpg' alt='World purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/88/7e/41887e6eff8fd8dff1056ad734ea91d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satin Purple GTR, nissan, gtr, purple, car, supercar sports ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/727/257/HD-wallpaper-satin-purple-gtr-nissan-gtr-purple-car-supercar-sports-mountains-new-sunset.jpg' alt='Satin Purple GTR, nissan, gtr, purple, car, supercar sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/727/257/HD-wallpaper-satin-purple-gtr-nissan-gtr-purple-car-supercar-sports-mountains-new-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Wallpaper | Purple car, Nissan skyline gtr, Car wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/12/97/ed1297f36ceab652cfb32ea39eff8553.jpg' alt='Nissan Wallpaper | Purple car, Nissan skyline gtr, Car wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/12/97/ed1297f36ceab652cfb32ea39eff8553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nissan Skyline Gtr R33 Purple Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/nissan-skyline-gtr-r33-purple-lights-gh5kte8yhqunl8qx.jpg' alt='Nissan Skyline Gtr R33 Purple Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/nissan-skyline-gtr-r33-purple-lights-gh5kte8yhqunl8qx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Nissan R35 Gtr Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nissan-r35-gtr-pictures-c3h967t0kmje9bgw.jpg' alt='Download Purple Nissan R35 Gtr Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="1686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nissan-r35-gtr-pictures-c3h967t0kmje9bgw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gtr r35 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nissan-r35-gtr-pictures-j9qx8x615gjxy60y.jpg' alt='Gtr r35 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nissan-r35-gtr-pictures-j9qx8x615gjxy60y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::nissan-skyline-gtr-vspec-neon-purple-street-need ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2045251067799289262/98578011BAE5E1F204F95DA229037FC61AD4F2FA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::nissan-skyline-gtr-vspec-neon-purple-street-need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2045251067799289262/98578011BAE5E1F204F95DA229037FC61AD4F2FA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

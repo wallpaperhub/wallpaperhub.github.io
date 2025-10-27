@@ -1,0 +1,129 @@
+<title>The Meaning Behind the Blue Emoji: More Than Just a Color</title>
+                    <meta name="description" content="Discover the significance of the blue emoji and how it enhances your digital communication. Learn its meanings, uses, and why it resonates with so many. Perfect for anyone looking to express emotions in a powerful, yet calming way!">
+                    <meta name="keywords" content="blue emoji">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-emoji">
+                            <span itemprop="name">blue emoji</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Meaning Behind the Blue Emoji: More Than Just a Color</h1>
+                <p>The blue emoji is a versatile symbol that conveys various emotions, representing calmness, trust, and tranquility. It's widely used in chats and social media to express feelings related to peace, loyalty, or even sadness. Its soothing hue adds a unique touch to conversations, making it a favorite among users seeking to enhance their messages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Emoji or Joobi - Free Smiley Download">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e58387f7cb984dde9eb7_92.png' alt='Blue Emoji or Joobi - Free Smiley Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bluemoji.io" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e58387f7cb984dde9eb7_92.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love from the Heart Blue Emoji">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/646346a4ff050318e96196ab_60.png' alt='Love from the Heart Blue Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Emoji" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/646346a4ff050318e96196ab_60.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Emoji or Joobi - Free Smiley Download">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5d0c2ab246786ca1d5e_86.png' alt='Blue Emoji or Joobi - Free Smiley Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bluemoji.io" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5d0c2ab246786ca1d5e_86.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annoyed Blue Emoji">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ebaa1593063206330921_16.png' alt='Annoyed Blue Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Emoji" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ebaa1593063206330921_16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exhausted Blue Emoji">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea5e4fa4ba1531cce640_46.png' alt='Exhausted Blue Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Emoji" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea5e4fa4ba1531cce640_46.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Emoji or Joobi - Free Smiley Download">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5760608f3f68cb0b04b_93.png' alt='Blue Emoji or Joobi - Free Smiley Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bluemoji.io" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5760608f3f68cb0b04b_93.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Emoji or Joobi - Free Smiley Download">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e9e11f8df07b5f1f9fc1_54.png' alt='Blue Emoji or Joobi - Free Smiley Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bluemoji.io" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e9e11f8df07b5f1f9fc1_54.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Emoji or Joobi - Free Smiley Download">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e2b30608f3f68caf31d3_94.png' alt='Blue Emoji or Joobi - Free Smiley Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bluemoji.io" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e2b30608f3f68caf31d3_94.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue amazed emoji" Poster for Sale by goon-street | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5148559205.2579/fposter,small,wall_texture,square_product,600x600.jpg' alt='blue amazed emoji" Poster for Sale by goon-street | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5148559205.2579/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Love Blue Emoji">
+                                <img itemprop="contentUrl url" src='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ec3d99123fa294ad574c_05.png' alt='In Love Blue Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Emoji" />
+                                </span>
+                                <a href='https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ec3d99123fa294ad574c_05.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

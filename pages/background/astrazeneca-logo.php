@@ -1,0 +1,129 @@
+<title>AstraZeneca Logo: Symbol of Innovation in Pharma</title>
+                    <meta name="description" content="Explore the meaning behind the AstraZeneca logo, a modern design reflecting the company's dedication to advancing healthcare. Learn how its colors and style symbolize innovation and trust in the pharmaceutical industry. Discover what makes this logo a distinctive mark in the healthcare sector.">
+                    <meta name="keywords" content="astrazeneca logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/astrazeneca-logo">
+                            <span itemprop="name">astrazeneca logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AstraZeneca Logo: Symbol of Innovation in Pharma</h1>
+                <p>The AstraZeneca logo is a symbol of innovation and commitment in the pharmaceutical industry. Comprising a modern typeface with a flowing design, it reflects the company’s focus on research and development. The blue and orange color scheme embodies trust and vitality, making it distinctive and memorable in the healthcare field.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AstraZeneca Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2023/06/Astrazeneca-Emblem.png' alt='AstraZeneca Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2023/06/Astrazeneca-Emblem.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astrazeneca Logo - AstraZeneca Pharmaceutical Company Logo ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181125/ikl/kisspng-astrazeneca-pharmaceuticals-lp-logo-pharmaceutical-astrazeneca-png-www-galleryhip-com-the-hippest-p-1713918491250.webp' alt='Astrazeneca Logo - AstraZeneca Pharmaceutical Company Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181125/ikl/kisspng-astrazeneca-pharmaceuticals-lp-logo-pharmaceutical-astrazeneca-png-www-galleryhip-com-the-hippest-p-1713918491250.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astra Zeneca Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5847ebf8cef1014c0b5e4859.png' alt='Astra Zeneca Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2047">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5847ebf8cef1014c0b5e4859.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo | AstraZeneca logo | American Heart Association">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cms.ipressroom.com/67/files/20178/59ceb2862cfac277b88fb700_AstraZeneca-logo/AstraZeneca-logo_hero.jpg' alt='Photo | AstraZeneca logo | American Heart Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Heart Association" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cms.ipressroom.com/67/files/20178/59ceb2862cfac277b88fb700_AstraZeneca-logo/AstraZeneca-logo_hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astrazeneca - King's John Price Paediatric Respiratory Conference">
+                                <img itemprop="contentUrl url" src='https://www.paediatricrespiratory.com/wp-content/uploads/2020/09/Astrazeneca-Logo.png' alt='Astrazeneca - King's John Price Paediatric Respiratory Conference'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="King's John Price Paediatric Respiratory Conference" />
+                                </span>
+                                <a href='https://www.paediatricrespiratory.com/wp-content/uploads/2020/09/Astrazeneca-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AstraZeneca - Digestive Cancers Europe">
+                                <img itemprop="contentUrl url" src='https://digestivecancers.eu/wp-content/uploads/2020/02/Astrazeneca-.png' alt='AstraZeneca - Digestive Cancers Europe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4902">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digestive Cancers Europe" />
+                                </span>
+                                <a href='https://digestivecancers.eu/wp-content/uploads/2020/02/Astrazeneca-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free High-Quality AstraZeneca Logo for Creative Design">
+                                <img itemprop="contentUrl url" src='https://seekvectors.com/files/download/astrazeneca%20logo.svg' alt='Free High-Quality AstraZeneca Logo for Creative Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seek Vectors" />
+                                </span>
+                                <a href='https://seekvectors.com/files/download/astrazeneca%20logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AstraZeneca Logo & Brand Assets (SVG, PNG and vector) - Brandfetch">
+                                <img itemprop="contentUrl url" src='https://cdn.brandfetch.io/idJpLuJVA4/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1677288655682' alt='AstraZeneca Logo & Brand Assets (SVG, PNG and vector) - Brandfetch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brandfetch" />
+                                </span>
+                                <a href='https://cdn.brandfetch.io/idJpLuJVA4/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1677288655682' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AstraZeneca 01 Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/thumbs/2x/astrazeneca-01-logo.png' alt='AstraZeneca 01 Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/thumbs/2x/astrazeneca-01-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astrazeneca Logo - AstraZeneca Pharmaceutical Company Logo ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181122/gqh/kisspng-logo-astrazeneca-vector-graphics-portable-network-astrazeneca-logo-biotechnology-logo-nyse-1713919352516.webp' alt='Astrazeneca Logo - AstraZeneca Pharmaceutical Company Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181122/gqh/kisspng-logo-astrazeneca-vector-graphics-portable-network-astrazeneca-logo-biotechnology-logo-nyse-1713919352516.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

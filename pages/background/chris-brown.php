@@ -1,0 +1,129 @@
+<title>Chris Brown: The King of R&B and Dance</title>
+                    <meta name="description" content="Discover the journey of Chris Brown, a prominent figure in the music industry known for his incredible talent in R&B and dance. Explore his career highlights, hits, and impact, along with insights into his artistic evolution and personal challenges. Stay updated on his latest projects and performances!">
+                    <meta name="keywords" content="chris brown">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chris-brown">
+                            <span itemprop="name">chris brown</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chris Brown: The King of R&B and Dance</h1>
+                <p>Chris Brown is a multi-talented artist known for his impressive skills in singing, dancing, and songwriting. Rising to fame in the mid-2000s, he has released numerous chart-topping hits and albums, earning multiple awards. Despite controversies, Brown remains a significant influence in the music industry, celebrated for his dynamic performances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BLAKPROPHETZ-CHRIS_BROWN_-_BET_AWARDS_%28cropped%29.jpg/220px-BLAKPROPHETZ-CHRIS_BROWN_-_BET_AWARDS_%28cropped%29.jpg' alt='Chris Brown - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BLAKPROPHETZ-CHRIS_BROWN_-_BET_AWARDS_%28cropped%29.jpg/220px-BLAKPROPHETZ-CHRIS_BROWN_-_BET_AWARDS_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="R&B singer Chris Brown takes time for new tour with stop in Fort ...">
+                                <img itemprop="contentUrl url" src='https://fortworth.culturemap.com/media-library/chris-brown.jpg?id=51643066&width=2000&height=1500&quality=65&coordinates=0%2C0%2C0%2C0' alt='R&B singer Chris Brown takes time for new tour with stop in Fort ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CultureMap Fort Worth" />
+                                </span>
+                                <a href='https://fortworth.culturemap.com/media-library/chris-brown.jpg?id=51643066&width=2000&height=1500&quality=65&coordinates=0%2C0%2C0%2C0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chris_Brown_5%2C_2012.jpg/220px-Chris_Brown_5%2C_2012.jpg' alt='Chris Brown - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chris_Brown_5%2C_2012.jpg/220px-Chris_Brown_5%2C_2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happened to Chris Brown? - Berkeley B-Side">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/berkeleybside.com/wp-content/uploads/2017/11/cb.jpg?resize=1050%2C520&ssl=1' alt='What happened to Chris Brown? - Berkeley B-Side'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkeley B-Side" />
+                                </span>
+                                <a href='https://i0.wp.com/berkeleybside.com/wp-content/uploads/2017/11/cb.jpg?resize=1050%2C520&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BROWN (@chrisbrownofficial) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3516738766184029418' alt='BROWN (@chrisbrownofficial) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3516738766184029418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728' alt='Chris Brown Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown responds to criticism over viral fan photos">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220802-chris-brown-jm-1301-c21d47.jpg' alt='Chris Brown responds to criticism over viral fan photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220802-chris-brown-jm-1301-c21d47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/499496_v9_bc.jpg' alt='Chris Brown | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/499496_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown | Artist | GRAMMY.com">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/chris-brown_MI0004702225-MN0000266063' alt='Chris Brown | Artist | GRAMMY.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/chris-brown_MI0004702225-MN0000266063' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Brown Wallpaper 4K, American singer, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/chris-brown-2560x2560-16377.jpg' alt='Chris Brown Wallpaper 4K, American singer, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/chris-brown-2560x2560-16377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

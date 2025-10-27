@@ -1,0 +1,129 @@
+<title>Elegant Green Toile Peel and Stick Wallpaper for Easy Home Makeovers</title>
+                    <meta name="description" content="Discover the beauty of green toile peel and stick wallpaper. Perfect for quick decor updates, it offers a stylish, removable solution for any space. Ideal for renters and home decorators alike, it's easy to apply and reposition, allowing you to create a vibrant, nature-inspired atmosphere effortlessly.">
+                    <meta name="keywords" content="green toile peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/green-toile-peel-and-stick-wallpaper">
+                            <span itemprop="name">green toile peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Green Toile Peel and Stick Wallpaper for Easy Home Makeovers</h1>
+                <p>Transform your space effortlessly with green toile peel and stick wallpaper. This versatile decor option brings a touch of elegance and nature to your walls without the commitment of traditional wallpaper. Easy to apply and removable, it’s perfect for renters or anyone looking to refresh their home decor. Ideal for living rooms, bedrooms, or accent walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: funlife Green Toile Wallpaper Peel and Stick, Toile de Jouy  Wallpaper Vintage, Textured PVC Monochrome Landscape Wall Mural Contact  Paper, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/812O33ZoRWL.jpg' alt='Amazon.com: funlife Green Toile Wallpaper Peel and Stick, Toile de Jouy  Wallpaper Vintage, Textured PVC Monochrome Landscape Wall Mural Contact  Paper, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/812O33ZoRWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erfoni 15.7" X 118" Toile Wallpaper Green and White Peel and Stick  Wallpaper Modern Contact Paper Peel and Stick Removable Wall Paper Forest  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/912xxqNdVBL._AC_UF894,1000_QL80_.jpg' alt='Erfoni 15.7" X 118" Toile Wallpaper Green and White Peel and Stick  Wallpaper Modern Contact Paper Peel and Stick Removable Wall Paper Forest  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/912xxqNdVBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Toile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/JT15247-Jungle-Toile-Moss-Green-Table.jpg?v=1724365289' alt='Jungle Toile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/JT15247-Jungle-Toile-Moss-Green-Table.jpg?v=1724365289' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pine Green Toile pattern removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-farmhouse-style-foyer-with-green-dior-toile-pattern-inspired-wallpaper.jpg?v=1633711120' alt='Pine Green Toile pattern removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-farmhouse-style-foyer-with-green-dior-toile-pattern-inspired-wallpaper.jpg?v=1633711120' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Toile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/FT15115-ForestToile-Evergreen-CloseUp-2_1800x1800.jpg?v=1725131374' alt='Forest Toile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/FT15115-ForestToile-Evergreen-CloseUp-2_1800x1800.jpg?v=1725131374' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Toile">
+                                <img itemprop="contentUrl url" src='https://rollsrolla.com/cdn/shop/files/green_toile_bathroom_view.jpg?v=1712233858&width=1946' alt='Green Toile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RollsRolla" />
+                                </span>
+                                <a href='https://rollsrolla.com/cdn/shop/files/green_toile_bathroom_view.jpg?v=1712233858&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind 197"×16" Green and White Peel and Stick Wallpaper Green Toile  Wallpaper Removable Self Adhesive Wallpaper Vintage Wallpaper for Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91lHqIcbLBL._AC_UF894,1000_QL80_.jpg' alt='CiCiwind 197"×16" Green and White Peel and Stick Wallpaper Green Toile  Wallpaper Removable Self Adhesive Wallpaper Vintage Wallpaper for Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91lHqIcbLBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Green French Toile Rococo Queen Baroque  Frames Museum History Large Scale Portraiture Neoclassical Custom Removable  ...">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6917816447692362656.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Green French Toile Rococo Queen Baroque  Frames Museum History Large Scale Portraiture Neoclassical Custom Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6917816447692362656.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Jungle Toile Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11916WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5ec0da12-0c9f-4e84-a968-37121978b769/svn/roommates-wallpaper-rolls-rmk11916wp-64_600.jpg' alt='RoomMates Jungle Toile Peel and Stick Wallpaper (Covers 28.18 sq. ft.)  RMK11916WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5ec0da12-0c9f-4e84-a968-37121978b769/svn/roommates-wallpaper-rolls-rmk11916wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: funlife Green Toile Wallpaper Peel and Stick, Toile de ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714EzPBdfqL.jpg' alt='Amazon.com: funlife Green Toile Wallpaper Peel and Stick, Toile de ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714EzPBdfqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

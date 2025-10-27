@@ -1,0 +1,129 @@
+<title>Elegant Black Line PNGs for Your Design Projects</title>
+                    <meta name="description" content="Discover high-quality black line PNG files perfect for enhancing your design projects. These versatile images feature transparent backgrounds, making them easy to use in any creative work—from social media posts to web designs. Elevate your visuals with our stylish black line graphics today!">
+                    <meta name="keywords" content="black line png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-line-png">
+                            <span itemprop="name">black line png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Line PNGs for Your Design Projects</h1>
+                <p>Black line PNG files are versatile graphic assets used in various design projects. These transparent background images can be easily integrated into web design, presentations, or social media graphics. Their clean lines and minimalistic appearance make them perfect for adding a touch of elegance to any creative work, enhancing visual appeal effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Black Vertical Line | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/transparent-black-vertical-line-701751694604464sxqqdebwgn.png' alt='Transparent Black Vertical Line | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/transparent-black-vertical-line-701751694604464sxqqdebwgn.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Line PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/23/Black-Line-PNG-HD.png' alt='Black Line PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/23/Black-Line-PNG-HD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Line PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20200801/ourmid/pngtree-black-line-png-image_2319157.jpg' alt='Black Line PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20200801/ourmid/pngtree-black-line-png-image_2319157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12+ A Black Line Png">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/15/24/661524af491cfda437692eac19eed959.jpg' alt='12+ A Black Line Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/15/24/661524af491cfda437692eac19eed959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Horizontal Black Line PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/download-horizontal-black-line-png-701751694604737ovzba5b5o9.png' alt='Download Horizontal Black Line PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/download-horizontal-black-line-png-701751694604737ovzba5b5o9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Line Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/decorative-line-divider-design_23-2151358261.jpg' alt='Black Line Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/decorative-line-divider-design_23-2151358261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black-line-png-2 - Saama Technologies | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/92361c26-c47c-45ba-a78c-af7e47ed61c7.png' alt='black-line-png-2 - Saama Technologies | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/92361c26-c47c-45ba-a78c-af7e47ed61c7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical Black Line - Vertical Black Line Minimalist Symbol ...">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180705/sy/aawdbqsi1.webp' alt='Vertical Black Line - Vertical Black Line Minimalist Symbol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180705/sy/aawdbqsi1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Picture PNG Transparent Background, Free Download #16814 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/line-png-16.png' alt='Line Picture PNG Transparent Background, Free Download #16814 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/line-png-16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/23/d9/2d23d938b8411efc58355ebe79ede365.jpg' alt='Line PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/23/d9/2d23d938b8411efc58355ebe79ede365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="july phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/july-phone-wallpaper">
+                            <span itemprop="name">july phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July Calendar Wallpaper - 80 Best Styles For Your Desktop Or Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/5b/ec/795bec1a0d5fc6868914ea34b1ee2f3a.jpg' alt='July Calendar Wallpaper - 80 Best Styles For Your Desktop Or Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/5b/ec/795bec1a0d5fc6868914ea34b1ee2f3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth of july phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/52/d3/0f52d3539c57028b2b48e0104ba0c0ea.jpg' alt='Fourth of july phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/52/d3/0f52d3539c57028b2b48e0104ba0c0ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July Calendar Phone Wallpaper Background | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/06/Ice-cream-July-2023-Calendar-Phone-Wallpaper.png' alt='July Calendar Phone Wallpaper Background | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/06/Ice-cream-July-2023-Calendar-Phone-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free July Desktop Background and Phone Wallpaper – Pen & Paint">
+                                <img itemprop="contentUrl url" src='https://pen-and-paint.com/cdn/shop/articles/pen_and_paint_july_phone_1100x.jpg?v=1656689157' alt='Free July Desktop Background and Phone Wallpaper – Pen & Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pen & Paint" />
+                                </span>
+                                <a href='https://pen-and-paint.com/cdn/shop/articles/pen_and_paint_july_phone_1100x.jpg?v=1656689157' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Welcome July, The Time of Sunshine and Reflection ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-july-quote-in-the-sea-7sm16aebc6xrk726.jpg' alt='Download Welcome July, The Time of Sunshine and Reflection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-july-quote-in-the-sea-7sm16aebc6xrk726.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July chapter 7 of 12">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/ef/30/37ef30b65e00d11263a0a53ec8e530f5.jpg' alt='July chapter 7 of 12'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/ef/30/37ef30b65e00d11263a0a53ec8e530f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July 2025 Calendar Wallpaper - 38 Cute Backgrounds For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/30.-Pink-Sky-July-2025-Wallpaper-SaturdayGift-473x1024.jpg' alt='July 2025 Calendar Wallpaper - 38 Cute Backgrounds For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/30.-Pink-Sky-July-2025-Wallpaper-SaturdayGift-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free JULY Desktop & Wallpaper – Pen & Paint">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0122/2249/6825/files/pen_and_paint_july18_wallpaper.jpg?v=1533057423' alt='Free JULY Desktop & Wallpaper – Pen & Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="1409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pen & Paint" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0122/2249/6825/files/pen_and_paint_july18_wallpaper.jpg?v=1533057423' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello July Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13879211.jpg' alt='Hello July Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13879211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July 2025 Calendar Phone Wallpapers | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2025/01/Floral-july-2025-phone-wallpaper-calendar.jpg' alt='July 2025 Calendar Phone Wallpapers | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2025/01/Floral-july-2025-phone-wallpaper-calendar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

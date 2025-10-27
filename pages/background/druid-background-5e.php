@@ -1,0 +1,129 @@
+<title>Discover the Secrets of Druid Background in D&D 5e</title>
+                    <meta name="description" content="Explore the fascinating druid background in D&D 5e, where nature’s magic and animal transformation come together. Learn about their unique abilities, role in the game, and why they are essential protectors of the wild. Perfect for both new and experienced players! Discover more now!">
+                    <meta name="keywords" content="druid background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/druid-background-5e">
+                            <span itemprop="name">druid background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Secrets of Druid Background in D&D 5e</h1>
+                <p>Druids in Dungeons & Dragons 5e are nature-focused spellcasters, drawing power from the land and its creatures. They balance primal forces with a deep respect for nature, often serving as guardians of the wild. With the ability to shape-shift into animals, cast potent spells, and summon natural allies, druids are versatile and powerful characters suitable for any adventuring party.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD Druid 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/02/DnD_Druid_Featured_Image.webp' alt='The Ultimate Guide to the DnD Druid 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/02/DnD_Druid_Featured_Image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD Druid 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_5E_Spells.webp' alt='The Ultimate Guide to the DnD Druid 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_5E_Spells.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD Druid 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_5E_Summons-1.webp' alt='The Ultimate Guide to the DnD Druid 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_5E_Summons-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Druid 101: A Beginner's Guide to Channeling Nature's Might ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/10/329/druid-featured.jpg' alt='Druid 101: A Beginner's Guide to Channeling Nature's Might ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/10/329/druid-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did a quick background for my most recent DND campaign, next up to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d7tsqui8stp51.png' alt='Did a quick background for my most recent DND campaign, next up to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d7tsqui8stp51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressive Druid Backgrounds in D&D – DNDArticles">
+                                <img itemprop="contentUrl url" src='https://articles.dndnames.com/wp-content/uploads/2024/04/druid-background-cloistered-scholar-1024x512.png' alt='Impressive Druid Backgrounds in D&D – DNDArticles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DNDArticles - DNDNames" />
+                                </span>
+                                <a href='https://articles.dndnames.com/wp-content/uploads/2024/04/druid-background-cloistered-scholar-1024x512.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e Guide to Building a Druid- Circle of the Moon - Genre Bomb">
+                                <img itemprop="contentUrl url" src='https://genrebomb.com/wp-content/uploads/2020/10/DruidMain-new-min.jpg' alt='DnD 5e Guide to Building a Druid- Circle of the Moon - Genre Bomb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genre Bomb" />
+                                </span>
+                                <a href='https://genrebomb.com/wp-content/uploads/2020/10/DruidMain-new-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Druid Subclass: The Waterbearers + New Background: Water ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qxbqrf8h49k51.png' alt='New Druid Subclass: The Waterbearers + New Background: Water ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qxbqrf8h49k51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ideas For Your Druid's Backstory In DND">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/faldorn-cropped.jpg' alt='Ideas For Your Druid's Backstory In DND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/faldorn-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to the DnD Druid 5E Class">
+                                <img itemprop="contentUrl url" src='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_Subclass.webp' alt='The Ultimate Guide to the DnD Druid 5E Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2274">
+                                <meta itemprop="height" content="1212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everhearth Inn" />
+                                </span>
+                                <a href='https://everhearthinn.com/wp-content/uploads/2022/03/DnD_Druid_Subclass.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

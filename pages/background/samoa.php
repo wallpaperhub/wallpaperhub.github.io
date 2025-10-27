@@ -1,0 +1,129 @@
+<title>Samoa: A Tropical Paradise Awaits</title>
+                    <meta name="description" content="Discover the beauty of Samoa, a tropical paradise filled with stunning landscapes, rich culture, and friendly locals. Explore its pristine beaches, vibrant traditions, and delicious cuisine. Perfect for travelers seeking adventure and relaxation in an idyllic setting.">
+                    <meta name="keywords" content="samoa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/samoa">
+                            <span itemprop="name">samoa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Samoa: A Tropical Paradise Awaits</h1>
+                <p>Samoa, a stunning Pacific island nation, boasts breathtaking landscapes, rich culture, and warm hospitality. Known for its beautiful beaches, lush rainforests, and traditional villages, Samoa is a paradise for nature lovers and adventure seekers alike. Experience vibrant festivals, mouthwatering local cuisine, and engaging cultural practices that reflect the islands' deep-rooted heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa | History, Flag, Map, Population, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/46/183746-050-4284CA57/World-Data-Locator-Map-Samoa.jpg?w=400&h=300&c=crop' alt='Samoa | History, Flag, Map, Population, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/46/183746-050-4284CA57/World-Data-Locator-Map-Samoa.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17AED/production/_131550079_bbcm_samoa_country_profile_191023.png.webp' alt='Samoa country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17AED/production/_131550079_bbcm_samoa_country_profile_191023.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Samoa | Pacific Island Holiday | Official Guide">
+                                <img itemprop="contentUrl url" src='https://www.samoa.travel/Content/Images/2022Home/Updated_map.png' alt='Welcome to Samoa | Pacific Island Holiday | Official Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1904">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.samoa.travel" />
+                                </span>
+                                <a href='https://www.samoa.travel/Content/Images/2022Home/Updated_map.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Complete Guide to Visiting American Samoa - American Field Trip">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/americanfieldtrip.com/wp-content/uploads/2018/05/american-samoa-67.jpg?fit=1000%2C667&ssl=1' alt='A Complete Guide to Visiting American Samoa - American Field Trip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Field Trip" />
+                                </span>
+                                <a href='https://i0.wp.com/americanfieldtrip.com/wp-content/uploads/2018/05/american-samoa-67.jpg?fit=1000%2C667&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa | History, Flag, Map, Population, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/02/3302-050-19A76564/Samoa-American.jpg' alt='Samoa | History, Flag, Map, Population, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/02/3302-050-19A76564/Samoa-American.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Travel Guide | Samoa Tourism - KAYAK">
+                                <img itemprop="contentUrl url" src='https://content.r9cdn.net/rimg/dimg/7d/6c/8d0d4c21-city-60671-16a4a97cab6.jpg?crop=true&width=1020&height=498' alt='Samoa Travel Guide | Samoa Tourism - KAYAK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kayak" />
+                                </span>
+                                <a href='https://content.r9cdn.net/rimg/dimg/7d/6c/8d0d4c21-city-60671-16a4a97cab6.jpg?crop=true&width=1020&height=498' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Reasons to Visit Samoa | Intrepid Travel Blog - The Journal">
+                                <img itemprop="contentUrl url" src='https://www.intrepidtravel.com/adventures/wp-content/uploads/2023/01/Samoa-Lalomanu-Beach-serene-blue-waters-blog-643559758-ss-800x450-1.jpg' alt='9 Reasons to Visit Samoa | Intrepid Travel Blog - The Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intrepid Travel" />
+                                </span>
+                                <a href='https://www.intrepidtravel.com/adventures/wp-content/uploads/2023/01/Samoa-Lalomanu-Beach-serene-blue-waters-blog-643559758-ss-800x450-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg' alt='Samoa - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Samoa_-_Location_Map_%282013%29_-_WSM_-_UNOCHA.svg/250px-Samoa_-_Location_Map_%282013%29_-_WSM_-_UNOCHA.svg.png' alt='Samoa - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Samoa_-_Location_Map_%282013%29_-_WSM_-_UNOCHA.svg/250px-Samoa_-_Location_Map_%282013%29_-_WSM_-_UNOCHA.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa | Islands, Map, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/61/245161-050-35531FB8/Locator-map-Samoa.jpg' alt='Samoa | Islands, Map, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/61/245161-050-35531FB8/Locator-map-Samoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

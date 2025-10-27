@@ -1,0 +1,129 @@
+<title>Stunning Dark Sky Pictures: Nighttime Wonders!</title>
+                    <meta name="description" content="Discover breathtaking dark sky pictures that showcase the beauty of the night sky. From starry landscapes to celestial events, explore the wonders of the universe captured in vivid imagery. Perfect for astronomy lovers and photography enthusiasts alike!">
+                    <meta name="keywords" content="dark sky pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-sky-pictures">
+                            <span itemprop="name">dark sky pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Sky Pictures: Nighttime Wonders!</h1>
+                <p>Dark sky pictures capture the beauty of the night, showcasing the mesmerizing stars and celestial wonders that often go unnoticed. From stunning Milky Way shots to vibrant auroras, these images inspire awe and encourage people to step outside and appreciate the vastness of the universe. Explore the magic of dark skies!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sky Place finder | DarkSky International">
+                                <img itemprop="contentUrl url" src='https://darksky.org/app/uploads/2024/04/Photo-5-Z72_2341-BlueHourAtTheSanctuary-1440x810.jpg' alt='Dark Sky Place finder | DarkSky International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarkSky International" />
+                                </span>
+                                <a href='https://darksky.org/app/uploads/2024/04/Photo-5-Z72_2341-BlueHourAtTheSanctuary-1440x810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sky Photos, Download The BEST Free Dark Sky Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/997494/pexels-photo-997494.jpeg?cs=srgb&dl=pexels-ridoframe-997494.jpg&fm=jpg' alt='Dark Sky Photos, Download The BEST Free Dark Sky Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/997494/pexels-photo-997494.jpeg?cs=srgb&dl=pexels-ridoframe-997494.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Skies & Reducing Light Pollution - Forest Preserves of Cook ...">
+                                <img itemprop="contentUrl url" src='https://fpdcc.com/wp-content/uploads/2021/11/maple-lake-woods-dark-sky-tom-hahn-nov21.jpg' alt='Dark Skies & Reducing Light Pollution - Forest Preserves of Cook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Preserves of Cook County" />
+                                </span>
+                                <a href='https://fpdcc.com/wp-content/uploads/2021/11/maple-lake-woods-dark-sky-tom-hahn-nov21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Search of the Stars: An Artistic Collaboration Between Two Dark ...">
+                                <img itemprop="contentUrl url" src='https://darksky.org/app/uploads/2022/02/4.-Ambuli-scaled.jpg' alt='In Search of the Stars: An Artistic Collaboration Between Two Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DarkSky International" />
+                                </span>
+                                <a href='https://darksky.org/app/uploads/2022/02/4.-Ambuli-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sky Photos, Download The BEST Free Dark Sky Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/416920/pexels-photo-416920.jpeg' alt='Dark Sky Photos, Download The BEST Free Dark Sky Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3522">
+                                <meta itemprop="height" content="2348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/416920/pexels-photo-416920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See the Dark: Exploring Maine's International Dark Sky Park ...">
+                                <img itemprop="contentUrl url" src='https://www.outdoors.org/wp-content/uploads/2022/12/Dark-Skies_Photo-by-Alex-Catullo_DSC_1466-min-scaled.jpg' alt='See the Dark: Exploring Maine's International Dark Sky Park ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Appalachian Mountain Club" />
+                                </span>
+                                <a href='https://www.outdoors.org/wp-content/uploads/2022/12/Dark-Skies_Photo-by-Alex-Catullo_DSC_1466-min-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Dark Sky Pictures [Stunning!] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673274615379-6514da8931bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMHNreXxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Dark Sky Pictures [Stunning!] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673274615379-6514da8931bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMHNreXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Protecting Dark Skies and the Creatures Below - Images">
+                                <img itemprop="contentUrl url" src='https://bouldercountyopenspace.org/i/wp-content/uploads/2018/02/heil-valley-ranch-night-sky-1280x768.jpg' alt='Protecting Dark Skies and the Creatures Below - Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parks & Open Space" />
+                                </span>
+                                <a href='https://bouldercountyopenspace.org/i/wp-content/uploads/2018/02/heil-valley-ranch-night-sky-1280x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Skies – Emergence Magazine">
+                                <img itemprop="contentUrl url" src='https://emergencemagazine.org/app/uploads/2020/03/06_191213_EM_dark_sky_4359_WEB-scaled-2200x1467.jpg' alt='Dark Skies – Emergence Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emergence Magazine" />
+                                </span>
+                                <a href='https://emergencemagazine.org/app/uploads/2020/03/06_191213_EM_dark_sky_4359_WEB-scaled-2200x1467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Dark Sky Pictures [Stunning!] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1603288967520-f3e04381dc02?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHNreXxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Dark Sky Pictures [Stunning!] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1603288967520-f3e04381dc02?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHNreXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

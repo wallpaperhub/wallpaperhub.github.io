@@ -1,0 +1,129 @@
+<title>The Origins of Silent Night: A Timeless Christmas Carol</title>
+                    <meta name="description" content="Discover the captivating history of "Silent Night," from its humble beginnings in Austria to its status as a beloved Christmas carol worldwide. Explore its origins, meaning, and enduring impact on holiday music in this concise overview. Perfect for holiday enthusiasts and music lovers alike!">
+                    <meta name="keywords" content="history of silent night">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-silent-night">
+                            <span itemprop="name">history of silent night</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Origins of Silent Night: A Timeless Christmas Carol</h1>
+                <p>"Silent Night" originated in Austria in 1818, composed by Franz Xaver Gruber with lyrics by Joseph Mohr. Initially, it was performed in a small church and quickly gained popularity, spreading throughout Europe and eventually worldwide. This serene carol captures the essence of peace and reflection, making it a cherished holiday classic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The humble origins of 'Silent Night'">
+                                <img itemprop="contentUrl url" src='https://silent-night-museum.org/joseph-mohr/1816_print.jpg' alt='The humble origins of 'Silent Night''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2272">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://silent-night-museum.org/joseph-mohr/1816_print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silent Night - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/eb/Stille_nacht.jpg' alt='Silent Night - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="901">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/eb/Stille_nacht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From the Pulpit: Silent Night, Holy Night - The Ashcroft-Cache ...">
+                                <img itemprop="contentUrl url" src='https://www.bpmcdn.com/f/files/ashcroft/import/2020-12/23540580_web1_201217-ACC-From-the-pulpit-SilentNight_2.jpg;w=960' alt='From the Pulpit: Silent Night, Holy Night - The Ashcroft-Cache ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ashcroft-Cache Creek Journal" />
+                                </span>
+                                <a href='https://www.bpmcdn.com/f/files/ashcroft/import/2020-12/23540580_web1_201217-ACC-From-the-pulpit-SilentNight_2.jpg;w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Silent Night">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/b3a73b62426848e666cf16273872614c.webp?image_crop_resized=960x540' alt='The History Of Silent Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/b3a73b62426848e666cf16273872614c.webp?image_crop_resized=960x540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is 'Silent Night' the greatest Christmas song ever? | America Magazine">
+                                <img itemprop="contentUrl url" src='https://www.americamagazine.org/sites/default/files/main_image/3_Stille_Nacht_200.jpg' alt='Is 'Silent Night' the greatest Christmas song ever? | America Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1354">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="America Magazine" />
+                                </span>
+                                <a href='https://www.americamagazine.org/sites/default/files/main_image/3_Stille_Nacht_200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Story Behind The Song: Silent Night">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nJA9LXkVYVU/maxresdefault.jpg' alt='Story Behind The Song: Silent Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nJA9LXkVYVU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Silent Night: Joseph Mohr and Franz Gruber - In ...">
+                                <img itemprop="contentUrl url" src='http://inmozartsfootsteps.com/wp-content/uploads/2010/12/malamkudus_11-e1608574649350.jpg' alt='The Story of Silent Night: Joseph Mohr and Franz Gruber - In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="In Mozart's Footsteps" />
+                                </span>
+                                <a href='http://inmozartsfootsteps.com/wp-content/uploads/2010/12/malamkudus_11-e1608574649350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discipleship Ministries | History of Hymns: “Silent Night, Holy Night”">
+                                <img itemprop="contentUrl url" src='https://gbod-assets.s3.amazonaws.com/legacy/kintera-images/worship-history-hymns/12-18_Silent-Night.gif' alt='Discipleship Ministries | History of Hymns: “Silent Night, Holy Night”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discipleship Ministries" />
+                                </span>
+                                <a href='https://gbod-assets.s3.amazonaws.com/legacy/kintera-images/worship-history-hymns/12-18_Silent-Night.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silent Night turns 200: fascinating facts about the beloved ...">
+                                <img itemprop="contentUrl url" src='https://i.cbc.ca/1.4950249.1545108458!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/stille-nacht.jpg' alt='Silent Night turns 200: fascinating facts about the beloved ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBC" />
+                                </span>
+                                <a href='https://i.cbc.ca/1.4950249.1545108458!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/stille-nacht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Silent Night">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/PfeUz5cFvB4/maxresdefault.jpg' alt='The Story of Silent Night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/PfeUz5cFvB4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

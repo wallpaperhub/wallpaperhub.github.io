@@ -1,0 +1,129 @@
+<title>Crafting Stunning CSS Linear Gradients for Modern Web Design</title>
+                    <meta name="description" content="Discover how to create beautiful linear gradients in CSS to enhance your web designs. Learn techniques to blend colors seamlessly, add depth, and elevate the aesthetic of your websites effectively. Perfect for developers looking to modernize their projects effortlessly!">
+                    <meta name="keywords" content="linear gradient css">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/linear-gradient-css">
+                            <span itemprop="name">linear gradient css</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Crafting Stunning CSS Linear Gradients for Modern Web Design</h1>
+                <p>Linear gradients in CSS provide a visually appealing way to blend colors smoothly, creating a dynamic background for web elements. By using the `linear-gradient()` function, developers can define direction and color stops, offering endless customization possibilities. This technique enhances user experience and adds modern flair to designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mastering Linear-Gradient in CSS: Tips and Tricks for Creating ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*IOU8pAZGk0FfH0hg0X4dTw.png' alt='Mastering Linear-Gradient in CSS: Tips and Tricks for Creating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rahul vyas - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*IOU8pAZGk0FfH0hg0X4dTw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Background with linear-gradient - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1q6papqTEqI/sddefault.jpg' alt='Colorful Background with linear-gradient - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1q6papqTEqI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mastering Linear-Gradient in CSS: Tips and Tricks for Creating ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*P53y1pD_8wXUu_1YJG6qTg.png' alt='Mastering Linear-Gradient in CSS: Tips and Tricks for Creating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rahul vyas - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*P53y1pD_8wXUu_1YJG6qTg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS repeating-linear-gradient function | Uxcel">
+                                <img itemprop="contentUrl url" src='https://img.uxcel.com/practices/the-repeating-linear-gradient-function-1621328237969/b-1664877664864-2x.jpg' alt='CSS repeating-linear-gradient function | Uxcel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uxcel" />
+                                </span>
+                                <a href='https://img.uxcel.com/practices/the-repeating-linear-gradient-function-1621328237969/b-1664877664864-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Linear Gradient Animation | Codeconvey">
+                                <img itemprop="contentUrl url" src='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' alt='CSS Background Linear Gradient Animation | Codeconvey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codeconvey" />
+                                </span>
+                                <a href='https://codeconvey.com/wp-content/uploads/2022/03/css-background-linear-gradient-animation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Linear Gradient Explained with Examples">
+                                <img itemprop="contentUrl url" src='https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg' alt='CSS Linear Gradient Explained with Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick - Do you really understand CSS linear-gradients?">
+                                <img itemprop="contentUrl url" src='https://patrickbrosset.com/assets/4FAmAuJE8_5wD2JphAf-bA.png' alt='Patrick - Do you really understand CSS linear-gradients?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patrick Brosset" />
+                                </span>
+                                <a href='https://patrickbrosset.com/assets/4FAmAuJE8_5wD2JphAf-bA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS linear-gradient function | Uxcel">
+                                <img itemprop="contentUrl url" src='https://img.uxcel.com/practices/the-linear-gradient-function-1621328086482/a-1664877640237-2x.jpg' alt='CSS linear-gradient function | Uxcel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uxcel" />
+                                </span>
+                                <a href='https://img.uxcel.com/practices/the-linear-gradient-function-1621328086482/a-1664877640237-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="linear-gradient() - CSS: Cascading Style Sheets | MDN">
+                                <img itemprop="contentUrl url" src='https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient/linear-gradient.png' alt='linear-gradient() - CSS: Cascading Style Sheets | MDN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDN Web Docs - Mozilla" />
+                                </span>
+                                <a href='https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient/linear-gradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS gradient background from Figma to Codepen">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D12AQFrAURMQIXP3A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1658088435432?e=1745452800&v=beta&t=B-581Ng9kaeBZyqSpuim9xT03SJ_xgdiBROA4RxjZ_Y' alt='CSS gradient background from Figma to Codepen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1210">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D12AQFrAURMQIXP3A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1658088435432?e=1745452800&v=beta&t=B-581Ng9kaeBZyqSpuim9xT03SJ_xgdiBROA4RxjZ_Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

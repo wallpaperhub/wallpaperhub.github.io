@@ -1,0 +1,129 @@
+<title>Stunning Bobcat Wallpaper: Wild Beauty for Your Screen</title>
+                    <meta name="description" content="Explore beautiful bobcat wallpaper that adds a touch of nature to your devices. Perfect for wildlife enthusiasts, our collection offers stunning images that capture the essence of bobcats in their habitat. Give your screens a wild refresh today!">
+                    <meta name="keywords" content="bobcat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bobcat-wallpaper">
+                            <span itemprop="name">bobcat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bobcat Wallpaper: Wild Beauty for Your Screen</h1>
+                <p>Transform your device's look with stunning bobcat wallpaper! Perfect for nature lovers and wildlife enthusiasts, these captivating images showcase the beauty and grace of bobcats in their natural habitat. Whether on your phone, tablet, or computer, bobcat wallpaper brings the wild indoors, elevating your screen aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Babies">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67777/bobcat-babies.jpg?h=699&q=85' alt='Bobcat Babies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="881">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67777/bobcat-babies.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Images – Browse 65,895 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/69/60/55/360_F_169605540_s19i3XW2eYlm8D2jPkjqcbBkCbktNXk5.jpg' alt='Bobcat Images – Browse 65,895 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/69/60/55/360_F_169605540_s19i3XW2eYlm8D2jPkjqcbBkCbktNXk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Bobcat: HD Wallpaper of a Wild Beauty">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/277/277056.jpg' alt='Majestic Bobcat: HD Wallpaper of a Wild Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/277/277056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1605235923175-9930bcad51df?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9iY2F0fGVufDB8fDB8fHww' alt='Bobcat Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1605235923175-9930bcad51df?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9iY2F0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcats High Resolution Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/5e/80/075e804492764f89003ceeffe25c653a.jpg' alt='Bobcats High Resolution Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/5e/80/075e804492764f89003ceeffe25c653a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bobcat Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/bobcat-pictures-zwpfy7a9wm6d6d2c.jpg' alt='100+] Bobcat Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/bobcat-pictures-zwpfy7a9wm6d6d2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Photos, Download The BEST Free Bobcat Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/10479039/pexels-photo-10479039.jpeg?cs=srgb&dl=pexels-njeromin-10479039.jpg&fm=jpg' alt='Bobcat Photos, Download The BEST Free Bobcat Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3827">
+                                <meta itemprop="height" content="5740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/10479039/pexels-photo-10479039.jpeg?cs=srgb&dl=pexels-njeromin-10479039.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Animal Images – Browse 59,825 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/37/01/42/360_F_1137014282_j9bzGFNqe5L94DH73Yw4rYKb86vSgVn2.jpg' alt='Bobcat Animal Images – Browse 59,825 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/37/01/42/360_F_1137014282_j9bzGFNqe5L94DH73Yw4rYKb86vSgVn2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animal Bobcat HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/385/thumb-1920-385429.jpg' alt='Download Animal Bobcat HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/385/thumb-1920-385429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bobcat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7b/7f/b7/7b7fb71b1b3ff0776c7e393afb0c0b6b.jpg' alt='Bobcat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7b/7f/b7/7b7fb71b1b3ff0776c7e393afb0c0b6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

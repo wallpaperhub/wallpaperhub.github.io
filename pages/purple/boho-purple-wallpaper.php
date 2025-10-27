@@ -1,0 +1,129 @@
+<title>Stylish Boho Purple Wallpaper for Your Home Decor</title>
+                    <meta name="description" content="Discover stunning boho purple wallpaper to elevate your home decor. This unique design adds vibrant flair and a cozy ambiance, perfect for any room. Shop now for a blend of style and charm that reflects your personality!">
+                    <meta name="keywords" content="boho purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/boho-purple-wallpaper">
+                            <span itemprop="name">boho purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Boho Purple Wallpaper for Your Home Decor</h1>
+                <p>Transform your space with boho purple wallpaper, blending vibrant hues with earthy textures for a chic, relaxed vibe. Perfect for bedrooms, living rooms, or creative spaces, this wallpaper adds personality and warmth. Embrace a whimsical aesthetic that celebrates individuality while creating a cozy atmosphere in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAOKHOME Floral Peel and Stick Wallpaper Purple/Pink/Green Boho Bathroom  Wall Paper Textured Contact Paper for Kitchen Bedroom Decor 17.7in x 9.8ft  - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Bq5jUCXDL.jpg' alt='HAOKHOME Floral Peel and Stick Wallpaper Purple/Pink/Green Boho Bathroom  Wall Paper Textured Contact Paper for Kitchen Bedroom Decor 17.7in x 9.8ft  - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Bq5jUCXDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper purple | Purple wallpaper phone, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/1e/a4/1a1ea41724bce6337c80e3b3109bab56.jpg' alt='Aesthetic wallpaper purple | Purple wallpaper phone, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/1e/a4/1a1ea41724bce6337c80e3b3109bab56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Boho seamless pattern with white flowers and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/boho-seamless-pattern-with-white-flowers-purple-background_197792-920.jpg' alt='Premium Vector | Boho seamless pattern with white flowers and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/boho-seamless-pattern-with-white-flowers-purple-background_197792-920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with boho rainbows on purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-boho-rainbows-purple-background_106024-400.jpg' alt='Premium Vector | Seamless pattern with boho rainbows on purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-boho-rainbows-purple-background_106024-400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/42/27/91/422791d529b59771a54b992dec822b6a.jpg' alt='iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/42/27/91/422791d529b59771a54b992dec822b6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by SOH on aesthetic wallpaper | Purple wallpaper iphone, Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/94/58/48945889b32918833138f312c4c3f59c.jpg' alt='Pin by SOH on aesthetic wallpaper | Purple wallpaper iphone, Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/94/58/48945889b32918833138f312c4c3f59c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BOKEBEVE White Purple Rose Floral Contact Paper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/71xe0kxawUL._AC_UL210_SR210,210_.jpg' alt='BOKEBEVE White Purple Rose Floral Contact Paper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/71xe0kxawUL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple - Bohemian - Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/87668f46-55ee-4177-a174-5761e5c90f0d/svn/holden-wallpaper-rolls-13331-64_300.jpg' alt='Purple - Bohemian - Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/87668f46-55ee-4177-a174-5761e5c90f0d/svn/holden-wallpaper-rolls-13331-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Boho Wallpaper in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/103526/purple-boho-wallpaper-mmufj.jpg' alt='Purple Boho Wallpaper in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/103526/purple-boho-wallpaper-mmufj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="images #Photos #Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/3c/bb/0e3cbb4693d40a0d81d747da5541201e.jpg' alt='images #Photos #Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/3c/bb/0e3cbb4693d40a0d81d747da5541201e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

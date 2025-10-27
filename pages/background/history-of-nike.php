@@ -1,0 +1,129 @@
+<title>Nike: A Brief History of the Brand</title>
+                    <meta name="description" content="Discover the fascinating history of Nike, from its humble beginnings as Blue Ribbon Sports to becoming a global icon of athletic footwear and apparel. Explore how innovative designs and marketing strategies shaped the brand we know today.">
+                    <meta name="keywords" content="history of nike">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-nike">
+                            <span itemprop="name">history of nike</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nike: A Brief History of the Brand</h1>
+                <p>Nike was founded in 1964 by Phil Knight and Bill Bowerman as Blue Ribbon Sports. The company became Nike, inspired by the Greek goddess of victory, in 1971. With its innovative products and clever marketing, including the iconic "Just Do It" slogan, Nike transformed sportswear, becoming a global leader in athletic footwear and apparel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Nike: 1964 - Present | The Sole Supplier">
+                                <img itemprop="contentUrl url" src='https://cms-cdn.thesolesupplier.co.uk/2021/11/nikehistory-tss2.jpg.webp' alt='The History of Nike: 1964 - Present | The Sole Supplier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sole Supplier" />
+                                </span>
+                                <a href='https://cms-cdn.thesolesupplier.co.uk/2021/11/nikehistory-tss2.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History">
+                                <img itemprop="contentUrl url" src='https://apple1.neocities.org/history.jpg' alt='History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="apple1.neocities.org" />
+                                </span>
+                                <a href='https://apple1.neocities.org/history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Nike: 1964 - Present | The Sole Supplier">
+                                <img itemprop="contentUrl url" src='https://cms-cdn.thesolesupplier.co.uk/2021/11/nikehistory-tss5.jpg.webp' alt='The History of Nike: 1964 - Present | The Sole Supplier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sole Supplier" />
+                                </span>
+                                <a href='https://cms-cdn.thesolesupplier.co.uk/2021/11/nikehistory-tss5.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Logo and Its History | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2020/11/nike-logo-evolution.jpg' alt='Nike Logo and Its History | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2020/11/nike-logo-evolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Nike: Blending Athletics with Timeless Fashion | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*6uQKaBDpLrY-gwOg.jpg' alt='History of Nike: Blending Athletics with Timeless Fashion | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business APAC - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*6uQKaBDpLrY-gwOg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Visual History of Nike Air">
+                                <img itemprop="contentUrl url" src='https://images.complex.com/complex/image/upload/ar_1.91,c_fill,g_auto,q_auto/v1723886241/sanity-new/tmp-name-3-1543-1686065445-5_16x9-7456545' alt='A Visual History of Nike Air'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Complex" />
+                                </span>
+                                <a href='https://images.complex.com/complex/image/upload/ar_1.91,c_fill,g_auto,q_auto/v1723886241/sanity-new/tmp-name-3-1543-1686065445-5_16x9-7456545' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Evolution of the Nike Logo - Famous Company Logos">
+                                <img itemprop="contentUrl url" src='https://companylogos.org/wp-content/uploads/2024/07/nike-logo-history.jpg' alt='The History and Evolution of the Nike Logo - Famous Company Logos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company Logos" />
+                                </span>
+                                <a href='https://companylogos.org/wp-content/uploads/2024/07/nike-logo-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nike Cortez endures, 50 years after its release : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/02/10/nike-shoes-2-_custom-9ee5e5eef54432a6c462df13be7f2ed992ea5188.jpg?s=1100&c=50&f=jpeg' alt='The Nike Cortez endures, 50 years after its release : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/02/10/nike-shoes-2-_custom-9ee5e5eef54432a6c462df13be7f2ed992ea5188.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Logo History: From a $35 Design to a Global Icon">
+                                <img itemprop="contentUrl url" src='https://indieground.net/wp-content/uploads/2023/03/indieblog-nikelogohistory-10.jpg' alt='Nike Logo History: From a $35 Design to a Global Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indieground" />
+                                </span>
+                                <a href='https://indieground.net/wp-content/uploads/2023/03/indieblog-nikelogohistory-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike, Inc. | History, Logo, Headquarters, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/50/213250-050-02322AA8/Nike-logo.jpg' alt='Nike, Inc. | History, Logo, Headquarters, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/50/213250-050-02322AA8/Nike-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

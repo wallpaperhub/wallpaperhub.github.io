@@ -1,0 +1,129 @@
+<title>Lana Del Rey iPhone Wallpapers: Ethereal Aesthetic</title>
+                    <meta name="description" content="Explore a collection of stunning Lana Del Rey iPhone wallpapers that bring her iconic style to your device. Perfect for fans, these wallpapers feature her unique aesthetics and dreamy visuals, ensuring your phone stands out. Download your favorites now and showcase your love for Lana!">
+                    <meta name="keywords" content="lana del rey iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lana-del-rey-iphone-wallpaper">
+                            <span itemprop="name">lana del rey iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lana Del Rey iPhone Wallpapers: Ethereal Aesthetic</h1>
+                <p>Discover the perfect Lana Del Rey iPhone wallpapers that capture her ethereal beauty and moody vibes. From vintage aesthetics to dreamy landscapes, each wallpaper reflects her unique style. Transform your home screen and lock screen with stunning images of Lana that inspire and elevate your device's look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana del Rey, iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/50/6c/5c/506c5c181620984cc281682fed190deb.jpg' alt='Lana del Rey, iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/50/6c/5c/506c5c181620984cc281682fed190deb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lana del reyy iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/ab/21/aaab21021ba0a95778cd5f80a71c978b.jpg' alt='lana del reyy iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/ab/21/aaab21021ba0a95778cd5f80a71c978b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana Del Rey Wallpapers (60 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/f/3/38552-1125x2436-samsung-hd-lana-del-rey-wallpaper-photo.jpg' alt='Lana Del Rey Wallpapers (60 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/f/3/38552-1125x2436-samsung-hd-lana-del-rey-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In case anyone needs a new phone wallpaper. : r/lanadelrey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/md437yq4hwt01.jpg' alt='In case anyone needs a new phone wallpaper. : r/lanadelrey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/md437yq4hwt01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whats your phone wallpaper? Myn is: : r/lanadelrey">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rpuobtxlo2nb1.jpg' alt='Whats your phone wallpaper? Myn is: : r/lanadelrey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rpuobtxlo2nb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2023/06/lana-del-rey-neil-krug_iphone-x-1125x2434.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2023/06/lana-del-rey-neil-krug_iphone-x-1125x2434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Lana Del Rey Wallpaper Iphone FULL HD 1080p For PC Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/e1/fb/00e1fb546b607500b21b0a163201b307.jpg' alt='10 Best Lana Del Rey Wallpaper Iphone FULL HD 1080p For PC Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/e1/fb/00e1fb546b607500b21b0a163201b307.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="unofficial) iPhone wallpapers — Lana Del Rey “Ultraviolence ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ed3fac0cad057517aa77d57de910dc5a/tumblr_n72e53PF0C1sr0h8to1_1280.jpg' alt='unofficial) iPhone wallpapers — Lana Del Rey “Ultraviolence ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="(unofficial) iPhone wallpapers - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ed3fac0cad057517aa77d57de910dc5a/tumblr_n72e53PF0C1sr0h8to1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone have this wallpaper in a better resolution pls im ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-anyone-have-this-wallpaper-in-a-better-resolution-pls-v0-nvikfilcxm3b1.jpg?width=1080&crop=smart&auto=webp&s=b14f11a9f8ff4eda3f40745e1bb2f916018cb010' alt='Does anyone have this wallpaper in a better resolution pls im ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-anyone-have-this-wallpaper-in-a-better-resolution-pls-v0-nvikfilcxm3b1.jpg?width=1080&crop=smart&auto=webp&s=b14f11a9f8ff4eda3f40745e1bb2f916018cb010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lana Del Rey iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12072008.jpg' alt='Lana Del Rey iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12072008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant London Wallpaper for Your iPhone: Capture the City!</title>
+                    <meta name="description" content="Explore beautiful London wallpapers for your iPhone, featuring iconic landmarks and vibrant city life. Perfect for adding a touch of London charm to your mobile experience. Choose from stunning designs that showcase the essence of this amazing city! Optimize your screen with style today.">
+                    <meta name="keywords" content="london wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/london-wallpaper-iphone">
+                            <span itemprop="name">london wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant London Wallpaper for Your iPhone: Capture the City!</h1>
+                <p>Discover stunning London wallpaper options for your iPhone to bring the charm of the city right to your screen. From the iconic skyline to the vibrant culture, our curated selection captures the essence of London. Customize your device with beautiful, high-quality images that reflect your love for this amazing city.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome London iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/19/52/6d1952b8b70052eb9c363c7b08b4efce.jpg' alt='Awesome London iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/19/52/6d1952b8b70052eb9c363c7b08b4efce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Westminster Palace iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/ee/d0/2ceed09e8b055aa27021e0f09fdbcd6f.jpg' alt='Westminster Palace iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/ee/d0/2ceed09e8b055aa27021e0f09fdbcd6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Wallpapers (94 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/2/b/292612-2160x3840-iphone-4k-london-wallpaper.jpg' alt='London Wallpapers (94 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/2/b/292612-2160x3840-iphone-4k-london-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] London Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/london-iphone-ywqrezn8bxw9zsa4.jpg' alt='100+] London Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/london-iphone-ywqrezn8bxw9zsa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ London Wallpapers | Download Free Images On Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1529655683826-aba9b3e77383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bG9uZG9ufGVufDB8fDB8fHww' alt='500+ London Wallpapers | Download Free Images On Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1529655683826-aba9b3e77383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bG9uZG9ufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Wallpapers (94 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/4/6/292551-1080x1920-phone-1080p-london-wallpaper-photo.jpg' alt='London Wallpapers (94 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/4/6/292551-1080x1920-phone-1080p-london-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London [iPhone 15 Pro: Lightroom : r/iPhoneography">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/london-iphone-15-pro-lightroom-v0-k9za5jrehv4e1.jpg?width=2853&format=pjpg&auto=webp&s=400e4f2dd2092ce54d7d39a2d81f77f55172aeb3' alt='London [iPhone 15 Pro: Lightroom : r/iPhoneography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2853">
+                                <meta itemprop="height" content="5071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/london-iphone-15-pro-lightroom-v0-k9za5jrehv4e1.jpg?width=2853&format=pjpg&auto=webp&s=400e4f2dd2092ce54d7d39a2d81f77f55172aeb3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The iconic skyline of London showcased on an Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/london-iphone-3gks93xryezxk73k.jpg' alt='Download The iconic skyline of London showcased on an Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/london-iphone-3gks93xryezxk73k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Wallpaper 4K Iphone Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/0a/45/b80a4503bb09d2864313c2b7af0496dc.jpg' alt='London Wallpaper 4K Iphone Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/0a/45/b80a4503bb09d2864313c2b7af0496dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: London Sights for your iPhone 6 Plus">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2015/10/Big-Ben-Tower-London-Lockscreen-iPhone-6-Plus-HD-Wallpaper.jpg' alt='Wallpaper Weekends: London Sights for your iPhone 6 Plus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2015/10/Big-Ben-Tower-London-Lockscreen-iPhone-6-Plus-HD-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

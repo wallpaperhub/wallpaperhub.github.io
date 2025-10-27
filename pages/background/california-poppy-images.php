@@ -1,0 +1,129 @@
+<title>Stunning California Poppy Images: Nature's Golden Beauty</title>
+                    <meta name="description" content="Explore captivating California poppy images that showcase the beauty of these vibrant flowers. Discover their stunning colors, from bright oranges to vivid yellows, and immerse yourself in California's springtime landscapes. Perfect for nature lovers and photographers alike!">
+                    <meta name="keywords" content="california poppy images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/california-poppy-images">
+                            <span itemprop="name">california poppy images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning California Poppy Images: Nature's Golden Beauty</h1>
+                <p>California poppy images capture the vibrant hues of the state's official flower. These stunning blossoms bloom in shades of orange, yellow, and red, creating breathtaking landscapes in spring. From close-ups showcasing delicate petals to vast fields dotted with their lively colors, the allure of the California poppy is undeniable, symbolizing beauty and resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Poppy Seeds">
+                                <img itemprop="contentUrl url" src='https://assets.americanmeadows.com/media/catalog/product/c/a/california_poppy1_1.jpg' alt='California Poppy Seeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Meadows" />
+                                </span>
+                                <a href='https://assets.americanmeadows.com/media/catalog/product/c/a/california_poppy1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Grow and Care for California Poppy | BBC Gardeners World ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/10/2021/08/2048x1365-Californian-poppies-SEO-GettyImages-155974596-68081c3.jpg' alt='How to Grow and Care for California Poppy | BBC Gardeners World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gardeners' World" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/10/2021/08/2048x1365-Californian-poppies-SEO-GettyImages-155974596-68081c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Poppy (Eschscholzia californica)">
+                                <img itemprop="contentUrl url" src='https://shop.stoverseed.com/cdn/shop/products/CaliforniaPoppyCloseup.jpg?v=1618197840' alt='California Poppy (Eschscholzia californica)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stover Seed" />
+                                </span>
+                                <a href='https://shop.stoverseed.com/cdn/shop/products/CaliforniaPoppyCloseup.jpg?v=1618197840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="941 California Poppy Drawing Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/watercolor-california-orange-poppies-isolated-600nw-2147749671.jpg' alt='941 California Poppy Drawing Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/watercolor-california-orange-poppies-isolated-600nw-2147749671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Poppy 'Mikado'">
+                                <img itemprop="contentUrl url" src='https://www.selectseeds.com/cdn/shop/products/240-2-zoom_800x.jpg?v=1687465015' alt='California Poppy 'Mikado''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Select Seeds" />
+                                </span>
+                                <a href='https://www.selectseeds.com/cdn/shop/products/240-2-zoom_800x.jpg?v=1687465015' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Poppy">
+                                <img itemprop="contentUrl url" src='https://www.nativeseeds.org/cdn/shop/products/California_poppy_58b0238b-4dcc-4cca-ac41-2da6a03f1c72_1445x.jpg?v=1665521961' alt='California Poppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Native-Seeds-Search" />
+                                </span>
+                                <a href='https://www.nativeseeds.org/cdn/shop/products/California_poppy_58b0238b-4dcc-4cca-ac41-2da6a03f1c72_1445x.jpg?v=1665521961' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Poppy, ca. 1905 by Elisabeth M. Hallowell - Paper Print ...">
+                                <img itemprop="contentUrl url" src='https://customprints.huntington.org/vitruvius/render/1200/492286.jpg' alt='California Poppy, ca. 1905 by Elisabeth M. Hallowell - Paper Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Huntington Store Custom Prints - Huntington Library" />
+                                </span>
+                                <a href='https://customprints.huntington.org/vitruvius/render/1200/492286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California poppy | Description & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/06/123106-050-6F1565BE/California-poppy.jpg' alt='California poppy | Description & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/06/123106-050-6F1565BE/California-poppy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poppy - California – Pinetree Garden Seeds">
+                                <img itemprop="contentUrl url" src='http://www.superseeds.com/cdn/shop/products/poppy-california-flowers-pinetree-garden-seeds-243.jpg?v=1664571120' alt='Poppy - California – Pinetree Garden Seeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinetree Garden Seeds" />
+                                </span>
+                                <a href='http://www.superseeds.com/cdn/shop/products/poppy-california-flowers-pinetree-garden-seeds-243.jpg?v=1664571120' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver Falls Seed Company - Poppy - California Red Chief">
+                                <img itemprop="contentUrl url" src='https://silverfallsseed.com/wp-content/uploads/2016/01/CA-Poppy-Red-Cheif-Klein-2020-30.jpg' alt='Silver Falls Seed Company - Poppy - California Red Chief'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Silver Falls Seed Company" />
+                                </span>
+                                <a href='https://silverfallsseed.com/wp-content/uploads/2016/01/CA-Poppy-Red-Cheif-Klein-2020-30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

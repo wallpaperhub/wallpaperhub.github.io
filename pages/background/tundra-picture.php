@@ -1,0 +1,129 @@
+<title>Your Guide to Captivating Tundra Pictures</title>
+                    <meta name="description" content="Explore stunning tundra pictures that reveal the raw beauty of this unique ecosystem. Discover vibrant summer blooms, dramatic winter landscapes, and the diverse wildlife that thrives in one of Earth's most extreme environments. Perfect for nature lovers and photography enthusiasts alike!">
+                    <meta name="keywords" content="tundra picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tundra-picture">
+                            <span itemprop="name">tundra picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Your Guide to Captivating Tundra Pictures</h1>
+                <p>Experience the breathtaking beauty of the tundra, a unique and stark landscape characterized by its cold temperatures, permafrost, and stunning wildlife. Tundra pictures capture the vibrant colors of wildflowers in summer contrasts against the endless white of winter, showcasing nature's resilience in extreme conditions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra - Lake Clark National Park & Preserve (U.S. National Park ...">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/lacl/learn/nature/images/LACL_2017_Entering-the-Neacolas-from-Big-Valley_LWilcox.JPG' alt='Tundra - Lake Clark National Park & Preserve (U.S. National Park ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3409">
+                                <meta itemprop="height" content="2342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/lacl/learn/nature/images/LACL_2017_Entering-the-Neacolas-from-Big-Valley_LWilcox.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,900+ Snowy Tundra Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515891664/photo/pools-in-the-tundra-mountains.jpg?s=612x612&w=0&k=20&c=QsrFxGtlsBDfpon7piYKQ_T_Jo9qCNDos3H4NopN-mA=' alt='22,900+ Snowy Tundra Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515891664/photo/pools-in-the-tundra-mountains.jpg?s=612x612&w=0&k=20&c=QsrFxGtlsBDfpon7piYKQ_T_Jo9qCNDos3H4NopN-mA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/Greenland_scoresby-sydkapp2_hg.jpg' alt='Tundra - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/Greenland_scoresby-sydkapp2_hg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra - Smithsonian Gardens">
+                                <img itemprop="contentUrl url" src='https://gardens.si.edu/wp-content/uploads/2023/10/iStock-512006042.jpg' alt='Tundra - Smithsonian Gardens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4288">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Gardens - Smithsonian Institution" />
+                                </span>
+                                <a href='https://gardens.si.edu/wp-content/uploads/2023/10/iStock-512006042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra Land Biome Description and Characteristics">
+                                <img itemprop="contentUrl url" src='https://www.treehugger.com/thmb/_w8wu8CQSZcN_pyw-8ADXuD2fCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tundra-climate-5be07fabc9e77c0051e2145d.jpg' alt='Tundra Land Biome Description and Characteristics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treehugger" />
+                                </span>
+                                <a href='https://www.treehugger.com/thmb/_w8wu8CQSZcN_pyw-8ADXuD2fCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tundra-climate-5be07fabc9e77c0051e2145d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra Biome - The Habitat Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/NamSPxnArU2aqxiPuSG2aE2hXb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/92292471-56a005035f9b58eba4ae83e0.jpg' alt='Tundra Biome - The Habitat Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/NamSPxnArU2aqxiPuSG2aE2hXb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/92292471-56a005035f9b58eba4ae83e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra Biome | Ask A Biologist">
+                                <img itemprop="contentUrl url" src='https://askabiologist.asu.edu/sites/default/files/resources/articles/Tundra/Alaskan%20Tundra.jpg' alt='Tundra Biome | Ask A Biologist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask A Biologist - Arizona State University" />
+                                </span>
+                                <a href='https://askabiologist.asu.edu/sites/default/files/resources/articles/Tundra/Alaskan%20Tundra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter tundra and mountains | FWS.gov">
+                                <img itemprop="contentUrl url" src='https://www.fws.gov/sites/default/files/2021-07/B-1_bD1Pxr-FsEYQhKiNvWIEpw-Mts%20in%20snow.jpeg' alt='Winter tundra and mountains | FWS.gov'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Fish and Wildlife Service" />
+                                </span>
+                                <a href='https://www.fws.gov/sites/default/files/2021-07/B-1_bD1Pxr-FsEYQhKiNvWIEpw-Mts%20in%20snow.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra Biome">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/v1638892272/EducationHub/photos/yukon-tundra.jpg' alt='Tundra Biome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/v1638892272/EducationHub/photos/yukon-tundra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life in the Tundra: The Coldest Biome on Earth">
+                                <img itemprop="contentUrl url" src='https://www.treehugger.com/thmb/qKLBh408w0hXb6V6AH5T42t5cA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tundra-58bf1be55f9b58af5cc29755.jpg' alt='Life in the Tundra: The Coldest Biome on Earth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treehugger" />
+                                </span>
+                                <a href='https://www.treehugger.com/thmb/qKLBh408w0hXb6V6AH5T42t5cA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tundra-58bf1be55f9b58af5cc29755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

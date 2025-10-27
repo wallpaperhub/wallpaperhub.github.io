@@ -1,0 +1,129 @@
+<title>Captivating Sacred Heart Images: Discover Their Meaning</title>
+                    <meta name="description" content="Explore exquisite Sacred Heart images that embody divine love and compassion. Dive into their meaning and significance in Christian faith, and find inspiration for your spiritual journey. Perfect for devotion, decoration, and reflection.">
+                    <meta name="keywords" content="sacred heart images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sacred-heart-images">
+                            <span itemprop="name">sacred heart images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Sacred Heart Images: Discover Their Meaning</h1>
+                <p>Sacred Heart images hold profound significance for many believers, representing divine love, compassion, and mercy. Often depicted as a heart encircled by thorns and flames, these images inspire devotion and reflection. They serve as a reminder of Christ's love and the call to live out that love in our daily lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Heart of Jesus Christ Catholic Sticker - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22192579/r/il/3fc593/3704847040/il_fullxfull.3704847040_ihbj.jpg' alt='Sacred Heart of Jesus Christ Catholic Sticker - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22192579/r/il/3fc593/3704847040/il_fullxfull.3704847040_ihbj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feast of the Sacred Heart - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sacred_Heart_1770.jpg/640px-Sacred_Heart_1770.jpg' alt='Feast of the Sacred Heart - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sacred_Heart_1770.jpg/640px-Sacred_Heart_1770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Heart of Jesus">
+                                <img itemprop="contentUrl url" src='https://jillelizabethart.com/cdn/shop/products/Sacred_Heart_of_Jesus_Jill_Elizabeth_Embellishment_600_800x.jpg?v=1678896693' alt='Sacred Heart of Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jill Elizabeth Art" />
+                                </span>
+                                <a href='https://jillelizabethart.com/cdn/shop/products/Sacred_Heart_of_Jesus_Jill_Elizabeth_Embellishment_600_800x.jpg?v=1678896693' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Divine Mercy and the Sacred Heart Share a Common Message| National ...">
+                                <img itemprop="contentUrl url" src='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20240404210448_60940cc39a9a96eadcd3393680e274eeb61c40c47ff09c3218b98e177dabbbdd.png' alt='Divine Mercy and the Sacred Heart Share a Common Message| National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Catholic Register" />
+                                </span>
+                                <a href='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20240404210448_60940cc39a9a96eadcd3393680e274eeb61c40c47ff09c3218b98e177dabbbdd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sacred Heart of Jesus - Today's Catholic">
+                                <img itemprop="contentUrl url" src='https://todayscatholic.org/wp-content/uploads/2012/06/sacred_heart_of_jesus.jpg' alt='The Sacred Heart of Jesus - Today's Catholic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today's Catholic" />
+                                </span>
+                                <a href='https://todayscatholic.org/wp-content/uploads/2012/06/sacred_heart_of_jesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Did Devotion to the Sacred Heart of Jesus Come From ...">
+                                <img itemprop="contentUrl url" src='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200826200812_5f46a640c2bf74d8ccd7e9f9jpeg.jpeg' alt='Where Did Devotion to the Sacred Heart of Jesus Come From ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Catholic Register" />
+                                </span>
+                                <a href='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200826200812_5f46a640c2bf74d8ccd7e9f9jpeg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Heart Of Jesus - 5” x 7” Print">
+                                <img itemprop="contentUrl url" src='https://leannebowen.com/cdn/shop/products/SacredHeart.jpg?v=1676481087&width=1445' alt='Sacred Heart Of Jesus - 5” x 7” Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leanne Bowen" />
+                                </span>
+                                <a href='https://leannebowen.com/cdn/shop/products/SacredHeart.jpg?v=1676481087&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Heart - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg' alt='Sacred Heart - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1034">
+                                <meta itemprop="height" content="1441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4f/SacredHeartBatoni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Sacred Heart of Jesus: Treasure of All Graces - St. John ...">
+                                <img itemprop="contentUrl url" src='https://sjvlaydivision.org/wp-content/uploads/2022/07/7F87FF3A-D2E7-4658-AC03-49778A22C22B_1_201_a.jpeg' alt='The Most Sacred Heart of Jesus: Treasure of All Graces - St. John ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1623">
+                                <meta itemprop="height" content="2052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. John Vianney Lay Division" />
+                                </span>
+                                <a href='https://sjvlaydivision.org/wp-content/uploads/2022/07/7F87FF3A-D2E7-4658-AC03-49778A22C22B_1_201_a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw the Sacred Heart of Jesus easy step by step‬ ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7Q8KHHmVSu8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG2B4AC0AWKAgwIABABGBMgVSh_MA8=&rs=AOn4CLB8ewp-biLter2O_nbELgISEsAPFw' alt='How to draw the Sacred Heart of Jesus easy step by step‬ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7Q8KHHmVSu8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG2B4AC0AWKAgwIABABGBMgVSh_MA8=&rs=AOn4CLB8ewp-biLter2O_nbELgISEsAPFw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

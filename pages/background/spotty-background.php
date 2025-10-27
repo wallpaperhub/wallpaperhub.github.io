@@ -1,0 +1,129 @@
+<title>Enhance Your Designs with Spotty Backgrounds</title>
+                    <meta name="description" content="Discover how spotty backgrounds can elevate your creative projects. Perfect for photography, graphic design, and branding, these unique patterns add visual interest and depth, making your work stand out. Explore tips and inspiration to effectively incorporate spotty backgrounds today!">
+                    <meta name="keywords" content="spotty background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spotty-background">
+                            <span itemprop="name">spotty background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Designs with Spotty Backgrounds</h1>
+                <p>Spotty backgrounds can add depth and character to various projects, from graphic design to photography. These unique patterns create visual interest and can be used to contrast or complement the main subject. Perfect for digital art, branding, or social media posts, spotty backgrounds capture attention and enhance creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotty Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-pattern-background-polka-dot-black-white-vector_53876-151294.jpg' alt='Spotty Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-pattern-background-polka-dot-black-white-vector_53876-151294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Confetti Wallpaper • Dots In Polka Dots • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2023/02/Brook-Gossen-Happy-Confetti-White-1.jpg' alt='Happy Confetti Wallpaper • Dots In Polka Dots • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2023/02/Brook-Gossen-Happy-Confetti-White-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotty Images – Browse 660,385 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/72/23/19/360_F_372231965_6ksRdHrLmNIsMyRdaG7hJ3zPQdVIkarh.jpg' alt='Spotty Images – Browse 660,385 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/72/23/19/360_F_372231965_6ksRdHrLmNIsMyRdaG7hJ3zPQdVIkarh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dot Background Images – Browse 547,422 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/42/58/81/360_F_242588176_E6NpLUAgb8qTGAa6Sb4s66fkLDJJ5XC9.jpg' alt='Polka Dot Background Images – Browse 547,422 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/42/58/81/360_F_242588176_E6NpLUAgb8qTGAa6Sb4s66fkLDJJ5XC9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotty Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-simple-light-polka-dot-vector-pattern-scandinavian-winter-shapes-background-pink-blue-pastel_659214-217.jpg' alt='Spotty Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-simple-light-polka-dot-vector-pattern-scandinavian-winter-shapes-background-pink-blue-pastel_659214-217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Polka-Dot, Background, Pattern. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2014/10/23/21/23/polka-dot-500355_960_720.png' alt='Download Polka-Dot, Background, Pattern. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2014/10/23/21/23/polka-dot-500355_960_720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Polka Dot Seamless Pattern Random Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1409346941/display_1500/stock-vector-background-polka-dot-seamless-pattern-random-dots-snowflakes-circles-design-for-fabric-1409346941.jpg' alt='Background Polka Dot Seamless Pattern Random Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1409346941/display_1500/stock-vector-background-polka-dot-seamless-pattern-random-dots-snowflakes-circles-design-for-fabric-1409346941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Dot Background Stock Illustrations – 155,497 Simple Dot ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/seamless-dotted-pattern-cute-colorful-polka-dot-background-abstract-texture-dots-simple-minimalistic-graphic-design-vector-144427979.jpg' alt='Simple Dot Background Stock Illustrations – 155,497 Simple Dot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/seamless-dotted-pattern-cute-colorful-polka-dot-background-abstract-texture-dots-simple-minimalistic-graphic-design-vector-144427979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="polka dot background with colorful circles 7516492 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/516/492/non_2x/polka-dot-background-with-colorful-circles-free-vector.jpg' alt='polka dot background with colorful circles 7516492 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/516/492/non_2x/polka-dot-background-with-colorful-circles-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotty Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-abstract-round-circle-pattern_1409-4172.jpg' alt='Spotty Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-abstract-round-circle-pattern_1409-4172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

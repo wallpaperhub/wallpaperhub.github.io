@@ -1,0 +1,129 @@
+<title>Why Shigaraki Itches: The Pain Behind Decay</title>
+                    <meta name="description" content="Discover the reasons behind Shigaraki's incessant itching in "My Hero Academia." Explore how his Quirk, Decay, connects to his traumatic past and emotional struggles, revealing the pain beneath his character's surface. Perfect for fans seeking a deeper understanding of Shigaraki's journey.">
+                    <meta name="keywords" content="why does shigaraki itch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-does-shigaraki-itch">
+                            <span itemprop="name">why does shigaraki itch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Shigaraki Itches: The Pain Behind Decay</h1>
+                <p>Shigaraki, a character from "My Hero Academia," experiences intense itching due to his Quirk, Decay. This power inflicts decay on his surroundings, causing physical and emotional distress. His itch symbolizes the deep-rooted pain and turmoil from his tragic past, reflecting his desire for acceptance amid chaos and destruction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: Why does Tomura Shigaraki scratch himself so ...">
+                                <img itemprop="contentUrl url" src='https://staticg.sportskeeda.com/editor/2024/02/9d1fc-17071429258157-1920.jpg' alt='My Hero Academia: Why does Tomura Shigaraki scratch himself so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://staticg.sportskeeda.com/editor/2024/02/9d1fc-17071429258157-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details">
+                                <img itemprop="contentUrl url" src='https://media.distractify.com/brand-img/X8EcM2D5c/0x0/tomura-shigaraki-scratching-1632237524633.png' alt='Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Distractify" />
+                                </span>
+                                <a href='https://media.distractify.com/brand-img/X8EcM2D5c/0x0/tomura-shigaraki-scratching-1632237524633.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: Why does Tomura Shigaraki scratch himself so ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qlYWMZU78MI/maxresdefault.jpg' alt='My Hero Academia: Why does Tomura Shigaraki scratch himself so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qlYWMZU78MI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details">
+                                <img itemprop="contentUrl url" src='https://media.distractify.com/brand-img/XOHlYeepy/0x0/tomura-shigaraki-fathers-hand-1632235505860.png' alt='Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2845">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Distractify" />
+                                </span>
+                                <a href='https://media.distractify.com/brand-img/XOHlYeepy/0x0/tomura-shigaraki-fathers-hand-1632235505860.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MHA: The Secrets of Shigaraki's Decay Quirk">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/Untitled-design-38.jpg' alt='MHA: The Secrets of Shigaraki's Decay Quirk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/Untitled-design-38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When u gotta itch so bad you feeling like shigaraki : r/mha">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/when-u-gotta-itch-so-bad-you-feeling-like-shigaraki-v0-02wlb2dxi9hd1.jpeg?auto=webp&s=7e44c9b183668196b36e32a3ba72882a6065c0d0' alt='When u gotta itch so bad you feeling like shigaraki : r/mha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/when-u-gotta-itch-so-bad-you-feeling-like-shigaraki-v0-02wlb2dxi9hd1.jpeg?auto=webp&s=7e44c9b183668196b36e32a3ba72882a6065c0d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MHA: The Secrets of Shigaraki's Decay Quirk">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/Untitled-design-36.jpg' alt='MHA: The Secrets of Shigaraki's Decay Quirk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/Untitled-design-36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details">
+                                <img itemprop="contentUrl url" src='https://media.distractify.com/brand-img/b6TO15DVD/1200x628/tomura-shigaraki-and-kurogiri-1632237731576.png' alt='Why Does Shigaraki Itch? Why Does He Have So Many Hands? Details'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Distractify" />
+                                </span>
+                                <a href='https://media.distractify.com/brand-img/b6TO15DVD/1200x628/tomura-shigaraki-and-kurogiri-1632237731576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia: Why does Tomura Shigaraki scratch himself so ...">
+                                <img itemprop="contentUrl url" src='https://staticg.sportskeeda.com/editor/2024/02/8345c-17071425961999-1920.jpg' alt='My Hero Academia: Why does Tomura Shigaraki scratch himself so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://staticg.sportskeeda.com/editor/2024/02/8345c-17071425961999-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime æsthetics — serious hc #1">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3491d500c4ec742a92af409167734024/tumblr_inline_oaz8gcyehS1s3bvic_540.png' alt='anime æsthetics — serious hc #1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="anime æsthetics - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3491d500c4ec742a92af409167734024/tumblr_inline_oaz8gcyehS1s3bvic_540.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

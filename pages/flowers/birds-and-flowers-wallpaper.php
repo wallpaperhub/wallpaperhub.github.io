@@ -1,0 +1,129 @@
+<title>Birds and Flowers Wallpaper: Nature's Charm for Your Walls</title>
+                    <meta name="description" content="Discover the beauty of birds and flowers wallpaper to elevate your home decor. Perfect for adding a nature-inspired touch, these designs will light up any room. Browse our collection for vibrant patterns that fit your style and transform your living space effortlessly.">
+                    <meta name="keywords" content="birds and flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/birds-and-flowers-wallpaper">
+                            <span itemprop="name">birds and flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Birds and Flowers Wallpaper: Nature's Charm for Your Walls</h1>
+                <p>Transform your space with stunning birds and flowers wallpaper. Ideal for any room, this enchanting design brings a touch of nature indoors. Whether you prefer vibrant colors or soft pastels, our collection complements any decor style. Create a serene escape or a lively atmosphere with these beautiful patterns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' alt='Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Sepia Bird and Flower Jungle – Amber wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/VintageSepiaBirdandFlowerJungle_AmberbyUtaNaumann_ca83d2b8-29ee-48ff-89da-d1db4349fe69_600x.jpg?v=1722604649' alt='Vintage Sepia Bird and Flower Jungle – Amber wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/VintageSepiaBirdandFlowerJungle_AmberbyUtaNaumann_ca83d2b8-29ee-48ff-89da-d1db4349fe69_600x.jpg?v=1722604649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Birds and Redouté Flowers – Black wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/colorful-birds-and-Redoute-flowers-Black_800x800_8e8f8cbb-c455-4167-ac10-4b42a4505a38.jpg?v=1722598246' alt='Colorful Birds and Redouté Flowers – Black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/colorful-birds-and-Redoute-flowers-Black_800x800_8e8f8cbb-c455-4167-ac10-4b42a4505a38.jpg?v=1722598246' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/Bird-and-Floral-Art-Wallpaper-Mural-Living-Rooms.jpg?v=1721961132&width=1445' alt='Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/Bird-and-Floral-Art-Wallpaper-Mural-Living-Rooms.jpg?v=1721961132&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Flowers And Birds Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517524501745-d45ba4383fa7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VycyUyMGFuZCUyMGJpcmRzfGVufDB8fDB8fHww' alt='1000+ Flowers And Birds Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517524501745-d45ba4383fa7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VycyUyMGFuZCUyMGJpcmRzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Birds and Redouté Flowers – White wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/colorful-birds-and-Redoute-flowers-white_800x800_bc6b4b83-ea78-41f9-8fa3-30f8512e0cd2.jpg?v=1722598249' alt='Colorful Birds and Redouté Flowers – White wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/colorful-birds-and-Redoute-flowers-white_800x800_bc6b4b83-ea78-41f9-8fa3-30f8512e0cd2.jpg?v=1722598249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_570xN.6182127339_7u39.jpg' alt='Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_570xN.6182127339_7u39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Pattern Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/painted-bird-flowers-wallpaper-mural-room.jpg?v=1649928741' alt='Vintage Bird Floral Pattern Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/painted-bird-flowers-wallpaper-mural-room.jpg?v=1649928741' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dark Birds and Flowers Wallpaper, Nature Wall Mural, Floral Wall  Art,wall Decal, Dark Green Wall Sticke - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18081845/r/il/bdd238/1563790160/il_1080xN.1563790160_jznj.jpg' alt='Vintage Dark Birds and Flowers Wallpaper, Nature Wall Mural, Floral Wall  Art,wall Decal, Dark Green Wall Sticke - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18081845/r/il/bdd238/1563790160/il_1080xN.1563790160_jznj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' alt='ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

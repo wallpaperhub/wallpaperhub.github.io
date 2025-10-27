@@ -1,0 +1,129 @@
+<title>Stunning Messi Wallpapers for World Cup Fans</title>
+                    <meta name="description" content="Discover mesmerizing Messi wallpapers that celebrate his incredible World Cup journey. Perfect for fans looking to enhance their devices with iconic moments, these wallpapers deliver excitement and inspiration every time you unlock your screen. Download your favorites today!">
+                    <meta name="keywords" content="world cup:ng7lis7daqk= messi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/world-cupng7lis7daqk-messi-wallpaper">
+                            <span itemprop="name">world cup:ng7lis7daqk= messi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Messi Wallpapers for World Cup Fans</h1>
+                <p>Your search for the ultimate Messi wallpaper is over! Celebrate World Cup moments with stunning images of Lionel Messi showcasing his extraordinary talent. These wallpapers are perfect for your phone or desktop, bringing the excitement of the tournament into your daily life. Download now and elevate your device with the magic of Messi!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi lifiting the 2022 FIFA World Cup trophy [4096x2731 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lionel-messi-lifiting-the-2022-fifa-world-cup-trophy-v0-6ib1hrf1bu6a1.jpg?auto=webp&s=ddcfcc884866f2c16d2cb14762f00a439ac4ee87' alt='Lionel Messi lifiting the 2022 FIFA World Cup trophy [4096x2731 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lionel-messi-lifiting-the-2022-fifa-world-cup-trophy-v0-6ib1hrf1bu6a1.jpg?auto=webp&s=ddcfcc884866f2c16d2cb14762f00a439ac4ee87' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-fd7a0d6j4x6a1.jpg?width=640&crop=smart&auto=webp&s=fe3c27c20f974422705704ede2143258ca1211d0' alt='Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-fd7a0d6j4x6a1.jpg?width=640&crop=smart&auto=webp&s=fe3c27c20f974422705704ede2143258ca1211d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi World Cup Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/403/lionel-messi-world-cup-wallpaper-4k-2048x1152.jpg' alt='Lionel Messi World Cup Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/403/lionel-messi-world-cup-wallpaper-4k-2048x1152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/165/430/HD-wallpaper-messi-world-cup.jpg' alt='Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/165/430/HD-wallpaper-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi World Cup Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/403/lionel-messi-wallpaper-world-cup-2022-2560x1440.jpg' alt='Lionel Messi World Cup Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/403/lionel-messi-wallpaper-world-cup-2022-2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Messi lifting the World Cup ideas | messi, world cup, lionel messi">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/09/6f/f7/096ff7fd728e880bca931a69a1417a5f.jpg' alt='25 Messi lifting the World Cup ideas | messi, world cup, lionel messi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/09/6f/f7/096ff7fd728e880bca931a69a1417a5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi World Cup Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/403/lionel-messi-argentina-wallpaper-world-cup-2022-2000x1333.jpg' alt='Lionel Messi World Cup Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/403/lionel-messi-argentina-wallpaper-world-cup-2022-2000x1333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Argentina Messi, Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/940/640/HD-wallpaper-argentina-messi-messi-world-cup.jpg' alt='Argentina Messi, Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/940/640/HD-wallpaper-argentina-messi-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-5p6gui6j4x6a1.jpg?width=640&crop=smart&auto=webp&s=9f58e3c63637f6d6bc65e512719ea254f7e49e7c' alt='Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-5p6gui6j4x6a1.jpg?width=640&crop=smart&auto=webp&s=9f58e3c63637f6d6bc65e512719ea254f7e49e7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD messi and world cup wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/171/302/HD-wallpaper-messi-kissing-the-world-cup-messi-kissing-the-world-cup-goat-footballer-golden-ball-award-thumbnail.jpg' alt='HD messi and world cup wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/171/302/HD-wallpaper-messi-kissing-the-world-cup-messi-kissing-the-world-cup-goat-footballer-golden-ball-award-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

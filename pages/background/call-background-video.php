@@ -1,0 +1,129 @@
+<title>Elevate Your Calls with Stunning Background Videos</title>
+                    <meta name="description" content="Discover the impact of call background videos on your virtual meetings. Transform ordinary calls with vibrant, personalized backgrounds that enhance engagement and reflect your style. Boost creativity and connection with the perfect backdrop for every call.">
+                    <meta name="keywords" content="call background video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/call-background-video">
+                            <span itemprop="name">call background video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Calls with Stunning Background Videos</h1>
+                <p>Call background videos add a personal touch to your virtual meetings, enhancing engagement and making calls more memorable. With various themes to choose from, they can reflect your personality or brand. From serene landscapes to animated graphics, these videos can transform a mundane call into a delightful experience, promoting creativity and connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone, Call, Horror, London">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2023/08/02/174262-851138194_tiny.jpg' alt='Phone, Call, Horror, London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2023/08/02/174262-851138194_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Call Backgrounds - Vyond Product Releases">
+                                <img itemprop="contentUrl url" src='https://product.vyond.com/wp-content/uploads/2024/06/Living-room-_-Video-conference-background-_-Vyond-1024x576.jpg' alt='Video Call Backgrounds - Vyond Product Releases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vyond Product Releases" />
+                                </span>
+                                <a href='https://product.vyond.com/wp-content/uploads/2024/06/Living-room-_-Video-conference-background-_-Vyond-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Feature - Video Background for Calls - Samsung Community">
+                                <img itemprop="contentUrl url" src='https://eu.community.samsung.com/t5/image/serverpage/image-id/311838iF928FEBD20DC2445?v=v2' alt='New Feature - Video Background for Calls - Samsung Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samsung Community" />
+                                </span>
+                                <a href='https://eu.community.samsung.com/t5/image/serverpage/image-id/311838iF928FEBD20DC2445?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video call background with place for photo Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn3.vectorstock.com/i/1000x1000/65/27/video-call-background-with-place-for-photo-vector-22836527.jpg' alt='Video call background with place for photo Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn3.vectorstock.com/i/1000x1000/65/27/video-call-background-with-place-for-photo-vector-22836527.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Call Background Design Ideas | Cape and Islands Draperies ...">
+                                <img itemprop="contentUrl url" src='https://www.cidrapes.com/inspiration-solutions/design/video-call-background-design-ideas/_jcr_content/root/responsivegrid_138101225/image.coreimg.jpeg/1604006466574/t-adobestock-349950986.jpeg' alt='Video Call Background Design Ideas | Cape and Islands Draperies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cape and Islands Draperies | Blinds, Shades, Shutters, Drapery" />
+                                </span>
+                                <a href='https://www.cidrapes.com/inspiration-solutions/design/video-call-background-design-ideas/_jcr_content/root/responsivegrid_138101225/image.coreimg.jpeg/1604006466574/t-adobestock-349950986.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+ Backgrounds for Video Meetings - Hello Backgrounds">
+                                <img itemprop="contentUrl url" src='https://d33wubrfki0l68.cloudfront.net/e2cd8a9d09968474d7672bc2420aa42ceabea6dd/f1388/assets/img/previews/hb-meeting-room-0015.jpg' alt='300+ Backgrounds for Video Meetings - Hello Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Backgrounds" />
+                                </span>
+                                <a href='https://d33wubrfki0l68.cloudfront.net/e2cd8a9d09968474d7672bc2420aa42ceabea6dd/f1388/assets/img/previews/hb-meeting-room-0015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S21 How to Set Call Background One UI 3.1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6FVSPBYYn7M/maxresdefault.jpg' alt='Samsung Galaxy S21 How to Set Call Background One UI 3.1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6FVSPBYYn7M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Background Effects to Virtually Change Backgrounds on LINE ...">
+                                <img itemprop="contentUrl url" src='https://d.line-scdn.net/stf/linecorp/en/pr/background3.png' alt='New Background Effects to Virtually Change Backgrounds on LINE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4097">
+                                <meta itemprop="height" content="1976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Line" />
+                                </span>
+                                <a href='https://d.line-scdn.net/stf/linecorp/en/pr/background3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set a Custom Background on Video Calls: Teams, Zoom & More - Pizzatime">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/62180286278929909e43b116/63782ef88f7ff74a86589ab9_Custom%20Video%20Call%20Background.jpg' alt='Set a Custom Background on Video Calls: Teams, Zoom & More - Pizzatime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pizzatime" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/62180286278929909e43b116/63782ef88f7ff74a86589ab9_Custom%20Video%20Call%20Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Curtain Call Spotlight 4K Motion Background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/784/956/original/curtain-call-spotlight-4k-motion-background-video.jpg' alt='Curtain Call Spotlight 4K Motion Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/784/956/original/curtain-call-spotlight-4k-motion-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

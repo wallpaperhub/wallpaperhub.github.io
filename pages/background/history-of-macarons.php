@@ -1,0 +1,129 @@
+<title>Discover the Sweet History of Macarons</title>
+                    <meta name="description" content="Explore the fascinating journey of macarons from their Italian roots to becoming a French delicacy. Learn about the evolution of these colorful confections and their transformation into gourmet delights enjoyed globally.">
+                    <meta name="keywords" content="history of macarons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-macarons">
+                            <span itemprop="name">history of macarons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Sweet History of Macarons</h1>
+                <p>Macarons trace their origins to Italy in the 8th century, brought to France by Catherine de Medici. Initially a simple almond meringue, they evolved into the colorful treats we adore today. In the 20th century, Pierre Desfontaines of Ladurée popularized the double-sandwich style, elevating them into a coveted dessert worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Macarons: The Journey From France to Becoming a ...">
+                                <img itemprop="contentUrl url" src='https://lemacaron-us.com/wp-content/uploads/2023/07/The-History-of-Macarons-1.webp' alt='The History of Macarons: The Journey From France to Becoming a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Le Macaron" />
+                                </span>
+                                <a href='https://lemacaron-us.com/wp-content/uploads/2023/07/The-History-of-Macarons-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaron - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Macaron.jpg/220px-Macaron.jpg' alt='Macaron - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Macaron.jpg/220px-Macaron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sweet History of the Macaron – Pastry Team USA">
+                                <img itemprop="contentUrl url" src='https://pastryteamusa.com/wp-content/uploads/2024/05/macarons.jpeg' alt='The Sweet History of the Macaron – Pastry Team USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pastry Team USA" />
+                                </span>
+                                <a href='https://pastryteamusa.com/wp-content/uploads/2024/05/macarons.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dessert We Deserve: How the French Macaron Became American ...">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/uOwUkmid-OBFbqdZMctZXPTmZ4I=/570x435/media/img/posts/2014/10/Screen_Shot_2014_10_27_at_2.55.36_PM/original.png' alt='The Dessert We Deserve: How the French Macaron Became American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/uOwUkmid-OBFbqdZMctZXPTmZ4I=/570x435/media/img/posts/2014/10/Screen_Shot_2014_10_27_at_2.55.36_PM/original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaron | Definition, Origin, Flavors, & Ingredients | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/06/237806-050-1259D5A7/Colorful-stack-of-macaron-pastries-on-a-table.jpg' alt='Macaron | Definition, Origin, Flavors, & Ingredients | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/06/237806-050-1259D5A7/Colorful-stack-of-macaron-pastries-on-a-table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macarons! The History of These Beautiful French Treats — The ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/507328ece4b0b0f8a33e85e8/t/5aea71b6352f537f2e963e94/1525314030090/The+history+of+Macarons?format=1500w' alt='Macarons! The History of These Beautiful French Treats — The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Anthrotorian" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/507328ece4b0b0f8a33e85e8/t/5aea71b6352f537f2e963e94/1525314030090/The+history+of+Macarons?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The origins of the macaron: the history of an exceptional pastry ...">
+                                <img itemprop="contentUrl url" src='https://www.fauchon.com/cdn/shop/articles/2160x675_macarons_2.jpg?v=1724339290&width=1920' alt='The origins of the macaron: the history of an exceptional pastry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FAUCHON Paris" />
+                                </span>
+                                <a href='https://www.fauchon.com/cdn/shop/articles/2160x675_macarons_2.jpg?v=1724339290&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The true origin of French macarons">
+                                <img itemprop="contentUrl url" src='https://ychef.files.bbci.co.uk/1280x720/p0c5b5c2.jpg' alt='The true origin of French macarons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ychef.files.bbci.co.uk/1280x720/p0c5b5c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macarons | The history and endurability of Macarons">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thegoodlifefrance.com/wp-content/uploads/2013/08/macarons.jpg?ssl=1' alt='Macarons | The history and endurability of Macarons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Good Life France" />
+                                </span>
+                                <a href='https://i0.wp.com/thegoodlifefrance.com/wp-content/uploads/2013/08/macarons.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the French Macaron - AESU">
+                                <img itemprop="contentUrl url" src='https://www.aesu.com/wp-content/uploads/2020/06/colorful-4742463_640.jpg' alt='History of the French Macaron - AESU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AESU" />
+                                </span>
+                                <a href='https://www.aesu.com/wp-content/uploads/2020/06/colorful-4742463_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

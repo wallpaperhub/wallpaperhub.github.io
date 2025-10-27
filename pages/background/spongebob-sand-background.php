@@ -1,0 +1,129 @@
+<title>SpongeBob SquarePants: Exploring the Sandy Depths of Bikini Bottom</title>
+                    <meta name="description" content="Dive into the colorful world of SpongeBob SquarePants! Discover the sandy landscapes of Bikini Bottom, where adventures abound and friendships flourish. Perfect for fans and newcomers alike, this exploration reveals the charm and creativity behind the beloved underwater series.">
+                    <meta name="keywords" content="spongebob sand background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-sand-background">
+                            <span itemprop="name">spongebob sand background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SpongeBob SquarePants: Exploring the Sandy Depths of Bikini Bottom</h1>
+                <p>SpongeBob's sandy background is a vibrant underwater world filled with whimsy and humor. The bright yellow sponge and his friends come alive against the soft, sandy landscapes of Bikini Bottom. The unique textures and colors create a cheerful setting, perfect for capturing moments of fun and friendship in every episode.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Sand Clear 4:3 by Spongebobblackgourd4 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0063b45e-f697-400b-857c-43ebcf6fc1ad/dg6c9ud-04dfd42c-fbcb-4489-9661-5bb329b774c1.jpg/v1/fill/w_1032,h_774,q_70,strp/spongebob_sand_clear_4_3_by_spongebobblackgourd4_dg6c9ud-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzAwNjNiNDVlLWY2OTctNDAwYi04NTdjLTQzZWJjZjZmYzFhZFwvZGc2Yzl1ZC0wNGRmZDQyYy1mYmNiLTQ0ODktOTY2MS01YmIzMjliNzc0YzEuanBnIiwid2lkdGgiOiI8PTE0NDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pq-9vA1KXDXKSxVmwqc_DBFhdGJ__5J_DiZgCeLfWm0' alt='Spongebob Sand Clear 4:3 by Spongebobblackgourd4 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0063b45e-f697-400b-857c-43ebcf6fc1ad/dg6c9ud-04dfd42c-fbcb-4489-9661-5bb329b774c1.jpg/v1/fill/w_1032,h_774,q_70,strp/spongebob_sand_clear_4_3_by_spongebobblackgourd4_dg6c9ud-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzAwNjNiNDVlLWY2OTctNDAwYi04NTdjLTQzZWJjZjZmYzFhZFwvZGc2Yzl1ZC0wNGRmZDQyYy1mYmNiLTQ0ODktOTY2MS01YmIzMjliNzc0YzEuanBnIiwid2lkdGgiOiI8PTE0NDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pq-9vA1KXDXKSxVmwqc_DBFhdGJ__5J_DiZgCeLfWm0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob sand texture by RoMyArt1234 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/912ad029-9a45-4edb-b4d0-bbfbe6dcfdce/diw1ibl-29c4e570-00ba-4468-9b2d-7fb62b0ffdb2.png/v1/fill/w_333,h_367,q_80,strp/spongebob_sand_texture_by_romyart1234_diw1ibl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzY3IiwicGF0aCI6IlwvZlwvOTEyYWQwMjktOWE0NS00ZWRiLWI0ZDAtYmJmYmU2ZGNmZGNlXC9kaXcxaWJsLTI5YzRlNTcwLTAwYmEtNDQ2OC05YjJkLTdmYjYyYjBmZmRiMi5wbmciLCJ3aWR0aCI6Ijw9MzMzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PgDxP2T_SO72-6nIrJlXLhK8clwtron5IbvBfLZmtq4' alt='SpongeBob sand texture by RoMyArt1234 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/912ad029-9a45-4edb-b4d0-bbfbe6dcfdce/diw1ibl-29c4e570-00ba-4468-9b2d-7fb62b0ffdb2.png/v1/fill/w_333,h_367,q_80,strp/spongebob_sand_texture_by_romyart1234_diw1ibl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzY3IiwicGF0aCI6IlwvZlwvOTEyYWQwMjktOWE0NS00ZWRiLWI0ZDAtYmJmYmU2ZGNmZGNlXC9kaXcxaWJsLTI5YzRlNTcwLTAwYmEtNDQ2OC05YjJkLTdmYjYyYjBmZmRiMi5wbmciLCJ3aWR0aCI6Ijw9MzMzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PgDxP2T_SO72-6nIrJlXLhK8clwtron5IbvBfLZmtq4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sand Original Spongebob Background Animation Art">
+                                <img itemprop="contentUrl url" src='https://p1.liveauctioneers.com/1011/22347/7768837_1_x.jpg?height=512&quality=70' alt='The Sand Original Spongebob Background Animation Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveAuctioneers" />
+                                </span>
+                                <a href='https://p1.liveauctioneers.com/1011/22347/7768837_1_x.jpg?height=512&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="help : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x4asswy7r02a1.jpg?width=1032&format=pjpg&auto=webp&s=712bea43f6e07784e2cfdb44f8f84571680a7094' alt='help : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x4asswy7r02a1.jpg?width=1032&format=pjpg&auto=webp&s=712bea43f6e07784e2cfdb44f8f84571680a7094' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob background by DracoAwesomeness on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dg1t1ku-0c7b40af-79ba-4100-ae9b-99a0bbf1850a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGcxdDFrdS0wYzdiNDBhZi03OWJhLTQxMDAtYWU5Yi05OWEwYmJmMTg1MGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JpcYps84vleui_BEi6jGfyaKCprUWJbSR47tNWFf-Pw' alt='SpongeBob background by DracoAwesomeness on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dg1t1ku-0c7b40af-79ba-4100-ae9b-99a0bbf1850a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGcxdDFrdS0wYzdiNDBhZi03OWJhLTQxMDAtYWU5Yi05OWEwYmJmMTg1MGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JpcYps84vleui_BEi6jGfyaKCprUWJbSR47tNWFf-Pw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sand Original SpongeBob Background Animation Art">
+                                <img itemprop="contentUrl url" src='https://dygtyjqp7pi0m.cloudfront.net/i/9138/10179353_1m.jpg?v=8CD87B4EC357F60' alt='The Sand Original SpongeBob Background Animation Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCollector.com" />
+                                </span>
+                                <a href='https://dygtyjqp7pi0m.cloudfront.net/i/9138/10179353_1m.jpg?v=8CD87B4EC357F60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun idea : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/o8o0453l1bgc1.jpeg?width=1080&crop=smart&auto=webp&s=154b10b119963b4d5a712a240edebf915749fa83' alt='Fun idea : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/o8o0453l1bgc1.jpeg?width=1080&crop=smart&auto=webp&s=154b10b119963b4d5a712a240edebf915749fa83' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="season 5 000 patties under the sea GIF by SpongeBob SquarePants ...">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/l1EteooUMKtXheLrW/giphy.gif?cid=6c09b952da2u3w1ft6bc0nmnsep5vzg2z2l2fk3syo887cv6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='season 5 000 patties under the sea GIF by SpongeBob SquarePants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/l1EteooUMKtXheLrW/giphy.gif?cid=6c09b952da2u3w1ft6bc0nmnsep5vzg2z2l2fk3syo887cv6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can anyone find me the textless sand opening background? | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/f2567a9f-ac97-4580-a620-9d1c61843bc3/scale-to-width/755' alt='Can anyone find me the textless sand opening background? | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia SpongeBobia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/f2567a9f-ac97-4580-a620-9d1c61843bc3/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nickelodeon GIF by SpongeBob SquarePants - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3o7yDpOaLa6rtQWTYc/giphy_s.gif?cid=6c09b952c5nabqfzilg37biwam1midnvqxgi15fc8lr66fqx&ep=v1_internal_gif_by_id&rid=giphy_s.gif&ct=g' alt='nickelodeon GIF by SpongeBob SquarePants - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3o7yDpOaLa6rtQWTYc/giphy_s.gif?cid=6c09b952c5nabqfzilg37biwam1midnvqxgi15fc8lr66fqx&ep=v1_internal_gif_by_id&rid=giphy_s.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

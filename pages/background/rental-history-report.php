@@ -1,0 +1,129 @@
+<title>Essential Rental History Report: Your Guide to Secure Leasing</title>
+                    <meta name="description" content="Discover the importance of a rental history report in the leasing process. Learn how it helps landlords select reliable tenants and why maintaining a good rental history is crucial for renters seeking competitive leases. Simplify your rental journey with this essential guide!">
+                    <meta name="keywords" content="rental history report">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rental-history-report">
+                            <span itemprop="name">rental history report</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Rental History Report: Your Guide to Secure Leasing</h1>
+                <p>A rental history report is a vital document detailing a tenant's past rental behavior, including payment history and lease agreements. Landlords use it to assess reliability, ensuring they choose responsible tenants. For renters, maintaining a good rental history can enhance chances of securing future leases at competitive rates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rental History Form - Fill Online, Printable, Fillable, Blank ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/101/100101020/large.png' alt='Rental History Form - Fill Online, Printable, Fillable, Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/101/100101020/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rental History Inquiry | ezLandlordForms">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/ezlf/image/upload/f_auto,q_auto,w_700/v1619052357/Live/DocumentImages/54/709517a5-417b-40ee-a413-9d0a1d8dde1b' alt='Rental History Inquiry | ezLandlordForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ezLandlordForms" />
+                                </span>
+                                <a href='https://res.cloudinary.com/ezlf/image/upload/f_auto,q_auto,w_700/v1619052357/Live/DocumentImages/54/709517a5-417b-40ee-a413-9d0a1d8dde1b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Check Rental History in 7 Steps | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/how-to-check-rental-history/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop_114032173.coreimg.jpeg/1689004613823/sm-thumb-eviction.jpeg' alt='How to Check Rental History in 7 Steps | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/how-to-check-rental-history/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop_114032173.coreimg.jpeg/1689004613823/sm-thumb-eviction.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rental History Verification Form Template | Jotform">
+                                <img itemprop="contentUrl url" src='https://cdn03.jotfor.ms/templates/screenshot/form-templates/rental-history-verification-form.png?v=1894817813&t=classic' alt='Rental History Verification Form Template | Jotform'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="3611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jotform" />
+                                </span>
+                                <a href='https://cdn03.jotfor.ms/templates/screenshot/form-templates/rental-history-verification-form.png?v=1894817813&t=classic' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Free or Low-Cost Ways to Check a Tenant's Rental History">
+                                <img itemprop="contentUrl url" src='https://wp-assets.stessa.com/wp-content/uploads/2021/07/07151252/rent-collection-recurring-payments-screen.png' alt='15 Free or Low-Cost Ways to Check a Tenant's Rental History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stessa" />
+                                </span>
+                                <a href='https://wp-assets.stessa.com/wp-content/uploads/2021/07/07151252/rent-collection-recurring-payments-screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rental History Report: Tips for Accepting Tenants for Landlords ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/637ac7502ecc7e25ee8a2510/63a139108af4713fec9ef7b1_Tenant-Screening-Report-Sample.png' alt='Rental History Report: Tips for Accepting Tenants for Landlords ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2415">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landlord Studio" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/637ac7502ecc7e25ee8a2510/63a139108af4713fec9ef7b1_Tenant-Screening-Report-Sample.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rental History Form - Fill Online, Printable, Fillable, Blank ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/98/100098828/large.png' alt='Rental History Form - Fill Online, Printable, Fillable, Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/98/100098828/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO REQUEST YOUR CORELOGIC RENTAL HISTORY REPORT">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MlxUhRuPghA/maxresdefault.jpg' alt='HOW TO REQUEST YOUR CORELOGIC RENTAL HISTORY REPORT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MlxUhRuPghA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Credit Checks for Landlords – ApplyConnect">
+                                <img itemprop="contentUrl url" src='https://www.applyconnect.com/wp-content/uploads/2021/03/Experian-tenant-screening-credit-report.png' alt='Tenant Credit Checks for Landlords – ApplyConnect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ApplyConnect" />
+                                </span>
+                                <a href='https://www.applyconnect.com/wp-content/uploads/2021/03/Experian-tenant-screening-credit-report.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

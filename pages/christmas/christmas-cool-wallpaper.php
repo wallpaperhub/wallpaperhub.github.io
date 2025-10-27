@@ -1,0 +1,129 @@
+<title>Cool Christmas Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a delightful range of Christmas cool wallpapers that brighten up your screens! Find festive designs featuring snowflakes, Santa, and holiday cheer, perfect for any device. Download now to celebrate the season in style!">
+                    <meta name="keywords" content="christmas cool wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-cool-wallpaper">
+                            <span itemprop="name">christmas cool wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Christmas Wallpapers for Your Devices</h1>
+                <p>Looking for the perfect Christmas cool wallpaper to elevate your festive spirit? Discover a vibrant collection of holiday-themed backgrounds that bring joy and warmth to your devices. From snowflakes and Christmas trees to Santa Claus and cozy scenes, our wallpapers are designed to inspire and spread cheer this season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Christmas Wallpapers ideas | christmas wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6d/64/b9/6d64b901f7c43bfe56ad2a649d9e9ee5.jpg' alt='900+ Best Christmas Wallpapers ideas | christmas wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6d/64/b9/6d64b901f7c43bfe56ad2a649d9e9ee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-christmas-6b2gxpfzkyw3qlwu.jpg' alt='100+] Cool Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-christmas-6b2gxpfzkyw3qlwu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Christmas ideas | christmas, christmas wallpaper, christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/85/b1/c8/85b1c808ff16ffa9b399871358662425.png' alt='26 Christmas ideas | christmas, christmas wallpaper, christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/85/b1/c8/85b1c808ff16ffa9b399871358662425.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Cool Christmas Scene Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-cool-christmas-scene-desktop-faihp0qqzzf7l006.jpg' alt='Purple Cool Christmas Scene Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-cool-christmas-scene-desktop-faihp0qqzzf7l006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Christmas In Style With A Cool Christmas Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/celebrate-christmas-in-style-with-a-cool-christmas-wallpaper-okdhsi9r3kpyrzsv.jpg' alt='Celebrate Christmas In Style With A Cool Christmas Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/celebrate-christmas-in-style-with-a-cool-christmas-wallpaper-okdhsi9r3kpyrzsv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Cool Christmas Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/winter-landscape-with-falling-christmas-tree-holiday-card-background_1035-25909.jpg' alt='Page 2 | Cool Christmas Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/winter-landscape-with-falling-christmas-tree-holiday-card-background_1035-25909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Christmas Eve Santa Claus Snowman Sculpture Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-christmas-eve-santa-claus-snowman-sculpture-tei8o5npl5uevoug.jpg' alt='Cool Christmas Eve Santa Claus Snowman Sculpture Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-christmas-eve-santa-claus-snowman-sculpture-tei8o5npl5uevoug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Phone Wallpapers - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/12/roberto-nickson-5PQn41LFsQk-unsplash-1440x2160.jpg' alt='Free Christmas Phone Wallpapers - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/12/roberto-nickson-5PQn41LFsQk-unsplash-1440x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9jb29sX2NocmlzdG1hc193YWxscGFwZXJfYWUxMjMwMjAtYWQwZS00NjgxLTg1YjAtZDRkMDQxZmVmOWZjXzEuanBn.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9jb29sX2NocmlzdG1hc193YWxscGFwZXJfYWUxMjMwMjAtYWQwZS00NjgxLTg1YjAtZDRkMDQxZmVmOWZjXzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cool Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/snowing-christmas-holiday-celeration-with-snowman-pine-trees_53876-144328.jpg' alt='Christmas Cool Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/snowing-christmas-holiday-celeration-with-snowman-pine-trees_53876-144328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

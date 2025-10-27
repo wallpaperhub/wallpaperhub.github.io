@@ -1,0 +1,129 @@
+<title>Exciting "It's My Birthday" Wallpapers for Celebrating Your Special Day</title>
+                    <meta name="description" content="Discover fun and vibrant "It's My Birthday" wallpapers to bring joy to your special day! Perfect for adding a festive touch to your device, these designs celebrate your birthday in style. Choose from colorful themes, fun quotes, and more, making your celebrations even more memorable!">
+                    <meta name="keywords" content="its my birthday wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/its-my-birthday-wallpaper">
+                            <span itemprop="name">its my birthday wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exciting "It's My Birthday" Wallpapers for Celebrating Your Special Day</h1>
+                <p>Celebrate your special day with vibrant "It's My Birthday" wallpapers! Elevate your screen’s look with colorful designs that encapsulate the joy and excitement of your birthday. From balloons and cakes to fun quotes, find the perfect wallpaper to express your celebratory spirit and make every notification feel festive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] It Is My Birthday Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/it-is-my-birthday-ddbscngd40euqc6h.jpg' alt='100+] It Is My Birthday Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/it-is-my-birthday-ddbscngd40euqc6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/eb/8e/88eb8ef7e95ea4ffbfb16162d0ea0c42.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/eb/8e/88eb8ef7e95ea4ffbfb16162d0ea0c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Text In Black It Is My Birthday Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gold-text-in-black-it-is-my-birthday-4di5cco4y45h3j70.jpg' alt='Gold Text In Black It Is My Birthday Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gold-text-in-black-it-is-my-birthday-4di5cco4y45h3j70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It’s my birthday!   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/c7/91/33/c791336bbdb95ef3bc2624e827685170.0000000.jpg' alt='It’s my birthday!   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/c7/91/33/c791336bbdb95ef3bc2624e827685170.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Blue and Pink Airbrush, It's My Birthday ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/04/97/07/08/1000_F_497070895_2p0l0sHZ7Ie4Hz5cz4BavM1tw6PYuepe.jpg' alt='Photo & Art Print Blue and Pink Airbrush, It's My Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/04/97/07/08/1000_F_497070895_2p0l0sHZ7Ie4Hz5cz4BavM1tw6PYuepe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Birthday Greeting On White Balloon Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/my-birthday-greeting-on-white-balloon-background-y6sb84rywb40da0l.jpg' alt='My Birthday Greeting On White Balloon Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/my-birthday-greeting-on-white-balloon-background-y6sb84rywb40da0l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's My Birthday Typography Black And White Images | Free Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iMTQyLWhlaW4tMDljLmpwZw.jpg' alt='It's My Birthday Typography Black And White Images | Free Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iMTQyLWhlaW4tMDljLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's my birthday | Happy birthday posters, Happy birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/1c/1a/84/1c1a84ed02b48a444ac156caf02af45d.jpg' alt='It's my birthday | Happy birthday posters, Happy birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/1c/1a/84/1c1a84ed02b48a444ac156caf02af45d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not yet my birthday in my time Zone thou    but it's my birthday ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3199993099740266481' alt='Not yet my birthday in my time Zone thou    but it's my birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3199993099740266481' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is My Birthday HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/violet-it-is-my-birthday-today-poster-2x57nj6awlx4xhcp.jpg' alt='It Is My Birthday HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/violet-it-is-my-birthday-today-poster-2x57nj6awlx4xhcp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

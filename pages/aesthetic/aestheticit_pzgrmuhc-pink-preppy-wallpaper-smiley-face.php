@@ -1,0 +1,129 @@
+<title>Trendy Pink Preppy Wallpaper with Smiley Faces</title>
+                    <meta name="description" content="Discover the perfect aesthetic with our pink preppy wallpaper featuring charming smiley faces. Ideal for adding a playful touch to your decor, this design combines vibrant color and fun motifs, perfect for fashion-forward individuals seeking a cheerful ambiance. Transform your space today!">
+                    <meta name="keywords" content="aesthetic:it_pzgrmuhc= pink preppy wallpaper smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticit_pzgrmuhc-pink-preppy-wallpaper-smiley-face">
+                            <span itemprop="name">aesthetic:it_pzgrmuhc= pink preppy wallpaper smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pink Preppy Wallpaper with Smiley Faces</h1>
+                <p>Aesthetic pink preppy wallpaper featuring smiley faces brings a cheerful and trendy vibe to any space. Ideal for personalizing your digital devices or home decor, this playful design combines soft pink hues with playful motifs, creating a joyful atmosphere. It's perfect for those who love a fusion of classic and modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Preppy Pink Smiley Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/minimalist-preppy-pink-smiley-face-vq7eaawtk3nlm5ac.jpg' alt='Minimalist Preppy Pink Smiley Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/minimalist-preppy-pink-smiley-face-vq7eaawtk3nlm5ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Smiley Face Pink Doodles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/preppy-smiley-face-pink-doodles-oi3522r3js79c74r.jpg' alt='Preppy Smiley Face Pink Doodles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/preppy-smiley-face-pink-doodles-oi3522r3js79c74r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 100+ Preppy Wallpaper || Pink Preppy Wallpaper || Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/76/db/9376dba0d9998092c09c8d5d9b5de1ab.jpg' alt='Best 100+ Preppy Wallpaper || Pink Preppy Wallpaper || Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/76/db/9376dba0d9998092c09c8d5d9b5de1ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink smiley face wallpaper iPhone aesthetic,pink,cute preppy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/62/5a/00625abed7c9c35b9e572f7f79fa12f2.jpg' alt='pink smiley face wallpaper iPhone aesthetic,pink,cute preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/62/5a/00625abed7c9c35b9e572f7f79fa12f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink smiles screensaver | Preppy wallpaper, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/51/18/7251186239f5830c0500394548b4b6d3.jpg' alt='pink smiles screensaver | Preppy wallpaper, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/51/18/7251186239f5830c0500394548b4b6d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink smiley face preppy wallpaper iPhone preppy wall collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/34/d1/4734d1330dff20bdb18c123050ebfbf1.jpg' alt='pink smiley face preppy wallpaper iPhone preppy wall collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/34/d1/4734d1330dff20bdb18c123050ebfbf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-smiley-face-62fp37vcovrby4ij.jpg' alt='100+] Preppy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-smiley-face-62fp37vcovrby4ij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley face aesthetic. Drippy smiley faces. Pink trippy smiley ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/1f/09/041f09ad1b359fb8bcc9c66ebcd5358d.jpg' alt='Smiley face aesthetic. Drippy smiley faces. Pink trippy smiley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/1f/09/041f09ad1b359fb8bcc9c66ebcd5358d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE PREPPY SMILEY FACE LIGHTNING LOCKSCREEN WALLPAPER in 2022 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/77/fd/4477fdecfe52f3d9f7da76e6a81f2f90.jpg' alt='CUTE PREPPY SMILEY FACE LIGHTNING LOCKSCREEN WALLPAPER in 2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/77/fd/4477fdecfe52f3d9f7da76e6a81f2f90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/15/0c/45150c53cbaa0858a9e61bb18fe46a73.jpg' alt='Preppy wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/15/0c/45150c53cbaa0858a9e61bb18fe46a73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

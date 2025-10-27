@@ -1,0 +1,129 @@
+<title>Stunning Big Sur Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a curated collection of Big Sur wallpapers that highlight the stunning landscapes and vibrant colors of California's coastline. Perfect for elevating your devices' backgrounds with nature’s beauty, these images offer a daily escape into serenity and inspiration. Download your favorites today!">
+                    <meta name="keywords" content="big sur wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/big-sur-wallpaper">
+                            <span itemprop="name">big sur wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Big Sur Wallpapers for Your Devices</h1>
+                <p>Discover the breathtaking beauty of Big Sur with stunning wallpapers that capture its majestic cliffs, serene beaches, and vibrant sunsets. Transform your device’s background with high-resolution images that showcase nature’s palette. Ideal for nature lovers wanting to bring a piece of California’s coastline into their daily lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Apple's iOS 14 and macOS Big Sur Wallpapers Right Now | Lifehacker">
+                                <img itemprop="contentUrl url" src='https://lifehacker.com/imagery/slideshow/01HF2HX30NWACET1J808GN694S/hero-image.fill.size_1248x702.v1699833745.jpg' alt='Get Apple's iOS 14 and macOS Big Sur Wallpapers Right Now | Lifehacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker" />
+                                </span>
+                                <a href='https://lifehacker.com/imagery/slideshow/01HF2HX30NWACET1J808GN694S/hero-image.fill.size_1248x702.v1699833745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Big Sur Wallpaper 4K, Gradient background, Apple">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-2880x1800-1455.jpg' alt='macOS Big Sur Wallpaper 4K, Gradient background, Apple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-2880x1800-1455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Sur — Jetson Creative">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607438060324-8K990TZ4DD1MSHMGUV1R/sunrise4.jpg?format=1000w' alt='Big Sur — Jetson Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetson Creative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607438060324-8K990TZ4DD1MSHMGUV1R/sunrise4.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Big Sur wallpapers for desktop, iPhone, and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/06/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2.jpg' alt='macOS Big Sur wallpapers for desktop, iPhone, and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/06/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Sur (California) Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/6/4/688877-3840x2160-desktop-4k-big-sur-california-background-photo.jpg' alt='Big Sur (California) Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/6/4/688877-3840x2160-desktop-4k-big-sur-california-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Big Sur Wallpaper 4K, Apple, Layers, Fluidic, Colorful">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-dark-wwdc-2020-3840x2160-1432.jpg' alt='macOS Big Sur Wallpaper 4K, Apple, Layers, Fluidic, Colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-dark-wwdc-2020-3840x2160-1432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After the reveal of MacOS Ventura today, it is safe to say ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8osedvzyra491.jpg' alt='After the reveal of MacOS Ventura today, it is safe to say ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8osedvzyra491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get the macOS Big Sur Default Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2020/12/macos-big-sur-updated-wallpapers-40.jpg' alt='Get the macOS Big Sur Default Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2020/12/macos-big-sur-updated-wallpapers-40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get your macOS 11 Big Sur wallpapers here [Wallpaper Wednesday ...">
+                                <img itemprop="contentUrl url" src='https://www.cultofmac.com/wp-content/uploads/2020/06/Apple-BigSur-Wallpaper5.jpg' alt='Get your macOS 11 Big Sur wallpapers here [Wallpaper Wednesday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cult of Mac" />
+                                </span>
+                                <a href='https://www.cultofmac.com/wp-content/uploads/2020/06/Apple-BigSur-Wallpaper5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Sur dynamic wallpaper - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/b23ddfa2-1b6c-4da9-88c6-eb49a51140bc' alt='Big Sur dynamic wallpaper - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="1327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/b23ddfa2-1b6c-4da9-88c6-eb49a51140bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

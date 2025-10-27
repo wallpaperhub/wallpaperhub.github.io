@@ -1,0 +1,129 @@
+<title>Cute Pastel Wallpapers for iPhone: Soft & Stylish</title>
+                    <meta name="description" content="Elevate your iPhone's look with our collection of cute pastel wallpapers! Featuring vibrant yet soothing designs, these wallpapers are perfect for adding a touch of personality to your device. Browse now to find the perfect match and express your style effortlessly.">
+                    <meta name="keywords" content="pastel:w8ccwuatiew= cute wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/pastelw8ccwuatiew-cute-wallpaper-iphone">
+                            <span itemprop="name">pastel:w8ccwuatiew= cute wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Pastel Wallpapers for iPhone: Soft & Stylish</h1>
+                <p>Discover a delightful selection of pastel-themed cute wallpapers for your iPhone! Transform your device with soft colors and charming designs that bring joy and personality. Perfect for those who love a subtle yet cheerful aesthetic. Explore a variety of styles to find the ideal match for your vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Watermelon Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a2/8b/ba/a28bbacd23caa4008aa556a5e25d5fd6.jpg' alt='Pastel Watermelon Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a2/8b/ba/a28bbacd23caa4008aa556a5e25d5fd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by fam.zs on Wallpapers | Pastel iphone wallpaper, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/c9/25/e6c92549810825513437bf8763b07c44.jpg' alt='Pin by fam.zs on Wallpapers | Pastel iphone wallpaper, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/c9/25/e6c92549810825513437bf8763b07c44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/25/ac/54/25ac543842a51835519094794b681ded.jpg' alt='190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3130">
+                                <meta itemprop="height" content="5555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/25/ac/54/25ac543842a51835519094794b681ded.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/01/f0/a3/01f0a37e273c4ad5097438003aa256a8.jpg' alt='190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/01/f0/a3/01f0a37e273c4ad5097438003aa256a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kawaii pastel wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/383/615/HD-wallpaper-pastel-pusheen-cat-cute-kawaii-kitty-thumbnail.jpg' alt='HD kawaii pastel wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/383/615/HD-wallpaper-pastel-pusheen-cat-cute-kawaii-kitty-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poky loving pikuhchu, cute, kawaii, love, pastel, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/916/828/HD-wallpaper-poky-loving-pikuhchu-cute-kawaii-love-pastel.jpg' alt='Poky loving pikuhchu, cute, kawaii, love, pastel, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/916/828/HD-wallpaper-poky-loving-pikuhchu-cute-kawaii-love-pastel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pastel Cute Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lemon-drink-and-clouds-pastel-cute-az54nmpsvtq3e9xw.jpg' alt='200+] Pastel Cute Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lemon-drink-and-clouds-pastel-cute-az54nmpsvtq3e9xw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/65/6a/c3/656ac38df7f5b0203c5fbc290ba239fe.jpg' alt='280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/65/6a/c3/656ac38df7f5b0203c5fbc290ba239fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c0/39/cd/c039cd5678c1deb135c750c96fafc913.jpg' alt='190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c0/39/cd/c039cd5678c1deb135c750c96fafc913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/02/76/d6/0276d6134a888fa32a406db151391dfd.jpg' alt='280 Best Pastel iPhone Wallpaper ideas | iphone wallpaper, pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/02/76/d6/0276d6134a888fa32a406db151391dfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

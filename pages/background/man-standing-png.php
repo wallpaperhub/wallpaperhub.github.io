@@ -1,0 +1,129 @@
+<title>High-Quality Man Standing PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover a wide range of man standing PNG images, perfect for enhancing your creative projects. These high-quality graphics are easy to edit and include various styles and poses, making them ideal for websites, presentations, and more. Optimize your designs effortlessly!">
+                    <meta name="keywords" content="man standing png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/man-standing-png">
+                            <span itemprop="name">man standing png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Man Standing PNG Images for Your Projects</h1>
+                <p>Looking for a high-quality PNG of a man standing? Our collection features diverse poses and styles, perfect for various projects like presentations, websites, and advertisements. Each PNG is carefully crafted for clear backgrounds and easy editing, ensuring that you can seamlessly incorporate them into your designs. Ideal for both personal and commercial use!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-a-jovial-young-man-standing-with-arms-crossed-in-png-image_10607422.png' alt='Man Standing PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-a-jovial-young-man-standing-with-arms-crossed-in-png-image_10607422.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing Business Casual PNG Images & PSDs for Download ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-business-casual-8JY54A4-600.jpg' alt='Man Standing Business Casual PNG Images & PSDs for Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-business-casual-8JY54A4-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Man Standing Transparent Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3N0YXJ0dXBpbWFnZXNfYV9wcm9mZXNzaW9uYWxfZnVsbC1ib2R5X3BvcnRyYWl0X29mX2luZGlhbl9tYW5fd184YzNmNjg4MS1iMTczLTQwYTAtYWQ5ZS1kYmVlYjQyOTJlYThfMS5wbmc.png' alt='Indian Man Standing Transparent Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3N0YXJ0dXBpbWFnZXNfYV9wcm9mZXNzaW9uYWxfZnVsbC1ib2R5X3BvcnRyYWl0X29mX2luZGlhbl9tYW5fd184YzNmNjg4MS1iMTczLTQwYTAtYWQ5ZS1kYmVlYjQyOTJlYThfMS5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing PNG Images & PSDs for Download | PixelSquid - S112185036">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-francis-mdmPGm6-600.jpg' alt='Man Standing PNG Images & PSDs for Download | PixelSquid - S112185036'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-francis-mdmPGm6-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man standing png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/476/793/png-clipart-man-in-white-long-sleeved-shirt-standing-standing-man-person-man-tshirt-image-file-formats-thumbnail.png' alt='Man standing png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/476/793/png-clipart-man-in-white-long-sleeved-shirt-standing-standing-man-person-man-tshirt-image-file-formats-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/028/123/small/handsome-young-man-in-suit-standing-with-hands-in-pockets-over-isolated-on-transparent-background-png.png' alt='Man Standing PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="134">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/028/123/small/handsome-young-man-in-suit-standing-with-hands-in-pockets-over-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/man-suit-jeans-with-arms-crossed_1187-2810.jpg?semt=ais_hybrid' alt='Man Standing Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/man-suit-jeans-with-arms-crossed_1187-2810.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Man Standing Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/smiling-young-man-presenting-something_329181-1688.jpg' alt='Page 2 | Man Standing Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/smiling-young-man-presenting-something_329181-1688.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing with Note PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-with-note-5ANnkr1-600.jpg' alt='Man Standing with Note PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/man-standing-with-note-5ANnkr1-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man standing human png (8937)">
+                                <img itemprop="contentUrl url" src='https://www.mrcutout.com/images/cutouts/man-standing-0181-watermarked.jpg' alt='Man standing human png (8937)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrCutout.com" />
+                                </span>
+                                <a href='https://www.mrcutout.com/images/cutouts/man-standing-0181-watermarked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

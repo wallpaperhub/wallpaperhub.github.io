@@ -1,0 +1,129 @@
+<title>Chic Preppy Flower Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover vibrant preppy flower wallpapers for your iPhone. Elevate your device's style with chic floral designs that radiate personality and charm. Perfect for a fresh look, our collection offers a variety of colors and patterns to suit your aesthetic. Update your wallpaper today!">
+                    <meta name="keywords" content="preppy flower wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-flower-wallpaper-iphone">
+                            <span itemprop="name">preppy flower wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Flower Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with preppy flower wallpaper that adds a touch of elegance and fun. These vibrant floral designs bring personality to your device, making it a stylish accessory. Perfect for those who love bright, cheerful aesthetics, preppy flower wallpapers can be the perfect backdrop for your apps and messages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/d7/ae/dbd7aee36293a48e20c800e73594b25b.jpg' alt='preppy wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/d7/ae/dbd7aee36293a48e20c800e73594b25b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Preppy Smiley Face Flower Phone Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26898177/r/il/6838e9/2913872549/il_570xN.2913872549_ev5u.jpg' alt='Retro Preppy Smiley Face Flower Phone Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26898177/r/il/6838e9/2913872549/il_570xN.2913872549_ev5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/d5/9c/a8d59cca145fcc39f4720da9f7177e5a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/d5/9c/a8d59cca145fcc39f4720da9f7177e5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flower aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/8b/4b/6d8b4b451a953ee203fc4fa3db8f3d1c.jpg' alt='flower aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/8b/4b/6d8b4b451a953ee203fc4fa3db8f3d1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Preppy Smiley Face Flower Phone Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26898177/r/il/cf9538/4142330510/il_fullxfull.4142330510_5jxh.jpg' alt='Retro Preppy Smiley Face Flower Phone Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26898177/r/il/cf9538/4142330510/il_fullxfull.4142330510_5jxh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flower wallpaper pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/33/db/1033dbf2811be7622dc2c89e6f4cd7cc.jpg' alt='flower wallpaper pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/33/db/1033dbf2811be7622dc2c89e6f4cd7cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Flower Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-pink-flower-pattern-qdsvr6xacmblb0ei.jpg' alt='100+] Preppy Flower Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-pink-flower-pattern-qdsvr6xacmblb0ei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic floral wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/5e/78/ae5e780eadd206c852fada3a0bcde9b1.jpg' alt='aesthetic floral wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/5e/78/ae5e780eadd206c852fada3a0bcde9b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Hawaiian Flower iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/70/a2/9e70a211b164fb6c7ae7f18b99e5e6b1.jpg' alt='Aesthetic Hawaiian Flower iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/70/a2/9e70a211b164fb6c7ae7f18b99e5e6b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Flowers Pattern Wallpapers - Floral Pattern Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/10/preppy-flowers-pattern-background-scaled.jpg' alt='Preppy Flowers Pattern Wallpapers - Floral Pattern Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/10/preppy-flowers-pattern-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

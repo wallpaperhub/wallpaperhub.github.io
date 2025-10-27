@@ -1,0 +1,129 @@
+<title>Should You Include a Photo on Your Resume? Tips & Guidelines</title>
+                    <meta name="description" content="Learn whether to include a resume picture and how it impacts your job search. Discover tips for choosing the right photo that reflects professionalism and enhances your application. Optimize your profile for potential employers with the right visual first impression.">
+                    <meta name="keywords" content="resume picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/resume-picture">
+                            <span itemprop="name">resume picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Should You Include a Photo on Your Resume? Tips & Guidelines</h1>
+                <p>Including a professional picture on your resume can enhance your job application. It helps create a memorable first impression and showcases your personality. Ensure your photo is high-quality, with good lighting and a neutral background. Dress appropriately for your industry to convey professionalism and confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Resume Templates for 2025 [Download Now]">
+                                <img itemprop="contentUrl url" src='https://d.novoresume.com/images/doc/skill-based-resume-template.png' alt='Free Resume Templates for 2025 [Download Now]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1484">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Novoresume" />
+                                </span>
+                                <a href='https://d.novoresume.com/images/doc/skill-based-resume-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6+ Student Resume Examples & Templates (2025) · Resume.io">
+                                <img itemprop="contentUrl url" src='https://s3.resume.io/uploads/examples/resume/resume_pages/222/persistent-resource/student-resume-examples.jpg' alt='6+ Student Resume Examples & Templates (2025) · Resume.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume.io" />
+                                </span>
+                                <a href='https://s3.resume.io/uploads/examples/resume/resume_pages/222/persistent-resource/student-resume-examples.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom printable professional resume templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFszEvkM50/2/0/1131w/canva-simple-professional-cv-resume-36p5VOFVDxY.jpg' alt='Free custom printable professional resume templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFszEvkM50/2/0/1131w/canva-simple-professional-cv-resume-36p5VOFVDxY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable resume templates you can customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFzSzKZZsg/2/0/1131w/canva-modern-minimalist-cv-resume-I8ItJo4ECp0.jpg' alt='Free printable resume templates you can customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFzSzKZZsg/2/0/1131w/canva-modern-minimalist-cv-resume-I8ItJo4ECp0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Student Resume - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/02/large-103-600x848.jpg' alt='Modern Student Resume - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/02/large-103-600x848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Student Resume Examples and Writing Guide for 2025">
+                                <img itemprop="contentUrl url" src='https://s3.eu-west-2.amazonaws.com/resumedone-eu-west-2-staging/ANViPOwSW-photo.png' alt='21 Student Resume Examples and Writing Guide for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume Example" />
+                                </span>
+                                <a href='https://s3.eu-west-2.amazonaws.com/resumedone-eu-west-2-staging/ANViPOwSW-photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Model Resume Template, Example, and Writing Tips for 2025">
+                                <img itemprop="contentUrl url" src='https://resumegenius.com/wp-content/uploads/Model-Resume-Sample-_Custom.png?w=1166' alt='Model Resume Template, Example, and Writing Tips for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume Genius" />
+                                </span>
+                                <a href='https://resumegenius.com/wp-content/uploads/Model-Resume-Sample-_Custom.png?w=1166' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University Student Resume Free Google Docs Template - gdoc.io">
+                                <img itemprop="contentUrl url" src='https://gdoc.io/uploads/University-Student-Resume-Template-web1.jpg' alt='University Student Resume Free Google Docs Template - gdoc.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1424">
+                                <meta itemprop="height" content="1968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gdoc.io" />
+                                </span>
+                                <a href='https://gdoc.io/uploads/University-Student-Resume-Template-web1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free resume templates to download and print | Microsoft Create">
+                                <img itemprop="contentUrl url" src='https://cdn.create.microsoft.com/catalog-assets/en-us/ce343500-4aff-4dfa-b337-57c78459c6ee/thumbnails/616/modern-nursing-resume-orange-modern-geometric-1-1-dbc3e775c6f4.webp' alt='Free resume templates to download and print | Microsoft Create'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Create" />
+                                </span>
+                                <a href='https://cdn.create.microsoft.com/catalog-assets/en-us/ce343500-4aff-4dfa-b337-57c78459c6ee/thumbnails/616/modern-nursing-resume-orange-modern-geometric-1-1-dbc3e775c6f4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should Students Add a Photo to Their Resume?">
+                                <img itemprop="contentUrl url" src='https://www.naceweb.org/images/default-source/2018/feature/should-students-add-a-photo-to-their-resume-xlarge.png' alt='Should Students Add a Photo to Their Resume?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NACE" />
+                                </span>
+                                <a href='https://www.naceweb.org/images/default-source/2018/feature/should-students-add-a-photo-to-their-resume-xlarge.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

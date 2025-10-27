@@ -1,0 +1,129 @@
+<title>"Vibrant Green Pink Wallpaper: Elevate Your Space!"</title>
+                    <meta name="description" content="Discover the perfect blend of nature and style with our green pink wallpaper. Ideal for any room, it brings life and color to your space while creating a calming and inviting atmosphere. Shop now to transform your interiors effortlessly!">
+                    <meta name="keywords" content="green pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/green-pink-wallpaper">
+                            <span itemprop="name">green pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Vibrant Green Pink Wallpaper: Elevate Your Space!"</h1>
+                <p>Transform your space with green pink wallpaper that combines nature's tranquility with pop-art vibrance. Perfect for creating a fresh, lively atmosphere in any room, this design can serve as a focal point or a subtle backdrop. Ideal for homes or offices, the soothing green paired with whimsical pink adds warmth and charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Paradise Wallpaper in Dusky Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-TropicalParadise-DustyPink_ILW50381_Thumbnail_WEB_2bb63682-1ad5-484a-8721-7bc319a4ef13.webp?crop=center&height=850&v=1705932317&width=850' alt='Tropical Paradise Wallpaper in Dusky Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-TropicalParadise-DustyPink_ILW50381_Thumbnail_WEB_2bb63682-1ad5-484a-8721-7bc319a4ef13.webp?crop=center&height=850&v=1705932317&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287520.jpg' alt='Pink Green Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-pink-green-background_23-2150287520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Pink and Green Wallpapers to Change Your Life | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/pink-and-green-blog.jpg' alt='8 Pink and Green Wallpapers to Change Your Life | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/pink-and-green-blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/38/76/f63876ea847daa64892a14806188d1fd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/38/76/f63876ea847daa64892a14806188d1fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' alt='Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical Nature Modern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sk77-pink-green-blur-gradation-cola-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-sk77-pink-green-blur-gradation-cola-41-iphone-wallpaper.jpg' alt='sk77-pink-green-blur-gradation-cola-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-sk77-pink-green-blur-gradation-cola-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and green wallpaper    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/2c/bc/8b2cbcf2fd9f38afb37ac3c7e14f3d57.jpg' alt='Pink and green wallpaper    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/2c/bc/8b2cbcf2fd9f38afb37ac3c7e14f3d57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' alt='100+] Pink And Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-green-aesthetic-zg8a4atgzon61cbw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Eh4j5m+SL._AC_UF894,1000_QL80_DpWeblab_.jpg' alt='VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Eh4j5m+SL._AC_UF894,1000_QL80_DpWeblab_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Green Wallpapers | Lust Home">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0268/0307/7299/files/LH900527MadforMatisseGreenandPinkThumbnail_WEB_350x.webp?v=1716218791' alt='Pink Green Wallpapers | Lust Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lust Home" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0268/0307/7299/files/LH900527MadforMatisseGreenandPinkThumbnail_WEB_350x.webp?v=1716218791' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

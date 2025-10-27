@@ -1,0 +1,129 @@
+<title>Stunning My Hero Academia Desktop Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of the best My Hero Academia desktop wallpapers! Perfect for fans, these vibrant images feature your favorite characters and moments. Enhance your workspace with high-quality visuals that celebrate the beloved anime series!">
+                    <meta name="keywords" content="mha desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/mha-desktop-wallpaper">
+                            <span itemprop="name">mha desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning My Hero Academia Desktop Wallpapers for Fans</h1>
+                <p>Transform your screen with stunning My Hero Academia (MHA) desktop wallpapers! Featuring iconic heroes like Deku, Bakugo, and All Might, these high-resolution images will bring your favorite anime moments to life. Perfect for fans who want to showcase their love for MHA and enjoy a vibrant, inspiring workspace every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia wallpapers for your phone and PC | ONE Esports">
+                                <img itemprop="contentUrl url" src='https://cdn.oneesports.gg/cdn-data/2024/04/My_Hero_Academia_movie_list.jpg' alt='My Hero Academia wallpapers for your phone and PC | ONE Esports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONE Esports" />
+                                </span>
+                                <a href='https://cdn.oneesports.gg/cdn-data/2024/04/My_Hero_Academia_movie_list.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] My Hero Academia Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/my-hero-academia-laptop-2ec11a9yqc4fnnrv.jpg' alt='100+] My Hero Academia Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/my-hero-academia-laptop-2ec11a9yqc4fnnrv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/e/5/77826-1920x1080-desktop-full-hd-my-hero-academia-wallpaper-image.jpg' alt='My Hero Academia Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/e/5/77826-1920x1080-desktop-full-hd-my-hero-academia-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3600+] My Hero Academia Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/859/thumb-1920-859804.png' alt='3600+] My Hero Academia Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/859/thumb-1920-859804.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mha pc backgrounds by me! (made on picsart) : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mha-pc-backgrounds-by-me-made-on-picsart-v0-m5wuw3menda81.jpg?width=810&format=pjpg&auto=webp&s=8f1a46c9987ca7ca44d62708a536aee5fecf52dd' alt='mha pc backgrounds by me! (made on picsart) : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mha-pc-backgrounds-by-me-made-on-picsart-v0-m5wuw3menda81.jpg?width=810&format=pjpg&auto=webp&s=8f1a46c9987ca7ca44d62708a536aee5fecf52dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deku & Bakugo My Hero Academia 4K Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/11/deku-bakugo-my-hero-academia-dual-action-scene-desktop-wallpaper-cover.jpg' alt='Deku & Bakugo My Hero Academia 4K Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/11/deku-bakugo-my-hero-academia-dual-action-scene-desktop-wallpaper-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Wallpaper for Pc">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/16/61/92/16619251c2999982df4b611c23b84204.jpg' alt='My Hero Academia Wallpaper for Pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/16/61/92/16619251c2999982df4b611c23b84204.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Villains Vs The Heroes by ASR-94">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/714/714324.png' alt='The Villains Vs The Heroes by ASR-94'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/714/714324.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katsuki Bakugo Wallpaper 4K, My Hero Academia">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/katsuki-bakugo-my-hero-academia-yellow-background-kacchan-2560x1080-9164.png' alt='Katsuki Bakugo Wallpaper 4K, My Hero Academia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/katsuki-bakugo-my-hero-academia-yellow-background-kacchan-2560x1080-9164.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Cute - My Hero Academia Desktop Backgrounds HD http ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1018967378516330' alt='Wallpapers Cute - My Hero Academia Desktop Backgrounds HD http ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1018967378516330' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

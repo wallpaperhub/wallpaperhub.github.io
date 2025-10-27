@@ -1,0 +1,129 @@
+<title>Charming Simple Heart Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover our collection of simple heart wallpaper, perfect for enhancing your devices with love and style. Easy to download and apply, these minimalist designs add a sweet touch to any screen. Transform your device's look today with charming heart patterns that resonate warmth and joy!">
+                    <meta name="keywords" content="simple heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/simple-heart-wallpaper">
+                            <span itemprop="name">simple heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Simple Heart Wallpaper for Your Devices</h1>
+                <p>Looking to beautify your device? Simple heart wallpaper offers a charming touch to your screens. Available in various colors and styles, these wallpapers can evoke warmth and affection, making them perfect for anyone who loves a minimalist aesthetic. Elevate your digital experience with delightful heart patterns!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Single Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-simple-single-heart-igwyoyf7t446nb5u.jpg' alt='Cute Simple Single Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-simple-single-heart-igwyoyf7t446nb5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Heart Shaped Abstract Seamless Pattern Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-simple-heart-shaped-abstract-seamless-pattern-picture-image_1431385.jpg' alt='Simple Heart Shaped Abstract Seamless Pattern Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-simple-heart-shaped-abstract-seamless-pattern-picture-image_1431385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Pink Aesthetic Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-pink-aesthetic-heart-szb4odb3nv0shm6v.jpg' alt='Simple Pink Aesthetic Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-pink-aesthetic-heart-szb4odb3nv0shm6v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXaVpAGSQ/1/0/900w/canva-simple-heart-quote-phone-wallpaper-7PELAdfcoBA.jpg' alt='Page 2 - Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXaVpAGSQ/1/0/900w/canva-simple-heart-quote-phone-wallpaper-7PELAdfcoBA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic minimalist heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' alt='Aesthetic minimalist heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/61/76/3c61769ce938caa1c499ddeeeb393b0d.jpg' alt='Pink Heart iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/61/76/3c61769ce938caa1c499ddeeeb393b0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Hearts And Circles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-simple-hearts-and-circles-0u5gihkyphmxh2pt.jpg' alt='Cute Simple Hearts And Circles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-simple-hearts-and-circles-0u5gihkyphmxh2pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 100+ simple Wallpapers, art background, beautiful, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/f8/70/9cf870afdbd71faa0616bcd0ce1a1f63.jpg' alt='Download 100+ simple Wallpapers, art background, beautiful, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/f8/70/9cf870afdbd71faa0616bcd0ce1a1f63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD heart design simple wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/160/359/HD-wallpaper-hearts-heart-flower-iphone-romantic-heart-design-simple-thumbnail.jpg' alt='HD heart design simple wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/160/359/HD-wallpaper-hearts-heart-flower-iphone-romantic-heart-design-simple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple hearts pink and red brick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/DEKO.TAP_.264-SIMPLE-hearts-pink-and-red-brick-50x280-1_c2e79330-e5b0-4676-8a4f-077a48f72123.jpg?v=1695638583' alt='Simple hearts pink and red brick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/DEKO.TAP_.264-SIMPLE-hearts-pink-and-red-brick-50x280-1_c2e79330-e5b0-4676-8a4f-077a48f72123.jpg?v=1695638583' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

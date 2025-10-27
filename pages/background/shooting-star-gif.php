@@ -1,0 +1,129 @@
+<title>Shooting Star GIFs: A Magical Touch to Your Conversations</title>
+                    <meta name="description" content="Discover mesmerizing shooting star GIFs that bring a touch of magic to your messages! Perfect for expressing wishes and inspiration, these captivating animations are ideal for sharing with friends. Explore our collection and add sparkle to your digital conversations today!">
+                    <meta name="keywords" content="shooting star gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shooting-star-gif">
+                            <span itemprop="name">shooting star gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shooting Star GIFs: A Magical Touch to Your Conversations</h1>
+                <p>A shooting star gif captures the enchanting moment of a meteor streaking across the night sky. Perfect for wishes and dreams, this captivating animation sparks wonder and inspiration. Use it to brighten up conversations, express hopes, or share a bit of magic with friends. A simple yet powerful symbol of fleeting beauty!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/eeEA_cEAEbQAAAAM/stars-star.gif' alt='Shooting Star GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/eeEA_cEAEbQAAAAM/stars-star.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Shooting Stars GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/v8xg28dV6KUAAAAM/shooting-star.gif' alt='Animated Shooting Stars GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/v8xg28dV6KUAAAAM/shooting-star.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star Sticker - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/7WGlqN1ImykgO0F610/giphy.gif?cid=6c09b952gao06yadtz761k803ydv3s4my7316ixnxt9qhsap&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='Shooting Star Sticker - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/7WGlqN1ImykgO0F610/giphy.gif?cid=6c09b952gao06yadtz761k803ydv3s4my7316ixnxt9qhsap&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Shooting Star GIF - Sky Shooting Star Space - Discover & Share ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif' alt='Sky Shooting Star GIF - Sky Shooting Star Space - Discover & Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star GIF - Shooting Star - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bd/8b/ff/bd8bffd78009eab632d34294f1b760bb.gif' alt='Shooting Star GIF - Shooting Star - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bd/8b/ff/bd8bffd78009eab632d34294f1b760bb.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/3ZUddDFsFxB6M/200w.gif?cid=6c09b952sm3dkqv102cal1yz6smpbz5kq00r6it3a94c8x7l&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Shooting Star GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/3ZUddDFsFxB6M/200w.gif?cid=6c09b952sm3dkqv102cal1yz6smpbz5kq00r6it3a94c8x7l&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space star shooting GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/CsTv.gif' alt='Space star shooting GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/CsTv.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shooting star drawing GIF by hoppip - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/xEatoxu0KLoOs/giphy.gif?cid=6c09b952r2pn7ujndypzdhgx4890tgyibx0dsxewa6l6amlw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='shooting star drawing GIF by hoppip - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/xEatoxu0KLoOs/giphy.gif?cid=6c09b952r2pn7ujndypzdhgx4890tgyibx0dsxewa6l6amlw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/DW6NVk8EJQ0AAAAM/shooting-star-the-smurfs.gif' alt='Shooting Star GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/DW6NVk8EJQ0AAAAM/shooting-star-the-smurfs.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooting Star Over Sky Erupts To Fi GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/zh1CiotVYB1DO2k8Ep/200w.gif?cid=6c09b952x6vx0dxlddlrl6o0jcztgbf9hj54tydsoacjc1e3&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Shooting Star Over Sky Erupts To Fi GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/zh1CiotVYB1DO2k8Ep/200w.gif?cid=6c09b952x6vx0dxlddlrl6o0jcztgbf9hj54tydsoacjc1e3&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

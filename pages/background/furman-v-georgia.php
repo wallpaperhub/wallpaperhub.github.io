@@ -1,0 +1,129 @@
+<title>Furman v. Georgia: Landmark Death Penalty Case Explained</title>
+                    <meta name="description" content="Explore the significance of Furman v. Georgia, a pivotal Supreme Court case that led to major changes in death penalty laws in the U.S. Understand its impact on capital punishment and the quest for fair legal standards. Perfect for quick insights on this crucial legal milestone.">
+                    <meta name="keywords" content="furman v georgia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/furman-v-georgia">
+                            <span itemprop="name">furman v georgia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Furman v. Georgia: Landmark Death Penalty Case Explained</h1>
+                <p>Furman v. Georgia, decided in 1972, was a landmark Supreme Court case that challenged the constitutionality of the death penalty in the United States. It concluded that the death penalty, as applied at the time, was arbitrary and discriminatory, leading to a de facto moratorium on capital punishment until revised laws were enacted.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death penalty in 50 years since Supreme Court's Furman v. Georgia ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZI72OEJC4I6ZA4PBT67NHGOHQ.jpg' alt='Death penalty in 50 years since Supreme Court's Furman v. Georgia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2989">
+                                <meta itemprop="height" content="1993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZI72OEJC4I6ZA4PBT67NHGOHQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furman v. Georgia: Supreme Court Case, Arguments, Impact">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/AYY30YkI__xmqGEf-FCtL4CJw70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-631905134-ae8acc8716be47c7aa34c47924eb4e32.jpg' alt='Furman v. Georgia: Supreme Court Case, Arguments, Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/AYY30YkI__xmqGEf-FCtL4CJw70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-631905134-ae8acc8716be47c7aa34c47924eb4e32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landmark: Furman v. Georgia">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.naacpldf.org/wp-content/uploads/MicrosoftTeams-image-6-2.jpg?fit=1024%2C512&ssl=1' alt='Landmark: Furman v. Georgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Defense Fund" />
+                                </span>
+                                <a href='https://i0.wp.com/www.naacpldf.org/wp-content/uploads/MicrosoftTeams-image-6-2.jpg?fit=1024%2C512&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cases in Brief | Furman v. Georgia with Carol Steiker (Part 2)">
+                                <img itemprop="contentUrl url" src='https://hls.harvard.edu/wp-content/uploads/2022/08/Cases-in-brief_Furman_thumb-v2_3x2-1500x1000.jpeg' alt='Cases in Brief | Furman v. Georgia with Carol Steiker (Part 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Law School - Harvard University" />
+                                </span>
+                                <a href='https://hls.harvard.edu/wp-content/uploads/2022/08/Cases-in-brief_Furman_thumb-v2_3x2-1500x1000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death penalty in 50 years since Supreme Court's Furman v. Georgia ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UO37GCHX4AI6ZAO3VQD2HFFINM_size-normalized.jpg' alt='Death penalty in 50 years since Supreme Court's Furman v. Georgia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UO37GCHX4AI6ZAO3VQD2HFFINM_size-normalized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the 50th Anniversary of Landmark Supreme Court Decision, Furman ...">
+                                <img itemprop="contentUrl url" src='https://www.naacpldf.org/wp-content/uploads/GettyImages-515292890.jpg' alt='On the 50th Anniversary of Landmark Supreme Court Decision, Furman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Defense Fund" />
+                                </span>
+                                <a href='https://www.naacpldf.org/wp-content/uploads/GettyImages-515292890.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furman v. Georgia - New Georgia Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/potter-stewart_001-823x1024.jpg' alt='Furman v. Georgia - New Georgia Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="823">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Georgia Encyclopedia" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/potter-stewart_001-823x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death penalty in 50 years since Supreme Court's Furman v. Georgia ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3KMZSKMFWBF47JJJIVJYSSHSVE.jpg&w=750&h=495' alt='Death penalty in 50 years since Supreme Court's Furman v. Georgia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3KMZSKMFWBF47JJJIVJYSSHSVE.jpg&w=750&h=495' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furman V. Georgia: The Death Penalty Case (Landmark Supreme Court ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/899/904/9780894904899.jpg' alt='Furman V. Georgia: The Death Penalty Case (Landmark Supreme Court ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="269">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ripped Bodice" />
+                                </span>
+                                <a href='https://images.booksense.com/images/899/904/9780894904899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furman v. Georgia | The Marshall Project">
+                                <img itemprop="contentUrl url" src='https://d1n0c1ufntxbvh.cloudfront.net/photo/afe6f942/76676/740x/' alt='Furman v. Georgia | The Marshall Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Marshall Project" />
+                                </span>
+                                <a href='https://d1n0c1ufntxbvh.cloudfront.net/photo/afe6f942/76676/740x/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

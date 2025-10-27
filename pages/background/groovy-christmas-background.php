@@ -1,0 +1,129 @@
+<title>Vibrant Groovy Christmas Backgrounds for Festive Cheer</title>
+                    <meta name="description" content="Discover vibrant groovy Christmas backgrounds that radiate holiday spirit! Perfect for social media, invitations, or decor, these colorful designs add a fun twist to your celebrations. Celebrate with retro vibes and bold patterns that will brighten up your festive season!">
+                    <meta name="keywords" content="groovy christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-christmas-background">
+                            <span itemprop="name">groovy christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Groovy Christmas Backgrounds for Festive Cheer</h1>
+                <p>Transform your holiday season with a vibrant groovy Christmas background! Whether it's for your social media, a festive card, or party decor, a groovy design brings joy and energy to your celebrations. Embrace the fun with bold colors, funky patterns, and retro vibes, creating a delightful atmosphere that will make this Christmas unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,300+ Groovy Christmas Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' alt='15,300+ Groovy Christmas Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas pattern Retro 70s Hippie Groovy ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-pattern-retro-70s-hippie-groovy-christmas-tree-background-groovy-checkered-background-winter-holidays-vintage-60s-surface-design-vector-illustration_166089-2977.jpg' alt='Premium Vector | Groovy Christmas pattern Retro 70s Hippie Groovy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-pattern-retro-70s-hippie-groovy-christmas-tree-background-groovy-checkered-background-winter-holidays-vintage-60s-surface-design-vector-illustration_166089-2977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas seamless pattern background with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-background-with-retro-70s-hippie-cute-festive-winter-hand-drawn_499817-1126.jpg' alt='Premium Vector | Groovy Christmas seamless pattern background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-background-with-retro-70s-hippie-cute-festive-winter-hand-drawn_499817-1126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas seamless pattern. Retro Christmas. Groovy png. Digital download  only. Png file">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35704647/r/il/5c70f7/5137871843/il_570xN.5137871843_2s5l.jpg' alt='Christmas seamless pattern. Retro Christmas. Groovy png. Digital download  only. Png file'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35704647/r/il/5c70f7/5137871843/il_570xN.5137871843_2s5l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Christmas clip art elements set. Retro 70s hippie ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/415/725/non_2x/groovy-christmas-clip-art-elements-set-retro-70s-hippie-collection-of-cute-festive-winter-hand-drawn-doodles-xmas-tree-disco-ball-holly-berry-mistletoe-amanita-mushroom-hearts-vector.jpg' alt='Groovy Christmas clip art elements set. Retro 70s hippie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/415/725/non_2x/groovy-christmas-clip-art-elements-set-retro-70s-hippie-collection-of-cute-festive-winter-hand-drawn-doodles-xmas-tree-disco-ball-holly-berry-mistletoe-amanita-mushroom-hearts-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus hat hippie groovy Christmas peace sign floral vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/31/38/12/1000_F_531381231_BAyonABYSsPSEsMqi98RneofiQcCUBe2.jpg' alt='Santa Claus hat hippie groovy Christmas peace sign floral vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/31/38/12/1000_F_531381231_BAyonABYSsPSEsMqi98RneofiQcCUBe2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Christmas Seamless Pattern Background Retro Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2227627353/display_1500/stock-vector-groovy-christmas-seamless-pattern-background-with-retro-s-hippie-cute-festive-winter-hand-drawn-2227627353.jpg' alt='Groovy Christmas Seamless Pattern Background Retro Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2227627353/display_1500/stock-vector-groovy-christmas-seamless-pattern-background-with-retro-s-hippie-cute-festive-winter-hand-drawn-2227627353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13533004/p/f/m/jkmfw0o0NhjY0u48U7ZqWLawuE3mVBRr5fZHK2gCeqEncHhEZvLFXyI/Medium%20Scale%20Groovy%20Christmas%20Smile%20Face%20Santa%20Claus%20Retro%20Pink%20Truck%20Trees%20Daisy%20Flowers%20.jpg' alt='Groovy Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13533004/p/f/m/jkmfw0o0NhjY0u48U7ZqWLawuE3mVBRr5fZHK2gCeqEncHhEZvLFXyI/Medium%20Scale%20Groovy%20Christmas%20Smile%20Face%20Santa%20Claus%20Retro%20Pink%20Truck%20Trees%20Daisy%20Flowers%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmaswallpaper #groovy #funky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' alt='christmaswallpaper #groovy #funky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Groovy Christmas Tree Decorated Flowers Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2200745667/display_1500/stock-vector-hippie-groovy-christmas-tree-decorated-with-flowers-peace-sign-vector-seamless-pattern-retro-s-2200745667.jpg' alt='Hippie Groovy Christmas Tree Decorated Flowers Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2200745667/display_1500/stock-vector-hippie-groovy-christmas-tree-decorated-with-flowers-peace-sign-vector-seamless-pattern-retro-s-2200745667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

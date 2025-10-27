@@ -1,0 +1,129 @@
+<title>Channing Tatum: Hollywood's Heartthrob and Dance Sensation</title>
+                    <meta name="description" content="Explore the world of Channing Tatum, the iconic actor celebrated for his captivating performances in hit films like "Magic Mike" and "Step Up." Discover his journey from a dancer to a leading man and his impact on Hollywood. Uncover the charm and talent that make him a beloved figure in entertainment.">
+                    <meta name="keywords" content="channing tatum">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/channing-tatum">
+                            <span itemprop="name">channing tatum</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Channing Tatum: Hollywood's Heartthrob and Dance Sensation</h1>
+                <p>Channing Tatum is a versatile American actor known for his charm and impressive dance moves. Rising to fame with films like "Step Up" and "Magic Mike," he showcases both his physical prowess and acting talent. His charismatic presence has made an impact in Hollywood, earning him a loyal fanbase and critical acclaim.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Channing_Tatum_by_Gage_Skidmore_3.jpg/1200px-Channing_Tatum_by_Gage_Skidmore_3.jpg' alt='Channing Tatum - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Channing_Tatum_by_Gage_Skidmore_3.jpg/1200px-Channing_Tatum_by_Gage_Skidmore_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BN2IxZGE0ZjItMmM5MC00ODg0LWIyMDYtYzhjZGRjYjdlNWQ5XkEyXkFqcGc@._V1_.jpg' alt='Channing Tatum - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1267">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BN2IxZGE0ZjItMmM5MC00ODg0LWIyMDYtYzhjZGRjYjdlNWQ5XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum | Biography, Movies, Magic Mike, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/76/216476-050-09D10F64/American-actor-Channing-Tatum-2017.jpg' alt='Channing Tatum | Biography, Movies, Magic Mike, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/76/216476-050-09D10F64/American-actor-Channing-Tatum-2017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Channing_Tatum_%2819276524319%29.jpg/190px-Channing_Tatum_%2819276524319%29.jpg' alt='Channing Tatum - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Channing_Tatum_%2819276524319%29.jpg/190px-Channing_Tatum_%2819276524319%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum and Model Inka Williams Confirm Romance at Oscars Party">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/202521/rs_634x1024-250301093512-634-channing-tatum-inka-williams-caa-pre-oscars-party-cjh-022825.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top' alt='Channing Tatum and Model Inka Williams Confirm Romance at Oscars Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/202521/rs_634x1024-250301093512-634-channing-tatum-inka-williams-caa-pre-oscars-party-cjh-022825.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum goes public with new girlfriend Inka Williams four ...">
+                                <img itemprop="contentUrl url" src='https://www.hola.com/us/horizon/landscape/00265ebfe359-london-england-channing-tatum-attends-the-european-premiere-of-blink-twice-at-od.jpg?im=Resize=(640),type=downsize' alt='Channing Tatum goes public with new girlfriend Inka Williams four ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HOLA" />
+                                </span>
+                                <a href='https://www.hola.com/us/horizon/landscape/00265ebfe359-london-england-channing-tatum-attends-the-european-premiere-of-blink-twice-at-od.jpg?im=Resize=(640),type=downsize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum, Inka Williams Step Out After Zoë Kravitz Split: Photos">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/DOu9NTOT9y8hd2o6Whib6MUITLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(941x517:943x519)/Channing-Tatum-Inka-Williams-030125-02-db3c9e4dfc314ff3903be75a93c58cb0.jpg' alt='Channing Tatum, Inka Williams Step Out After Zoë Kravitz Split: Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/DOu9NTOT9y8hd2o6Whib6MUITLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(941x517:943x519)/Channing-Tatum-Inka-Williams-030125-02-db3c9e4dfc314ff3903be75a93c58cb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum Spotted With Model Inka Williams After Zoe Kravitz ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2025/03/Channing-Tatum-Spotted-With-Model-After-Zoe-Split-01-2025.jpg?w=1000&quality=55&strip=all' alt='Channing Tatum Spotted With Model Inka Williams After Zoe Kravitz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2025/03/Channing-Tatum-Spotted-With-Model-After-Zoe-Split-01-2025.jpg?w=1000&quality=55&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNzdhYTlmNjMtZTQzZS00NzFjLWIwMDUtZjE5ZjZmM2M0ODJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Channing Tatum - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNzdhYTlmNjMtZTQzZS00NzFjLWIwMDUtZjE5ZjZmM2M0ODJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channing Tatum — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w500/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg' alt='Channing Tatum — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w500/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

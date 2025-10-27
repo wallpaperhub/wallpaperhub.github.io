@@ -1,0 +1,129 @@
+<title>Cool Scene Kid PFPs for a Unique Online Look</title>
+                    <meta name="description" content="Explore trendy scene kid profile pictures (pfps) that showcase individuality and creativity. Discover vibrant hairstyles, edgy styles, and the essence of scene culture all in one place. Perfect for making a bold statement online!">
+                    <meta name="keywords" content="scene kid pfp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scene-kid-pfp">
+                            <span itemprop="name">scene kid pfp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Scene Kid PFPs for a Unique Online Look</h1>
+                <p>Scene kid profile pictures (pfp) capture the essence of the vibrant and edgy scene subculture. With their colorful hair, bold makeup, and a mix of punk, emo, and pop influences, these images express individuality and creativity. Whether you're looking for inspiration or want to switch up your online aesthetic, scene kid pfps are a perfect choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="myfirstshuffle #scenecore #scene #scenemo #scenekid #2010s #neon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/68/98/91689815773c0352e9c5d051d9244669.jpg' alt='myfirstshuffle #scenecore #scene #scenemo #scenekid #2010s #neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/68/98/91689815773c0352e9c5d051d9244669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="93 Scene kid ideas | scene kids, emo art, scene art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/18/1e/5a/181e5a89445a7f1f147cef68b20b5deb.jpg' alt='93 Scene kid ideas | scene kids, emo art, scene art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/18/1e/5a/181e5a89445a7f1f147cef68b20b5deb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 SCENECORE!!!!! ideas | scene kids, scene emo, scene core">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fe/88/79/fe8879f10dbe6d7084bafe7cf9f77859.jpg' alt='100 SCENECORE!!!!! ideas | scene kids, scene emo, scene core'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fe/88/79/fe8879f10dbe6d7084bafe7cf9f77859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips on becoming scene? : r/scene">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tips-on-becoming-scene-v0-cfooi2retlnc1.jpeg?auto=webp&s=843f11a3d32385128a21e391011e012f7e039e9e' alt='Tips on becoming scene? : r/scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tips-on-becoming-scene-v0-cfooi2retlnc1.jpeg?auto=webp&s=843f11a3d32385128a21e391011e012f7e039e9e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scene/Emo Kid Maker | Picrew - The Character Maker & Creator">
+                                <img itemprop="contentUrl url" src='https://cdn.picrew.me/app/image_maker/1359170/icon_6HB8SLbHSXXJNh73.png' alt='Scene/Emo Kid Maker | Picrew - The Character Maker & Creator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picrew" />
+                                </span>
+                                <a href='https://cdn.picrew.me/app/image_maker/1359170/icon_6HB8SLbHSXXJNh73.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scene girl oc doing her hair">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/41/85/5f41852ebf4e205bae7149d9528a5895.jpg' alt='Scene girl oc doing her hair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/41/85/5f41852ebf4e205bae7149d9528a5895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="don't know what to draw then draw scene kid">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/08d5326877c289784c5538b4e9529d87/33d22fc68afbf013-8e/s1280x1920/57e11a1db5985be3de0c57e24521f163d3284960.jpg' alt='don't know what to draw then draw scene kid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xxbrodydaggersxx" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/08d5326877c289784c5538b4e9529d87/33d22fc68afbf013-8e/s1280x1920/57e11a1db5985be3de0c57e24521f163d3284960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2000s : r/scene">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ejz8q9gb2n1c1.jpg' alt='2000s : r/scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ejz8q9gb2n1c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="emo/scene pfps | Gallery posted by lilz | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7365913914145636870&index=0&sign=cc6f0b04afb68d665f6d1291d796c7c6' alt='emo/scene pfps | Gallery posted by lilz | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7365913914145636870&index=0&sign=cc6f0b04afb68d665f6d1291d796c7c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""GLITCH'D GIR " Sticker for Sale by coffeebeepress">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2522936663.1829/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"GLITCH'D GIR " Sticker for Sale by coffeebeepress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2522936663.1829/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

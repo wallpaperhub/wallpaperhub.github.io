@@ -1,0 +1,129 @@
+<title>Stunning Anime Winter Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the perfect anime winter wallpapers to refresh your device this season! Our curated collection features captivating designs of snowy landscapes and favorite characters, ideal for adding a wintery touch. Explore and download your favorite wallpapers now for a cozy vibe!">
+                    <meta name="keywords" content="anime winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/anime-winter-wallpaper">
+                            <span itemprop="name">anime winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Winter Wallpapers for Your Device</h1>
+                <p>Transform your device's look this season with stunning anime winter wallpapers. Embrace the beauty of snow-capped landscapes, cozy atmospheres, and beloved characters, perfect for adding a touch of winter magic. Whether you're a fan of adventure, romance, or fantasy, our collection has something to elevate your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Winter Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/natural-winter-illustration_23-2151888197.jpg' alt='Anime Winter Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/natural-winter-illustration_23-2151888197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Expanse Building In Winter Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-anime-expanse-building-in-winter-phone-fmh2u4a7k379bjky.jpg' alt='Aesthetic Anime Expanse Building In Winter Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-anime-expanse-building-in-winter-phone-fmh2u4a7k379bjky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime City Winter Night Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-city-winter-night-o0ks2rwoljkmcu9n.jpg' alt='Anime City Winter Night Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-city-winter-night-o0ks2rwoljkmcu9n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Anime Apartment HD Wallpaper by mocha">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/100/1003872.png' alt='Winter Anime Apartment HD Wallpaper by mocha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/100/1003872.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Lantern Walk - HD Anime Wallpaper by Surendra Rajawat">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/112/1122695.jpg' alt='Winter Lantern Walk - HD Anime Wallpaper by Surendra Rajawat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/112/1122695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime landscape winter mountains sunset artwork lake Gaming Mat ...">
+                                <img itemprop="contentUrl url" src='https://rare-gallery.com/uploads/posts/4505037-anime-artwork-winter-mountains-landscape-lake-sunset-christmas.png' alt='Anime landscape winter mountains sunset artwork lake Gaming Mat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://rare-gallery.com/uploads/posts/4505037-anime-artwork-winter-mountains-landscape-lake-sunset-christmas.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter-anime-landscape -wallpapers by Vhiksiix on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3160070-4fb9-40e8-821d-5c0592fd114e/dfvqykx-9717062d-d59e-46bb-af0d-3993dcd85685.jpg/v1/fill/w_1920,h_1081,q_75,strp/winter_anime_landscape__wallpapers_by_vhiksiix_dfvqykx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzMTYwMDcwLTRmYjktNDBlOC04MjFkLTVjMDU5MmZkMTE0ZVwvZGZ2cXlreC05NzE3MDYyZC1kNTllLTQ2YmItYWYwZC0zOTkzZGNkODU2ODUuanBnIiwiaGVpZ2h0IjoiPD0xMDgxIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZDMxNjAwNzAtNGZiOS00MGU4LTgyMWQtNWMwNTkyZmQxMTRlXC92aGlrc2lpeC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.7BDzMkoP-NcdliizacJpyIMwBYHEKSmaPVknNRM4CB0' alt='Winter-anime-landscape -wallpapers by Vhiksiix on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3160070-4fb9-40e8-821d-5c0592fd114e/dfvqykx-9717062d-d59e-46bb-af0d-3993dcd85685.jpg/v1/fill/w_1920,h_1081,q_75,strp/winter_anime_landscape__wallpapers_by_vhiksiix_dfvqykx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzMTYwMDcwLTRmYjktNDBlOC04MjFkLTVjMDU5MmZkMTE0ZVwvZGZ2cXlreC05NzE3MDYyZC1kNTllLTQ2YmItYWYwZC0zOTkzZGNkODU2ODUuanBnIiwiaGVpZ2h0IjoiPD0xMDgxIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZDMxNjAwNzAtNGZiOS00MGU4LTgyMWQtNWMwNTkyZmQxMTRlXC92aGlrc2lpeC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.7BDzMkoP-NcdliizacJpyIMwBYHEKSmaPVknNRM4CB0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9f/7f/15/9f7f157f1efd832ae0ca249e730c6f88.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9f/7f/15/9f7f157f1efd832ae0ca249e730c6f88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Anime Winter Scenery Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/904527001191515939/C2B597A716655203D67B8A6BB42D168DE5CFD350/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Anime Winter Scenery Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/904527001191515939/C2B597A716655203D67B8A6BB42D168DE5CFD350/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, Winter, Night, Snow, Lantern, Bamboo, Torii, Shrine, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/541/901/HD-wallpaper-anime-winter-night-snow-lantern-bamboo-torii-shrine.jpg' alt='Anime, Winter, Night, Snow, Lantern, Bamboo, Torii, Shrine, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/541/901/HD-wallpaper-anime-winter-night-snow-lantern-bamboo-torii-shrine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

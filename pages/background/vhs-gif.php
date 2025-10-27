@@ -1,0 +1,129 @@
+<title>Capture Nostalgia: Create & Share VHS GIFs</title>
+                    <meta name="description" content="Explore the world of VHS GIFs, where retro nostalgia meets modern creativity. Learn how to create these charming animated images and add a unique flair to your social media. Perfect for digital storytelling and expressing your vintage style online!">
+                    <meta name="keywords" content="vhs gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vhs-gif">
+                            <span itemprop="name">vhs gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capture Nostalgia: Create & Share VHS GIFs</h1>
+                <p>VHS GIFs are a nostalgic way to bring retro vibes to your digital content. These animated images, mimicking the look of old videotapes, evoke a sense of warmth and sentimentality. Perfect for adding personality to social media posts or enhancing websites, VHS GIFs capture the charm and quirks of yesteryears in a modern format.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/Layx.gif' alt='Vhs GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/Layx.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs Cassettes GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/dsQtBSAeCsHsACriCs/200w.gif?cid=6c09b95256e119lo86191lez4uozxzkppyh1t0iv13w2c0my&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Vhs Cassettes GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/dsQtBSAeCsHsACriCs/200w.gif?cid=6c09b95256e119lo86191lez4uozxzkppyh1t0iv13w2c0my&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="art vhs GIF by hoppip - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/boNzmsxVblJWo/giphy.gif?cid=6c09b952my41kq5d9i8ie8hl36wxy6g8bgfp6pye0m164h8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='art vhs GIF by hoppip - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/boNzmsxVblJWo/giphy.gif?cid=6c09b952my41kq5d9i8ie8hl36wxy6g8bgfp6pye0m164h8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vhs vcr GIF by rotomangler - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3o7qDKJ7STu0fFypsQ/giphy.gif?cid=6c09b952f0zth5lo8taxfglsd82b3tdaon0t6i2hnig7vtv1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='vhs vcr GIF by rotomangler - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3o7qDKJ7STu0fFypsQ/giphy.gif?cid=6c09b952f0zth5lo8taxfglsd82b3tdaon0t6i2hnig7vtv1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Vhs GIF by Liaizon Wakest - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/j1xlf2ImN0QoFDyb8t/giphy.gif?cid=6c09b952d1wrf2mfftv6tf8vi70yf1qm6i0eo8xyew1q0gsw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Glitch Vhs GIF by Liaizon Wakest - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/j1xlf2ImN0QoFDyb8t/giphy.gif?cid=6c09b952d1wrf2mfftv6tf8vi70yf1qm6i0eo8xyew1q0gsw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs Tracking GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/yugSj8GSC0wXm/200w.gif?cid=6c09b952p5ahyaf5513a6w8c0nwi6045kecudd4nicgungq6&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Vhs Tracking GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/yugSj8GSC0wXm/200w.gif?cid=6c09b952p5ahyaf5513a6w8c0nwi6045kecudd4nicgungq6&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs Aesthetics GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/dIc1lxJvJdKoM/giphy.gif?cid=6c09b952u1krd48g6aunaf9zen9ycyvxh80hmpouk3rusvwk&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Vhs Aesthetics GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/dIc1lxJvJdKoM/giphy.gif?cid=6c09b952u1krd48g6aunaf9zen9ycyvxh80hmpouk3rusvwk&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs Static GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/c6WtuUSC68V7Sc5eAd/200w.gif?cid=6c09b952icy1z0p3qvt7h3wc8nvyhnuavcfj3qtytdjs9tfs&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Vhs Static GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/c6WtuUSC68V7Sc5eAd/200w.gif?cid=6c09b952icy1z0p3qvt7h3wc8nvyhnuavcfj3qtytdjs9tfs&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Vhs GIF by Mailchimp - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/v4hXkjXZAuMW5VfReA/giphy.gif?cid=6c09b952rjpm2ry90u99hfm29eln3jjuszs89bsdjhmt15g2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Glitch Vhs GIF by Mailchimp - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/v4hXkjXZAuMW5VfReA/giphy.gif?cid=6c09b952rjpm2ry90u99hfm29eln3jjuszs89bsdjhmt15g2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/EgYU.gif' alt='Vhs GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/EgYU.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

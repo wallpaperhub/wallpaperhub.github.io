@@ -1,0 +1,129 @@
+<title>Stunning Lighthouse Pictures: A Visual Journey</title>
+                    <meta name="description" content="Explore a captivating collection of lighthouse pictures that showcase their architectural beauty and natural surroundings. Perfect for photography lovers, travelers, or anyone seeking inspiration from these iconic coastal beacons. Discover the allure of lighthouses in various stunning scenes today!">
+                    <meta name="keywords" content="lighthouse pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lighthouse-pictures">
+                            <span itemprop="name">lighthouse pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lighthouse Pictures: A Visual Journey</h1>
+                <p>Lighthouse pictures capture the beauty and majesty of these iconic structures, often standing proudly against stunning backdrops of ocean waves and breathtaking sunsets. Each image tells a story of guidance and hope, showcasing varied architectural styles and coastal settings. Perfect for enthusiasts, decor, or travel inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travel: Six Must-Visit Lighthouses | National Trust for Historic ...">
+                                <img itemprop="contentUrl url" src='https://cdn.savingplaces.org/2016/03/11/15/05/10/791/LightHouse%20WC_Hero_Pigeon%20Point_cr%20Jonathan%20GrossFlickrccByND2.0_ed.jpg' alt='Travel: Six Must-Visit Lighthouses | National Trust for Historic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Trust for Historic Preservation" />
+                                </span>
+                                <a href='https://cdn.savingplaces.org/2016/03/11/15/05/10/791/LightHouse%20WC_Hero_Pigeon%20Point_cr%20Jonathan%20GrossFlickrccByND2.0_ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Beautiful Lighthouses Around the World - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/60b94b12e459cb0018a2c236?width=700' alt='The Most Beautiful Lighthouses Around the World - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/60b94b12e459cb0018a2c236?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighthouse">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67164/lighthouse-3.jpg?h=699&q=85' alt='Lighthouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67164/lighthouse-3.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illuminating Insights: Fascinating Facts about Lighthouses">
+                                <img itemprop="contentUrl url" src='https://b3498037.smushcdn.com/3498037/wp-content/uploads/2023/02/vancouver-lighthouse.jpg?lossy=0&strip=1&webp=1' alt='Illuminating Insights: Fascinating Facts about Lighthouses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catamaran Guru" />
+                                </span>
+                                <a href='https://b3498037.smushcdn.com/3498037/wp-content/uploads/2023/02/vancouver-lighthouse.jpg?lossy=0&strip=1&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighthouses - Maine's MidCoast & Islands">
+                                <img itemprop="contentUrl url" src='https://mainesmidcoast.com/wp-content/uploads/2024/03/609x531-Pemaquid-Point-Lighthouse.jpg' alt='Lighthouses - Maine's MidCoast & Islands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine's Midcoast" />
+                                </span>
+                                <a href='https://mainesmidcoast.com/wp-content/uploads/2024/03/609x531-Pemaquid-Point-Lighthouse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="368,800+ Lighthouse Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/139497126/photo/lighthouse.jpg?s=612x612&w=0&k=20&c=ahggOFZzfeQhOuC2x4aHlb8bB1P0rlN5eegjY5aMZyA=' alt='368,800+ Lighthouse Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/139497126/photo/lighthouse.jpg?s=612x612&w=0&k=20&c=ahggOFZzfeQhOuC2x4aHlb8bB1P0rlN5eegjY5aMZyA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to save a lighthouse? Sleep in one.">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/930b8247-7f9b-424a-9ff4-2d342fdeb14a/GettyImages-687534886_2x3.jpg' alt='How to save a lighthouse? Sleep in one.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/930b8247-7f9b-424a-9ff4-2d342fdeb14a/GettyImages-687534886_2x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lighthouses in Maine | Historical Sites & Coastal Icons">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_800,q_65,w_640/v1/clients/maineta/James_Bucar_Portland_Head_Light_cf18980a-eb34-4e02-9348-9a40d91316c4.jpg' alt='Lighthouses in Maine | Historical Sites & Coastal Icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine Tourism Association" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_800,q_65,w_640/v1/clients/maineta/James_Bucar_Portland_Head_Light_cf18980a-eb34-4e02-9348-9a40d91316c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cordouan Lighthouse - UNESCO World Heritage Centre">
+                                <img itemprop="contentUrl url" src='https://whc.unesco.org/uploads/thumbs/site_1625_0014-750-750-20241028151724.jpg' alt='Cordouan Lighthouse - UNESCO World Heritage Centre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNESCO World Heritage Centre" />
+                                </span>
+                                <a href='https://whc.unesco.org/uploads/thumbs/site_1625_0014-750-750-20241028151724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lighthouse - Portland Head Light and Fort Williams Park">
+                                <img itemprop="contentUrl url" src='https://portlandheadlight.com/wp-content/uploads/the-wave-portland-head-lighthouse-benjamin-williamson.jpg' alt='The Lighthouse - Portland Head Light and Fort Williams Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Portland Head Light" />
+                                </span>
+                                <a href='https://portlandheadlight.com/wp-content/uploads/the-wave-portland-head-lighthouse-benjamin-williamson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

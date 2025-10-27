@@ -1,0 +1,129 @@
+<title>Elegant Blue Gradient Inspiration for Your Designs</title>
+                    <meta name="description" content="Discover the beauty of blue gradients! Elevate your designs with stunning shades that evoke calmness and creativity. Perfect for backgrounds and graphics, our blue gradient collection will inspire elegance in all your projects. Explore now for fresh ideas!">
+                    <meta name="keywords" content="blue gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-gradient">
+                            <span itemprop="name">blue gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue Gradient Inspiration for Your Designs</h1>
+                <p>A blue gradient brings a serene and calming effect to designs, blending various shades of blue to create depth and dimension. From deep navy to soft sky blue, this gradient can evoke feelings of tranquility and freshness. It's perfect for backgrounds, graphics, and art, inspiring creativity and elegance in any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gradient Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/327/095/small_2x/dark-blue-gradient-colors-abstract-blurred-background-for-landing-page-free-vector.jpg' alt='Blue Gradient Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/327/095/small_2x/dark-blue-gradient-colors-abstract-blurred-background-for-landing-page-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Blue Gradient: +24 Background Gradient Colors with CSS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091774ca_Rectangle%20(47).svg' alt='Green Blue Gradient: +24 Background Gradient Colors with CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091774ca_Rectangle%20(47).svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,300+ Dark Blue Gradient Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1372399516/vector/dark-blue-defocused-blurred-motion-gradient-soft-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=ulLw1_awuztJ1ujhXSBAjQpI4L5PHuF-RE01zlAQHZ0=' alt='29,300+ Dark Blue Gradient Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1372399516/vector/dark-blue-defocused-blurred-motion-gradient-soft-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=ulLw1_awuztJ1ujhXSBAjQpI4L5PHuF-RE01zlAQHZ0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Blue Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blue-abstract-background_1123-51.jpg' alt='Subtle Blue Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blue-abstract-background_1123-51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Blue Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701646600168-5d599b350398?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3JhZGllbnQlMjBibHVlfGVufDB8fDB8fHww' alt='Gradient Blue Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701646600168-5d599b350398?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3JhZGllbnQlMjBibHVlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Gradient Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/017/174/733/non_2x/dark-blue-gradient-blur-layout-vector.jpg' alt='Dark Blue Gradient Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/017/174/733/non_2x/dark-blue-gradient-blur-layout-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gradient: +90 Background Gradient Colors with CSS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091770fe_dik%20(10).svg' alt='Blue Gradient: +90 Background Gradient Colors with CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da422091770fe_dik%20(10).svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky Gradient (Clouds-And-Sky) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/blue-sky-gradient-thumb17.jpg' alt='Blue Sky Gradient (Clouds-And-Sky) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/blue-sky-gradient-thumb17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue gradient wallpaper - Abstract wallpapers - #25907">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/abstract/blue-gradient-25907-2560x1600.jpg' alt='Blue gradient wallpaper - Abstract wallpapers - #25907'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/abstract/blue-gradient-25907-2560x1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Gradient Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/dark-blue-gradient-background-featuring-600nw-2516519449.jpg' alt='Dark Blue Gradient Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/dark-blue-gradient-background-featuring-600nw-2516519449.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

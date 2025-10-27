@@ -1,0 +1,129 @@
+<title>Eye-Catching Graduation Flyer: Celebrate Your Big Day!</title>
+                    <meta name="description" content="Looking for the perfect graduation flyer? Promote your achievement with a stylish design that captures your celebration details. Ideal for sharing with friends and family, ensuring everyone joins your momentous occasion. Customize easily for an unforgettable invite!">
+                    <meta name="keywords" content="graduation flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/graduation-flyer">
+                            <span itemprop="name">graduation flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Graduation Flyer: Celebrate Your Big Day!</h1>
+                <p>Celebrate your academic achievement with our vibrant graduation flyer! Designed to capture the joy of this milestone, it includes essential details like date, time, and venue. Personalize with your favorite colors and photos to make it unique. Perfect for inviting family and friends to share in your special day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable graduation flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFtUwYMGUs/2/0/1143w/canva-blue-and-gold-luxury-graduation-flyer-kjSaYzbRKEY.jpg' alt='Free printable graduation flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFtUwYMGUs/2/0/1143w/canva-blue-and-gold-luxury-graduation-flyer-kjSaYzbRKEY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Graduation Celebration Editable Flyer | High School and College Easy  To Edit Digital Download | Graduation Template">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39199230/r/il/a4c8ff/4795652548/il_fullxfull.4795652548_p230.jpg' alt='Luxury Graduation Celebration Editable Flyer | High School and College Easy  To Edit Digital Download | Graduation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39199230/r/il/a4c8ff/4795652548/il_fullxfull.4795652548_p230.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduation Party, Graduation Flyer, Editable Template, Graduation ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39920227/r/il/055655/4834053932/il_fullxfull.4834053932_j3rg.jpg' alt='Graduation Party, Graduation Flyer, Editable Template, Graduation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39920227/r/il/055655/4834053932/il_fullxfull.4834053932_j3rg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable graduation flyer templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGWNgDvEX4/1/0/1131w/canva-black-and-gold-simple-congratulations-flyer-HgTs60RYN9w.jpg' alt='Free printable graduation flyer templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGWNgDvEX4/1/0/1131w/canva-black-and-gold-simple-congratulations-flyer-HgTs60RYN9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduation Party Flyer Templates - Customize & Download (Free)">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/graduation-party-flyer-template-jrbqil4aca4bd0.webp' alt='Graduation Party Flyer Templates - Customize & Download (Free)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/graduation-party-flyer-template-jrbqil4aca4bd0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Graduation | Free Flyer Template - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2022/09/large-11-600x848.jpg' alt='School Graduation | Free Flyer Template - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2022/09/large-11-600x848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduation Invitation flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/graduation-invitation-flyer-design-template-30a8a6e39fa1d1247038d3f66140d87a_screen.jpg?ts=1668072503' alt='Graduation Invitation flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/graduation-invitation-flyer-design-template-30a8a6e39fa1d1247038d3f66140d87a_screen.jpg?ts=1668072503' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduation Party Flyer (1348602)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/6877efa574c16c8b66d55c745a24b372135dd8003976ca9ff497fa844c9cbd8a.jpg' alt='Graduation Party Flyer (1348602)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/6877efa574c16c8b66d55c745a24b372135dd8003976ca9ff497fa844c9cbd8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Graduation Horizontal Flyer Design Graphic by majharul5561 ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/03/16/Happy-Graduation-Horizontal-Flyer-Design-Graphics-64490741-1-1-580x386.jpg' alt='Happy Graduation Horizontal Flyer Design Graphic by majharul5561 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/03/16/Happy-Graduation-Horizontal-Flyer-Design-Graphics-64490741-1-1-580x386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduation Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/graduation-template-design_23-2151154517.jpg' alt='Graduation Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/graduation-template-design_23-2151154517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

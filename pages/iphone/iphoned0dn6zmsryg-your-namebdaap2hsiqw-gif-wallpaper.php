@@ -1,0 +1,129 @@
+<title>Stunning GIF Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Transform your iPhone with eye-catching GIF wallpapers! Discover a wide selection of animated designs that fit your style and make your device truly unique. Perfect for personalizing your screen; download now for a fresh look that moves with you!">
+                    <meta name="keywords" content="iphone:d0dn6zmsryg= your name:bdaap2hsiqw= gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoned0dn6zmsryg-your-namebdaap2hsiqw-gif-wallpaper">
+                            <span itemprop="name">iphone:d0dn6zmsryg= your name:bdaap2hsiqw= gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning GIF Wallpapers for Your iPhone</h1>
+                <p>Your iPhone deserves a personalized touch! Explore stunning GIF wallpapers to elevate your device's aesthetic. Choose from a variety of themes and styles that reflect your personality. Download your favorite animated wallpapers today and make your iPhone stand out while transforming your screen into a dynamic visual experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIF - Your Name - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ujZcKPQN8A8AAAAM/your-name.gif' alt='Your Name GIF - Your Name - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ujZcKPQN8A8AAAAM/your-name.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/u-wMBNj0KKQAAAAM/forpersonaluselmao.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/u-wMBNj0KKQAAAAM/forpersonaluselmao.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Q1dH3L1s0NUAAAAM/love-anime.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Q1dH3L1s0NUAAAAM/love-anime.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/nJ16vNG4YgEAAAAM/your-name.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/nJ16vNG4YgEAAAAM/your-name.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name Gif Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4f/00/23/4f0023e938d1179b115d402e9fb69d0a.gif' alt='Your Name Gif Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4f/00/23/4f0023e938d1179b115d402e9fb69d0a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/jljsGNh5C80AAAAM/your-name-kimi-no-na-wa.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/jljsGNh5C80AAAAM/your-name-kimi-no-na-wa.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/RIBWPuMVcj0AAAAM/kesho-pixelkesho.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/RIBWPuMVcj0AAAAM/kesho-pixelkesho.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dynamic Anime Wallpaper for Your Name">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7405274467103952136&location=0&aid=1988' alt='Dynamic Anime Wallpaper for Your Name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7405274467103952136&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="96 Your name gifs ideas | kimi no na wa, your name anime, your name">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cc/77/c7/cc77c73075e343563d4b1736a7fb8fe9.gif' alt='96 Your name gifs ideas | kimi no na wa, your name anime, your name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cc/77/c7/cc77c73075e343563d4b1736a7fb8fe9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/kl2oUggZNk0AAAAM/you-name.gif' alt='Your Name GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/kl2oUggZNk0AAAAM/you-name.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

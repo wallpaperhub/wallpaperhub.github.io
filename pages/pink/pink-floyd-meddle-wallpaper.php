@@ -1,0 +1,129 @@
+<title>Stunning Pink Floyd Meddle Wallpapers for Your Space</title>
+                    <meta name="description" content="Explore the world of Pink Floyd with captivating "Meddle" wallpapers. Perfect for fans, these designs bring the essence of the iconic album into your home. Transform your walls today and celebrate Pink Floyd’s unique sound and artistry!">
+                    <meta name="keywords" content="pink floyd meddle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-floyd-meddle-wallpaper">
+                            <span itemprop="name">pink floyd meddle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Floyd Meddle Wallpapers for Your Space</h1>
+                <p>Immerse yourself in the atmospheric sounds of Pink Floyd's "Meddle" with stunning wallpaper designs that celebrate this iconic album. Featuring vibrant hues and ethereal imagery, these wallpapers are perfect for fans looking to enhance their space. Transform your walls into a tribute to Pink Floyd's musical journey and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Meddle iPhone wallpaper : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2yFjTv10QQUkVfyYYOd2BSg3Z_60-BxhiNP69Gn6lBc.jpg?auto=webp&s=8055b9b981edf26212fc55b183e86d130f77d2a9' alt='A Meddle iPhone wallpaper : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2yFjTv10QQUkVfyYYOd2BSg3Z_60-BxhiNP69Gn6lBc.jpg?auto=webp&s=8055b9b981edf26212fc55b183e86d130f77d2a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd, Meddle Album Cover, 1971 | San Francisco Art Exchange">
+                                <img itemprop="contentUrl url" src='https://sfae.blob.core.windows.net/media/ecommercesite/media/sfae/sfae.artwork/800-meddle_1.jpg' alt='Pink Floyd, Meddle Album Cover, 1971 | San Francisco Art Exchange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="397">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Francisco Art Exchange" />
+                                </span>
+                                <a href='https://sfae.blob.core.windows.net/media/ecommercesite/media/sfae/sfae.artwork/800-meddle_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meddle images and artwork | Last.fm">
+                                <img itemprop="contentUrl url" src='https://lastfm.freetls.fastly.net/i/u/ar0/55dc29cfc3264ee3cee981181ddead2a.jpg' alt='Meddle images and artwork | Last.fm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Last.fm" />
+                                </span>
+                                <a href='https://lastfm.freetls.fastly.net/i/u/ar0/55dc29cfc3264ee3cee981181ddead2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meddle is the sixth Pink Floyd album recorded and released in 1971.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/84/aa/a184aaa1c519d5fc3faf810ee018383e.jpg' alt='Meddle is the sixth Pink Floyd album recorded and released in 1971.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/84/aa/a184aaa1c519d5fc3faf810ee018383e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couldn't find Desktop Wallpapers for Echoes so I made one : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tmmg6b4h3ir01.png?width=640&crop=smart&auto=webp&s=7c9ba37999e274ebf4a240584f68af8a2e89ece6' alt='Couldn't find Desktop Wallpapers for Echoes so I made one : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tmmg6b4h3ir01.png?width=640&crop=smart&auto=webp&s=7c9ba37999e274ebf4a240584f68af8a2e89ece6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unpopular opinion: Meddle's cover is very beautiful : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qkbz9hr28t881.jpg?width=640&crop=smart&auto=webp&s=e7476084de2a1d0e2636de17d51f82a370f929b3' alt='Unpopular opinion: Meddle's cover is very beautiful : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qkbz9hr28t881.jpg?width=640&crop=smart&auto=webp&s=e7476084de2a1d0e2636de17d51f82a370f929b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kl7jr3yapnb71.png' alt='Pink Floyd - Phone Wallpapers (OC) : r/pinkfloyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kl7jr3yapnb71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="meddle (pink floyd) -edwena">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/11/f5/8011f5495c8a77dbc8ac94d989e9b385.jpg' alt='meddle (pink floyd) -edwena'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/11/f5/8011f5495c8a77dbc8ac94d989e9b385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2. A Pillow of Winds - Pink Floyd - Meddle (2016 5.1 Surround Mix)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XX8PKe9ROU8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJoitu5IsR-dRJow54XNYflKLPgg' alt='2. A Pillow of Winds - Pink Floyd - Meddle (2016 5.1 Surround Mix)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XX8PKe9ROU8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJoitu5IsR-dRJow54XNYflKLPgg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meddle Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10543848.jpg' alt='Meddle Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10543848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

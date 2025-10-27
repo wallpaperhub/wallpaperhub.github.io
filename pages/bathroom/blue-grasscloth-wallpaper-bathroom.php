@@ -1,0 +1,129 @@
+<title>Elevate Your Bathroom with Blue Grasscloth Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of blue grasscloth wallpaper for your bathroom. This stylish choice enhances your space with texture and color, creating a soothing ambiance. Ideal for small and large bathrooms alike, our blue grasscloth wallpaper will transform your area into a chic, relaxing retreat.">
+                    <meta name="keywords" content="blue grasscloth wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/blue-grasscloth-wallpaper-bathroom">
+                            <span itemprop="name">blue grasscloth wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Bathroom with Blue Grasscloth Wallpaper</h1>
+                <p>Transform your bathroom into a serene oasis with stunning blue grasscloth wallpaper. This beautiful and textured option adds depth and sophistication while providing a calming atmosphere. Perfect for creating a spa-like retreat, blue grasscloth offers a unique design element that pairs seamlessly with natural light, enhancing any bathroom decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE 15.7''x118'' Soft Blue Grasscloth Peel and Stick Wallpaper Textured  Faux Grasscloth Wallpaper Removable Self Adhesive Linen Vinyl Blue Contact  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91X0e399dBL.jpg' alt='VEELIKE 15.7''x118'' Soft Blue Grasscloth Peel and Stick Wallpaper Textured  Faux Grasscloth Wallpaper Removable Self Adhesive Linen Vinyl Blue Contact  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91X0e399dBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Blue Grasscloth Wallpaper Peel and Stick Faux Grass Cloth Wallpaper  for Bedroom Bathroom Walls Prepasted 15.7''x118'' Waterproof Non-Textured  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zKsxO6CdL.jpg' alt='VEELIKE Blue Grasscloth Wallpaper Peel and Stick Faux Grass Cloth Wallpaper  for Bedroom Bathroom Walls Prepasted 15.7''x118'' Waterproof Non-Textured  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zKsxO6CdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TS80712 Grasscloth Coastal Nautica Blue Matte">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/ts80712-grasscloth-coastal-nautica-blue-matte-673454.jpg?v=1675882196&width=1200' alt='TS80712 Grasscloth Coastal Nautica Blue Matte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/ts80712-grasscloth-coastal-nautica-blue-matte-673454.jpg?v=1675882196&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SG10202 Stacy Garcia Home Faux Grasscloth Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SG10202-B.jpg?v=1632853134&width=1445' alt='SG10202 Stacy Garcia Home Faux Grasscloth Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SG10202-B.jpg?v=1632853134&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Blue Bathroom with Grasscloth Wallcovering | Luxe ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/wlzmdirin2hy/2Jqk7lx4YEzMwitzCZB0cB/535cb234c38a20963386a4dc1cd2be87/1_d83440cd-1bd9-4c3a-850b-48d7d30cfe7c-fit_constrain_wid_2560_hei_1440.jpg' alt='Traditional Blue Bathroom with Grasscloth Wallcovering | Luxe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Luxe Interiors + Design" />
+                                </span>
+                                <a href='https://images.ctfassets.net/wlzmdirin2hy/2Jqk7lx4YEzMwitzCZB0cB/535cb234c38a20963386a4dc1cd2be87/1_d83440cd-1bd9-4c3a-850b-48d7d30cfe7c-fit_constrain_wid_2560_hei_1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="grasscloth - Cottage style decorating, renovating and entertaining ...">
+                                <img itemprop="contentUrl url" src='https://www.cottagesandbungalowsmag.com/wp-content/uploads/2018/07/grasscloth.jpg' alt='grasscloth - Cottage style decorating, renovating and entertaining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cottages and Bungalows" />
+                                </span>
+                                <a href='https://www.cottagesandbungalowsmag.com/wp-content/uploads/2018/07/grasscloth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Gold Bathroom with Blue Grasscloth Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/64/cb/3f/64cb3f77c1df5892a5657cf579734066.jpg' alt='White and Gold Bathroom with Blue Grasscloth Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="493">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/64/cb/3f/64cb3f77c1df5892a5657cf579734066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OUR SMALL BATHROOM UPDATES - CITRINELIVING">
+                                <img itemprop="contentUrl url" src='https://citrineliving.com/wp-content/uploads/2020/06/small-bath-blue-grasscloth-white-vanity.jpg' alt='OUR SMALL BATHROOM UPDATES - CITRINELIVING'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="citrineliving" />
+                                </span>
+                                <a href='https://citrineliving.com/wp-content/uploads/2020/06/small-bath-blue-grasscloth-white-vanity.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquillages Dusty Blue/Natural Grasscloth Wallcovering – Cailini ...">
+                                <img itemprop="contentUrl url" src='https://cailinicoastal.com/cdn/shop/files/8_49fadb4e-34d0-4a6f-ab5f-8fc2008b15f2_620x.jpg?v=1708866279' alt='Coquillages Dusty Blue/Natural Grasscloth Wallcovering – Cailini ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cailini Coastal" />
+                                </span>
+                                <a href='https://cailinicoastal.com/cdn/shop/files/8_49fadb4e-34d0-4a6f-ab5f-8fc2008b15f2_620x.jpg?v=1708866279' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyprus Faux Grasscloth Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW44702-C_2000x2000.jpg?v=1656555354' alt='Cyprus Faux Grasscloth Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW44702-C_2000x2000.jpg?v=1656555354' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

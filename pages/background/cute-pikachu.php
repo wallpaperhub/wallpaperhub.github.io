@@ -1,0 +1,129 @@
+<title>Cute Pikachu: The Adorable Electric Mouse Pokémon</title>
+                    <meta name="description" content="Discover the charm of cute Pikachu! This adorable Electric-type Pokémon steals hearts with its bright yellow fur and playful personality. Join the Pokémon adventure and celebrate all things Pikachu – perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="cute pikachu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-pikachu">
+                            <span itemprop="name">cute pikachu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Pikachu: The Adorable Electric Mouse Pokémon</h1>
+                <p>Cute Pikachu is one of the most beloved Pokémon, known for its adorable appearance and cheerful disposition. With its bright yellow fur, large ears, and friendly smile, Pikachu captures hearts everywhere. Whether it's zapping foes with electric attacks or cuddling with friends, Pikachu’s cuteness knows no bounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨soo a little but different than my usual but this idea of a cute ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3161325073963616667' alt='✨soo a little but different than my usual but this idea of a cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3161325073963616667' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Cute Chibi Pikachu Pokémon - Really Easy Drawing ...">
+                                <img itemprop="contentUrl url" src='https://easydrawingguides.com/wp-content/uploads/2021/12/how-to-draw-a-cute-chibi-pikachu-pokemon-featured-image-1200.png' alt='How to Draw a Cute Chibi Pikachu Pokémon - Really Easy Drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1007">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Drawing Guides" />
+                                </span>
+                                <a href='https://easydrawingguides.com/wp-content/uploads/2021/12/how-to-draw-a-cute-chibi-pikachu-pokemon-featured-image-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Cute Chibi Pikachu Holding an Apple Glossy Waterproof ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wAIAAOSwPq1mm1vi/s-l1200.jpg' alt='Pokémon Cute Chibi Pikachu Holding an Apple Glossy Waterproof ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wAIAAOSwPq1mm1vi/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu Colored Sketch! He's always been my favorite as a child ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/prwa3v3e7cu91.jpg?width=640&crop=smart&auto=webp&s=52e66bd713bad795484750856d62686af5edb1b9' alt='Pikachu Colored Sketch! He's always been my favorite as a child ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/prwa3v3e7cu91.jpg?width=640&crop=smart&auto=webp&s=52e66bd713bad795484750856d62686af5edb1b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon is Releasing a Cute Pikachu-Shaped Lamp">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/pokemon-pikachu-anime-cute.jpg' alt='Pokemon is Releasing a Cute Pikachu-Shaped Lamp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/pokemon-pikachu-anime-cute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute boba Pikachu Jigsaw Puzzle Online - Jigsaw 365">
+                                <img itemprop="contentUrl url" src='https://cdn.yourusercontent.com/media/usercontent/puzzles/687/cute-boba-pikachu-24084b6c-05f7-4359-8957-f94532cef757%40fhd.jpeg' alt='cute boba Pikachu Jigsaw Puzzle Online - Jigsaw 365'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jigsaw 365" />
+                                </span>
+                                <a href='https://cdn.yourusercontent.com/media/usercontent/puzzles/687/cute-boba-pikachu-24084b6c-05f7-4359-8957-f94532cef757%40fhd.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pikachu by daniewoodward on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59467a44-6b40-4d33-a114-ff57f7045ccc/d73kpqb-d9149db0-db4f-4911-bc3d-ca5ee2fa236d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5NDY3YTQ0LTZiNDAtNGQzMy1hMTE0LWZmNTdmNzA0NWNjY1wvZDcza3BxYi1kOTE0OWRiMC1kYjRmLTQ5MTEtYmMzZC1jYTVlZTJmYTIzNmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b1iimm_0lP7-JEhTXLu3D-MMA2hnziv1VWDnv6KYPPk' alt='Cute pikachu by daniewoodward on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59467a44-6b40-4d33-a114-ff57f7045ccc/d73kpqb-d9149db0-db4f-4911-bc3d-ca5ee2fa236d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5NDY3YTQ0LTZiNDAtNGQzMy1hMTE0LWZmNTdmNzA0NWNjY1wvZDcza3BxYi1kOTE0OWRiMC1kYjRmLTQ5MTEtYmMzZC1jYTVlZTJmYTIzNmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b1iimm_0lP7-JEhTXLu3D-MMA2hnziv1VWDnv6KYPPk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime #Pokemon #Pikachu #Pika #Pikaka #Kawaii #Cute #Yell… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7421/12286572793_4f6571c4ef_z.jpg' alt='Anime #Pokemon #Pikachu #Pika #Pikaka #Kawaii #Cute #Yell… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7421/12286572793_4f6571c4ef_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Pikachu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/b2/07/a9b207b59e17eba49932013f3ba9eb93.jpg' alt='Cute Baby Pikachu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/b2/07/a9b207b59e17eba49932013f3ba9eb93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu Cute Image Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pikachu-cute-image-0sya2j5qu9ajey1j-2.webp' alt='Pikachu Cute Image Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pikachu-cute-image-0sya2j5qu9ajey1j-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

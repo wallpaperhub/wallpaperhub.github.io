@@ -1,0 +1,129 @@
+<title>Do Gun Shows Require Background Checks? Clarifying the Rules</title>
+                    <meta name="description" content="Discover whether gun shows require background checks for firearm purchases. Learn about the laws governing sales, the difference between licensed dealers and private sellers, and implications for gun safety and access. Stay informed about the regulations that affect you at local gun shows.">
+                    <meta name="keywords" content="do gun shows do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-gun-shows-do-background-checks">
+                            <span itemprop="name">do gun shows do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Gun Shows Require Background Checks? Clarifying the Rules</h1>
+                <p>Gun shows in the U.S. often raise questions about background checks. While federal law requires licensed dealers to perform background checks, private sellers at gun shows may not be obligated to do so. This loophole varies by state, leading to a patchwork of regulations and concerns regarding firearm access without thorough vetting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Show Background Checks State Laws">
+                                <img itemprop="contentUrl url" src='https://erepublic.brightspotcdn.com/dims4/default/c6f7ec4/2147483647/strip/false/crop/450x253+0+23/resize/1200x675!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F7e%2F12%2Fe5baf23f81a9dcac0a31af5e9171%2Fgun-show.jpg' alt='Gun Show Background Checks State Laws'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Governing Magazine" />
+                                </span>
+                                <a href='https://erepublic.brightspotcdn.com/dims4/default/c6f7ec4/2147483647/strip/false/crop/450x253+0+23/resize/1200x675!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F7e%2F12%2Fe5baf23f81a9dcac0a31af5e9171%2Fgun-show.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US to close 'gun show loophole' and require more background checks ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FVDSCEACRBIRRJLMM2FR4PQGBU.jpg' alt='US to close 'gun show loophole' and require more background checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5393">
+                                <meta itemprop="height" content="3596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FVDSCEACRBIRRJLMM2FR4PQGBU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EDITORIAL: More Thoughts About the 'Gun Show Loophole' – Pagosa ...">
+                                <img itemprop="contentUrl url" src='https://pagosadailypost.com/wp-content/uploads/2019/08/14_GunShowBackgroundChecks_Map.jpg' alt='EDITORIAL: More Thoughts About the 'Gun Show Loophole' – Pagosa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pagosa Daily Post" />
+                                </span>
+                                <a href='https://pagosadailypost.com/wp-content/uploads/2019/08/14_GunShowBackgroundChecks_Map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Utah, several other states, sue Biden administration over new ...">
+                                <img itemprop="contentUrl url" src='https://img.ksl.com/slc/2987/298765/29876527.jpeg?filter=kslv2/responsive_story_lg' alt='Utah, several other states, sue Biden administration over new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1228">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSL News" />
+                                </span>
+                                <a href='https://img.ksl.com/slc/2987/298765/29876527.jpeg?filter=kslv2/responsive_story_lg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New rule to close 'gun show loophole' finalized by Biden ...">
+                                <img itemprop="contentUrl url" src='https://coloradonewsline.com/wp-content/uploads/2024/04/gunshow-1.jpeg' alt='New rule to close 'gun show loophole' finalized by Biden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colorado Newsline" />
+                                </span>
+                                <a href='https://coloradonewsline.com/wp-content/uploads/2024/04/gunshow-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill targeting Salt Lake County gun show background checks clears ...">
+                                <img itemprop="contentUrl url" src='https://img.ksl.com/slc/2774/277416/27741694.jpg?filter=kslv2/responsive_story_lg' alt='Bill targeting Salt Lake County gun show background checks clears ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1228">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSL News" />
+                                </span>
+                                <a href='https://img.ksl.com/slc/2774/277416/27741694.jpg?filter=kslv2/responsive_story_lg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun show loophole: White House issues new rule to expand ...">
+                                <img itemprop="contentUrl url" src='https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/04/764/432/Gun-show-expo.jpg?ve=1&tl=1' alt='Gun show loophole: White House issues new rule to expand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveNOW from FOX" />
+                                </span>
+                                <a href='https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/04/764/432/Gun-show-expo.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US will require background checks for gun shows and online firearm ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/5338e00d717bef1bd0f85eccd1e792c3e14ca975/0_0_5349_3566/master/5349.jpg?width=465&dpr=1&s=none&crop=none' alt='US will require background checks for gun shows and online firearm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/5338e00d717bef1bd0f85eccd1e792c3e14ca975/0_0_5349_3566/master/5349.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Lake County to require background checks for gun show sales ...">
+                                <img itemprop="contentUrl url" src='https://img.ksl.com/slc/2767/276743/27674399.jpg?filter=kslv2/responsive_story_lg' alt='Salt Lake County to require background checks for gun show sales ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1228">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSL News" />
+                                </span>
+                                <a href='https://img.ksl.com/slc/2767/276743/27674399.jpg?filter=kslv2/responsive_story_lg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden administration to close 'gun show loophole'">
+                                <img itemprop="contentUrl url" src='https://s7d2.scene7.com/is/image/TWCNews/gun_show_New_Hampshire_AP_NAtional_04.11' alt='Biden administration to close 'gun show loophole''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NY1" />
+                                </span>
+                                <a href='https://s7d2.scene7.com/is/image/TWCNews/gun_show_New_Hampshire_AP_NAtional_04.11' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

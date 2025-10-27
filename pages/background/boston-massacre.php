@@ -1,0 +1,129 @@
+<title>Understanding the Boston Massacre: A Turning Point in American History</title>
+                    <meta name="description" content="Explore the Boston Massacre, a crucial event in American history that ignited revolutionary fervor. Discover how this tragic incident between colonists and British soldiers fueled the push for independence and shaped the nation's future. Uncover the impact of this pivotal moment in the fight for freedom.">
+                    <meta name="keywords" content="boston massacre">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boston-massacre">
+                            <span itemprop="name">boston massacre</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Boston Massacre: A Turning Point in American History</h1>
+                <p>The Boston Massacre, occurring on March 5, 1770, marked a pivotal moment in colonial resistance against British rule. Tensions escalated between colonists and British soldiers, resulting in the tragic shooting of five civilians. This event fueled anti-British sentiment and became a rallying cry for revolution, highlighting the struggle for American independence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Fresh Look at the Boston Massacre, 250 Years After the Event ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/ncoLyF-lAhfw_b5MrUFrhBVkQGY=/fit-in/1200x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/93/a9/93a97057-f628-4de7-adc7-c2ca0f68c4ac/boston_massacre_high-res.jpg' alt='A Fresh Look at the Boston Massacre, 250 Years After the Event ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/ncoLyF-lAhfw_b5MrUFrhBVkQGY=/fit-in/1200x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/93/a9/93a97057-f628-4de7-adc7-c2ca0f68c4ac/boston_massacre_high-res.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Massacre, March 5th, 1770 | Teach US History">
+                                <img itemprop="contentUrl url" src='https://www.teachushistory.org/files/styles/screen/public/resources/bostonmassacrebychampney.jpg?itok=ewqeOB4H' alt='Boston Massacre, March 5th, 1770 | Teach US History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teach US History |" />
+                                </span>
+                                <a href='https://www.teachushistory.org/files/styles/screen/public/resources/bostonmassacrebychampney.jpg?itok=ewqeOB4H' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lessons from the Boston Massacre | The American Crisis">
+                                <img itemprop="contentUrl url" src='https://americanideal.org/wp-content/uploads/The-Bloody-Massacre-Paul-Revere-Boston-1770-Massachusetts-Historical-Society-3-2-detail.jpg' alt='Lessons from the Boston Massacre | The American Crisis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The American Crisis" />
+                                </span>
+                                <a href='https://americanideal.org/wp-content/uploads/The-Bloody-Massacre-Paul-Revere-Boston-1770-Massachusetts-Historical-Society-3-2-detail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boston Massacre | March 5, 1770 | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/boston-massacre-gettyimages-640266037.jpg' alt='The Boston Massacre | March 5, 1770 | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The HISTORY Channel" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/boston-massacre-gettyimages-640266037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Boston Massacre high-res.jpg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boston_Massacre_high-res.jpg/871px-Boston_Massacre_high-res.jpg' alt='File:Boston Massacre high-res.jpg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="871">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boston_Massacre_high-res.jpg/871px-Boston_Massacre_high-res.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boston Massacre: A Usable Past - Harvard University Press Blog">
+                                <img itemprop="contentUrl url" src='https://harvardpress.typepad.com/.a/6a00d8341d17e553ef01b8d266a012970c-600wi' alt='The Boston Massacre: A Usable Past - Harvard University Press Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University Press Blog" />
+                                </span>
+                                <a href='https://harvardpress.typepad.com/.a/6a00d8341d17e553ef01b8d266a012970c-600wi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boston Massacre | Harvard Art Museums">
+                                <img itemprop="contentUrl url" src='https://ids.lib.harvard.edu/ids/view/18772297?width=3000&height=3000' alt='The Boston Massacre | Harvard Art Museums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Art Museums" />
+                                </span>
+                                <a href='https://ids.lib.harvard.edu/ids/view/18772297?width=3000&height=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Account of the Boston Massacre | Teaching American History">
+                                <img itemprop="contentUrl url" src='https://teachingamericanhistory.org/content/uploads/2021/07/The_Boston_Massacre_MET_DT2086-e1587239274291.jpg' alt='Account of the Boston Massacre | Teaching American History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2014">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teaching American History" />
+                                </span>
+                                <a href='https://teachingamericanhistory.org/content/uploads/2021/07/The_Boston_Massacre_MET_DT2086-e1587239274291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boston Massacre in Black, White & Color - streetsofsalem">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/streetsofsalem.com/wp-content/uploads/2012/03/boston-massacre-color.jpg' alt='The Boston Massacre in Black, White & Color - streetsofsalem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streets of Salem" />
+                                </span>
+                                <a href='https://i0.wp.com/streetsofsalem.com/wp-content/uploads/2012/03/boston-massacre-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking Down Don Troiani's "The Boston Massacre, March 5, 1770 ...">
+                                <img itemprop="contentUrl url" src='https://moar-prod.imgix.net/69b51cea-03e4-42dc-a03a-2b6c5efeeab1/image_021122_liberty_exhibit_boston_massacre_don_troiani.jpg?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C398%2C5931%2C3333' alt='Breaking Down Don Troiani's "The Boston Massacre, March 5, 1770 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5931">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Museum of the American Revolution" />
+                                </span>
+                                <a href='https://moar-prod.imgix.net/69b51cea-03e4-42dc-a03a-2b6c5efeeab1/image_021122_liberty_exhibit_boston_massacre_don_troiani.jpg?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C398%2C5931%2C3333' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

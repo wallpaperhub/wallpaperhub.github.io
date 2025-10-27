@@ -1,0 +1,129 @@
+<title>Hauntingly Beautiful Ghost Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover unique ghost wallpaper designs to elevate your interior decor. Perfect for Halloween or everyday charm, these wallpapers transform any room with their enchanting spirit themes. Explore our collection and find the ideal style that resonates with your spooky or whimsical side!">
+                    <meta name="keywords" content="ghost wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ghost-wallpaper">
+                            <span itemprop="name">ghost wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hauntingly Beautiful Ghost Wallpaper for Your Home</h1>
+                <p>Transform your space with captivating ghost wallpaper! Perfect for creating a spooky atmosphere or adding a touch of whimsy, our ghost wallpaper options feature various designs, from cute apparitions to eerie spirits. Ideal for Halloween decor or year-round use, these wallpapers will enchant your guests and personalize any room effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Its a Ghost! ideas | halloween art, ghost, halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/17/c6/44/17c6440eaae7aa6a8711771516fae181.jpg' alt='170 Its a Ghost! ideas | halloween art, ghost, halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/17/c6/44/17c6440eaae7aa6a8711771516fae181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FU Ghost Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36582911/r/il/74b772/4208229388/il_570xN.4208229388_bjlu.jpg' alt='FU Ghost Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36582911/r/il/74b772/4208229388/il_570xN.4208229388_bjlu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Ghost iPhone Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/ee/36/56ee36b110479179202c642ccaa1ef4c.jpg' alt='Happy Ghost iPhone Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/ee/36/56ee36b110479179202c642ccaa1ef4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Ghost Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ghost-wj0blqfz7qcbaa7r.jpg' alt='300+] Ghost Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ghost-wj0blqfz7qcbaa7r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Wallpapers (17 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/d/3/258636-1080x1920-samsung-full-hd-ghost-wallpaper.jpg' alt='Ghost Wallpapers (17 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/d/3/258636-1080x1920-samsung-full-hd-ghost-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floating Funny Ghost In Gray Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/floating-funny-ghost-in-gray-npldl02pifmbpgd3.jpg' alt='Floating Funny Ghost In Gray Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/floating-funny-ghost-in-gray-npldl02pifmbpgd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: Mobile on X: "   https://t.co/bBBEfHg1DJ" / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GUkW0SQawAAloLu?format=jpg&name=large' alt='Call of Duty: Mobile on X: "   https://t.co/bBBEfHg1DJ" / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GUkW0SQawAAloLu?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Face, black, dark, horror, minimalistic, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/108/981/HD-wallpaper-ghost-face-black-dark-horror-minimalistic.jpg' alt='Ghost Face, black, dark, horror, minimalistic, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/108/981/HD-wallpaper-ghost-face-black-dark-horror-minimalistic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immerse Yourself with Call of Duty Ghost in Stunning PC Live ...">
+                                <img itemprop="contentUrl url" src='https://wallshub.com/uploads/posts/2024-04/50b569d2eb_ghost-call-of-duty-4k.webp' alt='Immerse Yourself with Call of Duty Ghost in Stunning PC Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshub" />
+                                </span>
+                                <a href='https://wallshub.com/uploads/posts/2024-04/50b569d2eb_ghost-call-of-duty-4k.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

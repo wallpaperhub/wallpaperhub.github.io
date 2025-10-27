@@ -1,0 +1,129 @@
+<title>Crafting Captivating Hooks & Strong Thesis Statements</title>
+                    <meta name="description" content="Discover the power of compelling hooks and effective thesis statements! Learn how to draw readers in and make your argument clear with engaging writing tips that enhance your essays and articles. Perfect for students and writers looking to improve their skills in capturing attention and communicating ideas.">
+                    <meta name="keywords" content="hook and thesis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hook-and-thesis">
+                            <span itemprop="name">hook and thesis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Crafting Captivating Hooks & Strong Thesis Statements</h1>
+                <p>In writing, a hook captures the reader's attention, sparking curiosity or emotion. A thesis statement presents the main argument or point of the piece, guiding the reader through your perspective. Together, they create a compelling introduction that motivates readers to continue exploring your ideas. Both are essential for engaging writing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a Hook, Bridge, & Thesis for our Intro Paragraph - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eV8RY3DPF7o/sddefault.jpg' alt='Creating a Hook, Bridge, & Thesis for our Intro Paragraph - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eV8RY3DPF7o/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Examples and tips for good essay hooks">
+                                <img itemprop="contentUrl url" src='https://bid4papers.com/blog/wp-content/uploads/2014/02/introduction-scheme.png' alt='Examples and tips for good essay hooks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bid4Papers" />
+                                </span>
+                                <a href='https://bid4papers.com/blog/wp-content/uploads/2014/02/introduction-scheme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing a hook sentence and introducing a thesis statement">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NrNRy6eC7Sg/maxresdefault.jpg' alt='Writing a hook sentence and introducing a thesis statement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NrNRy6eC7Sg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essay Introduction | Example & Format - Lesson | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/essayintro5231439096177921262.png' alt='Essay Introduction | Example & Format - Lesson | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="371">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/essayintro5231439096177921262.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Start an Essay: Introduction-making Strategies & Essay Hooks">
+                                <img itemprop="contentUrl url" src='https://helpfulpapers.com/blog/wp-content/uploads/2022/05/Essay-Introduction-1024x585.jpg' alt='How to Start an Essay: Introduction-making Strategies & Essay Hooks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HelpfulPapers" />
+                                </span>
+                                <a href='https://helpfulpapers.com/blog/wp-content/uploads/2022/05/Essay-Introduction-1024x585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introductions, Hooks & Thesis Statement, Sajida Fakhri 7.2.2022 ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fNEAjrJUg4c/sddefault.jpg' alt='Introductions, Hooks & Thesis Statement, Sajida Fakhri 7.2.2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fNEAjrJUg4c/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write a Hook for an Essay. 11 Hook Types Explained with ...">
+                                <img itemprop="contentUrl url" src='https://cdn.static.express/storage/sp/blogs/r81wk2Hah5pZKxSfEuGM862OPutD86KCp7NiyuQG.webp' alt='How to Write a Hook for an Essay. 11 Hook Types Explained with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeedyPaper" />
+                                </span>
+                                <a href='https://cdn.static.express/storage/sp/blogs/r81wk2Hah5pZKxSfEuGM862OPutD86KCp7NiyuQG.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Identifying Hook, Bridge, and Thesis Statement in Introduction Paragraphs">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Identifying-Hook-Bridge-and-Thesis-Statement-in-Introduction-Paragraphs-7107785-1646585186/original-7107785-2.jpg' alt='Identifying Hook, Bridge, and Thesis Statement in Introduction Paragraphs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Identifying-Hook-Bridge-and-Thesis-Statement-in-Introduction-Paragraphs-7107785-1646585186/original-7107785-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lesson commentary for 'Writing a hook sentence and introducing a thesis  statement'">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/332e83765d1fb62971c2c06877e70da6f031b96b.webp?image_crop_resized=1280x687' alt='Lesson commentary for 'Writing a hook sentence and introducing a thesis  statement''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IL Classroom" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/332e83765d1fb62971c2c06877e70da6f031b96b.webp?image_crop_resized=1280x687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write a Thesis Statement for an Informative Essay | Bid4Papers">
+                                <img itemprop="contentUrl url" src='https://bid4papers.com/blog/wp-content/uploads/2022/06/start-informative-essay-example.png' alt='How to Write a Thesis Statement for an Informative Essay | Bid4Papers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bid4Papers" />
+                                </span>
+                                <a href='https://bid4papers.com/blog/wp-content/uploads/2022/06/start-informative-essay-example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

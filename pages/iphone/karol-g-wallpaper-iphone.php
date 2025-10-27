@@ -1,0 +1,129 @@
+<title>Stunning Karol G Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the best Karol G wallpapers for iPhone! Personalize your device with vibrant images and celebrate the Latin superstar's music and style. Explore our collection now to find the perfect wallpaper that showcases your love for Karol G and makes your iPhone stand out!">
+                    <meta name="keywords" content="karol g wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/karol-g-wallpaper-iphone">
+                            <span itemprop="name">karol g wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Karol G Wallpapers for Your iPhone</h1>
+                <p>Karol G wallpapers for iPhone bring vibrant colors and catchy vibes to your device. With stunning images of the Latin music sensation, you can personalize your screen while celebrating her artistry. Choose from a variety of styles, from concert shots to artistic portraits, and make your iPhone a true reflection of your admiration for Karol G.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo de pantalla">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/67/a9/c667a949f1787f527daeaf1164167382.jpg' alt='Fondo de pantalla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/67/a9/c667a949f1787f527daeaf1164167382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Karol G Concert Entrance Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/karol-g-concert-entrance-aesthetic-uf0zfyw289e2naq2.jpg' alt='Download Karol G Concert Entrance Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/karol-g-concert-entrance-aesthetic-uf0zfyw289e2naq2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karol G Wallpaper Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/bd/c9/7dbdc9ca155c798d871ae70731d3f2dd.jpg' alt='Karol G Wallpaper Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/bd/c9/7dbdc9ca155c798d871ae70731d3f2dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Karol G Manana Sera Bonito Artwork Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/karol-g-manana-sera-bonito-artwork-myhp87e1946f69tl.jpg' alt='Download Karol G Manana Sera Bonito Artwork Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/karol-g-manana-sera-bonito-artwork-myhp87e1946f69tl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karol G Celebrity Photography Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/karol-g-celebrity-photography-xzdztbjft020lqgy.jpg' alt='Karol G Celebrity Photography Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/karol-g-celebrity-photography-xzdztbjft020lqgy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KAROL G COLORFUL BACKGROUND – WandaKreates">
+                                <img itemprop="contentUrl url" src='http://wandakreates.com/cdn/shop/products/KAROLGCOLORFULBACKGROUND.jpg?v=1682219244' alt='KAROL G COLORFUL BACKGROUND – WandaKreates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WandaKreates" />
+                                </span>
+                                <a href='http://wandakreates.com/cdn/shop/products/KAROLGCOLORFULBACKGROUND.jpg?v=1682219244' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karol G Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/karol-g-2021-location-song-5m04o5w8ztemzsjc.jpg' alt='Karol G Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/karol-g-2021-location-song-5m04o5w8ztemzsjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/b4/55/5ab45537b91434c3efb51ffc6ca7c0e5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/b4/55/5ab45537b91434c3efb51ffc6ca7c0e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="karol g">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/33/92/3f33922178ccbc6df320696545908580.jpg' alt='karol g'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/33/92/3f33922178ccbc6df320696545908580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karol G 2020 Wallpaper, HD Celebrities 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/karol-g-2020_bGlpZm2UmZqaraWkpJRnamtlrWZpaWU.jpg' alt='Karol G 2020 Wallpaper, HD Celebrities 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/karol-g-2020_bGlpZm2UmZqaraWkpJRnamtlrWZpaWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

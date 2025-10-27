@@ -1,0 +1,129 @@
+<title>Streamline Your Hiring with Checkmate Background Checks</title>
+                    <meta name="description" content="Discover Checkmate Background Check services for reliable employee screening. Get quick access to crucial background data, including criminal records and employment history, enhancing your hiring process today!">
+                    <meta name="keywords" content="checkmate background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/checkmate-background-check">
+                            <span itemprop="name">checkmate background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Your Hiring with Checkmate Background Checks</h1>
+                <p>Checkmate Background Check offers a comprehensive approach to background screening, ensuring a thorough and accurate review of an individual's history. This service includes criminal record checks, employment verification, and more, providing employers and organizations with the necessary information to make informed decisions while maintaining compliance and safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate - Reference and Background Screening Tool">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/6750cef26c7f401803f48cec_open%20graph%20image.jpg' alt='Checkmate - Reference and Background Screening Tool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.checkmate.tech" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/6750cef26c7f401803f48cec_open%20graph%20image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate - Reference and Background Screening Tool">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984fe76ad5a202f70e98a4_reporting-min.png' alt='Checkmate - Reference and Background Screening Tool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2038">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.checkmate.tech" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984fe76ad5a202f70e98a4_reporting-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate - Pre-employment Screening">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984e0ef035da7634178b01_BG%20check%20dash-min.png' alt='Checkmate - Pre-employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1864">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkmate" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984e0ef035da7634178b01_BG%20check%20dash-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant Checkmate Background Check Service Review in 2025">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/checkmate-rev.jpg' alt='Instant Checkmate Background Check Service Review in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/checkmate-rev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant Checkmate Search - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/WS0m0cuu5PDDDp4ebFwky8i8jvvfV4B-h7JivTzSNTcZgBD0KiLlJknnDXIirkq9Q4s=w600-h300-pc0xffffff-pd' alt='Instant Checkmate Search - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/WS0m0cuu5PDDDp4ebFwky8i8jvvfV4B-h7JivTzSNTcZgBD0KiLlJknnDXIirkq9Q4s=w600-h300-pc0xffffff-pd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate - Reference and Background Screening Tool">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/67c12426ceef71342e2520ae_heroFeb2025.png' alt='Checkmate - Reference and Background Screening Tool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2085">
+                                <meta itemprop="height" content="1842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.checkmate.tech" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/67c12426ceef71342e2520ae_heroFeb2025.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate - Reference and Background Screening Tool">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984e0fc77f0d05b2415c5b_mobile%20user%20dash-min.png' alt='Checkmate - Reference and Background Screening Tool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1423">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.checkmate.tech" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ed2fe216a6db695bbec34e/62984e0fc77f0d05b2415c5b_mobile%20user%20dash-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant Checkmate Search - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/WS0m0cuu5PDDDp4ebFwky8i8jvvfV4B-h7JivTzSNTcZgBD0KiLlJknnDXIirkq9Q4s' alt='Instant Checkmate Search - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/WS0m0cuu5PDDDp4ebFwky8i8jvvfV4B-h7JivTzSNTcZgBD0KiLlJknnDXIirkq9Q4s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate Reviews 2025: Details, Pricing, & Features | G2">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dbf3a831ee072848e779d1793d33d172/checkmate.png' alt='Checkmate Reviews 2025: Details, Pricing, & Features | G2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dbf3a831ee072848e779d1793d33d172/checkmate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should you use Instant Checkmate?">
+                                <img itemprop="contentUrl url" src='https://www.bestreviewguide.com/images/article/Should%20you%20use%20Instant%20Checkmate-landscape-large.jpg' alt='Should you use Instant Checkmate?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Review Guide" />
+                                </span>
+                                <a href='https://www.bestreviewguide.com/images/article/Should%20you%20use%20Instant%20Checkmate-landscape-large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Dragon Ball Landscapes: A Visual Journey</title>
+                    <meta name="description" content="Explore the breathtaking landscapes of Dragon Ball, filled with iconic locations that enhance the series' epic battles and adventures. Discover the vibrant environments that bring the world of Goku and friends to life in this visually striking journey!">
+                    <meta name="keywords" content="dragon ball landscape">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dragon-ball-landscape">
+                            <span itemprop="name">dragon ball landscape</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Ball Landscapes: A Visual Journey</h1>
+                <p>Dragon Ball landscapes are iconic and vibrant, ranging from lush, green hills to barren wastelands, showcasing the series' stunning artistry. The environments often reflect the battles and adventures of Goku and friends, with floating islands, majestic mountains, and serene lakes. Each location plays a crucial role in the narrative.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Dragon Ball Z Wallpaper: Tranquil Anime Landscape">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/640/640445.jpg' alt='HD Dragon Ball Z Wallpaper: Tranquil Anime Landscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/640/640445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Workshop Steam::Dragon Ball : Our world [4K] [landscape]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2513644999170458872/7F31FE76EB36C88823D217821F23765B13B873BA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Workshop Steam::Dragon Ball : Our world [4K] [landscape]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2513644999170458872/7F31FE76EB36C88823D217821F23765B13B873BA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Tranquil Landscape from Dragon Ball Z by lwisf3rxd">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/677/thumb-1920-677271.png' alt='HD Wallpaper: Tranquil Landscape from Dragon Ball Z by lwisf3rxd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/677/thumb-1920-677271.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First time doing a landscape (and posting my art on Reddit ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/45ev6vsky1461.jpg' alt='First time doing a landscape (and posting my art on Reddit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/45ev6vsky1461.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Kame House Canvas Poster Bedroom Decor Sports ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ZUxMetb7S._AC_UF894,1000_QL80_.jpg' alt='Dragon Ball Kame House Canvas Poster Bedroom Decor Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ZUxMetb7S._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Landscape Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/01/69/cc0169163a3ea39156409e6d4e242ee9.jpg' alt='Dragon Ball Z Landscape Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/01/69/cc0169163a3ea39156409e6d4e242ee9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z HD Wallpaper: Serene Landscape Adventure by lwisf3rxd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b2/5e/58/b25e588e688537d22115907d786f13de.jpg' alt='Dragon Ball Z HD Wallpaper: Serene Landscape Adventure by lwisf3rxd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b2/5e/58/b25e588e688537d22115907d786f13de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="title Landscapes in Dragon Ball Wallpapers !! @animesaiyangod ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3324331954286729344' alt='title Landscapes in Dragon Ball Wallpapers !! @animesaiyangod ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1924">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3324331954286729344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Landscape Scene Background 20793913 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/793/913/non_2x/dragon-ball-landscape-scene-background-free-vector.jpg' alt='Dragon Ball Landscape Scene Background 20793913 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/793/913/non_2x/dragon-ball-landscape-scene-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Explore the Vast Landscape of Dragon Ball!" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-landscape-n9mj289tti8h0t53.jpg' alt='Download "Explore the Vast Landscape of Dragon Ball!" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-landscape-n9mj289tti8h0t53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Purple Football Backgrounds for Fans and Designers</title>
+                    <meta name="description" content="Discover captivating purple football backgrounds that elevate your sports designs! Perfect for wallpapers, graphics, and team promotions, these vibrant options add flair and energy. Make your project stand out with a special touch of purple excitement tailored for fans and enthusiasts.">
+                    <meta name="keywords" content="purple football background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-football-background">
+                            <span itemprop="name">purple football background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Football Backgrounds for Fans and Designers</h1>
+                <p>A purple football background adds an exciting twist to your sports-themed design. This vibrant hue evokes energy and passion, perfect for fans and teams alike. Whether used for wallpapers, graphic designs, or promotional materials, a purple football background brings a unique flair and enhances the visual appeal of any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130+ Purple Football Field Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487153992/photo/american-stadium.jpg?s=612x612&w=0&k=20&c=K7bm3powYAGoCKq19Z85aqBhXKT86W9tvPPFUsDF8Pc=' alt='130+ Purple Football Field Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487153992/photo/american-stadium.jpg?s=612x612&w=0&k=20&c=K7bm3powYAGoCKq19Z85aqBhXKT86W9tvPPFUsDF8Pc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Digital Backdrop - PURPLE NIGHT LIGHTS | Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21060982/r/il/169192/3408244214/il_fullxfull.3408244214_5qfm.jpg' alt='Football Digital Backdrop - PURPLE NIGHT LIGHTS | Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21060982/r/il/169192/3408244214/il_fullxfull.3408244214_5qfm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Football Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/football-player-on-purple-uniform-260nw-213353188.jpg' alt='Purple Football Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/football-player-on-purple-uniform-260nw-213353188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Football Images – Browse 15,814 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/77/60/63/360_F_977606306_xb7jqkDeMFvT9yG41LUPYAC2smqQC6Fh.jpg' alt='Purple Football Images – Browse 15,814 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/77/60/63/360_F_977606306_xb7jqkDeMFvT9yG41LUPYAC2smqQC6Fh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Football Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-render-american-football-stadium-260nw-2524027329.jpg' alt='Purple Football Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-render-american-football-stadium-260nw-2524027329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Digital Backdrop PURPLE NIGHT LIGHTS Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21060982/r/il/a4c772/3408244210/il_570xN.3408244210_k2nd.jpg' alt='Football Digital Backdrop PURPLE NIGHT LIGHTS Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21060982/r/il/a4c772/3408244210/il_570xN.3408244210_k2nd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RB Adrian Peterson of the Minnesota Vikings">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0e/dd/00/0edd00d7e1dd198bcde7bdef013f1306.jpg' alt='RB Adrian Peterson of the Minnesota Vikings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0e/dd/00/0edd00d7e1dd198bcde7bdef013f1306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Football Helmet Stock Illustrations – 207 Purple Football ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/football-helmet-vibrant-purple-colored-powder-background-art-created-ai-technology-image-312646130.jpg' alt='Purple Football Helmet Stock Illustrations – 207 Purple Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/football-helmet-vibrant-purple-colored-powder-background-art-created-ai-technology-image-312646130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor American Football- Purple- Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11626696/p/f/m/BJfxwyjL3zEnByNG9qx0JLj9L7d6AtPxAL-rUk72Uj2tFwWLjDQB/Watercolor_American_Football-_Purple-_Large_Scale.jpg' alt='Watercolor American Football- Purple- Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11626696/p/f/m/BJfxwyjL3zEnByNG9qx0JLj9L7d6AtPxAL-rUk72Uj2tFwWLjDQB/Watercolor_American_Football-_Purple-_Large_Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Background of football or soccer symbols in ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-football-soccer-symbols-purple-colors_444390-15966.jpg' alt='Premium Vector | Background of football or soccer symbols in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-football-soccer-symbols-purple-colors_444390-15966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Ukraine: Culture, History, and Resilience</title>
+                    <meta name="description" content="Explore the beauty and resilience of Ukraine, a country rich in culture and history. Learn about its vibrant traditions, stunning landscapes, and the challenges it faces today, all while striving for a brighter future. Discover what makes Ukraine unique!">
+                    <meta name="keywords" content="the ukraine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-ukraine">
+                            <span itemprop="name">the ukraine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Ukraine: Culture, History, and Resilience</h1>
+                <p>Ukraine, a vibrant country in Eastern Europe, boasts a rich cultural heritage, stunning landscapes, and resilient people. With a deep history and diverse tradition, it has faced significant challenges, particularly in recent geopolitical conflicts. Yet, Ukraine continues to strive for growth, unity, and a brighter future for its citizens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ukraine | History, Flag, Population, President, Map, Language ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/82/183782-050-D2CE9388/World-Data-Locator-Map-Ukraine.jpg' alt='Ukraine | History, Flag, Population, President, Map, Language ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/82/183782-050-D2CE9388/World-Data-Locator-Map-Ukraine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ukraine country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1601E/production/_109224109_ukraine.png' alt='Ukraine country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1601E/production/_109224109_ukraine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preparing for Victory in Ukraine | United States Institute of Peace">
+                                <img itemprop="contentUrl url" src='https://www.usip.org/sites/default/files/styles/image_with_caption/public/2022-11/20221130-ukraine-fighting-2-nyt-ac.jpg?itok=kPOMPWYb' alt='Preparing for Victory in Ukraine | United States Institute of Peace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1686">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United States Institute of Peace" />
+                                </span>
+                                <a href='https://www.usip.org/sites/default/files/styles/image_with_caption/public/2022-11/20221130-ukraine-fighting-2-nyt-ac.jpg?itok=kPOMPWYb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A simple guide to the Ukraine-Russia crisis: 5 things to know ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2021/04/WEB_MAP_UKRAINE_RUSSIA_SEPARATIST_AREAS_REFRESH.jpg?w=770&resize=770%2C433' alt='A simple guide to the Ukraine-Russia crisis: 5 things to know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2021/04/WEB_MAP_UKRAINE_RUSSIA_SEPARATIST_AREAS_REFRESH.jpg?w=770&resize=770%2C433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ukraine">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/29ce0d21-6863-4fe5-a0ed-082ad307161c/Kyiv_Ukraine_0322_4x3.jpg' alt='Ukraine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/29ce0d21-6863-4fe5-a0ed-082ad307161c/Kyiv_Ukraine_0322_4x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ukraine | History, Flag, Population, President, Map, Language ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/4815-050-F533DB64/Ukraine.jpg' alt='Ukraine | History, Flag, Population, President, Map, Language ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/4815-050-F533DB64/Ukraine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What caused the war in Ukraine? | The Strategist">
+                                <img itemprop="contentUrl url" src='https://www.aspistrategist.org.au/wp-content/uploads/2022/10/GettyImages-1238921487.jpg' alt='What caused the war in Ukraine? | The Strategist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ASPI Strategist" />
+                                </span>
+                                <a href='https://www.aspistrategist.org.au/wp-content/uploads/2022/10/GettyImages-1238921487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The potential directions of the Ukraine War in spring 2023">
+                                <img itemprop="contentUrl url" src='https://behorizon.org/wp-content/uploads/2023/01/The-potential-directions-of-the-Ukraine-War-in-spring-2023-1080x675.webp' alt='The potential directions of the Ukraine War in spring 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beyond the Horizon ISSG" />
+                                </span>
+                                <a href='https://behorizon.org/wp-content/uploads/2023/01/The-potential-directions-of-the-Ukraine-War-in-spring-2023-1080x675.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ukraine conflict: Russian forces attack from three sides">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/1294E/production/_123401167_ukraine_russian_strikes_map_v2_24feb_640x2-nc.png.webp' alt='Ukraine conflict: Russian forces attack from three sides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/1294E/production/_123401167_ukraine_russian_strikes_map_v2_24feb_640x2-nc.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reflections on the Ukraine War">
+                                <img itemprop="contentUrl url" src='https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-02/GettyImages-1238986628_cropped.jpg?VersionId=EBz8qN7g865R5QKEJaTbROrB2bynJ_PQ' alt='Reflections on the Ukraine War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4160">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSIS" />
+                                </span>
+                                <a href='https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-02/GettyImages-1238986628_cropped.jpg?VersionId=EBz8qN7g865R5QKEJaTbROrB2bynJ_PQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

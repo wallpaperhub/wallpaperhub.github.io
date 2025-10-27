@@ -1,0 +1,129 @@
+<title>Stunning Phish iPhone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover vibrant Phish iPhone wallpapers that celebrate your love for the band. Download colorful and psychedelic designs to personalize your device and showcase your passion for music. Perfect for any Phish fan looking to make their iPhone stand out!">
+                    <meta name="keywords" content="phish iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/phish-iphone-wallpaper">
+                            <span itemprop="name">phish iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Phish iPhone Wallpapers for Every Fan</h1>
+                <p>Are you a fan of the iconic Phish band? Elevate your iPhone's aesthetics with stunning Phish-themed wallpapers! From colorful concert images to psychedelic art, you can bring the vibrant spirit of Phish to your device. Download your favorite designs and let your love for music shine every time you unlock your iPhone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Phish Backgrounds by request : r/phish">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-phish-backgrounds-by-request-v0-a4fktx3pe59a1.jpg?width=1125&format=pjpg&auto=webp&s=8cd29e954f90a7b2f3aa9da4b5afb50761607d82' alt='More Phish Backgrounds by request : r/phish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-phish-backgrounds-by-request-v0-a4fktx3pe59a1.jpg?width=1125&format=pjpg&auto=webp&s=8cd29e954f90a7b2f3aa9da4b5afb50761607d82' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish.Net: Phish Phone Backgrounds to share">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qo7jb2eh4qaa1.jpg?width=1663&format=pjpg&auto=webp&s=67f0ed5b3b76589d34bfadad88bb83ae1fe7b2d8' alt='Phish.Net: Phish Phone Backgrounds to share'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1663">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phish.net Forum" />
+                                </span>
+                                <a href='https://preview.redd.it/qo7jb2eh4qaa1.jpg?width=1663&format=pjpg&auto=webp&s=67f0ed5b3b76589d34bfadad88bb83ae1fe7b2d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish.Net: Phish Phone Backgrounds to share">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7oo2yvdh4qaa1.jpg?width=1663&format=pjpg&auto=webp&s=ac3816d8c99b5125dcf1ec2ace16babc05ee8795' alt='Phish.Net: Phish Phone Backgrounds to share'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1663">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phish.net Forum" />
+                                </span>
+                                <a href='https://preview.redd.it/7oo2yvdh4qaa1.jpg?width=1663&format=pjpg&auto=webp&s=ac3816d8c99b5125dcf1ec2ace16babc05ee8795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Phish Backgrounds by request : r/phish">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-phish-backgrounds-by-request-v0-fjl54x9ne59a1.jpg?width=640&crop=smart&auto=webp&s=bdce285b405ebc5e6a51476478d4eefce3378333' alt='More Phish Backgrounds by request : r/phish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-phish-backgrounds-by-request-v0-fjl54x9ne59a1.jpg?width=640&crop=smart&auto=webp&s=bdce285b405ebc5e6a51476478d4eefce3378333' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish.Net: Phish Iphone 5 Wallpapers?">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/okbCI.jpg' alt='Phish.Net: Phish Iphone 5 Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phish.net Forum" />
+                                </span>
+                                <a href='http://i.imgur.com/okbCI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish.Net: Phish Iphone 5 Wallpapers?">
+                                <img itemprop="contentUrl url" src='http://media.musictoday.com/store/bands/840/product_large/LightnessWallpaper.jpg' alt='Phish.Net: Phish Iphone 5 Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phish.net Forum" />
+                                </span>
+                                <a href='http://media.musictoday.com/store/bands/840/product_large/LightnessWallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish.Net">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/BM2Sj.png' alt='Phish.Net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phish.Net" />
+                                </span>
+                                <a href='http://i.imgur.com/BM2Sj.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Phish Backgrounds by request : r/phish">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-phish-backgrounds-by-request-v0-bni0znfye59a1.jpg?width=1421&format=pjpg&auto=webp&s=402519b494e53e3865718e6dec15daa511e463f4' alt='More Phish Backgrounds by request : r/phish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1421">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-phish-backgrounds-by-request-v0-bni0znfye59a1.jpg?width=1421&format=pjpg&auto=webp&s=402519b494e53e3865718e6dec15daa511e463f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phish wallpaper - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/JpydcGK.png' alt='Phish wallpaper - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/JpydcGK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Phish Backgrounds by request : r/phish">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-phish-backgrounds-by-request-v0-w0qshrc2f59a1.jpg?width=1125&format=pjpg&auto=webp&s=c3c4d8ab563d176105c73ffba79be303b61e7b46' alt='More Phish Backgrounds by request : r/phish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-phish-backgrounds-by-request-v0-w0qshrc2f59a1.jpg?width=1125&format=pjpg&auto=webp&s=c3c4d8ab563d176105c73ffba79be303b61e7b46' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic iPhone Lock Screen Wallpapers for a Stylish Look</title>
+                    <meta name="description" content="Explore unique aesthetic wallpapers for your iPhone lock screen. Enhance your device's charm with creative designs that showcase your style. Perfect for making a statement every time you unlock your phone!">
+                    <meta name="keywords" content="iphone:6_u5ixluloy= lockscreen:n8xx75tqq5c= aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/iphone6_u5ixluloy-lockscreenn8xx75tqq5c-aesthetic-wallpaper">
+                            <span itemprop="name">iphone:6_u5ixluloy= lockscreen:n8xx75tqq5c= aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic iPhone Lock Screen Wallpapers for a Stylish Look</h1>
+                <p>Transform your iPhone with stunning aesthetic wallpapers designed for a stylish lock screen. Discover a collection of visually striking patterns and colors that enhance your device’s look while reflecting your unique personality. Elevate your daily experience with wallpapers that inspire and captivate every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/55/ce/2555ced26e1289d460059e8e963d1713.jpg' alt='iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/55/ce/2555ced26e1289d460059e8e963d1713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="570 Best aesthetic: lockscreen ideas | iphone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/23/d6/83/23d683ff96947848e6aaa89800844d5c.jpg' alt='570 Best aesthetic: lockscreen ideas | iphone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/23/d6/83/23d683ff96947848e6aaa89800844d5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper aesthetic iphone lockscreen l">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/e1/e3/23e1e355ef500aeb460fd3cb122e1034.jpg' alt='wallpaper aesthetic iphone lockscreen l'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/e1/e3/23e1e355ef500aeb460fd3cb122e1034.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="570 Best aesthetic: lockscreen ideas | iphone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/a7/ac/c5a7aca7d8c62b25d06b8bd0e3a4ba50.jpg' alt='570 Best aesthetic: lockscreen ideas | iphone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/a7/ac/c5a7aca7d8c62b25d06b8bd0e3a4ba50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic locks — C E L E S T I A L Please like/reblog if you're...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/e1/3f/e3e13f588eb29bf2414adee13b9af595.jpg' alt='aesthetic locks — C E L E S T I A L Please like/reblog if you're...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/e1/3f/e3e13f588eb29bf2414adee13b9af595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Aesthetic Lock Screens ideas | iphone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/62/59/5d6259451eb33259fec72fca1bbe9389.jpg' alt='240 Aesthetic Lock Screens ideas | iphone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/62/59/5d6259451eb33259fec72fca1bbe9389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute iphone lockscreen from tumblr xoxo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/00/2f/08/002f08385750514b4797b1592dd0d19f.jpg' alt='cute iphone lockscreen from tumblr xoxo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/00/2f/08/002f08385750514b4797b1592dd0d19f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 Fundos s2 ideas | aesthetic wallpapers, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/14/7f/0b147f658b49277848b9c463fb1a285d.jpg' alt='38 Fundos s2 ideas | aesthetic wallpapers, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/14/7f/0b147f658b49277848b9c463fb1a285d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Iphone wallpapers ideas | cute wallpapers, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/3a/4e/56/3a4e561a446de19d5bd6f6cccc755c5a.jpg' alt='310 Iphone wallpapers ideas | cute wallpapers, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/3a/4e/56/3a4e561a446de19d5bd6f6cccc755c5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/fa/37/bcfa370b500c7ed07628d4cadadd2c0e.jpg' alt='iPhone 6 Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/fa/37/bcfa370b500c7ed07628d4cadadd2c0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Why is My DoorDash Background Check Delayed?</title>
+                    <meta name="description" content="Discover the reasons behind delays in your DoorDash background check, including possible high demand or verification issues. Stay informed and learn what you can do while waiting for approval. Perfect for aspiring DoorDash drivers seeking answers. Optimize your delivery journey!">
+                    <meta name="keywords" content="why is my doordash background check taking so long">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-is-my-doordash-background-check-taking-so-long">
+                            <span itemprop="name">why is my doordash background check taking so long</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why is My DoorDash Background Check Delayed?</h1>
+                <p>There are several reasons why your DoorDash background check may be taking longer than expected. Factors such as high demand for drivers, the thoroughness of the verification process, or issues with your provided information can contribute to delays. It's important to stay patient and check your email for updates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check is taking too long. I've submitted this a few ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/u6psdvudi6081.jpg?auto=webp&s=b09e7bb7aaaef5c6b4038546a8de2ea1e94af04e' alt='Background Check is taking too long. I've submitted this a few ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/u6psdvudi6081.jpg?auto=webp&s=b09e7bb7aaaef5c6b4038546a8de2ea1e94af04e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check is taking too long. I've submitted this a few ...">
+                                <img itemprop="contentUrl url" src='https://b.thumbs.redditmedia.com/pMnvf1gZcNFEVufipLMqqsUDf7luFbY5fIrhM_JsXtU.jpg' alt='Background Check is taking too long. I've submitted this a few ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="140">
+                                <meta itemprop="height" content="140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://b.thumbs.redditmedia.com/pMnvf1gZcNFEVufipLMqqsUDf7luFbY5fIrhM_JsXtU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="help! my background check was passed, and the doordash app brought ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nhnaaqbaviy61.jpg?auto=webp&s=ac8ce1ce1a3a8d46c55fe20c03d2960709f3155a' alt='help! my background check was passed, and the doordash app brought ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nhnaaqbaviy61.jpg?auto=webp&s=ac8ce1ce1a3a8d46c55fe20c03d2960709f3155a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been stuck on background check page for 6 months. Someone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ive-been-stuck-on-background-check-page-for-6-months-v0-a0cxkidpmic81.jpg?width=640&crop=smart&auto=webp&s=b90e842fcf8ac9a14816acd4dc07d7fc4f158f3d' alt='I've been stuck on background check page for 6 months. Someone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ive-been-stuck-on-background-check-page-for-6-months-v0-a0cxkidpmic81.jpg?width=640&crop=smart&auto=webp&s=b90e842fcf8ac9a14816acd4dc07d7fc4f158f3d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long will my background check take to complete? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-long-will-my-background-check-take-to-complete-v0-r4sxu3eb2e6a1.jpg?width=640&crop=smart&auto=webp&s=f12195c30bd5460642cd08752a7f7dc8de7da8ae' alt='How long will my background check take to complete? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-long-will-my-background-check-take-to-complete-v0-r4sxu3eb2e6a1.jpg?width=640&crop=smart&auto=webp&s=f12195c30bd5460642cd08752a7f7dc8de7da8ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#doordash#uber#lyft#run#background#check#on#divers#once#per#year# | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7244184233256733994&location=0&aid=1988' alt='#doordash#uber#lyft#run#background#check#on#divers#once#per#year# | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7244184233256733994&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Take?">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7174882986679192874&location=0&aid=1988' alt='How Long Does a Background Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7174882986679192874&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can i get past this step? My background is good i cant get ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8gl0fce7ifz41.jpg?width=640&crop=smart&auto=webp&s=9af6f7ef8725a91e05c146de9492d6cb2c1cd3a6' alt='How can i get past this step? My background is good i cant get ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8gl0fce7ifz41.jpg?width=640&crop=smart&auto=webp&s=9af6f7ef8725a91e05c146de9492d6cb2c1cd3a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why can't I dash? : r/doordash">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/why-cant-i-dash-v0-0c4qoero7wcd1.jpeg?auto=webp&s=f3a1abbc06cc8947d61b544fce51b5bef1e3f1f0' alt='Why can't I dash? : r/doordash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/why-cant-i-dash-v0-0c4qoero7wcd1.jpeg?auto=webp&s=f3a1abbc06cc8947d61b544fce51b5bef1e3f1f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I had literally just signed up, got my background check completed ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-had-literally-just-signed-up-got-my-background-check-v0-fo1o770r6kcb1.jpg?width=640&crop=smart&auto=webp&s=1a017c9fe7063e86998efe7654b10467d120efc4' alt='I had literally just signed up, got my background check completed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-had-literally-just-signed-up-got-my-background-check-v0-fo1o770r6kcb1.jpg?width=640&crop=smart&auto=webp&s=1a017c9fe7063e86998efe7654b10467d120efc4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

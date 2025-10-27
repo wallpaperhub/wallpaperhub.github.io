@@ -1,0 +1,129 @@
+<title>Pearl Harbor Bombing: A Turning Point in WWII</title>
+                    <meta name="description" content="Discover the pivotal events surrounding the Pearl Harbor bombing on December 7, 1941. Learn how this surprise attack by Japan led to the U.S. entering World War II and transformed the course of history. Explore key facts, impacts, and lasting significance in this crucial moment in American history.">
+                    <meta name="keywords" content="bombing of pearl harbor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bombing-of-pearl-harbor">
+                            <span itemprop="name">bombing of pearl harbor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pearl Harbor Bombing: A Turning Point in WWII</h1>
+                <p>The bombing of Pearl Harbor on December 7, 1941, was a surprise military attack by the Japanese Navy Air Service against the United States naval base in Hawaii. This devastating assault resulted in significant loss of life and prompted the U.S. to formally enter World War II, marking a turning point in the conflict.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Harbor attack | Date, History, Map, Casualties, Timeline ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/81/71381-050-0042470B/battleship-attack-Pearl-Harbor-Japanese-Hawaii-December-7-1941.jpg' alt='Pearl Harbor attack | Date, History, Map, Casualties, Timeline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/81/71381-050-0042470B/battleship-attack-Pearl-Harbor-Japanese-Hawaii-December-7-1941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Harbor: Attack, Deaths & Facts | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/pearl-harbor-gettyimages-2660129.jpg' alt='Pearl Harbor: Attack, Deaths & Facts | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/pearl-harbor-gettyimages-2660129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Harbor Attack, December 7, 1941 | The National WWII Museum ...">
+                                <img itemprop="contentUrl url" src='https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2021-12/USS%20West%20Virginia%20Pearl%20Harbor%20Attack%20-%20Naval%20History%20and%20Heritage%20Command%2C%2097398-3.jpg?h=07f9aabd' alt='Pearl Harbor Attack, December 7, 1941 | The National WWII Museum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National WWII Museum" />
+                                </span>
+                                <a href='https://www.nationalww2museum.org/sites/default/files/styles/wide_medium/public/2021-12/USS%20West%20Virginia%20Pearl%20Harbor%20Attack%20-%20Naval%20History%20and%20Heritage%20Command%2C%2097398-3.jpg?h=07f9aabd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attack on Pearl Harbor - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg' alt='Attack on Pearl Harbor - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6404">
+                                <meta itemprop="height" content="4543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attack on Pearl Harbor - 1941 - Nuclear Museum">
+                                <img itemprop="contentUrl url" src='https://ahf.nuclearmuseum.org/wp-content/uploads/2014/06/Pearl%20Harbor%20aftermath.jpg' alt='Attack on Pearl Harbor - 1941 - Nuclear Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="1018">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atomic Heritage Foundation - National Museum of Nuclear Science ..." />
+                                </span>
+                                <a href='https://ahf.nuclearmuseum.org/wp-content/uploads/2014/06/Pearl%20Harbor%20aftermath.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Attack on Pearl Harbor | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/96/192896-131-ECCA4FB7/Explosion-USS-Shaw-magazine-attack-Pearl-Harbor-Dec-7-1941.jpg' alt='The Attack on Pearl Harbor | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/96/192896-131-ECCA4FB7/Explosion-USS-Shaw-magazine-attack-Pearl-Harbor-Dec-7-1941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happened At The Pearl Harbor Attack In December 1941">
+                                <img itemprop="contentUrl url" src='https://www.iwm.org.uk/sites/default/files/2018-06/1_286.jpg' alt='What Happened At The Pearl Harbor Attack In December 1941'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="865">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperial War Museums" />
+                                </span>
+                                <a href='https://www.iwm.org.uk/sites/default/files/2018-06/1_286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Harbor bombed | December 7, 1941 | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/pearl-harbor-gettyimages-50691201.jpg' alt='Pearl Harbor bombed | December 7, 1941 | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/pearl-harbor-gettyimages-50691201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 years later, what is the legacy of Pearl Harbor? - USC Today">
+                                <img itemprop="contentUrl url" src='https://today.usc.edu/wp-content/uploads/2016/12/pearlharborfull_web.jpg' alt='75 years later, what is the legacy of Pearl Harbor? - USC Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USC Today - University of Southern California" />
+                                </span>
+                                <a href='https://today.usc.edu/wp-content/uploads/2016/12/pearlharborfull_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In pictures: The attack on Pearl Harbor | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/191205124706-06-pearl-harbor-attack-restricted.jpg?q=w_1600,h_1230,x_0,y_0,c_fill' alt='In pictures: The attack on Pearl Harbor | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/191205124706-06-pearl-harbor-attack-restricted.jpg?q=w_1600,h_1230,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

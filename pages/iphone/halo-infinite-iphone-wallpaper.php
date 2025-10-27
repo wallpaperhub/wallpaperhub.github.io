@@ -1,0 +1,129 @@
+<title>Stunning Halo Infinite iPhone Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover captivating Halo Infinite iPhone wallpapers that elevate your device's look. Choose from a variety of striking designs featuring your favorite characters and scenes. Perfect for gamers wanting to showcase their love for Halo while maintaining a sleek, mobile-friendly aesthetic. Download now!">
+                    <meta name="keywords" content="halo infinite iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/halo-infinite-iphone-wallpaper">
+                            <span itemprop="name">halo infinite iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Halo Infinite iPhone Wallpapers for Gamers</h1>
+                <p>Explore the world of Halo Infinite with stunning iPhone wallpapers that capture the essence of the game. From epic battles to breathtaking landscapes, these wallpapers bring the iconic characters and vivid visuals right to your screen. Customize your device and immerse yourself in the Halo universe every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite UHD - Iphone XR Wallpaper : r/XboxSeriesX">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lrcob0hcsgc51.jpg?auto=webp&s=eb2943c5489ba590cd15401262c8b35ec3f299be' alt='Halo Infinite UHD - Iphone XR Wallpaper : r/XboxSeriesX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lrcob0hcsgc51.jpg?auto=webp&s=eb2943c5489ba590cd15401262c8b35ec3f299be' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite HD Clean Mobile Wallpaper [1995x3980] : r/halo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vsaftsswlhc51.jpg' alt='Halo Infinite HD Clean Mobile Wallpaper [1995x3980] : r/halo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1995">
+                                <meta itemprop="height" content="3980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vsaftsswlhc51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW Halo Infinite Master Chief In-game pose : iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x7ee00eka7c51.png' alt='NEW Halo Infinite Master Chief In-game pose : iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x7ee00eka7c51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo infinite 2021">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/5d/63/ae5d63930fe73fbc1da68391bf05cfcd.jpg' alt='Halo infinite 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/5d/63/ae5d63930fe73fbc1da68391bf05cfcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo 4 - iPhone 5 Retina Wallpaper : r/iphone">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/66azUTe9CmHfjDmhHUbIx9ShThCuUYeTq1SyQmz3z2s.jpg?auto=webp&s=e8f55f0060655def1c70fe891fa2025e79800ae5' alt='Halo 4 - iPhone 5 Retina Wallpaper : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1488">
+                                <meta itemprop="height" content="2897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/66azUTe9CmHfjDmhHUbIx9ShThCuUYeTq1SyQmz3z2s.jpg?auto=webp&s=e8f55f0060655def1c70fe891fa2025e79800ae5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halo infinite 2020 iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/e6/d8/63e6d891fa54064289b36d5cc81a150e.jpg' alt='halo infinite 2020 iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/e6/d8/63e6d891fa54064289b36d5cc81a150e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo infinite, haloinfinite, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/73/395/HD-wallpaper-halo-infinite-haloinfinite.jpg' alt='Halo infinite, haloinfinite, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/73/395/HD-wallpaper-halo-infinite-haloinfinite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo Infinite Digital Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/halo-infinite-digital-art-82jhrbmloyz7mx8a.jpg' alt='Halo Infinite Digital Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/halo-infinite-digital-art-82jhrbmloyz7mx8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD green men halo infinite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/248/658/HD-wallpaper-green-men-halo-infinite-8k-iphone-11-thumbnail.jpg' alt='HD green men halo infinite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/248/658/HD-wallpaper-green-men-halo-infinite-8k-iphone-11-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halo: Infinite Mobile Wallpaper by a49620366 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57474aed-d145-4e4c-b7cd-d4629f5c1e5a/dce6wvz-bfef8c79-c3aa-4b30-a788-10282d23326b.jpg/v1/fill/w_900,h_1600,q_75,strp/halo__infinite_mobile_wallpaper_by_a49620366_dce6wvz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzU3NDc0YWVkLWQxNDUtNGU0Yy1iN2NkLWQ0NjI5ZjVjMWU1YVwvZGNlNnd2ei1iZmVmOGM3OS1jM2FhLTRiMzAtYTc4OC0xMDI4MmQyMzMyNmIuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GCCWKG0JkIePThk0vQ2c7c797Z-sAVt_ce8sgUMA3nE' alt='Halo: Infinite Mobile Wallpaper by a49620366 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57474aed-d145-4e4c-b7cd-d4629f5c1e5a/dce6wvz-bfef8c79-c3aa-4b30-a788-10282d23326b.jpg/v1/fill/w_900,h_1600,q_75,strp/halo__infinite_mobile_wallpaper_by_a49620366_dce6wvz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzU3NDc0YWVkLWQxNDUtNGU0Yy1iN2NkLWQ0NjI5ZjVjMWU1YVwvZGNlNnd2ei1iZmVmOGM3OS1jM2FhLTRiMzAtYTc4OC0xMDI4MmQyMzMyNmIuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GCCWKG0JkIePThk0vQ2c7c797Z-sAVt_ce8sgUMA3nE' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stylish Mason Wallpaper</title>
+                    <meta name="description" content="Discover the beauty and versatility of mason wallpaper. Ideal for adding a touch of rustic charm or modern elegance, our collection caters to all design preferences. Elevate your interiors effortlessly with stylish options that redefine your living spaces. Perfect for any room! Explore now!">
+                    <meta name="keywords" content="mason wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mason-wallpaper">
+                            <span itemprop="name">mason wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stylish Mason Wallpaper</h1>
+                <p>Mason wallpaper offers a robust design that combines elegance with functionality. Perfect for creating a rustic or industrial vibe, these wallpapers come in various styles, colors, and textures. Whether renovating a single room or an entire home, mason wallpaper can enhance your space and add character effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason with names, horizontal text, Mason name, blue neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/101/673/HD-wallpaper-mason-with-names-horizontal-text-mason-name-blue-neon-lights-with-mason-name.jpg' alt='Mason with names, horizontal text, Mason name, blue neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/101/673/HD-wallpaper-mason-with-names-horizontal-text-mason-name-blue-neon-lights-with-mason-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Name Stock Illustrations – 50 Mason Name Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cool-graffiti-name-illustration-perfect-gift-family-member-friend-street-art-skate-board-inspired-design-mason-186771246.jpg' alt='Mason Name Stock Illustrations – 50 Mason Name Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cool-graffiti-name-illustration-perfect-gift-family-member-friend-street-art-skate-board-inspired-design-mason-186771246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ Masonic Phone Wallpapers (Free Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/71/02/247102ef7d95848544b1ba503a748443.jpg' alt='350+ Masonic Phone Wallpapers (Free Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/71/02/247102ef7d95848544b1ba503a748443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masonic Wallpaper for your Desktop or Phone">
+                                <img itemprop="contentUrl url" src='https://masonicshop.com/masonic-wallpaper/pics/full/10.jpg' alt='Masonic Wallpaper for your Desktop or Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="masonicshop.com" />
+                                </span>
+                                <a href='https://masonicshop.com/masonic-wallpaper/pics/full/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mason name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/684/605/HD-wallpaper-happy-birtay-mason-blue-neon-lights-mason-name-creative-mason-happy-birtay-mason-birtay-popular-american-male-names-with-mason-name-mason.jpg' alt='HD mason name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/684/605/HD-wallpaper-happy-birtay-mason-blue-neon-lights-mason-name-creative-mason-happy-birtay-mason-birtay-popular-american-male-names-with-mason-name-mason.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masonic Wallpaper for your Desktop or Phone">
+                                <img itemprop="contentUrl url" src='https://masonicshop.com/masonic-wallpaper/pics/full/15.jpg' alt='Masonic Wallpaper for your Desktop or Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="masonicshop.com" />
+                                </span>
+                                <a href='https://masonicshop.com/masonic-wallpaper/pics/full/15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="freemason-wallpaper-1680×1050-1 – Mt. Pickering #446">
+                                <img itemprop="contentUrl url" src='https://mtpickering446.com/wp-content/uploads/2021/12/freemason-wallpaper-1680x1050-1.jpg' alt='freemason-wallpaper-1680×1050-1 – Mt. Pickering #446'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mt. Pickering #446" />
+                                </span>
+                                <a href='https://mtpickering446.com/wp-content/uploads/2021/12/freemason-wallpaper-1680x1050-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason, vertical text, Mason name, with names, blue neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/824/814/HD-wallpaper-mason-vertical-text-mason-name-with-names-blue-neon-lights-with-mason-name.jpg' alt='Mason, vertical text, Mason name, with names, blue neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/824/814/HD-wallpaper-mason-vertical-text-mason-name-with-names-blue-neon-lights-with-mason-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Freemasonry Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8f/a1/19/8fa11979cd239bf09a13a5aee4672eca.gif' alt='   Freemasonry Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8f/a1/19/8fa11979cd239bf09a13a5aee4672eca.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masonic Wallpaper for your Desktop or Phone">
+                                <img itemprop="contentUrl url" src='https://masonicshop.com/masonic-wallpaper/pics/full/5.jpg' alt='Masonic Wallpaper for your Desktop or Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="masonicshop.com" />
+                                </span>
+                                <a href='https://masonicshop.com/masonic-wallpaper/pics/full/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

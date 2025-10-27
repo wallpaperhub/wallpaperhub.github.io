@@ -1,0 +1,129 @@
+<title>The Best Masters Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover exquisite masters wallpapers for your iPhone, showcasing timeless art from history’s greatest artists. Perfectly designed for mobile screens, these wallpapers will inspire and beautify your device, making every glance a visual delight. Upgrade your phone’s look with stunning art today!">
+                    <meta name="keywords" content="the masters wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/the-masters-wallpaper-iphone">
+                            <span itemprop="name">the masters wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Best Masters Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's aesthetics with stunning masters wallpaper! Featuring iconic works from renowned artists, these wallpapers add a touch of sophistication to your device. Whether you adore Van Gogh, Monet, or Picasso, immerse yourself in art every time you unlock your screen. Download now and transform your phone into a gallery!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper : r/masters">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/iphone-wallpaper-v0-GXQp5kEo2n2KvU7bvZSz06vgtDTE1BSlSKM4xpxQCqg.jpg?width=640&crop=smart&auto=webp&s=a260e69e2ba1eaa5a31a91138732161d957af6b2' alt='iPhone Wallpaper : r/masters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/iphone-wallpaper-v0-GXQp5kEo2n2KvU7bvZSz06vgtDTE1BSlSKM4xpxQCqg.jpg?width=640&crop=smart&auto=webp&s=a260e69e2ba1eaa5a31a91138732161d957af6b2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You thought I wouldn't make The Masters 2019 app my lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/341b6ne8yqr21.jpg' alt='You thought I wouldn't make The Masters 2019 app my lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/341b6ne8yqr21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Augusta National Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/augusta-national-iphone-o89yo3nbh4qclwi1.jpg' alt='100+] Augusta National Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/augusta-national-iphone-o89yo3nbh4qclwi1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Take in the beauty and tranquillity of Augusta National ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/augusta-national-iphone-sjhsyo975koshwy0.jpg' alt='Download Take in the beauty and tranquillity of Augusta National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/augusta-national-iphone-sjhsyo975koshwy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/85/78/618578a822213eb9075d2e0ea787b3c6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/85/78/618578a822213eb9075d2e0ea787b3c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Always grateful to be @themasters at Augusta National! Thanks to ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3077939003814480562' alt='Always grateful to be @themasters at Augusta National! Thanks to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3077939003814480562' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Augusta National 12th Hole The Masters Photo Wall Art Golf Photos Artwork  8x12">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IACwq7JFL._AC_UF894,1000_QL80_.jpg' alt='Augusta National 12th Hole The Masters Photo Wall Art Golf Photos Artwork  8x12'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IACwq7JFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Augusta National Golf Club and the Masters Golf Tournament - Mike ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/50f0c4fae4b02b3b2218431c/1362382620565-JJ8DSFXPJTNJO6UZ71LI/Augusta_National_Golf_Club_clubhouse.jpg' alt='Augusta National Golf Club and the Masters Golf Tournament - Mike ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="409">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mike Fiechtner Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/50f0c4fae4b02b3b2218431c/1362382620565-JJ8DSFXPJTNJO6UZ71LI/Augusta_National_Golf_Club_clubhouse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A decade after the last iteration, Augusta National has returned ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3072783759082830790' alt='A decade after the last iteration, Augusta National has returned ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3072783759082830790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Sports Wallpaper Thread | Page 237 | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/img_0063-png.688565/' alt='iPhone 6 Sports Wallpaper Thread | Page 237 | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/img_0063-png.688565/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

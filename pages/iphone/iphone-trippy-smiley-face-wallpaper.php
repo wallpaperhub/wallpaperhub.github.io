@@ -1,0 +1,129 @@
+<title>Vibrant Trippy Smiley Face Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a collection of vibrant trippy smiley face wallpapers for your iPhone. Brighten your screen with unique designs that inspire joy and creativity. Perfect for those who love playful aesthetics and want to add a touch of whimsy to their mobile experience!">
+                    <meta name="keywords" content="iphone trippy smiley face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-trippy-smiley-face-wallpaper">
+                            <span itemprop="name">iphone trippy smiley face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Trippy Smiley Face Wallpapers for iPhone</h1>
+                <p>Discover mesmerizing iPhone trippy smiley face wallpapers that ignite your screen with vibrant colors and whimsical designs. Perfect for adding a playful vibe to your phone, these wallpapers bring joy and creativity right to your device. Transform your iPhone with unique, smiley-infused art that keeps you smiling every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' alt='Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Smiley Face Wallpaper - Trippy Dark Aesthetic Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/04/trippy-smiley-face-black-yellow-wallpaper-scaled.jpg' alt='Trippy Smiley Face Wallpaper - Trippy Dark Aesthetic Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/04/trippy-smiley-face-black-yellow-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley trippy face *sage*">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/49/67/a9/4967a9592f4ef073af8a6bf4a1a3a331.jpg' alt='Smiley trippy face *sage*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/49/67/a9/4967a9592f4ef073af8a6bf4a1a3a331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy happy face">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e6/22/5e/e6225e1f941b636e37f8dbec841885fe.jpg' alt='Trippy happy face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e6/22/5e/e6225e1f941b636e37f8dbec841885fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trippy Face Cow Print Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trippy-face-88qw4sk8d814uslx.jpg' alt='Download Trippy Face Cow Print Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trippy-face-88qw4sk8d814uslx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smileys, 2021, iphone, smiley, trippy, yellow, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/804/662/HD-wallpaper-smileys-2021-iphone-smiley-trippy-yellow.jpg' alt='Smileys, 2021, iphone, smiley, trippy, yellow, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/804/662/HD-wallpaper-smileys-2021-iphone-smiley-trippy-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Trippy Smiley Wallpapers - Trippy Aesthetic Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/05/colorful-trippy-smiley-face-wallpaper-3-scaled.jpg' alt='Colorful Trippy Smiley Wallpapers - Trippy Aesthetic Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/05/colorful-trippy-smiley-face-wallpaper-3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Melted Smiley Face Psychedelic Pattern | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1945591353.0048/flat,750x1000,075,t.jpg' alt='Hot Pink Melted Smiley Face Psychedelic Pattern | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1945591353.0048/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Trippy Face Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/f1/68/74f16864fefd9a11edfebe768129ac79.jpg' alt='   Trippy Face Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/f1/68/74f16864fefd9a11edfebe768129ac79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Abstract Beige Dripping Aesthetic Trippy Smiley Face ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-beige-dripping-aesthetic-trippy-smiley-face-orgw8x0y0rgarofg.jpg' alt='Download Abstract Beige Dripping Aesthetic Trippy Smiley Face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-beige-dripping-aesthetic-trippy-smiley-face-orgw8x0y0rgarofg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

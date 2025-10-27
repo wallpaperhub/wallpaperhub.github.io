@@ -1,0 +1,129 @@
+<title>Stranger Things Wallpaper: Elevate Your Room Style</title>
+                    <meta name="description" content="Discover the best "Stranger Things" wallpapers to revamp your space! Perfect for fans, these eye-catching designs capture the essence of the series, bringing nostalgia and style to any room. Explore a variety of colors and themes to make your walls come alive today!">
+                    <meta name="keywords" content="stranger things wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stranger-things-wallpaper">
+                            <span itemprop="name">stranger things wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stranger Things Wallpaper: Elevate Your Room Style</h1>
+                <p>Transform your space with captivating "Stranger Things" wallpapers that bring the eerie nostalgia of Hawkins to life! Featuring iconic characters and scenes, these designs are perfect for fans wanting to enhance their rooms. Choose from vibrant colors and surreal designs to create a unique ambiance that celebrates the spirit of the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Wallpapers (83 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/b/124212-1200x2134-phone-hd-stranger-things-wallpaper-photo.jpg' alt='Stranger Things Wallpapers (83 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/b/124212-1200x2134-phone-hd-stranger-things-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix “Stranger Things” Peel and Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK12550M.jpg?v=1694551730' alt='Netflix “Stranger Things” Peel and Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK12550M.jpg?v=1694551730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bored, so made a phone wallpaper. : r/StrangerThings">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uuzw0xpetdb31.png' alt='Bored, so made a phone wallpaper. : r/StrangerThings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uuzw0xpetdb31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Stranger Things Aesthetic Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/stranger-things-aesthetic-desktop-hrz824k4nubtbmy3.jpg' alt='100+] Stranger Things Aesthetic Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/stranger-things-aesthetic-desktop-hrz824k4nubtbmy3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Stranger Things HD Wallpapers in 1440P Resolution, 2560x1440 ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='30+ Stranger Things HD Wallpapers in 1440P Resolution, 2560x1440 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things “The Upside Down” Peel and Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK12551M.jpg?v=1694551691' alt='Stranger Things “The Upside Down” Peel and Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK12551M.jpg?v=1694551691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210 Stranger things wallpapers ideas | stranger things wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/35/21/7a/35217aa978550a2219f45bb2f6d25256.jpg' alt='210 Stranger things wallpapers ideas | stranger things wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/35/21/7a/35217aa978550a2219f45bb2f6d25256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Wallpaper 4K, Poster, Netflix series, Key Art">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/stranger-things-1080x1920-18568.jpg' alt='Stranger Things Wallpaper 4K, Poster, Netflix series, Key Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/stranger-things-1080x1920-18568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Stranger Things Cute Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/stranger-things-cute-8y0wbevfozp6ai9y.jpg' alt='100+] Stranger Things Cute Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/stranger-things-cute-8y0wbevfozp6ai9y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do you like stranger things wallpaper ? You should see stranger ...">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7281/5a1503092b9e00808ffd8732bc9d9199cd4b7b04r1-494-750v2_uhq.jpg' alt='Do you like stranger things wallpaper ? You should see stranger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7281/5a1503092b9e00808ffd8732bc9d9199cd4b7b04r1-494-750v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

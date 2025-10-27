@@ -1,0 +1,129 @@
+<title>"Illuminate Your Event: The Neon Stage Experience"</title>
+                    <meta name="description" content="Discover the magic of the neon stage, where brilliant lights and colors transform events into unforgettable experiences. Perfect for concerts and performances, the neon stage sets the tone for creativity and excitement. Illuminate your special occasion with an ambiance that dazzles and delights!">
+                    <meta name="keywords" content="neon stage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-stage">
+                            <span itemprop="name">neon stage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Illuminate Your Event: The Neon Stage Experience"</h1>
+                <p>The neon stage is a dazzling expanse where vibrant lights and bold colors converge to create an electrifying atmosphere. Ideal for concerts, performances, and events, this immersive setting captivates audiences, making every moment memorable. With stunning visuals and dynamic lighting, the neon stage brings creativity to life, enhancing any production.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concert Stage Podium With Racing Neon - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/1719985-ESpYlb6qIH-high_0014.jpg?w=660&q=60&fit=max&auto=format' alt='Concert Stage Podium With Racing Neon - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/1719985-ESpYlb6qIH-high_0014.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Neon Stage Symphony Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/2/8/2/282ba7db-44b7-468a-9a44-5ff8662086d6_large/neon-stage-symphony-stockcake.jpg' alt='Free Neon Stage Symphony Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/2/8/2/282ba7db-44b7-468a-9a44-5ff8662086d6_large/neon-stage-symphony-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stage Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vibrant-neon-lights-stage-background_23-2148291208.jpg' alt='Neon Stage Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vibrant-neon-lights-stage-background_23-2148291208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stage Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/023/164/735/small/futuristic-stage-colorful-neon-lights-stages-room-background-and-backdrop-empty-podium-for-product-display-or-presentations-abstract-modern-perfect-for-showcases-and-modern-projects-3d-rendering-photo.jpg' alt='Neon Stage Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/023/164/735/small/futuristic-stage-colorful-neon-lights-stages-room-background-and-backdrop-empty-podium-for-product-display-or-presentations-abstract-modern-perfect-for-showcases-and-modern-projects-3d-rendering-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon background video loop | Neon stage lighting background video |  animation background template">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NEoFa0ICOv8/maxresdefault.jpg' alt='neon background video loop | Neon stage lighting background video |  animation background template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NEoFa0ICOv8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leowefowa 7x5ft Bright Neon Stage Nightview Backdrop Vinyl Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cpVJRK8JL.jpg' alt='Leowefowa 7x5ft Bright Neon Stage Nightview Backdrop Vinyl Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1468">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cpVJRK8JL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stage Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/neon-lights-stage-background_52683-27861.jpg' alt='Neon Stage Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/neon-lights-stage-background_52683-27861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stage with neon lighting background with blank platform for ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/MH9DFH/stage-with-neon-lighting-background-with-blank-platform-for-concert-or-product-placement-3d-illustration-MH9DFH.jpg' alt='Stage with neon lighting background with blank platform for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/MH9DFH/stage-with-neon-lighting-background-with-blank-platform-for-concert-or-product-placement-3d-illustration-MH9DFH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stage Background Stock Illustrations – 97,557 Neon Stage ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-neon-stage-background-stunning-backdrop-featuring-purple-pink-lights-perfect-events-performances-as-visually-342627256.jpg' alt='Neon Stage Background Stock Illustrations – 97,557 Neon Stage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-neon-stage-background-stunning-backdrop-featuring-purple-pink-lights-perfect-events-performances-as-visually-342627256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lighting And Platform Stage — Stock Photo © solarseven #194048540">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/3203307/19404/i/1600/depositphotos_194048540-stock-photo-neon-lighting-and-platform-stage.jpg' alt='Neon Lighting And Platform Stage — Stock Photo © solarseven #194048540'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/3203307/19404/i/1600/depositphotos_194048540-stock-photo-neon-lighting-and-platform-stage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

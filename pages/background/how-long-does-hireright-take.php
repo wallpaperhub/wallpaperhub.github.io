@@ -1,0 +1,129 @@
+<title>How Long Does Hireright Take to Complete Background Checks?</title>
+                    <meta name="description" content="Discover how long Hireright's background checks typically take, ranging from 3 to 10 days. Learn about the factors influencing this timeline, including check complexity and source responsiveness. Stay informed and plan ahead for your hiring process!">
+                    <meta name="keywords" content="how long does hireright take">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-does-hireright-take">
+                            <span itemprop="name">how long does hireright take</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Does Hireright Take to Complete Background Checks?</h1>
+                <p>Hireright typically takes between 3 to 10 days to complete background checks, depending on the complexity and the responsiveness of the sources involved. Factors such as the scope of the check, required verifications, and local regulations can also influence the duration. It's best to plan ahead for potential delays.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanks for the help Hireright..... : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/64o4QZUNmQaTMsUOOv5De8tTouVpjIEirZdDqG6b4dk.png?auto=webp&s=6c2e4c4bc450bc19145e67914a624c77dd9b67b3' alt='Thanks for the help Hireright..... : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/64o4QZUNmQaTMsUOOv5De8tTouVpjIEirZdDqG6b4dk.png?auto=webp&s=6c2e4c4bc450bc19145e67914a624c77dd9b67b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight Review (2024) - Chamber Of Commerce">
+                                <img itemprop="contentUrl url" src='https://www.chamberofcommerce.org/wp-content/uploads/2019/05/HireRight-2.png' alt='HireRight Review (2024) - Chamber Of Commerce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="939">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ChamberofCommerce.org" />
+                                </span>
+                                <a href='https://www.chamberofcommerce.org/wp-content/uploads/2019/05/HireRight-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/signal-2021-11-23-194445.jpeg' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/signal-2021-11-23-194445.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did I pass my hire right background check ? : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' alt='Did I pass my hire right background check ? : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Document">
+                                <img itemprop="contentUrl url" src='https://www.sec.gov/Archives/edgar/data/1859285/000162828021020285/coverart2c_001a.jpg' alt='Document'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Document" />
+                                </span>
+                                <a href='https://www.sec.gov/Archives/edgar/data/1859285/000162828021020285/coverart2c_001a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does hireright typically take for a crimi... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/how-long-does-hireright-typically-take-for-a-criminal-employment-and-education-background-check-put-in-my-2-weeks-and-im.png' alt='How long does hireright typically take for a crimi... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/how-long-does-hireright-typically-take-for-a-criminal-employment-and-education-background-check-put-in-my-2-weeks-and-im.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.39.24.png' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.39.24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Microsoft HireRight Guide | Tech Industry - Blind">
+                                <img itemprop="contentUrl url" src='https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/943/bbd6e6366c933a80957bea9bb32b0427_res.jpeg' alt='Microsoft HireRight Guide | Tech Industry - Blind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blind" />
+                                </span>
+                                <a href='https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/943/bbd6e6366c933a80957bea9bb32b0427_res.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight">
+                                <img itemprop="contentUrl url" src='https://www.betterteam.com/images/hireright-2400x2400-20210112_2021-01-12-083445.jpg?crop=16:9,smart&width=1200&dpr=2&format=pjpg&auto=webp&quality=85' alt='HireRight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Betterteam" />
+                                </span>
+                                <a href='https://www.betterteam.com/images/hireright-2400x2400-20210112_2021-01-12-083445.jpg?crop=16:9,smart&width=1200&dpr=2&format=pjpg&auto=webp&quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long does HireRight LLC take to background che... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/how-long-does-hireright-llc-take-to-background-check-what-has-been-your-experience-what-happens-after-with-the-report-i.png' alt='How long does HireRight LLC take to background che... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/how-long-does-hireright-llc-take-to-background-check-what-has-been-your-experience-what-happens-after-with-the-report-i.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

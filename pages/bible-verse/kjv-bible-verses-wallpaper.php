@@ -1,0 +1,129 @@
+<title>KJV Bible Verses Wallpaper: Uplift Your Screen</title>
+                    <meta name="description" content="Discover stunning KJV Bible verses wallpaper to inspire and motivate you daily. Perfect for your devices, these beautiful backgrounds bring the wisdom of scripture right to your screen, enhancing your faith and uplifting your spirit wherever you go. Download your favorite designs today!">
+                    <meta name="keywords" content="kjv bible verses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/kjv-bible-verses-wallpaper">
+                            <span itemprop="name">kjv bible verses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>KJV Bible Verses Wallpaper: Uplift Your Screen</h1>
+                <p>Transform your device with inspiring KJV Bible verses wallpaper. Elevate your daily routine by surrounding yourself with the timeless wisdom of scripture. These beautiful backgrounds feature uplifting verses that provide motivation and encouragement. Perfect for sharing your faith, each wallpaper adds a spiritual touch to any screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KJV bible verse iPhone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/6a/8f/da6a8f0b6be070e3fda1ae820dfb4e46.jpg' alt='KJV bible verse iPhone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/6a/8f/da6a8f0b6be070e3fda1ae820dfb4e46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KJV verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/90/61/369061d1fe0529f48e31cba93bfffce8.jpg' alt='KJV verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/90/61/369061d1fe0529f48e31cba93bfffce8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] King James Bible Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/king-james-bible-8pp6xvsolo2j6vr5.jpg' alt='100+] King James Bible Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/king-james-bible-8pp6xvsolo2j6vr5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The King James Bible, 1611 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/king-james-bible-1080-x-1920-twctj8up9ln8sp9w.jpg' alt='Download The King James Bible, 1611 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/king-james-bible-1080-x-1920-twctj8up9ln8sp9w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philippians 4:13 KJV Mobile Wallpapers | Bible Verse Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/92/bf/0292bfd1a27962f3b242154df7575df2.jpg' alt='Philippians 4:13 KJV Mobile Wallpapers | Bible Verse Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/92/bf/0292bfd1a27962f3b242154df7575df2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bible verse wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/850/HD-wallpaper-2-timothy-1-7-bible-bible-verse-god-jesus-thumbnail.jpg' alt='HD bible verse wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/850/HD-wallpaper-2-timothy-1-7-bible-bible-verse-god-jesus-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KJV Bible Wallpapers: Seek First | Matthew 6:33 | + Phone Lockscreen">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEj1ij4OX8Yi6wlwIgjg3O65oZ3fWHduU-1fa_PtyAlc2DuRJYzBgdEEA1s9TPCyEcDMY_CHJBMEak7fFNOQp9_RQFJngLisMRCFUBvZeKq1Wxqar-i5A01Wo9AyRwJSY2TbAIPz4E4fVsbvqo_u-_Zd9eCSjmZzDg-Z1SWVcdqiwCtcBR5pigWaAqjd=s16000' alt='KJV Bible Wallpapers: Seek First | Matthew 6:33 | + Phone Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4138">
+                                <meta itemprop="height" content="2586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KJV Bible Wallpapers" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEj1ij4OX8Yi6wlwIgjg3O65oZ3fWHduU-1fa_PtyAlc2DuRJYzBgdEEA1s9TPCyEcDMY_CHJBMEak7fFNOQp9_RQFJngLisMRCFUBvZeKq1Wxqar-i5A01Wo9AyRwJSY2TbAIPz4E4fVsbvqo_u-_Zd9eCSjmZzDg-Z1SWVcdqiwCtcBR5pigWaAqjd=s16000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 46:1 KJV Mobile Wallpapers | Psalm 46:1 KJV HD-Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Psalm-46-1-KJV-Christian-Bible-Verse-Mobile-Wallpaper-5.jpg?w=640&ssl=1' alt='Psalm 46:1 KJV Mobile Wallpapers | Psalm 46:1 KJV HD-Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Psalm-46-1-KJV-Christian-Bible-Verse-Mobile-Wallpaper-5.jpg?w=640&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KJV Bible Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/35/31/78/353178a6f71da043d08f69eeb2871d0c.jpg' alt='KJV Bible Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/35/31/78/353178a6f71da043d08f69eeb2871d0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lamentations 3:25 KJV Desktop Wallpapers | Bible Verse Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Lamentations-3-25-KJV-Christian-Bible-Verse-Desktop-Wallpaper-8.jpg?fit=1440%2C900&ssl=1' alt='Lamentations 3:25 KJV Desktop Wallpapers | Bible Verse Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://i0.wp.com/top-bibleverses.com/wp-content/uploads/2021/12/Lamentations-3-25-KJV-Christian-Bible-Verse-Desktop-Wallpaper-8.jpg?fit=1440%2C900&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

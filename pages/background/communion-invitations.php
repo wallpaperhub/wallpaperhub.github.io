@@ -1,0 +1,129 @@
+<title>Beautiful Communion Invitations for Your Child's Special Day</title>
+                    <meta name="description" content="Discover stunning communion invitations that capture the essence of this special occasion. Personalize your invites to make them unique and memorable. Perfect for inviting family and friends to celebrate the joy of your child’s first communion. Shop now for elegant, customizable designs!">
+                    <meta name="keywords" content="communion invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/communion-invitations">
+                            <span itemprop="name">communion invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Communion Invitations for Your Child's Special Day</h1>
+                <p>Celebrate this sacred moment with beautiful communion invitations. Invite family and friends to witness the joy of your child's first communion. Choose from elegant designs, customizable options, and heartfelt messages. Make this special day unforgettable by sharing the occasion with loved ones through thoughtful invitations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Communion Invitation for Boys, Communion Invitations Boys ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9986719/r/il/0e8403/2261169061/il_fullxfull.2261169061_nacx.jpg' alt='First Communion Invitation for Boys, Communion Invitations Boys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9986719/r/il/0e8403/2261169061/il_fullxfull.2261169061_nacx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Holy Communion Invitation Template, Rustic Pink Flower Arch ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7739037/r/il/beac45/5490001834/il_fullxfull.5490001834_6xb4.jpg' alt='First Holy Communion Invitation Template, Rustic Pink Flower Arch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7739037/r/il/beac45/5490001834/il_fullxfull.5490001834_6xb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Wreath Boy Communion Invitation">
+                                <img itemprop="contentUrl url" src='https://c4.staticsfly.com/asset/fetch/cs/TP_STATIONERYCARD_5x7-23024-4206-MERCHLARGE_FRONT-ROUNDED/thumbnail.preview/v1' alt='Bright Wreath Boy Communion Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiny Prints" />
+                                </span>
+                                <a href='https://c4.staticsfly.com/asset/fetch/cs/TP_STATIONERYCARD_5x7-23024-4206-MERCHLARGE_FRONT-ROUNDED/thumbnail.preview/v1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLESSED LAURELS">
+                                <img itemprop="contentUrl url" src='https://sample1.planetart.com/preview/10-47430-1-663-663-2025-dcpDeco-re0.jpg' alt='BLESSED LAURELS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply to Impress" />
+                                </span>
+                                <a href='https://sample1.planetart.com/preview/10-47430-1-663-663-2025-dcpDeco-re0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leafy Greenery First Communion Invitations">
+                                <img itemprop="contentUrl url" src='http://www.customcandybarwrapper.com/cdn/shop/products/greenery-first-communion-invitations.jpg?v=1667349243' alt='Leafy Greenery First Communion Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Candy Bar Wrappers" />
+                                </span>
+                                <a href='http://www.customcandybarwrapper.com/cdn/shop/products/greenery-first-communion-invitations.jpg?v=1667349243' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls First Communion Invitations, Spanish First Communion Invitations For  Girls, Pink Communion Invitations, Girls Communion Invites With Envelopes  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61pXCpBDE6L._UF894,1000_QL80_.jpg' alt='Girls First Communion Invitations, Spanish First Communion Invitations For  Girls, Pink Communion Invitations, Girls Communion Invites With Envelopes  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61pXCpBDE6L._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Communion Invitation Template, Instant Download, Printable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21982910/r/il/4d34db/5153912388/il_fullxfull.5153912388_2uz5.jpg' alt='First Communion Invitation Template, Instant Download, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2108">
+                                <meta itemprop="height" content="2108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21982910/r/il/4d34db/5153912388/il_fullxfull.5153912388_2uz5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo First Communion Invitations">
+                                <img itemprop="contentUrl url" src='http://www.customcandybarwrapper.com/cdn/shop/products/communionInvitations21_5ed76a03-d452-4137-ba84-0dfc54926f6c.jpg?v=1578270489' alt='Photo First Communion Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Candy Bar Wrappers" />
+                                </span>
+                                <a href='http://www.customcandybarwrapper.com/cdn/shop/products/communionInvitations21_5ed76a03-d452-4137-ba84-0dfc54926f6c.jpg?v=1578270489' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold First Communion Invitation Girl First Holy Communion Invitation -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7929051/r/il/e65fdf/1671766985/il_1080xN.1671766985_s747.jpg' alt='Rose Gold First Communion Invitation Girl First Holy Communion Invitation -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7929051/r/il/e65fdf/1671766985/il_1080xN.1671766985_s747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laurel Trellis Communion Invitations">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/product/l/a/laurel-trellis-communion-invitations-up-2x.jpg' alt='Laurel Trellis Communion Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1449">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Invite" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/product/l/a/laurel-trellis-communion-invitations-up-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

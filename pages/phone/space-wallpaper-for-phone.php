@@ -1,0 +1,129 @@
+<title>Stunning Space Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a collection of mesmerizing space wallpapers for your phone. From dazzling galaxies to serene night skies, these wallpapers will enhance your device's appearance and showcase your passion for the cosmos. Download now and give your phone a celestial makeover!">
+                    <meta name="keywords" content="space wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/space-wallpaper-for-phone">
+                            <span itemprop="name">space wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with stunning space wallpapers that feature galaxies, stars, and cosmic wonders. Whether you love vibrant colors or serene night skies, these wallpapers will take you on an interstellar journey every time you unlock your device. Elevate your phone's look and showcase your love for the universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?width=1080&crop=smart&auto=webp&s=60960dcde01f12e3d50ca1b3b17c311385b92d9c' alt='I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?width=1080&crop=smart&auto=webp&s=60960dcde01f12e3d50ca1b3b17c311385b92d9c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Space Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-phone-background-y4j2wi52qlj8udnw.jpg' alt='100+] Space Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-phone-background-y4j2wi52qlj8udnw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet And Purple Space Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/violet-and-purple-space-phone-e7zh32lt4nde42j1.jpg' alt='Violet And Purple Space Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/violet-and-purple-space-phone-e7zh32lt4nde42j1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Wallpapers (44 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/1/5/195372-2160x3840-iphone-4k-outer-space-background.jpg' alt='Outer Space Wallpapers (44 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/1/5/195372-2160x3840-iphone-4k-outer-space-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Space Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20160503145950.jpg' alt='Free Space Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20160503145950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 397+ Space Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6GqscMvA/1/0/900w/canva-space-starry-sky-phone-wallpaper-_Ph9DM5qNUE.jpg' alt='Customize 397+ Space Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6GqscMvA/1/0/900w/canva-space-starry-sky-phone-wallpaper-_Ph9DM5qNUE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2387877/pexels-photo-2387877.jpeg?cs=srgb&dl=pexels-samkolder-2387877.jpg&fm=jpg' alt='Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="6720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2387877/pexels-photo-2387877.jpeg?cs=srgb&dl=pexels-samkolder-2387877.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Space 4k Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-4k-phone-x797hr5e8lvh8mmw.jpg' alt='100+] Space 4k Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-4k-phone-x797hr5e8lvh8mmw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 397+ Space Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF6bgMAY9c/1/0/900w/canva-black-aesthetic-space-phone-wallpaper-g2VilerLaOc.jpg' alt='Customize 397+ Space Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF6bgMAY9c/1/0/900w/canva-black-aesthetic-space-phone-wallpaper-g2VilerLaOc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula Space Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/nebula-space-phone-a9esvey5idwwhjd1.jpg' alt='Nebula Space Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/nebula-space-phone-a9esvey5idwwhjd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

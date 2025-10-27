@@ -1,0 +1,129 @@
+<title>Understanding Conviction vs. Arrest: Key Legal Differences</title>
+                    <meta name="description" content="Explore the crucial differences between conviction and arrest in the criminal justice system. Learn how these terms impact legal rights and procedures in a concise and clear overview optimized for mobile viewing.">
+                    <meta name="keywords" content="conviction vs arrest">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/conviction-vs-arrest">
+                            <span itemprop="name">conviction vs arrest</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Conviction vs. Arrest: Key Legal Differences</h1>
+                <p>Conviction and arrest are key terms in the criminal justice system. An arrest occurs when law enforcement detains an individual suspected of a crime, while a conviction follows a trial where it's proven the person committed that crime. Understanding the difference is crucial for navigating legal procedures and rights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Difference Between Arrest and Conviction - Compliance Prime Blog">
+                                <img itemprop="contentUrl url" src='https://www.complianceprime.com/blog/wp-content/uploads/2021/11/The-Difference-Between-Arrest-and-Conviction.jpg' alt='The Difference Between Arrest and Conviction - Compliance Prime Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compliance Prime" />
+                                </span>
+                                <a href='https://www.complianceprime.com/blog/wp-content/uploads/2021/11/The-Difference-Between-Arrest-and-Conviction.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference Between An Arrest, Charge, & Conviction | Conyers & Nix">
+                                <img itemprop="contentUrl url" src='https://www.conyersnix.com/wp-content/uploads/2024/11/Depositphotos_21800417_XL-scaled.jpg' alt='Difference Between An Arrest, Charge, & Conviction | Conyers & Nix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Conyers & Nix" />
+                                </span>
+                                <a href='https://www.conyersnix.com/wp-content/uploads/2024/11/Depositphotos_21800417_XL-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Arrest vs. Conviction in Texas | Jason English Law Firm">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/857/207471/large/Arrest-Vs.-Conviction.jpg?1664997861' alt='Understanding Arrest vs. Conviction in Texas | Jason English Law Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jason S. English Law, PLLC" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/857/207471/large/Arrest-Vs.-Conviction.jpg?1664997861' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Difference Between Arrest and Conviction?">
+                                <img itemprop="contentUrl url" src='https://blog.theorsusgroup.com/hubfs/What%20is%20the%20Difference%20Between%20Arrest%20and%20Conviction.webp' alt='What is the Difference Between Arrest and Conviction?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orsus Group Blog" />
+                                </span>
+                                <a href='https://blog.theorsusgroup.com/hubfs/What%20is%20the%20Difference%20Between%20Arrest%20and%20Conviction.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do You Know the Difference Between Arrest vs. Conviction ...">
+                                <img itemprop="contentUrl url" src='https://eguarded.com/wp-content/uploads/2019/09/Woman-mugshot-2-1080x675.jpg' alt='Do You Know the Difference Between Arrest vs. Conviction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eGuarded" />
+                                </span>
+                                <a href='https://eguarded.com/wp-content/uploads/2019/09/Woman-mugshot-2-1080x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is an Arrest a Conviction? – SRA Screening">
+                                <img itemprop="contentUrl url" src='https://srascreening.com/wp-content/uploads/2025/02/Is-an-Arrest-a-Conviction-Blog-Photo-min-scaled.jpeg' alt='Is an Arrest a Conviction? – SRA Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SRA Screening" />
+                                </span>
+                                <a href='https://srascreening.com/wp-content/uploads/2025/02/Is-an-Arrest-a-Conviction-Blog-Photo-min-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arrest vs. Conviction | Criminal Convictions and Employment">
+                                <img itemprop="contentUrl url" src='https://grabbanddurando.com/wp-content/uploads/2022/05/arrest-vs-conviction.jpeg' alt='Arrest vs. Conviction | Criminal Convictions and Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grabb and Durando" />
+                                </span>
+                                <a href='https://grabbanddurando.com/wp-content/uploads/2022/05/arrest-vs-conviction.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Employer's Guide to Arrest Records and Conviction Records">
+                                <img itemprop="contentUrl url" src='https://cdn2.hubspot.net/hubfs/457342/Arrest%20Record%20vs%20Conviction%20Record-299705-edited.jpg' alt='An Employer's Guide to Arrest Records and Conviction Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choice Screening" />
+                                </span>
+                                <a href='https://cdn2.hubspot.net/hubfs/457342/Arrest%20Record%20vs%20Conviction%20Record-299705-edited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PPT - BEST Practices HANDBOOK PowerPoint Presentation, free ...">
+                                <img itemprop="contentUrl url" src='https://image1.slideserve.com/1683659/arrest-vs-conviction-l.jpg' alt='PPT - BEST Practices HANDBOOK PowerPoint Presentation, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideServe" />
+                                </span>
+                                <a href='https://image1.slideserve.com/1683659/arrest-vs-conviction-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Arrest Is Not the Same as a Conviction | The Hamp Law Offices">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/718/44167/large/3.png?1508187318' alt='An Arrest Is Not the Same as a Conviction | The Hamp Law Offices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hamp Law Offices" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/718/44167/large/3.png?1508187318' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

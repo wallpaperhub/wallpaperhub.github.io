@@ -1,0 +1,129 @@
+<title>Aesthetic Blue and Yellow Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of aesthetic blue and yellow wallpaper, perfect for transforming your home. This stylish design adds a vibrant yet calming touch to your space, enhancing any interior decor effortlessly. Explore options to elevate your rooms with these captivating colors today!">
+                    <meta name="keywords" content="aesthetic blue and yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-blue-and-yellow-wallpaper">
+                            <span itemprop="name">aesthetic blue and yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Blue and Yellow Wallpaper for Stylish Interiors</h1>
+                <p>Aesthetic blue and yellow wallpaper combines vibrant hues with soothing tones, creating a stunning visual balance for any room. Perfect for modern interiors, this wallpaper adds a touch of elegance and warmth. Whether used in a living room, bedroom, or office, it enhances the ambiance, making spaces feel inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Blue And Yellow 934">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ba/ec/a4/baeca4588bf15fd96976a110efe47c90.jpg' alt='Wallpaper Blue And Yellow 934'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ba/ec/a4/baeca4588bf15fd96976a110efe47c90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and yellow aesthetic leaf">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-and-yellow-aesthetic-leaf-pattern-repeat-removable-wallpaper-design.jpg' alt='Blue and yellow aesthetic leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-and-yellow-aesthetic-leaf-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Yellow Aesthetic Wallpapers - Wallpaper Cave 31">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/6d/7e/cf6d7ed5975c9d6e68c12398d2db0874.jpg' alt='Blue And Yellow Aesthetic Wallpapers - Wallpaper Cave 31'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/6d/7e/cf6d7ed5975c9d6e68c12398d2db0874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic, aesthetic, blue, flower, nature, plant, sky, sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1016/442/HD-wallpaper-yellow-aesthetic-aesthetic-blue-flower-nature-plant-sky-sky-aesthetic-yellow-yellow-flower.jpg' alt='Yellow Aesthetic, aesthetic, blue, flower, nature, plant, sky, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1016/442/HD-wallpaper-yellow-aesthetic-aesthetic-blue-flower-nature-plant-sky-sky-aesthetic-yellow-yellow-flower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage blue and yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/92/1e/dc921e81aaf8de51f15596dc3cbc8ea1.jpg' alt='Vintage blue and yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/92/1e/dc921e81aaf8de51f15596dc3cbc8ea1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 13 - Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-iPpiVQA/1/0/900w/canva-blue-sky-its-okay-korean-quote-aesthetic-phone-wallpaper--KEQNLPju_Q.jpg' alt='Page 13 - Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-iPpiVQA/1/0/900w/canva-blue-sky-its-okay-korean-quote-aesthetic-phone-wallpaper--KEQNLPju_Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow and Blue Aesthetic      (Exam season is coming so I thought ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d5be46754cf9b80ceb02574966c133c4/tumblr_p7jc78AWfI1xnych8o1_1280.jpg' alt='Yellow and Blue Aesthetic      (Exam season is coming so I thought ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d5be46754cf9b80ceb02574966c133c4/tumblr_p7jc78AWfI1xnych8o1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/94/7b/cc/947bcc1c8a3cbd342db5f1de12678caa.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/94/7b/cc/947bcc1c8a3cbd342db5f1de12678caa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cartoon Pastel Yellow Lemon Blue Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cartoon-pastel-yellow-lemon-blue-background-e3mteg77qhwpf212.jpg' alt='Download Cartoon Pastel Yellow Lemon Blue Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cartoon-pastel-yellow-lemon-blue-background-e3mteg77qhwpf212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue yellow 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/97/e6/71/97e67188c5d7a4f0ccfddbebc6de8390.jpg' alt='Blue yellow 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/97/e6/71/97e67188c5d7a4f0ccfddbebc6de8390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

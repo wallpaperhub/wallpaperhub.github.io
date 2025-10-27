@@ -1,0 +1,129 @@
+<title>Choso Phone Wallpapers: Cool & Unique Designs</title>
+                    <meta name="description" content="Explore a collection of Choso phone wallpapers that enhance your device’s style. Featuring captivating designs and vibrant colors, these wallpapers are perfect for fans looking to personalize their screens. Download your favorite designs today and make your phone stand out!">
+                    <meta name="keywords" content="choso phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/choso-phone-wallpaper">
+                            <span itemprop="name">choso phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Choso Phone Wallpapers: Cool & Unique Designs</h1>
+                <p>Discover stunning Choso phone wallpapers that bring your favorite characters to life! From vibrant colors to intricate designs, these wallpapers capture the essence of Choso’s aesthetic. Transform your device with unique styles that reflect your personality and passion for the series. Download now and enjoy a fresh new look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some new backgrounds for ya phones :) hope u guys like these ones ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my3vk40jkrs61.jpg' alt='Some new backgrounds for ya phones :) hope u guys like these ones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my3vk40jkrs61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choso, Jujutsu Kaisen, manga, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/526/986/HD-wallpaper-choso-jujutsu-kaisen-manga.jpg' alt='Choso, Jujutsu Kaisen, manga, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/526/986/HD-wallpaper-choso-jujutsu-kaisen-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper phone - Choso">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/e7/07/3ee707ffc4712191459ae85ff8ac4c38.jpg' alt='Wallpaper phone - Choso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/e7/07/3ee707ffc4712191459ae85ff8ac4c38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choso jujutsu kaisen, eye, organ, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/135/729/HD-wallpaper-choso-jujutsu-kaisen-eye-organ.jpg' alt='Choso jujutsu kaisen, eye, organ, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/135/729/HD-wallpaper-choso-jujutsu-kaisen-eye-organ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some new backgrounds for ya phones :) hope u guys like these ones ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fcjok60jkrs61.jpg' alt='Some new backgrounds for ya phones :) hope u guys like these ones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fcjok60jkrs61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choso JJK wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/92/e8/3692e8811270d0d4f821bd693015903e.jpg' alt='Choso JJK wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/92/e8/3692e8811270d0d4f821bd693015903e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choso Jujutsu Kaisen Wallpaper iPhone Phone 4K #5680e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/choso-jujutsu-kaisen-568@0@e-phone-4k.jpg' alt='Choso Jujutsu Kaisen Wallpaper iPhone Phone 4K #5680e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/choso-jujutsu-kaisen-568@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbra3terna on X: "That make a nice phone wallpaper    #choso #jjk ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GBoxXnRWMAApE58.jpg' alt='Umbra3terna on X: "That make a nice phone wallpaper    #choso #jjk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GBoxXnRWMAApE58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Choso Red Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/d3/87/a7d387438052a4f257c3fa2e12f02ddb.jpg' alt='Jujutsu Kaisen Choso Red Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/d3/87/a7d387438052a4f257c3fa2e12f02ddb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Also made this Choso wallpaper     ❤️ : r/JuJutsuKaisen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gg4ukeshgfh61.jpg' alt='Also made this Choso wallpaper     ❤️ : r/JuJutsuKaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gg4ukeshgfh61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

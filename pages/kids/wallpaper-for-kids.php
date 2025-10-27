@@ -1,0 +1,129 @@
+<title>Colorful Kids' Wallpaper: Fun & Safe Designs</title>
+                    <meta name="description" content="Discover vibrant and safe wallpaper options for kids' rooms. Choose from playful patterns and colors that inspire creativity. Explore non-toxic materials perfect for a healthy and fun living space. Transform your child's room today with easy-to-clean and delightful designs!">
+                    <meta name="keywords" content="wallpaper for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/wallpaper-for-kids">
+                            <span itemprop="name">wallpaper for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Kids' Wallpaper: Fun & Safe Designs</h1>
+                <p>When choosing wallpaper for kids, opt for bright colors and fun designs that reflect their interests. From playful animals to fantastical scenes, the right wallpaper can spark creativity and joy. Consider washable materials for easy upkeep. Safety is crucial, so select non-toxic options to ensure a healthy environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' alt='Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' alt='Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MFWFM Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Wall  Mural for Bedroom Living Room (Not Peel n' Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JmEqpa07L.jpg' alt='MFWFM Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Wall  Mural for Bedroom Living Room (Not Peel n' Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1826">
+                                <meta itemprop="height" content="1826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JmEqpa07L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Space Wallpaper Kids Bedroom Wall Mural Peel and Stick Solar ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18073412/r/il/6a6039/1766672535/il_fullxfull.1766672535_a76h.jpg' alt='Blue Space Wallpaper Kids Bedroom Wall Mural Peel and Stick Solar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18073412/r/il/6a6039/1766672535/il_fullxfull.1766672535_a76h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle and Animals Wall Mural Kids Wallpaper Children's Room Nursery  Toddlers">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wLsAAOSwYOJj922H/s-l1200.jpg' alt='Jungle and Animals Wall Mural Kids Wallpaper Children's Room Nursery  Toddlers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wLsAAOSwYOJj922H/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childrens Fantasy">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67039/childrens-fantasy.jpg?h=699&q=85' alt='Childrens Fantasy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1118">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67039/childrens-fantasy.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Shining Cartoon Space with White Stripe Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/d/t/dt000099_moc2.jpg' alt='Kids Shining Cartoon Space with White Stripe Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/d/t/dt000099_moc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animals for kids">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/56997/landscape/wallpaper/room75.jpg?w=2000&q=80' alt='Animals for kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/56997/landscape/wallpaper/room75.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Cute Wallpapers for Kids That Are Awe-Inspiring | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2021-03/blobid1617178258899.jpg' alt='9 Cute Wallpapers for Kids That Are Awe-Inspiring | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2021-03/blobid1617178258899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Production Cartoon Theme Vinyl Self Adhesive Kids Wallpaper For Kids Room">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/kYUAAOSwWVpktN8j/s-l1200.jpg' alt='Production Cartoon Theme Vinyl Self Adhesive Kids Wallpaper For Kids Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/kYUAAOSwWVpktN8j/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

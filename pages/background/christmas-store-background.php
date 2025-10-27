@@ -1,0 +1,129 @@
+<title>Magical Christmas Store: Your Holiday Wonderland</title>
+                    <meta name="description" content="Discover the charm of our Christmas store, featuring festive decorations, unique gifts, and holiday essentials. Immerse yourself in the spirit of the season and find everything you need to create unforgettable memories this Christmas. Explore now for a joyful shopping experience!">
+                    <meta name="keywords" content="christmas store background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-store-background">
+                            <span itemprop="name">christmas store background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Christmas Store: Your Holiday Wonderland</h1>
+                <p>Step into the enchanting world of a Christmas store, where the air is filled with holiday cheer. Brightly decorated aisles showcase dazzling ornaments, twinkling lights, and festive gifts. From traditional decor to modern treasures, find everything to make your holiday season magical. Let the warmth of Christmas spirit surround you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 8x8ft Front Door Christmas Store Backdrop Holiday  Ornament Gift Shop Display Photography Background Chic Garland Wreath Xmas  Tree ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71DeZA8dNjL.jpg' alt='Amazon.com : AOFOTO 8x8ft Front Door Christmas Store Backdrop Holiday  Ornament Gift Shop Display Photography Background Chic Garland Wreath Xmas  Tree ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71DeZA8dNjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Shop Backdrop Holiday Winter Background D850">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/D850-fang-1.jpg?v=1739842794&width=850' alt='Christmas Shop Backdrop Holiday Winter Background D850'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/D850-fang-1.jpg?v=1739842794&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Storefront Photography Backdrop - Santa's Workshop, Winter City  Street, Holiday Window, Shoppe, Gifts, Village, Store Evening Toys - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7942433/r/il/209f94/1575476170/il_1080xN.1575476170_ovu2.jpg' alt='Christmas Storefront Photography Backdrop - Santa's Workshop, Winter City  Street, Holiday Window, Shoppe, Gifts, Village, Store Evening Toys - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7942433/r/il/209f94/1575476170/il_1080xN.1575476170_ovu2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 7 x 5 FT Christmas Shop Backdrop - Large Santa's Toy Shop  Scene, Christmas Store Toys-Covered Window Displays Wall Hanging Background  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xC4uSVEDL.jpg' alt='Amazon.com : 7 x 5 FT Christmas Shop Backdrop - Large Santa's Toy Shop  Scene, Christmas Store Toys-Covered Window Displays Wall Hanging Background  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xC4uSVEDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Town Gift Store">
+                                <img itemprop="contentUrl url" src='https://fancyprops.com/cdn/shop/files/web12x9ChristmasTownGiftStore.jpg?v=1695915364' alt='Christmas Town Gift Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Fabric & Props" />
+                                </span>
+                                <a href='https://fancyprops.com/cdn/shop/files/web12x9ChristmasTownGiftStore.jpg?v=1695915364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Toy Store">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/CHS3528x6ChristmasVillagePhotoBackdrop_1800x1800.jpg?v=1632345091' alt='Christmas Toy Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/CHS3528x6ChristmasVillagePhotoBackdrop_1800x1800.jpg?v=1632345091' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Store Front Backdrop for Photography, Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/d3085b/6103845879/il_570xN.6103845879_sp1a.jpg' alt='Pink Christmas Store Front Backdrop for Photography, Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/d3085b/6103845879/il_570xN.6103845879_sp1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surreal Christmas Shop Photography Backdrop (Snowy Storefront)">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/Snowy_Storefront_LB_Lilly_Bear_Designs.jpg' alt='Surreal Christmas Shop Photography Backdrop (Snowy Storefront)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/Snowy_Storefront_LB_Lilly_Bear_Designs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 x 3 ft Christmas Pink Shop Store Background Photo Backdrop, Christmas  Party Photography Backdrop Banner, Santa's Gift Shop Store Dooor Background  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/378eec36-0115-4b61-9fb8-f3704754e50b.38380c9c28de46d1c7ab3c0ff7f57aec.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' alt='5 x 3 ft Christmas Pink Shop Store Background Photo Backdrop, Christmas  Party Photography Backdrop Banner, Santa's Gift Shop Store Dooor Background  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Business" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/378eec36-0115-4b61-9fb8-f3704754e50b.38380c9c28de46d1c7ab3c0ff7f57aec.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Photography Backdrops Christmas Decorations In The Shop Background">
+                                <img itemprop="contentUrl url" src='https://www.buy-backdrop.com/images/20180922/BDNBK02536bk.jpg' alt='Christmas Photography Backdrops Christmas Decorations In The Shop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buy Backdrops" />
+                                </span>
+                                <a href='https://www.buy-backdrop.com/images/20180922/BDNBK02536bk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

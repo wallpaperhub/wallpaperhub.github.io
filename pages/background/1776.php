@@ -1,0 +1,129 @@
+<title>Understanding the Significance of 1776: The Birth of America</title>
+                    <meta name="description" content="Explore the historic significance of 1776, a year that transformed America with its declaration of independence. Uncover the events that fueled the nation's birth and the enduring ideals of freedom and democracy that emerged from this revolutionary period.">
+                    <meta name="keywords" content="1776">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1776">
+                            <span itemprop="name">1776</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Significance of 1776: The Birth of America</h1>
+                <p>In 1776, a pivotal year in history, the American colonies declared independence from British rule with the adoption of the Declaration of Independence on July 4th. This audacious move marked the birth of a new nation, igniting revolutionary fervor and laying the groundwork for democratic governance, setting ideals of freedom and equality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 | Book by David McCullough | Official Publisher Page | Simon ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780743226721/1776-9780743226721_hr.jpg' alt='1776 | Book by David McCullough | Official Publisher Page | Simon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1399">
+                                <meta itemprop="height" content="2122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780743226721/1776-9780743226721_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1200px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg' alt='1776 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1200px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 (1972) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODQ3NmRkMjctOGU4ZS00MTEyLWE0ZDgtMGU0OGQwMThlMTQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='1776 (1972) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODQ3NmRkMjctOGU4ZS00MTEyLWE0ZDgtMGU0OGQwMThlMTQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 (Restored Director's Cut)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Ups6qaGrL._AC_UF894,1000_QL80_.jpg' alt='1776 (Restored Director's Cut)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Ups6qaGrL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 1776 Pledge is a pledge of division - Bleeding Heartland">
+                                <img itemprop="contentUrl url" src='https://www.bleedingheartland.com/static/media/2021/12/shutterstock_238062829-1776-painting.jpg' alt='The 1776 Pledge is a pledge of division - Bleeding Heartland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Heartland" />
+                                </span>
+                                <a href='https://www.bleedingheartland.com/static/media/2021/12/shutterstock_238062829-1776-painting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776: Son of Liberty">
+                                <img itemprop="contentUrl url" src='https://mpd-biblio-covers.imgix.net/9781466856110.jpg' alt='1776: Son of Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Macmillan Publishers" />
+                                </span>
+                                <a href='https://mpd-biblio-covers.imgix.net/9781466856110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776: The Illustrated Edition">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CLRsxHXfL._AC_UF1000,1000_QL80_.jpg' alt='1776: The Illustrated Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CLRsxHXfL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 Declaration of Independence | History Guide Plus 8 Facts ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/7/2018/07/GettyImages-517212810-bb53531-e1719830038112.jpg?quality=90&resize=620,414' alt='1776 Declaration of Independence | History Guide Plus 8 Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryExtra" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/7/2018/07/GettyImages-517212810-bb53531-e1719830038112.jpg?quality=90&resize=620,414' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 - Museum of the American Revolution">
+                                <img itemprop="contentUrl url" src='https://moar-prod.imgix.net/f5cb2f78-f6d3-4bf7-9ee8-7e7a6dfabc9b/image_030821_16x9_rtr_1776_mccullough.png?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C0%2C2418%2C1360' alt='1776 - Museum of the American Revolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2418">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Museum of the American Revolution" />
+                                </span>
+                                <a href='https://moar-prod.imgix.net/f5cb2f78-f6d3-4bf7-9ee8-7e7a6dfabc9b/image_030821_16x9_rtr_1776_mccullough.png?auto=compress%2Cformat&fit=min&fm=jpg&rect=0%2C0%2C2418%2C1360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1776 | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1603_p_v13_ab.jpg' alt='1776 | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1603_p_v13_ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pumpkin Wallpaper for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful pumpkin wallpaper designs for your iPhone! Embrace the autumn season with vibrant backgrounds featuring pumpkins and fall vibes. Perfect for adding a seasonal touch, these wallpapers are designed to enhance your device's aesthetic. Download now for a fresh seasonal upgrade!">
+                    <meta name="keywords" content="iphone:pb4gmqoaot0= pumpkin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonepb4gmqoaot0-pumpkin-wallpaper">
+                            <span itemprop="name">iphone:pb4gmqoaot0= pumpkin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pumpkin Wallpaper for Your iPhone</h1>
+                <p>Transform your iPhone with stunning pumpkin wallpaper that embodies the spirit of fall. Perfect for creating a cozy and festive atmosphere, these vibrant designs feature adorable pumpkins, autumn leaves, and seasonal colors that breathe life into your screen. Customize your device and embrace the harvest season with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pumpkin-iphone-4x4fbnxz1ilwcpeh.jpg' alt='100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pumpkin-iphone-4x4fbnxz1ilwcpeh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Smiley Pumpkin Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40927243/r/il/83630f/5447975630/il_570xN.5447975630_4r4h.jpg' alt='Cute Smiley Pumpkin Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40927243/r/il/83630f/5447975630/il_570xN.5447975630_4r4h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone pumpkin wallpaper | fall aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/80/40/b280405891ca619db754b54dd92d4c0e.jpg' alt='iPhone pumpkin wallpaper | fall aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/80/40/b280405891ca619db754b54dd92d4c0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Glowing Pumpkin Halloween Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glowing-pumpkin-halloween-iphone-l99zpalvvzei09x6.jpg' alt='Download Glowing Pumpkin Halloween Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glowing-pumpkin-halloween-iphone-l99zpalvvzei09x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pumpkin-iphone-cnojxeadmov4q918.jpg' alt='100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pumpkin-iphone-cnojxeadmov4q918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkins for Halloween iPhone Wallpaper 4K - iPhone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/b7/42/bbb742f7ec0df13515fb57ec1cae0ee5.jpg' alt='Pumpkins for Halloween iPhone Wallpaper 4K - iPhone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/b7/42/bbb742f7ec0df13515fb57ec1cae0ee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pumpkin-iphone-0w1gnfvh4z16yt1f.jpg' alt='100+] Cute Pumpkin Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pumpkin-iphone-0w1gnfvh4z16yt1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey Pumpkin Wallpaper for iPhones, Fall Wallpaper for Phones ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/21/6f/4b216f55d69824f360a9cd5d25cf56c9.jpg' alt='Hey Pumpkin Wallpaper for iPhones, Fall Wallpaper for Phones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/21/6f/4b216f55d69824f360a9cd5d25cf56c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin wallpapers for iPhone: download them now!">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/10/pumpkin-orange-wallpaper-iphone-xs-max-madison-kaminski.png' alt='Pumpkin wallpapers for iPhone: download them now!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/10/pumpkin-orange-wallpaper-iphone-xs-max-madison-kaminski.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkin, favorites, halloween favorites, nepn, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/16/824/HD-wallpaper-halloween-pumpkin-favorites-halloween-favorites-nepn.jpg' alt='Halloween Pumpkin, favorites, halloween favorites, nepn, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/16/824/HD-wallpaper-halloween-pumpkin-favorites-halloween-favorites-nepn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

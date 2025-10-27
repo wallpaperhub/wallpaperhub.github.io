@@ -1,0 +1,129 @@
+<title>Daydrian Harding: Rising Star in Entertainment</title>
+                    <meta name="description" content="Discover Daydrian Harding, a charismatic talent making waves in the entertainment industry. Known for his captivating performances and creative projects, he inspires audiences with his unique perspective and artistry. Stay updated on his journey and contributions to culture!">
+                    <meta name="keywords" content="daydrian harding">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/daydrian-harding">
+                            <span itemprop="name">daydrian harding</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Daydrian Harding: Rising Star in Entertainment</h1>
+                <p>Daydrian Harding is an influential figure known for his dynamic contributions to the entertainment industry. With a unique blend of talent and charisma, he captivates audiences across various platforms. His projects often explore themes of resilience and creativity, making him a standout personality in today's cultural landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="With great power comes great responsibility ⚡️ Today I am ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3161499816664118085' alt='With great power comes great responsibility ⚡️ Today I am ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3161499816664118085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding: Stay Sober Spring Tour 25 Apr 2025 – 9:30 Club">
+                                <img itemprop="contentUrl url" src='https://www.930.com/wp-content/smush-webp/2024/12/3b6c43dd-aef4-45ff-96d2-857acd6a7173_SOURCE.jpeg.webp' alt='D'Aydrian Harding: Stay Sober Spring Tour 25 Apr 2025 – 9:30 Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2426">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="930 Club" />
+                                </span>
+                                <a href='https://www.930.com/wp-content/smush-webp/2024/12/3b6c43dd-aef4-45ff-96d2-857acd6a7173_SOURCE.jpeg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding PFP - Shine Bright with D'Aydrian Harding PFPs!">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/07/daydrian-harding-pfp-01.jpg' alt='D'Aydrian Harding PFP - Shine Bright with D'Aydrian Harding PFPs!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/07/daydrian-harding-pfp-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/TDes8VLiOQ7McLgeQMAlk-c9ZLHnQKCUln31uP-2Nsp9BycvqjK5yACz_s2pwnlONKz-LGna8ZQ=s900-c-k-c0x00ffffff-no-rj' alt='D'Aydrian Harding - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/TDes8VLiOQ7McLgeQMAlk-c9ZLHnQKCUln31uP-2Nsp9BycvqjK5yACz_s2pwnlONKz-LGna8ZQ=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gave Momma Harding $50,000 today for her 50th birthday    so ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3089021108456487937' alt='Gave Momma Harding $50,000 today for her 50th birthday    so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3089021108456487937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/e9/77/fbe9772528145e6c99cc803dc7e10047.jpg' alt='D'Aydrian Harding Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/e9/77/fbe9772528145e6c99cc803dc7e10047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding - Night Talent">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/630bc46507ee3300e9a1f6e8/64daedd0b6190ec819388dd7_DAydrian-Harding.jpeg' alt='D'Aydrian Harding - Night Talent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Night.co" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/630bc46507ee3300e9a1f6e8/64daedd0b6190ec819388dd7_DAydrian-Harding.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAydrian Harding">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/project-casting/image/upload/x_0,y_208,w_1176,h_1791,c_crop/v1630377301/FA77EC11-DC9A-425C-A2A1-8C39484A7C36_ogsqn4.jpg' alt='DAydrian Harding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="1791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Casting" />
+                                </span>
+                                <a href='https://res.cloudinary.com/project-casting/image/upload/x_0,y_208,w_1176,h_1791,c_crop/v1630377301/FA77EC11-DC9A-425C-A2A1-8C39484A7C36_ogsqn4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D'Aydrian Harding - Crescent Ballroom PHX">
+                                <img itemprop="contentUrl url" src='https://i.ticketweb.com/i/00/09/49/70/24/Artist.jpg?v=1' alt='D'Aydrian Harding - Crescent Ballroom PHX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crescent Ballroom" />
+                                </span>
+                                <a href='https://i.ticketweb.com/i/00/09/49/70/24/Artist.jpg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Use this as your PFP to join the Daydrian Harding CULT #cult  #daydrianharding #pfp #use #join #to #wow @D’Aydrian Harding">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7398343659860593963&location=0&aid=1988' alt='Use this as your PFP to join the Daydrian Harding CULT #cult  #daydrianharding #pfp #use #join #to #wow @D’Aydrian Harding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7398343659860593963&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

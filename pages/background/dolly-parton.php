@@ -1,0 +1,129 @@
+<title>Dolly Parton: Country Music Legend and Philanthropist</title>
+                    <meta name="description" content="Discover the extraordinary life of Dolly Parton, a country music legend. From her iconic songs to her philanthropic efforts, explore how she has inspired millions with her talent and kindness. Join us as we celebrate the impact of this beloved artist and her contributions to music and society.">
+                    <meta name="keywords" content="dolly parton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dolly-parton">
+                            <span itemprop="name">dolly parton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dolly Parton: Country Music Legend and Philanthropist</h1>
+                <p>Dolly Parton is a legendary country music icon, known for her captivating voice and songwriting talent. With hits like "Jolene" and "9 to 5," she has influenced generations. Beyond music, she's an actress, businesswoman, and philanthropist, notably founding the Imagination Library, promoting literacy among children.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carl Dean Dead: Dolly Parton's Husband of Six Decades Was 82">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/06/Dolly-Parton.-Photo-courtesy-of-Dolly-Parton.-Photo-by-Jim-Wright-e1717640932850.jpg?w=1000&h=667&crop=1' alt='Carl Dean Dead: Dolly Parton's Husband of Six Decades Was 82'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/06/Dolly-Parton.-Photo-courtesy-of-Dolly-Parton.-Photo-by-Jim-Wright-e1717640932850.jpg?w=1000&h=667&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly Parton filmography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a3/Young-Dolly-Parton.jpg' alt='Dolly Parton filmography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a3/Young-Dolly-Parton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly Parton - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dolly_Parton_accepting_Liseberg_Applause_Award_2010_portrait.jpg/1200px-Dolly_Parton_accepting_Liseberg_Applause_Award_2010_portrait.jpg' alt='Dolly Parton - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dolly_Parton_accepting_Liseberg_Applause_Award_2010_portrait.jpg/1200px-Dolly_Parton_accepting_Liseberg_Applause_Award_2010_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Real Story Behind Dolly Parton's 'Jolene'">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/FprU1u0sGQ7x3sSsuOFzIN5JZ78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dolly-parton-Carl-Dean--14_03032025-503359822012419b93065a1b843bf1eb.jpg' alt='The Real Story Behind Dolly Parton's 'Jolene''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/FprU1u0sGQ7x3sSsuOFzIN5JZ78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dolly-parton-Carl-Dean--14_03032025-503359822012419b93065a1b843bf1eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly Parton Shared Rare Comments About Husband, Marriage 3 Months ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/LCpOKocVm7GswVmPIfp7Lo2L9PQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x292:721x294)/dolly-parton-rock-roll-hall-of-fame-los-angeles-121624-32ea0c3f61c14075a49e515e0fe9ee63.jpg' alt='Dolly Parton Shared Rare Comments About Husband, Marriage 3 Months ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/LCpOKocVm7GswVmPIfp7Lo2L9PQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x292:721x294)/dolly-parton-rock-roll-hall-of-fame-los-angeles-121624-32ea0c3f61c14075a49e515e0fe9ee63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carl Dean dead: Dolly Parton's longtime husband dies at 82">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/R9bxi821Y8B-RrETF1izN7dx0mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dolly-parton-Carl-Thomas-Dean-instagram-f8fab15643e44632a73ecf72b6456495.jpg' alt='Carl Dean dead: Dolly Parton's longtime husband dies at 82'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/R9bxi821Y8B-RrETF1izN7dx0mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dolly-parton-Carl-Thomas-Dean-instagram-f8fab15643e44632a73ecf72b6456495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The United States of Dolly Parton | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5f7f4082b71f1266ff78ebb0/1:1/w_2342,h_2342,c_limit/201019_r37206.jpg' alt='The United States of Dolly Parton | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2342">
+                                <meta itemprop="height" content="2342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5f7f4082b71f1266ff78ebb0/1:1/w_2342,h_2342,c_limit/201019_r37206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly Parton's husband, Carl Dean, died at age 82. Here's a look back at  their love story">
+                                <img itemprop="contentUrl url" src='https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/04/d4b5fcbc-9ef6-4f51-8307-f5cef9b4e978/thumbnail/1200x630/ba9198e9e3589c0b6cc0a78e4c9cea40/0304-cmo-king.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa' alt='Dolly Parton's husband, Carl Dean, died at age 82. Here's a look back at  their love story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBS News" />
+                                </span>
+                                <a href='https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/04/d4b5fcbc-9ef6-4f51-8307-f5cef9b4e978/thumbnail/1200x630/ba9198e9e3589c0b6cc0a78e4c9cea40/0304-cmo-king.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Dolly Parton Said About Carl Dean Marriage Before His Death">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/2024018/rs_819x1024-240118132050-Dolly_Parton_Christmas_kid_412571454_859284399311210_2377478816924476826_n.jpg?fit=around%7C819:1024&output-quality=90&crop=819:1024;center,top' alt='What Dolly Parton Said About Carl Dean Marriage Before His Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/2024018/rs_819x1024-240118132050-Dolly_Parton_Christmas_kid_412571454_859284399311210_2377478816924476826_n.jpg?fit=around%7C819:1024&output-quality=90&crop=819:1024;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolly Parton | Biography, Songs, Films, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/05/177005-050-FC400C76/Dolly-Parton-2007.jpg' alt='Dolly Parton | Biography, Songs, Films, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1129">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/05/177005-050-FC400C76/Dolly-Parton-2007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

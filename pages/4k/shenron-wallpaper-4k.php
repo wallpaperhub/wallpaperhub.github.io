@@ -1,0 +1,129 @@
+<title>4K Shenron Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of 4K Shenron wallpapers! Perfect for Dragon Ball Z enthusiasts, these eye-catching designs will enhance your devices with their vibrant colors and powerful imagery. Download now to experience the magic of Shenron on your screen!">
+                    <meta name="keywords" content="shenron wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/shenron-wallpaper-4k">
+                            <span itemprop="name">shenron wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Shenron Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your device with stunning 4K Shenron wallpapers, featuring vibrant colors and breathtaking designs. Perfect for Dragon Ball Z fans, these wallpapers captivate the essence of Shenron and bring powerful energy to your screens. Download your favorites and elevate your home or lock screen to a whole new level of vibrancy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron and Goku HD Wallpaper - Dragon Ball Z Epic by Zach Smithson">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/564/thumb-1920-564835.jpg' alt='Shenron and Goku HD Wallpaper - Dragon Ball Z Epic by Zach Smithson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/564/thumb-1920-564835.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Shenron & Battlegrounds 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/137/1372362.jpeg' alt='Epic Shenron & Battlegrounds 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/137/1372362.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Wallpaper 4K, Dragon, Japanese culture">
+                                <img itemprop="contentUrl url" src='http://4kwallpapers.com/images/walls/thumbs_2t/12105.jpg' alt='Shenron Wallpaper 4K, Dragon, Japanese culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='http://4kwallpapers.com/images/walls/thumbs_2t/12105.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is a Shenron wallpaper I found while google-ing : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-mbfsi9uvz1E-roww3Wjw6sk6r6a-0SK42vKdcF4o8g.jpg?auto=webp&s=f53c352bfeed1885d9bc34255e6a103838048ace' alt='Here is a Shenron wallpaper I found while google-ing : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-mbfsi9uvz1E-roww3Wjw6sk6r6a-0SK42vKdcF4o8g.jpg?auto=webp&s=f53c352bfeed1885d9bc34255e6a103838048ace' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Dragon Ball Z Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' alt='Shenron Dragon Ball Z Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron 4K Ultra HD Wallpaper - Dragon Ball Z Anime">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/725/725250.jpg' alt='Shenron 4K Ultra HD Wallpaper - Dragon Ball Z Anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="3212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/725/725250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/b6/4f/afb64f60bee335731034ed7d1ddd0d06.jpg' alt='Shenron Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/b6/4f/afb64f60bee335731034ed7d1ddd0d06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Ball Z Shenron Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-z-pictures-gr7wy3o8gwgt13g7.jpg' alt='Download Dragon Ball Z Shenron Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-z-pictures-gr7wy3o8gwgt13g7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shenron Wallpaper (1920x1080) by TimSimm2 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5caae7ba-b017-4e53-9011-c711f557e653/de3e9a5-cd18ab8b-7c2b-4b71-84d6-94bb595c558c.png/v1/fill/w_1192,h_670,q_70,strp/shenron_wallpaper__1920x1080__by_timsimm2_de3e9a5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWNhYWU3YmEtYjAxNy00ZTUzLTkwMTEtYzcxMWY1NTdlNjUzXC9kZTNlOWE1LWNkMThhYjhiLTdjMmItNGI3MS04NGQ2LTk0YmI1OTVjNTU4Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DUFeiPM7tQUbaG4ITjMVYhIL3GfuVNrL99SzjsmjPbA' alt='Shenron Wallpaper (1920x1080) by TimSimm2 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5caae7ba-b017-4e53-9011-c711f557e653/de3e9a5-cd18ab8b-7c2b-4b71-84d6-94bb595c558c.png/v1/fill/w_1192,h_670,q_70,strp/shenron_wallpaper__1920x1080__by_timsimm2_de3e9a5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNWNhYWU3YmEtYjAxNy00ZTUzLTkwMTEtYzcxMWY1NTdlNjUzXC9kZTNlOWE1LWNkMThhYjhiLTdjMmItNGI3MS04NGQ2LTk0YmI1OTVjNTU4Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DUFeiPM7tQUbaG4ITjMVYhIL3GfuVNrL99SzjsmjPbA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD shenron wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/14/5/HD-wallpaper-shenron-dragon-ball-ball-z-super.jpg' alt='HD shenron wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/14/5/HD-wallpaper-shenron-dragon-ball-ball-z-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

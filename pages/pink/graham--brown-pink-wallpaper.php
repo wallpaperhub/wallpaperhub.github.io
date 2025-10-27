@@ -1,0 +1,129 @@
+<title>Graham & Brown Pink Wallpaper: Elegance Redefined</title>
+                    <meta name="description" content="Discover the charm of Graham & Brown pink wallpaper. Ideal for any room, it brings style and sophistication to your decor. Explore various designs that suit your taste while transforming your space with warmth and elegance. Perfect for a quick home makeover!">
+                    <meta name="keywords" content="graham & brown pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/graham--brown-pink-wallpaper">
+                            <span itemprop="name">graham & brown pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Graham & Brown Pink Wallpaper: Elegance Redefined</h1>
+                <p>Transform your space with Graham & Brown's exquisite pink wallpaper. Perfect for adding a touch of elegance, this wallpaper harmonizes beautifully with various design styles. Whether you’re redecorating a cozy bedroom or a chic living room, its soft hues and intricate patterns offer a sophisticated backdrop for your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo Texture by Graham & Brown - Pink - Wallpaper - 104729">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/163417/main/graham-and-brown-bamboo-texture-pink-wallpaper-1@lg.webp' alt='Bamboo Texture by Graham & Brown - Pink - Wallpaper - 104729'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/163417/main/graham-and-brown-bamboo-texture-pink-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Archetype by Graham & Brown - Pink - Wallpaper - 105910">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/160880/main/graham-and-brown-archetype-pink-wallpaper-1@lg.webp' alt='Archetype by Graham & Brown - Pink - Wallpaper - 105910'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/160880/main/graham-and-brown-archetype-pink-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jardin Magenta Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1881/10366/106429_2__38997.1682002999.jpg' alt='Jardin Magenta Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1881/10366/106429_2__38997.1682002999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Blossom Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8610/12876/105766_2__66704.1682003036.jpg' alt='Tori Blossom Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8610/12876/105766_2__66704.1682003036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basuto by Graham & Brown - Pink - Wallpaper - 105930">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/162880/tiled/graham-and-brown-basuto-pink-wallpaper-tiled-162880.jpg' alt='Basuto by Graham & Brown - Pink - Wallpaper - 105930'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/162880/tiled/graham-and-brown-basuto-pink-wallpaper-tiled-162880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tartan by Graham & Brown - Pink - Wallpaper - 104723">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/161195/main/graham-and-brown-tartan-pink-wallpaper-1@lg.webp' alt='Tartan by Graham & Brown - Pink - Wallpaper - 104723'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/161195/main/graham-and-brown-tartan-pink-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Countess Pink and White Removable Wallpaper 104137">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bda3458a-421b-4855-8c15-1c99c69adb74/svn/graham-brown-wallpaper-rolls-104137-31_600.jpg' alt='Graham & Brown Countess Pink and White Removable Wallpaper 104137'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bda3458a-421b-4855-8c15-1c99c69adb74/svn/graham-brown-wallpaper-rolls-104137-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="104423 - Graham & Brown, Pierre Pink Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/104423_1.jpg?v=1673400311' alt='104423 - Graham & Brown, Pierre Pink Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/104423_1.jpg?v=1673400311' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Rachel Ashwell Butterflies Pink Wallpaper 125107">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a63b3323-4cfa-42e9-8e1b-1abbaa85244f/svn/graham-brown-wallpaper-rolls-125107-31_600.jpg' alt='Graham & Brown Rachel Ashwell Butterflies Pink Wallpaper 125107'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a63b3323-4cfa-42e9-8e1b-1abbaa85244f/svn/graham-brown-wallpaper-rolls-125107-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="104423 - Graham & Brown, Pierre Pink Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/104423_3.jpg?v=1673400311&width=1445' alt='104423 - Graham & Brown, Pierre Pink Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/104423_3.jpg?v=1673400311&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Tapestry Backgrounds for Every Setting</title>
+                    <meta name="description" content="Explore the captivating world of tapestry backgrounds. Perfect for home decor or digital designs, these vibrant textiles add personality and warmth to any space. Discover the beauty of intricate patterns and rich textures today!">
+                    <meta name="keywords" content="tapestry background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tapestry-background">
+                            <span itemprop="name">tapestry background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tapestry Backgrounds for Every Setting</h1>
+                <p>Tapestry backgrounds are intricate textile artworks that add depth and character to any space. These decorative pieces often feature rich textures and vibrant colors, telling stories through their detailed designs. Ideal for home decor, events, or digital backgrounds, tapestries bring warmth and sophistication to both traditional and modern settings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Tapestries, wallpaper from ancient tapestry, WP-797-R ...">
+                                <img itemprop="contentUrl url" src='https://cdn.webshopapp.com/shops/314781/files/440861520/image.jpg' alt='Landscape Tapestries, wallpaper from ancient tapestry, WP-797-R ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KEK Amsterdam" />
+                                </span>
+                                <a href='https://cdn.webshopapp.com/shops/314781/files/440861520/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Tapestry Wallpaper in Soft Blue – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/GardenTapestry_SoftBlue_ILW50598_Thumbnail_WEB_e003fad9-f50a-464c-9980-0e2325e3b31e.webp?v=1723473201&width=1024' alt='Garden Tapestry Wallpaper in Soft Blue – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/GardenTapestry_SoftBlue_ILW50598_Thumbnail_WEB_e003fad9-f50a-464c-9980-0e2325e3b31e.webp?v=1723473201&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLORAL TAPESTRY Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20057_-_floral_tapestry.jpg' alt='FLORAL TAPESTRY Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20057_-_floral_tapestry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medieval Tapestry by Coordonne - Deep Coral - Wallpaper - 8000013">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/157277_1_orig.jpg' alt='Medieval Tapestry by Coordonne - Deep Coral - Wallpaper - 8000013'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/157277_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Generleo Sun and Moon Tapestry Trippy Flower Tapestries Hippie  Boho Floral Plant Wall Art Decor Vintage Aesthetic Black Star Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dpPZ1mNpL.jpg' alt='Amazon.com: Generleo Sun and Moon Tapestry Trippy Flower Tapestries Hippie  Boho Floral Plant Wall Art Decor Vintage Aesthetic Black Star Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dpPZ1mNpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tapestry Landscape Beige">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/files/VintageTapestry-TapestryLandscape-BAS05701090-Beige-10.jpg?v=1717159296' alt='Tapestry Landscape Beige'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/files/VintageTapestry-TapestryLandscape-BAS05701090-Beige-10.jpg?v=1717159296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HUNTER'S TAPESTRY Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/h/u/hunter_s_tapestry.jpg' alt='HUNTER'S TAPESTRY Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mindtheg.com" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/h/u/hunter_s_tapestry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mindthegap - Tibetan Tapestry Metallic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7319_i140_w900.jpeg' alt='Mindthegap - Tibetan Tapestry Metallic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7319_i140_w900.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Tapestry Background 5 Photo">
+                                <img itemprop="contentUrl url" src='https://d39l2hkdp2esp1.cloudfront.net/img/photo/274759/274759_00_2x.jpg?20230510012100' alt='Floral Tapestry Background 5 Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="1184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouWorkForThem" />
+                                </span>
+                                <a href='https://d39l2hkdp2esp1.cloudfront.net/img/photo/274759/274759_00_2x.jpg?20230510012100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tapestry Design, with Butterflies, Autumn Colored Foliage on a Dark Blue  Background by Lise Winne">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tapestry-design-with-butterflies-autumn-colored-foliage-on-a-dark-blue-background-lise-winne.jpg' alt='Tapestry Design, with Butterflies, Autumn Colored Foliage on a Dark Blue  Background by Lise Winne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tapestry-design-with-butterflies-autumn-colored-foliage-on-a-dark-blue-background-lise-winne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

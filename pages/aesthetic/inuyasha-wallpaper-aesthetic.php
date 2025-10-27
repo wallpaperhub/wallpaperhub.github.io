@@ -1,0 +1,129 @@
+<title>Stunning Inuyasha Aesthetic Wallpapers for Every Fan</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="inuyasha wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/inuyasha-wallpaper-aesthetic">
+                            <span itemprop="name">inuyasha wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Inuyasha Aesthetic Wallpapers for Every Fan</h1>
+                <p>Transform your screen with captivating Inuyasha wallpaper aesthetics. Featuring stunning artwork, these wallpapers showcase the beloved characters and enchanting landscapes of the iconic series. Whether you're a die-hard fan or new to the adventures of Inuyasha, these wallpapers will infuse your device with a touch of nostalgia and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/5/7/752827-1080x1920-samsung-full-hd-inuyasha-wallpaper-image.jpg' alt='InuYasha Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/5/7/752827-1080x1920-samsung-full-hd-inuyasha-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inuyasha               ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/52/fd/0352fd1f48ca37fdbb01092202d8602c.jpg' alt='Inuyasha               '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/52/fd/0352fd1f48ca37fdbb01092202d8602c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD inuyasha aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/527/264/HD-wallpaper-inuyasha-and-kagome-poppy-anime-ships-90s-anime-poppies-aesthetic-anime.jpg' alt='HD inuyasha aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/527/264/HD-wallpaper-inuyasha-and-kagome-poppy-anime-ships-90s-anime-poppies-aesthetic-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="inuyasha aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ed/59/7a/ed597a1215d02006591681ace797ea1d.jpg' alt='inuyasha aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ed/59/7a/ed597a1215d02006591681ace797ea1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="obsessed with my new wallpaper!! ❤️   : r/inuyasha">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/obsessed-with-my-new-wallpaper-v0-ymvrrc6x53wc1.jpeg?auto=webp&s=8f29314542e8f7180ac661e07507c6dab6956167' alt='obsessed with my new wallpaper!! ❤️   : r/inuyasha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/obsessed-with-my-new-wallpaper-v0-ymvrrc6x53wc1.jpeg?auto=webp&s=8f29314542e8f7180ac661e07507c6dab6956167' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this wallpaper of Inuyasha a while ago thoughts? : r/inuyasha">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wta7hwzrey961.jpg' alt='I made this wallpaper of Inuyasha a while ago thoughts? : r/inuyasha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wta7hwzrey961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Inuyasha wallpaper ideas | inuyasha, kagome and inuyasha ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/da/5d/f5/da5df5148dd35739ae50843fcb133f3a.jpg' alt='100 Inuyasha wallpaper ideas | inuyasha, kagome and inuyasha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/da/5d/f5/da5df5148dd35739ae50843fcb133f3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Inuyasha Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inuyasha-iphone-wxcrr9q6yryuv2ja.jpg' alt='100+] Inuyasha Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inuyasha-iphone-wxcrr9q6yryuv2ja.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Inuyasha wallpaper ideas | inuyasha, kagome and inuyasha ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/42/3f/11423f6d572d15a1374aa5dfc971cb35.jpg' alt='100 Inuyasha wallpaper ideas | inuyasha, kagome and inuyasha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/42/3f/11423f6d572d15a1374aa5dfc971cb35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inuyasha Aesthetic, anime, flower, kagome, love, pink, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/302/877/HD-wallpaper-inuyasha-aesthetic-anime-flower-kagome-love-pink.jpg' alt='Inuyasha Aesthetic, anime, flower, kagome, love, pink, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/302/877/HD-wallpaper-inuyasha-aesthetic-anime-flower-kagome-love-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

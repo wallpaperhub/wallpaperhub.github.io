@@ -1,0 +1,129 @@
+<title>Stylish Auburn Wallpaper for a Cozy Home Look</title>
+                    <meta name="description" content="Discover stunning auburn wallpaper that adds warmth to your space. Perfect for creating a cozy ambiance, our collection features various patterns and textures to match your style. Transform your home decor effortlessly with these trendy designs!">
+                    <meta name="keywords" content="cool auburn wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-auburn-wallpaper">
+                            <span itemprop="name">cool auburn wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Auburn Wallpaper for a Cozy Home Look</h1>
+                <p>Transform your space with cool auburn wallpaper! This rich, warm hue adds an elegant touch to any room, creating a cozy atmosphere. Ideal for accent walls or whole rooms, auburn wallpaper pairs beautifully with neutral tones and vibrant furnishings alike. Elevate your decor with stunning patterns or textures today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Auburn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/auburn-football-red-sky-with-lightning-om55ok7j4kie8o1s.jpg' alt='100+] Auburn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/auburn-football-red-sky-with-lightning-om55ok7j4kie8o1s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Auburn Tigers wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Auburn-Tigers-wallpaper-logo-mobile-NCAA-2024.png' alt='2025 Auburn Tigers wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Auburn-Tigers-wallpaper-logo-mobile-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Auburn Tigers Revolving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lP5DgYLBL.png' alt='Auburn Tigers Revolving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lP5DgYLBL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Auburn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/auburn-football-with-a-blue-logo-doregtjlg3b1guaa.jpg' alt='100+] Auburn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/auburn-football-with-a-blue-logo-doregtjlg3b1guaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD auburn wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/140/125/HD-wallpaper-auburn-tigers-american-football-team-creative-american-flag-blue-orange-flag-ncaa-auburn-alabama-usa-auburn-tigers-logo-emblem-silk-flag-american-football.jpg' alt='HD auburn wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/140/125/HD-wallpaper-auburn-tigers-american-football-team-creative-american-flag-blue-orange-flag-ncaa-auburn-alabama-usa-auburn-tigers-logo-emblem-silk-flag-american-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Auburn Tigers iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/40/cc/cd/40cccd6ce1c5e6cc149b85528cd0525c.jpg' alt='Auburn Tigers iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/40/cc/cd/40cccd6ce1c5e6cc149b85528cd0525c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Auburn Tigers wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Auburn-Tigers-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' alt='2025 Auburn Tigers wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Auburn-Tigers-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Auburn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-tiger-auburn-football-2bh60qm1rwxr1ukv.jpg' alt='100+] Auburn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-tiger-auburn-football-2bh60qm1rwxr1ukv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love My Auburn Tigers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/d1/54/d9d1546eb6e9eca336b6d8ad3a10aad3.jpg' alt='Love My Auburn Tigers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/d1/54/d9d1546eb6e9eca336b6d8ad3a10aad3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Virtual Backgrounds | Auburn University">
+                                <img itemprop="contentUrl url" src='https://ocm.auburn.edu/zoom/backgrounds/au_virtual_zoom_bkg-8-war-eagle-wall.jpg' alt='Zoom Virtual Backgrounds | Auburn University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Auburn University" />
+                                </span>
+                                <a href='https://ocm.auburn.edu/zoom/backgrounds/au_virtual_zoom_bkg-8-war-eagle-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

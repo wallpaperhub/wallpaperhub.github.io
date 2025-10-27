@@ -1,0 +1,129 @@
+<title>Stylish Aesthetic Cross Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful aesthetic cross wallpapers designed for iPhone. Enhance your device with unique styles that reflect your personality. Perfect for inspiration and creativity, these wallpapers will transform your screen into a serene visual experience.">
+                    <meta name="keywords" content="iphone aesthetic cross wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/iphone-aesthetic-cross-wallpaper">
+                            <span itemprop="name">iphone aesthetic cross wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Aesthetic Cross Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's look with stunning aesthetic cross wallpapers, blending spirituality and style. Perfect for those seeking inspiration, these wallpapers showcase intricate designs that bring a touch of elegance to your home screen. Choose from a variety of styles to reflect your unique personality and create a peaceful visual sanctuary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/77/08/287708368759add5d4c11ff39b8186f3.jpg' alt='Saved.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/77/08/287708368759add5d4c11ff39b8186f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Wallpapers for iPhone 15 | Download Free images | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/6f725d4593e1390f716d1bb70249e2ba/9861ab7b196d4db3add5e3b893a1e04b.jpg?q=70&w=500' alt='Cross Wallpapers for iPhone 15 | Download Free images | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/6f725d4593e1390f716d1bb70249e2ba/9861ab7b196d4db3add5e3b893a1e04b.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luke 9:23 Christian Wallpaper - Aesthetic Bible Verse Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/a0/e0/34a0e0d1e48fb2d13edeb1e0c5e56fae.jpg' alt='Luke 9:23 Christian Wallpaper - Aesthetic Bible Verse Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/a0/e0/34a0e0d1e48fb2d13edeb1e0c5e56fae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Light Cross Christian Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-light-cross-christian-iphone-6rl4iqa8qhcisn5g.jpg' alt='Neon Light Cross Christian Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-light-cross-christian-iphone-6rl4iqa8qhcisn5g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Connecting faith and beauty with Aesthetic Cross ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-cross-gj5pg2k19g2janlz.jpg' alt='Download Connecting faith and beauty with Aesthetic Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-cross-gj5pg2k19g2janlz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross On Clouds Christian Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cross-on-clouds-christian-iphone-ru6i7h51tut98gzh.jpg' alt='Cross On Clouds Christian Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cross-on-clouds-christian-iphone-ru6i7h51tut98gzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic cross background ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/9a/c5/ee9ac54330218f6ace29f4d6fe16cd37.jpg' alt='aesthetic cross background ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/9a/c5/ee9ac54330218f6ace29f4d6fe16cd37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cute Cross Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cross-873-x-1552-bytosl2gprm5h0if.jpg' alt='200+] Cute Cross Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="873">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cross-873-x-1552-bytosl2gprm5h0if.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross B, black, praying, yourself, believe, crosses, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/302/136/HD-wallpaper-cross-b-black-praying-yourself-believe-crosses.jpg' alt='Cross B, black, praying, yourself, believe, crosses, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/302/136/HD-wallpaper-cross-b-black-praying-yourself-believe-crosses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple brown cross wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/ef/31/caef3183ad75e0e88892259a88f37c54.jpg' alt='Simple brown cross wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/ef/31/caef3183ad75e0e88892259a88f37c54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

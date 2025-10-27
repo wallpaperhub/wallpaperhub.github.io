@@ -1,0 +1,129 @@
+<title>Stunning Coral PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover high-quality coral PNG images that elevate your designs. Perfect for websites, social media, or print, these vibrant graphics bring underwater beauty to life. Explore a diverse collection of coral images that inspire creativity and captivate your audience!">
+                    <meta name="keywords" content="coral png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coral-png">
+                            <span itemprop="name">coral png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Coral PNG Images for Your Creative Projects</h1>
+                <p>Coral PNGs are perfect for enhancing your digital designs. These high-quality, transparent images of vibrant corals add a touch of marine beauty to any project, whether it’s for social media, websites, or art. Explore a selection of stunning coral PNG images that capture the essence of underwater life and inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20231005/original/pngtree-watercolor-coral-sea-png-image_13124032.png' alt='Coral PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20231005/original/pngtree-watercolor-coral-sea-png-image_13124032.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/stunning-pink-coral-reef-specimen_191095-83835.jpg' alt='Coral Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/stunning-pink-coral-reef-specimen_191095-83835.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Orange PNG Images & PSDs for Download | PixelSquid - S11294231C">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/coral-orange-reef-lXN5xXC-600.jpg' alt='Coral Orange PNG Images & PSDs for Download | PixelSquid - S11294231C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/coral-orange-reef-lXN5xXC-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Reef Png Stock Illustrations – 317 Coral Reef Png Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bright-lush-coral-reef-illustration-isolated-transparent-background-bright-lush-coral-reef-illustration-isolated-337650634.jpg' alt='Coral Reef Png Stock Illustrations – 317 Coral Reef Png Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bright-lush-coral-reef-illustration-isolated-transparent-background-bright-lush-coral-reef-illustration-isolated-337650634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/326/969/png-clipart-red-coral-illustration-coral-reef-deep-water-coral-alcyonacea-red-coral-coral-miscellaneous-hand-thumbnail.png' alt='Coral png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/326/969/png-clipart-red-coral-illustration-coral-reef-deep-water-coral-alcyonacea-red-coral-coral-miscellaneous-hand-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Png Overlay by lewis4721 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/de8qw1p-229c54cc-4b04-4b8e-a675-26f93ea1c4b1.png/v1/fill/w_1280,h_1091/coral_png_overlay_by_lewis4721_de8qw1p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGU4cXcxcC0yMjljNTRjYy00YjA0LTRiOGUtYTY3NS0yNmY5M2VhMWM0YjEucG5nIiwiaGVpZ2h0IjoiPD0xMDkxIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvY2RiYTk1NGYtYTdmNS00MTdhLTkzMzctOGI3MTkzMjZmNmJlXC9sZXdpczQ3MjEtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.obj4VHyHtwngKIXTHBy-6wyT4fyQVSfGxZFkeCgWNdw' alt='Coral Png Overlay by lewis4721 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/de8qw1p-229c54cc-4b04-4b8e-a675-26f93ea1c4b1.png/v1/fill/w_1280,h_1091/coral_png_overlay_by_lewis4721_de8qw1p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGU4cXcxcC0yMjljNTRjYy00YjA0LTRiOGUtYTY3NS0yNmY5M2VhMWM0YjEucG5nIiwiaGVpZ2h0IjoiPD0xMDkxIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvY2RiYTk1NGYtYTdmNS00MTdhLTkzMzctOGI3MTkzMjZmNmJlXC9sZXdpczQ3MjEtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.obj4VHyHtwngKIXTHBy-6wyT4fyQVSfGxZFkeCgWNdw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY4LTE3Mi1sMHhsNDEybi5qcGc.jpg' alt='Coral Images | Free Photos, PNG Stickers, Wallpapers & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY4LTE3Mi1sMHhsNDEybi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240511/ourmid/pngtree-vibrant-coral-reef-paradise-underwater-wonderland-scene-isolated-with-transparent-background-png-image_12437919.png' alt='Coral PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240511/ourmid/pngtree-vibrant-coral-reef-paradise-underwater-wonderland-scene-isolated-with-transparent-background-png-image_12437919.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print coral transparent png isolated on white background, 40x40 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/64/10/79/1000_F_564107933_j0H5NSMz2KXGxVoljnQShdngrpWO5PCm.jpg' alt='Poster, Print coral transparent png isolated on white background, 40x40 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/64/10/79/1000_F_564107933_j0H5NSMz2KXGxVoljnQShdngrpWO5PCm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Pink Coral PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/308311/isolated/preview/965b3c4ad7bf1e0a0dfbdb9beb733e0b-beautiful-pink-coral.png' alt='Beautiful Pink Coral PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/308311/isolated/preview/965b3c4ad7bf1e0a0dfbdb9beb733e0b-beautiful-pink-coral.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

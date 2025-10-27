@@ -1,0 +1,129 @@
+<title>Stylish MF DOOM Phone Wallpapers for Hip-Hop Fans</title>
+                    <meta name="description" content="Discover the best MF DOOM phone wallpapers to express your love for the iconic rapper. Available in various styles and designs, these wallpapers are perfect for any fan looking to personalize their mobile device and celebrate hip-hop culture. Download your favorite today!">
+                    <meta name="keywords" content="mf doom wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mf-doom-wallpaper-phone">
+                            <span itemprop="name">mf doom wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish MF DOOM Phone Wallpapers for Hip-Hop Fans</h1>
+                <p>Transform your phone’s screen with stunning MF DOOM wallpapers that capture the essence of the legendary underground rapper. From iconic images to art styles that reflect his unique aesthetic, choose wallpapers that resonate with your love for hip-hop. Elevate your mobile experience and showcase your fandom wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mm.. Food wallpaper I made : r/mfdoom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kpoh4c1e98q61.jpg' alt='Mm.. Food wallpaper I made : r/mfdoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kpoh4c1e98q61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MF DOOM PHONE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/33/54/973354f42f386881ba06b764fe3eee69.jpg' alt='MF DOOM PHONE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/33/54/973354f42f386881ba06b764fe3eee69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mf doom iphone wallpaper : r/mfdoom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wzjw54usmurb1.jpg' alt='mf doom iphone wallpaper : r/mfdoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wzjw54usmurb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mf doom wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/686/13/HD-wallpaper-mf-doom-madvillain-mf-doom-mfdoom-rapper-rip-villainy.jpg' alt='HD mf doom wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/686/13/HD-wallpaper-mf-doom-madvillain-mf-doom-mfdoom-rapper-rip-villainy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mf Doom Wallpaper Browse Mf Doom Wallpaper with collections of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/b7/de/83b7ded1f2bf17ffa026ca2d8c19214e.jpg' alt='Mf Doom Wallpaper Browse Mf Doom Wallpaper with collections of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/b7/de/83b7ded1f2bf17ffa026ca2d8c19214e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madvillainy phone wallpaper : r/mfdoom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/itn9kn7ln4c41.jpg' alt='Madvillainy phone wallpaper : r/mfdoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="2835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/itn9kn7ln4c41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MF DOOM, all caps, madvillan, madvillany, rap, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/410/288/HD-wallpaper-mf-doom-all-caps-madvillan-madvillany-rap.jpg' alt='MF DOOM, all caps, madvillan, madvillany, rap, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/410/288/HD-wallpaper-mf-doom-all-caps-madvillan-madvillany-rap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MF DOOM PHONE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/1d/43/791d4334d59096b375333e4e9e1acb41.jpg' alt='MF DOOM PHONE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/1d/43/791d4334d59096b375333e4e9e1acb41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I designed a DOOM phone wallpaper! : r/mfdoom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9o7beejc9n571.jpg' alt='I designed a DOOM phone wallpaper! : r/mfdoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9o7beejc9n571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this MF DOOM wallpaper : r/mfdoom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/unnukvu15x961.jpg' alt='I made this MF DOOM wallpaper : r/mfdoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/unnukvu15x961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

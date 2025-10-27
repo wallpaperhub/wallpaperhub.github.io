@@ -1,0 +1,129 @@
+<title>Kehinde Wiley: The Art of Floral Backgrounds</title>
+                    <meta name="description" content="Discover Kehinde Wiley’s captivating floral backgrounds that blend vibrant artistry with cultural narratives. Explore how these intricate patterns enhance his portraits, celebrating identity and beauty in every stroke. Perfect for art lovers and enthusiasts seeking inspiration.">
+                    <meta name="keywords" content="kehinde wiley floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kehinde-wiley-floral-background">
+                            <span itemprop="name">kehinde wiley floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kehinde Wiley: The Art of Floral Backgrounds</h1>
+                <p>Kehinde Wiley’s floral backgrounds are a striking blend of contemporary artistry and traditional portraiture. With vibrant colors and intricate patterns, he elevates his subjects, often celebrating the Black identity. These backgrounds serve not just as decoration but also as a narrative that interweaves cultural significance and modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming with Life: Kehinde Wiley's Fabric – the thread">
+                                <img itemprop="contentUrl url" src='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley_2-1.jpg' alt='Blooming with Life: Kehinde Wiley's Fabric – the thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the thread" />
+                                </span>
+                                <a href='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley_2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/48/f3/c848f3eda65e3351bff3b0d6c1071531.jpg' alt='Kehinde Wiley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/48/f3/c848f3eda65e3351bff3b0d6c1071531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley's floral, haunting Archaeology of Silence - Digging">
+                                <img itemprop="contentUrl url" src='https://www.penick.net/digging/wp-content/uploads/2024/07/04_Kehinde_Wiley_art.jpg' alt='Kehinde Wiley's floral, haunting Archaeology of Silence - Digging'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pam Penick" />
+                                </span>
+                                <a href='https://www.penick.net/digging/wp-content/uploads/2024/07/04_Kehinde_Wiley_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley's floral backgrounds are stunning!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a2/e1/81/a2e1815f3186a6a5ee91f47145f54cd6.jpg' alt='Kehinde Wiley's floral backgrounds are stunning!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a2/e1/81/a2e1815f3186a6a5ee91f47145f54cd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2028/3675/files/kw1_large.jpg?v=1533149941' alt='Kehinde Wiley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="363">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowercase NYC" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2028/3675/files/kw1_large.jpg?v=1533149941' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiley Flowers in Full Bloom">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/410ed7_180681ba955d4b7393d2c0d8c01e54aa~mv2.jpg/v1/fill/w_528,h_774,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/410ed7_180681ba955d4b7393d2c0d8c01e54aa~mv2.jpg' alt='Wiley Flowers in Full Bloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jo's Art History" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/410ed7_180681ba955d4b7393d2c0d8c01e54aa~mv2.jpg/v1/fill/w_528,h_774,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/410ed7_180681ba955d4b7393d2c0d8c01e54aa~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming with Life: Kehinde Wiley's Fabric – the thread">
+                                <img itemprop="contentUrl url" src='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley.jpg' alt='Blooming with Life: Kehinde Wiley's Fabric – the thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the thread" />
+                                </span>
+                                <a href='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September | 2019 | Alberti's Window">
+                                <img itemprop="contentUrl url" src='https://albertis-window.com/wp-content/uploads/2019/09/IMG_2386.jpg' alt='September | 2019 | Alberti's Window'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alberti's Window" />
+                                </span>
+                                <a href='https://albertis-window.com/wp-content/uploads/2019/09/IMG_2386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley - Brooklyn Museum">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/2f/fb/ae2ffbd8e16df0a195251ef03393724e.jpg' alt='Kehinde Wiley - Brooklyn Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/2f/fb/ae2ffbd8e16df0a195251ef03393724e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuba and the Carnivalesque Take Center Stage in Kehinde Wiley's ...">
+                                <img itemprop="contentUrl url" src='https://www.thisiscolossal.com/wp-content/uploads/2023/05/wiley-9.jpg' alt='Cuba and the Carnivalesque Take Center Stage in Kehinde Wiley's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1517">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colossal" />
+                                </span>
+                                <a href='https://www.thisiscolossal.com/wp-content/uploads/2023/05/wiley-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

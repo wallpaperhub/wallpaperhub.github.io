@@ -1,0 +1,129 @@
+<title>Creative Self-Portrait Template for Artists</title>
+                    <meta name="description" content="Discover a unique self-portrait template designed for artists of all levels. Unlock your creativity with structured outlines and personalized elements. Ideal for expressing your individuality, this template simplifies self-expression and enhances your artistic skills. Perfect for beginners and seasoned creators alike!">
+                    <meta name="keywords" content="self portrait template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/self-portrait-template">
+                            <span itemprop="name">self portrait template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Self-Portrait Template for Artists</h1>
+                <p>A self-portrait template serves as a creative guide, allowing you to express your individuality. Start with a blank canvas, outlining key features like facial structure and expressions. Use color palettes that represent your personality and include symbols or motifs that hold personal significance. This template is perfect for both beginners and seasoned artists.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Portrait Template | Planerium">
+                                <img itemprop="contentUrl url" src='https://www.planerium.com/wp-content/uploads/2022/05/self-portrait-template-planerium.jpg' alt='Self Portrait Template | Planerium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="planerium" />
+                                </span>
+                                <a href='https://www.planerium.com/wp-content/uploads/2022/05/self-portrait-template-planerium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Face Template | A to Z Teacher Stuff Printable Pages and Worksheets">
+                                <img itemprop="contentUrl url" src='http://printables.atozteacherstuff.com/wp-content/uploads/2011/08/allaboutmefacetemplate.png' alt='Face Template | A to Z Teacher Stuff Printable Pages and Worksheets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A to Z Teacher Stuff Printable Pages and Worksheets |" />
+                                </span>
+                                <a href='http://printables.atozteacherstuff.com/wp-content/uploads/2011/08/allaboutmefacetemplate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Self Portrait – Choosy Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1201/8274/files/Image_1_06793836-6f1b-4fa8-a906-de212e36a37e.jpg?v=1588088902' alt='My Self Portrait – Choosy Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choosy Kids" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1201/8274/files/Image_1_06793836-6f1b-4fa8-a906-de212e36a37e.jpg?v=1588088902' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making Faces Has Never Been This Easy - Made With Lev">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.madewithlev.com/wp-content/uploads/2019/06/blank-portrait.jpg?fit=819%2C1024&ssl=1' alt='Making Faces Has Never Been This Easy - Made With Lev'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily Levenson" />
+                                </span>
+                                <a href='https://i0.wp.com/www.madewithlev.com/wp-content/uploads/2019/06/blank-portrait.jpg?fit=819%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self portrait template | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/My-Self-Portrait-Blank-Face-Template-with-Name-Mister-Saldivar-8519708-1739215428/original-8519708-1.jpg' alt='Self portrait template | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/My-Self-Portrait-Blank-Face-Template-with-Name-Mister-Saldivar-8519708-1739215428/original-8519708-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Me Self Portrait (Free printable!) - Simply Full of Delight">
+                                <img itemprop="contentUrl url" src='https://simplyfullofdelight.com/wp-content/uploads/2022/06/free-printable-all-about-me-self-portrait--1024x1024.png' alt='All About Me Self Portrait (Free printable!) - Simply Full of Delight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Full of Delight" />
+                                </span>
+                                <a href='https://simplyfullofdelight.com/wp-content/uploads/2022/06/free-printable-all-about-me-self-portrait--1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self portrait template | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Self-Portrait-Template-8533747-1663057716/original-8533747-1.jpg' alt='Self portrait template | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="329">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Self-Portrait-Template-8533747-1663057716/original-8533747-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Portrait, Self-Portrait on the Wall: A Writing Exercise | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:740/1*o914eq_31S5_CIThq5HEqg.jpeg' alt='Self-Portrait, Self-Portrait on the Wall: A Writing Exercise | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:740/1*o914eq_31S5_CIThq5HEqg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Portrait Template | Teach Starter">
+                                <img itemprop="contentUrl url" src='https://fileserver.teachstarter.com/thumbnails/10826-self-portrait-worksheet-us-thumbnail-0-1200x628.png' alt='Self-Portrait Template | Teach Starter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teach Starter" />
+                                </span>
+                                <a href='https://fileserver.teachstarter.com/thumbnails/10826-self-portrait-worksheet-us-thumbnail-0-1200x628.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Portrait Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/3f/4c/ab/3f4cab16dd7f0e416a4766122ca580d3.jpg' alt='Self-Portrait Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/3f/4c/ab/3f4cab16dd7f0e416a4766122ca580d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Wallpaper</title>
+                    <meta name="description" content="Explore how wallpaper on walls elevates your home decor. Discover diverse designs, easy maintenance, and the impact of patterns and colors on your space. Revitalize your interiors with stylish wallpaper choices today!">
+                    <meta name="keywords" content="wallpaper on walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wallpaper-on-walls">
+                            <span itemprop="name">wallpaper on walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Wallpaper</h1>
+                <p>Wallpaper on walls can transform any room, adding color, texture, and personality. With a myriad of designs available, from bold patterns to subtle prints, wallpaper enhances the aesthetic appeal of your space. It's also a practical choice, offering durability and easy maintenance. Revive your interiors with stunning wallpaper options!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Murals & Wallpaper Murals | Stunning Designs by Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/display/wallpaper.jpg?w=1248&h=624&q=50&dpr=2&auto=format&fit=crop&crop=entropy' alt='Wall Murals & Wallpaper Murals | Stunning Designs by Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2496">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/display/wallpaper.jpg?w=1248&h=624&q=50&dpr=2&auto=format&fit=crop&crop=entropy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' alt='Modern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extraordinary Wallpaper for Walls | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1677592124/articles/R13051_interior8.jpg' alt='Extraordinary Wallpaper for Walls | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1677592124/articles/R13051_interior8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Prep Walls For Peel And Stick Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/articles/peel_and_stick_wallpaper_image.jpg?v=1624478108' alt='How To Prep Walls For Peel And Stick Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/articles/peel_and_stick_wallpaper_image.jpg?v=1624478108' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These Are the Wallpaper Designs to Watch in 2025">
+                                <img itemprop="contentUrl url" src='https://www.marthastewart.com/thmb/D0BVNdxOVwDlkR3qaiotqtLjuLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-places-shop-for-wallpaper-wallsauce-hummingbird-blossom-0723-6802523b5e514145a10bf73020afbcca.jpg' alt='These Are the Wallpaper Designs to Watch in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1453">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Martha Stewart" />
+                                </span>
+                                <a href='https://www.marthastewart.com/thmb/D0BVNdxOVwDlkR3qaiotqtLjuLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-places-shop-for-wallpaper-wallsauce-hummingbird-blossom-0723-6802523b5e514145a10bf73020afbcca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surface Texture Wallpaper Wall Mural - Abstract Stacked Stone ...">
+                                <img itemprop="contentUrl url" src='https://tiptophomedecor.com/cdn/shop/files/68_7550115676372-2-Background-Patterns-Wallpaper-Wall-Mural-Abstract-Stacked-Stone-Cubes-5904480486758-Tiptophomedecor-2_3360x3000_crop_center@2x.jpg?v=1719079498' alt='Surface Texture Wallpaper Wall Mural - Abstract Stacked Stone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiptophomedecor" />
+                                </span>
+                                <a href='https://tiptophomedecor.com/cdn/shop/files/68_7550115676372-2-Background-Patterns-Wallpaper-Wall-Mural-Abstract-Stacked-Stone-Cubes-5904480486758-Tiptophomedecor-2_3360x3000_crop_center@2x.jpg?v=1719079498' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When To Wallpaper An Accent Wall - A Beautiful Mess">
+                                <img itemprop="contentUrl url" src='https://abeautifulmess.com/wp-content/uploads/2022/02/When-To-Wallpaper-An-Accent-Wall-click-through-for-tutorial.jpg' alt='When To Wallpaper An Accent Wall - A Beautiful Mess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Beautiful Mess" />
+                                </span>
+                                <a href='https://abeautifulmess.com/wp-content/uploads/2022/02/When-To-Wallpaper-An-Accent-Wall-click-through-for-tutorial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...">
+                                <img itemprop="contentUrl url" src='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-mirage-of-paradise-wallpaper-60121013sd00756-1.jpg' alt='Buy Wallpaper For Walls | Wallpaper Designs For Home | India ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="India Circus" />
+                                </span>
+                                <a href='https://icmedianew.gumlet.io/pub/media/catalog/product/cache/f2d421546b83b64fb3f7a27d900ed3ed/i/n/india-circus-by-krsnaa-mehta-mirage-of-paradise-wallpaper-60121013sd00756-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Modern Wallpaper Designs For Home In 2023">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/db/1b/46db1b8647df2212e6e76117cf9c004e.jpg' alt='25 Modern Wallpaper Designs For Home In 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/db/1b/46db1b8647df2212e6e76117cf9c004e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/7rldri896b2a/23ZtQvVka6ImZYRcxOdmbK/dca58eac58fd7e00a6eb31a07a0183e7/C8_PD0223_Entryway_MAIN_EF.jpg' alt='Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.ctfassets.net/7rldri896b2a/23ZtQvVka6ImZYRcxOdmbK/dca58eac58fd7e00a6eb31a07a0183e7/C8_PD0223_Entryway_MAIN_EF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

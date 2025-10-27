@@ -1,0 +1,129 @@
+<title>Festive Holiday Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the perfect holiday aesthetic wallpaper to elevate your decor. Featuring festive designs and cozy themes, these wallpapers bring warmth and joy to your space. Ideal for creating a cheerful atmosphere that celebrates the spirit of the season! Transform your home today.">
+                    <meta name="keywords" content="holiday aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/holiday-aesthetic-wallpaper">
+                            <span itemprop="name">holiday aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Holiday Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with enchanting holiday aesthetic wallpapers. Embrace the festive spirit, featuring snow-capped trees, cozy cabins, twinkling lights, and cheerful ornaments. Perfect for creating a warm ambiance, these wallpapers evoke nostalgia and joy, making every day feel like a holiday celebration. Enhance your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' alt='Aesthetic Holiday Phone Wallpapers | Free Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/f7/95/d9f795cffebbd647f9a86502d7d8258c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF0tWIvhgc/1/0/1600w/canva-red-and-brown-aesthetic-vision-board-photo-collage-christmas-desktop-wallpaper-rOC9J_STzEA.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF0tWIvhgc/1/0/1600w/canva-red-and-brown-aesthetic-vision-board-photo-collage-christmas-desktop-wallpaper-rOC9J_STzEA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/5b/f2/b35bf2c00cca64dadaf6f63cb4c698f5.jpg' alt='Holiday wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/5b/f2/b35bf2c00cca64dadaf6f63cb4c698f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="holiday wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/85/ea/b5/85eab5aebd7dba4324c43ee1ae89fd3b.jpg' alt='holiday wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/85/ea/b5/85eab5aebd7dba4324c43ee1ae89fd3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Christmas Wallpaper and December Wallpaper Downloads For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/de/49/44/de4944085198c46cd372144c731be4bf.jpg' alt='50+ Free Christmas Wallpaper and December Wallpaper Downloads For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/de/49/44/de4944085198c46cd372144c731be4bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Laptop Desktop Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22021771/r/il/fe4906/3484763219/il_1080xN.3484763219_47wk.jpg' alt='Aesthetic Christmas Laptop Desktop Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22021771/r/il/fe4906/3484763219/il_1080xN.3484763219_47wk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper background - Modern and unique Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/20/9b/13209be0954c3e4d9099376f7e5af458.jpg' alt='Aesthetic wallpaper background - Modern and unique Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/20/9b/13209be0954c3e4d9099376f7e5af458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Phone Wallpapers | Free Magical Holiday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/a4/e4/70a4e4becfed0db4112d12cfda44c6d3.jpg' alt='Aesthetic Christmas Phone Wallpapers | Free Magical Holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/a4/e4/70a4e4becfed0db4112d12cfda44c6d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpapers Free Download | Festive Holiday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/52/1d/27521d2b3eaf077b7a4a0ca97417cc62.jpg' alt='Christmas Phone Wallpapers Free Download | Festive Holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/52/1d/27521d2b3eaf077b7a4a0ca97417cc62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step into the magic of Christmas with this beautiful live wallpaper of a  cozy Christmas town!   ✨ Perfect for setting the holiday mood on your  device.    Don't forget to subscribe and turn on ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7447940564416220448&location=0&aid=1988' alt='Step into the magic of Christmas with this beautiful live wallpaper of a  cozy Christmas town!   ✨ Perfect for setting the holiday mood on your  device.    Don't forget to subscribe and turn on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7447940564416220448&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

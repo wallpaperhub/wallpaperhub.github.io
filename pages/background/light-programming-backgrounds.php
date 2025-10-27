@@ -1,0 +1,129 @@
+<title>Beginner's Guide to Light Programming Backgrounds</title>
+                    <meta name="description" content="Discover the essentials of light programming backgrounds, designed for beginners. Learn fundamental coding skills in HTML, CSS, and JavaScript to create simple web pages and applications. Start your digital journey today with easy-to-follow tips and resources!">
+                    <meta name="keywords" content="light programming backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-programming-backgrounds">
+                            <span itemprop="name">light programming backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beginner's Guide to Light Programming Backgrounds</h1>
+                <p>Light programming backgrounds serve as a foundational stepping stone for aspiring developers. They encompass basic coding concepts and languages such as HTML, CSS, and JavaScript. These skills enable individuals to create simple web pages and applications, fostering creativity and problem-solving abilities in a digital world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Programmers code abstract screen of a software developer. Source ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BMJ9TB/programmers-code-abstract-screen-of-a-software-developer-source-code-background-with-light-effects-2BMJ9TB.jpg' alt='Programmers code abstract screen of a software developer. Source ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BMJ9TB/programmers-code-abstract-screen-of-a-software-developer-source-code-background-with-light-effects-2BMJ9TB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing light blue abstract programming code background on dark. Software  or script development concept.">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/cW5lDBG/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_14.png' alt='Glowing light blue abstract programming code background on dark. Software  or script development concept.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/cW5lDBG/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Digital Programming Background Light Effects Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/random-digital-programming-background-light-260nw-482500099.jpg' alt='Random Digital Programming Background Light Effects Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/random-digital-programming-background-light-260nw-482500099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Binary Programming Image Digital Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/rrice/rrice2104/rrice210400054/167433879-light-blue-binary-programming-image-digital-background.jpg' alt='Light Blue Binary Programming Image Digital Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/rrice/rrice2104/rrice210400054/167433879-light-blue-binary-programming-image-digital-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Code Data Lights Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/e/4/d/e4d559f6-b327-4eac-bebc-4072e7dde11c_large/code-data-lights-stockcake.jpg' alt='Free Code Data Lights Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/e/4/d/e4d559f6-b327-4eac-bebc-4072e7dde11c_large/code-data-lights-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,400+ Laptop Light Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1485025696/vector/vector-laptop-with-open-screen-on-desk-front-view-computer-program-code-on-screen-laptop-on.jpg?s=612x612&w=0&k=20&c=_zPSg1aoc5cx6QtJ3XAL59uXuR5WK4iCRnkXRWbW_YM=' alt='6,400+ Laptop Light Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1485025696/vector/vector-laptop-with-open-screen-on-desk-front-view-computer-program-code-on-screen-laptop-on.jpg?s=612x612&w=0&k=20&c=_zPSg1aoc5cx6QtJ3XAL59uXuR5WK4iCRnkXRWbW_YM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+ Unique Computer code programming background, HD Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210716/pngtree-big-data-light-effect-technology-background-image_744270.jpg' alt='80+ Unique Computer code programming background, HD Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210716/pngtree-big-data-light-effect-technology-background-image_744270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coding Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-glowing-purple-coding-programming-background-with-mock-up-place-big-data-code-concept-3d-rendering_670147-2276.jpg' alt='Coding Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-glowing-purple-coding-programming-background-with-mock-up-place-big-data-code-concept-3d-rendering_670147-2276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: data code wallpaper, rainbows, lights, colorful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/bc/42/77bc42b49a59fed820d1f0babd5d6d38.jpg' alt='HD wallpaper: data code wallpaper, rainbows, lights, colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/bc/42/77bc42b49a59fed820d1f0babd5d6d38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Binary Programming Image Digital Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/rrice/rrice2104/rrice210400061/167433908-light-blue-binary-programming-image-digital-background.jpg' alt='Light Blue Binary Programming Image Digital Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/rrice/rrice2104/rrice210400061/167433908-light-blue-binary-programming-image-digital-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

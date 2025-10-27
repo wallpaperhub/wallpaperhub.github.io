@@ -1,0 +1,129 @@
+<title>“Stunning Red Hearts Wallpaper for a Romantic Touch”</title>
+                    <meta name="description" content="Elevate your surroundings with our stunning red hearts wallpaper. Perfect for creating a passionate atmosphere in any room, this vibrant design adds warmth and charm. Shop now to find the ideal style that transforms your space into a love-filled retreat!">
+                    <meta name="keywords" content="red hearts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-hearts-wallpaper">
+                            <span itemprop="name">red hearts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Stunning Red Hearts Wallpaper for a Romantic Touch”</h1>
+                <p>Discover the beauty of red hearts wallpaper to enhance your space with love and warmth. Perfect for romantic settings or adding a touch of passion to your décor, these vibrant patterns will transform your walls into an affectionate oasis. Ideal for bedrooms, nurseries, or any area that craves a loving atmosphere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red heart wallpaper | Retro wallpaper, Retro wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/7b/51/2a7b518cd6fc82d2462f5149f3d8818a.jpg' alt='red heart wallpaper | Retro wallpaper, Retro wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/7b/51/2a7b518cd6fc82d2462f5149f3d8818a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts Pattern For Valentine's Day Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-hearts-pattern-for-valentine-s-day-ki9yan36jxaecwq8.jpg' alt='Red Hearts Pattern For Valentine's Day Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-hearts-pattern-for-valentine-s-day-ki9yan36jxaecwq8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Red Heart Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/romantic-red-heart-wallpaper-1.webp' alt='Romantic Red Heart Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/romantic-red-heart-wallpaper-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="395,100+ Red Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1191251531/vector/seamless-pattern-with-red-hearts-romantic-creamy-peach-background-for-textile-wallpaper.jpg?s=612x612&w=0&k=20&c=RqOsWkdXpYGaLs6uJ8-7Z0MjfXlIY73--E_oTjW1ZcE=' alt='395,100+ Red Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1191251531/vector/seamless-pattern-with-red-hearts-romantic-creamy-peach-background-for-textile-wallpaper.jpg?s=612x612&w=0&k=20&c=RqOsWkdXpYGaLs6uJ8-7Z0MjfXlIY73--E_oTjW1ZcE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts Background" Images – Browse 2,413 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/63/72/33/360_F_1163723394_dRaOEgR481UArMngBAfbqoIwqV5zMyNU.jpg' alt='Red Hearts Background" Images – Browse 2,413 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/63/72/33/360_F_1163723394_dRaOEgR481UArMngBAfbqoIwqV5zMyNU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpapers     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/20/8e/ff208eca256829103853bfe13755e044.jpg' alt='Cute wallpapers     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/20/8e/ff208eca256829103853bfe13755e044.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Heart Background" Images – Browse 3,488 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/22/83/15/360_F_1122831583_LuJ9cu47n3GdHYE59UAu0juF7XN6AVlZ.jpg' alt='Red Heart Background" Images – Browse 3,488 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/22/83/15/360_F_1122831583_LuJ9cu47n3GdHYE59UAu0juF7XN6AVlZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Red Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/bright-red-heart-aesthetic-44qfecgt841qxhwn.jpg' alt='Bright Red Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/bright-red-heart-aesthetic-44qfecgt841qxhwn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD red heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/103/1015/HD-wallpaper-red-hearts-heart.jpg' alt='HD red heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/103/1015/HD-wallpaper-red-hearts-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

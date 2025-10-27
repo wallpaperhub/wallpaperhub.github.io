@@ -1,0 +1,129 @@
+<title>Stunning Pink and Purple Ombre Backgrounds for Your Designs</title>
+                    <meta name="description" content="Discover vibrant pink and purple ombre backgrounds, perfect for adding elegance to your designs. Ideal for wallpapers, graphics, and creative projects, these gradients inspire a whimsical touch. Explore beautiful options that elevate your visuals effortlessly!">
+                    <meta name="keywords" content="pink and purple ombre background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-purple-ombre-background">
+                            <span itemprop="name">pink and purple ombre background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink and Purple Ombre Backgrounds for Your Designs</h1>
+                <p>A pink and purple ombre background seamlessly blends soft shades of blush pink and deep violet, creating a dreamy, serene atmosphere. Perfect for digital designs, wallpapers, or crafting projects, this gradient evokes feelings of calmness and creativity. Use it to add a touch of elegance to your visuals and inspire a whimsical vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Ombre Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' alt='Pink Purple Ombre Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Ombre Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/electric-pink-color-abstraction_23-2147734201.jpg' alt='Pink Purple Ombre Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/electric-pink-color-abstraction_23-2147734201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Purple Ombre Background with Soft Pastel Tones 43254777 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/254/777/non_2x/pink-and-purple-ombre-background-with-soft-pastel-tones-free-vector.jpg' alt='Pink and Purple Ombre Background with Soft Pastel Tones 43254777 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/254/777/non_2x/pink-and-purple-ombre-background-with-soft-pastel-tones-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre purple-pink iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/26/a3/6a26a3b19931b38e1e892a49f7771d74.jpg' alt='Ombre purple-pink iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/26/a3/6a26a3b19931b38e1e892a49f7771d74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Ombre Gradient Background with Grainy Texture | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4303114160.4828/gbrf,10x10,f,540x540-pad,450x450,f8f8f8.webp' alt='Pink Purple Ombre Gradient Background with Grainy Texture | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4303114160.4828/gbrf,10x10,f,540x540-pad,450x450,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Ombre Pink Purple Stock Illustrations – 5,870 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gradient-ombre-ultra-violet-spring-crocus-pink-lavender-pastel-blurred-purple-minimal-background-trendy-colors-year-133058286.jpg' alt='Background Ombre Pink Purple Stock Illustrations – 5,870 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gradient-ombre-ultra-violet-spring-crocus-pink-lavender-pastel-blurred-purple-minimal-background-trendy-colors-year-133058286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Colourful ombre background in pink and purple">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/colourful-ombre-background-pink-purple_218148-1580.jpg' alt='Premium Photo | Colourful ombre background in pink and purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/colourful-ombre-background-pink-purple_218148-1580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Ombre Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/beautiful-wallpaper-hd-splash-watercolor-260nw-1731530404.jpg' alt='Pink Purple Ombre Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/beautiful-wallpaper-hd-splash-watercolor-260nw-1731530404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/105/purple-pink-ombre-wallpaper-1242x2208.jpg' alt='Purple Ombre Wallpapers [54+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/105/purple-pink-ombre-wallpaper-1242x2208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pink Ombre Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/purple-gradient-abstract-background-pink-260nw-1150034312.jpg' alt='Purple Pink Ombre Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/purple-gradient-abstract-background-pink-260nw-1150034312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Boost Your Career with Verified Credentials</title>
+                    <meta name="description" content="Discover the importance of verified credentials in building trust and enhancing your professional profile. Learn how to leverage these authentic qualifications to advance your career and secure opportunities in today's competitive job market. Get started today!">
+                    <meta name="keywords" content="verified credentials">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/verified-credentials">
+                            <span itemprop="name">verified credentials</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boost Your Career with Verified Credentials</h1>
+                <p>Verified credentials are essential in today's digital landscape, providing users with assurance that their information is authentic and trustworthy. These credentials can range from academic degrees to professional certifications, verifying individuals' skills and backgrounds. Emphasizing verified credentials enhances credibility and fosters trust in various sectors, including education, employment, and online services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials, LLC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQGSByOfLh_LmQ/company-logo_200_200/company-logo_200_200/0/1698701724741/verified_credentials_logo?e=2147483647&v=beta&t=k6OBd5EzLnOQeeoeFEam0sMiIOuIht71FjqvntnQYfI' alt='Verified Credentials, LLC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQGSByOfLh_LmQ/company-logo_200_200/company-logo_200_200/0/1698701724741/verified_credentials_logo?e=2147483647&v=beta&t=k6OBd5EzLnOQeeoeFEam0sMiIOuIht71FjqvntnQYfI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials | Trusted Background Screening">
+                                <img itemprop="contentUrl url" src='https://verifiedcredentials.com/hubfs/Screening%20platform%20-%20Dashboard_Background%20Check%20Platform.svg' alt='Verified Credentials | Trusted Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="verifiedcredentials.com" />
+                                </span>
+                                <a href='https://verifiedcredentials.com/hubfs/Screening%20platform%20-%20Dashboard_Background%20Check%20Platform.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials | Trusted Background Screening">
+                                <img itemprop="contentUrl url" src='https://verifiedcredentials.com/hs-fs/hubfs/Verified-Credentials_Logo-color.png?width=588&height=164&name=Verified-Credentials_Logo-color.png' alt='Verified Credentials | Trusted Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="verifiedcredentials.com" />
+                                </span>
+                                <a href='https://verifiedcredentials.com/hs-fs/hubfs/Verified-Credentials_Logo-color.png?width=588&height=164&name=Verified-Credentials_Logo-color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are verified credentials?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6311eb97e2519f5dbb9ea0cb/67615c399f7eb56fed4fe6db_64f0bf8f8a2e82f401394eb1_1-verified%2520credential%2520university%2520degree.webp' alt='What are verified credentials?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dock.io" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6311eb97e2519f5dbb9ea0cb/67615c399f7eb56fed4fe6db_64f0bf8f8a2e82f401394eb1_1-verified%2520credential%2520university%2520degree.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials - PageUp">
+                                <img itemprop="contentUrl url" src='https://www.pageuppeople.com/wp-content/uploads/2023/03/pageup_partner_verified_credentials_logo.jpeg' alt='Verified Credentials - PageUp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PageUp" />
+                                </span>
+                                <a href='https://www.pageuppeople.com/wp-content/uploads/2023/03/pageup_partner_verified_credentials_logo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verifiable credentials - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/VC_triangle_of_Trust.svg/1200px-VC_triangle_of_Trust.svg.png' alt='Verifiable credentials - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/VC_triangle_of_Trust.svg/1200px-VC_triangle_of_Trust.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student & Candidate Portals | Verified Credentials">
+                                <img itemprop="contentUrl url" src='https://2775967.fs1.hubspotusercontent-na1.net/hubfs/2775967/Industry-Trends-Report-01.svg' alt='Student & Candidate Portals | Verified Credentials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verified Credentials" />
+                                </span>
+                                <a href='https://2775967.fs1.hubspotusercontent-na1.net/hubfs/2775967/Industry-Trends-Report-01.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student & Candidate Portals | Verified Credentials">
+                                <img itemprop="contentUrl url" src='https://2775967.fs1.hubspotusercontent-na1.net/hubfs/2775967/Driving%20record%20monitoring.svg' alt='Student & Candidate Portals | Verified Credentials'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verified Credentials" />
+                                </span>
+                                <a href='https://2775967.fs1.hubspotusercontent-na1.net/hubfs/2775967/Driving%20record%20monitoring.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials Employment Background Check Settlement">
+                                <img itemprop="contentUrl url" src='https://topclassactions.com/wp-content/uploads/2017/11/Verified-Credentials.png.webp' alt='Verified Credentials Employment Background Check Settlement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top Class Actions" />
+                                </span>
+                                <a href='https://topclassactions.com/wp-content/uploads/2017/11/Verified-Credentials.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials | Trusted Background Screening">
+                                <img itemprop="contentUrl url" src='https://verifiedcredentials.com/hubfs/Mobile%20Candidate%20Dashboard%20-%20Get%20Started%20-%20pink%20accent%202%20(1)-1.svg' alt='Verified Credentials | Trusted Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="484">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="verifiedcredentials.com" />
+                                </span>
+                                <a href='https://verifiedcredentials.com/hubfs/Mobile%20Candidate%20Dashboard%20-%20Get%20Started%20-%20pink%20accent%202%20(1)-1.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

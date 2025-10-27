@@ -1,0 +1,129 @@
+<title>Stunning Pink and White Floral Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Explore our exquisite collection of pink and white floral wallpaper. Perfect for adding elegance and a touch of nature to your home decor. Discover stylish designs that effortlessly enhance any room's ambiance and charm!">
+                    <meta name="keywords" content="pink and white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/pink-and-white-floral-wallpaper">
+                            <span itemprop="name">pink and white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink and White Floral Wallpaper for Elegant Interiors</h1>
+                <p>Transform your space with stunning pink and white floral wallpaper. This beautiful design brings a touch of nature indoors, perfect for creating a serene and inviting atmosphere. Ideal for bedrooms, living rooms, or nurseries, the delicate floral patterns add charm and elegance to any decor style. Discover how this wallpaper can brighten your home today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick, Large White & Pink Flowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81EIbljqehL._AC_UF350,350_QL80_.jpg' alt='Floral Wallpaper Peel and Stick, Large White & Pink Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81EIbljqehL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Secret Garden Off White and Pink Delicate Flower Trail Non-Woven  Non-Pasted Wallpaper Roll (Covers 57.75 sq.ft.) G78484">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/622a703f-4fb4-44df-bd45-cc0a652f82e7/svn/wallpaper-rolls-g78484-64_600.jpg' alt='Unbranded Secret Garden Off White and Pink Delicate Flower Trail Non-Woven  Non-Pasted Wallpaper Roll (Covers 57.75 sq.ft.) G78484'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/622a703f-4fb4-44df-bd45-cc0a652f82e7/svn/wallpaper-rolls-g78484-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_design_9719e96a-deb7-4f38-901a-4db7fa979473.jpg?v=1633378004' alt=''Françoise Floral' Wallpaper by Clare V. - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_design_9719e96a-deb7-4f38-901a-4db7fa979473.jpg?v=1633378004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Pink Floral Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/Floral_76714635_01_f5e210d6-b38d-4392-8171-8fa86bdb0e05-sw_grande.jpg?v=1723298836' alt='White and Pink Floral Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/Floral_76714635_01_f5e210d6-b38d-4392-8171-8fa86bdb0e05-sw_grande.jpg?v=1723298836' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Pink and White Roses Modern Luxury Floral Wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/552040/2654400222/il_fullxfull.2654400222_i9vl.jpg' alt='Big Pink and White Roses Modern Luxury Floral Wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/552040/2654400222/il_fullxfull.2654400222_i9vl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folie Flora, Pink – The Pattern Collective">
+                                <img itemprop="contentUrl url" src='https://thepatterncollective.com/cdn/shop/products/FolieFloraPinkdetail_MilolaDesigns_ThePatternCollective.png?v=1680819574&width=1080' alt='Folie Flora, Pink – The Pattern Collective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='https://thepatterncollective.com/cdn/shop/products/FolieFloraPinkdetail_MilolaDesigns_ThePatternCollective.png?v=1680819574&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Sprig Peel & Stick Wallpaper - Pink & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RMK11452WP_9e06aa76-3da1-4d3c-b06d-6390954bad8c.jpg?v=1588108581' alt='Floral Sprig Peel & Stick Wallpaper - Pink & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RMK11452WP_9e06aa76-3da1-4d3c-b06d-6390954bad8c.jpg?v=1588108581' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Roses Wallpaper in Soft Pink on White">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' alt='Romantic Roses Wallpaper in Soft Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Blush">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_detail_720x.jpg?v=1633378017' alt=''Françoise Floral' Wallpaper by Clare V. - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_detail_720x.jpg?v=1633378017' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Universal Background Checks in Michigan: A Safety Measure</title>
+                    <meta name="description" content="Explore Michigan's universal background check law, designed to enhance public safety by mandating checks for all gun transactions. Learn how this legislation aims to reduce gun violence, close existing loopholes, and foster responsible gun ownership in the state.">
+                    <meta name="keywords" content="michigan universal background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/michigan-universal-background-check">
+                            <span itemprop="name">michigan universal background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Universal Background Checks in Michigan: A Safety Measure</h1>
+                <p>Michigan's universal background check initiative aims to increase public safety by requiring background checks for all gun sales. This measure seeks to close loopholes that allow private sales without scrutiny, thereby reducing gun violence. Advocates argue it enhances responsible gun ownership and protects communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan gun control bill: Universal background checks clear House ...">
+                                <img itemprop="contentUrl url" src='https://www.bridgemi.com/sites/default/files/styles/full_width_image/public/2023-03/gun%20law%20shutterstock_0.jpeg?itok=DlGPrz5O' alt='Michigan gun control bill: Universal background checks clear House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bridge Michigan" />
+                                </span>
+                                <a href='https://www.bridgemi.com/sites/default/files/styles/full_width_image/public/2023-03/gun%20law%20shutterstock_0.jpeg?itok=DlGPrz5O' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan now requires universal background checks for all gun ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/US/gun-violence-msu_hpMain_20230413-115407_2_16x9_1600.jpg' alt='Michigan now requires universal background checks for all gun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/US/gun-violence-msu_hpMain_20230413-115407_2_16x9_1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Background Checks for Employment: A Complete Guide [2025 ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/04/michigan-background-check-1.jpg' alt='Michigan Background Checks for Employment: A Complete Guide [2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/04/michigan-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal background checks for firearms passes in Michigan House">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GIjqjan-54o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDMp34CVGJ0CFgFBHllwdTdNxEwMA' alt='Universal background checks for firearms passes in Michigan House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GIjqjan-54o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDMp34CVGJ0CFgFBHllwdTdNxEwMA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Radio Station WHMI 93.5 FM — Livingston County Michigan News ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/syndication.abcaudio.com/files/2023-04-13/GettyImages_GretchenWhitmer_041323.jpg' alt='Radio Station WHMI 93.5 FM — Livingston County Michigan News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radio Station WHMI 93.5 FM — Livingston County Michigan News ..." />
+                                </span>
+                                <a href='https://s3.amazonaws.com/syndication.abcaudio.com/files/2023-04-13/GettyImages_GretchenWhitmer_041323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan House passes universal background checks for firearms">
+                                <img itemprop="contentUrl url" src='https://upnorthlive.com/resources/media2/16x9/full/1015/center/80/3b477b45-0ae2-4e1f-9724-1a8c92bf23f9-large16x9_women_guns_wsbt.JPG' alt='Michigan House passes universal background checks for firearms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UpNorthLive" />
+                                </span>
+                                <a href='https://upnorthlive.com/resources/media2/16x9/full/1015/center/80/3b477b45-0ae2-4e1f-9724-1a8c92bf23f9-large16x9_women_guns_wsbt.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan gun laws change: Background checks, storage, removal affected">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/presto/2023/07/21/PDTF/936b3239-c954-4658-8cb6-a37fbb9cde2e-IMG_Gunsales_Covied_Md7__2_.JPG' alt='Michigan gun laws change: Background checks, storage, removal affected'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3595">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Detroit Free Press" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/presto/2023/07/21/PDTF/936b3239-c954-4658-8cb6-a37fbb9cde2e-IMG_Gunsales_Covied_Md7__2_.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MI CPL no longer Valid for firearms purchases | Michigan Sportsman ...">
+                                <img itemprop="contentUrl url" src='https://www.michigan-sportsman.com/attachments/499079/' alt='MI CPL no longer Valid for firearms purchases | Michigan Sportsman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Sportsman Forum" />
+                                </span>
+                                <a href='https://www.michigan-sportsman.com/attachments/499079/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Now Requires Universal Background Checks for Guns After ...">
+                                <img itemprop="contentUrl url" src='https://images.newrepublic.com/40e68656b69ed68a2708296b9e9be589ed92f8ba.jpeg?auto=format&fit=crop&crop=faces&q=65&w=768&h=undefined&ar=3%3A2&ixlib=react-9.0.3&w=768' alt='Michigan Now Requires Universal Background Checks for Guns After ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Republic" />
+                                </span>
+                                <a href='https://images.newrepublic.com/40e68656b69ed68a2708296b9e9be589ed92f8ba.jpeg?auto=format&fit=crop&crop=faces&q=65&w=768&h=undefined&ar=3%3A2&ixlib=react-9.0.3&w=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanded background checks for gun sales approved by Michigan House of  Representatives">
+                                <img itemprop="contentUrl url" src='https://media.wzzm13.com/assets/WZZM/images/493afada-c0cb-48fa-9a1c-f4e0407098ce/493afada-c0cb-48fa-9a1c-f4e0407098ce_1920x1080.jpg' alt='Expanded background checks for gun sales approved by Michigan House of  Representatives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WZZM 13" />
+                                </span>
+                                <a href='https://media.wzzm13.com/assets/WZZM/images/493afada-c0cb-48fa-9a1c-f4e0407098ce/493afada-c0cb-48fa-9a1c-f4e0407098ce_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

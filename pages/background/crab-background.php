@@ -1,0 +1,129 @@
+<title>Exploring the Fascinating World of Crabs</title>
+                    <meta name="description" content="Delve into the diverse world of crabs, exploring their habitats, unique behaviors, and importance in ecosystems. Discover fascinating facts about these crustaceans that inspire curiosity and intrigue. Perfect for nature lovers and marine biology enthusiasts!">
+                    <meta name="keywords" content="crab background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crab-background">
+                            <span itemprop="name">crab background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Fascinating World of Crabs</h1>
+                <p>Crabs are fascinating crustaceans found in oceans, freshwater, and on land. With over 6,800 species, they play vital roles in marine ecosystems, including scavenging and serving as prey. Known for their unique sideways walking, crabs possess hard exoskeletons for protection. They have adapted to various environments, showcasing incredible diversity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crab Background" Images – Browse 86 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/84/95/78/360_F_384957846_lSsh5kGHlR7NX4joCJ1ygHvRm0R30ptb.jpg' alt='Crab Background" Images – Browse 86 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/84/95/78/360_F_384957846_lSsh5kGHlR7NX4joCJ1ygHvRm0R30ptb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,300+ Wild Crab Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/140236725/photo/ghost-crab-with-beach-background.jpg?s=612x612&w=0&k=20&c=EFRsvifw4Asgt8fdj31PnBEpZSIeylXriph20SPAgc4=' alt='16,300+ Wild Crab Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/140236725/photo/ghost-crab-with-beach-background.jpg?s=612x612&w=0&k=20&c=EFRsvifw4Asgt8fdj31PnBEpZSIeylXriph20SPAgc4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute crab Seamless Pattern Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-crab-seamless-pattern-background_42349-435.jpg' alt='Premium Vector | Cute crab Seamless Pattern Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-crab-seamless-pattern-background_42349-435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crab Background" Images – Browse 86 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/19/15/75/360_F_419157509_YNRlsfWoqvy7REFJ5K3y0yaiIUI3B4pZ.jpg' alt='Crab Background" Images – Browse 86 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/19/15/75/360_F_419157509_YNRlsfWoqvy7REFJ5K3y0yaiIUI3B4pZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crab Photos, Download The BEST Free Crab Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/76966/crab-red-klippenkrabbe-grapsus-grapsus-shellfish-76966.jpeg?cs=srgb&dl=pexels-pixabay-76966.jpg&fm=jpg' alt='Crab Photos, Download The BEST Free Crab Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3008">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/76966/crab-red-klippenkrabbe-grapsus-grapsus-shellfish-76966.jpeg?cs=srgb&dl=pexels-pixabay-76966.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Crab Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/crab-background-iywhhbgodsl4f7hu.jpg' alt='200+] Crab Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/crab-background-iywhhbgodsl4f7hu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crab Wallpaper Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cheerful-marine-life-pattern_1308-174253.jpg' alt='Crab Wallpaper Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cheerful-marine-life-pattern_1308-174253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,900+ Colourful Crab Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/618363144/photo/colorful-rock-crab-on-a-lava-stone-galapagos.jpg?s=612x612&w=0&k=20&c=xBIkc1dAWKOG5lmuqcst1pbBvqNUsiFVB22z6ZHwZFo=' alt='13,900+ Colourful Crab Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/618363144/photo/colorful-rock-crab-on-a-lava-stone-galapagos.jpg?s=612x612&w=0&k=20&c=xBIkc1dAWKOG5lmuqcst1pbBvqNUsiFVB22z6ZHwZFo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Crab Underwater Close-Up Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/c/a/f/cafd9e55-794b-40cc-96eb-311042a0f679_large/crab-underwater-close-up-stockcake.jpg' alt='Free Crab Underwater Close-Up Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/c/a/f/cafd9e55-794b-40cc-96eb-311042a0f679_large/crab-underwater-close-up-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="crabs sea pattern background vector illustration design Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PD085A/crabs-sea-pattern-background-vector-illustration-design-PD085A.jpg' alt='crabs sea pattern background vector illustration design Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PD085A/crabs-sea-pattern-background-vector-illustration-design-PD085A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dua Lipa: Iconic Pop Sensation</title>
+                    <meta name="description" content="Discover Dua Lipa: the pop sensation captivating the world with her powerful voice and catchy hits. From her chart-topping singles to her unique style, explore what makes Dua Lipa a defining artist of our time. Stay updated on her latest news and music releases!">
+                    <meta name="keywords" content="dua lipa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dua-lipa">
+                            <span itemprop="name">dua lipa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dua Lipa: Iconic Pop Sensation</h1>
+                <p>Dua Lipa is a dynamic British pop singer-songwriter known for her powerful vocals and infectious beats. Bursting onto the music scene with hits like "New Rules" and "Levitating," she has captured the hearts of millions worldwide. Her bold style and commitment to empowering themes make her a true icon of modern pop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/16/Glasto24_28_300624_%28259_of_545%29_%2853838014719%29_%28cropped%29.jpg' alt='Dua Lipa - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1507">
+                                <meta itemprop="height" content="2137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/16/Glasto24_28_300624_%28259_of_545%29_%2853838014719%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYmRjM2RlZjItMDZhNS00MTM2LThiZDUtZDQxMmVjYjQ2ZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Dua Lipa - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYmRjM2RlZjItMDZhNS00MTM2LThiZDUtZDQxMmVjYjQ2ZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa Says Artists Are 'Ruthless' in Sharing Their Private Lives">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/09/dua-lipa-on-privacy.jpg?crop=0px%2C35px%2C1798px%2C1014px&resize=1600%2C900' alt='Dua Lipa Says Artists Are 'Ruthless' in Sharing Their Private Lives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/09/dua-lipa-on-privacy.jpg?crop=0px%2C35px%2C1798px%2C1014px&resize=1600%2C900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa (Deluxe) - Album by Dua Lipa | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc' alt='Dua Lipa (Deluxe) - Album by Dua Lipa | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa | Artist | GRAMMY.com">
+                                <img itemprop="contentUrl url" src='https://cdn.media.amplience.net/i/naras/DuaLipa.webp?w=840' alt='Dua Lipa | Artist | GRAMMY.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://cdn.media.amplience.net/i/naras/DuaLipa.webp?w=840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg/1200px-DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg' alt='Dua Lipa - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg/1200px-DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa | Dua Lipa Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dualipa/images/c/cc/8D0D4D9F-45F8-4869-AE75-C36C73CABAC9.jpg/revision/latest?cb=20241201044249' alt='Dua Lipa | Dua Lipa Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dua Lipa Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dualipa/images/c/cc/8D0D4D9F-45F8-4869-AE75-C36C73CABAC9.jpg/revision/latest?cb=20241201044249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa: CDs & Vinyl - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71AyfVKzxLL._UF1000,1000_QL80_.jpg' alt='Dua Lipa: CDs & Vinyl - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71AyfVKzxLL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa: Everything you need to know about the singer">
+                                <img itemprop="contentUrl url" src='https://cdn.apollo.audio/one/media/6761/66e5/7d19/68f1/fe69/d4b7/Duo-Lipa.jpg?quality=80&format=jpg&crop=0,0,2794,4965&resize=crop' alt='Dua Lipa: Everything you need to know about the singer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4965">
+                                <meta itemprop="height" content="2794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rayo" />
+                                </span>
+                                <a href='https://cdn.apollo.audio/one/media/6761/66e5/7d19/68f1/fe69/d4b7/Duo-Lipa.jpg?quality=80&format=jpg&crop=0,0,2794,4965&resize=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dua Lipa's New Red Hair Took More Than 10 Hours to Achieve ...">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/65d8f1e8e923c6a4feaf9a02/4:3/w_2664,h_1998,c_limit/dua%20lipa.jpg' alt='Dua Lipa's New Red Hair Took More Than 10 Hours to Achieve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2664">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/65d8f1e8e923c6a4feaf9a02/4:3/w_2664,h_1998,c_limit/dua%20lipa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

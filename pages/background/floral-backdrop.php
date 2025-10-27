@@ -1,0 +1,129 @@
+<title>Stunning Floral Backdrops for Events & Photos</title>
+                    <meta name="description" content="Discover beautiful floral backdrops that add a touch of elegance to any occasion. Ideal for weddings, parties, or photoshoots, these enchanting designs enhance your space and create unforgettable memories. Explore our collection to find the perfect arrangement for your next event!">
+                    <meta name="keywords" content="floral backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/floral-backdrop">
+                            <span itemprop="name">floral backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Floral Backdrops for Events & Photos</h1>
+                <p>Transform any space with a stunning floral backdrop! Perfect for events, photo shoots, or home decor, these vibrant designs bring nature indoors. Whether you choose real blooms or gorgeous artificial arrangements, a floral backdrop creates an enchanting atmosphere, enhances aesthetics, and serves as a memorable focal point.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : ABLIN 10x7ft Flower Wall Backdrop for Bridal Shower Wedding  Pink Flowers Photography Background Happy Birthday Banner Wedding  Anniversary ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71iNwGrLIjL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : ABLIN 10x7ft Flower Wall Backdrop for Bridal Shower Wedding  Pink Flowers Photography Background Happy Birthday Banner Wedding  Anniversary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71iNwGrLIjL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding Backdrop,  Floral Party Decor, Event Photography-VF-294">
+                                <img itemprop="contentUrl url" src='https://www.valarflowers.com/cdn/shop/files/B28A8531.jpg?v=1698416240' alt='Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding Backdrop,  Floral Party Decor, Event Photography-VF-294'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1978">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valar Flowers Roll Up Fabric Artificial Flower Wall Wedding ..." />
+                                </span>
+                                <a href='https://www.valarflowers.com/cdn/shop/files/B28A8531.jpg?v=1698416240' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10x10ft Flower Wall Backdrop Spring Garden Floral Photo Backdrop Retro  Farmhouse Brown Wood Wall Flower Photography Background Wedding Bridal  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813LelKjjlL._AC_UF894,1000_QL80_.jpg' alt='10x10ft Flower Wall Backdrop Spring Garden Floral Photo Backdrop Retro  Farmhouse Brown Wood Wall Flower Photography Background Wedding Bridal  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813LelKjjlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YIYIBYUS White 23 .6 in. x 15.7 in. Artificial Floral Wall Panel Silk  Hydrangea Backdrop Decor 10-Pieces JJOU5HD6WDZJ8 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2474ee60-ec61-4921-9b0c-23012cc6a2b7/svn/artificial-flowers-jjou5hd6wdzj8-64_1000.jpg' alt='YIYIBYUS White 23 .6 in. x 15.7 in. Artificial Floral Wall Panel Silk  Hydrangea Backdrop Decor 10-Pieces JJOU5HD6WDZJ8 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2474ee60-ec61-4921-9b0c-23012cc6a2b7/svn/artificial-flowers-jjou5hd6wdzj8-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wall 5D Gradient Rose Red Fabric Rolling Up Curtain Floral Backdrop  Wedding Party Proposal Decor">
+                                <img itemprop="contentUrl url" src='http://www.ketiestory.com/cdn/shop/files/DSC03831.jpg?v=1713772965' alt='Flower Wall 5D Gradient Rose Red Fabric Rolling Up Curtain Floral Backdrop  Wedding Party Proposal Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1766">
+                                <meta itemprop="height" content="1766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KetieStory" />
+                                </span>
+                                <a href='http://www.ketiestory.com/cdn/shop/files/DSC03831.jpg?v=1713772965' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Floral Backdrop Wall For Wedding Arrangement Salon Party Decor  Flower Wall Event Bridal Shower Photography Background Panels 40*60cm">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18763102/r/il/0ea9e2/2487992221/il_570xN.2487992221_p7h3.jpg' alt='Autumn Floral Backdrop Wall For Wedding Arrangement Salon Party Decor  Flower Wall Event Bridal Shower Photography Background Panels 40*60cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18763102/r/il/0ea9e2/2487992221/il_570xN.2487992221_p7h3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Boho Spring Floral Arch Wedding Backdrop Designed by Emetselch">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/3bfe3ae6a533bb1bf0c9eef9ad8f72bb.jpg?v=1740039460&width=1000' alt='Kate Boho Spring Floral Arch Wedding Backdrop Designed by Emetselch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/3bfe3ae6a533bb1bf0c9eef9ad8f72bb.jpg?v=1740039460&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A8205 Luxury Wedding Stage Backdrop Flower Stand Floral ...">
+                                <img itemprop="contentUrl url" src='https://angela-flower.com/cdn/shop/files/0_0007_33_d1832a6f-9c6d-4c63-a73c-4631e18fa43f.jpg?v=1714388998&width=800' alt='A8205 Luxury Wedding Stage Backdrop Flower Stand Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angela Flower" />
+                                </span>
+                                <a href='https://angela-flower.com/cdn/shop/files/0_0007_33_d1832a6f-9c6d-4c63-a73c-4631e18fa43f.jpg?v=1714388998&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wall Backdrop Pink Flower Backdrop Green Leaves Photo ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/3159a45c-848b-47db-91b6-053d21f448db.55fc90ab04581c85524f5756295dc103.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Flower Wall Backdrop Pink Flower Backdrop Green Leaves Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/3159a45c-848b-47db-91b6-053d21f448db.55fc90ab04581c85524f5756295dc103.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cinco de mayo-floral wall- backdrop-#41">
+                                <img itemprop="contentUrl url" src='https://mahirehan.com/wp-content/uploads/2018/05/unnamed-34.jpg' alt='cinco de mayo-floral wall- backdrop-#41'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahirehan.com" />
+                                </span>
+                                <a href='https://mahirehan.com/wp-content/uploads/2018/05/unnamed-34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

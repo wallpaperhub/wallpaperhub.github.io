@@ -1,0 +1,129 @@
+<title>Stunning Anime Fantasy Backgrounds: Dive into Enchanting Realms</title>
+                    <meta name="description" content="Discover the captivating world of anime fantasy backgrounds! Explore how these breathtaking visuals enhance storytelling and create immersive experiences. Perfect for fans and creators alike, find inspiration for your next adventure in anime.">
+                    <meta name="keywords" content="anime fantasy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-fantasy-background">
+                            <span itemprop="name">anime fantasy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Fantasy Backgrounds: Dive into Enchanting Realms</h1>
+                <p>Anime fantasy backgrounds transport viewers to enchanting realms filled with magic and wonder. These vibrant backdrops, crafted with intricate details, enhance the storytelling by setting the mood and immersing you in fantastical landscapes, from lush forests to ancient castles. Explore the artistry behind these stunning visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Anime Background - Artists&Clients">
+                                <img itemprop="contentUrl url" src='https://d9jhi50qo719s.cloudfront.net/5il/samples/1osk_800.png?240730032821' alt='Fantasy Anime Background - Artists&Clients'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artists & Clients" />
+                                </span>
+                                <a href='https://d9jhi50qo719s.cloudfront.net/5il/samples/1osk_800.png?240730032821' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sun rays through the forest. Japanese anime illustration painting style">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/611/865/large/sun-rays-through-the-forest-japanese-anime-illustration-painting-style-video.jpg' alt='sun rays through the forest. Japanese anime illustration painting style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/611/865/large/sun-rays-through-the-forest-japanese-anime-illustration-painting-style-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Fantasy Floating Land Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-fantasy-floating-land-2933f7nk8edflqx1.jpg' alt='Anime Fantasy Floating Land Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-fantasy-floating-land-2933f7nk8edflqx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper fantasy, anime, art, dreamland, Stable Diffusion ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/6/6d/anime-fantasy-art-stable-diffusion-neuronet-dreamland.webp' alt='Wallpaper fantasy, anime, art, dreamland, Stable Diffusion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/6/6d/anime-fantasy-art-stable-diffusion-neuronet-dreamland.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Anime Original HD Wallpaper by Benjamin Cehelsky">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/910/thumb-1920-910979.png' alt='Fantasy Anime Original HD Wallpaper by Benjamin Cehelsky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/910/thumb-1920-910979.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fantasy Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fantasy-anime-1225-x-700-wallpaper-iaxkuw3w668d8obv.jpg' alt='100+] Fantasy Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fantasy-anime-1225-x-700-wallpaper-iaxkuw3w668d8obv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fantasy anime wallpaper by yiksnapix on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af6462a3-eb08-4db7-a1c5-251b43da22f4/dhxyqvj-06213950-2401-425b-9d91-7d51b545c491.png/v1/fill/w_900,h_505,q_80,strp/fantasy_anime_wallpaper_by_yiksnapix_dhxyqvj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmNjQ2MmEzLWViMDgtNGRiNy1hMWM1LTI1MWI0M2RhMjJmNFwvZGh4eXF2ai0wNjIxMzk1MC0yNDAxLTQyNWItOWQ5MS03ZDUxYjU0NWM0OTEucG5nIiwiaGVpZ2h0IjoiPD01MDUiLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cL2FmNjQ2MmEzLWViMDgtNGRiNy1hMWM1LTI1MWI0M2RhMjJmNFwveWlrc25hcGl4LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.xIR62V2LYuKOXV8qYHD0K_Iv1mphtvdLb171pNcdEyk' alt='fantasy anime wallpaper by yiksnapix on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af6462a3-eb08-4db7-a1c5-251b43da22f4/dhxyqvj-06213950-2401-425b-9d91-7d51b545c491.png/v1/fill/w_900,h_505,q_80,strp/fantasy_anime_wallpaper_by_yiksnapix_dhxyqvj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmNjQ2MmEzLWViMDgtNGRiNy1hMWM1LTI1MWI0M2RhMjJmNFwvZGh4eXF2ai0wNjIxMzk1MC0yNDAxLTQyNWItOWQ5MS03ZDUxYjU0NWM0OTEucG5nIiwiaGVpZ2h0IjoiPD01MDUiLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cL2FmNjQ2MmEzLWViMDgtNGRiNy1hMWM1LTI1MWI0M2RhMjJmNFwveWlrc25hcGl4LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.xIR62V2LYuKOXV8qYHD0K_Iv1mphtvdLb171pNcdEyk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green forest (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/8b/1b/718b1b205e0da6a1ca4a9027f9afccea.jpg' alt='Green forest (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/8b/1b/718b1b205e0da6a1ca4a9027f9afccea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Fantasy Scenery, Scenery, Castle, Anime, Fantasy, City, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/792/725/HD-wallpaper-anime-fantasy-scenery-scenery-castle-anime-fantasy-city.jpg' alt='Anime Fantasy Scenery, Scenery, Castle, Anime, Fantasy, City, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/792/725/HD-wallpaper-anime-fantasy-scenery-scenery-castle-anime-fantasy-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Fantasy Scene With A Waterfall And Trees | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-anime-background-ydw6htc88emlifvs.jpg' alt='Download A Fantasy Scene With A Waterfall And Trees | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-anime-background-ydw6htc88emlifvs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

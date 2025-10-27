@@ -1,0 +1,129 @@
+<title>Xenoverse 2 Wallpapers: Epic Designs for Your Device</title>
+                    <meta name="description" content="Discover an amazing collection of Xenoverse 2 wallpapers designed to elevate your device's aesthetic. Perfect for gamers and fans alike, our high-quality images capture the essence of your favorite characters. Explore now and personalize your screen!">
+                    <meta name="keywords" content="xenoverse 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/xenoverse-2-wallpaper">
+                            <span itemprop="name">xenoverse 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Xenoverse 2 Wallpapers: Epic Designs for Your Device</h1>
+                <p>Transform your device's look with stunning Xenoverse 2 wallpapers! Featuring vibrant graphics and iconic characters from the game, these wallpapers bring the thrilling world of Xenoverse 2 to your screen. Perfect for fans who want to showcase their love for this epic adventure. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoverse 2 Wallpaper by Maxiuchiha22 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf2r9-c9786a35-d99b-41a7-bdf7-60509607dafc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4ZjJyOS1jOTc4NmEzNS1kOTliLTQxYTctYmRmNy02MDUwOTYwN2RhZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KYMeSkEH36hQVbRp6MDszuAyGTaNfJ8djJ7LF3opssM' alt='Xenoverse 2 Wallpaper by Maxiuchiha22 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf2r9-c9786a35-d99b-41a7-bdf7-60509607dafc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4ZjJyOS1jOTc4NmEzNS1kOTliLTQxYTctYmRmNy02MDUwOTYwN2RhZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KYMeSkEH36hQVbRp6MDszuAyGTaNfJ8djJ7LF3opssM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dragon Ball Xenoverse 2 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/136/1366902.jpeg' alt='Download Dragon Ball Xenoverse 2 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/136/1366902.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoverse 2 Fanmade 4k Wallpaper by RonnieGFX on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b09d9f06-1747-4450-b2d8-07a8f4880a2a/db86qvy-ce3e1a74-6381-4ab2-b674-5fb32283a917.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwOWQ5ZjA2LTE3NDctNDQ1MC1iMmQ4LTA3YThmNDg4MGEyYVwvZGI4NnF2eS1jZTNlMWE3NC02MzgxLTRhYjItYjY3NC01ZmIzMjI4M2E5MTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VLMaqNxAEmolhQJg8yFpQOKLOOsFKWgmU0iEnHP3VZI' alt='Xenoverse 2 Fanmade 4k Wallpaper by RonnieGFX on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b09d9f06-1747-4450-b2d8-07a8f4880a2a/db86qvy-ce3e1a74-6381-4ab2-b674-5fb32283a917.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwOWQ5ZjA2LTE3NDctNDQ1MC1iMmQ4LTA3YThmNDg4MGEyYVwvZGI4NnF2eS1jZTNlMWE3NC02MzgxLTRhYjItYjY3NC01ZmIzMjI4M2E5MTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VLMaqNxAEmolhQJg8yFpQOKLOOsFKWgmU0iEnHP3VZI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON BALL XENOVERSE 2 pic 1 by user619">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/760/760726.jpg' alt='DRAGON BALL XENOVERSE 2 pic 1 by user619'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/760/760726.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Xenoverse 2 Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/Dragon-Ball-Z-Xenoverse-2-PS4-PS5-Wallpapers-02.jpg' alt='Dragon Ball Z Xenoverse 2 Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/Dragon-Ball-Z-Xenoverse-2-PS4-PS5-Wallpapers-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON BALL XENOVERSE 2">
+                                <img itemprop="contentUrl url" src='https://image.api.playstation.com/vulcan/ap/rnd/202312/2208/e611b970aa25ccca49315212e251e44e0c71e0ac182dbf85.jpg' alt='DRAGON BALL XENOVERSE 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation" />
+                                </span>
+                                <a href='https://image.api.playstation.com/vulcan/ap/rnd/202312/2208/e611b970aa25ccca49315212e251e44e0c71e0ac182dbf85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download “The Epic Adventure Awaits in Dragon Ball Xenoverse 2 ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-ball-xenoverse-2-1920-x-1080-wallpaper-0kl06loovdxhydcp.jpg' alt='Download “The Epic Adventure Awaits in Dragon Ball Xenoverse 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-ball-xenoverse-2-1920-x-1080-wallpaper-0kl06loovdxhydcp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dragon ball xenoverse wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/417/643/HD-wallpaper-gokuxenoverse2-ball-dragon-goku-super-xenoverse.jpg' alt='HD dragon ball xenoverse wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/417/643/HD-wallpaper-gokuxenoverse2-ball-dragon-goku-super-xenoverse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Xenoverse 2 Wallpaper's | dragon ball, dragon, dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/11/7f/e5/117fe5df97aae4b0cf16b30bc4c582c0.jpg' alt='Dragon Ball Xenoverse 2 Wallpaper's | dragon ball, dragon, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/11/7f/e5/117fe5df97aae4b0cf16b30bc4c582c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku in Battle - Dragon Ball Xenoverse 2 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/836/836710.jpg' alt='Goku in Battle - Dragon Ball Xenoverse 2 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/836/836710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

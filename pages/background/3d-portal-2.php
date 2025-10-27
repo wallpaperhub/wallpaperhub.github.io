@@ -1,0 +1,129 @@
+<title>Unleash Your Mind: Discover Portal 2's 3D Puzzles!</title>
+                    <meta name="description" content="Explore the innovative world of Portal 2! Solve intricate 3D puzzles and embark on an unforgettable journey filled with humor and engaging gameplay. Perfect for puzzle enthusiasts and gamers alike, experience the ultimate challenge with friends or solo today!">
+                    <meta name="keywords" content="3d portal 2">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-portal-2">
+                            <span itemprop="name">3d portal 2</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Your Mind: Discover Portal 2's 3D Puzzles!</h1>
+                <p>Portal 2 elevates puzzle-solving to new heights with its dynamic 3D environments. Players navigate through mind-bending challenges using a portal gun to create inter-spatial gateways. Combining humor, a captivating storyline, and innovative gameplay, Portal 2 offers both single-player and cooperative experiences, captivating gamers everywhere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wheatley core - from portal 2 (original) - Download Free 3D model ...">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/c1bdc8523a8849bd81d6aa901daa409f/thumbnails/9358cd64f5574f60ac5f52c35458b81e/5c8025dff11849478cd0c75302931738.jpeg' alt='Wheatley core - from portal 2 (original) - Download Free 3D model ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/c1bdc8523a8849bd81d6aa901daa409f/thumbnails/9358cd64f5574f60ac5f52c35458b81e/5c8025dff11849478cd0c75302931738.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Printed Sculpture of Atlas from Portal 2 - Make:">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/makezine.com/wp-content/uploads/2013/01/dsc_7710.jpg?fit=598%2C333&ssl=1' alt='3D Printed Sculpture of Atlas from Portal 2 - Make:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/makezine.com/wp-content/uploads/2013/01/dsc_7710.jpg?fit=598%2C333&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Printable Portal 2 P-body by Tanya Wiesner">
+                                <img itemprop="contentUrl url" src='https://dl.myminifactory.com/object-assets/58115b3287487/images/720X720-20161026-202534-1.jpg' alt='3D Printable Portal 2 P-body by Tanya Wiesner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyMiniFactory" />
+                                </span>
+                                <a href='https://dl.myminifactory.com/object-assets/58115b3287487/images/720X720-20161026-202534-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portal 2 Atlas draft version - 3D model by Tr0n (@tronlives) [0788807]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/0788807635014a4bb225eacd413942ef/thumbnails/139104fa7a9743ff96854fd0b7234555/2457a0bb2fdb44a2a88b7d82041f63c0.jpeg' alt='Portal 2 Atlas draft version - 3D model by Tr0n (@tronlives) [0788807]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/0788807635014a4bb225eacd413942ef/thumbnails/139104fa7a9743ff96854fd0b7234555/2457a0bb2fdb44a2a88b7d82041f63c0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finished printing Wheatley from Portal 2 : r/3Dprinting">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/q5gzrgupsts31.jpg?auto=webp&s=596bd23cd2d223b3e2252857523d7b3871adabdf' alt='Finished printing Wheatley from Portal 2 : r/3Dprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/q5gzrgupsts31.jpg?auto=webp&s=596bd23cd2d223b3e2252857523d7b3871adabdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Printed Sculpture of Atlas from Portal 2 - Make:">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cdn.makezine.com/uploads/2013/01/dsc_7354.jpg?resize=598%2C903&ssl=1' alt='3D Printed Sculpture of Atlas from Portal 2 - Make:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/cdn.makezine.com/uploads/2013/01/dsc_7354.jpg?resize=598%2C903&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlas Portal 2 - 3D model by Siouxie (@Siouxie) [02f7fd1]">
+                                <img itemprop="contentUrl url" src='https://media.sketchfab.com/models/02f7fd1257d94c508943bca65c577586/thumbnails/86bce1b6d5b24422bbfcc051dff999a9/9bc8d48b89e24fa08130c8c0f64cd602.jpeg' alt='Atlas Portal 2 - 3D model by Siouxie (@Siouxie) [02f7fd1]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchfab" />
+                                </span>
+                                <a href='https://media.sketchfab.com/models/02f7fd1257d94c508943bca65c577586/thumbnails/86bce1b6d5b24422bbfcc051dff999a9/9bc8d48b89e24fa08130c8c0f64cd602.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My (WIP) 3d printed Portal 2 Turret : r/Portal">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/opfnhmuzs0o91.jpg' alt='My (WIP) 3d printed Portal 2 Turret : r/Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2685">
+                                <meta itemprop="height" content="3582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/opfnhmuzs0o91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portal 2 Sentry Turret by Fishbone Workshop | Download free STL ...">
+                                <img itemprop="contentUrl url" src='https://media.printables.com/media/prints/203539/images/1873466_10728842-b73c-4ac6-b9ba-6da6f7f4ee1c/thumbs/cover/1200x630/png/rect867.png' alt='Portal 2 Sentry Turret by Fishbone Workshop | Download free STL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printables.com" />
+                                </span>
+                                <a href='https://media.printables.com/media/prints/203539/images/1873466_10728842-b73c-4ac6-b9ba-6da6f7f4ee1c/thumbs/cover/1200x630/png/rect867.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Print: Atlas (Portal 2) - Part 1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XRbi-4Urz7o/maxresdefault.jpg' alt='3D Print: Atlas (Portal 2) - Part 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XRbi-4Urz7o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

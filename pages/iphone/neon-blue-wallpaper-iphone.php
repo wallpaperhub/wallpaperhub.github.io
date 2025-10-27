@@ -1,0 +1,129 @@
+<title>Vibrant Neon Blue Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover the ultimate neon blue wallpaper for your iPhone! Brighten up your device with this stylish and modern design that showcases vibrant colors. Perfect for anyone wanting to add a fresh look to their screen. Grab your neon blue wallpaper today and elevate your iPhone experience!">
+                    <meta name="keywords" content="neon blue wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/neon-blue-wallpaper-iphone">
+                            <span itemprop="name">neon blue wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Blue Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning neon blue wallpaper! Bright, vibrant, and eye-catching, it adds a modern touch to your device. Perfect for anyone looking to make their screen stand out with an electrifying glow, these wallpapers are ideal for tech enthusiasts and style lovers alike. Dive into a world of color!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fc/df/19/fcdf199d9ebaaf8dcb9e29d413d8cc89.jpg' alt='Neon Blue Neon Edgy Aesthetic Wallpaper Iphone Gambar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fc/df/19/fcdf199d9ebaaf8dcb9e29d413d8cc89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-neon-aesthetic-iphone-xnnr4ge7mze4r4c1.jpg' alt='Blue Neon Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-neon-aesthetic-iphone-xnnr4ge7mze4r4c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello In Neon Blue Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hello-in-neon-blue-iphone-9knqpbsespfwclt3.jpg' alt='Hello In Neon Blue Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hello-in-neon-blue-iphone-9knqpbsespfwclt3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cool Neon Blue Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-neon-blue-fjvjghnu6sjo1v9d.jpg' alt='Download Cool Neon Blue Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-neon-blue-fjvjghnu6sjo1v9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Nature iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/fa/f8/c7faf877fe7e14b46a1ecfbec26012d7.jpg' alt='Neon Blue Nature iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/fa/f8/c7faf877fe7e14b46a1ecfbec26012d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Wallpaper Iphone Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' alt='Neon Blue Wallpaper Iphone Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-vertical-background-with-abstract-style_23-2150641326.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue King Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-blue-king-iphone-j6d9klqvgo2j7xzh.jpg' alt='Neon Blue King Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-blue-king-iphone-j6d9klqvgo2j7xzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon, amoled oled black background, background, black ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/203/568/HD-wallpaper-blue-neon-amoled-oled-black-background-background-black-glowing-haze-iframes-frame-frames-glowing-neon-boarder-line-popular-trending-new-iphone-apple-zedge-8k-high-quality-live-mist.jpg' alt='Blue Neon, amoled oled black background, background, black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/203/568/HD-wallpaper-blue-neon-amoled-oled-black-background-background-black-glowing-haze-iframes-frame-frames-glowing-neon-boarder-line-popular-trending-new-iphone-apple-zedge-8k-high-quality-live-mist.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Frame | Neon light wallpaper, Iphone wallpaper, Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/15/4b/94/154b94d0afce52e54147d96b90a64b6b.jpg' alt='Blue Frame | Neon light wallpaper, Iphone wallpaper, Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/15/4b/94/154b94d0afce52e54147d96b90a64b6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Blue Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hustle-in-blue-iphone-7i5zarn1ezy74b5l.jpg' alt='100+] Neon Blue Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hustle-in-blue-iphone-7i5zarn1ezy74b5l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

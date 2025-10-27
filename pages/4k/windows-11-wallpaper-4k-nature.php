@@ -1,0 +1,129 @@
+<title>Stunning 4K Nature Wallpapers for Windows 11</title>
+                    <meta name="description" content="Discover the best 4K nature wallpapers for Windows 11. Elevate your desktop with breathtaking landscapes that inspire tranquility and creativity. Perfect for nature lovers seeking a fresh look for their digital workspace. Download now and transform your screen!">
+                    <meta name="keywords" content="windows 11 wallpaper 4k nature">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/windows-11-wallpaper-4k-nature">
+                            <span itemprop="name">windows 11 wallpaper 4k nature</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Nature Wallpapers for Windows 11</h1>
+                <p>Transform your desktop with stunning 4K nature wallpapers designed for Windows 11. Immerse yourself in breathtaking landscapes, vibrant forests, and serene beaches that enhance your workspace. Elevate your productivity and enjoy the beauty of nature every time you log in. Perfect for nature lovers and aesthetic enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Landscape, Scenery, Sunrise">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunrise-stock-day-light-3840x2400-5661.jpg' alt='Windows 11 Wallpaper 4K, Landscape, Scenery, Sunrise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunrise-stock-day-light-3840x2400-5661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Forest, Landscape, Scenery">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-forest-landscape-scenery-sunrise-stock-day-light-3440x1440-5665.jpg' alt='Windows 11 Wallpaper 4K, Forest, Landscape, Scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-forest-landscape-scenery-sunrise-stock-day-light-3440x1440-5665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Landscape Scenery 4K Wallpaper - Download Free 4K ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/windows-11-landscape-scenery-4k-wallpaper/?download-img=2k' alt='Windows 11 Landscape Scenery 4K Wallpaper - Download Free 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/windows-11-landscape-scenery-4k-wallpaper/?download-img=2k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Dusk Landscape Scenery Wallpaper 4K Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/windows-11-dusk-landscape-scenery-wallpaper-4k-wallpaper/?download-img=4k' alt='Windows 11 Dusk Landscape Scenery Wallpaper 4K Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/windows-11-dusk-landscape-scenery-wallpaper-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Forest, Landscape, Scenery">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-forest-landscape-scenery-sunrise-stock-day-light-2048x2048-5665.jpg' alt='Windows 11 Wallpaper 4K, Forest, Landscape, Scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-forest-landscape-scenery-sunrise-stock-day-light-2048x2048-5665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Forest Landscape Scenery Wallpaper 4K Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/windows-11-forest-landscape-scenery-wallpaper-4k-wallpaper/?download-img=4k' alt='Windows 11 Forest Landscape Scenery Wallpaper 4K Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/windows-11-forest-landscape-scenery-wallpaper-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Sunset, Landscape, Scenery, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunset-stock-night-4480x2520-5670.jpg' alt='Windows 11 Wallpaper 4K, Sunset, Landscape, Scenery, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunset-stock-night-4480x2520-5670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 11 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-11-4k-colorful-trees-q34h7tbly55bos1x.jpg' alt='100+] Windows 11 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-11-4k-colorful-trees-q34h7tbly55bos1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 4k Tree Shadows Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/windows-11-4k-tree-shadows-12bfg9an0z674scc.jpg' alt='Windows 11 4k Tree Shadows Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/windows-11-4k-tree-shadows-12bfg9an0z674scc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Windows 11 4k Beach Water Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-11-4k-beach-water-vxkaj8n1o4winpdq.jpg' alt='Download Windows 11 4k Beach Water Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-11-4k-beach-water-vxkaj8n1o4winpdq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

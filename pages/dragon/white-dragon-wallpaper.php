@@ -1,0 +1,129 @@
+<title>Stunning White Dragon Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore our collection of white dragon wallpaper to enhance your living space. Featuring elegant designs of mythical dragons, these wallpapers are perfect for creating a captivating atmosphere in any room. Discover the magic today and transform your decor effortlessly!">
+                    <meta name="keywords" content="white dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/white-dragon-wallpaper">
+                            <span itemprop="name">white dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Dragon Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning white dragon wallpaper that captures the essence of elegance and mystique. Perfect for adding a unique touch to any room, these wallpapers feature intricately designed dragons that stand out against a variety of backgrounds. Elevate your home decor and indulge in the allure of mythical creatures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legend of Blue-Eyes White Dragon booster box inspired PC ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/legend-of-blue-eyes-white-dragon-booster-box-inspired-pc-v0-mvcwkbfhfgia1.jpg?width=640&crop=smart&auto=webp&s=5c08e9011f5068ea629db702a9e571bbef302109' alt='Legend of Blue-Eyes White Dragon booster box inspired PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/legend-of-blue-eyes-white-dragon-booster-box-inspired-pc-v0-mvcwkbfhfgia1.jpg?width=640&crop=smart&auto=webp&s=5c08e9011f5068ea629db702a9e571bbef302109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White dragon - Fantasy & Abstract Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2460/2460842-bigthumbnail.jpg' alt='White dragon - Fantasy & Abstract Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2460/2460842-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white dragon wallpaper by my_life1 - Download on ZEDGE™ | bd2c">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/9a/cd/809acd728aa3abf3203202ce48053975.jpg' alt='white dragon wallpaper by my_life1 - Download on ZEDGE™ | bd2c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/9a/cd/809acd728aa3abf3203202ce48053975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/672/514/non_2x/a-majestic-white-dragon-perched-on-rocky-terrain-with-dramatic-wings-spread-against-a-mystical-mountainous-backdrop-at-dusk-photo.jpg' alt='White Dragon Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/672/514/non_2x/a-majestic-white-dragon-perched-on-rocky-terrain-with-dramatic-wings-spread-against-a-mystical-mountainous-backdrop-at-dusk-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue-Eyes White Dragon Phone Wallpaper by CrimsonDragon01 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e547015-fd29-4c17-9751-b0ed164b74ff/dfv1wn5-a893dde4-ed2f-4224-8a1a-bdeb35b0e3da.jpg/v1/fill/w_641,h_1247,q_70,strp/blue_eyes_white_dragon_phone_wallpaper_by_crimsondragon01_dfv1wn5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjEwMCIsInBhdGgiOiJcL2ZcLzJlNTQ3MDE1LWZkMjktNGMxNy05NzUxLWIwZWQxNjRiNzRmZlwvZGZ2MXduNS1hODkzZGRlNC1lZDJmLTQyMjQtOGExYS1iZGViMzViMGUzZGEuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xyCoG43-VvqyPtF8k2sy8tkDDVvCRIO72kss-yPGyBQ' alt='Blue-Eyes White Dragon Phone Wallpaper by CrimsonDragon01 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="1247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e547015-fd29-4c17-9751-b0ed164b74ff/dfv1wn5-a893dde4-ed2f-4224-8a1a-bdeb35b0e3da.jpg/v1/fill/w_641,h_1247,q_70,strp/blue_eyes_white_dragon_phone_wallpaper_by_crimsondragon01_dfv1wn5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjEwMCIsInBhdGgiOiJcL2ZcLzJlNTQ3MDE1LWZkMjktNGMxNy05NzUxLWIwZWQxNjRiNzRmZlwvZGZ2MXduNS1hODkzZGRlNC1lZDJmLTQyMjQtOGExYS1iZGViMzViMGUzZGEuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xyCoG43-VvqyPtF8k2sy8tkDDVvCRIO72kss-yPGyBQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon Wallpaper by Ghostkyller on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f10922bd-0c01-4669-a572-dde55a964f96/d94f2di-b79844c4-1c5e-4b6d-b2bc-d96648ae81e5.jpg/v1/fill/w_1131,h_707,q_70,strp/white_dragon_wallpaper_by_ghostkyller_d94f2di-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2YxMDkyMmJkLTBjMDEtNDY2OS1hNTcyLWRkZTU1YTk2NGY5NlwvZDk0ZjJkaS1iNzk4NDRjNC0xYzVlLTRiNmQtYjJiYy1kOTY2NDhhZTgxZTUuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fgLYM5qxBNdD3qKW4ZZjcxUr2kRfzqsNrl4IrrjqdB8' alt='White Dragon Wallpaper by Ghostkyller on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f10922bd-0c01-4669-a572-dde55a964f96/d94f2di-b79844c4-1c5e-4b6d-b2bc-d96648ae81e5.jpg/v1/fill/w_1131,h_707,q_70,strp/white_dragon_wallpaper_by_ghostkyller_d94f2di-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2YxMDkyMmJkLTBjMDEtNDY2OS1hNTcyLWRkZTU1YTk2NGY5NlwvZDk0ZjJkaS1iNzk4NDRjNC0xYzVlLTRiNmQtYjJiYy1kOTY2NDhhZTgxZTUuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fgLYM5qxBNdD3qKW4ZZjcxUr2kRfzqsNrl4IrrjqdB8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon Art Wallpaper, HD Fantasy 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/white-dragon-art_bGtmbGuUmZqaraWkpJRobWllrWdma2U.jpg' alt='White Dragon Art Wallpaper, HD Fantasy 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/white-dragon-art_bGtmbGuUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Mythical Beast - White Dragon (3840*2160)">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1890967902394485176/8826D007C549D1891944958B2DE97403272588F3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Mythical Beast - White Dragon (3840*2160)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1890967902394485176/8826D007C549D1891944958B2DE97403272588F3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Dragon Fantasy - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/966/thumb-1920-96651.jpg' alt='Majestic Dragon Fantasy - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/966/thumb-1920-96651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon" Images – Browse 12,571 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/76/30/71/360_F_676307196_rP1xdPNHSY07R8YBXkkVOPk2f4p0ZWXr.jpg' alt='White Dragon" Images – Browse 12,571 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/76/30/71/360_F_676307196_rP1xdPNHSY07R8YBXkkVOPk2f4p0ZWXr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

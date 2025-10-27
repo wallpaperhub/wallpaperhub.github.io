@@ -1,0 +1,129 @@
+<title>Stunning Purple Print Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover beautiful purple print wallpaper to elevate your home decor. From bold florals to modern patterns, find the perfect design to create a stunning focal point in any space. Shop now and transform your interiors with vibrant hues and stylish prints!">
+                    <meta name="keywords" content="purple print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-print-wallpaper">
+                            <span itemprop="name">purple print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Print Wallpaper for Every Room</h1>
+                <p>Transform your space with stunning purple print wallpaper! This vibrant decor choice adds a touch of luxury and creativity to any room, whether it’s a living area, bedroom, or office. With various designs available – from floral to geometric – purple wallpaper effortlessly enhances the atmosphere, making it the perfect statement piece!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iris Purple Print Wallpaper">
+                                <img itemprop="contentUrl url" src='https://textilesbysmith.com/cdn/shop/products/IRIS_DOT_LILAC_SHOPIFY_2d30f0eb-f952-4cb8-86f9-2cf580ab9950_1024x1024.jpg?v=1666714522' alt='Iris Purple Print Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textiles by SMITH" />
+                                </span>
+                                <a href='https://textilesbysmith.com/cdn/shop/products/IRIS_DOT_LILAC_SHOPIFY_2d30f0eb-f952-4cb8-86f9-2cf580ab9950_1024x1024.jpg?v=1666714522' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' alt='PR33855 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db379c09-a67d-4a58-9462-9b6ce42ac22b.jpg?v=1666277887' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roommates Zebra Peel And Stick Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6828073091118_20.jpg?v=1703232276' alt='Roommates Zebra Peel And Stick Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6828073091118_20.jpg?v=1703232276' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/36915/mushrooms---fairies-wallpaper-l-purple.jpg?q=1737571988' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/36915/mushrooms---fairies-wallpaper-l-purple.jpg?q=1737571988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Watercolor Golden Texture Marble 3D Abstract Painting Wall  Background Wallpaper Wall Murals, Wall Art Removable Wallpaper, Suitable  for Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Cs6H48FNL._AC_UF894,1000_QL80_.jpg' alt='Purple Watercolor Golden Texture Marble 3D Abstract Painting Wall  Background Wallpaper Wall Murals, Wall Art Removable Wallpaper, Suitable  for Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Cs6H48FNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Striped Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D485">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5243861366_d2vw.jpg?v=1719924549&width=1946' alt='Purple Abstract Striped Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D485'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5243861366_d2vw.jpg?v=1719924549&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Lavender Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' alt='Daisy Lavender Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Foliage">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/686912/pr22/1/1280/purple-foliage-dark-floral-wallpaper.jpg' alt='Purple Foliage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/686912/pr22/1/1280/purple-foliage-dark-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lilac Wallpaper | Wallpaper It">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/products/7883/images/6097/113362_1__11676.1734434612.386.513.jpg?c=1' alt='Purple Wallpaper | Lilac Wallpaper | Wallpaper It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper It" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/products/7883/images/6097/113362_1__11676.1734434612.386.513.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

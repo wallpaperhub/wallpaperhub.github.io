@@ -1,0 +1,129 @@
+<title>X-Wing Cockpit: A Closer Look at the Rebel Starfighter's Design</title>
+                    <meta name="description" content="Explore the X-Wing cockpit's innovative design that combines advanced controls and striking aesthetics. Discover its role in the iconic starfighter's performance and its significance in the Rebel Alliance’s operations. Perfect for fans and enthusiasts of sci-fi and space battles!">
+                    <meta name="keywords" content="x wing cockpit background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/x-wing-cockpit-background">
+                            <span itemprop="name">x wing cockpit background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>X-Wing Cockpit: A Closer Look at the Rebel Starfighter's Design</h1>
+                <p>The X-wing cockpit is a striking blend of functionality and futuristic design, immersing pilots in an advanced battle interface. Its layout includes vital controls and displays, positioned for optimal visibility. The iconic cockpit is a symbol of rebellion, with a sleek but rugged aesthetic, essential for engaging in epic space battles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been making rendered Star Wars backgrounds for Zoom/WebEx ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f8osqei4hdg51.jpg' alt='I've been making rendered Star Wars backgrounds for Zoom/WebEx ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f8osqei4hdg51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated X-Wing Cockpit I put together from a couple of Youtube videos">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2lFkLqRAqg9gRDTMKcfHlaHjPMwYFbZ_haMsuUMVAGA.png?format=pjpg&auto=webp&s=72b07533384ff1de2c02f2b57229e4d41afe2085' alt='Animated X-Wing Cockpit I put together from a couple of Youtube videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2lFkLqRAqg9gRDTMKcfHlaHjPMwYFbZ_haMsuUMVAGA.png?format=pjpg&auto=webp&s=72b07533384ff1de2c02f2b57229e4d41afe2085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Wars Zoom Background X Wing Fighter Fighting ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-zoom-background-3mh89twwmqs760mg.jpg' alt='Download Star Wars Zoom Background X Wing Fighter Fighting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-zoom-background-3mh89twwmqs760mg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star trench run X-Wing Pilot Virtual Background for Zoom -  VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/X-Wing-Pilot-Death-Star-Trench-Run-Zoom-Video-Background-720.png' alt='Death Star trench run X-Wing Pilot Virtual Background for Zoom -  VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/X-Wing-Pilot-Death-Star-Trench-Run-Zoom-Video-Background-720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been making rendered Star Wars backgrounds for Zoom/WebEx ...">
+                                <img itemprop="contentUrl url" src='https://media.contentapi.ea.com/content/dam/ea/lt-pete-mitchell/media/common/sws-zoom-background-rebel-cockpit.png' alt='I've been making rendered Star Wars backgrounds for Zoom/WebEx ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://media.contentapi.ea.com/content/dam/ea/lt-pete-mitchell/media/common/sws-zoom-background-rebel-cockpit.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howie Day on X: "Doot, X-Wing Cockpit work update. Strongly ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FOalPg_VIAMrH-Q?format=jpg&name=4096x4096' alt='Howie Day on X: "Doot, X-Wing Cockpit work update. Strongly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FOalPg_VIAMrH-Q?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X-Wing Cockpit – Bithead's Blog">
+                                <img itemprop="contentUrl url" src='https://bithead942.wordpress.com/wp-content/uploads/2016/08/yavin_iv_cockpit_x_wing_by_lorcan13-d4xu7t1.jpg' alt='X-Wing Cockpit – Bithead's Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1239">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bithead's Blog - WordPress.com" />
+                                </span>
+                                <a href='https://bithead942.wordpress.com/wp-content/uploads/2016/08/yavin_iv_cockpit_x_wing_by_lorcan13-d4xu7t1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Millennium Falcon Cockpit Xwing v Tie Fighter Mural">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35400682/r/il/95949b/3861021200/il_fullxfull.3861021200_82sn.jpg' alt='Millennium Falcon Cockpit Xwing v Tie Fighter Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35400682/r/il/95949b/3861021200/il_fullxfull.3861021200_82sn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X-Wing Pilot (Dog Fight) - Zoom Video Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/o90CkhOKnsU/mqdefault.jpg' alt='X-Wing Pilot (Dog Fight) - Zoom Video Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/o90CkhOKnsU/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X-Wing - Finished Projects - Blender Artists Community">
+                                <img itemprop="contentUrl url" src='https://blenderartists.org/uploads/default/original/4X/5/4/d/54d35061703ff69cc45640ab81ab55d08cca6fe3.jpg' alt='X-Wing - Finished Projects - Blender Artists Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blender Artists" />
+                                </span>
+                                <a href='https://blenderartists.org/uploads/default/original/4X/5/4/d/54d35061703ff69cc45640ab81ab55d08cca6fe3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

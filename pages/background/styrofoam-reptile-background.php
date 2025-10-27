@@ -1,0 +1,129 @@
+<title>Ultimate Styrofoam Reptile Backgrounds: Enhance Your Terrarium</title>
+                    <meta name="description" content="Discover the benefits of styrofoam reptile backgrounds for your terrarium. Lightweight, customizable, and easy to install, these backgrounds create a natural environment for your reptiles. Enhance their habitat and aesthetic appeal with our innovative solutions!">
+                    <meta name="keywords" content="styrofoam reptile background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/styrofoam-reptile-background">
+                            <span itemprop="name">styrofoam reptile background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Styrofoam Reptile Backgrounds: Enhance Your Terrarium</h1>
+                <p>Styrofoam reptile backgrounds are an innovative way to enhance your terrarium. They provide a realistic habitat for your reptiles, mimicking natural environments. Lightweight and easy to install, these backgrounds can be customized with paint, carving, or additional features like caves and ledges. Improve your reptile’s environment with this stylish solution!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY reptile background made with styrofoam, expanding foam, and grout">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/5c/c3/605cc3baf160dc233c49364848118cad.jpg' alt='DIY reptile background made with styrofoam, expanding foam, and grout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/5c/c3/605cc3baf160dc233c49364848118cad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Vivarium Backgrounds - Hot Wire Foam Factory">
+                                <img itemprop="contentUrl url" src='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich09.jpg' alt='Custom Vivarium Backgrounds - Hot Wire Foam Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foam Art Gallery! - Hot Wire Foam Factory" />
+                                </span>
+                                <a href='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Building a Fake Rock Background Wall in Reptile Enclosure | Our ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7e/a4/ef/7ea4efd4ed719dde2d2c63ed3cd9e328.jpg' alt='Building a Fake Rock Background Wall in Reptile Enclosure | Our ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Reptile Forum" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7e/a4/ef/7ea4efd4ed719dde2d2c63ed3cd9e328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What background mixture is best to use on a foam background? : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3b35r4xdszha1.jpg' alt='What background mixture is best to use on a foam background? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3b35r4xdszha1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Building a Fake Rock Background Wall in Reptile Enclosure | Our ...">
+                                <img itemprop="contentUrl url" src='https://ourreptileforum.com/community/attachments/8a95de68feff8b1c079f43b050967e2b-jpg.132612/' alt='Building a Fake Rock Background Wall in Reptile Enclosure | Our ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Reptile Forum" />
+                                </span>
+                                <a href='https://ourreptileforum.com/community/attachments/8a95de68feff8b1c079f43b050967e2b-jpg.132612/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Vivarium Backgrounds - Hot Wire Foam Factory">
+                                <img itemprop="contentUrl url" src='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich05.jpg' alt='Custom Vivarium Backgrounds - Hot Wire Foam Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foam Art Gallery! - Hot Wire Foam Factory" />
+                                </span>
+                                <a href='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2017/12/saldrich05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How we make enclosure shelves - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sffQQzPye8o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJ6rAIOBBQL6BDbGjFSa5IeF-8Gg' alt='How we make enclosure shelves - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sffQQzPye8o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJ6rAIOBBQL6BDbGjFSa5IeF-8Gg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First background build…thoughts so far? still carving! : r/Vivarium">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/first-background-build-thoughts-so-far-still-carving-v0-9bbhxu6zyboa1.jpg?width=640&crop=smart&auto=webp&s=79fbf43cabceb4377950fa295649b279610773ab' alt='First background build…thoughts so far? still carving! : r/Vivarium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/first-background-build-thoughts-so-far-still-carving-v0-9bbhxu6zyboa1.jpg?width=640&crop=smart&auto=webp&s=79fbf43cabceb4377950fa295649b279610773ab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make A Custom Background For Your Reptile Enclosure [For ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kdjz61aXWqE/sddefault.jpg' alt='How To Make A Custom Background For Your Reptile Enclosure [For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kdjz61aXWqE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY: Realistic Foam Background - BambooZoo">
+                                <img itemprop="contentUrl url" src='http://bamboozoo.weebly.com/uploads/6/4/5/2/645227/2988016_orig.jpg' alt='DIY: Realistic Foam Background - BambooZoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BambooZoo - Weebly" />
+                                </span>
+                                <a href='http://bamboozoo.weebly.com/uploads/6/4/5/2/645227/2988016_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

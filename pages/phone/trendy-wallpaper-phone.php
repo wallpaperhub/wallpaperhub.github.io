@@ -1,0 +1,129 @@
+<title>Trendy Phone Wallpapers: Elevate Your Mobile Style</title>
+                    <meta name="description" content="Explore the latest trendy phone wallpapers to personalize your device! Find unique designs and vibrant patterns that resonate with your style. Perfect for those seeking to refresh their mobile aesthetic effortlessly. Download now and make your phone stand out!">
+                    <meta name="keywords" content="trendy wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/trendy-wallpaper-phone">
+                            <span itemprop="name">trendy wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Phone Wallpapers: Elevate Your Mobile Style</h1>
+                <p>Transform your phone with trendy wallpapers that reflect your style and personality! From minimalist designs to vibrant patterns, there's something for everyone. Discover the latest trends in mobile backgrounds, featuring floral, geometric, and abstract art. Elevate your device's look and express yourself today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free cool phone wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJFBPOJuw/1/0/900w/canva-charcoal-mint-green-bright-purple-tactile-psychedelic-no-copy-psychedelic-phone-wallpaper-PUeoaZriqbQ.jpg' alt='Free cool phone wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJFBPOJuw/1/0/900w/canva-charcoal-mint-green-bright-purple-tactile-psychedelic-no-copy-psychedelic-phone-wallpaper-PUeoaZriqbQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free cool phone wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGJF1FTAk/1/0/900w/canva-pink-and-orange-citrus-slices-phone-wallpaper-fca6B-MfDV0.jpg' alt='Free cool phone wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGJF1FTAk/1/0/900w/canva-pink-and-orange-citrus-slices-phone-wallpaper-fca6B-MfDV0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trendy Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trendy-iphone-yojp4ns31vdxht98.jpg' alt='100+] Trendy Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trendy-iphone-yojp4ns31vdxht98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Aesthetic Cell Phone Wallpaper - Julie Erin Designs">
+                                <img itemprop="contentUrl url" src='https://www.julieerindesigns.com/wp-content/uploads/light-pink-gold-geometric-wallpaper-506x900.jpg' alt='Trendy Aesthetic Cell Phone Wallpaper - Julie Erin Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julie Erin Designs" />
+                                </span>
+                                <a href='https://www.julieerindesigns.com/wp-content/uploads/light-pink-gold-geometric-wallpaper-506x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFpodaMV60/1/0/900w/canva-beige-neutral-cute-spring-aesthetic-phone-wallpaper-_NQ9tthmvfI.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFpodaMV60/1/0/900w/canva-beige-neutral-cute-spring-aesthetic-phone-wallpaper-_NQ9tthmvfI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Phone Backgrounds ideas | iphone wallpaper, phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7a/dd/90/7add900fbe86d90baf9005f2295af3dc.jpg' alt='900+ Best Phone Backgrounds ideas | iphone wallpaper, phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7a/dd/90/7add900fbe86d90baf9005f2295af3dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Aesthetic Cell Phone Wallpaper - Julie Erin Designs">
+                                <img itemprop="contentUrl url" src='https://www.julieerindesigns.com/wp-content/uploads/blue-pink-butterfly-wallpaper-506x900.jpg' alt='Trendy Aesthetic Cell Phone Wallpaper - Julie Erin Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julie Erin Designs" />
+                                </span>
+                                <a href='https://www.julieerindesigns.com/wp-content/uploads/blue-pink-butterfly-wallpaper-506x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic phone background☁️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a9/54/fd/a954fd98b233ecd5f4a91861b23aff2a.jpg' alt='Aesthetic phone background☁️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="517">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a9/54/fd/a954fd98b233ecd5f4a91861b23aff2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 5 - Free cool phone wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE71okrhgQ/1/0/900w/canva-happy-pink-orange-red-cool-phone-wallpaper-hTgecamEIRc.jpg' alt='Page 5 - Free cool phone wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE71okrhgQ/1/0/900w/canva-happy-pink-orange-red-cool-phone-wallpaper-hTgecamEIRc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

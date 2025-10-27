@@ -1,0 +1,129 @@
+<title>Spiderverse iPhone Wallpapers: Vibrant Heroic Designs</title>
+                    <meta name="description" content="Discover an amazing collection of Spiderverse iPhone wallpapers! Immerse yourself in the multiverse with vibrant designs featuring beloved characters. Perfect for fans looking to personalize their devices with stylish and dynamic images. Download now for an epic look that stands out!">
+                    <meta name="keywords" content="spiderverse iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/spiderverse-iphone-wallpaper">
+                            <span itemprop="name">spiderverse iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spiderverse iPhone Wallpapers: Vibrant Heroic Designs</h1>
+                <p>Transform your screen with stunning Spiderverse iPhone wallpapers! Dive into the vibrant multiverse filled with iconic characters like Spider-Man, Miles Morales, and Gwen Stacy. Each wallpaper captures the essence of action and adventure, allowing you to showcase your love for this dynamic superhero world. Perfect for all fans!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Spider Verse - iOS16 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e6h9j6e0rhn91.jpg' alt='Into the Spider Verse - iOS16 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e6h9j6e0rhn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Into the Spider-Verse Wallpapers (115 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/8/4/105154-1440x2960-mobile-hd-spider-man-into-the-spider-verse-background-photo.jpg' alt='Spider-Man: Into the Spider-Verse Wallpapers (115 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/8/4/105154-1440x2960-mobile-hd-spider-man-into-the-spider-verse-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted the Across the Spider-Verse character posters into ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/converted-the-across-the-spider-verse-character-posters-v0-01ubnnt82q2b1.png?width=1080&crop=smart&auto=webp&s=54779cb7866e6f9b80b9cbc928d7fb90ccb94b28' alt='Converted the Across the Spider-Verse character posters into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/converted-the-across-the-spider-verse-character-posters-v0-01ubnnt82q2b1.png?width=1080&crop=smart&auto=webp&s=54779cb7866e6f9b80b9cbc928d7fb90ccb94b28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Into the Spider-Verse 2019, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/23/280/HD-wallpaper-spider-verse-spider-man-into-the-verse.jpg' alt='Spider-Man Into the Spider-Verse 2019, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/23/280/HD-wallpaper-spider-verse-spider-man-into-the-verse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted the Across the Spider-Verse character posters into ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/converted-the-across-the-spider-verse-character-posters-v0-bggiawn32q2b1.png?width=640&crop=smart&auto=webp&s=657141708b4971897dd7a6135c2604c36003265c' alt='Converted the Across the Spider-Verse character posters into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/converted-the-across-the-spider-verse-character-posters-v0-bggiawn32q2b1.png?width=640&crop=smart&auto=webp&s=657141708b4971897dd7a6135c2604c36003265c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Across The Spider Verse Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/45/38/9b45382a0c23201db2c054a208759660.jpg' alt='Across The Spider Verse Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/45/38/9b45382a0c23201db2c054a208759660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spider Man Into The Spider Verse Hd Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-background-iyerhtg8h2x721mo.jpg' alt='Download Spider Man Into The Spider Verse Hd Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-background-iyerhtg8h2x721mo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Across the Spider-Verse Wallpaper 4K, Miles Morales">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/spider-man-across-1284x2778-10140.jpg' alt='Spider-Man: Across the Spider-Verse Wallpaper 4K, Miles Morales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/spider-man-across-1284x2778-10140.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted the Across the Spider-Verse character posters into ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/converted-the-across-the-spider-verse-character-posters-v0-e33vjrt82q2b1.png?width=2250&format=png&auto=webp&s=f57c7621a109b31cd69046dd2b16e66e442dcd78' alt='Converted the Across the Spider-Verse character posters into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/converted-the-across-the-spider-verse-character-posters-v0-e33vjrt82q2b1.png?width=2250&format=png&auto=webp&s=f57c7621a109b31cd69046dd2b16e66e442dcd78' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spider man: into the spider verse wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/875/694/HD-wallpaper-spider-man-into-the-spider-verse-spider-man-miles-morales-movies-city-falling-vertical-thumbnail.jpg' alt='HD spider man: into the spider verse wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/875/694/HD-wallpaper-spider-man-into-the-spider-verse-spider-man-miles-morales-movies-city-falling-vertical-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

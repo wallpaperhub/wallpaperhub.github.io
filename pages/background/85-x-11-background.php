@@ -1,0 +1,129 @@
+<title>Optimize Your Content with an 8.5 x 11 Background</title>
+                    <meta name="description" content="Discover how to effectively use an 8.5 x 11 background for your documents. Learn tips for customization, design, and practical applications to elevate your presentations, flyers, and resumes. Perfect for personal and professional use!">
+                    <meta name="keywords" content="8.5 x 11 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/85-x-11-background">
+                            <span itemprop="name">8.5 x 11 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Content with an 8.5 x 11 Background</h1>
+                <p>The 8.5 x 11 background is a versatile canvas ideal for various projects, from flyers to resumes. This standard paper size allows for easy printing and readability, making it perfect for both personal and professional documents. Customize with colors, patterns, or images to enhance your design and grab attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Background 85 X 11 Inch Stock Illustration 120618163 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/abstract-background-85-x-11-260nw-120618163.jpg' alt='Abstract Background 85 X 11 Inch Stock Illustration 120618163 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="201">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/abstract-background-85-x-11-260nw-120618163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Fiber Background Pattern Textures 8.5 x 11 300dpi 10 Vivid Bright  Colors">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Wood-Fiber-Background-Pattern-Textures-85-x-11-300dpi-10-Vivid-Bright-Colors-1762706-1500876160/original-1762706-3.jpg' alt='Wood Fiber Background Pattern Textures 8.5 x 11 300dpi 10 Vivid Bright  Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Wood-Fiber-Background-Pattern-Textures-85-x-11-300dpi-10-Vivid-Bright-Colors-1762706-1500876160/original-1762706-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burnt Paper, 8.5x11 Digital Burnt Paper Instant Download for Scrapbooking,  Backgrounds or Decoupage">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5531503/r/il/32ef50/630852643/il_570xN.630852643_kfr2.jpg' alt='Burnt Paper, 8.5x11 Digital Burnt Paper Instant Download for Scrapbooking,  Backgrounds or Decoupage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5531503/r/il/32ef50/630852643/il_570xN.630852643_kfr2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Watercolor BG - 8.5 x 11 by SparkleStuff on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/847a708d-f175-43ce-b369-80a9348bba04/d82p3ox-5e8f45a7-aa87-487c-87b4-973eedf7c192.png/v1/fill/w_1024,h_1321,q_80,strp/blue_watercolor_bg___8_5_x_11_by_sparklestuff_d82p3ox-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMyMSIsInBhdGgiOiJcL2ZcLzg0N2E3MDhkLWYxNzUtNDNjZS1iMzY5LTgwYTkzNDhiYmEwNFwvZDgycDNveC01ZThmNDVhNy1hYTg3LTQ4N2MtODdiNC05NzNlZWRmN2MxOTIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ql6D_OERSg1x6ZHvewjGl9w48oa1ZPvUP_dtxWoAyDE' alt='Blue Watercolor BG - 8.5 x 11 by SparkleStuff on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/847a708d-f175-43ce-b369-80a9348bba04/d82p3ox-5e8f45a7-aa87-487c-87b4-973eedf7c192.png/v1/fill/w_1024,h_1321,q_80,strp/blue_watercolor_bg___8_5_x_11_by_sparklestuff_d82p3ox-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMyMSIsInBhdGgiOiJcL2ZcLzg0N2E3MDhkLWYxNzUtNDNjZS1iMzY5LTgwYTkzNDhiYmEwNFwvZDgycDNveC01ZThmNDVhNy1hYTg3LTQ4N2MtODdiNC05NzNlZWRmN2MxOTIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ql6D_OERSg1x6ZHvewjGl9w48oa1ZPvUP_dtxWoAyDE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8.5X11 Images – Browse 1,507 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/19/70/02/360_F_19700251_g6W0R3drL0X78GQbg48OLON0UlwzJcTp.jpg' alt='8.5X11 Images – Browse 1,507 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/19/70/02/360_F_19700251_g6W0R3drL0X78GQbg48OLON0UlwzJcTp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Great Papers! Clouds Letterhead, 80 Count, 8.5"x11" (2014106)  : Office Products">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/517VO-J9s2L.jpg' alt='Amazon.com : Great Papers! Clouds Letterhead, 80 Count, 8.5"x11" (2014106)  : Office Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/517VO-J9s2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8.5" x 11" Blank Label Template - OL177">
+                                <img itemprop="contentUrl url" src='https://images.onlinelabels.com/images/Products/OL177/OL177WX.png' alt='8.5" x 11" Blank Label Template - OL177'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="215">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Labels" />
+                                </span>
+                                <a href='https://images.onlinelabels.com/images/Products/OL177/OL177WX.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouds Design Paper, 8.5"x11", 25/pack, 8 packs/case | TheRoyalStore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/e9/e3/f8e9e3d01a8c736d08fdc343de12132c.jpg' alt='Clouds Design Paper, 8.5"x11", 25/pack, 8 packs/case | TheRoyalStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/e9/e3/f8e9e3d01a8c736d08fdc343de12132c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds 8.5x11 inch - digital papers - commercial use by byBianca">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Backgrounds-8-5x11-inch-digital-papers-commercial-use-2528077-1462122495/original-2528077-2.jpg' alt='Backgrounds 8.5x11 inch - digital papers - commercial use by byBianca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Backgrounds-8-5x11-inch-digital-papers-commercial-use-2528077-1462122495/original-2528077-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: 8.5 X 11, College-Ruled, 120 Pages, Flowers on Blue ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/632/162/9781090162632.jpg' alt='Notebook: 8.5 X 11, College-Ruled, 120 Pages, Flowers on Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Explore Booksellers" />
+                                </span>
+                                <a href='https://images.booksense.com/images/632/162/9781090162632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

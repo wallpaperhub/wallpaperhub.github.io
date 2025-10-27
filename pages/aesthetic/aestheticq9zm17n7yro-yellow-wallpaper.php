@@ -1,0 +1,129 @@
+<title>Exploring the Aesthetics of "The Yellow Wallpaper"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aesthetic:q9zm17n7yro= yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticq9zm17n7yro-yellow-wallpaper">
+                            <span itemprop="name">aesthetic:q9zm17n7yro= yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Aesthetics of "The Yellow Wallpaper"</h1>
+                <p>The "Yellow Wallpaper" is a haunting tale steeped in aesthetic nuances, reflecting mental turmoil through its vivid imagery and oppressive setting. The wallpaper itself, with its chaotic patterns and sickly color, symbolizes the constraints of a woman's mind. This poignant narrative explores themes of isolation, creativity, and the struggle for autonomy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/5b/22/765b22bc5550068c99964bf5238dc557.jpg' alt='Yellow wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/5b/22/765b22bc5550068c99964bf5238dc557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/db/8f/04db8fc795cafed9d7e8c75c41cc0df0.jpg' alt='Aesthetic wallpaper yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/db/8f/04db8fc795cafed9d7e8c75c41cc0df0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/16/73/5116736e2811f100d58caccbf649b2da.jpg' alt='Aesthetic yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/16/73/5116736e2811f100d58caccbf649b2da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Wallpaper - WPTunnel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/2b/f9/ec2bf9b6f3f22e5d3eda55b7b8dc33c7.jpg' alt='Yellow Aesthetic Wallpaper - WPTunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/2b/f9/ec2bf9b6f3f22e5d3eda55b7b8dc33c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Wallpaper - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/25/eb/af25eb11da907d45e84c4f476b184559.jpg' alt='Yellow Aesthetic Wallpaper - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/25/eb/af25eb11da907d45e84c4f476b184559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/05/0b/ef050b32909505fb8b09f9381a605df1.jpg' alt='Yellow wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/05/0b/ef050b32909505fb8b09f9381a605df1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper wallpaper by RaimbowAngel - Download on ZEDGE™ | 7b75">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=mHaniJUynRNL4nuT8i9T9LioJfkccW5mhY08tAqsO1aOP4fW9L34ITVgMxG8cZ5hcazHzG70uZTRIq9cmw8W5n2VAfwEO2dfEECzCsNZLKw68VSKKDroUBWwP8P_1rH5ZvbB0dWz_9w5GRWm0iZIxm1PPc7mjVnmlYfPsn2r72ug9PL9e1an2uoWbtsub4OOpJHZds-c7TdUrjIBis9NcTOvRcroiX1lccMhyQ' alt='Yellow Wallpaper wallpaper by RaimbowAngel - Download on ZEDGE™ | 7b75'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=mHaniJUynRNL4nuT8i9T9LioJfkccW5mhY08tAqsO1aOP4fW9L34ITVgMxG8cZ5hcazHzG70uZTRIq9cmw8W5n2VAfwEO2dfEECzCsNZLKw68VSKKDroUBWwP8P_1rH5ZvbB0dWz_9w5GRWm0iZIxm1PPc7mjVnmlYfPsn2r72ug9PL9e1an2uoWbtsub4OOpJHZds-c7TdUrjIBis9NcTOvRcroiX1lccMhyQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute, aesthetic yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/d4/9c/74d49ce0fa2774df53330d4c0d828b59.jpg' alt='cute, aesthetic yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/d4/9c/74d49ce0fa2774df53330d4c0d828b59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic yellow wallpaper by the_aesthetic_wall - Download on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/a6/7d/69a67d6934b785b5e6c11bb55186c89d.jpg' alt='Aesthetic yellow wallpaper by the_aesthetic_wall - Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/a6/7d/69a67d6934b785b5e6c11bb55186c89d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="93 Yellow aesthetics;) ideas | yellow aesthetic, yellow, yellow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c9/1f/84/c91f84a130c2c82fb8e4ba0a03cd5dce.jpg' alt='93 Yellow aesthetics;) ideas | yellow aesthetic, yellow, yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c9/1f/84/c91f84a130c2c82fb8e4ba0a03cd5dce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

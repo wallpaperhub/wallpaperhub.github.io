@@ -1,0 +1,129 @@
+<title>Stunning Dragon Wallpaper for a Magical Touch</title>
+                    <meta name="description" content="Discover captivating dragon wallpaper designs that enhance your space with fantasy. Perfect for any dragon lover, our collection features vibrant colors and intricate patterns. Transform your room into a magical realm today!">
+                    <meta name="keywords" content="dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dragon-wallpaper">
+                            <span itemprop="name">dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Wallpaper for a Magical Touch</h1>
+                <p>Transform your space with stunning dragon wallpaper that captures the mystique of these legendary creatures. From intricate designs featuring fierce dragons to artistic interpretations in vibrant colors, our collection offers something for every dragon enthusiast. Elevate your decor with a touch of fantasy and adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Want a cool background? Look at these cool Dragon pictures ...">
+                                <img itemprop="contentUrl url" src='https://hypixel.net/attachments/awesome-dragon-wallpaper-45893-47169-hd-wallpapers-jpg.931383/' alt='Want a cool background? Look at these cool Dragon pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypixel" />
+                                </span>
+                                <a href='https://hypixel.net/attachments/awesome-dragon-wallpaper-45893-47169-hd-wallpapers-jpg.931383/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpaper 2021">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Aiff9fWTL.jpg' alt='Dragon Wallpaper 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Aiff9fWTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Coolest Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/coolest-dragon-stdtp0k0vn9z54yu.jpg' alt='100+] Coolest Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/coolest-dragon-stdtp0k0vn9z54yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twilight Dragons Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-47603_WP.jpg' alt='Twilight Dragons Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-47603_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="800+] Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-tbrh9smwrlaa1cr9.jpg' alt='800+] Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-tbrh9smwrlaa1cr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpapers (84 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/c/2/70296-1125x2436-samsung-hd-dragon-wallpaper-image.jpg' alt='Dragon Wallpapers (84 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/c/2/70296-1125x2436-samsung-hd-dragon-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is my collection of Dragon Wallpapers. Any images of ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/sPK57axKvErBJBj_lYya4ccp_HFtRmYfo8Zq9zsIzBk.jpg?width=1080&crop=smart&auto=webp&s=94f7c8681fae48d7d5ed6c246afdfa5a48398524' alt='Here is my collection of Dragon Wallpapers. Any images of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/sPK57axKvErBJBj_lYya4ccp_HFtRmYfo8Zq9zsIzBk.jpg?width=1080&crop=smart&auto=webp&s=94f7c8681fae48d7d5ed6c246afdfa5a48398524' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Dragon Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/370/969/small/mysterious-figure-stands-in-awe-beneath-colossal-ethereal-dragon-formed-from-swirling-purple-clouds-evoking-sense-of-wonder-and-intrigue-dramatic-scene-captures-essence-of-fantasy-and-unknown-photo.jpeg' alt='Purple Dragon Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/370/969/small/mysterious-figure-stands-in-awe-beneath-colossal-ethereal-dragon-formed-from-swirling-purple-clouds-evoking-sense-of-wonder-and-intrigue-dramatic-scene-captures-essence-of-fantasy-and-unknown-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Dragon Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Z2MzfJuuL.png' alt='4K Dragon Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Z2MzfJuuL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fire Art Wallpaper, HD Fantasy 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/dragon-fire-art_bGVrZ2eUmZqaraWkpJRnamtlrWZpaWU.jpg' alt='Dragon Fire Art Wallpaper, HD Fantasy 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/dragon-fire-art_bGVrZ2eUmZqaraWkpJRnamtlrWZpaWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

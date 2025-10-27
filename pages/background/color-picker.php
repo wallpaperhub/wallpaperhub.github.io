@@ -1,0 +1,129 @@
+<title>Effortless Color Selection: Your Ultimate Color Picker Guide</title>
+                    <meta name="description" content="Discover the best color picker tools to enhance your design projects. Easily select and customize colors with formats like HEX and RGB. Perfect for developers and artists alike, our guide simplifies your color selection process for stunning results in your creative endeavors.">
+                    <meta name="keywords" content="color picker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/color-picker">
+                            <span itemprop="name">color picker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Effortless Color Selection: Your Ultimate Color Picker Guide</h1>
+                <p>A color picker is an essential tool for designers and developers, enabling them to select and customize colors easily. Whether you're working on a website, graphics, or a painting project, a color picker simplifies your workflow. With a variety of formats like HEX, RGB, and HSL, you can fine-tune your palette for perfect results.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTML Color Picker">
+                                <img itemprop="contentUrl url" src='https://www.w3schools.com/colors/img_colormap.gif' alt='HTML Color Picker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="234">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="W3Schools" />
+                                </span>
+                                <a href='https://www.w3schools.com/colors/img_colormap.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Color Picker for Windows Version - Wishlist - Feature and ...">
+                                <img itemprop="contentUrl url" src='https://forum.vectorworks.net/uploads/monthly_2020_01/916770396_Annotation2020-01-07104203.jpg.7d1bc3c62e31501c74e1fc47822082b4.jpg' alt='Better Color Picker for Windows Version - Wishlist - Feature and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vectorworks Forum" />
+                                </span>
+                                <a href='https://forum.vectorworks.net/uploads/monthly_2020_01/916770396_Annotation2020-01-07104203.jpg.7d1bc3c62e31501c74e1fc47822082b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color picker — Shopify Polaris">
+                                <img itemprop="contentUrl url" src='https://polaris.shopify.com/images/components/selection-and-input/color-picker.png' alt='Color picker — Shopify Polaris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1575">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shopify Polaris" />
+                                </span>
+                                <a href='https://polaris.shopify.com/images/components/selection-and-input/color-picker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palette color picker popup - Discuss - Kodular Community">
+                                <img itemprop="contentUrl url" src='https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/5/7/57fc3e5a1adeada257c7582f6c32e87fce4611cb.jpeg' alt='Palette color picker popup - Discuss - Kodular Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kodular Community" />
+                                </span>
+                                <a href='https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/5/7/57fc3e5a1adeada257c7582f6c32e87fce4611cb.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create an HTML Canvas Color Picker (with JavaScript)">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/fczckc3dt6mv/48M2tjZ9IaOIITMsT5PhAy/f6ab3c7857ec4c6781c995bd21fbbd8d/color-picker.png' alt='How to Create an HTML Canvas Color Picker (with JavaScript)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="315">
+                                <meta itemprop="height" content="155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sparkbox" />
+                                </span>
+                                <a href='https://images.ctfassets.net/fczckc3dt6mv/48M2tjZ9IaOIITMsT5PhAy/f6ab3c7857ec4c6781c995bd21fbbd8d/color-picker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Picker - Windows apps | Microsoft Learn">
+                                <img itemprop="contentUrl url" src='https://learn.microsoft.com/en-us/windows/apps/design/controls/images/color-picker-default.png' alt='Color Picker - Windows apps | Microsoft Learn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Microsoft" />
+                                </span>
+                                <a href='https://learn.microsoft.com/en-us/windows/apps/design/controls/images/color-picker-default.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a simple colour picker in Jetpack Compose | by Jamal ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1080/1*k1dlXITD_rEax9Zb4XxaoQ.jpeg' alt='Creating a simple colour picker in Jetpack Compose | by Jamal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ITNEXT" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1080/1*k1dlXITD_rEax9Zb4XxaoQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use the Color Picker in Colorcinch">
+                                <img itemprop="contentUrl url" src='https://www.cartoonize.net/wp-content/uploads/2022/11/Cafs.jpg' alt='How to Use the Color Picker in Colorcinch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoonize.net" />
+                                </span>
+                                <a href='https://www.cartoonize.net/wp-content/uploads/2022/11/Cafs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Picker | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/386a7353-eaec-4586-a60a-5a84f86df719/thumbnail' alt='Color Picker | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/386a7353-eaec-4586-a60a-5a84f86df719/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Custom Color Picker in Flash | Envato Tuts+">
+                                <img itemprop="contentUrl url" src='https://cdn.tutsplus.com/cdn-cgi/image/width=360/active/uploads/legacy/tuts/008_colorPicker/Tutorial/8.jpg' alt='Create a Custom Color Picker in Flash | Envato Tuts+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Code - Envato Tuts+" />
+                                </span>
+                                <a href='https://cdn.tutsplus.com/cdn-cgi/image/width=360/active/uploads/legacy/tuts/008_colorPicker/Tutorial/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

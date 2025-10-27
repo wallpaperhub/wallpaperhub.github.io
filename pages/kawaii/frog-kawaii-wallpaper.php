@@ -1,0 +1,129 @@
+<title>Adorable Frog Kawaii Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover the cutest frog kawaii wallpaper to brighten your screens! Perfect for adding charm and fun to your device, each design features playful and vibrant frogs. Ideal for kawaii lovers looking to personalize their smartphones or tablets. Download your favorites today!">
+                    <meta name="keywords" content="frog kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/frog-kawaii-wallpaper">
+                            <span itemprop="name">frog kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Frog Kawaii Wallpaper for Your Device</h1>
+                <p>Transform your device with adorable frog kawaii wallpaper! Featuring cute and colorful designs, these wallpapers bring a playful vibe to your screens. Perfect for frog lovers and kawaii fans alike, they add a touch of whimsy to your smartphone or computer. Explore a variety of styles, from charming cartoon frogs to tranquil nature scenes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog wallpapers for android or iphone :) in 2022 | Frog drawing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/5c/e5/305ce546d63c89dd66fc4af5a439a8b0.jpg' alt='Frog wallpapers for android or iphone :) in 2022 | Frog drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/5c/e5/305ce546d63c89dd66fc4af5a439a8b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Round Shape Kawaii Frog In White Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/round-shape-kawaii-frog-in-white-z1fnod51r1br4y8b.jpg' alt='Round Shape Kawaii Frog In White Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/round-shape-kawaii-frog-in-white-z1fnod51r1br4y8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Frog Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' alt='Cute Frog Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Frog Sneaking Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/rounded-kawaii-frog-in-pattern-asf4lhoqig9me1gg.webp' alt='Kawaii Frog Sneaking Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/rounded-kawaii-frog-in-pattern-asf4lhoqig9me1gg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Saves. Frog drawing, Frog, Cute simple, Cartoon Frog, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/160/920/HD-wallpaper-quick-saves-frog-drawing-frog-cute-simple-cartoon-frog.jpg' alt='Quick Saves. Frog drawing, Frog, Cute simple, Cartoon Frog, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/160/920/HD-wallpaper-quick-saves-frog-drawing-frog-cute-simple-cartoon-frog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLciMNqo0/1/0/900w/canva-green-cute-i%CC%87ndie-frog-phone-wallpaper-CEkMEh9Qp8c.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLciMNqo0/1/0/900w/canva-green-cute-i%CC%87ndie-frog-phone-wallpaper-CEkMEh9Qp8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Frog Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16518493/p/f/m/DPCfhBTv6VDTvdltAWb_NdHUM6xzE8h7NcH4GtwY_J0cgz3HANa1lV4/Kawaii%20Froggy%20Scales.jpg' alt='Kawaii Frog Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16518493/p/f/m/DPCfhBTv6VDTvdltAWb_NdHUM6xzE8h7NcH4GtwY_J0cgz3HANa1lV4/Kawaii%20Froggy%20Scales.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog Wallpaper, Sakura Background, Kawaii Digital Wallpaper, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28962435/r/il/8f1701/3671665913/il_570xN.3671665913_amjz.jpg' alt='Frog Wallpaper, Sakura Background, Kawaii Digital Wallpaper, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28962435/r/il/8f1701/3671665913/il_570xN.3671665913_amjz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLco7odRA/1/0/900w/canva-green-cute-kawaii-frog-wallpaper-zYHqPfAf1rE.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLco7odRA/1/0/900w/canva-green-cute-kawaii-frog-wallpaper-zYHqPfAf1rE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Frog & Mushroom Green Wallpapers - Cute Frog Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/11/kawaii-frog-mushroom-green-wallpaper-2-scaled.jpg' alt='Kawaii Frog & Mushroom Green Wallpapers - Cute Frog Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/11/kawaii-frog-mushroom-green-wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

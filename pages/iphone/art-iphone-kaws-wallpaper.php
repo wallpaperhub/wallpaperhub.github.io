@@ -1,0 +1,129 @@
+<title>Stylish KAWS iPhone Wallpapers for Art Lovers</title>
+                    <meta name="description" content="Explore a vibrant collection of KAWS iPhone wallpapers that blend modern art with your mobile aesthetic. Find the perfect wallpaper to showcase your love for contemporary design while personalizing your device in style. Download now and elevate your wallpaper game!">
+                    <meta name="keywords" content="art iphone kaws wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/art-iphone-kaws-wallpaper">
+                            <span itemprop="name">art iphone kaws wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish KAWS iPhone Wallpapers for Art Lovers</h1>
+                <p>Discover the unique fusion of contemporary art and design with KAWS iPhone wallpapers. Transform your device's display into a canvas showcasing KAWS' signature characters and vibrant colors. Perfect for art enthusiasts and fans alike, these wallpapers add a playful touch to your mobile experience while celebrating modern artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kaws Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kaws-iphone-ih0b0xthjikve5yf.jpg' alt='100+] Kaws Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kaws-iphone-ih0b0xthjikve5yf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best KAWS HD iPhone Wallpapers (Free download)      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/e2/ef/4be2efae0a23690d737f27fee56ff9c8.jpg' alt='Best KAWS HD iPhone Wallpapers (Free download)      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/e2/ef/4be2efae0a23690d737f27fee56ff9c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art Of Cool Kaws Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-kaws-unbridled-artistry-y9afbwi2yo8qwzkq.webp' alt='The Art Of Cool Kaws Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-kaws-unbridled-artistry-y9afbwi2yo8qwzkq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/82/fe/1d/82fe1df975921dc3b1503c299fba28de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/82/fe/1d/82fe1df975921dc3b1503c299fba28de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Kaws iphone wallpaper ideas | kaws iphone wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/73/bb/94/73bb94a1f00a566b1058189b8912c392.jpg' alt='12 Kaws iphone wallpaper ideas | kaws iphone wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/73/bb/94/73bb94a1f00a566b1058189b8912c392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaws Skeleton Flayed Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/kaws-skeleton-flayed-heart-xijnw4vftp6c5h9o.jpg' alt='Kaws Skeleton Flayed Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/kaws-skeleton-flayed-heart-xijnw4vftp6c5h9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Best KAWS iPhone Wallpapers HD Download 2022 - Gurl Cases">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0299/5476/9034/files/KAWS_x_NIKE_x_SUPREME_Separation_Poster_-_11x17_1ce74f73-ac00-4f90-8a6f-c1dba9096d12_600x600.jpg?v=1661594101' alt='19 Best KAWS iPhone Wallpapers HD Download 2022 - Gurl Cases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gurl Cases" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0299/5476/9034/files/KAWS_x_NIKE_x_SUPREME_Separation_Poster_-_11x17_1ce74f73-ac00-4f90-8a6f-c1dba9096d12_600x600.jpg?v=1661594101' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjpg - Kaws Phone Wallpaper Download: https://www.enjpg.com/kaws ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=403330988507895' alt='Enjpg - Kaws Phone Wallpaper Download: https://www.enjpg.com/kaws ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=403330988507895' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaws, arrow, hype, hyped, iphone, swag, way, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/313/584/HD-wallpaper-kaws-arrow-hype-hyped-iphone-swag-way.jpg' alt='Kaws, arrow, hype, hyped, iphone, swag, way, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/313/584/HD-wallpaper-kaws-arrow-hype-hyped-iphone-swag-way.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Kaws Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-kaws-mlxgzt6ocggotuhd.jpg' alt='100+] Cool Kaws Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-kaws-mlxgzt6ocggotuhd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

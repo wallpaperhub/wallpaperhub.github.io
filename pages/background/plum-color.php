@@ -1,0 +1,129 @@
+<title>Discover the Allure of Plum Color: A Guide to Elegance</title>
+                    <meta name="description" content="Explore the exquisite plum color, a blend of purple and red that brings luxury and creativity to fashion and design. Learn how to incorporate this stunning hue into your home and wardrobe for a striking ambiance that captivates. Embrace the richness of plum color today!">
+                    <meta name="keywords" content="plum color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/plum-color">
+                            <span itemprop="name">plum color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Plum Color: A Guide to Elegance</h1>
+                <p>Plum color, a rich blend of purple and red, evokes feelings of luxury and warmth. Its deep hue is perfect for creating an elegant ambiance in any space. Often associated with creativity and originality, plum adds a bold statement to fashion and design. Whether in textiles or decor, it harmonizes beautifully with various palettes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plum Color: Hex Code, Palettes & Meaning | Figma">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/599r6htc/regionalized/40e6217c3dc4c4c812dbe6f0c5264880c9545805-1440x810.png' alt='Plum Color: Hex Code, Palettes & Meaning | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/599r6htc/regionalized/40e6217c3dc4c4c812dbe6f0c5264880c9545805-1440x810.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Plum information | Hsl | Rgb | Pantone">
+                                <img itemprop="contentUrl url" src='https://www.icolorpalette.com/download/solidcolorimage/7c2946_solid_color_background_icolorpalette.png' alt='Red Plum information | Hsl | Rgb | Pantone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iColorpalette" />
+                                </span>
+                                <a href='https://www.icolorpalette.com/download/solidcolorimage/7c2946_solid_color_background_icolorpalette.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plum, a Deep Red-Purple – Batz Gallery">
+                                <img itemprop="contentUrl url" src='https://elizabatz.wordpress.com/wp-content/uploads/2023/10/plumshadesofmagenta607080black.jpg' alt='Plum, a Deep Red-Purple – Batz Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batz Gallery - WordPress.com" />
+                                </span>
+                                <a href='https://elizabatz.wordpress.com/wp-content/uploads/2023/10/plumshadesofmagenta607080black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="233520 VOGUE PLUM Solid Color Upholstery Fabric">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-ve9pmdnvtz/images/stencil/700x700/products/773/1293/233520__67817.1631903606.jpg?c=1' alt='233520 VOGUE PLUM Solid Color Upholstery Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decorative Fabrics Direct" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-ve9pmdnvtz/images/stencil/700x700/products/773/1293/233520__67817.1631903606.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Colors Make Purple? – Artsy Fartsy Life">
+                                <img itemprop="contentUrl url" src='https://artsyfartsylife.com/wp-content/uploads/2019/09/normal-purple-color.jpg' alt='What Colors Make Purple? – Artsy Fartsy Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy Fartsy Life" />
+                                </span>
+                                <a href='https://artsyfartsylife.com/wp-content/uploads/2019/09/normal-purple-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Plum Shades Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/104651.png' alt='Dark Plum Shades Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/104651.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plum Purple Color | ArtyClick">
+                                <img itemprop="contentUrl url" src='https://colors.artyclick.com/color-names-dictionary/color-names/plum-purple-color/plum-purple-color_color.png' alt='Plum Purple Color | ArtyClick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtyClick Colors" />
+                                </span>
+                                <a href='https://colors.artyclick.com/color-names-dictionary/color-names/plum-purple-color/plum-purple-color_color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plum color shades #673147, #5d2c40, #522739 - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/plum-color-shades-192578-colorswall.png' alt='Plum color shades #673147, #5d2c40, #522739 - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/plum-color-shades-192578-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create the Punchiest Plum Hair Color | Wella Professionals">
+                                <img itemprop="contentUrl url" src='https://blog.wella.com/sites/default/files/big-image/so-kreiert-ihr-eine-knallige-pflaumig-violette-haarfarbe-e46346a8.jpg' alt='How to Create the Punchiest Plum Hair Color | Wella Professionals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wella Blog" />
+                                </span>
+                                <a href='https://blog.wella.com/sites/default/files/big-image/so-kreiert-ihr-eine-knallige-pflaumig-violette-haarfarbe-e46346a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1371 Plum Perfect - Paint Color | Juniper Paints">
+                                <img itemprop="contentUrl url" src='https://www.juniperpaints.com/cdn/shop/products/8F6483_600x600_crop_center.png?v=1637614438' alt='1371 Plum Perfect - Paint Color | Juniper Paints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juniper Paints" />
+                                </span>
+                                <a href='https://www.juniperpaints.com/cdn/shop/products/8F6483_600x600_crop_center.png?v=1637614438' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

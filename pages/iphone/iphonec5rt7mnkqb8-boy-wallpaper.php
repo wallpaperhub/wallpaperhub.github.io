@@ -1,0 +1,129 @@
+<title>Cool iPhone Boy Wallpapers: Trendy Designs for Your Screen</title>
+                    <meta name="description" content="Explore our awesome collection of iPhone wallpapers for boys! Find trendy, fun, and unique designs that match your style and personality. Perfect for showcasing on your device, these wallpapers are easy to download and set. Refresh your iPhone with the coolest looks today!">
+                    <meta name="keywords" content="iphone:c5rt7mnkqb8= boy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonec5rt7mnkqb8-boy-wallpaper">
+                            <span itemprop="name">iphone:c5rt7mnkqb8= boy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool iPhone Boy Wallpapers: Trendy Designs for Your Screen</h1>
+                <p>Discover the coolest iPhone wallpapers designed specifically for boys! From action-packed scenes to stylish graphics, our collection offers something for every personality. Elevate your phone's aesthetic with these vibrant and trendy designs that reflect your unique style. Explore and download your favorite wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper for Boy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/2b/42/a62b42bc55e4c25a56d52a8ad5fced13.jpg' alt='Iphone Wallpaper for Boy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/2b/42/a62b42bc55e4c25a56d52a8ad5fced13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45  iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/98/03/e7/9803e72bffb2c72c47878452dd823a72.jpg' alt='45  iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/98/03/e7/9803e72bffb2c72c47878452dd823a72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45  iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/65/63/7f65634286bcbeab1a3e35103b1a5aff.jpg' alt='45  iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/65/63/7f65634286bcbeab1a3e35103b1a5aff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boys iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4802010.jpg' alt='Boys iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4802010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Wallpapers Iphone for Boys">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e1/15/62/e1156297e66cea85fb0d25606397f106.jpg' alt='Cool Wallpapers Iphone for Boys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e1/15/62/e1156297e66cea85fb0d25606397f106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hat Boy 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/78/73/267873293495ba6158fcab6381f632e8.jpg' alt='Hat Boy 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/78/73/267873293495ba6158fcab6381f632e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 35 Best NBA Young Boy iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/949/670/HD-wallpaper-top-35-best-nba-young-boy-iphone.jpg' alt='Top 35 Best NBA Young Boy iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/949/670/HD-wallpaper-top-35-best-nba-young-boy-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpaperscraft.com/image/single/boy_night_headphones_145031_168x300.jpg' alt='Boy iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="168">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersCraft" />
+                                </span>
+                                <a href='https://images.wallpaperscraft.com/image/single/boy_night_headphones_145031_168x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/62/00/28/62002854161dd6a6a0685380f75e281c.jpg' alt='45 iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/62/00/28/62002854161dd6a6a0685380f75e281c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/40/5f/e8/405fe867a97de2cbd72f19608f1d6d66.jpg' alt='45 iPhone boy ideas | iphone wallpaper, apple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/40/5f/e8/405fe867a97de2cbd72f19608f1d6d66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

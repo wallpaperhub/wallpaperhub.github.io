@@ -1,0 +1,129 @@
+<title>Transform Your Space with Black and White Vinyl Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of black and white vinyl wallpaper. Perfect for adding a modern touch to any room, it's durable, easy to clean, and ideal for stylish renovations. Elevate your decor with timeless patterns that fit any aesthetic. Shop now for the perfect statement-making solution!">
+                    <meta name="keywords" content="black and white vinyl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-vinyl-wallpaper">
+                            <span itemprop="name">black and white vinyl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Black and White Vinyl Wallpaper</h1>
+                <p>Black and white vinyl wallpaper is a striking decor choice, perfect for creating a bold statement in any room. Its elegant patterns and durable material offer both style and practicality, making it ideal for high-traffic areas. Easy to clean and maintain, this wallpaper brings a timeless charm that complements any interior design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' alt='Jeweluck Black and White Wallpaper Peel and Stick Wallpaper Modern Contact  Paper 17.7inch×118.1inch Geometric Removable Wallpaper for Kitchen Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815tOXyqwvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawn City New York Black and White Vinyl Wallpaper Modern Wall Decor  Exclusive Design Wall Murals Urban Art Photo Wallpaper Large Murals">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/d4e706/2222829622/il_570xN.2222829622_2nqk.jpg' alt='Drawn City New York Black and White Vinyl Wallpaper Modern Wall Decor  Exclusive Design Wall Murals Urban Art Photo Wallpaper Large Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/d4e706/2222829622/il_570xN.2222829622_2nqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CASA MIA Black and White Mosaic Stone Vinyl Peel and Stick Wallpaper Roll  (Cover 30.75 sq. ft.) RM21900">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a29b670b-cd73-4d1e-a664-dbffdd7c6c36/svn/casa-mia-wallpaper-rolls-rm21900-c3_600.jpg' alt='CASA MIA Black and White Mosaic Stone Vinyl Peel and Stick Wallpaper Roll  (Cover 30.75 sq. ft.) RM21900'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a29b670b-cd73-4d1e-a664-dbffdd7c6c36/svn/casa-mia-wallpaper-rolls-rm21900-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Abstract Wallpaper. Concrete Background/peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34649723/r/il/dee9ee/4353119811/il_570xN.4353119811_lzp4.jpg' alt='Black and White Abstract Wallpaper. Concrete Background/peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34649723/r/il/dee9ee/4353119811/il_570xN.4353119811_lzp4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Qianglive Black and White Striped Peel and Stick Self-Adhesive Removable  Waterproof Wallpaper - Modern Vinyl Film, 17.3'x80' - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Rg2OnTnAL.jpg' alt='Qianglive Black and White Striped Peel and Stick Self-Adhesive Removable  Waterproof Wallpaper - Modern Vinyl Film, 17.3'x80' - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Rg2OnTnAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Ariel Black And White Damask Vinyl Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/838b9c7b-17a9-4652-a2d3-655d7a0dbb9f/svn/nuwallpaper-wallpaper-rolls-nu1646-64_600.jpg' alt='NuWallpaper Ariel Black And White Damask Vinyl Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/838b9c7b-17a9-4652-a2d3-655d7a0dbb9f/svn/nuwallpaper-wallpaper-rolls-nu1646-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z21131 Marrakesh Black white faux mica morocco trellis Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Z21131-Marrakesh-Black-white-faux-mica-morocco-trellis-Wallpaper-1_1024x1024.jpg?v=1622047103' alt='Z21131 Marrakesh Black white faux mica morocco trellis Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Z21131-Marrakesh-Black-white-faux-mica-morocco-trellis-Wallpaper-1_1024x1024.jpg?v=1622047103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Bohemian Hand-Drawn Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/products/Modern_Circle_Oval_Stripe_Peel_and_Stick_Wallpaper_Black_White_Vinyl_Self_Adhesive_Decorative-1.jpg?v=1720772685&width=897' alt='Black and White Bohemian Hand-Drawn Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/products/Modern_Circle_Oval_Stripe_Peel_and_Stick_Wallpaper_Black_White_Vinyl_Self_Adhesive_Decorative-1.jpg?v=1720772685&width=897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BB-AG-10 | All About Geo Black & White Small Geometric Linen Commercial  Vinyl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.commercialwalldecor.com/Images/product/all-about-geo-black-white-axhh-l.jpg' alt='BB-AG-10 | All About Geo Black & White Small Geometric Linen Commercial  Vinyl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Commercial Wall Decor" />
+                                </span>
+                                <a href='https://www.commercialwalldecor.com/Images/product/all-about-geo-black-white-axhh-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Black and White Peony Floral Wallpaper Peel and Stick Contact  Paper for Walls Vintage Black Flower Wallpaper for Bedroom Bathroom Girls  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AT8hDOo+L.jpg' alt='ReWallpaper Black and White Peony Floral Wallpaper Peel and Stick Contact  Paper for Walls Vintage Black Flower Wallpaper for Bedroom Bathroom Girls  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AT8hDOo+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

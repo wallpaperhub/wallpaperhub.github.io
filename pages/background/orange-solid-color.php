@@ -1,0 +1,129 @@
+<title>Vibrant Orange Solid Color: Bold and Beautiful</title>
+                    <meta name="description" content="Discover the energy of orange solid color! Perfect for decor and fashion, this vibrant shade enhances creativity and warmth. Discover how to incorporate orange into your designs for a bold and captivating look that stands out in any space.">
+                    <meta name="keywords" content="orange solid color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-solid-color">
+                            <span itemprop="name">orange solid color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Solid Color: Bold and Beautiful</h1>
+                <p>Orange solid color evokes warmth and vibrancy, symbolizing enthusiasm and creativity. It's a versatile shade that can brighten any space, making it ideal for home decor, fashion, and branding. The bold and energetic tone of orange attracts attention, making it a perfect choice for dynamic designs and settings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Amber Orange Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-amber-orange-solid-color-background.jpg' alt='1920x1080 Amber Orange Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-amber-orange-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ORANGE Color Kona Cotton Solid Fabric ~ Robert Kaufman Collection ~ 100%  Quilting Cotton Fabric">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5324598/r/il/06720d/1392074782/il_570xN.1392074782_oxrp.jpg' alt='ORANGE Color Kona Cotton Solid Fabric ~ Robert Kaufman Collection ~ 100%  Quilting Cotton Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5324598/r/il/06720d/1392074782/il_570xN.1392074782_oxrp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="S-019 - Solid Color Laminates | Bella Laminati">
+                                <img itemprop="contentUrl url" src='https://www.bellalaminati.com/images/products/s-019.jpg' alt='S-019 - Solid Color Laminates | Bella Laminati'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bella Laminati" />
+                                </span>
+                                <a href='https://www.bellalaminati.com/images/products/s-019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich Orange Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17549513/p/f/m/NY1L6UBGxSFNnIklwg4FibEQvPO5CySpN9Z_6GViyNcm2F_X9DEb/Sunset%20Orange%20Rich%20Earthy%20Solid%20%23c5632e.jpg' alt='Rich Orange Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17549513/p/f/m/NY1L6UBGxSFNnIklwg4FibEQvPO5CySpN9Z_6GViyNcm2F_X9DEb/Sunset%20Orange%20Rich%20Earthy%20Solid%20%23c5632e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="S169 Solid Orange Interior Film - Solid Color Collection - Stick ...">
+                                <img itemprop="contentUrl url" src='https://stickitbranding.com/wp-content/uploads/2021/01/image-97.jpeg' alt='S169 Solid Orange Interior Film - Solid Color Collection - Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1030">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stick It Branding" />
+                                </span>
+                                <a href='https://stickitbranding.com/wp-content/uploads/2021/01/image-97.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160 Portland Orange Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/3840x2160/3840x2160-portland-orange-solid-color-background.jpg' alt='3840x2160 Portland Orange Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/3840x2160/3840x2160-portland-orange-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AZ FLAG - Plain Orange Flag - 2x3 Ft - 100D Polyester Orange Solid Color  Banner with Two Metal Grommets - Fade Resistant - Vivid Colors - 2' x 3'  Feet ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41Kb9njm-7L._AC_UF894,1000_QL80_.jpg' alt='AZ FLAG - Plain Orange Flag - 2x3 Ft - 100D Polyester Orange Solid Color  Banner with Two Metal Grommets - Fade Resistant - Vivid Colors - 2' x 3'  Feet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41Kb9njm-7L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2480x3508 Fluorescent Orange Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/2480x3508/2480x3508-fluorescent-orange-solid-color-background.jpg' alt='2480x3508 Fluorescent Orange Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/2480x3508/2480x3508-fluorescent-orange-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/warm-luxury-orange-abstract-creative-background-design_851755-224568.jpg?semt=ais_hybrid' alt='Solid Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/warm-luxury-orange-abstract-creative-background-design_851755-224568.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Card Creator - Orange Plain Background - CUP528875_1519">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d3/cb/b4/d3cbb4fec5527f09f18abd6b3ec44e14.jpg' alt='Card Creator - Orange Plain Background - CUP528875_1519'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d3/cb/b4/d3cbb4fec5527f09f18abd6b3ec44e14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Frog Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore a vibrant collection of frog wallpapers for your phone. From whimsical designs to serene scenes, find the perfect look to showcase your style. Easy to download and set, transform your device with delightful frog art and brighten up your screen today!">
+                    <meta name="keywords" content="frog wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/frog-wallpaper-phone">
+                            <span itemprop="name">frog wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Frog Wallpapers for Your Phone</h1>
+                <p>Transform your phone's display with adorable frog wallpaper! From cute cartoon frogs to stunning nature scenes, you'll find the perfect designs to express your personality. Frog wallpapers not only enhance your screen but also bring a playful vibe to your mobile experience. Discover your favorite frog designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGlua4n4M/1/0/900w/canva-green-illustrated-frog-phone-wallpaper-jYlIvzBL06A.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGlua4n4M/1/0/900w/canva-green-illustrated-frog-phone-wallpaper-jYlIvzBL06A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog wallpapers for android or iphone :) in 2022 | Frog drawing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/5c/e5/305ce546d63c89dd66fc4af5a439a8b0.jpg' alt='Frog wallpapers for android or iphone :) in 2022 | Frog drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/5c/e5/305ce546d63c89dd66fc4af5a439a8b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone background wallpapers [OC] : r/frogs">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-background-wallpapers-v0-6gxil46asm6b1.jpg?width=640&crop=smart&auto=webp&s=9300fda96ea81abd1c4de069978873ebb9851051' alt='Phone background wallpapers [OC] : r/frogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-background-wallpapers-v0-6gxil46asm6b1.jpg?width=640&crop=smart&auto=webp&s=9300fda96ea81abd1c4de069978873ebb9851051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free frog green phone wallpaper background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/fc/51/94fc51164d719515823ab8474ac15c74.jpg' alt='Free frog green phone wallpaper background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/fc/51/94fc51164d719515823ab8474ac15c74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thought I'd share the iPhone frog wallpaper I've had on my phone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e4psryc6il331.jpg' alt='Thought I'd share the iPhone frog wallpaper I've had on my phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e4psryc6il331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLciMNqo0/1/0/900w/canva-green-cute-i%CC%87ndie-frog-phone-wallpaper-CEkMEh9Qp8c.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLciMNqo0/1/0/900w/canva-green-cute-i%CC%87ndie-frog-phone-wallpaper-CEkMEh9Qp8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Frog Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' alt='Cute Frog Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog wallpaper    : r/frogs">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/frog-wallpaper-v0-cpiagoz6acya1.jpg?width=640&crop=smart&auto=webp&s=23895b4acb268a72a0000a71591b608bcf70e396' alt='Frog wallpaper    : r/frogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/frog-wallpaper-v0-cpiagoz6acya1.jpg?width=640&crop=smart&auto=webp&s=23895b4acb268a72a0000a71591b608bcf70e396' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Frog With Strawberry Hati Phone Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-frog-with-strawberry-hati-phone-wallpaper-oumjq3ongar6s4hz.jpg' alt='Download Cute Frog With Strawberry Hati Phone Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-frog-with-strawberry-hati-phone-wallpaper-oumjq3ongar6s4hz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJrHBbHiE/1/0/900w/canva-orange-and-green-cute-frog-phone-wallpaper-evONqssugcU.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJrHBbHiE/1/0/900w/canva-orange-and-green-cute-frog-phone-wallpaper-evONqssugcU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

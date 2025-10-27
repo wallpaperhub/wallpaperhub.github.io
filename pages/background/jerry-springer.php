@@ -1,0 +1,129 @@
+<title>Discover the Legacy of Jerry Springer: TV's Controversial Talk Show Host</title>
+                    <meta name="description" content="Explore the fascinating world of Jerry Springer, the iconic talk show host who captivated audiences with his controversial show. From outrageous guests to dramatic confrontations, learn how Jerry brought real-life stories to the screen and left a lasting impact on television history.">
+                    <meta name="keywords" content="jerry springer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jerry-springer">
+                            <span itemprop="name">jerry springer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legacy of Jerry Springer: TV's Controversial Talk Show Host</h1>
+                <p>Jerry Springer was a prominent television host, best known for his sensational talk show that often featured controversial and outrageous topics. His show, which aired from 1991 to 2018, became famous for its dramatic confrontations and colorful guests, reflecting the complexities of human relationships in a way that captivated audiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Jerry Springer Show (TV Series 1991–2018) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTUyOWUxMjQtZjRkYy00NzY3LTlkZDktOWRlZGJjNjU0MDJlXkEyXkFqcGc@._V1_.jpg' alt='The Jerry Springer Show (TV Series 1991–2018) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTUyOWUxMjQtZjRkYy00NzY3LTlkZDktOWRlZGJjNjU0MDJlXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Jerry_Springer_at_Emory_%28cropped%29.jpg' alt='Jerry Springer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="335">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/9a/Jerry_Springer_at_Emory_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer, Host of a Raucous TV Talk Show, Is Dead at 79 ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/04/28/obituaries/27xp-springer-print4/27xp-springer-superJumbo.jpg' alt='Jerry Springer, Host of a Raucous TV Talk Show, Is Dead at 79 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/04/28/obituaries/27xp-springer-print4/27xp-springer-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer">
+                                <img itemprop="contentUrl url" src='http://jerryspringertv.com/wp-content/uploads/sites/5/2021/02/Social_Jerry_Springer.jpg' alt='Jerry Springer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jerryspringertv.com" />
+                                </span>
+                                <a href='http://jerryspringertv.com/wp-content/uploads/sites/5/2021/02/Social_Jerry_Springer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer | Biography, TV Show, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/77/161077-050-F195E3F5/Jerry-Springer-2010.jpg' alt='Jerry Springer | Biography, TV Show, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/77/161077-050-F195E3F5/Jerry-Springer-2010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jerry_Springer_Musto_Party_2011_Shankbone_10.JPG/800px-Jerry_Springer_Musto_Party_2011_Shankbone_10.JPG' alt='Jerry Springer - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jerry_Springer_Musto_Party_2011_Shankbone_10.JPG/800px-Jerry_Springer_Musto_Party_2011_Shankbone_10.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer dead: Talk-show host was 79 - Los Angeles Times">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/a847258/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb0%2F166fbd2943b680a074550203db02%2Fjerry-springer-dies-la-thmb.jpg' alt='Jerry Springer dead: Talk-show host was 79 - Los Angeles Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/a847258/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb0%2F166fbd2943b680a074550203db02%2Fjerry-springer-dies-la-thmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer dies at 79 — the talk show host also served as ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2023/04/27/ap23117521221961_custom-429b726bc4174c1d05398813d4dc39b605a9396d.jpg' alt='Jerry Springer dies at 79 — the talk show host also served as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5160">
+                                <meta itemprop="height" content="3742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2023/04/27/ap23117521221961_custom-429b726bc4174c1d05398813d4dc39b605a9396d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obituary: Rubbernecking for Jerry Springer | The New Yorker">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/644c40432414c58c2884cba0/master/pass/doreen-springer-postscript-lead.jpg' alt='Obituary: Rubbernecking for Jerry Springer | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1822">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/644c40432414c58c2884cba0/master/pass/doreen-springer-postscript-lead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jerry Springer: Fights, Camera, Action | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/mQ02mJMSQIJuMiuIvGaX7sUklgk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvOTgyYWZjODMtNDQ2Ny00N2RkLWE5ZjUtNDcwZDEwYTIxYWYwLmpwZw==' alt='Jerry Springer: Fights, Camera, Action | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/mQ02mJMSQIJuMiuIvGaX7sUklgk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvOTgyYWZjODMtNDQ2Ny00N2RkLWE5ZjUtNDcwZDEwYTIxYWYwLmpwZw==' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

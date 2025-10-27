@@ -1,0 +1,129 @@
+<title>Spring-Inspired April Aesthetic Wallpapers</title>
+                    <meta name="description" content="Discover stunning April wallpaper aesthetics that celebrate spring! Transform your devices with vibrant blooms and serene landscapes, perfect for bringing a fresh vibe to your screens. Explore our curated collection of wallpapers that capture the essence of April's beauty!">
+                    <meta name="keywords" content="april wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/april-wallpaper-aesthetic">
+                            <span itemprop="name">april wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring-Inspired April Aesthetic Wallpapers</h1>
+                <p>April is the month of renewal and vibrant colors, perfect for an aesthetic wallpaper! Embrace fresh blooms, pastel skies, and serene landscapes that reflect spring's beauty. Elevate your devices with wallpapers showcasing cherry blossoms, soft rain showers, and uplifting vibes, ensuring your screen radiates joy throughout the month!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Spring Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/april-spring-aesthetic-q110nymfvrpon2sl-2.jpg' alt='April Spring Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/april-spring-aesthetic-q110nymfvrpon2sl-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] April Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/april-spi9z2e3gji7iy3u.jpg' alt='100+] April Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/april-spi9z2e3gji7iy3u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute april wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/7a/ba/137aba61b8c5631a99a9bfe84e93d8c0.jpg' alt='cute april wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/7a/ba/137aba61b8c5631a99a9bfe84e93d8c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Aesthetic iPhone Wallpaper April - Adore Charlotte">
+                                <img itemprop="contentUrl url" src='https://www.adorecharlotte.co.uk/wp-content/uploads/2023/04/APRIL-Free-Aesthetic-Wallpapers-iPad-Vert-Pink-768x1024.png' alt='Free Aesthetic iPhone Wallpaper April - Adore Charlotte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adore Charlotte" />
+                                </span>
+                                <a href='https://www.adorecharlotte.co.uk/wp-content/uploads/2023/04/APRIL-Free-Aesthetic-Wallpapers-iPad-Vert-Pink-768x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10880030.jpg' alt='April Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10880030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April White Flowers Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/april-white-flowers-aesthetic-yv1icap8ntvxa4jp.jpg' alt='April White Flowers Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/april-white-flowers-aesthetic-yv1icap8ntvxa4jp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April . 65 Best & Phone April Background, April Aesthetic, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/575/107/HD-wallpaper-april-65-best-phone-april-background-april-aesthetic.jpg' alt='April . 65 Best & Phone April Background, April Aesthetic, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/575/107/HD-wallpaper-april-65-best-phone-april-background-april-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello April Wallpaper | 90 Aesthetic April Wallpaper For Phone ...">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/02/Hello-April-Background-Wallpaper-650x366.jpg' alt='Hello April Wallpaper | 90 Aesthetic April Wallpaper For Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/02/Hello-April-Background-Wallpaper-650x366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="april wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/3f/39/243f39f2869522baf6982dec4a167799.jpg' alt='april wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/3f/39/243f39f2869522baf6982dec4a167799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Phone Wallpapers : April - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://corriebromfield.com/wp-content/uploads/2019/05/butterfky-wallpaper.png' alt='Free Phone Wallpapers : April - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corrie Bromfield" />
+                                </span>
+                                <a href='https://corriebromfield.com/wp-content/uploads/2019/05/butterfky-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

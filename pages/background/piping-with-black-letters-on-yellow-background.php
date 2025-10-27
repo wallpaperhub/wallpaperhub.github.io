@@ -1,0 +1,129 @@
+<title>Piping Design: Bold Black Letters on Yellow Background</title>
+                    <meta name="description" content="Explore the impact of piping with black letters on a vibrant yellow background. Enhance visibility and engagement in your projects with this eye-catching design choice. Perfect for branding, signage, and more, it ensures your message stands out effectively!">
+                    <meta name="keywords" content="piping with black letters on yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/piping-with-black-letters-on-yellow-background">
+                            <span itemprop="name">piping with black letters on yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Piping Design: Bold Black Letters on Yellow Background</h1>
+                <p>Discover the striking combination of black letters on a yellow background. This bold visual pairing enhances readability and draws attention, making it perfect for signage, ads, or creative projects. Whether for business or artistic endeavors, the contrast not only captures interest but also communicates messages effectively in any space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need About Pipe Marking and Labeling - Camcode">
+                                <img itemprop="contentUrl url" src='https://www.camcode.com/wp-content/uploads/2021/08/Color-Codes-Chart-min.jpg' alt='Everything You Need About Pipe Marking and Labeling - Camcode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Camcode" />
+                                </span>
+                                <a href='https://www.camcode.com/wp-content/uploads/2021/08/Color-Codes-Chart-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Piping With Black Letters On Yellow Background">
+                                <img itemprop="contentUrl url" src='https://tse1.mm.bing.net/th?q=piping%20with%20black%20letters%20on%20yellow%20background' alt='Piping With Black Letters On Yellow Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="letters.nckl.gov.kh" />
+                                </span>
+                                <a href='https://tse1.mm.bing.net/th?q=piping%20with%20black%20letters%20on%20yellow%20background' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pipe Marking Color Codes – Bridge To Safety">
+                                <img itemprop="contentUrl url" src='https://www.bridge-to-safety.com/wp-content/uploads/sites/39/2021/08/pipe-color-chart-300x225.png' alt='Pipe Marking Color Codes – Bridge To Safety'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bridge To Safety" />
+                                </span>
+                                <a href='https://www.bridge-to-safety.com/wp-content/uploads/sites/39/2021/08/pipe-color-chart-300x225.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safety and Health Topics and Resources - Industrial Safety and ...">
+                                <img itemprop="contentUrl url" src='https://static.redasafe.com/media/Products/pipe-color-chart-float.jpg' alt='Safety and Health Topics and Resources - Industrial Safety and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="REDA Safe" />
+                                </span>
+                                <a href='https://static.redasafe.com/media/Products/pipe-color-chart-float.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pipe Marking Standards: Decoding ANSI/ASME A13.1 & More | TRADESAFE">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0403/8760/8730/files/NFPA-_pipe-marking-standard-color_1024x1024.jpg?v=1698088031' alt='Pipe Marking Standards: Decoding ANSI/ASME A13.1 & More | TRADESAFE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tradesafe" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0403/8760/8730/files/NFPA-_pipe-marking-standard-color_1024x1024.jpg?v=1698088031' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ComplianceSigns.com Water (Black Legend On Yellow Background) Pipe Label  Decal, 8x2 in. 5-Pack Vinyl for Pipe Markers">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51uNoyyickL._AC_UF1000,1000_QL80_.jpg' alt='ComplianceSigns.com Water (Black Legend On Yellow Background) Pipe Label  Decal, 8x2 in. 5-Pack Vinyl for Pipe Markers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51uNoyyickL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ComplianceSigns.com Return (Black Legend On Yellow Background) Pipe Label  Decal, 8x2 inch 5-Pack Vinyl for Pipe Markers Pipeline/Utility: Amazon.com:  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51eR98Uc6dL.jpg' alt='ComplianceSigns.com Return (Black Legend On Yellow Background) Pipe Label  Decal, 8x2 inch 5-Pack Vinyl for Pipe Markers Pipeline/Utility: Amazon.com:  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51eR98Uc6dL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exhaust - (Yellow Background)">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-8t7jf909gs/images/stencil/1280x1280/products/3296/3208/Exhaust_Pipe_Label__07219.1634588788.png?c=1' alt='Exhaust - (Yellow Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DuraMark Technologies" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-8t7jf909gs/images/stencil/1280x1280/products/3296/3208/Exhaust_Pipe_Label__07219.1634588788.png?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pipe Marking Standards: Decoding ANSI/ASME A13.1 & More | TRADESAFE">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0403/8760/8730/files/water-treatment-pipe-marker-color-charts_1024x1024.jpg?v=1698088892' alt='Pipe Marking Standards: Decoding ANSI/ASME A13.1 & More | TRADESAFE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tradesafe" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0403/8760/8730/files/water-treatment-pipe-marker-color-charts_1024x1024.jpg?v=1698088892' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: ComplianceSigns.com Gas (Black Legend On Yellow Background)  Pipe Label Decal, 8x2 inch 5-Pack Vinyl for Pipe Markers Hazmat :  Industrial & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+F8cp49vL.jpg' alt='Amazon.com: ComplianceSigns.com Gas (Black Legend On Yellow Background)  Pipe Label Decal, 8x2 inch 5-Pack Vinyl for Pipe Markers Hazmat :  Industrial & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+F8cp49vL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

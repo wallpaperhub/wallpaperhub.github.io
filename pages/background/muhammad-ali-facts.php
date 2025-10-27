@@ -1,0 +1,129 @@
+<title>10 Fascinating Facts About Muhammad Ali You Didn't Know</title>
+                    <meta name="description" content="Explore intriguing facts about Muhammad Ali, the legendary boxer and civil rights icon. Learn about his incredible achievements inside the ring and his impact on society through activism. Discover the man behind the champion in this concise overview perfect for fans and history buffs alike!">
+                    <meta name="keywords" content="muhammad ali facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/muhammad-ali-facts">
+                            <span itemprop="name">muhammad ali facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>10 Fascinating Facts About Muhammad Ali You Didn't Know</h1>
+                <p>Muhammad Ali, born Cassius Clay, was a legendary American boxer known for his agility, speed, and charisma. He won the World Heavyweight Championship three times and is famous for his fights against Sonny Liston and Joe Frazier. Beyond boxing, Ali was a civil rights icon, known for his activism and refusal to be drafted during the Vietnam War.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/243941-050-9D8F156E/boxer-Cassius-Clay-May-17-1962-Bronx-New-York-Muhammad-Ali.jpg' alt='Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/243941-050-9D8F156E/boxer-Cassius-Clay-May-17-1962-Bronx-New-York-Muhammad-Ali.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/86/192386-050-D7F3126D/Muhammad-Ali-American.jpg' alt='Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/86/192386-050-D7F3126D/Muhammad-Ali-American.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Fascinating Facts From The New Muhammad Ali Biography">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/entertainment/books/2017/10/1140-book-bites-muhammad-ali-bio.jpg' alt='Five Fascinating Facts From The New Muhammad Ali Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/entertainment/books/2017/10/1140-book-bites-muhammad-ali-bio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premier Boxing Champions - #PBCBHM presents Muhammad “The Greatest ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2903484269896934' alt='Premier Boxing Champions - #PBCBHM presents Muhammad “The Greatest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2903484269896934' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things You May Not Know About Muhammad Ali | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2014/02/gettyimages-482857544.jpg' alt='10 Things You May Not Know About Muhammad Ali | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2014/02/gettyimages-482857544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/86/192386-050-D7F3126D/Muhammad-Ali-American.jpg?w=400&h=300&c=crop' alt='Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/86/192386-050-D7F3126D/Muhammad-Ali-American.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boxing Society IIT Kanpur - G.O.A.T.s - Greatest Of All Times ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183307686744700' alt='Boxing Society IIT Kanpur - G.O.A.T.s - Greatest Of All Times ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183307686744700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✊ Experience the legend of... - American English at State | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=859330826222178' alt='✊ Experience the legend of... - American English at State | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=859330826222178' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muhammad Ali: Biography, Heavyweight Boxer, Activist">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/muhammad_ali_photo_by_stanley_weston_archive_photos_getty_482857506.jpg' alt='Muhammad Ali: Biography, Heavyweight Boxer, Activist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/muhammad_ali_photo_by_stanley_weston_archive_photos_getty_482857506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was Muhammad Ali? Black History Month (Facts for Kids)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/d15XMQ5TJI4/hqdefault.jpg' alt='Who Was Muhammad Ali? Black History Month (Facts for Kids)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/d15XMQ5TJI4/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

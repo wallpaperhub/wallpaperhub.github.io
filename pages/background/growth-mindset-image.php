@@ -1,0 +1,129 @@
+<title>Embrace a Growth Mindset: Unlock Your Potential</title>
+                    <meta name="description" content="Discover the power of a growth mindset and how it can transform your life. Learn to embrace challenges, view failures as growth opportunities, and unlock your full potential with inspiring visuals and practical insights. Start your journey to a more resilient you today!">
+                    <meta name="keywords" content="growth mindset image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/growth-mindset-image">
+                            <span itemprop="name">growth mindset image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace a Growth Mindset: Unlock Your Potential</h1>
+                <p>A growth mindset image embodies the belief that abilities and intelligence can be developed through dedication, hard work, and learning. This powerful visual symbolizes resilience, adaptability, and the ability to embrace challenges. It encourages individuals to see failures as opportunities for growth, inspiring them to reach their full potential.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the Growth Mindset – Academic Skills Center Blog">
+                                <img itemprop="contentUrl url" src='https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg' alt='Understanding the Growth Mindset – Academic Skills Center Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sites at Dartmouth" />
+                                </span>
+                                <a href='https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset - KC Parent Magazine">
+                                <img itemprop="contentUrl url" src='https://kcparent.com/downloads/35826/download/iStock-1479086276.jpg?cb=20b1c20140899b221ff053297827936f&w=2308' alt='Growth Mindset - KC Parent Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2308">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KC Parent" />
+                                </span>
+                                <a href='https://kcparent.com/downloads/35826/download/iStock-1479086276.jpg?cb=20b1c20140899b221ff053297827936f&w=2308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset: A positive way to grow | by Stephen Okpalaononuju ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:500/1*aFtggN7wbeBIKCN5i3kTdw.png' alt='Growth Mindset: A positive way to grow | by Stephen Okpalaononuju ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stephen Okpalaononuju - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:500/1*aFtggN7wbeBIKCN5i3kTdw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Learning for Life, Penbridge School">
+                                <img itemprop="contentUrl url" src='https://www.penbridgeschool.org.uk/site-newbridge/assets/files/4044/growth.650x325.png' alt='Love Learning for Life, Penbridge School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love Learning for Life, Penbridge School" />
+                                </span>
+                                <a href='https://www.penbridgeschool.org.uk/site-newbridge/assets/files/4044/growth.650x325.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fixed and Growth Mindset. Life is a continuous learning… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:640/1*IYZLQKr1ON5GXYtHJTWdQQ.jpeg' alt='Fixed and Growth Mindset. Life is a continuous learning… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DataDrivenInvestor" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:640/1*IYZLQKr1ON5GXYtHJTWdQQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset: How Great K-12 Leaders Cultivate Continuous ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/61bba0d8d5db9a402afc2065/6616cccbebcfc3b6cc54de9a_new_leaders_education_leadership_development_fixed_and_growth_mindset_brains.webp' alt='Growth Mindset: How Great K-12 Leaders Cultivate Continuous ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1117">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Leaders" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/61bba0d8d5db9a402afc2065/6616cccbebcfc3b6cc54de9a_new_leaders_education_leadership_development_fixed_and_growth_mindset_brains.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to develop a growth mindset | Human Insight">
+                                <img itemprop="contentUrl url" src='https://human-insight.com/wp-content/uploads/2023/07/developing-a-growth-mindset-human-insight-768x466.png' alt='How to develop a growth mindset | Human Insight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Human Insight" />
+                                </span>
+                                <a href='https://human-insight.com/wp-content/uploads/2023/07/developing-a-growth-mindset-human-insight-768x466.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset Poster Print - Beth Cai">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3120627/6107810/67_2511026_lowres__22085.1706749220.jpg?c=2' alt='Growth Mindset Poster Print - Beth Cai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterazzi" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3120627/6107810/67_2511026_lowres__22085.1706749220.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset: Cultivate Your Resilience, Motivation, and ...">
+                                <img itemprop="contentUrl url" src='https://jdmeier.com/wp-content/uploads/2018/12/Growth-Mindset-3.jpg' alt='Growth Mindset: Cultivate Your Resilience, Motivation, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1322">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JD Meier" />
+                                </span>
+                                <a href='https://jdmeier.com/wp-content/uploads/2018/12/Growth-Mindset-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding What a Growth Mindset Is & Its Benefits | NLI">
+                                <img itemprop="contentUrl url" src='https://neuroleadership.com/wp-content/uploads/2021/02/Rerun-What-Exactly-Is-a-Growth-Mindset-Anyway.png' alt='Understanding What a Growth Mindset Is & Its Benefits | NLI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeuroLeadership Institute" />
+                                </span>
+                                <a href='https://neuroleadership.com/wp-content/uploads/2021/02/Rerun-What-Exactly-Is-a-Growth-Mindset-Anyway.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

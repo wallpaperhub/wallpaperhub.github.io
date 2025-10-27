@@ -1,0 +1,129 @@
+<title>Terry McLaurin: Rising Star in the NFL</title>
+                    <meta name="description" content="Discover Terry McLaurin, the standout wide receiver for the Washington Commanders. Known for his exceptional skills and leadership, McLaurin is making waves in the NFL. Stay updated on his journey, stats, and impact on the game. Perfect for fans and fantasy football enthusiasts!">
+                    <meta name="keywords" content="terry mclaurin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/terry-mclaurin">
+                            <span itemprop="name">terry mclaurin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Terry McLaurin: Rising Star in the NFL</h1>
+                <p>Terry McLaurin is a dynamic wide receiver for the Washington Commanders, known for his sharp route running and playmaking ability. Drafted in 2019, he's quickly become a key player, showcasing impressive stats each season. With a strong work ethic and leadership on and off the field, McLaurin continues to elevate his game and inspire teammates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5b/Terry_McLaurin_Commanders_vs_Jaguars_SEP2022_%28cropped%29.jpg' alt='Terry McLaurin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3920">
+                                <meta itemprop="height" content="5876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5b/Terry_McLaurin_Commanders_vs_Jaguars_SEP2022_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin - Washington Commanders Wide Receiver - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3121422.png' alt='Terry McLaurin - Washington Commanders Wide Receiver - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3121422.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin returns to Indianapolis as a Washington Commanders ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/resizer/Uz_va9mKMngi72rHJDDH-zwspVQ=/arc-anglerfish-washpost-prod-washpost/public/2K5Q55BSBQI63IGWIFJJTP7L2U.jpg' alt='Terry McLaurin returns to Indianapolis as a Washington Commanders ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4578">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/resizer/Uz_va9mKMngi72rHJDDH-zwspVQ=/arc-anglerfish-washpost-prod-washpost/public/2K5Q55BSBQI63IGWIFJJTP7L2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin Stats, News and Video - WR | NFL.com">
+                                <img itemprop="contentUrl url" src='https://static.www.nfl.com/image/upload/t_headshot_desktop/league/wokz1etv1wj1vhbmvxgs' alt='Terry McLaurin Stats, News and Video - WR | NFL.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFL.com" />
+                                </span>
+                                <a href='https://static.www.nfl.com/image/upload/t_headshot_desktop/league/wokz1etv1wj1vhbmvxgs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin 2020 Player Profile | Reception Perception">
+                                <img itemprop="contentUrl url" src='https://receptionperception.com/wp-content/uploads/2021/06/terry-McLaurin-DAL.jpg' alt='Terry McLaurin 2020 Player Profile | Reception Perception'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reception Perception" />
+                                </span>
+                                <a href='https://receptionperception.com/wp-content/uploads/2021/06/terry-McLaurin-DAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terry McLaurin (@TheTerry_25) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1164015477712179202/cGZ6z9ef_400x400.jpg' alt='Terry McLaurin (@TheTerry_25) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1164015477712179202/cGZ6z9ef_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="McLaurin's 'blue-collar' approach has earned his opponents' respect">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/redskins/lzvyolwfdy7xhv48ugtl.jpg' alt='McLaurin's 'blue-collar' approach has earned his opponents' respect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington Commanders" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/redskins/lzvyolwfdy7xhv48ugtl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Money' receiver Terry McLaurin is key piece for Commanders | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/2ed7101/2147483647/strip/false/crop/2980x1987+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F3c2dffbe00094060afbab9233d95d9c9%2F2980.jpeg' alt='Money' receiver Terry McLaurin is key piece for Commanders | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/2ed7101/2147483647/strip/false/crop/2980x1987+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F3c2dffbe00094060afbab9233d95d9c9%2F2980.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commanders' WR Terry McLaurin officially signed his three-year ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2875742044678437653' alt='Commanders' WR Terry McLaurin officially signed his three-year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2875742044678437653' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former Ohio State wide receiver Terry McLaurin is already breaking ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/LLjwbOZOyPsQlP8TvuyJjUbL684=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19229247/usa_today_13405233.jpg' alt='Former Ohio State wide receiver Terry McLaurin is already breaking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Land-Grant Holy Land" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/LLjwbOZOyPsQlP8TvuyJjUbL684=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19229247/usa_today_13405233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

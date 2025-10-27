@@ -1,0 +1,129 @@
+<title>The Chivalric Knight of the Order in D&D 5E</title>
+                    <meta name="description" content="Explore the Knight of the Order in D&D 5E. Learn about this valiant warrior's abilities, chivalric ideals, and how they inspire allies while serving noble causes. Perfect for gamers looking to bring honor and bravery to their campaigns!">
+                    <meta name="keywords" content="knight of the order 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/knight-of-the-order-5e">
+                            <span itemprop="name">knight of the order 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Chivalric Knight of the Order in D&D 5E</h1>
+                <p>In Dungeons & Dragons 5th Edition, the Knight of the Order is a valiant warrior who embodies the ideals of honor, duty, and loyalty. These characters often serve noble causes or chivalric orders, gaining abilities that enhance their combat prowess and leadership skills. As defenders of the realm, they inspire allies and stand as beacons of hope.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knight of the Order - 5etools">
+                                <img itemprop="contentUrl url" src='https://5e.tools/img/bestiary/tokens/CoS/Knight%20of%20the%20Order.webp' alt='Knight of the Order - 5etools'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="5etools" />
+                                </span>
+                                <a href='https://5e.tools/img/bestiary/tokens/CoS/Knight%20of%20the%20Order.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ART] René Herbert de Lavigne - Eldritch Knight in the Order of the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nb964zyoe8081.png' alt='ART] René Herbert de Lavigne - Eldritch Knight in the Order of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2319">
+                                <meta itemprop="height" content="3016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nb964zyoe8081.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] Surrounded by moonlight, the knight of the order of the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/surrounded-by-moonlight-the-knight-of-the-order-of-the-v0-xq5nuc60mhlb1.jpg?width=640&crop=smart&auto=webp&s=2e8d5c56523446bfdf59bb3d34554b2b7149ea7e' alt='OC] Surrounded by moonlight, the knight of the order of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/surrounded-by-moonlight-the-knight-of-the-order-of-the-v0-xq5nuc60mhlb1.jpg?width=640&crop=smart&auto=webp&s=2e8d5c56523446bfdf59bb3d34554b2b7149ea7e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knight of the Order 5e: Background Review — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/fcaf85e3-aed6-4ea6-bdde-1917f1acfadf/Find+Greater+Steed2.png' alt='Knight of the Order 5e: Background Review — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/fcaf85e3-aed6-4ea6-bdde-1917f1acfadf/Find+Greater+Steed2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Group of Paladins is Called an Order – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/07/purple-dragon-knight.png?resize=736%2C1000' alt='A Group of Paladins is Called an Order – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/07/purple-dragon-knight.png?resize=736%2C1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Before Dishonor: A Knight's Guide (By lorduskblade) | EN ...">
+                                <img itemprop="contentUrl url" src='https://s-media-cache-ak0.pinimg.com/236x/ca/c7/fb/cac7fb493ed9019c479694e8ac57b24f.jpg' alt='Death Before Dishonor: A Knight's Guide (By lorduskblade) | EN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://s-media-cache-ak0.pinimg.com/236x/ca/c7/fb/cac7fb493ed9019c479694e8ac57b24f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knight (5e Class) - D&D Wiki">
+                                <img itemprop="contentUrl url" src='https://s-media-cache-ak0.pinimg.com/236x/c5/9c/25/c59c25e66d3a4b6ba706c55856cfded7.jpg' alt='Knight (5e Class) - D&D Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Wiki" />
+                                </span>
+                                <a href='https://s-media-cache-ak0.pinimg.com/236x/c5/9c/25/c59c25e66d3a4b6ba706c55856cfded7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Javen Tarmikos | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/d/d4/Javen_Tarmikos_SCL.png/revision/latest?cb=20210214160959' alt='Javen Tarmikos | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="977">
+                                <meta itemprop="height" content="1033">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/d/d4/Javen_Tarmikos_SCL.png/revision/latest?cb=20210214160959' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knights of the Eternal Order | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/6/60/KotEO.jpg/revision/latest?cb=20181124035609' alt='Knights of the Eternal Order | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/6/60/KotEO.jpg/revision/latest?cb=20181124035609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SRD - Knight">
+                                <img itemprop="contentUrl url" src='https://srd.dndtools.org/srd/resource/images/classes/97101.jpg' alt='SRD - Knight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SRD" />
+                                </span>
+                                <a href='https://srd.dndtools.org/srd/resource/images/classes/97101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

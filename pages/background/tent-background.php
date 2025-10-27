@@ -1,0 +1,129 @@
+<title>Perfect Tent Backgrounds for All Occasions</title>
+                    <meta name="description" content="Discover ideal tent backgrounds to enhance your outdoor experience. Explore options for camping, festivals, and parties that add warmth and style to any event. Ensure durability and charm while creating memorable moments in nature. Transform your gatherings with the perfect tent setup today!">
+                    <meta name="keywords" content="tent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tent-background">
+                            <span itemprop="name">tent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Tent Backgrounds for All Occasions</h1>
+                <p>A tent background sets the scene for outdoor adventures, providing a cozy sanctuary amidst nature. Whether for camping trips, festivals, or backyard gatherings, a tent adds charm and functionality. Choose vibrant colors or classic designs to enhance your ambiance, while ensuring protection from the elements, creating unforgettable memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Tent Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVudHxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Tent Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVudHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : LFEEY 10x8ft Pine Forest Camping Background for Photography  Sunrise Outdoor Travel Scout Mountains Landscape Grassland Camp Tents ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71n8CL2e1tL.jpg' alt='Amazon.com : LFEEY 10x8ft Pine Forest Camping Background for Photography  Sunrise Outdoor Travel Scout Mountains Landscape Grassland Camp Tents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71n8CL2e1tL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+ Circus Tent Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155886363/vector/circus-tent-background.jpg?s=612x612&w=0&k=20&c=TONn0vDTpfvpv9vFCs1qHVDc022iUdjc5Nk4NjG4pNM=' alt='600+ Circus Tent Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155886363/vector/circus-tent-background.jpg?s=612x612&w=0&k=20&c=TONn0vDTpfvpv9vFCs1qHVDc022iUdjc5Nk4NjG4pNM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="123,802 Background Tent Landscape Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/tent-pitched-allgau-alps-sunset-600nw-2366348395.jpg' alt='123,802 Background Tent Landscape Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/tent-pitched-allgau-alps-sunset-600nw-2366348395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can someone ID this tent from the windows 10 wallpaper? : r/camping">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OgXL8ROx2P1Va_7ZMwJTEc4mW6wpjmGXZKuqIi9mbCc.jpg?width=640&crop=smart&auto=webp&s=357161e46ce9a00a10fc3b206ba7f0257fcf4d15' alt='Can someone ID this tent from the windows 10 wallpaper? : r/camping'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OgXL8ROx2P1Va_7ZMwJTEc4mW6wpjmGXZKuqIi9mbCc.jpg?width=640&crop=smart&auto=webp&s=357161e46ce9a00a10fc3b206ba7f0257fcf4d15' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="245 Tourist Tent Green Meadow Sunset Camping Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/tourist-tent-green-meadow-sunset-camping-background-freedom-concept-filtered-image-cross-processed-vintage-effect-56952023.jpg' alt='245 Tourist Tent Green Meadow Sunset Camping Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/tourist-tent-green-meadow-sunset-camping-background-freedom-concept-filtered-image-cross-processed-vintage-effect-56952023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circus Tent Background Stock Illustrations – 13,687 Circus Tent ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/circus-tent-background-vector-illustration-86695300.jpg' alt='Circus Tent Background Stock Illustrations – 13,687 Circus Tent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/circus-tent-background-vector-illustration-86695300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="581 Tent Night Photos, Pictures And Background Images For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20230829/pngtree-a-camping-tent-in-the-night-with-a-star-on-top-image_13134653.jpg' alt='581 Tent Night Photos, Pictures And Background Images For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20230829/pngtree-a-camping-tent-in-the-night-with-a-star-on-top-image_13134653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tent Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/189/538/non_2x/camp-tent-on-beach-sand-holiday-sunset-background-ai-generated-photo.jpg' alt='Tent Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/189/538/non_2x/camp-tent-on-beach-sand-holiday-sunset-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Camping Images [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517824806704-9040b037703b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhbXBpbmd8ZW58MHx8MHx8fDA%3D' alt='500+ Camping Images [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517824806704-9040b037703b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhbXBpbmd8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

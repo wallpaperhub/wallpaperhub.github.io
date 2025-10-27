@@ -1,0 +1,129 @@
+<title>Discover England: A Comprehensive Map Guide</title>
+                    <meta name="description" content="Explore England through our detailed map! Discover cities, regions, and attractions, perfect for travelers and geography enthusiasts. Navigate the diverse landscapes, from vibrant urban areas to tranquil countryside, all at your fingertips. Your journey through England starts here!">
+                    <meta name="keywords" content="map of england">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/map-of-england">
+                            <span itemprop="name">map of england</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover England: A Comprehensive Map Guide</h1>
+                <p>A map of England reveals the country's diverse regions, cities, and landscapes. From the bustling streets of London to the scenic countryside of the Cotswolds, each area offers unique attractions. Explore historical landmarks, national parks, and coastal towns. Whether traveling or studying geography, a detailed map is essential for navigation and exploration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/16/8f/3e/uke-01.jpg' alt='England Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="1443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/16/8f/3e/uke-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England | History, Map, Flag, Population, Cities, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/61/129461-050-9B25BF2C/England-map.jpg' alt='England | History, Map, Flag, Population, Cities, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1561">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/61/129461-050-9B25BF2C/England-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England Maps & Facts - World Atlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/upload/ea/c7/e5/uke-04.jpg' alt='England Maps & Facts - World Atlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2640">
+                                <meta itemprop="height" content="3004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/upload/ea/c7/e5/uke-04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Map of England | England Regions | Rough Guides | Rough Guides">
+                                <img itemprop="contentUrl url" src='https://deih43ym53wif.cloudfront.net/large_region-map-of-england_62ba8c1910.png' alt='Map of England | England Regions | Rough Guides | Rough Guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rough Guides" />
+                                </span>
+                                <a href='https://deih43ym53wif.cloudfront.net/large_region-map-of-england_62ba8c1910.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Map of England with Counties">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/b4/00/c0b4008806923b7e99ec92c507a05885.jpg' alt='Map of England with Counties'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/b4/00/c0b4008806923b7e99ec92c507a05885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detailed Map of England and Wales (Modern) by WogofJog on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f26c2c18-95c2-4b2f-99a9-67b31ea7d22c/det0wwi-9719b102-69a5-427b-b945-bf0ed0229fca.jpg/v1/fill/w_783,h_1021,q_70,strp/detailed_map_of_england_and_wales__modern__by_wogofjog_det0wwi-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgwMCIsInBhdGgiOiJcL2ZcL2YyNmMyYzE4LTk1YzItNGIyZi05OWE5LTY3YjMxZWE3ZDIyY1wvZGV0MHd3aS05NzE5YjEwMi02OWE1LTQyN2ItYjk0NS1iZjBlZDAyMjlmY2EuanBnIiwid2lkdGgiOiI8PTI5MTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9n2NfD9xmdfC5r_byqaJoXQ4_iiYdPRnhvSDA3FFQyg' alt='Detailed Map of England and Wales (Modern) by WogofJog on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f26c2c18-95c2-4b2f-99a9-67b31ea7d22c/det0wwi-9719b102-69a5-427b-b945-bf0ed0229fca.jpg/v1/fill/w_783,h_1021,q_70,strp/detailed_map_of_england_and_wales__modern__by_wogofjog_det0wwi-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgwMCIsInBhdGgiOiJcL2ZcL2YyNmMyYzE4LTk1YzItNGIyZi05OWE5LTY3YjMxZWE3ZDIyY1wvZGV0MHd3aS05NzE5YjEwMi02OWE1LTQyN2ItYjk0NS1iZjBlZDAyMjlmY2EuanBnIiwid2lkdGgiOiI8PTI5MTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9n2NfD9xmdfC5r_byqaJoXQ4_iiYdPRnhvSDA3FFQyg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom Map | England, Scotland, Northern Ireland, Wales">
+                                <img itemprop="contentUrl url" src='https://geology.com/world/united-kingdom-map.gif' alt='United Kingdom Map | England, Scotland, Northern Ireland, Wales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geology.com" />
+                                </span>
+                                <a href='https://geology.com/world/united-kingdom-map.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England Physical Map">
+                                <img itemprop="contentUrl url" src='https://www.freeworldmaps.net/europe/united-kingdom/england/england-hd-map.jpg' alt='England Physical Map'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1550">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free World Maps" />
+                                </span>
+                                <a href='https://www.freeworldmaps.net/europe/united-kingdom/england/england-hd-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regions of England Map and Tourist Attractions | Mappr">
+                                <img itemprop="contentUrl url" src='https://www.mappr.co/wp-content/uploads/2024/03/regions-england-map-scaled-1.jpeg' alt='Regions of England Map and Tourist Attractions | Mappr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mappr" />
+                                </span>
+                                <a href='https://www.mappr.co/wp-content/uploads/2024/03/regions-england-map-scaled-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Map of England">
+                                <img itemprop="contentUrl url" src='https://mapofeurope.com/wp-content/uploads/2013/06/england.jpg' alt='Map of England'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Map of Europe | Europe Map" />
+                                </span>
+                                <a href='https://mapofeurope.com/wp-content/uploads/2013/06/england.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

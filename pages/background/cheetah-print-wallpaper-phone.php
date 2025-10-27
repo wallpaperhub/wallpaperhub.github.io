@@ -1,0 +1,129 @@
+<title>Trendy Cheetah Print Wallpaper for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cheetah print wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cheetah-print-wallpaper-phone">
+                            <span itemprop="name">cheetah print wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Cheetah Print Wallpaper for Your Phone</h1>
+                <p>Cheetah print wallpaper for your phone is a trendy way to showcase your wild side! This stylish design adds a bold and fashionable touch to your device, making it stand out from the crowd. Perfect for animal print lovers, it complements a variety of themes and outfits, ensuring your phone is always on point!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48 Best Cheetah print wallpaper ideas | cheetah print wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2a/d3/3c/2ad33c784320fe1cda32b12f7c6530c5.jpg' alt='48 Best Cheetah print wallpaper ideas | cheetah print wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3125">
+                                <meta itemprop="height" content="5559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2a/d3/3c/2ad33c784320fe1cda32b12f7c6530c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Animal Print Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animal-print-iphone-pc6dccvcrkg30s6g.jpg' alt='100+] Animal Print Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animal-print-iphone-pc6dccvcrkg30s6g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1+ Free Apple+Phone+Wallpaper+Images,+ & Iphone Se Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/42/1f/f1/421ff17b8bdc4158c3c6d0ed0c4f4cda.jpg' alt='1+ Free Apple+Phone+Wallpaper+Images,+ & Iphone Se Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/42/1f/f1/421ff17b8bdc4158c3c6d0ed0c4f4cda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheetah Print Apple iPhone Wallpapers, 3 Pack of Cell Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30801745/r/il/93436c/3853526237/il_fullxfull.3853526237_6g5g.jpg' alt='Cheetah Print Apple iPhone Wallpapers, 3 Pack of Cell Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30801745/r/il/93436c/3853526237/il_fullxfull.3853526237_6g5g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="230 Best Leopard print IPhone wallpaper ideas | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/29/ec/7329ec6467eef367ca3c13498339e257.jpg' alt='230 Best Leopard print IPhone wallpaper ideas | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/29/ec/7329ec6467eef367ca3c13498339e257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheetah background. Animal print, iPhone vintage, iphone neon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/566/651/HD-wallpaper-cheetah-background-animal-print-iphone-vintage-iphone-neon-cute-animal-pattern.jpg' alt='Cheetah background. Animal print, iPhone vintage, iphone neon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/566/651/HD-wallpaper-cheetah-background-animal-print-iphone-vintage-iphone-neon-cute-animal-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Print Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/leopard-pattern-fur-texture_23-2150404484.jpg' alt='Leopard Print Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/leopard-pattern-fur-texture_23-2150404484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD leopard print wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/332/806/HD-wallpaper-leopard-red-mouth-rolling-stones-leopard-cheetah-print-animal-print.jpg' alt='HD leopard print wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/332/806/HD-wallpaper-leopard-red-mouth-rolling-stones-leopard-cheetah-print-animal-print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Cheetah Print Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/realistic-cheetah-print-edvm9wbrlzs4suy0.webp' alt='Orange Cheetah Print Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/realistic-cheetah-print-edvm9wbrlzs4suy0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/8e/4e/748e4e14ac7d4c358f8fa87fe942cbf8.jpg' alt='iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/8e/4e/748e4e14ac7d4c358f8fa87fe942cbf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

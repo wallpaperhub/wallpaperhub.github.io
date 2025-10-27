@@ -1,0 +1,129 @@
+<title>Stunning Blue Purple Gradient Designs</title>
+                    <meta name="description" content="Discover the beauty of blue purple gradients! Explore creative ideas and applications for stunning designs, wallpapers, and digital art that evoke tranquility and inspiration. Ideal for artists and designers looking to enhance their projects with captivating color transitions.">
+                    <meta name="keywords" content="blue purple gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-purple-gradient">
+                            <span itemprop="name">blue purple gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Purple Gradient Designs</h1>
+                <p>A blue purple gradient seamlessly blends the calming coolness of blue with the rich, vibrant tones of purple. This combination creates a visually captivating backdrop, perfect for digital designs, wallpapers, or art projects. The harmonious transition between colors evokes feelings of serenity and creativity, making it a favorite among designers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Pastel Purple Blue Gradient Background" by Stocksy ...">
+                                <img itemprop="contentUrl url" src='https://c.stocksy.com/a/Tg2C00/z9/2870257.jpg' alt='Elegant Pastel Purple Blue Gradient Background" by Stocksy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stocksy" />
+                                </span>
+                                <a href='https://c.stocksy.com/a/Tg2C00/z9/2870257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Purple Blue Gradient">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-blue-gradient_78370-295.jpg' alt='Free Vector | Purple Blue Gradient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-blue-gradient_78370-295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Purple Blue Gradient With Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/27624590985879008-94467245255220463.jpg' alt='Most Popular Purple Blue Gradient With Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/27624590985879008-94467245255220463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Blue And Purple Gradient Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1557683311-eac922347aa1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1ZSUyMGFuZCUyMHB1cnBsZSUyMGdyYWRpZW50fGVufDB8fDB8fHww' alt='1500+ Blue And Purple Gradient Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1557683311-eac922347aa1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1ZSUyMGFuZCUyMHB1cnBsZSUyMGdyYWRpZW50fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Purple Images – Browse 2,693,277 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg' alt='Gradient Purple Images – Browse 2,693,277 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="173,500+ Blue To Purple Gradient Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/897189176/photo/defocused-background.jpg?s=612x612&w=0&k=20&c=yziPvZvv50IqGToHxrDLaoNjCX2ifF_TvlY7cuKBw0Q=' alt='173,500+ Blue To Purple Gradient Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/897189176/photo/defocused-background.jpg?s=612x612&w=0&k=20&c=yziPvZvv50IqGToHxrDLaoNjCX2ifF_TvlY7cuKBw0Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple to blue | Gradient | Html Colors">
+                                <img itemprop="contentUrl url" src='https://htmlcolors.com/gradients-images/1134-purple-to-blue.jpg' alt='purple to blue | Gradient | Html Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Html Colors" />
+                                </span>
+                                <a href='https://htmlcolors.com/gradients-images/1134-purple-to-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Blue And Purple Gradient Pictures | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1557682268-e3955ed5d83f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZSUyMGFuZCUyMHB1cnBsZSUyMGdyYWRpZW50fGVufDB8fDB8fHww' alt='1500+ Blue And Purple Gradient Pictures | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="6176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1557682268-e3955ed5d83f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZSUyMGFuZCUyMHB1cnBsZSUyMGdyYWRpZW50fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Blue Gradient Background Images – Browse 1,587,004 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/37/94/46/360_F_837944678_DmHNmSjAOMt2I9DzIP1wFOPuZclQeaeq.jpg' alt='Purple Blue Gradient Background Images – Browse 1,587,004 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/37/94/46/360_F_837944678_DmHNmSjAOMt2I9DzIP1wFOPuZclQeaeq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Gradient: +20 Background Color with CSS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177469_Rectangle%20(51).svg' alt='Dark Purple Gradient: +20 Background Color with CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177469_Rectangle%20(51).svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

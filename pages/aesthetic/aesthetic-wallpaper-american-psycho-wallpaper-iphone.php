@@ -1,0 +1,129 @@
+<title>American Psycho Aesthetic Wallpaper for iPhone</title>
+                    <meta name="description" content="Explore the edgy aesthetic of American Psycho with stunning wallpaper designs for your iPhone. Perfect for fans, these wallpapers capture the film's iconic imagery, allowing you to express your style while staying on-trend. Download your favorite designs now to elevate your device’s look!">
+                    <meta name="keywords" content="aesthetic wallpaper american psycho wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-wallpaper-american-psycho-wallpaper-iphone">
+                            <span itemprop="name">aesthetic wallpaper american psycho wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>American Psycho Aesthetic Wallpaper for iPhone</h1>
+                <p>Aesthetic wallpaper featuring imagery from "American Psycho" offers a unique and edgy vibe for your iPhone. Embrace the stylish horror of Patrick Bateman’s world with stunning visuals that blend art and intensity. Perfect for fans looking to express their love for this classic film while enhancing their device’s aesthetic appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick bateman wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/76/ce/8276ceb1838c49ae80e1ae20d49ee0f3.jpg' alt='Patrick bateman wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/76/ce/8276ceb1838c49ae80e1ae20d49ee0f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Psycho Wallpaper en 2022 | Affiches rétro, Fond d'ecran ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/17/48/02/174802e06a1a0320c023a4accfeefd15.jpg' alt='American Psycho Wallpaper en 2022 | Affiches rétro, Fond d'ecran ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/17/48/02/174802e06a1a0320c023a4accfeefd15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Bateman wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/55/78/fb5578affe06d5da53c2c6ef59b95b97.jpg' alt='Patrick Bateman wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/55/78/fb5578affe06d5da53c2c6ef59b95b97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Psycho">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/c8/5d/bfc85dd2edc2ea62c45cf3804042be69.jpg' alt='American Psycho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/c8/5d/bfc85dd2edc2ea62c45cf3804042be69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Bateman Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/16/3d/22163d4557f1b97f7819129057f12851.jpg' alt='Patrick Bateman Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/16/3d/22163d4557f1b97f7819129057f12851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Bateman Bloodied Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/patrick-bateman-bloodied-face-h8vjt6wps1lvi3si.jpg' alt='Patrick Bateman Bloodied Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/patrick-bateman-bloodied-face-h8vjt6wps1lvi3si.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psycho iPhone Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/b3/71/81b37187807551815c45c15c36225af0.jpg' alt='Psycho iPhone Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/b3/71/81b37187807551815c45c15c36225af0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Patrick Bateman Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bloodied-businessman-portrait-qvi5os3z9e7ye6gd.jpg' alt='100+] Patrick Bateman Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bloodied-businessman-portrait-qvi5os3z9e7ye6gd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="american psycho">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/39/b1/9439b199959fa90b323bb80bacea0ed1.jpg' alt='american psycho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/39/b1/9439b199959fa90b323bb80bacea0ed1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Psycho Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/f9/07/35f907f4b1102732f59dae1aecd02086.jpg' alt='American Psycho Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/f9/07/35f907f4b1102732f59dae1aecd02086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

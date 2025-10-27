@@ -1,0 +1,129 @@
+<title>Pebbles Flintstones: A Colorful Background of Bedrock Adventures</title>
+                    <meta name="description" content="Discover the vibrant background of Pebbles Flintstone, the beloved character from the classic cartoon. Dive into her lively story and the enchanting world of Bedrock, where fun and adventure await at every turn. Perfect for fans seeking nostalgia and new generations alike!">
+                    <meta name="keywords" content="pebbles flintstones background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pebbles-flintstones-background">
+                            <span itemprop="name">pebbles flintstones background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pebbles Flintstones: A Colorful Background of Bedrock Adventures</h1>
+                <p>Explore the colorful world of the Pebbles Flintstone background, where the iconic character grows up in the prehistoric town of Bedrock. With her signature bright hairstyle and cheerful personality, Pebbles embodies the spirit of adventure alongside her pet dinosaur, Dino. Relive moments from the classic animation and immerse yourself in a vibrant stone age setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : RURU Pebbles Backdrop for Girl 1st Birthday Party Decorations  7x5 Vinyl Dino and Pebblies Banner Flintstones Photograohy Background Room  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rMO6E7zCL.jpg' alt='Amazon.com : RURU Pebbles Backdrop for Girl 1st Birthday Party Decorations  7x5 Vinyl Dino and Pebblies Banner Flintstones Photograohy Background Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rMO6E7zCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage The Flintstones Pebbles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-the-flintstones-pebbles-tt7grt2aak1p3wzg.jpg' alt='Vintage The Flintstones Pebbles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-the-flintstones-pebbles-tt7grt2aak1p3wzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebbles Flintstone 8x8 custom backdrop, Digital file only">
+                                <img itemprop="contentUrl url" src='http://digitalmomentsrio.com/cdn/shop/products/FLINTSTONE-8x8.jpg?v=1648487552' alt='Pebbles Flintstone 8x8 custom backdrop, Digital file only'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Moments Rio" />
+                                </span>
+                                <a href='http://digitalmomentsrio.com/cdn/shop/products/FLINTSTONE-8x8.jpg?v=1648487552' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Flintstones Pebbles Digital Paper, Flintstones Paper Pack, Pebbles  Digital Papers, the Flintstone Paper Pack - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20836839/r/il/5f2a66/4852148933/il_1080xN.4852148933_b93u.jpg' alt='The Flintstones Pebbles Digital Paper, Flintstones Paper Pack, Pebbles  Digital Papers, the Flintstone Paper Pack - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20836839/r/il/5f2a66/4852148933/il_1080xN.4852148933_b93u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : JMING The Flintstones African American Pebbles Backdrop for  Party 7x5 Vinyl Mason Rocks Photography Background Gender Reveal  Personalized ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MsvLiJBXL.jpg' alt='Amazon.com : JMING The Flintstones African American Pebbles Backdrop for  Party 7x5 Vinyl Mason Rocks Photography Background Gender Reveal  Personalized ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MsvLiJBXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebbles Flintstone | Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/p__/images/3/3e/Pebbles_Flintstone_-_Clipart_-_9.jpg/revision/latest?cb=20200316232042&path-prefix=protagonist' alt='Pebbles Flintstone | Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/p__/images/3/3e/Pebbles_Flintstone_-_Clipart_-_9.jpg/revision/latest?cb=20200316232042&path-prefix=protagonist' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebbles Flintstones 8x8 Table Banner Backdrop with 8ft Table Wrap, Design,  Print & Ship!">
+                                <img itemprop="contentUrl url" src='http://wooemdesign.com/cdn/shop/products/pebbles_8x8_C2_1200x1200.jpg?v=1571731579' alt='Pebbles Flintstones 8x8 Table Banner Backdrop with 8ft Table Wrap, Design,  Print & Ship!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woo'em Design" />
+                                </span>
+                                <a href='http://wooemdesign.com/cdn/shop/products/pebbles_8x8_C2_1200x1200.jpg?v=1571731579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African American Pebbles Backdrop Cutomized 7x5 Vinyl Photography  Background Flintstones Pebbles and Bam bamHappy Birthday Party Banner Cake  Table ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61nca0HMINL._AC_UF894,1000_QL80_.jpg' alt='African American Pebbles Backdrop Cutomized 7x5 Vinyl Photography  Background Flintstones Pebbles and Bam bamHappy Birthday Party Banner Cake  Table ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61nca0HMINL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebbles Flintstone Publicity Cel - ID: augflintstones19081 | Van ...">
+                                <img itemprop="contentUrl url" src='https://vegalleries.com/sites/default/files/art/product_images/manual/2019/augflintstones19081.jpg' alt='Pebbles Flintstone Publicity Cel - ID: augflintstones19081 | Van ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="745">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Eaton Galleries" />
+                                </span>
+                                <a href='https://vegalleries.com/sites/default/files/art/product_images/manual/2019/augflintstones19081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flintstones Pebbles 1st Birthday Party Decorations 5x3ft Vinyl Pebbles  Backdrop Dino and Pebblies Background for Party Supplies Cake Table Room  Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/9b45f876-164a-455d-9793-73df799fcb3c.a857472aaa3e0a0bd08fd23df2ca0afb.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Flintstones Pebbles 1st Birthday Party Decorations 5x3ft Vinyl Pebbles  Backdrop Dino and Pebblies Background for Party Supplies Cake Table Room  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/9b45f876-164a-455d-9793-73df799fcb3c.a857472aaa3e0a0bd08fd23df2ca0afb.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

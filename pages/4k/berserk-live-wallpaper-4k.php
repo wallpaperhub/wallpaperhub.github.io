@@ -1,0 +1,129 @@
+<title>Stunning 4K Berserk Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 4K Berserk live wallpapers that transform your device with dynamic scenes from the iconic anime. Elevate your screen’s aesthetic with striking visuals that capture the essence of this legendary saga. Perfect for true fans seeking to enhance their mobile experience!">
+                    <meta name="keywords" content="berserk live wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/berserk-live-wallpaper-4k">
+                            <span itemprop="name">berserk live wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Berserk Live Wallpapers for Your Device</h1>
+                <p>Berserk live wallpapers in stunning 4K resolution immerse you in the dark fantasy world of Kentaro Miura's epic saga. Experience dynamic scenes featuring Guts, Griffith, and the Band of the Hawk, bringing your device to life. Perfect for fans, these wallpapers enhance your screen with breathtaking detail and vivid colors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spent the whole day making this Berserk Eclipse Live Wallpaper from one of  my favorite manga panels. Hope you like it! (file included in post)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Yck5PGouDbUW_SjiZ62z2U8nTA-06bKv_66gcQ_byoM.png?format=pjpg&auto=webp&s=ba553ea5c12223883ae1816d71855e944072bcd8' alt='Spent the whole day making this Berserk Eclipse Live Wallpaper from one of  my favorite manga panels. Hope you like it! (file included in post)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Yck5PGouDbUW_SjiZ62z2U8nTA-06bKv_66gcQ_byoM.png?format=pjpg&auto=webp&s=ba553ea5c12223883ae1816d71855e944072bcd8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/2015/berserk.jpg' alt='Berserk Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/2015/berserk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just found a cool Guts resting live PC wallpaper ! Link in comment section">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ixjZz5JJgOFl3b3bq0VzS-cDbS5BmhCmQ6tqD_pBJ8Q.png?format=pjpg&auto=webp&s=c0e553f572c59c03c683adbde0cd9d9735767149' alt='Just found a cool Guts resting live PC wallpaper ! Link in comment section'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ixjZz5JJgOFl3b3bq0VzS-cDbS5BmhCmQ6tqD_pBJ8Q.png?format=pjpg&auto=webp&s=c0e553f572c59c03c683adbde0cd9d9735767149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Guts (Berserk)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5H5V55UUPgk/maxresdefault.jpg' alt='Live Wallpaper 4K Guts (Berserk)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5H5V55UUPgk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/40/6e/45/406e45efe263a2b04756d58139fa70fc.0000000.jpg' alt='Berserk Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/40/6e/45/406e45efe263a2b04756d58139fa70fc.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::The Eclipse - Berserk Animated 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1822262959234418352/A01D3D10CC166FD886E9EAEBF0D9874807268351/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::The Eclipse - Berserk Animated 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1822262959234418352/A01D3D10CC166FD886E9EAEBF0D9874807268351/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="berserk Live Wallpapers and More | DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/1710514951.webp' alt='berserk Live Wallpapers and More | DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/1710514951.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserker Armor Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Berserker-Armor.jpg' alt='Berserker Armor Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Anime/thumb-Berserker-Armor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts Wallpaper Compilation">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7195835905557499142&location=0&aid=1988' alt='Guts Wallpaper Compilation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7195835905557499142&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this 4k art my new main wallpaper. Thank you, Kentaro Miura ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lih2tr4a97171.jpg' alt='Made this 4k art my new main wallpaper. Thank you, Kentaro Miura ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lih2tr4a97171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

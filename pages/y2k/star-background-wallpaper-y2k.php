@@ -1,0 +1,129 @@
+<title>Y2K Star Background Wallpaper – Cosmic Retro Vibes</title>
+                    <meta name="description" content="Discover vibrant Y2K star background wallpaper that brings retro cosmic charm to your space. Perfect for bedrooms, studios, or creative spaces. Elevate your decor with nostalgic styles featuring bright colors and playful designs. Shop now for the perfect blend of past and present!">
+                    <meta name="keywords" content="star background wallpaper y2k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/star-background-wallpaper-y2k">
+                            <span itemprop="name">star background wallpaper y2k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Y2K Star Background Wallpaper – Cosmic Retro Vibes</h1>
+                <p>Transform your space with our stunning Y2K star background wallpaper! Featuring vibrant colors and nostalgic designs, these wallpapers evoke the playful spirit of the early 2000s. Perfect for adding a touch of cosmic charm to any room, they are ideal for anyone looking to recreate that retro vibe. Explore our selection today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Star core ideas | star wallpaper, y2k wallpaper, y2k background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/bf/ec/aebfec4dd22126e02543e65404d73c0e.jpg' alt='28 Star core ideas | star wallpaper, y2k wallpaper, y2k background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/bf/ec/aebfec4dd22126e02543e65404d73c0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K Star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c3/9b/06/c39b064bdd9e3dd8a548789a8a7fb208.jpg' alt='Y2K Star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c3/9b/06/c39b064bdd9e3dd8a548789a8a7fb208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Star core ideas | star wallpaper, y2k wallpaper, y2k background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/b0/e0/b0/b0e0b08512b5738d464bd4758ecb364f.jpg' alt='28 Star core ideas | star wallpaper, y2k wallpaper, y2k background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/b0/e0/b0/b0e0b08512b5738d464bd4758ecb364f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-purple-stars-background-f4vx9bzqndqzoq02.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-purple-stars-background-f4vx9bzqndqzoq02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/y2k-star-28rf6krz5u3ryvqd.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/y2k-star-28rf6krz5u3ryvqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white and black stars y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' alt='white and black stars y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/monochrome-star-pattern-xdmt1smt3x51u73b.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1494">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/monochrome-star-pattern-xdmt1smt3x51u73b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Free vector y2k wallpaper background star aesthetic">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/free-vector-y2k-wallpaper-background-star-aesthetic_1147673-2.jpg' alt='Premium Vector | Free vector y2k wallpaper background star aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/free-vector-y2k-wallpaper-background-star-aesthetic_1147673-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆ star wallpaper ᵕ̈ @eestrellititas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/9b/e0/e19be055f819a346bea2ac8e7085184a.jpg' alt='☆ star wallpaper ᵕ̈ @eestrellititas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/9b/e0/e19be055f819a346bea2ac8e7085184a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

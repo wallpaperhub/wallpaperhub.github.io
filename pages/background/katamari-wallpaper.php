@@ -1,0 +1,129 @@
+<title>Vibrant Katamari Wallpaper: Add Fun to Your Screens!</title>
+                    <meta name="description" content="Discover the joyful charm of Katamari with our collection of vibrant wallpapers! Perfect for fans, these designs brighten your device while showcasing the game's playful spirit. Download your favorite Katamari wallpaper now and enjoy a colorful transformation every day!">
+                    <meta name="keywords" content="katamari wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/katamari-wallpaper">
+                            <span itemprop="name">katamari wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Katamari Wallpaper: Add Fun to Your Screens!</h1>
+                <p>Bring the whimsical world of Katamari to your device with vibrant Katamari wallpaper! Featuring colorful graphics and adorable characters, these wallpapers add a playful touch to your screens. Whether you're a fan of rolling up unique objects or the quirky art style, transform your background and enjoy the joyful aesthetic of Katamari every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Damacy : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/r_xr1d_y9NjQYLa0WsTIqG2vK-MI3muUi8Zwv2xGCu4.jpg?width=640&crop=smart&auto=webp&s=0db0af2575794c9651820e307ac0d243ba3903c9' alt='Katamari Damacy : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/r_xr1d_y9NjQYLa0WsTIqG2vK-MI3muUi8Zwv2xGCu4.jpg?width=640&crop=smart&auto=webp&s=0db0af2575794c9651820e307ac0d243ba3903c9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Damacy Online Wallpapers | Katamari Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/katamari/images/a/ab/KATAMARI_COUPLE.jpg/revision/latest/scale-to-width-down/1200?cb=20240301033317' alt='Katamari Damacy Online Wallpapers | Katamari Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katamari Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/katamari/images/a/ab/KATAMARI_COUPLE.jpg/revision/latest/scale-to-width-down/1200?cb=20240301033317' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83 Official Katamari Damacy Wallpapers from Namco (2003-2005) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/83-official-katamari-damacy-wallpapers-from-namco-2003-2005-v0-Ymok8LOZlrrH938m08DrEX-KnI4Qjl3-oU6h4zUX9oo.jpg?width=640&crop=smart&auto=webp&s=2b3d2f1154c7bd85f2875b1928010c6f33138ed6' alt='83 Official Katamari Damacy Wallpapers from Namco (2003-2005) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/83-official-katamari-damacy-wallpapers-from-namco-2003-2005-v0-Ymok8LOZlrrH938m08DrEX-KnI4Qjl3-oU6h4zUX9oo.jpg?width=640&crop=smart&auto=webp&s=2b3d2f1154c7bd85f2875b1928010c6f33138ed6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE We Love Katamari REROLL+ Royal Reverie Mobile and Desktop ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/hnoi7ctzfs57/21yrfp7cMHFYkeJSvBHRbX/1d6a25bda61b21aac07c9161d800e23f/Desktop_Wallpaper_1.jpg' alt='FREE We Love Katamari REROLL+ Royal Reverie Mobile and Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandai Namco Entertainment" />
+                                </span>
+                                <a href='https://images.ctfassets.net/hnoi7ctzfs57/21yrfp7cMHFYkeJSvBHRbX/1d6a25bda61b21aac07c9161d800e23f/Desktop_Wallpaper_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Damacy Wallpapers | Katamari Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/katamari/images/c/c4/Wp_rainy_l.jpg/revision/latest/scale-to-width-down/1200?cb=20220929174730' alt='Katamari Damacy Wallpapers | Katamari Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katamari Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/katamari/images/c/c4/Wp_rainy_l.jpg/revision/latest/scale-to-width-down/1200?cb=20220929174730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari desktop and mobile wallpapers - Mima's Ko-fi Shop - Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/post/61015dc9-5c41-428b-b126-4f55aca1602c_c7c1a089-d2ae-4d8b-9272-155ba694d641.png' alt='Katamari desktop and mobile wallpapers - Mima's Ko-fi Shop - Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/post/61015dc9-5c41-428b-b126-4f55aca1602c_c7c1a089-d2ae-4d8b-9272-155ba694d641.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Katamari Wallpapers | Katamari Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/katamari/images/6/6c/Bk_wp_1.jpg/revision/latest/scale-to-width-down/1200?cb=20230126221133' alt='Beautiful Katamari Wallpapers | Katamari Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katamari Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/katamari/images/6/6c/Bk_wp_1.jpg/revision/latest/scale-to-width-down/1200?cb=20230126221133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Damacy iPhone Wallpaper | Just a quick wallpaper I … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4082/4777118717_62f9d24384_z.jpg' alt='Katamari Damacy iPhone Wallpaper | Just a quick wallpaper I … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4082/4777118717_62f9d24384_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Wallpaper: Katamari | Jogos">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/5b/2d/bd5b2d421f4249bda791f69959eb348f.jpg' alt='Katamari Wallpaper: Katamari | Jogos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/5b/2d/bd5b2d421f4249bda791f69959eb348f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katamari Damacy Wallpaper: Katamari in the Snow - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static2.minitokyo.net/view/14/15/325764.jpg' alt='Katamari Damacy Wallpaper: Katamari in the Snow - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers - Minitokyo" />
+                                </span>
+                                <a href='http://static2.minitokyo.net/view/14/15/325764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

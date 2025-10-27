@@ -1,0 +1,129 @@
+<title>Who Acquired Merrill Lynch? Bank of America Deal Explained</title>
+                    <meta name="description" content="Discover the details behind Bank of America's acquisition of Merrill Lynch in 2008. Learn how this pivotal merger reshaped investment banking and enhanced financial services during the tumultuous economic climate. Get insights into the deal that marked a significant moment in financial history.">
+                    <meta name="keywords" content="who bought merrill lynch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-bought-merrill-lynch">
+                            <span itemprop="name">who bought merrill lynch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Acquired Merrill Lynch? Bank of America Deal Explained</h1>
+                <p>In 2008, Bank of America acquired Merrill Lynch during the financial crisis. This strategic purchase helped Bank of America expand its services and strengthen its investment banking and wealth management capabilities. The deal, valued at approximately $50 billion, was aimed at stabilizing the financial sector and enhancing customer offerings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="At Bank of America Merrill Lynch, Profits but No Joy - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2011/10/02/business/02-MERRILL-JP1/02-MERRILL-JP1-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='At Bank of America Merrill Lynch, Profits but No Joy - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2011/10/02/business/02-MERRILL-JP1/02-MERRILL-JP1-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America Settles Suit Over Merrill for $2.43 Billion - The ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2012/09/29/business/Bank/Bank-tmagArticle.jpg' alt='Bank of America Settles Suit Over Merrill for $2.43 Billion - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DealBook - The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2012/09/29/business/Bank/Bank-tmagArticle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrill Lynch & Co. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Merrill_Lynch_-_panoramio.jpg/640px-Merrill_Lynch_-_panoramio.jpg' alt='Merrill Lynch & Co. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Merrill_Lynch_-_panoramio.jpg/640px-Merrill_Lynch_-_panoramio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrill Lynch Takeover by Bank of America - Seven Pillars Institute">
+                                <img itemprop="contentUrl url" src='https://sevenpillarsinstitute.org/wp-content/uploads/2017/11/Merrill-Lynch.jpg' alt='Merrill Lynch Takeover by Bank of America - Seven Pillars Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seven Pillars Institute" />
+                                </span>
+                                <a href='https://sevenpillarsinstitute.org/wp-content/uploads/2017/11/Merrill-Lynch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrill Lynch CEO to stay on with Bank of America">
+                                <img itemprop="contentUrl url" src='https://www.heraldtribune.com/gcdn/authoring/2008/10/03/NSHT/ghows-LK-6f4ec02e-8aa8-42c5-a7d0-51a36a65e17f-cc0b4559.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Merrill Lynch CEO to stay on with Bank of America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="491">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarasota Herald-Tribune" />
+                                </span>
+                                <a href='https://www.heraldtribune.com/gcdn/authoring/2008/10/03/NSHT/ghows-LK-6f4ec02e-8aa8-42c5-a7d0-51a36a65e17f-cc0b4559.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrill Lynch CEO makes quick mark – The Denver Post">
+                                <img itemprop="contentUrl url" src='https://www.denverpost.com/wp-content/uploads/2016/05/20071224__20071225_C02_BZ25MERRILLp1.jpg?w=640' alt='Merrill Lynch CEO makes quick mark – The Denver Post'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Denver Post" />
+                                </span>
+                                <a href='https://www.denverpost.com/wp-content/uploads/2016/05/20071224__20071225_C02_BZ25MERRILLp1.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Merrill Brought Wall Street To Main Street | Investor's ...">
+                                <img itemprop="contentUrl url" src='https://www.investors.com/wp-content/uploads/2019/05/LSreprint-Merrill-051719-company.jpg' alt='Charles Merrill Brought Wall Street To Main Street | Investor's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investor's Business Daily" />
+                                </span>
+                                <a href='https://www.investors.com/wp-content/uploads/2019/05/LSreprint-Merrill-051719-company.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America gives former head of Merrill Lynch the boot | The ...">
+                                <img itemprop="contentUrl url" src='https://images.seattletimes.com/wp-content/uploads/2009/01/2008660561.jpg?d=300x0' alt='Bank of America gives former head of Merrill Lynch the boot | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://images.seattletimes.com/wp-content/uploads/2009/01/2008660561.jpg?d=300x0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrill Lynch Wealth Management eyes more growth in Houston market ...">
+                                <img itemprop="contentUrl url" src='https://media.bizj.us/view/img/12229671/andy-sieg-brian-ludwick-merrill-lynch-wealth-management*1200xx2890-2164-415-311.jpg' alt='Merrill Lynch Wealth Management eyes more growth in Houston market ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Business Journals" />
+                                </span>
+                                <a href='https://media.bizj.us/view/img/12229671/andy-sieg-brian-ludwick-merrill-lynch-wealth-management*1200xx2890-2164-415-311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Candid Q&A With Merrill Lynch President Andy Sieg">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt04b7e2479b038648/67348f40f029309cb0e271ba/andy-sieg-merrill.png?width=1280&auto=webp&quality=95&format=jpg&disable=upscale' alt='A Candid Q&A With Merrill Lynch President Andy Sieg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wealth Management" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt04b7e2479b038648/67348f40f029309cb0e271ba/andy-sieg-merrill.png?width=1280&auto=webp&quality=95&format=jpg&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

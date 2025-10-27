@@ -1,0 +1,129 @@
+<title>Epic Dota 2 Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an amazing collection of Dota 2 wallpapers that capture the essence of the game. Perfect for desktop or mobile, our wallpapers feature your favorite heroes and epic moments. Brighten your screens with high-quality images that showcase the vibrant world of Dota 2! Download now!">
+                    <meta name="keywords" content="dota 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dota-2-wallpaper">
+                            <span itemprop="name">dota 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dota 2 Wallpapers for Every Fan</h1>
+                <p>Dota 2 wallpapers are a visual feast for fans of this iconic game. From stunning hero portraits to epic battle scenes, these wallpapers bring the magic of the Dota universe to your screen. Explore various styles, from minimalist designs to vivid illustrations that celebrate your favorite heroes. Download and transform your desktop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog">
+                                <img itemprop="contentUrl url" src='https://dmarket.com/blog/best-dota2-wallpapers/dota-2-pudge-wallpaper_hu12546248899726851678.jpg' alt='The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMarket" />
+                                </span>
+                                <a href='https://dmarket.com/blog/best-dota2-wallpapers/dota-2-pudge-wallpaper_hu12546248899726851678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Second round of official artwork/wallpapers made for Arcanas and ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/second-round-of-official-artwork-wallpapers-made-for-v0-duqsvrvqkzz91.png?width=1080&crop=smart&auto=webp&s=74f3f7334750b73a4cea5d14d53fee03afdc57ad' alt='Second round of official artwork/wallpapers made for Arcanas and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/second-round-of-official-artwork-wallpapers-made-for-v0-duqsvrvqkzz91.png?width=1080&crop=smart&auto=webp&s=74f3f7334750b73a4cea5d14d53fee03afdc57ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DotA 2 Hero Wallpaper v2: Carries only! [1920x1080] with more ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/LHSgapK.png' alt='DotA 2 Hero Wallpaper v2: Carries only! [1920x1080] with more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/LHSgapK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog">
+                                <img itemprop="contentUrl url" src='https://dmarket.com/blog/best-dota2-wallpapers/dota2logo_hu12974012446072517820.jpg' alt='The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMarket" />
+                                </span>
+                                <a href='https://dmarket.com/blog/best-dota2-wallpapers/dota2logo_hu12974012446072517820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DotA 2 Heroes Clash HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/474/thumb-1920-474206.jpg' alt='DotA 2 Heroes Clash HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/474/thumb-1920-474206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog">
+                                <img itemprop="contentUrl url" src='https://dmarket.com/blog/best-dota2-wallpapers/wallpaperflare.com_wallpaper12_hu14851163266237006631.jpg' alt='The Best Dota 2 Backgrounds for Your PC in 2024 | DMarket | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMarket" />
+                                </span>
+                                <a href='https://dmarket.com/blog/best-dota2-wallpapers/wallpaperflare.com_wallpaper12_hu14851163266237006631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dota 2 no DPC announcement wallpaper but it's high res : r/DotA2">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dota-2-no-dpc-announcement-wallpaper-but-its-high-res-v0-vfhvs7ru6dob1.jpg?auto=webp&s=e5671192122a475ac4b048a14c3dd5225ba9c344' alt='Dota 2 no DPC announcement wallpaper but it's high res : r/DotA2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dota-2-no-dpc-announcement-wallpaper-but-its-high-res-v0-vfhvs7ru6dob1.jpg?auto=webp&s=e5671192122a475ac4b048a14c3dd5225ba9c344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Dota 2 Wallpapers - Spruce up your desktop today!">
+                                <img itemprop="contentUrl url" src='https://www.esports.net/wp-content/uploads/2023/01/best-dota2-wallpapers-5-e1674574876489.jpg' alt='Best Dota 2 Wallpapers - Spruce up your desktop today!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esports.net" />
+                                </span>
+                                <a href='https://www.esports.net/wp-content/uploads/2023/01/best-dota2-wallpapers-5-e1674574876489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dota 2 Wallpapers (93 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/7/d/68059-3840x2160-desktop-4k-dota-2-background-photo.jpg' alt='Dota 2 Wallpapers (93 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/7/d/68059-3840x2160-desktop-4k-dota-2-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dota 2 2025 hd">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/635/114/484/dota-2-dota-phantom-assassin-manifold-paradox-wallpaper-preview.jpg' alt='Dota 2 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/635/114/484/dota-2-dota-phantom-assassin-manifold-paradox-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

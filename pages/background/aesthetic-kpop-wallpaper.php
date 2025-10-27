@@ -1,0 +1,129 @@
+<title>Aesthetic K-pop Wallpapers: Vibrant & Stylish Designs</title>
+                    <meta name="description" content="Discover a refreshing selection of aesthetic K-pop wallpapers that bring life to your screen. Perfectly curated for fans who love vibrant designs, these wallpapers feature top idols and groups. Personalize your device and express your love for K-pop effortlessly!">
+                    <meta name="keywords" content="aesthetic kpop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-kpop-wallpaper">
+                            <span itemprop="name">aesthetic kpop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic K-pop Wallpapers: Vibrant & Stylish Designs</h1>
+                <p>Transform your device with stunning aesthetic K-pop wallpapers! Explore a vibrant collection featuring your favorite idols and groups, showcasing their unique styles and charm. Perfect for fans who want to personalize their screens with art that reflects their passion for K-pop culture. Elevate your aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 K-Pop Aesthetics ideas | kpop wallpaper, wallpaper, kpop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/39/66/a83966a175dea269e081e3998e2e5388.jpg' alt='170 K-Pop Aesthetics ideas | kpop wallpaper, wallpaper, kpop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="943">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/39/66/a83966a175dea269e081e3998e2e5388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kpop+desktop+wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/da/9d/24da9d6b7cf152d0db78b3feba8b4018.jpg' alt='kpop+desktop+wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/da/9d/24da9d6b7cf152d0db78b3feba8b4018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Kpop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/54/1c/c3541ce1b6d6bad927b6033064d60c6b.jpg' alt='Aesthetic Kpop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/54/1c/c3541ce1b6d6bad927b6033064d60c6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kpop Aesthetic Music Player Illustration Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kpop-aesthetic-music-player-illustration-j43y2ble5i3mc85q.jpg' alt='Download Kpop Aesthetic Music Player Illustration Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kpop-aesthetic-music-player-illustration-j43y2ble5i3mc85q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic kpop wallpaper newjeans OMG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/f4/6a/84f46ab6b3f0e573dc14359f233d0005.jpg' alt='aesthetic kpop wallpaper newjeans OMG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/f4/6a/84f46ab6b3f0e573dc14359f233d0005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Kpop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-kpop-1jt3hnbyrqqt1z1a.jpg' alt='100+] Aesthetic Kpop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-kpop-1jt3hnbyrqqt1z1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU, aesthetic, bts, beauty, kpop, lee jieun, fanart, korean ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/124/152/HD-wallpaper-iu-aesthetic-bts-beauty-kpop-lee-jieun-fanart-korean-iphone.jpg' alt='IU, aesthetic, bts, beauty, kpop, lee jieun, fanart, korean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/124/152/HD-wallpaper-iu-aesthetic-bts-beauty-kpop-lee-jieun-fanart-korean-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Cute pastel aesthetic kpop mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-pastel-aesthetic-kpop-mobile-wallpaper_23-2149026326.jpg?w=360' alt='Free Vector | Cute pastel aesthetic kpop mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-pastel-aesthetic-kpop-mobile-wallpaper_23-2149026326.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kpop Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4473756.jpg' alt='Kpop Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4473756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kpop aesthetic desktop wallpaper, stray kids, bts, itzy, ateez ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/26/ee/6e26eea6cbd211baff70c77b8213a34d.jpg' alt='kpop aesthetic desktop wallpaper, stray kids, bts, itzy, ateez ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/26/ee/6e26eea6cbd211baff70c77b8213a34d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

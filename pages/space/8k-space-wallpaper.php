@@ -1,0 +1,129 @@
+<title>Stunning 8K Space Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="8k space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/8k-space-wallpaper">
+                            <span itemprop="name">8k space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 8K Space Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your digital space with stunning 8K space wallpapers! These high-resolution images bring the beauty of the cosmos to your screens, showcasing breathtaking galaxies, vibrant nebulas, and distant planets. Perfect for anyone looking to enhance their desktop or mobile device with celestial artistry. Experience the universe like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Exploring the stars in 8K Space Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/8k-space-7e2qww2vjghgr0dg.jpg' alt='Download Exploring the stars in 8K Space Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/8k-space-7e2qww2vjghgr0dg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I did my best amoledise this 8k space wallpaper [7860x4320] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-rvdhsv80exl81.jpg?width=7860&format=pjpg&auto=webp&s=992c0ed1363d14c50b944c2d47e10d8d905696fa' alt='I did my best amoledise this 8k space wallpaper [7860x4320] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7860">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-rvdhsv80exl81.jpg?width=7860&format=pjpg&auto=webp&s=992c0ed1363d14c50b944c2d47e10d8d905696fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Space 8k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/104/1047578.jpg' alt='Download Sci Fi Space 8k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8352">
+                                <meta itemprop="height" content="5300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/104/1047578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Digital Art Space Stars 8k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/135/1355300.jpeg' alt='Download Galaxy Digital Art Space Stars 8k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/135/1355300.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I did my best amoledise this 8k space wallpaper [7860x4320] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-qnwemhg1exl81.jpg?width=4316&format=pjpg&auto=webp&s=036572302d26830b489d03adae4ad086abe1346d' alt='I did my best amoledise this 8k space wallpaper [7860x4320] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4316">
+                                <meta itemprop="height" content="7868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-did-my-best-amoledise-this-8k-space-wallpaper-7860x4320-v0-qnwemhg1exl81.jpg?width=4316&format=pjpg&auto=webp&s=036572302d26830b489d03adae4ad086abe1346d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 8k Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/8k-space-6hgjkf0fx2v4hczy.jpg' alt='100+] 8k Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/8k-space-6hgjkf0fx2v4hczy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900 Space 8k Stock Photos - Free & Royalty-Free Stock Photos from ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wallpaper-background-space-galaxy-k-k-ai-generated-wallpaper-background-space-galaxy-k-k-338751369.jpg' alt='900 Space 8k Stock Photos - Free & Royalty-Free Stock Photos from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wallpaper-background-space-galaxy-k-k-ai-generated-wallpaper-background-space-galaxy-k-k-338751369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made an 8K wallpaper of some of my favorite Deep Sky Objects I ...">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/49290193663_1e0f568600_o.png' alt='I made an 8K wallpaper of some of my favorite Deep Sky Objects I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7860">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/49290193663_1e0f568600_o.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Space Full 8K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/aa/be/ecaabe09a8b8cb7638aa0992f42ae12a.jpg' alt='Awesome Space Full 8K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/aa/be/ecaabe09a8b8cb7638aa0992f42ae12a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "A breathtaking view of a sunlit nebula in 8K space ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/8k-space-rcee926gutq0bgcc.jpg' alt='Download "A breathtaking view of a sunlit nebula in 8K space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/8k-space-rcee926gutq0bgcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

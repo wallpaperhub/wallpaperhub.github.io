@@ -1,0 +1,129 @@
+<title>Uncover the Retro Paradise of GTA Vice City</title>
+                    <meta name="description" content="Explore the nostalgic world of GTA Vice City! Dive into a vibrant 1980s Miami-inspired landscape filled with crime and adventure. Discover the captivating story of Tommy Vercetti and experience the iconic soundtrack that makes this game a timeless classic. Join the ride today!">
+                    <meta name="keywords" content="gta vice city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gta-vice-city-background">
+                            <span itemprop="name">gta vice city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncover the Retro Paradise of GTA Vice City</h1>
+                <p>GTA Vice City, released in 2002, immerses players in a vibrant, 1980s Miami-inspired world. The game features a rich storyline centered around crime, power, and betrayal, as players assume the role of Tommy Vercetti. With its iconic soundtrack and colorful visuals, Vice City captures the essence of the era, becoming a classic in gaming history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA: Vice City Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/d/f/2153487-3840x2160-desktop-4k-gta-vice-city-wallpaper-photo.jpg' alt='GTA: Vice City Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/d/f/2153487-3840x2160-desktop-4k-gta-vice-city-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA: Vice City Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/f/c/2153519-2880x1800-desktop-hd-gta-vice-city-background-photo.jpg' alt='GTA: Vice City Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/f/c/2153519-2880x1800-desktop-hd-gta-vice-city-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA Vice City Created a New Wave of '80s Nostalgia | by Karl Otty ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*jFgtbU-oiSbPE6ae0I0o-g.png' alt='GTA Vice City Created a New Wave of '80s Nostalgia | by Karl Otty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*jFgtbU-oiSbPE6ae0I0o-g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA: Vice City; full hd pc wallpaper : r/outrun">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5533y4n56tg01.png?auto=webp&s=c90070955c2784a86fa44686af985de485be287c' alt='GTA: Vice City; full hd pc wallpaper : r/outrun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5533y4n56tg01.png?auto=webp&s=c90070955c2784a86fa44686af985de485be287c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tommy Vercetti HD Wallpaper from Grand Theft Auto: Vice City by ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/983/983879.jpg' alt='Tommy Vercetti HD Wallpaper from Grand Theft Auto: Vice City by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3399">
+                                <meta itemprop="height" content="1959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/983/983879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gta Vice City Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gta-vice-city-background-i9ns7ehf42ay6dsv.jpg' alt='Download Gta Vice City Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gta-vice-city-background-i9ns7ehf42ay6dsv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vice city 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gta-vice-city-background-lhsh8uqeh16ydsbe.jpg' alt='Vice city 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gta-vice-city-background-lhsh8uqeh16ydsbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Theft Auto - Vice City (Main Theme Extended Mix)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F2_pg8xd1To/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gKygZMA8=&rs=AOn4CLD3j3-c6h5vcYdiN4Dms7kwJ9jg6A' alt='Grand Theft Auto - Vice City (Main Theme Extended Mix)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F2_pg8xd1To/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gKygZMA8=&rs=AOn4CLD3j3-c6h5vcYdiN4Dms7kwJ9jg6A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Grand Theft Auto: Vice City 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/107/1070353.jpg' alt='Download Video Game Grand Theft Auto: Vice City 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/107/1070353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gta Vice City Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/213/499/small_2x/silhouette-city-skyline-view-with-palm-trees-background-vector.jpg' alt='Gta Vice City Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/213/499/small_2x/silhouette-city-skyline-view-with-palm-trees-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

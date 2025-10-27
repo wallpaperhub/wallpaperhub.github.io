@@ -1,0 +1,129 @@
+<title>Top Splatoon 3 Phone Wallpapers - Vibrant and Fun Designs</title>
+                    <meta name="description" content="Discover a wide selection of Splatoon 3 wallpapers for your phone! Enjoy vibrant designs featuring your favorite characters and settings from the game. Perfect for fans seeking to personalize their devices and showcase their love for Splatoon 3. Download now for a fresh new look!">
+                    <meta name="keywords" content="splatoon 3 wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/splatoon-3-wallpaper-phone">
+                            <span itemprop="name">splatoon 3 wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Splatoon 3 Phone Wallpapers - Vibrant and Fun Designs</h1>
+                <p>Enhance your mobile experience with stunning Splatoon 3 wallpapers! Dive into the colorful world of Inklings and Octolings, featuring unique characters and vibrant settings. Our collection is perfect for fans looking to express their passion for this iconic game. Download your favorite designs and transform your phone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3 Wallpapers (42 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/1/3/1297906-1440x2960-mobile-hd-splatoon-3-background-photo.jpg' alt='Splatoon 3 Wallpapers (42 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/1/3/1297906-1440x2960-mobile-hd-splatoon-3-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers : r/splatoon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-v0-yw14b1dmff3a1.png?width=1440&format=png&auto=webp&s=bee8c2976c194478b4c6b44de91a85675aeff699' alt='Phone wallpapers : r/splatoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-v0-yw14b1dmff3a1.png?width=1440&format=png&auto=webp&s=bee8c2976c194478b4c6b44de91a85675aeff699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3: Side Order Wallpapers/Backgrounds (Alternative Version ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/splatoon-3-side-order-wallpapers-backgrounds-alternative-v0-9sh4gsosugkc1.png?width=1440&format=png&auto=webp&s=aa52e020e066ba886d18f9bf051173644615009a' alt='Splatoon 3: Side Order Wallpapers/Backgrounds (Alternative Version ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/splatoon-3-side-order-wallpapers-backgrounds-alternative-v0-9sh4gsosugkc1.png?width=1440&format=png&auto=webp&s=aa52e020e066ba886d18f9bf051173644615009a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid and Octo | Exclusive 7/11 Splatoon 3 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/ed/bb/b2edbba8491b7012b307cd23f0000955.jpg' alt='Squid and Octo | Exclusive 7/11 Splatoon 3 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/ed/bb/b2edbba8491b7012b307cd23f0000955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3 Pattern Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2022/09/splatoon3-pattern-01-1440x2960-1.jpg' alt='Splatoon 3 Pattern Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2022/09/splatoon3-pattern-01-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a mobile wallpaper : r/splatoon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rojrvh8hyfe31.jpg' alt='Here's a mobile wallpaper : r/splatoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rojrvh8hyfe31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/d9/48/c9d948c29ccd6548bd31567456bceb21.jpg' alt='Splatoon 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/d9/48/c9d948c29ccd6548bd31567456bceb21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3 Wallpapers (42 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/1/b/1297909-1284x2778-mobile-hd-splatoon-3-background-image.jpg' alt='Splatoon 3 Wallpapers (42 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/1/b/1297909-1284x2778-mobile-hd-splatoon-3-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3 Inkling and Octoling Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2022/09/splatoon3-inkling-octoling-01-1440x2960-1.jpg' alt='Splatoon 3 Inkling and Octoling Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2022/09/splatoon3-inkling-octoling-01-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splatoon 3 Wallpapers (42 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/f/6/1297905-1920x2573-mobile-hd-splatoon-3-background.jpg' alt='Splatoon 3 Wallpapers (42 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/f/6/1297905-1920x2573-mobile-hd-splatoon-3-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

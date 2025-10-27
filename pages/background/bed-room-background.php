@@ -1,0 +1,129 @@
+<title>"Create Your Dream Bedroom Background"</title>
+                    <meta name="description" content="Transform your bedroom with inspiring backgrounds that enhance serenity and style. Discover tips on color choices, décor elements, and lighting to curate a relaxing atmosphere. Perfect for those seeking comfort and personalization in their sleeping space.">
+                    <meta name="keywords" content="bed room background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bed-room-background">
+                            <span itemprop="name">bed room background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Create Your Dream Bedroom Background"</h1>
+                <p>A bedroom background sets the mood for relaxation and comfort. Choose calming colors and simple patterns that inspire tranquility. Incorporate elements like soft lighting, greenery, and personal touches to create a cozy atmosphere. This space should reflect your personality while promoting restful sleep and peace of mind.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Bedroom Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlZHJvb218ZW58MHx8MHx8fDA%3D' alt='100+ Bedroom Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlZHJvb218ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Master Bedroom Wallpaper | Chronicles of Frivolity">
+                                <img itemprop="contentUrl url" src='https://www.chroniclesoffrivolity.com/wp-content/uploads/2020/06/IMG_0019-683x1024.jpg' alt='Master Bedroom Wallpaper | Chronicles of Frivolity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chronicles of Frivolity" />
+                                </span>
+                                <a href='https://www.chroniclesoffrivolity.com/wp-content/uploads/2020/06/IMG_0019-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Bedroom Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Bedroom Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom Background Aesthetic Wallpaper | Bedroom Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/15/fd/63/15fd63b15e1b4838a871006e4c9a52d2.jpg' alt='Bedroom Background Aesthetic Wallpaper | Bedroom Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/15/fd/63/15fd63b15e1b4838a871006e4c9a52d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom room room bed with luxurious interior design design ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TDR2P4/bedroom-room-room-bed-with-luxurious-interior-design-design-decorated-with-ornate-dorm-room-background-with-carpets-with-linen-and-wooden-bed-with-soft-bed-TDR2P4.jpg' alt='Bedroom room room bed with luxurious interior design design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TDR2P4/bedroom-room-room-bed-with-luxurious-interior-design-design-decorated-with-ornate-dorm-room-background-with-carpets-with-linen-and-wooden-bed-with-soft-bed-TDR2P4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Bedroom wallpaper ideas for a romantic touch - COCO LAPINE ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/cocolapinedesign.com/wp-content/uploads/2015/11/SFDF7AD0F272E1B4D6BA3D38B4CE0BEC242.jpg?resize=1024%2C767&ssl=1' alt='15 Bedroom wallpaper ideas for a romantic touch - COCO LAPINE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coco Lapine Design" />
+                                </span>
+                                <a href='https://i0.wp.com/cocolapinedesign.com/wp-content/uploads/2015/11/SFDF7AD0F272E1B4D6BA3D38B4CE0BEC242.jpg?resize=1024%2C767&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom Wall Murals: Transform your sanctuary with BelarteSTUDIO ...">
+                                <img itemprop="contentUrl url" src='http://belartestudio.com/cdn/shop/collections/JapandiEssence-GraphicRibWood-BAS01003085-BrownWood-Web.jpg?v=1699362868' alt='Bedroom Wall Murals: Transform your sanctuary with BelarteSTUDIO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='http://belartestudio.com/cdn/shop/collections/JapandiEssence-GraphicRibWood-BAS01003085-BrownWood-Web.jpg?v=1699362868' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Bedroom Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1540518614846-7eded433c457?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D' alt='100+ Bedroom Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1540518614846-7eded433c457?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Bold Bedroom Wallpaper Ideas We Love - Timeless Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/hbx020117nextwave07-1551726667.jpg' alt='27 Bold Bedroom Wallpaper Ideas We Love - Timeless Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/hbx020117nextwave07-1551726667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/bedroom-background-zoom-calls_52683-95239.jpg' alt='Bedroom Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/bedroom-background-zoom-calls_52683-95239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

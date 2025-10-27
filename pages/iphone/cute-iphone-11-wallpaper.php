@@ -1,0 +1,129 @@
+<title>Adorable iPhone 11 Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a delightful selection of cute iPhone 11 wallpapers, perfect for adding charm and personality to your device. Explore vibrant designs, playful patterns, and lovable illustrations that suit your unique style. Download your favorites today for a fresh and fun look!">
+                    <meta name="keywords" content="cute iphone 11 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cute-iphone-11-wallpaper">
+                            <span itemprop="name">cute iphone 11 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable iPhone 11 Wallpapers for Every Style</h1>
+                <p>Looking for cute iPhone 11 wallpapers? You'll love our adorable collection featuring pastel colors, playful patterns, and charming illustrations. From cute animals to whimsical designs, these wallpapers will add a touch of personality and joy to your device. Perfect for expressing your style and brightening your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper,  Minimalistic Wallpaper, Cute iPhone X/xs/11/11 Pro Max Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_1080xN.2779013450_qrvy.jpg' alt='40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper,  Minimalistic Wallpaper, Cute iPhone X/xs/11/11 Pro Max Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_1080xN.2779013450_qrvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Stitch Iphone 11 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/adorable-stitch-iphone-11-nv13g481onpw7nua.jpg' alt='Adorable Stitch Iphone 11 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/adorable-stitch-iphone-11-nv13g481onpw7nua.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpaper for iPhone 11">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/86/cb/36/86cb36752f3e57a1be9bc0c7d3f26e62.jpg' alt='Cute wallpaper for iPhone 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/86/cb/36/86cb36752f3e57a1be9bc0c7d3f26e62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Super Pretty Wallpaper Backgrounds For iPhone You'll Love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/d9/bc/72d9bc70c6e8294e4665f0386d8a7524.jpg' alt='25 Super Pretty Wallpaper Backgrounds For iPhone You'll Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/d9/bc/72d9bc70c6e8294e4665f0386d8a7524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 2025 screensaver">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/19/dd/dd/19ddddadb971b52f29fb770b0f833805.jpg' alt='Iphone 11 2025 screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/19/dd/dd/19ddddadb971b52f29fb770b0f833805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy 40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26273220/r/il/662228/2826693715/il_570xN.2826693715_as4g.jpg' alt='Buy 40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26273220/r/il/662228/2826693715/il_570xN.2826693715_as4g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6472943.jpg' alt='iPhone 11 Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6472943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Iphone 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sunflowers-and-sky-aesthetic-iphone-11-g3tvkk4j9a5o6jxw.jpg' alt='100+] Aesthetic Iphone 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sunflowers-and-sky-aesthetic-iphone-11-g3tvkk4j9a5o6jxw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Cute HD Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8362300.jpg' alt='iPhone 11 Cute HD Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8362300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="      #Minimal Wallpapers.#iphone 11 lavender.#iphone 11 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/1f/76/231f763e1bc2d287512b46bcf6997325.jpg' alt='      #Minimal Wallpapers.#iphone 11 lavender.#iphone 11 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/1f/76/231f763e1bc2d287512b46bcf6997325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

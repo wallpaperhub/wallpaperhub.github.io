@@ -1,0 +1,129 @@
+<title>Stunning Pictures of Willow Trees: Nature's Graceful Beauties</title>
+                    <meta name="description" content="Discover the enchanting beauty of willow trees through our curated collection of stunning images. Perfect for nature lovers, these pictures showcase the elegant drooping branches and lush leaves that make willow trees a favorite in gardens and landscapes. Enjoy the serene essence of nature!">
+                    <meta name="keywords" content="pictures of a willow tree">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-a-willow-tree">
+                            <span itemprop="name">pictures of a willow tree</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pictures of Willow Trees: Nature's Graceful Beauties</h1>
+                <p>Willow trees, known for their graceful drooping branches and lush green foliage, are a captivating sight. Pictures of these iconic trees capture their beauty in various settings, from serene lakesides to vibrant parks. Explore these stunning images that showcase the willow’s elegance and charm throughout the seasons.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow Tree Guide | Planting & Care Tips for Willow Trees">
+                                <img itemprop="contentUrl url" src='https://www.thetreecenter.com/c/uploads/2014/07/Weeping_Willow_1-copy-jpg.webp' alt='Weeping Willow Tree Guide | Planting & Care Tips for Willow Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tree Center" />
+                                </span>
+                                <a href='https://www.thetreecenter.com/c/uploads/2014/07/Weeping_Willow_1-copy-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keys to the Willow Tree: Cultivation, Uses & Varieties | LoveToKnow">
+                                <img itemprop="contentUrl url" src='https://cf.ltkcdn.net/garden/images/orig/283378-1600x1066-weeping-willow-tree.jpg' alt='Keys to the Willow Tree: Cultivation, Uses & Varieties | LoveToKnow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveToKnow" />
+                                </span>
+                                <a href='https://cf.ltkcdn.net/garden/images/orig/283378-1600x1066-weeping-willow-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow Trees: Versatile Beauty – WholesaleNursery">
+                                <img itemprop="contentUrl url" src='http://www.wholesalenurseryco.com/cdn/shop/articles/backup-article-608587481383.jpg?v=1709935036' alt='Weeping Willow Trees: Versatile Beauty – WholesaleNursery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wholesale Nursery Co" />
+                                </span>
+                                <a href='http://www.wholesalenurseryco.com/cdn/shop/articles/backup-article-608587481383.jpg?v=1709935036' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 2 Weeping Willow Trees - Beautiful Arching Canopy - Grow 2  Golden Weeping Willow Trees : Patio, Lawn & Garden">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71onB2tXNXL.jpg' alt='Amazon.com : 2 Weeping Willow Trees - Beautiful Arching Canopy - Grow 2  Golden Weeping Willow Trees : Patio, Lawn & Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71onB2tXNXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow">
+                                <img itemprop="contentUrl url" src='https://www.thelivingurn.com/cdn/shop/products/1500weeping_willow_M_700x700.jpg?v=1612668339' alt='Weeping Willow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Living Urn" />
+                                </span>
+                                <a href='https://www.thelivingurn.com/cdn/shop/products/1500weeping_willow_M_700x700.jpg?v=1612668339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Grow: Willows- Grow and Care for Willow Trees and Shrubs">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2015/10/12/17/59/tree-984846_960_720.jpg' alt='How to Grow: Willows- Grow and Care for Willow Trees and Shrubs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charlie Nardozzi" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2015/10/12/17/59/tree-984846_960_720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow">
+                                <img itemprop="contentUrl url" src='https://shop-static.arborday.org/media/0003288_weeping-willow.jpeg' alt='Weeping Willow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arbor Day Foundation" />
+                                </span>
+                                <a href='https://shop-static.arborday.org/media/0003288_weeping-willow.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow Tree for Sale | Why You Need One - PlantingTree">
+                                <img itemprop="contentUrl url" src='https://www.plantingtree.com/cdn/shop/articles/weepingwillow3.jpg?v=1590594570' alt='Weeping Willow Tree for Sale | Why You Need One - PlantingTree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlantingTree" />
+                                </span>
+                                <a href='https://www.plantingtree.com/cdn/shop/articles/weepingwillow3.jpg?v=1590594570' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Weeping Willow Trees in Florida ...">
+                                <img itemprop="contentUrl url" src='https://warnertreeservice.com/wp-content/uploads/2021/07/eveyrthingyoueneedtoknowaboutweepingwillowsinflorida2-1024x684.jpeg' alt='Everything You Need to Know About Weeping Willow Trees in Florida ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warner Tree Service" />
+                                </span>
+                                <a href='https://warnertreeservice.com/wp-content/uploads/2021/07/eveyrthingyoueneedtoknowaboutweepingwillowsinflorida2-1024x684.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weeping Willow | Timber Shack">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/99f0c7_ad5a99b05532458383d7dca76661ebef~mv2.jpg/v1/fill/w_480,h_587,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f0c7_ad5a99b05532458383d7dca76661ebef~mv2.jpg' alt='Weeping Willow | Timber Shack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Timber Shack" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/99f0c7_ad5a99b05532458383d7dca76661ebef~mv2.jpg/v1/fill/w_480,h_587,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f0c7_ad5a99b05532458383d7dca76661ebef~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

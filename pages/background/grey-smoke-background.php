@@ -1,0 +1,129 @@
+<title>Captivating Grey Smoke Backgrounds for Stunning Visuals</title>
+                    <meta name="description" content="Explore our collection of grey smoke backgrounds to enhance your designs! Perfect for adding a mysterious and artistic touch, these backgrounds are versatile and ideal for photography, graphic design, and more. Transform your visuals with just a click!">
+                    <meta name="keywords" content="grey smoke background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grey-smoke-background">
+                            <span itemprop="name">grey smoke background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Grey Smoke Backgrounds for Stunning Visuals</h1>
+                <p>Grey smoke backgrounds add a unique, atmospheric touch to any design project. Ideal for creating a moody aesthetic, they work well in various contexts, from photography to digital art. Whether you're aiming for a dramatic effect or a subtle backdrop, grey smoke offers versatility, making your visuals intriguing and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43,100+ Grey Smoke Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/523969993/photo/smoke.jpg?s=612x612&w=0&k=20&c=PhUcFYws322p5yLKS9dYkPhecblN35OSMwezTsH8sHQ=' alt='43,100+ Grey Smoke Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/523969993/photo/smoke.jpg?s=612x612&w=0&k=20&c=PhUcFYws322p5yLKS9dYkPhecblN35OSMwezTsH8sHQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Smoke Background Stock Illustrations – 20,000 Grey Smoke ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/photo-titled-grey-smoke-collage-dark-background-features-stunning-abstract-composition-swirling-image-conveys-334268203.jpg' alt='Grey Smoke Background Stock Illustrations – 20,000 Grey Smoke ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/photo-titled-grey-smoke-collage-dark-background-features-stunning-abstract-composition-swirling-image-conveys-334268203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,300+ Gray Smoke Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/924841558/vector/vector-fog-seamless-tile.jpg?s=612x612&w=0&k=20&c=Um6jkjv1JFZd9whowt-3US8kpeosDjYRw6e4wK2u_7s=' alt='5,300+ Gray Smoke Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/924841558/vector/vector-fog-seamless-tile.jpg?s=612x612&w=0&k=20&c=Um6jkjv1JFZd9whowt-3US8kpeosDjYRw6e4wK2u_7s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Smoke Background Images – Browse 278,801 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/33/74/85/360_F_933748536_1D6xh0Zh4CD7X8wbWFtQok77o3YmwBwx.jpg' alt='Grey Smoke Background Images – Browse 278,801 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/33/74/85/360_F_933748536_1D6xh0Zh4CD7X8wbWFtQok77o3YmwBwx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Grey Smoke Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1585644156378-72d15fa33be5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JleSUyMHNtb2tlfGVufDB8fDB8fHww' alt='50,000+ Grey Smoke Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1585644156378-72d15fa33be5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JleSUyMHNtb2tlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Smoke Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-noise-static-abstract-background-modern-designs_851755-380867.jpg?semt=ais_hybrid' alt='Grey Smoke Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-noise-static-abstract-background-modern-designs_851755-380867.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue/Grey Smoke on Black Background Stock Image - Image of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/27/ee/cb27eeb3a2bd5775087c2f1a171cab1b.jpg' alt='Blue/Grey Smoke on Black Background Stock Image - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/27/ee/cb27eeb3a2bd5775087c2f1a171cab1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant grey fire smoke texture on black background for Your ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/021/064/618/small_2x/elegant-grey-fire-smoke-texture-on-black-background-for-your-design-free-photo.jpg' alt='Elegant grey fire smoke texture on black background for Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/021/064/618/small_2x/elegant-grey-fire-smoke-texture-on-black-background-for-your-design-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Smoke Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-white-abstraction-wallpaper_95678-465.jpg' alt='Grey Smoke Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-white-abstraction-wallpaper_95678-465.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Smoke Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/502/513/small/smoke-on-a-black-background-with-a-bright-light-photo.jpeg' alt='Grey Smoke Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/502/513/small/smoke-on-a-black-background-with-a-bright-light-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

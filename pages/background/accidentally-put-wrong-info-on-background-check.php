@@ -1,0 +1,129 @@
+<title>Correcting Mistakes on Background Checks</title>
+                    <meta name="description" content="Learn what to do if you accidentally provided incorrect information on a background check. Discover how to quickly fix errors to avoid employment delays or denials, ensuring your background check accurately reflects your history.">
+                    <meta name="keywords" content="accidentally put wrong info on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accidentally-put-wrong-info-on-background-check">
+                            <span itemprop="name">accidentally put wrong info on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Correcting Mistakes on Background Checks</h1>
+                <p>Accidentally providing incorrect information during a background check can lead to serious consequences, such as job delays or denial of employment. It's essential to review your details before submission. If you find an error, contact the employer or background check company immediately to rectify the issue and ensure accurate representation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've made a date error on my background check whic... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/ive-made-a-date-error-on-my-background-check-which-was-done-by-hireright-when-i-worked-on-an-internship-from-jun-2020-to-aug-1.png' alt='I've made a date error on my background check whic... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/ive-made-a-date-error-on-my-background-check-which-was-done-by-hireright-when-i-worked-on-an-internship-from-jun-2020-to-aug-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Handle Background Check Errors When A Job Is At Stake">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' alt='How To Handle Background Check Errors When A Job Is At Stake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="False Information on Your Background Check? Here's How a Lawyer ...">
+                                <img itemprop="contentUrl url" src='https://www.sanderslaw.group/wp-content/uploads/2024/06/Blog-4-Banner.png' alt='False Information on Your Background Check? Here's How a Lawyer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanders Law Group" />
+                                </span>
+                                <a href='https://www.sanderslaw.group/wp-content/uploads/2024/06/Blog-4-Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1383">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do: Incorrect Information on Your Background Check | InfoMart">
+                                <img itemprop="contentUrl url" src='https://infomart-usa.com/wp-content/uploads/2015/04/What-to-Do-If-Your-Background-Check-Has-an-Error.jpg' alt='What to Do: Incorrect Information on Your Background Check | InfoMart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1544">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InfoMart" />
+                                </span>
+                                <a href='https://infomart-usa.com/wp-content/uploads/2015/04/What-to-Do-If-Your-Background-Check-Has-an-Error.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Check: How to Inform a Job Candidate">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' alt='Failed Background Check: How to Inform a Job Candidate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy-2.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1361">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to dispute background check errors that cost you a job">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy.jpg' alt='How to dispute background check errors that cost you a job'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1373">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/12/Employment-Background-Check-Errors-IG-01-copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Handle Background Check Errors When A Job Is At Stake">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2020/03/background-check-errors-cause-job-loss.jpg' alt='How To Handle Background Check Errors When A Job Is At Stake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2020/03/background-check-errors-cause-job-loss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pride Wallpapers for iPhone: Celebrate Love & Diversity</title>
+                    <meta name="description" content="Discover dazzling pride wallpapers for your iPhone! Celebrate love and inclusion with vibrant designs that let you express your identity and support for the LGBTQ+ community. Explore a variety of eye-catching styles and personalize your device while making a bold statement of pride.">
+                    <meta name="keywords" content="pride wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pride-wallpaper-iphone">
+                            <span itemprop="name">pride wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pride Wallpapers for iPhone: Celebrate Love & Diversity</h1>
+                <p>Pride wallpaper for iPhone brings vibrancy and celebration to your device screen. Embrace love and diversity with stunning designs featuring rainbow patterns and symbols of equality. Personalize your phone with high-quality, eye-catching wallpapers that showcase your pride, making a bold statement every time you unlock your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Caption: Empowering LGBT Pride iPhone Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lgbt-pride-iphone-3giy5elva7hzsvmn.jpg' alt='Download Caption: Empowering LGBT Pride iPhone Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lgbt-pride-iphone-3giy5elva7hzsvmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pride Aesthetic Iphone Screen Theme Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pride-aesthetic-k1lns9fldnlxwinl.jpg' alt='Download Pride Aesthetic Iphone Screen Theme Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pride-aesthetic-k1lns9fldnlxwinl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Pride (Dark) V2 - iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37807868/r/il/d9b56f/6048921256/il_570xN.6048921256_67ia.jpg' alt='Rainbow Pride (Dark) V2 - iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37807868/r/il/d9b56f/6048921256/il_570xN.6048921256_67ia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Pride Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Pride_iPad2.png' alt='Apple Pride Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Pride_iPad2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Wallpaper iPhone in JPG - Download | Template.net">
+                                <img itemprop="contentUrl url" src='https://images.template.net/95940/pride-wallpaper-iphone-qhl7w.jpg' alt='Pride Wallpaper iPhone in JPG - Download | Template.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/95940/pride-wallpaper-iphone-qhl7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pride wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/676/895/HD-wallpaper-ios-16-and-ipados-16-pride-thumbnail.jpg' alt='HD pride wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/676/895/HD-wallpaper-ios-16-and-ipados-16-pride-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Pride 2023 inspired wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/05/Apple-Pride-2023-inspired-wallpaper-by-AR72014.jpg' alt='Apple Pride 2023 inspired wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/05/Apple-Pride-2023-inspired-wallpaper-by-AR72014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Pride | Pride Wallpaper | Love Wins | Pride Background | LGBTQ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/47/9d/9b479d9a0b0a20c9856cfd12a78e1302.jpg' alt='Happy Pride | Pride Wallpaper | Love Wins | Pride Background | LGBTQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/47/9d/9b479d9a0b0a20c9856cfd12a78e1302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the New Apple 'Pride Radiance' Wallpaper Here - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/93554/447501/447501.jpg' alt='Download the New Apple 'Pride Radiance' Wallpaper Here - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/93554/447501/447501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Pride Wallpaper Ideas for iPhones and Phones : Rainbow on Peach ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/fa/39/aafa394cdb198bf885d1a3c02fd5afaf.jpg' alt='7 Pride Wallpaper Ideas for iPhones and Phones : Rainbow on Peach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/fa/39/aafa394cdb198bf885d1a3c02fd5afaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

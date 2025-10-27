@@ -1,0 +1,129 @@
+<title>Brighten Up Your Space with Yellow Geometric Wallpaper</title>
+                    <meta name="description" content="Discover the vibrant charm of yellow geometric wallpaper! Perfect for updating any room, it combines modern design with uplifting color to enhance your decor. Explore our collection and transform your space into a lively, stylish atmosphere! Ideal for mobile browsing.">
+                    <meta name="keywords" content="geometric wallpaper yellow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/geometric-wallpaper-yellow">
+                            <span itemprop="name">geometric wallpaper yellow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Up Your Space with Yellow Geometric Wallpaper</h1>
+                <p>Geometric wallpaper in vibrant yellow adds a fresh touch to any space. Its bold patterns and sunny hues create an energetic atmosphere, perfect for modern interiors. Whether used in a living room, bedroom, or office, yellow geometric wallpaper enhances decor with a pop of color while maintaining a stylish and contemporary feel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Geometric Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-gold-geometric-vector-background_322958-361.jpg?semt=ais_hybrid' alt='Yellow Geometric Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-gold-geometric-vector-background_322958-361.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puzzle Yellow Geometric Wallpaper | Astek">
+                                <img itemprop="contentUrl url" src='https://www.astek.com/cdn/shop/products/2697-22623_puzzle_yellow_geometric_wallpaper_PUZZLEYELLOWGEOMETRICWALLPAPER_740x.jpg?v=1696629001' alt='Puzzle Yellow Geometric Wallpaper | Astek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek" />
+                                </span>
+                                <a href='https://www.astek.com/cdn/shop/products/2697-22623_puzzle_yellow_geometric_wallpaper_PUZZLEYELLOWGEOMETRICWALLPAPER_740x.jpg?v=1696629001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Lines Geometric Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallvy.com/pic/ga/tap/701-130/l/yellow-lines-geometric-wallpaper.jpg' alt='Yellow Lines Geometric Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallvy" />
+                                </span>
+                                <a href='https://wallvy.com/pic/ga/tap/701-130/l/yellow-lines-geometric-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow & Grey Triangles 3D Geometric Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/geometric_120203954_1x1-01-sw_grande.jpg?v=1614642477' alt='Yellow & Grey Triangles 3D Geometric Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/geometric_120203954_1x1-01-sw_grande.jpg?v=1614642477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow white geometric background wallpaper Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/13/76/yellow-white-geometric-background-wallpaper-vector-21931376.jpg' alt='Yellow white geometric background wallpaper Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/13/76/yellow-white-geometric-background-wallpaper-vector-21931376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Geometric Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/yellow-geometric-shape-background_1409-1112.jpg' alt='Yellow Geometric Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/yellow-geometric-shape-background_1409-1112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Geometric Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/yellow-geometric-on7mnrlkxi6409ft-3.jpg' alt='Yellow Geometric Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/yellow-geometric-on7mnrlkxi6409ft-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Geometric Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/071/465/small/abstract-yellow-diagonal-stripes-geometric-with-halftone-effect-background-vector.jpg' alt='Yellow Geometric Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/071/465/small/abstract-yellow-diagonal-stripes-geometric-with-halftone-effect-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apex Geometric Wallpaper Yellow and Gray Fine Decor FD41991">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/2b8aab1be163f01ae728c9388cefd68c/d/e/dec130_apex_geometric_wallpaper_yellow_ae1.jpg' alt='Apex Geometric Wallpaper Yellow and Gray Fine Decor FD41991'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/2b8aab1be163f01ae728c9388cefd68c/d/e/dec130_apex_geometric_wallpaper_yellow_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Happy Grady Geometric Wallpaper - Yellow">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/4081-26321.jpg?v=1652372805' alt='A-Street Prints Happy Grady Geometric Wallpaper - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/4081-26321.jpg?v=1652372805' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

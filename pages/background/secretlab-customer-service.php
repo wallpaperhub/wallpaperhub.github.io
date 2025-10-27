@@ -1,0 +1,129 @@
+<title>Exceptional Support: Secretlab Customer Service</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="secretlab customer service">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/secretlab-customer-service">
+                            <span itemprop="name">secretlab customer service</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exceptional Support: Secretlab Customer Service</h1>
+                <p>Secretlab's customer service sets a standard in the gaming industry. With dedicated support representatives available 24/7, customers can expect prompt and helpful responses to inquiries. Whether you need assistance with product setup, warranty claims, or general questions, Secretlab’s team is committed to ensuring a seamless customer experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/contact-titan-chair.png' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1238">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/contact-titan-chair.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/social_meta_main-min.jpg' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/social_meta_main-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help customer service : r/secretlab">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-customer-service-v0-9uoo36jpooac1.jpeg?auto=webp&s=a35b61d040bb78c497d7d0b863dbced08bcfca92' alt='Help customer service : r/secretlab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-customer-service-v0-9uoo36jpooac1.jpeg?auto=webp&s=a35b61d040bb78c497d7d0b863dbced08bcfca92' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/contact-warranty-neuechair-01.jpg' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/contact-warranty-neuechair-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming Chairs | Secretlab TITAN Evo | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/turntable/tr:n-w_750/R22PU-Stealth_02.jpg' alt='Gaming Chairs | Secretlab TITAN Evo | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/turntable/tr:n-w_750/R22PU-Stealth_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/contact-warranty-XScasters-01.jpg' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/contact-warranty-XScasters-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/contact-warranty-magpro-box2-01.jpg' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/contact-warranty-magpro-box2-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secretlab OMEGA 2020 Gaming Chair | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://secretlab.co/cdn/shop/collections/collection-omega-series_grande.png?v=1580878326' alt='Secretlab OMEGA 2020 Gaming Chair | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://secretlab.co/cdn/shop/collections/collection-omega-series_grande.png?v=1580878326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customer service was no help and I'm now stuck with an expensive ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/customer-service-was-no-help-and-im-now-stuck-with-an-v0-ki2b068kreac1.jpg?width=1080&crop=smart&auto=webp&s=86fdd8f6d6f28baf2619fbb9e80d82b626a2267c' alt='Customer service was no help and I'm now stuck with an expensive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/customer-service-was-no-help-and-im-now-stuck-with-an-v0-ki2b068kreac1.jpg?width=1080&crop=smart&auto=webp&s=86fdd8f6d6f28baf2619fbb9e80d82b626a2267c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | Secretlab US">
+                                <img itemprop="contentUrl url" src='https://images.secretlab.co/theme/common/contact-modal-serialno-01-min.jpg' alt='Contact Us | Secretlab US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secretlab" />
+                                </span>
+                                <a href='https://images.secretlab.co/theme/common/contact-modal-serialno-01-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

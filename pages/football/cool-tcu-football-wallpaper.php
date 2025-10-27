@@ -1,0 +1,129 @@
+<title>Cool TCU Football Wallpaper for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cool tcu football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/cool-tcu-football-wallpaper">
+                            <span itemprop="name">cool tcu football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool TCU Football Wallpaper for Fans</h1>
+                <p>Elevate your game day experience with stunning TCU football wallpaper! Show off your Horned Frogs spirit by decorating your devices with vibrant designs that capture the thrill of the game. From dynamic action shots to sleek team logos, find the perfect wallpaper to showcase your unwavering support for TCU football.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 TCU ideas | tcu, tcu football, football uniforms">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/5b/7e/595b7ea4fcbafa0e7031fc06e53d4b8b.jpg' alt='31 TCU ideas | tcu, tcu football, football uniforms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/5b/7e/595b7ea4fcbafa0e7031fc06e53d4b8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TCU Football on X: "A little Wallpaper Wednesday for your phones ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FPH_aEEVEAAtlXh.jpg:large' alt='TCU Football on X: "A little Wallpaper Wednesday for your phones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FPH_aEEVEAAtlXh.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - TCU Athletics">
+                                <img itemprop="contentUrl url" src='https://gofrogs.com/images/2015/10/5/utwallpaper.jpg' alt='Wallpapers - TCU Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TCU Athletics" />
+                                </span>
+                                <a href='https://gofrogs.com/images/2015/10/5/utwallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tcu wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/341/30/HD-wallpaper-tcu2-tcu-horned-frogs-teams.jpg' alt='HD tcu wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/341/30/HD-wallpaper-tcu2-tcu-horned-frogs-teams.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tcu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/bf/63/67bf63d08330385dc69fc1fcc1105435.jpg' alt='tcu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/bf/63/67bf63d08330385dc69fc1fcc1105435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football: Four-Star wide receiver Gekyle Baker commits to TCU ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/BrY4cvR6rwxFpf7221L-1AlJwds=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24749829/gekyle.jpg' alt='Football: Four-Star wide receiver Gekyle Baker commits to TCU ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frogs O' War" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/BrY4cvR6rwxFpf7221L-1AlJwds=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24749829/gekyle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TCU Football Recruiting 2020 :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/c5a81f110040361.5fe2201816ffe.jpg' alt='TCU Football Recruiting 2020 :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/c5a81f110040361.5fe2201816ffe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football: Four-star 2025 EDGE Chad Woodfork commits to TCU - Frogs ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/6VCKKFwItg4aNVLEOBvLH1M7owE=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25474199/GO7790TWUAAFDUJ.jpg' alt='Football: Four-star 2025 EDGE Chad Woodfork commits to TCU - Frogs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frogs O' War" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/6VCKKFwItg4aNVLEOBvLH1M7owE=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25474199/GO7790TWUAAFDUJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tcu wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/164/241/HD-wallpaper-tcu-horned-frogs-teams.jpg' alt='HD tcu wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/164/241/HD-wallpaper-tcu-horned-frogs-teams.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="does this qualify as an ootd? #GoFrogs | #AllSteakNoSizzle">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3180955815702199142' alt='does this qualify as an ootd? #GoFrogs | #AllSteakNoSizzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3180955815702199142' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

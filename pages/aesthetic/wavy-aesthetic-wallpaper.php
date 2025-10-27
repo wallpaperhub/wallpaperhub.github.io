@@ -1,0 +1,129 @@
+<title>Transform Your Space with Wavy Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover stunning wavy aesthetic wallpaper that revitalizes your home decor. With flowing patterns and vibrant colors, our collection creates a calming atmosphere. Perfect for modern interiors, elevate your walls and express your unique style effortlessly. Explore now for the best designs!">
+                    <meta name="keywords" content="wavy aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wavy-aesthetic-wallpaper">
+                            <span itemprop="name">wavy aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Wavy Aesthetic Wallpaper</h1>
+                <p>Wavy aesthetic wallpaper adds a contemporary touch to any space, featuring fluid patterns and vibrant colors that evoke a sense of tranquility and movement. Perfect for creating a relaxed ambiance, this wallpaper complements modern decor styles while enhancing your interior's visual appeal. Transform your walls into an artful statement with wavy designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wavy aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/54/f1/5754f16fac2b7f47669ef892b6802085.jpg' alt='wavy aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/54/f1/5754f16fac2b7f47669ef892b6802085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace the Alluring Wavy Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/06/82/3706824eeb18821b7733cd82b661e5be.jpg' alt='Embrace the Alluring Wavy Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/06/82/3706824eeb18821b7733cd82b661e5be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pixel 5 Wavy Aesthetic Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-5-wavy-aesthetic-pattern-vad8ix0siuerwbol.jpg' alt='Download Pixel 5 Wavy Aesthetic Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-5-wavy-aesthetic-pattern-vad8ix0siuerwbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Swirl Groovy Pattern. Seventies Style, Hippie Background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/016/122/805/non_2x/wavy-swirl-groovy-pattern-seventies-style-hippie-background-psychedelic-wave-wallpaper-hand-drawn-flat-illustration-free-vector.jpg' alt='Wavy Swirl Groovy Pattern. Seventies Style, Hippie Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/016/122/805/non_2x/wavy-swirl-groovy-pattern-seventies-style-hippie-background-psychedelic-wave-wallpaper-hand-drawn-flat-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/2f/93/9e2f939698ef10b34e439f5666887020.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/2f/93/9e2f939698ef10b34e439f5666887020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Creative abstract aesthetic wavy shapes ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/creative-abstract-aesthetic-wavy-shapes-background-with-pastel-color_545556-617.jpg' alt='Premium Vector | Creative abstract aesthetic wavy shapes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/creative-abstract-aesthetic-wavy-shapes-background-with-pastel-color_545556-617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Colorful Abstract Pattern With Wavy Lines Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/colorful-aesthetic-pa2kse0tx7t9vyqa.jpg' alt='Download A Colorful Abstract Pattern With Wavy Lines Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="997">
+                                <meta itemprop="height" content="1773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/colorful-aesthetic-pa2kse0tx7t9vyqa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange wavy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/d0/81/36d0814b0c536912f63215f15dd6d199.jpg' alt='Orange wavy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/d0/81/36d0814b0c536912f63215f15dd6d199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970 Wavy Swirl Pattern. Hand-Drawn Vector Illustration. Seventies ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/010/890/532/non_2x/1970-wavy-swirl-pattern-hand-drawn-illustration-seventies-style-groovy-background-wallpaper-print-flat-design-hippie-aesthetic-pastel-summer-sunset-waves-vector.jpg' alt='1970 Wavy Swirl Pattern. Hand-Drawn Vector Illustration. Seventies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/010/890/532/non_2x/1970-wavy-swirl-pattern-hand-drawn-illustration-seventies-style-groovy-background-wallpaper-print-flat-design-hippie-aesthetic-pastel-summer-sunset-waves-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wavy Background Aesthetic Vsco Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-wavy-background-aesthetic-vsco-ysw9cq5xz9ht8tqb.jpg' alt='Vintage Wavy Background Aesthetic Vsco Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-wavy-background-aesthetic-vsco-ysw9cq5xz9ht8tqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

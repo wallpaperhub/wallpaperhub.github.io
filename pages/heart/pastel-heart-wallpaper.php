@@ -1,0 +1,129 @@
+<title>Charming Pastel Heart Wallpaper for a Whimsical Touch</title>
+                    <meta name="description" content="Discover delightful pastel heart wallpaper to brighten your space! Ideal for nurseries and accent walls, these easy-to-apply designs bring warmth and joy to any room. Refresh your decor with this whimsical and charming touch—perfect for expressing creativity and affection!">
+                    <meta name="keywords" content="pastel heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/pastel-heart-wallpaper">
+                            <span itemprop="name">pastel heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Heart Wallpaper for a Whimsical Touch</h1>
+                <p>Transform your space with charming pastel heart wallpaper that adds a whimsical touch to any room. Perfect for nurseries, kids' rooms, or even a playful accent wall, these soft hues create a cozy and inviting atmosphere. Easy to apply and remove, pastel heart wallpaper offers a delightful way to express creativity and love in your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background, lock screen. 'mixed pastel hearts' (5)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/8a/c3/9d8ac38e7391ca9e98fcbe3a8f74c7d7.jpg' alt='Phone wallpaper, background, lock screen. 'mixed pastel hearts' (5)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/8a/c3/9d8ac38e7391ca9e98fcbe3a8f74c7d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-heart-aesthetic-ey06no9pb9rrhvgs.jpg' alt='Pastel Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-heart-aesthetic-ey06no9pb9rrhvgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Hearts More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/8c/8a/838c8ab58c57dd47a168331e2ce1beae.jpg' alt='Pastel Hearts More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/8c/8a/838c8ab58c57dd47a168331e2ce1beae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Hearts Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-flat-design-heart-pastel-color-background_921039-47.jpg' alt='Pastel Hearts Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-flat-design-heart-pastel-color-background_921039-47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple-pink Wildflower Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-purple-pink-wildflower-heart-2teaar2jkyradrlv.jpg' alt='Pastel Purple-pink Wildflower Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-purple-pink-wildflower-heart-2teaar2jkyradrlv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Paint Hearts Wallpaper, Pastel Hearts iPad Wallpaper Aesthetic  Background, Heart Pattern Pink Background Tablet, Digital Wallpaper">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/ART_20230131-214425_AdobeExpress_AdobeExpress_zudvoa.jpg' alt='Oil Paint Hearts Wallpaper, Pastel Hearts iPad Wallpaper Aesthetic  Background, Heart Pattern Pink Background Tablet, Digital Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/ART_20230131-214425_AdobeExpress_AdobeExpress_zudvoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L3Jhd3BpeGVsb2ZmaWNlMTJfaWxsdXN0cmF0aW9uX29mX2JsdXJyZWRfZ3JhZGllbnRfcmFpbmJvd19iYWNrZ18xNTQ4MjU2MS0yNWIyLTRjNTUtODljOS0wMzViZGMxMWQ2NDYuanBn.jpg' alt='Pastel Heart Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA0L3Jhd3BpeGVsb2ZmaWNlMTJfaWxsdXN0cmF0aW9uX29mX2JsdXJyZWRfZ3JhZGllbnRfcmFpbmJvd19iYWNrZ18xNTQ4MjU2MS0yNWIyLTRjNTUtODljOS0wMzViZGMxMWQ2NDYuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Heart Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/pastel-heart-aesthetic-wallpaper-1.webp' alt='Pastel Heart Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/pastel-heart-aesthetic-wallpaper-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel hearts seamless wallpaper - PatternPictures">
+                                <img itemprop="contentUrl url" src='https://www.patternpictures.com/wp-content/uploads/pastel-hearts-seamless-patternpictures-1912.png' alt='Pastel hearts seamless wallpaper - PatternPictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PatternPictures" />
+                                </span>
+                                <a href='https://www.patternpictures.com/wp-content/uploads/pastel-hearts-seamless-patternpictures-1912.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background, lock screen. ' pastel hearts with ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/2b/f7/992bf7a07605593f2dde3fe84a8f07e1.jpg' alt='Phone wallpaper, background, lock screen. ' pastel hearts with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/2b/f7/992bf7a07605593f2dde3fe84a8f07e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

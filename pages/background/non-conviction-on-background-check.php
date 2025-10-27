@@ -1,0 +1,129 @@
+<title>Understanding Non-Convictions in Background Checks</title>
+                    <meta name="description" content="Explore the implications of non-convictions on background checks. Learn how they are reported, their impact on employment and housing, and what applicants should know for better outcomes. Gain insights to navigate background checks confidently.">
+                    <meta name="keywords" content="non conviction on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/non-conviction-on-background-check">
+                            <span itemprop="name">non conviction on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Non-Convictions in Background Checks</h1>
+                <p>When undergoing a background check, a non-conviction means that an individual has not been convicted of a crime. This can greatly influence hiring processes, eligibility for housing, and more. It's important to understand how non-convictions are reported and perceived, as they often still appear—but signify no guilty verdict.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Non Conviction Record Destruction, Criminal Record?">
+                                <img itemprop="contentUrl url" src='https://nationalpardon.org/wp-content/uploads/2014/01/Non-Conviction-Record-Destruction-2.jpg' alt='Non Conviction Record Destruction, Criminal Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Pardon Centre" />
+                                </span>
+                                <a href='https://nationalpardon.org/wp-content/uploads/2014/01/Non-Conviction-Record-Destruction-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choosing the Right Reporting Period for Your Criminal Background ...">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Imported_Blog_Media/White-Paper-Dismissed-Criminal-Records-Other-Non-Conviction-Data-Blog-CTA-Cisive-1024x388.png?width=525&height=199&name=White-Paper-Dismissed-Criminal-Records-Other-Non-Conviction-Data-Blog-CTA-Cisive-1024x388.png' alt='Choosing the Right Reporting Period for Your Criminal Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Imported_Blog_Media/White-Paper-Dismissed-Criminal-Records-Other-Non-Conviction-Data-Blog-CTA-Cisive-1024x388.png?width=525&height=199&name=White-Paper-Dismissed-Criminal-Records-Other-Non-Conviction-Data-Blog-CTA-Cisive-1024x388.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New HUD Guidelines and Best Practices for Criminal Background ...">
+                                <img itemprop="contentUrl url" src='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' alt='New HUD Guidelines and Best Practices for Criminal Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kelley, Grant, & Tanis, P.A." />
+                                </span>
+                                <a href='https://kelleygrantlaw.com/wp-content/uploads/sites/55/2020/12/Screen-Shot-2016-04-19-at-10.44.03-AM-600x458-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Background Report - Edge Information">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' alt='How to Read a Background Report - Edge Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omitting Non-Conviction Records In Background Checks">
+                                <img itemprop="contentUrl url" src='https://s2verify.com/wp-content/uploads/2024/04/The-Significance-of-Omitting-Non-Conviction-Records-in-Background-Checks.png' alt='Omitting Non-Conviction Records In Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="S2Verify" />
+                                </span>
+                                <a href='https://s2verify.com/wp-content/uploads/2024/04/The-Significance-of-Omitting-Non-Conviction-Records-in-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Non-Adjudication Show on a Background Check? | MS DUI">
+                                <img itemprop="contentUrl url" src='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi-1.jpg' alt='Will A Non-Adjudication Show on a Background Check? | MS DUI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drunk Driving Defense" />
+                                </span>
+                                <a href='https://www.drunkdrivingdefense.com/wp-content/uploads/2025/02/Will-A-Non-Adjudication-Show-On-A-Background-Check-in-Mississippi-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

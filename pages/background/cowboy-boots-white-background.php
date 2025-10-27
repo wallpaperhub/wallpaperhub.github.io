@@ -1,0 +1,129 @@
+<title>Stylish Cowboy Boots on White Background</title>
+                    <meta name="description" content="Discover the allure of cowboy boots against a crisp white background. Explore styles that blend tradition with modern flair, making them a versatile addition to your wardrobe. Perfect for various occasions, these boots capture the essence of western charm and individuality. Shop now and step into style!">
+                    <meta name="keywords" content="cowboy boots white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cowboy-boots-white-background">
+                            <span itemprop="name">cowboy boots white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Cowboy Boots on White Background</h1>
+                <p>Cowboy boots are a timeless fashion statement, showcasing a blend of rugged style and western charm. The contrast of these iconic boots against a white background enhances their intricate detail, from leather craftsmanship to unique embellishments. Perfect for both everyday wear and special occasions, cowboy boots embody a spirit of adventure and individuality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Cowboy Boots On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/92106388/photo/cowboy-boots.jpg?s=612x612&w=0&k=20&c=0F-ixfcGio5RSIL8sQrPdrXXEvMojp8ofKS8m6Ro_Rg=' alt='2,700+ Cowboy Boots On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/92106388/photo/cowboy-boots.jpg?s=612x612&w=0&k=20&c=0F-ixfcGio5RSIL8sQrPdrXXEvMojp8ofKS8m6Ro_Rg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Cowgirl Boots">
+                                <img itemprop="contentUrl url" src='http://www.vaqueroboots.com/cdn/shop/products/Z5046-boot-03.jpg?v=1655249631&width=2048' alt='White Cowgirl Boots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vaquero Boots" />
+                                </span>
+                                <a href='http://www.vaqueroboots.com/cdn/shop/products/Z5046-boot-03.jpg?v=1655249631&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy boot white background Cut Out Stock Images & Pictures - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RFFGCM/pair-of-new-cowboy-boots-brown-and-yellow-isolate-against-white-background-RFFGCM.jpg' alt='Cowboy boot white background Cut Out Stock Images & Pictures - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RFFGCM/pair-of-new-cowboy-boots-brown-and-yellow-isolate-against-white-background-RFFGCM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/brown-cowboy-boots-600nw-209192050.jpg' alt='11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="399">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/brown-cowboy-boots-600nw-209192050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/watercolor-cowboy-boots-painting-isolated-600nw-2431095367.jpg' alt='11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/watercolor-cowboy-boots-painting-isolated-600nw-2431095367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/leather-cowgirl-boots-embroidery-hat-600nw-2188351783.jpg' alt='11,480 Cowboy Boots White Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/leather-cowgirl-boots-embroidery-hat-600nw-2188351783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy boot stock image. Image of head, west, white, spur - 1785977">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/64/18/ef6418b7df50317273e7fe1e8af42585.jpg' alt='Cowboy boot stock image. Image of head, west, white, spur - 1785977'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/64/18/ef6418b7df50317273e7fe1e8af42585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Boots Free Stock Photo - Public Domain Pictures">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/110000/nahled/cowboy-boots.jpg' alt='Cowboy Boots Free Stock Photo - Public Domain Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/110000/nahled/cowboy-boots.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladies Brown Western Cowboy Boots Stock Photo - Image of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/ladies-brown-western-cowboy-boots-pair-coyboy-isolated-white-background-34192090.jpg' alt='Ladies Brown Western Cowboy Boots Stock Photo - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/ladies-brown-western-cowboy-boots-pair-coyboy-isolated-white-background-34192090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather cowboy boots on white background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/72/03/95/1000_F_472039507_bbE7FHNZPVXAkszm66j8KFOZX1KcbCI1.jpg' alt='Leather cowboy boots on white background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/72/03/95/1000_F_472039507_bbE7FHNZPVXAkszm66j8KFOZX1KcbCI1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

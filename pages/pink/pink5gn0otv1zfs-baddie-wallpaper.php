@@ -1,0 +1,129 @@
+<title>Trendy Pink Baddie Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover eye-catching pink baddie wallpapers designed to elevate your mobile experience. Perfect for style lovers, these vibrant wallpapers showcase your unique personality and add a touch of confidence to your screen. Explore our curated collection and find your favorite today!">
+                    <meta name="keywords" content="pink:5gn0otv1zfs= baddie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink5gn0otv1zfs-baddie-wallpaper">
+                            <span itemprop="name">pink:5gn0otv1zfs= baddie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pink Baddie Wallpapers for Your Phone</h1>
+                <p>Looking for the perfect baddie wallpaper in vibrant pink? Elevate your device's aesthetic with stunning pink baddie wallpapers that exude confidence and style. Whether you prefer bold graphics or soft pastels, our collection delivers unique designs to showcase your personality. Transform your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Baddie Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18363275/r/il/9daca3/3043049945/il_fullxfull.3043049945_psto.jpg' alt='Pink Baddie Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2967">
+                                <meta itemprop="height" content="2209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18363275/r/il/9daca3/3043049945/il_fullxfull.3043049945_psto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pink baddie wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/672/432/HD-wallpaper-pink-baddie-335024678070201-barbie-baddie-aesthetic.jpg' alt='HD pink baddie wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/672/432/HD-wallpaper-pink-baddie-335024678070201-barbie-baddie-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pink baddie wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie.jpg' alt='HD pink baddie wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/228/HD-wallpaper-pink-baddie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Aesthetic Wallpaper Pink Pink Purple Baddie Aesthetic 142">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/95/22/de/9522deaf2866da34afb0134b99855c40.jpg' alt='Baddie Aesthetic Wallpaper Pink Pink Purple Baddie Aesthetic 142'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/95/22/de/9522deaf2866da34afb0134b99855c40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink baddie wallpaper!  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' alt='Pink baddie wallpaper!  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/fe/82/11fe821775de0c3702bada52747177fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Baddie Vibe Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pink-baddie-vibe-collage-7on3tstq3k1e7ylg.jpg' alt='Pink Baddie Vibe Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pink-baddie-vibe-collage-7on3tstq3k1e7ylg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Baddie Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/ae/20/b4ae204ec96224f0d6ce9e66dc862d16.jpg' alt='Hot Pink Baddie Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/ae/20/b4ae204ec96224f0d6ce9e66dc862d16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images Pink Baddie Aesthetic : Baddie Pink Wallpapers | Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/cb/0c/2ccb0c0ad8894c79bb254ebc7aac9eef.jpg' alt='Images Pink Baddie Aesthetic : Baddie Pink Wallpapers | Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/cb/0c/2ccb0c0ad8894c79bb254ebc7aac9eef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty In Pink Pink Baddie Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pretty-in-pink-pink-baddie-collage-ilexrtl25a96z28l.jpg' alt='Pretty In Pink Pink Baddie Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pretty-in-pink-pink-baddie-collage-ilexrtl25a96z28l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images Pink Baddie Aesthetic : Aesthetic, Funny, And Gif By Paola 314">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e3/e9/c0/e3e9c0ca436d83974f5e1454bc272701.jpg' alt='Images Pink Baddie Aesthetic : Aesthetic, Funny, And Gif By Paola 314'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e3/e9/c0/e3e9c0ca436d83974f5e1454bc272701.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

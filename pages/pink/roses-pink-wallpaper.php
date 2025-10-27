@@ -1,0 +1,129 @@
+<title>Beautiful Pink Rose Wallpaper for Every Room</title>
+                    <meta name="description" content="Transform your home with exquisite pink rose wallpaper. Perfect for adding elegance and charm to any space, this floral design creates a tranquil environment. Discover a variety of styles to enhance your interiors while enjoying the beauty of nature indoors. Shop now for the perfect wallpaper!">
+                    <meta name="keywords" content="roses pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/roses-pink-wallpaper">
+                            <span itemprop="name">roses pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Pink Rose Wallpaper for Every Room</h1>
+                <p>Enhance your space with stunning pink rose wallpaper, perfect for creating a romantic and inviting atmosphere. Whether you prefer bold floral patterns or subtle pastel shades, pink rose wallpaper adds elegance and charm to any room. Ideal for bedrooms, living areas, or offices, this wallpaper offers a touch of nature indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/d9/19/a6d9191f57b7907898cef937bb5efe02.jpg' alt='Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/d9/19/a6d9191f57b7907898cef937bb5efe02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' alt='ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Rose Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-rose-iphone-x3jyvgmgdmdagiyf.jpg' alt='100+] Pink Rose Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-rose-iphone-x3jyvgmgdmdagiyf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flowers Roses - Free photo on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2017/04/21/17/44/pink-2249403_1280.jpg' alt='Pink Flowers Roses - Free photo on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2017/04/21/17/44/pink-2249403_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Cute Pink Wallpapers For iPhone That You'll Love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bc/7b/3e/bc7b3e9543b0127f020a9590fd94e569.jpg' alt='25 Cute Pink Wallpapers For iPhone That You'll Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bc/7b/3e/bc7b3e9543b0127f020a9590fd94e569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower wallpaper rose valentine nature bouquet wedding pink ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/032/169/892/large_2x/flower-wallpaper-rose-valentine-nature-bouquet-wedding-pink-background-beauty-flora-bloom-colorful-detail-photo.jpg' alt='Flower wallpaper rose valentine nature bouquet wedding pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/032/169/892/large_2x/flower-wallpaper-rose-valentine-nature-bouquet-wedding-pink-background-beauty-flora-bloom-colorful-detail-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Pink Roses Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/painted-pink-roses-rugsvmriv177o39t.jpg' alt='Painted Pink Roses Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1061">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/painted-pink-roses-rugsvmriv177o39t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Roses Photos, Download The BEST Free Pink Roses Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1231265/pexels-photo-1231265.jpeg' alt='Pink Roses Photos, Download The BEST Free Pink Roses Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2748">
+                                <meta itemprop="height" content="3732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1231265/pexels-photo-1231265.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Red Roses Bouquet Background" by Stocksy Contributor ...">
+                                <img itemprop="contentUrl url" src='https://c.stocksy.com/a/trq300/z9/918213.jpg' alt='Pink And Red Roses Bouquet Background" by Stocksy Contributor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stocksy" />
+                                </span>
+                                <a href='https://c.stocksy.com/a/trq300/z9/918213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Pink Roses Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1589458456444-f7158a7e8a4f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGluayUyMHJvc2VzfGVufDB8fDB8fHww' alt='1000+ Pink Roses Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1589458456444-f7158a7e8a4f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGluayUyMHJvc2VzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

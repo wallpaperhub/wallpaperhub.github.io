@@ -1,0 +1,129 @@
+<title>"Mary Did You Know? Exploring Its Meaning and Legacy"</title>
+                    <meta name="description" content="Discover the timeless message of "Mary, Did You Know?" Explore the song's touching themes about Mary’s role in the nativity and the impact of her son, Jesus, on humanity. Dive into its legacy and significance during festive seasons. Perfect for fans of inspirational music!">
+                    <meta name="keywords" content="mary did you know">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mary-did-you-know">
+                            <span itemprop="name">mary did you know</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Mary Did You Know? Exploring Its Meaning and Legacy"</h1>
+                <p>"Mary, Did You Know?" is a poignant reflection on the profound significance of the Virgin Mary in the story of Jesus Christ. This song contemplates the extraordinary events surrounding his birth and the incredible life he would lead. Did Mary foresee her child's divine purpose and the love he would bring to the world?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[SING-ALONG VIDEO] Mary, Did You Know? – Pentatonix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/trW_lD9sBt0/mqdefault.jpg' alt='[SING-ALONG VIDEO] Mary, Did You Know? – Pentatonix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/trW_lD9sBt0/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carrie Underwood - Mary, Did You Know? (Official Audio Video)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/O_pae1ZfxWw/maxresdefault.jpg' alt='Carrie Underwood - Mary, Did You Know? (Official Audio Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/O_pae1ZfxWw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y'all need to chill about “Mary, Did You Know?"">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f04b630-be34-4fa8-9ab6-dd4f96f04c72_904x527.png' alt='Y'all need to chill about “Mary, Did You Know?"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manipulate  , Moonsplain  , Murder-Bears - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f04b630-be34-4fa8-9ab6-dd4f96f04c72_904x527.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mary Did You Know? (Part 1) – Practical Theology Today">
+                                <img itemprop="contentUrl url" src='https://practicaltheologytoday.com/wp-content/uploads/2021/12/mary1.jpg?w=450' alt='Mary Did You Know? (Part 1) – Practical Theology Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Practical Theology Today" />
+                                </span>
+                                <a href='https://practicaltheologytoday.com/wp-content/uploads/2021/12/mary1.jpg?w=450' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[SING-ALONG VIDEO] Mary, Did You Know? – Pentatonix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/trW_lD9sBt0/sddefault.jpg' alt='[SING-ALONG VIDEO] Mary, Did You Know? – Pentatonix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/trW_lD9sBt0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mary, Did You Know?">
+                                <img itemprop="contentUrl url" src='https://semsenmusic.com/wp-content/uploads/2023/05/Mary-Did-You-Know-scaled.jpg' alt='Mary, Did You Know?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1978">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semsen Music" />
+                                </span>
+                                <a href='https://semsenmusic.com/wp-content/uploads/2023/05/Mary-Did-You-Know-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playlist of 15+ Best Performances of 'Mary, Did You Know?'">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/GODTUBE/57265-best-performances-mary-did-you-know.800w.tn.jpg' alt='Playlist of 15+ Best Performances of 'Mary, Did You Know?''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodTube.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/GODTUBE/57265-best-performances-mary-did-you-know.800w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mary, Did You Know? by Mark Lowry Sheet Music for Real Book ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1271751E6Pk3XEa2L.png' alt='Mary, Did You Know? by Mark Lowry Sheet Music for Real Book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sheet Music Direct" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1271751E6Pk3XEa2L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Cappella "Mary, Did You Know?" — A Branch In the Vine">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/564e2a34e4b0ad118963f571/1545278108170-MHEWXSXBH3SNF7EU9YZ3/mary+did+you+know.jpg' alt='A Cappella "Mary, Did You Know?" — A Branch In the Vine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Branch In the Vine" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/564e2a34e4b0ad118963f571/1545278108170-MHEWXSXBH3SNF7EU9YZ3/mary+did+you+know.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentatonix - Mary, Did You Know? (Official Video)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ifCWN5pJGIE/maxresdefault.jpg' alt='Pentatonix - Mary, Did You Know? (Official Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ifCWN5pJGIE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

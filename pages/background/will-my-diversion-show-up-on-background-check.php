@@ -1,0 +1,129 @@
+<title>Do Diversions Show Up on Background Checks?</title>
+                    <meta name="description" content="Discover whether a diversion appears on background checks. Learn about state regulations and what you can expect regarding your criminal record and employment opportunities. Stay informed to ease your concerns over background screenings and diversions.">
+                    <meta name="keywords" content="will my diversion show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-my-diversion-show-up-on-background-check">
+                            <span itemprop="name">will my diversion show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Diversions Show Up on Background Checks?</h1>
+                <p>When facing a background check, many wonder if a diversion will appear in their record. Generally, if a diversion was successfully completed, it may not show up on most background checks. However, laws vary by state and type of screening, so it's important to check local regulations to understand the potential impact on your record.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding the Diversion Program Criminal Record Process ...">
+                                <img itemprop="contentUrl url" src='https://www.julota.com/wp-content/uploads/2024/12/Diversion-Program-Criminal-Record-1024x534.png' alt='Understanding the Diversion Program Criminal Record Process ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julota" />
+                                </span>
+                                <a href='https://www.julota.com/wp-content/uploads/2024/12/Diversion-Program-Criminal-Record-1024x534.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Suspended Licenses Show Up on Background Checks?">
+                                <img itemprop="contentUrl url" src='https://www.traublaw.com/wp-content/uploads/2020/03/Background-checks.jpg' alt='Do Suspended Licenses Show Up on Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Offices of Hillel Traub" />
+                                </span>
+                                <a href='https://www.traublaw.com/wp-content/uploads/2020/03/Background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screenings | NNA">
+                                <img itemprop="contentUrl url" src='https://www.nationalnotary.org/image%20library/nna/knowledge%20center/signing-agent-tools/quick-facts-about-bgs-infographic.png' alt='Background Screenings | NNA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Notary Association" />
+                                </span>
+                                <a href='https://www.nationalnotary.org/image%20library/nna/knowledge%20center/signing-agent-tools/quick-facts-about-bgs-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Pretrial Diversion and How Does it Work? - Gale Law Group">
+                                <img itemprop="contentUrl url" src='https://galelawgroup.com/wp-content/uploads/2019/10/criminalbackgroundcheck.jpg' alt='What is a Pretrial Diversion and How Does it Work? - Gale Law Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gale Law Group" />
+                                </span>
+                                <a href='https://galelawgroup.com/wp-content/uploads/2019/10/criminalbackgroundcheck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does a Diversion on a Background Check Affect My Chances of ...">
+                                <img itemprop="contentUrl url" src='https://img.saplingcdn.com/375/photos.demandstudios.com/getty/article/13/110/medfr01196.jpg?type=webp' alt='How Does a Diversion on a Background Check Affect My Chances of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sapling" />
+                                </span>
+                                <a href='https://img.saplingcdn.com/375/photos.demandstudios.com/getty/article/13/110/medfr01196.jpg?type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @BeachBum, juvenile records are often sealed, harder to access,  and less likely to show up on background checks, especially in a case like  this. But how a record appears depends on state ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7449203933089680683&location=0&aid=1988' alt='Replying to @BeachBum, juvenile records are often sealed, harder to access,  and less likely to show up on background checks, especially in a case like  this. But how a record appears depends on state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7449203933089680683&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show Up on a Background Check ?">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/02/Do-Pending-Charges-Show-Up-on-a-Background-Check-in-Oregon-1024x536.png' alt='Do Pending Charges Show Up on a Background Check ?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/02/Do-Pending-Charges-Show-Up-on-a-Background-Check-in-Oregon-1024x536.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/1.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Misdemeanor Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/1814/247437/large/background-check.jpg?1691770933' alt='Will a Misdemeanor Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/1814/247437/large/background-check.jpg?1691770933' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

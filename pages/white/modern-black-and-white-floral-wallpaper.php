@@ -1,0 +1,129 @@
+<title>Chic Black and White Floral Wallpaper for Modern Homes</title>
+                    <meta name="description" content="Discover the elegance of modern black and white floral wallpaper. Ideal for any room, this stylish decor choice blends sophistication with versatility. Transform your space effortlessly with our stunning designs tailored for contemporary living. Explore your options today!">
+                    <meta name="keywords" content="modern black and white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/modern-black-and-white-floral-wallpaper">
+                            <span itemprop="name">modern black and white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black and White Floral Wallpaper for Modern Homes</h1>
+                <p>Modern black and white floral wallpaper redefines elegance in home decor. Its monochromatic palette effortlessly complements any style, from minimalist to bohemian. Perfect for statement walls or subtle accents, this wallpaper breathes life into spaces, adding texture and sophistication. Elevate your interiors with stunning floral designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper With Black and White Floral Prints, Floral Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/2736e2/4114566005/il_570xN.4114566005_4as9.jpg' alt='Wallpaper With Black and White Floral Prints, Floral Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/2736e2/4114566005/il_570xN.4114566005_4as9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in×23ft Black and White Wallpaper Peel and Stick Floral  Wallpaper Mural for Bathroom Bedroom Walls Modern Botanical Daisy Flowers  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91WII7IyohL.jpg' alt='ReWallpaper 17.5in×23ft Black and White Wallpaper Peel and Stick Floral  Wallpaper Mural for Bathroom Bedroom Walls Modern Botanical Daisy Flowers  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91WII7IyohL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Vintage Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper 764 | Wall Paper Peel And Stick | Wall Mural Wall Decor">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-764b.jpg?v=1706219897&width=864' alt='Black White Vintage Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper 764 | Wall Paper Peel And Stick | Wall Mural Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-764b.jpg?v=1706219897&width=864' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inked Blossom Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/1_ca64f5df-d6ab-4a61-872c-9248c8db588f.jpg?v=1720045198&width=2048' alt='Inked Blossom Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/1_ca64f5df-d6ab-4a61-872c-9248c8db588f.jpg?v=1720045198&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' alt='Sketch Flowers Black and White Floral Wallpaper Self Adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="2950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/2502c5/6181475669/il_fullxfull.6181475669_l1r0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7176 Modern Floral Black & White Leaf Outline plants contemporary Wallpaper  FP2660">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/ModernFloralBlack_WhiteLeafOutlineplantscontemporaryWallpaper.jpg?v=1712175610' alt='7176 Modern Floral Black & White Leaf Outline plants contemporary Wallpaper  FP2660'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/ModernFloralBlack_WhiteLeafOutlineplantscontemporaryWallpaper.jpg?v=1712175610' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Black and White Floral Mural | Perfect for Accent Walls ...">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/black-and-white-floral-wallpaper-wallpaper.jpeg?v=1561243419' alt='Vintage Black and White Floral Mural | Perfect for Accent Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2780">
+                                <meta itemprop="height" content="3706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/black-and-white-floral-wallpaper-wallpaper.jpeg?v=1561243419' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Wallpaper | Abstract to Floral | EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/collections/PeoniesBlackandWhite4.jpg?v=1679449609&width=1296' alt='Black and White Wallpaper | Abstract to Floral | EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/collections/PeoniesBlackandWhite4.jpg?v=1679449609&width=1296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mythic Black Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/mythic-black-floral-wallpaper-xdyq-l.jpg' alt='Mythic Black Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/mythic-black-floral-wallpaper-xdyq-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

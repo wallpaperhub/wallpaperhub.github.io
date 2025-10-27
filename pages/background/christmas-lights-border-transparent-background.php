@@ -1,0 +1,129 @@
+<title>Stunning Christmas Lights Border with Transparent Background</title>
+                    <meta name="description" content="Add a festive touch to your designs with our Christmas lights border on a transparent background. Perfect for holiday projects, invitations, and more, this vibrant border will lighten up your work this season! Simple, elegant, and ready for instant use to enhance your festive creativity.">
+                    <meta name="keywords" content="christmas lights border transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-lights-border-transparent-background">
+                            <span itemprop="name">christmas lights border transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Christmas Lights Border with Transparent Background</h1>
+                <p>Transform your holiday decor with our stunning Christmas lights border featuring a transparent background. Ideal for cards, invitations, or festive digital designs, these vibrant lights create a cheerful atmosphere. Effortlessly enhance your seasonal projects with this eye-catching design that brings warmth and joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border PNG Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/23507' alt='Christmas Lights Border PNG Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="7824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/23507' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border PNG Transparent Images Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20201126/ourmid/pngtree-colorful-christmas-lights-frame-border-png-image_2480887.jpg' alt='Christmas Lights Border PNG Transparent Images Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20201126/ourmid/pngtree-colorful-christmas-lights-frame-border-png-image_2480887.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Christmas Lights Border PNG Transparent Image">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c6/a5/cd/c6a5cd7f5961f7c4f9573df45b4e43ce.jpg' alt='Download Christmas Lights Border PNG Transparent Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c6/a5/cd/c6a5cd7f5961f7c4f9573df45b4e43ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border Clipart Transparent Background, Christmas ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201208/original/pngtree-christmas-lights-border-png-image_5611742.jpg' alt='Christmas Lights Border Clipart Transparent Background, Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201208/original/pngtree-christmas-lights-border-png-image_5611742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border Images – Browse 381,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/22/77/53/360_F_222775332_Fi3AdMEwqirvLX3rIoVP6DUsWp834pR9.jpg' alt='Christmas Lights Border Images – Browse 381,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/22/77/53/360_F_222775332_Fi3AdMEwqirvLX3rIoVP6DUsWp834pR9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Lights Border Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/096/066/small/christmas-lights-string-isolated-frame-on-white-background-free-vector.jpg' alt='Holiday Lights Border Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="341">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/096/066/small/christmas-lights-string-isolated-frame-on-white-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border Clipart Hd PNG, Christmas Colorful Light ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201209/original/pngtree-christmas-colorful-light-for-frame-or-border-banner-poster-promotion-png-image_5652716.jpg' alt='Christmas Lights Border Clipart Hd PNG, Christmas Colorful Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201209/original/pngtree-christmas-colorful-light-for-frame-or-border-banner-poster-promotion-png-image_5652716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Border Images – Browse 381,675 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/79/79/89/360_F_679798998_Hc2Jn9qJVhm2Dxn01Cs4wxwl5MJTEMxL.jpg' alt='Christmas Lights Border Images – Browse 381,675 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/79/79/89/360_F_679798998_Hc2Jn9qJVhm2Dxn01Cs4wxwl5MJTEMxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Clipart Boarder - Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/06/cd/97/06cd9730aefed3b90f3268e62bbe6847.jpg' alt='Christmas Lights Clipart Boarder - Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/06/cd/97/06cd9730aefed3b90f3268e62bbe6847.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights PNG Clipart Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/9560' alt='Christmas Lights PNG Clipart Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6306">
+                                <meta itemprop="height" content="4313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/9560' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

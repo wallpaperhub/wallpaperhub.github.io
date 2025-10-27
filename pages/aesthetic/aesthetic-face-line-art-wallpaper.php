@@ -1,0 +1,129 @@
+<title>Aesthetic Face Line Art Wallpaper for Minimalist Decor</title>
+                    <meta name="description" content="Explore our aesthetic face line art wallpaper, perfect for enhancing your home or office. Featuring elegant, minimalist designs, this wallpaper adds a touch of sophistication while promoting a tranquil atmosphere. Ideal for anyone looking to transform their space effortlessly. Shop now for affordable decor solutions!">
+                    <meta name="keywords" content="aesthetic face line art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-face-line-art-wallpaper">
+                            <span itemprop="name">aesthetic face line art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Face Line Art Wallpaper for Minimalist Decor</h1>
+                <p>Transform your space with aesthetic face line art wallpaper, blending minimalism and elegance. This unique design features continuous lines that create stunning profiles, perfect for any room. Elevate your decor and inspire creativity while maintaining a serene ambiance. Discover the beauty of simplicity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="line art wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f9/4f/d4/f94fd46b045347a075529a73ba1904d6.jpg' alt='line art wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f9/4f/d4/f94fd46b045347a075529a73ba1904d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cover Girls Line Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/242556/Cover-Girls-Line-Art-Wallpaper.jpg?v=638165436052000000' alt='Cover Girls Line Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/242556/Cover-Girls-Line-Art-Wallpaper.jpg?v=638165436052000000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Stunning Line Art Girl Printable Home Decor Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/62/f5/7962f5c08214ecb04757aafb8e265d19.jpg' alt='12 Stunning Line Art Girl Printable Home Decor Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/62/f5/7962f5c08214ecb04757aafb8e265d19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vector line art of woman's face and flowers ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-line-art-woman-s-face-flowers-aesthetic-minimal-line-drawing_278222-1395.jpg' alt='Premium Vector | Vector line art of woman's face and flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-line-art-woman-s-face-flowers-aesthetic-minimal-line-drawing_278222-1395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overlapping Kiss One Line Drawing Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/overlapping-kiss-one-line-drawing-lil4oeiv61tbwczq.jpg' alt='Overlapping Kiss One Line Drawing Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/overlapping-kiss-one-line-drawing-lil4oeiv61tbwczq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Faces Line Art Black Peel and Stick Vinyl Wallpaper  W9245-Vinyl-Black-216 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f57a6ca0-109b-413b-986c-d7dc63b2cd52/svn/wallpaper-rolls-w9245-vinyl-black-216-64_1000.jpg' alt='Minimalist Faces Line Art Black Peel and Stick Vinyl Wallpaper  W9245-Vinyl-Black-216 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f57a6ca0-109b-413b-986c-d7dc63b2cd52/svn/wallpaper-rolls-w9245-vinyl-black-216-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Line Drawing Half A Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/one-line-drawing-half-a-face-tfkj15d8k4a7t7d1.jpg' alt='One Line Drawing Half A Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/one-line-drawing-half-a-face-tfkj15d8k4a7t7d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/62/33/45623342c4212b0b9afacd218789c92e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/62/33/45623342c4212b0b9afacd218789c92e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | One line drawing woman portrait banner Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/one-line-drawing-woman-portrait-banner-aesthetic-abstract-minimalist-female-silhouette-illustration_429556-310.jpg' alt='Premium Vector | One line drawing woman portrait banner Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/one-line-drawing-woman-portrait-banner-aesthetic-abstract-minimalist-female-silhouette-illustration_429556-310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic face line art">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/aesthetic-face-line-art-pattern-repeat-removable-wallpaper-design.jpg' alt='Aesthetic face line art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/aesthetic-face-line-art-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

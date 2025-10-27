@@ -1,0 +1,129 @@
+<title>Explore the Art of Outside Drawing: Nature's Canvas</title>
+                    <meta name="description" content="Dive into the world of outside drawing! Discover techniques to capture beautiful landscapes and natural scenes. Perfect for artists of all skill levels looking to enhance creativity and connect with nature. Get inspired and start your outdoor artistic journey today!">
+                    <meta name="keywords" content="outside drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/outside-drawing">
+                            <span itemprop="name">outside drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Art of Outside Drawing: Nature's Canvas</h1>
+                <p>Outside drawing is a captivating way to connect with nature and enhance artistic skills. By using a sketchbook or canvas outdoors, artists can capture the essence of landscapes, flora, and fauna. This practice not only boosts creativity but also encourages mindfulness, making it a fulfilling and enriching experience for all skill levels.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing Outdoors – My Drawing Course">
+                                <img itemprop="contentUrl url" src='https://mydrawingcourse.com/wp-content/uploads/2013/11/a-sketchboog-walk-fourth-and-final-sketch.jpg?w=1000&h=800&crop=1' alt='Drawing Outdoors – My Drawing Course'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Drawing Course" />
+                                </span>
+                                <a href='https://mydrawingcourse.com/wp-content/uploads/2013/11/a-sketchboog-walk-fourth-and-final-sketch.jpg?w=1000&h=800&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Beautiful Outside Of Window Scenery with Pencil for Relaxation  Sunset Scenery Drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Uix6fOXS32w/maxresdefault.jpg' alt='How to Draw Beautiful Outside Of Window Scenery with Pencil for Relaxation  Sunset Scenery Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Uix6fOXS32w/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing outside of the window//how to draw outside scenery of ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OWbEKQfaSKY/hqdefault.jpg' alt='Drawing outside of the window//how to draw outside scenery of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OWbEKQfaSKY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perspective Drawing-Outside by arvalis on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e010234b-f821-440e-befc-b2f05bc0beab/d1hef94-f8674da8-e6cf-48d8-8513-a4e59305ba6e.jpg/v1/fill/w_1024,h_799,q_75,strp/perspective_drawing_outside_by_arvalis_d1hef94-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk5IiwicGF0aCI6IlwvZlwvZTAxMDIzNGItZjgyMS00NDBlLWJlZmMtYjJmMDViYzBiZWFiXC9kMWhlZjk0LWY4Njc0ZGE4LWU2Y2YtNDhkOC04NTEzLWE0ZTU5MzA1YmE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QBbYq7o7eYtj-pBX-keoC7sX2_qqVvbQ7AP8mdTln5c' alt='Perspective Drawing-Outside by arvalis on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e010234b-f821-440e-befc-b2f05bc0beab/d1hef94-f8674da8-e6cf-48d8-8513-a4e59305ba6e.jpg/v1/fill/w_1024,h_799,q_75,strp/perspective_drawing_outside_by_arvalis_d1hef94-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk5IiwicGF0aCI6IlwvZlwvZTAxMDIzNGItZjgyMS00NDBlLWJlZmMtYjJmMDViYzBiZWFiXC9kMWhlZjk0LWY4Njc0ZGE4LWU2Y2YtNDhkOC04NTEzLWE0ZTU5MzA1YmE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QBbYq7o7eYtj-pBX-keoC7sX2_qqVvbQ7AP8mdTln5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Draw of the Great Outdoors - Blog">
+                                <img itemprop="contentUrl url" src='https://www.penheaven.com/media/mageplaza/blog/post/uploads/2018/07/Nature-Drawing-in-sketchbook.jpg' alt='The Draw of the Great Outdoors - Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pen Heaven" />
+                                </span>
+                                <a href='https://www.penheaven.com/media/mageplaza/blog/post/uploads/2018/07/Nature-Drawing-in-sketchbook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="window drawing //how to draw outside seen of window / drawing tutorial easy">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RFCaX9guNsI/hqdefault.jpg' alt='window drawing //how to draw outside seen of window / drawing tutorial easy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RFCaX9guNsI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outdoor sketch...pencil shading : r/drawing">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bucl8kr82im51.jpg?width=640&crop=smart&auto=webp&s=8cafa57e612948715711fbd4011c46efd200a89f' alt='Outdoor sketch...pencil shading : r/drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bucl8kr82im51.jpg?width=640&crop=smart&auto=webp&s=8cafa57e612948715711fbd4011c46efd200a89f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Lake Pencil Drawing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/1c/1d/631c1d07b783cf293311a2708471d33f.jpg' alt='Mountain Lake Pencil Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/1c/1d/631c1d07b783cf293311a2708471d33f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Draw Simple Sketch Outdoor Landscape Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/hand-draw-simple-sketch-outdoor-260nw-405736054.jpg' alt='Hand Draw Simple Sketch Outdoor Landscape Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/hand-draw-simple-sketch-outdoor-260nw-405736054.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter park landscape graphic black white sketch illustration ...">
+                                <img itemprop="contentUrl url" src='https://l450v.alamy.com/450v/2ctc6tp/winter-park-landscape-graphic-black-white-sketch-illustration-vector-2ctc6tp.jpg' alt='Winter park landscape graphic black white sketch illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://l450v.alamy.com/450v/2ctc6tp/winter-park-landscape-graphic-black-white-sketch-illustration-vector-2ctc6tp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

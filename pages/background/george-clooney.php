@@ -1,0 +1,129 @@
+<title>George Clooney: Hollywood's Charismatic Icon</title>
+                    <meta name="description" content="Explore the life and career of George Clooney, a Hollywood legend known for his iconic roles, philanthropic efforts, and entrepreneurial success. Discover his journey from TV stardom to film acclaim!">
+                    <meta name="keywords" content="george clooney">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/george-clooney">
+                            <span itemprop="name">george clooney</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>George Clooney: Hollywood's Charismatic Icon</h1>
+                <p>George Clooney is a celebrated American actor, director, producer, and philanthropist known for his charisma and versatility. He gained fame with his role in "ER" and has starred in classic films like "Ocean's Eleven" and "Gravity." Beyond acting, Clooney advocates for humanitarian causes and co-founded the drinks brand Casamigos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/71/George_Clooney-69990.jpg' alt='George Clooney - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1277">
+                                <meta itemprop="height" content="1916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/71/George_Clooney-69990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney filmography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg/1200px-George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg' alt='George Clooney filmography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg/1200px-George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg' alt='George Clooney - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1507">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney | Biography, TV Shows, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/33/196233-050-169795DF/George-Clooney-2016.jpg' alt='George Clooney | Biography, TV Shows, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/33/196233-050-169795DF/George-Clooney-2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney | Voice over and voice acting Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/voice-over-and-voice-acting/images/c/c8/George_Clooney.jpg/revision/latest?cb=20231112014130' alt='George Clooney | Voice over and voice acting Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Voice over and voice acting Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/voice-over-and-voice-acting/images/c/c8/George_Clooney.jpg/revision/latest?cb=20231112014130' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney Interview - George Clooney Talks About Matt Damon ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/esq1213124a-66902c84958ce.jpg?crop=0.668xw:1.00xh;0,0&resize=640:*' alt='George Clooney Interview - George Clooney Talks About Matt Damon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/esq1213124a-66902c84958ce.jpg?crop=0.668xw:1.00xh;0,0&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney opens up about fatherhood - Celebrity News ...">
+                                <img itemprop="contentUrl url" src='https://cdn-images.the-express.com/img/dynamic/21/590x/secondary/George-Clooney-338749.jpg?r=1740952661295' alt='George Clooney opens up about fatherhood - Celebrity News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Express US" />
+                                </span>
+                                <a href='https://cdn-images.the-express.com/img/dynamic/21/590x/secondary/George-Clooney-338749.jpg?r=1740952661295' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23213_v9_bc.jpg' alt='George Clooney | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23213_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney reveals Amal will 'hate' his changing appearance ...">
+                                <img itemprop="contentUrl url" src='https://images.hellomagazine.com/horizon/square/20f62bc357fc-george-clooney.jpg' alt='George Clooney reveals Amal will 'hate' his changing appearance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HELLO! Magazine" />
+                                </span>
+                                <a href='https://images.hellomagazine.com/horizon/square/20f62bc357fc-george-clooney.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Clooney">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5b43ae4b31358e2c990e9203/0x0.jpg?format=jpg&crop=2181,2182,x403,y60,safe&height=416&width=416&fit=bounds' alt='George Clooney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5b43ae4b31358e2c990e9203/0x0.jpg?format=jpg&crop=2181,2182,x403,y60,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

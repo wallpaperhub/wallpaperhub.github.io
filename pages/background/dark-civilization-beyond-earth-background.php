@@ -1,0 +1,129 @@
+<title>Beyond Earth: Unveiling Dark Civilizations</title>
+                    <meta name="description" content="Explore the mysterious dark civilizations beyond Earth. Uncover their advanced technologies, moral dilemmas, and existential challenges that offer insights into humanity's future in the cosmos. Join us on a journey through the unknown!">
+                    <meta name="keywords" content="dark civilization beyond earth background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-civilization-beyond-earth-background">
+                            <span itemprop="name">dark civilization beyond earth background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beyond Earth: Unveiling Dark Civilizations</h1>
+                <p>Dark civilizations beyond Earth are often depicted in science fiction, representing advanced, sometimes malevolent societies that have developed in the shadows of the universe. These enigmatic cultures may possess superior technology but often face their own existential challenges, offering a profound commentary on humanity's future and moral dilemmas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Spaceship Civilization Beyond Earth Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-spaceship-civilization-beyond-earth-56hwmbh8q5udmzmx.jpg' alt='Download Dark Spaceship Civilization Beyond Earth Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-spaceship-civilization-beyond-earth-56hwmbh8q5udmzmx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Sid Meier's Civilization: Beyond Earth HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/629/thumb-1920-629131.jpg' alt='Download Video Game Sid Meier's Civilization: Beyond Earth HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/629/thumb-1920-629131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4k Civilization Beyond Earth Background Dark | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-civilization-beyond-earth-background-3840-x-2160-n1patqtg5g4jgrmi.jpg' alt='Download 4k Civilization Beyond Earth Background Dark | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-civilization-beyond-earth-background-3840-x-2160-n1patqtg5g4jgrmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerful Disciples Civilization Beyond Earth Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/powerful-disciples-civilization-beyond-earth-pojo2rzltf3rmq5l.jpg' alt='Powerful Disciples Civilization Beyond Earth Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/powerful-disciples-civilization-beyond-earth-pojo2rzltf3rmq5l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Buildings 1920x1080 Civilization Beyond Earth ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-civilization-beyond-earth-background-szqbwxumkvddp9lv.jpg' alt='Download Dark Buildings 1920x1080 Civilization Beyond Earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-civilization-beyond-earth-background-szqbwxumkvddp9lv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wot I Think: Civilization - Beyond Earth | Rock Paper Shotgun">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/cibeheader.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Wot I Think: Civilization - Beyond Earth | Rock Paper Shotgun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/cibeheader.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Studio - Civilization: Beyond Earth">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/000/454/344/large/west-studio-west-studio-beyond-civilization-02.jpg?1423163277' alt='West Studio - Civilization: Beyond Earth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="West Studio" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/000/454/344/large/west-studio-west-studio-beyond-civilization-02.jpg?1423163277' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Civilization Beyond Earth Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/civilization-beyond-earth-background-nbxfcw8u5rzj109w.jpg' alt='300+] Civilization Beyond Earth Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/civilization-beyond-earth-background-nbxfcw8u5rzj109w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Codex Modpack">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/85968656430489141/C4B3343972911763140CAD9E1BA45251D5574667/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Codex Modpack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/85968656430489141/C4B3343972911763140CAD9E1BA45251D5574667/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civilization 6: The most in-depth Civ to date - Ars Technica">
+                                <img itemprop="contentUrl url" src='https://cdn.arstechnica.net/wp-content/uploads/2016/09/civ6_marquee1-1152x648.jpg' alt='Civilization 6: The most in-depth Civ to date - Ars Technica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ars Technica" />
+                                </span>
+                                <a href='https://cdn.arstechnica.net/wp-content/uploads/2016/09/civ6_marquee1-1152x648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

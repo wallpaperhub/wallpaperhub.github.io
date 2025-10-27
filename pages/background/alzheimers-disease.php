@@ -1,0 +1,129 @@
+<title>Understanding Alzheimer's Disease: Signs, Symptoms & Care</title>
+                    <meta name="description" content="Explore Alzheimer's disease, a progressive condition impacting memory and cognition. Discover its early signs, treatment options, and care strategies to improve quality of life for those affected and their families. Stay informed and proactive about this growing health concern.">
+                    <meta name="keywords" content="alzheimer's disease">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alzheimers-disease">
+                            <span itemprop="name">alzheimer's disease</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Alzheimer's Disease: Signs, Symptoms & Care</h1>
+                <p>Alzheimer's disease is a progressive brain disorder that affects memory, thinking, and behavior. It’s the most common cause of dementia, marked by the gradual decline in cognitive functions. Early signs include forgetfulness and confusion. While there's no cure, early diagnosis and treatment can help manage symptoms and improve quality of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's disease - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brain-ALZH.png/1200px-Brain-ALZH.png' alt='Alzheimer's disease - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brain-ALZH.png/1200px-Brain-ALZH.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease: Symptoms & Treatment">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9164-alzheimers-disease' alt='Alzheimer's Disease: Symptoms & Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9164-alzheimers-disease' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease: The Basics - Alzheimer's Los Angeles">
+                                <img itemprop="contentUrl url" src='https://www.alzheimersla.org/wp-content/uploads/2021/04/Understanding-Memory-Loss-Alzheimers-disease-the-basics.jpg.png' alt='Alzheimer's Disease: The Basics - Alzheimer's Los Angeles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alzheimer's Los Angeles" />
+                                </span>
+                                <a href='https://www.alzheimersla.org/wp-content/uploads/2021/04/Understanding-Memory-Loss-Alzheimers-disease-the-basics.jpg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease - Symptoms, Causes, Types and Treatment">
+                                <img itemprop="contentUrl url" src='https://irp.cdn-website.com/69c0b277/dms3rep/multi/Alzheimer-s+disease+-+PACE+Hospitals.jpg' alt='Alzheimer's Disease - Symptoms, Causes, Types and Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PACE Hospitals" />
+                                </span>
+                                <a href='https://irp.cdn-website.com/69c0b277/dms3rep/multi/Alzheimer-s+disease+-+PACE+Hospitals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's disease - Symptoms and causes - Mayo Clinic">
+                                <img itemprop="contentUrl url" src='https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2023/02/01/20/24/healthy-brain-and-brain-with-alzheimers-8-col-3398230-002-0.jpg' alt='Alzheimer's disease - Symptoms and causes - Mayo Clinic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayo Clinic" />
+                                </span>
+                                <a href='https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2023/02/01/20/24/healthy-brain-and-brain-with-alzheimers-8-col-3398230-002-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease Causes, Symptoms, Treatments">
+                                <img itemprop="contentUrl url" src='https://www.health.com/thmb/DLquZnPBve8YQWlhRhgAqH0p99Y=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-alzheimers-overview-v1-MiraNorian-FINAL-d854fd8c17964c1b9ac825a3c59dcb6e.jpg' alt='Alzheimer's Disease Causes, Symptoms, Treatments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Health" />
+                                </span>
+                                <a href='https://www.health.com/thmb/DLquZnPBve8YQWlhRhgAqH0p99Y=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-alzheimers-overview-v1-MiraNorian-FINAL-d854fd8c17964c1b9ac825a3c59dcb6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer disease: MedlinePlus Medical Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://medlineplus.gov/ency/images/ency/fullsize/23214.jpg' alt='Alzheimer disease: MedlinePlus Medical Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MedlinePlus" />
+                                </span>
+                                <a href='https://medlineplus.gov/ency/images/ency/fullsize/23214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comprehensive Review on Alzheimer's Disease: Causes and Treatment">
+                                <img itemprop="contentUrl url" src='https://www.mdpi.com/molecules/molecules-25-05789/article_deploy/html/images/molecules-25-05789-g001-550.jpg' alt='Comprehensive Review on Alzheimer's Disease: Causes and Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://www.mdpi.com/molecules/molecules-25-05789/article_deploy/html/images/molecules-25-05789-g001-550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease - Symptoms, causes and Treatment">
+                                <img itemprop="contentUrl url" src='https://www.ibshospitals.com/specialityicon/6603e0fb2ebc765c4981178bc8IBS%20Hospital_Alzheimer%E2%80%99s%20Disease_thumbnail_2.webp' alt='Alzheimer's Disease - Symptoms, causes and Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IBS Hospital" />
+                                </span>
+                                <a href='https://www.ibshospitals.com/specialityicon/6603e0fb2ebc765c4981178bc8IBS%20Hospital_Alzheimer%E2%80%99s%20Disease_thumbnail_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alzheimer's Disease - Symptoms, Causes, Types and Treatment">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Symptoms+of+Alzheimer-s+disease+-+PACE+Hospitals-640w.jpg' alt='Alzheimer's Disease - Symptoms, Causes, Types and Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PACE Hospitals" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/69c0b277/dms3rep/multi/opt/Symptoms+of+Alzheimer-s+disease+-+PACE+Hospitals-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

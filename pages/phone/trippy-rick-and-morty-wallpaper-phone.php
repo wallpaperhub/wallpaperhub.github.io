@@ -1,0 +1,129 @@
+<title>Trippy Rick and Morty Phone Wallpapers</title>
+                    <meta name="description" content="Discover eye-catching trippy Rick and Morty wallpapers for your phone! Perfectly designed for fans, these vibrant backgrounds bring the animated sci-fi adventure to life, adding a splash of color and creativity to your device. Transform your phone into a portal of imagination today!">
+                    <meta name="keywords" content="trippy rick and morty wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/trippy-rick-and-morty-wallpaper-phone">
+                            <span itemprop="name">trippy rick and morty wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Rick and Morty Phone Wallpapers</h1>
+                <p>Transform your phone into a portal of vibrant imagination with our trippy Rick and Morty wallpapers! Explore surreal designs inspired by the whimsical universe of your favorite duo. Perfect for fans seeking a blast of color and creativity, these wallpapers will take your mobile experience to interdimensional heights!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/b1/5b/c4b15b58838756de6f5dea162621ccaf.jpg' alt='Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/b1/5b/c4b15b58838756de6f5dea162621ccaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rick And Morty Trippy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-trippy-sg2ohq7utw486mlj.jpg' alt='100+] Rick And Morty Trippy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-trippy-sg2ohq7utw486mlj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick And Morty Trippy Multicolored Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/ghastly-rick-and-morty-trippy-pink-r3g5dr6jew86d86q.webp' alt='Rick And Morty Trippy Multicolored Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/ghastly-rick-and-morty-trippy-pink-r3g5dr6jew86d86q.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Rick, rick and morty, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/403/803/HD-wallpaper-trippy-rick-rick-and-morty.jpg' alt='Trippy Rick, rick and morty, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/403/803/HD-wallpaper-trippy-rick-rick-and-morty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/1e/97/4e1e975b1410d1aef9cc08d6d85768f0.jpg' alt='Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/1e/97/4e1e975b1410d1aef9cc08d6d85768f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick And Morty Phone Louis Vuitton Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rick-and-morty-phone-louis-vuitton-av47l7j459hor23p.jpg' alt='Rick And Morty Phone Louis Vuitton Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rick-and-morty-phone-louis-vuitton-av47l7j459hor23p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty tripy, apple, cartoon, ceu, desenho, deus, drugs ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/713/893/HD-wallpaper-rick-and-morty-tripy-apple-cartoon-ceu-desenho-deus-drugs-futuristic-iphone-melhor-motog-novo-trippy-zoeira.jpg' alt='Rick and Morty tripy, apple, cartoon, ceu, desenho, deus, drugs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/713/893/HD-wallpaper-rick-and-morty-tripy-apple-cartoon-ceu-desenho-deus-drugs-futuristic-iphone-melhor-motog-novo-trippy-zoeira.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Rick And Morty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-8rc57d4ds44gqzau.jpg' alt='600+] Rick And Morty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-8rc57d4ds44gqzau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Rick And Morty Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mobile-rick-and-morty-0gklnjoygj5kqn7x.jpg' alt='Mobile Rick And Morty Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mobile-rick-and-morty-0gklnjoygj5kqn7x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/29/f1/18/29f1184fde60bcafcee48ed972e1b058.jpg' alt='Rick and Morty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/29/f1/18/29f1184fde60bcafcee48ed972e1b058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

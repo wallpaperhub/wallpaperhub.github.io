@@ -1,0 +1,129 @@
+<title>KDA Wallpapers: Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover a collection of KDA wallpapers that elevate your device's look. Perfect for fans of League of Legends, our vibrant and captivating designs feature Akali, Kai'Sa, Evelynn, and Seraphine. Download now to personalize your screens with the ultimate pop group vibe!">
+                    <meta name="keywords" content="kda wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kda-wallpaper">
+                            <span itemprop="name">kda wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>KDA Wallpapers: Stunning Designs for Your Device</h1>
+                <p>Transform your device's aesthetic with stunning KDA (K/DA) wallpapers that capture the essence of League of Legends' virtual pop group. Explore vibrant designs featuring Akali, Kai'Sa, Evelynn, and Seraphine, perfect for fans of the game and music alike. Customize your screens with these eye-catching wallpapers for a unique flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper K-Pop, League Of Legends, Video Game, KDA, Seraphine ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/7/89/video-game-league-of-legends-ahri-league-of-legends-evelynn.webp' alt='Wallpaper K-Pop, League Of Legends, Video Game, KDA, Seraphine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/7/89/video-game-league-of-legends-ahri-league-of-legends-evelynn.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K/DA ALL OUT Wallpaper : r/leagueoflegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7o8h6kripvv51.jpg?width=7680&format=pjpg&auto=webp&s=39ac391dba1a1cf96bf1a13d33d7a67b60e4dfb0' alt='K/DA ALL OUT Wallpaper : r/leagueoflegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7o8h6kripvv51.jpg?width=7680&format=pjpg&auto=webp&s=39ac391dba1a1cf96bf1a13d33d7a67b60e4dfb0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Improved version K/DA Phone Wallpaper : r/KDA">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/improved-version-k-da-phone-wallpaper-v0-d55fotg9gkv81.jpg?width=640&crop=smart&auto=webp&s=c3245a2215a8bddc9c81daa6349611930e60f3e6' alt='Improved version K/DA Phone Wallpaper : r/KDA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/improved-version-k-da-phone-wallpaper-v0-d55fotg9gkv81.jpg?width=640&crop=smart&auto=webp&s=c3245a2215a8bddc9c81daa6349611930e60f3e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kda wallpaper plano de fundo LoL league of legends">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/25/6f/31256f583c15eaf52eb352a6f21e5893.jpg' alt='Kda wallpaper plano de fundo LoL league of legends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/25/6f/31256f583c15eaf52eb352a6f21e5893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::KDA League Of Legend">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/947339560650241016/907EF15219FDA5E1F62DB2D77F38BF56490D005F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::KDA League Of Legend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/947339560650241016/907EF15219FDA5E1F62DB2D77F38BF56490D005F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K/DA Pop/Stars Akali League of Legends">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/38/70/36/387036e3052a625d4735780601867259.jpg' alt='K/DA Pop/Stars Akali League of Legends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/38/70/36/387036e3052a625d4735780601867259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I couldn't find a clean, high-res K/DA wallpaper, so I made my own ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c5bsggcrxm061.png' alt='I couldn't find a clean, high-res K/DA wallpaper, so I made my own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c5bsggcrxm061.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kda Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kda-wfxpj65rdoin30a1.jpg' alt='100+] Kda Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kda-wfxpj65rdoin30a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kda K-pop On Black Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kda-k-pop-on-black-background-1mmm7k0k7ff5kngz.jpg' alt='Kda K-pop On Black Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kda-k-pop-on-black-background-1mmm7k0k7ff5kngz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KDA Wallpaper 4K, 8K, Akali, Ahri, Evelynn">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kda-akali-ahri-2560x2560-10546.jpg' alt='KDA Wallpaper 4K, 8K, Akali, Ahri, Evelynn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kda-akali-ahri-2560x2560-10546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

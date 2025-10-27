@@ -1,0 +1,129 @@
+<title>Trippy Rick and Morty iPhone Wallpapers | Download Now!</title>
+                    <meta name="description" content="Explore our collection of trippy Rick and Morty wallpapers for iPhone! Featuring vivid designs that will enhance your device's look, these wallpapers are perfect for fans of the series. Download your favorites and show off your style with every unlock! Perfect for avid followers craving something unique!">
+                    <meta name="keywords" content="trippy rick and morty wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/trippy-rick-and-morty-wallpaper-iphone">
+                            <span itemprop="name">trippy rick and morty wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Rick and Morty iPhone Wallpapers | Download Now!</h1>
+                <p>Discover the ultimate trippy Rick and Morty wallpaper for your iPhone! Transform your device with mind-bending designs that showcase the quirky adventures of this iconic duo. Each unique wallpaper captures vibrant colors and surreal imagery, perfect for fans who love to embrace the weird. Elevate your iPhone's aesthetic now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship Riding Rick And Morty Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/morty-stops-the-spaceship-iphone-pejvogcahy06ndq4.webp' alt='Spaceship Riding Rick And Morty Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/morty-stops-the-spaceship-iphone-pejvogcahy06ndq4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghastly Rick And Morty Trippy Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/ghastly-rick-and-morty-trippy-pink-r3g5dr6jew86d86q.jpg' alt='Ghastly Rick And Morty Trippy Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/ghastly-rick-and-morty-trippy-pink-r3g5dr6jew86d86q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/1e/97/4e1e975b1410d1aef9cc08d6d85768f0.jpg' alt='Awesome Rick and Morty Trippy Spaceship Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/1e/97/4e1e975b1410d1aef9cc08d6d85768f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rick And Morty Trippy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-trippy-sg2ohq7utw486mlj.jpg' alt='100+] Rick And Morty Trippy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-trippy-sg2ohq7utw486mlj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Rick, rick and morty, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/403/803/HD-wallpaper-trippy-rick-rick-and-morty.jpg' alt='Trippy Rick, rick and morty, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/403/803/HD-wallpaper-trippy-rick-rick-and-morty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty iPhone wallpaper : r/rickandmorty">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nf9ikre0tym71.jpg' alt='Rick and Morty iPhone wallpaper : r/rickandmorty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nf9ikre0tym71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rick and morty pick">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/17/62/f4176267366d2e70decc52efe344fad7.jpg' alt='rick and morty pick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/17/62/f4176267366d2e70decc52efe344fad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and morty iphone 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQPAzGHoYxTwEGN48AY2kJr0JAoq4ZuyDusgRSfCFiUiFovz6C7YA4xh-QcpcHN3m2altqVP3D8QJLWDqVXBHhz9SO9o2vyE0B4IIi9ZRzpMz5B0b7HMxbh8hyvliBW4LMozBvtaBsG5Cy5RK7kdxcpFiDqoSMNff89G7deFUQZdB3-yeDJxs7JSKRw/d/rick-and-morty-wallpaper.png' alt='Rick and morty iphone 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQPAzGHoYxTwEGN48AY2kJr0JAoq4ZuyDusgRSfCFiUiFovz6C7YA4xh-QcpcHN3m2altqVP3D8QJLWDqVXBHhz9SO9o2vyE0B4IIi9ZRzpMz5B0b7HMxbh8hyvliBW4LMozBvtaBsG5Cy5RK7kdxcpFiDqoSMNff89G7deFUQZdB3-yeDJxs7JSKRw/d/rick-and-morty-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty tripy, apple, cartoon, ceu, desenho, deus, drugs ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/713/893/HD-wallpaper-rick-and-morty-tripy-apple-cartoon-ceu-desenho-deus-drugs-futuristic-iphone-melhor-motog-novo-trippy-zoeira.jpg' alt='Rick and Morty tripy, apple, cartoon, ceu, desenho, deus, drugs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/713/893/HD-wallpaper-rick-and-morty-tripy-apple-cartoon-ceu-desenho-deus-drugs-futuristic-iphone-melhor-motog-novo-trippy-zoeira.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and morty iphone 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-109168/Rick-And-Morty-Hd-In-Resolution.jpg' alt='Rick and morty iphone 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-109168/Rick-And-Morty-Hd-In-Resolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

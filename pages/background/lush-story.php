@@ -1,0 +1,129 @@
+<title>Lush: A Magical Journey of Friendship</title>
+                    <meta name="description" content="Explore the enchanting tale of Lush, a curious rabbit in a vibrant forest. Discover how friendship and courage help protect the magical glade filled with ancient secrets. Join Lush on this heartwarming adventure that inspires caring for nature and each other.">
+                    <meta name="keywords" content="lush story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lush-story">
+                            <span itemprop="name">lush story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lush: A Magical Journey of Friendship</h1>
+                <p>In a vibrant forest, a curious rabbit named Lush discovers a hidden glade filled with magical flowers. Each bloom whispers secrets of the nature surrounding them. Lush learns that friendship and kindness can nurture the land. Through courage and a sprinkle of magic, Lush unites the animals to protect their lush home forever.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush (Love Story #1) by Chris Adonn | Goodreads">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398374954i/21938014.jpg' alt='Lush (Love Story #1) by Chris Adonn | Goodreads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="318">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398374954i/21938014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush Story Online For Reading. Today We Start New Series Of Lush ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1024/0*UB3ICX3XSE4_LNVj.jpg' alt='Lush Story Online For Reading. Today We Start New Series Of Lush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Success Tips - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1024/0*UB3ICX3XSE4_LNVj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush: Fernie, Gabrielle: 9780751570083: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71mqqQiWp0L.jpg' alt='Lush: Fernie, Gabrielle: 9780751570083: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1488">
+                                <meta itemprop="height" content="2339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71mqqQiWp0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush: An Orlando Stripper's Story">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/617UL6MudbL._AC_UF1000,1000_QL80_.jpg' alt='Lush: An Orlando Stripper's Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/617UL6MudbL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lust Stories - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/0/09/Lust_Stories_%282018%29_poster.jpg' alt='Lust Stories - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/0/09/Lust_Stories_%282018%29_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayhem To Go - by Duane Swierczynski - Gleeful Mayhem">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8cd8f1-d8fc-441c-9acb-07b8a71e6633_854x1280.jpeg' alt='Mayhem To Go - by Duane Swierczynski - Gleeful Mayhem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gleeful Mayhem - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8cd8f1-d8fc-441c-9acb-07b8a71e6633_854x1280.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush: A True Story, Soaked in Gin eBook : Fernie ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815fwW1Gc4L._UF1000,1000_QL80_.jpg' alt='Lush: A True Story, Soaked in Gin eBook : Fernie ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815fwW1Gc4L._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lush : An Orlando Stripper's Story (Paperback)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Lush-An-Orlando-Stripper-s-Story-Paperback-9781790144044_b9769c75-5135-4e02-9ed5-1031cd12f0f4_1.3c9ee76421df2689305ffa42991cf0db.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Lush : An Orlando Stripper's Story (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Lush-An-Orlando-Stripper-s-Story-Paperback-9781790144044_b9769c75-5135-4e02-9ed5-1031cd12f0f4_1.3c9ee76421df2689305ffa42991cf0db.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eeek! We are so close to the sequel of Gator Queen! Here's what ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3436700064087787743' alt='Eeek! We are so close to the sequel of Gator Queen! Here's what ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3436700064087787743' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Lush took on the cosmetics industry | FT - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_HK_4T7BFwI/sddefault.jpg' alt='How Lush took on the cosmetics industry | FT - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_HK_4T7BFwI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

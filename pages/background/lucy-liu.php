@@ -1,0 +1,129 @@
+<title>Lucy Liu: Acclaimed Actress and Creative Force</title>
+                    <meta name="description" content="Discover the multifaceted career of Lucy Liu, a talented actress celebrated for her iconic roles in "Ally McBeal," "Kill Bill," and more. Explore her journey as a producer and director, along with her contributions to philanthropy. Dive into the world of this creative powerhouse!">
+                    <meta name="keywords" content="lucy liu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lucy-liu">
+                            <span itemprop="name">lucy liu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lucy Liu: Acclaimed Actress and Creative Force</h1>
+                <p>Lucy Liu is an acclaimed actress, producer, and director known for her versatile roles in film and television. Rising to fame with her role in "Ally McBeal," she has captivated audiences in movies like "Kill Bill" and "Charlie’s Angels." Beyond acting, Liu is recognized for her voice work, philanthropic efforts, and diverse artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lucy_Liu_at_the_2024_Toronto_International_Film_Festival_4_%28cropped%29.jpg/640px-Lucy_Liu_at_the_2024_Toronto_International_Film_Festival_4_%28cropped%29.jpg' alt='Lucy Liu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lucy_Liu_at_the_2024_Toronto_International_Film_Festival_4_%28cropped%29.jpg/640px-Lucy_Liu_at_the_2024_Toronto_International_Film_Festival_4_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg' alt='Lucy Liu - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="282">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Lucy Liu Dating? Inside Her Dating History">
+                                <img itemprop="contentUrl url" src='https://media.zenfs.com/en/parade_250/ae2f7dc4d3cdff28da8a58e2473f972a' alt='Who Is Lucy Liu Dating? Inside Her Dating History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://media.zenfs.com/en/parade_250/ae2f7dc4d3cdff28da8a58e2473f972a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/151593_v9_bb.jpg' alt='Lucy Liu | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/151593_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu's Relationship History: Dating, Boyfriends, Son - Parade">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjEyMTIyNzYzMjQ1MTM1Mzk1/lucy-liu-relationships.jpg' alt='Lucy Liu's Relationship History: Dating, Boyfriends, Son - Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjEyMTIyNzYzMjQ1MTM1Mzk1/lucy-liu-relationships.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu | Futurama Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/enfuturama/images/5/50/Lucy_Liu.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220223174900' alt='Lucy Liu | Futurama Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Futurama Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/enfuturama/images/5/50/Lucy_Liu.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220223174900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Lucy Liu">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044490817001' alt='Profile for Lucy Liu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044490817001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu Has No Regrets After Speaking Out About Bill Murray ...">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/67856b7ec0f26ea92ff07ec0/master/w_2560%2Cc_limit/2183614114' alt='Lucy Liu Has No Regrets After Speaking Out About Bill Murray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/67856b7ec0f26ea92ff07ec0/master/w_2560%2Cc_limit/2183614114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucy Liu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucy_Liu_Comic-Con_2012.jpg/1200px-Lucy_Liu_Comic-Con_2012.jpg' alt='Lucy Liu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucy_Liu_Comic-Con_2012.jpg/1200px-Lucy_Liu_Comic-Con_2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Lucy Liu Battled Against Lack of Diversity to Become a ...">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2019/05/walk-of-fame-lucy-liu.jpg?w=1000&h=563&crop=1' alt='How Lucy Liu Battled Against Lack of Diversity to Become a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2019/05/walk-of-fame-lucy-liu.jpg?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

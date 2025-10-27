@@ -1,0 +1,129 @@
+<title>Stunning Galaxy S23 Ultra & S22 Ultra Wallpaper Collection</title>
+                    <meta name="description" content="Discover a curated collection of beautiful wallpapers for the Samsung Galaxy S23 Ultra and S22 Ultra. Elevate your device's look with high-quality images designed to impress. Perfect for anyone looking to refresh their smartphone's aesthetic effortlessly!">
+                    <meta name="keywords" content="galaxy s23 ultra samsung galaxy s22 ultra wallpaper.">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-s23-ultra-samsung-galaxy-s22-ultra-wallpaper">
+                            <span itemprop="name">galaxy s23 ultra samsung galaxy s22 ultra wallpaper.</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy S23 Ultra & S22 Ultra Wallpaper Collection</h1>
+                <p>Explore stunning wallpapers for the Samsung Galaxy S23 Ultra and Galaxy S22 Ultra! Transform your device's appearance with high-resolution, eye-catching images that highlight the unique features of these flagship smartphones. Choose from a variety of themes and styles to personalize your screen like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is name s22 ultra wallpaper? i want to set it on s23 : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-1flxe5op8uqd1.jpeg?width=1440&format=pjpg&auto=webp&s=ce34903a4015f86488ff3065a74404ebd389ea7c' alt='what is name s22 ultra wallpaper? i want to set it on s23 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-1flxe5op8uqd1.jpeg?width=1440&format=pjpg&auto=webp&s=ce34903a4015f86488ff3065a74404ebd389ea7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S23 Ultra Review: Déjà Vu With Slight Upgrades">
+                                <img itemprop="contentUrl url" src='https://www.droid-life.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-6-1200x1200-cropped.jpg' alt='Galaxy S23 Ultra Review: Déjà Vu With Slight Upgrades'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Droid Life" />
+                                </span>
+                                <a href='https://www.droid-life.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-6-1200x1200-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what is name s22 ultra wallpaper? i want to set it on s23 : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-wog32uztjuqd1.jpeg?width=1200&format=pjpg&auto=webp&s=d92d807b70f5b52245d4c1ebf8b6e03e264445b6' alt='what is name s22 ultra wallpaper? i want to set it on s23 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-is-name-s22-ultra-wallpaper-i-want-to-set-it-on-s23-v0-wog32uztjuqd1.jpeg?width=1200&format=pjpg&auto=webp&s=d92d807b70f5b52245d4c1ebf8b6e03e264445b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S22 Ultra, Purple And Blue Leaves, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/339/141/HD-wallpaper-samsung-galaxy-s22-ultra-purple-and-blue-leaves.jpg' alt='Samsung Galaxy S22 Ultra, Purple And Blue Leaves, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/339/141/HD-wallpaper-samsung-galaxy-s22-ultra-purple-and-blue-leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="S22 Ultra Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/e4/d1/cae4d1ab335e3b828948d6f773f96a7f.jpg' alt='S22 Ultra Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/e4/d1/cae4d1ab335e3b828948d6f773f96a7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S22 wallpapers leak ahead of launch: Download them ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2021/12/Samsung-Galaxy-S22-wallpapers-1-scaled.jpeg?ssl=1' alt='Samsung Galaxy S22 wallpapers leak ahead of launch: Download them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smartprix" />
+                                </span>
+                                <a href='https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2021/12/Samsung-Galaxy-S22-wallpapers-1-scaled.jpeg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ICE UNIVERSE on X: "Samsung Galaxy S22 Ultra+OPPO K9 Pro wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FPDkCKuacAM6jWb?format=jpg&name=large' alt='ICE UNIVERSE on X: "Samsung Galaxy S22 Ultra+OPPO K9 Pro wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="922">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FPDkCKuacAM6jWb?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD samsung galaxy s22 ultra wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/300/644/HD-wallpaper-samsung-galaxy-s22-samsung-galaxy-s22-ultra-thumbnail.jpg' alt='HD samsung galaxy s22 ultra wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/300/644/HD-wallpaper-samsung-galaxy-s22-samsung-galaxy-s22-ultra-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S22 Colorful Flowers, Samsung Galaxy S22 Ultra, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/580/215/HD-wallpaper-samsung-galaxy-s22-colorful-flowers-samsung-galaxy-s22-ultra.jpg' alt='Samsung Galaxy S22 Colorful Flowers, Samsung Galaxy S22 Ultra, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/580/215/HD-wallpaper-samsung-galaxy-s22-colorful-flowers-samsung-galaxy-s22-ultra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S22 Oled Design Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/samsung-galaxy-s22-oled-design-nrabw9yg75r5tju8.jpg' alt='Samsung Galaxy S22 Oled Design Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/samsung-galaxy-s22-oled-design-nrabw9yg75r5tju8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

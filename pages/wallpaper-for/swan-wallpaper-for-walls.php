@@ -1,0 +1,129 @@
+<title>Elegant Swan Wallpaper for Stunning Interiors</title>
+                    <meta name="description" content="Elevate your home's ambiance with our beautiful swan wallpaper. Ideal for any room, these elegant designs blend nature with style, adding a serene touch to your decor. Shop our collection today for the perfect wallpaper that transforms your walls into a masterpiece!">
+                    <meta name="keywords" content="swan wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/swan-wallpaper-for-walls">
+                            <span itemprop="name">swan wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Swan Wallpaper for Stunning Interiors</h1>
+                <p>Transform your living space with elegant swan wallpaper for walls. Perfect for bedrooms, nurseries, or any room craving a touch of nature's beauty, these designs bring serenity and charm. Available in various styles and colors, swan wallpaper adds sophistication while enhancing your decor. Create a tranquil atmosphere today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swan Lake Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.urbanamericandrygoods.com/cdn/shop/products/sl1_2048x.png?v=1580399135' alt='Swan Lake Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urban American Dry Goods" />
+                                </span>
+                                <a href='https://www.urbanamericandrygoods.com/cdn/shop/products/sl1_2048x.png?v=1580399135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Swan Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Wild-Swan-Wallpaper-Mural-2_e5a21620-94d7-4c03-a769-2bb138212e9e_1800x1800.jpg?v=1628805424' alt='Wild Swan Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Wild-Swan-Wallpaper-Mural-2_e5a21620-94d7-4c03-a769-2bb138212e9e_1800x1800.jpg?v=1628805424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Swan Beautiful Love Theme Mural Wallpaper Non Woven Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29488158/r/il/75f57c/3109407038/il_570xN.3109407038_sevf.jpg' alt='3d Swan Beautiful Love Theme Mural Wallpaper Non Woven Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29488158/r/il/75f57c/3109407038/il_570xN.3109407038_sevf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cioffine Peel and Stick Wallpaper,Beautiful Swan Wallpaper Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61DwurXogbL._AC_UF894,1000_QL80_.jpg' alt='Cioffine Peel and Stick Wallpaper,Beautiful Swan Wallpaper Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61DwurXogbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graceful Swan">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/46403/graceful-swan.jpg?h=699&q=85' alt='Graceful Swan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/46403/graceful-swan.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nina Campbell - Swan Lake Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p264_i14_w900.jpeg' alt='Nina Campbell - Swan Lake Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p264_i14_w900.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swan Lake Wallpaper in Midnight">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Swan_Lake_Wallpaper_in_Midnight_by_Nina_Campbell_for_Osborne_Little_5a968b39-0ccb-45e5-afc7-13c46a90440c.jpg?v=1571710145' alt='Swan Lake Wallpaper in Midnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Swan_Lake_Wallpaper_in_Midnight_by_Nina_Campbell_for_Osborne_Little_5a968b39-0ccb-45e5-afc7-13c46a90440c.jpg?v=1571710145' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lily Swan - 6927">
+                                <img itemprop="contentUrl url" src='https://www.scandinavianwallpaper.com/cdn/shop/files/6927_LilySwan_Closeup.webp?v=1706821234&width=1445' alt='Lily Swan - 6927'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandinavian Wallpaper" />
+                                </span>
+                                <a href='https://www.scandinavianwallpaper.com/cdn/shop/files/6927_LilySwan_Closeup.webp?v=1706821234&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swan Lake, Nightfall">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638284127/articles/R16222_interior1.jpg' alt='Swan Lake, Nightfall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638284127/articles/R16222_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Swan Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Wild-Swan-Wallpaper-Mural-3_f445f6d5-579c-47e7-8b25-23de9f55b2f8_1800x1800.jpg?v=1628805424' alt='Wild Swan Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1639">
+                                <meta itemprop="height" content="1505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Wild-Swan-Wallpaper-Mural-3_f445f6d5-579c-47e7-8b25-23de9f55b2f8_1800x1800.jpg?v=1628805424' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

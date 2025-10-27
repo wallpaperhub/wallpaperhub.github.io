@@ -1,0 +1,129 @@
+<title>Sporty Basketball Wallpapers for Girls - Stylish & Inspiring</title>
+                    <meta name="description" content="Discover trendy basketball wallpapers tailored for girls! Our collection blends sporty themes with chic designs, perfect for inspiring young athletes. Transform your room into a vibrant space that celebrates your love for the game. Explore stylish options that motivate and energize!">
+                    <meta name="keywords" content="sporty basketball wallpaper for girls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/sporty-basketball-wallpaper-for-girls">
+                            <span itemprop="name">sporty basketball wallpaper for girls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sporty Basketball Wallpapers for Girls - Stylish & Inspiring</h1>
+                <p>Elevate your space with sporty basketball wallpapers designed just for girls! Celebrate your passion for the game with vibrant designs and inspiring motifs that fuse style and athleticism. Perfect for bedrooms or study areas, these wallpapers exude energy and motivation, bringing your love for basketball to life in every corner!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl basketball wallpaper colorful">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/99/67/2f9967cbbf290912afa2953430b23a51.jpg' alt='Girl basketball wallpaper colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/99/67/2f9967cbbf290912afa2953430b23a51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Inspirational Phone Wallpapers for Basketball Girls – Rocksdevie">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0367/2902/8745/files/Mobile_Scrappy_Basketball.jpg?v=1647116685' alt='New Inspirational Phone Wallpapers for Basketball Girls – Rocksdevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocksdevie" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0367/2902/8745/files/Mobile_Scrappy_Basketball.jpg?v=1647116685' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Somethings in basketball for girls:)) | Pink wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' alt='Somethings in basketball for girls:)) | Pink wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Basketballs Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8814323/p/f/m/5W0tv69A6nhsJelWGq9woVJC8hFiflCksNce8jmeVXopuUOpm_Ck6fVlBZA/Pink%20basketballs%20on%20black%20-%20small.jpg' alt='Pink Basketballs Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8814323/p/f/m/5W0tv69A6nhsJelWGq9woVJC8hFiflCksNce8jmeVXopuUOpm_Ck6fVlBZA/Pink%20basketballs%20on%20black%20-%20small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Inspirational Phone Wallpapers for Basketball Girls – Rocksdevie">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0367/2902/8745/files/Mobile_Dream_Big_Basketball.jpg?v=1647116582' alt='New Inspirational Phone Wallpapers for Basketball Girls – Rocksdevie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocksdevie" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0367/2902/8745/files/Mobile_Dream_Big_Basketball.jpg?v=1647116582' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Pink Basketball Stock Illustrations – 111 Girl Pink ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/basketball-wallpaper-girls-pink-aesthetic-vibrant-rests-elegantly-indoor-space-surrounded-soft-light-353117018.jpg' alt='Girl Pink Basketball Stock Illustrations – 111 Girl Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/basketball-wallpaper-girls-pink-aesthetic-vibrant-rests-elegantly-indoor-space-surrounded-soft-light-353117018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' alt='100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-girl-inspiration-collage-nbmamj30glvyp4iw.jpg' alt='100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-girl-inspiration-collage-nbmamj30glvyp4iw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sporty pastel #sports #aesthetic #wallpaper #sportsaestheticwallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/9e/60/0f9e60a2678f90a6cb300af045d8932b.jpg' alt='Sporty pastel #sports #aesthetic #wallpaper #sportsaestheticwallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/9e/60/0f9e60a2678f90a6cb300af045d8932b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Basketballs Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11215630/p/f/m/84e9Buy19r8-8pOw4dOb9g7-DhmprECRg8wRVQNmY6cb3gjfMP6wvI4/Pink%20Basketballs%20%26%20Stars.jpg' alt='Pink Basketballs Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11215630/p/f/m/84e9Buy19r8-8pOw4dOb9g7-DhmprECRg8wRVQNmY6cb3gjfMP6wvI4/Pink%20Basketballs%20%26%20Stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

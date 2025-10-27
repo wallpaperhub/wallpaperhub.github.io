@@ -1,0 +1,129 @@
+<title>Skittles Transparent Background Images: Enhance Your Designs</title>
+                    <meta name="description" content="Discover high-quality Skittles images on a transparent background. Perfect for designs, ads, and social media! Make your projects pop with vibrant colors that attract attention. Download now for that extra dash of visual appeal!">
+                    <meta name="keywords" content="skittles transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skittles-transparent-background">
+                            <span itemprop="name">skittles transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skittles Transparent Background Images: Enhance Your Designs</h1>
+                <p>Skittles with a transparent background create a vibrant, eye-catching visual that's perfect for marketing or creative projects. Use these images to enhance your designs, social media posts, or promotional materials, making your content stand out with the iconic rainbow colors of Skittles without any distractions from the backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 2729x1919px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG98752.png' alt='Skittles PNG transparent image download, size: 2729x1919px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2729">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG98752.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 695x391px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG14.png' alt='Skittles PNG transparent image download, size: 695x391px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 2048x1536px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG1.png' alt='Skittles PNG transparent image download, size: 2048x1536px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 1024x1024px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG5.png' alt='Skittles PNG transparent image download, size: 1024x1024px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 300x300px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG29.png' alt='Skittles PNG transparent image download, size: 300x300px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/615/938/png-clipart-full-skittles-chocolate-candy-thumbnail.png' alt='Skittles png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/615/938/png-clipart-full-skittles-chocolate-candy-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG transparent image download, size: 2290x1414px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/skittles_PNG3.png' alt='Skittles PNG transparent image download, size: 2290x1414px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2290">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/skittles_PNG3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Render, Skittles original, png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/767/267/png-clipart-candy-render-skittles-original.png' alt='Candy Render, Skittles original, png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/767/267/png-clipart-candy-render-skittles-original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skittles PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180605/whg/aa9yuql35.webp' alt='Skittles PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180605/whg/aa9yuql35.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="skittles logo | Rutter's">
+                                <img itemprop="contentUrl url" src='https://www.rutters.com/wp-content/uploads/2021/04/503-5037711_skittles-logo-png-transparent-png.jpg' alt='skittles logo | Rutter's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rutter's" />
+                                </span>
+                                <a href='https://www.rutters.com/wp-content/uploads/2021/04/503-5037711_skittles-logo-png-transparent-png.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

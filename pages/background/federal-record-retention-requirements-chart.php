@@ -1,0 +1,129 @@
+<title>Essential Federal Record Retention Requirements Guide</title>
+                    <meta name="description" content="Explore essential guidelines with our federal record retention requirements chart. Learn how long various records must be kept to ensure compliance and avoid legal pitfalls. Make informed decisions on records management for your agency today!">
+                    <meta name="keywords" content="federal record retention requirements chart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/federal-record-retention-requirements-chart">
+                            <span itemprop="name">federal record retention requirements chart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Federal Record Retention Requirements Guide</h1>
+                <p>Federal record retention requirements chart outlines the timeframes government agencies must retain specific records to ensure compliance and transparency. These guidelines vary by record type, such as personnel files, financial documents, and correspondence. Knowing these requirements helps agencies manage their records effectively and avoid legal issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Federal Record Retention Periods | First Healthcare ...">
+                                <img itemprop="contentUrl url" src='https://1sthcc.com/wp-content/uploads/2019/01/Federal-Record-Retention-Periods.png' alt='Infographic: Federal Record Retention Periods | First Healthcare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Healthcare Compliance" />
+                                </span>
+                                <a href='https://1sthcc.com/wp-content/uploads/2019/01/Federal-Record-Retention-Periods.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Record Retention Best Practices | Syracuse CPA Firm">
+                                <img itemprop="contentUrl url" src='https://www.dbbllc.com/sites/default/files/inline-images/Record%20Retention%20Chart_0.JPG' alt='Record Retention Best Practices | Syracuse CPA Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dermody, Burke & Brown, CPAs, LLC" />
+                                </span>
+                                <a href='https://www.dbbllc.com/sites/default/files/inline-images/Record%20Retention%20Chart_0.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="record retention - R&Co">
+                                <img itemprop="contentUrl url" src='https://rosenfieldandco.com/wp-content/uploads/2019/12/record-retention.png' alt='record retention - R&Co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosenfield and Co" />
+                                </span>
+                                <a href='https://rosenfieldandco.com/wp-content/uploads/2019/12/record-retention.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Retention Schedule Detail For Your Business">
+                                <img itemprop="contentUrl url" src='https://corodata.com/wp-content/uploads/2023/05/Content-Upgrade-corodata-records-retention-guidelines-pdf-1000x1294.jpg' alt='What Does a Retention Schedule Detail For Your Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corodata" />
+                                </span>
+                                <a href='https://corodata.com/wp-content/uploads/2023/05/Content-Upgrade-corodata-records-retention-guidelines-pdf-1000x1294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legal Retention Periods and Guidelines | Record Nations">
+                                <img itemprop="contentUrl url" src='https://www.recordnations.com/wp-content/uploads/2017/05/Managing-Record-Retention-683x1024.png' alt='Legal Retention Periods and Guidelines | Record Nations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Record Nations" />
+                                </span>
+                                <a href='https://www.recordnations.com/wp-content/uploads/2017/05/Managing-Record-Retention-683x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Company Laws - recordkeeping">
+                                <img itemprop="contentUrl url" src='http://www.michaelgarcialaw.com/images/Record%20Retention%20Chart%20copy.jpg' alt='Moving Company Laws - recordkeeping'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1441">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office of Michael Garcia" />
+                                </span>
+                                <a href='http://www.michaelgarcialaw.com/images/Record%20Retention%20Chart%20copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US (Federal) Data Retention Schedule - filerskeepers">
+                                <img itemprop="contentUrl url" src='https://www.filerskeepers.co/wp-content/uploads/2018/03/USA-federal-environmental-.png' alt='US (Federal) Data Retention Schedule - filerskeepers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1570">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="filerskeepers" />
+                                </span>
+                                <a href='https://www.filerskeepers.co/wp-content/uploads/2018/03/USA-federal-environmental-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Healthcare Records Retention Chart - Lexology">
+                                <img itemprop="contentUrl url" src='https://files.lexology.com/images/lexology/static/36699b45-87ac-47d6-8682-c66b534ae666.PNG' alt='Healthcare Records Retention Chart - Lexology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lexology" />
+                                </span>
+                                <a href='https://files.lexology.com/images/lexology/static/36699b45-87ac-47d6-8682-c66b534ae666.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Records Retention Requirements - HRCalifornia">
+                                <img itemprop="contentUrl url" src='https://hrcalifornia.calchamber.com/api/calchamber/Form/DownloadImage?id={AD486375-BD4E-4864-9AED-8E3E972D29B2}' alt='Records Retention Requirements - HRCalifornia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HRCalifornia - California Chamber of Commerce" />
+                                </span>
+                                <a href='https://hrcalifornia.calchamber.com/api/calchamber/Form/DownloadImage?id={AD486375-BD4E-4864-9AED-8E3E972D29B2}' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sponsored: What to keep, record retention guidelines - Business ...">
+                                <img itemprop="contentUrl url" src='https://businessnc.com/wp-content/uploads/2020/02/screen-shot-2020-02-03-at-2.46.54-pm-644x1024.png' alt='Sponsored: What to keep, record retention guidelines - Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business North Carolina" />
+                                </span>
+                                <a href='https://businessnc.com/wp-content/uploads/2020/02/screen-shot-2020-02-03-at-2.46.54-pm-644x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

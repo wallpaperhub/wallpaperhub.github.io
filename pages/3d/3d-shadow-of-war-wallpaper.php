@@ -1,0 +1,129 @@
+<title>Stunning 3D Shadow of War Wallpapers</title>
+                    <meta name="description" content="Discover amazing 3D Shadow of War wallpapers to enhance your digital space. Perfect for fans of the game, these vivid images offer stunning visuals of epic battles and characters. Elevate your device’s look today!">
+                    <meta name="keywords" content="3d shadow of war wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-shadow-of-war-wallpaper">
+                            <span itemprop="name">3d shadow of war wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Shadow of War Wallpapers</h1>
+                <p>Immerse yourself in the captivating world of Middle-earth with stunning 3D Shadow of War wallpapers. These vibrant images showcase epic battles, iconic characters, and the breathtaking landscapes of the game. Elevate your device's aesthetic while celebrating the adventure and richness of Shadow of War. Download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/middle-earth-shadow-of-war-wiw7amrour33u848.jpg' alt='100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/middle-earth-shadow-of-war-wiw7amrour33u848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/middle-earth-shadow-of-war-talion-with-uruk-helmet-1jkbpd673anud8ds.jpg' alt='100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/middle-earth-shadow-of-war-talion-with-uruk-helmet-1jkbpd673anud8ds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Games The Shop - Here's the Middle-earth: Shadow of War wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1565379943519361' alt='Games The Shop - Here's the Middle-earth: Shadow of War wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1603">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1565379943519361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Middle-earth: Shadow Of War Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/153/153943.jpg' alt='Download Video Game Middle-earth: Shadow Of War Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/153/153943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle-Earth Shadow of War 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/22/42/1122424fb90a12ebf23c88391e359de1.jpg' alt='Middle-Earth Shadow of War 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/22/42/1122424fb90a12ebf23c88391e359de1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Shadow Of War Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-shadow-of-war-background-3840-x-2130-k6jjiiid9dufbiay.jpg' alt='100+] 4k Shadow Of War Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-shadow-of-war-background-3840-x-2130-k6jjiiid9dufbiay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Game Middle Earth Shadow Of Mordor HD Wallpaper - Sty… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3852/15104464368_79da2ed018_h.jpg' alt='Full Game Middle Earth Shadow Of Mordor HD Wallpaper - Sty… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3852/15104464368_79da2ed018_h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shadow Of War 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/shadow-of-war-4k-al7ooq2c2g8uqfcw.jpg' alt='100+] Shadow Of War 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/shadow-of-war-4k-al7ooq2c2g8uqfcw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle-earth- Shadow of War Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2017/03/Middle-earth-Shadow-of-War-720P-Wallpaper-1.jpg' alt='Middle-earth- Shadow of War Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2017/03/Middle-earth-Shadow-of-War-720P-Wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/middle-earth-shadow-of-war-character-poster-textless-8zcq3suzvnb57a3l.jpg' alt='100+] Middle Earth Shadow Of War Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/middle-earth-shadow-of-war-character-poster-textless-8zcq3suzvnb57a3l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

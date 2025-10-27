@@ -1,0 +1,129 @@
+<title>Stunning Skeleton Wallpaper for Your Desktop</title>
+                    <meta name="description" content="Discover the perfect skeleton wallpaper for your desktop! Our selection offers unique designs that are both spooky and stylish, perfect for any season. Transform your screen with high-quality images that reflect your personality and vibe. Explore now for a standout look!">
+                    <meta name="keywords" content="skeleton wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/skeleton-wallpaper-desktop">
+                            <span itemprop="name">skeleton wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Skeleton Wallpaper for Your Desktop</h1>
+                <p>Transform your workspace with captivating skeleton wallpaper designs that blend style and eeriness! Perfect for Halloween or adding a unique twist to your desktop, these wallpapers come in various artistic styles, bringing a playful yet spooky vibe. Explore a collection that suits your personality and enhances your screen aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeletons are cute [1920x1080][OC] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/prso9dp53pl31.png?auto=webp&s=52743a1dc3ed93e0ddbc60671fd68f1e2b89d356' alt='Skeletons are cute [1920x1080][OC] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/prso9dp53pl31.png?auto=webp&s=52743a1dc3ed93e0ddbc60671fd68f1e2b89d356' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Skeleton HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/173/173175.jpg' alt='Download Dark Skeleton HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/173/173175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Skeleton Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goetic-skeleton-desktop-x651cpet4v1s3f94.jpg' alt='400+] Skeleton Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goetic-skeleton-desktop-x651cpet4v1s3f94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="idk">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/7b/61/3a7b61b9beb4b47a02e51a0efec17538.jpg' alt='idk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/7b/61/3a7b61b9beb4b47a02e51a0efec17538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton And Ants Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skeleton-and-ants-s2jj50aheh714w7w-3.jpg' alt='Skeleton And Ants Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skeleton-and-ants-s2jj50aheh714w7w-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Black Background ·① WallpaperTag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/ba/fa/7abafa813378d0d307cae346bebd38fd.jpg' alt='Skull Black Background ·① WallpaperTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/ba/fa/7abafa813378d0d307cae346bebd38fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Skeleton Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-white-skeleton-desktop-lit8g9r9buycqa7w.jpg' alt='Black And White Skeleton Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-white-skeleton-desktop-lit8g9r9buycqa7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Wallpaper by icoeph on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef0c45d-d8eb-4a51-b75b-18b5653b3942/d1t5zxn-e7e78c8a-0dc4-4ebb-a48f-e65505598622.jpg/v1/fill/w_1131,h_707,q_70,strp/skeleton_wallpaper_by_icoeph_d1t5zxn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1MCIsInBhdGgiOiJcL2ZcLzZlZjBjNDVkLWQ4ZWItNGE1MS1iNzViLTE4YjU2NTNiMzk0MlwvZDF0NXp4bi1lN2U3OGM4YS0wZGM0LTRlYmItYTQ4Zi1lNjU1MDU1OTg2MjIuanBnIiwid2lkdGgiOiI8PTE2ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.guR1Bc7vUNvOylFzbe4XD9qd-5g1-kMHl_E7vCIghu4' alt='Skeleton Wallpaper by icoeph on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef0c45d-d8eb-4a51-b75b-18b5653b3942/d1t5zxn-e7e78c8a-0dc4-4ebb-a48f-e65505598622.jpg/v1/fill/w_1131,h_707,q_70,strp/skeleton_wallpaper_by_icoeph_d1t5zxn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1MCIsInBhdGgiOiJcL2ZcLzZlZjBjNDVkLWQ4ZWItNGE1MS1iNzViLTE4YjU2NTNiMzk0MlwvZDF0NXp4bi1lN2U3OGM4YS0wZGM0LTRlYmItYTQ4Zi1lNjU1MDU1OTg2MjIuanBnIiwid2lkdGgiOiI8PTE2ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.guR1Bc7vUNvOylFzbe4XD9qd-5g1-kMHl_E7vCIghu4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Skeleton Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/skeleton-desktop-hf5cebz66nrup1ok.jpg' alt='100+] Skeleton Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/skeleton-desktop-hf5cebz66nrup1ok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

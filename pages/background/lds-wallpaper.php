@@ -1,0 +1,129 @@
+<title>LDS Wallpaper: Inspiring Designs for Every Device</title>
+                    <meta name="description" content="Discover stunning LDS wallpaper that uplifts and inspires. Perfect for personalizing your devices, these wallpapers feature beautiful scriptures and art that reflect your faith. Enhance your digital experience with designs that resonate with your beliefs and values. Explore our collection today!">
+                    <meta name="keywords" content="lds wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lds-wallpaper">
+                            <span itemprop="name">lds wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LDS Wallpaper: Inspiring Designs for Every Device</h1>
+                <p>Your search for "LDS wallpaper" brings you a variety of inspiring designs that reflect the values and beliefs of The Church of Jesus Christ of Latter-day Saints. These wallpapers showcase beautiful spiritual imagery, scriptures, and uplifting quotes to enhance your digital space, fostering faith and motivation in daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/28e075cd39403fd68e18c7ab77c21b9664ec6e85/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/28e075cd39403fd68e18c7ab77c21b9664ec6e85/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/df5736d99bca1186be4068c18b79eb6635994d74/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/df5736d99bca1186be4068c18b79eb6635994d74/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.churchofjesuschrist.org/imgs/ddf28b276cb6ae85b0df4527b085ae63da7e4cbc/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://www.churchofjesuschrist.org/imgs/ddf28b276cb6ae85b0df4527b085ae63da7e4cbc/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/5ff9cf90ee703e036bc1db212e7605d7c4c1802d/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/5ff9cf90ee703e036bc1db212e7605d7c4c1802d/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/1c003bf5e77d13fabfb59ee92cbf267d84f3cab2/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/1c003bf5e77d13fabfb59ee92cbf267d84f3cab2/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/a3230adb15d7414f9e0c121a1c6fadb4cc51f0ed/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/a3230adb15d7414f9e0c121a1c6fadb4cc51f0ed/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/144fbf0e75d5c9360f2d229311456917b57470e6/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/144fbf0e75d5c9360f2d229311456917b57470e6/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/6b5d2524458d3a5a9f222064d617bf4545ce0ec1/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/6b5d2524458d3a5a9f222064d617bf4545ce0ec1/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/4565b9e8781586a8630a56b557a7a559f04b6ed8/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/4565b9e8781586a8630a56b557a7a559f04b6ed8/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy Daily Inspiration and Teachings from Jesus Christ ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-0ht626mteqci9x5p.jpg' alt='Download Enjoy Daily Inspiration and Teachings from Jesus Christ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-0ht626mteqci9x5p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

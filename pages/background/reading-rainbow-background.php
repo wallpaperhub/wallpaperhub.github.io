@@ -1,0 +1,129 @@
+<title>Explore the Vibrant World of Reading Rainbow Backgrounds</title>
+                    <meta name="description" content="Dive into the enchanting world of Reading Rainbow backgrounds! Discover how these colorful visuals inspired children's love for reading and imagination. Perfect for educators, parents, and fans, our collection celebrates the beauty and joy of storytelling. Enhance your projects with these vibrant themes today!">
+                    <meta name="keywords" content="reading rainbow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reading-rainbow-background">
+                            <span itemprop="name">reading rainbow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Vibrant World of Reading Rainbow Backgrounds</h1>
+                <p>Reading Rainbow background refers to the vibrant, colorful imagery inspired by the beloved children's program. This iconic show celebrated literature and imagination, featuring lush rainforests, serene skies, and magical landscapes that captivate young viewers. Its essence encourages exploration and the joy of reading, making it an enduring source of inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reading Rainbow - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/8/88/Reading_Rainbow_%28logo%29.png' alt='Reading Rainbow - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/8/88/Reading_Rainbow_%28logo%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reading Rainbow Stories | PBS LearningMedia — Mountain Lake PBS">
+                                <img itemprop="contentUrl url" src='https://cdn.mountainlake.org/wp-content/uploads/2023/07/20125451/readingrainbow1920x1080-1155x770.jpg' alt='Reading Rainbow Stories | PBS LearningMedia — Mountain Lake PBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mountain Lake PBS" />
+                                </span>
+                                <a href='https://cdn.mountainlake.org/wp-content/uploads/2023/07/20125451/readingrainbow1920x1080-1155x770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Language Arts: Reading Rainbow Stories">
+                                <img itemprop="contentUrl url" src='https://wpsu.psu.edu/wp-content/uploads/2024/05/Reading-Rainbow-Stories.png' alt='English Language Arts: Reading Rainbow Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WPSU Penn State" />
+                                </span>
+                                <a href='https://wpsu.psu.edu/wp-content/uploads/2024/05/Reading-Rainbow-Stories.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Reading Rainbow">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064782875560' alt='Profile for Reading Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064782875560' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reading Rainbow | PBS Kids Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pbskidschannel/images/9/96/Reading-rainbow-logo-png-transparent.png/revision/latest?cb=20220415183623' alt='Reading Rainbow | PBS Kids Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2230">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS Kids Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pbskidschannel/images/9/96/Reading-rainbow-logo-png-transparent.png/revision/latest?cb=20220415183623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reading Rainbow's Kickstarter campaign rakes in more than $6 ...">
+                                <img itemprop="contentUrl url" src='https://fox5sandiego.com/wp-content/uploads/sites/15/2014/07/img_01931.png' alt='Reading Rainbow's Kickstarter campaign rakes in more than $6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 5 San Diego" />
+                                </span>
+                                <a href='https://fox5sandiego.com/wp-content/uploads/sites/15/2014/07/img_01931.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Video: Reading Rainbow Season 7">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/pv-target-images/80dbb415349ca883dcfe251639366611b02e34523d8058aca206323eead297ee.jpg' alt='Prime Video: Reading Rainbow Season 7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Video" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/pv-target-images/80dbb415349ca883dcfe251639366611b02e34523d8058aca206323eead297ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reading Rainbow | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.44295446.0395/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Reading Rainbow | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.44295446.0395/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Untold Truth Of Reading Rainbow">
+                                <img itemprop="contentUrl url" src='https://www.grunge.com/img/gallery/the-untold-truth-of-reading-rainbow/reading-rainbows-name-came-from-an-unknown-intern-1702488091.jpg' alt='The Untold Truth Of Reading Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grunge" />
+                                </span>
+                                <a href='https://www.grunge.com/img/gallery/the-untold-truth-of-reading-rainbow/reading-rainbows-name-came-from-an-unknown-intern-1702488091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeVar Burton: Reading Rainbow Helped Build A Generation of Readers ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/16b04ff/2147483647/strip/true/crop/700x394+0+66/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwuwm%2Ffiles%2F201602%2Freading-rainbow-kickstarter1.jpg' alt='LeVar Burton: Reading Rainbow Helped Build A Generation of Readers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WUWM" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/16b04ff/2147483647/strip/true/crop/700x394+0+66/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwuwm%2Ffiles%2F201602%2Freading-rainbow-kickstarter1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

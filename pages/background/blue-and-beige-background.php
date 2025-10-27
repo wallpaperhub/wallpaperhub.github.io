@@ -1,0 +1,129 @@
+<title>Blue & Beige Background: A Perfect Combination for Design</title>
+                    <meta name="description" content="Discover the beauty of a blue and beige background! This color combo adds a touch of elegance and tranquility to your designs. Ideal for websites, graphics, and interior decor, it's versatile and visually appealing. Enhance your space today with this stunning palette!">
+                    <meta name="keywords" content="blue and beige background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-beige-background">
+                            <span itemprop="name">blue and beige background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue & Beige Background: A Perfect Combination for Design</h1>
+                <p>A blue and beige background offers a soothing and stylish color palette that can elevate any design project. The calming blue pairs beautifully with the warm, neutral tones of beige, creating a harmonious balance. This combination is perfect for both modern and classic aesthetics, enhancing the overall ambiance of your space or digital design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Beige Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-beach-themed-hand-painted-alcohol-ink-background_1048-20327.jpg' alt='Blue Beige Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-beach-themed-hand-painted-alcohol-ink-background_1048-20327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,300+ Blue Beige Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2181147587/vector/abstract-defocused-background-sea-blue-light-blue-beige-pastel-colored.jpg?s=612x612&w=0&k=20&c=yKa-4qkVWp2qBQ2qe4qflAvggfjnviGXKjvWXdLViYI=' alt='6,300+ Blue Beige Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2181147587/vector/abstract-defocused-background-sea-blue-light-blue-beige-pastel-colored.jpg?s=612x612&w=0&k=20&c=yKa-4qkVWp2qBQ2qe4qflAvggfjnviGXKjvWXdLViYI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,300+ Blue Beige Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1872127123/vector/abstract-pastel-beige-of-stain-splash-watercolor-background.jpg?s=612x612&w=0&k=20&c=mXkYcsPcWowPNLtM88CVvnd4mrcAcYp9kVFgxES6EcE=' alt='6,300+ Blue Beige Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1872127123/vector/abstract-pastel-beige-of-stain-splash-watercolor-background.jpg?s=612x612&w=0&k=20&c=mXkYcsPcWowPNLtM88CVvnd4mrcAcYp9kVFgxES6EcE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Background Bundle, Light Blue Beige - Elegant Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/81/78/8f8178b3427b313295f6c6032817f3b4.jpg' alt='Watercolor Background Bundle, Light Blue Beige - Elegant Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1038">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/81/78/8f8178b3427b313295f6c6032817f3b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Background Blue Beige Color Stock Photo 204108628 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/grunge-background-blue-beige-color-260nw-204108628.jpg' alt='Grunge Background Blue Beige Color Stock Photo 204108628 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/grunge-background-blue-beige-color-260nw-204108628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicate And Beautiful Beige And Blue Streaks A Stunning Textured ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20231030/pngtree-delicate-and-beautiful-beige-and-blue-streaks-a-stunning-textured-background-image_13744250.png' alt='Delicate And Beautiful Beige And Blue Streaks A Stunning Textured ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20231030/pngtree-delicate-and-beautiful-beige-and-blue-streaks-a-stunning-textured-background-image_13744250.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic beige and blue wallpapers and background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/85/18/ba8518ed3fd291bd0510674763468b1a.jpg' alt='Aesthetic beige and blue wallpapers and background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/85/18/ba8518ed3fd291bd0510674763468b1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Beige Abstract Glass Texture Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/blue-beige-abstract-glass-texture-260nw-675787813.jpg' alt='Blue Beige Abstract Glass Texture Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/blue-beige-abstract-glass-texture-260nw-675787813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract pastel beige and blue watercolor background texture, hand ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/96/18/57/1000_F_496185704_JjY8hIP3flGj9zp9OGp1RUxHUfw9F6t7.jpg' alt='Abstract pastel beige and blue watercolor background texture, hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/96/18/57/1000_F_496185704_JjY8hIP3flGj9zp9OGp1RUxHUfw9F6t7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background in blue and beige color — Stock Photo © HorenkO #55448461">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/3008028/5544/i/950/depositphotos_55448461-stock-photo-background-in-blue-and-beige.jpg' alt='Background in blue and beige color — Stock Photo © HorenkO #55448461'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="796">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/3008028/5544/i/950/depositphotos_55448461-stock-photo-background-in-blue-and-beige.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

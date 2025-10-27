@@ -1,0 +1,129 @@
+<title>Blue VHS Background: A Retro Touch for Your Projects</title>
+                    <meta name="description" content="Explore the captivating blue VHS background that brings retro flair to your designs. Ideal for nostalgic projects, this vibrant backdrop is perfect for videos, posters, and digital art. Unleash your creativity with this eye-catching and classic theme!">
+                    <meta name="keywords" content="blue vhs background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-vhs-background">
+                            <span itemprop="name">blue vhs background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue VHS Background: A Retro Touch for Your Projects</h1>
+                <p>Discover the nostalgic charm of a blue VHS background! Perfect for retro-themed projects, this vibrant backdrop captures the essence of classic films. Use it to evoke memories and add a unique flair to your posters, videos, or digital art. Embrace the vintage vibe and let your creativity flourish with a touch of blue!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vhs Tape Damaged Blue Background Vintage">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1040150006/thumb/1.jpg' alt='Vhs Tape Damaged Blue Background Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1040150006/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VHS Blue Screen Texture FREE (Download in description) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8tPMfvMv0kM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBwgMyh_MA8=&rs=AOn4CLBwgTXtlJ55VVQxnPXHn5wZM59g6Q' alt='VHS Blue Screen Texture FREE (Download in description) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8tPMfvMv0kM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBwgMyh_MA8=&rs=AOn4CLBwgTXtlJ55VVQxnPXHn5wZM59g6Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VHS Blue Background - Stock Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/1570966-9bocDwH5qM-high_0009.jpg?w=660&q=60&fit=max&auto=format' alt='VHS Blue Background - Stock Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/1570966-9bocDwH5qM-high_0009.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue VHS Tape Screen Noise - Stock Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/motion-array-1433069-Y4Vv4bmDF1-high_0008.jpg?w=660&q=60&fit=max&auto=format' alt='Blue VHS Tape Screen Noise - Stock Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/motion-array-1433069-Y4Vv4bmDF1-high_0008.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE VIDEO ] REAL PLAY Logo from vhs + VHS Glitch with blue screen ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CnSraVwvJ1o/sddefault.jpg' alt='FREE VIDEO ] REAL PLAY Logo from vhs + VHS Glitch with blue screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CnSraVwvJ1o/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VHS 16 10 blue Screen">
+                                <img itemprop="contentUrl url" src='https://thumb.r2.moele.me/t/25980/25970297/a-0180.jpg' alt='VHS 16 10 blue Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock animation" />
+                                </span>
+                                <a href='https://thumb.r2.moele.me/t/25980/25970297/a-0180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector realistic isolated VHS template screen with the blue ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/82/37/64/1000_F_482376409_lUlIotmWsz5LRGqHGdzP23zb4Ehkv0OK.jpg' alt='Vector realistic isolated VHS template screen with the blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/82/37/64/1000_F_482376409_lUlIotmWsz5LRGqHGdzP23zb4Ehkv0OK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VAULT OF VHS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d9/53/20/d9532062daab73778b1f746684e044e8.gif' alt='VAULT OF VHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d9/53/20/d9532062daab73778b1f746684e044e8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VHS Blue Background with Noise">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/vhs-blue-background-noise-footage-125553291_iconl.jpeg' alt='VHS Blue Background with Noise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/vhs-blue-background-noise-footage-125553291_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch Vhs Blue Noise Abstract, Grunge Modern Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/glitch-vhs-blue-noise-abstract-grunge-modern-screen-background-147676368.jpg' alt='Glitch Vhs Blue Noise Abstract, Grunge Modern Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/glitch-vhs-blue-noise-abstract-grunge-modern-screen-background-147676368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

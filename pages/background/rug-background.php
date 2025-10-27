@@ -1,0 +1,129 @@
+<title>Enhance Your Space: The Impact of Rug Backgrounds</title>
+                    <meta name="description" content="Discover how rug backgrounds can elevate your home decor. Explore various textures, colors, and patterns that bring warmth and style to your spaces. Find the perfect rug to complement your design and create a cohesive, inviting atmosphere in any room.">
+                    <meta name="keywords" content="rug background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rug-background">
+                            <span itemprop="name">rug background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space: The Impact of Rug Backgrounds</h1>
+                <p>Rug backgrounds can transform any space, adding warmth and character. They come in various textures, colors, and patterns, making it easy to find the perfect match for your decor. A well-chosen rug can serve as a stunning focal point, enhance the ambience, and tie together elements of your room, creating a cohesive look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate White Shag Rug Floor Designed by Mini MakeBelieve">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/BH1050925G.jpg?v=1719410560&width=1000' alt='Kate White Shag Rug Floor Designed by Mini MakeBelieve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/BH1050925G.jpg?v=1719410560&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sheep fur. Pink sheepskin rug background">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/659cb4df5e73de9fac24cff68b7749439fa97206ffa82001f0e60e8124b21bc4.jpg' alt='Sheep fur. Pink sheepskin rug background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/659cb4df5e73de9fac24cff68b7749439fa97206ffa82001f0e60e8124b21bc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rug Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grey-carpet-background_1339-7412.jpg' alt='Rug Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grey-carpet-background_1339-7412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rug Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/soft-white-carpet-indoors-background_181624-30396.jpg' alt='Rug Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/soft-white-carpet-indoors-background_181624-30396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 Carpet Rug Background Textures by TexturesStore | 3DOcean">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/400297592/34-Carpet-Rug-Background-Texture.jpg' alt='70 Carpet Rug Background Textures by TexturesStore | 3DOcean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="3DOcean" />
+                                </span>
+                                <a href='https://s3.envato.com/files/400297592/34-Carpet-Rug-Background-Texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carpet Background" Images – Browse 675 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/21/02/13/360_F_1121021324_SyxxIkKVnM7dSLHO39YAHhHOD0GnaSEj.jpg' alt='Carpet Background" Images – Browse 675 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/21/02/13/360_F_1121021324_SyxxIkKVnM7dSLHO39YAHhHOD0GnaSEj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,800+ Fluffy White Rug Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/643465666/photo/shaggy-blanket-texture.jpg?s=612x612&w=0&k=20&c=L4awKOf0zrudfbd-no0tGc4af0fBCe4i2dxkbXtXqiM=' alt='3,800+ Fluffy White Rug Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/643465666/photo/shaggy-blanket-texture.jpg?s=612x612&w=0&k=20&c=L4awKOf0zrudfbd-no0tGc4af0fBCe4i2dxkbXtXqiM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Natural sheepskin rug background texture sheep fur, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/92/90/22/1000_F_192902239_jVqraNmomHROjY4ZYAJOvttSIBso4d4e.jpg' alt='Poster, Print Natural sheepskin rug background texture sheep fur, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/92/90/22/1000_F_192902239_jVqraNmomHROjY4ZYAJOvttSIBso4d4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey carpet background by Wdnet Studio">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/grey-carpet-background-wdnet-studio.jpg' alt='Grey carpet background by Wdnet Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/grey-carpet-background-wdnet-studio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="380+ Fur Green Rug Textured Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1350782130/photo/fur-texture-top-view-turquoise-fur-background-fur-pattern-texture-of-turquoise-shaggy-fur.jpg?s=612x612&w=0&k=20&c=DQQn4WDyhT4n0HUxsSyri5h2fMCF3JI-gbdhLcb_iAg=' alt='380+ Fur Green Rug Textured Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1350782130/photo/fur-texture-top-view-turquoise-fur-background-fur-pattern-texture-of-turquoise-shaggy-fur.jpg?s=612x612&w=0&k=20&c=DQQn4WDyhT4n0HUxsSyri5h2fMCF3JI-gbdhLcb_iAg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

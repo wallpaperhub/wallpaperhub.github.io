@@ -1,0 +1,129 @@
+<title>Pride Month Wallpapers: Express Your Support</title>
+                    <meta name="description" content="Explore our stunning collection of Pride Month wallpapers, perfect for expressing support for the LGBTQ+ community. Bright colors and inspiring designs will keep you motivated and celebrating diversity on all your devices. Download now and make a bold statement this Pride Month!">
+                    <meta name="keywords" content="pride month wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pride-month-wallpaper">
+                            <span itemprop="name">pride month wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pride Month Wallpapers: Express Your Support</h1>
+                <p>Celebrate Pride Month with vibrant wallpapers that showcase your support for the LGBTQ+ community! From rainbow designs to empowering messages, our collection offers colorful visuals that inspire unity and love. Perfect for your phone, tablet, or desktop, these wallpapers serve as a daily reminder to embrace diversity and spread positivity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,400+ Rainbow Pride Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399734934/vector/lgbtqia-rainbow-pride-flag-striped-background-vector.jpg?s=612x612&w=0&k=20&c=BATovb0wBM7BQ7doNnFEszpzpE5qOzxAG0RB_68EIMI=' alt='10,400+ Rainbow Pride Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399734934/vector/lgbtqia-rainbow-pride-flag-striped-background-vector.jpg?s=612x612&w=0&k=20&c=BATovb0wBM7BQ7doNnFEszpzpE5qOzxAG0RB_68EIMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Month Wallpapers | Terrace Views">
+                                <img itemprop="contentUrl url" src='https://terraceviews.org/wp-content/uploads/2020/05/mp_digitalbackgrounds_june_desktop_20_0050_resized.jpg' alt='Pride Month Wallpapers | Terrace Views'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Terrace Views |" />
+                                </span>
+                                <a href='https://terraceviews.org/wp-content/uploads/2020/05/mp_digitalbackgrounds_june_desktop_20_0050_resized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Month Wallpaper Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-pride-month-mobile-phone-wallpaper-vector-design-image_642818.jpg' alt='Pride Month Wallpaper Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-pride-month-mobile-phone-wallpaper-vector-design-image_642818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LGBTQ Pride Month Virtual Backgrounds | Social Media">
+                                <img itemprop="contentUrl url" src='https://socialmedia.ucla.edu/wp-content/uploads/2021/05/UCLA-Pride-Background-Rainbow-052821.png' alt='LGBTQ Pride Month Virtual Backgrounds | Social Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Media - UCLA" />
+                                </span>
+                                <a href='https://socialmedia.ucla.edu/wp-content/uploads/2021/05/UCLA-Pride-Background-Rainbow-052821.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 11 | Pride Month Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-background-pride-month-celebration_23-2150298033.jpg' alt='Page 11 | Pride Month Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-background-pride-month-celebration_23-2150298033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Background Images – Browse 936,069 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/98/62/77/360_F_498627755_VydXnaJegW2Ga4uavMDyIBJk1zaiPJYH.jpg' alt='Pride Background Images – Browse 936,069 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/98/62/77/360_F_498627755_VydXnaJegW2Ga4uavMDyIBJk1zaiPJYH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Month Wallpapers – June 2021 | Terrace Views">
+                                <img itemprop="contentUrl url" src='https://terraceviews.org/wp-content/uploads/2021/05/mp_digital_June_desktop_21_0505_sm.png' alt='Pride Month Wallpapers – June 2021 | Terrace Views'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Terrace Views |" />
+                                </span>
+                                <a href='https://terraceviews.org/wp-content/uploads/2021/05/mp_digital_June_desktop_21_0505_sm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk1OS1hdW0tbnN0YWdyYW1zdG9yeS0wMy1rbHE2eWlnby5qcGc.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk1OS1hdW0tbnN0YWdyYW1zdG9yeS0wMy1rbHE2eWlnby5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Month Colorful And Black Background Mobile Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/cb/e9/d9cbe9884712cb0dd9dccd01a0402d32.jpg' alt='Pride Month Colorful And Black Background Mobile Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/cb/e9/d9cbe9884712cb0dd9dccd01a0402d32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

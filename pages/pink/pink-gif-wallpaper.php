@@ -1,0 +1,129 @@
+<title>Vibrant Pink GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of beautiful pink GIF wallpapers that animate your screens with charm and style. Perfect for any mood, these vibrant designs offer a striking visual experience. Download today to elevate your device's look with eye-catching animated backgrounds!">
+                    <meta name="keywords" content="pink gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-gif-wallpaper">
+                            <span itemprop="name">pink gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink GIF Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning pink GIF wallpapers! Perfect for those who love a touch of romance or playfulness, these animated backgrounds add a vibrant flair to your screens. From soft pastel pinks to bold fuchsia, find the ideal aesthetic that resonates with you. Make your screens pop with the beauty of animated art today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterflies & Pink Clouds GIF Desktop Wallpaper - GIF Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/04/butterflies-pink-clouds-gif-desktop-wallpaper-cover.gif' alt='Butterflies & Pink Clouds GIF Desktop Wallpaper - GIF Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/04/butterflies-pink-clouds-gif-desktop-wallpaper-cover.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="https://wallpaperaccess.com/full/8278309.gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b8/26/1f/b8261f0163fff2cc01c5cb1159d4767b.gif' alt='https://wallpaperaccess.com/full/8278309.gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b8/26/1f/b8261f0163fff2cc01c5cb1159d4767b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pinkiepastels">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/43/d2/5c43d280ddfbd4a1b4c571874e699f8d.gif' alt='pinkiepastels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/43/d2/5c43d280ddfbd4a1b4c571874e699f8d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pink Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ZlGjRFiMmtkAAAAM/kawaii-pink.gif' alt='Kawaii Pink Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ZlGjRFiMmtkAAAAM/kawaii-pink.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROMANTIC HEART SHAPE PINK MOTION WALLPAPER|| ROMANTIC MOTION ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/9-09-2019/gYDtQM.gif' alt='ROMANTIC HEART SHAPE PINK MOTION WALLPAPER|| ROMANTIC MOTION ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/9-09-2019/gYDtQM.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/01/icegif-732.gif' alt='Pink Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/01/icegif-732.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Background GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/CfZtsGFuEpUAAAAM/pink-sky-stars.gif' alt='Pink Background GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/CfZtsGFuEpUAAAAM/pink-sky-stars.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pixel GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/Q9Ft3xEhO0bdK/giphy.gif?cid=6c09b952khkmc4ia2pegi2qzcci3x576pdimz70foc0oun4b&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Pink Pixel GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/Q9Ft3xEhO0bdK/giphy.gif?cid=6c09b952khkmc4ia2pegi2qzcci3x576pdimz70foc0oun4b&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink.gif by Mathew Lucas ✌︎ on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/20684057/file/original-32ff1298310cffe3b2d42dc15c71b229.gif' alt='Pink.gif by Mathew Lucas ✌︎ on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/20684057/file/original-32ff1298310cffe3b2d42dc15c71b229.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Hello Kitty Pink GIF Desktop Wallpaper - Free GIF Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/08/sanrio-cute-hello-kitty-pink-gif-desktop-wallpaper-preview.gif' alt='Sanrio Hello Kitty Pink GIF Desktop Wallpaper - Free GIF Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="868">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/08/sanrio-cute-hello-kitty-pink-gif-desktop-wallpaper-preview.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

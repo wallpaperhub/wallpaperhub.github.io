@@ -1,0 +1,129 @@
+<title>“Elegant Vines PNG: Nature-Inspired Graphics for Your Designs”</title>
+                    <meta name="description" content="Discover stunning Vines PNG images to enhance your creative projects. Perfect for designers, bloggers, and marketers, these transparent graphics add a natural touch to any artwork. Easily integrate high-quality vine images into your designs for a fresh and elegant look. Explore our collection now!">
+                    <meta name="keywords" content="vines png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vines-png">
+                            <span itemprop="name">vines png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Elegant Vines PNG: Nature-Inspired Graphics for Your Designs”</h1>
+                <p>Vines PNG files offer a versatile solution for your design needs, enhancing visuals with organic elegance. Perfect for backgrounds, logos, or social media posts, these transparent images bring life to your projects. Explore a variety of vine graphics to add a touch of nature to your creative work and make it truly stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/694/864/png-clipart-vines-vine-vines-vine-thumbnail.png' alt='Vine png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/694/864/png-clipart-vines-vine-vines-vine-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Vine PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/962/379/small_2x/a-lush-green-vine-with-twisting-branches-and-leaves-isolated-on-a-transparent-background-perfect-for-nature-themed-jungle-or-garden-designs-png.png' alt='Jungle Vine PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/962/379/small_2x/a-lush-green-vine-with-twisting-branches-and-leaves-isolated-on-a-transparent-background-perfect-for-nature-themed-jungle-or-garden-designs-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Vine PNG Transparent Background, Free Download #43649 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/wavy-vine-png-1.png' alt='Wavy Vine PNG Transparent Background, Free Download #43649 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2038">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/wavy-vine-png-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vines PNG Transparent Background, Free Download #43670 - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e2/5a/65/e25a653f85619d4b842c8b79af965359.jpg' alt='Vines PNG Transparent Background, Free Download #43670 - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e2/5a/65/e25a653f85619d4b842c8b79af965359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Vines PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230930/ourmid/pngtree-wild-vines-plant-isolated-png-image_10154125.png' alt='Wild Vines PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230930/ourmid/pngtree-wild-vines-plant-isolated-png-image_10154125.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanging Vines Png by Moonglowlilly on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9e405d8-7e26-4ce3-a7d8-dd388ca2b4dc/d67pawc-fe5e6995-ac5d-4428-b24b-a7f4f590173c.png/v1/fill/w_999,h_800/hanging_vines_png_by_moonglowlilly_d67pawc-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvYjllNDA1ZDgtN2UyNi00Y2UzLWE3ZDgtZGQzODhjYTJiNGRjXC9kNjdwYXdjLWZlNWU2OTk1LWFjNWQtNDQyOC1iMjRiLWE3ZjRmNTkwMTczYy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.94fqO0LAYY65Hp1AWiSM-b-w9fMqqEz8daEh5LfKYKo' alt='Hanging Vines Png by Moonglowlilly on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9e405d8-7e26-4ce3-a7d8-dd388ca2b4dc/d67pawc-fe5e6995-ac5d-4428-b24b-a7f4f590173c.png/v1/fill/w_999,h_800/hanging_vines_png_by_moonglowlilly_d67pawc-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvYjllNDA1ZDgtN2UyNi00Y2UzLWE3ZDgtZGQzODhjYTJiNGRjXC9kNjdwYXdjLWZlNWU2OTk1LWFjNWQtNDQyOC1iMjRiLWE3ZjRmNTkwMTczYy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.94fqO0LAYY65Hp1AWiSM-b-w9fMqqEz8daEh5LfKYKo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Vine PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190920/original/pngtree-vine-green-winding-vine-png-image_4628582.jpg' alt='Jungle Vine PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190920/original/pngtree-vine-green-winding-vine-png-image_4628582.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vines PNG, Vines Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/vines-png/transparent-vines-png-8.png' alt='Vines PNG, Vines Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/vines-png/transparent-vines-png-8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine Wall Images – Browse 170,402 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/09/40/36/360_F_609403671_AiN0YDS1FTtPvPPw2Ofgn4b3WAlbvTZx.jpg' alt='Vine Wall Images – Browse 170,402 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/09/40/36/360_F_609403671_AiN0YDS1FTtPvPPw2Ofgn4b3WAlbvTZx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vine, Green vines, green leafed plant transparent background PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8f/59/4f/8f594f4991d47729d7d84fbdd5e35104.jpg' alt='Vine, Green vines, green leafed plant transparent background PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8f/59/4f/8f594f4991d47729d7d84fbdd5e35104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

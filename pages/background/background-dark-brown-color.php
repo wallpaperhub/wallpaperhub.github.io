@@ -1,0 +1,129 @@
+<title>Dark Brown Background: Warmth & Elegance</title>
+                    <meta name="description" content="Explore the sophistication of dark brown backgrounds. This versatile color brings warmth and style, perfect for any design project. Enhance your aesthetic with a rich, earthy tone that complements all decor styles. Ideal for creating a cozy atmosphere in homes, websites, and more!">
+                    <meta name="keywords" content="background dark brown color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-dark-brown-color">
+                            <span itemprop="name">background dark brown color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Brown Background: Warmth & Elegance</h1>
+                <p>Dark brown is a rich, earthy color that adds warmth and sophistication to any space. Ideal for backgrounds, it creates a cozy atmosphere while providing a neutral canvas, allowing other colors to stand out. This versatile shade complements various styles, from rustic to modern, making it an excellent choice for designs and decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 6 | Background Dark Brown Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/brown-gradient-background_53876-102760.jpg' alt='Page 6 | Background Dark Brown Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/brown-gradient-background_53876-102760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160 Dark Brown Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/3840x2160/3840x2160-dark-brown-solid-color-background.jpg' alt='3840x2160 Dark Brown Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/3840x2160/3840x2160-dark-brown-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/80/8a/21808a9502ad6d8fcf6d46b93a16c384.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/80/8a/21808a9502ad6d8fcf6d46b93a16c384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Images – Browse 5,041,985 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/28/28/82/360_F_328288240_rKla6tru8GS2w06CfQQmSEudAYFn5PCm.jpg' alt='Dark Brown Images – Browse 5,041,985 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/28/28/82/360_F_328288240_rKla6tru8GS2w06CfQQmSEudAYFn5PCm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Texture Diagonal Dark Brown Wallpaper Stock Photo 2321577377 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/wood-texture-diagonal-dark-brown-260nw-2321577377.jpg' alt='Wood Texture Diagonal Dark Brown Wallpaper Stock Photo 2321577377 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/wood-texture-diagonal-dark-brown-260nw-2321577377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="324,700+ Dark Brown Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1417392204/vector/abstract-background-the-studio-space-is-empty-with-a-smooth-and-soft-brown-color.jpg?s=612x612&w=0&k=20&c=mhY6o_kRsPvAV-RgN0balNY3yKvz-ew3HVCl4SXg0Hw=' alt='324,700+ Dark Brown Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1417392204/vector/abstract-background-the-studio-space-is-empty-with-a-smooth-and-soft-brown-color.jpg?s=612x612&w=0&k=20&c=mhY6o_kRsPvAV-RgN0balNY3yKvz-ew3HVCl4SXg0Hw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Brown Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-brown-background-1920-x-1080-h2z10prbjpnkyu3n.jpg' alt='100+] Dark Brown Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-brown-background-1920-x-1080-h2z10prbjpnkyu3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Dark Brown Wall Color Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/plain-dark-brown-product-background_53876-143101.jpg' alt='Page 2 | Dark Brown Wall Color Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/plain-dark-brown-product-background_53876-143101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11714718/p/f/m/8SWRRV1gPKZ6Ob33ZerTfEtUBrYs116eN21RhXWBu-EII2sqGDo_XIQ/Burnt%20Oak%20Dark%20Brown%20Printed%20Solid.jpg' alt='Dark Brown Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11714718/p/f/m/8SWRRV1gPKZ6Ob33ZerTfEtUBrYs116eN21RhXWBu-EII2sqGDo_XIQ/Burnt%20Oak%20Dark%20Brown%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid - Large Bold, Line: Light Brown | Background: Brown">
+                                <img itemprop="contentUrl url" src='https://thepatterncollective.com/cdn/shop/files/GridLargeBoldLightBrownonBrown_Poppy_ThePatternCollective.png?v=1690568821&width=1080' alt='Grid - Large Bold, Line: Light Brown | Background: Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='https://thepatterncollective.com/cdn/shop/files/GridLargeBoldLightBrownonBrown_Poppy_ThePatternCollective.png?v=1690568821&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

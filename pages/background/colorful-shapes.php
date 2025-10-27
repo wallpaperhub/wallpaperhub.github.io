@@ -1,0 +1,129 @@
+<title>Vibrant Colorful Shapes: A Visual Delight</title>
+                    <meta name="description" content="Explore the world of colorful shapes that ignite creativity and inspire joy. Discover how vibrant designs can enhance your life and surroundings with their beauty and energy. Perfect for art enthusiasts and anyone looking to add a splash of color to their daily routine!">
+                    <meta name="keywords" content="colorful shapes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-shapes">
+                            <span itemprop="name">colorful shapes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Colorful Shapes: A Visual Delight</h1>
+                <p>Colorful shapes are a feast for the eyes, bringing vibrancy and energy to our surroundings. From geometric patterns to abstract designs, they stimulate creativity and joy. Whether in nature or art, these lively forms inspire imagination and invite exploration, making every day an opportunity to appreciate beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shapes flashcard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/e6/25/c0e62540cecc9430ff5058b2d82cd211.jpg' alt='Shapes flashcard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/e6/25/c0e62540cecc9430ff5058b2d82cd211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Colorful shapes set for preschooler">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/colorful-shapes-set-preschooler_969997-37.jpg' alt='Premium Vector | Colorful shapes set for preschooler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/colorful-shapes-set-preschooler_969997-37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable shapes flashcards templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEGf0JyJN4/1/0/1600w/canva-learn-the-shapes-simple-colorful-flashcard-sheets-tA6pgwDCu1Y.jpg' alt='Free printable shapes flashcards templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEGf0JyJN4/1/0/1600w/canva-learn-the-shapes-simple-colorful-flashcard-sheets-tA6pgwDCu1Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Shapes | Free Printable Templates & Coloring Pages ...">
+                                <img itemprop="contentUrl url" src='https://www.firstpalette.com/images/printable-mainpic/shapes-basic-color.png' alt='Basic Shapes | Free Printable Templates & Coloring Pages ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstPalette.com" />
+                                </span>
+                                <a href='https://www.firstpalette.com/images/printable-mainpic/shapes-basic-color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful geometric shapes with their name clip art collection ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GBHCP5/colorful-geometric-shapes-with-their-name-clip-art-collection-isolated-on-white-background-for-preschool-kids-2GBHCP5.jpg' alt='Colorful geometric shapes with their name clip art collection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GBHCP5/colorful-geometric-shapes-with-their-name-clip-art-collection-isolated-on-white-background-for-preschool-kids-2GBHCP5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Shapes Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colourful-abstract-shapes_78370-1451.jpg' alt='Colorful Shapes Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colourful-abstract-shapes_78370-1451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canvas Wall Art Basic geometric colorful 2D shapes collection ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/01/93/93/99/1000_F_193939980_6hZPJn00Nt1LlGkK2x6o4odZbDeSv4lr.jpg' alt='Canvas Wall Art Basic geometric colorful 2D shapes collection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/01/93/93/99/1000_F_193939980_6hZPJn00Nt1LlGkK2x6o4odZbDeSv4lr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collection of basic 2D shapes for kids learning, colorful ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/484/538/non_2x/collection-of-basic-2d-shapes-for-kids-learning-colorful-geometric-shape-flash-cards-for-preschool-and-kindergarten-illustration-of-a-simple-2-dimensional-flat-shape-symbol-set-for-education-vector.jpg' alt='Collection of basic 2D shapes for kids learning, colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/484/538/non_2x/collection-of-basic-2d-shapes-for-kids-learning-colorful-geometric-shape-flash-cards-for-preschool-and-kindergarten-illustration-of-a-simple-2-dimensional-flat-shape-symbol-set-for-education-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Shapes Chart">
+                                <img itemprop="contentUrl url" src='https://cdn.teachercreated.com/covers/900sqp/7990.jpg?v=20250123' alt='Colorful Shapes Chart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teacher Created Resources" />
+                                </span>
+                                <a href='https://cdn.teachercreated.com/covers/900sqp/7990.jpg?v=20250123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector set of colorful abstract shape stickers. Irregular shape ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/564/186/non_2x/set-of-colorful-abstract-shape-stickers-irregular-shape-free-vector.jpg' alt='Vector set of colorful abstract shape stickers. Irregular shape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/564/186/non_2x/set-of-colorful-abstract-shape-stickers-irregular-shape-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

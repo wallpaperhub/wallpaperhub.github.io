@@ -1,0 +1,129 @@
+<title>Captivating Pastel Rainbow Inspirations</title>
+                    <meta name="description" content="Discover the enchanting world of pastel rainbows! Explore creative uses in décor, fashion, and art. Embrace the calming hues of soft pinks, blues, and yellows that uplift any space. Perfect for those seeking inspiration in a gentle and joyful aesthetic. Dive into pastel creativity today!">
+                    <meta name="keywords" content="pastel rainbow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-rainbow">
+                            <span itemprop="name">pastel rainbow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Pastel Rainbow Inspirations</h1>
+                <p>Pastel rainbow colors blend soft pinks, blues, and yellows, creating a soothing visual experience. This gentle palette evokes feelings of calmness and joy, making it perfect for décor, fashion, and crafts. Whether used in art or everyday items, pastel rainbows brighten spaces and uplift moods with their delightful hues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel rainbow aesthetic Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/29876.png' alt='pastel rainbow aesthetic Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/29876.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Clipart, Pastel Rainbow Png, Watercolor Rainbow ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9569611/r/il/0fd38f/3479905582/il_fullxfull.3479905582_5arr.jpg' alt='Pastel Rainbow Clipart, Pastel Rainbow Png, Watercolor Rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9569611/r/il/0fd38f/3479905582/il_fullxfull.3479905582_5arr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Color Palette - ColorKit">
+                                <img itemprop="contentUrl url" src='https://preview.colorkit.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff.png?size=vertical-wallpaper&scale=0.25&static=true' alt='Pastel Rainbow Color Palette - ColorKit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorKit" />
+                                </span>
+                                <a href='https://preview.colorkit.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff.png?size=vertical-wallpaper&scale=0.25&static=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Hand Drawn Vector Illustration Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pastel-rainbow-hand-drawn-vector-260nw-1758858524.jpg' alt='Pastel Rainbow Hand Drawn Vector Illustration Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pastel-rainbow-hand-drawn-vector-260nw-1758858524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel rainbow watercolor digital paper, gradient wallpaper, ombre  background, pink pastel backdrop, pastel paper, feminine design">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/Pastel_rainbow_watercolor_paper_gnhvre.jpg' alt='Pastel rainbow watercolor digital paper, gradient wallpaper, ombre  background, pink pastel backdrop, pastel paper, feminine design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/Pastel_rainbow_watercolor_paper_gnhvre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701757303749-edae90778a90?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFzdGVsJTIwcmFpbmJvd3xlbnwwfHwwfHx8MA%3D%3D' alt='Pastel Rainbow Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701757303749-edae90778a90?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFzdGVsJTIwcmFpbmJvd3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/dc/3c/fbdc3caa1e90273d9534fc6e0d4247fc.jpg' alt='Pastel Rainbow PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/dc/3c/fbdc3caa1e90273d9534fc6e0d4247fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pastel Rainbow Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/soft-pastel-rainbow.png' alt='Soft Pastel Rainbow Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/soft-pastel-rainbow.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-rainbow-gradient-background_78370-2169.jpg' alt='Pastel Rainbow Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-rainbow-gradient-background_78370-2169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Illustration Stock Illustrations – 65,161 Pastel ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pastel-rainbow-colorful-clouds-vector-illustration-doodle-drawing-93090693.jpg' alt='Pastel Rainbow Illustration Stock Illustrations – 65,161 Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pastel-rainbow-colorful-clouds-vector-illustration-doodle-drawing-93090693.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

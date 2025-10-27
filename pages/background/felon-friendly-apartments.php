@@ -1,0 +1,129 @@
+<title>Explore Felon-Friendly Apartments: Find Your Next Home</title>
+                    <meta name="description" content="Searching for felon-friendly apartments? Discover housing options that offer second chances for individuals with records. Our guide helps you navigate resources for affordable living, ensuring a smooth transition to a new home while rebuilding your life. Start your journey to finding a supportive space today!">
+                    <meta name="keywords" content="felon friendly apartments">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/felon-friendly-apartments">
+                            <span itemprop="name">felon friendly apartments</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Felon-Friendly Apartments: Find Your Next Home</h1>
+                <p>Finding felon-friendly apartments can be challenging, but numerous resources and listings cater to this need. Many landlords recognize the importance of giving individuals a second chance, often offering affordable housing options. It's essential to research local regulations and connect with supportive organizations that specialize in helping those with criminal records secure stable housing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leasing an Apartment with a Felony Conviction Tips | ForRent">
+                                <img itemprop="contentUrl url" src='https://www.forrent.com/wp-content/uploads/2014/09/Things-to-Know-Before-Renting-Cover-1-1150x519.jpg' alt='Leasing an Apartment with a Felony Conviction Tips | ForRent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ForRent.com" />
+                                </span>
+                                <a href='https://www.forrent.com/wp-content/uploads/2014/09/Things-to-Know-Before-Renting-Cover-1-1150x519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felony Friendly Apartments Near Me 2025 (Helpful Guide)">
+                                <img itemprop="contentUrl url" src='https://secondchancerentals.org/wp-content/uploads/2024/04/family.webp' alt='Felony Friendly Apartments Near Me 2025 (Helpful Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Second Chance Rentals" />
+                                </span>
+                                <a href='https://secondchancerentals.org/wp-content/uploads/2024/04/family.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lets get you moved into apartment no matter if u have a felony or eviction  #apartmentapprovals #cpnapartmentapprovals #felonyrecord #approved  #felonyfriendly #newapartment #fyp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7334843296843369771&location=0&aid=1988' alt='Lets get you moved into apartment no matter if u have a felony or eviction  #apartmentapprovals #cpnapartmentapprovals #felonyrecord #approved  #felonyfriendly #newapartment #fyp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7334843296843369771&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apartments That Accept Felons in 2023 (Felony Friendly Apartments ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uCbrjoAfOy8/maxresdefault.jpg' alt='Apartments That Accept Felons in 2023 (Felony Friendly Apartments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uCbrjoAfOy8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felon Friendly Apartments Near Me - 15+ Options to Find The Best">
+                                <img itemprop="contentUrl url" src='https://felonhousing.com/wp-content/uploads/2024/08/felony-friendly-apartments.webp' alt='Felon Friendly Apartments Near Me - 15+ Options to Find The Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felon House" />
+                                </span>
+                                <a href='https://felonhousing.com/wp-content/uploads/2024/08/felony-friendly-apartments.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help For Felons | Supporting Ex-Offenders">
+                                <img itemprop="contentUrl url" src='https://helpforfelons.org/wp-content/uploads/2017/08/bigstock-For-Rent-6089085-e1507145337122.jpg' alt='Help For Felons | Supporting Ex-Offenders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="helpforfelons.org" />
+                                </span>
+                                <a href='https://helpforfelons.org/wp-content/uploads/2017/08/bigstock-For-Rent-6089085-e1507145337122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felon Friendly Apartments Near Me - 15+ Options to Find The Best">
+                                <img itemprop="contentUrl url" src='https://felonhousing.com/wp-content/uploads/2024/08/felon-friendly-apartments.webp' alt='Felon Friendly Apartments Near Me - 15+ Options to Find The Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felon House" />
+                                </span>
+                                <a href='https://felonhousing.com/wp-content/uploads/2024/08/felon-friendly-apartments.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felon Friendly Apartments in Oklahoma City (2025) | Felon Mate">
+                                <img itemprop="contentUrl url" src='https://felonmate.com/wp-content/uploads/2024/10/Felon-friendly-Apartment-in-Oklahoma-City.jpg' alt='Felon Friendly Apartments in Oklahoma City (2025) | Felon Mate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felon Mate" />
+                                </span>
+                                <a href='https://felonmate.com/wp-content/uploads/2024/10/Felon-friendly-Apartment-in-Oklahoma-City.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felon Apartments Houston 281.818.3045">
+                                <img itemprop="contentUrl url" src='https://apartmentgorilla.com/Images/PCFel/4282AP01.jpg' alt='Felon Apartments Houston 281.818.3045'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Gorilla" />
+                                </span>
+                                <a href='https://apartmentgorilla.com/Images/PCFel/4282AP01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOP 10 BEST Felon Friendly Apartments in Phoenix, AZ - Updated ...">
+                                <img itemprop="contentUrl url" src='https://s3-media0.fl.yelpcdn.com/bphoto/dD3AQ7Um2D8n8cnPhzpcng/1000s.jpg' alt='TOP 10 BEST Felon Friendly Apartments in Phoenix, AZ - Updated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yelp" />
+                                </span>
+                                <a href='https://s3-media0.fl.yelpcdn.com/bphoto/dD3AQ7Um2D8n8cnPhzpcng/1000s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

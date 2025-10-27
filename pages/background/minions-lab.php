@@ -1,0 +1,129 @@
+<title>Explore the Wacky World of Minions Lab!</title>
+                    <meta name="description" content="Discover the hilarious and chaotic Minions Lab! Join your favorite yellow characters as they experiment with quirky inventions and zany potions. Perfect for fans of all ages seeking fun and creativity. Dive in for a wild adventure today!">
+                    <meta name="keywords" content="minions lab">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minions-lab">
+                            <span itemprop="name">minions lab</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wacky World of Minions Lab!</h1>
+                <p>Welcome to the Minions Lab, where mischief meets science! Dive into a world of fun experiments and innovative gadgets created by the lovable Minions. Whether it’s concocting wacky potions or crafting quirky inventions, every corner of the lab is filled with laughter and creativity. Join the Minions for endless adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gru's Lab | Despicable Me Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/despicableme/images/c/ca/Gru%27s_lab.jpg/revision/latest?cb=20140208134831' alt='Gru's Lab | Despicable Me Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Despicable Me Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/despicableme/images/c/ca/Gru%27s_lab.jpg/revision/latest?cb=20140208134831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="minions laboratory - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/0b/9c/7a0b9cc89454101ba6bf44fb313d37b8.jpg' alt='minions laboratory - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/0b/9c/7a0b9cc89454101ba6bf44fb313d37b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gru's Lab | Despicable Me Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/despicableme/images/0/0b/Gru_%26_2_minions.png/revision/latest/scale-to-width-down/250?cb=20161010153008' alt='Gru's Lab | Despicable Me Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Despicable Me Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/despicableme/images/0/0b/Gru_%26_2_minions.png/revision/latest/scale-to-width-down/250?cb=20161010153008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lab Coat Minion Collecting Robo Bananas In Endless Run !">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UuJtplXvA2o/maxresdefault.jpg' alt='Lab Coat Minion Collecting Robo Bananas In Endless Run !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UuJtplXvA2o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minions The Rise Of Gru Lab Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minions-the-rise-of-gru-lab-z7lhqx7fwn71tz23.jpg' alt='Minions The Rise Of Gru Lab Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minions-the-rise-of-gru-lab-z7lhqx7fwn71tz23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Despicable Me: Minion Rush - Jelly Lab Level 1 Gru's Lab - Tutorial  Gameplay (PC HD)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jwz2OyXcOYo/maxresdefault.jpg' alt='Despicable Me: Minion Rush - Jelly Lab Level 1 Gru's Lab - Tutorial  Gameplay (PC HD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jwz2OyXcOYo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minion Jelly Lab | Plus a couple of the blind box minions. O… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7565/16022630470_7d4e9deb85_b.jpg' alt='Minion Jelly Lab | Plus a couple of the blind box minions. O… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7565/16022630470_7d4e9deb85_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Collectible Figures Minion Laboratory | | Prime 1 Studio">
+                                <img itemprop="contentUrl url" src='https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dwb3f3448c/images/PCFMINI-03/catalog/pcfmini-03_a10_2.jpg' alt='Prime Collectible Figures Minion Laboratory | | Prime 1 Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime 1 Studio" />
+                                </span>
+                                <a href='https://www.prime1studio.com/on/demandware.static/-/Sites-p1s-master-catalog/default/dwb3f3448c/images/PCFMINI-03/catalog/pcfmini-03_a10_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone miss Gru's Lab? : r/despicableme">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/031v8ihos1ae1.jpeg' alt='Does anyone miss Gru's Lab? : r/despicableme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1842">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/031v8ihos1ae1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Despicable Me 2: Minion Rush Evil Minion Gru's Lab Vector">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BxNg7NAhkqM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ9psibM7x0DQS6gc0VDLBKZX8Zg' alt='Despicable Me 2: Minion Rush Evil Minion Gru's Lab Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BxNg7NAhkqM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ9psibM7x0DQS6gc0VDLBKZX8Zg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

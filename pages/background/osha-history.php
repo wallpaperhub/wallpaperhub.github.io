@@ -1,0 +1,129 @@
+<title>The Evolution of OSHA: A Brief History</title>
+                    <meta name="description" content="Discover the history of OSHA, the agency that transformed workplace safety since 1970. Learn how it established regulations that protect workers, reduced injuries, and shaped a culture of safety in American jobs. Explore OSHA's impact and milestones through the years in our concise overview.">
+                    <meta name="keywords" content="osha history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/osha-history">
+                            <span itemprop="name">osha history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of OSHA: A Brief History</h1>
+                <p>OSHA, the Occupational Safety and Health Administration, was established in 1970 to ensure safe working conditions across the United States. The agency arose from growing concerns about workplace hazards and workers' rights. Through regulations and inspections, OSHA has significantly reduced workplace fatalities and injuries, promoting a culture of safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of OSHA — NRTC Automation | Industrial Automation Services">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6441497cacce124caa757787/b3c4b4e5-4be3-4114-b019-bfb7bb2358d2/rsz_1rsz_osha_horiz.png' alt='The History of OSHA — NRTC Automation | Industrial Automation Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NRTC Automation" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6441497cacce124caa757787/b3c4b4e5-4be3-4114-b019-bfb7bb2358d2/rsz_1rsz_osha_horiz.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AsphaltPro Magazine | 50 Years of OSHA">
+                                <img itemprop="contentUrl url" src='https://theasphaltpro.com/wp-content/uploads/2020/02/osha-2000x1222.jpg' alt='AsphaltPro Magazine | 50 Years of OSHA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AsphaltPro Magazine" />
+                                </span>
+                                <a href='https://theasphaltpro.com/wp-content/uploads/2020/02/osha-2000x1222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of OSHA | Abyde">
+                                <img itemprop="contentUrl url" src='https://abyde.com/wp-content/uploads/2024/06/THE-HISTORY-OF-OSHA-More-Than-Just-Regulations.png' alt='History of OSHA | Abyde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abyde" />
+                                </span>
+                                <a href='https://abyde.com/wp-content/uploads/2024/06/THE-HISTORY-OF-OSHA-More-Than-Just-Regulations.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSHA Turns 40 | Northwest Center for Occupational Health and Safety">
+                                <img itemprop="contentUrl url" src='https://deohs.washington.edu/nwcohs/sites/deohs.washington.edu.nwcohs/files/styles/hero_full_narrow/public/2019-10/osha%2040%20.jpg?itok=xr4rW_Ec' alt='OSHA Turns 40 | Northwest Center for Occupational Health and Safety'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEOHS - University of Washington" />
+                                </span>
+                                <a href='https://deohs.washington.edu/nwcohs/sites/deohs.washington.edu.nwcohs/files/styles/hero_full_narrow/public/2019-10/osha%2040%20.jpg?itok=xr4rW_Ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of OSHA - Part 1 - Occupational Safety in the U.S. Before OSHA">
+                                <img itemprop="contentUrl url" src='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/03/History-of-OSHA-Part-1-Occupational-Safety-in-the-U.S.-Before-OSHA.jpg' alt='History of OSHA - Part 1 - Occupational Safety in the U.S. Before OSHA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Safety Trainer" />
+                                </span>
+                                <a href='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/03/History-of-OSHA-Part-1-Occupational-Safety-in-the-U.S.-Before-OSHA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AsphaltPro Magazine | OSHA Releases Video Highlighting 50 Years of ...">
+                                <img itemprop="contentUrl url" src='https://theasphaltpro.com/wp-content/uploads/2022/01/osha.jpg' alt='AsphaltPro Magazine | OSHA Releases Video Highlighting 50 Years of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1145">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AsphaltPro Magazine" />
+                                </span>
+                                <a href='https://theasphaltpro.com/wp-content/uploads/2022/01/osha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New website helps OSHA celebrate 50th anniversary of OSH Act ...">
+                                <img itemprop="contentUrl url" src='https://www.ishn.com/ext/resources/ASSE-2013/50-years.gif?height=635&t=1581081370&width=1200' alt='New website helps OSHA celebrate 50th anniversary of OSH Act ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ISHN.com" />
+                                </span>
+                                <a href='https://www.ishn.com/ext/resources/ASSE-2013/50-years.gif?height=635&t=1581081370&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of OSHA - Part 2 - The Early Years of OSHA">
+                                <img itemprop="contentUrl url" src='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/03/History-of-OSHA-Part-2-The-Early-Years-of-OSHA.jpg' alt='History of OSHA - Part 2 - The Early Years of OSHA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Safety Trainer" />
+                                </span>
+                                <a href='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/03/History-of-OSHA-Part-2-The-Early-Years-of-OSHA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144 Introduction to OSHA">
+                                <img itemprop="contentUrl url" src='https://www.oshacademy.com/courses/training/144-introduction-to-osha/images/144_1_1_osha.jpg' alt='144 Introduction to OSHA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="144 Introduction to OSHA" />
+                                </span>
+                                <a href='https://www.oshacademy.com/courses/training/144-introduction-to-osha/images/144_1_1_osha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of OSHA and Workplace Safety – KHA Online-SDS ...">
+                                <img itemprop="contentUrl url" src='https://www.kha.com/wp-content/uploads/2022/03/history-of-osha.jpeg' alt='A Brief History of OSHA and Workplace Safety – KHA Online-SDS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KHA Online-SDS Management" />
+                                </span>
+                                <a href='https://www.kha.com/wp-content/uploads/2022/03/history-of-osha.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

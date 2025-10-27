@@ -1,0 +1,129 @@
+<title>Do Summons Appear on Background Checks? Find Out!</title>
+                    <meta name="description" content="Discover the truth about summons and background checks. Learn how summons can impact your job applications and tenant screenings. Stay informed to protect your future opportunities!">
+                    <meta name="keywords" content="do summons show up on background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-summons-show-up-on-background-checks">
+                            <span itemprop="name">do summons show up on background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Summons Appear on Background Checks? Find Out!</h1>
+                <p>Yes, summons can show up on background checks, depending on the type and depth of the check conducted. Most employment or tenant screenings include civil records, which may reveal any pending or resolved summons against an individual. Understanding the implications of these records is crucial for applicants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Warrants Show up on Background Checks | PDX Fingerprinting">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-Warrants-Show-Up-on-Background-Checks.png' alt='Do Warrants Show up on Background Checks | PDX Fingerprinting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-Warrants-Show-Up-on-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Warrants Show Up on Background Checks? What Employers Need to Know">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2022/11/do-warrants-show-up-on-background-check.jpg' alt='Do Warrants Show Up on Background Checks? What Employers Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2022/11/do-warrants-show-up-on-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Background Checks: Do Dismissed Charges Appear?">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/02/Do-Dismissed-Charges-Show-Up-on-a-Background-Check.png' alt='Understanding Background Checks: Do Dismissed Charges Appear?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/02/Do-Dismissed-Charges-Show-Up-on-a-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Warrants Show Up On Background Checks? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wtEpRybQkJ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAUadW-g_CXkBqEwiA71T6gvBvjiQ' alt='Do Warrants Show Up On Background Checks? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wtEpRybQkJ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAUadW-g_CXkBqEwiA71T6gvBvjiQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Active Warrants Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://do-active-warrants-show-on-background-checks.govbackgroundchecks.com/screenshots/do-active-warrants-show-on-background-checks/1.jpg' alt='Do Active Warrants Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://do-active-warrants-show-on-background-checks.govbackgroundchecks.com/screenshots/do-active-warrants-show-on-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog-hero/background-checks-hero-blur.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog-hero/background-checks-hero-blur.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summoned for Federal Jury Service?">
+                                <img itemprop="contentUrl url" src='https://www.uscourts.gov/sites/default/files/styles/lead_image/public/jury_summons_0.png.webp?itok=Q6MMeiwF' alt='Summoned for Federal Jury Service?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United States Courts" />
+                                </span>
+                                <a href='https://www.uscourts.gov/sites/default/files/styles/lead_image/public/jury_summons_0.png.webp?itok=Q6MMeiwF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Time Serving My Jury Duty in New York City (Manhattan): An ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b6a41798f513062310c20a3/1579187147581-HR66U2J40EC1HZJMJVNT/IMG_4303.jpg?format=500w' alt='First Time Serving My Jury Duty in New York City (Manhattan): An ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Book Smart Street Smart" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b6a41798f513062310c20a3/1579187147581-HR66U2J40EC1HZJMJVNT/IMG_4303.jpg?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning PSG Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a collection of vibrant PSG wallpapers that elevate your home decor. Perfect for fans of all ages, these designs capture the essence of Paris Saint-Germain. Transform your space into a tribute to your favorite team with high-quality, eye-catching wallpapers. Ideal for bedrooms, offices, and fan caves!">
+                    <meta name="keywords" content="psg wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/psg-wallpaper">
+                            <span itemprop="name">psg wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning PSG Wallpapers for Every Fan</h1>
+                <p>Transform your space with stunning PSG wallpaper that showcases your love for Paris Saint-Germain. Whether you're a die-hard fan or just appreciate the sleek design, these wallpapers bring vibrancy and energy to any room. Choose from iconic players, logos, and team colors to create an inspiring atmosphere that reflects your passion for the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi PSG Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/31/b4/2b31b4ce4302aed6f2be2e9c9a39db7d.jpg' alt='Lionel Messi PSG Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/31/b4/2b31b4ce4302aed6f2be2e9c9a39db7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday      : r/psg">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-wednesday-v0-h6s0ojl21vqb1.jpg?width=640&crop=smart&auto=webp&s=42952a2d1478ba6d93260ca7a4ac669637d07257' alt='Wallpaper Wednesday      : r/psg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-wednesday-v0-h6s0ojl21vqb1.jpg?width=640&crop=smart&auto=webp&s=42952a2d1478ba6d93260ca7a4ac669637d07257' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris Saint-Germain Wallpaper 4K, Dark aesthetic, Neon logo">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/paris-saint-germain-1080x1920-14112.jpeg' alt='Paris Saint-Germain Wallpaper 4K, Dark aesthetic, Neon logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/paris-saint-germain-1080x1920-14112.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best PSG wallpaper ideas | psg, paris saint-germain, paris saint">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2d/c4/55/2dc45503b0420aa78eea036e13490b5f.jpg' alt='8 Best PSG wallpaper ideas | psg, paris saint-germain, paris saint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2d/c4/55/2dc45503b0420aa78eea036e13490b5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] PSG Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/psg-football-club-logo-dkz6t9jmdclvlrfq.jpg' alt='200+] PSG Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/psg-football-club-logo-dkz6t9jmdclvlrfq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psg phone wallpaper : r/psg">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xomgyujx0ea71.jpg' alt='Psg phone wallpaper : r/psg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xomgyujx0ea71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris Saint-Germain Wallpaper 4K, Football club, 5K, France, Logo">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/paris-saint-germain-fc-football-club-5k-1242x2688-2693.png' alt='Paris Saint-Germain Wallpaper 4K, Football club, 5K, France, Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/paris-saint-germain-fc-football-club-5k-1242x2688-2693.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   PSG Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/1e/71/ae1e717a0bd04c8a00588a5e80afc8a0.jpg' alt='   PSG Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/1e/71/ae1e717a0bd04c8a00588a5e80afc8a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSG logo, ldc, paris saint germain, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/263/607/HD-wallpaper-paris-saint-germain-club-foot-football-logo-paris-psg-sport-sports-teams.jpg' alt='PSG logo, ldc, paris saint germain, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/263/607/HD-wallpaper-paris-saint-germain-club-foot-football-logo-paris-psg-sport-sports-teams.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NOIR Graphics - PSG wallpaper for the fans of the french super ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1864080767209927' alt='NOIR Graphics - PSG wallpaper for the fans of the french super ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1864080767209927' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the Wisdom of the Book of James: Faith in Action</title>
+                    <meta name="description" content="Discover the Book of James, a New Testament guide on living a faith-driven life. Learn about perseverance, good works, and the impact of your words. Perfect for those seeking practical Christianity.">
+                    <meta name="keywords" content="book of james">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/book-of-james">
+                            <span itemprop="name">book of james</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wisdom of the Book of James: Faith in Action</h1>
+                <p>The Book of James, part of the New Testament, emphasizes practical faith and moral integrity. It encourages believers to act on their faith, showcasing themes like perseverance in trials, the importance of good works, and the power of the tongue. This letter serves as a guide for living out Christian values in daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Wrote the Book of James - Author and Major Themes">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/11554-bible-open-to-book-of-james-sparrowstock.jpg' alt='Who Wrote the Book of James - Author and Major Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosswalk.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/11554-bible-open-to-book-of-james-sparrowstock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: James: A Novel: 9780385550369: Everett, Percival: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71SLeCwMlWL.jpg' alt='Amazon.com: James: A Novel: 9780385550369: Everett, Percival: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71SLeCwMlWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Overview of the Book of James - White Horse Inn">
+                                <img itemprop="contentUrl url" src='https://whi-whitehorseinn.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/08/02104408/WHI1592_BookofJames_2000x1125-1024x576.jpg' alt='An Overview of the Book of James - White Horse Inn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White Horse Inn" />
+                                </span>
+                                <a href='https://whi-whitehorseinn.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/08/02104408/WHI1592_BookofJames_2000x1125-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book of James // Joy in the Trials — Brittany Rust">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/55329ebbe4b0c242a8093ed1/a8532afa-5bec-4026-99e6-a0b169a5022d/The+Book+of+James.png' alt='Book of James // Joy in the Trials — Brittany Rust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brittany Rust" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/55329ebbe4b0c242a8093ed1/a8532afa-5bec-4026-99e6-a0b169a5022d/The+Book+of+James.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Message: “The Book of James” from Steven Morris – Media Player">
+                                <img itemprop="contentUrl url" src='https://www.championforest.org/media/all/wp-content/uploads/2023/08/Book-of-James-Title-Graphic-ENG-16x9-1-1000x563.jpg' alt='Message: “The Book of James” from Steven Morris – Media Player'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Champion Forest Baptist Church" />
+                                </span>
+                                <a href='https://www.championforest.org/media/all/wp-content/uploads/2023/08/Book-of-James-Title-Graphic-ENG-16x9-1-1000x563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Wrote the Book of James? - Reading Acts">
+                                <img itemprop="contentUrl url" src='https://readingacts.com/wp-content/uploads/2018/02/James-1024x683.jpg' alt='Who Wrote the Book of James? - Reading Acts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reading Acts" />
+                                </span>
+                                <a href='https://readingacts.com/wp-content/uploads/2018/02/James-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Introduction to the Book of James - philressler.com">
+                                <img itemprop="contentUrl url" src='https://philressler.com/wp-content/uploads/2015/08/James.jpg' alt='An Introduction to the Book of James - philressler.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phil Ressler" />
+                                </span>
+                                <a href='https://philressler.com/wp-content/uploads/2015/08/James.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of James - Remix Church Media Sermon Series - Church Graphics">
+                                <img itemprop="contentUrl url" src='https://remixchurchmedia.com/wp-content/uploads/6626-The-Book-Of-James-HD-Title-Slide.webp' alt='The Book of James - Remix Church Media Sermon Series - Church Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remix Church Media" />
+                                </span>
+                                <a href='https://remixchurchmedia.com/wp-content/uploads/6626-The-Book-Of-James-HD-Title-Slide.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of James: The Power, Politics, and Passion of LeBron: Babb,  Valerie: 9781541702042: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91u67WAFD7L._AC_UF1000,1000_QL80_.jpg' alt='The Book of James: The Power, Politics, and Passion of LeBron: Babb,  Valerie: 9781541702042: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91u67WAFD7L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of James Archives - Hope Church - Hope Church">
+                                <img itemprop="contentUrl url" src='https://hopechurchlv.com/wp-content/uploads/2021/01/HCL-BookOfJames-6-SW-1400x0-c-default.jpg' alt='The Book of James Archives - Hope Church - Hope Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hope Church | Las Vegas" />
+                                </span>
+                                <a href='https://hopechurchlv.com/wp-content/uploads/2021/01/HCL-BookOfJames-6-SW-1400x0-c-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable My Melody Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a delightful collection of My Melody wallpapers to personalize your phone or tablet. Featuring cute designs and vibrant colors, these wallpapers are perfect for fans looking to add charm and joy to their screens. Upgrade your device with My Melody's adorable style today!">
+                    <meta name="keywords" content="cute:_mibpkuqkuu= my melody wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/cute_mibpkuqkuu-my-melody-wallpaper">
+                            <span itemprop="name">cute:_mibpkuqkuu= my melody wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable My Melody Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable My Melody wallpapers that capture the charm of this beloved character. Brighten up your phone or tablet with vibrant designs featuring My Melody's cute expressions, cheerful themes, and pastel colors. Perfect for fans wanting to add a touch of sweetness to their screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d0/6a/f7/d06af747e31945528d29bd925b31c9bb.jpg' alt='My Melody Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d0/6a/f7/d06af747e31945528d29bd925b31c9bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Backgrounds & Wallpapers - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/my-melody-438x329.jpg' alt='My Melody Backgrounds & Wallpapers - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/my-melody-438x329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400 My Melody Wallpapers ideas | my melody wallpaper, sanrio ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/57/c0/0f57c051bb3a02509ad6572e5fcfae71.jpg' alt='400 My Melody Wallpapers ideas | my melody wallpaper, sanrio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/57/c0/0f57c051bb3a02509ad6572e5fcfae71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute My Melody Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/85/83/b6/8583b6049b4019e221e5a7b0870df5e7.jpg' alt='Cute My Melody Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/85/83/b6/8583b6049b4019e221e5a7b0870df5e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY MELODY  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/70/c3/cb70c348e23edc1253e41607823aaaa8.jpg' alt='MY MELODY  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/70/c3/cb70c348e23edc1253e41607823aaaa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Wallpaper 4K, Cute cartoon, Pink, 5K, Pink text">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/my-melody-cute-pink-5k-3840x2160-11741.png' alt='My Melody Wallpaper 4K, Cute cartoon, Pink, 5K, Pink text'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/my-melody-cute-pink-5k-3840x2160-11741.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE MY MELODYYY!!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/9a/ff/969aff9953c7350614b9861dc877853d.jpg' alt='CUTE MY MELODYYY!!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/9a/ff/969aff9953c7350614b9861dc877853d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii My Melody HD Wallpaper by patrika">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/137/1373760.png' alt='Kawaii My Melody HD Wallpaper by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/137/1373760.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my melody lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2c/80/5b/2c805b13c9ee4370122aaa2507884eb8.jpg' alt='my melody lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2c/80/5b/2c805b13c9ee4370122aaa2507884eb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody HD Desktop Wallpaper - Sanrio Character Background by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/135/1350199.png' alt='My Melody HD Desktop Wallpaper - Sanrio Character Background by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/135/1350199.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

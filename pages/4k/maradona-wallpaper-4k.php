@@ -1,0 +1,129 @@
+<title>4K Maradona Wallpapers - Download Now!</title>
+                    <meta name="description" content="Explore our exclusive collection of 4K Maradona wallpapers! Immerse yourself in high-quality images that showcase the legendary football player's unforgettable moments. Perfect for any device, these wallpapers are a must-have for true fans. Download your favorite designs today!">
+                    <meta name="keywords" content="maradona wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/maradona-wallpaper-4k">
+                            <span itemprop="name">maradona wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Maradona Wallpapers - Download Now!</h1>
+                <p>Discover stunning 4K Maradona wallpapers that celebrate the legend of football! Our collection features high-definition images capturing the essence of Maradona's iconic moments on the pitch. Perfect for your devices, these wallpapers will inspire and remind you of his unparalleled genius in the world of football. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maradona 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/24/4e/67/244e67ae28b53f39f4e7dfc27088e070.jpg' alt='Maradona 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/24/4e/67/244e67ae28b53f39f4e7dfc27088e070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maradona, diego, argentina, 86, futbol, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/927/805/HD-wallpaper-maradona-diego-argentina-86-futbol.jpg' alt='Maradona, diego, argentina, 86, futbol, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/927/805/HD-wallpaper-maradona-diego-argentina-86-futbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diego Maradona Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/4/2/278306-1440x2560-samsung-hd-diego-maradona-background.jpg' alt='Diego Maradona Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/4/2/278306-1440x2560-samsung-hd-diego-maradona-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RIP Diego Maradona! HD Images, 4K Wallpapers and Photos to ...">
+                                <img itemprop="contentUrl url" src='https://st1.latestly.com/wp-content/uploads/2020/11/Diego-Maradona-2.jpg' alt='RIP Diego Maradona! HD Images, 4K Wallpapers and Photos to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LatestLY" />
+                                </span>
+                                <a href='https://st1.latestly.com/wp-content/uploads/2020/11/Diego-Maradona-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maradona, argentina, diego, maradona diego, mundial, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/920/665/HD-wallpaper-maradona-argentina-diego-maradona-diego-mundial.jpg' alt='Maradona, argentina, diego, maradona diego, mundial, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/920/665/HD-wallpaper-maradona-argentina-diego-maradona-diego-mundial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Diego Maradona Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/diego-maradona-football-kick-digital-art-photo-kl1ehdtjr2zln3sp.jpg' alt='100+] Diego Maradona Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/diego-maradona-football-kick-digital-art-photo-kl1ehdtjr2zln3sp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Maradona, Diego Maradona, Argentina, FIFA World Cup">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/e2/ba/6ce2badf8e7f9ba5345bb763b03ff6ee.jpg' alt='HD wallpaper: Maradona, Diego Maradona, Argentina, FIFA World Cup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/e2/ba/6ce2badf8e7f9ba5345bb763b03ff6ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Argentina National Football Team Soccer Diego Armando ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/587/587161.jpg' alt='Download Argentina National Football Team Soccer Diego Armando ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/587/587161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diego Maradona 1080P, 2K, 4K, 5K HD wallpapers free download ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/338/82/474/maradona-diego-maradona-argentina-boca-juniors-napoli-hd-wallpaper-preview.jpg' alt='Diego Maradona 1080P, 2K, 4K, 5K HD wallpapers free download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/338/82/474/maradona-diego-maradona-argentina-boca-juniors-napoli-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="maradona wallpaper lockscreen argentine by 10mohamedmahmoud on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd7913df-814c-4bc8-80e1-a8186569348f/dcq124l-60b59577-7328-49a7-8b05-215a96daea0a.png/v1/fill/w_1024,h_1716,q_80,strp/maradona_wallpaper_lockscreen_argentine_by_10mohamedmahmoud_dcq124l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcxNiIsInBhdGgiOiJcL2ZcL2ZkNzkxM2RmLTgxNGMtNGJjOC04MGUxLWE4MTg2NTY5MzQ4ZlwvZGNxMTI0bC02MGI1OTU3Ny03MzI4LTQ5YTctOGIwNS0yMTVhOTZkYWVhMGEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P2B0tnIrn_Dzh4A-N7rNKn_ZqP0rQzfd4SZ5A0pqFLc' alt='maradona wallpaper lockscreen argentine by 10mohamedmahmoud on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd7913df-814c-4bc8-80e1-a8186569348f/dcq124l-60b59577-7328-49a7-8b05-215a96daea0a.png/v1/fill/w_1024,h_1716,q_80,strp/maradona_wallpaper_lockscreen_argentine_by_10mohamedmahmoud_dcq124l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcxNiIsInBhdGgiOiJcL2ZcL2ZkNzkxM2RmLTgxNGMtNGJjOC04MGUxLWE4MTg2NTY5MzQ4ZlwvZGNxMTI0bC02MGI1OTU3Ny03MzI4LTQ5YTctOGIwNS0yMTVhOTZkYWVhMGEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P2B0tnIrn_Dzh4A-N7rNKn_ZqP0rQzfd4SZ5A0pqFLc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

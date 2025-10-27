@@ -1,0 +1,129 @@
+<title>Enchanting Disney Fall Wallpaper for Your iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="disney fall wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/disney-fall-wallpaper-iphone">
+                            <span itemprop="name">disney fall wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Disney Fall Wallpaper for Your iPhone</h1>
+                <p>Transform your iPhone with enchanting Disney fall wallpaper! Embrace the magic of autumn with vibrant scenes featuring your favorite characters amidst colorful leaves. Perfect for adding a seasonal touch to your device, these wallpapers capture the spirit of fall, making your iPhone feel cozy and cheerful. Refresh your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="disney fall wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/5b/54/4d5b54ae44afaf01f48bb7eda6360d9c.jpg' alt='disney fall wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/5b/54/4d5b54ae44afaf01f48bb7eda6360d9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Fall iPhone Wallpaper to Download for Free!">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thepurplepumpkinblog.co.uk/wp-content/uploads/2020/09/Disney-Fall-iPhone-Wallpapers-800x1200.jpg' alt='Disney Fall iPhone Wallpaper to Download for Free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Purple Pumpkin Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/thepurplepumpkinblog.co.uk/wp-content/uploads/2020/09/Disney-Fall-iPhone-Wallpapers-800x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Disney Fall Wallpapers Featuring Mickey Pumpkins, Figaro, Olaf ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/2023_Pumpkin_Spice_Latte_Olaf_Wallpaper_1080x1920.jpg' alt='3 Disney Fall Wallpapers Featuring Mickey Pumpkins, Figaro, Olaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/2023_Pumpkin_Spice_Latte_Olaf_Wallpaper_1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey fall wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/82/f2/9b82f28963ca2f16efa1fbebf4c05db4.jpg' alt='Mickey fall wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/82/f2/9b82f28963ca2f16efa1fbebf4c05db4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Disney Fall Wallpapers Featuring Mickey Pumpkins, Figaro, Olaf ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/2023-Mickey-Pumpkin-and-Figaro-Wallpaper_1080x1920.jpg' alt='3 Disney Fall Wallpapers Featuring Mickey Pumpkins, Figaro, Olaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/2023-Mickey-Pumpkin-and-Figaro-Wallpaper_1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Autumn iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9979719.jpg' alt='Disney Autumn iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9979719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wall: Fall tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/cd/89/49cd89a584293a186365ed67fb00c135.jpg' alt='iPhone Wall: Fall tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/cd/89/49cd89a584293a186365ed67fb00c135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall & Disney are my Favorite Combination | Cute fall wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/ac/fa/97acfa87a04b940285822abdd29e3dd7.jpg' alt='Fall & Disney are my Favorite Combination | Cute fall wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/ac/fa/97acfa87a04b940285822abdd29e3dd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Disney Autumn Stitch Leaves Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney-autumn-stitch-leaves-q5s6bf4h64y2xj6f.jpg' alt='Download Disney Autumn Stitch Leaves Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney-autumn-stitch-leaves-q5s6bf4h64y2xj6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Disney iPhone Wallpapers - Disney Tourist Blog">
+                                <img itemprop="contentUrl url" src='https://www.disneytouristblog.com/wp-content/uploads/2017/01/tangled-float-dreamlights-wallpaper.jpg' alt='Free Disney iPhone Wallpapers - Disney Tourist Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Tourist Blog" />
+                                </span>
+                                <a href='https://www.disneytouristblog.com/wp-content/uploads/2017/01/tangled-float-dreamlights-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Foggy Flower Wallpaper: Ethereal Floral Decor</title>
+                    <meta name="description" content="Discover the allure of foggy flower wallpaper, perfect for adding a tranquil touch to your home. This unique design features soft, blurred flowers that create a serene ambiance, making it ideal for any room. Enhance your decor with this ethereal beauty for a calming and inviting atmosphere.">
+                    <meta name="keywords" content="foggy flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/foggy-flower-wallpaper">
+                            <span itemprop="name">foggy flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Foggy Flower Wallpaper: Ethereal Floral Decor</h1>
+                <p>Transform your space with enchanting foggy flower wallpaper. This design captures the ethereal beauty of flowers shrouded in mist, creating a dreamlike atmosphere in any room. Ideal for bedrooms, living areas, or offices, its soft hues and delicate patterns bring tranquility and charm to your decor, inviting serenity into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Flowers - Dusk – elegant wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/93512/foggy-flowers-graphite.jpg?q=75&w=300&h=300' alt='Foggy Flowers - Dusk – elegant wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/93512/foggy-flowers-graphite.jpg?q=75&w=300&h=300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Behind Glass Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/beautiful-pink-rose-hyacinths-ranunculus-260nw-2205858507.jpg' alt='Flowers Behind Glass Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="173">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/beautiful-pink-rose-hyacinths-ranunculus-260nw-2205858507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Flowers - Dewdrop">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/93510/foggy-flowers-dewdrop.jpg?h=699&q=85' alt='Foggy Flowers - Dewdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/93510/foggy-flowers-dewdrop.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Foggy Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/3d/a7/533da7e8d2606236a9d9376959184550.jpg' alt='Floral Foggy Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/3d/a7/533da7e8d2606236a9d9376959184550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fog Flower Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2205858507/display_1500/stock-photo-beautiful-pink-rose-hyacinths-ranunculus-flowers-being-photographed-behind-wet-window-close-up-2205858507.jpg' alt='Fog Flower Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2205858507/display_1500/stock-photo-beautiful-pink-rose-hyacinths-ranunculus-flowers-being-photographed-behind-wet-window-close-up-2205858507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful spring flowers inside cold foggy glass with dripping ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2MT8YMJ/colorful-spring-flowers-inside-cold-foggy-glass-with-dripping-water-drop-for-textiles-paper-or-floral-botanical-wallpaper-2MT8YMJ.jpg' alt='Colorful spring flowers inside cold foggy glass with dripping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2MT8YMJ/colorful-spring-flowers-inside-cold-foggy-glass-with-dripping-water-drop-for-textiles-paper-or-floral-botanical-wallpaper-2MT8YMJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty Flower Field · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/4210234/pexels-photo-4210234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='Misty Flower Field · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/4210234/pexels-photo-4210234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Flowers - Graphite – stunning wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/93513/foggy-flowers-sunrise.jpg?q=75&w=300&h=300' alt='Foggy Flowers - Graphite – stunning wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/93513/foggy-flowers-sunrise.jpg?q=75&w=300&h=300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cold foggy glass with beautiful pink roses and white ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2MT92YN/cold-foggy-glass-with-beautiful-pink-roses-and-white-chrysanthemums-inside-with-dripping-water-drops-for-floral-botanical-wallpaper-2MT92YN.jpg' alt='Cold foggy glass with beautiful pink roses and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2MT92YN/cold-foggy-glass-with-beautiful-pink-roses-and-white-chrysanthemums-inside-with-dripping-water-drops-for-floral-botanical-wallpaper-2MT92YN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 6 | Blurry Flowers Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/view-flowers-through-condensed-glass_23-2149478661.jpg' alt='Page 6 | Blurry Flowers Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/view-flowers-through-condensed-glass_23-2149478661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Unique Weirdcore iPhone Wallpapers</title>
+                    <meta name="description" content="Explore a stunning collection of weirdcore wallpapers for your iPhone. Transform your screen with surreal designs that mix dreamlike imagery with retro aesthetics. Perfect for showcasing your unique style and making a statement. Download your favorite weirdcore wallpaper today and personalize your device!">
+                    <meta name="keywords" content="weirdcore wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/weirdcore-wallpaper-iphone">
+                            <span itemprop="name">weirdcore wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Unique Weirdcore iPhone Wallpapers</h1>
+                <p>Weirdcore wallpaper for iPhone adds a unique, surreal touch to your device. This retro style blends dreamlike imagery with distorted aesthetics, creating a captivating visual experience. Perfect for those seeking to stand out, these wallpapers evoke nostalgia while challenging reality. Customize your iPhone and express your individuality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weird core wallpaper by me">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/73/b3/d073b38de5705affa8017685d4f13453.jpg' alt='Weird core wallpaper by me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/73/b3/d073b38de5705affa8017685d4f13453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Brighten up your space with this Weirdcore-inspired ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/weirdcore-background-079r52k5wms95be0.jpg' alt='Download Brighten up your space with this Weirdcore-inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/weirdcore-background-079r52k5wms95be0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weird core">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/19/29/0c19290691e18790e0124c965d56f87b.jpg' alt='Weird core'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/19/29/0c19290691e18790e0124c965d56f87b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Weirdcore Pfp Of Edgy Style Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/weirdcore-pfp-of-edgy-style-hukjoflhdojm2fci.jpg' alt='Download Weirdcore Pfp Of Edgy Style Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/weirdcore-pfp-of-edgy-style-hukjoflhdojm2fci.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="weirdcore wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/8a/26/618a26ca843c433944577ad68d8547f2.jpg' alt='weirdcore wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/8a/26/618a26ca843c433944577ad68d8547f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a weirdcore wallpaper lock screen theme ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/kns6YQcU9KY33lGnhSeZVqEpVui1/YDwaRqOkCvIbpjkOsKj6/94DA3369-024C-4323-945D-9F692BB97A78.jpg?q=70&w=500' alt='I made a weirdcore wallpaper lock screen theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/kns6YQcU9KY33lGnhSeZVqEpVui1/YDwaRqOkCvIbpjkOsKj6/94DA3369-024C-4323-945D-9F692BB97A78.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Flowers And Smileys Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/weirdcore-flowers-and-smileys-qz863hgxxidf0bie.jpg' alt='Weirdcore Flowers And Smileys Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1107">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/weirdcore-flowers-and-smileys-qz863hgxxidf0bie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Weirdcore Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/weirdcore-vh82uom183865bok.jpg' alt='100+] Weirdcore Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/weirdcore-vh82uom183865bok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Trippy Quotation Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/weirdcore-trippy-quotation-wbnqmh2va42xhjnj.jpg' alt='Weirdcore Trippy Quotation Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/weirdcore-trippy-quotation-wbnqmh2va42xhjnj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Wallpaper for your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/f3/61/05f36142c99a4bb128fe90aa16529f45.jpg' alt='Weirdcore Wallpaper for your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/f3/61/05f36142c99a4bb128fe90aa16529f45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

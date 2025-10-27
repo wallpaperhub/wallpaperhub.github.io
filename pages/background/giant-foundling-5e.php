@@ -1,0 +1,129 @@
+<title>Giant Foundling in 5e: A Unique Creature Guide</title>
+                    <meta name="description" content="Explore the fascinating concept of the Giant Foundling in 5e! Delve into its origins, powers, and how it can enhance your D&D campaigns. Uncover story opportunities and character development themes that bring this unique creature to life in your adventures!">
+                    <meta name="keywords" content="giant foundling 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/giant-foundling-5e">
+                            <span itemprop="name">giant foundling 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Giant Foundling in 5e: A Unique Creature Guide</h1>
+                <p>In Dungeons & Dragons 5e, the Giant Foundling is a unique creature that embodies the raw power of giants. Often viewed as offspring of a giant that has been abandoned or lost, these beings combine vast strength with innate magical abilities. A Giant Foundling's narrative focuses on themes of identity, acceptance, and overcoming the odds to carve out a personal destiny. DMs can utilize this concept to enrich campaigns with compelling character backstories and engaging adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Look: Giant Foundling Background and Strike of the Giants ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/10/668/the-giant-foundling-background.jpg' alt='First Look: Giant Foundling Background and Strike of the Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1864">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/10/668/the-giant-foundling-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Look: Giant Foundling Background and Strike of the Giants ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/10/664/giant-foundling.jpg' alt='First Look: Giant Foundling Background and Strike of the Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/10/664/giant-foundling.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bigby Presents: Glory Of The Giants – Giant Foundling, Explained">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-22-aug-2023-01-26-pm-6285.jpg' alt='Bigby Presents: Glory Of The Giants – Giant Foundling, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-22-aug-2023-01-26-pm-6285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Look: Giant Foundling Background and Strike of the Giants ...">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/10/665/strike-of-the-giants-feat.jpg' alt='First Look: Giant Foundling Background and Strike of the Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/10/665/strike-of-the-giants-feat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bigby Presents: Glory Of The Giants – Giant Foundling, Explained">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-22-aug-2023-01-16-pm-9573.jpg' alt='Bigby Presents: Glory Of The Giants – Giant Foundling, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-22-aug-2023-01-16-pm-9573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a Giant Foundling | Bigby Presents: Glory of the Giants | D&D  Beyond">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HbhgLStbPKQ/maxresdefault.jpg' alt='Creating a Giant Foundling | Bigby Presents: Glory of the Giants | D&D  Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HbhgLStbPKQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Foundling 5e — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/5019907e-f10e-41d7-956f-6947f0858c1e/2d6+buzzkill+%281%29.png' alt='Giant Foundling 5e — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/5019907e-f10e-41d7-956f-6947f0858c1e/2d6+buzzkill+%281%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Foundling 5E Background DnD - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-21-at-6.34.25-AM.png' alt='Giant Foundling 5E Background DnD - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-21-at-6.34.25-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D: 'Glory of the Giants' Lets You Unlock the Secret Language of ...">
+                                <img itemprop="contentUrl url" src='https://www.belloflostsouls.net/wp-content/uploads/2023/07/giant-foundling.jpg' alt='D&D: 'Glory of the Giants' Lets You Unlock the Secret Language of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bell of Lost Souls" />
+                                </span>
+                                <a href='https://www.belloflostsouls.net/wp-content/uploads/2023/07/giant-foundling.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Look: Giant Foundling Background and Strike of the Giants ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NNgFb2hMCU4/maxresdefault.jpg' alt='First Look: Giant Foundling Background and Strike of the Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NNgFb2hMCU4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

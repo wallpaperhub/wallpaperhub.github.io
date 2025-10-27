@@ -1,0 +1,129 @@
+<title>Vibrant Colorful Backgrounds: Enhance Your Aesthetic</title>
+                    <meta name="description" content="Explore vibrant, colorful backgrounds that enhance your aesthetic! Perfect for social media, presentations, or personal projects, these eye-catching designs inspire creativity and elevate your visuals. Discover unique styles that suit your needs and transform your digital experience. Start expressing yourself today!">
+                    <meta name="keywords" content="colorful backgrounds aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-backgrounds-aesthetic">
+                            <span itemprop="name">colorful backgrounds aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Colorful Backgrounds: Enhance Your Aesthetic</h1>
+                <p>Colorful backgrounds aesthetic brings vibrancy and flair to any digital space. From pastel hues to bold, vivid patterns, these backgrounds enhance mood and creativity. Perfect for social media, presentations, or personal use, they offer endless possibilities for expression. Discover how these colorful visuals can elevate your projects today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Aesthetic | 100+ best free color, neon color, pastel, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1614850523296-d8c1af93d400?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' alt='Rainbow Aesthetic | 100+ best free color, neon color, pastel, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1614850523296-d8c1af93d400?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200 Colorful wallpapers ideas | colorful wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/04/de/20/04de2084572a5cf71abfcb22e2635bcf.jpg' alt='200 Colorful wallpapers ideas | colorful wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/04/de/20/04de2084572a5cf71abfcb22e2635bcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Backgrounds?? ideas | iphone wallpaper, aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9a/76/39/9a763971140c46d52b88ab3e031dbd43.jpg' alt='120 Backgrounds?? ideas | iphone wallpaper, aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9a/76/39/9a763971140c46d52b88ab3e031dbd43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic background with soft color pattern. by ZeeCoByWilanda on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eece2091-6cec-4353-847a-e06a64df4de2/dg5b1yv-534abec1-250c-4bf5-9987-ca18fbcef660.jpg/v1/fill/w_1280,h_1280,q_75,strp/aesthetic_background_with_soft_color_pattern__by_zeecobywilanda_dg5b1yv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2VlY2UyMDkxLTZjZWMtNDM1My04NDdhLWUwNmE2NGRmNGRlMlwvZGc1YjF5di01MzRhYmVjMS0yNTBjLTRiZjUtOTk4Ny1jYTE4ZmJjZWY2NjAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.igaSVgc0_s067MVTZ3GIPAg8ZxlwCpiDBN2nzctR0Mo' alt='Aesthetic background with soft color pattern. by ZeeCoByWilanda on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eece2091-6cec-4353-847a-e06a64df4de2/dg5b1yv-534abec1-250c-4bf5-9987-ca18fbcef660.jpg/v1/fill/w_1280,h_1280,q_75,strp/aesthetic_background_with_soft_color_pattern__by_zeecobywilanda_dg5b1yv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2VlY2UyMDkxLTZjZWMtNDM1My04NDdhLWUwNmE2NGRmNGRlMlwvZGc1YjF5di01MzRhYmVjMS0yNTBjLTRiZjUtOTk4Ny1jYTE4ZmJjZWY2NjAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.igaSVgc0_s067MVTZ3GIPAg8ZxlwCpiDBN2nzctR0Mo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTUtMTE2Yy1rc3RvcWYzei5qcGc.jpg' alt='Pastel Rainbow Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTUtMTE2Yy1rc3RvcWYzei5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic creative vibrant artistic alcohol ink art, bright ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/53/80/76/1000_F_453807645_AZRMvu3w4QFmQWEhISRBZ68gCYdDVohH.jpg' alt='Aesthetic creative vibrant artistic alcohol ink art, bright ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/53/80/76/1000_F_453807645_AZRMvu3w4QFmQWEhISRBZ68gCYdDVohH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Colors Aesthetic Wallpapers by patrika">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/132/1323371.png' alt='Pastel Colors Aesthetic Wallpapers by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1927">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/132/1323371.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Color Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220804/original/pngtree-background-aesthetic-color-pastel-picture-image_1915029.jpg' alt='Aesthetic Color Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220804/original/pngtree-background-aesthetic-color-pastel-picture-image_1915029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Colorful Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/colorful-aesthetic-eu6d5higz83yhi1v.jpg' alt='200+] Colorful Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/colorful-aesthetic-eu6d5higz83yhi1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FabGabCards on Etsy UK and Instagram phone colourful background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/1d/49/6d1d497a848fdb9fb6d6928eb221cd37.jpg' alt='FabGabCards on Etsy UK and Instagram phone colourful background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/1d/49/6d1d497a848fdb9fb6d6928eb221cd37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring Call of Duty Map Backgrounds</title>
+                    <meta name="description" content="Discover the captivating backgrounds of Call of Duty maps, where detailed environments enhance gameplay. Learn how these dynamic settings influence strategy and player experience in this comprehensive overview. Perfect for fans and gamers looking to dive deeper into the world of CoD.">
+                    <meta name="keywords" content="call of duty map background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/call-of-duty-map-background">
+                            <span itemprop="name">call of duty map background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Call of Duty Map Backgrounds</h1>
+                <p>Call of Duty maps often reflect diverse and immersive backgrounds, ranging from war-torn cities to exotic jungles. Each map is meticulously designed to enhance gameplay, featuring strategic spots, intricate details, and environmental storytelling. The backdrop of these maps not only sets the scene but also influences player tactics and experiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rust, The Classic Call Of Duty Map, Is Back In Modern Warfare ...">
+                                <img itemprop="contentUrl url" src='https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/3635333-agb_s2_launch_rust.jpg' alt='Rust, The Classic Call Of Duty Map, Is Back In Modern Warfare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameSpot" />
+                                </span>
+                                <a href='https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/3635333-agb_s2_launch_rust.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COD] What's Your Favourite CALL OF DUTY Map? So Far..... : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cod-whats-your-favourite-call-of-duty-map-so-far-v0-22ffhcoh1ir81.jpg?auto=webp&s=a9ec3797b8538127e5be7aa4d82ec6b6e21a65ee' alt='COD] What's Your Favourite CALL OF DUTY Map? So Far..... : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cod-whats-your-favourite-call-of-duty-map-so-far-v0-22ffhcoh1ir81.jpg?auto=webp&s=a9ec3797b8538127e5be7aa4d82ec6b6e21a65ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Maps">
+                                <img itemprop="contentUrl url" src='https://callofdutymaps.com/wp-content/uploads/MWIII-SHOOT-HOUSE-TOUT-1.png' alt='Call of Duty Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="callofdutymaps.com" />
+                                </span>
+                                <a href='https://callofdutymaps.com/wp-content/uploads/MWIII-SHOOT-HOUSE-TOUT-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="User finds Modern Warfare 2 map is surrounded by secret city | ONE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.oneesports.gg/cdn-data/2023/04/modern_warfare_2_map_farm19.jpg' alt='User finds Modern Warfare 2 map is surrounded by secret city | ONE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONE Esports" />
+                                </span>
+                                <a href='https://cdn.oneesports.gg/cdn-data/2023/04/modern_warfare_2_map_farm19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty®: Mobile Map Snapshot: Rust | Call of duty, Call of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/b0/63/ffb06360999ea03b61ca42a41dd3e704.jpg' alt='Call of Duty®: Mobile Map Snapshot: Rust | Call of duty, Call of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/b0/63/ffb06360999ea03b61ca42a41dd3e704.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Standoff - Call of Duty Mobile - Call of Duty Maps">
+                                <img itemprop="contentUrl url" src='https://callofdutymaps.com/wp-content/uploads/standoffmobile1-1376x500.jpg' alt='Standoff - Call of Duty Mobile - Call of Duty Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1376">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call of Duty Maps" />
+                                </span>
+                                <a href='https://callofdutymaps.com/wp-content/uploads/standoffmobile1-1376x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call Of Duty Maps Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12053583.jpg' alt='Call Of Duty Maps Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12053583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty Mobile Season 3 teasers reveal new maps and modes ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/un4bpbccDSPjcd8K6EbJW5.jpg' alt='Call of Duty Mobile Season 3 teasers reveal new maps and modes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/un4bpbccDSPjcd8K6EbJW5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockdown (map) | Call of Duty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/callofduty/images/a/a6/Lockdown_loading_screen_MW3.PNG/revision/latest?cb=20130728192041' alt='Lockdown (map) | Call of Duty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Call of Duty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/callofduty/images/a/a6/Lockdown_loading_screen_MW3.PNG/revision/latest?cb=20130728192041' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Standoff - Black Ops Cold War - Call of Duty Maps">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/b3/12/a1b31213f88156623a6c9cb0bfb6b76a.jpg' alt='Standoff - Black Ops Cold War - Call of Duty Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/b3/12/a1b31213f88156623a6c9cb0bfb6b76a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Space Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore celestial beauty with our aesthetic space wallpaper. Perfect for adding a cosmic touch to any room, these designs inspire creativity and relaxation. Discover the universe without leaving your home! Ideal for bedrooms, offices, and creative spaces. Optimize your decor today!">
+                    <meta name="keywords" content="aesthetic:9yg1hmuqluy= space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic9yg1hmuqluy-space-wallpaper">
+                            <span itemprop="name">aesthetic:9yg1hmuqluy= space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Space Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning aesthetic space wallpaper. Featuring ethereal galaxies, vibrant nebulae, and cosmic wonders, these wallpapers bring the beauty of the universe to your home. Ideal for bedrooms, offices, or creative spaces, they create an inspiring atmosphere that sparks imagination and tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Aesthetic Sky And Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/space-aesthetic-sky-and-moon-p91evrkkn79u05gv.jpg' alt='Space Aesthetic Sky And Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/space-aesthetic-sky-and-moon-p91evrkkn79u05gv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Space Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-space-aesthetic-with-planets-and-stars-jpg-js2y25vmqhowcrph.jpg' alt='100+] Pastel Space Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-space-aesthetic-with-planets-and-stars-jpg-js2y25vmqhowcrph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Rainbow Aesthetic Galaxy Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/space-rainbow-aesthetic-galaxy-gkxykq0zjvwfpd45.jpg' alt='Download Space Rainbow Aesthetic Galaxy Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1395">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/space-rainbow-aesthetic-galaxy-gkxykq0zjvwfpd45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cosmic Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-cosmic-galaxy-srk3pybyalyw8vgm.jpg' alt='Aesthetic Cosmic Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-cosmic-galaxy-srk3pybyalyw8vgm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Universe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/13/9d/c2/139dc29b78264f65c76adcb00e597605.jpg' alt='Aesthetic Wallpaper Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/13/9d/c2/139dc29b78264f65c76adcb00e597605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Moon Aesthetic Galaxy Wallpaper Bundle Download Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30152599/r/il/48fafd/3568692632/il_fullxfull.3568692632_426k.jpg' alt='Celestial Moon Aesthetic Galaxy Wallpaper Bundle Download Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30152599/r/il/48fafd/3568692632/il_fullxfull.3568692632_426k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 AMAZING SPACE AESTHETIC WALLPAPER FOR YOUR IPHONE!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/90/a6/f490a6e44a05503547691f01ac4f8d6f.jpg' alt='40 AMAZING SPACE AESTHETIC WALLPAPER FOR YOUR IPHONE!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/90/a6/f490a6e44a05503547691f01ac4f8d6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f3/0b/1e/f30b1e72c62a1e6be697e1d2ff54dcca.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f3/0b/1e/f30b1e72c62a1e6be697e1d2ff54dcca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Aesthetic Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/tumblr-aesthetic-space-mrukozxgku2s6kbm.jpg' alt='Tumblr Aesthetic Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/tumblr-aesthetic-space-mrukozxgku2s6kbm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Rocket, aesthetic, celestial, galaxy, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/480/518/HD-wallpaper-space-rocket-aesthetic-celestial-galaxy.jpg' alt='Space Rocket, aesthetic, celestial, galaxy, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/480/518/HD-wallpaper-space-rocket-aesthetic-celestial-galaxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

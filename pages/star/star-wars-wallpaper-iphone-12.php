@@ -1,0 +1,129 @@
+<title>Ultimate Star Wars Wallpapers for iPhone 12</title>
+                    <meta name="description" content="Explore an amazing collection of Star Wars wallpapers for your iPhone 12. Choose from your favorite characters and scenes to personalize your phone. Download now and immerse yourself in the galaxy far, far away every time you check your device!">
+                    <meta name="keywords" content="star wars wallpaper iphone 12">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-wallpaper-iphone-12">
+                            <span itemprop="name">star wars wallpaper iphone 12</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Star Wars Wallpapers for iPhone 12</h1>
+                <p>Transform your iPhone 12 with stunning Star Wars wallpapers that bring the galaxy to your fingertips! Discover a variety of designs, from iconic characters like Darth Vader and Yoda to epic space battles. Personalize your device and showcase your passion for the Star Wars universe every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8k darth vader iPhone 12 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/b6/ee/8bb6ee2f60fefb5b5ff97f1441002d99.jpg' alt='8k darth vader iPhone 12 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/b6/ee/8bb6ee2f60fefb5b5ff97f1441002d99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/f/4/33425-1170x2532-iphone-hd-star-wars-wallpaper.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/f/4/33425-1170x2532-iphone-hd-star-wars-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' alt='100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star war wallpapers.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/d5/5b/b7/d55bb7008917830751c95ff77bc20a55.jpg' alt='Star war wallpapers.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/d5/5b/b7/d55bb7008917830751c95ff77bc20a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars, logo, original, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/461/746/HD-wallpaper-star-wars-logo-original.jpg' alt='Star Wars, logo, original, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/461/746/HD-wallpaper-star-wars-logo-original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: The Force Awakens iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/12/Star-Wars-The-Force-Awakens-Wallpaper-iDownloadBlog-Stormtrooper-Blast.jpg' alt='Star Wars: The Force Awakens iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/12/Star-Wars-The-Force-Awakens-Wallpaper-iDownloadBlog-Stormtrooper-Blast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Fighter iPhone 12 Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/star-wars-fighter.png' alt='Star Wars Fighter iPhone 12 Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/star-wars-fighter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="star wars the rise of skywalker arts iPhone 12 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/3e/0c/453e0cfbece044d1b6d166eb321377bc.jpg' alt='star wars the rise of skywalker arts iPhone 12 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/3e/0c/453e0cfbece044d1b6d166eb321377bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mandalorian Wallpaper 4K, Star Wars, Dark, Red Sky">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/the-mandalorian-star-wars-dark-red-sky-tv-series-5k-1284x2778-2312.jpg' alt='The Mandalorian Wallpaper 4K, Star Wars, Dark, Red Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/the-mandalorian-star-wars-dark-red-sky-tv-series-5k-1284x2778-2312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Star Wars Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11479494.jpg' alt='iPhone 12 Star Wars Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11479494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

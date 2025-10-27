@@ -1,0 +1,129 @@
+<title>Refresh Your Screen with Green Bible Verse Wallpaper</title>
+                    <meta name="description" content="Discover stunning green Bible verse wallpaper that uplifts your spirit and beautifies your device. Ideal for daily inspiration, these backgrounds feature nature and scripture, creating a serene atmosphere. Perfect for anyone seeking a peaceful reminder of faith. Download your favorites now!">
+                    <meta name="keywords" content="green bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/green-bible-verse-wallpaper">
+                            <span itemprop="name">green bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your Screen with Green Bible Verse Wallpaper</h1>
+                <p>Transform your device with beautiful green Bible verse wallpaper that inspires tranquility and faith. These serene backgrounds feature uplifting scripture, perfect for reminding you of God’s promises every day. Enjoy a refreshing spiritual experience that brightens your screen while deepening your connection to nature and faith.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green - Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623163055/quotes/en/c9e1xjyd82fpw1gt4mex.jpg' alt='Green - Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623163055/quotes/en/c9e1xjyd82fpw1gt4mex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Green Background Wallpaper Philippians 4:6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/7a/90/a27a90da8beadecca99a7022b2621176.jpg' alt='Bible Verse Green Background Wallpaper Philippians 4:6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/7a/90/a27a90da8beadecca99a7022b2621176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/a9/76/fca976c8bf5f3c28dbae9733a45f22fc.jpg' alt='sage green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/a9/76/fca976c8bf5f3c28dbae9733a45f22fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green - Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623165216/quotes/en/qlobnqi0kl7wxmph39og.jpg' alt='Green - Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623165216/quotes/en/qlobnqi0kl7wxmph39og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="w a l l p a p e r.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/b2/04/a0b2041acb6edf17724d03d8d0b4c9b5.jpg' alt='w a l l p a p e r.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/b2/04/a0b2041acb6edf17724d03d8d0b4c9b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Bible Verse Green Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/inspirational-bible-verse-green-mobile-k36xtdl5wcs5svv4.jpg' alt='Inspirational Bible Verse Green Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/inspirational-bible-verse-green-mobile-k36xtdl5wcs5svv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green - Bible verse and quote wallpapers – ActiveChristianity">
+                                <img itemprop="contentUrl url" src='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623184018/quotes/en/pj9hukpmvg8gg1ubf6mu.jpg' alt='Green - Bible verse and quote wallpapers – ActiveChristianity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveChristianity" />
+                                </span>
+                                <a href='https://cdn.activechristianity.org/image/upload/c_thumb,h_1067,w_600,g_center/v1623184018/quotes/en/pj9hukpmvg8gg1ubf6mu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Green Christian Wallpapers   | Gallery posted by AevaB09 ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7339936857700418054&index=1&sign=15f36545a33d212e5cd3825e0280d5d6' alt='  Green Christian Wallpapers   | Gallery posted by AevaB09 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7339936857700418054&index=1&sign=15f36545a33d212e5cd3825e0280d5d6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verses    #worshipmusic #christianmusic #viralmusic #bibleverses |  TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7381152731634928938&location=0&aid=1988' alt='Bible Verses    #worshipmusic #christianmusic #viralmusic #bibleverses |  TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7381152731634928938&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/57/a1/de57a1707d53402cc94d81fb231ccba2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/57/a1/de57a1707d53402cc94d81fb231ccba2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

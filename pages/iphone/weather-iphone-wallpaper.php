@@ -1,0 +1,129 @@
+<title>Stunning Weather iPhone Wallpapers for Every Mood</title>
+                    <meta name="description" content="Discover beautiful weather iPhone wallpapers that bring the essence of nature to your phone. From vibrant sunny days to serene snowy nights, personalize your device with stunning visuals that match your mood. Elevate your iPhone's look today!">
+                    <meta name="keywords" content="weather iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/weather-iphone-wallpaper">
+                            <span itemprop="name">weather iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Weather iPhone Wallpapers for Every Mood</h1>
+                <p>Transform your iPhone with stunning weather-themed wallpapers that reflect the beauty of the changing seasons. Whether you adore sunny skies, rainy days, or snowy landscapes, there's a perfect wallpaper to suit your mood. Elevate your device's aesthetic and enjoy nature's charm right on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Weather Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/7e/2b/477e2b91c2d1d31245a25d0f0ce9571f.jpg' alt='iOS 16 Weather Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/7e/2b/477e2b91c2d1d31245a25d0f0ce9571f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Static nighttime weather iOS 16 : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/EYocXDJNm651H_pa_2JSHgLds-arqex45WqLEO6trYc.jpg?width=640&crop=smart&auto=webp&s=19075f29b330d3b453c84372a6040163052307c1' alt='Static nighttime weather iOS 16 : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/EYocXDJNm651H_pa_2JSHgLds-arqex45WqLEO6trYc.jpg?width=640&crop=smart&auto=webp&s=19075f29b330d3b453c84372a6040163052307c1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudy Weather - IPhone : iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/806/8/HD-wallpaper-cloudy-weather-iphone-iphone.jpg' alt='Cloudy Weather - IPhone : iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/806/8/HD-wallpaper-cloudy-weather-iphone-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainy Weather iPhone 5 Wallpaper | Rain wallpapers, Rainy day ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/78/08/737808da08f8b4346be24bf447176df9.jpg' alt='Rainy Weather iPhone 5 Wallpaper | Rain wallpapers, Rainy day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/78/08/737808da08f8b4346be24bf447176df9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WeatherLock brings the Weather app's animated backgrounds to your ...">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/04/WeatherLock-Lock-screen.jpg' alt='WeatherLock brings the Weather app's animated backgrounds to your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/04/WeatherLock-Lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Entry #68 by imnajungshinkdir for Animated Weather Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://cdn6.f-cdn.com/contestentries/329593/14489232/569add2d8d3cb_thumb900.jpg' alt='Entry #68 by imnajungshinkdir for Animated Weather Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freelancer" />
+                                </span>
+                                <a href='https://cdn6.f-cdn.com/contestentries/329593/14489232/569add2d8d3cb_thumb900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16: The MacStories Review - MacStories - Part 3">
+                                <img itemprop="contentUrl url" src='https://cdn.macstories.net/image-1662731483819.jpeg' alt='iOS 16: The MacStories Review - MacStories - Part 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1937">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacStories" />
+                                </span>
+                                <a href='https://cdn.macstories.net/image-1662731483819.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/6b/c2/b86bc2d435a63ff3c3199a8db558def1.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/6b/c2/b86bc2d435a63ff3c3199a8db558def1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 dynamic weather wallpaper : will this be supported by Widgy ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/n7tzr2ggc5591.jpg' alt='iOS 16 dynamic weather wallpaper : will this be supported by Widgy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/n7tzr2ggc5591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Cloud iPhone wallpaper, cute rainy weather pattern ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cloud-iphone-wallpaper-cute-rainy-weather-pattern-vector_53876-144609.jpg?w=360' alt='Free Vector | Cloud iPhone wallpaper, cute rainy weather pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cloud-iphone-wallpaper-cute-rainy-weather-pattern-vector_53876-144609.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

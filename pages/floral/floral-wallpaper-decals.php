@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Wallpaper Decals</title>
+                    <meta name="description" content="Add a touch of elegance to your home with floral wallpaper decals. These easy-to-apply designs breathe life into any room, offering a stylish, temporary decor solution that’s perfect for renters and homeowners alike. Discover your ideal floral accents today!">
+                    <meta name="keywords" content="floral wallpaper decals">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-decals">
+                            <span itemprop="name">floral wallpaper decals</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Wallpaper Decals</h1>
+                <p>Floral wallpaper decals are a stunning decor solution that brings nature indoors. Easy to apply and remove, these decals transform any space with vibrant colors and intricate designs. They suit various styles, from modern to vintage, making them perfect for nurseries, living rooms, or accent walls. Revitalize your interior design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blushing Peonies Wall Decals">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/products/blushing-peonies-decals_bedroom.jpg?v=1689376697' alt='Blushing Peonies Wall Decals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/products/blushing-peonies-decals_bedroom.jpg?v=1689376697' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isabelle & Max™ Delicate Flowers Wall Decal "& Reviews" | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/91246797/compr-r85/1014/101414343/Plants+%26+Flowers+Non-Wall+Damaging+Wall+Decal.jpg' alt='Isabelle & Max™ Delicate Flowers Wall Decal "& Reviews" | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="3500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/91246797/compr-r85/1014/101414343/Plants+%26+Flowers+Non-Wall+Damaging+Wall+Decal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flower Floral Wall Decals">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/wild-flower-floral-wall-decals-562820.png?v=1666799187' alt='Wild Flower Floral Wall Decals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/wild-flower-floral-wall-decals-562820.png?v=1666799187' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prairie Floral Wall Decals - Standard Wall / Full Order / Buttercup">
+                                <img itemprop="contentUrl url" src='https://uwdecals.com/cdn/shop/products/prairie-floral-wall-decals-buttercup-full-order_kids-room_76751a2e-28a9-4b15-b375-8b47de28c915.jpg?v=1698865822&width=1440' alt='Prairie Floral Wall Decals - Standard Wall / Full Order / Buttercup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='https://uwdecals.com/cdn/shop/products/prairie-floral-wall-decals-buttercup-full-order_kids-room_76751a2e-28a9-4b15-b375-8b47de28c915.jpg?v=1698865822&width=1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: decalmile Spring Large Pink Flower Wall Decals Hanging Vine  Floral Wall Stickers Baby Nursery Girls Bedroom Living Room Wall Decor :  Tools ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/819V5zlRbHL.jpg' alt='Amazon.com: decalmile Spring Large Pink Flower Wall Decals Hanging Vine  Floral Wall Stickers Baby Nursery Girls Bedroom Living Room Wall Decor :  Tools ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/819V5zlRbHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wall Decals Wildflower Nursery, Flower Wall Decals Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12920008/r/il/d7261d/3166822583/il_570xN.3166822583_t656.jpg' alt='Floral Wall Decals Wildflower Nursery, Flower Wall Decals Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12920008/r/il/d7261d/3166822583/il_570xN.3166822583_t656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JESSICA'S FARMHOUSE Watercolor Flowers Wall Decal Mural">
+                                <img itemprop="contentUrl url" src='https://www.motomomsdecor.com/cdn/shop/products/JESSICAS-FARMHOUSE-EVENING-EDITION-02_a6c27e69-795a-4f21-ad5a-acf90b509e4f_1024x1024.jpg?v=1587474081' alt='JESSICA'S FARMHOUSE Watercolor Flowers Wall Decal Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotoMoms Decor" />
+                                </span>
+                                <a href='https://www.motomomsdecor.com/cdn/shop/products/JESSICAS-FARMHOUSE-EVENING-EDITION-02_a6c27e69-795a-4f21-ad5a-acf90b509e4f_1024x1024.jpg?v=1587474081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?v=1702983898' alt='Peony Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1156">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?v=1702983898' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Flower Wall Decals Large Peony Wall Decal Set of 6 Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5996810/r/il/630d11/2103528241/il_570xN.2103528241_sn4a.jpg' alt='Boho Flower Wall Decals Large Peony Wall Decal Set of 6 Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5996810/r/il/630d11/2103528241/il_570xN.2103528241_sn4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Garden Wall Decals">
+                                <img itemprop="contentUrl url" src='http://lambsivy.com/cdn/shop/files/floral-garden_wall-decal_lifestyle_1200x1200.jpg?v=1723124904' alt='Floral Garden Wall Decals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lambs & Ivy" />
+                                </span>
+                                <a href='http://lambsivy.com/cdn/shop/files/floral-garden_wall-decal_lifestyle_1200x1200.jpg?v=1723124904' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

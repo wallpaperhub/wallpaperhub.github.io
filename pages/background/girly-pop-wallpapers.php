@@ -1,0 +1,129 @@
+<title>Vibrant Girly Pop Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our vibrant girly pop wallpapers to personalize your devices! Featuring fun patterns and playful designs, these wallpapers are perfect for adding a cheerful touch. Download your favorites and showcase your unique style effortlessly!">
+                    <meta name="keywords" content="girly pop wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/girly-pop-wallpapers">
+                            <span itemprop="name">girly pop wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Girly Pop Wallpapers for Your Device</h1>
+                <p>Brighten up your device with our collection of girly pop wallpapers! From vibrant patterns to cute illustrations, these wallpapers add a playful touch to your screen. Perfect for expressing your personality and love for all things fun and feminine. Customize your digital space with these unique designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpaper Pop Vector Images (over 270)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/66/86/repeating-pink-hearts-background-in-trendy-girly-vector-47626686.jpg' alt='Girly Wallpaper Pop Vector Images (over 270)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="834">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/66/86/repeating-pink-hearts-background-in-trendy-girly-vector-47626686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpaper Pop Vector Images (over 270)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/37/76/candy-seamless-hearts-pattern-colorful-heart-vector-26733776.jpg' alt='Girly Wallpaper Pop Vector Images (over 270)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/37/76/candy-seamless-hearts-pattern-colorful-heart-vector-26733776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SLAY GIRLY POP | Preppy wallpaper, Preppy aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/31/40/91314068a8ba8df7581de285d6dc4024.jpg' alt='SLAY GIRLY POP | Preppy wallpaper, Preppy aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/31/40/91314068a8ba8df7581de285d6dc4024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Girly Backgrounds Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cool-groovy-stickers-background-y2k-260nw-2284081031.jpg' alt='Funky Girly Backgrounds Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cool-groovy-stickers-background-y2k-260nw-2284081031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/72/76/837276cfd72986d9f0406fbfd30a29ec.jpg' alt='iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/72/76/837276cfd72986d9f0406fbfd30a29ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpaper Pop Vector Images (over 270)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/85/15/vertical-groovy-backgrounds-set-vector-44898515.jpg' alt='Girly Wallpaper Pop Vector Images (over 270)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/85/15/vertical-groovy-backgrounds-set-vector-44898515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/2e/52/7a2e52dc7b03119689d97e6a9d942875.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/2e/52/7a2e52dc7b03119689d97e6a9d942875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpaper Pop Vector Images (over 270)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/84/63/floral-checkerboard-grid-background-vector-44898463.jpg' alt='Girly Wallpaper Pop Vector Images (over 270)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/84/63/floral-checkerboard-grid-background-vector-44898463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Comme Des Gracons Wallpapers for All Devices : Playful Pop Art ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/comme-des-garcons-13.jpg' alt='20 Comme Des Gracons Wallpapers for All Devices : Playful Pop Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/comme-des-garcons-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Pop Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pop-art-background_24908-60382.jpg?semt=ais_hybrid' alt='Girly Pop Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pop-art-background_24908-60382.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Yellow-Themed Wallpapers: Brighten Your Space</title>
+                    <meta name="description" content="Explore stunning yellow-themed wallpapers to enhance your home decor! From playful patterns to elegant designs, our collection offers perfect options for a cheerful atmosphere. Transform your living space with bright, sunny wallpaper that elevates your mood and style effortlessly. Ideal for any room!">
+                    <meta name="keywords" content="yellow themed wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-themed-wallpaper">
+                            <span itemprop="name">yellow themed wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow-Themed Wallpapers: Brighten Your Space</h1>
+                <p>Brighten your space with yellow-themed wallpaper! Ideal for creating a sunny atmosphere, yellow hues complement various styles, from modern to vintage. Choose from bold patterns or subtle textures to elevate any room. Perfect for accent walls or entire rooms, yellow wallpaper can energize your decor and enhance your mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow wave wallpaper~">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/57/f5/a057f50bfc2e9fda13d1dabe8d5da6df.jpg' alt='Yellow wave wallpaper~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/57/f5/a057f50bfc2e9fda13d1dabe8d5da6df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orla Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/2903-25837_99fabb87-ad84-4b00-8c57-b3c5728d26a5.jpg?v=1722353485&width=2400' alt='Orla Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/2903-25837_99fabb87-ad84-4b00-8c57-b3c5728d26a5.jpg?v=1722353485&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1670966448732-3c44e2123096?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eWVsbG93JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Yellow Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1670966448732-3c44e2123096?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eWVsbG93JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brighten Up Your Day With A Splash Of Aesthetic Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/brighten-up-your-day-with-a-splash-of-aesthetic-yellow-iaekhgwi8kj0hzze.webp' alt='Brighten Up Your Day With A Splash Of Aesthetic Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/brighten-up-your-day-with-a-splash-of-aesthetic-yellow-iaekhgwi8kj0hzze.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1037998/pexels-photo-1037998.jpeg?cs=srgb&dl=pexels-moose-photos-170195-1037998.jpg&fm=jpg' alt='Yellow Wallpaper Photos, Download The BEST Free Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1037998/pexels-photo-1037998.jpeg?cs=srgb&dl=pexels-moose-photos-170195-1037998.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Yellow Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-yellow-q3wd5w6lwztg5p3o.jpg' alt='100+] Cool Yellow Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-yellow-q3wd5w6lwztg5p3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Best Yellow wallpaper ideas | yellow wallpaper, wallpaper, yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/a1/a8/48/a1a848b748dd001306d6362c30489cf7.jpg' alt='31 Best Yellow wallpaper ideas | yellow wallpaper, wallpaper, yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/a1/a8/48/a1a848b748dd001306d6362c30489cf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Yellow-themed Iphone Home Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vibrant-yellow-themed-iphone-home-screen-6rgix71fmfzlsjyy.jpg' alt='Vibrant Yellow-themed Iphone Home Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vibrant-yellow-themed-iphone-home-screen-6rgix71fmfzlsjyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, flower, sunflowers, theme, yellow, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/215/685/HD-wallpaper-aesthetic-flower-sunflowers-theme-yellow-thumbnail.jpg' alt='Aesthetic, flower, sunflowers, theme, yellow, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/215/685/HD-wallpaper-aesthetic-flower-sunflowers-theme-yellow-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow's Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/37/e4/35/37e4355509ff05bc62233d211e96f68b.jpg' alt='Yellow's Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/37/e4/35/37e4355509ff05bc62233d211e96f68b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

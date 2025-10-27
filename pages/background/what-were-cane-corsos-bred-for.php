@@ -1,0 +1,129 @@
+<title>Why Cane Corsos Were Bred: A Brief History</title>
+                    <meta name="description" content="Discover the origins of Cane Corsos, initially bred for hunting and guarding. Learn about their versatility as working dogs and their role today as loyal companions and protectors. Explore the heritage of these impressive canines in a concise, informative overview.">
+                    <meta name="keywords" content="what were cane corsos bred for">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-were-cane-corsos-bred-for">
+                            <span itemprop="name">what were cane corsos bred for</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Cane Corsos Were Bred: A Brief History</h1>
+                <p>Cane Corsos were originally bred in Italy for various roles, including hunting, guarding, and as working dogs. Their robust build and protective nature made them excellent in hunting large game and serving as herders for livestock. Today, they continue to excel as loyal companions and formidable guardians.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2017/11/Cane-Corso-AKC-121516-296.jpg' alt='Cane Corso Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2017/11/Cane-Corso-AKC-121516-296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Dog Breed Health and Care | PetMD">
+                                <img itemprop="contentUrl url" src='https://image.petmd.com/files/inline-images/cane-corso-breed-card.jpg?VersionId=FAJ0_lIoIWTL0VmHIetSDDh.DFi3rfjd' alt='Cane Corso Dog Breed Health and Care | PetMD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PetMD" />
+                                </span>
+                                <a href='https://image.petmd.com/files/inline-images/cane-corso-breed-card.jpg?VersionId=FAJ0_lIoIWTL0VmHIetSDDh.DFi3rfjd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso History: Where the Breed Originated">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/08/04093717/Cane-Corso-head-portrait-outdoors.jpg' alt='Cane Corso History: Where the Breed Originated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/08/04093717/Cane-Corso-head-portrait-outdoors.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso History: Where the Breed Originated">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/09/07115352/Cane-Corso-running-in-the-grass.jpg' alt='Cane Corso History: Where the Breed Originated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/09/07115352/Cane-Corso-running-in-the-grass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Breed Information | Chewy">
+                                <img itemprop="contentUrl url" src='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181333/202106Cane-Corso_Featured-Image.jpg' alt='Cane Corso Breed Information | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181333/202106Cane-Corso_Featured-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Breed Information | Chewy">
+                                <img itemprop="contentUrl url" src='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181324/202104cane-corso-breed-1195060097-scaled-1.jpg' alt='Cane Corso Breed Information | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181324/202104cane-corso-breed-1195060097-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/03/Cane_corso_temi_1_1024x768x24_%28cropped%29.png' alt='Cane Corso - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/03/Cane_corso_temi_1_1024x768x24_%28cropped%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Breed Information | Chewy">
+                                <img itemprop="contentUrl url" src='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181255/202104cane-corso-breed-1298639615-scaled-1.jpg' alt='Cane Corso Breed Information | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181255/202104cane-corso-breed-1298639615-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Dog Breed: History, Personality, Training and What To Feed">
+                                <img itemprop="contentUrl url" src='https://new-digest.thefarmersdog.com/wp-content/uploads/2021/08/Cane-corso-brindle.jpg' alt='Cane Corso Dog Breed: History, Personality, Training and What To Feed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Farmer's Dog" />
+                                </span>
+                                <a href='https://new-digest.thefarmersdog.com/wp-content/uploads/2021/08/Cane-corso-brindle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cane Corso Dog Breed History & Characteristics | Dutch">
+                                <img itemprop="contentUrl url" src='http://www.dutch.com/cdn/shop/articles/shutterstock_263303186.jpg?v=1681154264' alt='Cane Corso Dog Breed History & Characteristics | Dutch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1368">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dutch" />
+                                </span>
+                                <a href='http://www.dutch.com/cdn/shop/articles/shutterstock_263303186.jpg?v=1681154264' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

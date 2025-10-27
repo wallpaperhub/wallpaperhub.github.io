@@ -1,0 +1,129 @@
+<title>Unleash the Action: Survivor Series Excitement Awaits!</title>
+                    <meta name="description" content="Discover the thrilling spectacle of Survivor Series, WWE's premier annual event! Witness epic matchups, shocking alliances, and unforgettable moments as brands battle for glory. Stay updated with all the action, and gear up for a wrestling showdown like no other!">
+                    <meta name="keywords" content="survivor series">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/survivor-series">
+                            <span itemprop="name">survivor series</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash the Action: Survivor Series Excitement Awaits!</h1>
+                <p>Survivor Series is one of WWE's flagship events, featuring thrilling matchups that pit the top Superstars against each other in traditional elimination-style bouts. Fans eagerly anticipate this annual spectacle, showcasing teamwork, drama, and unexpected twists, as brands clash for supremacy in the squared circle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Survivor Series - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/6/66/Survivor_Series_2022_logo.png' alt='Survivor Series - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/6/66/Survivor_Series_2022_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Survivor Series (2019) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/6/6a/Survivor_Series_2019_Poster.jpg' alt='Survivor Series (2019) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="223">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/6/6a/Survivor_Series_2019_Poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Survivor Series: WarGames (2024) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/aa/Survivor_Series_2024_poster.jpg' alt='Survivor Series: WarGames (2024) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="282">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/aa/Survivor_Series_2024_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE: Survivor Series 2019 (DVD)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91saFb5MUaL._AC_UF894,1000_QL80_.jpg' alt='WWE: Survivor Series 2019 (DVD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91saFb5MUaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official 2024 Survivor Series War Games Preview & Predictions ...">
+                                <img itemprop="contentUrl url" src='https://wwepodcast.com/wp-content/uploads/2024/11/SS-War-Games.jpg' alt='Official 2024 Survivor Series War Games Preview & Predictions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The WWE Podcast" />
+                                </span>
+                                <a href='https://wwepodcast.com/wp-content/uploads/2024/11/SS-War-Games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Survivor Series 2024 predictions - Cageside Seats">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/Ay_t_ATunIM4tcRZOXGpcxUmT2U=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73756878/20241122_SSeries_Match_WomensWG_FC_Date__61ecfa6e163baf83de70fbf1e07436a7.0.jpg' alt='WWE Survivor Series 2024 predictions - Cageside Seats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cageside Seats" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/Ay_t_ATunIM4tcRZOXGpcxUmT2U=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73756878/20241122_SSeries_Match_WomensWG_FC_Date__61ecfa6e163baf83de70fbf1e07436a7.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Survivor Series (TV Special 2021) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTMwMzE4YTUtNmRmZS00MDJhLThmNDAtM2ZjMmI4NGY1ZjAyXkEyXkFqcGc@._V1_.jpg' alt='WWE Survivor Series (TV Special 2021) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTMwMzE4YTUtNmRmZS00MDJhLThmNDAtM2ZjMmI4NGY1ZjAyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WWE: Survivor Series 2019 (DVD) : WWE, WWE, WWE ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Aq2DdyQUL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA322,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' alt='Amazon.com: WWE: Survivor Series 2019 (DVD) : WWE, WWE, WWE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Aq2DdyQUL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA322,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Survivor Series 2023 Results: Winners And Grades As Randy ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/656299cd1e42ba62278578ee/WWE-Survivor-Series-WarGames/960x0.jpg?format=jpg&width=960' alt='WWE Survivor Series 2023 Results: Winners And Grades As Randy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/656299cd1e42ba62278578ee/WWE-Survivor-Series-WarGames/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Survivor Series: WarGames Preview And Predictions">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/SPt9fqLYRE3k.4hgm53LvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/170eca7bfcc5b37738f65c14fb08270e' alt='WWE Survivor Series: WarGames Preview And Predictions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/SPt9fqLYRE3k.4hgm53LvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/170eca7bfcc5b37738f65c14fb08270e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

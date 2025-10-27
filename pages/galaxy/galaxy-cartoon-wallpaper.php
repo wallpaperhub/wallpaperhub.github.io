@@ -1,0 +1,129 @@
+<title>Vibrant Galaxy Cartoon Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant galaxy cartoon wallpapers. Perfect for enhancing your device's look, these captivating designs feature whimsical space themes that will inspire your imagination. Download now and let your screens shine with colorful cosmic charm!">
+                    <meta name="keywords" content="galaxy cartoon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-cartoon-wallpaper">
+                            <span itemprop="name">galaxy cartoon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Galaxy Cartoon Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning galaxy cartoon wallpaper that combines vibrant colors and whimsical designs. Perfect for fans of space and creativity, these wallpapers feature playful planets, twinkling stars, and charming cartoon characters exploring the cosmos. Elevate your screens and spark your imagination with a galactic touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Galaxy Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/402/893/non_2x/stars-capes-galaxy-screenshot-and-wallpaper-in-the-style-of-whimsical-cartoon-style-light-blue-and-magenta-luminous-spheres-toycore-mysterious-forms-generat-ai-free-photo.jpg' alt='Cartoon Galaxy Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/402/893/non_2x/stars-capes-galaxy-screenshot-and-wallpaper-in-the-style-of-whimsical-cartoon-style-light-blue-and-magenta-luminous-spheres-toycore-mysterious-forms-generat-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Galaxy">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/51548/cartoon-galaxy.jpg?h=699&q=85' alt='Cartoon Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/51548/cartoon-galaxy.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon image of different planets and stars on dark aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/c0/dd/90c0dd4dbbbae051cf7c4cbbf04acd83.jpg' alt='Cartoon image of different planets and stars on dark aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/c0/dd/90c0dd4dbbbae051cf7c4cbbf04acd83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Cartoon galaxy background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cartoon-galaxy-background_23-2148973053.jpg' alt='Free Vector | Cartoon galaxy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cartoon-galaxy-background_23-2148973053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Galaxy Wallpaper Stock Illustrations – 18,466 Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cartoon-galaxy-background-cool-wallpaper-337436956.jpg' alt='Cartoon Galaxy Wallpaper Stock Illustrations – 18,466 Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cartoon-galaxy-background-cool-wallpaper-337436956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Galaxy Images – Browse 325,347 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/17/24/17/360_F_117241720_kLdhi3Qi6WdLYwxGKQ1blUeLl69n4nHf.jpg' alt='Cartoon Galaxy Images – Browse 325,347 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/17/24/17/360_F_117241720_kLdhi3Qi6WdLYwxGKQ1blUeLl69n4nHf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Galaxy wallpaper by XxK1xX - Download on ZEDGE™ | e06e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/80/b4/f580b4427ba7399ec894e68343c01473.jpg' alt='Cartoon Galaxy wallpaper by XxK1xX - Download on ZEDGE™ | e06e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/80/b4/f580b4427ba7399ec894e68343c01473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stars capes galaxy screenshot and wallpaper, in the style of ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/042/152/large_2x/stars-capes-galaxy-screenshot-and-wallpaper-in-the-style-of-whimsical-cartoon-style-light-blue-and-magenta-luminous-spheres-toycore-mysterious-forms-generat-ai-free-photo.jpg' alt='stars capes galaxy screenshot and wallpaper, in the style of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3497">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/042/152/large_2x/stars-capes-galaxy-screenshot-and-wallpaper-in-the-style-of-whimsical-cartoon-style-light-blue-and-magenta-luminous-spheres-toycore-mysterious-forms-generat-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 5 | Space Cartoon Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cartoon-galaxy-background_23-2148984169.jpg' alt='Page 5 | Space Cartoon Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cartoon-galaxy-background_23-2148984169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon image of different planets on black galaxy background with ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/07/34/17073433f653e748f2eaea5213ba3476.jpg' alt='Cartoon image of different planets on black galaxy background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/07/34/17073433f653e748f2eaea5213ba3476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

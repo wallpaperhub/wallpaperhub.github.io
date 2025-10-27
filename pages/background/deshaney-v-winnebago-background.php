@@ -1,0 +1,129 @@
+<title>Deshaney v. Winnebago: A Landmark Child Welfare Case</title>
+                    <meta name="description" content="Explore the landmark Supreme Court case Deshaney v. Winnebago, which challenged government responsibility in protecting children's welfare from abuse. Understand the implications of this pivotal ruling and its impact on child protective services.">
+                    <meta name="keywords" content="deshaney v winnebago background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/deshaney-v-winnebago-background">
+                            <span itemprop="name">deshaney v winnebago background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deshaney v. Winnebago: A Landmark Child Welfare Case</h1>
+                <p>The case of Deshaney v. Winnebago County is a landmark 1989 Supreme Court ruling that examined the limits of governmental liability in child welfare. Joshua Deshaney, a boy subjected to severe abuse by his father, suffered injuries while under the oversight of child protective services, raising debates about state responsibilities in preventing child abuse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney V. Winnebago County Social Services (1989) - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/15782384/88/images/4/Background.jpg' alt='DeShaney V. Winnebago County Social Services (1989) - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/15782384/88/images/4/Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney v. Winnebago County: Government Neglect and the Blessings ...">
+                                <img itemprop="contentUrl url" src='https://digitalcommons.wcl.american.edu/facsch_bk_contributions/1102/preview.jpg' alt='DeShaney v. Winnebago County: Government Neglect and the Blessings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Commons @ American University Washington College of Law ..." />
+                                </span>
+                                <a href='https://digitalcommons.wcl.american.edu/facsch_bk_contributions/1102/preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney v. Winnebago County Department of Social Services, 489 ...">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/68fd8daa2a739331a89abf1c0b74ea63.jpg?image_resize=750' alt='DeShaney v. Winnebago County Department of Social Services, 489 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quimbee" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/68fd8daa2a739331a89abf1c0b74ea63.jpg?image_resize=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney V. Winnebago County Social Services (1989) - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/15782384/88/images/3/Joshua+DeShaney.jpg' alt='DeShaney V. Winnebago County Social Services (1989) - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/15782384/88/images/3/Joshua+DeShaney.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="deshaney v winnebago by David Woelkers on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/3b7a26yzauc57huif6drq3nrwp6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='deshaney v winnebago by David Woelkers on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/3b7a26yzauc57huif6drq3nrwp6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy at center of famous 'Poor Joshua!' Supreme Court dissent dies">
+                                <img itemprop="contentUrl url" src='https://archive.jsonline.com/Services/image.ashx?domain=www.jsonline.com&file=b99614381z.1_20151111225152_000_gafdahuo.1-1.jpg&resize=660*505' alt='Boy at center of famous 'Poor Joshua!' Supreme Court dissent dies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="659">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Home" />
+                                </span>
+                                <a href='https://archive.jsonline.com/Services/image.ashx?domain=www.jsonline.com&file=b99614381z.1_20151111225152_000_gafdahuo.1-1.jpg&resize=660*505' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney v Winnebago County Department of Social Services (1989)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/esyQqzHCG6M/hqdefault.jpg' alt='DeShaney v Winnebago County Department of Social Services (1989)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/esyQqzHCG6M/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poor Joshua | State University of New York Press">
+                                <img itemprop="contentUrl url" src='https://sunypress.edu/var/site/storage/images/books/p/poor-joshua/9781438470498_cover/1936690-1-eng-CA/9781438470498_cover1_rb_modalcover.jpg' alt='Poor Joshua | State University of New York Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="419">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUNY Press" />
+                                </span>
+                                <a href='https://sunypress.edu/var/site/storage/images/books/p/poor-joshua/9781438470498_cover/1936690-1-eng-CA/9781438470498_cover1_rb_modalcover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deshaney Case by sydneyrent on emaze">
+                                <img itemprop="contentUrl url" src='https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/c1898f9b-b8f4-4ffa-9e5e-7f9f0f9f954b/a4130f3d-f49e-44dc-8c40-dd96bf82e00e?tr=w-280,rt-0' alt='Deshaney Case by sydneyrent on emaze'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emaze" />
+                                </span>
+                                <a href='https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/c1898f9b-b8f4-4ffa-9e5e-7f9f0f9f954b/a4130f3d-f49e-44dc-8c40-dd96bf82e00e?tr=w-280,rt-0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DeShaney v. Winnebago by aicha ali daher on Prezi">
+                                <img itemprop="contentUrl url" src='https://0701.static.prezi.com/preview/v2/qo2ljqfijt74zktzzn3rldna5h6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='DeShaney v. Winnebago by aicha ali daher on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0701.static.prezi.com/preview/v2/qo2ljqfijt74zktzzn3rldna5h6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

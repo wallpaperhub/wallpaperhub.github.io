@@ -1,0 +1,129 @@
+<title>Exploring the Charm of Horse Ranches</title>
+                    <meta name="description" content="Discover the allure of horse ranches, where tranquility and equine companionship reign. Immerse yourself in nature, learn about horseback riding, and experience the unique lifestyle that comes with caring for these majestic animals. Your adventure into the world of horse ranching awaits!">
+                    <meta name="keywords" content="horse ranch background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horse-ranch-background">
+                            <span itemprop="name">horse ranch background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Charm of Horse Ranches</h1>
+                <p>Horse ranches are serene havens where nature meets equine elegance. With sprawling pastures, rustic barns, and the rhythmic sound of hoofbeats, these ranches offer a glimpse into the world of horseback riding and farming. The bond between horses and humans thrives here, embodying a lifestyle rich in tradition and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Ranch Background Images – Browse 101,698 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/95/06/42/360_F_295064230_iUoiDRCANoGlLmGVQzZm9qX41QiXaUd9.jpg' alt='Horse Ranch Background Images – Browse 101,698 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/95/06/42/360_F_295064230_iUoiDRCANoGlLmGVQzZm9qX41QiXaUd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="399,600+ Horse Ranch Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/177000853/photo/horses-on-the-farm.jpg?s=612x612&w=0&k=20&c=ypbIjJNQCu02sgwt6HJ_aKd111V1UiULsG6KOVgqvZg=' alt='399,600+ Horse Ranch Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/177000853/photo/horses-on-the-farm.jpg?s=612x612&w=0&k=20&c=ypbIjJNQCu02sgwt6HJ_aKd111V1UiULsG6KOVgqvZg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Ranch Background Images – Browse 101,698 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/70/87/46/360_F_270874621_FtM3ZXcixJ9SAJ28lIaEwVsPB7f1kr7q.jpg' alt='Horse Ranch Background Images – Browse 101,698 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/70/87/46/360_F_270874621_FtM3ZXcixJ9SAJ28lIaEwVsPB7f1kr7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Farm Morning Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237397/Horse-Farm-Morning-Wallpaper-Mural.jpg?v=638164605029700000' alt='Horse Farm Morning Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237397/Horse-Farm-Morning-Wallpaper-Mural.jpg?v=638164605029700000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 5x3ft Fabric Kentucky Horse Farm Backdrop Stud Farm  Rustic Wooden Fence Spring Pasture Green Grass Meadow Horse Ranch  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pos2PDXiL.jpg' alt='Amazon.com : BELECO 5x3ft Fabric Kentucky Horse Farm Backdrop Stud Farm  Rustic Wooden Fence Spring Pasture Green Grass Meadow Horse Ranch  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pos2PDXiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Ranch Background Images – Browse 101,698 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/09/58/20/360_F_609582015_0Ari5Vev2tRDDVoT9pWwpjjF3MY60Gm6.jpg' alt='Horse Ranch Background Images – Browse 101,698 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/09/58/20/360_F_609582015_0Ari5Vev2tRDDVoT9pWwpjjF3MY60Gm6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="399,600+ Horse Ranch Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1266848085/photo/horses-in-pasture-at-sunup.jpg?s=612x612&w=0&k=20&c=JL_48ARyBjnN-BG7srSV9VYbtL3dELkdLNAi2V40vp4=' alt='399,600+ Horse Ranch Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1266848085/photo/horses-in-pasture-at-sunup.jpg?s=612x612&w=0&k=20&c=JL_48ARyBjnN-BG7srSV9VYbtL3dELkdLNAi2V40vp4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Free Ranch & Farm Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2020/11/05/20/16/horses-5716127_1280.jpg' alt='2,000+ Free Ranch & Farm Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2020/11/05/20/16/horses-5716127_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Farm Logo Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/054/419/746/non_2x/beautiful-chestnut-horse-standing-in-a-field-at-sunset-with-a-barn-in-the-background-free-photo.jpeg' alt='Horse Farm Logo Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/054/419/746/non_2x/beautiful-chestnut-horse-standing-in-a-field-at-sunset-with-a-barn-in-the-background-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horse Farm Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237395/Horse-Farm-Mural-Wallpaper.jpg?v=638164605057030000' alt='Horse Farm Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237395/Horse-Farm-Mural-Wallpaper.jpg?v=638164605057030000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

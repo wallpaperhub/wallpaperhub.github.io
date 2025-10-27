@@ -1,0 +1,129 @@
+<title>Stunning Purple Sugar Skull Wallpaper for Vibrant Decor</title>
+                    <meta name="description" content="Add a burst of color to your home with our stunning purple sugar skull wallpaper. Perfect for those who love unique decor, this design brings cultural flair and festive spirit to any space. Easy to apply and stylish, it’s a must-have for a standout interior that celebrates life and creativity.">
+                    <meta name="keywords" content="purple sugar skull wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-sugar-skull-wallpaper">
+                            <span itemprop="name">purple sugar skull wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Sugar Skull Wallpaper for Vibrant Decor</h1>
+                <p>Transform your space with vibrant purple sugar skull wallpaper, perfect for adding a pop of color and personality to any room. This eye-catching design features intricate details inspired by Mexican culture, making it ideal for a festive atmosphere. Embrace the spirit of Día de los Muertos and express your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple sugar skull ~ Artistic goal.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2a/35/4c/2a354c3b6bdd2839752cc5c2df3e0d94.jpg' alt='purple sugar skull ~ Artistic goal.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2a/35/4c/2a354c3b6bdd2839752cc5c2df3e0d94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Day Of The Dead Artistic Sugar Skull HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/775/thumb-1920-775742.jpg' alt='Download Purple Day Of The Dead Artistic Sugar Skull HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/775/thumb-1920-775742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a8/cf/a1/a8cfa19544355a1e03263d0779608e16.jpg' alt='Skull wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a8/cf/a1/a8cfa19544355a1e03263d0779608e16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sugar Skull Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-dead-sugar-skull-pattern-5swt8o8eocqcm0tm.jpg' alt='Download Sugar Skull Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-dead-sugar-skull-pattern-5swt8o8eocqcm0tm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/84/79/9084794f0ca250f84ea4fd836c3744ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/84/79/9084794f0ca250f84ea4fd836c3744ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sugar Skulls Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17124114/p/f/m/thSys-sRiTSN3r_2Pld6kn-19mVl3P43k3Vo9r4HphJ_8PCur36Dcm6Dsw/Purple%20Sugar%20Skulls.jpg' alt='Purple Sugar Skulls Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17124114/p/f/m/thSys-sRiTSN3r_2Pld6kn-19mVl3P43k3Vo9r4HphJ_8PCur36Dcm6Dsw/Purple%20Sugar%20Skulls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sugar Skull Art: Stunning Day of the Dead HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/734/734016.jpg' alt='Purple Sugar Skull Art: Stunning Day of the Dead HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1936">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/734/734016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster Purple Sugar Skull with Hibiscus Flower-Teschio Viola ...">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/58/24/31/34/700_FO58243134_6564e4dcf4739a3cbe43ab283930e820.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-purple-sugar-skull-with-hibiscus-flower-teschio-viola.jpg.jpg' alt='Poster Purple Sugar Skull with Hibiscus Flower-Teschio Viola ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/58/24/31/34/700_FO58243134_6564e4dcf4739a3cbe43ab283930e820.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-purple-sugar-skull-with-hibiscus-flower-teschio-viola.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sugar, skull, love, flowers, death, colorful, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/19/680/HD-wallpaper-purple-sugar-skull-love-flowers-death-colorful.jpg' alt='Purple Sugar, skull, love, flowers, death, colorful, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/19/680/HD-wallpaper-purple-sugar-skull-love-flowers-death-colorful.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hipster Skulls Galaxy, made by me #purple #sparkly #wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/52/16/c4521676e945f52a53a6fa6ca44d5ad2.jpg' alt='Hipster Skulls Galaxy, made by me #purple #sparkly #wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/52/16/c4521676e945f52a53a6fa6ca44d5ad2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

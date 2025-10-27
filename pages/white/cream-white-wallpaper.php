@@ -1,0 +1,129 @@
+<title>Elegant Cream White Wallpaper for Timeless Interiors</title>
+                    <meta name="description" content="Discover the beauty of cream white wallpaper for your home. Ideal for any décor style, this wallpaper adds elegance and warmth to your space while enhancing light. Explore our collection and transform your interiors with this versatile and stylish choice. Perfect for every room, creating a serene atmosphere.">
+                    <meta name="keywords" content="cream white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/cream-white-wallpaper">
+                            <span itemprop="name">cream white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Cream White Wallpaper for Timeless Interiors</h1>
+                <p>Cream white wallpaper brings a touch of elegance and sophistication to any space. Its soft, neutral hue creates a calming atmosphere, making it perfect for living rooms, bedrooms, or offices. Versatile and stylish, this wallpaper complements various décor styles, from modern to classic, while enhancing natural light in the room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5009932 | Villa Texture, White & Ivory - Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/5009932.jpg?v=1667871970' alt='5009932 | Villa Texture, White & Ivory - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/5009932.jpg?v=1667871970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raphael by Sandberg - White / Cream - Wallpaper - 444-11">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/159008/tiled/sandberg-raphael-white-cream-wallpaper-tiled-159008.jpg' alt='Raphael by Sandberg - White / Cream - Wallpaper - 444-11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/159008/tiled/sandberg-raphael-white-cream-wallpaper-tiled-159008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls Republic Cream Textured Plain Print Paste the Wall Double Roll  Wallpaper 57 Sq. Ft. R8149">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bf9d478f-d640-4f00-91bc-af17a7d276d8/svn/walls-republic-wallpaper-rolls-r8149-4f_600.jpg' alt='Walls Republic Cream Textured Plain Print Paste the Wall Double Roll  Wallpaper 57 Sq. Ft. R8149'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bf9d478f-d640-4f00-91bc-af17a7d276d8/svn/walls-republic-wallpaper-rolls-r8149-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Cream Linen Wallpaper - Neutral Off White Wall, Faux Woven Fabric  Textured Hallway, Organic Country Farmhouse – By The Yard AB27633so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/5f5beb/1005824031/il_570xN.1005824031_ky4b.jpg' alt='Light Cream Linen Wallpaper - Neutral Off White Wall, Faux Woven Fabric  Textured Hallway, Organic Country Farmhouse – By The Yard AB27633so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/5f5beb/1005824031/il_570xN.1005824031_ky4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Open Spots Square Dots Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/cream-open-spots-square-dots-wallpaper-qxiy-l.jpg' alt='Cream Open Spots Square Dots Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/cream-open-spots-square-dots-wallpaper-qxiy-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream White Wallpaper - 394''x24''- Self-Adhesive, Removable, Waterproof -  Solid Color Beige Peel and Stick Contact Paper for Cabinet, Countertop, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41I-zQcZm1L._AC_UF894,1000_QL80_.jpg' alt='Cream White Wallpaper - 394''x24''- Self-Adhesive, Removable, Waterproof -  Solid Color Beige Peel and Stick Contact Paper for Cabinet, Countertop, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41I-zQcZm1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z76004 Vision Plain Cream Contemporary Textured Wallpaper 3D">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Z76004.jpg?v=1668217509' alt='Z76004 Vision Plain Cream Contemporary Textured Wallpaper 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Z76004.jpg?v=1668217509' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic cream wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0a/3d/8e/0a3d8e4fa9d0be1f6e9138d32e3fd242.jpg' alt='Aesthetic cream wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0a/3d/8e/0a3d8e4fa9d0be1f6e9138d32e3fd242.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDUxLWJnLTA3LmpwZw.jpg' alt='Cream Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDUxLWJnLTA3LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z42602 Cream modern plain textured wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/Z42602.jpg?v=1688296457' alt='Z42602 Cream modern plain textured wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/Z42602.jpg?v=1688296457' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

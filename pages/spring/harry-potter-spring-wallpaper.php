@@ -1,0 +1,129 @@
+<title>Harry Potter Spring Wallpapers: Magic Blooms on Your Screen</title>
+                    <meta name="description" content="Discover the magic of spring with our Harry Potter-themed wallpapers! Perfect for fans, these vibrant designs combine the beauty of the season with your favorite wizarding world motifs. Refresh your device's look with enchanting springtime visuals today!">
+                    <meta name="keywords" content="harry potter spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/harry-potter-spring-wallpaper">
+                            <span itemprop="name">harry potter spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harry Potter Spring Wallpapers: Magic Blooms on Your Screen</h1>
+                <p>Transform your device this season with enchanting Harry Potter spring wallpapers! Featuring magical motifs like blooming flowers, vibrant colors, and whimsical scenes from the Wizarding World, these wallpapers will breathe life into your screen. Embrace the charm of spring while showcasing your love for Harry Potter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts In Spring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/ee/cb/7ceecb74ebbe36c08160d42dbbcd513c.jpg' alt='Hogwarts In Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/ee/cb/7ceecb74ebbe36c08160d42dbbcd513c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relax and study by the lake on a warm spring day with Hermione and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/43/96/e84396fbaf4157fda5749d4ee30dd8d4.jpg' alt='Relax and study by the lake on a warm spring day with Hermione and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/43/96/e84396fbaf4157fda5749d4ee30dd8d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter™ Herbology Wallpaper | Pottery Barn Teen">
+                                <img itemprop="contentUrl url" src='https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202450/0015/harry-potter-herbology-wallpaper-c.jpg' alt='Harry Potter™ Herbology Wallpaper | Pottery Barn Teen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pottery Barn Teen" />
+                                </span>
+                                <a href='https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202450/0015/harry-potter-herbology-wallpaper-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hogwarts Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hogwarts-desktop-kydlad9xiwv0xyle.jpg' alt='100+] Hogwarts Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hogwarts-desktop-kydlad9xiwv0xyle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring at Hogwarts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/cf/dc/24/cfdc24c9b584ecae73826cf503a9ce0c.jpg' alt='Spring at Hogwarts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/cf/dc/24/cfdc24c9b584ecae73826cf503a9ce0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Cute Harry Potter Hogwarts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui-2.jpg' alt='Pastel Pink Cute Harry Potter Hogwarts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hogwarts Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hogwarts-desktop-n4mue3kdbtg18zbe.jpg' alt='100+] Hogwarts Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hogwarts-desktop-n4mue3kdbtg18zbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts At Sunset Horizontal Landscape Wallpaper - AllEars.Net">
+                                <img itemprop="contentUrl url" src='https://allears.net/wp-content/uploads/2021/01/2021-wallpapers-allears-wizarding-world-of-harry-potter-universal-hogwarts-1.jpg' alt='Hogwarts At Sunset Horizontal Landscape Wallpaper - AllEars.Net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllEars.Net" />
+                                </span>
+                                <a href='https://allears.net/wp-content/uploads/2021/01/2021-wallpapers-allears-wizarding-world-of-harry-potter-universal-hogwarts-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hogwarts Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hogwarts-desktop-6uuelx064ii3xhjz.jpg' alt='100+] Hogwarts Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hogwarts-desktop-6uuelx064ii3xhjz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9996580.jpg' alt='Hogwarts PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9996580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mortal Kombat 1 iPhone Wallpapers: Epic Designs</title>
+                    <meta name="description" content="Discover the ultimate Mortal Kombat 1 wallpaper collection for your iPhone! Browse high-quality themes featuring iconic fighters and epic battles. Perfect for fans wanting to personalize their devices with striking visuals. Download now for a fierce look that showcases your gaming passion!">
+                    <meta name="keywords" content="mortal kombat 1 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mortal-kombat-1-wallpaper-iphone">
+                            <span itemprop="name">mortal kombat 1 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mortal Kombat 1 iPhone Wallpapers: Epic Designs</h1>
+                <p>Elevate your iPhone experience with stunning Mortal Kombat 1 wallpapers! Dive into the iconic combat universe featuring your favorite characters and epic scenes. Choose from high-quality designs that perfectly fit your screen, making every swipe a tribute to this legendary game. Transform your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal kombat 1 SCORPION Iphone Wallpaper by ozyajami on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78174075-cbe3-46cc-a718-5edc7c5db85c/dga928z-be71ee48-3ce8-448d-8398-78ba4007841a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4MTc0MDc1LWNiZTMtNDZjYy1hNzE4LTVlZGM3YzVkYjg1Y1wvZGdhOTI4ei1iZTcxZWU0OC0zY2U4LTQ0OGQtODM5OC03OGJhNDAwNzg0MWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.maRQno_maUHICWeE565N-_yU858_-SS1dTYnrD6MY7k' alt='Mortal kombat 1 SCORPION Iphone Wallpaper by ozyajami on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78174075-cbe3-46cc-a718-5edc7c5db85c/dga928z-be71ee48-3ce8-448d-8398-78ba4007841a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4MTc0MDc1LWNiZTMtNDZjYy1hNzE4LTVlZGM3YzVkYjg1Y1wvZGdhOTI4ei1iZTcxZWU0OC0zY2U4LTQ0OGQtODM5OC03OGJhNDAwNzg0MWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.maRQno_maUHICWeE565N-_yU858_-SS1dTYnrD6MY7k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 Reptile iPhone Wallpaper by BlackIndian36 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b4a4647-d113-44f6-a2f6-1c48302f4554/dg5e5yk-88eabb44-ff6c-400f-ace4-ffd4189ee670.jpg/v1/fill/w_608,h_1315,q_70,strp/mortal_kombat_1_reptile_iphone_wallpaper_by_blackindian36_dg5e5yk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI5NzYiLCJwYXRoIjoiXC9mXC84YjRhNDY0Ny1kMTEzLTQ0ZjYtYTJmNi0xYzQ4MzAyZjQ1NTRcL2RnNWU1eWstODhlYWJiNDQtZmY2Yy00MDBmLWFjZTQtZmZkNDE4OWVlNjcwLmpwZyIsIndpZHRoIjoiPD02MDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6Ow6ADdMoPixWTB4T_rW789B2iAztGcZJEoXMkl4G4Q' alt='Mortal Kombat 1 Reptile iPhone Wallpaper by BlackIndian36 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b4a4647-d113-44f6-a2f6-1c48302f4554/dg5e5yk-88eabb44-ff6c-400f-ace4-ffd4189ee670.jpg/v1/fill/w_608,h_1315,q_70,strp/mortal_kombat_1_reptile_iphone_wallpaper_by_blackindian36_dg5e5yk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI5NzYiLCJwYXRoIjoiXC9mXC84YjRhNDY0Ny1kMTEzLTQ0ZjYtYTJmNi0xYzQ4MzAyZjQ1NTRcL2RnNWU1eWstODhlYWJiNDQtZmY2Yy00MDBmLWFjZTQtZmZkNDE4OWVlNjcwLmpwZyIsIndpZHRoIjoiPD02MDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6Ow6ADdMoPixWTB4T_rW789B2iAztGcZJEoXMkl4G4Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 Game 4K Wallpaper iPhone HD Phone #6461k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/mortal-kombat-1-game-fire-god-liu-kang-646@1@k-phone-4k.jpg' alt='Mortal Kombat 1 Game 4K Wallpaper iPhone HD Phone #6461k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/mortal-kombat-1-game-fire-god-liu-kang-646@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this wallpaper. It's formatted for my phone screen but ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-made-this-wallpaper-its-formatted-for-my-phone-screen-v0-5y85bcbwiu0b1.jpg?width=640&crop=smart&auto=webp&s=7002aeb3df20162ed81a3acf75c48432896cf2f3' alt='Just made this wallpaper. It's formatted for my phone screen but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-made-this-wallpaper-its-formatted-for-my-phone-screen-v0-5y85bcbwiu0b1.jpg?width=640&crop=smart&auto=webp&s=7002aeb3df20162ed81a3acf75c48432896cf2f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal kombat 1 SUB-ZERO Cryomanc Iphone Wallpaper by ozyajami on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78174075-cbe3-46cc-a718-5edc7c5db85c/dgkvcxb-d73c23f5-546d-4392-a204-38ae7a05b9a6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4MTc0MDc1LWNiZTMtNDZjYy1hNzE4LTVlZGM3YzVkYjg1Y1wvZGdrdmN4Yi1kNzNjMjNmNS01NDZkLTQzOTItYTIwNC0zOGFlN2EwNWI5YTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Tdor_ElgV6YY2HhNKnQa2KxiebNCMbaRp6ZW2yrHdyc' alt='Mortal kombat 1 SUB-ZERO Cryomanc Iphone Wallpaper by ozyajami on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78174075-cbe3-46cc-a718-5edc7c5db85c/dgkvcxb-d73c23f5-546d-4392-a204-38ae7a05b9a6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4MTc0MDc1LWNiZTMtNDZjYy1hNzE4LTVlZGM3YzVkYjg1Y1wvZGdrdmN4Yi1kNzNjMjNmNS01NDZkLTQzOTItYTIwNC0zOGFlN2EwNWI5YTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Tdor_ElgV6YY2HhNKnQa2KxiebNCMbaRp6ZW2yrHdyc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 25 Best Mortal Kombat 1 iPhone Wallpapers [ 4k & HD Quality ]">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/iPhone-Wallpaper-Mortal-Kombat-1-scaled.jpg' alt='Top 25 Best Mortal Kombat 1 iPhone Wallpapers [ 4k & HD Quality ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/iPhone-Wallpaper-Mortal-Kombat-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 25 Best Mortal Kombat 1 iPhone Wallpapers [ 4k & HD Quality ]">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/Mortal-Kombat-1-4k-iPhone-Wallpaper-scaled.jpg' alt='Top 25 Best Mortal Kombat 1 iPhone Wallpapers [ 4k & HD Quality ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Wallpapers" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2023/09/Mortal-Kombat-1-4k-iPhone-Wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 Liu Kang 4K Wallpaper iPhone HD Phone #6381k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/mortal-kombat-1-liu-kang-638@1@k-phone-4k.jpg' alt='Mortal Kombat 1 Liu Kang 4K Wallpaper iPhone HD Phone #6381k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/mortal-kombat-1-liu-kang-638@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_mortal_kombat_1_01_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' alt='Mortal Kombat 1 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_mortal_kombat_1_01_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 Wallpaper 4K, 2023 Games, PlayStation 5">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/mortal-kombat-1-1242x2688-11469.jpg' alt='Mortal Kombat 1 Wallpaper 4K, 2023 Games, PlayStation 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/mortal-kombat-1-1242x2688-11469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

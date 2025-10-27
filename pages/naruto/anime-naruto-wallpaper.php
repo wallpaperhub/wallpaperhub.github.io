@@ -1,0 +1,129 @@
+<title>Naruto Wallpapers: Epic Anime Designs for Your Device</title>
+                    <meta name="description" content="Discover an amazing selection of Naruto wallpapers to enhance your device's screen. Perfect for fans, our collection showcases vibrant art featuring iconic characters and scenes from the beloved anime. Download now to bring the world of Naruto to your fingertips!">
+                    <meta name="keywords" content="anime naruto wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/anime-naruto-wallpaper">
+                            <span itemprop="name">anime naruto wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Naruto Wallpapers: Epic Anime Designs for Your Device</h1>
+                <p>Transform your device with stunning Naruto wallpapers! Explore a diverse collection featuring your favorite characters like Naruto, Sasuke, and Sakura. Whether you prefer epic battles or serene moments, find the perfect wallpaper to express your love for this legendary anime. Elevate your screens with vibrant art today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900+] Naruto Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/naruto-r5aa4v805ovp5cv4.jpg' alt='1900+] Naruto Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/naruto-r5aa4v805ovp5cv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Naruto wallpaper ideas | naruto wallpaper, cool anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7f/ae/95/7fae95033bd8f035d6c22832508cf5c5.jpg' alt='16 Naruto wallpaper ideas | naruto wallpaper, cool anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7f/ae/95/7fae95033bd8f035d6c22832508cf5c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper game, naruto, anime, boy, fight, battle, ninja, uchiha ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/3/53/naruto-shippuden-uzumaki-5273.webp' alt='Wallpaper game, naruto, anime, boy, fight, battle, ninja, uchiha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/3/53/naruto-shippuden-uzumaki-5273.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD naruto poster wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/66/709/HD-wallpaper-naruto-eyes-anime-naruto-eyes-poster-anime-eyes-poster-sage-mode-animation-thumbnail.jpg' alt='HD naruto poster wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/66/709/HD-wallpaper-naruto-eyes-anime-naruto-eyes-poster-anime-eyes-poster-sage-mode-animation-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Uzumaki Wallpaper By Amazngafzl25 - 86 - Free On Zedge™ BCB">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/90/a7/bb/90a7bb9b0675bf896f2dad58049b17c4.jpg' alt='Naruto Uzumaki Wallpaper By Amazngafzl25 - 86 - Free On Zedge™ BCB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/90/a7/bb/90a7bb9b0675bf896f2dad58049b17c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/3/1/141742-3840x2160-desktop-4k-naruto-wallpaper-photo.jpg' alt='Naruto Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/3/1/141742-3840x2160-desktop-4k-naruto-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers based on the Manga/Anime Naruto for Windows, Mac, iOS ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/can-anyone-help-me-by-creating-a-sasuke-or-madara-version-v0-s9aimom96bo81.jpg?auto=webp&s=55f236b8eb523219cf7111b9e23c5805e7a3600b' alt='Wallpapers based on the Manga/Anime Naruto for Windows, Mac, iOS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/can-anyone-help-me-by-creating-a-sasuke-or-madara-version-v0-s9aimom96bo81.jpg?auto=webp&s=55f236b8eb523219cf7111b9e23c5805e7a3600b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DHgate.com:3D Naruto Wallpaper for Boys Bedroom - Custom Anime ...">
+                                <img itemprop="contentUrl url" src='https://img4.dhresource.com/webp/m/f3/albu/km/s/30/c045ccf5-f055-4ce5-9902-b048decf22d4.jpg' alt='DHgate.com:3D Naruto Wallpaper for Boys Bedroom - Custom Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="885">
+                                <meta itemprop="height" content="885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://img4.dhresource.com/webp/m/f3/albu/km/s/30/c045ccf5-f055-4ce5-9902-b048decf22d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5300+] Naruto Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/415/415519.jpg' alt='5300+] Naruto Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/415/415519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Uzumaki Wallpaper 4K, Artwork, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-artwork-5k-4480x2520-12171.jpg' alt='Naruto Uzumaki Wallpaper 4K, Artwork, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-artwork-5k-4480x2520-12171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

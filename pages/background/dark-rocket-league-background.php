@@ -1,0 +1,129 @@
+<title>Dark Rocket League Backgrounds: Elevate Your Game</title>
+                    <meta name="description" content="Dive into the world of dark Rocket League backgrounds! Discover stunning visuals that enhance your gaming experience and immerse you in an exciting arena. Perfect for players seeking to elevate their gameplay with unique themes and captivating graphics. Get inspired and transform your Rocket League experience today!">
+                    <meta name="keywords" content="dark rocket league background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-rocket-league-background">
+                            <span itemprop="name">dark rocket league background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Rocket League Backgrounds: Elevate Your Game</h1>
+                <p>Explore the allure of dark Rocket League backgrounds, where sleek visuals meet vibrant gameplay. These atmospheric designs enhance your gaming experience, immersing you in a captivating world filled with shadows and dynamic colors. Transform your arena with these unique themes that inspire and energize your matches.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this for my own wallpaper thought might share it aswell XD ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v32howuirwk71.png?auto=webp&s=45eb53def3471c43b3c1df1708a546a1f9126516' alt='Made this for my own wallpaper thought might share it aswell XD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v32howuirwk71.png?auto=webp&s=45eb53def3471c43b3c1df1708a546a1f9126516' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocket League Wallpapers (4k by /u/fockface)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/17/1d/f5171d6da7af09fe51532fe93127c94f.jpg' alt='Rocket League Wallpapers (4k by /u/fockface)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/17/1d/f5171d6da7af09fe51532fe93127c94f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocket League Wallpapers (4k by /u/fockface)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/79/07/8c79075b540c51d49c399f24f165a0bb.jpg' alt='Rocket League Wallpapers (4k by /u/fockface)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/79/07/8c79075b540c51d49c399f24f165a0bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 720p Rocket League Background Black Cars | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/720p-rocket-league-background-black-cars-lyh0sfzaolw7wkwk.jpg' alt='Download 720p Rocket League Background Black Cars | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/720p-rocket-league-background-black-cars-lyh0sfzaolw7wkwk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Rocket League Front View Black Car Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-rocket-league-front-view-black-car-zl67q6y90aaqni44.jpg' alt='Cool Rocket League Front View Black Car Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-rocket-league-front-view-black-car-zl67q6y90aaqni44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocket League 4K Wallpapers - Top Free Rocket League 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/1a/fa/ee1afaf742a0a8b55704fa56ea3e406c.jpg' alt='Rocket League 4K Wallpapers - Top Free Rocket League 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/1a/fa/ee1afaf742a0a8b55704fa56ea3e406c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mason Style - Rocket League Wallpaper. Get it here https://www ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1676586289040806' alt='Mason Style - Rocket League Wallpaper. Get it here https://www ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1676586289040806' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Rocket League Hd Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-rocket-league-hd-ae080t2mttl0fja2.jpg' alt='Download Dark Rocket League Hd Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-rocket-league-hd-ae080t2mttl0fja2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My take on the legendary Dominus and Octane. [4k wallpapers] : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/C-Go3bNEE4D4BftZtPH2FaSkJYc2m-cEzmT_eHUPI4o.jpg?auto=webp&s=578b0a33232ef2f98e8866e62bbfd9c4e6c4c17d' alt='My take on the legendary Dominus and Octane. [4k wallpapers] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/C-Go3bNEE4D4BftZtPH2FaSkJYc2m-cEzmT_eHUPI4o.jpg?auto=webp&s=578b0a33232ef2f98e8866e62bbfd9c4e6c4c17d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Rocket League Black Fennec Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-rocket-league-black-fennec-fc3koz4z257rtm4v.jpg' alt='4k Rocket League Black Fennec Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-rocket-league-black-fennec-fc3koz4z257rtm4v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

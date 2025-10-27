@@ -1,0 +1,129 @@
+<title>Essential Guide to Effective Reference Checks</title>
+                    <meta name="description" content="Discover the importance of reference checks in hiring. Learn how to effectively conduct them to ensure you select the right candidate for your team, enhancing your recruitment process and minimizing risks. Get insights and tips tailored for busy recruiters.">
+                    <meta name="keywords" content="reference check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reference-check">
+                            <span itemprop="name">reference check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Effective Reference Checks</h1>
+                <p>Reference checks are an essential part of the hiring process. They provide valuable insights into a candidate's work ethic, skills, and suitability for a position. Employers typically contact former supervisors or colleagues to verify employment history and gather feedback. This process aids in making informed hiring decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Check Forms [Free Template] | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/5ab57afeab9056f492ef75f3bc899e3d/574bd/Image-reference-check-form.png' alt='Reference Check Forms [Free Template] | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/5ab57afeab9056f492ef75f3bc899e3d/574bd/Image-reference-check-form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Properly Conduct Reference Checks When Hiring | Insperity">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/conduct_reference_checks1200x600.png' alt='How to Properly Conduct Reference Checks When Hiring | Insperity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/conduct_reference_checks1200x600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Manager's Guide To Using A Reference Check Template - Sling">
+                                <img itemprop="contentUrl url" src='https://getsling.com/wp-content/uploads/2018/01/image1.png' alt='A Manager's Guide To Using A Reference Check Template - Sling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sling" />
+                                </span>
+                                <a href='https://getsling.com/wp-content/uploads/2018/01/image1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checking References – Reference Check Questions | iHire">
+                                <img itemprop="contentUrl url" src='https://p-gpb8fhd4b9fbh6fy.z01.azurefd.net/cms/588ce8a3-0fdb-439c-8e98-eeb58486cf02/ccf74ff1-13a6-4996-ada0-6fbe571a93ae-lg.jpg' alt='Checking References – Reference Check Questions | iHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHire" />
+                                </span>
+                                <a href='https://p-gpb8fhd4b9fbh6fy.z01.azurefd.net/cms/588ce8a3-0fdb-439c-8e98-eeb58486cf02/ccf74ff1-13a6-4996-ada0-6fbe571a93ae-lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mail Reference Check Form">
+                                <img itemprop="contentUrl url" src='https://www.laborlawcenter.com/media/catalog/product/cache/bf3221ad678b7672ff279c22cbcd0731/f/e/fed685_2.jpg' alt='Mail Reference Check Form'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Labor Law Center" />
+                                </span>
+                                <a href='https://www.laborlawcenter.com/media/catalog/product/cache/bf3221ad678b7672ff279c22cbcd0731/f/e/fed685_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 questions to ask during a reference check">
+                                <img itemprop="contentUrl url" src='https://hyreo.com/wp-content/uploads/2023/01/BLOG-124.jpg' alt='20 questions to ask during a reference check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="777">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hyreo" />
+                                </span>
+                                <a href='https://hyreo.com/wp-content/uploads/2023/01/BLOG-124.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Right Way to Check Someone's References">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/631037bf5f2c0608d41555c4/63103f125f2c06220615b6f3_606bd3c48929a665eab3f6d5_Great-Reference-Checking-benefits.png' alt='The Right Way to Check Someone's References'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1860">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xref" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/631037bf5f2c0608d41555c4/63103f125f2c06220615b6f3_606bd3c48929a665eab3f6d5_Great-Reference-Checking-benefits.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is A Reference Check?">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/youverify/image/upload/v1683290434/What_Is_A_Reference_Check_f33875b0bf.jpg' alt='What is A Reference Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Youverify" />
+                                </span>
+                                <a href='https://res.cloudinary.com/youverify/image/upload/v1683290434/What_Is_A_Reference_Check_f33875b0bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reference Check Template - SimplyCast">
+                                <img itemprop="contentUrl url" src='https://www.simplycast.com/webp/blog_images/reference-check-template.webp' alt='Reference Check Template - SimplyCast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="411">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyCast" />
+                                </span>
+                                <a href='https://www.simplycast.com/webp/blog_images/reference-check-template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Big Reference Check Mistakes - craresources">
+                                <img itemprop="contentUrl url" src='https://craresources.com/wp-content/uploads/2022/11/shutterstock_1244092777-Reference-Check.jpg' alt='7 Big Reference Check Mistakes - craresources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="craresources" />
+                                </span>
+                                <a href='https://craresources.com/wp-content/uploads/2022/11/shutterstock_1244092777-Reference-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

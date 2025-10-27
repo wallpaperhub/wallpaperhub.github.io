@@ -1,0 +1,129 @@
+<title>Spooky Halloween iPhone Wallpapers: Be Frightfully Stylish</title>
+                    <meta name="description" content="Discover the perfect spooky Halloween iPhone wallpaper to elevate your mobile experience! Browse our collection of haunting designs, from ghoulish themes to enchanting pumpkins. Get ready for a festive transformation this Halloween!">
+                    <meta name="keywords" content="spooky halloween iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/spooky-halloween-iphone-wallpaper">
+                            <span itemprop="name">spooky halloween iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween iPhone Wallpapers: Be Frightfully Stylish</h1>
+                <p>Get ready to transform your iPhone this Halloween with spine-chilling spooky wallpapers! Choose from a variety of designs featuring ghostly apparitions, haunted houses, creepy pumpkins, and eerie fog. Whether you prefer subtle spookiness or full-on fright, our curated collection will keep the Halloween spirit alive right on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Glowing Mask">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/aa/52/40aa522530ecec585b860618c9a0f495.jpg' alt='Halloween Glowing Mask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/aa/52/40aa522530ecec585b860618c9a0f495.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "iPhone at the Ready for a Spooky Halloween" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spooky-iphone-uw19rcw9twjg3b0m.jpg' alt='Download "iPhone at the Ready for a Spooky Halloween" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spooky-iphone-uw19rcw9twjg3b0m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VINTAGE HALLOWEEN IPHONE WALLPAPER  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/78/e3/a678e336451a92ee9cb83db64a1f6316.jpg' alt='VINTAGE HALLOWEEN IPHONE WALLPAPER  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/78/e3/a678e336451a92ee9cb83db64a1f6316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' alt='Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Halloween Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/halloween-iphone-yjrepvcbokrklzmv.jpg' alt='200+] Halloween Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/halloween-iphone-yjrepvcbokrklzmv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Iphone Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/8a/c3/ec8ac3e11625a6e44bbb7b8f5e17dd82.jpg' alt='Halloween Iphone Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/8a/c3/ec8ac3e11625a6e44bbb7b8f5e17dd82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Happy Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/scary-happy-halloween-iphone-ypjdrxlhzvpn69an-2.jpg' alt='Scary Happy Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/scary-happy-halloween-iphone-ypjdrxlhzvpn69an-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give your phone a spooky touch with this haunted house and glowing pumpkin  Halloween wallpaper!      Perfect for autumn vibes and the eerie Halloween  aesthetic! #HalloweenVibes #SpookySeason #PumpkinArt ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7413418577195240734&location=0&aid=1988' alt='Give your phone a spooky touch with this haunted house and glowing pumpkin  Halloween wallpaper!      Perfect for autumn vibes and the eerie Halloween  aesthetic! #HalloweenVibes #SpookySeason #PumpkinArt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7413418577195240734&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' alt='Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Spooky Halloween Wallpaper iPhone, #halloween #iPhone #Spooky ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/12/85/b012850d81dd3996be1fc8e0f632c101.jpg' alt='25 Spooky Halloween Wallpaper iPhone, #halloween #iPhone #Spooky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/12/85/b012850d81dd3996be1fc8e0f632c101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

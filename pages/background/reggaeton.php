@@ -1,0 +1,129 @@
+<title>Reggaeton: The Rising Rhythms of Latin Music</title>
+                    <meta name="description" content="Discover the infectious beats of reggaeton, a genre that fuses Latin rhythms with hip-hop vibes. From its Puerto Rican roots to global stardom, explore the artists, sounds, and culture that make reggaeton a defining music phenomenon today.">
+                    <meta name="keywords" content="reggaeton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reggaeton">
+                            <span itemprop="name">reggaeton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reggaeton: The Rising Rhythms of Latin Music</h1>
+                <p>Reggaeton is a vibrant music genre emerging from Puerto Rico in the late 1990s, blending Latin rhythms with hip-hop and dancehall influences. Characterized by its catchy beats and engaging lyrics, reggaeton has become a global phenomenon. Artists like Daddy Yankee and J Balvin have popularized the genre, making it a staple in modern music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why has reggaeton supplanted house music? - DakotaPulse.com">
+                                <img itemprop="contentUrl url" src='https://www.dakotapulse.com/wp-content/uploads/2020/02/2019-03-29_0-1553902817.jpg' alt='Why has reggaeton supplanted house music? - DakotaPulse.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dakota Pulse" />
+                                </span>
+                                <a href='https://www.dakotapulse.com/wp-content/uploads/2020/02/2019-03-29_0-1553902817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Reggaeton Songs">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2022/08/220622_reggaeton_songs_final.jpg?w=1581&h=1054&crop=1' alt='Best Reggaeton Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2022/08/220622_reggaeton_songs_final.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Artists Bringing Reggaeton Mexa To The World: El Malilla ...">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/Bellakath-2023-Jaime-Nogales' alt='7 Artists Bringing Reggaeton Mexa To The World: El Malilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3700">
+                                <meta itemprop="height" content="2467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/Bellakath-2023-Jaime-Nogales' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reggaeton Mix 2022 | The Best of Reggaeton 2022 by OSOCITY - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IO7vRUC-3Ls/hqdefault.jpg' alt='Reggaeton Mix 2022 | The Best of Reggaeton 2022 by OSOCITY - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IO7vRUC-3Ls/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotlight on the Reggaeton song genre">
+                                <img itemprop="contentUrl url" src='https://www.songacademy.co.uk/wp-content/uploads/2022/01/Reggaeton.jpg' alt='Spotlight on the Reggaeton song genre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Song Academy" />
+                                </span>
+                                <a href='https://www.songacademy.co.uk/wp-content/uploads/2022/01/Reggaeton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rise of Reggaeton in 2018 - The Crescent Magazine: Tulane's ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tulanemagazine.com/wp-content/uploads/1-82-2249095184-1542245031587.png?fit=599%2C337&ssl=1' alt='The Rise of Reggaeton in 2018 - The Crescent Magazine: Tulane's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Crescent Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/tulanemagazine.com/wp-content/uploads/1-82-2249095184-1542245031587.png?fit=599%2C337&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reggaeton Legends and Newcomers Discuss Collaborating">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2021/06/Reggaeton-Jhay-Cortez-Wisin-Jowell-Randy-Rauw-Alejandro-Bad-Bunny-billboard-1500-1623162307.jpg' alt='Reggaeton Legends and Newcomers Discuss Collaborating'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2021/06/Reggaeton-Jhay-Cortez-Wisin-Jowell-Randy-Rauw-Alejandro-Bad-Bunny-billboard-1500-1623162307.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Untangling the Knotty Politics Behind Reggaeton's Rise in Spain ...">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/63f51775aa3fa3c27ca3d000/4:3/w_1332,h_999,c_limit/Reggaeton%20Piece%20FInal.jpg' alt='Untangling the Knotty Politics Behind Reggaeton's Rise in Spain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/63f51775aa3fa3c27ca3d000/4:3/w_1332,h_999,c_limit/Reggaeton%20Piece%20FInal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reggaeton Mix 2023 | The Best of Reggaeton 2023 by OSOCITY">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KoSp5IWrpJw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDybFyD6E-0Go_x8lLd-PtxXHnyew' alt='Reggaeton Mix 2023 | The Best of Reggaeton 2023 by OSOCITY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KoSp5IWrpJw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDybFyD6E-0Go_x8lLd-PtxXHnyew' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaican Music's Reggaeton Revival: Why It's More Than Just a ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/rise-of-reggaeton-reggae-decade-end-2019-billboard-1548.jpg?w=1024' alt='Jamaican Music's Reggaeton Revival: Why It's More Than Just a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/rise-of-reggaeton-reggae-decade-end-2019-billboard-1548.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

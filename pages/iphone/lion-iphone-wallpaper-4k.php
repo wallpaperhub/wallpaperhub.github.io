@@ -1,0 +1,129 @@
+<title>Stunning 4K Lion iPhone Wallpapers for Every Wild Heart</title>
+                    <meta name="description" content="Explore a collection of breathtaking 4K lion iPhone wallpapers. Perfectly tailored for nature enthusiasts and those who love wildlife imagery, these wallpapers will add a fierce touch to your mobile device. Choose from various designs and showcase your love for lions effortlessly. Download now!">
+                    <meta name="keywords" content="lion iphone wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lion-iphone-wallpaper-4k">
+                            <span itemprop="name">lion iphone wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Lion iPhone Wallpapers for Every Wild Heart</h1>
+                <p>Discover stunning 4K lion iPhone wallpapers that showcase the majesty of these majestic creatures. With vibrant colors and intricate details, elevate your device's aesthetic while embracing the spirit of the wild. Perfect for animal lovers and anyone who appreciates powerful imagery. Download your favorite lion wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lion Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grayscale-lion-iphone-in-black-5zmmbvbnfbddelar.jpg' alt='100+] Lion Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grayscale-lion-iphone-in-black-5zmmbvbnfbddelar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lion Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/bf/ff/08bfffc572e34c1e009ea87346915d38.jpg' alt='The Lion Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/bf/ff/08bfffc572e34c1e009ea87346915d38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Looking Up Black Apple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lion-looking-up-black-apple-iphone-xmewewg4t9ubtd1y.jpg' alt='Lion Looking Up Black Apple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lion-looking-up-black-apple-iphone-xmewewg4t9ubtd1y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpaper for any iPhone. : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c7vqbd8a27011.jpg' alt='Lion Wallpaper for any iPhone. : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c7vqbd8a27011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPHONE WALLPAPER 4K - LION - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b6rZEi-Gh_nrUEX3pCFHKARRr6p2Y3z8g6ZUsKGkV3fUODciP-b3MD3QYySIoSEeLP60fLbJRn7tXIyHVwPG5SFZVuaVRjosAC0_mGyowVC_jC1hSQXYuj48xRBhe0uEphl6KlyhzPaHPr8I5LdJGWE0yn2RqM_L5DIuiSA8nGSLGVU77EPEMaVXvw/s1266-rw/iphone-wallpaper-4k-lion-1.webp' alt='IPHONE WALLPAPER 4K - LION - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b6rZEi-Gh_nrUEX3pCFHKARRr6p2Y3z8g6ZUsKGkV3fUODciP-b3MD3QYySIoSEeLP60fLbJRn7tXIyHVwPG5SFZVuaVRjosAC0_mGyowVC_jC1hSQXYuj48xRBhe0uEphl6KlyhzPaHPr8I5LdJGWE0yn2RqM_L5DIuiSA8nGSLGVU77EPEMaVXvw/s1266-rw/iphone-wallpaper-4k-lion-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/c0/2c/f9c02ce7bc81324220ee2bdb1e48e4ab.jpg' alt='Lion King 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/c0/2c/f9c02ce7bc81324220ee2bdb1e48e4ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/1/6/23431-1125x2436-samsung-hd-lion-wallpaper-photo.jpg' alt='Lion Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/1/6/23431-1125x2436-samsung-hd-lion-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Iphone Snow-covered Field Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lion-iphone-snow-covered-field-2lh3ojij62uz5dei.jpg' alt='Lion Iphone Snow-covered Field Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lion-iphone-snow-covered-field-2lh3ojij62uz5dei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/a/9/23416-1125x2436-iphone-hd-lion-background-image.jpg' alt='Lion Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/a/9/23416-1125x2436-iphone-hd-lion-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lion iphone | Lion wallpaper iphone, Iphone wallpaper photography ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/da/91/98da91c01e227e55ac4b602e7bcc1afc.jpg' alt='lion iphone | Lion wallpaper iphone, Iphone wallpaper photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/da/91/98da91c01e227e55ac4b602e7bcc1afc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

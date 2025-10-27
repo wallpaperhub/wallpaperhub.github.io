@@ -1,0 +1,129 @@
+<title>Nami's Birthday Celebration: A Tribute to the One Piece Navigator</title>
+                    <meta name="description" content="Discover the joy of Nami's birthday, celebrated every July 3rd! Join fans of One Piece in honoring the Straw Hat Pirates' brilliant navigator. Explore her adventures, character development, and impact on the series. Celebrate the beloved Nami with fun facts, fan art, and more!">
+                    <meta name="keywords" content="nami birthday">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nami-birthday">
+                            <span itemprop="name">nami birthday</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nami's Birthday Celebration: A Tribute to the One Piece Navigator</h1>
+                <p>Nami, the beloved navigator of the Straw Hat Pirates from "One Piece," celebrates her birthday on July 3rd. This character, known for her intelligence and determination, has captained countless adventures and touched the hearts of fans worldwide. Join in celebrating Nami's special day and her incredible journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Nami and Neptune : r/OnePiece">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3a6d2tthpx871.jpg' alt='Happy Birthday Nami and Neptune : r/OnePiece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3464">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3a6d2tthpx871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Anime Girl Nami Happy Birthday Sweet Cute Poster Print ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61OIs4NZwzL._AC_UF894,1000_QL80_.jpg' alt='One Piece Anime Girl Nami Happy Birthday Sweet Cute Poster Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61OIs4NZwzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday to Nami! : r/OnePiece">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/happy-birthday-to-nami-v0-3pjwwg2xu7ad1.jpeg?auto=webp&s=1dd8c2bd2ddce0c6823ba74ba11a68e4b0686189' alt='Happy Birthday to Nami! : r/OnePiece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/happy-birthday-to-nami-v0-3pjwwg2xu7ad1.jpeg?auto=webp&s=1dd8c2bd2ddce0c6823ba74ba11a68e4b0686189' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Perfect Shots on X: "Official illustration for Nami's ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F0Cshr1XwAAzFyk.jpg:large' alt='One Piece Perfect Shots on X: "Official illustration for Nami's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F0Cshr1XwAAzFyk.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Nami's Birthday at "Tokyo One Piece Tower" - Crunchyroll ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x1047/a7e3bb8e09/3ea0be106e6119eaef26ebd2ff524cc61434562041_full.jpg/m/587x960' alt='Celebrate Nami's Birthday at "Tokyo One Piece Tower" - Crunchyroll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="587">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x1047/a7e3bb8e09/3ea0be106e6119eaef26ebd2ff524cc61434562041_full.jpg/m/587x960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday, Nami!      (via #OnePiece)">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3404056711767899291' alt='Happy birthday, Nami!      (via #OnePiece)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3404056711767899291' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Nami ⚡  ⚡ Art by @mugi877 - ONE PIECE Fanpage ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10165793289465554' alt='Happy Birthday Nami ⚡  ⚡ Art by @mugi877 - ONE PIECE Fanpage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10165793289465554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Nami's Birthday at "Tokyo One Piece Tower" - Crunchyroll ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x302/1679e208e7/dfc4fc06c71b7a6a0f5fd066adfd92bb1434561933_full.png/m/640x302' alt='Celebrate Nami's Birthday at "Tokyo One Piece Tower" - Crunchyroll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x302/1679e208e7/dfc4fc06c71b7a6a0f5fd066adfd92bb1434561933_full.png/m/640x302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Nami!!!... - Luffy x Nami - ルナミ | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=641185018040515' alt='Happy Birthday Nami!!!... - Luffy x Nami - ルナミ | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1510">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=641185018040515' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece on X: "Happy birthday to the Straw Hats official ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FWvz3-KXoAIforf.jpg' alt='One Piece on X: "Happy birthday to the Straw Hats official ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FWvz3-KXoAIforf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

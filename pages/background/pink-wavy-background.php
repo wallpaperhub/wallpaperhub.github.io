@@ -1,0 +1,129 @@
+<title>Stunning Pink Wavy Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Discover eye-catching pink wavy backgrounds perfect for enhancing your designs. Ideal for various projects, these vibrant and soft patterns will add a unique flair to your graphics, making them visually appealing and engaging. Explore creative possibilities with these dynamic backgrounds today!">
+                    <meta name="keywords" content="pink wavy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-wavy-background">
+                            <span itemprop="name">pink wavy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Wavy Backgrounds for Your Creative Projects</h1>
+                <p>A pink wavy background adds a playful and feminine touch to any design. The soft, flowing lines create a sense of movement, making it ideal for websites, invitations, or social media graphics. Whether you prefer light pastel shades or vibrant fuchsias, this background can enhance the visual appeal and set the perfect tone for your project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink background with a wavy lines.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-background-with-wavy-lines_650461-1515.jpg' alt='Premium Vector | Pink background with a wavy lines.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-background-with-wavy-lines_650461-1515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A pink background with a wavy pattern.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-background-with-wavy-pattern_662550-907.jpg' alt='Premium Vector | A pink background with a wavy pattern.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-background-with-wavy-pattern_662550-907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink wavy background 7629325 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/629/325/non_2x/pink-wavy-background-free-vector.jpg' alt='pink wavy background 7629325 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/629/325/non_2x/pink-wavy-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Retro Liquid Lines Wavy Background Loop, Backgrounds Motion ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/bb908aa0-9e57-4cc2-8dbe-62cd4b5f6781/video_preview/video_preview_0000.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=31736c3e3be07a31791b2717e6a4c5079b6341566dfa3bda984713bb7c51c17e' alt='Pink Retro Liquid Lines Wavy Background Loop, Backgrounds Motion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/bb908aa0-9e57-4cc2-8dbe-62cd4b5f6781/video_preview/video_preview_0000.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=31736c3e3be07a31791b2717e6a4c5079b6341566dfa3bda984713bb7c51c17e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970 Wavy Swirl Seamless Pattern in Pink and Beige Colors. Hand ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/99/84/98/1000_F_499849873_ZwKncVS5fyM5AY83yuilJaakHkzDSJeU.jpg' alt='1970 Wavy Swirl Seamless Pattern in Pink and Beige Colors. Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/99/84/98/1000_F_499849873_ZwKncVS5fyM5AY83yuilJaakHkzDSJeU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Pink and White Wavy Background Vector Graphic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/e1/9a/b1e19a506c4985d1338a9f46acb4837d.jpg' alt='Abstract Pink and White Wavy Background Vector Graphic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/e1/9a/b1e19a506c4985d1338a9f46acb4837d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'pastel pink, peach wave design' (6)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/6e/75/1d6e75182e49596170d2bc64ec71c3d7.jpg' alt='Phone wallpaper, background. 'pastel pink, peach wave design' (6)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/6e/75/1d6e75182e49596170d2bc64ec71c3d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ Wavy Lines Background Pink Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1395085681/vector/abstract-pink-psychedelic-waves-print-background-1970s-trippy-seamless-pattern-marble.jpg?s=612x612&w=0&k=20&c=LeXVcA7Dmm4BNwqFvGwfP6CTPvzHgkJqlluFLIswSWw=' alt='3,200+ Wavy Lines Background Pink Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1395085681/vector/abstract-pink-psychedelic-waves-print-background-1970s-trippy-seamless-pattern-marble.jpg?s=612x612&w=0&k=20&c=LeXVcA7Dmm4BNwqFvGwfP6CTPvzHgkJqlluFLIswSWw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Smooth Pink Wavy Background Design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/smooth-pink-wavy-background-design_247866-304.jpg?w=360' alt='Premium Vector | Smooth Pink Wavy Background Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/smooth-pink-wavy-background-design_247866-304.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripes pastel pink pattern. Abstract wavy background. Pink ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/13/67/04/1000_F_513670487_kH6qCZ0leU5Mu5aRTVYviyHTLNwKZeKI.jpg' alt='Stripes pastel pink pattern. Abstract wavy background. Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/13/67/04/1000_F_513670487_kH6qCZ0leU5Mu5aRTVYviyHTLNwKZeKI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

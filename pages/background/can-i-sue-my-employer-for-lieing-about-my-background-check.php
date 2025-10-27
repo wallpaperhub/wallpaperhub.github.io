@@ -1,0 +1,129 @@
+<title>Can You Sue an Employer for Lying About Your Background Check?</title>
+                    <meta name="description" content="Discover your rights if your employer misrepresented your background check. Learn if you can take legal action for deception that affected your job status. Get informed and protect your career!">
+                    <meta name="keywords" content="can i sue my employer for lieing about my background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-i-sue-my-employer-for-lieing-about-my-background-check">
+                            <span itemprop="name">can i sue my employer for lieing about my background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Sue an Employer for Lying About Your Background Check?</h1>
+                <p>Yes, you may have grounds to sue your employer if they lied about your background check, especially if it led to wrongful termination or damaged your reputation. Consult with an employment attorney to discuss your situation, as various state laws govern these cases. Document everything for a strong case.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Sue a Background Check Company? - Consumer Attorneys">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F660e9845b5567.webp%3Fw%3D756&w=1920&q=75' alt='How to Sue a Background Check Company? - Consumer Attorneys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F660e9845b5567.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Possible Legal Remedies in CA for Background Check Violation ...">
+                                <img itemprop="contentUrl url" src='https://images.fosterwebmarketing.com/792/Criminal_Background_Check.jpeg' alt='Possible Legal Remedies in CA for Background Check Violation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="314">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cardoza Law Corporation" />
+                                </span>
+                                <a href='https://images.fosterwebmarketing.com/792/Criminal_Background_Check.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Handle Background Check Errors When A Job Is At Stake">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' alt='How To Handle Background Check Errors When A Job Is At Stake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What can I do about my previous employer giving bad references ...">
+                                <img itemprop="contentUrl url" src='https://www.freeadvice.com/wp-content/uploads/2020/02/Defamation-1.png' alt='What can I do about my previous employer giving bad references ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeAdvice" />
+                                </span>
+                                <a href='https://www.freeadvice.com/wp-content/uploads/2020/02/Defamation-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight Background Check Errors | Legal Rights & Fixes">
+                                <img itemprop="contentUrl url" src='https://haseeblegal.com/wp-content/uploads/elementor/thumbs/HireRight-Background-Check-Errors-r0adsgy6j7php02jhsof8k7gcnh1dgs7d4plcg64ao.jpg' alt='HireRight Background Check Errors | Legal Rights & Fixes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haseeb Legal" />
+                                </span>
+                                <a href='https://haseeblegal.com/wp-content/uploads/elementor/thumbs/HireRight-Background-Check-Errors-r0adsgy6j7php02jhsof8k7gcnh1dgs7d4plcg64ao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I need to fill out a background check application.... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/i-need-to-fill-out-a-background-check-application-i-have-a-toxic-previous-employer-who-will-badmouth-me-i-was-a-stellar-employee.png' alt='I need to fill out a background check application.... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/i-need-to-fill-out-a-background-check-application-i-have-a-toxic-previous-employer-who-will-badmouth-me-i-was-a-stellar-employee.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Stop Lying On Your Resume - Sterling">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2017/08/infographic-not-lying-on-resume.gif' alt='Infographic: Stop Lying On Your Resume - Sterling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2017/08/infographic-not-lying-on-resume.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Know Before Suing Your Employer">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7457333868874468651&location=0&aid=1988' alt='What to Know Before Suing Your Employer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7457333868874468651&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Rights: Can I Sue My Former Employer for Giving Bad ...">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTczODcyMTQ0NzQ3MzQxNjY1/employee-rights-can-i-sue-my-former-employer-for-giving-bad-references.png' alt='Employee Rights: Can I Sue My Former Employer for Giving Bad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTczODcyMTQ0NzQ3MzQxNjY1/employee-rights-can-i-sue-my-former-employer-for-giving-bad-references.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

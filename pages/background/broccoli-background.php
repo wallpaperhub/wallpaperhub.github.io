@@ -1,0 +1,129 @@
+<title>Discover the Fascinating Background of Broccoli</title>
+                    <meta name="description" content="Explore the intriguing history of broccoli, from its ancient Mediterranean origins to its rise as a global superfood. Learn about its nutritional benefits and culinary popularity in this concise overview.">
+                    <meta name="keywords" content="broccoli background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broccoli-background">
+                            <span itemprop="name">broccoli background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating Background of Broccoli</h1>
+                <p>Broccoli, a cruciferous vegetable, has a rich history dating back over 2,000 years to the Mediterranean region. Believed to be first cultivated by the Romans, it gained popularity in the 16th century, particularly in Italy. Packed with nutrients, it's now celebrated globally for its health benefits and versatility in cuisine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/628/155/non_2x/fresh-broccoli-with-vibrant-green-florets-on-a-wooden-table-market-stall-background-rich-textures-photo.jpg' alt='Broccoli Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1748">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/628/155/non_2x/fresh-broccoli-with-vibrant-green-florets-on-a-wooden-table-market-stall-background-rich-textures-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli Images – Browse 1,053,404 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/15/74/10/360_F_315741081_GRtLOLsZgk98H0aUGbV3toTgjtidF2GM.jpg' alt='Broccoli Images – Browse 1,053,404 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/15/74/10/360_F_315741081_GRtLOLsZgk98H0aUGbV3toTgjtidF2GM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A seamless pattern of broccoli on a light green ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-broccoli-light-green-background_211277-104.jpg' alt='Premium Vector | A seamless pattern of broccoli on a light green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-broccoli-light-green-background_211277-104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/193/732/non_2x/a-fresh-head-of-broccoli-with-green-background-photo.jpeg' alt='Broccoli Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/193/732/non_2x/a-fresh-head-of-broccoli-with-green-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute seamless hand drawn broccoli background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/70/18/cute-seamless-hand-drawn-broccoli-background-vector-2077018.jpg' alt='Cute seamless hand drawn broccoli background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/70/18/cute-seamless-hand-drawn-broccoli-background-vector-2077018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210831/pngtree-broccoli-vegetable-on-gray-background-image_769415.jpg' alt='Broccoli Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210831/pngtree-broccoli-vegetable-on-gray-background-image_769415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli Images – Browse 1,053,404 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/81/26/63/360_F_281266302_lZ7ih5jhFLzixXNUY4aw7GiCiii2Q2x2.jpg' alt='Broccoli Images – Browse 1,053,404 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/81/26/63/360_F_281266302_lZ7ih5jhFLzixXNUY4aw7GiCiii2Q2x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broccoli is bad for you, like, really toxic bad" [the article ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/KVQpM9EwVnA-n75HazKtr0jI6kmgbpV4tCHSgK8JPuY.jpg?width=1080&crop=smart&auto=webp&s=3abbc521cf5a86794668011068f3de1cb5f506b3' alt='Broccoli is bad for you, like, really toxic bad" [the article ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/KVQpM9EwVnA-n75HazKtr0jI6kmgbpV4tCHSgK8JPuY.jpg?width=1080&crop=smart&auto=webp&s=3abbc521cf5a86794668011068f3de1cb5f506b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,772 Wallpaper Broccoli Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/broccoli-pattern-background-flat-illustration-260nw-2507490751.jpg' alt='10,772 Wallpaper Broccoli Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/broccoli-pattern-background-flat-illustration-260nw-2507490751.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Motion art. Broccoli background">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/minimal-motion-art-broccoli-background-086354974_prevstill.jpeg' alt='Minimal Motion art. Broccoli background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/minimal-motion-art-broccoli-background-086354974_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

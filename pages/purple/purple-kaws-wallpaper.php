@@ -1,0 +1,129 @@
+<title>Vibrant Purple KAWS Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="purple kaws wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-kaws-wallpaper">
+                            <span itemprop="name">purple kaws wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple KAWS Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning purple KAWS wallpaper that adds a touch of modern artistry to any room. This vibrant design showcases iconic KAWS characters infused with rich purple hues, creating an eye-catching backdrop. Perfect for art lovers and trendsetters alike, elevate your decor with this unique and playful wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaws Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/49/b6/8e49b656fdf4786396ddf404dfea04aa.jpg' alt='Kaws Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/49/b6/8e49b656fdf4786396ddf404dfea04aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by … on Pins by you | Neon signs, Kaws wallpaper, Neon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/e5/59/b9e55906994c7029e07dee8713bae598.jpg' alt='Pin by … on Pins by you | Neon signs, Kaws wallpaper, Neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/e5/59/b9e55906994c7029e07dee8713bae598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kaws Character Purple Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kaws-character-purple-background-5trvn2y92e6na0go.jpg' alt='Download Kaws Character Purple Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kaws-character-purple-background-5trvn2y92e6na0go.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaws Purple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12123509.jpg' alt='Kaws Purple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12123509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Обои kaws, phone wallpaper kaws, phone wallpaper, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/0b/c4/cd0bc42dcc0c12f1b0db9a086c629fe5.jpg' alt='Обои kaws, phone wallpaper kaws, phone wallpaper, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/0b/c4/cd0bc42dcc0c12f1b0db9a086c629fe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Geometrical Kaws Pc Art Purple Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/geometrical-kaws-pc-art-purple-t3igm79pfdxxio3c.jpg' alt='Download Geometrical Kaws Pc Art Purple Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/geometrical-kaws-pc-art-purple-t3igm79pfdxxio3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaws Purple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12123553.jpg' alt='Kaws Purple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12123553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cartoon art ideas | kaws wallpaper, kaws iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/31/40/ea314083f685c318576f6b799520228c.jpg' alt='10 Cartoon art ideas | kaws wallpaper, kaws iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/31/40/ea314083f685c318576f6b799520228c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Best KAWS iPhone Wallpapers HD Download 2022 - Gurl Cases">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0299/5476/9034/files/Pin_by_cesar_ibarra_on_Fondo_de_pantalla_para_telefono_movil___Kaws_wallpaper_Cartoon_wallpaper_iphon___Kaws_wallpaper_Cartoon_wallpaper_iphone_Iphone_wallpaper_600x600.jpg?v=1661596581' alt='19 Best KAWS iPhone Wallpapers HD Download 2022 - Gurl Cases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gurl Cases" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0299/5476/9034/files/Pin_by_cesar_ibarra_on_Fondo_de_pantalla_para_telefono_movil___Kaws_wallpaper_Cartoon_wallpaper_iphon___Kaws_wallpaper_Cartoon_wallpaper_iphone_Iphone_wallpaper_600x600.jpg?v=1661596581' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Kaws Sad Lavender">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1318942351948954438/52EFCC87D9BD4F2941D268BE9A882272A634D233/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Kaws Sad Lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1318942351948954438/52EFCC87D9BD4F2941D268BE9A882272A634D233/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

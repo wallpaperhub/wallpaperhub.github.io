@@ -1,0 +1,129 @@
+<title>Chic Girly Western Wallpaper for a Stylish Touch</title>
+                    <meta name="description" content="Discover the perfect girly western wallpaper to enhance your decor! Our collection features playful designs with soft hues and rustic motifs, perfect for adding a charming touch to any room. Elevate your space with a blend of femininity and western flair. Shop now for stylish options!">
+                    <meta name="keywords" content="girly western wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/girly-western-wallpaper">
+                            <span itemprop="name">girly western wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Girly Western Wallpaper for a Stylish Touch</h1>
+                <p>Transform your space with girly western wallpaper that blends chic femininity with rustic charm. Ideal for bedrooms and playrooms, these designs feature soft pastel colors, floral patterns, and cowgirl-themed motifs. Create a unique atmosphere that celebrates both style and personality while embracing the beauty of the Wild West.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Western Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15698873/p/f/l/i4A-J0H-vIwzFq9wGeTPhQlxVIqwLDoD6QDNzaJQwYXAP_jHRKLHhPQ/vintage%20western%20cowgirl%20toile%20western%20toile%20blush%20and%20brown%20WB23.jpg' alt='Girl Western Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15698873/p/f/l/i4A-J0H-vIwzFq9wGeTPhQlxVIqwLDoD6QDNzaJQwYXAP_jHRKLHhPQ/vintage%20western%20cowgirl%20toile%20western%20toile%20blush%20and%20brown%20WB23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper. Wallpaper. Wallpapers. Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/c5785b/4515905949/il_570xN.4515905949_306n.jpg' alt='Western Wallpaper. Wallpaper. Wallpapers. Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/c5785b/4515905949/il_570xN.4515905949_306n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Western Wallpaper | Gallery posted by westernlemon  ✝️ | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7403249014063235590&index=2&sign=a8f3e974687d65e29b1dbca308dab034' alt='Cute Western Wallpaper | Gallery posted by westernlemon  ✝️ | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="842">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7403249014063235590&index=2&sign=a8f3e974687d65e29b1dbca308dab034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85 Likes, 3 Comments - Maaike Boot (@littlesmilemakers) on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/c5/9a/07c59abe2cfdd24581599af3cedd68cb.jpg' alt='85 Likes, 3 Comments - Maaike Boot (@littlesmilemakers) on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/c5/9a/07c59abe2cfdd24581599af3cedd68cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' alt='135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 -Western Wallpapers⚡- ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5a/9e/d9/5a9ed90f3e8a7c4fda2d040773328075.jpg' alt='70 -Western Wallpapers⚡- ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5a/9e/d9/5a9ed90f3e8a7c4fda2d040773328075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Western Country Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15698877/p/f/l/oBCox-aFx-AbCo6jKmWZT1idjpxaaPedmTTEtM_QGacjMvwbahWJlo9htA/vintage%20western%20cowgirl%20toile%20western%20toile%20hot%20pink%20on%20light%20pink%20WB23.jpg' alt='Pink Western Country Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15698877/p/f/l/oBCox-aFx-AbCo6jKmWZT1idjpxaaPedmTTEtM_QGacjMvwbahWJlo9htA/vintage%20western%20cowgirl%20toile%20western%20toile%20hot%20pink%20on%20light%20pink%20WB23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Blues Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPYPCWBYBLS200.jpg?v=1650991381&width=350' alt='Cowboy Blues Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPYPCWBYBLS200.jpg?v=1650991381&width=350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 -Western Wallpapers⚡- ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/df/a9/7fdfa94fc294ae38de2072844c9fc564.jpg' alt='70 -Western Wallpapers⚡- ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/df/a9/7fdfa94fc294ae38de2072844c9fc564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/files/Cute_Rodeo_Cowgirl_seamless_vector_pattern._Howdy_Cowboy_boots_in_desert_repeating_background._Wild_West_surface_pattern_1-min.jpg?v=1739231728&width=1214' alt='Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/files/Cute_Rodeo_Cowgirl_seamless_vector_pattern._Howdy_Cowboy_boots_in_desert_repeating_background._Wild_West_surface_pattern_1-min.jpg?v=1739231728&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

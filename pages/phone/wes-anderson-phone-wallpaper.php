@@ -1,0 +1,129 @@
+<title>Wes Anderson Phone Wallpapers: Capture the Quirkiness</title>
+                    <meta name="description" content="Discover the charm of Wes Anderson with stunning phone wallpapers inspired by his iconic films. Perfect for fans, these wallpapers offer a delightful blend of color and design that enhances your mobile experience. Download now and showcase your love for cinematic artistry!">
+                    <meta name="keywords" content="wes anderson phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wes-anderson-phone-wallpaper">
+                            <span itemprop="name">wes anderson phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wes Anderson Phone Wallpapers: Capture the Quirkiness</h1>
+                <p>Transform your phone with whimsical Wes Anderson wallpapers that capture his unique visual style. From pastel colors to symmetrical compositions, these wallpapers bring a touch of cinematic magic to your device. Perfect for fans of his films, enjoy a daily dose of creativity right in your pocket!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I thought I'd finally share this Moonrise Kingdom wallpaper I had ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/vUd4NWmDd7NW_I9RJ0EO0BOuTX57mGGqNOjQolyUA9w.jpg?auto=webp&s=35c44b0be2471b82265ab155004963ca0640b57f' alt='I thought I'd finally share this Moonrise Kingdom wallpaper I had ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/vUd4NWmDd7NW_I9RJ0EO0BOuTX57mGGqNOjQolyUA9w.jpg?auto=webp&s=35c44b0be2471b82265ab155004963ca0640b57f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Hotel Budapest PopArt Smartphone Wallpaper : r/wesanderson">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/grand-hotel-budapest-popart-smartphone-wallpaper-v0-g0df1op5yl9b1.png?auto=webp&s=9f46fdb5c3812ebc373abeac2ab2034a0ff12221' alt='Grand Hotel Budapest PopArt Smartphone Wallpaper : r/wesanderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/grand-hotel-budapest-popart-smartphone-wallpaper-v0-g0df1op5yl9b1.png?auto=webp&s=9f46fdb5c3812ebc373abeac2ab2034a0ff12221' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/99/78/a6/9978a6d29b4960a2d8236e5f5a1e452b.jpg' alt='iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/99/78/a6/9978a6d29b4960a2d8236e5f5a1e452b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5690415.jpg' alt='Wes Anderson iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5690415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/f7/4d/e9f74d78c01fe8f5f48a0e46e99a74fc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/f7/4d/e9f74d78c01fe8f5f48a0e46e99a74fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Grand Budapest Hotel Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/c/41510-1536x2732-samsung-hd-the-grand-budapest-hotel-background-photo.jpg' alt='The Grand Budapest Hotel Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/c/41510-1536x2732-samsung-hd-the-grand-budapest-hotel-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wes Anderson iPhone wallpaper | Wes Anderson characters iPho… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7260/7473401428_18741853e2_z.jpg' alt='Wes Anderson iPhone wallpaper | Wes Anderson characters iPho… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7260/7473401428_18741853e2_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Dispatch Wallpaper + Variations : r/wesanderson">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/french-dispatch-wallpaper-variations-v0-p0o11d8npl9b1.png?width=640&crop=smart&auto=webp&s=43cf811451834690f71697b2d4579bfbae7afe8f' alt='French Dispatch Wallpaper + Variations : r/wesanderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/french-dispatch-wallpaper-variations-v0-p0o11d8npl9b1.png?width=640&crop=smart&auto=webp&s=43cf811451834690f71697b2d4579bfbae7afe8f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Grand Budapest Hotel Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/5/e/41524-1080x1920-iphone-full-hd-the-grand-budapest-hotel-wallpaper-photo.jpg' alt='The Grand Budapest Hotel Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/5/e/41524-1080x1920-iphone-full-hd-the-grand-budapest-hotel-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some aesthetically pleasing Wes Anderson themed wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/05o43u9q0jo91.jpg?width=640&crop=smart&auto=webp&s=1a8b0d18ba58e9e92c8749ddf8bf2bee8421bb10' alt='Made some aesthetically pleasing Wes Anderson themed wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/05o43u9q0jo91.jpg?width=640&crop=smart&auto=webp&s=1a8b0d18ba58e9e92c8749ddf8bf2bee8421bb10' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

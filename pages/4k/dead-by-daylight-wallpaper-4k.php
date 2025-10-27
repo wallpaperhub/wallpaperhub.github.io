@@ -1,0 +1,129 @@
+<title>4K Dead by Daylight Wallpapers: Epic Horror Backgrounds</title>
+                    <meta name="description" content="Explore our collection of high-resolution 4K Dead by Daylight wallpapers! Perfect for gamers who want to showcase their love for this thrilling horror game. Download now for a fresh look on your device and immerse yourself in the dark, captivating world of DBD!">
+                    <meta name="keywords" content="dead by daylight wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/dead-by-daylight-wallpaper-4k">
+                            <span itemprop="name">dead by daylight wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Dead by Daylight Wallpapers: Epic Horror Backgrounds</h1>
+                <p>Discover stunning 4K wallpapers inspired by Dead by Daylight, perfect for avid gamers and fans of horror. Immerse yourself in the chilling atmosphere of the game, featuring iconic killers and survivors. Upgrade your device's background with high-quality visuals that bring the game's tension and excitement to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead By Daylight 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/707/707865.jpg' alt='Dead By Daylight 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4851">
+                                <meta itemprop="height" content="2653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/707/707865.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Wallpapers (48 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/e/9/2209517-3840x2160-desktop-4k-dead-by-daylight-background.jpg' alt='Dead by Daylight Wallpapers (48 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/e/9/2209517-3840x2160-desktop-4k-dead-by-daylight-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dead By Daylight Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dead-by-daylight-zi9ycgvp8lfzabv9.jpg' alt='100+] Dead By Daylight Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dead-by-daylight-zi9ycgvp8lfzabv9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Dead By Daylight 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/110/1105588.jpg' alt='Download Video Game Dead By Daylight 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/110/1105588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Wallpapers, Official Artwork, Images & Banners ...">
+                                <img itemprop="contentUrl url" src='https://deadbydaylight.com/static/bd155772f0c84ff11838b68e0bec1167/a3913/LNY_2024_3840x2160_027bb77e85.png' alt='Dead by Daylight Wallpapers, Official Artwork, Images & Banners ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dead by Daylight" />
+                                </span>
+                                <a href='https://deadbydaylight.com/static/bd155772f0c84ff11838b68e0bec1167/a3913/LNY_2024_3840x2160_027bb77e85.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/11/Dead-by-Daylight-PS4-PS5-Wallpapers-02.jpg' alt='Dead by Daylight Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/11/Dead-by-Daylight-PS4-PS5-Wallpapers-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight wallpapers – pictures to die for">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/uploads/2021/12/dead-by-daylight-wallpapers-ghost-face.jpg' alt='Dead by Daylight wallpapers – pictures to die for'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/uploads/2021/12/dead-by-daylight-wallpapers-ghost-face.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/485/HD-wallpaper-dead-by-daylight.jpg' alt='Dead by Daylight, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/485/HD-wallpaper-dead-by-daylight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Dead by Daylight, Killer, tree, night, nature, plant ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/68/e3/0268e30d2718f2c638b3dd2dd564d1a6.jpg' alt='HD wallpaper: Dead by Daylight, Killer, tree, night, nature, plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/68/e3/0268e30d2718f2c638b3dd2dd564d1a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead by Daylight Wallpapers, Official Artwork, Images & Banners ...">
+                                <img itemprop="contentUrl url" src='https://deadbydaylight.com/static/a5cdc5db3804f817df112184c81f5ead/93f85/dbd-gallery-background.jpg' alt='Dead by Daylight Wallpapers, Official Artwork, Images & Banners ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dead by Daylight" />
+                                </span>
+                                <a href='https://deadbydaylight.com/static/a5cdc5db3804f817df112184c81f5ead/93f85/dbd-gallery-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

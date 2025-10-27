@@ -1,0 +1,129 @@
+<title>Epic For Honor Wallpapers: Battle-Inspired Backgrounds</title>
+                    <meta name="description" content="Explore an array of captivating "For Honor" wallpapers ideal for enhancing your device’s screen. Choose from high-quality images of your favorite warriors and battles, bringing the game's excitement to your background. Perfect for gamers seeking to showcase their love for For Honor!">
+                    <meta name="keywords" content="for honor wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/for-honor-wallpaper">
+                            <span itemprop="name">for honor wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic For Honor Wallpapers: Battle-Inspired Backgrounds</h1>
+                <p>Discover stunning "For Honor" wallpapers that capture the epic battles and diverse heroes of this action-packed game. Choose from a range of high-resolution images featuring knights, samurais, and Vikings, perfect for your desktop or mobile background. Transform your device with artwork that embodies the spirit of honor and combat!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apollyon's Legacy Wallpaper : r/forhonor">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/zRvZpIALSK-2NhX2tJMAqagnF-wk0y7scHNX0ZDr7a0.jpg?auto=webp&s=d9f48c555c892d35d50b188ed3e266e1b2208312' alt='Apollyon's Legacy Wallpaper : r/forhonor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10670">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/zRvZpIALSK-2NhX2tJMAqagnF-wk0y7scHNX0ZDr7a0.jpg?auto=webp&s=d9f48c555c892d35d50b188ed3e266e1b2208312' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] For Honor Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/for-honor-phone-faction-representatives-walking-kp0e08bx99bfubyv.jpg' alt='100+] For Honor Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="837">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/for-honor-phone-faction-representatives-walking-kp0e08bx99bfubyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I find the lack of awesome For Honor smartphone wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gzz30sypmzjy.jpg' alt='I find the lack of awesome For Honor smartphone wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1224">
+                                <meta itemprop="height" content="1824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gzz30sypmzjy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Honor Warriors: 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/881/881534.jpg' alt='For Honor Warriors: 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/881/881534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Honor 4K Ultra HD Wallpaper Delight">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/600/600978.jpg' alt='For Honor 4K Ultra HD Wallpaper Delight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/600/600978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Honor wallpaper 12 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?titel=For+Honor&nummer=12&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=6534' alt='For Honor wallpaper 12 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?titel=For+Honor&nummer=12&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=6534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Honor Wallpaper, HD Games 4K Wallpapers, Images and Background ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/for-honor_a2duZmmUmZqaraWkpJRsZ25rrWlra2k.jpg' alt='For Honor Wallpaper, HD Games 4K Wallpapers, Images and Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7296">
+                                <meta itemprop="height" content="4664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/for-honor_a2duZmmUmZqaraWkpJRsZ25rrWlra2k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] For Honor Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/for-honor-xk0i0p32bpztt9oz.jpg' alt='200+] For Honor Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/for-honor-xk0i0p32bpztt9oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Official Season V: Age of Wolves Wallpaper : r/forhonor">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oi8uagqp0ac01.jpg?width=1080&crop=smart&auto=webp&s=597f581bf5eefc751235f6c28e76df1f6f47dd28' alt='The Official Season V: Age of Wolves Wallpaper : r/forhonor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oi8uagqp0ac01.jpg?width=1080&crop=smart&auto=webp&s=597f581bf5eefc751235f6c28e76df1f6f47dd28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Honor wallpapers for phone, Pistoletto Controletti">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/75/83/cf7583be7f015929af07dd65d3581b85.jpg' alt='For Honor wallpapers for phone, Pistoletto Controletti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/75/83/cf7583be7f015929af07dd65d3581b85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

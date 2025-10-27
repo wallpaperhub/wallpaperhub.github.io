@@ -1,0 +1,129 @@
+<title>Stylish Dalmatian Print Backgrounds for a Trendy Look</title>
+                    <meta name="description" content="Discover the allure of dalmatian print backgrounds! Perfect for fashion, home decor, and graphic design, our stylish collection offers a playful yet elegant touch to your projects. Enhance your visuals with this timeless pattern and stand out with unique, eye-catching designs.">
+                    <meta name="keywords" content="dalmatian print background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dalmatian-print-background">
+                            <span itemprop="name">dalmatian print background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Dalmatian Print Backgrounds for a Trendy Look</h1>
+                <p>Dalmatian print is a striking pattern characterized by its bold black spots on a white background, reminiscent of the beloved spotted dog. This timeless design adds a playful yet sophisticated touch to any project, making it popular in fashion, interior design, and digital art. Embrace this eye-catching print to elevate your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dalmatian print">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/00764_dots_navy_blue_main_800x.jpg?v=1667387922' alt='Dalmatian print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/00764_dots_navy_blue_main_800x.jpg?v=1667387922' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dalmatian Print Images – Browse 10,806 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/45/49/42/360_F_545494243_GWPXB2WALXYHfGwuzHrkQXFYz8ueYRFj.jpg' alt='Dalmatian Print Images – Browse 10,806 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/45/49/42/360_F_545494243_GWPXB2WALXYHfGwuzHrkQXFYz8ueYRFj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dalmatian Print Images – Browse 10,806 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/53/52/80/360_F_353528094_haopjDvvX4FzGVurnczCevE9hAUi4HEc.jpg' alt='Dalmatian Print Images – Browse 10,806 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/53/52/80/360_F_353528094_haopjDvvX4FzGVurnczCevE9hAUi4HEc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dalmatian Print Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dalmatian-print-p51qycl4wvc5zgzk.jpg' alt='100+] Dalmatian Print Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1347">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dalmatian-print-p51qycl4wvc5zgzk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,900+ Dalmatian Print Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393548959/vector/abstract-modern-dalmatian-fur-seamless-pattern-animals-trendy-background-black-and-white.jpg?s=612x612&w=0&k=20&c=j-8IAiS1vCc276Zgn72SJV_dkjf4ff327B-fH5c1Cc4=' alt='6,900+ Dalmatian Print Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393548959/vector/abstract-modern-dalmatian-fur-seamless-pattern-animals-trendy-background-black-and-white.jpg?s=612x612&w=0&k=20&c=j-8IAiS1vCc276Zgn72SJV_dkjf4ff327B-fH5c1Cc4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Dalmatian Print Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/42/12/ea421266ac62d951ace15e7bde9ad201.jpg' alt='Black & White Dalmatian Print Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/42/12/ea421266ac62d951ace15e7bde9ad201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Dalmatian spots on a white background pattern | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1276811383.7424/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Black Dalmatian spots on a white background pattern | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1276811383.7424/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dalmatian Print Background Stock Illustration 774767647 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/dalmatian-print-background-260nw-774767647.jpg' alt='Dalmatian Print Background Stock Illustration 774767647 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/dalmatian-print-background-260nw-774767647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Dot Wallpaper, Dalmatian Wallpaper, Polka Dot Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14565690/r/il/c85cef/1493844049/il_fullxfull.1493844049_9rv5.jpg' alt='Navy Dot Wallpaper, Dalmatian Wallpaper, Polka Dot Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14565690/r/il/c85cef/1493844049/il_fullxfull.1493844049_9rv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dalmatian Prints Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dalmatian-print-i42f2qtmo5ci55al.jpg' alt='Download Dalmatian Prints Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dalmatian-print-i42f2qtmo5ci55al.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

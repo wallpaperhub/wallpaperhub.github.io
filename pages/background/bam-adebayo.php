@@ -1,0 +1,129 @@
+<title>Bam Adebayo: Miami Heat's Versatile Star</title>
+                    <meta name="description" content="Discover Bam Adebayo, the Miami Heat's dynamic center. Known for his elite defense and scoring ability, Adebayo is shaping the future of the NBA. Explore his journey, achievements, and impact on the court in this concise overview!">
+                    <meta name="keywords" content="bam adebayo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bam-adebayo">
+                            <span itemprop="name">bam adebayo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bam Adebayo: Miami Heat's Versatile Star</h1>
+                <p>Bam Adebayo is a rising star in the NBA, known for his versatility and defensive prowess. As the center for the Miami Heat, he showcases an impressive combination of athleticism and skill. Adebayo's ability to facilitate offense, protect the rim, and score makes him an essential player for his team, especially during high-pressure games.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7d/Bam_Adebayo_%28cropped%29.jpg' alt='Bam Adebayo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7d/Bam_Adebayo_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo - Miami Heat Center - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/nba/players/full/4066261.png' alt='Bam Adebayo - Miami Heat Center - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/nba/players/full/4066261.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Team USA | Bam Adebayo">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/usopc-prod/image/upload/ar_1.0,c_thumb,g_face,w_120/q_auto/f_auto/dpr_2.0/v1/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bam%20Adebayo/Adebayo_Bam?_a=DAJAUVWIZAA0' alt='Team USA | Bam Adebayo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Team USA" />
+                                </span>
+                                <a href='https://res.cloudinary.com/usopc-prod/image/upload/ar_1.0,c_thumb,g_face,w_120/q_auto/f_auto/dpr_2.0/v1/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bam%20Adebayo/Adebayo_Bam?_a=DAJAUVWIZAA0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo Takes A Shot At Referees After Being Ejected From ...">
+                                <img itemprop="contentUrl url" src='https://fadeawayworld.net/.image/t_share/MTk0MTQ0NTA5MzAxMzY4NDk3/usatsi_19534674_168397841_lowres.jpg' alt='Bam Adebayo Takes A Shot At Referees After Being Ejected From ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fadeaway World" />
+                                </span>
+                                <a href='https://fadeawayworld.net/.image/t_share/MTk0MTQ0NTA5MzAxMzY4NDk3/usatsi_19534674_168397841_lowres.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo | NBA 2K Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nba2k/images/6/6f/Bam_Adebayo.png/revision/latest?cb=20230801152932' alt='Bam Adebayo | NBA 2K Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA 2K Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nba2k/images/6/6f/Bam_Adebayo.png/revision/latest?cb=20230801152932' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo WITH 31 PTS, 10 REB, 6... - Basketball Forever | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5748753268488631' alt='Bam Adebayo WITH 31 PTS, 10 REB, 6... - Basketball Forever | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5748753268488631' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo - USA Basketball">
+                                <img itemprop="contentUrl url" src='https://www.usab.com/imgproxy/NlYk2OqOArjdv31BLhFBSOw34Alo-KYvm2cLS2VNU7M/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjQvMDcvMDkvMzliOGU0YTYtZTQ2YS00YWQ4LTllZWEtYjE3ZGNkYmFkYzQ4LmpwZw.png' alt='Bam Adebayo - USA Basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1492">
+                                <meta itemprop="height" content="1493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Basketball" />
+                                </span>
+                                <a href='https://www.usab.com/imgproxy/NlYk2OqOArjdv31BLhFBSOw34Alo-KYvm2cLS2VNU7M/rs:fit:3000:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VzYWItY29tLXByb2QvdXBsb2FkLzIwMjQvMDcvMDkvMzliOGU0YTYtZTQ2YS00YWQ4LTllZWEtYjE3ZGNkYmFkYzQ4LmpwZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Bam Adebayo Went from “Terrible” Sixth Grade Hooper to NBA ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/6080764ec1e989d69f6aa87a/1:1/w_2429,h_2429,c_limit/bam-adebayo.jpg' alt='How Bam Adebayo Went from “Terrible” Sixth Grade Hooper to NBA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2429">
+                                <meta itemprop="height" content="2429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/6080764ec1e989d69f6aa87a/1:1/w_2429,h_2429,c_limit/bam-adebayo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bam Adebayo News, Rumors, Updates - Miami Heat | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nba/headshots/2357.vresize.260.260.medium.77.png' alt='Bam Adebayo News, Rumors, Updates - Miami Heat | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nba/headshots/2357.vresize.260.260.medium.77.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heat Star Bam Adebayo Still Upset About Missed DPOY Award - Newsweek">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2427869/bam-adebayo.jpg' alt='Heat Star Bam Adebayo Still Upset About Missed DPOY Award - Newsweek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3662">
+                                <meta itemprop="height" content="3101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2427869/bam-adebayo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

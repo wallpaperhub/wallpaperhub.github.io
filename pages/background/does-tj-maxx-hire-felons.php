@@ -1,0 +1,129 @@
+<title>TJ Maxx Hiring Practices for Felons: What You Need to Know</title>
+                    <meta name="description" content="Discover if TJ Maxx hires felons and learn about their hiring policies. Find out how past convictions may influence employment opportunities and tips for applicants. Get insights on how TJ Maxx supports rehabilitation and second chances for those with criminal records.">
+                    <meta name="keywords" content="does tj maxx hire felons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-tj-maxx-hire-felons">
+                            <span itemprop="name">does tj maxx hire felons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TJ Maxx Hiring Practices for Felons: What You Need to Know</h1>
+                <p>Yes, TJ Maxx does hire felons, but hiring decisions vary by location and specific circumstances. They prioritize rehabilitation and offer opportunities for individuals with past convictions. It’s recommended for felons to be honest about their history during the application process and demonstrate their commitment to change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Tj Maxx Hire Felons | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7276113391620721966&location=0&aid=1988' alt='Do Tj Maxx Hire Felons | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7276113391620721966&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Tj Maxx Hire Felons | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7283862826588835115&location=0&aid=1988' alt='Do Tj Maxx Hire Felons | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7283862826588835115&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Tj Maxx Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/7.jpg' alt='Does Tj Maxx Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#jobs #felons #convicted #hiring | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' alt='#jobs #felons #convicted #hiring | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Tj Maxx Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/4.jpg' alt='Does Tj Maxx Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Tj Maxx Hire Felons | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7451110483605687595&location=0&aid=1988' alt='Do Tj Maxx Hire Felons | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7451110483605687595&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Tj Maxx Hire Felons | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7293756599875751170&location=0&aid=1988' alt='Do Tj Maxx Hire Felons | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7293756599875751170&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I don't know how accurate this is, posting it just in case it's ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-dont-know-how-accurate-this-is-posting-it-just-in-case-v0-ml8rbuxqzf6e1.jpeg?auto=webp&s=ff6cbcdd2be094e4460e8ccfe9ed2efcf96ecc60' alt='I don't know how accurate this is, posting it just in case it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-dont-know-how-accurate-this-is-posting-it-just-in-case-v0-ml8rbuxqzf6e1.jpeg?auto=webp&s=ff6cbcdd2be094e4460e8ccfe9ed2efcf96ecc60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jobs for felons #felons #felonsoftiktok #felonsontiktok #helpforfelons  #jobsforfelons #resourcesforfelons #hirefelons">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7231321401750244650&location=0&aid=1988' alt='Jobs for felons #felons #felonsoftiktok #felonsontiktok #helpforfelons  #jobsforfelons #resourcesforfelons #hirefelons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7231321401750244650&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Tj Maxx Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/3.jpg' alt='Does Tj Maxx Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-tj-maxx-do-background-checks.govbackgroundchecks.com/screenshots/does-tj-maxx-do-background-checks/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

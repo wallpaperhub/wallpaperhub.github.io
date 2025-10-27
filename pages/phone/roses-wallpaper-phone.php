@@ -1,0 +1,129 @@
+<title>Stunning Roses Wallpaper for Your Phone</title>
+                    <meta name="description" content="Discover beautiful roses wallpaper for your phone! Explore vibrant colors and elegant floral designs that personalize your device. Elevate your screen's aesthetic and enjoy the beauty of nature at your fingertips. Perfect for flower lovers and anyone seeking a romantic touch!">
+                    <meta name="keywords" content="roses wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/roses-wallpaper-phone">
+                            <span itemprop="name">roses wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Roses Wallpaper for Your Phone</h1>
+                <p>Transform your phone's look with stunning roses wallpaper. Whether you prefer vibrant reds, soft pinks, or elegant whites, these floral patterns bring a touch of nature's beauty to your device. Perfect for flower enthusiasts, they add a romantic vibe and personalize your phone uniquely. Make every glance at your screen a delight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rose Mobile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rose-mobile-x7o1nw0qnraev82e.jpg' alt='100+] Rose Mobile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rose-mobile-x7o1nw0qnraev82e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Background Phone Pink Roses Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pretty-background-phone-pink-roses-j1rn63hhcim08vl6.jpg' alt='Pretty Background Phone Pink Roses Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pretty-background-phone-pink-roses-j1rn63hhcim08vl6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' alt='Dark Red Roses Digital Wall Art, Gothic Floral Background, Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/e590ad/5906782601/il_570xN.5906782601_o7h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Wallpaper For Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rose-wallpaper-for-mobile-h4watfk6njvwaj7f.jpg' alt='Rose Wallpaper For Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rose-wallpaper-for-mobile-h4watfk6njvwaj7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Roses Wallpaper Backgrounds For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/85/71/418571c40839cf3b0da0619cac966dfb.jpg' alt='25 Beautiful Roses Wallpaper Backgrounds For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/85/71/418571c40839cf3b0da0619cac966dfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral Phone Wallpapers • Summer Collection • Photo Backdrops ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1408377878810-ZQ4F9J2Y1MOVA9HPG02E/rose+phone+wallpaper' alt='Free Floral Phone Wallpapers • Summer Collection • Photo Backdrops ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capture by Lucy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1408377878810-ZQ4F9J2Y1MOVA9HPG02E/rose+phone+wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/e/e/128723-1080x1920-mobile-full-hd-rose-background.jpg' alt='Rose Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/e/e/128723-1080x1920-mobile-full-hd-rose-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Roses Wallpaper Backgrounds For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/78/d6/eb/78d6eb52d1170d86c9584a7078aff942.jpg' alt='25 Beautiful Roses Wallpaper Backgrounds For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/78/d6/eb/78d6eb52d1170d86c9584a7078aff942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses, flower, nature, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/506/566/HD-wallpaper-roses-flower-nature-pink.jpg' alt='Roses, flower, nature, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/506/566/HD-wallpaper-roses-flower-nature-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Roses" wallpapers for mobile phone, free "Roses" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/55/5559dc5db1c09ed6ee4bc6301df98729.jpeg' alt='Download "Roses" wallpapers for mobile phone, free "Roses" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2771">
+                                <meta itemprop="height" content="4156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/55/5559dc5db1c09ed6ee4bc6301df98729.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

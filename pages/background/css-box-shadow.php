@@ -1,0 +1,129 @@
+<title>Mastering CSS Box Shadow: Enhance Your Web Design</title>
+                    <meta name="description" content="Discover how to use CSS box shadow to elevate your web design. Learn tips for creating realistic shadows, adjust offsets, blurs, and spreads to enhance user experience. Perfect for developers looking to add depth to their elements with simple yet effective styles.">
+                    <meta name="keywords" content="css box shadow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-box-shadow">
+                            <span itemprop="name">css box shadow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering CSS Box Shadow: Enhance Your Web Design</h1>
+                <p>CSS box-shadow is a powerful visual effect that adds depth and dimension to web elements. By using simple syntax, you can create shadows with varying offsets, blurs, and spreads. This enhances the design aesthetic and user experience by making elements appear more tangible. Experiment with color and opacity for unique effects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Box Shadows In Pure CSS - Shadow.css | CSS Script">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.cssscript.com/wp-content/uploads/2019/10/Elegant-Box-Shadows-In-Pure-CSS-Shadow.css.png?fit=933%2C541&ssl=1' alt='Elegant Box Shadows In Pure CSS - Shadow.css | CSS Script'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Script" />
+                                </span>
+                                <a href='https://i0.wp.com/www.cssscript.com/wp-content/uploads/2019/10/Elegant-Box-Shadows-In-Pure-CSS-Shadow.css.png?fit=933%2C541&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Beautiful CSS box-shadow examples - CSS Scan">
+                                <img itemprop="contentUrl url" src='https://getcssscan.com/css-box-shadow-examples/og-image.jpg' alt='95 Beautiful CSS box-shadow examples - CSS Scan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Scan" />
+                                </span>
+                                <a href='https://getcssscan.com/css-box-shadow-examples/og-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS box-shadow Generator | Front-end Tools - High-performance and ...">
+                                <img itemprop="contentUrl url" src='https://front-end-tools.com/ogp/boxShadowOgp.png' alt='CSS box-shadow Generator | Front-end Tools - High-performance and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Front-end Tools" />
+                                </span>
+                                <a href='https://front-end-tools.com/ogp/boxShadowOgp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designing Beautiful Shadows in CSS | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-15-at-3.50.32-PM.png?fit=1338%2C668&ssl=1' alt='Designing Beautiful Shadows in CSS | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-15-at-3.50.32-PM.png?fit=1338%2C668&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Box Shadow Tutorial: A Step-By-Step Guide (+ Examples)">
+                                <img itemprop="contentUrl url" src='https://torquemag.io/wp-content/uploads/2022/01/css-box-shadow-tutorial-example.jpg' alt='CSS Box Shadow Tutorial: A Step-By-Step Guide (+ Examples)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1287">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="torquemag.io" />
+                                </span>
+                                <a href='https://torquemag.io/wp-content/uploads/2022/01/css-box-shadow-tutorial-example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upscale Your Website with the Box-Shadow Property">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/turing/65980c4d531ac2845a2726c9_CSS_box_shadow_examples_ae94f31080.webp?auto=format,compress' alt='Upscale Your Website with the Box-Shadow Property'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turing" />
+                                </span>
+                                <a href='https://images.prismic.io/turing/65980c4d531ac2845a2726c9_CSS_box_shadow_examples_ae94f31080.webp?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mastering Box Shadows: A Practical Guide with Bootstrap Cards | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*6Z-gxHxf67d0t_7MYtKQUQ.png' alt='Mastering Box Shadows: A Practical Guide with Bootstrap Cards | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saurabh Pandey - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*6Z-gxHxf67d0t_7MYtKQUQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Different Ways To Style CSS Box Shadow Effects | LambdaTest">
+                                <img itemprop="contentUrl url" src='https://www.lambdatest.com/blog/wp-content/uploads/2022/12/CSS2520box-shadow2520property.png' alt='Different Ways To Style CSS Box Shadow Effects | LambdaTest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LambdaTest" />
+                                </span>
+                                <a href='https://www.lambdatest.com/blog/wp-content/uploads/2022/12/CSS2520box-shadow2520property.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Why does box-shadow look different than filter: drop-shadow ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/0Acbt.png' alt='html - Why does box-shadow look different than filter: drop-shadow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/0Acbt.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Beautiful CSS box-shadow examples - CSS Scan">
+                                <img itemprop="contentUrl url" src='https://getcssscan.com/css-box-shadow-examples/box-shadow.jpg' alt='95 Beautiful CSS box-shadow examples - CSS Scan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Scan" />
+                                </span>
+                                <a href='https://getcssscan.com/css-box-shadow-examples/box-shadow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

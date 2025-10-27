@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Harvard University</title>
+                    <meta name="description" content="Explore the fascinating history of Harvard University, from its founding in 1636 to its role as a global educational leader. Delve into the stories of its influential alumni and its enduring impact on academia and society. Perfect for history enthusiasts!">
+                    <meta name="keywords" content="harvard history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harvard-history">
+                            <span itemprop="name">harvard history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Harvard University</h1>
+                <p>Harvard University, founded in 1636, is the oldest institution of higher education in the United States. Initially established to train clergy, it has grown into a leading global research university. With notable alumni like presidents, Nobel laureates, and influential thinkers, Harvard's history reflects its enduring impact on education and society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Harvard University">
+                                <img itemprop="contentUrl url" src='https://www.harvard.edu/wp-content/uploads/2022/04/8036043b.jpg?w=768&h=576&crop=1' alt='The history of Harvard University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://www.harvard.edu/wp-content/uploads/2022/04/8036043b.jpg?w=768&h=576&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Harvard University">
+                                <img itemprop="contentUrl url" src='https://www.harvard.edu/wp-content/uploads/2024/05/Old-photo-of-harvard-yard.jpg' alt='The history of Harvard University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://www.harvard.edu/wp-content/uploads/2024/05/Old-photo-of-harvard-yard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvard and the American Revolution - Harvard University">
+                                <img itemprop="contentUrl url" src='https://www.harvard.edu/wp-content/uploads/2021/06/Art-1726-Burgis.jpg?resize=1200,630' alt='Harvard and the American Revolution - Harvard University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://www.harvard.edu/wp-content/uploads/2021/06/Art-1726-Burgis.jpg?resize=1200,630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Harvard University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HarvardElizaSusanQuincy1836.jpg/410px-HarvardElizaSusanQuincy1836.jpg' alt='History of Harvard University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HarvardElizaSusanQuincy1836.jpg/410px-HarvardElizaSusanQuincy1836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HSB41 - Inventing Harvard:">
+                                <img itemprop="contentUrl url" src='https://legacy.sites.fas.harvard.edu/~hsb41/Inventing_Harvard/revere_harvard_engraving.jpg' alt='HSB41 - Inventing Harvard:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://legacy.sites.fas.harvard.edu/~hsb41/Inventing_Harvard/revere_harvard_engraving.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Harvard - Harvard Club of France">
+                                <img itemprop="contentUrl url" src='https://www.harvardclub.fr/wp-content/uploads/2022/08/history-1.jpg' alt='History of Harvard - Harvard Club of France'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Club of France" />
+                                </span>
+                                <a href='https://www.harvardclub.fr/wp-content/uploads/2022/08/history-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Harvard University">
+                                <img itemprop="contentUrl url" src='https://www.harvard.edu/wp-content/uploads/2024/05/101321_Features_KS_007-1.jpeg?w=1075' alt='The history of Harvard University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="1613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://www.harvard.edu/wp-content/uploads/2024/05/101321_Features_KS_007-1.jpeg?w=1075' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Harvard University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/New_England%27s_First_Fruits_plaque%2C_Harvard_University_-_IMG_8969.JPG/350px-New_England%27s_First_Fruits_plaque%2C_Harvard_University_-_IMG_8969.JPG' alt='History of Harvard University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/New_England%27s_First_Fruits_plaque%2C_Harvard_University_-_IMG_8969.JPG/350px-New_England%27s_First_Fruits_plaque%2C_Harvard_University_-_IMG_8969.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Massachusetts Historical Society: Object of the Month">
+                                <img itemprop="contentUrl url" src='https://www.masshist.org/database/images/0368_ref.jpg' alt='Massachusetts Historical Society: Object of the Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Massachusetts Historical Society: Object of the Month" />
+                                </span>
+                                <a href='https://www.masshist.org/database/images/0368_ref.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Harvard University">
+                                <img itemprop="contentUrl url" src='https://www.harvard.edu/wp-content/uploads/2024/05/service-pnp-pga-07100-07154v.jpg?w=768&h=576&crop=1' alt='The history of Harvard University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard University" />
+                                </span>
+                                <a href='https://www.harvard.edu/wp-content/uploads/2024/05/service-pnp-pga-07100-07154v.jpg?w=768&h=576&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Perfect Movie Night Flyer Template</title>
+                    <meta name="description" content="Plan the perfect movie night with our easy-to-use flyer template! Customize details like movie title, date, and location to create a stunning invitation that sets the mood for an unforgettable evening. Get ready to gather friends and family for a cinematic experience like no other!">
+                    <meta name="keywords" content="movie night flyer template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movie-night-flyer-template">
+                            <span itemprop="name">movie night flyer template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Movie Night Flyer Template</h1>
+                <p>Get ready for the ultimate movie night! Our customizable flyer template makes planning your event easy and fun. Choose your favorite movie, add the date and time, and let the good times roll! Perfect for friends, family, or a community gathering. Download yours today and create unforgettable movie memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable movie night poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFT3p5lGug/1/0/1131w/canva-dark-blue-and-white-movie-night-poster-7XdqeuvD2kU.jpg' alt='Free customizable movie night poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFT3p5lGug/1/0/1131w/canva-dark-blue-and-white-movie-night-poster-7XdqeuvD2kU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Night Flyers For Free | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_movie-night-flyer-0edd391d2c07ce582dcfd9d5a5d79669.jpg?ts%20=%201706177390' alt='Movie Night Flyers For Free | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_movie-night-flyer-0edd391d2c07ce582dcfd9d5a5d79669.jpg?ts%20=%201706177390' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drive-in and Movie Night Custom Free Templates">
+                                <img itemprop="contentUrl url" src='https://edit.org/img/blog/cfx-movie-night-flyer-template-free-online.jpg' alt='Drive-in and Movie Night Custom Free Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edit.org" />
+                                </span>
+                                <a href='https://edit.org/img/blog/cfx-movie-night-flyer-template-free-online.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable movie night templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFGXfhSPI/2/0/1131w/canva-red-yellow-creative-movie-night-flyer-PGH2s1uvnIA.jpg' alt='Free and customizable movie night templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFGXfhSPI/2/0/1131w/canva-red-yellow-creative-movie-night-flyer-PGH2s1uvnIA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable movie night templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlxso4edg/1/0/1600w/canva-black-cream-bold-retro-movie-night-instagram-post-LxEBivbzXsI.jpg' alt='Free and customizable movie night templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlxso4edg/1/0/1600w/canva-black-cream-bold-retro-movie-night-instagram-post-LxEBivbzXsI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Night Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/movie-night-cinema-flyer-template-psd-popcorn-theme_351449-1546.jpg' alt='Movie Night Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/movie-night-cinema-flyer-template-psd-popcorn-theme_351449-1546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Night Free Flyer Template - Download Flyer Templates">
+                                <img itemprop="contentUrl url" src='https://freepsdflyer.com/wp-content/uploads/2017/08/movile-night-free-psd-flyer-template-freepsdflyer-com.jpg' alt='Movie Night Free Flyer Template - Download Flyer Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePSDFlyer" />
+                                </span>
+                                <a href='https://freepsdflyer.com/wp-content/uploads/2017/08/movile-night-free-psd-flyer-template-freepsdflyer-com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MOVIE NIGHT Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-night-flyer-template-ffe90fb79179b976b0843220dba67026_screen.jpg?ts=1636967970' alt='MOVIE NIGHT Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-night-flyer-template-ffe90fb79179b976b0843220dba67026_screen.jpg?ts=1636967970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Movie Night Flyer Templates - PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/classic-movie-night-flyer-template-qosf4u5e6864ab.webp' alt='Free Movie Night Flyer Templates - PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/classic-movie-night-flyer-template-qosf4u5e6864ab.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Night Flyer Template - FlyerHeroes">
+                                <img itemprop="contentUrl url" src='https://flyerheroes.com/wp-content/uploads/edd/2015/01/Movie-Night-Flyer-Template-1.jpg' alt='Movie Night Flyer Template - FlyerHeroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlyerHeroes" />
+                                </span>
+                                <a href='https://flyerheroes.com/wp-content/uploads/edd/2015/01/Movie-Night-Flyer-Template-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

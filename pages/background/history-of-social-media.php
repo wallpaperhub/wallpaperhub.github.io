@@ -1,0 +1,129 @@
+<title>The Evolution of Social Media: A Brief History</title>
+                    <meta name="description" content="Explore the fascinating history of social media, from Usenet in the 1970s to today's global platforms. Discover how these tools have reshaped communication, culture, and marketing throughout the decades in this concise overview.">
+                    <meta name="keywords" content="history of social media">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-social-media">
+                            <span itemprop="name">history of social media</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of Social Media: A Brief History</h1>
+                <p>Social media has transformed communication since its early roots in the 1970s with platforms like Usenet and forums. The 2000s brought giants like Facebook and Twitter, revolutionizing how people connect. By enabling instant sharing and interaction, social media has drastically shaped society, culture, and marketing, evolving continuously to meet user needs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Social Media - Where did it all start?">
+                                <img itemprop="contentUrl url" src='https://www.future-marketing.co.uk/wp-content/uploads/2017/10/social-media-history.png' alt='The History of Social Media - Where did it all start?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Future Marketing" />
+                                </span>
+                                <a href='https://www.future-marketing.co.uk/wp-content/uploads/2017/10/social-media-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Media (It's Younger Than You Think ...">
+                                <img itemprop="contentUrl url" src='https://cdn.broadbandsearch.net/2023/5/1683711268845-graphics2_social%20media%20timeline.png' alt='History of Social Media (It's Younger Than You Think ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BroadbandSearch" />
+                                </span>
+                                <a href='https://cdn.broadbandsearch.net/2023/5/1683711268845-graphics2_social%20media%20timeline.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring Social Media Evolution - A Concise History | Reputation ...">
+                                <img itemprop="contentUrl url" src='https://blog.reputationx.com/wp-content/uploads/sites/2/2024/02/Social-media-timeline.jpg' alt='Exploring Social Media Evolution - A Concise History | Reputation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Online Reputation and Wikipedia Blog - Reputation X" />
+                                </span>
+                                <a href='https://blog.reputationx.com/wp-content/uploads/sites/2/2024/02/Social-media-timeline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Evolution: The Past, Present, and Future of Social ...">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/xFd7fz8s7i_TQqpH_NQTS01iwFjENza_oXhqKI16TlJT-sq4EfBp-2kqNENjWDP0vG1csdsIUSX2MfbjOwE2f8nPMjy4kDmbBYwoFhW-PuipPHfo-T4qLNNhaAaYLo9otBu0ojBtuNpN_-FHSRAMrxc' alt='Social Media Evolution: The Past, Present, and Future of Social ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1208">
+                                <meta itemprop="height" content="1154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspira Marketing" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/xFd7fz8s7i_TQqpH_NQTS01iwFjENza_oXhqKI16TlJT-sq4EfBp-2kqNENjWDP0vG1csdsIUSX2MfbjOwE2f8nPMjy4kDmbBYwoFhW-PuipPHfo-T4qLNNhaAaYLo9otBu0ojBtuNpN_-FHSRAMrxc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The evolution of social media: Where did it begin... - WSA - The ...">
+                                <img itemprop="contentUrl url" src='https://wsacommunications.co.uk/wp-content/uploads/2022/06/MicrosoftTeams-image-57-1-700x525.jpg' alt='The evolution of social media: Where did it begin... - WSA - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSA - The Communications Agency" />
+                                </span>
+                                <a href='https://wsacommunications.co.uk/wp-content/uploads/2022/06/MicrosoftTeams-image-57-1-700x525.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Major Social Media Platforms | Social Media ...">
+                                <img itemprop="contentUrl url" src='https://streambankmedia.com/wp-content/uploads/2018/10/Social-Media-Timeline-Infographic.png' alt='A Brief History of Major Social Media Platforms | Social Media ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streambank Media" />
+                                </span>
+                                <a href='https://streambankmedia.com/wp-content/uploads/2018/10/Social-Media-Timeline-Infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tracing The Evolution of Social Media - Metter Media">
+                                <img itemprop="contentUrl url" src='https://www.mettermedia.com/wp-content/uploads/timeline-1024x256.jpg' alt='Tracing The Evolution of Social Media - Metter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metter Media" />
+                                </span>
+                                <a href='https://www.mettermedia.com/wp-content/uploads/timeline-1024x256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Marketing. A Brief History – Intro to Social Media">
+                                <img itemprop="contentUrl url" src='https://open.library.okstate.edu/app/uploads/sites/185/2022/06/Timeline-Illustration-01-4-1024x644.jpg' alt='Social Media Marketing. A Brief History – Intro to Social Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OPEN OKSTATE - Oklahoma State University" />
+                                </span>
+                                <a href='https://open.library.okstate.edu/app/uploads/sites/185/2022/06/Timeline-Illustration-01-4-1024x644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a detailed look at the history of social media">
+                                <img itemprop="contentUrl url" src='https://www.eastbaytimes.com/wp-content/uploads/2022/12/social-top.jpg?w=972' alt='Here's a detailed look at the history of social media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Bay Times" />
+                                </span>
+                                <a href='https://www.eastbaytimes.com/wp-content/uploads/2022/12/social-top.jpg?w=972' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic] The History of Social Media – Gina Luttrell">
+                                <img itemprop="contentUrl url" src='https://ginaluttrellphd.com/wp-content/uploads/2018/07/history-of-social-media.jpg' alt='Infographic] The History of Social Media – Gina Luttrell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="5768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gina Luttrell" />
+                                </span>
+                                <a href='https://ginaluttrellphd.com/wp-content/uploads/2018/07/history-of-social-media.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Skater Graffiti: The Art of Skate Culture</title>
+                    <meta name="description" content="Explore the dynamic world of skater graffiti, where street art meets skate culture. Discover how this unique form of expression transforms urban landscapes, showcasing creativity and rebellion. Dive into the vibrant scenes and the stories behind the art that energizes skateboarding communities worldwide.">
+                    <meta name="keywords" content="skater graffiti">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skater-graffiti">
+                            <span itemprop="name">skater graffiti</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skater Graffiti: The Art of Skate Culture</h1>
+                <p>Skater graffiti represents the vibrant intersection of skate culture and street art. It often embodies rebellion, creativity, and freedom, with artists using urban spaces to express their individuality. From bold tagging to intricate murals, skater graffiti captures the energy of skateboarding while transforming the landscape into an artistic playground.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skate Street Art Graffiti Skateboarder | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5214096437.8276/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Skate Street Art Graffiti Skateboarder | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5214096437.8276/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skater graffiti Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2WYP9X0/colorful-graffiti-inscription-skater-with-decoration-2WYP9X0.jpg' alt='Skater graffiti Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2WYP9X0/colorful-graffiti-inscription-skater-with-decoration-2WYP9X0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboarder Graffiti Images – Browse 20,533 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/19/03/17/360_F_519031743_74n1APGSmMzL2kfk3Ipp8p7ypkhZUd57.jpg' alt='Skateboarder Graffiti Images – Browse 20,533 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/19/03/17/360_F_519031743_74n1APGSmMzL2kfk3Ipp8p7ypkhZUd57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboard Skate Graffiti Images – Browse 11,111 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/21/86/00/360_F_521860063_fkPZBYakfkXHkNiKt966JsC1BvHBKYXn.jpg' alt='Skateboard Skate Graffiti Images – Browse 11,111 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/21/86/00/360_F_521860063_fkPZBYakfkXHkNiKt966JsC1BvHBKYXn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Skate Board: Over 5,100 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/sprayed-skate-font-graffiti-overspray-260nw-2165747373.jpg' alt='Graffiti Skate Board: Over 5,100 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/sprayed-skate-font-graffiti-overspray-260nw-2165747373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Skateboarding Wallpaper Photo Wallpaper (3052ve)">
+                                <img itemprop="contentUrl url" src='https://walldorado.com/image/catalog/products/standard%20murals/art/graffiti-skateboarding-bakgrundsbild-fototapet-(3052ve)-3052ve.jpg' alt='Graffiti Skateboarding Wallpaper Photo Wallpaper (3052ve)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walldorado" />
+                                </span>
+                                <a href='https://walldorado.com/image/catalog/products/standard%20murals/art/graffiti-skateboarding-bakgrundsbild-fototapet-(3052ve)-3052ve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Graffiti Street Skate Name Art Canvas Custom Graffiti ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12195352/r/il/dca91a/1643581904/il_570xN.1643581904_khky.jpg' alt='Custom Graffiti Street Skate Name Art Canvas Custom Graffiti ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12195352/r/il/dca91a/1643581904/il_570xN.1643581904_khky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti skate Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FX77F0/abstract-hip-hop-hand-written-urban-graffiti-style-word-skate-vector-illustration-calligraphy-art-2FX77F0.jpg' alt='Graffiti skate Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FX77F0/abstract-hip-hop-hand-written-urban-graffiti-style-word-skate-vector-illustration-calligraphy-art-2FX77F0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: TOKMOCO Custom Modern Graffiti Skateboard Bar Industrial  Decoration Wallpaper KTV Background Wall Paper Mural : Tools & Home  Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bc0d57b-7548-423e-8156-482d542ca662.__CR0,0,970,600_PT0_SX970_V1___.png' alt='Amazon.com: TOKMOCO Custom Modern Graffiti Skateboard Bar Industrial  Decoration Wallpaper KTV Background Wall Paper Mural : Tools & Home  Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com: TOKMOCO Custom Modern Graffiti Skateboard Bar ..." />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bc0d57b-7548-423e-8156-482d542ca662.__CR0,0,970,600_PT0_SX970_V1___.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SKATE GRAFFITI — Heart Your Walls">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/53ef66c0e4b0b3651befbb29/1539699817708-OATRMD9LOCT8SNRB2MPO/Graffiti_Reimagined_Artboard+27.jpg?format=1000w' alt='SKATE GRAFFITI — Heart Your Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heart Your Walls" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/53ef66c0e4b0b3651befbb29/1539699817708-OATRMD9LOCT8SNRB2MPO/Graffiti_Reimagined_Artboard+27.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

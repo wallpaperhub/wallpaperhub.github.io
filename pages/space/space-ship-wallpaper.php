@@ -1,0 +1,129 @@
+<title>Out-of-This-World Spaceship Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover unique spaceship wallpaper that takes your decor to new heights. Ideal for themed rooms, kids' spaces, or as a bold statement for any sci-fi lover. Browse our collection to find the perfect design that will launch your walls into the cosmos! Perfect for on-the-go browsing.">
+                    <meta name="keywords" content="space ship wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-ship-wallpaper">
+                            <span itemprop="name">space ship wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Out-of-This-World Spaceship Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning spaceship wallpaper designs that inspire adventure and imagination. Perfect for kids' rooms, gaming spaces, or any sci-fi enthusiast's decor, these wallpapers bring the cosmos to your walls. Explore galaxies, starships, and vibrant interstellar scenes to elevate your interior style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship Background Images – Browse 520,645 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/24/65/14/360_F_1024651418_iySd2xUJagWLm9oh8LFpwEy2Iia9hi7l.jpg' alt='Spaceship Background Images – Browse 520,645 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/24/65/14/360_F_1024651418_iySd2xUJagWLm9oh8LFpwEy2Iia9hi7l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship Background Images – Browse 520,645 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/85/26/97/360_F_985269727_WN0ixm78uQLACi1Eh9zTTJNhN6gMpkTl.jpg' alt='Spaceship Background Images – Browse 520,645 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/85/26/97/360_F_985269727_WN0ixm78uQLACi1Eh9zTTJNhN6gMpkTl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/7/4/63354-3840x2160-desktop-4k-spaceship-wallpaper-image.jpg' alt='Spaceship Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/7/4/63354-3840x2160-desktop-4k-spaceship-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Spaceship Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spaceship-opt0bcuokuglras2.jpg' alt='200+] Spaceship Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spaceship-opt0bcuokuglras2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-fi Spaceship Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/sci-fi-spaceship-2u804gmqvgc1bi7x.jpg' alt='Sci-fi Spaceship Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/sci-fi-spaceship-2u804gmqvgc1bi7x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Spaceship wallpaper - Opera add-ons">
+                                <img itemprop="contentUrl url" src='https://addons-media.operacdn.com/media/CACHE/images/themes/35/36135/1.0-rev1/images/452dc38c-2d59-4eaf-8ab0-aeee95122290/4c067f7ecdd2f83ed965904eaf65bda5.jpg' alt='Futuristic Spaceship wallpaper - Opera add-ons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opera add-ons" />
+                                </span>
+                                <a href='https://addons-media.operacdn.com/media/CACHE/images/themes/35/36135/1.0-rev1/images/452dc38c-2d59-4eaf-8ab0-aeee95122290/4c067f7ecdd2f83ed965904eaf65bda5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship Wallpaper, Spaceship Wall Art, Pre Paste Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25582348/r/il/8520ad/2750139982/il_570xN.2750139982_a567.jpg' alt='Spaceship Wallpaper, Spaceship Wall Art, Pre Paste Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25582348/r/il/8520ad/2750139982/il_570xN.2750139982_a567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Ship Digital Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/space-ship-digital-art-r8tt3e162a3insvn.jpg' alt='Space Ship Digital Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/space-ship-digital-art-r8tt3e162a3insvn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship and Wonderland iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/4d/c5/1e4dc5509595125ca479c9368f70de3f.jpg' alt='Spaceship and Wonderland iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/4d/c5/1e4dc5509595125ca479c9368f70de3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Spaceship 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/130/1303811.jpeg' alt='Download Sci Fi Spaceship 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/130/1303811.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

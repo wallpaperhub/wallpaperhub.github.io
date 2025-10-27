@@ -1,0 +1,129 @@
+<title>Ultimate 3D Tank Backgrounds for Gamers</title>
+                    <meta name="description" content="Explore an impressive collection of 3D tank backgrounds. Perfect for gamers, our vibrant and detailed visuals transform your screens into realms of action and adventure. Enhance your devices with stunning military-themed art that captivates and inspires!">
+                    <meta name="keywords" content="3d tanks backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-tanks-backgrounds">
+                            <span itemprop="name">3d tanks backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate 3D Tank Backgrounds for Gamers</h1>
+                <p>Discover stunning 3D tank backgrounds that elevate your digital space. Perfect for gamers and enthusiasts, these high-quality visuals feature realistic armor and intricate details set against dynamic environments. Customize your devices with vibrant scenes of battlefields, desert landscapes, and military action to inspire your adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IS-3 & Kranvagn with 3D Styles Wallpaper | Tanks: World of Tanks ...">
+                                <img itemprop="contentUrl url" src='https://na-wotp.wgcdn.co/dcont/fb/image/is-3_kranvagn_wallpaper_684x385.jpg' alt='IS-3 & Kranvagn with 3D Styles Wallpaper | Tanks: World of Tanks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Tanks" />
+                                </span>
+                                <a href='https://na-wotp.wgcdn.co/dcont/fb/image/is-3_kranvagn_wallpaper_684x385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD 3d tank wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/767/668/HD-wallpaper-3d-tank-3d-tank-sky-abstract.jpg' alt='HD 3d tank wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/767/668/HD-wallpaper-3d-tank-3d-tank-sky-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : ELEBOX Aquarium Background Sticker Paper 3D Double-Sided  Wallpaper Fish Tank Decorative Pictures Underwater Backdrop Image Decor  16"x 40" ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pQl+NWoFL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com : ELEBOX Aquarium Background Sticker Paper 3D Double-Sided  Wallpaper Fish Tank Decorative Pictures Underwater Backdrop Image Decor  16"x 40" ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pQl+NWoFL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock 3D aquarium terrarium background for 90/120 GALLON tank">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38677410/r/il/d2e78e/4304190960/il_fullxfull.4304190960_p5xl.jpg' alt='Rock 3D aquarium terrarium background for 90/120 GALLON tank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38677410/r/il/d2e78e/4304190960/il_fullxfull.4304190960_p5xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VILLCASE Fish Tank Background- 2 Sided Wallpaper Background 3D Aquarium  Background Sticker Background Poster 10 Gallon Tank- 30x42cm (Style H)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61TQVxDpyIL._AC_UF1000,1000_QL80_.jpg' alt='VILLCASE Fish Tank Background- 2 Sided Wallpaper Background 3D Aquarium  Background Sticker Background Poster 10 Gallon Tank- 30x42cm (Style H)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61TQVxDpyIL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 3D Fish Tank Backgrounds for a Natural Habitat | Aquadecor LLC">
+                                <img itemprop="contentUrl url" src='https://aquadecorbackgrounds.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fz-section-image-2.e5371b90.webp&w=3840&q=75' alt='Top 3D Fish Tank Backgrounds for a Natural Habitat | Aquadecor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="aquadecorbackgrounds.com" />
+                                </span>
+                                <a href='https://aquadecorbackgrounds.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fz-section-image-2.e5371b90.webp&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy Tank Stock Illustrations – 15,333 Heavy Tank Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/heavy-tank-desert-d-illustration-cg-high-resolution-348837012.jpg' alt='Heavy Tank Stock Illustrations – 15,333 Heavy Tank Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/heavy-tank-desert-d-illustration-cg-high-resolution-348837012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Octane Renderers 3d Tank In Action Realistic Combat Scene With ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202405/octane-renderers-3d-tank-in-action-realistic-combat-scene-with-rendering_9792410.jpg!sw800' alt='Octane Renderers 3d Tank In Action Realistic Combat Scene With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202405/octane-renderers-3d-tank-in-action-realistic-combat-scene-with-rendering_9792410.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocky 3D Background - Castle Rock Grey">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2107/0905/files/Rocky-Tank.JPG?10797776690870192554' alt='Rocky 3D Background - Castle Rock Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Fish Stuff" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2107/0905/files/Rocky-Tank.JPG?10797776690870192554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish tank background, high-definition image, 3D three-dimensional fish tank  wallpaper background painting, double-sided aquarium decoration fish tank  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71olbJPnrrL._AC_UF1000,1000_QL80_.jpg' alt='Fish tank background, high-definition image, 3D three-dimensional fish tank  wallpaper background painting, double-sided aquarium decoration fish tank  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71olbJPnrrL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

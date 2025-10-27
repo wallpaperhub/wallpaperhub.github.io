@@ -1,0 +1,129 @@
+<title>Best Backgrounds for Sorcerers in BG3</title>
+                    <meta name="description" content="Discover the top backgrounds for sorcerers in Baldur's Gate 3! Learn how to enhance your gameplay and character story with the perfect background choices for your magical journey.">
+                    <meta name="keywords" content="best background for sorcerer bg3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-background-for-sorcerer-bg3">
+                            <span itemprop="name">best background for sorcerer bg3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Backgrounds for Sorcerers in BG3</h1>
+                <p>In Baldur's Gate 3, choosing the right background for your sorcerer can enhance your gameplay and storytelling. The Clan Crafter, for instance, grants proficiency in tools and allows for a deeper connection to the game world, while the Sage background offers Insight and Arcana skills that complement your magical abilities. Ultimately, select a background that aligns with your character's narrative!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Sorcerer build">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-sorcerer-build-abilities.jpg' alt='Best Baldur's Gate 3 Sorcerer build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-sorcerer-build-abilities.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Sorcerer Class Build">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/baldurs-gate-3-best-bg3-sorcerer-class-build-guide.jpg' alt='Baldur's Gate 3: Best Sorcerer Class Build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/baldurs-gate-3-best-bg3-sorcerer-class-build-guide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Sorcerer build in Baldur's Gate 3: Race, skills, subclass ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/02/baldurs-gate-3-sorcerer-build.jpg' alt='Best Sorcerer build in Baldur's Gate 3: Race, skills, subclass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/02/baldurs-gate-3-sorcerer-build.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Backgrounds To Pick In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-bard-with-persuasion-proficiency-from-guild-artisan-background-in-character-creator.jpg' alt='7 Best Backgrounds To Pick In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-bard-with-persuasion-proficiency-from-guild-artisan-background-in-character-creator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Sorcerer Draconic Bloodline Build Guide ...">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/10/Best-Draconic-Bloodline-Sorcerer-Skills.jpg' alt='Best Baldur's Gate 3 Sorcerer Draconic Bloodline Build Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/10/Best-Draconic-Bloodline-Sorcerer-Skills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Background for BG3? Ranked : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-background-for-bg3-ranked-v0-dxner2pxxamc1.jpg?width=1536&format=pjpg&auto=webp&s=acb3ea53cc2147bc4953603be8dc0625c44ef983' alt='Best Background for BG3? Ranked : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-background-for-bg3-ranked-v0-dxner2pxxamc1.jpg?width=1536&format=pjpg&auto=webp&s=acb3ea53cc2147bc4953603be8dc0625c44ef983' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Backgrounds To Pick In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-1.jpg' alt='7 Best Backgrounds To Pick In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Backgrounds To Pick In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-dark-urge-sorcerer-with-intimidation-proficiency-fromhaunted-one-background-in-character-creator.jpg' alt='7 Best Backgrounds To Pick In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-dark-urge-sorcerer-with-intimidation-proficiency-fromhaunted-one-background-in-character-creator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Sorcerer Class Build">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/sorcerer.jpg' alt='Baldur's Gate 3: Best Sorcerer Class Build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/sorcerer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Background for BG3? Ranked : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-background-for-bg3-ranked-v0-fauyjmwiyamc1.jpg?width=1536&format=pjpg&auto=webp&s=5af0d593a85e45c7b524d7806927136ee19e7171' alt='Best Background for BG3? Ranked : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-background-for-bg3-ranked-v0-fauyjmwiyamc1.jpg?width=1536&format=pjpg&auto=webp&s=5af0d593a85e45c7b524d7806927136ee19e7171' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Windows Live Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Elevate your desktop with mesmerizing 4K Windows live wallpapers. Discover vibrant and animated themes that breathe life into your workspace. Perfect for adding a personal touch while enjoying high-resolution visuals. Download now to enhance your digital experience!">
+                    <meta name="keywords" content="windows live wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-live-wallpaper-4k">
+                            <span itemprop="name">windows live wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Windows Live Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop with stunning 4K Windows live wallpapers. Experience breathtaking visuals that reflect your style and enhance your workspace. Whether you prefer serene landscapes, vibrant cityscapes, or animated themes, 4K live wallpapers bring your screen to life. Discover a collection that captivates and inspires!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/3163534/free-video-3163534.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Windows 10 Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/3163534/free-video-3163534.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/960x540/media/715/windows-11.jpg' alt='Windows 11 Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/960x540/media/715/windows-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="animated wallpaper windows 10">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/13/d3/ed/13d3ed665be8587907f905d1d18c236a.jpg' alt='animated wallpaper windows 10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/13/d3/ed/13d3ed665be8587907f905d1d18c236a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers and Screen Savers for Windows 11,10,8.1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/ef/df/74efdf982f634960200af9d3fc4d0358.jpg' alt='Live Wallpapers and Screen Savers for Windows 11,10,8.1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/ef/df/74efdf982f634960200af9d3fc4d0358.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Live Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/silver-sports-car-live-desktop-tf8h503aalgq8a6n.jpg' alt='100+] Live Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/silver-sports-car-live-desktop-tf8h503aalgq8a6n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/ac/7b/5cac7b24a26c09f3b9c4f4cdee94a06c.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/ac/7b/5cac7b24a26c09f3b9c4f4cdee94a06c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6780+ Live Wallpapers 4K - Free Animated Wallpapers for PC">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' alt='6780+ Live Wallpapers 4K - Free Animated Wallpapers for PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="motionbgs.com" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1397/goku-ultra-instinct_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Best Ultra HD Live Wallpapers (2024 Edition) - Tech Rifle">
+                                <img itemprop="contentUrl url" src='https://techrifle.com/wp-content/uploads/2023/12/Spider-Man-Across-the-Spider-Verse-Live-Wallpaper.webp' alt='25 Best Ultra HD Live Wallpapers (2024 Edition) - Tech Rifle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Rifle" />
+                                </span>
+                                <a href='https://techrifle.com/wp-content/uploads/2023/12/Spider-Man-Across-the-Spider-Verse-Live-Wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper, Sea, Water">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2022/04/02/112722-695433093_tiny.jpg' alt='Live Wallpaper, Sea, Water'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2022/04/02/112722-695433093_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper for Windows 11 PC (2023)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5t1lHVcwNwc/maxresdefault.jpg' alt='Live Wallpaper for Windows 11 PC (2023)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5t1lHVcwNwc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

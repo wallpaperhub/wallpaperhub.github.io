@@ -1,0 +1,129 @@
+<title>Smiley Face Wallpaper for iPhone: Fun & Cheerful Designs</title>
+                    <meta name="description" content="Discover the perfect smiley face wallpaper for your iPhone! Our collection features fun, vibrant designs that elevate your device's look and spread positivity. Find your favorite smiley wallpaper today and enjoy a daily dose of joy with every glance at your screen!">
+                    <meta name="keywords" content="smiley face wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/smiley-face-wallpaper-iphone">
+                            <span itemprop="name">smiley face wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smiley Face Wallpaper for iPhone: Fun & Cheerful Designs</h1>
+                <p>Brighten up your iPhone with cheerful smiley face wallpaper! Perfect for adding a touch of fun and positivity to your device, these vibrant designs range from classic yellow smileys to creative patterns. Choose your favorite to reflect your personality and uplift your mood every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' alt='Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper Smiley Face Minimalist Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0f3f59/4508331201/il_570xN.4508331201_scgc.jpg' alt='IPhone Wallpaper Smiley Face Minimalist Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0f3f59/4508331201/il_570xN.4508331201_scgc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Face iPhone Wallpaper — Go Cozy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60da7ecf0b0805536f6fb2cd/1674076761877-JSHZ4M2A62IKCRALWMGJ/Smile+Face+iPhone+Wallpaper-4.png?format=1000w' alt='Pink Smiley Face iPhone Wallpaper — Go Cozy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Go Cozy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60da7ecf0b0805536f6fb2cd/1674076761877-JSHZ4M2A62IKCRALWMGJ/Smile+Face+iPhone+Wallpaper-4.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Smiley Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b5/d9/13/b5d9137a85e6dee25c369cdf24c78904.jpg' alt='iPhone Smiley Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b5/d9/13/b5d9137a85e6dee25c369cdf24c78904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cute Smiley Face Wallpapers 1920/1080 Iphone/android Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42824747/r/il/90d86f/4872433587/il_570xN.4872433587_4dut.jpg' alt='10 Cute Smiley Face Wallpapers 1920/1080 Iphone/android Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42824747/r/il/90d86f/4872433587/il_570xN.4872433587_4dut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/10/66/db10660c0e032b07206fec184b3d61b0.jpg' alt='Smiley Face Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/10/66/db10660c0e032b07206fec184b3d61b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smileys, 2021, iphone, smiley, trippy, yellow, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/804/662/HD-wallpaper-smileys-2021-iphone-smiley-trippy-yellow.jpg' alt='Smileys, 2021, iphone, smiley, trippy, yellow, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/804/662/HD-wallpaper-smileys-2021-iphone-smiley-trippy-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Smiley Face Blue Wallpapers - Indie Smiley Face Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/05/simple-smiley-face-blue-wallpaper-scaled.jpg' alt='Simple Smiley Face Blue Wallpapers - Indie Smiley Face Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/05/simple-smiley-face-blue-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper- smiley face- boho- hippie -wallpaper for ios">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0f9b94/4506069099/il_570xN.4506069099_5prn.jpg' alt='iPhone wallpaper- smiley face- boho- hippie -wallpaper for ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0f9b94/4506069099/il_570xN.4506069099_5prn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Minimalist Yellow Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/smiley-face-minimalist-yellow-xg4e3u8g2vpd43hr.jpg' alt='Smiley Face Minimalist Yellow Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/smiley-face-minimalist-yellow-xg4e3u8g2vpd43hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

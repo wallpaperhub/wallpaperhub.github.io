@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Brown and White Cows</title>
+                    <meta name="description" content="Explore the world of brown and white cows, celebrated for their charm and utility in agriculture. Learn about their role in dairy and beef production, their temperament, and why they are favored by farmers. Perfect for enthusiasts and those curious about livestock.">
+                    <meta name="keywords" content="brown and white cow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-and-white-cow">
+                            <span itemprop="name">brown and white cow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Brown and White Cows</h1>
+                <p>Brown and white cows, often known as Herefords or Holsteins, are iconic in the farming landscape. Their striking coloration contrasts beautifully against lush pastures. Known for their docile nature and good temperament, they play a crucial role in dairy and beef production. Their rich milk and quality meat make them valuable assets to farmers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,100+ Brown And White Cow Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/496397741/photo/typical-dutch-red-and-white-milk-cow.jpg?s=612x612&w=0&k=20&c=juTog_zRhJIQa0sOUcwk5WH1AM3PRxhlvsIm4dywzK8=' alt='26,100+ Brown And White Cow Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/496397741/photo/typical-dutch-red-and-white-milk-cow.jpg?s=612x612&w=0&k=20&c=juTog_zRhJIQa0sOUcwk5WH1AM3PRxhlvsIm4dywzK8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and White Cow in Pasture | Free Animal Picture by picjumbo">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/picjumbo.com/wp-content/uploads/brown-and-white-cow-in-pasture.jpg?w=2210&quality=70' alt='Brown and White Cow in Pasture | Free Animal Picture by picjumbo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2210">
+                                <meta itemprop="height" content="1473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picjumbo" />
+                                </span>
+                                <a href='https://i0.wp.com/picjumbo.com/wp-content/uploads/brown-and-white-cow-in-pasture.jpg?w=2210&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,100+ Brown And White Cow Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/106430069/photo/profile-of-holstein-cow-4-years-old-standing.jpg?s=612x612&w=0&k=20&c=TbHTYqJnP6McvOPSv-qZKh5p1vVppsmyIXj5qpPPOlE=' alt='26,100+ Brown And White Cow Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/106430069/photo/profile-of-holstein-cow-4-years-old-standing.jpg?s=612x612&w=0&k=20&c=TbHTYqJnP6McvOPSv-qZKh5p1vVppsmyIXj5qpPPOlE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Dairy Cow | American Dairy Association NE">
+                                <img itemprop="contentUrl url" src='https://www.americandairy.com/wp-content/uploads/2021/04/Red-and-White-Holstein-e1622648305535.jpg' alt='Types of Dairy Cow | American Dairy Association NE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1786">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Dairy Association North East" />
+                                </span>
+                                <a href='https://www.americandairy.com/wp-content/uploads/2021/04/Red-and-White-Holstein-e1622648305535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Young spotted white-brown dairy cow on a green meadow in a sunny ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RA7R81/young-spotted-white-brown-dairy-cow-on-a-green-meadow-in-a-sunny-day-copy-space-RA7R81.jpg' alt='Young spotted white-brown dairy cow on a green meadow in a sunny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RA7R81/young-spotted-white-brown-dairy-cow-on-a-green-meadow-in-a-sunny-day-copy-space-RA7R81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types Of Cows – DairyPesa">
+                                <img itemprop="contentUrl url" src='http://www.dairypesa.com/wp-content/uploads/2015/10/MILKING-SHORTHORN.jpg' alt='Types Of Cows – DairyPesa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DairyPesa" />
+                                </span>
+                                <a href='http://www.dairypesa.com/wp-content/uploads/2015/10/MILKING-SHORTHORN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free photo: Brown and white cow | PickPik">
+                                <img itemprop="contentUrl url" src='https://i1.pickpik.com/photos/948/849/114/cow-brown-white-spotted-fur-4646a39852cca6cc236440a282cf609d.jpg' alt='Royalty-Free photo: Brown and white cow | PickPik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3259">
+                                <meta itemprop="height" content="3258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PickPik" />
+                                </span>
+                                <a href='https://i1.pickpik.com/photos/948/849/114/cow-brown-white-spotted-fur-4646a39852cca6cc236440a282cf609d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to British cattle breeds: common cow breeds and how to ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/47/2018/09/GettyImages-466315926-9cc31f2.jpg?webp=1&w=1200' alt='Guide to British cattle breeds: common cow breeds and how to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Countryfile.com" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/47/2018/09/GettyImages-466315926-9cc31f2.jpg?webp=1&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and white cow stock image. Image of dairy, agriculture - 9952353">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/brown-white-cow-9952353.jpg' alt='Brown and white cow stock image. Image of dairy, agriculture - 9952353'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/brown-white-cow-9952353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to identify common breeds of dairy cattle - Farm and Dairy">
+                                <img itemprop="contentUrl url" src='http://d27p2a3djqwgnt.cloudfront.net/wp-content/uploads/2017/06/06050026/farm-1125870_1280.jpg' alt='How to identify common breeds of dairy cattle - Farm and Dairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Farm and Dairy" />
+                                </span>
+                                <a href='http://d27p2a3djqwgnt.cloudfront.net/wp-content/uploads/2017/06/06050026/farm-1125870_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

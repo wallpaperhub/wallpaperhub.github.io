@@ -1,0 +1,129 @@
+<title>Charming Sunflower Templates for Every Occasion</title>
+                    <meta name="description" content="Discover stunning sunflower templates ideal for crafts, invitations, and more. Customize these cheerful designs for any occasion and bring a touch of brightness to your projects. Perfect for weddings, parties, or casual events, our templates are easy to use and enhance your creative flair!">
+                    <meta name="keywords" content="sunflower template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunflower-template">
+                            <span itemprop="name">sunflower template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Sunflower Templates for Every Occasion</h1>
+                <p>Sunflower templates are versatile designs that celebrate the beauty and symbolism of sunflowers. Perfect for crafts, invitations, and digital projects, these templates can be customized to fit any occasion. Whether creating wedding invites or party decorations, sunflower templates add a cheerful touch to your designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Template — Wood Burn Corner">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c34395f506fbe3e05554f9e/1687271989401-BTXT14L00I60QI6C4GR7/Untitled_Artwork+56.png?format=1500w' alt='Sunflower Template — Wood Burn Corner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wood Burn Corner" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c34395f506fbe3e05554f9e/1687271989401-BTXT14L00I60QI6C4GR7/Untitled_Artwork+56.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/bd/fa/c0bdfafe38e9050dd1119940b57200e5.jpg' alt='Sunflowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/bd/fa/c0bdfafe38e9050dd1119940b57200e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Best Sunflower Templates - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/02/Free-Sunflower-Templates.png' alt='40 Best Sunflower Templates - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/02/Free-Sunflower-Templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Writing Template (teacher made) - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/58/1c/t-e-1718695626-sunflower-writing-template_ver_1.jpg' alt='Sunflower Writing Template (teacher made) - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/58/1c/t-e-1718695626-sunflower-writing-template_ver_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Template - Superstar Worksheets">
+                                <img itemprop="contentUrl url" src='https://superstarworksheets.com/wp-content/uploads/2023/02/SunflowerTemplate.jpg' alt='Sunflower Template - Superstar Worksheets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Superstar Worksheets" />
+                                </span>
+                                <a href='https://superstarworksheets.com/wp-content/uploads/2023/02/SunflowerTemplate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Simple Sunflower Outline | Just Family Fun">
+                                <img itemprop="contentUrl url" src='https://justfamilyfun.com/wp-content/uploads/2022/05/3-8.jpg' alt='Printable Simple Sunflower Outline | Just Family Fun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JustFamilyFun" />
+                                </span>
+                                <a href='https://justfamilyfun.com/wp-content/uploads/2022/05/3-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Sunflower Pdf Template -">
+                                <img itemprop="contentUrl url" src='https://simplecraftyfun.com/wp-content/uploads/2023/12/Sunflower-Large-Big-Petals.jpg' alt='Free Printable Sunflower Pdf Template -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- Simple Crafts and Printables" />
+                                </span>
+                                <a href='https://simplecraftyfun.com/wp-content/uploads/2023/12/Sunflower-Large-Big-Petals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Sunflower Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/c1/5d/c3c15d33175742a1742b9eefdf3c6e96.jpg' alt='Printable Sunflower Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/c1/5d/c3c15d33175742a1742b9eefdf3c6e96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Template – Large">
+                                <img itemprop="contentUrl url" src='https://static.moreprintabletreats.com/0fi/sunflower-template-large-free.jpg' alt='Sunflower Template – Large'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="More Printable Treats.com" />
+                                </span>
+                                <a href='https://static.moreprintabletreats.com/0fi/sunflower-template-large-free.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Printables {Free Downloads} - Add A Little Adventure">
+                                <img itemprop="contentUrl url" src='https://addalittleadventure.com/wp-content/uploads/2022/06/Medium-Sunflower-Templates-791x1024.jpg' alt='Sunflower Printables {Free Downloads} - Add A Little Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Add A Little Adventure" />
+                                </span>
+                                <a href='https://addalittleadventure.com/wp-content/uploads/2022/06/Medium-Sunflower-Templates-791x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

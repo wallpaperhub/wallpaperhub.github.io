@@ -1,0 +1,129 @@
+<title>Explore the Outlander Background in D&D 5E</title>
+                    <meta name="description" content="Discover the Outlander background for D&D 5E! Learn how to enhance your character with survival skills, wilderness lore, and unique traits that reflect a life lived in the wild. Perfect for adventurers looking to connect deeply with nature and their roots.">
+                    <meta name="keywords" content="outlander background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/outlander-background-5e">
+                            <span itemprop="name">outlander background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Outlander Background in D&D 5E</h1>
+                <p>In Dungeons & Dragons 5th Edition, Outlander is a background perfect for players who want to portray a character shaped by harsh wilderness experiences. Outlanders often have a deep connection to nature, survival skills, and a rich history with their homeland. They can come from various tribes or nomadic lifestyles, making them versatile adventurers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlander 5e DnD Background - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2019/01/Outlander-background.png' alt='Outlander 5e DnD Background - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2019/01/Outlander-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanding 5E D&D Background Characteristics — Outlander – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/07/mtg-intrepid-outlander-5E-DD-background.png?fit=386%2C275&ssl=1' alt='Expanding 5E D&D Background Characteristics — Outlander – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/07/mtg-intrepid-outlander-5E-DD-background.png?fit=386%2C275&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlander Background in DnD 5e: How to Build Your Character ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/33/5e/9c335e5b8edc468888eee37120e8e079.jpg' alt='Outlander Background in DnD 5e: How to Build Your Character ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/33/5e/9c335e5b8edc468888eee37120e8e079.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Outlander Background - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/09/Outlander-Background-5e-Elves-1024x692-1.jpeg' alt='Exploring the Outlander Background - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/09/Outlander-Background-5e-Elves-1024x692-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlander 5e DnD Background - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2023/08/Screen-Shot-2024-03-15-at-10.52.21-AM.png' alt='Outlander 5e DnD Background - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1043">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2023/08/Screen-Shot-2024-03-15-at-10.52.21-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Outlander Background - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2020/04/Webp.net-resizeimage-6.jpg' alt='Exploring the Outlander Background - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2020/04/Webp.net-resizeimage-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e Class) The Outlander v1.5 by Luna Os Longscape | A brand new ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/08t0qz5z9ih61.png' alt='5e Class) The Outlander v1.5 by Luna Os Longscape | A brand new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/08t0qz5z9ih61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D Backgrounds: Outlander | Nerdologists">
+                                <img itemprop="contentUrl url" src='http://nerdologists.com/wp-content/uploads/2018/01/Ranger.png' alt='D&D Backgrounds: Outlander | Nerdologists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdologists" />
+                                </span>
+                                <a href='http://nerdologists.com/wp-content/uploads/2018/01/Ranger.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlander Background in 5E: Features, Traits & Narrative Explanation">
+                                <img itemprop="contentUrl url" src='https://session0studios.com/wp-content/uploads/2023/03/idTkr9PuDQNMQuUfonH0-1-8pubo.jpg' alt='Outlander Background in 5E: Features, Traits & Narrative Explanation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Session 0 Studios" />
+                                </span>
+                                <a href='https://session0studios.com/wp-content/uploads/2023/03/idTkr9PuDQNMQuUfonH0-1-8pubo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Outlander | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/8vYVQvz.jpg' alt='The Outlander | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/8vYVQvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

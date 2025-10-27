@@ -1,0 +1,129 @@
+<title>Cute Gore Wallpaper: Adorable Meets Macabre</title>
+                    <meta name="description" content="Explore a unique collection of cute gore wallpapers that blend the adorable with the eerie. Perfect for expressing your unique style, these wallpapers add a fun twist to your device's look. Transform your screens with charming yet spooky designs that capture the imagination!">
+                    <meta name="keywords" content="cute gore wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-gore-wallpaper">
+                            <span itemprop="name">cute gore wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Gore Wallpaper: Adorable Meets Macabre</h1>
+                <p>Discover the enchanting world of cute gore wallpaper, where adorable characters meet macabre themes! Perfect for those who appreciate a blend of spooky and sweet, these wallpapers feature charming illustrations with a twisted twist. Transform your device's aesthetic with this whimsical yet edgy style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7910988/p/f/m/SkA9Jk5dBITJ1UOK5pkIjTZ4c2O9pee25RMGw3oQcFFfprt7NwG_Ew/Purple%20Creepy%20Cute%20Teddy%20Bears%20by%20FrostedSoSweet.jpg' alt='Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7910988/p/f/m/SkA9Jk5dBITJ1UOK5pkIjTZ4c2O9pee25RMGw3oQcFFfprt7NwG_Ew/Purple%20Creepy%20Cute%20Teddy%20Bears%20by%20FrostedSoSweet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10430181/p/f/m/WbBiXcb9FheLsJ3yPw5eXgzVQMvyxaGkR4_6462KqxxIuaca1wkBFNvTww/Large%20Ouch%20Nurse%20Stuffies%20on%20Dark.jpg' alt='Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10430181/p/f/m/WbBiXcb9FheLsJ3yPw5eXgzVQMvyxaGkR4_6462KqxxIuaca1wkBFNvTww/Large%20Ouch%20Nurse%20Stuffies%20on%20Dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Guts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2211439/p/f/m/wGEXGC2kaiWlU5lHrSn6kXI_XMMHH8w5u2R4meaKvFivLpIDn-6gaQ/Guts%20Print.jpg' alt='Blood Guts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2211439/p/f/m/wGEXGC2kaiWlU5lHrSn6kXI_XMMHH8w5u2R4meaKvFivLpIDn-6gaQ/Guts%20Print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutegore Wallpaper Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/63/ca/92/63ca927a2ea575982bebe6cf78043f07.jpg' alt='Cutegore Wallpaper Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/63/ca/92/63ca927a2ea575982bebe6cf78043f07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/cc/67/01cc675ec8e7a4ac77dd7d488c8b2cb2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/cc/67/01cc675ec8e7a4ac77dd7d488c8b2cb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9116816/p/f/m/B_d93oGIDYoIxnLGoKECd6w6KFnQY1szr0E3ij3sN420f6LDOphY7FQ_/Ouch%20Help%20Stuffies%20on%20Gray%20Plum.jpg' alt='Cute Gore Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9116816/p/f/m/B_d93oGIDYoIxnLGoKECd6w6KFnQY1szr0E3ij3sN420f6LDOphY7FQ_/Ouch%20Help%20Stuffies%20on%20Gray%20Plum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Why2K by Miranda Parkin on Amazon Music">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51OwrvXwWLL._UXNaN_FMjpg_QL85_.jpg' alt='Play Why2K by Miranda Parkin on Amazon Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51OwrvXwWLL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/98/10/c19810e357d0da16d6bafd853a89acf4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/98/10/c19810e357d0da16d6bafd853a89acf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Cute Pastel Goth Clipart, Creepy and Cute Digital Stickers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39637301/r/il/fdd846/4561992247/il_fullxfull.4561992247_hqor.jpg' alt='Stay Cute Pastel Goth Clipart, Creepy and Cute Digital Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39637301/r/il/fdd846/4561992247/il_fullxfull.4561992247_hqor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutegore/kawaiigore Wallpaper collage by MizzyDizzyy on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/745587ab-13f1-406a-a396-50bc27a6db82/dgwr4bg-128469b2-1e38-4ea5-a4c1-96c7112d7a02.jpg/v1/fill/w_1280,h_960,q_75,strp/cutegore_kawaiigore_wallpaper_collage_by_mizzydizzyy_dgwr4bg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNzQ1NTg3YWItMTNmMS00MDZhLWEzOTYtNTBiYzI3YTZkYjgyXC9kZ3dyNGJnLTEyODQ2OWIyLTFlMzgtNGVhNS1hNGMxLTk2YzcxMTJkN2EwMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lx3Sdu7m1OVi5NgC3lD9WM7zZZH9mt2vS1QsMvH4Dto' alt='Cutegore/kawaiigore Wallpaper collage by MizzyDizzyy on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/745587ab-13f1-406a-a396-50bc27a6db82/dgwr4bg-128469b2-1e38-4ea5-a4c1-96c7112d7a02.jpg/v1/fill/w_1280,h_960,q_75,strp/cutegore_kawaiigore_wallpaper_collage_by_mizzydizzyy_dgwr4bg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNzQ1NTg3YWItMTNmMS00MDZhLWEzOTYtNTBiYzI3YTZkYjgyXC9kZ3dyNGJnLTEyODQ2OWIyLTFlMzgtNGVhNS1hNGMxLTk2YzcxMTJkN2EwMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lx3Sdu7m1OVi5NgC3lD9WM7zZZH9mt2vS1QsMvH4Dto' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

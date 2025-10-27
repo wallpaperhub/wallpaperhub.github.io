@@ -1,0 +1,129 @@
+<title>Stunning Telescope Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Discover high-quality telescope images with transparent backgrounds, perfect for your projects! Ideal for educators, artists, and astronomy fans, these visuals enhance presentations and web designs. Elevate your creativity and showcase the universe like never before!">
+                    <meta name="keywords" content="telescope transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/telescope-transparent-background">
+                            <span itemprop="name">telescope transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Telescope Images with Transparent Backgrounds</h1>
+                <p>Explore the wonders of the universe with our telescope graphics featuring a transparent background. Perfect for educational projects, web design, or creative arts, these images make it easy to showcase celestial beauty without distracting backgrounds. Ideal for artists, educators, and astronomy enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope isolated on transparent background | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/telescope-isolated-transparent-background_191095-32848.jpg' alt='Telescope isolated on transparent background | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/telescope-isolated-transparent-background_191095-32848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope Transparent Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/20253' alt='Telescope Transparent Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4892">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/20253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic black telescope, side view. 3d rendering. PNG icon on ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/484/909/non_2x/realistic-black-telescope-side-view-3d-rendering-icon-on-transparent-background-png.png' alt='Realistic black telescope, side view. 3d rendering. PNG icon on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/484/909/non_2x/realistic-black-telescope-side-view-3d-rendering-icon-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20200610/ourmid/pngtree-silver-astronomical-telescope-image_2239642.jpg' alt='Telescope PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20200610/ourmid/pngtree-silver-astronomical-telescope-image_2239642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope Transparent PNG Clip Art​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/16015' alt='Telescope Transparent PNG Clip Art​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6544">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/16015' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d telescope on a transparent background model - TurboSquid ...">
+                                <img itemprop="contentUrl url" src='https://p.turbosquid.com/ts-thumb/E5/ruwji8/Ph/product/jpg/1645191477/600x600/fit_q87/c2ddfeaa4e9bc5c5e56e114233ccf12bca7a9bc8/product.jpg' alt='3d telescope on a transparent background model - TurboSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TurboSquid" />
+                                </span>
+                                <a href='https://p.turbosquid.com/ts-thumb/E5/ruwji8/Ph/product/jpg/1645191477/600x600/fit_q87/c2ddfeaa4e9bc5c5e56e114233ccf12bca7a9bc8/product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope isolated on transparent background | AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/telescope-isolated-transparent-background_191095-24290.jpg' alt='Telescope isolated on transparent background | AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/telescope-isolated-transparent-background_191095-24290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern telescope on transparent background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/34/63/modern-telescope-on-transparent-background-vector-15093463.jpg' alt='Modern telescope on transparent background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/34/63/modern-telescope-on-transparent-background-vector-15093463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope clipart design illustration 9342735 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/342/735/non_2x/telescope-clipart-design-illustration-free-png.png' alt='Telescope clipart design illustration 9342735 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/342/735/non_2x/telescope-clipart-design-illustration-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telescope PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190528/ourmid/pngtree-golden-astronomical-telescope-image_1161310.jpg' alt='Telescope PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190528/ourmid/pngtree-golden-astronomical-telescope-image_1161310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

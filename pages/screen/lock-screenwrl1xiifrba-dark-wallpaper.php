@@ -1,0 +1,129 @@
+<title>Stunning Dark Wallpapers for Your Lock Screen</title>
+                    <meta name="description" content="Discover the perfect dark wallpaper for your lock screen! Personalize your device with sleek designs that reduce eye strain and add a touch of sophistication. Explore a variety of options to find the ideal look for your phone, all optimized for a seamless mobile experience.">
+                    <meta name="keywords" content="lock screen:wrl1xiifrba= dark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screenwrl1xiifrba-dark-wallpaper">
+                            <span itemprop="name">lock screen:wrl1xiifrba= dark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Wallpapers for Your Lock Screen</h1>
+                <p>Enhance your device's aesthetic with a dark wallpaper for your lock screen. A sleek, minimalistic dark design not only looks stunning but also helps reduce eye strain. Create a calm and peaceful ambiance while maintaining the elegance of your phone. Explore a variety of dark wallpapers to personalize your lock screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black lockscreen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/126/HD-wallpaper-locked-amoled-black-draw-gray-iphone-key-lockscreen.jpg' alt='HD black lockscreen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/126/HD-wallpaper-locked-amoled-black-draw-gray-iphone-key-lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made these images my phone wallpaper (black white = lock screen ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ro7rd26kamg61.jpg?width=640&crop=smart&auto=webp&s=40cacff33fdc04ba61723ae12ede06c239e88d84' alt='I made these images my phone wallpaper (black white = lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ro7rd26kamg61.jpg?width=640&crop=smart&auto=webp&s=40cacff33fdc04ba61723ae12ede06c239e88d84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Dark Wallpapers For your iphone Home and Lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/17/29/d9/1729d9e49f07af2e982e0e08bd1b334f.jpg' alt='40+ Dark Wallpapers For your iphone Home and Lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/17/29/d9/1729d9e49f07af2e982e0e08bd1b334f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark lock screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/97/6d/1e976dff75eb650981f1d713fa0f7d08.jpg' alt='Dark lock screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/97/6d/1e976dff75eb650981f1d713fa0f7d08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Lockscreen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10631992.jpg' alt='Dark Lockscreen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10631992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Locked Bit*ch, Lock screen, Locked, SwishSwish, black, dark, funny ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/36/669/HD-wallpaper-locked-bit-ch-lock-screen-locked-swishswish-black-dark-funny-lockscreen-screensaver.jpg' alt='Locked Bit*ch, Lock screen, Locked, SwishSwish, black, dark, funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/36/669/HD-wallpaper-locked-bit-ch-lock-screen-locked-swishswish-black-dark-funny-lockscreen-screensaver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Lockscreen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5021410.jpg' alt='Dark Lockscreen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5021410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Still with you aesthetic dark wallpaper for iphone lock screen and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' alt='Still with you aesthetic dark wallpaper for iphone lock screen and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/66/60/496660c95d793d45a4048c3d79ccd501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black lockscreen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/740/207/HD-wallpaper-locked-lockscreen-background-black-thumbnail.jpg' alt='HD black lockscreen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/740/207/HD-wallpaper-locked-lockscreen-background-black-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Lockscreen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10632009.jpg' alt='Dark Lockscreen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10632009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

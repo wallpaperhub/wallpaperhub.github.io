@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Floral Bird Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of vintage floral bird wallpaper. Perfectly crafted to elevate your home decor, these enchanting designs blend floral elegance with charming bird motifs, creating a warm and inviting atmosphere. Ideal for living rooms, bedrooms, and more, bring a touch of nature indoors with this timeless decor choice.">
+                    <meta name="keywords" content="vintage floral bird wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-floral-bird-wallpaper">
+                            <span itemprop="name">vintage floral bird wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Floral Bird Wallpaper</h1>
+                <p>Vintage floral bird wallpaper brings a whimsical charm to any space, combining delicate floral patterns with vibrant bird motifs. This timeless design adds character, evoking a sense of nostalgia while promoting a connection to nature. Perfect for any room, it effortlessly enhances your decor, making your space feel both cozy and elegant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_fullxfull.6182127339_7u39.jpg' alt='Elegant Bird and Floral Wallpaper Soft Pastel Background, Delicate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/47a1c6/6182127339/il_fullxfull.6182127339_7u39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Floral Vintage Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11708-HDCrop.jpg?v=1673216261' alt='Bird Floral Vintage Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11708-HDCrop.jpg?v=1673216261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' alt='ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper 17.7"x118" Vintage Floral Wallpaper Blossom Branches Bird Floral  Peel and Stick Wallpaper Floral Contact Paper Self Adhesive Removable Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817X9q9V++L._AC_UF894,1000_QL80_.jpg' alt='VaryPaper 17.7"x118" Vintage Floral Wallpaper Blossom Branches Bird Floral  Peel and Stick Wallpaper Floral Contact Paper Self Adhesive Removable Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817X9q9V++L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/Bird-and-Floral-Art-Wallpaper-Mural-Living-Rooms.jpg?v=1721961132&width=1445' alt='Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/Bird-and-Floral-Art-Wallpaper-Mural-Living-Rooms.jpg?v=1721961132&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Green Botanical Bird Wallpaper - Vintage Floral Pattern With ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/949898/6146201461/il_fullxfull.6146201461_e1ml.jpg' alt='Soft Green Botanical Bird Wallpaper - Vintage Floral Pattern With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2214">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/949898/6146201461/il_fullxfull.6146201461_e1ml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/pinkbirds_shopify.jpg?v=1715989899&width=1570' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1570">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/pinkbirds_shopify.jpg?v=1715989899&width=1570' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' alt='Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Little Floral and Birds Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1177630450_crop.jpg' alt='Vintage Little Floral and Birds Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1177630450_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds And Flowers Vintage Art Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/56690/birds_and_flowers_vintage_art_limited.jpg' alt='Birds And Flowers Vintage Art Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/56690/birds_and_flowers_vintage_art_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

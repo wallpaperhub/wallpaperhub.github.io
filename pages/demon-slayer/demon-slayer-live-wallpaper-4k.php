@@ -1,0 +1,129 @@
+<title>Demon Slayer 4K Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Elevate your home screen with high-quality Demon Slayer live wallpapers in 4K. Perfect for fans, these dynamic backgrounds feature stunning visuals of iconic characters and scenes. Download now to enhance your device's aesthetic and immerse yourself in the thrilling world of Demon Slayer!">
+                    <meta name="keywords" content="demon slayer live wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer">
+                            <span itemprop="name">Demon Slayer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer/demon-slayer-live-wallpaper-4k">
+                            <span itemprop="name">demon slayer live wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Slayer 4K Live Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Demon Slayer live wallpapers in 4K quality. Experience the captivating visuals of your favorite characters in dynamic scenes, bringing the epic battles and emotional moments to life right on your screen. Customize your background and immerse yourself in the world of Demon Slayer every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1097/tanjiro-kamado-power.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1097/tanjiro-kamado-power.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Demon Slayer With Effects Live Wallpaper by MotionDesktop">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/iFybUh8EypC8up_n8_-78QdfTyDaXvtC6ko0apAUnOk.png?format=pjpg&auto=webp&s=ea8bad85b71e8c995dcc1e8864f51107fba5c163' alt='HD Demon Slayer With Effects Live Wallpaper by MotionDesktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/iFybUh8EypC8up_n8_-78QdfTyDaXvtC6ko0apAUnOk.png?format=pjpg&auto=webp&s=ea8bad85b71e8c995dcc1e8864f51107fba5c163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer 4k Live Wallpaper | Anime Live Wallpapers - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cijyIsxUmNc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBX4FuTjRqFoUHebgR96VajNFpCLA' alt='Demon Slayer 4k Live Wallpaper | Anime Live Wallpapers - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cijyIsxUmNc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBX4FuTjRqFoUHebgR96VajNFpCLA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="https://i.pinimg.com/originals/72/f6/ee ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/72/f6/ee/72f6ee423fa60f3e069f9e17b57e2697.gif' alt='https://i.pinimg.com/originals/72/f6/ee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/72/f6/ee/72f6ee423fa60f3e069f9e17b57e2697.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Live Wallpaper - Tech Rifle">
+                                <img itemprop="contentUrl url" src='https://techrifle.com/wp-content/uploads/2023/12/Demon-Slayer-Live-Wallpaper.webp' alt='Demon Slayer Live Wallpaper - Tech Rifle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech Rifle" />
+                                </span>
+                                <a href='https://techrifle.com/wp-content/uploads/2023/12/Demon-Slayer-Live-Wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Yoriichi Tsugikuni Demon Slayer - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/g9CqHFK8xXU/maxresdefault.jpg' alt='Live Wallpaper 4K Yoriichi Tsugikuni Demon Slayer - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/g9CqHFK8xXU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro Demon Slayer Live Wallpaper by Favorisxp on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfah2f3-1a339b19-0b60-4a6d-9305-4da926d2c208.jpg' alt='Tanjiro Demon Slayer Live Wallpaper by Favorisxp on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfah2f3-1a339b19-0b60-4a6d-9305-4da926d2c208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Live Wallpaper 4K: Tanjiro and Nezuko">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7452186130600021281&location=0&aid=1988' alt='Demon Slayer Live Wallpaper 4K: Tanjiro and Nezuko'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7452186130600021281&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Demon Slayer Tanjiro Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/69/7e/a4697e59471dfd6013cad6dd60e4232b.jpg' alt='Anime Demon Slayer Tanjiro Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/69/7e/a4697e59471dfd6013cad6dd60e4232b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Giyu Tomioka (Demon Slayer)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ysRb72ghl3A/maxresdefault.jpg' alt='Live Wallpaper 4K Giyu Tomioka (Demon Slayer)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ysRb72ghl3A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

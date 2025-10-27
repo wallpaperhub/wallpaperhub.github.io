@@ -1,0 +1,129 @@
+<title>Patriots iPhone 6 Wallpapers: Show Your Team Spirit!</title>
+                    <meta name="description" content="Discover amazing Patriots wallpapers for your iPhone 6! Perfect for fans looking to enhance their device with vibrant designs featuring the New England Patriots. Download and personalize your phone to showcase your loyalty and enthusiasm for the team, anytime and anywhere!">
+                    <meta name="keywords" content="patriots wallpaper iphone 6">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/patriots-wallpaper-iphone-6">
+                            <span itemprop="name">patriots wallpaper iphone 6</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Patriots iPhone 6 Wallpapers: Show Your Team Spirit!</h1>
+                <p>Show off your team spirit with stunning Patriots wallpapers for your iPhone 6! Dive into the excitement of game day with high-resolution images featuring your favorite players, logo, and iconic moments. Whether you're at home or on the go, these wallpapers will keep you motivated and ready to cheer for the New England Patriots!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official New England Patriots Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/patriots/yepbwqahqtjk4umywcmh.png' alt='Official New England Patriots Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England Patriots" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/patriots/yepbwqahqtjk4umywcmh.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official New England Patriots Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/patriots/anozwktqqkwmrveogyn7.png' alt='Official New England Patriots Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England Patriots" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/patriots/anozwktqqkwmrveogyn7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official New England Patriots Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/patriots/nx3jb0re1uymhsvqstuh.jpg' alt='Official New England Patriots Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England Patriots" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/patriots/nx3jb0re1uymhsvqstuh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Patriots iPhone 6/7/8 Wallpaper | Splash this wa… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4861/46969020501_50834075de_b.jpg' alt='New England Patriots iPhone 6/7/8 Wallpaper | Splash this wa… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4861/46969020501_50834075de_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Patriots iPhone 6 Plus Wallpaper - NFL Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/07/e9/d307e9743be3847d3e90365b751ef357.jpg' alt='New England Patriots iPhone 6 Plus Wallpaper - NFL Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/07/e9/d307e9743be3847d3e90365b751ef357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Tom Brady (New England Patriots) iPhone 6/7/8 Wallpape… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7841/46917136972_3570bce04a_c.jpg' alt='12 Tom Brady (New England Patriots) iPhone 6/7/8 Wallpape… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7841/46917136972_3570bce04a_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "New England Patriots iPhone 6 Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EPleBg5UcAAgs9n.jpg:large' alt='3D iPhone Wallpaper on X: "New England Patriots iPhone 6 Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EPleBg5UcAAgs9n.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6X Superbowl Champions! (Phone Wallpapers in comments) : r/Patriots">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/ahR8DWz.jpg' alt='6X Superbowl Champions! (Phone Wallpapers in comments) : r/Patriots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="4155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/ahR8DWz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A few different patriot themed wallpapers : r/Patriots">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tkql7nvauo771.jpg?width=640&crop=smart&auto=webp&s=464fe5f6ef14f4c769673b9e736330d60549dcab' alt='A few different patriot themed wallpapers : r/Patriots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tkql7nvauo771.jpg?width=640&crop=smart&auto=webp&s=464fe5f6ef14f4c769673b9e736330d60549dcab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Patriots iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1015/779/HD-wallpaper-new-england-patriots-iphone.jpg' alt='New England Patriots iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1015/779/HD-wallpaper-new-england-patriots-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

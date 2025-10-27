@@ -1,0 +1,129 @@
+<title>Top Background Anime: Stunning Visuals that Captivate</title>
+                    <meta name="description" content="Discover the best background anime that combine breathtaking visuals with engaging storytelling. From enchanting landscapes to intricately detailed settings, explore series that enhance your viewing experience and immerse you in their worlds! Perfect for fans who appreciate artistry in animation.">
+                    <meta name="keywords" content="good background anime">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/good-background-anime">
+                            <span itemprop="name">good background anime</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Background Anime: Stunning Visuals that Captivate</h1>
+                <p>When it comes to good background anime, visuals play a crucial role in setting the mood and atmosphere. Series like "Your Name," "A Silent Voice," and "Made in Abyss" excel in creating stunning landscapes and vibrant settings. These anime not only captivate with their stories but also their beautifully crafted backgrounds that bring the world to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Beautiful Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beautiful-anime-6pxtfixyn3ku7622.jpg' alt='200+] Beautiful Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beautiful-anime-6pxtfixyn3ku7622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which anime has the best background art? : r/anime">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/o01oqRr.jpg' alt='Which anime has the best background art? : r/anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/o01oqRr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Beautiful Anime Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/43/e3/b943e3b6eabdd3e31b681ef13a9872a0.jpg' alt='Awesome Beautiful Anime Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/43/e3/b943e3b6eabdd3e31b681ef13a9872a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpapers - Top 85 Best Anime Backgrounds Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/80/7c/a1/807ca16b42e5fe7dc8a5794157076559.png' alt='Anime Wallpapers - Top 85 Best Anime Backgrounds Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/80/7c/a1/807ca16b42e5fe7dc8a5794157076559.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Breathtaking Anime Backgrounds From 17 Different Anime ...">
+                                <img itemprop="contentUrl url" src='https://cdn.myanimelist.net/s/common/uploaded_files/1481780727-4160fc9b6b36880f5c18373532815f0a.gif' alt='60 Breathtaking Anime Backgrounds From 17 Different Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyAnimeList" />
+                                </span>
+                                <a href='https://cdn.myanimelist.net/s/common/uploaded_files/1481780727-4160fc9b6b36880f5c18373532815f0a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Anime Wallpapers on Wallpaper Engine: A Visual Journey ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1610913054739-Z2DKMFOTWB46J8WZLOU7/47.jpg' alt='Best Anime Wallpapers on Wallpaper Engine: A Visual Journey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1309">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1610913054739-Z2DKMFOTWB46J8WZLOU7/47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good, I would like to know how to get wallpapers of 86 of the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x2tdwpqa14w81.png' alt='Good, I would like to know how to get wallpapers of 86 of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x2tdwpqa14w81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Background Images – Browse 560,627 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/08/13/12/360_F_308131267_unLRF2JmPsjjXgrMRaFA3aEnrKa9aUxK.jpg' alt='Anime Background Images – Browse 560,627 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/08/13/12/360_F_308131267_unLRF2JmPsjjXgrMRaFA3aEnrKa9aUxK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,697 Wallpaper Anime Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1625948488/display_1500/stock-photo-dramatic-clouds-pattern-on-a-hill-anime-background-illustration-landscape-1625948488.jpg' alt='28,697 Wallpaper Anime Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1625948488/display_1500/stock-photo-dramatic-clouds-pattern-on-a-hill-anime-background-illustration-landscape-1625948488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cool Anime Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-anime-background-6q7pdl6e8j04mh4h.jpg' alt='200+] Cool Anime Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-anime-background-6q7pdl6e8j04mh4h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

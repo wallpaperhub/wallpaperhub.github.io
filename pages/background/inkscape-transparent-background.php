@@ -1,0 +1,129 @@
+<title>How to Set a Transparent Background in Inkscape</title>
+                    <meta name="description" content="Learn how to create a transparent background in Inkscape with our easy guide. Perfect for designers and artists, this quick tutorial shows you the steps needed to give your artwork a professional finish, allowing for seamless overlays and enhanced digital projects.">
+                    <meta name="keywords" content="inkscape transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/inkscape-transparent-background">
+                            <span itemprop="name">inkscape transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Set a Transparent Background in Inkscape</h1>
+                <p>Inkscape allows you to create stunning graphics with a transparent background, perfect for web design and digital artwork. To achieve this, simply create or open your design, go to File > Document Properties, and adjust the background settings to transparency. This feature helps layer images seamlessly without any white or colored boxes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="inkscape How To Make Background Transparent Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Hs_KVxWYxdw/maxresdefault.jpg' alt='inkscape How To Make Background Transparent Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Hs_KVxWYxdw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create a png with transparent background in inkscape? - Ask ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/BJGOJ.png' alt='How to create a png with transparent background in inkscape? - Ask ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Ubuntu" />
+                                </span>
+                                <a href='https://i.sstatic.net/BJGOJ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create a png with transparent background in inkscape? - Ask ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/Pnn70.png' alt='How to create a png with transparent background in inkscape? - Ask ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Ubuntu" />
+                                </span>
+                                <a href='https://i.sstatic.net/Pnn70.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saving SVG with transparent background in Inkscape - Graphic ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/yaY7c.png' alt='Saving SVG with transparent background in Inkscape - Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/yaY7c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Save A Transparent PNG with Inkscape - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BZolA4wvbJ0/sddefault.jpg' alt='How To Save A Transparent PNG with Inkscape - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BZolA4wvbJ0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inkscape transparent background | how to make transparent background?">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2021/02/Inkscape-transparent-background-output-28.png' alt='Inkscape transparent background | how to make transparent background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2021/02/Inkscape-transparent-background-output-28.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saving a .png file with transparent background - InkscapeForum.com">
+                                <img itemprop="contentUrl url" src='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file5b9c.jpeg' alt='Saving a .png file with transparent background - InkscapeForum.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inkscape" />
+                                </span>
+                                <a href='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file5b9c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inkscape Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/584808f9cef1014c0b5e48f6.png' alt='Inkscape Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/584808f9cef1014c0b5e48f6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="transparency - How can I save an Inkscape png with a transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/i5ORj.png' alt='transparency - How can I save an Inkscape png with a transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/i5ORj.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to remove the background from an image using Inkscape">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QiE5qxw0D4g/maxresdefault.jpg' alt='How to remove the background from an image using Inkscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QiE5qxw0D4g/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning April Background Wallpapers to Refresh Your Device</title>
+                    <meta name="description" content="Explore our collection of beautiful April background wallpapers! Brighten your device with vibrant spring themes, perfect for celebrating the new season. Choose your favorite designs and enjoy a fresh, uplifting aesthetic every day. Download now and bring the joy of April to your screen!">
+                    <meta name="keywords" content="april background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/april-background-wallpaper">
+                            <span itemprop="name">april background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning April Background Wallpapers to Refresh Your Device</h1>
+                <p>Transform your device with stunning April background wallpaper! Celebrate the beauty of spring with vibrant flowers, clear skies, and pastel hues that bring freshness to your screen. Perfect for showcasing the spirit of renewal, these wallpapers will inspire positivity and joy. Update your look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Floral Desktop and iPhone Backgrounds (FREE)">
+                                <img itemprop="contentUrl url" src='http://bit.ly/3K0AdUz' alt='April Floral Desktop and iPhone Backgrounds (FREE)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='http://bit.ly/3K0AdUz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Floral April Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-floral-april-background-spi9z2e3gji7iy3u.jpg' alt='Purple Floral April Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-floral-april-background-spi9z2e3gji7iy3u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April 2021 calendar wallpapers – 30 FREE & cute design options!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2021/03/April2021Wallpapers-Sunday-10.jpg' alt='April 2021 calendar wallpapers – 30 FREE & cute design options!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2021/03/April2021Wallpapers-Sunday-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/04/April-Desktop-Wallpaper-Calendar-Yellow-Background-with-Daisy-Wreath.png' alt='April Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/04/April-Desktop-Wallpaper-Calendar-Yellow-Background-with-Daisy-Wreath.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 - Free and customizable spring desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZyUi6hlg/2/0/1600w/canva-blue-pink-spring-tender-calendar-april-desktop-wallpaper-uv645pynGME.jpg' alt='Page 3 - Free and customizable spring desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZyUi6hlg/2/0/1600w/canva-blue-pink-spring-tender-calendar-april-desktop-wallpaper-uv645pynGME.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Desktop Wallpaper for All Devices | i should be mopping the ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmTA0xTyRXDjNI-VSI9gkRufkmMpPs3DqL39h508PAwTlkU6ClsiK1ymnZTHfBG3IeEKsVM8i2xAcyI1DjPCQlIsdUa7GGcVxM5JV0IMErnOr1MMPerADGABDBPH9L_svWW57nxIHKQ3Nq/s1600/cherry-blossom-desktop-wallpaper.jpg' alt='April Desktop Wallpaper for All Devices | i should be mopping the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="i should be mopping the floor" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmTA0xTyRXDjNI-VSI9gkRufkmMpPs3DqL39h508PAwTlkU6ClsiK1ymnZTHfBG3IeEKsVM8i2xAcyI1DjPCQlIsdUa7GGcVxM5JV0IMErnOr1MMPerADGABDBPH9L_svWW57nxIHKQ3Nq/s1600/cherry-blossom-desktop-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 April Aesthetic ideas | flower aesthetic, aesthetic wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3f/ce/51/3fce51cccc9ac5daa7c5a0e114d4165e.jpg' alt='13 April Aesthetic ideas | flower aesthetic, aesthetic wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3f/ce/51/3fce51cccc9ac5daa7c5a0e114d4165e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] April Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/april-background-0r081qem2j9zkeuq.jpg' alt='200+] April Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/april-background-0r081qem2j9zkeuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, downloadable April 2024 Tech Backgrounds - Inspire to Glow">
+                                <img itemprop="contentUrl url" src='https://inspiretoglow.com/wp-content/uploads/2024/04/Inspire-to-Glow-April-2024-Tech-Backgrounds-1-1170x658.png' alt='Free, downloadable April 2024 Tech Backgrounds - Inspire to Glow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire to Glow" />
+                                </span>
+                                <a href='https://inspiretoglow.com/wp-content/uploads/2024/04/Inspire-to-Glow-April-2024-Tech-Backgrounds-1-1170x658.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn hello april horizontal banner or background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-hello-april-horizontal-banner-background_23-2149255625.jpg' alt='Free Vector | Hand drawn hello april horizontal banner or background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-hello-april-horizontal-banner-background_23-2149255625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

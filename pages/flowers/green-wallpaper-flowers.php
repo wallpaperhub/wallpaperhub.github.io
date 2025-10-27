@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Green Floral Wallpaper</title>
+                    <meta name="description" content="Discover how green floral wallpaper can transform your home into a rejuvenating oasis. Explore vibrant designs that effortlessly merge elegance with a natural touch, perfect for any room. Embrace serenity and style with this stunning décor choice!">
+                    <meta name="keywords" content="green wallpaper flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/green-wallpaper-flowers">
+                            <span itemprop="name">green wallpaper flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Green Floral Wallpaper</h1>
+                <p>Green wallpaper featuring floral designs brings life and vibrancy to any space. With a variety of shades and patterns, these wallpapers can create a serene environment reminiscent of nature. Perfect for living rooms, bedrooms, or even accent walls, green floral wallpaper effortlessly blends aesthetics with tranquility, making your home feel refreshed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Wallpaper - Sage green – shopdous">
+                                <img itemprop="contentUrl url" src='http://shopdous.com/cdn/shop/products/FlowerPowerWall-01_grande.png?v=1626917350' alt='Flower Power Wallpaper - Sage green – shopdous'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shopdous" />
+                                </span>
+                                <a href='http://shopdous.com/cdn/shop/products/FlowerPowerWall-01_grande.png?v=1626917350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_600.jpg' alt='Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers iPhone Android Single Wallpaper | Instant Digital Download |  Lockscreen Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17658636/r/il/811fdb/5981526193/il_570xN.5981526193_4ysn.jpg' alt='Green Flowers iPhone Android Single Wallpaper | Instant Digital Download |  Lockscreen Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17658636/r/il/811fdb/5981526193/il_570xN.5981526193_4ysn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/132/165/HD-wallpaper-flower-green-neon.jpg' alt='Green flower 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/132/165/HD-wallpaper-flower-green-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Flower Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-flower-background-ze00991e4unypoys.jpg' alt='100+] Green Flower Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-flower-background-ze00991e4unypoys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/40/df/2b/40df2b45ef91ca574261d0f2848e2df4.jpg' alt='Green flower 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/40/df/2b/40df2b45ef91ca574261d0f2848e2df4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers Images – Browse 21,306,914 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/67/26/00/360_F_1167260090_DyAFH9AQoChD9zBQdvE1qwvJq3tjTrve.jpg' alt='Green Flowers Images – Browse 21,306,914 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/67/26/00/360_F_1167260090_DyAFH9AQoChD9zBQdvE1qwvJq3tjTrve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green flower wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' alt='Green flower wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/f4/66/87f4665fe5342b146eb034a4ddb04f3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Green Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1688045722767-8d8672f6950b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZsb3dlciUyMGdyZWVufGVufDB8fDB8fHww' alt='Flower Green Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1688045722767-8d8672f6950b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZsb3dlciUyMGdyZWVufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Laptop Background | Cute laptop wallpaper, Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/1e/b6/651eb61305cdeda1a22aa81b24d57756.jpg' alt='Green Floral Laptop Background | Cute laptop wallpaper, Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/1e/b6/651eb61305cdeda1a22aa81b24d57756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Heartstopper iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of beautiful Heartstopper iPhone wallpapers that perfectly capture the essence of love and friendship. Ideal for fans, these vibrant and heartfelt designs will brighten your screen and express your passion for the series. Download now and refresh your mobile look!">
+                    <meta name="keywords" content="heartstopper iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/heartstopper-iphone-wallpaper">
+                            <span itemprop="name">heartstopper iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Heartstopper iPhone Wallpapers for Fans</h1>
+                <p>Transform your iPhone with captivating Heartstopper wallpapers! Celebrate love, friendship, and self-acceptance with stunning visuals featuring your favorite characters. Perfect for any fan, these wallpapers enhance your screen and bring a piece of the Heartstopper universe to your daily life. Download your favorites now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hii!   So, I have a small collection of Heartstopper wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-lee0wvbikcka1.jpg?width=1080&crop=smart&auto=webp&s=e156fd2cf707880c408a78b480e52df7f0c52aa4' alt='Hii!   So, I have a small collection of Heartstopper wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-lee0wvbikcka1.jpg?width=1080&crop=smart&auto=webp&s=e156fd2cf707880c408a78b480e52df7f0c52aa4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/7d/16/e17d1691fa444cc95000547406d836ae.jpg' alt='Heartstopper wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/7d/16/e17d1691fa444cc95000547406d836ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zenith on X: "Time to choose a new wallpaper for my lockscreen ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FRC_l0YWUAAIzv5.jpg:large' alt='Zenith on X: "Time to choose a new wallpaper for my lockscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FRC_l0YWUAAIzv5.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heartstopper wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/f6/e0/e0f6e033ac63b8d32f7714f4e04120da.jpg' alt='heartstopper wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/f6/e0/e0f6e033ac63b8d32f7714f4e04120da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hii!   So, I have a small collection of Heartstopper wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-un87iubikcka1.jpg?width=640&crop=smart&auto=webp&s=1bdaa4a26239d007d8a4f990d44309b7f43ebbef' alt='Hii!   So, I have a small collection of Heartstopper wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-un87iubikcka1.jpg?width=640&crop=smart&auto=webp&s=1bdaa4a26239d007d8a4f990d44309b7f43ebbef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Heartstopper Wallpaper Ideas : Celebrating Love and Friendship ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/heartstopper-wallpaper-1.jpg' alt='14 Heartstopper Wallpaper Ideas : Celebrating Love and Friendship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/heartstopper-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heartstopper wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/4e/08/324e08371249f2f79638dd2f489452ab.jpg' alt='heartstopper wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/4e/08/324e08371249f2f79638dd2f489452ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13887611.jpg' alt='Heartstopper iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13887611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Heartstopper Wallpaper Ideas : Heartstopper on Sky Blue 1 - Fab ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/heartstopper-wallpaper-3.jpg' alt='14 Heartstopper Wallpaper Ideas : Heartstopper on Sky Blue 1 - Fab ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/heartstopper-wallpaper-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hii!   So, I have a small collection of Heartstopper wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-lcgho6bikcka1.jpg?width=1417&format=pjpg&auto=webp&s=5f89d13aed4c74a67237337593ed5cf502cbf28c' alt='Hii!   So, I have a small collection of Heartstopper wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="3462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hii-so-i-have-a-small-collection-of-heartstopper-wallpapers-v0-lcgho6bikcka1.jpg?width=1417&format=pjpg&auto=webp&s=5f89d13aed4c74a67237337593ed5cf502cbf28c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Angie Thomas: Championing Voices Through Powerful Storytelling</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="angie thomas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/angie-thomas">
+                            <span itemprop="name">angie thomas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Angie Thomas: Championing Voices Through Powerful Storytelling</h1>
+                <p>Angie Thomas is an acclaimed author known for her powerful storytelling and insightful exploration of race and identity. Her debut novel, "The Hate U Give," reflects contemporary societal issues and resonated with readers worldwide. Thomas's work continues to inspire discussions around social justice and youth empowerment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angie Thomas">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xuu3iexfiw1t/4UFREzH061f4wd2KiplS3Z/a149c171f5eac8264df34c4ead66fa6b/angie-thomas-author.jpg?w=1333&h=1999&fl=progressive&q=72&fm=jpg' alt='Angie Thomas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="angiethomas.com" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xuu3iexfiw1t/4UFREzH061f4wd2KiplS3Z/a149c171f5eac8264df34c4ead66fa6b/angie-thomas-author.jpg?w=1333&h=1999&fl=progressive&q=72&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angie Thomas - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/Angie_Thomas_on_Valder_Beebe_Show_2019.jpg' alt='Angie Thomas - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/Angie_Thomas_on_Valder_Beebe_Show_2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angie Thomas | Biography, Books, The Hate U Give, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/09/215409-050-798F42A9/American-author-Angie-Thomas-2018.jpg' alt='Angie Thomas | Biography, Books, The Hate U Give, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/09/215409-050-798F42A9/American-author-Angie-Thomas-2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About - Angie Thomas">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xuu3iexfiw1t/4Ck2d7zAt4z1G8xlpOI6mB/98391ec0c2f6dd26fd22d5d409df166f/angie-thomas-blue-full-res-ex-crop.jpg?w=1122&h=817&fl=progressive&q=72&fm=jpg' alt='About - Angie Thomas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="817">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angie Thomas" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xuu3iexfiw1t/4Ck2d7zAt4z1G8xlpOI6mB/98391ec0c2f6dd26fd22d5d409df166f/angie-thomas-blue-full-res-ex-crop.jpg?w=1122&h=817&fl=progressive&q=72&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About - Angie Thomas">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xuu3iexfiw1t/4rmwiu8HGVSxAkN91wk8hi/a3d2fe182ad464b4635daf0ec6701f9b/angie-thomas-quote.jpg?w=969&h=969&fl=progressive&q=72&fm=jpg' alt='About - Angie Thomas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="969">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angie Thomas" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xuu3iexfiw1t/4rmwiu8HGVSxAkN91wk8hi/a3d2fe182ad464b4635daf0ec6701f9b/angie-thomas-quote.jpg?w=969&h=969&fl=progressive&q=72&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newsmaker: Angie Thomas | American Libraries Magazine">
+                                <img itemprop="contentUrl url" src='https://americanlibrariesmagazine.org/wp-content/uploads/2023/04/newsmaker-thomas.jpg' alt='Newsmaker: Angie Thomas | American Libraries Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Libraries Magazine" />
+                                </span>
+                                <a href='https://americanlibrariesmagazine.org/wp-content/uploads/2023/04/newsmaker-thomas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Author of 'The Hate U Give' Angie Thomas discusses racial justice ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/utdailybeacon.com/content/tncms/assets/v3/editorial/4/c2/4c2bdb24-814c-11eb-a3a7-d79366214ee0/6048359652ef3.image.jpg?resize=1200%2C1200' alt='Author of 'The Hate U Give' Angie Thomas discusses racial justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Daily Beacon" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/utdailybeacon.com/content/tncms/assets/v3/editorial/4/c2/4c2bdb24-814c-11eb-a3a7-d79366214ee0/6048359652ef3.image.jpg?resize=1200%2C1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find. Your. Voice. - KUUMBA - Harbourfront Centre">
+                                <img itemprop="contentUrl url" src='https://harbourfrontcentre.com/wp-content/uploads/2023/11/Fix-KUUMBA_Angie-Thomas_PC-Imani-Khayyam_GAI.jpg' alt='Find. Your. Voice. - KUUMBA - Harbourfront Centre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harbourfront Centre" />
+                                </span>
+                                <a href='https://harbourfrontcentre.com/wp-content/uploads/2023/11/Fix-KUUMBA_Angie-Thomas_PC-Imani-Khayyam_GAI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angie Thomas">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xuu3iexfiw1t/6Cxj7FYeAGajJytwlhMoti/9a699036b87f5c16d342c8225f3a1b41/angie-thomas-activist.jpg?w=1708&h=1999&fl=progressive&q=72&fm=jpg' alt='Angie Thomas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="angiethomas.com" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xuu3iexfiw1t/6Cxj7FYeAGajJytwlhMoti/9a699036b87f5c16d342c8225f3a1b41/angie-thomas-activist.jpg?w=1708&h=1999&fl=progressive&q=72&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Even I have my fears': How Angie Thomas and 'The Hate U Give' went ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mississippitoday.org/wp-content/uploads/2018/10/07024415/AP_18290535529259.jpg' alt='Even I have my fears': How Angie Thomas and 'The Hate U Give' went ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mississippi Today" />
+                                </span>
+                                <a href='https://cdn.mississippitoday.org/wp-content/uploads/2018/10/07024415/AP_18290535529259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

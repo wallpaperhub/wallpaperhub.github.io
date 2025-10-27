@@ -1,0 +1,129 @@
+<title>Stunning HSR Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best HSR wallpapers for your phone! Transform your device with visually striking designs that express your style. Perfect for every taste, these wallpapers will refresh your screen and keep it looking modern. Browse now to find your ideal backdrop!">
+                    <meta name="keywords" content="hsr wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/hsr-wallpaper-phone">
+                            <span itemprop="name">hsr wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HSR Wallpapers for Your Phone</h1>
+                <p>Elevate your phone's aesthetic with stunning HSR wallpapers that blend art and technology. Explore a variety of designs featuring vibrant colors and intricate patterns that reflect your personality. Whether you prefer minimalistic themes or bold graphics, there's an HSR wallpaper perfect for making your screen stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What HSR phone wallpapers are y'all using? These are all I need ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-pkliaqybj6ya1.jpeg?width=1932&format=pjpg&auto=webp&s=4cfbc5843c8d2595edbb00d2eb2210757506a159' alt='What HSR phone wallpapers are y'all using? These are all I need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1932">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-pkliaqybj6ya1.jpeg?width=1932&format=pjpg&auto=webp&s=4cfbc5843c8d2595edbb00d2eb2210757506a159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What HSR phone wallpapers are y'all using? These are all I need ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-quh8xwbxm1ya1.jpg?width=1080&format=pjpg&auto=webp&s=179980c2b54e8031567f761a97fb1d1760f4ab68' alt='What HSR phone wallpapers are y'all using? These are all I need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-quh8xwbxm1ya1.jpg?width=1080&format=pjpg&auto=webp&s=179980c2b54e8031567f761a97fb1d1760f4ab68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What HSR phone wallpapers are y'all using? These are all I need ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-i68kj275c3ya1.jpeg?width=825&format=pjpg&auto=webp&s=970c5063616d4aedf3d064551b3c28d4334b1a1f' alt='What HSR phone wallpapers are y'all using? These are all I need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-hsr-phone-wallpapers-are-yall-using-these-are-all-i-v0-i68kj275c3ya1.jpeg?width=825&format=pjpg&auto=webp&s=970c5063616d4aedf3d064551b3c28d4334b1a1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Acheron.full.4143702.png' alt='Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="3850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Acheron.full.4143702.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Firefly.%28Honkai.Star.Rail%29.full.4111675.png' alt='Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Firefly.%28Honkai.Star.Rail%29.full.4111675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firefly Official Phone Wallpaper! Honkai: Star Rail | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2024/06/10/1035091/e443f1a8a05082d2fb98950b09aee813_9102250842880524604.png' alt='Firefly Official Phone Wallpaper! Honkai: Star Rail | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2024/06/10/1035091/e443f1a8a05082d2fb98950b09aee813_9102250842880524604.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Share your HSR wallpaper. Coz everyone (mostly me) needs more of ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/share-your-hsr-wallpaper-coz-everyone-mostly-me-needs-more-v0-9p06hk7c9uza1.jpeg?width=1100&format=pjpg&auto=webp&s=7804e4de58bef7b1f7613a4d71e00c2a206261cd' alt='Share your HSR wallpaper. Coz everyone (mostly me) needs more of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/share-your-hsr-wallpaper-coz-everyone-mostly-me-needs-more-v0-9p06hk7c9uza1.jpeg?width=1100&format=pjpg&auto=webp&s=7804e4de58bef7b1f7613a4d71e00c2a206261cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aventurine (Honkai: Star Rail) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/thumb-1920-1013370.jpg' alt='Aventurine (Honkai: Star Rail) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/thumb-1920-1013370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Share your HSR wallpaper. Coz everyone (mostly me) needs more of ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/share-your-hsr-wallpaper-coz-everyone-mostly-me-needs-more-v0-z859g5uu9tza1.jpeg?width=1100&format=pjpg&auto=webp&s=f70c8762004aff626b7cb467acdbaf0da83330cb' alt='Share your HSR wallpaper. Coz everyone (mostly me) needs more of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/share-your-hsr-wallpaper-coz-everyone-mostly-me-needs-more-v0-z859g5uu9tza1.jpeg?width=1100&format=pjpg&auto=webp&s=f70c8762004aff626b7cb467acdbaf0da83330cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Sparkle.full.4129629.jpg' alt='Honkai Star Rail, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="2994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Sparkle.full.4129629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

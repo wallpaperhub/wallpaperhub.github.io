@@ -1,0 +1,129 @@
+<title>Adorable Pastel Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of cute pastel wallpapers that will brighten your devices! Perfect for those looking to enhance their screens with charming designs and soothing colors. Elevate your digital experience with our delightful selection today!">
+                    <meta name="keywords" content="cute:_757rbppozw= pastel:crzjycec-ua= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute_757rbppozw-pastelcrzjycec-ua-wallpaper">
+                            <span itemprop="name">cute:_757rbppozw= pastel:crzjycec-ua= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel Wallpapers for Your Devices</h1>
+                <p>Transform your digital space with cute pastel wallpapers that add a delightful touch to any screen! Explore a variety of charming designs featuring soft hues and adorable patterns, perfect for expressing your personality. Brighten up your devices and enjoy a calming aesthetic that's both trendy and unique!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen And Bears Cute Pastel Colors Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pusheen-and-bears-cute-pastel-colors-9qxfjzv0m1qaaope.jpg' alt='Pusheen And Bears Cute Pastel Colors Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pusheen-and-bears-cute-pastel-colors-9qxfjzv0m1qaaope.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel cute wallpaper with stars by PunchPlush on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab5d7205-562e-42aa-9b1d-5adfa8eb11ab/di4hcsq-6f087fd0-caaa-47d7-8515-04a53de988de.jpg/v1/fill/w_1600,h_915,q_75,strp/pastel_cute_wallpaper_with_stars__by_punchplush_di4hcsq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiNWQ3MjA1LTU2MmUtNDJhYS05YjFkLTVhZGZhOGViMTFhYlwvZGk0aGNzcS02ZjA4N2ZkMC1jYWFhLTQ3ZDctODUxNS0wNGE1M2RlOTg4ZGUuanBnIiwiaGVpZ2h0IjoiPD05MTUiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9hYjVkNzIwNS01NjJlLTQyYWEtOWIxZC01YWRmYThlYjExYWJcL3B1bmNocGx1c2gtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.LPhuJQ2Kf00OLvb3DN4pp12QrI2oViV7eDqJGQ6Xnpk' alt='pastel cute wallpaper with stars by PunchPlush on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab5d7205-562e-42aa-9b1d-5adfa8eb11ab/di4hcsq-6f087fd0-caaa-47d7-8515-04a53de988de.jpg/v1/fill/w_1600,h_915,q_75,strp/pastel_cute_wallpaper_with_stars__by_punchplush_di4hcsq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiNWQ3MjA1LTU2MmUtNDJhYS05YjFkLTVhZGZhOGViMTFhYlwvZGk0aGNzcS02ZjA4N2ZkMC1jYWFhLTQ3ZDctODUxNS0wNGE1M2RlOTg4ZGUuanBnIiwiaGVpZ2h0IjoiPD05MTUiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9hYjVkNzIwNS01NjJlLTQyYWEtOWIxZC01YWRmYThlYjExYWJcL3B1bmNocGx1c2gtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.LPhuJQ2Kf00OLvb3DN4pp12QrI2oViV7eDqJGQ6Xnpk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Colors HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.jpg' alt='Cute Pastel Colors HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/01/f0/a3/01f0a37e273c4ad5097438003aa256a8.jpg' alt='190 Pastel ideas | iphone wallpaper, wallpaper, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/01/f0/a3/01f0a37e273c4ad5097438003aa256a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pastel star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/f6/f4/91f6f4a8436c854d77ef4dee7856ec35.jpg' alt='Cute pastel star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/f6/f4/91f6f4a8436c854d77ef4dee7856ec35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images By Hotchocolate Drinker On Aesthetic | Pixel Art, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/65/ba/4a65ba9741ccf453acd161ad2f519c58.jpg' alt='Images By Hotchocolate Drinker On Aesthetic | Pixel Art, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/65/ba/4a65ba9741ccf453acd161ad2f519c58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel is a way of life">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/c4/8b/ccc48b8054f5da803622aef3279dcc24.jpg' alt='Pastel is a way of life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/c4/8b/ccc48b8054f5da803622aef3279dcc24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pastel Cute Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-ice-cream-on-pastel-yellow-vgpvgcwhobm3c9p4.jpg' alt='200+] Pastel Cute Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-ice-cream-on-pastel-yellow-vgpvgcwhobm3c9p4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel cute wallpaper with stars by PunchPlush on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab5d7205-562e-42aa-9b1d-5adfa8eb11ab/di4hcrd-f3a6a3da-d5d0-4a18-b38a-dea73b66d8d4.jpg/v1/fill/w_1600,h_915,q_75,strp/pastel_cute_wallpaper_with_stars__by_punchplush_di4hcrd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiNWQ3MjA1LTU2MmUtNDJhYS05YjFkLTVhZGZhOGViMTFhYlwvZGk0aGNyZC1mM2E2YTNkYS1kNWQwLTRhMTgtYjM4YS1kZWE3M2I2NmQ4ZDQuanBnIiwiaGVpZ2h0IjoiPD05MTUiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9hYjVkNzIwNS01NjJlLTQyYWEtOWIxZC01YWRmYThlYjExYWJcL3B1bmNocGx1c2gtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.8RkNnB47aXszQCdI-wMr5pjz3rXuKWuBH3fh0gqyEMM' alt='pastel cute wallpaper with stars by PunchPlush on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab5d7205-562e-42aa-9b1d-5adfa8eb11ab/di4hcrd-f3a6a3da-d5d0-4a18-b38a-dea73b66d8d4.jpg/v1/fill/w_1600,h_915,q_75,strp/pastel_cute_wallpaper_with_stars__by_punchplush_di4hcrd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiNWQ3MjA1LTU2MmUtNDJhYS05YjFkLTVhZGZhOGViMTFhYlwvZGk0aGNyZC1mM2E2YTNkYS1kNWQwLTRhMTgtYjM4YS1kZWE3M2I2NmQ4ZDQuanBnIiwiaGVpZ2h0IjoiPD05MTUiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9hYjVkNzIwNS01NjJlLTQyYWEtOWIxZC01YWRmYThlYjExYWJcL3B1bmNocGx1c2gtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.8RkNnB47aXszQCdI-wMr5pjz3rXuKWuBH3fh0gqyEMM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/28/a0/1428a09fc0102c9f3eab50d204bf4808.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/28/a0/1428a09fc0102c9f3eab50d204bf4808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

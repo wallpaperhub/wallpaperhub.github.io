@@ -1,0 +1,129 @@
+<title>Embrace the Awkward: Cringe Wallpaper Trends</title>
+                    <meta name="description" content="Discover the wacky world of cringe wallpaper! Perfect for those who love unique decor, these designs add humor and character to any room. Explore patterns that spark joy and nostalgia, making your space a conversation starter. Upgrade your walls with cringe-worthy charm today!">
+                    <meta name="keywords" content="cringe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cringe-wallpaper">
+                            <span itemprop="name">cringe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Awkward: Cringe Wallpaper Trends</h1>
+                <p>Cringe wallpaper can transform any space into a quirky and interesting environment. Often featuring bizarre patterns, awkward phrases, or outdated designs, these wallpapers evoke a nostalgic or humorous vibe. Whether you want to make a statement or simply have fun with your decor, cringe wallpaper is sure to spark conversations and smiles!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cringe Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/exaggerated-cringe-face-art-jpg-a3f7gndb61cvkbmw.jpg' alt='100+] Cringe Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/exaggerated-cringe-face-art-jpg-a3f7gndb61cvkbmw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cringe wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/979/707/HD-wallpaper-uhh-this-is-weird-bad-fnf-weird-cringe-thumbnail.jpg' alt='HD cringe wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/979/707/HD-wallpaper-uhh-this-is-weird-bad-fnf-weird-cringe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="myfirstshuffle #funny #cringe #alpha #alphamale #awstenknight">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/49/a0/3d49a0d72c0e42e31fed0ed5025b0eac.jpg' alt='myfirstshuffle #funny #cringe #alpha #alphamale #awstenknight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/49/a0/3d49a0d72c0e42e31fed0ed5025b0eac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Shrek Is Love Cringe Edit Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/funny-shrek-is-love-cringe-edit-j003jf6azt1iorra.jpg' alt='Funny Shrek Is Love Cringe Edit Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/funny-shrek-is-love-cringe-edit-j003jf6azt1iorra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="those cringe wallpapers in 2019-">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/8b/7f/968b7f545367b7a0ae43d4ce06b28083.jpg' alt='those cringe wallpapers in 2019-'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/8b/7f/968b7f545367b7a0ae43d4ce06b28083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how cringe is my phone wallpaper?(from 1-7) : r/YoneMains">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/guz1h7b280o61.jpg' alt='how cringe is my phone wallpaper?(from 1-7) : r/YoneMains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/guz1h7b280o61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have a groomer/furry as my wallpaper, kinda cringe : r/pyrocynical">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wih93lwo31z51.png' alt='I have a groomer/furry as my wallpaper, kinda cringe : r/pyrocynical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wih93lwo31z51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cringe wallpaper☠️  ☠️  ☠️  ☠️  #wallpaper #meme #cringe #funny | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7089069993496792326&location=0&aid=1988' alt='Cringe wallpaper☠️  ☠️  ☠️  ☠️  #wallpaper #meme #cringe #funny | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7089069993496792326&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute aesthetic, cringe, romania, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/543/79/HD-wallpaper-cute-aesthetic-cringe-romania.jpg' alt='Cute aesthetic, cringe, romania, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/543/79/HD-wallpaper-cute-aesthetic-cringe-romania.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cringe Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/41/e4/4041e423aed6916d1f3e3dd57efd075d.jpg' alt='Cringe Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/41/e4/4041e423aed6916d1f3e3dd57efd075d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

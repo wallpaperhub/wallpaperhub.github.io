@@ -1,0 +1,129 @@
+<title>Creative Veterans Day Design Ideas for Commemorating Heroes</title>
+                    <meta name="description" content="Discover unique and creative Veterans Day designs that honor our heroes. Explore patriotic graphics, heartfelt tributes, and inspiring artwork that celebrate the bravery of veterans. Perfect for cards, banners, and more, these designs help raise awareness and show gratitude for their sacrifice.">
+                    <meta name="keywords" content="veterans day designs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/veterans-day-designs">
+                            <span itemprop="name">veterans day designs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Veterans Day Design Ideas for Commemorating Heroes</h1>
+                <p>Veterans Day designs celebrate the bravery and sacrifice of those who served in the military. From patriotic graphics featuring flags and eagles to heartfelt tributes in card designs and banners, these visuals honor the heroes among us. Unique artwork can inspire gratitude and raise awareness of veterans' contributions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Veterans Day Design Illustration By denayunethj | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4174559_0vhvaj1v4xj8bmck36l3up95y4z4gh6olxf20gou_14-veterans-day-design-illustration.jpg' alt='14 Veterans Day Design Illustration By denayunethj | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1171">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4174559_0vhvaj1v4xj8bmck36l3up95y4z4gh6olxf20gou_14-veterans-day-design-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USA Veterans Day Vector Designs Graphic by lawoel · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/09/10/USA-veterans-day-vector-designs-Graphics-5395402-1.jpg' alt='USA Veterans Day Vector Designs Graphic by lawoel · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1948">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/09/10/USA-veterans-day-vector-designs-Graphics-5395402-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Designs Veterans Day Boots and Flag Rice Paper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-uozr16wkly/images/stencil/1280x1280/products/4738/6101/HOLIDAY_0135__06994.1699198909.jpg?c=1' alt='Paper Designs Veterans Day Boots and Flag Rice Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decoupage Queen" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-uozr16wkly/images/stencil/1280x1280/products/4738/6101/HOLIDAY_0135__06994.1699198909.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usa Veteran's day design Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/usa-veteran%27s-day-design-template-b0bdb597060b4c1a53d68fb25c4a1809_screen.jpg?ts=1636305925' alt='Usa Veteran's day design Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/usa-veteran%27s-day-design-template-b0bdb597060b4c1a53d68fb25c4a1809_screen.jpg?ts=1636305925' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Poster Ideas for 2025 | DesignRush">
+                                <img itemprop="contentUrl url" src='https://media.designrush.com/articles/704812/conversions/flat-background-usa-veterans-day-holiday_23-2150825223-details.jpg' alt='Veterans Day Poster Ideas for 2025 | DesignRush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesignRush" />
+                                </span>
+                                <a href='https://media.designrush.com/articles/704812/conversions/flat-background-usa-veterans-day-holiday_23-2150825223-details.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grave Veteran Patriotic: Over 1,505 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/332951330/display_1500/stock-vector-veterans-day-sign-illustration-design-over-a-blank-background-332951330.jpg' alt='Grave Veteran Patriotic: Over 1,505 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/332951330/display_1500/stock-vector-veterans-day-sign-illustration-design-over-a-blank-background-332951330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Veterans Day Design - MasterBundles">
+                                <img itemprop="contentUrl url" src='https://masterbundles.com/wp-content/uploads/2022/12/vintage-usa-flag-2-499.png' alt='Free Veterans Day Design - MasterBundles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MasterBundles" />
+                                </span>
+                                <a href='https://masterbundles.com/wp-content/uploads/2022/12/vintage-usa-flag-2-499.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Poster Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/220036/raw/1eae2b79df688d2863e758cee1e99cc3-veterans-day-poster-design.jpg' alt='Veterans Day Poster Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1494">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/220036/raw/1eae2b79df688d2863e758cee1e99cc3-veterans-day-poster-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thank You: Happy Veterans Day design" Art Board Print for Sale by ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2797205965.0552/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Thank You: Happy Veterans Day design" Art Board Print for Sale by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2797205965.0552/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veterans Day Flags Design-10k+ Best Embroidery Designs">
+                                <img itemprop="contentUrl url" src='https://zdigitizing.net/wp-content/uploads/2023/08/Veterans-Day-K.png' alt='Veterans Day Flags Design-10k+ Best Embroidery Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Machine Embroidery Designs by ZDigitizing" />
+                                </span>
+                                <a href='https://zdigitizing.net/wp-content/uploads/2023/08/Veterans-Day-K.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

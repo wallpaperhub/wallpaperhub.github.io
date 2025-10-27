@@ -1,0 +1,129 @@
+<title>Spongebob Invitations: Dive into Fun Party Planning!</title>
+                    <meta name="description" content="Discover creative Spongebob invitations to kickstart your next party! Perfect for kids and fans of all ages, our vibrant designs will make your event unforgettable. Customize them easily with your party details for a splash of fun!">
+                    <meta name="keywords" content="spongebob invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-invitations">
+                            <span itemprop="name">spongebob invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spongebob Invitations: Dive into Fun Party Planning!</h1>
+                <p>Spongebob invitations are the perfect way to set the tone for your underwater-themed party! Featuring vibrant colors, fun designs, and beloved characters like Patrick and Squidward, these invitations will excite guests of all ages. Customize them with the party details to create a memorable first impression!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 SPONGEBOB SQUAREPANTS Pack of 10 kids children birthday party ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/3AEAAOSw5VFWJNb4/s-l1200.jpg' alt='11 SPONGEBOB SQUAREPANTS Pack of 10 kids children birthday party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/3AEAAOSw5VFWJNb4/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Spongebob Invitations : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51g-ipzyucL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Spongebob Invitations : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51g-ipzyucL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Birthday Invitation - Edit Online Instant Download">
+                                <img itemprop="contentUrl url" src='https://perfectpartyprints.com/wp-content/uploads/2021/11/spongebob-birthday-invitation.jpg' alt='SpongeBob Birthday Invitation - Edit Online Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Party Prints" />
+                                </span>
+                                <a href='https://perfectpartyprints.com/wp-content/uploads/2021/11/spongebob-birthday-invitation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPONGEBOB THEME BIRTHDAY PARTY INVITATIONS SPONGEBOB INVITES CHILDREN BOYS  KIDS">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMjEz/z/6GsAAOSwyKZeMgAS/$_57.JPG?set_id=8800005007' alt='SPONGEBOB THEME BIRTHDAY PARTY INVITATIONS SPONGEBOB INVITES CHILDREN BOYS  KIDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1213">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMjEz/z/6GsAAOSwyKZeMgAS/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob "Best Day Ever!" Party Invitations | Nickelodeon Parents">
+                                <img itemprop="contentUrl url" src='https://www.nickelodeonparents.com/wp-content/uploads/2016/04/spongebob-invitations2x3.jpg' alt='SpongeBob "Best Day Ever!" Party Invitations | Nickelodeon Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nickelodeon Parents" />
+                                </span>
+                                <a href='https://www.nickelodeonparents.com/wp-content/uploads/2016/04/spongebob-invitations2x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Invitations Chalkboard">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.generalprints.com/wp-content/uploads/2023/08/spongebob-invitations-chalkboard.jpg?fit=1000%2C1000&ssl=1' alt='Spongebob Invitations Chalkboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- General Prints" />
+                                </span>
+                                <a href='https://i0.wp.com/www.generalprints.com/wp-content/uploads/2023/08/spongebob-invitations-chalkboard.jpg?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Squarepants Birthday Invitation 2 (pool party) - oscarsitosroom">
+                                <img itemprop="contentUrl url" src='https://oscarsitosroom.com//wp-content/uploads/2021/07/SPONGEBOB.jpg' alt='Spongebob Squarepants Birthday Invitation 2 (pool party) - oscarsitosroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oscarsitosroom" />
+                                </span>
+                                <a href='https://oscarsitosroom.com//wp-content/uploads/2021/07/SPONGEBOB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Squarepants Birthday Invitation, Spongebob Theme Party, Printable  Invitation - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7978008/r/il/b9638f/553672234/il_1080xN.553672234_gry9.jpg' alt='Spongebob Squarepants Birthday Invitation, Spongebob Theme Party, Printable  Invitation - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7978008/r/il/b9638f/553672234/il_1080xN.553672234_gry9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Spongebob SquarePants personalized Children's Birthday Party  Invitations">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-c6ecdqcvkp/products/149348/images/162192/INVYVTOCT220__00168.1634666577.500.750.jpg?c=2' alt='Green Spongebob SquarePants personalized Children's Birthday Party  Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Heart Print" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-c6ecdqcvkp/products/149348/images/162192/INVYVTOCT220__00168.1634666577.500.750.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob Birthday invitation template - Jamakodesigns">
+                                <img itemprop="contentUrl url" src='https://www.jamakodesigns.com/wp-content/uploads/2022/10/Spongebob-Birthday-Invitation-4.jpg' alt='SpongeBob Birthday invitation template - Jamakodesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jamakodesigns" />
+                                </span>
+                                <a href='https://www.jamakodesigns.com/wp-content/uploads/2022/10/Spongebob-Birthday-Invitation-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

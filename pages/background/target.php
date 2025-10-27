@@ -1,0 +1,129 @@
+<title>Achieve Your Goals: The Power of Target Setting</title>
+                    <meta name="description" content="Unlock your potential by mastering the art of target setting. Discover effective strategies to define, pursue, and achieve your goals, enhancing both personal growth and professional success in a clear and concise manner.">
+                    <meta name="keywords" content="target">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/target">
+                            <span itemprop="name">target</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Achieve Your Goals: The Power of Target Setting</h1>
+                <p>Target refers to a specific goal or objective that individuals or organizations aim to achieve. It acts as a guiding beacon, helping to focus efforts and resources effectively. Setting clear, measurable targets is essential for tracking progress and ensuring accountability in personal and professional development.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Corporation - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Target_%282018%29.svg/640px-Target_%282018%29.svg.png' alt='Target Corporation - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Target_%282018%29.svg/640px-Target_%282018%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Target Stores and Facilities">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/d2441ab3-7b0b-4bff-9a6f-15df4690559d/New-Stores_Header_Target.png' alt='New Target Stores and Facilities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/d2441ab3-7b0b-4bff-9a6f-15df4690559d/New-Stores_Header_Target.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Corporation | Better Buildings Initiative">
+                                <img itemprop="contentUrl url" src='https://betterbuildingssolutioncenter.energy.gov/sites/default/files/partners/images/Target_Bullseye-Logo_Red_transparent.png' alt='Target Corporation | Better Buildings Initiative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="5400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Buildings Solution Center - Department of Energy" />
+                                </span>
+                                <a href='https://betterbuildingssolutioncenter.energy.gov/sites/default/files/partners/images/Target_Bullseye-Logo_Red_transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target to open two smaller-format stores in L.A. - Los Angeles Times">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/3909121/2147483647/strip/true/crop/1600x900+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2F8b%2F96e3c7bc398234e1ce9d832bc03b%2Fla-fi-target-stores-20151027-001' alt='Target to open two smaller-format stores in L.A. - Los Angeles Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/3909121/2147483647/strip/true/crop/1600x900+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2F8b%2F96e3c7bc398234e1ce9d832bc03b%2Fla-fi-target-stores-20151027-001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target buys land for Middletown, Delaware, store">
+                                <img itemprop="contentUrl url" src='https://delawarebusinesstimes.com/wp-content/uploads/2024/03/Target-Store-Exterior-web.jpg' alt='Target buys land for Middletown, Delaware, store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delaware Business Times" />
+                                </span>
+                                <a href='https://delawarebusinesstimes.com/wp-content/uploads/2024/03/Target-Store-Exterior-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2017/06/Target-logo-1.png' alt='Target Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2017/06/Target-logo-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Offering Debt-Free Degrees to More Than 340,000 Target Team ...">
+                                <img itemprop="contentUrl url" src='https://corporate.target.com/getmedia/3c524f73-a642-4f81-b094-4757de4ba2e4/Education-header_-toys.jpg?width=620' alt='Offering Debt-Free Degrees to More Than 340,000 Target Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target Corporation" />
+                                </span>
+                                <a href='https://corporate.target.com/getmedia/3c524f73-a642-4f81-b094-4757de4ba2e4/Education-header_-toys.jpg?width=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target (@Target) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/960896975737622528/-5k32D4t_400x400.jpg' alt='Target (@Target) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/960896975737622528/-5k32D4t_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target is ending its diversity goals as strong DEI opponent ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/fbc4c60/2147483647/strip/false/crop/3438x2269+0+0/resize/1486x981!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F32%2F41b9afa1375a94d77ef48510733e%2F84ffa82b7c814b8f99cd2cc8cf5312d8' alt='Target is ending its diversity goals as strong DEI opponent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/fbc4c60/2147483647/strip/false/crop/3438x2269+0+0/resize/1486x981!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F32%2F41b9afa1375a94d77ef48510733e%2F84ffa82b7c814b8f99cd2cc8cf5312d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Closing Nine Stores in San Francisco, Portland, Seattle and ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Target-5.jpg?fit=2057%2C1200&ssl=1' alt='Target Closing Nine Stores in San Francisco, Portland, Seattle and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2057">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Review" />
+                                </span>
+                                <a href='https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Target-5.jpg?fit=2057%2C1200&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

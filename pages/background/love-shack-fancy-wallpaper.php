@@ -1,0 +1,129 @@
+<title>Elevate Your Decor with Love Shack Fancy Wallpaper</title>
+                    <meta name="description" content="Discover Love Shack Fancy wallpaper for a charming home makeover. Featuring unique floral patterns and romantic styles, enhance your living space with ease. Ideal for any room, these wallpapers bring an elegant touch to your decor. Explore our collection for aesthetic inspiration!">
+                    <meta name="keywords" content="love shack fancy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/love-shack-fancy-wallpaper">
+                            <span itemprop="name">love shack fancy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Decor with Love Shack Fancy Wallpaper</h1>
+                <p>Transform your space with Love Shack Fancy wallpaper, featuring enchanting floral patterns and whimsical designs. Perfect for adding a touch of romance and elegance, this wallpaper brings a cheerful vibe to any room. Whether it's a cozy bedroom or a vibrant living area, Love Shack Fancy wallpaper is your go-to for stylish decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LoveShackFancy Rosa Beaux Pink Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/48a74a189b77d694b18ccc7b247d7d3def0d46ab/LoveShackFancy-Rosa-Beaux-Pink-Peel-%26-Stick-Wallpaper.jpg' alt='LoveShackFancy Rosa Beaux Pink Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/48a74a189b77d694b18ccc7b247d7d3def0d46ab/LoveShackFancy-Rosa-Beaux-Pink-Peel-%26-Stick-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ribbon Rosa Standard Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.loveshackfancy.com/cdn/shop/files/AST6084-RIBBONROSAWALLPAPER-CHATEAUROSE-00.jpg?v=1686927890' alt='Ribbon Rosa Standard Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='http://www.loveshackfancy.com/cdn/shop/files/AST6084-RIBBONROSAWALLPAPER-CHATEAUROSE-00.jpg?v=1686927890' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AST4105 | LoveShackFancy, Blooming Heirloom Marie Pink Rose Stripe Pink -  A-Street Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_f72e8934-cd2b-41e0-9f25-e823b68ae7c8.jpg?v=1663914030' alt='AST4105 | LoveShackFancy, Blooming Heirloom Marie Pink Rose Stripe Pink -  A-Street Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_f72e8934-cd2b-41e0-9f25-e823b68ae7c8.jpg?v=1663914030' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Blue Dreamy Days Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/sweet-blue-dreamy-days-peel-stick-wallp-kopw-l.jpg' alt='Sweet Blue Dreamy Days Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/sweet-blue-dreamy-days-peel-stick-wallp-kopw-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Parfait Dreamy Days Peel and Stick Wallpaper- Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://www.loveshackfancy.com/cdn/shop/files/AST6086-DREAMYDAYSWALLPAPER-PINKPARFAIT_b62a5d09-3f51-49a1-ae4d-1be40efd3215_grande.jpg?v=1689100547' alt='Pink Parfait Dreamy Days Peel and Stick Wallpaper- Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='https://www.loveshackfancy.com/cdn/shop/files/AST6086-DREAMYDAYSWALLPAPER-PINKPARFAIT_b62a5d09-3f51-49a1-ae4d-1be40efd3215_grande.jpg?v=1689100547' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints AST4652 Rosie Arrangements Kiss Pink Bouquet Toss Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257426.jpg' alt='A Street Prints AST4652 Rosie Arrangements Kiss Pink Bouquet Toss Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Loveshackfancy Ribbon Rosa Chateau Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6888448000046_20.jpg?v=1692814908' alt='A-Street Prints Loveshackfancy Ribbon Rosa Chateau Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6888448000046_20.jpg?v=1692814908' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Bow Standard Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.loveshackfancy.com/cdn/shop/files/AST4114-BABY-BOW-WALLPAPER-FADED-PRIMROSE-04_979f68c5-3912-4a6d-85dd-91976dc5516c.jpg?v=1715015242' alt='Baby Bow Standard Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='http://www.loveshackfancy.com/cdn/shop/files/AST4114-BABY-BOW-WALLPAPER-FADED-PRIMROSE-04_979f68c5-3912-4a6d-85dd-91976dc5516c.jpg?v=1715015242' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairytale Toile Standard Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.loveshackfancy.com/cdn/shop/files/FAIRYTALETOILEWALLPAPER_PEONYPINK_1200x1200_crop_center.jpg?v=1713977434' alt='Fairytale Toile Standard Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='https://www.loveshackfancy.com/cdn/shop/files/FAIRYTALETOILEWALLPAPER_PEONYPINK_1200x1200_crop_center.jpg?v=1713977434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print Magic!">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0181/8457/files/bd41c777-dae6-46f8-bedf-3d3ade35b0de.jpg?v=1617297132' alt='Print Magic!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveShackFancy" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0181/8457/files/bd41c777-dae6-46f8-bedf-3d3ade35b0de.jpg?v=1617297132' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

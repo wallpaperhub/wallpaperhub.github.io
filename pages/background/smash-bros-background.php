@@ -1,0 +1,129 @@
+<title>Exploring the Iconic Backgrounds of Smash Bros</title>
+                    <meta name="description" content="Discover the unique and vibrant backgrounds of Super Smash Bros. Each stage takes players through iconic Nintendo realms, enhancing the gaming experience with immersive visuals and interactive elements. Dive into the dynamic worlds that make each battle memorable!">
+                    <meta name="keywords" content="smash bros background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smash-bros-background">
+                            <span itemprop="name">smash bros background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Iconic Backgrounds of Smash Bros</h1>
+                <p>Super Smash Bros. features vibrant, dynamic backgrounds that enhance gameplay. Each stage is inspired by iconic worlds from Nintendo franchises, providing unique visual experiences and interactive elements. From the bustling streets of New Donk City to the tranquil vistas of Hyrule, each backdrop adds depth and personality to epic brawls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Smash Bros. Ultimate Background by EmeraldPlayer2989 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8c464e-cc4f-475e-86aa-4efc3464d47c/dgfpome-42e97aff-e6a5-4dcc-aaf4-bb40f1549ab3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlOGM0NjRlLWNjNGYtNDc1ZS04NmFhLTRlZmMzNDY0ZDQ3Y1wvZGdmcG9tZS00MmU5N2FmZi1lNmE1LTRkY2MtYWFmNC1iYjQwZjE1NDlhYjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qyIjKwa_vtdwSW0T8WUq8hULFARdA4vqQsaecPqjwWw' alt='Super Smash Bros. Ultimate Background by EmeraldPlayer2989 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8c464e-cc4f-475e-86aa-4efc3464d47c/dgfpome-42e97aff-e6a5-4dcc-aaf4-bb40f1549ab3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlOGM0NjRlLWNjNGYtNDc1ZS04NmFhLTRlZmMzNDY0ZDQ3Y1wvZGdmcG9tZS00MmU5N2FmZi1lNmE1LTRkY2MtYWFmNC1iYjQwZjE1NDlhYjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qyIjKwa_vtdwSW0T8WUq8hULFARdA4vqQsaecPqjwWw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Smash Bros. Video Game Super Smash Bros. Ultimate ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/927/927403.png' alt='Download Super Smash Bros. Video Game Super Smash Bros. Ultimate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6583">
+                                <meta itemprop="height" content="3703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/927/927403.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smash Bros. Ultimate - World of Light Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35022c4c-6186-41a3-8a0c-eee467625009/dcr0krb-be2b548c-5f98-4207-bd9d-996f564375f9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MDIyYzRjLTYxODYtNDFhMy04YTBjLWVlZTQ2NzYyNTAwOVwvZGNyMGtyYi1iZTJiNTQ4Yy01Zjk4LTQyMDctYmQ5ZC05OTZmNTY0Mzc1ZjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wQF9DRQW5ji6EarGautyHXNjDyrG-hi0aG1rfbsIWFU' alt='Smash Bros. Ultimate - World of Light Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35022c4c-6186-41a3-8a0c-eee467625009/dcr0krb-be2b548c-5f98-4207-bd9d-996f564375f9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MDIyYzRjLTYxODYtNDFhMy04YTBjLWVlZTQ2NzYyNTAwOVwvZGNyMGtyYi1iZTJiNTQ4Yy01Zjk4LTQyMDctYmQ5ZC05OTZmNTY0Mzc1ZjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wQF9DRQW5ji6EarGautyHXNjDyrG-hi0aG1rfbsIWFU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All of the Smash Ultimate stage images ripped from the website ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/VmBh94YgHReFjYe89VrE227ejeefyA26v1TZSz_TRMg.jpg?auto=webp&s=6ceb87fc0c4f648db4f6addabcbb04679cce6dd7' alt='All of the Smash Ultimate stage images ripped from the website ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/VmBh94YgHReFjYe89VrE227ejeefyA26v1TZSz_TRMg.jpg?auto=webp&s=6ceb87fc0c4f648db4f6addabcbb04679cce6dd7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Smash Bros. Melee's iconic roster image with a cloudy ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/BN6ISTxleevtGZTgVw6dp29_rTKHwRQj0FCyZhKC7l0.jpg?auto=webp&s=48885756fe48d34522f8f44098264ffa2d18bf1f' alt='Super Smash Bros. Melee's iconic roster image with a cloudy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/BN6ISTxleevtGZTgVw6dp29_rTKHwRQj0FCyZhKC7l0.jpg?auto=webp&s=48885756fe48d34522f8f44098264ffa2d18bf1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smash Ultimate | Official Wallpaper Recreation by LKGamingART on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c87dd733-2d0f-473d-8f0f-7ad069784185/ddzpyrs-d4108b4e-d6ab-4872-9d12-fd3e5307a87f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4N2RkNzMzLTJkMGYtNDczZC04ZjBmLTdhZDA2OTc4NDE4NVwvZGR6cHlycy1kNDEwOGI0ZS1kNmFiLTQ4NzItOWQxMi1mZDNlNTMwN2E4N2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MT9ZMXhvAwvFTYFDam1F9lZRG0uOWpXU3yIvXgxSg1o' alt='Smash Ultimate | Official Wallpaper Recreation by LKGamingART on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c87dd733-2d0f-473d-8f0f-7ad069784185/ddzpyrs-d4108b4e-d6ab-4872-9d12-fd3e5307a87f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4N2RkNzMzLTJkMGYtNDczZC04ZjBmLTdhZDA2OTc4NDE4NVwvZGR6cHlycy1kNDEwOGI0ZS1kNmFiLTQ4NzItOWQxMi1mZDNlNTMwN2E4N2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MT9ZMXhvAwvFTYFDam1F9lZRG0uOWpXU3yIvXgxSg1o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smash Ultimate Background Ambience - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k0qFasXDnuU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0Zv5o6a2GCcY9otGMSRXfUDtRvg' alt='Smash Ultimate Background Ambience - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k0qFasXDnuU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0Zv5o6a2GCcY9otGMSRXfUDtRvg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Destination is back with an... - Super Smash Bros. | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1882971675122719' alt='Final Destination is back with an... - Super Smash Bros. | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1882971675122719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Resolution of Extended Version of Smash Ultimate Artwork? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/high-resolution-of-extended-version-of-smash-ultimate-v0-stv82k1h9ppa1.png?width=1080&crop=smart&auto=webp&s=442bc93284dc2ba674281e71db37dedea5337c43' alt='High Resolution of Extended Version of Smash Ultimate Artwork? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/high-resolution-of-extended-version-of-smash-ultimate-v0-stv82k1h9ppa1.png?width=1080&crop=smart&auto=webp&s=442bc93284dc2ba674281e71db37dedea5337c43' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Super Smash Bros. Video Game Super Smash Bros. Melee 4k ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/858/858608.jpg' alt='Download Super Smash Bros. Video Game Super Smash Bros. Melee 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/858/858608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

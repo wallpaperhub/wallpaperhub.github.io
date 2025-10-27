@@ -1,0 +1,129 @@
+<title>Lando Norris: Rising Star in Formula 1 Racing</title>
+                    <meta name="description" content="Explore the journey of Lando Norris, the British F1 sensation. From his impressive debut to becoming a fan favorite with McLaren, discover what makes this young driver a force to be reckoned with on the track. Join us as we dive into his achievements and racing career!">
+                    <meta name="keywords" content="lando norris">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lando-norris">
+                            <span itemprop="name">lando norris</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lando Norris: Rising Star in Formula 1 Racing</h1>
+                <p>Lando Norris, the talented British racing driver, has taken the Formula 1 world by storm. Known for his exceptional driving skills and engaging personality, he competes for McLaren, consistently impressing fans and critics alike. With a bright future ahead, Norris is a rising star in motorsport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ac/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3975_by_Stepro_%28cropped2%29.jpg' alt='Lando Norris - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="1573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ac/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3975_by_Stepro_%28cropped2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris - McLaren Formula 1 Driver profile and achievements">
+                                <img itemprop="contentUrl url" src='https://mclaren.bloomreach.io/cdn-cgi/image/format=webp,quality=80/delivery/resources/content/gallery/mclaren-racing/formula-1/2025/nsr/f1-75-live-m/web/2025_lando_team_pic_02.jpg' alt='Lando Norris - McLaren Formula 1 Driver profile and achievements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McLaren" />
+                                </span>
+                                <a href='https://mclaren.bloomreach.io/cdn-cgi/image/format=webp,quality=80/delivery/resources/content/gallery/mclaren-racing/formula-1/2025/nsr/f1-75-live-m/web/2025_lando_team_pic_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris | Formula 1 Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/f1wikia/images/7/75/LandoNorris2024.jpg/revision/latest?cb=20240408144216' alt='Lando Norris | Formula 1 Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Formula 1 Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/f1wikia/images/7/75/LandoNorris2024.jpg/revision/latest?cb=20240408144216' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris Profile - Bio, News, High-Res Photos & High Quality ...">
+                                <img itemprop="contentUrl url" src='https://cdn-4.motorsport.com/images/mgl/YEQ1jk1Y/s800/lando-norris-mclaren.jpg' alt='Lando Norris Profile - Bio, News, High-Res Photos & High Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motorsport.com" />
+                                </span>
+                                <a href='https://cdn-4.motorsport.com/images/mgl/YEQ1jk1Y/s800/lando-norris-mclaren.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris called out for Lewis Hamilton comments after 'making ...">
+                                <img itemprop="contentUrl url" src='https://cdn.images.express.co.uk/img/dynamic/73/590x/1931970_1.jpg' alt='Lando Norris called out for Lewis Hamilton comments after 'making ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Express" />
+                                </span>
+                                <a href='https://cdn.images.express.co.uk/img/dynamic/73/590x/1931970_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6753842ff7023840388089a9/0x0.jpg?format=jpg&crop=2168,2166,x1103,y14,safe&height=416&width=416&fit=bounds' alt='Lando Norris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6753842ff7023840388089a9/0x0.jpg?format=jpg&crop=2168,2166,x1103,y14,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abu Dhabi Grand Prix: Lando Norris on pole with Lewis Hamilton ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/965/cpsprodpb/edcf/live/ae067fc0-b4b0-11ef-8cd5-a537f1bb7c47.jpg' alt='Abu Dhabi Grand Prix: Lando Norris on pole with Lewis Hamilton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/965/cpsprodpb/edcf/live/ae067fc0-b4b0-11ef-8cd5-a537f1bb7c47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lando Norris - McLaren Formula 1 Driver profile and achievements">
+                                <img itemprop="contentUrl url" src='https://mclaren.bloomreach.io/cdn-cgi/image/format=webp,quality=80/delivery/resources/content/gallery/mclaren-racing/formula-1/2024/editorial/lando-norris/3r8a0868.jpg' alt='Lando Norris - McLaren Formula 1 Driver profile and achievements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McLaren" />
+                                </span>
+                                <a href='https://mclaren.bloomreach.io/cdn-cgi/image/format=webp,quality=80/delivery/resources/content/gallery/mclaren-racing/formula-1/2024/editorial/lando-norris/3r8a0868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="McLaren Formula 1's Lando Norris On Music, Fame, and Race-Day Ritual">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2023/05/lando-norris.jpg' alt='McLaren Formula 1's Lando Norris On Music, Fame, and Race-Day Ritual'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2023/05/lando-norris.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The KAUFMANN Journal: Lando Norris said no to dad's millions">
+                                <img itemprop="contentUrl url" src='https://www.kaufmannstatic.com/sc_images/images/kaufmann/the-journal/2024/oktober/lando-norris/20240310kaufmannjournallandonorris01.jpg?w=840' alt='The KAUFMANN Journal: Lando Norris said no to dad's millions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kaufmann-store.com" />
+                                </span>
+                                <a href='https://www.kaufmannstatic.com/sc_images/images/kaufmann/the-journal/2024/oktober/lando-norris/20240310kaufmannjournallandonorris01.jpg?w=840' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

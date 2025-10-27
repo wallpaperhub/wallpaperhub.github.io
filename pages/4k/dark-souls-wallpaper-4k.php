@@ -1,0 +1,129 @@
+<title>Epic Dark Souls 4K Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a collection of high-resolution 4K Dark Souls wallpapers that capture the essence of this legendary game. Perfect for desktops and mobile devices, these striking images will transform your screen and immerse you in the dark fantasy world you love. Download now and elevate your gaming aesthetic!">
+                    <meta name="keywords" content="dark souls wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/dark-souls-wallpaper-4k">
+                            <span itemprop="name">dark souls wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dark Souls 4K Wallpapers for Fans</h1>
+                <p>Discover stunning Dark Souls wallpapers in 4K resolution that immerse you in the world of epic battles and dark lore. Perfect for fans and gamers alike, these high-quality images bring the iconic characters and haunting landscapes to life. Download your favorite wallpaper and enhance your desktop or mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Dark Souls 3 - Soul of cinder 4K">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1624067862864258448/8EC60D3FE06A487B46979FC08F10D6AC4A13A3AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Dark Souls 3 - Soul of cinder 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1624067862864258448/8EC60D3FE06A487B46979FC08F10D6AC4A13A3AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls III 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/107/1073940.jpg' alt='Dark Souls III 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/107/1073940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls Bonfire - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/895/895681.jpg' alt='Dark Souls Bonfire - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/895/895681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls Wallpaper Thread ? : r/darksouls">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/3mg3aTY.jpg' alt='Dark Souls Wallpaper Thread ? : r/darksouls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/3mg3aTY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls II 4k wallpaper by DragonCrestPC on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6252c821-132a-4309-b174-40c0f4ed6a21/dh6sarm-92444257-5597-4703-8cfb-bde86bba1978.jpg/v1/fill/w_1280,h_720,q_75,strp/dark_souls_ii_4k_wallpaper_by_dragoncrestpc_dh6sarm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjI1MmM4MjEtMTMyYS00MzA5LWIxNzQtNDBjMGY0ZWQ2YTIxXC9kaDZzYXJtLTkyNDQ0MjU3LTU1OTctNDcwMy04Y2ZiLWJkZTg2YmJhMTk3OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aGi4wLgP9zCm-JvfNlGueegRf-wzb4mLt-mUQIkaDD0' alt='Dark Souls II 4k wallpaper by DragonCrestPC on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6252c821-132a-4309-b174-40c0f4ed6a21/dh6sarm-92444257-5597-4703-8cfb-bde86bba1978.jpg/v1/fill/w_1280,h_720,q_75,strp/dark_souls_ii_4k_wallpaper_by_dragoncrestpc_dh6sarm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNjI1MmM4MjEtMTMyYS00MzA5LWIxNzQtNDBjMGY0ZWQ2YTIxXC9kaDZzYXJtLTkyNDQ0MjU3LTU1OTctNDcwMy04Y2ZiLWJkZTg2YmJhMTk3OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aGi4wLgP9zCm-JvfNlGueegRf-wzb4mLt-mUQIkaDD0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Dark Souls 3 Gaming Wallpaper, HD Games 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/4k-dark-souls-3-gaming_bWZnZ2iUmZqaraWkpJRobWllrWdma2U.jpg' alt='4K Dark Souls 3 Gaming Wallpaper, HD Games 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/4k-dark-souls-3-gaming_bWZnZ2iUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/122/1229131.png' alt='Dark souls wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/122/1229131.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls phone background collection for you fellow undead : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nadq4pifk0s51.jpg?width=640&crop=smart&auto=webp&s=80075bcb99eba32355a4c961dd47e552b5ea4dab' alt='Dark souls phone background collection for you fellow undead : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nadq4pifk0s51.jpg?width=640&crop=smart&auto=webp&s=80075bcb99eba32355a4c961dd47e552b5ea4dab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls Mobile Wallpapers | 4K | Ultra HD">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/dark-souls.png' alt='Dark Souls Mobile Wallpapers | 4K | Ultra HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/dark-souls.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls Wallpaper 4K, Bonfire, Game poster, Knight">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/dark-souls-bonfire-3840x1080-18682.jpg' alt='Dark Souls Wallpaper 4K, Bonfire, Game poster, Knight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/dark-souls-bonfire-3840x1080-18682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

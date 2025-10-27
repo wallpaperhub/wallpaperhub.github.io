@@ -1,0 +1,129 @@
+<title>Purple Gothic Backgrounds: Elegance Meets Mystery</title>
+                    <meta name="description" content="Explore stunning purple gothic backgrounds that blend elegance with a touch of mystery. Ideal for digital designs, art projects, or creative events, these captivating visuals invite you into a world of dark romance and enchanting beauty. Perfect for adding a unique flair to your creations!">
+                    <meta name="keywords" content="purple gothic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-gothic-background">
+                            <span itemprop="name">purple gothic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Gothic Backgrounds: Elegance Meets Mystery</h1>
+                <p>Discover the allure of a purple gothic background, where deep violet hues intertwine with intricate patterns and shadows. This captivating aesthetic evokes mystery and romance, making it perfect for digital art, photography, or themed events. Dive into the enchanting world of gothic elegance and express your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple goth aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' alt='purple goth aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Alfa Img Showing Dark Purple Gothic Wallpaper on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/d5/41/65d5418b7c4545ca2809e8131d15c6a7.jpg' alt='   Free download Alfa Img Showing Dark Purple Gothic Wallpaper on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/d5/41/65d5418b7c4545ca2809e8131d15c6a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-1ags6x2vqjh3lycz.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-1ags6x2vqjh3lycz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' alt='Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gothic backgrounds and wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1570/3795/products/purple-gothic-backgrounds-and-wallpapers-digital-955.webp' alt='Purple Gothic backgrounds and wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photohacklovers" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1570/3795/products/purple-gothic-backgrounds-and-wallpapers-digital-955.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,006 Gothic Dark Purple Black Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dark-gothic-fantasy-background-black-purple-color-scheme-showcasing-haunted-forest-filled-glowing-eyes-ghostly-figures-324169135.jpg' alt='1,006 Gothic Dark Purple Black Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dark-gothic-fantasy-background-black-purple-color-scheme-showcasing-haunted-forest-filled-glowing-eyes-ghostly-figures-324169135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Gothic Victorian Wallpapers Graphic by Crewe's Creations ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/08/05/Purple-Gothic-Victorian-Wallpapers-Graphics-35597670-2-580x399.png' alt='Purple Gothic Victorian Wallpapers Graphic by Crewe's Creations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/08/05/Purple-Gothic-Victorian-Wallpapers-Graphics-35597670-2-580x399.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Purple Halloween Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/purple-gothic-halloween-preview-1-b9c89626ad7d9ac09f45cf99003272bef80992c1bdab849af539f20f986472e6.jpg' alt='Gothic Purple Halloween Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/purple-gothic-halloween-preview-1-b9c89626ad7d9ac09f45cf99003272bef80992c1bdab849af539f20f986472e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Purple Skull by Angelic-Goth on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d402088b-e959-491d-9936-1eb3f882b81e/djasg2-a4e88225-8c29-46a2-b490-d6d03f73e54f.png/v1/fill/w_1024,h_768,q_80,strp/wallpaper___purple_skull_by_angelic_goth_djasg2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZDQwMjA4OGItZTk1OS00OTFkLTk5MzYtMWViM2Y4ODJiODFlXC9kamFzZzItYTRlODgyMjUtOGMyOS00NmEyLWI0OTAtZDZkMDNmNzNlNTRmLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qByC0lUf4Z0cZmDhVGi19dvtbHyBfpR8N7KrX9vPC24' alt='Wallpaper - Purple Skull by Angelic-Goth on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d402088b-e959-491d-9936-1eb3f882b81e/djasg2-a4e88225-8c29-46a2-b490-d6d03f73e54f.png/v1/fill/w_1024,h_768,q_80,strp/wallpaper___purple_skull_by_angelic_goth_djasg2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZDQwMjA4OGItZTk1OS00OTFkLTk5MzYtMWViM2Y4ODJiODFlXC9kamFzZzItYTRlODgyMjUtOGMyOS00NmEyLWI0OTAtZDZkMDNmNzNlNTRmLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qByC0lUf4Z0cZmDhVGi19dvtbHyBfpR8N7KrX9vPC24' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

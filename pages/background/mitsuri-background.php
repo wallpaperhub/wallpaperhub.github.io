@@ -1,0 +1,129 @@
+<title>Mitsuri Kanroji: The Love Hashira of Demon Slayer</title>
+                    <meta name="description" content="Explore the captivating background of Mitsuri Kanroji, the Love Hashira from Demon Slayer. Discover her unique fighting style, vibrant personality, and the poignant history that drives her commitment to protect humanity. Join us in uncovering the layers of this beloved character!">
+                    <meta name="keywords" content="mitsuri background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mitsuri-background">
+                            <span itemprop="name">mitsuri background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mitsuri Kanroji: The Love Hashira of Demon Slayer</h1>
+                <p>Mitsuri Kanroji, a character from "Demon Slayer: Kimetsu no Yaiba," is the Love Hashira known for her vibrant pink hair and distinctive green eyes. Her tragic past and dedication to protecting humanity shape her fierce yet compassionate personality. Mitsuri’s love-based combat techniques make her a unique and formidable fighter in the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Made These Tengen Uzui and Mitsuri Kanroji Wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-made-these-tengen-uzui-and-mitsuri-kanroji-wallpapers-v0-n4qgxfkhndib1.png?width=2880&format=png&auto=webp&s=16c2cfcc81c1348c4935f35641304b0a705ca1ea' alt='Just Made These Tengen Uzui and Mitsuri Kanroji Wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-made-these-tengen-uzui-and-mitsuri-kanroji-wallpapers-v0-n4qgxfkhndib1.png?width=2880&format=png&auto=webp&s=16c2cfcc81c1348c4935f35641304b0a705ca1ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mitsuri Kanroji Anime Demon Slayer: Kimetsu No Yaiba 4k ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/122/1229687.jpg' alt='Download Mitsuri Kanroji Anime Demon Slayer: Kimetsu No Yaiba 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/122/1229687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Mitsuri wallpaper : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-mitsuri-wallpaper-v0-61vghq0c60ic1.jpg?width=480&format=pjpg&auto=webp&s=3ee59e3e658a3fd318ccba28fdbfd6e45859a5d1' alt='My Mitsuri wallpaper : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-mitsuri-wallpaper-v0-61vghq0c60ic1.jpg?width=480&format=pjpg&auto=webp&s=3ee59e3e658a3fd318ccba28fdbfd6e45859a5d1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mitsuri Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mitsuri-dgj1wm15vgd2m3wh.jpg' alt='100+] Mitsuri Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mitsuri-dgj1wm15vgd2m3wh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji Wallpaper / Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/81/6c/cc/816ccc01642dae5bebb855829d6133fb.jpg' alt='Mitsuri Kanroji Wallpaper / Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/81/6c/cc/816ccc01642dae5bebb855829d6133fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/32/d1/0d32d111e1386316629060ae5ac0393f.jpg' alt='Mitsuri Kanroji Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/32/d1/0d32d111e1386316629060ae5ac0393f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mitsuri Kanroji Anime Demon Slayer: Kimetsu No Yaiba HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/122/1226756.png' alt='Download Mitsuri Kanroji Anime Demon Slayer: Kimetsu No Yaiba HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/122/1226756.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Mitsuri Kanroji V1 | Artworks">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/marketplace/presentation_assets/003/057/278/medium/file.jpg?1695989470' alt='ArtStation - Mitsuri Kanroji V1 | Artworks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/marketplace/presentation_assets/003/057/278/medium/file.jpg?1695989470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mitsuri Kanroji Smile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mitsuri-kanroji-smile-8wvqsnbyc0v4gqum.jpg' alt='Mitsuri Kanroji Smile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mitsuri-kanroji-smile-8wvqsnbyc0v4gqum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mitsuri Kanroji Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mitsuri-kanroji-green-and-pink-0u1to8nuqzn20g7u.jpg' alt='100+] Mitsuri Kanroji Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="969">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mitsuri-kanroji-green-and-pink-0u1to8nuqzn20g7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

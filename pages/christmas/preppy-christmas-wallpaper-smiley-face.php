@@ -1,0 +1,129 @@
+<title>Cheerful Preppy Christmas Wallpaper with Smiley Faces</title>
+                    <meta name="description" content="Discover festive preppy Christmas wallpaper with smiley faces! Perfect for adding a cheerful touch to your home decor this holiday season. Bright colors and playful designs will create a joyful ambiance. Ideal for all spaces!">
+                    <meta name="keywords" content="preppy christmas wallpaper smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/preppy-christmas-wallpaper-smiley-face">
+                            <span itemprop="name">preppy christmas wallpaper smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Preppy Christmas Wallpaper with Smiley Faces</h1>
+                <p>Brighten your holiday season with preppy Christmas wallpaper featuring adorable smiley faces! This playful design combines festive colors and cheerful expressions, creating a joyful atmosphere in your home or workspace. Perfect for spreading holiday cheer, these wallpapers are sure to delight family and friends alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/75/65/ea7565972c954988c444b2f7529c3106.jpg' alt='Cute Christmas pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/75/65/ea7565972c954988c444b2f7529c3106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wide Ruled Notebook: Christmas Smiley Faces Aesthetic Preppy Notebook |  Cute Notebooks For Teen Girls">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61kYzNNBc-L._AC_UF1000,1000_QL80_.jpg' alt='Wide Ruled Notebook: Christmas Smiley Faces Aesthetic Preppy Notebook |  Cute Notebooks For Teen Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="811">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61kYzNNBc-L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Christmas Digital Seamless Pattern for Fabrics and ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/305/622/HD-wallpaper-smiley-face-christmas-digital-seamless-pattern-for-fabrics-and-preppy-christmas.jpg' alt='Smiley Face Christmas Digital Seamless Pattern for Fabrics and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/305/622/HD-wallpaper-smiley-face-christmas-digital-seamless-pattern-for-fabrics-and-preppy-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Vibes Smiley Face Red Green">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38084220/r/il/eca5eb/4236278192/il_fullxfull.4236278192_ky7n.jpg' alt='Christmas Vibes Smiley Face Red Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2214">
+                                <meta itemprop="height" content="1963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38084220/r/il/eca5eb/4236278192/il_fullxfull.4236278192_ky7n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Happy Face Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12169203/p/f/m/o2suzJXVZQkgZGP7NfKYLXFQXyPxjADHKDUk-i4_I7IA_1-CpbEpV9g/Groovy%20Christmas%20Happy%20Face%20Pattern.jpg' alt='Christmas Happy Face Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12169203/p/f/m/o2suzJXVZQkgZGP7NfKYLXFQXyPxjADHKDUk-i4_I7IA_1-CpbEpV9g/Groovy%20Christmas%20Happy%20Face%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/62/ba/db/62badbb78760160bb9235bc966459c48.jpg' alt='Smiley Face Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/62/ba/db/62badbb78760160bb9235bc966459c48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE Merry and Bright Smiley Christmas PNG Design Downloads ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38525451/r/il/f25c6d/4295933534/il_fullxfull.4295933534_hcep.jpg' alt='BLUE Merry and Bright Smiley Christmas PNG Design Downloads ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38525451/r/il/f25c6d/4295933534/il_fullxfull.4295933534_hcep.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Wallpaper ideas | preppy wallpaper, wallpaper, cute wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/6b/c5/666bc575d0504a7dc12f68262a882284.jpg' alt='23 Wallpaper ideas | preppy wallpaper, wallpaper, cute wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/6b/c5/666bc575d0504a7dc12f68262a882284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,477 Christmas Smiley Face Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/ho-merry-christmas-design-smiley-600nw-2234860827.jpg' alt='7,477 Christmas Smiley Face Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/ho-merry-christmas-design-smiley-600nw-2234860827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Groovy Christmas Snowman Smiley Face Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/hippie-groovy-christmas-snowman-smiley-260nw-2198734855.jpg' alt='Hippie Groovy Christmas Snowman Smiley Face Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/hippie-groovy-christmas-snowman-smiley-260nw-2198734855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

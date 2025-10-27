@@ -1,0 +1,129 @@
+<title>Stunning iPhone Todoroki Wallpapers: Enhance Your Screen</title>
+                    <meta name="description" content="Explore breathtaking iPhone wallpapers of Todoroki, the iconic My Hero Academia character. Perfect for fans seeking to personalize their devices. Find your ideal design and showcase your anime love effortlessly. Download now and transform your iPhone with striking artwork!">
+                    <meta name="keywords" content="iphone todoroki wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-todoroki-wallpaper">
+                            <span itemprop="name">iphone todoroki wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Todoroki Wallpapers: Enhance Your Screen</h1>
+                <p>Discover the ultimate Todoroki wallpaper for your iPhone! Enhance your device's aesthetic with stunning designs featuring Shoto Todoroki from My Hero Academia. From vibrant colors to unique artwork, our collection offers the perfect look to express your fandom. Elevate your screen style today with a fresh Todoroki vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Todoroki iPhone Wallpaper by Boujiee on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8369ed4-1d9c-439f-b9b2-87f019c57688/de9nekb-54c2efaa-1b96-4f0c-953b-815370000741.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MzY5ZWQ0LTFkOWMtNDM5Zi1iOWIyLTg3ZjAxOWM1NzY4OFwvZGU5bmVrYi01NGMyZWZhYS0xYjk2LTRmMGMtOTUzYi04MTUzNzAwMDA3NDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xxIudtGFyJ1WhGnaWgBf9t_zZsHyn4qwL3pTT1nmSZw' alt='Todoroki iPhone Wallpaper by Boujiee on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8369ed4-1d9c-439f-b9b2-87f019c57688/de9nekb-54c2efaa-1b96-4f0c-953b-815370000741.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MzY5ZWQ0LTFkOWMtNDM5Zi1iOWIyLTg3ZjAxOWM1NzY4OFwvZGU5bmVrYi01NGMyZWZhYS0xYjk2LTRmMGMtOTUzYi04MTUzNzAwMDA3NDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xxIudtGFyJ1WhGnaWgBf9t_zZsHyn4qwL3pTT1nmSZw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoto Todoroki My Hero Academia Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shoto-todoroki-my-hero-academia-iphone-jl8d31u4zru76s7r.jpg' alt='Shoto Todoroki My Hero Academia Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shoto-todoroki-my-hero-academia-iphone-jl8d31u4zru76s7r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨Todoroki Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/86/31/cc8631c0831920249a25f713c6269d00.jpg' alt='✨Todoroki Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/86/31/cc8631c0831920249a25f713c6269d00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoto Todoroki love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/238/513/HD-wallpaper-shoto-todoroki-love.jpg' alt='Shoto Todoroki love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/238/513/HD-wallpaper-shoto-todoroki-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Todoroki Wallpapers for iPhone - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/9c/df/909cdf1c5d7111bc41c5a3a97e368635.jpg' alt='Todoroki Wallpapers for iPhone - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/9c/df/909cdf1c5d7111bc41c5a3a97e368635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Hero Academia Todoroki With Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/blue-red-todoroki-aesthetic-my-hero-academia-2x2eese0889rd1jl.webp' alt='My Hero Academia Todoroki With Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/blue-red-todoroki-aesthetic-my-hero-academia-2x2eese0889rd1jl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoto Todoroki, anime, food, iphone, japan, manga, mha, my hero ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/469/706/HD-wallpaper-shoto-todoroki-anime-food-iphone-japan-manga-mha-my-hero-academia-samsung.jpg' alt='Shoto Todoroki, anime, food, iphone, japan, manga, mha, my hero ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/469/706/HD-wallpaper-shoto-todoroki-anime-food-iphone-japan-manga-mha-my-hero-academia-samsung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TODOROKI PHONE WALLPAPER   ❄️ : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a4n0j36ftiv11.jpg' alt='TODOROKI PHONE WALLPAPER   ❄️ : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="3465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a4n0j36ftiv11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bnha mha iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/24/dd/2e24dd1c65b0d5812e19a04105ddbe43.jpg' alt='Bnha mha iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/24/dd/2e24dd1c65b0d5812e19a04105ddbe43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 750x1334 shouto todoroki, angry, my hero ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/750x1334/5d5c10/shouto-todoroki-anime-boy.jpg' alt='Download wallpaper 750x1334 shouto todoroki, angry, my hero ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/750x1334/5d5c10/shouto-todoroki-anime-boy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

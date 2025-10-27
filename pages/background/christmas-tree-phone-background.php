@@ -1,0 +1,129 @@
+<title>Stunning Christmas Tree Phone Backgrounds for Your Holiday Spirit</title>
+                    <meta name="description" content="Discover the perfect Christmas tree phone backgrounds to elevate your holiday mood! Enjoy a variety of designs that capture the essence of Christmas, making your device festive and cheerful. Download now and spread the joy of the season every time you check your phone!">
+                    <meta name="keywords" content="christmas tree phone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-tree-phone-background">
+                            <span itemprop="name">christmas tree phone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Christmas Tree Phone Backgrounds for Your Holiday Spirit</h1>
+                <p>Transform your phone with a stunning Christmas tree background! Whether you prefer a traditional evergreen, a dazzling modern design, or a whimsical, colorful tree, we have a selection that will get you into the holiday spirit. Let the festive vibes fill your screen and bring joy to your day with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Phone Wallpapers [24+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/486/christmas-tree-snow-wallpaper-phone-950x1520.jpg' alt='Christmas Tree Phone Wallpapers [24+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/486/christmas-tree-snow-wallpaper-phone-950x1520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry & Bright - 50 Phone Wallpaper Christmas Images to Download ...">
+                                <img itemprop="contentUrl url" src='https://www.melaniejadedesign.com/wp-content/uploads/2024/11/christmas-tree-paper-11-810x1440.jpg' alt='Merry & Bright - 50 Phone Wallpaper Christmas Images to Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Jade Design" />
+                                </span>
+                                <a href='https://www.melaniejadedesign.com/wp-content/uploads/2024/11/christmas-tree-paper-11-810x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Phone Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/f9/6d/a9f96d6ec1ea90c15af96bb42dd7546b.jpg' alt='Christmas Phone Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/f9/6d/a9f96d6ec1ea90c15af96bb42dd7546b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpapers for iPhone - Best Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/3f/89/5c3f8920cc5f6a9cdc078572cc698a03.jpg' alt='Christmas Wallpapers for iPhone - Best Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/3f/89/5c3f8920cc5f6a9cdc078572cc698a03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Christmas Phone Wallpaper | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2018/12/Holiday-Christmas-Winter-Phone-Wallpaper-Background-Christmas-Trees.jpg' alt='FREE Christmas Phone Wallpaper | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2018/12/Holiday-Christmas-Winter-Phone-Wallpaper-Background-Christmas-Trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Christmas Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9jbG9zZV91cF9waG90b19vZl9jaHJpc3RtYXNfdHJlZV9ib2tlaF9iYWNrZ3JvdV85OTI4ZWY0ZS1jYzk2LTQ4YmItOTU1MC0wNGU4MDliMGZhMzFfMS5qcGc.jpg' alt='Phone Wallpaper Christmas Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9jbG9zZV91cF9waG90b19vZl9jaHJpc3RtYXNfdHJlZV9ib2tlaF9iYWNrZ3JvdV85OTI4ZWY0ZS1jYzk2LTQ4YmItOTU1MC0wNGU4MDliMGZhMzFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get into the festive spirit with our latest collection of free phone  wallpapers: Christmas Forest! This cozy collection brings the holiday magic  right to your screen with beautiful evergreen trees, ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' alt='Get into the festive spirit with our latest collection of free phone  wallpapers: Christmas Forest! This cozy collection brings the holiday magic  right to your screen with beautiful evergreen trees, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Magical Watercolor Christmas Wallpapers for Your Phone - Days ...">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2024/11/Christmas-watercolor-wallpaper-2-scaled.jpg' alt='30+ Magical Watercolor Christmas Wallpapers for Your Phone - Days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2024/11/Christmas-watercolor-wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/ba/3b/c6/ba3bc662fc04711b95dd97b36a21b968.jpg' alt='Christmas Tree Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/ba/3b/c6/ba3bc662fc04711b95dd97b36a21b968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="O Christmas Tree Phone Wallpaper - Whatever Bright Things">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/whateverbrightthings.com/wp-content/uploads/2020/11/O-Christmas-Tree-Phone-Wallpaper.png?ssl=1' alt='O Christmas Tree Phone Wallpaper - Whatever Bright Things'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whatever Bright Things" />
+                                </span>
+                                <a href='https://i0.wp.com/whateverbrightthings.com/wp-content/uploads/2020/11/O-Christmas-Tree-Phone-Wallpaper.png?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

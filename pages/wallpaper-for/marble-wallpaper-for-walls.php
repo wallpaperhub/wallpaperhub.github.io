@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Marble Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of marble wallpaper for your walls. Easy to apply and maintain, it offers a chic and luxurious look for any room. Ideal for adding elegance to your home decor. Shop our collection today for a stylish transformation!">
+                    <meta name="keywords" content="marble wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/marble-wallpaper-for-walls">
+                            <span itemprop="name">marble wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Marble Wallpaper</h1>
+                <p>Transform your space with stunning marble wallpaper that adds elegance and sophistication to any room. This versatile decor option mimics the luxurious look of real marble while being easy to install and maintain. Perfect for accent walls or complete makeovers, marble wallpaper enhances your interior design effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Marble Effect">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/731257/pr22/1/1280/dreamy-marble-effect-beige-watercolor-wallpaper.jpg' alt='Dreamy Marble Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/731257/pr22/1/1280/dreamy-marble-effect-beige-watercolor-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' alt='Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink and Grey Marble Wallpaper, Light Natural Stone Texture Mural,  Peel and Stick Removable Grey Marble Custom Size Wall Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN070-Grey-and-pink-marble-wallpaper.jpg?v=1718633270&width=2500' alt='Soft Pink and Grey Marble Wallpaper, Light Natural Stone Texture Mural,  Peel and Stick Removable Grey Marble Custom Size Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN070-Grey-and-pink-marble-wallpaper.jpg?v=1718633270&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Marble Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1292129230_moc1.jpg' alt='Abstract Marble Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="782">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1292129230_moc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick White Marble Wallpaper, Removable Wallpaper, Custom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25368471/r/il/fdd3d9/2990651144/il_fullxfull.2990651144_gfgd.jpg' alt='Peel and Stick White Marble Wallpaper, Removable Wallpaper, Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25368471/r/il/fdd3d9/2990651144/il_fullxfull.2990651144_gfgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Marble-2.jpg.optimal.jpg' alt='Marble Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Marble-2.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Wall Murals buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/9000/9616/u13857pig21ms_900.webp' alt='Textured Wall Murals buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/9000/9616/u13857pig21ms_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D White Marble Wallpaper Mural Bedroom Living Room Sofa TV ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51OkM5S7IfL.jpg' alt='3D White Marble Wallpaper Mural Bedroom Living Room Sofa TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51OkM5S7IfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WFBHUA-Black and Golden Marble Wallpaper Modern Large Art Photo Wall Murals  Living Room Bedroom Office (Not Peel and Stick)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81u18o0zRWL._AC_UF894,1000_QL80_.jpg' alt='WFBHUA-Black and Golden Marble Wallpaper Modern Large Art Photo Wall Murals  Living Room Bedroom Office (Not Peel and Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81u18o0zRWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Beige marble Nr. u32035 | Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/841/u32035pig1mr.jpg' alt='Wall Mural Photo Wallpaper Beige marble Nr. u32035 | Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/841/u32035pig1mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

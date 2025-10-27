@@ -1,0 +1,129 @@
+<title>Preppy Christian Wallpaper: Style Meets Faith</title>
+                    <meta name="description" content="Explore stylish Christian wallpapers with a preppy flair. Perfect for expressing your faith, these designs combine uplifting messages with vibrant aesthetics, ideal for personalizing your devices. Stay inspired with every glance at your screen!">
+                    <meta name="keywords" content="christian wallpaper preppy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/christian-wallpaper-preppy">
+                            <span itemprop="name">christian wallpaper preppy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Christian Wallpaper: Style Meets Faith</h1>
+                <p>Discover a collection of Christian wallpaper preppy designs that perfectly blend your faith and style. These wallpapers are uplifting, featuring inspiring quotes and vibrant colors that resonate with a preppy aesthetic. Perfect for personalizing your devices while showcasing your beliefs, these wallpapers are a great way to stay inspired daily!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out laylahardison1328's Shuffles Preppy Christian Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/64/12/9b/64129b57b50f7d3f23af9448d74a31d4.jpg' alt='Check out laylahardison1328's Shuffles Preppy Christian Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/64/12/9b/64129b57b50f7d3f23af9448d74a31d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christian wallpapers  ⚡️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/2d/15/e32d15747403bf5622c36338685a09f9.jpg' alt='Preppy Christian wallpapers  ⚡️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/2d/15/e32d15747403bf5622c36338685a09f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made by me!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/61/a4/1861a44e7066b042ad032c4af4e9e9d6.jpg' alt='made by me!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/61/a4/1861a44e7066b042ad032c4af4e9e9d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christian Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11689388.jpg' alt='Preppy Christian Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11689388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Jesus Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13879227.jpg' alt='Preppy Jesus Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13879227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christian wallpaper inspo ✝️ | Gallery posted by ella ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7342518973554049542&index=2&sign=05b692a4fbb720fe383c10a93bec0976' alt='christian wallpaper inspo ✝️ | Gallery posted by ella ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7342518973554049542&index=2&sign=05b692a4fbb720fe383c10a93bec0976' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Pink Preppy Christian Wall Decor, Jesus Portrait Print ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/310mW-6yBzL._UF894,1000_QL80_.jpg' alt='Amazon.com: Pink Preppy Christian Wall Decor, Jesus Portrait Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/310mW-6yBzL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christian Wall Art (digital Download 11x17) - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31681633/r/il/a1798b/5135477525/il_fullxfull.5135477525_eohy.jpg' alt='Preppy Christian Wall Art (digital Download 11x17) - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31681633/r/il/a1798b/5135477525/il_fullxfull.5135477525_eohy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy Christian wallpaper | Gallery posted by . | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7417959222585082373&index=1&sign=085bddd16338ffbfb915f4b86fb7a039' alt='preppy Christian wallpaper | Gallery posted by . | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7417959222585082373&index=1&sign=085bddd16338ffbfb915f4b86fb7a039' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="| CHRISTIAN WALLPAPERS | Pt.2 | PREPPY         ️ | #godisgood #xybca  #jesuslovesyou #fyp #gospel #godissogoodallthetime #godlovesyou #viral #love">
+                                <img itemprop="contentUrl url" src='https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fe38e97a5ce74afdae21a06e72fcecc9_1687982112~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741262400&x-signature=x8BislZsOY49NRR7cf16ueR0bE0%3D&shp=b59d6b55&shcp=-' alt='| CHRISTIAN WALLPAPERS | Pt.2 | PREPPY         ️ | #godisgood #xybca  #jesuslovesyou #fyp #gospel #godissogoodallthetime #godlovesyou #viral #love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/fe38e97a5ce74afdae21a06e72fcecc9_1687982112~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741262400&x-signature=x8BislZsOY49NRR7cf16ueR0bE0%3D&shp=b59d6b55&shcp=-' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

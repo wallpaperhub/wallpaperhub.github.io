@@ -1,0 +1,129 @@
+<title>Revive the '80s: Explore Retrowave Backgrounds</title>
+                    <meta name="description" content="Discover the captivating world of retrowave backgrounds, filled with neon colors and vintage vibes. Perfect for design lovers and nostalgia seekers, these visuals transport you to the dynamic 1980s. Unleash your creativity with our curated collection of retro-futuristic art and designs!">
+                    <meta name="keywords" content="retrowave background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retrowave-background">
+                            <span itemprop="name">retrowave background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive the '80s: Explore Retrowave Backgrounds</h1>
+                <p>Retrowave background art evokes the nostalgia of the 1980s, featuring neon colors, grid patterns, and vintage elements. This aesthetic often draws inspiration from retro-futurism and synthwave music, creating a vibrant, dreamy atmosphere that transports viewers to a time of arcade games, classic cars, and colorful sunsets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retrowave Images – Browse 182,887 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/29/57/63/360_F_329576340_zBRuVjvHWe9zgh2b2C5fwQNITE8oGsv5.jpg' alt='Retrowave Images – Browse 182,887 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/29/57/63/360_F_329576340_zBRuVjvHWe9zgh2b2C5fwQNITE8oGsv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Retrowave Background Loop with Adobe After Effects">
+                                <img itemprop="contentUrl url" src='https://www.premiumbeat.com/blog/wp-content/uploads/2020/03/Retrowave-Background-Loop-Tutorial-Sunset.jpg' alt='Create a Retrowave Background Loop with Adobe After Effects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumBeat" />
+                                </span>
+                                <a href='https://www.premiumbeat.com/blog/wp-content/uploads/2020/03/Retrowave-Background-Loop-Tutorial-Sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loop background neon retro wave 80s style">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/901/849/small_2x/loop-background-neon-retro-wave-80s-style-video.jpg' alt='Loop background neon retro wave 80s style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/901/849/small_2x/loop-background-neon-retro-wave-80s-style-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Released My Retrowave Neon 80'S Background In 4K! : r/outrun">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/VWwMgevK_L8TlsBPB-_yzDfuDTBF69-4SxnjV9-W1Yk.jpg?auto=webp&s=6211da1d36532af779d945c79f344d6004d4a61f' alt='Just Released My Retrowave Neon 80'S Background In 4K! : r/outrun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/VWwMgevK_L8TlsBPB-_yzDfuDTBF69-4SxnjV9-W1Yk.jpg?auto=webp&s=6211da1d36532af779d945c79f344d6004d4a61f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retrowave Background Loop - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-268054-RgZPqH0sHh-high_0000.jpg?w=660&q=60&fit=max&auto=format' alt='Retrowave Background Loop - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-268054-RgZPqH0sHh-high_0000.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Retrowave Landscape Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1253862403/vector/80s-synthwave-styled-landscape-with-blue-grid-mountains-and-sun-over-canyon.jpg?s=612x612&w=0&k=20&c=2d9zWZ_Q97QbsRa_9N8FURlWWnJ_QxF7RAtHKM8Ijfo=' alt='1,400+ Retrowave Landscape Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1253862403/vector/80s-synthwave-styled-landscape-with-blue-grid-mountains-and-sun-over-canyon.jpg?s=612x612&w=0&k=20&c=2d9zWZ_Q97QbsRa_9N8FURlWWnJ_QxF7RAtHKM8Ijfo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Grid City 80s Retrowave Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1091042215/thumb/6.jpg?ip=x480' alt='Sunset Grid City 80s Retrowave Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1091042215/thumb/6.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers   ‍   #templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/49/91/d749915c741721f3ccdf990bc18bc58e.jpg' alt='Wallpapers   ‍   #templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/49/91/d749915c741721f3ccdf990bc18bc58e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retrowave background 2025">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/80s-style-retro-background-with-sun-silhouettes-palm-trees-retro-wave-wallpaper_175838-3517.jpg' alt='Retrowave background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/80s-style-retro-background-with-sun-silhouettes-palm-trees-retro-wave-wallpaper_175838-3517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retrowave background 2025">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/58/34/51/360_F_358345174_OA1IH3ecc7qSXitsRc5aNClVFOYePxhe.jpg' alt='Retrowave background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/58/34/51/360_F_358345174_OA1IH3ecc7qSXitsRc5aNClVFOYePxhe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

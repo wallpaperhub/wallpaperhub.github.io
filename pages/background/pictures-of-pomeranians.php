@@ -1,0 +1,129 @@
+<title>Pomeranian Pictures: Adorable Fluff in Every Shot</title>
+                    <meta name="description" content="Discover the cutest Pomeranian pictures! Explore beautiful images that highlight the fluffy charm and playful spirit of these beloved dogs. Perfect for dog lovers, our collection showcases adorable moments that will melt your heart. Enjoy the cuteness overload today!">
+                    <meta name="keywords" content="pictures of pomeranians">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-pomeranians">
+                            <span itemprop="name">pictures of pomeranians</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pomeranian Pictures: Adorable Fluff in Every Shot</h1>
+                <p>Pictures of Pomeranians capture the adorable charm of these fluffy companions! With their vibrant coats and playful personalities, Pomeranians are forever camera-ready. From playful puppies to regal adults, each picture reveals their spirited nature. Explore a collection that showcases their cuteness and zest for life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian | Summary, Temperament, Barking, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/233841-050-4FFECCF1/Pomeranian-dog.jpg' alt='Pomeranian | Summary, Temperament, Barking, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/233841-050-4FFECCF1/Pomeranian-dog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg' alt='Pomeranian Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pomeranian Dog Breed: Everything You Need to Know">
+                                <img itemprop="contentUrl url" src='https://www.rover.com/blog/wp-content/uploads/iStock-1422682177-1024x683.jpg' alt='The Pomeranian Dog Breed: Everything You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rover.com" />
+                                </span>
+                                <a href='https://www.rover.com/blog/wp-content/uploads/iStock-1422682177-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian | Summary, Temperament, Barking, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/233842-050-E64243D7/Pomeranian-dog.jpg' alt='Pomeranian | Summary, Temperament, Barking, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/233842-050-E64243D7/Pomeranian-dog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian Dog Breed Info: Temperament & Traits | Potty Buddy">
+                                <img itemprop="contentUrl url" src='https://cdn05.zipify.com/RVtSwFoMiAGQyvfP9k5_p5mOz5g=/fit-in/3840x0/fa8b31bf0b524abb9b38e404e84f3ad0/11.jpeg' alt='Pomeranian Dog Breed Info: Temperament & Traits | Potty Buddy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Potty Buddy" />
+                                </span>
+                                <a href='https://cdn05.zipify.com/RVtSwFoMiAGQyvfP9k5_p5mOz5g=/fit-in/3840x0/fa8b31bf0b524abb9b38e404e84f3ad0/11.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian dog - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pomeranian.JPG/640px-Pomeranian.JPG' alt='Pomeranian dog - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pomeranian.JPG/640px-Pomeranian.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian Breed Information & Characteristics | Chewy">
+                                <img itemprop="contentUrl url" src='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181403/202104iStock-1349456012.jpg' alt='Pomeranian Breed Information & Characteristics | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181403/202104iStock-1349456012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian Dog Breed Info: Temperament & Traits | Potty Buddy">
+                                <img itemprop="contentUrl url" src='https://cdn05.zipify.com/4Pi5HGd09TWEOEW8PNpp-dvk8Cc=/fit-in/3840x0/bebddfa6a7714db9aa1f09677f36979e/1.jpeg' alt='Pomeranian Dog Breed Info: Temperament & Traits | Potty Buddy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Potty Buddy" />
+                                </span>
+                                <a href='https://cdn05.zipify.com/4Pi5HGd09TWEOEW8PNpp-dvk8Cc=/fit-in/3840x0/bebddfa6a7714db9aa1f09677f36979e/1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pomeranian Breed Information & Characteristics | Chewy">
+                                <img itemprop="contentUrl url" src='http://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181506/202106Pomeranian_Featured-Image.jpg' alt='Pomeranian Breed Information & Characteristics | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='http://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181506/202106Pomeranian_Featured-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A How-to Guide for Caring for a Pomeranian">
+                                <img itemprop="contentUrl url" src='https://pethelpful.com/.image/w_3840,q_auto:good,c_fill,ar_4:3/MTk2MzIyNTA5MjI4ODc3MTA0/caring-for-my-pomeranian.jpg' alt='A How-to Guide for Caring for a Pomeranian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PetHelpful" />
+                                </span>
+                                <a href='https://pethelpful.com/.image/w_3840,q_auto:good,c_fill,ar_4:3/MTk2MzIyNTA5MjI4ODc3MTA0/caring-for-my-pomeranian.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

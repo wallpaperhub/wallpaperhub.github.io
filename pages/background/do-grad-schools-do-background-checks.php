@@ -1,0 +1,129 @@
+<title>Do Graduate Schools Perform Background Checks?</title>
+                    <meta name="description" content="Discover whether graduate schools conduct background checks during admissions. Learn about the factors they consider and how to present your history effectively. Stay informed to strengthen your application and avoid pitfalls!">
+                    <meta name="keywords" content="do grad schools do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-grad-schools-do-background-checks">
+                            <span itemprop="name">do grad schools do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Graduate Schools Perform Background Checks?</h1>
+                <p>Graduate schools may conduct background checks as part of their admissions process, focusing on academic records, professional experience, and sometimes criminal history. This practice varies by institution and program. It's essential for applicants to be aware and honest about their past, as discrepancies can affect their admission chances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do background checks show schools that you attende... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/do-background-checks-show-schools-that-you-attended-but-didnt-graduate-from-i-attended-4-years-at-a-university-after-transferring-from.png' alt='Do background checks show schools that you attende... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/do-background-checks-show-schools-that-you-attended-but-didnt-graduate-from-i-attended-4-years-at-a-university-after-transferring-from.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Background Checks in MBA Application Process">
+                                <img itemprop="contentUrl url" src='https://mbahouse.com/wp-content/uploads/2024/10/What-Do-Schools-Look-for-in-Background-Checks-min-703x1024.jpg' alt='Understanding Background Checks in MBA Application Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MBA House" />
+                                </span>
+                                <a href='https://mbahouse.com/wp-content/uploads/2024/10/What-Do-Schools-Look-for-in-Background-Checks-min-703x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Do Background Checks? | NetReputation">
+                                <img itemprop="contentUrl url" src='https://www.netreputation.com/wp-content/uploads/Untitled-design-3.jpg' alt='Do Colleges Do Background Checks? | NetReputation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NetReputation" />
+                                </span>
+                                <a href='https://www.netreputation.com/wp-content/uploads/Untitled-design-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Colleges Do A Background Check? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ndeB75d0zAg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBB5QbOMgwSi9Kt2vMQRA7rByJIBg' alt='Do Colleges Do A Background Check? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ndeB75d0zAg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBB5QbOMgwSi9Kt2vMQRA7rByJIBg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/education.jpg' alt='Education Verification – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1993">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/education.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection_1639233989/image.coreimg.png/1721240017685/background-checks-hero-2.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection_1639233989/image.coreimg.png/1721240017685/background-checks-hero-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Find a Job After Grad School with Expert Strategies | BeMo®">
+                                <img itemprop="contentUrl url" src='https://assets.bemoacademicconsulting.com/files/z7jTT145SiuWsSqDqNyY9WIwSwpjO8KjMo3iyl7U.webp' alt='How to Find a Job After Grad School with Expert Strategies | BeMo®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeMo Academic Consulting" />
+                                </span>
+                                <a href='https://assets.bemoacademicconsulting.com/files/z7jTT145SiuWsSqDqNyY9WIwSwpjO8KjMo3iyl7U.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a School Background Check Go?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67572ed47c12cffac804e1f1_AD_4nXfqeTwwoWHd1V36HwR6lMzk_zBGExVgD-dm26IbXl4K5x_VytXraXzFeFllj2DZtxAU-0-hI3F-OHlvhpWp5qtMd2REKg4-PdM07_KTeGhb6KZJoqpkvNrm4VY_vdlAzEo7VHcaJg.png' alt='How Far Back Does a School Background Check Go?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/67572ed47c12cffac804e1f1_AD_4nXfqeTwwoWHd1V36HwR6lMzk_zBGExVgD-dm26IbXl4K5x_VytXraXzFeFllj2DZtxAU-0-hI3F-OHlvhpWp5qtMd2REKg4-PdM07_KTeGhb6KZJoqpkvNrm4VY_vdlAzEo7VHcaJg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/ce6f3a8a89/checkr-web-edu-verif-2.png/m/' alt='Education Verification Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/ce6f3a8a89/checkr-web-edu-verif-2.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

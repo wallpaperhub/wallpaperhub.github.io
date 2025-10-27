@@ -1,0 +1,129 @@
+<title>Dark Blue Grey Background: Elegance Redefined</title>
+                    <meta name="description" content="Explore the allure of a dark blue grey background. Perfect for enhancing design projects, it creates a modern and elegant atmosphere. Discover how this stunning hue can transform your spaces and digital interfaces, making them more inviting and sophisticated. Perfect for any stylish context!">
+                    <meta name="keywords" content="dark blue grey background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-blue-grey-background">
+                            <span itemprop="name">dark blue grey background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Blue Grey Background: Elegance Redefined</h1>
+                <p>A dark blue grey background evokes a sense of depth and sophistication. This versatile hue can act as a calming canvas for various design elements, enhancing the overall aesthetic of spaces and digital experiences. Whether used in fashion, interior design, or branding, it pairs beautifully with other colors, offering a modern, elegant feel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray And Blue Background Images – Browse 2,630,853 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/40/98/11/360_F_240981123_1M5nx77Pzzynk9BSZmMtg7cDBrI2SVdJ.jpg' alt='Gray And Blue Background Images – Browse 2,630,853 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/40/98/11/360_F_240981123_1M5nx77Pzzynk9BSZmMtg7cDBrI2SVdJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Gray Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17544264/p/f/m/P6KsXSu8rPd7p_6z69sGrhWKIMkxkpYbglB8MNEAG5oWJqMCbN9r/Dark%20Blue%20Gray%20Solid.jpg' alt='Dark Blue Gray Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17544264/p/f/m/P6KsXSu8rPd7p_6z69sGrhWKIMkxkpYbglB8MNEAG5oWJqMCbN9r/Dark%20Blue%20Gray%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1269169056/vector/abstract-dark-blue-background.jpg?s=612x612&w=0&k=20&c=edCJyoOZDc4sOhffzcSNw2ffk8sq6jFiSe_4Uw80HLk=' alt='12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1269169056/vector/abstract-dark-blue-background.jpg?s=612x612&w=0&k=20&c=edCJyoOZDc4sOhffzcSNw2ffk8sq6jFiSe_4Uw80HLk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Grey Blue Color Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1736051204/display_1500/stock-photo-beautiful-grunge-grey-blue-background-panoramic-abstract-decorative-dark-background-wide-angle-1736051204.jpg' alt='Dark Grey Blue Color Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1736051204/display_1500/stock-photo-beautiful-grunge-grey-blue-background-panoramic-abstract-decorative-dark-background-wide-angle-1736051204.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1191152084/vector/creative-abstract-geometric-pattern-dark-blue-background.jpg?s=612x612&w=0&k=20&c=e6Y13zR9Dyd6KLA8Kd-ILjcIz3DH1XC_yrUJm7g06AQ=' alt='12,800+ Blue Grey Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1191152084/vector/creative-abstract-geometric-pattern-dark-blue-background.jpg?s=612x612&w=0&k=20&c=e6Y13zR9Dyd6KLA8Kd-ILjcIz3DH1XC_yrUJm7g06AQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grey Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blue-abstract-background-with-some-smooth-lines-it-some-spots-it_943657-8853.jpg' alt='Blue Grey Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blue-abstract-background-with-some-smooth-lines-it-some-spots-it_943657-8853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Dark Blue Background With A White Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/solid-dark-grey-bjtnz2vlnxz6pya5.jpg' alt='Download A Dark Blue Background With A White Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/solid-dark-grey-bjtnz2vlnxz6pya5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Blue And Dark Grey Background - Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://cms-artifacts.artlist.io/content/motion_array/1375315/Metallic_Blue_And_Dark_Grey_Background_high_resolution_preview_1375315.jpg?Expires=2037526339659&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=uyQzhnk9lOG9RuxpRVusTD-6PUm5trh4MWrV375luvUt0PnQVfELZ~9ge1KAAXcUKKXYt4EsUITs3piGGCr2qRgNBk-Hjwq7IGTfQ8kS3KK~3LWrK0ezXmjjcEYPqLTpO~KN5kgVCjeuNdtpMTwiWmOnodsBGqZlTQPmd9QCvTQlNemc9hNe9cQDQfXFEMivbwNk3eMd5IMuebJ~UEq~mxaWxEYVhySrIHhaiMt9MAkDO9MoD6~dY-laVCpRyOrygYyfMA6ArJEIsmt~mxT3kyGnhX1Zw5MZlokHRw-sHBPO5ANU75pKIiBzLqaU1GvcyOliE8L7T3makq1nCC2l2w__' alt='Metallic Blue And Dark Grey Background - Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://cms-artifacts.artlist.io/content/motion_array/1375315/Metallic_Blue_And_Dark_Grey_Background_high_resolution_preview_1375315.jpg?Expires=2037526339659&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=uyQzhnk9lOG9RuxpRVusTD-6PUm5trh4MWrV375luvUt0PnQVfELZ~9ge1KAAXcUKKXYt4EsUITs3piGGCr2qRgNBk-Hjwq7IGTfQ8kS3KK~3LWrK0ezXmjjcEYPqLTpO~KN5kgVCjeuNdtpMTwiWmOnodsBGqZlTQPmd9QCvTQlNemc9hNe9cQDQfXFEMivbwNk3eMd5IMuebJ~UEq~mxaWxEYVhySrIHhaiMt9MAkDO9MoD6~dY-laVCpRyOrygYyfMA6ArJEIsmt~mxT3kyGnhX1Zw5MZlokHRw-sHBPO5ANU75pKIiBzLqaU1GvcyOliE8L7T3makq1nCC2l2w__' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray And Blue Background Images – Browse 2,630,853 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' alt='Gray And Blue Background Images – Browse 2,630,853 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Grey Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/blue-designed-grunge-background-vintage-260nw-635500598.jpg' alt='Dark Blue Grey Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/blue-designed-grunge-background-vintage-260nw-635500598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

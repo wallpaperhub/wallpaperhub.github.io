@@ -1,0 +1,129 @@
+<title>Psychedelic Purple Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover colorful purple psychedelic wallpaper that adds a vibrant touch to any room. Perfect for creating an artistic focal point, our collection features unique patterns that captivate the imagination and elevate your decor. Embrace the groovy vibes and make your space truly your own!">
+                    <meta name="keywords" content="purple psychedelic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-psychedelic-wallpaper">
+                            <span itemprop="name">purple psychedelic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Psychedelic Purple Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with stunning purple psychedelic wallpaper! Featuring vibrant patterns and mesmerizing designs, this wallpaper is perfect for those seeking a bold statement in their home decor. Whether for a feature wall or an artistic backdrop, embrace the psychedelic vibes and elevate your interior style effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Psychedelic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/colorful-marble-liquid-effect-background-template_474888-4853.jpg' alt='Purple Psychedelic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/colorful-marble-liquid-effect-background-template_474888-4853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Psychedelic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/curvy-psychedelic-background_23-2149076423.jpg' alt='Purple Psychedelic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/curvy-psychedelic-background_23-2149076423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy purple wallpaper by Ashleyprincess201454 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75143127-a1f9-43b2-bd4f-baf859d70310/d7dwcl4-cd0fd9a2-86e8-4e59-b8a4-99ff1881c984.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTQzMTI3LWExZjktNDNiMi1iZDRmLWJhZjg1OWQ3MDMxMFwvZDdkd2NsNC1jZDBmZDlhMi04NmU4LTRlNTktYjhhNC05OWZmMTg4MWM5ODQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.freLzysdNPFjZ6qmurrJVjKeLzdwsyocvbi3TBrKrQE' alt='Trippy purple wallpaper by Ashleyprincess201454 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75143127-a1f9-43b2-bd4f-baf859d70310/d7dwcl4-cd0fd9a2-86e8-4e59-b8a4-99ff1881c984.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTQzMTI3LWExZjktNDNiMi1iZDRmLWJhZjg1OWQ3MDMxMFwvZDdkd2NsNC1jZDBmZDlhMi04NmU4LTRlNTktYjhhNC05OWZmMTg4MWM5ODQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.freLzysdNPFjZ6qmurrJVjKeLzdwsyocvbi3TBrKrQE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic purples">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/ff/a2/d5ffa2e83ac56b207562451cef51cf8f.jpg' alt='Psychedelic purples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/ff/a2/d5ffa2e83ac56b207562451cef51cf8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Trippy purple ideas | purple aesthetic, dark purple aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/34/83/4c/34834ce70cb26bcfdec99383fdb9da90.jpg' alt='16 Trippy purple ideas | purple aesthetic, dark purple aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/34/83/4c/34834ce70cb26bcfdec99383fdb9da90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Purple Psychedelic Acid Trip Vector Unusual Creative ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/06/23/50/39/1000_F_623503905_N9M4e3xedlpeFgckzZKUg6GiiigZsahZ.jpg' alt='Violet Purple Psychedelic Acid Trip Vector Unusual Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/06/23/50/39/1000_F_623503905_N9M4e3xedlpeFgckzZKUg6GiiigZsahZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Purple Wave Psychedelic 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/abstract-purple-wave-psychedelic-4k-2166z963qgr285c7.jpg' alt='Abstract Purple Wave Psychedelic 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/abstract-purple-wave-psychedelic-4k-2166z963qgr285c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Psychedelic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-eye-psychedelic-revt25596t2968td.jpg' alt='Download Psychedelic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-eye-psychedelic-revt25596t2968td.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Background Purple: Over 11,383 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2066482058/display_1500/stock-vector-optical-pattern-moir-pattern-psychedelic-print-new-wave-print-vector-seamless-pattern-2066482058.jpg' alt='Trippy Background Purple: Over 11,383 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2066482058/display_1500/stock-vector-optical-pattern-moir-pattern-psychedelic-print-new-wave-print-vector-seamless-pattern-2066482058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Psychedelic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pink-purple-psychedelic-e4qlzh5ip0lclbmm.jpg' alt='Pink Purple Psychedelic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pink-purple-psychedelic-e4qlzh5ip0lclbmm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

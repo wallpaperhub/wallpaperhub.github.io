@@ -1,0 +1,129 @@
+<title>Stunning iPhone 7 Wallpapers: Fresh & Unique Designs</title>
+                    <meta name="description" content="Discover a variety of eye-catching wallpapers for your iPhone 7! Our carefully selected collection offers vibrant and unique designs to personalize your device. Perfect for any style, these wallpapers will keep your phone looking fresh and engaging. Explore and find your ideal match today!">
+                    <meta name="keywords" content="wallpaper iphone 7">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-7">
+                            <span itemprop="name">wallpaper iphone 7</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 7 Wallpapers: Fresh & Unique Designs</h1>
+                <p>Looking for the perfect wallpaper for your iPhone 7? We’ve curated a stunning collection of high-resolution wallpapers that complement your device's sleek design. Choose from vibrant landscapes, minimalist patterns, or artistic designs to express your personal style. Refresh your screen and enjoy daily inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/f4/cf/1df4cf8adfde47f08bc57ff34cc98dae.jpg' alt='120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/f4/cf/1df4cf8adfde47f08bc57ff34cc98dae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 7 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/626/548/HD-wallpaper-iphone-5-ios-7-apple-beautiful-blue-galaxy-iphone-thumbnail.jpg' alt='HD iphone 7 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/626/548/HD-wallpaper-iphone-5-ios-7-apple-beautiful-blue-galaxy-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone 7 Plus and iPhone 7 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2016/09/iphone_7_wallpaper-05.png' alt='Download iPhone 7 Plus and iPhone 7 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2016/09/iphone_7_wallpaper-05.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thick Teal Smoke Original Iphone 7 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/thick-teal-smoke-original-iphone-7-zmnt6cjpjj43s2ih.jpg' alt='Thick Teal Smoke Original Iphone 7 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/thick-teal-smoke-original-iphone-7-zmnt6cjpjj43s2ih.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Iphone 7 Plus Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-iphone-7-plus-5qjk8epzdhztjr0g.jpg' alt='100+] 4k Iphone 7 Plus Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-iphone-7-plus-5qjk8epzdhztjr0g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c8/aa/3f/c8aa3f19a06356f54ad224ef2eb7a542.jpg' alt='120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c8/aa/3f/c8aa3f19a06356f54ad224ef2eb7a542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple iPhone 7 and iPhone 7 Plus Stock Wallpapers (by akash) — Steemit">
+                                <img itemprop="contentUrl url" src='https://steemitimages.com/640x0/http://up.vbiran.ir/uploads/942147351408517299_1.jpg' alt='Apple iPhone 7 and iPhone 7 Plus Stock Wallpapers (by akash) — Steemit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steemit" />
+                                </span>
+                                <a href='https://steemitimages.com/640x0/http://up.vbiran.ir/uploads/942147351408517299_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Original Iphone 7 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-red-fluid-original-iphone-7-ei5zjqv2j0wfsjwd.jpg' alt='100+] Original Iphone 7 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-red-fluid-original-iphone-7-ei5zjqv2j0wfsjwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Iphone Ios 7 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/red-abstract-ios-12-ekgcvy92ojhqk95s.webp' alt='Black Iphone Ios 7 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/red-abstract-ios-12-ekgcvy92ojhqk95s.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Iphone 7 Plus - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/27/c0/6027c0fe7ef0505ffe6d72b3f3b8d455.jpg' alt='Wallpaper Iphone 7 Plus - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/27/c0/6027c0fe7ef0505ffe6d72b3f3b8d455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Bright & Cheerful Baby Yellow Wallpaper Ideas</title>
+                    <meta name="description" content="Explore delightful baby yellow wallpaper options that brighten up your nursery! Discover soft hues and charming patterns to create a warm, inviting space for your little one. Ideal for nurturing a happy and stimulating environment, these wallpapers will revitalize your baby's room effortlessly.">
+                    <meta name="keywords" content="baby yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/baby-yellow-wallpaper">
+                            <span itemprop="name">baby yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright & Cheerful Baby Yellow Wallpaper Ideas</h1>
+                <p>Baby yellow wallpaper brings warmth and cheer to any nursery. Its soft hue creates a soothing ambiance while stylish patterns add playful charm. Ideal for stimulating a baby's development, yellow wallpaper not only enhances the decor but also creates a happy, inviting space for bonding and growth. Perfect for any little dreamer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims Resource - Baby Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.thesimsresource.com/scaled/807/807634.jpg' alt='The Sims Resource - Baby Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sims Resource" />
+                                </span>
+                                <a href='https://www.thesimsresource.com/scaled/807/807634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Yellow Aesthetic Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d2/72/fc/d272fcfc65da931f32c3770be62a1fc4.jpg' alt='40+ Yellow Aesthetic Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d2/72/fc/d272fcfc65da931f32c3770be62a1fc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby yellow wallpaper✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/59/c1/9959c1d6a9f1426e1a4f6c2ae2f4474c.jpg' alt='Baby yellow wallpaper✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/59/c1/9959c1d6a9f1426e1a4f6c2ae2f4474c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Pastel Yellow Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15073765/p/f/m/VlfvTFnGAG0AtaZosdZd76V6JkGUcYRMotRYYYbe2Lj8QRBNvXuCWpcivPAN/Plain%20Pastel%20Baby%20Yellow%20Solid.jpg' alt='Solid Pastel Yellow Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15073765/p/f/m/VlfvTFnGAG0AtaZosdZd76V6JkGUcYRMotRYYYbe2Lj8QRBNvXuCWpcivPAN/Plain%20Pastel%20Baby%20Yellow%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Yellow Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sun-setting-for-cute-yellow-background-3snoagi56hkcj8yp.jpg' alt='Cute Yellow Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sun-setting-for-cute-yellow-background-3snoagi56hkcj8yp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hanging-hearts-green-background_53876-99643.jpg' alt='Baby Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hanging-hearts-green-background_53876-99643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,000+ Yellow Baby Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165632676/vector/seamless-pattern-of-baby-supplies.jpg?s=612x612&w=0&k=20&c=7lq84oO6bvcIpMDYVnkEkf81hqPUCayZUIxZ1U2Ih6I=' alt='3,000+ Yellow Baby Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165632676/vector/seamless-pattern-of-baby-supplies.jpg?s=612x612&w=0&k=20&c=7lq84oO6bvcIpMDYVnkEkf81hqPUCayZUIxZ1U2Ih6I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="si08-soft-yellow-baby-gradation-blur-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-si08-soft-yellow-baby-gradation-blur-33-iphone6-wallpaper.jpg' alt='si08-soft-yellow-baby-gradation-blur-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-si08-soft-yellow-baby-gradation-blur-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Kawaii yellow ideas | yellow wallpaper, yellow aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/29/1c/30/291c30f3e922c209b63dd03e29500bcb.jpg' alt='12 Kawaii yellow ideas | yellow wallpaper, yellow aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/29/1c/30/291c30f3e922c209b63dd03e29500bcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Baby Style Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210712/original/pngtree-yellow-baby-style-background-picture-image_1175820.jpg' alt='Yellow Baby Style Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210712/original/pngtree-yellow-baby-style-background-picture-image_1175820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

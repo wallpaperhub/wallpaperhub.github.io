@@ -1,0 +1,129 @@
+<title>How to Check Your USPS Background Check Status</title>
+                    <meta name="description" content="Discover how to determine if you've passed the USPS background check. Get tips on what notifications to expect and how to follow up for your status, all in our concise guide!">
+                    <meta name="keywords" content="how do you know if you passed usps background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-do-you-know-if-you-passed-usps-background-check">
+                            <span itemprop="name">how do you know if you passed usps background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Check Your USPS Background Check Status</h1>
+                <p>To know if you passed the USPS background check, you may receive an official notification via email or letter. If you haven't received any communication, you can contact the HR office or the hiring manager for an update. It is common to experience a wait time of several days to weeks for the final decision.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just received NACI/GIS background report via priority Mail. Does ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-xgy52grq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=9bc840abd973eb5a2cdf0e5c92d46cf537521d83' alt='Just received NACI/GIS background report via priority Mail. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-xgy52grq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=9bc840abd973eb5a2cdf0e5c92d46cf537521d83' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USPS Applicant hiring process- email about my background check ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/usps-applicant-hiring-process-email-about-my-background-v0-e33fo5yp13sd1.jpeg?width=640&crop=smart&auto=webp&s=793f166f19b4558688d531f702898ddaed2365c7' alt='USPS Applicant hiring process- email about my background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/usps-applicant-hiring-process-email-about-my-background-v0-e33fo5yp13sd1.jpeg?width=640&crop=smart&auto=webp&s=793f166f19b4558688d531f702898ddaed2365c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does this email mean I have the job once I accept it? I accepted ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/syzg7fjbk7z91.jpg' alt='Does this email mean I have the job once I accept it? I accepted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/syzg7fjbk7z91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello everyone l just got an email to do a background check with ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sv1hrteudix81.jpg' alt='Hello everyone l just got an email to do a background check with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sv1hrteudix81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm confused wasn't the GIS the Criminal and Driving Background ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/30atepjbqp961.jpg' alt='I'm confused wasn't the GIS the Criminal and Driving Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/30atepjbqp961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does USPS Look For in a Background Check">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d4/USPS_virtual_box_application.png' alt='What does USPS Look For in a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Postal Exam" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d4/USPS_virtual_box_application.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nationwide Employee Background Screening. Report Number HR-AR-19-003.">
+                                <img itemprop="contentUrl url" src='x-raw-image:///098f183d8b205683158f7f16aa451ee9d6cc1b34799af8d654803d02bddb5817' alt='Nationwide Employee Background Screening. Report Number HR-AR-19-003.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USPS OIG" />
+                                </span>
+                                <a href='x-raw-image:///098f183d8b205683158f7f16aa451ee9d6cc1b34799af8d654803d02bddb5817' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I got 96 on my assessment and done the all the background ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/84y04vxsmt891.jpg?width=640&crop=smart&auto=webp&s=7dee798a6cbbd7d2f6301ff49afdbf67ed021617' alt='So I got 96 on my assessment and done the all the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/84y04vxsmt891.jpg?width=640&crop=smart&auto=webp&s=7dee798a6cbbd7d2f6301ff49afdbf67ed021617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USPS Background Check Disqualifiers & Hiring Process in 2023">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Background-Check-Disqualifiers.png' alt='USPS Background Check Disqualifiers & Hiring Process in 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/12/USPS-Background-Check-Disqualifiers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just received NACI/GIS background report via priority Mail. Does ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-q5y41frq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=ba07127e4887278b6d796721d59c28313b3c50b6' alt='Just received NACI/GIS background report via priority Mail. Does ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/just-received-naci-gis-background-report-via-priority-mail-v0-q5y41frq0pua1.jpg?width=3024&format=pjpg&auto=webp&s=ba07127e4887278b6d796721d59c28313b3c50b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

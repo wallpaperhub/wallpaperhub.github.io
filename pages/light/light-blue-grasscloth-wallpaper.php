@@ -1,0 +1,129 @@
+<title>Transform Your Space with Light Blue Grasscloth Wallpaper</title>
+                    <meta name="description" content="Discover the calming beauty of light blue grasscloth wallpaper. Ideal for creating serene spaces, its natural texture enhances any room's aesthetic. Perfect for modern or traditional designs, this wallpaper is easy to install and adds a unique touch to your home decor. Shop now to elevate your interiors!">
+                    <meta name="keywords" content="light blue grasscloth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-grasscloth-wallpaper">
+                            <span itemprop="name">light blue grasscloth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Light Blue Grasscloth Wallpaper</h1>
+                <p>Light blue grasscloth wallpaper adds a touch of elegance and tranquility to any room. Its natural texture and soft color create a serene atmosphere, perfect for bedrooms or living spaces. Easy to install and eco-friendly, this wallpaper offers a unique blend of style and comfort, making it a popular choice for interior design enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2964-25961 Barnaby Light Blue Faux Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/files/2964-25961BarnabyLightBlueFauxGrassclothWallpaper1.jpg?v=1706116345' alt='2964-25961 Barnaby Light Blue Faux Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/files/2964-25961BarnabyLightBlueFauxGrassclothWallpaper1.jpg?v=1706116345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Blue Faux Grasscloth Wallpaper | WB5504 – D. Marie Interiors">
+                                <img itemprop="contentUrl url" src='http://www.d-marie-interiors.com/cdn/shop/products/IMG_1005.jpg?v=1571438915' alt='Ocean Blue Faux Grasscloth Wallpaper | WB5504 – D. Marie Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D. Marie Interiors" />
+                                </span>
+                                <a href='http://www.d-marie-interiors.com/cdn/shop/products/IMG_1005.jpg?v=1571438915' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3122-10202 Gump Light Blue Faux Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/files/3122-10202GumpLightBlueFauxGrassclothWallpaper1.jpg?v=1705007153' alt='3122-10202 Gump Light Blue Faux Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/files/3122-10202GumpLightBlueFauxGrassclothWallpaper1.jpg?v=1705007153' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky">
+                                <img itemprop="contentUrl url" src='https://pepper-home.com/cdn/shop/files/changing-table-grasscloth-solid-sky.jpg?v=1708984294&width=1500' alt='Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pepper Home" />
+                                </span>
+                                <a href='https://pepper-home.com/cdn/shop/files/changing-table-grasscloth-solid-sky.jpg?v=1708984294&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lustrous Grasscloth Wallpaper // Blue & Gold">
+                                <img itemprop="contentUrl url" src='https://nuelookathome.com/cdn/shop/files/Wallpaper-Lustrous-Grasscloth-Wallpaper-Blue-Gold-2_800x.jpg?v=1738889805' alt='Lustrous Grasscloth Wallpaper // Blue & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nue Look" />
+                                </span>
+                                <a href='https://nuelookathome.com/cdn/shop/files/Wallpaper-Lustrous-Grasscloth-Wallpaper-Blue-Gold-2_800x.jpg?v=1738889805' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2927-81702 | Newport, Tiverton Sky Blue Faux Grasscloth Sky Blue - A-Street  Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/2927-81702_Room.jpg?v=1664258587&width=1445' alt='2927-81702 | Newport, Tiverton Sky Blue Faux Grasscloth Sky Blue - A-Street  Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/2927-81702_Room.jpg?v=1664258587&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Tiverton Sky Blue Faux Grasscloth Wallpaper 2927-81702">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/cd94bb40-3751-40b0-b397-0eac31260630/svn/a-street-prints-wallpaper-rolls-2927-81702-64_600.jpg' alt='A-Street Prints Tiverton Sky Blue Faux Grasscloth Wallpaper 2927-81702'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/cd94bb40-3751-40b0-b397-0eac31260630/svn/a-street-prints-wallpaper-rolls-2927-81702-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Cottage Coastal Blue Faux Traditional Grasscloth York ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/e56f1b/1667412717/il_570xN.1667412717_by6d.jpg' alt='Ocean Cottage Coastal Blue Faux Traditional Grasscloth York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/e56f1b/1667412717/il_570xN.1667412717_by6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sheehan Light Blue Faux Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/4141-27162_Room.jpg?v=1711735856&width=2400' alt='Sheehan Light Blue Faux Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1376">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/4141-27162_Room.jpg?v=1711735856&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haruki Light Blue Grasscloth Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/haruki-light-blue-grasscloth-wallpaper-ptij-l.jpg' alt='Haruki Light Blue Grasscloth Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/haruki-light-blue-grasscloth-wallpaper-ptij-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

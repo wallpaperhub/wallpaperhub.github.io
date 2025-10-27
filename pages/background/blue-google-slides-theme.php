@@ -1,0 +1,129 @@
+<title>Stunning Blue Google Slides Theme for Captivating Presentations</title>
+                    <meta name="description" content="Discover the perfect blue Google Slides theme to enhance your presentations. Beautifully designed with shades of blue, it offers readability and style for any occasion. Ideal for business or educational use, this theme ensures your content captures attention while maintaining a professional appearance.">
+                    <meta name="keywords" content="blue google slides theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-google-slides-theme">
+                            <span itemprop="name">blue google slides theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Google Slides Theme for Captivating Presentations</h1>
+                <p>Elevate your presentations with a stunning blue Google Slides theme. This visually appealing template combines shades of blue with sleek design elements, ensuring that your content stands out. Perfect for business meetings, educational purposes, or creative projects, this theme enhances readability while providing a professional aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/47143388/0-blue-aesthetic-portfolio.jpg' alt='Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/47143388/0-blue-aesthetic-portfolio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gradient Corners Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2022/03/Blue-Gradient-Corners-PowerPoint-Google-Slides-Template.png' alt='Blue Gradient Corners Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2022/03/Blue-Gradient-Corners-PowerPoint-Google-Slides-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/52597690/0-aqua-marketing-plan.jpg' alt='Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/52597690/0-aqua-marketing-plan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/23081446/0-blue-and-gold-pitch-deck.jpg' alt='Page 3 | Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/23081446/0-blue-and-gold-pitch-deck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/22340480/0-simple-watery-shapes-style-mk-campaign.jpg' alt='Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/22340480/0-simple-watery-shapes-style-mk-campaign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39559214/0-aquatic-and-physical-therapy-center.jpg' alt='Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39559214/0-aquatic-and-physical-therapy-center.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Water | Free Google Slide Theme">
+                                <img itemprop="contentUrl url" src='https://img.loveslides.com/templates/preview/dark-blue-water-138067.jpg' alt='Dark Blue Water | Free Google Slide Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LoveSlides.com" />
+                                </span>
+                                <a href='https://img.loveslides.com/templates/preview/dark-blue-water-138067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gradient Corners Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2022/03/01-Blue-Gradient-Corners-Google-Slides-Template-Cover.png' alt='Blue Gradient Corners Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2022/03/01-Blue-Gradient-Corners-Google-Slides-Template-Cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue PowerPoint Background 2">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/2023/08/Dark-Blue-PowerPoint-Background-0944-1-768x576.jpg' alt='Dark Blue PowerPoint Background 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/2023/08/Dark-Blue-PowerPoint-Background-0944-1-768x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Free Blue Google Slide themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/8289230/0-august-daily-slides.jpg' alt='Page 2 | Free Blue Google Slide themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/8289230/0-august-daily-slides.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

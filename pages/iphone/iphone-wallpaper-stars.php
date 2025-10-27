@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpapers: Embrace the Stars</title>
+                    <meta name="description" content="Discover a mesmerizing collection of star-themed iPhone wallpapers. Perfect for stargazers, these designs bring the magic of the night sky to your device, allowing you to express your unique style. Transform your screen and let your device shine with celestial beauty today!">
+                    <meta name="keywords" content="iphone wallpaper stars">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-stars">
+                            <span itemprop="name">iphone wallpaper stars</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpapers: Embrace the Stars</h1>
+                <p>Transform your iPhone with stunning star-themed wallpapers that evoke the beauty of the night sky. From twinkling constellations to cosmic galaxies, find the perfect backdrop for your device. Elevate your mood and express your personality with these celestial designs that shine bright on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Stars✨ ideas | iphone wallpaper, galaxy wallpaper, phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c2/94/f4/c294f479dd6bfec7e9e8d6911511d18d.jpg' alt='250 Stars✨ ideas | iphone wallpaper, galaxy wallpaper, phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c2/94/f4/c294f479dd6bfec7e9e8d6911511d18d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Stars Wallpaper And Star Light Sky Wallpaper Hd Gallery ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-stars-wallpaper-and-star-light-sky-wallpaper-hd-gallery-6mmbyeudijlrhv5g.jpg' alt='Iphone Stars Wallpaper And Star Light Sky Wallpaper Hd Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-stars-wallpaper-and-star-light-sky-wallpaper-hd-gallery-6mmbyeudijlrhv5g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' alt='Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="106 Insanely Cute iPhone Wallpaper Backgrounds You'll Obsess Over">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/e1/69/00e16920768366e9d9686be9a30dd6b5.jpg' alt='106 Insanely Cute iPhone Wallpaper Backgrounds You'll Obsess Over'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/e1/69/00e16920768366e9d9686be9a30dd6b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moon And Stars Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/moon-and-stars-phone-wallpaper-5vfrgub3w04xvyty.jpg' alt='100+] Moon And Stars Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/moon-and-stars-phone-wallpaper-5vfrgub3w04xvyty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Stars Moon Illustration Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mountain-stars-moon-illustration-iphone-5patch4ykmvae10y.jpg' alt='Mountain Stars Moon Illustration Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mountain-stars-moon-illustration-iphone-5patch4ykmvae10y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful stars iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/38/7f/13387f14e9999fb817bed3081b61055f.jpg' alt='beautiful stars iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/38/7f/13387f14e9999fb817bed3081b61055f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-iklotguylf.b-cdn.net/wp-content/uploads/2024/09/star-cluster-iphone-space-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space, apple, ios, sky, star, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/61/983/HD-wallpaper-space-apple-ios-sky-star.jpg' alt='Space, apple, ios, sky, star, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/61/983/HD-wallpaper-space-apple-ios-sky-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Stars Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-stars-iphone-ldfecs3ybw4krfe0.jpg' alt='100+] Black Stars Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-stars-iphone-ldfecs3ybw4krfe0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

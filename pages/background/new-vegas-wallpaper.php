@@ -1,0 +1,129 @@
+<title>Epic New Vegas Wallpaper for Gamers</title>
+                    <meta name="description" content="Discover eye-catching New Vegas wallpaper to elevate your screen's style! Perfect for fans of Fallout: New Vegas, our selection features stunning visuals from the game. Download now to customize your device and step into the Mojave Wasteland anytime you unlock your screen.">
+                    <meta name="keywords" content="new vegas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-vegas-wallpaper">
+                            <span itemprop="name">new vegas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic New Vegas Wallpaper for Gamers</h1>
+                <p>Transform your digital space with stunning New Vegas wallpaper! Dive into the post-apocalyptic world of Fallout: New Vegas and showcase iconic landscapes, characters, and scenes from this beloved RPG. Enhance your device's aesthetic while celebrating the rich storytelling and immersive environment of the Mojave Wasteland.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I remastered this wallpaper because New Vegas sooooo deserves the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/42wb22ax1fm51.jpg' alt='I remastered this wallpaper because New Vegas sooooo deserves the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/42wb22ax1fm51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alternate Fallout New Vegas Opening Wallpapers (New Vegas Mods)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Vy_6cS3c84c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwHYx5qq7erdwlKHuDdDoFN3Mojw' alt='Alternate Fallout New Vegas Opening Wallpapers (New Vegas Mods)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Vy_6cS3c84c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwHYx5qq7erdwlKHuDdDoFN3Mojw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout:New Vegas Wallpaper (1920x1080) : r/falloutnewvegas">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8qtlmjh77m511.jpg' alt='Fallout:New Vegas Wallpaper (1920x1080) : r/falloutnewvegas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8qtlmjh77m511.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout New Vegas NCR Wallpaper : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/MMmRdmFPOf5GiMqIcdWmH0iEfNZFLBQW8opEVndXRbo.jpg?auto=webp&s=4efeab65ace504e8a7b1298b92b53c3da2da5d7a' alt='Fallout New Vegas NCR Wallpaper : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/MMmRdmFPOf5GiMqIcdWmH0iEfNZFLBQW8opEVndXRbo.jpg?auto=webp&s=4efeab65ace504e8a7b1298b92b53c3da2da5d7a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout new Vegas art in 4k! It's not Ai upscaled its the original ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fallout-new-vegas-art-in-4k-its-not-ai-upscaled-its-the-v0-0orlyq1b7vyc1.jpg?width=2880&format=pjpg&auto=webp&s=829f3c7062157e63583805e7b9f094acc8ef5fd7' alt='Fallout new Vegas art in 4k! It's not Ai upscaled its the original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fallout-new-vegas-art-in-4k-its-not-ai-upscaled-its-the-v0-0orlyq1b7vyc1.jpg?width=2880&format=pjpg&auto=webp&s=829f3c7062157e63583805e7b9f094acc8ef5fd7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new vegas - fallout new vegas [2560 x 1440] : r/gaming">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/dS9YfbZpORx25BhG3y8_0ZZkJ8NllNc32J5J5D8cntg.jpg?auto=webp&s=ad9457e99312658ea195871ce32eecfb0310fcd7' alt='new vegas - fallout new vegas [2560 x 1440] : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/dS9YfbZpORx25BhG3y8_0ZZkJ8NllNc32J5J5D8cntg.jpg?auto=webp&s=ad9457e99312658ea195871ce32eecfb0310fcd7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout new Vegas art in 4k! It's not Ai upscaled its the original ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fallout-new-vegas-art-in-4k-its-not-ai-upscaled-its-the-v0-16axtq1b7vyc1.jpg?width=3840&format=pjpg&auto=webp&s=d798e220a42d9f0147f7e1cd751b9eb0b954404c' alt='Fallout new Vegas art in 4k! It's not Ai upscaled its the original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fallout-new-vegas-art-in-4k-its-not-ai-upscaled-its-the-v0-16axtq1b7vyc1.jpg?width=3840&format=pjpg&auto=webp&s=d798e220a42d9f0147f7e1cd751b9eb0b954404c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout New Vegas, new york, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/901/915/HD-wallpaper-fallout-new-vegas-new-york.jpg' alt='Fallout New Vegas, new york, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/901/915/HD-wallpaper-fallout-new-vegas-new-york.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a really high res wallpaper of your favorite new vegas ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eid2hsejfjn71.jpg' alt='Found a really high res wallpaper of your favorite new vegas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/eid2hsejfjn71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout New Vegas, a game dear to my heart. | by j. m. | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:722/1*CJ5DyKV8710yAqFS1x6qWA.jpeg' alt='Fallout New Vegas, a game dear to my heart. | by j. m. | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:722/1*CJ5DyKV8710yAqFS1x6qWA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

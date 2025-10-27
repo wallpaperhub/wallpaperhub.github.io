@@ -1,0 +1,129 @@
+<title>What Does Move-In Date Mean on Job Applications?</title>
+                    <meta name="description" content="Discover the significance of "move-in date" on job applications. Learn how it affects job offers, onboarding, and your start in a new role. Understand the importance of coordinating schedules for a smooth transition into the workplace. Perfect for job seekers and employers alike!">
+                    <meta name="keywords" content="what does move in date mean on job application">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-move-in-date-mean-on-job-application">
+                            <span itemprop="name">what does move in date mean on job application</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Does Move-In Date Mean on Job Applications?</h1>
+                <p>"Move-in date" on a job application refers to the date when an employee is expected to start working or, in some cases, when they will relocate for the job. This date is crucial for both employers and candidates to ensure a smooth transition. It helps coordinate schedules and align logistics for a seamless onboarding process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Identify Discrepancies in a Candidate's Job Application">
+                                <img itemprop="contentUrl url" src='https://www.hrdirectapps.com/blog/wp-content/uploads/2019/04/Large-Gap-2.png' alt='How to Identify Discrepancies in a Candidate's Job Application'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HRdirect Smart Apps" />
+                                </span>
+                                <a href='https://www.hrdirectapps.com/blog/wp-content/uploads/2019/04/Large-Gap-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Fill Out a Job Application">
+                                <img itemprop="contentUrl url" src='https://clark.com/wp-content/uploads/2019/10/Story-Image-5-1.jpg' alt='How to Fill Out a Job Application'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clark Howard" />
+                                </span>
+                                <a href='https://clark.com/wp-content/uploads/2019/10/Story-Image-5-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does "Process Complete" under the inactive tab means in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-does-process-complete-under-the-inactive-tab-means-in-v0-gu93sqjfnwx91.jpg?width=1176&format=pjpg&auto=webp&s=160a4ff1f4f7eb32d23f19a68319f69d08605f02' alt='What does "Process Complete" under the inactive tab means in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-does-process-complete-under-the-inactive-tab-means-in-v0-gu93sqjfnwx91.jpg?width=1176&format=pjpg&auto=webp&s=160a4ff1f4f7eb32d23f19a68319f69d08605f02' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why would a job application ask about residency history? - The ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/3Kelr.png' alt='Why would a job application ask about residency history? - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Workplace Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/3Kelr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Job Application Forms (+ With Tips and Guide) | Cake">
+                                <img itemprop="contentUrl url" src='https://images.cakeresume.com/images/b40ccf75-b31c-4280-b821-de0a59a9896c.png' alt='Free Job Application Forms (+ With Tips and Guide) | Cake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cake" />
+                                </span>
+                                <a href='https://images.cakeresume.com/images/b40ccf75-b31c-4280-b821-de0a59a9896c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does this mean i have the job? : r/Fedexers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-this-mean-i-have-the-job-v0-hv3kltfr2qza1.jpg?auto=webp&s=89398e512fbffac780ef3998c56eaf50776ed830' alt='Does this mean i have the job? : r/Fedexers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-this-mean-i-have-the-job-v0-hv3kltfr2qza1.jpg?auto=webp&s=89398e512fbffac780ef3998c56eaf50776ed830' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Job Application Forms (+ With Tips and Guide) | Cake">
+                                <img itemprop="contentUrl url" src='https://img.cake.me/cdn-cgi/image/fit=scale-down,format=auto,w=1920/https://images.cakeresume.com/images/ce79b638-847c-4368-9d3b-f5566da5bc18.png' alt='Free Job Application Forms (+ With Tips and Guide) | Cake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cake" />
+                                </span>
+                                <a href='https://img.cake.me/cdn-cgi/image/fit=scale-down,format=auto,w=1920/https://images.cakeresume.com/images/ce79b638-847c-4368-9d3b-f5566da5bc18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello guys happy holidays! Does anybody know what it means when ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1794166081354969' alt='Hello guys happy holidays! Does anybody know what it means when ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1794166081354969' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Job Application Forms (+ With Tips and Guide) | Cake">
+                                <img itemprop="contentUrl url" src='https://images.cakeresume.com/images/d9f7ab9f-eefe-47f6-86b6-235442033500.png' alt='Free Job Application Forms (+ With Tips and Guide) | Cake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1556">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cake" />
+                                </span>
+                                <a href='https://images.cakeresume.com/images/d9f7ab9f-eefe-47f6-86b6-235442033500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Should I Put for "Date Available" on a Job Application ...">
+                                <img itemprop="contentUrl url" src='https://salarship.com/wp-content/uploads/2021/08/date-available-job-application-finale.svg' alt='What Should I Put for "Date Available" on a Job Application ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Salarship" />
+                                </span>
+                                <a href='https://salarship.com/wp-content/uploads/2021/08/date-available-job-application-finale.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

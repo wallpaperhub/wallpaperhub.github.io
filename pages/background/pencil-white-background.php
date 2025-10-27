@@ -1,0 +1,129 @@
+<title>Pencil Perfection: A Minimalist White Background Showcase</title>
+                    <meta name="description" content="Discover the beauty of pencils against a pristine white background. Perfect for artists and educators, this minimalist approach enhances creativity and showcases designs effectively. Explore ideas for art projects, writing, and more, all while keeping the focus on the pencil's unique features.">
+                    <meta name="keywords" content="pencil white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pencil-white-background">
+                            <span itemprop="name">pencil white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pencil Perfection: A Minimalist White Background Showcase</h1>
+                <p>Pencils on a white background provide a clean and minimalist aesthetic that enhances their colors and details. Ideal for showcasing designs, illustrations, or educational materials, this setup highlights the pencil’s shape and texture. Whether for art, writing, or DIY projects, the simplicity of a white backdrop allows creativity to shine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil On White Images – Browse 1,490,686 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/96/45/94/360_F_296459409_jb3yLASZoalAMCUsRqS9a3i2saUIdBpD.jpg' alt='Pencil On White Images – Browse 1,490,686 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1272">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/96/45/94/360_F_296459409_jb3yLASZoalAMCUsRqS9a3i2saUIdBpD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27,600+ Pencil White Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/494959238/vector/pencil-isolaed-on-white-background-vector.jpg?s=612x612&w=0&k=20&c=9hDjxaIL0FZQSaun4ZzLdXjhxFm7CXox9Yi7DUSftGA=' alt='27,600+ Pencil White Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/494959238/vector/pencil-isolaed-on-white-background-vector.jpg?s=612x612&w=0&k=20&c=9hDjxaIL0FZQSaun4ZzLdXjhxFm7CXox9Yi7DUSftGA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil White Background Images – Browse 1,116,819 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/00/77/82/360_F_300778260_7yKgsu64dDtDgD1vNcoSbyPzaTQDg3Yd.jpg' alt='Pencil White Background Images – Browse 1,116,819 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1314">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/00/77/82/360_F_300778260_7yKgsu64dDtDgD1vNcoSbyPzaTQDg3Yd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Yellow pencil on white background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/yellow-pencil-white-background_64749-365.jpg' alt='Premium Vector | Yellow pencil on white background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/yellow-pencil-white-background_64749-365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Graphic Pencil 3D Item on White Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/graphic-pencil-3d-item-white-background_541075-1104.jpg' alt='Premium Vector | Graphic Pencil 3D Item on White Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/graphic-pencil-3d-item-white-background_541075-1104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil to write on white background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/43/10/pencil-to-write-on-white-background-vector-28334310.jpg' alt='Pencil to write on white background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/43/10/pencil-to-write-on-white-background-vector-28334310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing isolated pencil on pure white background by Piotr Marcinski">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/amazing-isolated-pencil-on-pure-white-background-b-d-s.jpg' alt='Amazing isolated pencil on pure white background by Piotr Marcinski'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/amazing-isolated-pencil-on-pure-white-background-b-d-s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil Isolated On Pure White Background Stock Photo 80051167 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pencil-isolated-on-pure-white-260nw-80051167.jpg' alt='Pencil Isolated On Pure White Background Stock Photo 80051167 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pencil-isolated-on-pure-white-260nw-80051167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,224 Pencil White Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/592670700/vector/set-of-seven-pencils-on-white-background.jpg?s=170667a&w=gi&k=20&c=pi0d31XHdChHwEgnifU42KMKBvpgXeIegB4MTRzRgsk=' alt='3,224 Pencil White Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/592670700/vector/set-of-seven-pencils-on-white-background.jpg?s=170667a&w=gi&k=20&c=pi0d31XHdChHwEgnifU42KMKBvpgXeIegB4MTRzRgsk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lead Pencil Isolated On White Background. Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/hayatikayhan/hayatikayhan1503/hayatikayhan150300075/37894259-lead-pencil-isolated-on-white-background.jpg' alt='Lead Pencil Isolated On White Background. Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/hayatikayhan/hayatikayhan1503/hayatikayhan150300075/37894259-lead-pencil-isolated-on-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

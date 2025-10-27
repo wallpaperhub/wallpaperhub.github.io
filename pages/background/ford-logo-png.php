@@ -1,0 +1,129 @@
+<title>Free Ford Logo PNG Images for Easy Download</title>
+                    <meta name="description" content="Find the best Ford logo PNG images for your designs. Download high-quality, transparent illustrations to enhance your projects effortlessly. Perfect for branding, social media, and more! Explore our collection now and elevate your creative work with the iconic Ford logo.">
+                    <meta name="keywords" content="ford logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ford-logo-png">
+                            <span itemprop="name">ford logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Ford Logo PNG Images for Easy Download</h1>
+                <p>Discover high-quality Ford logo PNG images perfect for your projects. These versatile graphics make it easy to incorporate the iconic Ford emblem into designs, whether for personal use or branding materials. Explore a range of sizes and styles to fit your needs, ensuring a professional touch to your artwork or website.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Ford-Motor-Company-Logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c7/Ford-Motor-Company-Logo.png' alt='File:Ford-Motor-Company-Logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c7/Ford-Motor-Company-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Black Logo Download PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/ford-black-logo-download-png-701751694714012hqvdflamdo.png' alt='Ford Black Logo Download PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/ford-black-logo-download-png-701751694714012hqvdflamdo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ford-logo.png | A Silver Lining Foundation">
+                                <img itemprop="contentUrl url" src='https://asilverliningfoundation.org/wp-content/uploads/2021/07/ford-logo.png.png' alt='ford-logo.png | A Silver Lining Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1667">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Silver Lining Foundation" />
+                                </span>
+                                <a href='https://asilverliningfoundation.org/wp-content/uploads/2021/07/ford-logo.png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo History, meaning, PNG, SVG, vector">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/03/Ford-Logo.png' alt='Ford Logo History, meaning, PNG, SVG, vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/03/Ford-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo - Ford Logo Icon - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180624/oby/kisspng-ford-motor-company-car-ford-fusion-ford-mondeo-5b30094645eec4.1463872515298747582865.jpg' alt='Ford Logo - Ford Logo Icon - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180624/oby/kisspng-ford-motor-company-car-ford-fusion-ford-mondeo-5b30094645eec4.1463872515298747582865.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Ford logo 1903.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d3/Ford_logo_1903.png' alt='File:Ford logo 1903.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d3/Ford_logo_1903.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Motor Company Car Ford Mustang Ford Focus PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/af/a3/fbafa317e1db7f2c0c19169511cd4e96.jpg' alt='Ford Motor Company Car Ford Mustang Ford Focus PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/af/a3/fbafa317e1db7f2c0c19169511cd4e96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo SVG JPG DXF PNg">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37094679/r/il/6353c2/4157473014/il_fullxfull.4157473014_bdoq.jpg' alt='Ford Logo SVG JPG DXF PNg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37094679/r/il/6353c2/4157473014/il_fullxfull.4157473014_bdoq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/020/500/431/small_2x/ford-brand-logo-car-symbol-name-blue-design-usa-automobile-illustration-free-vector.jpg' alt='Ford Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/020/500/431/small_2x/ford-brand-logo-car-symbol-name-blue-design-usa-automobile-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Logo PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180601/shy/avojnjwlg.webp' alt='Ford Logo PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180601/shy/avojnjwlg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

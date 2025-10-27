@@ -1,0 +1,129 @@
+<title>Avan Jogia: Rising Star of Hollywood</title>
+                    <meta name="description" content="Discover Avan Jogia, the multi-talented actor recognized for his iconic roles in "Victorious" and "Tut." Explore his journey, advocacy for mental health, and creative pursuits that inspire fans worldwide. Stay updated on his latest projects and contributions to the entertainment industry.">
+                    <meta name="keywords" content="avan jogia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/avan-jogia">
+                            <span itemprop="name">avan jogia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Avan Jogia: Rising Star of Hollywood</h1>
+                <p>Avan Jogia is a talented actor, singer, and writer, known for his roles in popular shows like "Victorious" and "Tut." His unique style and diverse heritage have made him a standout in the entertainment industry. Beyond acting, he's an advocate for mental health awareness and LGBTQ+ rights, inspiring many with his creativity and activism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Avan_Jogia_2019.jpg' alt='Avan Jogia - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d9/Avan_Jogia_2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNzRmMjZhYmItZjZkMi00ZGY0LWI0ZGEtMTZjYjhjMTM3Yjc5XkEyXkFqcGc@._V1_.jpg' alt='Avan Jogia - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNzRmMjZhYmItZjZkMi00ZGY0LWI0ZGEtMTZjYjhjMTM3Yjc5XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How about Avan Jogia for our boy Adam Warlock? : r/marvelstudios">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cs7j135o33kz.jpg' alt='How about Avan Jogia for our boy Adam Warlock? : r/marvelstudios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cs7j135o33kz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia - Actor">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/560592_v9_bc.jpg' alt='Avan Jogia - Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/560592_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia | Nickelodeon | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nickelodeon/images/b/b9/Avan-Jogia-avan-jogia-31781982-500-750.jpg/revision/latest?cb=20131008223436' alt='Avan Jogia | Nickelodeon | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nickelodeon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nickelodeon/images/b/b9/Avan-Jogia-avan-jogia-31781982-500-750.jpg/revision/latest?cb=20131008223436' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/560592_v9_bb.jpg' alt='Avan Jogia | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/560592_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halsey is engaged to 'Victorious'' actor Avan Jogia">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/zgjCSaxt3-wIyPgEJ-t6rVuQljw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AvanJogiaHalsey-091224-2-0efe28a51ea14c30af2ae2a3a708edb4.jpg' alt='Halsey is engaged to 'Victorious'' actor Avan Jogia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/zgjCSaxt3-wIyPgEJ-t6rVuQljw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AvanJogiaHalsey-091224-2-0efe28a51ea14c30af2ae2a3a708edb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia Weathered Teen Stardom. Now He Reveals How it ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/9WeL5heeZQNGl2iKj42XVxtmX_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/avan-jogia-tout-021125-b483e7fa7eb543929d741adbb6a94e51.jpg' alt='Avan Jogia Weathered Teen Stardom. Now He Reveals How it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/9WeL5heeZQNGl2iKj42XVxtmX_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/avan-jogia-tout-021125-b483e7fa7eb543929d741adbb6a94e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia (@jogia) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540594927501739965' alt='Avan Jogia (@jogia) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3540594927501739965' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avan Jogia | Wiki Caprica | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/caprica/images/6/67/Avan.jpg/revision/latest?cb=20210319073507' alt='Avan Jogia | Wiki Caprica | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wiki Caprica | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/caprica/images/6/67/Avan.jpg/revision/latest?cb=20210319073507' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

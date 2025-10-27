@@ -1,0 +1,129 @@
+<title>Transform Your Space with Dry Erase Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the versatility of dry erase peel and stick wallpaper! Perfect for creativity, organization, and decor in homes or offices. Easy to apply and remove, it allows you to turn your walls into an erasable canvas. Refresh your space effortlessly with this stylish and functional wallpaper.">
+                    <meta name="keywords" content="dry erase peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/dry-erase-peel-and-stick-wallpaper">
+                            <span itemprop="name">dry erase peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Dry Erase Peel and Stick Wallpaper</h1>
+                <p>Dry erase peel and stick wallpaper is the ultimate solution for transforming your walls into interactive spaces. Perfect for homes, classrooms, and offices, this innovative wallpaper allows you to write, erase, and reuse easily. Its peel-and-stick design ensures simple application and removal, making it ideal for temporary or permanent decor updates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removab_allpaper-roll-clarkaldine-workspace3_1800x1800.jpg?v=1716404098' alt='Dry Erase Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removab_allpaper-roll-clarkaldine-workspace3_1800x1800.jpg?v=1716404098' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removable-wallpaper-roll-to-do-list_1800x1800.jpg?v=1716404092' alt='Dry Erase Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removable-wallpaper-roll-to-do-list_1800x1800.jpg?v=1716404092' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Whiteboard Wallpaper Peel and Stick Dry Erase Contact Paper  Large 17.7×78.7'' White Board Paper for Wall Classroom Office Home Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61dMvwYWtdL.jpg' alt='Amazon.com : Whiteboard Wallpaper Peel and Stick Dry Erase Contact Paper  Large 17.7×78.7'' White Board Paper for Wall Classroom Office Home Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61dMvwYWtdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper White Dry Erase Vinyl Peel and Stick Wallpaper Roll (Covers 28 sq.  ft.) DR10586">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c7d52236-a8df-42c3-91da-9b2b732d452b/svn/tempaper-wallpaper-rolls-dr10586-64_600.jpg' alt='Tempaper White Dry Erase Vinyl Peel and Stick Wallpaper Roll (Covers 28 sq.  ft.) DR10586'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c7d52236-a8df-42c3-91da-9b2b732d452b/svn/tempaper-wallpaper-rolls-dr10586-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11676WP_YWDE00DryErase_1.jpg?v=1703787186&width=2400' alt='Dry Erase Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11676WP_YWDE00DryErase_1.jpg?v=1703787186&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-wallpaper-on-desk-rgb_1800x1800.jpg?v=1716404098' alt='Dry Erase Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-wallpaper-on-desk-rgb_1800x1800.jpg?v=1716404098' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Whiteboard Wallpaper, White Board Stickers, Dry Erase Paper,  Peel and Stick White Erase Boards for Wall/Table/Doors/Glass/Fridge, 8 x 4  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61SOwo2YX0L.jpg' alt='Amazon.com: Whiteboard Wallpaper, White Board Stickers, Dry Erase Paper,  Peel and Stick White Erase Boards for Wall/Table/Doors/Glass/Fridge, 8 x 4  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61SOwo2YX0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/RMK11676WP_YWDE00DryErase_2.jpg?v=1703787186&width=1024' alt='Dry Erase Peel and Stick Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/RMK11676WP_YWDE00DryErase_2.jpg?v=1703787186&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper NU2497 Dry Erase Peel Stick Wallpaper, White & Off-White">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61TXXH9G7GL._AC_UF894,1000_QL80_.jpg' alt='NuWallpaper NU2497 Dry Erase Peel Stick Wallpaper, White & Off-White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61TXXH9G7GL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whiteboard Wallpaper - 21 sq ft, No Adhesive">
+                                <img itemprop="contentUrl url" src='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper.jpg' alt='Whiteboard Wallpaper - 21 sq ft, No Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarter Surfaces" />
+                                </span>
+                                <a href='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

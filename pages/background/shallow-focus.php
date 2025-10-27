@@ -1,0 +1,129 @@
+<title>Mastering Shallow Focus in Photography</title>
+                    <meta name="description" content="Explore shallow focus in photography to elevate your images. Learn how this technique enhances subject isolation, creating striking visuals. Perfect for portraits and artistic shots, shallow focus is essential for photographers seeking to improve their craft and capture stunning photos.">
+                    <meta name="keywords" content="shallow focus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shallow-focus">
+                            <span itemprop="name">shallow focus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Shallow Focus in Photography</h1>
+                <p>Shallow focus is a photography technique used to create a narrow depth of field, allowing photographers to isolate subjects against a softly blurred background. This effect highlights details and draws the viewer's attention, making it ideal for portraits, macro shots, or artistic compositions. Mastering shallow focus can elevate your photography skills.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shallow focus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/80/Athene_cunicularia_20110524_02.jpg' alt='Shallow focus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4729">
+                                <meta itemprop="height" content="2557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/80/Athene_cunicularia_20110524_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shallow Depth of Field: A Guide to Better Storytelling - B&C Camera">
+                                <img itemprop="contentUrl url" src='http://store.bandccamera.com/cdn/shop/articles/shallow-depth-of-field-a-guide-to-better-storytelling-121950.png?v=1686253016' alt='Shallow Depth of Field: A Guide to Better Storytelling - B&C Camera'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="B&C Camera" />
+                                </span>
+                                <a href='http://store.bandccamera.com/cdn/shop/articles/shallow-depth-of-field-a-guide-to-better-storytelling-121950.png?v=1686253016' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Shallow Focus? How Can it Help Your Cinematography?">
+                                <img itemprop="contentUrl url" src='https://s.studiobinder.com/wp-content/uploads/2020/12/Pillar-Post-Nav-Camera-Focus-Shallow-Focus-Shot.jpg.webp?resolution=1600,2' alt='What is Shallow Focus? How Can it Help Your Cinematography?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudioBinder" />
+                                </span>
+                                <a href='https://s.studiobinder.com/wp-content/uploads/2020/12/Pillar-Post-Nav-Camera-Focus-Shallow-Focus-Shot.jpg.webp?resolution=1600,2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Difference Between Deep Focus vs. Shallow Focus">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/I_AlZlgGq8OfvAXIt2wSGLX5Pn98lA7bRJjbww9ksGu2M459fSOsuvx0IMZyv37-RFAmUT0u4qXwhibqb-KGCh7WrjKSv6CBC55WAvUpeZxqRKefWXxECodUBWgt4W5RfU_jCOU' alt='The Difference Between Deep Focus vs. Shallow Focus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cole's Classroom" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/I_AlZlgGq8OfvAXIt2wSGLX5Pn98lA7bRJjbww9ksGu2M459fSOsuvx0IMZyv37-RFAmUT0u4qXwhibqb-KGCh7WrjKSv6CBC55WAvUpeZxqRKefWXxECodUBWgt4W5RfU_jCOU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Difference Between Deep Focus vs. Shallow Focus">
+                                <img itemprop="contentUrl url" src='https://colesclassroom.com/wp-content/uploads/2020/09/paul-skorupskas-7KLa-xLbSXA-unsplash-scaled.jpg' alt='The Difference Between Deep Focus vs. Shallow Focus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cole's Classroom" />
+                                </span>
+                                <a href='https://colesclassroom.com/wp-content/uploads/2020/09/paul-skorupskas-7KLa-xLbSXA-unsplash-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Shallow Focus? How Can it Help Your Cinematography?">
+                                <img itemprop="contentUrl url" src='https://s.studiobinder.com/wp-content/uploads/2019/08/When-is-Shallow-Focus-in-Photography-Featured-StudioBinder.jpg' alt='What is Shallow Focus? How Can it Help Your Cinematography?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudioBinder" />
+                                </span>
+                                <a href='https://s.studiobinder.com/wp-content/uploads/2019/08/When-is-Shallow-Focus-in-Photography-Featured-StudioBinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Easy Ways You Can Create A Shallow Depth of Field">
+                                <img itemprop="contentUrl url" src='https://www.premiumbeat.com/blog/wp-content/uploads/2017/12/Focal-Length.jpg' alt='3 Easy Ways You Can Create A Shallow Depth of Field'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumBeat" />
+                                </span>
+                                <a href='https://www.premiumbeat.com/blog/wp-content/uploads/2017/12/Focal-Length.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding shallow depth of field photography | Adobe">
+                                <img itemprop="contentUrl url" src='https://www.adobe.com/creativecloud/photography/discover/media_1039084861362a85a2c5136b95d4e7ce5e0526b93.jpeg?width=750&format=jpeg&optimize=medium' alt='Understanding shallow depth of field photography | Adobe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://www.adobe.com/creativecloud/photography/discover/media_1039084861362a85a2c5136b95d4e7ce5e0526b93.jpeg?width=750&format=jpeg&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shallow Focus Creates Depth Of Feeling In 'Son Of Saul' : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2015/12/18/6_wide-29aaedfbc37aa8fdf96ccfa467b25918d79a8c27.jpg' alt='Shallow Focus Creates Depth Of Feeling In 'Son Of Saul' : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2015/12/18/6_wide-29aaedfbc37aa8fdf96ccfa467b25918d79a8c27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shallow focus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Autumn_Illumination_in_Tokugawa_Garden.jpg/220px-Autumn_Illumination_in_Tokugawa_Garden.jpg' alt='Shallow focus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Autumn_Illumination_in_Tokugawa_Garden.jpg/220px-Autumn_Illumination_in_Tokugawa_Garden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

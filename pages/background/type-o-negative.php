@@ -1,0 +1,129 @@
+<title>Discover Type O Negative: The Gothic Metal Legends</title>
+                    <meta name="description" content="Explore the dark and captivating world of Type O Negative, the groundbreaking gothic metal band that left an indelible mark on music. Learn about their unique sound, powerful lyrics, and lasting legacy in this concise overview of their impactful journey. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="type o negative">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/type-o-negative">
+                            <span itemprop="name">type o negative</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Type O Negative: The Gothic Metal Legends</h1>
+                <p>Type O Negative was an iconic American gothic metal band known for their heavy sound and themes of love, loss, and despair. Formed in 1990, the band, led by the charismatic Peter Steele, gained a cult following with their unique blend of doom metal and romanticism. Their albums, like "Bloody Kisses," remain influential, showcasing their talent and distinctive style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blast No. 1 - Blastbeat Tribute to Type O Negative | emissaries of syn">
+                                <img itemprop="contentUrl url" src='https://f4.bcbits.com/img/a1465081820_65' alt='Blast No. 1 - Blastbeat Tribute to Type O Negative | emissaries of syn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="emissaries of syn - Bandcamp" />
+                                </span>
+                                <a href='https://f4.bcbits.com/img/a1465081820_65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEAVY MUSIC HISTORY: Type O Negative - Distorted Sound Magazine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/distortedsoundmag.com/wp-content/uploads/2024/02/Type-O-Negative-Eddie-Malluk-Atlas-Iconscom.jpg?fit=1600%2C900&ssl=1' alt='HEAVY MUSIC HISTORY: Type O Negative - Distorted Sound Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Distorted Sound Magazine -" />
+                                </span>
+                                <a href='https://i0.wp.com/distortedsoundmag.com/wp-content/uploads/2024/02/Type-O-Negative-Eddie-Malluk-Atlas-Iconscom.jpg?fit=1600%2C900&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Years Ago: Type O Negative Frontman Peter Steele Dies">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/366/files/2015/04/Peter-Steele-630x420.jpg?w=780&q=75' alt='13 Years Ago: Type O Negative Frontman Peter Steele Dies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loudwire" />
+                                </span>
+                                <a href='https://townsquare.media/site/366/files/2015/04/Peter-Steele-630x420.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Type O Negative: After Dark (Video 1998) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNmRmYTYxNTAtN2Y2Zi00M2VmLTkxYzctOTJiMzRkOWM2NGFkXkEyXkFqcGc@._V1_.jpg' alt='Type O Negative: After Dark (Video 1998) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNmRmYTYxNTAtN2Y2Zi00M2VmLTkxYzctOTJiMzRkOWM2NGFkXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Type O Negative Full Discography Retrospection and Rankings ...">
+                                <img itemprop="contentUrl url" src='https://riylmag.com/wp-content/uploads/2024/10/746651_03ad0fdf12844f78b5dd9302933079e8mv2.jpg' alt='A Type O Negative Full Discography Retrospection and Rankings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="954">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recommend If You Like" />
+                                </span>
+                                <a href='https://riylmag.com/wp-content/uploads/2024/10/746651_03ad0fdf12844f78b5dd9302933079e8mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best of Type O Negative">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Cgie2PiOL._UF1000,1000_QL80_.jpg' alt='The Best of Type O Negative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Cgie2PiOL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Type O Negative">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044131779242' alt='Profile for Type O Negative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="912">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044131779242' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Type O Negative - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c1/Type_O_Negative_in_performance_%28Columbiahalle%2C_Berlin_-_15_June_2007%29.jpg' alt='Type O Negative - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c1/Type_O_Negative_in_performance_%28Columbiahalle%2C_Berlin_-_15_June_2007%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Type O Negative - Negative Symbol - Patch | Nuclear Blast">
+                                <img itemprop="contentUrl url" src='http://www.nuclearblast.com/cdn/shop/files/typeonegative_negativesymbol_accessorie_patch_sp3196_art22-003468_5056365715979_521155-49.jpg?v=1739145778' alt='Type O Negative - Negative Symbol - Patch | Nuclear Blast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2808">
+                                <meta itemprop="height" content="4059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nuclear Blast" />
+                                </span>
+                                <a href='http://www.nuclearblast.com/cdn/shop/files/typeonegative_negativesymbol_accessorie_patch_sp3196_art22-003468_5056365715979_521155-49.jpg?v=1739145778' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Type O Negative | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb843df562d1bad7f5163fd164' alt='Type O Negative | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb843df562d1bad7f5163fd164' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

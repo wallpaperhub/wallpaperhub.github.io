@@ -1,0 +1,129 @@
+<title>Stunning San Francisco 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating 4K San Francisco wallpapers to enhance your device. Immerse yourself in iconic scenery and vibrant city life with stunning images that reflect the beauty of this amazing city. Perfect for personalizing your home screen or desktop background.">
+                    <meta name="keywords" content="san francisco wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/san-francisco-wallpaper-4k">
+                            <span itemprop="name">san francisco wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning San Francisco 4K Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning San Francisco wallpaper in 4K resolution. Capture the vibrant essence of this iconic city through breathtaking visuals, from the Golden Gate Bridge to charming neighborhoods. Perfect for any screen, these wallpapers bring a touch of San Francisco's beauty right to your fingertips.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Photos, Download The BEST Free San Francisco Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1006965/pexels-photo-1006965.jpeg?cs=srgb&dl=pexels-zoedoingthings-1006965.jpg&fm=jpg' alt='San Francisco Photos, Download The BEST Free San Francisco Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1006965/pexels-photo-1006965.jpeg?cs=srgb&dl=pexels-zoedoingthings-1006965.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] San Francisco 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/san-francisco-4k-golden-gate-bridge-o5y9s1ilexf6auti.jpg' alt='100+] San Francisco 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5250">
+                                <meta itemprop="height" content="2953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/san-francisco-4k-golden-gate-bridge-o5y9s1ilexf6auti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Photos, Download The BEST Free San Francisco Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/476881195/photo/bay-bridge-and-san-francisco-skyline-at-sunset.jpg?b=1&s=612x612&w=0&k=20&c=JVIQQdamVkNp-LfMAExJFE2A7IrUTr4VmJagqXECOLA=' alt='San Francisco Photos, Download The BEST Free San Francisco Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/476881195/photo/bay-bridge-and-san-francisco-skyline-at-sunset.jpg?b=1&s=612x612&w=0&k=20&c=JVIQQdamVkNp-LfMAExJFE2A7IrUTr4VmJagqXECOLA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco 4k Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661963439471-0d0eeb1330d4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FuJTIwZnJhbmNpc2NvJTIwNGt8ZW58MHx8MHx8fDA%3D' alt='San Francisco 4k Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661963439471-0d0eeb1330d4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FuJTIwZnJhbmNpc2NvJTIwNGt8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Photos, Download The BEST Free San Francisco Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/372462/pexels-photo-372462.jpeg?cs=srgb&dl=pexels-pixabay-372462.jpg&fm=jpg' alt='San Francisco Photos, Download The BEST Free San Francisco Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/372462/pexels-photo-372462.jpeg?cs=srgb&dl=pexels-pixabay-372462.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Wallpapers (81 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/c/6/294697-3840x2160-desktop-4k-san-francisco-background-photo.jpg' alt='San Francisco Wallpapers (81 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/c/6/294697-3840x2160-desktop-4k-san-francisco-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captivating San Francisco 4k Cityscape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/captivating-san-francisco-4k-cityscape-k83hrbv2ugn7zkan.jpg' alt='Captivating San Francisco 4k Cityscape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/captivating-san-francisco-4k-cityscape-k83hrbv2ugn7zkan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco-Oakland Bay Bridge Wallpaper 4K, California, City night">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/san-francisco-2160x3840-14488.jpg' alt='San Francisco-Oakland Bay Bridge Wallpaper 4K, California, City night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/san-francisco-2160x3840-14488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco 4k Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661963640331-c867191b4641?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2FuJTIwZnJhbmNpc2NvJTIwNGt8ZW58MHx8MHx8fDA%3D' alt='San Francisco 4k Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661963640331-c867191b4641?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2FuJTIwZnJhbmNpc2NvJTIwNGt8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Midnight Elegance - San Francisco in 4k Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/san-francisco-4k-midnight-scenery-92rdelrcu942q4au.jpg' alt='Download Midnight Elegance - San Francisco in 4k Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5250">
+                                <meta itemprop="height" content="2769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/san-francisco-4k-midnight-scenery-92rdelrcu942q4au.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Unleashing the Legacy of Motley Crue: A Rock Icon</title>
+                    <meta name="description" content="Discover the legacy of Motley Crue, the legendary band that defined glam metal in the '80s. Explore their unforgettable hits, wild lifestyle, and impact on rock music. Join us in celebrating the music and stories behind this iconic band that continues to inspire fans globally!">
+                    <meta name="keywords" content="motley crue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/motley-crue">
+                            <span itemprop="name">motley crue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing the Legacy of Motley Crue: A Rock Icon</h1>
+                <p>Motley Crue, the iconic glam metal band from Los Angeles, burst onto the scene in the early 1980s, known for their theatrical performances and hits like "Kickstart My Heart" and "Girls, Girls, Girls." With their rebellious spirit, they defined an era of rock music, blending heavy riffs with a party lifestyle that captivated fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mötley Crüe - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTVmNmUxZDMtMDMwMy00ZGJmLWE2YWMtMjM5NTMxODc5YzYwXkEyXkFqcGc@._V1_.jpg' alt='Mötley Crüe - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTVmNmUxZDMtMDMwMy00ZGJmLWE2YWMtMjM5NTMxODc5YzYwXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mötley Crüe Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebab0922f900e6c22b8ef4c01c' alt='Mötley Crüe Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebab0922f900e6c22b8ef4c01c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue: A Timeline of Their Storied Career">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/366/files/2019/11/GettyImages-78221144.jpg?w=780&q=75' alt='Motley Crue: A Timeline of Their Storied Career'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loudwire" />
+                                </span>
+                                <a href='https://townsquare.media/site/366/files/2019/11/GettyImages-78221144.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mötley Crüe - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5a/M%C3%B6tley_Cr%C3%BCe%2C_Sweden_Rock_2012.jpg' alt='Mötley Crüe - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5a/M%C3%B6tley_Cr%C3%BCe%2C_Sweden_Rock_2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Members of Mötley Crüe: Where Are They Now?">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/tMpSQ9dTBPKvsGAOiOGipsY82jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1039x447:1041x449)/motley-crue-75d9cd64440942dc86bf81894a0cca0b.jpg' alt='The Members of Mötley Crüe: Where Are They Now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/tMpSQ9dTBPKvsGAOiOGipsY82jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1039x447:1041x449)/motley-crue-75d9cd64440942dc86bf81894a0cca0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue, an American Rock Band, Nikki Sixx, Tommy Lee, Vince ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/513lHLl+RJL._AC_UF894,1000_QL80_.jpg' alt='Motley Crue, an American Rock Band, Nikki Sixx, Tommy Lee, Vince ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/513lHLl+RJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue Residency Rescheduled Due to Vince Neil's Health">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/366/files/2024/02/attachment-motley_crue_vince_neil_2023.jpg?w=780&q=75' alt='Motley Crue Residency Rescheduled Due to Vince Neil's Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loudwire" />
+                                </span>
+                                <a href='https://townsquare.media/site/366/files/2024/02/attachment-motley_crue_vince_neil_2023.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mötley Crüe – Dr. Feelgood – Tommy Girard">
+                                <img itemprop="contentUrl url" src='https://tommygirard.wordpress.com/wp-content/uploads/2019/09/motley-crue-circa-1989-2.jpeg' alt='Mötley Crüe – Dr. Feelgood – Tommy Girard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tommy Girard - WordPress.com" />
+                                </span>
+                                <a href='https://tommygirard.wordpress.com/wp-content/uploads/2019/09/motley-crue-circa-1989-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Motley Crue - Music Poster (Mötley Crüe - The Guys ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61JE1gi9X4L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Motley Crue - Music Poster (Mötley Crüe - The Guys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61JE1gi9X4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motley Crue: What the Band Members Are Working On Now | Billboard">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/motley-crue-the-dirt-premiere-2019-billboard-1548.jpg?w=942&h=623&crop=1' alt='Motley Crue: What the Band Members Are Working On Now | Billboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/motley-crue-the-dirt-premiere-2019-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

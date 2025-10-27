@@ -1,0 +1,129 @@
+<title>Cape Cod: Coastal Charm and History</title>
+                    <meta name="description" content="Discover Cape Cod, a picturesque destination in Massachusetts! Explore stunning beaches, historic lighthouses, and charming towns while enjoying fresh seafood and vibrant arts. Perfect for nature lovers and adventure seekers. Plan your getaway today!">
+                    <meta name="keywords" content="cape cod background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cape-cod-background">
+                            <span itemprop="name">cape cod background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cape Cod: Coastal Charm and History</h1>
+                <p>Cape Cod, a stunning peninsula in Massachusetts, is famed for its beautiful beaches, charming towns, and rich maritime history. Visitors can explore lighthouses, indulge in fresh seafood, and enjoy vibrant art scenes. Its unique coastal environment teems with wildlife, making it a perfect destination for nature lovers and outdoor enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,300+ Cape Cod Summer Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/468491788/photo/path-with-beach-fence-on-cape-cod.jpg?s=612x612&w=0&k=20&c=R8okR7i2yQ6A3jIICVo7VvxX3CvPuCxlzbiSmB7BniM=' alt='8,300+ Cape Cod Summer Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/468491788/photo/path-with-beach-fence-on-cape-cod.jpg?s=612x612&w=0&k=20&c=R8okR7i2yQ6A3jIICVo7VvxX3CvPuCxlzbiSmB7BniM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Cape Cod National Seashore Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1472867417/photo/beach-in-truro-on-cape-cod.jpg?s=612x612&w=0&k=20&c=_PRA-tJOcIzcVJ_pBnUanuj68blf7O8cAmoAZYuFH8o=' alt='1,100+ Cape Cod National Seashore Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1472867417/photo/beach-in-truro-on-cape-cod.jpg?s=612x612&w=0&k=20&c=_PRA-tJOcIzcVJ_pBnUanuj68blf7O8cAmoAZYuFH8o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,600+ Cape Cod Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487660510/photo/brant-point-lighthouse-nantucket-ma.jpg?s=612x612&w=0&k=20&c=Aj6wSPl1MQ48YAY9pIKUVwmMqUvbhUGcaCVc7LrNgTE=' alt='22,600+ Cape Cod Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487660510/photo/brant-point-lighthouse-nantucket-ma.jpg?s=612x612&w=0&k=20&c=Aj6wSPl1MQ48YAY9pIKUVwmMqUvbhUGcaCVc7LrNgTE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/capecodma/Zoom_Background_Cape_Cod_4_beaches_faf36563-4a8b-4a9b-8da5-a936f42a51b4.jpg' alt='Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cape Cod" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/capecodma/Zoom_Background_Cape_Cod_4_beaches_faf36563-4a8b-4a9b-8da5-a936f42a51b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cape Cod - RMA Worldwide">
+                                <img itemprop="contentUrl url" src='https://www.rmalimo.com/wp-content/uploads/2016/08/slide3.jpg' alt='Cape Cod - RMA Worldwide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RMA Limo" />
+                                </span>
+                                <a href='https://www.rmalimo.com/wp-content/uploads/2016/08/slide3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,700+ Cape Cod Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/481448685/photo/race-point-beach-provincetown-massachusetts.jpg?s=612x612&w=0&k=20&c=IRnrgvnb6YeC-XiAFw0WmU-Ws7GZdmjDNeaLZmyb8Ig=' alt='7,700+ Cape Cod Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/481448685/photo/race-point-beach-provincetown-massachusetts.jpg?s=612x612&w=0&k=20&c=IRnrgvnb6YeC-XiAFw0WmU-Ws7GZdmjDNeaLZmyb8Ig=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Facts About Cape Cod You May Not Know | New England Vacation ...">
+                                <img itemprop="contentUrl url" src='https://newenglandvacationrentals.com/wp-content/uploads/2021/11/provincetown_cape_cod_wharf_1.jpg' alt='Top Facts About Cape Cod You May Not Know | New England Vacation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1538">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England Vacation Rentals" />
+                                </span>
+                                <a href='https://newenglandvacationrentals.com/wp-content/uploads/2021/11/provincetown_cape_cod_wharf_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cape Cod Beach Images – Browse 10,369 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/34/31/42/360_F_434314240_uNdKnuI2JiWpSIYM5LCcR7bxk6Zv2Abm.jpg' alt='Cape Cod Beach Images – Browse 10,369 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/34/31/42/360_F_434314240_uNdKnuI2JiWpSIYM5LCcR7bxk6Zv2Abm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cape Cod Beach Images – Browse 10,369 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/06/57/62/360_F_6576250_w9ZDdKM4QJNgsvFRNFRqMYAN9YgbZk1L.jpg' alt='Cape Cod Beach Images – Browse 10,369 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/06/57/62/360_F_6576250_w9ZDdKM4QJNgsvFRNFRqMYAN9YgbZk1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cape Cod Beaches | Things To Do on Cape Cod">
+                                <img itemprop="contentUrl url" src='https://cdn.crowdriff.com/in-use/ac90261f-d4c7-c1ae-519e-301b8e0871bf/750.jpg' alt='Cape Cod Beaches | Things To Do on Cape Cod'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cape Cod" />
+                                </span>
+                                <a href='https://cdn.crowdriff.com/in-use/ac90261f-d4c7-c1ae-519e-301b8e0871bf/750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

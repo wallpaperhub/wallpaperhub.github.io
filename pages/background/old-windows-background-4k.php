@@ -1,0 +1,129 @@
+<title>Stunning 4K Old Windows Backgrounds</title>
+                    <meta name="description" content="Discover beautiful old windows in crystal-clear 4K resolution. Perfect for adding charm and nostalgia to your designs, these backgrounds capture the essence of history. Ideal for mobile devices and eye-catching displays, elevate your space with captivating visuals that inspire and tell a story.">
+                    <meta name="keywords" content="old windows background 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-windows-background-4k">
+                            <span itemprop="name">old windows background 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Old Windows Backgrounds</h1>
+                <p>Experience the serene beauty of old windows enhanced in stunning 4K resolution. These captivating images showcase intricate details, from chipped paint to timeworn textures, that tell stories of the past. Perfect for your home, office, or digital art collection, each image brings a nostalgic charm to any space, urging you to pause and reflect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In honor of Windows XP, I made a 4k version of Bliss : r/pcmasterrace">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg.jpg?auto=webp&s=e06461124c1ccfdba7e9ece763b644ff68eeb06b' alt='In honor of Windows XP, I made a 4k version of Bliss : r/pcmasterrace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg.jpg?auto=webp&s=e06461124c1ccfdba7e9ece763b644ff68eeb06b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today I stumbled upon Microsoft's 4K rendering of the Windows XP ...">
+                                <img itemprop="contentUrl url" src='https://msdesign.blob.core.windows.net/wallpapers/Microsoft_Nostalgic_Windows_Wallpaper_4k.jpg' alt='Today I stumbled upon Microsoft's 4K rendering of the Windows XP ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4089">
+                                <meta itemprop="height" content="2726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ars Technica" />
+                                </span>
+                                <a href='https://msdesign.blob.core.windows.net/wallpapers/Microsoft_Nostalgic_Windows_Wallpaper_4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old Windows Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-windows-af07vukszlj6l7zi.jpg' alt='100+] Old Windows Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-windows-af07vukszlj6l7zi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old Windows Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-windows-2880-x-1800-background-4q59wzctbsp8p18y.jpg' alt='100+] Old Windows Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-windows-2880-x-1800-background-4q59wzctbsp8p18y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows XP Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...">
+                                <img itemprop="contentUrl url" src='https://hd.wallpaperswide.com/thumbs/windows_xp_original-t2.jpg' alt='Windows XP Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://hd.wallpaperswide.com/thumbs/windows_xp_original-t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Windows 10 Wallpaper From 2015 2018 : Free Download, Borrow ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/download/old-windows-10-wallpaper-from-2015-2018/S9Mj5u9.jpg' alt='Old Windows 10 Wallpaper From 2015 2018 : Free Download, Borrow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/download/old-windows-10-wallpaper-from-2015-2018/S9Mj5u9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a 4K remaster of an old Halo-XP wallpaper I saw floating ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xxb11tjh24m61.png?width=640&crop=smart&auto=webp&s=9600144d921278747007ce5cd8d704439c198284' alt='I made a 4K remaster of an old Halo-XP wallpaper I saw floating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xxb11tjh24m61.png?width=640&crop=smart&auto=webp&s=9600144d921278747007ce5cd8d704439c198284' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows Original Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/bc/69/f7/bc69f79f1b69b232281c91b57a1ed7a1.jpg' alt='Windows Original Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/bc/69/f7/bc69f79f1b69b232281c91b57a1ed7a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows Classic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10390782.jpg' alt='Windows Classic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10390782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows Old Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9532882.jpg' alt='Windows Old Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9532882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

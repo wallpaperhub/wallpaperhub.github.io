@@ -1,0 +1,129 @@
+<title>Exploring Juan Ponce de León: Discovering the Fountain of Youth</title>
+                    <meta name="description" content="Uncover the fascinating life of Juan Ponce de León, the Spanish explorer famed for his search for the Fountain of Youth. Learn about his journeys, contributions to colonization, and his legacy in Florida's history. Dive into the adventures that shaped a new world!">
+                    <meta name="keywords" content="juan ponce de leon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/juan-ponce-de-leon">
+                            <span itemprop="name">juan ponce de leon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Juan Ponce de León: Discovering the Fountain of Youth</h1>
+                <p>Juan Ponce de León was a Spanish explorer and conquistador best known for his quest for the Fountain of Youth. Born in 1460, he played a significant role in the early colonization of Puerto Rico and later made his way to Florida in 1513, becoming the first European to explore the region. His expeditions greatly impacted American history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juan Ponce de León - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Juan_Ponce_de_Le%C3%B3n.jpg/640px-Juan_Ponce_de_Le%C3%B3n.jpg' alt='Juan Ponce de León - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Juan_Ponce_de_Le%C3%B3n.jpg/640px-Juan_Ponce_de_Le%C3%B3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juan Ponce de Leon | Biography, Route, Discoveries ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/62/91462-050-3AAC3C8A/engraving-Spanish-Juan-Ponce-de-Leon.jpg' alt='Juan Ponce de Leon | Biography, Route, Discoveries ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/62/91462-050-3AAC3C8A/engraving-Spanish-Juan-Ponce-de-Leon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ponce de Leon: Florida & Fountain of Youth ‑ HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/portrait-of-juan-ponce-de-leon.jpg' alt='Ponce de Leon: Florida & Fountain of Youth ‑ HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3627">
+                                <meta itemprop="height" content="2041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/portrait-of-juan-ponce-de-leon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juan Ponce de León - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/12/Appletons%27_Ponce_de_Leon_Juan.jpg' alt='Juan Ponce de León - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/12/Appletons%27_Ponce_de_Leon_Juan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juan Ponce de León - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1600x900/15974.png' alt='Juan Ponce de León - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1600x900/15974.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Memory • Juan Ponce de Leon.">
+                                <img itemprop="contentUrl url" src='https://www.floridamemory.com/fpc/reference/rc00973.jpg' alt='Florida Memory • Juan Ponce de Leon.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Memory" />
+                                </span>
+                                <a href='https://www.floridamemory.com/fpc/reference/rc00973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Ponce de León, Exposed - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2013/04/02/opinion/0402OPEDsampson/0402OPEDsampson-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Opinion | Ponce de León, Exposed - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2013/04/02/opinion/0402OPEDsampson/0402OPEDsampson-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Search of Florida's Conquistadors | floridatraveler">
+                                <img itemprop="contentUrl url" src='https://floridatraveler.org/wp-content/uploads/2019/05/floridatraveler-portrait-of-juan-ponce-de-leon.jpg?w=584' alt='In Search of Florida's Conquistadors | floridatraveler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida travel" />
+                                </span>
+                                <a href='https://floridatraveler.org/wp-content/uploads/2019/05/floridatraveler-portrait-of-juan-ponce-de-leon.jpg?w=584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida historian: Ponce de León was killed in on Gulf Coast">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6TF6O5EONG2VBCOADUIPQEGFU.jpg?_a=DATAdtfiZAA0' alt='Florida historian: Ponce de León was killed in on Gulf Coast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News4JAX" />
+                                </span>
+                                <a href='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6TF6O5EONG2VBCOADUIPQEGFU.jpg?_a=DATAdtfiZAA0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juan Ponce de Leon | Biography, Route, Discoveries ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/92/166792-050-EAF5B75E/statue-gift-Miami-Juan-Ponce-de-Leon.jpg' alt='Juan Ponce de Leon | Biography, Route, Discoveries ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1103">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/92/166792-050-EAF5B75E/statue-gift-Miami-Juan-Ponce-de-Leon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

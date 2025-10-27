@@ -1,0 +1,129 @@
+<title>Vintage Dark Floral Wallpaper: Timeless Elegance for Your Space</title>
+                    <meta name="description" content="Explore the allure of vintage dark floral wallpaper. Perfect for adding sophistication and warmth to any room, this timeless design enhances both modern and traditional decor. Transform your walls with intricate patterns and rich colors that evoke a sense of nostalgia and style.">
+                    <meta name="keywords" content="vintage dark floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/vintage-dark-floral-wallpaper">
+                            <span itemprop="name">vintage dark floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Dark Floral Wallpaper: Timeless Elegance for Your Space</h1>
+                <p>Vintage dark floral wallpaper brings a touch of nostalgia and elegance to any space. With its intricate patterns and rich hues, it can transform walls into a canvas of timeless beauty. Perfect for creating a cozy ambiance in bedrooms or stylish sophistication in living rooms, this wallpaper complements both modern and classic decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dark Floral Wallpaper Black Background Luxurious Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/578834/6120388134/il_570xN.6120388134_4tdl.jpg' alt='Vintage Dark Floral Wallpaper Black Background Luxurious Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/578834/6120388134/il_570xN.6120388134_4tdl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloom">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716214506/articles/FL0009DA30W_product.jpg' alt='Bloom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716214506/articles/FL0009DA30W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Vintage Flower Bouquet removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/files/2-new_900x.jpg?v=1732797609' alt='Dark Vintage Flower Bouquet removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/files/2-new_900x.jpg?v=1732797609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper in Dark Tones Romantic Flower Peony ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38663273/r/il/350e58/6211142459/il_fullxfull.6211142459_nnvp.jpg' alt='Vintage Floral Wallpaper in Dark Tones Romantic Flower Peony ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="2683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38663273/r/il/350e58/6211142459/il_fullxfull.6211142459_nnvp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Watercolor Floral Wallpaper, Removable Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5676207383_c5qr.jpg?v=1706934584&width=1445' alt='Dark Watercolor Floral Wallpaper, Removable Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5676207383_c5qr.jpg?v=1706934584&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Classical Flower Floral Wallpaper R9226">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' alt='Dark Blue Classical Flower Floral Wallpaper R9226'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Vintage Dark Floral Peel and Stick Wallpaper 17.7''x354 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81LEFRRmwdL._AC_UF894,1000_QL80_.jpg' alt='VEELIKE Vintage Dark Floral Peel and Stick Wallpaper 17.7''x354 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81LEFRRmwdL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Dark Flowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000059-1.jpg' alt='Dutch Dark Flowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000059-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Black Garden Floral Wallpaper – Veelike">
+                                <img itemprop="contentUrl url" src='http://veelike.com/cdn/shop/files/veelike-peel-and-stick-black-garden-floral-wallpaper.jpg?v=1695183188' alt='VEELIKE Black Garden Floral Wallpaper – Veelike'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veelike" />
+                                </span>
+                                <a href='http://veelike.com/cdn/shop/files/veelike-peel-and-stick-black-garden-floral-wallpaper.jpg?v=1695183188' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

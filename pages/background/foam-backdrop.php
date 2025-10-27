@@ -1,0 +1,129 @@
+<title>Vibrant Foam Backdrops for Stunning Photography</title>
+                    <meta name="description" content="Discover the versatility of foam backdrops! Lightweight and easy to set up, they offer vibrant colors and a professional finish for photography, events, and more. Elevate your visuals with our high-quality foam backdrops, perfect for every occasion. Ideal for both professionals and enthusiasts!">
+                    <meta name="keywords" content="foam backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/foam-backdrop">
+                            <span itemprop="name">foam backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Foam Backdrops for Stunning Photography</h1>
+                <p>Foam backdrops are lightweight, versatile, and perfect for events, photography, or videography. Their vibrant colors and smooth surface enhance visuals and provide a professional look. Ideal for both indoor and outdoor settings, foam backdrops are easy to transport and set up, making them a popular choice for photographers and businesses alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cut to Shape Foam Backdrop">
+                                <img itemprop="contentUrl url" src='https://wpeprinting.com/cdn/shop/files/6113D0A2-ED6D-4EDA-B84D-30D4AD0C29B9.jpg?v=1712934530' alt='Cut to Shape Foam Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WPE Production" />
+                                </span>
+                                <a href='https://wpeprinting.com/cdn/shop/files/6113D0A2-ED6D-4EDA-B84D-30D4AD0C29B9.jpg?v=1712934530' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cut to Shape Foam Board Backdrop Set">
+                                <img itemprop="contentUrl url" src='https://wpeprinting.com/cdn/shop/files/B1C069A7-1510-4E82-A88F-3E5DA1ED0E8F.jpg?v=1695131678' alt='Cut to Shape Foam Board Backdrop Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WPE Production" />
+                                </span>
+                                <a href='https://wpeprinting.com/cdn/shop/files/B1C069A7-1510-4E82-A88F-3E5DA1ED0E8F.jpg?v=1695131678' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foamboard Backdrop Panels – LiquidDreamsDesign">
+                                <img itemprop="contentUrl url" src='https://liquiddreamsdesign.com/cdn/shop/products/ARCH1_1024x1024@2x.jpg?v=1646789901' alt='Foamboard Backdrop Panels – LiquidDreamsDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liquid Dreams Design" />
+                                </span>
+                                <a href='https://liquiddreamsdesign.com/cdn/shop/products/ARCH1_1024x1024@2x.jpg?v=1646789901' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Bridal Shower Backdrop on Foam Board! : r/DIYweddings">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ooxsr682as4b1.jpg' alt='DIY Bridal Shower Backdrop on Foam Board! : r/DIYweddings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ooxsr682as4b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheap & Easy Chiara Backdrop With Foam Board - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BW2yqrWRt0E/hqdefault.jpg' alt='Cheap & Easy Chiara Backdrop With Foam Board - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BW2yqrWRt0E/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Piece Foam Board Backdrop Set">
+                                <img itemprop="contentUrl url" src='https://wpeprinting.com/cdn/shop/files/91CB371D-6677-4665-BEAB-BE816C6172FB.jpg?v=1696840431' alt='Three Piece Foam Board Backdrop Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WPE Production" />
+                                </span>
+                                <a href='https://wpeprinting.com/cdn/shop/files/91CB371D-6677-4665-BEAB-BE816C6172FB.jpg?v=1696840431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make adched backdrops with me for under $100!       ‍♀️ #archedbackdrop  #archedbackdroptutorial #insulationfoam #insulationfoambackdrop  #diyarchedbackdrops #diybackdrops #princessparty">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7226041414784781614&location=0&aid=1988' alt='Make adched backdrops with me for under $100!       ‍♀️ #archedbackdrop  #archedbackdroptutorial #insulationfoam #insulationfoambackdrop  #diyarchedbackdrops #diybackdrops #princessparty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7226041414784781614&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foamboard Backdrop Panels – LiquidDreamsDesign">
+                                <img itemprop="contentUrl url" src='https://liquiddreamsdesign.com/cdn/shop/products/IMG_0690copy_1024x1024.jpg?v=1646789900' alt='Foamboard Backdrop Panels – LiquidDreamsDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="796">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liquid Dreams Design" />
+                                </span>
+                                <a href='https://liquiddreamsdesign.com/cdn/shop/products/IMG_0690copy_1024x1024.jpg?v=1646789900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO MAKE A FOAMBOARD BACKDROP W/FLORALS - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/N-s2BSsYMsI/sddefault.jpg' alt='HOW TO MAKE A FOAMBOARD BACKDROP W/FLORALS - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/N-s2BSsYMsI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making a DIY grad party photo backdrop. These foam insulation sheets were  less than 10 each at Lowe’s. Tried my best to draw the arches before using  the foam cutter. Brainstorming stage here.. doing ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3372411839995963477' alt='Making a DIY grad party photo backdrop. These foam insulation sheets were  less than 10 each at Lowe’s. Tried my best to draw the arches before using  the foam cutter. Brainstorming stage here.. doing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3372411839995963477' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

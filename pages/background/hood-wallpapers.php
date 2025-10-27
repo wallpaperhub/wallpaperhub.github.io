@@ -1,0 +1,129 @@
+<title>Urban Hood Wallpapers: Transform Your Space</title>
+                    <meta name="description" content="Discover unique hood wallpapers that merge street style with interior design. Elevate your home or creative space with vibrant graphics and urban vibes. Perfect for anyone looking to add personality to their decor. Explore our collection today and redefine your environment!">
+                    <meta name="keywords" content="hood wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hood-wallpapers">
+                            <span itemprop="name">hood wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Urban Hood Wallpapers: Transform Your Space</h1>
+                <p>Hood wallpapers bring an edgy and urban vibe to your space. From striking graffiti to vintage cityscapes, these wallpapers capture the essence of street culture. Perfect for living rooms, bedrooms, or creative spaces, they offer a unique backdrop that inspires creativity and boldness. Elevate your decor with a touch of urban style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Hood wallpapers ideas | dope wallpapers, hood wallpapers, trill art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d4/93/08/d4930858ec7e47eb188eb0da5fb7caa9.jpg' alt='32 Hood wallpapers ideas | dope wallpapers, hood wallpapers, trill art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d4/93/08/d4930858ec7e47eb188eb0da5fb7caa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hood Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hood-background-no3nw7prd8iyj6bq.jpg' alt='100+] Hood Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hood-background-no3nw7prd8iyj6bq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guy Adjusting Hood Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/guy-adjusting-hood-97uo2g5js90ma0x7.jpg' alt='Guy Adjusting Hood Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/guy-adjusting-hood-97uo2g5js90ma0x7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hood wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d0/e5/8a/d0e58ab67ad3fa58050f2ea3b1bef7b3.jpg' alt='Hood wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d0/e5/8a/d0e58ab67ad3fa58050f2ea3b1bef7b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ghetto Hood Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghetto-hood-72uphtjoiaod55du.jpg' alt='100+] Ghetto Hood Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghetto-hood-72uphtjoiaod55du.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD electric hooding wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/495/749/HD-wallpaper-tokyo-white-hood-electric-blue-sports-gear-r-iphone-japanese-letter-city-skyscrapper-hoodie-tokyo-samsung-tech-wear.jpg' alt='HD electric hooding wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/495/749/HD-wallpaper-tokyo-white-hood-electric-blue-sports-gear-r-iphone-japanese-letter-city-skyscrapper-hoodie-tokyo-samsung-tech-wear.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hood Cartoon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hood-cartoon-66rtzqeziigurk2h.jpg' alt='100+] Hood Cartoon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hood-cartoon-66rtzqeziigurk2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Skull Wearing A Hood Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gangster-skull-wearing-a-hood-vwrjrw7n0hkxzi0b.jpg' alt='Gangster Skull Wearing A Hood Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gangster-skull-wearing-a-hood-vwrjrw7n0hkxzi0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hood, glitch, cool, new, awesome, graplenn, space, background, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/495/259/HD-wallpaper-hood-glitch-cool-new-awesome-graplenn-space-background.jpg' alt='Hood, glitch, cool, new, awesome, graplenn, space, background, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/495/259/HD-wallpaper-hood-glitch-cool-new-awesome-graplenn-space-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD person hood wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/416/579/HD-wallpaper-red-rapping-hood-alone-amoled-black-dark-hoodie-hq-music-night-person-red.jpg' alt='HD person hood wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/416/579/HD-wallpaper-red-rapping-hood-alone-amoled-black-dark-hoodie-hq-music-night-person-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

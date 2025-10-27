@@ -1,0 +1,129 @@
+<title>Essential Thinking Skills Developed Through Research</title>
+                    <meta name="description" content="Explore how researching enhances critical thinking, analytical abilities, and problem-solving skills. Discover the transformative habits that foster curiosity, evaluation, and effective communication for enhanced decision-making in various aspects of life.">
+                    <meta name="keywords" content="what thinking skills and habits does researching help to develop?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-thinking-skills-and-habits-does-researching-help-to-develop">
+                            <span itemprop="name">what thinking skills and habits does researching help to develop?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Thinking Skills Developed Through Research</h1>
+                <p>Researching develops critical thinking, analytical skills, and problem-solving abilities. It encourages curiosity and open-mindedness, fostering a habit of questioning and evaluating information. These skills enhance decision-making and creativity, promoting effective communication and collaboration in both academic and real-world contexts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GUEST POST: HOT or NOT – How to Develop Critical Thinking — The ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1504069800705-HZZ2JZJBEHLCR85J63T4/36230964651_9a2a451648_k.jpg?format=1000w' alt='GUEST POST: HOT or NOT – How to Develop Critical Thinking — The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Learning Scientists" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1504069800705-HZZ2JZJBEHLCR85J63T4/36230964651_9a2a451648_k.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Improve Critical Thinking Skills at Work in 6 Steps ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/pdf29us7flmy/f7b3b0f6-dc1a-5a9c-bbbf-0e9730e6a642/c5158abb05ea089e76abfeea4ab431f4/08_V4-01.jpg' alt='How To Improve Critical Thinking Skills at Work in 6 Steps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1667">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://images.ctfassets.net/pdf29us7flmy/f7b3b0f6-dc1a-5a9c-bbbf-0e9730e6a642/c5158abb05ea089e76abfeea4ab431f4/08_V4-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Development of Skills, Habits, and Mindsets | Design Principles ...">
+                                <img itemprop="contentUrl url" src='https://k12.designprinciples.org/sites/default/files/rte/shm/fig5.3.png' alt='Development of Skills, Habits, and Mindsets | Design Principles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Principles for Schools" />
+                                </span>
+                                <a href='https://k12.designprinciples.org/sites/default/files/rte/shm/fig5.3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Develop Critical Thinking Skills in Children">
+                                <img itemprop="contentUrl url" src='https://tenderheartedteacher.com/wp-content/uploads/2023/03/Critical-Thinking-Skills-in-Children-IG-Post--1024x1024.png' alt='How to Develop Critical Thinking Skills in Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenderhearted Teacher" />
+                                </span>
+                                <a href='https://tenderheartedteacher.com/wp-content/uploads/2023/03/Critical-Thinking-Skills-in-Children-IG-Post--1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Improve Research and Analytical Skills">
+                                <img itemprop="contentUrl url" src='https://peachyessay.com/wp-content/uploads/2021/11/tips-improve-research-and-analytical-skills-1024x630.jpeg' alt='How to Improve Research and Analytical Skills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peachy Essay" />
+                                </span>
+                                <a href='https://peachyessay.com/wp-content/uploads/2021/11/tips-improve-research-and-analytical-skills-1024x630.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Answer the following questions. 1) What thinking skills ...">
+                                <img itemprop="contentUrl url" src='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/187b871b0f6e41dfad8ce5e1da7df26d~tplv-ejcjvp0zxf-10.image' alt='Solved: Answer the following questions. 1) What thinking skills ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gauth" />
+                                </span>
+                                <a href='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/187b871b0f6e41dfad8ce5e1da7df26d~tplv-ejcjvp0zxf-10.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Evidence-Based Study Habits: What Research Says Work | Psych Central">
+                                <img itemprop="contentUrl url" src='https://media.post.rvohealth.io/wp-content/uploads/sites/4/2022/06/145882-8-highly-effective-study-habits_1296x1521-873x1024.jpg' alt='8 Evidence-Based Study Habits: What Research Says Work | Psych Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="873">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Psych Central" />
+                                </span>
+                                <a href='https://media.post.rvohealth.io/wp-content/uploads/sites/4/2022/06/145882-8-highly-effective-study-habits_1296x1521-873x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Benefits of Critical Thinking & How to develop it - tscfm.org">
+                                <img itemprop="contentUrl url" src='https://tscfm.org/wp-content/uploads/2024/10/why-is-critical-thinking-important-1024x768.png' alt='The Benefits of Critical Thinking & How to develop it - tscfm.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thadomal Shahani Centre for Management" />
+                                </span>
+                                <a href='https://tscfm.org/wp-content/uploads/2024/10/why-is-critical-thinking-important-1024x768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Development of Skills, Habits, and Mindsets | Design Principles ...">
+                                <img itemprop="contentUrl url" src='https://k12.designprinciples.org/sites/default/files/rte/shm/casel-sel-framework-wheel.png' alt='Development of Skills, Habits, and Mindsets | Design Principles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Principles for Schools" />
+                                </span>
+                                <a href='https://k12.designprinciples.org/sites/default/files/rte/shm/casel-sel-framework-wheel.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Habits to Develop Better Critical Thinking Skills">
+                                <img itemprop="contentUrl url" src='https://www.developgoodhabits.com/wp-content/uploads/2022/03/develop-critical-thinking-skills.jpg' alt='7 Habits to Develop Better Critical Thinking Skills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Develop Good Habits" />
+                                </span>
+                                <a href='https://www.developgoodhabits.com/wp-content/uploads/2022/03/develop-critical-thinking-skills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

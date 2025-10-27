@@ -1,0 +1,129 @@
+<title>Gamecock Football Wallpapers: Show Your Team Spirit!</title>
+                    <meta name="description" content="Discover an amazing collection of Gamecock football wallpapers, perfect for showcasing your team spirit! Download high-quality images that represent your pride in the Gamecocks, making your device stand out. Immerse yourself in the game day excitement with vibrant designs tailored for true fans!">
+                    <meta name="keywords" content="gamecock football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/gamecock-football-wallpaper">
+                            <span itemprop="name">gamecock football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gamecock Football Wallpapers: Show Your Team Spirit!</h1>
+                <p>Elevate your device's look with striking Gamecock football wallpapers! Featuring bold colors and iconic designs, these wallpapers capture the spirit of Gamecock pride. Perfect for fans of all ages, this collection invigorates any screen with the energy of the game. Show your support and love for Gamecock football today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamecock Football Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/6a58e478402263.5ca3d5212e001.jpg' alt='Gamecock Football Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/6a58e478402263.5ca3d5212e001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: USC-The Citadel | The State">
+                                <img itemprop="contentUrl url" src='https://www.thestate.com/latest-news/5t8av4/picture18031748/alternates/LANDSCAPE_1140/fIQqI.So.168.jpg' alt='Wallpaper: USC-The Citadel | The State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The State" />
+                                </span>
+                                <a href='https://www.thestate.com/latest-news/5t8av4/picture18031748/alternates/LANDSCAPE_1140/fIQqI.So.168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/54/53/7754538b8b98dbe73ebd8e868d1f8517.jpg' alt='South Carolina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/54/53/7754538b8b98dbe73ebd8e868d1f8517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina Football Player Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/south-carolina-football-player-et33xf5p14yq8ls4.jpg' alt='South Carolina Football Player Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/south-carolina-football-player-et33xf5p14yq8ls4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamecock Football on X: "Give your phone that fresh ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EerulU4VoAA_bRv.jpg' alt='Gamecock Football on X: "Give your phone that fresh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EerulU4VoAA_bRv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamecock Football on X: "New wallpaper for your Wednesday ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DkGds8gXoAEzuCQ?format=jpg&name=large' alt='Gamecock Football on X: "New wallpaper for your Wednesday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DkGds8gXoAEzuCQ?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I put together this wallpaper for the new era of Gamecock football ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dku1sbjmnocy.jpg' alt='I put together this wallpaper for the new era of Gamecock football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dku1sbjmnocy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/f9/83/36f983321ec8162e526b73759392b234.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/f9/83/36f983321ec8162e526b73759392b234.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peyton (@makehamecocksfindme)’s videos with Sandstorm - Darude | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7181603147884875054&location=0&aid=1988' alt='Peyton (@makehamecocksfindme)’s videos with Sandstorm - Darude | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7181603147884875054&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop wallpaper: USC at the bowl game | The State">
+                                <img itemprop="contentUrl url" src='http://media.thestate.com/static/images/gogamecocks/wallpaper/papajohnsbowl2009/uscbowl1.jpg' alt='Desktop wallpaper: USC at the bowl game | The State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The State" />
+                                </span>
+                                <a href='http://media.thestate.com/static/images/gogamecocks/wallpaper/papajohnsbowl2009/uscbowl1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

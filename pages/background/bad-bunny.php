@@ -1,0 +1,129 @@
+<title>Bad Bunny: The Rise of a Reggaeton Icon</title>
+                    <meta name="description" content="Discover the journey of Bad Bunny, the Puerto Rican superstar reshaping the music industry with his innovative sound and style. Dive into his top hits, cultural impact, and how he became a voice for a new generation in Latin music.">
+                    <meta name="keywords" content="bad bunny">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bad-bunny">
+                            <span itemprop="name">bad bunny</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bad Bunny: The Rise of a Reggaeton Icon</h1>
+                <p>Bad Bunny is a revolutionary Puerto Rican artist, blending reggaeton, trap, and Latin music to create infectious beats. Emerging from San Juan, he gained massive popularity with hits like "Soy Peor" and "DÁKITI." His unique style and fashion sense have made him a trendsetter, influencing a new generation of musicians and fans alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/640px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg' alt='Bad Bunny - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/640px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13' alt='Bad Bunny Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny gets help from a Wisconsin professor - WPR">
+                                <img itemprop="contentUrl url" src='https://www.wpr.org/wp-content/uploads/2025/01/AP24071043563344-scaled.jpg' alt='Bad Bunny gets help from a Wisconsin professor - WPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wisconsin Public Radio" />
+                                </span>
+                                <a href='https://www.wpr.org/wp-content/uploads/2025/01/AP24071043563344-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Bad Bunny">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044544064759' alt='Profile for Bad Bunny'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044544064759' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Is First Latin Artist With 100 Billboard Hot 100 Hits ...">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F01%2F14%2Fbad-bunny-first-latin-artist-with-100-billboard-hot-100-chart-hits-000.jpg?w=960&cbr=1&q=90&fit=max' alt='Bad Bunny Is First Latin Artist With 100 Billboard Hot 100 Hits ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F01%2F14%2Fbad-bunny-first-latin-artist-with-100-billboard-hot-100-chart-hits-000.jpg?w=960&cbr=1&q=90&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny | Gorillaz Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kong/images/e/e3/Bad_Bunny.jpg/revision/latest?cb=20220902162840' alt='Bad Bunny | Gorillaz Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorillaz Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kong/images/e/e3/Bad_Bunny.jpg/revision/latest?cb=20220902162840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny Is Here at the Right Time | Cover Interview | Allure">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/615b6f687ed01b98fff0283c/1:1/w_2355,h_2355,c_limit/Allure_BadBunny_1.jpg' alt='Bad Bunny Is Here at the Right Time | Cover Interview | Allure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2355">
+                                <meta itemprop="height" content="2355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/615b6f687ed01b98fff0283c/1:1/w_2355,h_2355,c_limit/Allure_BadBunny_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny's 'Debí Tirar Más Fotos' Album is Here: Stream It Now">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2025/01/bad-bunny-2024-eric-rojas-billboard-1548.jpg?w=942&h=623&crop=1' alt='Bad Bunny's 'Debí Tirar Más Fotos' Album is Here: Stream It Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2025/01/bad-bunny-2024-eric-rojas-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny champions a new masculinity through fashion | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190402152519-bad-bunny-2018-billboard-latin-music-awards.jpg?q=w_1110,c_fill' alt='Bad Bunny champions a new masculinity through fashion | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190402152519-bad-bunny-2018-billboard-latin-music-awards.jpg?q=w_1110,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Bunny - Rapper, Singer, Wrestler">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/1039037_v9_bf.jpg' alt='Bad Bunny - Rapper, Singer, Wrestler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/1039037_v9_bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

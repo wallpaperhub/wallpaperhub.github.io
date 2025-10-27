@@ -1,0 +1,129 @@
+<title>Exploring the Rich History of Coins</title>
+                    <meta name="description" content="Discover the fascinating evolution of coins through history. From ancient currency to modern-day collectibles, learn about the unique designs and cultural significance that make coins a vital part of commerce and society. Explore the story behind your favorite coins today!">
+                    <meta name="keywords" content="coin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coin-background">
+                            <span itemprop="name">coin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich History of Coins</h1>
+                <p>Coins have a rich history, evolving from ancient forms of currency to modern coins used today. Initially crafted from precious metals, coins symbolize commerce and trade. Each coin carries unique designs reflecting culture, values, and historical significance. Understanding their background enhances appreciation for their role in society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,400+ Gold Coin Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1133368322/vector/golden-coins-transparent-backgrounds-3d-money-fall-casino-jackpot-game-treasures-vector.jpg?s=612x612&w=0&k=20&c=LG9yNQYJVj21bUunZy16HgtMyuwjJxPaCfgbbMmBCyA=' alt='30,400+ Gold Coin Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1133368322/vector/golden-coins-transparent-backgrounds-3d-money-fall-casino-jackpot-game-treasures-vector.jpg?s=612x612&w=0&k=20&c=LG9yNQYJVj21bUunZy16HgtMyuwjJxPaCfgbbMmBCyA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Coin Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/898/047/small_2x/gold-coins-and-money-background-photo.jpg' alt='Gold Coin Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/898/047/small_2x/gold-coins-and-money-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coin Background Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/heap-chocolate-coins_23-2147748111.jpg' alt='Coin Background Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/heap-chocolate-coins_23-2147748111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Realistic gold coins illustration on clean background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2c/d0/02/2cd002e97cef8c650440843dca7c9389.jpg' alt='Download Realistic gold coins illustration on clean background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2c/d0/02/2cd002e97cef8c650440843dca7c9389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coin Background Images – Browse 1,774,522 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/46/73/93/360_F_946739352_I0VFr7Kt8epfSsZD9iQO74KWHh4VgpUA.jpg' alt='Coin Background Images – Browse 1,774,522 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/46/73/93/360_F_946739352_I0VFr7Kt8epfSsZD9iQO74KWHh4VgpUA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coin background. Pennies/Quarters/ Cents Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/W248R7/coin-background-penniesquarters-cents-W248R7.jpg' alt='Coin background. Pennies/Quarters/ Cents Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/W248R7/coin-background-penniesquarters-cents-W248R7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,400+ Gold Coin Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1181208138/vector/golden-shiny-coins-big-bunch-of-old-metal-money-precious-expensive-treasure.jpg?s=612x612&w=0&k=20&c=jTsyvXy2EIkPTLclzcdFcOYROFiGrqjpdzARpJsa3bs=' alt='30,400+ Gold Coin Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1181208138/vector/golden-shiny-coins-big-bunch-of-old-metal-money-precious-expensive-treasure.jpg?s=612x612&w=0&k=20&c=jTsyvXy2EIkPTLclzcdFcOYROFiGrqjpdzARpJsa3bs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coins Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/055/359/423/non_2x/golden-coins-stacked-on-each-other-forming-a-textured-background-photo.jpg' alt='Coins Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/055/359/423/non_2x/golden-coins-stacked-on-each-other-forming-a-textured-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coin Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-golden-coins-composition-with-bright-gradient-light-source-surrounded-by-flying-money-with-dollar-signs-vector-illustration_1284-78170.jpg' alt='Coin Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-golden-coins-composition-with-bright-gradient-light-source-surrounded-by-flying-money-with-dollar-signs-vector-illustration_1284-78170.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Coin Background Wallpaper Stock Photo, Picture and Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/robert90210/robert902101906/robert90210190600021/125212030-gold-coin-background-wallpaper.jpg' alt='Gold Coin Background Wallpaper Stock Photo, Picture and Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/robert90210/robert902101906/robert90210190600021/125212030-gold-coin-background-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

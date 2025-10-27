@@ -1,0 +1,129 @@
+<title>Create Inspiring Quotes Easily</title>
+                    <meta name="description" content="Learn how to create impactful quotes that resonate with your audience. Discover tips for crafting concise, powerful messages that inspire and motivate, perfect for sharing across your social media platforms. Unleash your creativity and make your words count!">
+                    <meta name="keywords" content="create a quote">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/create-a-quote">
+                            <span itemprop="name">create a quote</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Inspiring Quotes Easily</h1>
+                <p>Creating a quote can be a powerful way to inspire or convey a message. Start with a clear idea or theme, then distill your thoughts into a few impactful words. Use vivid imagery or emotional triggers to resonate with your audience. Keep it concise, making every word count to leave a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Quote Template | ???? Free Invoice Quotation Generator">
+                                <img itemprop="contentUrl url" src='https://freeinvoicebuilder.com/wp-content/uploads/2022/01/computer-parts-564x804.jpg' alt='Online Quote Template | ???? Free Invoice Quotation Generator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Invoice Generator" />
+                                </span>
+                                <a href='https://freeinvoicebuilder.com/wp-content/uploads/2022/01/computer-parts-564x804.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Inspirational Picture Quotes | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2022-03-picture-quote-feature-image.jpg?auto=avif,webp&format=jpg&width=1136&crop=16:9' alt='Create Your Own Inspirational Picture Quotes | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2022-03-picture-quote-feature-image.jpg?auto=avif,webp&format=jpg&width=1136&crop=16:9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable quote templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3p5JEeqQ/1/0/1280w/canva-black-white-simple-quote-instagram-post-ZhKZqz2TAuE.jpg' alt='Free and customizable quote templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3p5JEeqQ/1/0/1280w/canva-black-white-simple-quote-instagram-post-ZhKZqz2TAuE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a quote with free business quote generator | Billdu">
+                                <img itemprop="contentUrl url" src='https://my.billdu.com/images/Create-quotes-for-free-with-Billdu-online-quote-generator.png' alt='Create a quote with free business quote generator | Billdu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1494">
+                                <meta itemprop="height" content="1464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="my.billdu.com" />
+                                </span>
+                                <a href='https://my.billdu.com/images/Create-quotes-for-free-with-Billdu-online-quote-generator.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Quote in 4 Easy Steps | Sales | Accelo">
+                                <img itemprop="contentUrl url" src='https://help.accelo.com/assets/Uploads/2017-12-19-21-03-57.png' alt='How to Create a Quote in 4 Easy Steps | Sales | Accelo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guides - Accelo" />
+                                </span>
+                                <a href='https://help.accelo.com/assets/Uploads/2017-12-19-21-03-57.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a quote with free business quote generator | Billdu">
+                                <img itemprop="contentUrl url" src='https://my.billdu.com/images/Free-quote-generator.png' alt='Create a quote with free business quote generator | Billdu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="my.billdu.com" />
+                                </span>
+                                <a href='https://my.billdu.com/images/Free-quote-generator.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wix Price Quotes: Creating a Price Quote | Help Center | Wix.com">
+                                <img itemprop="contentUrl url" src='https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/be0b50df-801c-4d6d-b81c-dc49333eccac/2023/05/02/a000ef76-9271-4f87-98a4-ef4e9d62997b/75cd34c5-94d8-45cd-a73a-2c0bbea7d591.png' alt='Wix Price Quotes: Creating a Price Quote | Help Center | Wix.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wix Support" />
+                                </span>
+                                <a href='https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/be0b50df-801c-4d6d-b81c-dc49333eccac/2023/05/02/a000ef76-9271-4f87-98a4-ef4e9d62997b/75cd34c5-94d8-45cd-a73a-2c0bbea7d591.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make it a Quote | Create a Quote image from your content">
+                                <img itemprop="contentUrl url" src='https://miq.moe/assets/og-en.png' alt='Make it a Quote | Create a Quote image from your content'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="miq.moe" />
+                                </span>
+                                <a href='https://miq.moe/assets/og-en.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Your Own Drawing Quotes | Sketchbook Skool">
+                                <img itemprop="contentUrl url" src='https://sketchbookskool.com/wp-content/uploads/2020/02/imagine.jpg' alt='How to Create Your Own Drawing Quotes | Sketchbook Skool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchbook Skool" />
+                                </span>
+                                <a href='https://sketchbookskool.com/wp-content/uploads/2020/02/imagine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Quote!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/D6gIixLc0uY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD_Xgw4LC7WXxHyJvSUwSymMYJaw' alt='Create Your Own Quote!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/D6gIixLc0uY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD_Xgw4LC7WXxHyJvSUwSymMYJaw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

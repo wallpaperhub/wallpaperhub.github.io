@@ -1,0 +1,129 @@
+<title>Corbin Bleu: High School Musical Star and Multifaceted Entertainer</title>
+                    <meta name="description" content="Explore the life and career of Corbin Bleu, the talented actor and singer best known for his role in "High School Musical." Discover his journey in entertainment, music releases, and philanthropic efforts in this engaging overview of a multifaceted star.">
+                    <meta name="keywords" content="corbin bleu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/corbin-bleu">
+                            <span itemprop="name">corbin bleu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Corbin Bleu: High School Musical Star and Multifaceted Entertainer</h1>
+                <p>Corbin Bleu is an American actor, singer, and dancer known for his role as Chad Danforth in Disney's "High School Musical" series. He began his career in theatre and has showcased his incredible talent on stage and screen. Beyond acting, Corbin has released music and participated in various philanthropic efforts, making him a multifaceted entertainer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/44/Corbin_Bleu_%28Headshot%29.jpg' alt='Corbin Bleu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/44/Corbin_Bleu_%28Headshot%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ae10cd1ec125a178788b490df64e41ffb0f0d60f' alt='Corbin Bleu Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ae10cd1ec125a178788b490df64e41ffb0f0d60f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGY1MTE3OWItMGE4OS00Y2QxLTgyM2YtNGNhMGQ5YWY3ZmNmXkEyXkFqcGc@._V1_.jpg' alt='Corbin Bleu - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="6600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGY1MTE3OWItMGE4OS00Y2QxLTgyM2YtNGNhMGQ5YWY3ZmNmXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Corbin_Bleu_%28Cropped%29.jpg/220px-Corbin_Bleu_%28Cropped%29.jpg' alt='Corbin Bleu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Corbin_Bleu_%28Cropped%29.jpg/220px-Corbin_Bleu_%28Cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu | Phineas and Ferb Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/phineasandferb/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20220704172954' alt='Corbin Bleu | Phineas and Ferb Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phineas and Ferb Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/phineasandferb/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20220704172954' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20200120233628' alt='Corbin Bleu | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1005">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20200120233628' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu | Disney Channel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disneychannel/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20091101233257' alt='Corbin Bleu | Disney Channel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Channel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disneychannel/images/f/f3/Corbin_Bleu.jpg/revision/latest?cb=20091101233257' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/322638_v9_bb.jpg' alt='Corbin Bleu | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/322638_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Corbin Bleu Has so Many Wikipedia Pages - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5c3909a1bde70f45f86eaf81?width=1200&format=jpeg' alt='Why Corbin Bleu Has so Many Wikipedia Pages - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5c3909a1bde70f45f86eaf81?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corbin Bleu & More to Lead Singin' in the Rain at the Muny ...">
+                                <img itemprop="contentUrl url" src='https://imaging.broadway.com/images/regular-43/w735/98243-9.jpg' alt='Corbin Bleu & More to Lead Singin' in the Rain at the Muny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway Shows" />
+                                </span>
+                                <a href='https://imaging.broadway.com/images/regular-43/w735/98243-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

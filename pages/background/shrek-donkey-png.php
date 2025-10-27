@@ -1,0 +1,129 @@
+<title>Download Shrek Donkey PNG - High Quality Graphics</title>
+                    <meta name="description" content="Discover a fantastic selection of Shrek Donkey PNG images! Perfect for your creative needs, these high-quality graphics are ideal for digital art, social media, and merchandise. Download now to add some fun to your projects with this iconic DreamWorks character!">
+                    <meta name="keywords" content="shrek donkey png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shrek-donkey-png">
+                            <span itemprop="name">shrek donkey png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Shrek Donkey PNG - High Quality Graphics</h1>
+                <p>Looking for fun and whimsical Shrek Donkey PNG images? Our collection features high-quality, transparent PNGs of the beloved character Donkey from Shrek, perfect for your creative projects, social media posts, or merchandise designs. Add a touch of humor and nostalgia with these unique graphics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny, Donkey, Shrek Character PNG Transparent Background, Free ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/funny-donkey-shrek-character-3.png' alt='Funny, Donkey, Shrek Character PNG Transparent Background, Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/funny-donkey-shrek-character-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek Donkey png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/657/1007/png-clipart-donkey-hinny-donkey-shrek-animation-donkey-mammal-animals-thumbnail.png' alt='Shrek Donkey png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/657/1007/png-clipart-donkey-hinny-donkey-shrek-animation-donkey-mammal-animals-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donkey (Shrek) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/6/6c/Donkey_%28Shrek%29.png' alt='Donkey (Shrek) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/6/6c/Donkey_%28Shrek%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donkey PNG by DarkMoonAnimation on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3789c8c-0874-407c-a457-03b147f59b18/deypq60-6b978d1b-b412-414f-b7bf-cc6cac159d1a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzNzg5YzhjLTA4NzQtNDA3Yy1hNDU3LTAzYjE0N2Y1OWIxOFwvZGV5cHE2MC02Yjk3OGQxYi1iNDEyLTQxNGYtYjdiZi1jYzZjYWMxNTlkMWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P5Nx4QI3FdzB0Bjcm1RyydeIKragU0HIfRT6IpLIRyk' alt='Donkey PNG by DarkMoonAnimation on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3789c8c-0874-407c-a457-03b147f59b18/deypq60-6b978d1b-b412-414f-b7bf-cc6cac159d1a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzNzg5YzhjLTA4NzQtNDA3Yy1hNDU3LTAzYjE0N2Y1OWIxOFwvZGV5cHE2MC02Yjk3OGQxYi1iNDEyLTQxNGYtYjdiZi1jYzZjYWMxNTlkMWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P5Nx4QI3FdzB0Bjcm1RyydeIKragU0HIfRT6IpLIRyk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donkey Shrek The Musical Puss in Boots Princess Fiona, donkey ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/388/497/png-clipart-donkey-shrek-the-musical-puss-in-boots-princess-fiona-donkey-horse-mammal.png' alt='Donkey Shrek The Musical Puss in Boots Princess Fiona, donkey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/388/497/png-clipart-donkey-shrek-the-musical-puss-in-boots-princess-fiona-donkey-horse-mammal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek and Donkey (PNG) by DarkMoonAnimation on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3789c8c-0874-407c-a457-03b147f59b18/detfetq-a38e1bac-a013-4ab0-82ed-87e28a994044.png/v1/fill/w_502,h_720/shrek_and_donkey__png__by_darkmoonanimation_detfetq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDM3ODljOGMtMDg3NC00MDdjLWE0NTctMDNiMTQ3ZjU5YjE4XC9kZXRmZXRxLWEzOGUxYmFjLWEwMTMtNGFiMC04MmVkLTg3ZTI4YTk5NDA0NC5wbmciLCJ3aWR0aCI6Ijw9NTAyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dKtk-Clm1eZUGYCWNNbg531u2AnKJih2wr9niXWy-uw' alt='Shrek and Donkey (PNG) by DarkMoonAnimation on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3789c8c-0874-407c-a457-03b147f59b18/detfetq-a38e1bac-a013-4ab0-82ed-87e28a994044.png/v1/fill/w_502,h_720/shrek_and_donkey__png__by_darkmoonanimation_detfetq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDM3ODljOGMtMDg3NC00MDdjLWE0NTctMDNiMTQ3ZjU5YjE4XC9kZXRmZXRxLWEzOGUxYmFjLWEwMTMtNGFiMC04MmVkLTg3ZTI4YTk5NDA0NC5wbmciLCJ3aWR0aCI6Ijw9NTAyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dKtk-Clm1eZUGYCWNNbg531u2AnKJih2wr9niXWy-uw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Donkey Free Png Transparent Background Images Free - Donkey ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/donkey-free-png-transparent-background-images-free-donkey-from-shrek-png--m2H7H7H7i8d3Z5K9.jpg' alt='Free: Donkey Free Png Transparent Background Images Free - Donkey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/donkey-free-png-transparent-background-images-free-donkey-from-shrek-png--m2H7H7H7i8d3Z5K9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donkey, Hinny Donkey Shrek Animation, Donkey, mammal, animals ...">
+                                <img itemprop="contentUrl url" src='https://w7.pngwing.com/pngs/456/889/png-transparent-donkey-shrek-the-musical-princess-fiona-lord-farquaad-donkey-animals-fauna-wildlife.png' alt='Donkey, Hinny Donkey Shrek Animation, Donkey, mammal, animals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGWing" />
+                                </span>
+                                <a href='https://w7.pngwing.com/pngs/456/889/png-transparent-donkey-shrek-the-musical-princess-fiona-lord-farquaad-donkey-animals-fauna-wildlife.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donkey 3 Icon | Shrek Iconpack | Majdi Khawaja">
+                                <img itemprop="contentUrl url" src='https://icons.iconarchive.com/icons/majdi-khawaja/shrek/256/Donkey-3-icon.png' alt='Donkey 3 Icon | Shrek Iconpack | Majdi Khawaja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Archive" />
+                                </span>
+                                <a href='https://icons.iconarchive.com/icons/majdi-khawaja/shrek/256/Donkey-3-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shrek And Donkey Png PNG Transparent With Clear Background ID ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/17/f0/bb17f0d99fa12dc0931f3777de88865e.jpg' alt='Shrek And Donkey Png PNG Transparent With Clear Background ID ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/17/f0/bb17f0d99fa12dc0931f3777de88865e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

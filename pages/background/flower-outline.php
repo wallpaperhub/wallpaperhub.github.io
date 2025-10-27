@@ -1,0 +1,129 @@
+<title>Flower Outline: A Beginner's Guide to Sketching</title>
+                    <meta name="description" content="Discover the art of flower outlining! This guide helps beginners master the basics of floral sketching, providing tips and techniques for creating beautiful designs. Enhance your drawing skills by learning how to outline petals, leaves, and stems effectively. Ideal for aspiring artists and flower enthusiasts!">
+                    <meta name="keywords" content="flower outline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-outline">
+                            <span itemprop="name">flower outline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Flower Outline: A Beginner's Guide to Sketching</h1>
+                <p>Creating a flower outline involves sketching the basic shape and features of a flower. Begin with the central bud and outline petals radiating outward. Include details like leaf shapes and stems for a complete design. This foundational step aids in understanding floral anatomy, allowing for more intricate artistic creations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Outline Stock Illustrations – 423,235 Flower Outline Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flower-outline-icon-blossom-clipart-vector-illustration-simple-151426222.jpg' alt='Flower Outline Stock Illustrations – 423,235 Flower Outline Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flower-outline-icon-blossom-clipart-vector-illustration-simple-151426222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Outline Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/260/747/non_2x/collection-of-minimalistic-simple-floral-elements-graphic-sketch-fashionable-tattoo-design-flowers-grass-and-leaves-botanical-natural-elements-illustration-outline-line-doodle-style-vector.jpg' alt='Flower Outline Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/260/747/non_2x/collection-of-minimalistic-simple-floral-elements-graphic-sketch-fashionable-tattoo-design-flowers-grass-and-leaves-botanical-natural-elements-illustration-outline-line-doodle-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Outline | Free, Printable Flower Template">
+                                <img itemprop="contentUrl url" src='https://onelittleproject.com/wp-content/uploads/2024/02/Simple-Flower-Outline.jpg' alt='Flower Outline | Free, Printable Flower Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Little Project" />
+                                </span>
+                                <a href='https://onelittleproject.com/wp-content/uploads/2024/02/Simple-Flower-Outline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outline jasmine flower tattoo simple Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/99/53/outline-jasmine-flower-tattoo-simple-vector-50709953.jpg' alt='Outline jasmine flower tattoo simple Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/99/53/outline-jasmine-flower-tattoo-simple-vector-50709953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flower outline clipart free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/59/06/31590610bb80866ca1e084c172fb25df.jpg' alt='flower outline clipart free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/59/06/31590610bb80866ca1e084c172fb25df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Flower Outline Icon PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/155859/isolated/preview/3570a5a4058ac0701d5a2d66d9b332f5-daisy-flower-outline-icon.png' alt='Daisy Flower Outline Icon PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/155859/isolated/preview/3570a5a4058ac0701d5a2d66d9b332f5-daisy-flower-outline-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Flower Outline: Over 38,389 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/hand-drawn-spring-minimal-flowers-600nw-2425877169.jpg' alt='Daisy Flower Outline: Over 38,389 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/hand-drawn-spring-minimal-flowers-600nw-2425877169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Outline Flat Icon Stock Illustrations – 36,820 Flower ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/daisy-flower-outline-flat-icon-isolated-white-background-eps-file-available-daisy-flower-outline-flat-icon-white-123552567.jpg' alt='Flower Outline Flat Icon Stock Illustrations – 36,820 Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/daisy-flower-outline-flat-icon-isolated-white-background-eps-file-available-daisy-flower-outline-flat-icon-white-123552567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46,000+ Flower Outline Clipart Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1467024538/vector/single-flowers-doodles-drawing-vector-illustration.jpg?s=612x612&w=0&k=20&c=QxB8p1bDMisjIqpa6EgRSmkoKJnSPFYONAQrey5JJdw=' alt='46,000+ Flower Outline Clipart Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1467024538/vector/single-flowers-doodles-drawing-vector-illustration.jpg?s=612x612&w=0&k=20&c=QxB8p1bDMisjIqpa6EgRSmkoKJnSPFYONAQrey5JJdw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Outline - Floral Outline Design - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180424/qzw/avepuz9u8.webp' alt='Flower Outline - Floral Outline Design - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180424/qzw/avepuz9u8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

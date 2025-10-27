@@ -1,0 +1,129 @@
+<title>Chic Black and Light Pink Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the elegance of black and light pink wallpaper, ideal for creating a sophisticated ambiance in any room. Perfect for modern homes, this wallpaper combines boldness with softness, making it a stylish choice for your decor. Enhance your living space today!">
+                    <meta name="keywords" content="black and light pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/black-and-light-pink-wallpaper">
+                            <span itemprop="name">black and light pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black and Light Pink Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning black and light pink wallpaper, perfect for adding a touch of elegance and sophistication to any room. The playful contrast between deep black and soft pink creates a stunning visual appeal, making it ideal for bedrooms, living rooms, or even offices. Elevate your décor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Black Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7d/2d/87/7d2d87a2a8a24681d45768f9d945651c.jpg' alt='Pink & Black Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7d/2d/87/7d2d87a2a8a24681d45768f9d945651c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Black baby pink blurry background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-baby-pink-blurry-background_678264-4903.jpg' alt='Premium Photo | Black baby pink blurry background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-baby-pink-blurry-background_678264-4903.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0f/75/f7/0f75f7d1ecbdb69a7f6a9d04a4332408.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0f/75/f7/0f75f7d1ecbdb69a7f6a9d04a4332408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398988366/vector/hot-pink-sparkling-scattered-glitter-flyer-vector.jpg?s=612x612&w=0&k=20&c=rz2vDcMNkL5XGPrS208GiDWC5UKBtEjHHWpOja2P39g=' alt='290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398988366/vector/hot-pink-sparkling-scattered-glitter-flyer-vector.jpg?s=612x612&w=0&k=20&c=rz2vDcMNkL5XGPrS208GiDWC5UKBtEjHHWpOja2P39g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkish light pink background with black stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b6/1a/35/b61a353472372badfde56585380c60c9.jpg' alt='Darkish light pink background with black stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b6/1a/35/b61a353472372badfde56585380c60c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black And Pink Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-pink-iphone-yotpt9cs8zas3u7p.jpg' alt='100+] Black And Pink Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-pink-iphone-yotpt9cs8zas3u7p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black abstract texture background with pink bokeh light stars ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/01/09/89/1000_F_301098974_eSWM3HDdRKBGG36z9VOO2L40AZwo2fbW.jpg' alt='Black abstract texture background with pink bokeh light stars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/01/09/89/1000_F_301098974_eSWM3HDdRKBGG36z9VOO2L40AZwo2fbW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astek VV202 Heirloom Black and Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/246885.jpg' alt='Astek VV202 Heirloom Black and Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/246885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black pink gradient linear #000000 #ffb6c1 wallpaper 4K HD">
+                                <img itemprop="contentUrl url" src='https://xmple.com/wallpaper/black-pink-gradient-linear-3840x2160-c2-000000-ffb6c1-a-285-f-14.svg' alt='Black pink gradient linear #000000 #ffb6c1 wallpaper 4K HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xmple" />
+                                </span>
+                                <a href='https://xmple.com/wallpaper/black-pink-gradient-linear-3840x2160-c2-000000-ffb6c1-a-285-f-14.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

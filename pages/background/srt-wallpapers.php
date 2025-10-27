@@ -1,0 +1,129 @@
+<title>Stunning SRT Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover an amazing collection of SRT wallpapers designed to enhance your device's look. From vibrant colors to artistic patterns, find the perfect wallpaper that matches your style. Download now and personalize your screen effortlessly!">
+                    <meta name="keywords" content="srt wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/srt-wallpapers">
+                            <span itemprop="name">srt wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning SRT Wallpapers for Every Device</h1>
+                <p>SRT wallpapers are the perfect way to transform your device's screen with stunning visuals inspired by creativity and style. Whether you're looking for minimalist designs, vibrant colors, or artistic patterns, our collection of SRT wallpapers offers a variety that suits every taste. Download now and elevate your screen's aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Wallpaper for Phone | Charger, Challenger & Durango">
+                                <img itemprop="contentUrl url" src='https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/wallpapers/desktop/2021/expanded/2021-dodge-wallpaper-charger-01.jpg.image.1440.jpg' alt='Dodge Wallpaper for Phone | Charger, Challenger & Durango'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dodge" />
+                                </span>
+                                <a href='https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/wallpapers/desktop/2021/expanded/2021-dodge-wallpaper-charger-01.jpg.image.1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Dodge Challenger Srt Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1609386464913-4cbfa39de540?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9kZ2UlMjBjaGFsbGVuZ2VyJTIwc3J0fGVufDB8fDB8fHww' alt='999+ Dodge Challenger Srt Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1609386464913-4cbfa39de540?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9kZ2UlMjBjaGFsbGVuZ2VyJTIwc3J0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Wallpaper for Phone | Charger, Challenger & Durango">
+                                <img itemprop="contentUrl url" src='https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/wallpapers/desktop/2021/expanded/2021-dodge-wallpaper-challenger-03.jpg.image.1440.jpg' alt='Dodge Wallpaper for Phone | Charger, Challenger & Durango'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dodge" />
+                                </span>
+                                <a href='https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/wallpapers/desktop/2021/expanded/2021-dodge-wallpaper-challenger-03.jpg.image.1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Charger Srt Hellcat iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/58/3b/a1583b4081f3563e28272aa6e72a29f9.jpg' alt='Dodge Charger Srt Hellcat iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/58/3b/a1583b4081f3563e28272aa6e72a29f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2020 Dodge Charger SRT Hellcat Widebody Wallpapers - WSupercars">
+                                <img itemprop="contentUrl url" src='https://www.wsupercars.com/thumbnails-wide/Dodge/2020-Dodge-Charger-SRT-Hellcat-Widebody-002.jpg' alt='2020 Dodge Charger SRT Hellcat Widebody Wallpapers - WSupercars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSupercars" />
+                                </span>
+                                <a href='https://www.wsupercars.com/thumbnails-wide/Dodge/2020-Dodge-Charger-SRT-Hellcat-Widebody-002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dodge Dodge Challenger Dodge Challenger SRT Mopar Muscle ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/845/thumb-1920-845041.jpg' alt='Download Dodge Dodge Challenger Dodge Challenger SRT Mopar Muscle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/845/thumb-1920-845041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Charger SRT Hellcat - Phone Wallpaper : r/granturismo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dodge-charger-srt-hellcat-phone-wallpaper-v0-femxgezephgb1.jpg?width=640&crop=smart&auto=webp&s=6130b7062b4f8823f6b0d71ff60e65fc58a79ba7' alt='Dodge Charger SRT Hellcat - Phone Wallpaper : r/granturismo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dodge-charger-srt-hellcat-phone-wallpaper-v0-femxgezephgb1.jpg?width=640&crop=smart&auto=webp&s=6130b7062b4f8823f6b0d71ff60e65fc58a79ba7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black srt wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/464/43/HD-wallpaper-dodge-demon-black-cars-challenger-devil-dodgechallenger-muscle-srt-thumbnail.jpg' alt='HD black srt wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/464/43/HD-wallpaper-dodge-demon-black-cars-challenger-devil-dodgechallenger-muscle-srt-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dodge Dodge Challenger Dodge Challenger SRT Car Muscle ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/824/824964.jpg' alt='Download Dodge Dodge Challenger Dodge Challenger SRT Car Muscle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2037">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/824/824964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hellcat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hellcat-54w1ttj9d7jd7wo9.jpg' alt='100+] Hellcat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hellcat-54w1ttj9d7jd7wo9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

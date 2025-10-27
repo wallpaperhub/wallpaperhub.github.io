@@ -1,0 +1,129 @@
+<title>Tank Davis: The Rising Star of Boxing</title>
+                    <meta name="description" content="Discover Gervonta "Tank" Davis, a powerhouse in boxing with a reputation for explosive knockout victories and multiple championships. Explore his journey, skills, and impact in the boxing world, making him one of the most exciting fighters to watch today.">
+                    <meta name="keywords" content="tank davis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tank-davis">
+                            <span itemprop="name">tank davis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tank Davis: The Rising Star of Boxing</h1>
+                <p>Gervonta "Tank" Davis is a professional boxer known for his incredible power and explosive fighting style. With multiple world championships across different weight classes, Davis has gained recognition as one of the top fighters in boxing today. His dynamic personality and skill inside the ring have attracted a huge fanbase, making him a prominent figure in the sport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank Davis Says He Wants Lamont Roach Rematch “Soon, Like End Of ...">
+                                <img itemprop="contentUrl url" src='https://www.boxing247.com/wp-content/uploads/2025/03/Gervonta-Davis-vs-Lamont-Roach-Jr16.jpg' alt='Tank Davis Says He Wants Lamont Roach Rematch “Soon, Like End Of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Side Boxing" />
+                                </span>
+                                <a href='https://www.boxing247.com/wp-content/uploads/2025/03/Gervonta-Davis-vs-Lamont-Roach-Jr16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who won the fight? Tank Davis vs Lamont Roach Jr. ends in ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/D8xlN9nCaVe7Eao4uHl_9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTgzMg--/https://media.zenfs.com/en/akron-beacon-journal/e3c29600b15378bc8d6512bd97a67faa' alt='Who won the fight? Tank Davis vs Lamont Roach Jr. ends in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/D8xlN9nCaVe7Eao4uHl_9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTgzMg--/https://media.zenfs.com/en/akron-beacon-journal/e3c29600b15378bc8d6512bd97a67faa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank Davis draws Lamont Roach: Fight card results, updates, what's ...">
+                                <img itemprop="contentUrl url" src='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/28/NDHE/80874005007-davis-vs-roach-weighins-03-01-2025-weighin-3.jpg?crop=4799,2700,x0,y0&width=660&height=371&format=pjpg&auto=webp' alt='Tank Davis draws Lamont Roach: Fight card results, updates, what's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennessean" />
+                                </span>
+                                <a href='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/28/NDHE/80874005007-davis-vs-roach-weighins-03-01-2025-weighin-3.jpg?crop=4799,2700,x0,y0&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/52/Gervonta_Tank_Davis.jpg' alt='Gervonta Davis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/52/Gervonta_Tank_Davis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robbed': Gervonta Davis vs. Lamont Roach controversy — 'Tank' knee ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/DlvMjye47c1co3bLJ9HAHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/89390b90-f731-11ef-bffd-f24093b0532d' alt='Robbed': Gervonta Davis vs. Lamont Roach controversy — 'Tank' knee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/DlvMjye47c1co3bLJ9HAHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/89390b90-f731-11ef-bffd-f24093b0532d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis Vs. Lamont Roach: What Time Does The Main Event Start?">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/67c286cfac3f157910c21b23/Gervonta-Davis-v-Lamont-Roach---Weigh-in/0x0.jpg?format=jpg&crop=3076,1731,x0,y35,safe&width=960' alt='Gervonta Davis Vs. Lamont Roach: What Time Does The Main Event Start?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/67c286cfac3f157910c21b23/Gervonta-Davis-v-Lamont-Roach---Weigh-in/0x0.jpg?format=jpg&crop=3076,1731,x0,y35,safe&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The five moments that shaped 'Tank' Davis' boxing career - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2025/0226/r1457003_1296x729_16-9.jpg' alt='The five moments that shaped 'Tank' Davis' boxing career - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2025/0226/r1457003_1296x729_16-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta 'Tank' Davis Vs. Lamont Roach Jr. Results: Fight Card Results">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/67c3f7a5eef3b4434bde64e3/Gervonta-Davis-v-Lamont-Roach/960x0.jpg?format=jpg&width=960' alt='Gervonta 'Tank' Davis Vs. Lamont Roach Jr. Results: Fight Card Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/67c3f7a5eef3b4434bde64e3/Gervonta-Davis-v-Lamont-Roach/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gervonta Davis - Next Fight, Fighter Bio, Stats & News">
+                                <img itemprop="contentUrl url" src='https://www.premierboxingchampions.com/sites/default/files/WideHeadshot_Davis.jpg' alt='Gervonta Davis - Next Fight, Fighter Bio, Stats & News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Premier Boxing Champions" />
+                                </span>
+                                <a href='https://www.premierboxingchampions.com/sites/default/files/WideHeadshot_Davis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tank vs Roach: Fight time, date, ring walks">
+                                <img itemprop="contentUrl url" src='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/27/NDHE/80750354007-tank-vs-roach-final-press-conference-03-01-2025-presser-2.jpg?crop=4422,2489,x0,y524&width=660&height=371&format=pjpg&auto=webp' alt='Tank vs Roach: Fight time, date, ring walks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennessean" />
+                                </span>
+                                <a href='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/27/NDHE/80750354007-tank-vs-roach-final-press-conference-03-01-2025-presser-2.jpg?crop=4422,2489,x0,y524&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Inspiring Good Friday Cross Images for Reflection</title>
+                    <meta name="description" content="Discover a collection of meaningful Good Friday cross images. These visuals capture the essence of this solemn day, inviting reflection and reverence. Perfect for sharing on social media or inclusion in personal devotionals. Explore and connect with the significance of the cross this Good Friday.">
+                    <meta name="keywords" content="good friday cross images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/good-friday-cross-images">
+                            <span itemprop="name">good friday cross images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Good Friday Cross Images for Reflection</h1>
+                <p>Good Friday is a solemn occasion commemorating the crucifixion of Jesus Christ, and cross images play a significant role in its observance. These powerful symbols evoke deep emotions and reflection, helping believers connect with the sacrifice made for humanity. Explore the diverse and meaningful representations of the cross this Good Friday.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/168393096/photo/dramatic-lighting-on-christian-easter-cross-as-storm-clouds-break.jpg?s=612x612&w=0&k=20&c=y2f_EB1LSU_wXkoxIC1oYWADnvhj6JLl3_tf-l_lpyY=' alt='9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/168393096/photo/dramatic-lighting-on-christian-easter-cross-as-storm-clouds-break.jpg?s=612x612&w=0&k=20&c=y2f_EB1LSU_wXkoxIC1oYWADnvhj6JLl3_tf-l_lpyY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/925050874/photo/crucifixion-of-jesus-christ-at-sunrise-three-crosses-on-hill.jpg?s=612x612&w=0&k=20&c=jqI0UCO6mzmUVyEAdO1Qb4xSNe4svIEpZyxSCOexUBg=' alt='9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/925050874/photo/crucifixion-of-jesus-christ-at-sunrise-three-crosses-on-hill.jpg?s=612x612&w=0&k=20&c=jqI0UCO6mzmUVyEAdO1Qb4xSNe4svIEpZyxSCOexUBg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Friday Easter Cross | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2014/04/480806269.jpg?quality=85&w=1200&h=628&crop=1' alt='Good Friday Easter Cross | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2014/04/480806269.jpg?quality=85&w=1200&h=628&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 8x6ft Fabric Cross Backdrop Good Friday Christian  Background Church Banner Heaven Sent Party Decorations Easter Newborn  Baptism ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61bbeSD0LvL.jpg' alt='Amazon.com : Loccor 8x6ft Fabric Cross Backdrop Good Friday Christian  Background Church Banner Heaven Sent Party Decorations Easter Newborn  Baptism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61bbeSD0LvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/512116990/photo/unto-us-a-son-is-given.jpg?s=612x612&w=0&k=20&c=Qfflp4ZrPSpG-p6YDszbvaXu1iALqT3R06McU6aPlOg=' alt='9,200+ Good Friday Cross Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/512116990/photo/unto-us-a-son-is-given.jpg?s=612x612&w=0&k=20&c=Qfflp4ZrPSpG-p6YDszbvaXu1iALqT3R06McU6aPlOg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,975 Good Friday Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/jesus-christ-cross-easter-good-friday-concept-background-dramatic-sky-lighting-colorful-red-orange-sunset-dark-clouds-87544872.jpg' alt='19,975 Good Friday Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/jesus-christ-cross-easter-good-friday-concept-background-dramatic-sky-lighting-colorful-red-orange-sunset-dark-clouds-87544872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Glowing good friday jesus cross background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/glowing-good-friday-jesus-cross-background_1017-37373.jpg' alt='Free Vector | Glowing good friday jesus cross background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/glowing-good-friday-jesus-cross-background_1017-37373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Good Friday Images & Pictures - Download HD Pics of Cross ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/02/18/11/11/crosses-4004239_640.jpg' alt='Free Good Friday Images & Pictures - Download HD Pics of Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/02/18/11/11/crosses-4004239_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Friday Cross Stock Illustrations – 6,850 Good Friday Cross ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/good-friday-background-wooden-cross-sun-rays-sk-sky-vector-illustration-eps-97372897.jpg' alt='Good Friday Cross Stock Illustrations – 6,850 Good Friday Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/good-friday-background-wooden-cross-sun-rays-sk-sky-vector-illustration-eps-97372897.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Friday">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/6c/08/fd6c08a26223bbcbc45a9d5a88cbe0f5.jpg' alt='Good Friday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/6c/08/fd6c08a26223bbcbc45a9d5a88cbe0f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

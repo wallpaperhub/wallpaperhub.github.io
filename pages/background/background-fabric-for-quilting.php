@@ -1,0 +1,129 @@
+<title>Essential Background Fabrics for Quilting Success</title>
+                    <meta name="description" content="Discover the perfect background fabric for your quilting projects. Learn how to choose the right materials that enhance design and durability. Unleash your creativity with a variety of colors and patterns that boost your quilt’s visual appeal. Explore tips for selecting quality fabrics today!">
+                    <meta name="keywords" content="background fabric for quilting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-fabric-for-quilting">
+                            <span itemprop="name">background fabric for quilting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Background Fabrics for Quilting Success</h1>
+                <p>Background fabric for quilting is essential as it provides a foundation that enhances the overall design. Selecting the right fabric can transform your quilt, offering depth and visual interest. Choose from solids, tonal patterns, or subtle prints that complement your quilt’s top. Quality fabric ensures durability and a beautiful finish for your projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtxAKjd-uY9HqE5TtoVhk4z3nDu0wXiWIF8Wohyphenhyphenn2z2IDSJT8yIQV1tZq4MRBVpNL7RZSGAQTH522HexbXr8tgsfcCnLeq1aJHKkh5gIBbAhe3V6EqjFIliMbiqpTnAIyEOJTUkLX5j4s/s1600/1550257692599.jpg' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtxAKjd-uY9HqE5TtoVhk4z3nDu0wXiWIF8Wohyphenhyphenn2z2IDSJT8yIQV1tZq4MRBVpNL7RZSGAQTH522HexbXr8tgsfcCnLeq1aJHKkh5gIBbAhe3V6EqjFIliMbiqpTnAIyEOJTUkLX5j4s/s1600/1550257692599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti Quilt: Background Fabric Tips — Stitched in Color">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/58aa4fc51e5b6ce697e5bf40/1614592193305-QERTMB1285VC5040PIO1/Confetti+progress.+Stitched+in+Color.jpg' alt='Confetti Quilt: Background Fabric Tips — Stitched in Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stitched in Color" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/58aa4fc51e5b6ce697e5bf40/1614592193305-QERTMB1285VC5040PIO1/Confetti+progress.+Stitched+in+Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quilt Background Ideas: Learn How To Select Background Fabric For ...">
+                                <img itemprop="contentUrl url" src='https://blog.fatquartershop.com/wp-content/uploads/2022/09/IMG_99512.jpg' alt='Quilt Background Ideas: Learn How To Select Background Fabric For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jolly Jabber - Fat Quarter Shop" />
+                                </span>
+                                <a href='https://blog.fatquartershop.com/wp-content/uploads/2022/09/IMG_99512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghSJzMPk4X0Wx_CnyHWwiU1fs7KULgW5IMsmZa11BQ8n12lA03-XK0QEqlAC5RYY6zEU2z2_PkZ1mDXgErvzv9C6ZoRImMs_a8TtrTkcYh4mjG-_e9FBCc7wOeLWiw0sbyisX96BiUN5U/s1600/1550260960517.jpg' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghSJzMPk4X0Wx_CnyHWwiU1fs7KULgW5IMsmZa11BQ8n12lA03-XK0QEqlAC5RYY6zEU2z2_PkZ1mDXgErvzv9C6ZoRImMs_a8TtrTkcYh4mjG-_e9FBCc7wOeLWiw0sbyisX96BiUN5U/s1600/1550260960517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Iw5NLHwDezWdITvcbOM4SX8ICgcP8CiQKTjssCk2POvBnCc_GhxYvNJFS3kfqZUeaUHuiI2AMYebfjlRIb215W1oVb-OedEn5tzIp7w8Z2kle2RV8H5Jgcjur9pzWmlS4KsDQCK4T-4/s1600/Screen+Shot+2019-02-15+at+10.52.08+AM.png' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Iw5NLHwDezWdITvcbOM4SX8ICgcP8CiQKTjssCk2POvBnCc_GhxYvNJFS3kfqZUeaUHuiI2AMYebfjlRIb215W1oVb-OedEn5tzIp7w8Z2kle2RV8H5Jgcjur9pzWmlS4KsDQCK4T-4/s1600/Screen+Shot+2019-02-15+at+10.52.08+AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidBOvk6FL-0O1LFfwA46iiUsfrFnCqffkh00MdH34rsQ87W5P4CthV9ENkntGuevYJ6NG_adkOZv9JiKWqBeUu9xOrN3U8dAfmsWGbm8LyBJOdKCOjxJg6edDmmt603erfeSM6ApvzrZs/s1600/Janes-Ladder-by-Woodberry-Way-2.jpg' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidBOvk6FL-0O1LFfwA46iiUsfrFnCqffkh00MdH34rsQ87W5P4CthV9ENkntGuevYJ6NG_adkOZv9JiKWqBeUu9xOrN3U8dAfmsWGbm8LyBJOdKCOjxJg6edDmmt603erfeSM6ApvzrZs/s1600/Janes-Ladder-by-Woodberry-Way-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Tips for Choosing Your Background Fabric - Aunt Ems Quilts">
+                                <img itemprop="contentUrl url" src='https://auntemsquilts.com/wp-content/uploads/2022/03/20220328_080147.jpg' alt='3 Tips for Choosing Your Background Fabric - Aunt Ems Quilts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aunt Ems Quilts" />
+                                </span>
+                                <a href='https://auntemsquilts.com/wp-content/uploads/2022/03/20220328_080147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxZlh6PhDlknrzhuNtyURS5lcij5A8sNcGfJDHhhukB0OV_LjkZvGHf1jvchnv5In2YwTEk56FBaS3hMjC95rDmue7iqb1ayqqRoG0vK51Xy5oW4Cmj7AKbOFJqHZokdjN-eXQD_bxjRQ/s1600/First+Snow+Quilt+%252810%2529.JPG' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1062">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxZlh6PhDlknrzhuNtyURS5lcij5A8sNcGfJDHhhukB0OV_LjkZvGHf1jvchnv5In2YwTEk56FBaS3hMjC95rDmue7iqb1ayqqRoG0vK51Xy5oW4Cmj7AKbOFJqHZokdjN-eXQD_bxjRQ/s1600/First+Snow+Quilt+%252810%2529.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quilt Background Ideas: Learn How To Select Background Fabric For ...">
+                                <img itemprop="contentUrl url" src='https://blog.fatquartershop.com/wp-content/uploads/2022/09/Serendipity-QK.jpg' alt='Quilt Background Ideas: Learn How To Select Background Fabric For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jolly Jabber - Fat Quarter Shop" />
+                                </span>
+                                <a href='https://blog.fatquartershop.com/wp-content/uploads/2022/09/Serendipity-QK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodberry Way: Background Fabric Guide for Quilters">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVxiELvO4evtr0ykgohai8usgx_TZEwOTfvsJo0NiS19HNnTf0v-LGJNdYcW5zMtfXsXvxljlzItTNzsRfkESFxmKgXrFS8eJtubxh_gTOw5-NhkFX89tg1dsHNm0ziQlznk4h5Zg4LY/s1600/Screen+Shot+2019-02-15+at+10.34.53+AM.png' alt='Woodberry Way: Background Fabric Guide for Quilters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="858">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woodberry Way" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVxiELvO4evtr0ykgohai8usgx_TZEwOTfvsJo0NiS19HNnTf0v-LGJNdYcW5zMtfXsXvxljlzItTNzsRfkESFxmKgXrFS8eJtubxh_gTOw5-NhkFX89tg1dsHNm0ziQlznk4h5Zg4LY/s1600/Screen+Shot+2019-02-15+at+10.34.53+AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Gumball Backgrounds for Fun Designs</title>
+                    <meta name="description" content="Add a splash of color with our vibrant gumball backgrounds! Ideal for kids’ parties, scrapbooking, and digital projects, these playful designs will bring a cheerful touch to your creations. Perfect for capturing the essence of fun and nostalgia!">
+                    <meta name="keywords" content="gumball background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gumball-background">
+                            <span itemprop="name">gumball background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gumball Backgrounds for Fun Designs</h1>
+                <p>Gumball backgrounds are vibrant and fun, ideal for adding a touch of whimsy to any design. These colorful patterns often feature playful shapes and textures reminiscent of gumball machines, capturing the nostalgic essence of candy stores. Perfect for children's party invitations, scrapbook pages, or digital wallpapers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gumball Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/gumball-background-vuxp4qvtbz62xoxn.jpg' alt='100+] Gumball Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/gumball-background-vuxp4qvtbz62xoxn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing World of Gumball - Background test by ClaudioNaccari ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecf92f5e-0e9f-4245-8bff-e617ea2a1a50/dc4mri3-1064ec87-322e-43e1-9c76-0d7bbae73d9d.jpg/v1/fill/w_1024,h_590,q_75,strp/the_amazing_world_of_gumball___background_test_by_claudionaccari_dc4mri3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTkwIiwicGF0aCI6IlwvZlwvZWNmOTJmNWUtMGU5Zi00MjQ1LThiZmYtZTYxN2VhMmExYTUwXC9kYzRtcmkzLTEwNjRlYzg3LTMyMmUtNDNlMS05Yzc2LTBkN2JiYWU3M2Q5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.A7z0JImVvQxRQeqpNGfnCCVzoR18VQxWsqa1YAvRUbs' alt='The Amazing World of Gumball - Background test by ClaudioNaccari ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecf92f5e-0e9f-4245-8bff-e617ea2a1a50/dc4mri3-1064ec87-322e-43e1-9c76-0d7bbae73d9d.jpg/v1/fill/w_1024,h_590,q_75,strp/the_amazing_world_of_gumball___background_test_by_claudionaccari_dc4mri3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTkwIiwicGF0aCI6IlwvZlwvZWNmOTJmNWUtMGU5Zi00MjQ1LThiZmYtZTYxN2VhMmExYTUwXC9kYzRtcmkzLTEwNjRlYzg3LTMyMmUtNDNlMS05Yzc2LTBkN2JiYWU3M2Q5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.A7z0JImVvQxRQeqpNGfnCCVzoR18VQxWsqa1YAvRUbs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing World Of Gumball has great liminal space-esc backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ayl5s2jqfmp61.jpg?width=1080&crop=smart&auto=webp&s=93f5eff85977ccbbcae6e72025fb9521eb7d44a4' alt='Amazing World Of Gumball has great liminal space-esc backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ayl5s2jqfmp61.jpg?width=1080&crop=smart&auto=webp&s=93f5eff85977ccbbcae6e72025fb9521eb7d44a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wattersons' house | The Amazing World of Gumball Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/theamazingworldofgumball/images/a/a3/The_Wattersons%27_House.png/revision/latest?cb=20230411072913' alt='Wattersons' house | The Amazing World of Gumball Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Amazing World of Gumball Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/theamazingworldofgumball/images/a/a3/The_Wattersons%27_House.png/revision/latest?cb=20230411072913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing World of Gumball - Bruno Mayor">
+                                <img itemprop="contentUrl url" src='https://freight.cargo.site/t/original/i/3e658e02302a02854e13d1acd8f44330af5f2469a4e54f325b4c6d487a020cb5/Screenshot-2024-06-03-at-16.57.44.png' alt='The Amazing World of Gumball - Bruno Mayor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bruno Mayor" />
+                                </span>
+                                <a href='https://freight.cargo.site/t/original/i/3e658e02302a02854e13d1acd8f44330af5f2469a4e54f325b4c6d487a020cb5/Screenshot-2024-06-03-at-16.57.44.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing world of gumball background : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jz4ob6g1hbra1.jpg' alt='Amazing world of gumball background : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jz4ob6g1hbra1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE AMAZING WORLD OF GUMBALL — antoinebirot.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/3a/dc/103adc3f69bfd160889a23ce388d1774.jpg' alt='THE AMAZING WORLD OF GUMBALL — antoinebirot.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/3a/dc/103adc3f69bfd160889a23ce388d1774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vs. Gumball (new background) by nendy14 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37e42545-bccf-460d-ae0a-d0101025cb0f/dfypljc-802568d2-8ed0-4678-9841-d2a9cb410ccd.jpg/v1/fill/w_1080,h_630,q_75,strp/vs__gumball__new_background__by_nendy14_dfypljc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvMzdlNDI1NDUtYmNjZi00NjBkLWFlMGEtZDAxMDEwMjVjYjBmXC9kZnlwbGpjLTgwMjU2OGQyLThlZDAtNDY3OC05ODQxLWQyYTljYjQxMGNjZC5qcGciLCJ3aWR0aCI6Ijw9MTA4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._O8aOsuUvgZiQtDfoIUrplVBZYMmcFl5IN4eFuuQB68' alt='Vs. Gumball (new background) by nendy14 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37e42545-bccf-460d-ae0a-d0101025cb0f/dfypljc-802568d2-8ed0-4678-9841-d2a9cb410ccd.jpg/v1/fill/w_1080,h_630,q_75,strp/vs__gumball__new_background__by_nendy14_dfypljc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvMzdlNDI1NDUtYmNjZi00NjBkLWFlMGEtZDAxMDEwMjVjYjBmXC9kZnlwbGpjLTgwMjU2OGQyLThlZDAtNDY3OC05ODQxLWQyYTljYjQxMGNjZC5qcGciLCJ3aWR0aCI6Ijw9MTA4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._O8aOsuUvgZiQtDfoIUrplVBZYMmcFl5IN4eFuuQB68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds of Gumball Season 6 (5) | Images :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/a26826106002909.5f85f7a41d17e.jpg' alt='Backgrounds of Gumball Season 6 (5) | Images :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/fs/a26826106002909.5f85f7a41d17e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing World of Gumball, only backgrounds with anyone (with ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/76/d4/5e76d42f8ac6f5442200c58f2a4e23df.jpg' alt='The Amazing World of Gumball, only backgrounds with anyone (with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/76/d4/5e76d42f8ac6f5442200c58f2a4e23df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

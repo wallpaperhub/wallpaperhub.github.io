@@ -1,0 +1,129 @@
+<title>Vibrant Red Tiger Wallpaper for Bold Home Decor</title>
+                    <meta name="description" content="Explore our collection of red tiger wallpaper that brings energy and elegance to any space. Perfect for creating a striking focal point, our designs cater to all styles and tastes. Elevate your interior with the fierce beauty of red tigers today!">
+                    <meta name="keywords" content="red tiger wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-tiger-wallpaper">
+                            <span itemprop="name">red tiger wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Tiger Wallpaper for Bold Home Decor</h1>
+                <p>Transform your space with stunning red tiger wallpaper! This vibrant design features the majestic red tiger exuding strength and beauty, perfect for any room. Whether you're looking to make a bold statement in your living area or add a unique touch to your bedroom, red tiger wallpaper will captivate and inspire.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/94/89/52/360_F_1194895208_sgpcgxYZa8xvaQS5J25a7yYSIqj3gmhZ.jpg' alt='Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/94/89/52/360_F_1194895208_sgpcgxYZa8xvaQS5J25a7yYSIqj3gmhZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger by resresres on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/49/de/c449de7dbc5acde1e9f58672c23ab16a.jpg' alt='Red Tiger by resresres on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/49/de/c449de7dbc5acde1e9f58672c23ab16a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Tigers' Wallpaper by Tea Collection - Red">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Tigers_Red_detail_720x.jpg?v=1633380349' alt=''Tigers' Wallpaper by Tea Collection - Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Tigers_Red_detail_720x.jpg?v=1633380349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/04/47/82/360_F_1004478255_WUKlxebd1GpJvSRNnv3hhJY0VqYDCnfh.jpg' alt='Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/04/47/82/360_F_1004478255_WUKlxebd1GpJvSRNnv3hhJY0VqYDCnfh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/79/13/01/360_F_979130133_rd7iov232wZP13ztqrG4AgoZ3i612Z14.jpg' alt='Red Tiger Images – Browse 124,260 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/79/13/01/360_F_979130133_rd7iov232wZP13ztqrG4AgoZ3i612Z14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger Wallpaper Stock Illustration 766457248 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/766457248/display_1500/stock-photo-red-tiger-wallpaper-766457248.jpg' alt='Red Tiger Wallpaper Stock Illustration 766457248 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/766457248/display_1500/stock-photo-red-tiger-wallpaper-766457248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD red tiger wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/873/561/HD-wallpaper-red-aura-fantasy-fire-burning-fire-power-fire-tiger-fire-tiger-flame-tiger-magic-creature-super-power-tiger-thumbnail.jpg' alt='HD red tiger wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/873/561/HD-wallpaper-red-aura-fantasy-fire-burning-fire-power-fire-tiger-fire-tiger-flame-tiger-magic-creature-super-power-tiger-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fierce Glory - Neon Red Angry Tiger Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fierce-glory-neon-red-angry-tiger-cnd7kf7ipojr4jbk.jpg' alt='Fierce Glory - Neon Red Angry Tiger Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fierce-glory-neon-red-angry-tiger-cnd7kf7ipojr4jbk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Red Tiger Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.wallmonkeys.com/cdn/shop/products/73853800-LRG_2aa22dc0-7944-41b1-9b1d-92ef2971a5e4_1024x1024.jpg?v=1578663163' alt='Blood Red Tiger Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmonkeys" />
+                                </span>
+                                <a href='http://www.wallmonkeys.com/cdn/shop/products/73853800-LRG_2aa22dc0-7944-41b1-9b1d-92ef2971a5e4_1024x1024.jpg?v=1578663163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Tiger Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/one-side-eye-tiger-face-black-background_294865-5620.jpg' alt='Red Tiger Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/one-side-eye-tiger-face-black-background_294865-5620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

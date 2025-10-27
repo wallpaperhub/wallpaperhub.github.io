@@ -1,0 +1,129 @@
+<title>Stunning Gold Glitter Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Enhance your designs with our mesmerizing gold glitter background! Perfect for any occasion, this elegant and eye-catching backdrop adds a luxurious touch to your projects. Whether it’s for invitations, social media, or branding, elevate your visuals effortlessly with our glittering designs.">
+                    <meta name="keywords" content="gold glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-glitter-background">
+                            <span itemprop="name">gold glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gold Glitter Backgrounds for Every Occasion</h1>
+                <p>Transform your projects with a stunning gold glitter background that adds a touch of elegance and luxury. Perfect for invitations, social media posts, and websites, this shimmering backdrop captures attention and sparkles with sophistication. Ideal for festive occasions, it infuses a sense of glamour into any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Background Images – Browse 2,719,573 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/66/91/63/360_F_766916335_N9kzfCK7UU5nXEXfAdn1l1WJ2Q1FtHsW.jpg' alt='Gold Glitter Background Images – Browse 2,719,573 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/66/91/63/360_F_766916335_N9kzfCK7UU5nXEXfAdn1l1WJ2Q1FtHsW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gold glitter phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/c5/77/3fc577f8ab84d2e898f7eabfa3423297.jpg' alt='gold glitter phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/c5/77/3fc577f8ab84d2e898f7eabfa3423297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Creative Black Gold Glitter Background Backgrounds | PSD ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20200417/golden-creative-black-gold-glitter-background_2823206.jpg!bw700' alt='Golden Creative Black Gold Glitter Background Backgrounds | PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20200417/golden-creative-black-gold-glitter-background_2823206.jpg!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Sparkle Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/109/819/small/beautiful-gold-sparkle-background-vector.jpg' alt='Gold Sparkle Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/109/819/small/beautiful-gold-sparkle-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Images – Browse 3,204,193 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/47/23/50/360_F_547235077_c3S0EMnKJEpwXkPQSCQOiT6RN5dTPXBk.jpg' alt='Gold Glitter Images – Browse 3,204,193 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/47/23/50/360_F_547235077_c3S0EMnKJEpwXkPQSCQOiT6RN5dTPXBk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden glitter wallpaper Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/67/02/golden-glitter-wallpaper-vector-7566702.jpg' alt='Golden glitter wallpaper Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/67/02/golden-glitter-wallpaper-vector-7566702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Glitter Abstract HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/699/thumb-1920-699387.jpg' alt='Golden Glitter Abstract HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/699/thumb-1920-699387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/878/607/small_2x/gold-glittering-dots-sparkles-particles-on-a-transparent-background-abstract-light-effect-gold-luminous-points-illustration-vector.jpg' alt='Gold Glitter Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/878/607/small_2x/gold-glittering-dots-sparkles-particles-on-a-transparent-background-abstract-light-effect-gold-luminous-points-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden glitter sparkle on a transparent background. Gold Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T13AYH/golden-glitter-sparkle-on-a-transparent-background-gold-vibrant-background-with-twinkle-lights-vector-illustration-T13AYH.jpg' alt='Golden glitter sparkle on a transparent background. Gold Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T13AYH/golden-glitter-sparkle-on-a-transparent-background-gold-vibrant-background-with-twinkle-lights-vector-illustration-T13AYH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Gold Glitter Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-glitter-background-hgy2j6abeerme59z.jpg' alt='200+] Gold Glitter Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-glitter-background-hgy2j6abeerme59z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

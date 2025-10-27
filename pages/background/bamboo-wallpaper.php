@@ -1,0 +1,129 @@
+<title>Eco-Friendly Bamboo Wallpaper: Stylish & Sustainable</title>
+                    <meta name="description" content="Transform your space with eco-friendly bamboo wallpaper. It's stylish, sustainable, and easy to install, making it the perfect choice for any room. Discover the beauty of nature indoors while contributing to a greener planet. Explore various patterns and textures to elevate your home decor!">
+                    <meta name="keywords" content="bamboo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bamboo-wallpaper">
+                            <span itemprop="name">bamboo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eco-Friendly Bamboo Wallpaper: Stylish & Sustainable</h1>
+                <p>Bamboo wallpaper offers a unique, eco-friendly decor option that brings a touch of nature indoors. Perfect for creating a serene and stylish atmosphere, it comes in various patterns and textures, making it suitable for any room. Easy to install and maintain, bamboo wallpaper is a sustainable choice that enhances your living space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo Forest Scenery 3D Mural Wallpaper, Green Bamboo Forest Photo Wall  Mural, Photo Wallpaper for Living Room Bedroom TV Background Office Decor  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ERamrNvML.jpg' alt='Bamboo Forest Scenery 3D Mural Wallpaper, Green Bamboo Forest Photo Wall  Mural, Photo Wallpaper for Living Room Bedroom TV Background Office Decor  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ERamrNvML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green bamboo forest Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Green_bamboo_forest_Wall_Mural_Wallpaper_a_3298ee46-f060-4264-82b8-be7d766665f2_1400x.jpg?v=1735833117' alt='Green bamboo forest Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Green_bamboo_forest_Wall_Mural_Wallpaper_a_3298ee46-f060-4264-82b8-be7d766665f2_1400x.jpg?v=1735833117' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638283809/articles/R11821_product.jpg' alt='Bamboo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638283809/articles/R11821_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Bamboo Peel and Stick Wallpaper (Covers 28.18 sq. ft.) RMK11434WP  - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c6e9cb61-5a29-4158-8354-7e7b3299130d/svn/roommates-wallpaper-rolls-rmk11434wp-64_1000.jpg' alt='RoomMates Bamboo Peel and Stick Wallpaper (Covers 28.18 sq. ft.) RMK11434WP  - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c6e9cb61-5a29-4158-8354-7e7b3299130d/svn/roommates-wallpaper-rolls-rmk11434wp-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green bamboo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a9/c6/d7/a9c6d7517b39024c88b1d90dc0e011f9.jpg' alt='Green bamboo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a9/c6/d7/a9c6d7517b39024c88b1d90dc0e011f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PoetryHome Self Adhesive Vinyl Bamboo Wallpaper for Walls Kitchen  Backsplash Bathroom Cabinets Shelves 17.7x117 Inche">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vt6HzRtZL._AC_UF894,1000_QL80_.jpg' alt='PoetryHome Self Adhesive Vinyl Bamboo Wallpaper for Walls Kitchen  Backsplash Bathroom Cabinets Shelves 17.7x117 Inche'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vt6HzRtZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Forest Bamboo Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/bamboo-forest-wall-mural-lounge.jpg?v=1663207927&width=1445' alt='Emerald Forest Bamboo Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/bamboo-forest-wall-mural-lounge.jpg?v=1663207927&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bamboo Forest (Miller) Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240293/Bamboo-Forest--Miller--Mural-Wallpaper.jpg?v=638164598886200000' alt='Bamboo Forest (Miller) Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240293/Bamboo-Forest--Miller--Mural-Wallpaper.jpg?v=638164598886200000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Green White Bamboo Wallpaper Jungle Tropical AS Creation Vinyl">
+                                <img itemprop="contentUrl url" src='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/5237ad45-9bec-4315-83e2-93cea864e0a9.jpg' alt='Textured Green White Bamboo Wallpaper Jungle Tropical AS Creation Vinyl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/5237ad45-9bec-4315-83e2-93cea864e0a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Bamboo">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/43324/beautiful-bamboo.jpg?h=699&q=85' alt='Beautiful Bamboo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/43324/beautiful-bamboo.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

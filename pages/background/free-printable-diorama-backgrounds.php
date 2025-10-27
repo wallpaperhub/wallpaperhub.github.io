@@ -1,0 +1,129 @@
+<title>Free Printable Diorama Backgrounds: Enhance Your Projects</title>
+                    <meta name="description" content="Discover a variety of free printable diorama backgrounds to bring your projects to life! Perfect for classrooms and creative enthusiasts, these high-quality designs are easy to download and print, offering endless possibilities for vibrant and engaging dioramas. Start creating today!">
+                    <meta name="keywords" content="free printable diorama backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-printable-diorama-backgrounds">
+                            <span itemprop="name">free printable diorama backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Printable Diorama Backgrounds: Enhance Your Projects</h1>
+                <p>Free printable diorama backgrounds offer a creative and engaging way to enhance your projects. From lush forests to cityscapes, these versatile designs provide endless possibilities for students and hobbyists alike. Download high-quality images, print them, and watch your dioramas come to life with vibrant scenery. Perfect for classrooms or home crafts!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b7/7e/cc/b77ecc8bc724d88a6721c26f1cc88487.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b7/7e/cc/b77ecc8bc724d88a6721c26f1cc88487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/a0/5b/2ca05b63d9ce529a7cbe0397573f8e7d.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/a0/5b/2ca05b63d9ce529a7cbe0397573f8e7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/1e/21/101e219e3f1c75ba544f6617311b2a3b.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/1e/21/101e219e3f1c75ba544f6617311b2a3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/93/79/b493792523f638abb4d835919d0fd95c.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/93/79/b493792523f638abb4d835919d0fd95c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/ec/71/54ec71288086e6b7d8ec6230a0f0ae06.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/ec/71/54ec71288086e6b7d8ec6230a0f0ae06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE printable dioramas/backgrounds... - 3D Printed Keepsakes ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363328321904081' alt='FREE printable dioramas/backgrounds... - 3D Printed Keepsakes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1848">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363328321904081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diorama Backgrounds - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/ed/22/75ed227c9badeccb19f4e4a86c7df355.jpg' alt='Diorama Backgrounds - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/ed/22/75ed227c9badeccb19f4e4a86c7df355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garage Diorama Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20231030/original/pngtree-3d-rendering-of-an-opened-roller-door-in-a-garage-picture-image_5794745.jpg' alt='Garage Diorama Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20231030/original/pngtree-3d-rendering-of-an-opened-roller-door-in-a-garage-picture-image_5794745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free background! - All scale diorama supplies store">
+                                <img itemprop="contentUrl url" src='https://ds-64.com/wp-content/uploads/2023/11/1-64-hot-wheels-Parking-with-drift-marks-free.jpg' alt='Free background! - All scale diorama supplies store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="diorama supplies" />
+                                </span>
+                                <a href='https://ds-64.com/wp-content/uploads/2023/11/1-64-hot-wheels-Parking-with-drift-marks-free.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polar Animal Habitat Diorama Activity. Part 1. Background ...">
+                                <img itemprop="contentUrl url" src='https://teachersmag.com/wp-content/uploads/2020/01/04.jpg' alt='Polar Animal Habitat Diorama Activity. Part 1. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeachersMag.com" />
+                                </span>
+                                <a href='https://teachersmag.com/wp-content/uploads/2020/01/04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

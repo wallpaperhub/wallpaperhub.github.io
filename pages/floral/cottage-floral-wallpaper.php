@@ -1,0 +1,129 @@
+<title>Charming Cottage Floral Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of cottage floral wallpaper to elevate your home's decor. Perfect for adding a natural, cozy feel to any room with its soft colors and delicate patterns. Transform your space effortlessly with this timeless wallpaper choice, ideal for rustic and modern aesthetics alike.">
+                    <meta name="keywords" content="cottage floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/cottage-floral-wallpaper">
+                            <span itemprop="name">cottage floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Cottage Floral Wallpaper for Your Home</h1>
+                <p>Cottage floral wallpaper brings a touch of rustic charm and timeless elegance to any space. Featuring delicate blooms and soft hues, it can transform your home into a serene sanctuary. Ideal for living rooms, bedrooms, or even kitchens, this wallpaper creates a cozy and inviting atmosphere, reflecting a love for nature and comfort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robey Cottage Floral by Joules - Crème - Wallpaper - 120875">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/204577/main/joules-robey-cottage-floral-creme-wallpaper-1@lg.webp' alt='Robey Cottage Floral by Joules - Crème - Wallpaper - 120875'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/204577/main/joules-robey-cottage-floral-creme-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottage Floral Wallpaper | Floral Wallpaper - Anewall Decor">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/files/IMG_4455_1.jpg?v=1707513955' alt='Cottage Floral Wallpaper | Floral Wallpaper - Anewall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3322">
+                                <meta itemprop="height" content="4983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/files/IMG_4455_1.jpg?v=1707513955' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victoria Cottage Garden Floral Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/il_fullxfull.1946974890_kzec_1000x1000.jpg?v=1576352681' alt='Victoria Cottage Garden Floral Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="983">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/il_fullxfull.1946974890_kzec_1000x1000.jpg?v=1576352681' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Cottage Floral Scatter Ink and Watercolor Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6364500/r/il/e1a6c5/3107621367/il_fullxfull.3107621367_by7y.jpg' alt='Cozy Cottage Floral Scatter Ink and Watercolor Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1833">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6364500/r/il/e1a6c5/3107621367/il_fullxfull.3107621367_by7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ivy Cottage Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/the-ivy-cottage-removable-wallpaper-peel-stick-794459.png?v=1718902434' alt='The Ivy Cottage Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/the-ivy-cottage-removable-wallpaper-peel-stick-794459.png?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antiqued Cottage Floral Trail Wallpaper, Small Tea Rose Vine, Old ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/e64c1f/2895459709/il_1080xN.2895459709_gio0.jpg' alt='Antiqued Cottage Floral Trail Wallpaper, Small Tea Rose Vine, Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/e64c1f/2895459709/il_1080xN.2895459709_gio0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/cocos.jpg?v=1717013571&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/cocos.jpg?v=1717013571&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mea Cottage Floral Wallpaper in White, Metallic, and Black by BD Wall">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Mea_Cottage_Floral_Wallpaper_in_White_Metallic_and_Black_by_BD_Wall_44559996-9826-4c19-8aec-61e77800e7c2.jpg?v=1569333597' alt='Mea Cottage Floral Wallpaper in White, Metallic, and Black by BD Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Mea_Cottage_Floral_Wallpaper_in_White_Metallic_and_Black_by_BD_Wall_44559996-9826-4c19-8aec-61e77800e7c2.jpg?v=1569333597' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Cottage Floral Vine Rose & Wisteria on Cream Background 56 Sq Ft  Bolt | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/9rsAAOSwBnZbKuGV/s-l400.jpg' alt='Wallpaper Cottage Floral Vine Rose & Wisteria on Cream Background 56 Sq Ft  Bolt | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/9rsAAOSwBnZbKuGV/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laura´s Cottage by Boråstapeter - Dark Blue - Wallpaper - 3573">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/186881/main/borastapeter-laura-s-cottage-dark-blue-wallpaper-1@lg.webp' alt='Laura´s Cottage by Boråstapeter - Dark Blue - Wallpaper - 3573'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/186881/main/borastapeter-laura-s-cottage-dark-blue-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

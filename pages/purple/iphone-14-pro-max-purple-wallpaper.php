@@ -1,0 +1,129 @@
+<title>Stunning Purple Wallpapers for iPhone 14 Pro Max</title>
+                    <meta name="description" content="Unlock the beauty of your iPhone 14 Pro Max with our collection of exquisite purple wallpapers. Each design is crafted to elevate your device's look while offering vibrant and eye-catching aesthetics. Perfect for personalization and style enhancement, find your ideal wallpaper today!">
+                    <meta name="keywords" content="iphone 14 pro max purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-14-pro-max-purple-wallpaper">
+                            <span itemprop="name">iphone 14 pro max purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Wallpapers for iPhone 14 Pro Max</h1>
+                <p>Discover stunning purple wallpapers designed specifically for the iPhone 14 Pro Max! Enhance your device with vibrant hues and artistic designs that highlight its sleek features. Perfect for anyone looking to add a touch of elegance and personality to their phone. Explore a collection that complements your style and showcases your device's capabilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Deep Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-deep-purple-zo22g2rooc9dsvtj.jpg' alt='Iphone 14 Pro Deep Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-deep-purple-zo22g2rooc9dsvtj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Wallpaper Purple Blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/2b/cb/352bcb662f1cae3334470f00cd16b9a9.jpg' alt='iPhone 14 Pro Wallpaper Purple Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/2b/cb/352bcb662f1cae3334470f00cd16b9a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="original iPhone 14 Pro Max Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/b6/bc/fcb6bc055436e5797350ab24fedb1db5.jpg' alt='original iPhone 14 Pro Max Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/b6/bc/fcb6bc055436e5797350ab24fedb1db5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 - Purple (Concept Wallpaper) - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/05/ispazio-1.jpg' alt='iPhone 14 - Purple (Concept Wallpaper) - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/05/ispazio-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Neon Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-neon-purple-k9th9j14c2w4twr2.jpg' alt='Iphone 14 Pro Neon Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-neon-purple-k9th9j14c2w4twr2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 & 14 Pro Wallpapers. : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/iphone-14-14-pro-wallpapers-v0-ax2luemhnim91.png?width=1290&format=png&auto=webp&s=41689be11152e48a65b4fb6783bed1e766b0a8bd' alt='Iphone 14 & 14 Pro Wallpapers. : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/iphone-14-14-pro-wallpapers-v0-ax2luemhnim91.png?width=1290&format=png&auto=webp&s=41689be11152e48a65b4fb6783bed1e766b0a8bd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple iPhone 14 wallpaper pack">
+                                <img itemprop="contentUrl url" src='https://www.idownloadblog.com/wp-content/uploads/2022/09/iPhone-14-advertising-image-wallpaper-from-@sebastienpage.png' alt='Purple iPhone 14 wallpaper pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://www.idownloadblog.com/wp-content/uploads/2022/09/iPhone-14-advertising-image-wallpaper-from-@sebastienpage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max Purple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12987390.jpg' alt='iPhone 14 Pro Max Purple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12987390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light purple iPhone 14 pro wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/41/ae/d0/41aed0458d99db8cec033092781825fe.jpg' alt='Light purple iPhone 14 pro wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/41/ae/d0/41aed0458d99db8cec033092781825fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Max Purple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12797665.png' alt='iPhone 14 Pro Max Purple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2750">
+                                <meta itemprop="height" content="5500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12797665.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

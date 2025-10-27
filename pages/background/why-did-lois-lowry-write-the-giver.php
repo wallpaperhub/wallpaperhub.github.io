@@ -1,0 +1,129 @@
+<title>Why Lois Lowry Wrote "The Giver": A Deep Dive</title>
+                    <meta name="description" content="Discover the reasons behind Lois Lowry's creation of "The Giver." Explore themes of memory and individuality, and how they challenge the concept of a utopian society. Join us in understanding the profound messages woven into this thought-provoking novel.">
+                    <meta name="keywords" content="why did lois lowry write the giver">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/why-did-lois-lowry-write-the-giver">
+                            <span itemprop="name">why did lois lowry write the giver</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Lois Lowry Wrote "The Giver": A Deep Dive</h1>
+                <p>Lois Lowry wrote "The Giver" to explore complex themes such as memory, individuality, and the importance of emotions in a controlled society. Targeting young readers, she aimed to provoke thought about the implications of a utopian world devoid of true feelings, encouraging them to consider their own choices and the value of freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2014/08/14/loislowry.photocreditmattmckee-cafe6dab4c7b1eae0621b3afe2744a5c8a890f15.jpg' alt='Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2014/08/14/loislowry.photocreditmattmckee-cafe6dab4c7b1eae0621b3afe2744a5c8a890f15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/bakertaylor/covers/t/the-giver/9780440237686_custom-15c784147d194ab096eb4f943991ed40670c6165.jpg?s=800&c=85&f=jpeg' alt='Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/bakertaylor/covers/t/the-giver/9780440237686_custom-15c784147d194ab096eb4f943991ed40670c6165.jpg?s=800&c=85&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2014/08/14/giver2a_lg_custom-caae5766cc66485cd191c1cb9dcbb3c22766c623.jpg' alt='Lois Lowry Says 'The Giver' Was Inspired By Her Father's Memory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1996">
+                                <meta itemprop="height" content="2742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2014/08/14/giver2a_lg_custom-caae5766cc66485cd191c1cb9dcbb3c22766c623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q&A with Lois Lowry, author of The Giver">
+                                <img itemprop="contentUrl url" src='https://www.usatodayhss.com/gcdn/authoring/images/smg/2024/12/27/SHSS/77269440007-96-100847420.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Q&A with Lois Lowry, author of The Giver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA TODAY High School Sports" />
+                                </span>
+                                <a href='https://www.usatodayhss.com/gcdn/authoring/images/smg/2024/12/27/SHSS/77269440007-96-100847420.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile of Author Lois Lowry, Newbery Medal Winner">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/RbuRN3YT_8eXk66bgz2gRnpNabs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-494752601-589deb535f9b58819c985f5f.jpg' alt='Profile of Author Lois Lowry, Newbery Medal Winner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/RbuRN3YT_8eXk66bgz2gRnpNabs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-494752601-589deb535f9b58819c985f5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Newbery Winner Interview: Lois Lowry | School Library Journal">
+                                <img itemprop="contentUrl url" src='https://www.slj.com/binaries/content/gallery/Jlibrary/2022/01/loislowry-feat-image.jpg' alt='Newbery Winner Interview: Lois Lowry | School Library Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="School Library Journal" />
+                                </span>
+                                <a href='https://www.slj.com/binaries/content/gallery/Jlibrary/2022/01/loislowry-feat-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Giver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/7/7b/The_Giver_first_edition_1993.jpg' alt='The Giver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/7/7b/The_Giver_first_edition_1993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Lois Lowry's Controversial Book, The Giver">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/A-Su9K0TPzc4G2T6pWOTy6xmv9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Giver_2_5-56a140685f9b58b7d0bd760c.jpg' alt='About Lois Lowry's Controversial Book, The Giver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/A-Su9K0TPzc4G2T6pWOTy6xmv9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Giver_2_5-56a140685f9b58b7d0bd760c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lois Lowry - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lois_Lowry_2016.jpg/800px-Lois_Lowry_2016.jpg' alt='Lois Lowry - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lois_Lowry_2016.jpg/800px-Lois_Lowry_2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Middle Grade Ninja: Book of the Week: THE GIVER by Lois Lowry">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2CbT7l3YhvF6wXvhJAc5pj8PX29uaaf17i9pC9D3LJCEKtwqDCRQockd801Cg2X0HVUpKYphb9iVDew-MfGDuLegv0pf0HkvtPOu7owP5LSUoCGDOm4NPgX2rRjEPdVIrhZevYq5MF97j/s400/The+Giver.jpg' alt='Middle Grade Ninja: Book of the Week: THE GIVER by Lois Lowry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Middle Grade Ninja" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2CbT7l3YhvF6wXvhJAc5pj8PX29uaaf17i9pC9D3LJCEKtwqDCRQockd801Cg2X0HVUpKYphb9iVDew-MfGDuLegv0pf0HkvtPOu7owP5LSUoCGDOm4NPgX2rRjEPdVIrhZevYq5MF97j/s400/The+Giver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

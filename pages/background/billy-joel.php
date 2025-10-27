@@ -1,0 +1,129 @@
+<title>Billy Joel: The Piano Man's Legacy</title>
+                    <meta name="description" content="Explore the musical journey of Billy Joel, the legendary Piano Man. Discover his timeless hits, career highlights, and why he remains a defining figure in rock and pop music. Join us in celebrating the artistry and impact of this iconic singer-songwriter.">
+                    <meta name="keywords" content="billy joel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/billy-joel">
+                            <span itemprop="name">billy joel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Billy Joel: The Piano Man's Legacy</h1>
+                <p>Billy Joel is an iconic American singer-songwriter known for his emotionally charged ballads and energetic rock hits. With timeless classics like "Piano Man," "Uptown Girl," and "Just the Way You Are," he has captivated audiences for decades. His storytelling lyrical style resonates deeply, making him a beloved figure in music history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/19/Billy_Joel_Shankbone_NYC_2009.jpg' alt='Billy Joel - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1931">
+                                <meta itemprop="height" content="2504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/19/Billy_Joel_Shankbone_NYC_2009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel Falls Down After Losing Balance During Concert | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2025/02/Billy-Joel-Loses-Balance-and-Falls-Down-During-Concert-482.jpg?w=1000&quality=86&strip=all' alt='Billy Joel Falls Down After Losing Balance During Concert | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2025/02/Billy-Joel-Loses-Balance-and-Falls-Down-During-Concert-482.jpg?w=1000&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8' alt='Billy Joel Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/5PU43pwxJ8Jb1gGboSn48sEr3Djp7mpzuUbNQGfgKcM6dIEuEdQ6cEuBlL1DurQcIGUKFJKw=s900-c-k-c0x00ffffff-no-rj' alt='Billy Joel - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/5PU43pwxJ8Jb1gGboSn48sEr3Djp7mpzuUbNQGfgKcM6dIEuEdQ6cEuBlL1DurQcIGUKFJKw=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel: Biography, Musician, 2024 Grammys Performer">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/singer-songwriter-billy-joel-performs-on-the-germania-news-photo-1685713490.jpg?crop=0.670xw:1.00xh;0.199xw,0&resize=1200:*' alt='Billy Joel: Biography, Musician, 2024 Grammys Performer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/singer-songwriter-billy-joel-performs-on-the-germania-news-photo-1685713490.jpg?crop=0.670xw:1.00xh;0.199xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why I loathe Billy Joel">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2019/03/jonah.jpg?fit=720%2C480&ssl=1' alt='Why I loathe Billy Joel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Michigan Daily" />
+                                </span>
+                                <a href='https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2019/03/jonah.jpg?fit=720%2C480&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netizens worry about Billy Joel after he falls mid-performance">
+                                <img itemprop="contentUrl url" src='https://img-cdn.thepublive.com/fit-in/853x480/filters:format(webp)/wion/media/media_files/2025/03/02/mBEP5ALmNJMYvMLPFH7D.jpg' alt='Netizens worry about Billy Joel after he falls mid-performance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wion" />
+                                </span>
+                                <a href='https://img-cdn.thepublive.com/fit-in/853x480/filters:format(webp)/wion/media/media_files/2025/03/02/mBEP5ALmNJMYvMLPFH7D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billy Joel, 75, falls down, sparks concern after losing balance at ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/D3d_dSyyfk9o5Zv0OAfHrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/page_six_articles_559/4af667944d106979a7d9e9e4056dab39' alt='Billy Joel, 75, falls down, sparks concern after losing balance at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/D3d_dSyyfk9o5Zv0OAfHrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/page_six_articles_559/4af667944d106979a7d9e9e4056dab39' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Stranger: CDs & Vinyl - Billy Joel">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JxCGwe9cL._UF1000,1000_QL80_.jpg' alt='Amazon.com: The Stranger: CDs & Vinyl - Billy Joel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JxCGwe9cL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home | Billy Joel Official Site">
+                                <img itemprop="contentUrl url" src='https://cdn-p.smehost.net/sites/4788b7ad6b5448c1b90d9322361f98f3/wp-content/uploads/2021/04/billyjoel_headshot_myrnasuarez.jpg' alt='Home | Billy Joel Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.billyjoel.com" />
+                                </span>
+                                <a href='https://cdn-p.smehost.net/sites/4788b7ad6b5448c1b90d9322361f98f3/wp-content/uploads/2021/04/billyjoel_headshot_myrnasuarez.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

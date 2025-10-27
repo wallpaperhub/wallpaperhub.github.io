@@ -1,0 +1,129 @@
+<title>Stunning Star Wars TIE Fighter Wallpapers for Fanatic Devices</title>
+                    <meta name="description" content="Discover a collection of breathtaking Star Wars TIE Fighter wallpapers perfect for any fan. Elevate your device's appearance with stunning imagery from the galaxy far, far away, and showcase your love for the Empire today! Ideal for desktop and mobile backgrounds, find your perfect match.">
+                    <meta name="keywords" content="star wars tie fighter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-tie-fighter-wallpaper">
+                            <span itemprop="name">star wars tie fighter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars TIE Fighter Wallpapers for Fanatic Devices</h1>
+                <p>Transform your device with captivating Star Wars TIE Fighter wallpapers that bring the Galactic Empire's iconic starfighter to life. From stunning visuals showcasing the sleek design to dynamic scenes from the epic saga, these wallpapers will immerse you in the Star Wars universe. Perfect for any fan seeking to upgrade their screen aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars TIE Fighter Adventure - 4K Ultra HD Wallpaper by Lee Rouse">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/856/856730.jpg' alt='Star Wars TIE Fighter Adventure - 4K Ultra HD Wallpaper by Lee Rouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/856/856730.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Classic Concrete TIE Fighter 200x280cm Non-Woven Murals ...">
+                                <img itemprop="contentUrl url" src='http://www.yourdecoration.com/cdn/shop/files/Komar-Star-Wars-Classic-Concrete-TIE-Fighter-Non-Woven-Wall-Mural-200x280cm-4-Panels_2c05e565-46c9-41c4-899c-0bbf496b46b7.jpg?v=1737709012' alt='Star Wars Classic Concrete TIE Fighter 200x280cm Non-Woven Murals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1787">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yourdecoration.com" />
+                                </span>
+                                <a href='http://www.yourdecoration.com/cdn/shop/files/Komar-Star-Wars-Classic-Concrete-TIE-Fighter-Non-Woven-Wall-Mural-200x280cm-4-Panels_2c05e565-46c9-41c4-899c-0bbf496b46b7.jpg?v=1737709012' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying Tie Fighter 3840 X 2160 Star Wars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flying-tie-fighter-3840-x-2160-star-wars-frvxtookp6tqwc15.jpg' alt='Flying Tie Fighter 3840 X 2160 Star Wars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flying-tie-fighter-3840-x-2160-star-wars-frvxtookp6tqwc15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TIE Fighters 1920 X 1080 Star Wars Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920-x-1080-star-wars-gm9n0kw537wr5ixk.jpg' alt='Download TIE Fighters 1920 X 1080 Star Wars Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920-x-1080-star-wars-gm9n0kw537wr5ixk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TIE Fighter Star Wars Video Game Star Wars: Squadrons 4k ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/108/1082235.jpg' alt='Download TIE Fighter Star Wars Video Game Star Wars: Squadrons 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/108/1082235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TIE Fighter In Star Wars Cell Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-cell-phone-950-x-1520-gxd1e82ofr4bh10j.jpg' alt='Download TIE Fighter In Star Wars Cell Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-cell-phone-950-x-1520-gxd1e82ofr4bh10j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Star Wars Battlefront II, 5K, TIE fighter, studio ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/dd/1b/7ddd1b43e90f56d873f6d3899902d949.jpg' alt='HD wallpaper: Star Wars Battlefront II, 5K, TIE fighter, studio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/dd/1b/7ddd1b43e90f56d873f6d3899902d949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Wallpaper : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/4JP-NOtX-2yY_DKz0aeqybn82QlKAio6heWWkRVyLr8.jpg?auto=webp&s=8350ee81011f8ade5d77f2788e4b5c6de640bcf3' alt='Sunset Wallpaper : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/4JP-NOtX-2yY_DKz0aeqybn82QlKAio6heWWkRVyLr8.jpg?auto=webp&s=8350ee81011f8ade5d77f2788e4b5c6de640bcf3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Fighter, space, star wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/200/191/HD-wallpaper-tie-fighter-space-star-wars.jpg' alt='Tie Fighter, space, star wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/200/191/HD-wallpaper-tie-fighter-space-star-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star and Tie Fighter iPhone Wallpaper by Powers1ave1 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/202a382b-0863-4611-bbe9-04a7c01687ce/d6tphqg-1ffd4882-35dd-4679-a401-24add10f6181.jpg/v1/fill/w_640,h_960,q_75,strp/death_star_and_tie_fighter_iphone_wallpaper_by_powers1ave1_d6tphqg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvMjAyYTM4MmItMDg2My00NjExLWJiZTktMDRhN2MwMTY4N2NlXC9kNnRwaHFnLTFmZmQ0ODgyLTM1ZGQtNDY3OS1hNDAxLTI0YWRkMTBmNjE4MS5qcGciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.bqmWOqwKYLkmmWyXZnkAXFXtHMsAPV03HHyYNgO0QhU' alt='Death Star and Tie Fighter iPhone Wallpaper by Powers1ave1 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/202a382b-0863-4611-bbe9-04a7c01687ce/d6tphqg-1ffd4882-35dd-4679-a401-24add10f6181.jpg/v1/fill/w_640,h_960,q_75,strp/death_star_and_tie_fighter_iphone_wallpaper_by_powers1ave1_d6tphqg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvMjAyYTM4MmItMDg2My00NjExLWJiZTktMDRhN2MwMTY4N2NlXC9kNnRwaHFnLTFmZmQ0ODgyLTM1ZGQtNDY3OS1hNDAxLTI0YWRkMTBmNjE4MS5qcGciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.bqmWOqwKYLkmmWyXZnkAXFXtHMsAPV03HHyYNgO0QhU' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

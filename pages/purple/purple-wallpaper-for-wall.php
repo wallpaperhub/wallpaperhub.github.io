@@ -1,0 +1,129 @@
+<title>Vibrant Purple Wallpaper Ideas for Stylish Walls</title>
+                    <meta name="description" content="Explore beautiful purple wallpaper options to elevate your home's decor. From bold shades to subtle patterns, find inspiration for every room. Make a statement or create a soothing atmosphere with the perfect purple wallpaper today!">
+                    <meta name="keywords" content="purple wallpaper for wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-wallpaper-for-wall">
+                            <span itemprop="name">purple wallpaper for wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Wallpaper Ideas for Stylish Walls</h1>
+                <p>Transform your space with stunning purple wallpaper that adds a touch of elegance and vibrancy to any wall. Available in a variety of patterns and textures, purple wallpaper can enhance your home's atmosphere, making it feel cozy and chic. Perfect for living rooms, bedrooms, or accent walls! Discover your ideal shade today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' alt='Luxury Wallpaper Purple Gold Non Metallic Abstract Art Wall Mural Peel and  Stick Removable or Traditional Accent Wall - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21902976/r/il/979f3f/5364728602/il_1080xN.5364728602_re3g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/485673/pr22/1/1280/purple-glitter-purple-glitter-wallpaper.jpg' alt='Purple Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/485673/pr22/1/1280/purple-glitter-purple-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' alt='Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHFEOIV9RE Wallpaper Peel and Stick Violet Lavender Watercolor Marble  Golden Lines Pastel Purple Wallpaper Self-Adhesive Removable Large Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61yS3WKKGfL.jpg' alt='WHFEOIV9RE Wallpaper Peel and Stick Violet Lavender Watercolor Marble  Golden Lines Pastel Purple Wallpaper Self-Adhesive Removable Large Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61yS3WKKGfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Look Purple Flowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/6/16410311-1.jpg' alt='3D Look Purple Flowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/6/16410311-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Mural for Home Decor | Premium Wall Murals US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/collections/purple-gold-wallpaper-mural-for-room.jpg?v=1660289274&width=750' alt='Purple Wallpaper Mural for Home Decor | Premium Wall Murals US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/collections/purple-gold-wallpaper-mural-for-room.jpg?v=1660289274&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Damask">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/757845/pr22/1/1280/purple-damask-vintage-pattern-wallpaper.jpg' alt='Purple Damask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/757845/pr22/1/1280/purple-damask-vintage-pattern-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Purple Shades Marble Patterned Wallpaper - Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/03/Kids-interior-08-10-scaled.jpg' alt='Pink and Purple Shades Marble Patterned Wallpaper - Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/03/Kids-interior-08-10-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper,wavy Purple Wall Decor,vivid Colors Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44246718/r/il/ba9318/5958094394/il_570xN.5958094394_67pt.jpg' alt='Purple Marble Wallpaper,wavy Purple Wall Decor,vivid Colors Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44246718/r/il/ba9318/5958094394/il_570xN.5958094394_67pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' alt='Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1326">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

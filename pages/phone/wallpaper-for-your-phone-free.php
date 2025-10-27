@@ -1,0 +1,129 @@
+<title>Free Phone Wallpapers: Custom Designs for Every Taste</title>
+                    <meta name="description" content="Discover an extensive collection of free phone wallpapers that suit every aesthetic. Easily download and personalize your device with captivating designs. Keep your phone looking fresh and unique without spending a dime!">
+                    <meta name="keywords" content="wallpaper for your phone free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wallpaper-for-your-phone-free">
+                            <span itemprop="name">wallpaper for your phone free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Phone Wallpapers: Custom Designs for Every Taste</h1>
+                <p>Revamp your phone's look with stunning, free wallpapers! Choose from a wide array of designs, from abstract art to nature scenes, ensuring your device reflects your personality. Easy to download and compatible with all phones, these wallpapers are perfect for anyone looking to customize their screen without any cost.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Unlimited Wallpapers For Android and iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20180504164056.jpg' alt='Free Unlimited Wallpapers For Android and iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20180504164056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Paint Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20190110211321.jpg' alt='Free Paint Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20190110211321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Unlimited Wallpapers For Android and iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20190110204513.jpg' alt='Free Unlimited Wallpapers For Android and iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20190110204513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Unlimited Wallpapers For Android and iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20190110204614.jpg' alt='Free Unlimited Wallpapers For Android and iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20190110204614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers that are for free phone wallpapers, phone backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wallpapers-that-are-free-phone-wallpapers-phone-backgrounds-wallpaper-backgrounds-phone-backgrounds-wallpaper-backgrounds-wallpaper-backgrounds-iphone-wallpaper-wallpaper-backgrounds_900775-4780.jpg' alt='Wallpapers that are for free phone wallpapers, phone backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wallpapers-that-are-free-phone-wallpapers-phone-backgrounds-wallpaper-backgrounds-phone-backgrounds-wallpaper-backgrounds-wallpaper-backgrounds-iphone-wallpaper-wallpaper-backgrounds_900775-4780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Wallpapers Free For Mobile Phones - Colab">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/af/20/5faf20b02df31225261ef6a95d6a63c7.jpg' alt='Hd Wallpapers Free For Mobile Phones - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colab" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/af/20/5faf20b02df31225261ef6a95d6a63c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Phone Wallpapers - Icon Utopia">
+                                <img itemprop="contentUrl url" src='https://iconutopia.com/wp-content/uploads/2020/04/mushroom-phone-wallpaper-iconutopia-1.jpg' alt='Free Phone Wallpapers - Icon Utopia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Utopia" />
+                                </span>
+                                <a href='https://iconutopia.com/wp-content/uploads/2020/04/mushroom-phone-wallpaper-iconutopia-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free HD Phone & Desktop Wallpaper Downloads | Worth Ave. Group">
+                                <img itemprop="contentUrl url" src='https://www.worthavegroup.com/media/wysiwyg/img-pages/FreeWallpaper-PhoneTablet-28_th.jpg' alt='Free HD Phone & Desktop Wallpaper Downloads | Worth Ave. Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worth Ave. Group" />
+                                </span>
+                                <a href='https://www.worthavegroup.com/media/wysiwyg/img-pages/FreeWallpaper-PhoneTablet-28_th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Space Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/TIMG_20170525180830.jpg' alt='Free Space Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/TIMG_20170525180830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wallpapers Cellphone - Colab">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/90/a5/df/90a5df807b14d85d307703dd2d02a7bb.jpg' alt='Free Wallpapers Cellphone - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colab" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/90/a5/df/90a5df807b14d85d307703dd2d02a7bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Glam Up Your Bathroom with Metallic Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of metallic bathroom wallpaper! Perfect for adding a sophisticated touch, this wallpaper is moisture-resistant and easy to maintain. Choose from a range of stunning designs to transform your space into a luxurious retreat. Elevate your bathroom decor effortlessly!">
+                    <meta name="keywords" content="metallic bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/metallic-bathroom-wallpaper">
+                            <span itemprop="name">metallic bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glam Up Your Bathroom with Metallic Wallpaper</h1>
+                <p>Transform your bathroom with metallic wallpaper, adding a touch of glam and sophistication. This stylish option reflects light, creates a sense of space, and enhances your decor. Available in various designs, metallic wallpaper is both durable and water-resistant, making it perfect for humid environments. Elevate your space with ease!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Metallic Wallpaper in Cool Grey and Taupe">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/NirvanaMetallic_CoolGrey_Taupe_ILW50479_0470_WEB.jpg?v=1719319447' alt='Nirvana Metallic Wallpaper in Cool Grey and Taupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/NirvanaMetallic_CoolGrey_Taupe_ILW50479_0470_WEB.jpg?v=1719319447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Etna Metallic Wallpaper in Greige and Gold">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/EtnaMetallic_Greige_Gold_ILW50467_0025_WEB.jpg?crop=center&height=1024&v=1719319177&width=1024' alt='Etna Metallic Wallpaper in Greige and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/EtnaMetallic_Greige_Gold_ILW50467_0025_WEB.jpg?crop=center&height=1024&v=1719319177&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koi Fish Peel-and-Stick Wallpaper in Metallic Champagne and Grey">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/KoiFishPeel-and-StickWallpaperinMetallicChampagneandGreybyNextWall-2_1080x.jpg?v=1590777449' alt='Koi Fish Peel-and-Stick Wallpaper in Metallic Champagne and Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/KoiFishPeel-and-StickWallpaperinMetallicChampagneandGreybyNextWall-2_1080x.jpg?v=1590777449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers — Inspired by Precious Metals - Hirshfield's">
+                                <img itemprop="contentUrl url" src='https://www.hirshfields.com/wp-content/uploads/2015/03/tcbuilders-copy-1.jpeg' alt='Wallpapers — Inspired by Precious Metals - Hirshfield's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hirshfield's" />
+                                </span>
+                                <a href='https://www.hirshfields.com/wp-content/uploads/2015/03/tcbuilders-copy-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeeko Black Wallpaper Gold Wallpaper Textured Wallpaper 17.3""x 473""  Industrial Metallic Wallpaper Non Woven Vintage Wallpaper for Bedroom  Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91mH3eFrOLL.jpg' alt='Zeeko Black Wallpaper Gold Wallpaper Textured Wallpaper 17.3""x 473""  Industrial Metallic Wallpaper Non Woven Vintage Wallpaper for Bedroom  Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91mH3eFrOLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Koi Fish Metallic Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW33208-Gcopy_2000x2000.jpg?v=1645391910' alt='Koi Fish Metallic Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1899">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW33208-Gcopy_2000x2000.jpg?v=1645391910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal gray silver metallic faux carbon textured Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/NzMwWDczMA==/z/5uAAAOSwl4xeWGH9/$_57.PNG?set_id=8800005007' alt='Charcoal gray silver metallic faux carbon textured Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/NzMwWDczMA==/z/5uAAAOSwl4xeWGH9/$_57.PNG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birch Metallic Wallpaper in Warm Grey – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/BirchMetallic_WarmGrey_ILW50411_0499_WEB.webp?crop=center&height=1024&v=1716479271&width=1024' alt='Birch Metallic Wallpaper in Warm Grey – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/BirchMetallic_WarmGrey_ILW50411_0499_WEB.webp?crop=center&height=1024&v=1716479271&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Texture Metallic Wallpaper Marble Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22845678/r/il/762487/2659813126/il_570xN.2659813126_jy3q.jpg' alt='Black and Gold Texture Metallic Wallpaper Marble Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22845678/r/il/762487/2659813126/il_570xN.2659813126_jy3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyond obsessed with this metallic wallpaper in the primary bath of the  @degournay house, we’re hopeful we can convince some clients to dip their  toes into the metallics trend because we think it can ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3403427191506406165' alt='Beyond obsessed with this metallic wallpaper in the primary bath of the  @degournay house, we’re hopeful we can convince some clients to dip their  toes into the metallics trend because we think it can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3403427191506406165' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

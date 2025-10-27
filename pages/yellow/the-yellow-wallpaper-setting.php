@@ -1,0 +1,129 @@
+<title>Exploring the Setting of "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Discover the haunting setting of "The Yellow Wallpaper," a tale exploring isolation in a confined mansion. Dive into the significance of the wallpaper as it mirrors the protagonist's mental decline, symbolizing the restrictions faced by women in the 19th century.">
+                    <meta name="keywords" content="the yellow wallpaper setting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-setting">
+                            <span itemprop="name">the yellow wallpaper setting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Setting of "The Yellow Wallpaper"</h1>
+                <p>The setting of "The Yellow Wallpaper" is a secluded, inherited mansion where the protagonist is confined to a room for rest cure. The room features peeling yellow wallpaper that becomes increasingly significant as her mental state deteriorates. The isolation and oppressive atmosphere reflect the broader societal constraints on women during the late 19th century.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' alt='The Yellow Wallpaper by C. P. Gilman | Setting & Analysis - Lesson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/house8375747579521083075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary & Plot Diagram Activity">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' alt='The Yellow Wallpaper Summary & Plot Diagram Activity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/plot-diagram-for--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/40/The_Yellow_Wall_Paper_pg_1.jpg' alt='The Yellow Wallpaper - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2627">
+                                <meta itemprop="height" content="3959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/40/The_Yellow_Wall_Paper_pg_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realism and the Weird in “The Yellow Wallpaper” and “The Story We ...">
+                                <img itemprop="contentUrl url" src='https://pshares.org/wp-content/uploads/2022/07/A-Girl-Reading-in-an-Interior.jpg' alt='Realism and the Weird in “The Yellow Wallpaper” and “The Story We ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ploughshares" />
+                                </span>
+                                <a href='https://pshares.org/wp-content/uploads/2022/07/A-Girl-Reading-in-an-Interior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021) - Projected Figures">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?resize=810%2C540&ssl=1' alt='The Yellow Wallpaper (2021) - Projected Figures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Projected Figures" />
+                                </span>
+                                <a href='https://i0.wp.com/projectedfigures.com/wp-content/uploads/2021/03/The-Yellow-Wallpaper-e1616101728604.png?resize=810%2C540&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wall-Paper">
+                                <img itemprop="contentUrl url" src='http://payload47.cargocollective.com/1/5/179769/3243217/room%20interior005copy_900.jpg' alt='The Yellow Wall-Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wall-Paper" />
+                                </span>
+                                <a href='http://payload47.cargocollective.com/1/5/179769/3243217/room%20interior005copy_900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...">
+                                <img itemprop="contentUrl url" src='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' alt='Charlotte Perkins Gilman, "The Yellow Wallpaper," English 130 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manifold @CUNY" />
+                                </span>
+                                <a href='https://cuny.manifoldapp.org/system/project/92be56f2-d73e-4183-8eb3-05d9f88f8901/hero/large_landscape-716f5ec23e4735c083a33046c1fba72f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow wallpaper” and” a rose for emily “compare and contrast ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:900/1*lsaRSO-CgFzcTJXbgPUcYQ.jpeg' alt='yellow wallpaper” and” a rose for emily “compare and contrast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:900/1*lsaRSO-CgFzcTJXbgPUcYQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Oscar Martinez on Prezi">
+                                <img itemprop="contentUrl url" src='https://0701.static.prezi.com/preview/v2/at36i7kxetn4cqad4yop4cfwfx6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='The Yellow Wallpaper by Oscar Martinez on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0701.static.prezi.com/preview/v2/at36i7kxetn4cqad4yop4cfwfx6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Charlotte Gilman Perkins. Setting §“A ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/25/7687932/slides/slide_2.jpg' alt='The Yellow Wallpaper Charlotte Gilman Perkins. Setting §“A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/25/7687932/slides/slide_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

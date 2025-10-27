@@ -1,0 +1,129 @@
+<title>Maui Transparent Backgrounds: Stunning Images for Your Projects</title>
+                    <meta name="description" content="Discover high-quality Maui transparent background images to elevate your design projects. Perfect for web and print, these visuals capture the beautiful landscapes and vibrant culture of Maui, providing a seamless integration for a polished and professional look.">
+                    <meta name="keywords" content="maui transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maui-transparent-background">
+                            <span itemprop="name">maui transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maui Transparent Backgrounds: Stunning Images for Your Projects</h1>
+                <p>Maui transparent background images are perfect for designers seeking vibrant visuals with a natural surf culture vibe. These images showcase lush landscapes, iconic beaches, and stunning sunsets, making them ideal for websites, social media, or print materials. Enhance your projects with the true essence of Maui, seamlessly integrating these backgrounds for a professional look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moana Maui transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/588352552c9eb99faafea89e.png' alt='Moana Maui transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/588352552c9eb99faafea89e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/106/204/png-clipart-maui-moana-maui-m%C4%81ui-the-walt-disney-company-shanghai-disney-resort-cosplay-maui-disney-maui-m%C4%81ui.png' alt='Maui png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/106/204/png-clipart-maui-moana-maui-m%C4%81ui-the-walt-disney-company-shanghai-disney-resort-cosplay-maui-disney-maui-m%C4%81ui.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disney Princess  PNG, Digital download-10">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1706931269_Maui10-min.png&width=600&height=600&quality=90&format=auto&fit=pad' alt='Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disney Princess  PNG, Digital download-10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disn ..." />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1706931269_Maui10-min.png&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Maui Png - Topo De Bolo Moana, Transparent Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/04/58/9d045869f37f4d5845157642e7bbaafa.jpg' alt='Download Maui Png - Topo De Bolo Moana, Transparent Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/04/58/9d045869f37f4d5845157642e7bbaafa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui Moana Disney Large Transparent PNG Image​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Maui_Moana_Disney_Large_Transparent_PNG_Image.png?m=1629784608' alt='Maui Moana Disney Large Transparent PNG Image​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Maui_Moana_Disney_Large_Transparent_PNG_Image.png?m=1629784608' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/23/Maui-PNG-File.png' alt='Maui PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/23/Maui-PNG-File.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disn ...">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1706931329_Maui14-min.png' alt='Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2465">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maui PNG Transparent Images, Disney Moana PNG, Clipart, Disn ..." />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/30041/1706931329_Maui14-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui and Moana Clipart, Maui Png, Moana Png, Watercolor Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/52684076/r/il/89b560/6087126111/il_300x300.6087126111_abi6.jpg' alt='Maui and Moana Clipart, Maui Png, Moana Png, Watercolor Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/52684076/r/il/89b560/6087126111/il_300x300.6087126111_abi6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stencil Map Of Maui. Simple And Minimal Transparent Map Of Maui ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/gagarych/gagarych2003/gagarych200300080/141299264-stencil-map-of-maui-simple-and-minimal-transparent-map-of-maui-black-rectangle-with-cut-shape-of.jpg' alt='Stencil Map Of Maui. Simple And Minimal Transparent Map Of Maui ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/gagarych/gagarych2003/gagarych200300080/141299264-stencil-map-of-maui-simple-and-minimal-transparent-map-of-maui-black-rectangle-with-cut-shape-of.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui Animated film Chief Tui The Walt Disney Company Māui, Maui ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7e/e6/2f/7ee62fe5669de3832dde433d96613ac4.jpg' alt='Maui Animated film Chief Tui The Walt Disney Company Māui, Maui ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7e/e6/2f/7ee62fe5669de3832dde433d96613ac4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

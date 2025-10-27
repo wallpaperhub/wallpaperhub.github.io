@@ -1,0 +1,129 @@
+<title>Discovering the Enchanting World of Backyardigans</title>
+                    <meta name="description" content="Explore the whimsical universe of The Backyardigans! Join Pablo, Tyrone, Uniqua, Tasha, and Austin in their imaginative adventures filled with exciting songs and valuable life lessons. Perfect for children, this vibrant series sparks creativity and encourages teamwork!">
+                    <meta name="keywords" content="backyardigans background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/backyardigans-background">
+                            <span itemprop="name">backyardigans background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Enchanting World of Backyardigans</h1>
+                <p>The Backyardigans is a beloved children's TV show featuring five animated characters—Pablo, Tyrone, Uniqua, Tasha, and Austin—who embark on imaginative adventures in their vibrant backyard. With catchy songs and fun storylines, the show encourages creativity, teamwork, and exploration, making it a favorite for kids and parents alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Backyardigans-Background-Banner-Birthday-Backdrop-Party-Supplies-Taspestry-Wall-Decor-Post-Lover_a1e679eb-e27b-4d2e-9a49-794dc753c5ba.8cf37f10d415fb51398dfd84032efdf9.jpeg' alt='Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1602">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Backyardigans-Background-Banner-Birthday-Backdrop-Party-Supplies-Taspestry-Wall-Decor-Post-Lover_a1e679eb-e27b-4d2e-9a49-794dc753c5ba.8cf37f10d415fb51398dfd84032efdf9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyardigans Intro Background 1 (Recreation) by Telelodeon on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d179eea3-8ea0-4a14-a032-d1aba12720a8/dh57sju-c354d9e4-b9f3-4a71-b51b-f0562df48bfd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNzllZWEzLThlYTAtNGExNC1hMDMyLWQxYWJhMTI3MjBhOFwvZGg1N3NqdS1jMzU0ZDllNC1iOWYzLTRhNzEtYjUxYi1mMDU2MmRmNDhiZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ap0aDk-DHhW5JFtlFpcxnOy0W_hIFhlreFDNAUmCU6Q' alt='Backyardigans Intro Background 1 (Recreation) by Telelodeon on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d179eea3-8ea0-4a14-a032-d1aba12720a8/dh57sju-c354d9e4-b9f3-4a71-b51b-f0562df48bfd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNzllZWEzLThlYTAtNGExNC1hMDMyLWQxYWJhMTI3MjBhOFwvZGg1N3NqdS1jMzU0ZDllNC1iOWYzLTRhNzEtYjUxYi1mMDU2MmRmNDhiZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ap0aDk-DHhW5JFtlFpcxnOy0W_hIFhlreFDNAUmCU6Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyard | The Backyardigans Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thebackyardigansencyclopedia/images/e/e9/Thebackyard.jpg/revision/latest?cb=20100927183009' alt='Backyard | The Backyardigans Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Backyardigans Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thebackyardigansencyclopedia/images/e/e9/Thebackyard.jpg/revision/latest?cb=20100927183009' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyardigans Intro Background 2 (Recreation) by Telelodeon on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d179eea3-8ea0-4a14-a032-d1aba12720a8/dh57tp3-7a022d95-7874-4d28-b3d2-6ac8b7f8abf4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNzllZWEzLThlYTAtNGExNC1hMDMyLWQxYWJhMTI3MjBhOFwvZGg1N3RwMy03YTAyMmQ5NS03ODc0LTRkMjgtYjNkMi02YWM4YjdmOGFiZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IaGYMh4GNsH4L5av-otGiO-ph1BVInO6rvwt2dqZFXM' alt='Backyardigans Intro Background 2 (Recreation) by Telelodeon on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d179eea3-8ea0-4a14-a032-d1aba12720a8/dh57tp3-7a022d95-7874-4d28-b3d2-6ac8b7f8abf4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNzllZWEzLThlYTAtNGExNC1hMDMyLWQxYWJhMTI3MjBhOFwvZGg1N3RwMy03YTAyMmQ5NS03ODc0LTRkMjgtYjNkMi02YWM4YjdmOGFiZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IaGYMh4GNsH4L5av-otGiO-ph1BVInO6rvwt2dqZFXM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/1bbe3070-ca43-4321-b5cf-be28fac363a4.6990656f191951bcfd67c9a1c472dd5c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/1bbe3070-ca43-4321-b5cf-be28fac363a4.6990656f191951bcfd67c9a1c472dd5c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE – 20+ The Backyardigans Canva Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ef/a5/a5efa52a4ed95debd5da14ae0f495253.jpg' alt='FREE – 20+ The Backyardigans Canva Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ef/a5/a5efa52a4ed95debd5da14ae0f495253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="backyardigans by kah19 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff25731f-d1dd-4638-8b8b-d8c97e84040e/d38ow8z-a41f3c82-79fd-407e-aead-7e38b13082d6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmMjU3MzFmLWQxZGQtNDYzOC04YjhiLWQ4Yzk3ZTg0MDQwZVwvZDM4b3c4ei1hNDFmM2M4Mi03OWZkLTQwN2UtYWVhZC03ZTM4YjEzMDgyZDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z_F2J_wxPdcJeXb_9xeM0zXhdajLc1ZMOykfTenMHcY' alt='backyardigans by kah19 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff25731f-d1dd-4638-8b8b-d8c97e84040e/d38ow8z-a41f3c82-79fd-407e-aead-7e38b13082d6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmMjU3MzFmLWQxZGQtNDYzOC04YjhiLWQ4Yzk3ZTg0MDQwZVwvZDM4b3c4ei1hNDFmM2M4Mi03OWZkLTQwN2UtYWVhZC03ZTM4YjEzMDgyZDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z_F2J_wxPdcJeXb_9xeM0zXhdajLc1ZMOykfTenMHcY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="backyardigans Design Template | Pixiz">
+                                <img itemprop="contentUrl url" src='https://data.pixiz.com/output/user/frame/preview/api/big/7/3/4/4/2274437_6fd56.jpg' alt='backyardigans Design Template | Pixiz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixiz" />
+                                </span>
+                                <a href='https://data.pixiz.com/output/user/frame/preview/api/big/7/3/4/4/2274437_6fd56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/60a67192-17d7-4c5b-a48a-39d47b8d274a.0fc1b50231d8734c9d8ccfa547afe257.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Backyardigans Background Banner Birthday Backdrop Party Supplies Taspestry  Wall Decor Post Lover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/60a67192-17d7-4c5b-a48a-39d47b8d274a.0fc1b50231d8734c9d8ccfa547afe257.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Backyardigans' Trends on Social Media Thanks to Gen Z">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/a2/66/0ea266ebe49b23886b8341ed2794e0c3.jpg' alt='The Backyardigans' Trends on Social Media Thanks to Gen Z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/a2/66/0ea266ebe49b23886b8341ed2794e0c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

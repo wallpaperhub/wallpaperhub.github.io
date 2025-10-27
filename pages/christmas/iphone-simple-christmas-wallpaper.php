@@ -1,0 +1,129 @@
+<title>Simple Christmas Wallpapers for iPhone | Festive Minimalist Designs</title>
+                    <meta name="description" content="Discover beautifully simple Christmas wallpapers for your iPhone. Our minimalist designs bring festive cheer to your screen while keeping it elegant. Explore a variety of holiday-themed images that perfectly capture the spirit of the season without clutter. Ideal for a stylish and cheerful holiday look!">
+                    <meta name="keywords" content="iphone simple christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/iphone-simple-christmas-wallpaper">
+                            <span itemprop="name">iphone simple christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple Christmas Wallpapers for iPhone | Festive Minimalist Designs</h1>
+                <p>Enhance your holiday spirit with our collection of iPhone simple Christmas wallpapers. Featuring minimalist designs, these wallpapers capture the essence of Christmas without overwhelming your screen. Perfect for anyone seeking a festive yet understated look, our wallpapers include snowflakes, trees, and ornaments to make your device shine this season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Cute Christmas Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-christmas-gold-pattern-drxxyl4l9jonjgpg.jpg' alt='Simple Cute Christmas Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-christmas-gold-pattern-drxxyl4l9jonjgpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas simple iPhone backgrounds | Neutral festive wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0012c5/4470088649/il_570xN.4470088649_2b9q.jpg' alt='Christmas simple iPhone backgrounds | Neutral festive wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0012c5/4470088649/il_570xN.4470088649_2b9q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute and FREE Winter Phone Wallpapers | Love and Specs | Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/a6/de/6ea6deac68caa85e4dd282f898bc8979.jpg' alt='Cute and FREE Winter Phone Wallpapers | Love and Specs | Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/a6/de/6ea6deac68caa85e4dd282f898bc8979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Cute Christmas Iphone Bear Icons Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-cute-christmas-iphone-bear-icons-6xmtpl2jkuf35pl7.jpg' alt='Simple Cute Christmas Iphone Bear Icons Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-cute-christmas-iphone-bear-icons-6xmtpl2jkuf35pl7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Christmas Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/12/e4/9f12e46099f61bb075a8bdacad195ba2.jpg' alt='Simple Christmas Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/12/e4/9f12e46099f61bb075a8bdacad195ba2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Simple Cute Christmas iPhone Single Tree Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-cute-christmas-iphone-single-tree-hl76a3c7t5wchk1e.jpg' alt='Download Simple Cute Christmas iPhone Single Tree Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-cute-christmas-iphone-single-tree-hl76a3c7t5wchk1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 853+ Christmas Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPnbOt7_0/1/0/900w/canva-christmas-tree-simple-cute-iphone-wallpaper-Rak3QjgTJZE.jpg' alt='Customize 853+ Christmas Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPnbOt7_0/1/0/900w/canva-christmas-tree-simple-cute-iphone-wallpaper-Rak3QjgTJZE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Cute Christmas Iphone All That Jazz Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/simple-cute-christmas-iphone-socks-gingerbread-d04g1ltskjjvo6zw.webp' alt='Simple Cute Christmas Iphone All That Jazz Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/simple-cute-christmas-iphone-socks-gingerbread-d04g1ltskjjvo6zw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Simple Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/simple-christmas-tosl52v45am36ndw.jpg' alt='100+] Simple Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/simple-christmas-tosl52v45am36ndw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Backgrounds for your Phone and Desktop">
+                                <img itemprop="contentUrl url" src='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-christmas-car-iphone-675x1200.jpg' alt='Holiday Backgrounds for your Phone and Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-christmas-car-iphone-675x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

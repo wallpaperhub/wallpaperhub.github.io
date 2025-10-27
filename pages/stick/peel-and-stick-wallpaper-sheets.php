@@ -1,0 +1,129 @@
+<title>Transform Your Space with Peel and Stick Wallpaper Sheets</title>
+                    <meta name="description" content="Discover the convenience of peel and stick wallpaper sheets! Easy to apply and remove, these stylish options let you refresh your decor without commitment. Perfect for renters and DIYers, explore various designs to elevate your space in no time!">
+                    <meta name="keywords" content="peel and stick wallpaper sheets">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-sheets">
+                            <span itemprop="name">peel and stick wallpaper sheets</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Peel and Stick Wallpaper Sheets</h1>
+                <p>Peel and stick wallpaper sheets offer a quick and easy way to transform your space without the mess of traditional wallpaper. Available in various patterns and colors, these self-adhesive sheets can be applied and removed effortlessly, making them ideal for renters and DIY enthusiasts. Enjoy a stylish update that suits your taste!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' alt='Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Main Street 8-Pack 16" x 24" Wallpaper Panels. Sage Green Floral Peel and  Stick Wallpaper Sheets in West Coast Branch Print. Renter-Friendly  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ny4DhVFbL.jpg' alt='Main Street 8-Pack 16" x 24" Wallpaper Panels. Sage Green Floral Peel and  Stick Wallpaper Sheets in West Coast Branch Print. Renter-Friendly  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ny4DhVFbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delilah Blossom Wallpaper - CLEARANCE 10 Sheets 24" w x 48" h">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/delilah-blossom-wallpaper-clearance-10-sheets-24-w-x-48-h-103594.png?v=1732314535' alt='Delilah Blossom Wallpaper - CLEARANCE 10 Sheets 24" w x 48" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/delilah-blossom-wallpaper-clearance-10-sheets-24-w-x-48-h-103594.png?v=1732314535' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Chinoiserie Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D503">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5309092265_ndt8.jpg?v=1722444676&width=1445' alt='Floral Chinoiserie Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D503'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5309092265_ndt8.jpg?v=1722444676&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LACHEERY Extra Thick Peel and Stick Wallpaper for Textured Walls White  Textured Wallpaper Self Adhesive Foam Wallpaper for Bathroom Bedroom Living  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mPutILMtL._AC_UF894,1000_QL80_.jpg' alt='LACHEERY Extra Thick Peel and Stick Wallpaper for Textured Walls White  Textured Wallpaper Self Adhesive Foam Wallpaper for Bathroom Bedroom Living  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mPutILMtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1 Roll 3D Wall Panel Linen Texture Self Adhesive Peel and Stick Waterproof  Wallpaper Wall Sticker,Suitable for Living Room and Bedroom Wall Decoration  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/1-Roll-3D-Wall-Panel-Linen-Texture-Self-Adhesive-Peel-Stick-Waterproof-Wallpaper-Sticker-Suitable-Living-Room-Bedroom-Decoration-19-7x110-2Inch_0cc0c1c1-07f8-4251-b243-4ec82a1df1f1.faf6de50bbe9c0fb2991e2f81f4aa0b4.jpeg' alt='1 Roll 3D Wall Panel Linen Texture Self Adhesive Peel and Stick Waterproof  Wallpaper Wall Sticker,Suitable for Living Room and Bedroom Wall Decoration  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/1-Roll-3D-Wall-Panel-Linen-Texture-Self-Adhesive-Peel-Stick-Waterproof-Wallpaper-Sticker-Suitable-Living-Room-Bedroom-Decoration-19-7x110-2Inch_0cc0c1c1-07f8-4251-b243-4ec82a1df1f1.faf6de50bbe9c0fb2991e2f81f4aa0b4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper | Removable Wallpaper | Canvas n Decor USA">
+                                <img itemprop="contentUrl url" src='https://www.canvasndecor.com/assets/high-quality-self-adhesive-wallpaper-in-bedroom-768x1067.jpg' alt='Peel & Stick Wallpaper | Removable Wallpaper | Canvas n Decor USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas n Decor" />
+                                </span>
+                                <a href='https://www.canvasndecor.com/assets/high-quality-self-adhesive-wallpaper-in-bedroom-768x1067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 6 Best Removable Wallpapers, Tested by BHG">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/KC63QKET88tFG12Ty7yY4UgxpuM=/4000x0/filters:no_upscale():strip_icc()/bhg-primary-removable-wallpaper-aug-24-hwortock-001-001-f3e658de162f4c319c295e41893adef6.jpeg' alt='The 6 Best Removable Wallpapers, Tested by BHG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/KC63QKET88tFG12Ty7yY4UgxpuM=/4000x0/filters:no_upscale():strip_icc()/bhg-primary-removable-wallpaper-aug-24-hwortock-001-001-f3e658de162f4c319c295e41893adef6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

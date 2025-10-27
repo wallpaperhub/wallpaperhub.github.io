@@ -1,0 +1,129 @@
+<title>Stylish Preppy Wallpaper Checkers</title>
+                    <meta name="description" content="Explore our collection of preppy wallpaper checkers, where classic design meets modern aesthetics. Perfect for elevating any space, our chic patterns inspire creativity and style in your home. Transform your walls with vibrant checkered designs that bring a touch of elegance to your decor!">
+                    <meta name="keywords" content="preppy wallpaper checkers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-checkers">
+                            <span itemprop="name">preppy wallpaper checkers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Preppy Wallpaper Checkers</h1>
+                <p>Preppy wallpaper checkers bring a refreshing, stylish flair to any space. Perfect for those who love classic patterns with a modern twist, these wallpapers add a sophisticated touch. Ideal for dorm rooms, living areas, or even as accent walls, preppy checkers shine with color and charm, making every room feel more vibrant and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy checkers wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e1/cb/cd/e1cbcdbb43e83f89e7be64551c9db4ca.jpg' alt='Wavy checkers wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e1/cb/cd/e1cbcdbb43e83f89e7be64551c9db4ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy iPhone wallpaper | checkered iPhone wallpaper | pink iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0d/12/02/0d12023162d76743f88e919549410e8c.jpg' alt='Trippy iPhone wallpaper | checkered iPhone wallpaper | pink iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0d/12/02/0d12023162d76743f88e919549410e8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy checkered Instagram/phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/4d/2d/b34d2d2fdf3694f554d1787a831badbb.jpg' alt='Wavy checkered Instagram/phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/4d/2d/b34d2d2fdf3694f554d1787a831badbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfruit Checkered Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/00/59/640059441cf1c6f445ef558cda8b96bc.jpg' alt='Starfruit Checkered Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/00/59/640059441cf1c6f445ef558cda8b96bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute small pastel pink checkers gingham plaid ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-small-pastel-pink-checkers-gingham-plaid-aesthetic-checkerboard-pattern-wallpaper-illustration-perfect-wallpaper-backdrop-postcard-background-your-design_565280-717.jpg' alt='Premium Vector | Cute small pastel pink checkers gingham plaid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-small-pastel-pink-checkers-gingham-plaid-aesthetic-checkerboard-pattern-wallpaper-illustration-perfect-wallpaper-backdrop-postcard-background-your-design_565280-717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy checkers wallpaper pink and blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/c3/3a/f2c33a6087bbae4e49ef8c852dd59390.jpg' alt='Wavy checkers wallpaper pink and blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/c3/3a/f2c33a6087bbae4e49ef8c852dd59390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/91/88/e19188e0345bcc76ce9a892e8abcdadd.jpg' alt='my wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/91/88/e19188e0345bcc76ce9a892e8abcdadd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute pink checkers checkerboard gingham aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-pink-checkers-checkerboard-gingham-aesthetic-checkered-background-illustration-perfect-wallpaper-backdrop-postcard-background_565280-718.jpg' alt='Premium Vector | Cute pink checkers checkerboard gingham aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-pink-checkers-checkerboard-gingham-aesthetic-checkered-background-illustration-perfect-wallpaper-backdrop-postcard-background_565280-718.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink wavy checkerboard wallpaper 배경화면">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/7a/45/9c7a452705ab38ce2e63eda4c0e41b36.jpg' alt='Pink wavy checkerboard wallpaper 배경화면'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/7a/45/9c7a452705ab38ce2e63eda4c0e41b36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro wavy checkers wallpaper :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/8d/ab/bb8dabf6df56acba90e3ed5de66184a1.jpg' alt='Retro wavy checkers wallpaper :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/8d/ab/bb8dabf6df56acba90e3ed5de66184a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

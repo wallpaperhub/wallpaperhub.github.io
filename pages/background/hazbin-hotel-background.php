@@ -1,0 +1,129 @@
+<title>Explore the Unique World of Hazbin Hotel: A Dive into Hell's Quirky Characters</title>
+                    <meta name="description" content="Discover the fascinating background of Hazbin Hotel, an animated series that delves into the lives of demons in Hell. Follow Charlie's journey to redeem lost souls in this unique take on the afterlife. Engage with captivating characters and a distinctive art style that has garnered a loyal fanbase.">
+                    <meta name="keywords" content="hazbin hotel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hazbin-hotel-background">
+                            <span itemprop="name">hazbin hotel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Unique World of Hazbin Hotel: A Dive into Hell's Quirky Characters</h1>
+                <p>Hazbin Hotel is an animated series created by Vivienne Medrano. Set in Hell, it follows Charlie, the princess of Hell, who dreams of rehabilitating demons to lessen overpopulation. The show's unique art style, quirky characters, and engaging plot have made it a cult favorite, exploring themes of redemption and acceptance in a darkly comedic manner.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's my favourite background in Hazbin Hotel. I don't know how ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b4d1zo93q5151.jpg?auto=webp&s=16f7fb6b3ad4c99fcf0c91525a2d9c5e81fd7b97' alt='It's my favourite background in Hazbin Hotel. I don't know how ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b4d1zo93q5151.jpg?auto=webp&s=16f7fb6b3ad4c99fcf0c91525a2d9c5e81fd7b97' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin wallpaper♥️ : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0sydnfypi3a41.jpg?width=1080&crop=smart&auto=webp&s=abb621250c78ddf5c092bcd59444ce4aca75fbba' alt='Hazbin wallpaper♥️ : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0sydnfypi3a41.jpg?width=1080&crop=smart&auto=webp&s=abb621250c78ddf5c092bcd59444ce4aca75fbba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Hazbin Hotel Wallpaper by SisterStories on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8d62ba3-a0ca-47a3-b924-7b05af468b23/df1dpoo-bab3830f-a7e8-48bc-ae42-ff8fcf6c3b7f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4ZDYyYmEzLWEwY2EtNDdhMy1iOTI0LTdiMDVhZjQ2OGIyM1wvZGYxZHBvby1iYWIzODMwZi1hN2U4LTQ4YmMtYWU0Mi1mZjhmY2Y2YzNiN2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LBvGBaH9SYA4tRF1Wy-lsFvnw3O04uXV4q1yqnC-ITc' alt='New Hazbin Hotel Wallpaper by SisterStories on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8d62ba3-a0ca-47a3-b924-7b05af468b23/df1dpoo-bab3830f-a7e8-48bc-ae42-ff8fcf6c3b7f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4ZDYyYmEzLWEwY2EtNDdhMy1iOTI0LTdiMDVhZjQ2OGIyM1wvZGYxZHBvby1iYWIzODMwZi1hN2U4LTQ4YmMtYWU0Mi1mZjhmY2Y2YzNiN2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LBvGBaH9SYA4tRF1Wy-lsFvnw3O04uXV4q1yqnC-ITc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nicholas (Cole) Jordan - Hazbin Hotel: Husk Bar Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/021/513/228/large/nicholas-cole-jordan-hi-19-wm.jpg?1571955730' alt='Nicholas (Cole) Jordan - Hazbin Hotel: Husk Bar Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nicholas (Cole) Jordan" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/021/513/228/large/nicholas-cole-jordan-hi-19-wm.jpg?1571955730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butcher Town | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/3/35/Butcher_Town.png/revision/latest?cb=20231216191404' alt='Butcher Town | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel: Journey to the Light Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/3/35/Butcher_Town.png/revision/latest?cb=20231216191404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Hazbin Hotel: Alastor Intro Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/013/929/907/large/nicholas-cole-jordan-al-15-marked.jpg?1541703002' alt='ArtStation - Hazbin Hotel: Alastor Intro Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/013/929/907/large/nicholas-cole-jordan-al-15-marked.jpg?1541703002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tutorial on how I do background houses | Hazbin Hotel (official) Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/7568/515184d2d3076a6c1402b8fc0d7d91d9f8ce0362r1-640-360v2_hq.jpg' alt='Tutorial on how I do background houses | Hazbin Hotel (official) Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/7568/515184d2d3076a6c1402b8fc0d7d91d9f8ce0362r1-640-360v2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wanted some Hazbin Hotel wallpapers, so here's my collection of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-wanted-some-hazbin-hotel-wallpapers-so-heres-my-v0-465hteanohgc1.jpg?width=4000&format=pjpg&auto=webp&s=7593ab929cc83b7c09d6798e8781ff972ceefcf4' alt='I wanted some Hazbin Hotel wallpapers, so here's my collection of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-wanted-some-hazbin-hotel-wallpapers-so-heres-my-v0-465hteanohgc1.jpg?width=4000&format=pjpg&auto=webp&s=7593ab929cc83b7c09d6798e8781ff972ceefcf4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentagram City | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/a/ab/Pentagram_City_main_series_full.png/revision/latest?cb=20231215022939' alt='Pentagram City | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/a/ab/Pentagram_City_main_series_full.png/revision/latest?cb=20231215022939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel: Ultra HD Wallpaper Featuring Iconic Characters">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/128/1284807.jpg' alt='Hazbin Hotel: Ultra HD Wallpaper Featuring Iconic Characters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/128/1284807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

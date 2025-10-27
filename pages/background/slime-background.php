@@ -1,0 +1,129 @@
+<title>Vibrant Slime Backgrounds for Creative Projects</title>
+                    <meta name="description" content="Explore a collection of vibrant slime backgrounds that will elevate your creative projects. Perfect for art, social media, and crafts, these unique designs offer a playful touch to any design. Ideal for making your visuals stand out with their fun and colorful textures!">
+                    <meta name="keywords" content="slime background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/slime-background">
+                            <span itemprop="name">slime background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Slime Backgrounds for Creative Projects</h1>
+                <p>Slime backgrounds offer a vibrant and fun aesthetic, perfect for various creative projects. With swirling colors and a gooey texture, they can evoke a playful ambiance. Whether for digital art, crafting, or social media posts, these unique textures are sure to grab attention and add a lively touch to your designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Background Images – Browse 1,456,746 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/92/69/61/360_F_292696143_9CCpCmghOas6m03Xq87fdrwbOvAxTMdT.jpg' alt='Slime Background Images – Browse 1,456,746 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/92/69/61/360_F_292696143_9CCpCmghOas6m03Xq87fdrwbOvAxTMdT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Background Images – Browse 1,456,746 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/27/28/41/360_F_227284183_66iD62dZpTfTNNFRsB0R3MdgZugDA467.jpg' alt='Slime Background Images – Browse 1,456,746 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/27/28/41/360_F_227284183_66iD62dZpTfTNNFRsB0R3MdgZugDA467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print green slime fluid abstract background. swamp ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/54/31/79/1000_F_354317992_odXcO8a4tENCwkTA6eR2h5SZZg0Vmu5R.jpg' alt='Photo & Art Print green slime fluid abstract background. swamp ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/54/31/79/1000_F_354317992_odXcO8a4tENCwkTA6eR2h5SZZg0Vmu5R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/flowing-green-sticky-liquid-slime-drips-flowing-background-with-slime-vector-illustration_450469-600.jpg?semt=ais_hybrid' alt='Slime Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/flowing-green-sticky-liquid-slime-drips-flowing-background-with-slime-vector-illustration_450469-600.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/colorful-vector-slime-water-drop-pattern-light-green-background_143569-5261.jpg?semt=ais_hybrid' alt='Slime Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/colorful-vector-slime-water-drop-pattern-light-green-background_143569-5261.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/230/655/small/3d-colorful-papercut-slime-design-background-can-be-used-for-banner-wallpaper-or-motion-template-free-vector.jpg' alt='Slime Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/230/655/small/3d-colorful-papercut-slime-design-background-can-be-used-for-banner-wallpaper-or-motion-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid slime background. Cartoon green drip goo mucus glitte">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/2109-m05-i039-n021-mainpreview-5ad1c4e4167e1e72b0183a08b6298127c4dda84f90ee289ac1a2323d13c0751d.jpg' alt='Liquid slime background. Cartoon green drip goo mucus glitte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/2109-m05-i039-n021-mainpreview-5ad1c4e4167e1e72b0183a08b6298127c4dda84f90ee289ac1a2323d13c0751d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Purple Slime Stock Illustrations – 555 Blue Purple Slime ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/yellow-purple-blue-pink-sticky-slime-background-yellow-purple-blue-pink-sticky-slime-background-copy-space-327034985.jpg' alt='Blue Purple Slime Stock Illustrations – 555 Blue Purple Slime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/yellow-purple-blue-pink-sticky-slime-background-yellow-purple-blue-pink-sticky-slime-background-copy-space-327034985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime wallpaper by JAY_SAVAGE23 - Download on ZEDGE™ | 37e1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/16/e4/e016e4243e9b4e4cb75925d0cecf01f1.jpg' alt='Slime wallpaper by JAY_SAVAGE23 - Download on ZEDGE™ | 37e1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/16/e4/e016e4243e9b4e4cb75925d0cecf01f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 Green Slime Texture Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1744330800/photo/beautiful-pink-orange-purple-and-mint-green-transparent-smudge-space-alien-glitter-slime.jpg?s=612x612&w=gi&k=20&c=rqpPIC4Ob6ds9nLn1xTV3q1qjf4Q6QS99uOexAnBwks=' alt='44 Green Slime Texture Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1744330800/photo/beautiful-pink-orange-purple-and-mint-green-transparent-smudge-space-alien-glitter-slime.jpg?s=612x612&w=gi&k=20&c=rqpPIC4Ob6ds9nLn1xTV3q1qjf4Q6QS99uOexAnBwks=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

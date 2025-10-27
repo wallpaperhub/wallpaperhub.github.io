@@ -1,0 +1,129 @@
+<title>Understanding Checkr in Uber: Your Safety Comes First</title>
+                    <meta name="description" content="Discover how Checkr supports Uber's commitment to safety through comprehensive background checks for drivers. Learn about the verification process and what it means for riders and drivers alike. Stay informed about safety protocols that keep the Uber community secure.">
+                    <meta name="keywords" content="checkr uber">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/checkr-uber">
+                            <span itemprop="name">checkr uber</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Checkr in Uber: Your Safety Comes First</h1>
+                <p>Checkr Uber is a background check service used by Uber to ensure the safety and security of riders and drivers. This verification process reviews driving history, criminal records, and other essential data, helping Uber maintain a trustworthy community. Understanding Checkr's role is key for potential drivers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1170&format=pjpg&auto=webp&s=65e55f988707cdfe707a3aae56f638eb6e4f5a17' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-u7mflvowfawa1.jpg?width=1170&format=pjpg&auto=webp&s=65e55f988707cdfe707a3aae56f638eb6e4f5a17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My background check “failed” and I updated it and it cleared. Uber ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-n8y2uvowfawa1.jpg?width=640&crop=smart&auto=webp&s=ee3476b2475858294b5125cf51d4d39ecf961cb4' alt='My background check “failed” and I updated it and it cleared. Uber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-background-check-failed-and-i-updated-it-and-it-cleared-v0-n8y2uvowfawa1.jpg?width=640&crop=smart&auto=webp&s=ee3476b2475858294b5125cf51d4d39ecf961cb4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is CHECKR. 52 Days since they started my Background Check. I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r1e7un4c27p71.jpg' alt='This is CHECKR. 52 Days since they started my Background Check. I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r1e7un4c27p71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long to complete Uber background check | Why is it taking so LONG?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lE9m5JkR_Wg/maxresdefault.jpg' alt='How long to complete Uber background check | Why is it taking so LONG?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lE9m5JkR_Wg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check email from Checkr ? | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/screenshot_20190201-132647-png.293727/' alt='Background check email from Checkr ? | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/screenshot_20190201-132647-png.293727/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backround check | Uber Drivers Forum">
+                                <img itemprop="contentUrl url" src='https://www.uberpeople.net/attachments/screenshot_20220207-080554_uber-driver-jpg.641938/' alt='Backround check | Uber Drivers Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Uber Drivers Forum" />
+                                </span>
+                                <a href='https://www.uberpeople.net/attachments/screenshot_20220207-080554_uber-driver-jpg.641938/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr candidate experience overview">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000004Xzt&feoid=00NQr000002fF8Q&refid=0EMQr000009oJyL' alt='Checkr candidate experience overview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1832">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000004Xzt&feoid=00NQr000002fF8Q&refid=0EMQr000009oJyL' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check isn't showing up on Checkr : r/uberdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-isnt-showing-up-on-checkr-v0-n5p0n22lf20b1.png?width=640&crop=smart&auto=webp&s=3ec712ee9b40667d117606aaf39acbc98db5fa69' alt='Background check isn't showing up on Checkr : r/uberdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-isnt-showing-up-on-checkr-v0-n5p0n22lf20b1.png?width=640&crop=smart&auto=webp&s=3ec712ee9b40667d117606aaf39acbc98db5fa69' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkr: Playing Chess in the Background Screening Industry ...">
+                                <img itemprop="contentUrl url" src='https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2019/09/Uber_Checks.png' alt='Checkr: Playing Chess in the Background Screening Industry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Data Design Institute at Harvard" />
+                                </span>
+                                <a href='https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2019/09/Uber_Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taking Action Against Checkr and Uber for False Background Check ...">
+                                <img itemprop="contentUrl url" src='https://jaffer.law/wp-content/uploads/2024/01/uber_checkr_background_report_error.jpg' alt='Taking Action Against Checkr and Uber for False Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jaffer Law" />
+                                </span>
+                                <a href='https://jaffer.law/wp-content/uploads/2024/01/uber_checkr_background_report_error.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

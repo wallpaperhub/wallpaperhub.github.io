@@ -1,0 +1,129 @@
+<title>Florida Gators Transparent Logo: A Bold Symbol of Team Spirit</title>
+                    <meta name="description" content="Discover the versatility of the transparent Florida Gators logo. Perfect for digital use, merchandise, and fan artwork, this emblem encapsulates team spirit with its fierce alligator design and vibrant colors. Ideal for showcasing your Florida pride anywhere!">
+                    <meta name="keywords" content="transparent florida gators logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-florida-gators-logo">
+                            <span itemprop="name">transparent florida gators logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Florida Gators Transparent Logo: A Bold Symbol of Team Spirit</h1>
+                <p>The transparent Florida Gators logo is a versatile emblem showcasing the university's vibrant spirit. This design combines the fierce alligator mascot with the iconic orange and blue colors, making it perfect for any context without a background. Ideal for merchandise, digital media, or fan art, it captures the essence of Florida pride.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/images/large/2x/florida-gators-logo-png-transparent.png' alt='Florida Gators Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/images/large/2x/florida-gators-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo - Florida Gators Logo with Alligator Emblem ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180628/jbc/kisspng-florida-gators-men-s-basketball-florida-gators-foo-gator-5b356491ede7c9.9063036515302258099745.jpg' alt='Florida Gators Logo - Florida Gators Logo with Alligator Emblem ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180628/jbc/kisspng-florida-gators-men-s-basketball-florida-gators-foo-gator-5b356491ede7c9.9063036515302258099745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2021/06/Florida-Gators-logo.png' alt='Florida Gators Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2021/06/Florida-Gators-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Florida Gators script logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/12/Florida_Gators_script_logo.png' alt='File:Florida Gators script logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1007">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/12/Florida_Gators_script_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo PNG Vector (SVG) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/F/florida-gators-logo-16246A96C7-seeklogo.com.png' alt='Florida Gators Logo PNG Vector (SVG) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/F/florida-gators-logo-16246A96C7-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/24/2/florida-gators-logo-png_seeklogo-249392.png' alt='Florida Gators Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/24/2/florida-gators-logo-png_seeklogo-249392.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gators | Florida 12 Athletic Logo Decal | Alumni Hall">
+                                <img itemprop="contentUrl url" src='https://www.alumnihall.com/prodimages/69349-RYLORG-l.jpg' alt='Gators | Florida 12 Athletic Logo Decal | Alumni Hall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alumni Hall" />
+                                </span>
+                                <a href='https://www.alumnihall.com/prodimages/69349-RYLORG-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Gator Logo - Green Gator Sports Logo Design - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180926/qja/kisspng-florida-gators-football-florida-gators-mens-baske-front-of-mac-app-2-16-florida-gators-football-sc-5babfc9c5bb7e6.1075858015379979803757.jpg' alt='Green Gator Logo - Green Gator Sports Logo Design - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180926/qja/kisspng-florida-gators-football-florida-gators-mens-baske-front-of-mac-app-2-16-florida-gators-football-sc-5babfc9c5bb7e6.1075858015379979803757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/21/1/florida-gators-logo-png_seeklogo-213448.png' alt='Florida Gators Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/21/1/florida-gators-logo-png_seeklogo-213448.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Logo Vector - (.SVG + .PNG) - GetLogoVector.Com">
+                                <img itemprop="contentUrl url" src='https://getlogovector.com/wp-content/uploads/2020/11/florida-gators-logo-vector.png' alt='Florida Gators Logo Vector - (.SVG + .PNG) - GetLogoVector.Com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Get Logo Vector" />
+                                </span>
+                                <a href='https://getlogovector.com/wp-content/uploads/2020/11/florida-gators-logo-vector.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

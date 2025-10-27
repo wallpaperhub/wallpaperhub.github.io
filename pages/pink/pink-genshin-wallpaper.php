@@ -1,0 +1,129 @@
+<title>Stunning Pink Genshin Impact Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore captivating pink Genshin Impact wallpapers to elevate your device's aesthetic. Perfect for fans seeking to personalize their screens with vibrant colors and beloved characters. Download today for a stylish gaming-inspired look!">
+                    <meta name="keywords" content="pink genshin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-genshin-wallpaper">
+                            <span itemprop="name">pink genshin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Genshin Impact Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning pink Genshin Impact wallpapers! Dive into a world of vibrant visuals featuring your favorite characters enveloped in enchanting shades of pink. Ideal for fans wanting to personalize their screens, these wallpapers add a delightful touch of fantasy to your everyday life. Discover your perfect design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Xinyan (Genshin Impact) Video Game Genshin Impact 4k ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/125/1257891.jpg' alt='Download Xinyan (Genshin Impact) Video Game Genshin Impact 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6880">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/125/1257891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumeru is pure wallpaper material : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sumeru-is-pure-wallpaper-material-v0-7jz57u6l71l91.png?width=1920&format=png&auto=webp&s=897671c794ade1f8ffda3b68a51f0adaa2b882fe' alt='Sumeru is pure wallpaper material : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sumeru-is-pure-wallpaper-material-v0-7jz57u6l71l91.png?width=1920&format=png&auto=webp&s=897671c794ade1f8ffda3b68a51f0adaa2b882fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Genshin_ Impact_ Dynamic_ Duo_ Battle Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/genshin-impact-dynamic-duo-battle-4jqdxwekdfqrjsml.jpg' alt='Download Genshin_ Impact_ Dynamic_ Duo_ Battle Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/genshin-impact-dynamic-duo-battle-4jqdxwekdfqrjsml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Aesthetic Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1c/14/01/1c14017299621c87c18dd5ec15a8b37b.jpg' alt='Genshin Aesthetic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1c/14/01/1c14017299621c87c18dd5ec15a8b37b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sangonomiya Kokomi Wallpaper 4K, Genshin Impact, Anime girl, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/sangonomiya-kokomi-genshin-impact-anime-girl-5k-3440x1440-6697.jpg' alt='Sangonomiya Kokomi Wallpaper 4K, Genshin Impact, Anime girl, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/sangonomiya-kokomi-genshin-impact-anime-girl-5k-3440x1440-6697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's wallpaper of Noelle, as deserved for all the work she puts ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p9awbht3tjr71.jpg' alt='Here's wallpaper of Noelle, as deserved for all the work she puts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p9awbht3tjr71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yae Miko Guuji (Genshin Impact) Genshin Impact Torii Pink ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/135/1351117.jpeg' alt='Download Yae Miko Guuji (Genshin Impact) Genshin Impact Torii Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5512">
+                                <meta itemprop="height" content="2756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/135/1351117.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game, Genshin Impact, Long Hair, Pink Hair, Yae Miko Guuji ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/677/226/HD-wallpaper-video-game-genshin-impact-long-hair-pink-hair.jpg' alt='Video Game, Genshin Impact, Long Hair, Pink Hair, Yae Miko Guuji ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/677/226/HD-wallpaper-video-game-genshin-impact-long-hair-pink-hair.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Pink Hu Tao Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/genshin-impact-pink-hu-tao-ik84mzta24cc9oat.jpg' alt='Genshin Impact Pink Hu Tao Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/genshin-impact-pink-hu-tao-ik84mzta24cc9oat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Eyes Pink Hair Yae Miko Guuji 4K HD Genshin Impact ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/purple_eyes_pink_hair_yae_miko_guuji_4k_hd_genshin_impact-HD.jpg' alt='Purple Eyes Pink Hair Yae Miko Guuji 4K HD Genshin Impact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/purple_eyes_pink_hair_yae_miko_guuji_4k_hd_genshin_impact-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

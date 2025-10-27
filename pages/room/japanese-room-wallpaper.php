@@ -1,0 +1,129 @@
+<title>Enhance Your Space with Elegant Japanese Room Wallpaper</title>
+                    <meta name="description" content="Explore stylish Japanese room wallpaper that effortlessly infuses tradition into your home. Discover designs that create a serene atmosphere while enhancing your decor. Perfect for any room! Ideal for those seeking a tranquil yet chic environment. Shop now to elevate your living spaces!">
+                    <meta name="keywords" content="japanese room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/japanese-room-wallpaper">
+                            <span itemprop="name">japanese room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with Elegant Japanese Room Wallpaper</h1>
+                <p>Discover the beauty of Japanese room wallpaper, where tradition meets modern aesthetics. Featuring delicate patterns and natural motifs, these wallpapers transform spaces into serene havens. From cherry blossoms to minimalist designs, find the perfect style for your home. Embrace tranquility and elevate your decor with Japanese-inspired wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Room">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/54783/japanese-room.jpg?h=699&q=85' alt='Japanese Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/54783/japanese-room.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Tea Room [2560x1440] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/82smngfjfs251.jpg' alt='Japanese Tea Room [2560x1440] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/82smngfjfs251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Room Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1595880275563-f9a6e74b0a8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFwYW5lc2UlMjByb29tfGVufDB8fDB8fHww' alt='Japanese Room Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1595880275563-f9a6e74b0a8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFwYW5lc2UlMjByb29tfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Wallpaper & Murals | 40+ Designs | WallpaperMural.com">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/files/ChisineRoseGoldWallpaperInBedroomWithLargeWoodenBed_JapanesePinkPlant_533x.jpg?v=1740500649' alt='Japanese Wallpaper & Murals | 40+ Designs | WallpaperMural.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/files/ChisineRoseGoldWallpaperInBedroomWithLargeWoodenBed_JapanesePinkPlant_533x.jpg?v=1740500649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Japanese Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/4d/d0/9c4dd0df2f18f26824f7a4f181b4d632.jpg' alt='1000+] Japanese Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/4d/d0/9c4dd0df2f18f26824f7a4f181b4d632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Style Wallpaper Removable Mountain Wall Mural Tea Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21916011/r/il/32c8a2/5366170351/il_570xN.5366170351_31ig.jpg' alt='Japanese Style Wallpaper Removable Mountain Wall Mural Tea Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21916011/r/il/32c8a2/5366170351/il_570xN.5366170351_31ig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Art Wallpaper, Asian Landscape Art, Japanese Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16948243/r/il/df5216/2635465820/il_570xN.2635465820_mxys.jpg' alt='Japanese Art Wallpaper, Asian Landscape Art, Japanese Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16948243/r/il/df5216/2635465820/il_570xN.2635465820_mxys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Room - Other & Anime Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2176/2176774-bigthumbnail.jpg' alt='Japanese Room - Other & Anime Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2176/2176774-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese room - Desktop Nexus Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0b/59/0f/0b590f193d04bf766fde6b02af8cdebc.jpg' alt='Japanese room - Desktop Nexus Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0b/59/0f/0b590f193d04bf766fde6b02af8cdebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Japanese Wallpaper Designs | Hello Circus">
+                                <img itemprop="contentUrl url" src='https://www.hellocircus.com/cdn/shop/files/HC-Spring_Tree-Mural_Wallpaper-Interior2_1024x1024.jpg?v=1728354191' alt='Aesthetic Japanese Wallpaper Designs | Hello Circus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Circus" />
+                                </span>
+                                <a href='https://www.hellocircus.com/cdn/shop/files/HC-Spring_Tree-Mural_Wallpaper-Interior2_1024x1024.jpg?v=1728354191' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

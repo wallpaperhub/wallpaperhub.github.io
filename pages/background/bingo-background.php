@@ -1,0 +1,129 @@
+<title>Bingo: The Fun Game with a Rich History</title>
+                    <meta name="description" content="Discover the exciting world of Bingo! Explore its fascinating history, gameplay mechanics, and the social connections it fosters. Join a thriving community of players, whether in-person or online, and enjoy the thrill of this timeless game. Perfect for all ages and skill levels.">
+                    <meta name="keywords" content="bingo background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bingo-background">
+                            <span itemprop="name">bingo background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bingo: The Fun Game with a Rich History</h1>
+                <p>Bingo, originally traced back to Italy in the 1530s, has evolved into a beloved game worldwide. Typically played with cards featuring random numbers, players aim to match these with those drawn randomly. Its social aspect makes it popular in community gatherings, and online platforms have further broadened its reach, enhancing the game’s fun.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Images – Browse 36,221 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/57/84/15/360_F_257841551_ijTBIpkhoazelh7UkA68joRds9lNqokP.jpg' alt='Bingo Background Images – Browse 36,221 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/57/84/15/360_F_257841551_ijTBIpkhoazelh7UkA68joRds9lNqokP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Images – Browse 36,221 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/91/40/94/360_F_391409414_q9NlOwNJ18dmYZT5pqTBIKGIoJu2iQsP.jpg' alt='Bingo Background Images – Browse 36,221 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/91/40/94/360_F_391409414_q9NlOwNJ18dmYZT5pqTBIKGIoJu2iQsP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/realistic-lottery-symbol-isolated_23-2151177259.jpg' alt='Bingo Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/realistic-lottery-symbol-isolated_23-2151177259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/realistic-bingo-game-3d-background_98292-20221.jpg?semt=ais_hybrid' alt='Bingo Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/realistic-bingo-game-3d-background_98292-20221.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Imirell Bingo Night Theme Backdrop 7Wx5H Feet Golden ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91HHtch2koL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Imirell Bingo Night Theme Backdrop 7Wx5H Feet Golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91HHtch2koL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Bingo Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1205079090/vector/bingo-neon-sign-with-lottery-balls-and-stars.jpg?s=612x612&w=0&k=20&c=O9Q2YjvIARZL7nvDKVFDP_Zm2Pcnj8ZaMkGjailuG8A=' alt='2,700+ Bingo Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1205079090/vector/bingo-neon-sign-with-lottery-balls-and-stars.jpg?s=612x612&w=0&k=20&c=O9Q2YjvIARZL7nvDKVFDP_Zm2Pcnj8ZaMkGjailuG8A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Stock Illustrations – 15,664 Bingo Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-bingo-background-balls-word-exploding-71576600.jpg' alt='Bingo Background Stock Illustrations – 15,664 Bingo Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-bingo-background-balls-word-exploding-71576600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo Background Vector Images (over 7,500)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/60/36/bingo-balls-splash-background-floating-lotto-game-vector-50096036.jpg' alt='Bingo Background Vector Images (over 7,500)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/60/36/bingo-balls-splash-background-floating-lotto-game-vector-50096036.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bingo game realistic poster with lottery tickets and colorful ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RKPH80/bingo-game-realistic-poster-with-lottery-tickets-and-colorful-balls-on-background-with-falling-coins-vector-illustration-2RKPH80.jpg' alt='Bingo game realistic poster with lottery tickets and colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RKPH80/bingo-game-realistic-poster-with-lottery-tickets-and-colorful-balls-on-background-with-falling-coins-vector-illustration-2RKPH80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Bingo Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1487209506/vector/bingo-lottery-tickets-and-flying-balls-background.jpg?s=612x612&w=0&k=20&c=9Eic6a1QetdRjoRVynxbX6d1oYoOlu19SEtNN_4xyso=' alt='2,700+ Bingo Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1487209506/vector/bingo-lottery-tickets-and-flying-balls-background.jpg?s=612x612&w=0&k=20&c=9Eic6a1QetdRjoRVynxbX6d1oYoOlu19SEtNN_4xyso=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

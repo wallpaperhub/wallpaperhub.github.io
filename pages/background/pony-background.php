@@ -1,0 +1,129 @@
+<title>Pony Background: A Brief Overview of Their History and Charm</title>
+                    <meta name="description" content="Discover the rich history and unique traits of ponies. From their origins to their roles in agriculture and companionship, learn what makes these small, charming equines so beloved worldwide.">
+                    <meta name="keywords" content="pony background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pony-background">
+                            <span itemprop="name">pony background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pony Background: A Brief Overview of Their History and Charm</h1>
+                <p>Ponies are small, sturdy horses known for their gentle temperament and unique appearances. Originating from various regions, they have adapted to diverse environments. Ponies have played significant roles in agriculture, transportation, and as beloved companions, especially for children. Their distinctive breeds boast diverse colors and sizes, making them popular worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My little Pony Backdrop Banner Party Supplies Background for Kids  Photography Birthday Decorations 7x5Ft">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/48761dec-325b-4850-b9dd-b1721ed7e746.4afc51b225f70022baaf72385518d39b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='My little Pony Backdrop Banner Party Supplies Background for Kids  Photography Birthday Decorations 7x5Ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/48761dec-325b-4850-b9dd-b1721ed7e746.4afc51b225f70022baaf72385518d39b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Little Pony Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148909997.jpg' alt='My Little Pony Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148909997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] My Little Pony Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/my-little-pony-mane-six-x5ov0p26o9yzytsn.jpg' alt='100+] My Little Pony Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/my-little-pony-mane-six-x5ov0p26o9yzytsn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download My Little Pony Wallpaper By Brokenmessiah on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/d6/b6/04d6b6200708143713ff3a60d8cf3c01.jpg' alt='   Free download My Little Pony Wallpaper By Brokenmessiah on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/d6/b6/04d6b6200708143713ff3a60d8cf3c01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinkie Pie My Little Pony Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pinkie-pie-my-little-pony-tka2zg5uv2pwzcoh.jpg' alt='Pinkie Pie My Little Pony Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pinkie-pie-my-little-pony-tka2zg5uv2pwzcoh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates My Little Pony Toss Peel and Stick Wallpaper, Pink, RMK12660RL -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ReLjViUcL.jpg' alt='RoomMates My Little Pony Toss Peel and Stick Wallpaper, Pink, RMK12660RL -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ReLjViUcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fluttershy (My Little Pony) Rarity (My Little Pony ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/119/1197996.png' alt='Download Fluttershy (My Little Pony) Rarity (My Little Pony ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/119/1197996.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40%off--My Little Pony Birthday Cartoon Rainbow Cloud Photography ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/0c/0a/1c0c0abab3b1dc21fb6168ac84f99b74.jpg' alt='40%off--My Little Pony Birthday Cartoon Rainbow Cloud Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/0c/0a/1c0c0abab3b1dc21fb6168ac84f99b74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Pony Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/019/765/small/clouds-with-wavy-rainbow-background-vector.jpg' alt='Little Pony Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/019/765/small/clouds-with-wavy-rainbow-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x3 ft My Little Pony Party Rainbow Backdrop Baby Shower Happy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/616NUlmqITL._AC_UF1000,1000_QL80_.jpg' alt='5x3 ft My Little Pony Party Rainbow Backdrop Baby Shower Happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/616NUlmqITL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

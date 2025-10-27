@@ -1,0 +1,129 @@
+<title>“Elegant Floral Victorian Wallpaper: Timeless Beauty for Your Home”</title>
+                    <meta name="description" content="Discover the beauty of floral Victorian wallpaper, perfect for adding a touch of elegance to your home. With intricate designs and classic charm, these wallpapers bring a timeless appeal that transforms any space. Explore the ideal choice for vintage decor enthusiasts today!">
+                    <meta name="keywords" content="floral:hi2z8gsgsfe= victorian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floralhi2z8gsgsfe-victorian-wallpaper">
+                            <span itemprop="name">floral:hi2z8gsgsfe= victorian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Elegant Floral Victorian Wallpaper: Timeless Beauty for Your Home”</h1>
+                <p>Victorian wallpaper captures the essence of elegance and charm, featuring intricate floral patterns that evoke a sense of timeless beauty. These wallpapers, adorned with lush blooms and delicate vines, not only enhance the sophistication of any room but also reflect the artistic vision of the Victorian era. Perfect for vintage decor lovers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Floral Wallpaper • Victoria • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Ivory-1.jpg' alt='Victorian Floral Wallpaper • Victoria • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Ivory-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flora">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' alt='Victorian Flora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Floral Wallpaper • Victoria • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Charcoal-1.jpg.optimal.jpg' alt='Victorian Floral Wallpaper • Victoria • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2020/09/Wallpaper-Linz-Victoria-Charcoal-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Wallpaper Floral Wallpaper Chinoiserie Wallpaper Vintage Wallpaper  Victorian Wallpaper Vintage Floral Wallpaper Flower Wallpaper (Pink Gold ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GXpUXksvL.jpg' alt='Rose Wallpaper Floral Wallpaper Chinoiserie Wallpaper Vintage Wallpaper  Victorian Wallpaper Vintage Floral Wallpaper Flower Wallpaper (Pink Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GXpUXksvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOLDEN Vintage Floral Navy Wallpaper 13391 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/581881bb-81e2-400b-828c-35fb3edbfc3f/svn/holden-wallpaper-rolls-13391-64_1000.jpg' alt='HOLDEN Vintage Floral Navy Wallpaper 13391 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/581881bb-81e2-400b-828c-35fb3edbfc3f/svn/holden-wallpaper-rolls-13391-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian flowers">
+                                <img itemprop="contentUrl url" src='http://lagrandclassique.com/cdn/shop/products/01191_victorian_flowers_main.jpg?v=1686565205' alt='Victorian flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='http://lagrandclassique.com/cdn/shop/products/01191_victorian_flowers_main.jpg?v=1686565205' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Wallpaper Chinoiserie Wallpaper Rose Wallpaper Rose Gold  Wallpaper Floral Wallpaper Vintage Wallpaper Green Floral - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71QTAnCMGtL.jpg' alt='Pink Floral Wallpaper Chinoiserie Wallpaper Rose Wallpaper Rose Gold  Wallpaper Floral Wallpaper Vintage Wallpaper Green Floral - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71QTAnCMGtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Urn MF21005">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/rose-urn-mf21005-695085.jpg?v=1675882109' alt='Rose Urn MF21005'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/rose-urn-mf21005-695085.jpg?v=1675882109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Flower Wallpaper Floral Wallpaper Vintage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/22159d/3327974061/il_fullxfull.3327974061_4s1a.jpg' alt='Wallpaper Flower Wallpaper Floral Wallpaper Vintage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/22159d/3327974061/il_fullxfull.3327974061_4s1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook ET13222 Victorian Floral Midnight Blue and Evergreen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/264601.jpg' alt='Seabrook ET13222 Victorian Floral Midnight Blue and Evergreen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/264601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

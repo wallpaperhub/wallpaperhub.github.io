@@ -1,0 +1,129 @@
+<title>Levi Ackerman Lock Screen Wallpapers: Download Now!</title>
+                    <meta name="description" content="Enhance your mobile with exclusive Levi Ackerman lock screen wallpapers. Featuring high-definition images that showcase his iconic style and strength, perfect for any Attack on Titan fan. Download now for a unique touch to your device!">
+                    <meta name="keywords" content="lock screen levi ackerman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-levi-ackerman-wallpaper">
+                            <span itemprop="name">lock screen levi ackerman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Levi Ackerman Lock Screen Wallpapers: Download Now!</h1>
+                <p>Discover stunning lock screen wallpapers featuring Levi Ackerman, the beloved character from Attack on Titan. These high-quality images capture his fierce determination and captivating presence, making them perfect for your mobile device. Upgrade your lock screen with these dynamic designs that reflect the spirit of your favorite anime hero!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi Lockscreen  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/68/3b/48/683b488af552123b16b7539110003998.jpg' alt='Levi Lockscreen  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/68/3b/48/683b488af552123b16b7539110003998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi Ackerman Wallpaper/lockscreen - Lock Screen Levi Wallpaper Hd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/55/88/d3558852c1faf15d27d7dfaa2031249b.jpg' alt='Levi Ackerman Wallpaper/lockscreen - Lock Screen Levi Wallpaper Hd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/55/88/d3558852c1faf15d27d7dfaa2031249b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attack On Titan Characters Levi Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/attack-on-titan-characters-levi-screen-jebw7c8warkr9qz5.jpg' alt='Attack On Titan Characters Levi Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/attack-on-titan-characters-levi-screen-jebw7c8warkr9qz5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi Ackermanapp Lock Screen 2019 1.0 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/levi-ackermanapp-lock-screen-2019/00/00/0H/DC/00000HDC9W/pad_screenshot.png' alt='Levi Ackermanapp Lock Screen 2019 1.0 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/levi-ackermanapp-lock-screen-2019/00/00/0H/DC/00000HDC9W/pad_screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                   | levi ackerman – wallpapers requested by the ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/01d835d3e7494ef5f32e2c85ab1eba09/1041b7690fc1eaa6-71/s1280x1920/aa7cf2fb43831a5d50a0610d8f382bef8b20df1a.jpg' alt='                   | levi ackerman – wallpapers requested by the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@iammichaelis on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/01d835d3e7494ef5f32e2c85ab1eba09/1041b7690fc1eaa6-71/s1280x1920/aa7cf2fb43831a5d50a0610d8f382bef8b20df1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers and Lockscreen Levi Ackerman (Shingeki no Kyojin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/c0/39/5dc039275e9c592dec5ee2d0df374ffd.jpg' alt='Wallpapers and Lockscreen Levi Ackerman (Shingeki no Kyojin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/c0/39/5dc039275e9c592dec5ee2d0df374ffd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi ackerman, shingeki no kyojin, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/154/501/HD-wallpaper-levi-ackerman-shingeki-no-kyojin.jpg' alt='Levi ackerman, shingeki no kyojin, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/154/501/HD-wallpaper-levi-ackerman-shingeki-no-kyojin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi cleaning your screen. Anime lock screen, Anime, Anime, Funny ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/837/1014/HD-wallpaper-levi-cleaning-your-screen-anime-lock-screen-anime-anime-funny-attack-on-titan.jpg' alt='Levi cleaning your screen. Anime lock screen, Anime, Anime, Funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/837/1014/HD-wallpaper-levi-cleaning-your-screen-anime-lock-screen-anime-anime-funny-attack-on-titan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi wallpaper lock screen and homescreen : r/attackontitan">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/levi-wallpaper-lock-screen-and-homescreen-v0-838ymo5fdxed1.png?width=640&crop=smart&auto=webp&s=9619e481b5a7c27d903288b9dde7b5990bfb84e6' alt='Levi wallpaper lock screen and homescreen : r/attackontitan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1139">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/levi-wallpaper-lock-screen-and-homescreen-v0-838ymo5fdxed1.png?width=640&crop=smart&auto=webp&s=9619e481b5a7c27d903288b9dde7b5990bfb84e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Levi Lock screens ideas | attack on titan levi, attack on titan ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/7e/8e/977e8eb844c402e3d3157955bfa0f88c.jpg' alt='22 Levi Lock screens ideas | attack on titan levi, attack on titan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/7e/8e/977e8eb844c402e3d3157955bfa0f88c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

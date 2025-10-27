@@ -1,0 +1,129 @@
+<title>Enchanting Treehouse Backgrounds for Every Adventure</title>
+                    <meta name="description" content="Discover captivating treehouse backgrounds that inspire adventure and creativity. Perfect for kids and adults alike, explore designs that bring a magical essence to your outdoor experience. Ideal for storytelling or play, these enchanting settings elevate any imaginative endeavor in nature.">
+                    <meta name="keywords" content="treehouse background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/treehouse-background">
+                            <span itemprop="name">treehouse background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Treehouse Backgrounds for Every Adventure</h1>
+                <p>A treehouse serves as a whimsical retreat, nestled among branches and leaves. It offers a unique perspective of nature, inviting creativity and adventure for both children and adults. Whether it's a simple wooden structure or an elaborate hideaway, a treehouse background can transform any outdoor space, fostering imagination and exploration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Treehouse City – High Quality Parallax Background ...">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20191203183733/5a2599abb1e6bad31c12ef83458b0012.jpg' alt='Fantasy Treehouse City – High Quality Parallax Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20191203183733/5a2599abb1e6bad31c12ef83458b0012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treehouse Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/treehouse-park-scene_1308-24469.jpg' alt='Treehouse Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/treehouse-park-scene_1308-24469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8x6ft Fabric Fantasy Tree House Backdrop for Photography Wooden House in  Fairy Tale Forest Fantasy Landscape Photo Background for Kids Adults Party  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71i402kOrdL._AC_UF894,1000_QL80_.jpg' alt='8x6ft Fabric Fantasy Tree House Backdrop for Photography Wooden House in  Fairy Tale Forest Fantasy Landscape Photo Background for Kids Adults Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71i402kOrdL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Tree House Digital Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10811645/r/il/385d83/3692877628/il_570xN.3692877628_smc6.jpg' alt='Fairy Tree House Digital Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10811645/r/il/385d83/3692877628/il_570xN.3692877628_smc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treehouse [2560 x 1440], sharing my all time favorite wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dwu8dt7xclg71.png' alt='Treehouse [2560 x 1440], sharing my all time favorite wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dwu8dt7xclg71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Treehouse Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/058/302/315/large/harley-armstrong-29ba8dd5-782f-45ba-ac64-dbeeedd08b5b.jpg?1673868455' alt='ArtStation - Treehouse Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/058/302/315/large/harley-armstrong-29ba8dd5-782f-45ba-ac64-dbeeedd08b5b.jpg?1673868455' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treehouse Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fantasy-tree-house-forest_1308-78033.jpg' alt='Treehouse Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fantasy-tree-house-forest_1308-78033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree House Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/026/976/181/small/wooden-house-on-the-pine-forest-when-spring-season-the-is-suitable-to-use-for-wooden-house-background-environment-poster-and-nature-content-free-photo.jpg' alt='Tree House Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/026/976/181/small/wooden-house-on-the-pine-forest-when-spring-season-the-is-suitable-to-use-for-wooden-house-background-environment-poster-and-nature-content-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treehouse - Summer Rain by HatschYuh on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f66e2b45-ad8f-4ed9-b199-42fdaf04f042/ddczhr4-9200a80c-ef60-4cb9-8510-3ef915c9e4dc.png/v1/fill/w_1192,h_670/treehouse___summer_rain_by_hatschyuh_ddczhr4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvZjY2ZTJiNDUtYWQ4Zi00ZWQ5LWIxOTktNDJmZGFmMDRmMDQyXC9kZGN6aHI0LTkyMDBhODBjLWVmNjAtNGNiOS04NTEwLTNlZjkxNWM5ZTRkYy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aM69jUcDaEiXjGOXZ8GQWDnqdbYATFdBMOU02LkEfBc' alt='Treehouse - Summer Rain by HatschYuh on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f66e2b45-ad8f-4ed9-b199-42fdaf04f042/ddczhr4-9200a80c-ef60-4cb9-8510-3ef915c9e4dc.png/v1/fill/w_1192,h_670/treehouse___summer_rain_by_hatschyuh_ddczhr4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvZjY2ZTJiNDUtYWQ4Zi00ZWQ5LWIxOTktNDJmZGFmMDRmMDQyXC9kZGN6aHI0LTkyMDBhODBjLWVmNjAtNGNiOS04NTEwLTNlZjkxNWM5ZTRkYy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aM69jUcDaEiXjGOXZ8GQWDnqdbYATFdBMOU02LkEfBc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Treehouse Home Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/enchanted-treehouse-serene-forest_1308-165975.jpg' alt='Page 3 | Treehouse Home Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/enchanted-treehouse-serene-forest_1308-165975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

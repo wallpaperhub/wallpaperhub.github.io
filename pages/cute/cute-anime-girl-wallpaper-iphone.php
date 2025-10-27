@@ -1,0 +1,129 @@
+<title>Cute Anime Girl Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover an enchanting selection of cute anime girl wallpapers for your iPhone. Perfectly designed to add a playful touch to your device, our collection features vibrant characters and stunning visuals. Customize your phone with these delightful backgrounds and express your love for anime today!">
+                    <meta name="keywords" content="cute anime girl wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-anime-girl-wallpaper-iphone">
+                            <span itemprop="name">cute anime girl wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Anime Girl Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with adorable cute anime girl wallpapers! Explore a vibrant collection of aesthetic designs featuring your favorite characters that bring life and charm to your screen. Perfect for fans, these wallpapers offer a touch of whimsy and creativity, making your device uniquely yours.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Side Profile Cute Anime Girl Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/side-profile-cute-anime-girl-iphone-nse8sum02iu2pu24.jpg' alt='Side Profile Cute Anime Girl Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/side-profile-cute-anime-girl-iphone-nse8sum02iu2pu24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Anime Girl Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-anime-girl-iphone-vlkhb6nomvgif2by.jpg' alt='100+] Cute Anime Girl Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-anime-girl-iphone-vlkhb6nomvgif2by.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeping Cute Anime Girl Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pink-bonnet-cute-anime-girl-iphone-80spnlnyd0vjvv1v.webp' alt='Sleeping Cute Anime Girl Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pink-bonnet-cute-anime-girl-iphone-80spnlnyd0vjvv1v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime wallpaper for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/1c/2c/391c2c7f177d45e3297fc978e8627273.jpg' alt='Cute Anime wallpaper for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/1c/2c/391c2c7f177d45e3297fc978e8627273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Anime Girl Phone Wallpaper Cherry Blossom Theme iPhone Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42900861/r/il/91c275/4920697515/il_570xN.4920697515_q38b.jpg' alt='30 Anime Girl Phone Wallpaper Cherry Blossom Theme iPhone Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42900861/r/il/91c275/4920697515/il_570xN.4920697515_q38b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue-themed Cute Anime Girl Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/blue-themed-cute-anime-girl-iphone-2au5tcy0fgajyakn.jpg' alt='Blue-themed Cute Anime Girl Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/blue-themed-cute-anime-girl-iphone-2au5tcy0fgajyakn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl Cute Eyes iPhone XS MAX, Anime, , and Background, Anime ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/192/24/HD-wallpaper-anime-girl-cute-eyes-iphone-xs-max-anime-and-background-anime-cute-gril.jpg' alt='Anime Girl Cute Eyes iPhone XS MAX, Anime, , and Background, Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/192/24/HD-wallpaper-anime-girl-cute-eyes-iphone-xs-max-anime-and-background-anime-cute-gril.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="au48-cute-anime-girl-sunset-illustration-art-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-au48-cute-anime-girl-sunset-illustration-art-33-iphone6-wallpaper.jpg' alt='au48-cute-anime-girl-sunset-illustration-art-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-au48-cute-anime-girl-sunset-illustration-art-33-iphone6-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 750x1334 cute, anime girl, soldier, original ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/750x1334/7b2aa8/cute-anime-girl-soldier-original-art.jpg' alt='Download wallpaper 750x1334 cute, anime girl, soldier, original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/750x1334/7b2aa8/cute-anime-girl-soldier-original-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpaper Iphone Anime Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d1/73/38/d173383fe9fb7c64c310ca19c7992cb5.jpg' alt='Kawaii Wallpaper Iphone Anime Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d1/73/38/d173383fe9fb7c64c310ca19c7992cb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

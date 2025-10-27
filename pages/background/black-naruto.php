@@ -1,0 +1,129 @@
+<title>Reimagining Naruto: A Black Perspective</title>
+                    <meta name="description" content="Explore the concept of Black Naruto, a creative reimagining of the beloved character from the anime series. Discover how this interpretation fosters discussions on diversity, representation, and cultural identity in anime, emphasizing the need for inclusivity in storytelling for all fans.">
+                    <meta name="keywords" content="black naruto">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-naruto">
+                            <span itemprop="name">black naruto</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reimagining Naruto: A Black Perspective</h1>
+                <p>Black Naruto refers to the concept of reimagining the iconic character Naruto Uzumaki from the popular anime and manga series as a Black character. This creative reinterpretation engages fans in discussions about diversity in anime, representation, and cultural identity, highlighting the importance of inclusivity in storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the is a black naruto ???? | Naruto Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7603/bcdde03625a31ea0012ea353e301026b3573971br1-500-500v2_uhq.jpg' alt='the is a black naruto ???? | Naruto Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7603/bcdde03625a31ea0012ea353e301026b3573971br1-500-500v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Naruto swag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/04/f5/aa04f558792ae34d1bf00c54e0386075.jpg' alt='Black Naruto swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/04/f5/aa04f558792ae34d1bf00c54e0386075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If Naruto was BLACK! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k1Bbm62AHn0/sddefault.jpg?v=61c61824' alt='If Naruto was BLACK! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k1Bbm62AHn0/sddefault.jpg?v=61c61824' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Naruto | Naruto Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7045/c817671ab29a1a64a68da2c6cee04950f570bcd8r1-1024-1064v2_uhq.jpg' alt='Black Naruto | Naruto Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7045/c817671ab29a1a64a68da2c6cee04950f570bcd8r1-1024-1064v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto if he is black Made this for 4hrs : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d0wzvnk6gq061.jpg' alt='Naruto if he is black Made this for 4hrs : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d0wzvnk6gq061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Naruto, anime, art, cool, drawing, epic, fanart, naruto ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/303/333/HD-wallpaper-black-naruto-anime-art-cool-drawing-epic-fanart-naruto-supreme.jpg' alt='Black Naruto, anime, art, cool, drawing, epic, fanart, naruto ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/303/333/HD-wallpaper-black-naruto-anime-art-cool-drawing-epic-fanart-naruto-supreme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixilart - Naruto Uzumaki Base/Black Edition /Hood/Surpeme! by ...">
+                                <img itemprop="contentUrl url" src='https://art.pixilart.com/sr29f50ab30df6c.png' alt='Pixilart - Naruto Uzumaki Base/Black Edition /Hood/Surpeme! by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixilart" />
+                                </span>
+                                <a href='https://art.pixilart.com/sr29f50ab30df6c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black) Naruto characters by I-IeXXus7 on DeviantArt | Black ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/b1/b7/9eb1b7ce0b8d4aefb2912183b60c4151.jpg' alt='Black) Naruto characters by I-IeXXus7 on DeviantArt | Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/b1/b7/9eb1b7ce0b8d4aefb2912183b60c4151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your fave is Dark-skinned on X: "Kid Naruto is dark-skinned! https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E1YQZyvXMAABHaE.jpg' alt='Your fave is Dark-skinned on X: "Kid Naruto is dark-skinned! https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E1YQZyvXMAABHaE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto!      Black fanart is just showing love, respect, and just ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3104965643065876948' alt='Naruto!      Black fanart is just showing love, respect, and just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3104965643065876948' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

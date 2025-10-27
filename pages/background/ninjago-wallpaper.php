@@ -1,0 +1,129 @@
+<title>Ninjago Wallpaper: Transform Your Space with Adventure!</title>
+                    <meta name="description" content="Explore vibrant Ninjago wallpaper designs that bring your favorite characters to life! Perfect for fans of all ages, these wallpapers create a dynamic and imaginative atmosphere in any room. Transform your space into a Ninjago adventure with high-quality, eye-catching designs!">
+                    <meta name="keywords" content="ninjago wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ninjago-wallpaper">
+                            <span itemprop="name">ninjago wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ninjago Wallpaper: Transform Your Space with Adventure!</h1>
+                <p>Ninjago wallpaper brings the excitement of the beloved LEGO series into your space. With vibrant colors and iconic characters like Kai, Lloyd, and Zane, these wallpapers create an immersive atmosphere for fans of all ages. Perfect for bedrooms, playrooms, or any creative space, Ninjago wallpapers inspire adventure and imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turning Posters into Phone Wallpapers (Part 2) : r/Ninjago">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/turning-posters-into-phone-wallpapers-part-2-v0-3trjf4tj77qb1.jpg?width=1080&crop=smart&auto=webp&s=c5f50e4d844884f4b86e28c870c85647ebc684f0' alt='Turning Posters into Phone Wallpapers (Part 2) : r/Ninjago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/turning-posters-into-phone-wallpapers-part-2-v0-3trjf4tj77qb1.jpg?width=1080&crop=smart&auto=webp&s=c5f50e4d844884f4b86e28c870c85647ebc684f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NINJAGO Lego Woven Self-Adhesive Removable Wallpaper Modern Mural M143">
+                                <img itemprop="contentUrl url" src='http://www.decalz.co/cdn/shop/products/M143ninjago-EX_grande.jpg?v=1603559471' alt='NINJAGO Lego Woven Self-Adhesive Removable Wallpaper Modern Mural M143'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz" />
+                                </span>
+                                <a href='http://www.decalz.co/cdn/shop/products/M143ninjago-EX_grande.jpg?v=1603559471' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85 Ninjago Wallpaper ideas | ninjago, lego ninjago, lego">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ee/b3/18/eeb3182f8228b0e21fc67a35a0b4318e.jpg' alt='85 Ninjago Wallpaper ideas | ninjago, lego ninjago, lego'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="954">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ee/b3/18/eeb3182f8228b0e21fc67a35a0b4318e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turning the Main Posters into phone Wallpapers (part 1) : r/Ninjago">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/turning-the-main-posters-into-phone-wallpapers-part-1-v0-9h312r1dcjpb1.jpg?width=1125&format=pjpg&auto=webp&s=334d73e65aa13f02da00630986eef0f15f7af1e9' alt='Turning the Main Posters into phone Wallpapers (part 1) : r/Ninjago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/turning-the-main-posters-into-phone-wallpapers-part-1-v0-9h312r1dcjpb1.jpg?width=1125&format=pjpg&auto=webp&s=334d73e65aa13f02da00630986eef0f15f7af1e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/e1/68/04e168e6599287103717678ccd7b77e0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/e1/68/04e168e6599287103717678ccd7b77e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turning Posters into Phone Wallpapers (Part 3) : r/Ninjago">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/turning-posters-into-phone-wallpapers-part-3-v0-ci4dze63w6rb1.jpg?width=1125&format=pjpg&auto=webp&s=89b852f29c8003273f98ac0d446f989e547a7d1b' alt='Turning Posters into Phone Wallpapers (Part 3) : r/Ninjago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/turning-posters-into-phone-wallpapers-part-3-v0-ci4dze63w6rb1.jpg?width=1125&format=pjpg&auto=webp&s=89b852f29c8003273f98ac0d446f989e547a7d1b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Ninjago Dragons Rising Wallpaper by Peterproki on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e1bfe77-a3b9-4a71-a7bf-505108bdfba7/dg8owzu-60da97e2-3fea-472a-bcbd-f3b9f65bac5f.jpg/v1/fill/w_1280,h_720,q_75,strp/lego_ninjago_dragons_rising_wallpaper_by_peterproki_dg8owzu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMWUxYmZlNzctYTNiOS00YTcxLWE3YmYtNTA1MTA4YmRmYmE3XC9kZzhvd3p1LTYwZGE5N2UyLTNmZWEtNDcyYS1iY2JkLWYzYjlmNjViYWM1Zi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DLIS9zVergjESxNiY1xl98X6EKVKM-1HUe9E8jINfBM' alt='Lego Ninjago Dragons Rising Wallpaper by Peterproki on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e1bfe77-a3b9-4a71-a7bf-505108bdfba7/dg8owzu-60da97e2-3fea-472a-bcbd-f3b9f65bac5f.jpg/v1/fill/w_1280,h_720,q_75,strp/lego_ninjago_dragons_rising_wallpaper_by_peterproki_dg8owzu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMWUxYmZlNzctYTNiOS00YTcxLWE3YmYtNTA1MTA4YmRmYmE3XC9kZzhvd3p1LTYwZGE5N2UyLTNmZWEtNDcyYS1iY2JkLWYzYjlmNjViYWM1Zi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DLIS9zVergjESxNiY1xl98X6EKVKM-1HUe9E8jINfBM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="imgur.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/6c/b2/0e/6cb20eb437d87dbc60d3672a39aa155f.jpg' alt='imgur.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/6c/b2/0e/6cb20eb437d87dbc60d3672a39aa155f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninjago Sea Sand Beach Personalised Photo Studio Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71XoSZ8cwhL.jpg' alt='Ninjago Sea Sand Beach Personalised Photo Studio Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1466">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com.be" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71XoSZ8cwhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninjago Masters of Spinjitzu 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/844/844126.jpg' alt='Ninjago Masters of Spinjitzu 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4474">
+                                <meta itemprop="height" content="2481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/844/844126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enchanting Rustic Wedding Invitations for Your Dream Day</title>
+                    <meta name="description" content="Discover beautiful rustic wedding invitations that capture the essence of romance and nature. Crafted with eco-friendly materials and unique designs, they set the perfect tone for your woodland or barn wedding. Explore a variety of styles to make your special day unforgettable!">
+                    <meta name="keywords" content="rustic wedding invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rustic-wedding-invitations">
+                            <span itemprop="name">rustic wedding invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Rustic Wedding Invitations for Your Dream Day</h1>
+                <p>Rustic wedding invitations bring a charming, natural elegance to your special day. Incorporating elements like kraft paper, twine, and floral designs, they evoke the beauty of nature. Perfect for outdoor weddings or barn venues, these invites set the tone for a romantic celebration. Personalize them to reflect your unique love story!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Terracotta Arch Floral Acrylic Wedding Invitations CAX110">
+                                <img itemprop="contentUrl url" src='https://www.claritynco.com/media/catalog/product/cache/b1edc0fa71e0b73928c9d07baab30350/2/0/2023_3.1700631.jpg' alt='Rustic Terracotta Arch Floral Acrylic Wedding Invitations CAX110'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="claritynco" />
+                                </span>
+                                <a href='https://www.claritynco.com/media/catalog/product/cache/b1edc0fa71e0b73928c9d07baab30350/2/0/2023_3.1700631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Sunflower Clear Acrylic Wedding Invitations SWAL014">
+                                <img itemprop="contentUrl url" src='https://www.stylishwedd.com/media/catalog/product/cache/cc19e27e13b283b612fab71990524d05/r/u/rustic_sunflower_clear_acrylic_wedding_invitations_swal014.jpg' alt='Rustic Sunflower Clear Acrylic Wedding Invitations SWAL014'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="stylishwedd" />
+                                </span>
+                                <a href='https://www.stylishwedd.com/media/catalog/product/cache/cc19e27e13b283b612fab71990524d05/r/u/rustic_sunflower_clear_acrylic_wedding_invitations_swal014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Barn Wedding Invitation, Rustic Wedding Invitations, Boho ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10327095/r/il/a834fe/6331347019/il_fullxfull.6331347019_beup.jpg' alt='Rustic Barn Wedding Invitation, Rustic Wedding Invitations, Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10327095/r/il/a834fe/6331347019/il_fullxfull.6331347019_beup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wedding Invitation Template | Terracotta Rust Wedding Invite">
+                                <img itemprop="contentUrl url" src='http://wildbloomdesignstudio.com/cdn/shop/products/il_fullxfull.3205321264_4hb4.jpg?v=1628109375' alt='Rustic Wedding Invitation Template | Terracotta Rust Wedding Invite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wild Bloom Design Studio" />
+                                </span>
+                                <a href='http://wildbloomdesignstudio.com/cdn/shop/products/il_fullxfull.3205321264_4hb4.jpg?v=1628109375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="simply rustic wedding invitation with gold script wordings and earthly  kraft backing card EWIM011">
+                                <img itemprop="contentUrl url" src='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/s/i/simply_rustic_wedding_invitets_with_gold_script_wordings_and_kraft_backer_ewim011.jpg' alt='simply rustic wedding invitation with gold script wordings and earthly  kraft backing card EWIM011'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elegant Wedding Invites" />
+                                </span>
+                                <a href='https://www.elegantweddinginvites.com/media/catalog/product/cache/0d8a5f9b67a4918f5d5ed4be11ea5c21/s/i/simply_rustic_wedding_invitets_with_gold_script_wordings_and_kraft_backer_ewim011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalised Rustic Wedding Invitations EUCALYPTUS LEAVES & PAMPAS packs of  10">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/qMcAAOSwwpxjsCyg/s-l1200.jpg' alt='Personalised Rustic Wedding Invitations EUCALYPTUS LEAVES & PAMPAS packs of  10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/qMcAAOSwwpxjsCyg/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish wedding invitation, natural rustic stationery 60/Woodcut/z">
+                                <img itemprop="contentUrl url" src='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/401/60/wooden-wedding-invitations-lovebirds.jpg' alt='Stylish wedding invitation, natural rustic stationery 60/Woodcut/z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margo&bees wedding invitations" />
+                                </span>
+                                <a href='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/401/60/wooden-wedding-invitations-lovebirds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wedding Invitation Template, Rustic Wedding invitation Set,  Editable Wedding Invitation Bundle, Kraft, DIY, Printable, VW01">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9817664/r/il/d4f6d4/1457807819/il_570xN.1457807819_2yh8.jpg' alt='Vintage Wedding Invitation Template, Rustic Wedding invitation Set,  Editable Wedding Invitation Bundle, Kraft, DIY, Printable, VW01'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9817664/r/il/d4f6d4/1457807819/il_570xN.1457807819_2yh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Pcs Rustic Wedding Invitations Cards Vintage Kraft Paper Wedding Invite  Cards Envelopes Included 126 x 185 mm - Set of 25 pcs (Blank Invitations)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71bb2tOPifL._AC_UF1000,1000_QL80_.jpg' alt='25 Pcs Rustic Wedding Invitations Cards Vintage Kraft Paper Wedding Invite  Cards Envelopes Included 126 x 185 mm - Set of 25 pcs (Blank Invitations)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71bb2tOPifL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Rustic wedding Invitations Set Template, Instant Download ...">
+                                <img itemprop="contentUrl url" src='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/529/9516107c0e17c9475efcb5507a63994a/28-09-roses_dhalias_fall_invitation_rustic-template-2022-1.jpg' alt='Fall Rustic wedding Invitations Set Template, Instant Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margo&bees wedding invitations" />
+                                </span>
+                                <a href='https://margoandbees.com/thumbs/887/templates/template_7/8/images/products/529/9516107c0e17c9475efcb5507a63994a/28-09-roses_dhalias_fall_invitation_rustic-template-2022-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

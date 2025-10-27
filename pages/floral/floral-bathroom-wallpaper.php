@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="floral bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-bathroom-wallpaper">
+                            <span itemprop="name">floral bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feminine Floral Bouquet Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/products/Think_Noir_Wallpaper_Floral_Bathroom_2.jpg?v=1725545835' alt='Feminine Floral Bouquet Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/products/Think_Noir_Wallpaper_Floral_Bathroom_2.jpg?v=1725545835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/MidnightFlowerBlackandWhiteFloralPrint_2.png?v=1714584179&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/MidnightFlowerBlackandWhiteFloralPrint_2.png?v=1714584179&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' alt='Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Abstract Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://paintedpaper.com/cdn/shop/files/tina-abstract-floral-wallpaperpainted-paper-332015.jpg?v=1740413339&width=1445' alt='Tina Abstract Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painted Paper" />
+                                </span>
+                                <a href='https://paintedpaper.com/cdn/shop/files/tina-abstract-floral-wallpaperpainted-paper-332015.jpg?v=1740413339&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Age Large and Dark Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000088-style1-2_1.jpg' alt='Golden Age Large and Dark Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000088-style1-2_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson">
+                                <img itemprop="contentUrl url" src='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' alt='Highland Floral Wallpaper | Blue Flowers | Caitlin Wilson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caitlin Wilson" />
+                                </span>
+                                <a href='http://caitlinwilson.com/cdn/shop/files/25_5f90ea9b-eec2-48db-b4de-7617788b203f.jpg?v=1723486376&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Press by Graham & Brown - Palm - Wallpaper - 124102">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/216280_1_orig.jpg?v=1718290050' alt='Flower Press by Graham & Brown - Palm - Wallpaper - 124102'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/216280_1_orig.jpg?v=1718290050' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Bath Room Wallpaper Retro Floral Bathroom Wallpaper Wall Decor  Wainscoting Panels Easy to Clean (W) 98.4" X(H) 91" - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71nFIfhpyBL.jpg' alt='YANFENQI Bath Room Wallpaper Retro Floral Bathroom Wallpaper Wall Decor  Wainscoting Panels Easy to Clean (W) 98.4" X(H) 91" - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71nFIfhpyBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A beautiful bathroom with floral wallpaper. : r/interiordecorating">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/h94psb6l6k681.jpg?auto=webp&s=ed315c7d87f6d7dba32e7f8edcfb3febffe480da' alt='A beautiful bathroom with floral wallpaper. : r/interiordecorating'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1885">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/h94psb6l6k681.jpg?auto=webp&s=ed315c7d87f6d7dba32e7f8edcfb3febffe480da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Flower Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/pastel-flower-peel-and-stick-wallpaper-441259.png?v=1720570808' alt='Pastel Flower Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/pastel-flower-peel-and-stick-wallpaper-441259.png?v=1720570808' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

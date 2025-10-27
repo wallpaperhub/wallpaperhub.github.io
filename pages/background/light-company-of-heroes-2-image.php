@@ -1,0 +1,129 @@
+<title>Stunning Company of Heroes 2 Images: A Visual Tour</title>
+                    <meta name="description" content="Explore breathtaking imagery from Company of Heroes 2. Dive into the game's intense battles and vivid graphics that bring World War II to life. Perfect for fans and newcomers seeking a visual feast of strategic gameplay and artistic detail. Enhance your gaming experience with these stunning visuals!">
+                    <meta name="keywords" content="light company of heroes 2 image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-company-of-heroes-2-image">
+                            <span itemprop="name">light company of heroes 2 image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Company of Heroes 2 Images: A Visual Tour</h1>
+                <p>Discover captivating images from Company of Heroes 2, showcasing intense battles, stunning graphics, and immersive gameplay. Explore the rich World War II setting, with detailed environments and dynamic lighting that enhance the strategic experience. Perfect for fans eager to appreciate the artistry and history behind the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Company of Heroes 2 Rails and Metal gameplay Jaeger Light Infantry Doctrine">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nWAkB-OIlro/maxresdefault.jpg' alt='Company of Heroes 2 Rails and Metal gameplay Jaeger Light Infantry Doctrine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nWAkB-OIlro/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Company of Heroes 2 - T-70 Light Tank - Winter | Steam Trading ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/steamtradingcards/images/3/3f/Company_of_Heroes_2_Artwork_6.jpg/revision/latest?cb=20140104045504' alt='Company of Heroes 2 - T-70 Light Tank - Winter | Steam Trading ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Trading Cards Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/steamtradingcards/images/3/3f/Company_of_Heroes_2_Artwork_6.jpg/revision/latest?cb=20140104045504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T-70 Light Tank | Company of Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/companyofheroes/images/4/4f/T-70-0.jpg/revision/latest?cb=20151226143824&path-prefix=en' alt='T-70 Light Tank | Company of Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company of Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/companyofheroes/images/4/4f/T-70-0.jpg/revision/latest?cb=20151226143824&path-prefix=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Screenshot :: Luchs light tank.">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/3264296809009538316/BC98CE2BC3224B9E9FD33E4C2CCCB57BD4058F45/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Community :: Screenshot :: Luchs light tank.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/3264296809009538316/BC98CE2BC3224B9E9FD33E4C2CCCB57BD4058F45/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Company of Heroes 2: The Western Front Armies review | PC Gamer">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/3779f04d76df46778b2894a97100cf2e-1200-80.jpg' alt='Company of Heroes 2: The Western Front Armies review | PC Gamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/3779f04d76df46778b2894a97100cf2e-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CoH2 Tip of the Week #19 Light Vehicles in Late Game">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XR4DHjg8DaM/sddefault.jpg' alt='CoH2 Tip of the Week #19 Light Vehicles in Late Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XR4DHjg8DaM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Company of Heroes 2 Review - GameSpot">
+                                <img itemprop="contentUrl url" src='https://www.gamespot.com/a/uploads/screen_kubrick/mig/8/2/7/7/2128277-169_company_of_heroes_2_pc_review_062513_57.jpg' alt='Company of Heroes 2 Review - GameSpot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameSpot" />
+                                </span>
+                                <a href='https://www.gamespot.com/a/uploads/screen_kubrick/mig/8/2/7/7/2128277-169_company_of_heroes_2_pc_review_062513_57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stuart Light Tank | Company of Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/companyofheroes/images/7/74/StuartLightTankHDrender.png/revision/latest?cb=20201117232502&path-prefix=en' alt='Stuart Light Tank | Company of Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company of Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/companyofheroes/images/7/74/StuartLightTankHDrender.png/revision/latest?cb=20201117232502&path-prefix=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jaeger Light Infantry Recon Squad | CoH2 (Company of Heroes 2)">
+                                <img itemprop="contentUrl url" src='https://coh2.win/sites/default/files/2021-12/ger-jaegar-big.png' alt='Jaeger Light Infantry Recon Squad | CoH2 (Company of Heroes 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="152">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company of Heroes 2 (CoH2) - Guide Site" />
+                                </span>
+                                <a href='https://coh2.win/sites/default/files/2021-12/ger-jaegar-big.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Company of Heroes 2 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/2b/Company_of_Heroes_2_cover.jpeg' alt='Company of Heroes 2 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/2b/Company_of_Heroes_2_cover.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cute Girly Cat Wallpapers – Adorable Designs for Your Device</title>
+                    <meta name="description" content="Discover a delightful collection of girly cute cat wallpapers that will add charm to your device. Explore adorable designs featuring playful kittens and pastel patterns, perfect for cat lovers looking to personalize their screens with sweetness and style!">
+                    <meta name="keywords" content="girly cute cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/girly-cute-cat-wallpaper">
+                            <span itemprop="name">girly cute cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Girly Cat Wallpapers – Adorable Designs for Your Device</h1>
+                <p>Transform your device with adorably cute cat wallpapers! Perfect for cat lovers, these girly designs feature pastel colors, delightful patterns, and playful kittens that will brighten your screen. Whether you want a soft pink kitty or a floral backdrop, find the perfect wallpaper to express your love for these charming pets!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cute Iphone Wallpaper Which are Perfect For You - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/b7/f4/25b7f41e6674ff2ea07c313fe4b3be81.jpg' alt='10 Cute Iphone Wallpaper Which are Perfect For You - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/b7/f4/25b7f41e6674ff2ea07c313fe4b3be81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girly Cat Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-girly-cat-llig33148k0ysivp.jpg' alt='Cute Girly Cat Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-girly-cat-llig33148k0ysivp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Wallpapers Images – Browse 243,411 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/78/33/76/360_F_778337655_5QMB6AeqCgXYjhaBtesZL7k7ZmPSftvb.jpg' alt='Cute Cat Wallpapers Images – Browse 243,411 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/78/33/76/360_F_778337655_5QMB6AeqCgXYjhaBtesZL7k7ZmPSftvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="329 Girly Cat Stock Photos - Free & Royalty-Free Stock Photos from ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/stunning-cosmic-images-347558454.jpg' alt='329 Girly Cat Stock Photos - Free & Royalty-Free Stock Photos from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/stunning-cosmic-images-347558454.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Cat Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-445.webp' alt='Cute Pink Cat Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-pink-cat-wallpaper-445.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019 Cute Wallpaper + Girly Wallpaper {FREE Pretty iPhone Backgrounds}">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/87/d9/bd/87d9bd441d5aa6b4309dac01b7000371.jpg' alt='2019 Cute Wallpaper + Girly Wallpaper {FREE Pretty iPhone Backgrounds}'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/87/d9/bd/87d9bd441d5aa6b4309dac01b7000371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SweetKitty, bonito, cat, cats, cute, furry, girly, kitten, kittens ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/583/448/HD-wallpaper-sweetkitty-beautiful-cat-cats-cute-furry-girly-kitten-kittens-pretty.jpg' alt='SweetKitty, bonito, cat, cats, cute, furry, girly, kitten, kittens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/583/448/HD-wallpaper-sweetkitty-beautiful-cat-cats-cute-furry-girly-kitten-kittens-pretty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Cute Cat Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/64968285412054824-21886860708675139.jpg' alt='Most Popular Cute Cat Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/64968285412054824-21886860708675139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Satisfying Cute Wallpapers for Girls (Totally Different)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0e/60/79/0e6079070c72a19bb5890be67ff60ec3.jpg' alt='50+ Satisfying Cute Wallpapers for Girls (Totally Different)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0e/60/79/0e6079070c72a19bb5890be67ff60ec3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Cute on X: "Cute Cat Wallpaper For Android https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DRxkTmYUQAAHqDX.jpg:large' alt='Wallpapers Cute on X: "Cute Cat Wallpaper For Android https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DRxkTmYUQAAHqDX.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

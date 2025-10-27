@@ -1,0 +1,129 @@
+<title>Discover the Friendly Roots of “Howdy”</title>
+                    <meta name="description" content="Explore the rich history and cultural significance of the greeting "howdy." Learn how it evolved from "how do you do?" into a beloved expression of friendliness, particularly in Southern and Western U.S. dialects. Embrace the warmth and traditions that make this simple word a cherished part of communication.">
+                    <meta name="keywords" content="howdy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/howdy-background">
+                            <span itemprop="name">howdy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Friendly Roots of “Howdy”</h1>
+                <p>Howdy background refers to the cultural and historical influences behind the word "howdy," a friendly greeting primarily used in the Southern and Western United States. Its origins can be traced back to the phrase "how do you do?" and embodies a welcoming spirit. Understanding this background enriches the appreciation of regional dialects and traditions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOWDY HOWDY HOWDY YALL | White Background | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3363828967.0434/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='HOWDY HOWDY HOWDY YALL | White Background | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3363828967.0434/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howdy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13693874/p/f/m/CjdpO0r3cySRPYTCMbFRO7tNwGIm1KE0hLJuQktxbaX6N3WkbQqslK4/Howdy%20Cowboy%20.jpg' alt='Howdy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13693874/p/f/m/CjdpO0r3cySRPYTCMbFRO7tNwGIm1KE0hLJuQktxbaX6N3WkbQqslK4/Howdy%20Cowboy%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howdy Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/stacked-pink-howdy-western-font-260nw-2191539079.jpg' alt='Howdy Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/stacked-pink-howdy-western-font-260nw-2191539079.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy phone wallpaper // cow print // howdy cowgirl print">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/08/33/710833b57da69d452aee02e4697c1b11.jpg' alt='preppy phone wallpaper // cow print // howdy cowgirl print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/08/33/710833b57da69d452aee02e4697c1b11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howdy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' alt='Howdy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howdy pink wall art, digital download instant graphic, pink preppy wall  decor, pink prints, picture wall, preppy, girly wall art, college">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31042994/r/il/cc0a86/3345870743/il_fullxfull.3345870743_h19q.jpg' alt='Howdy pink wall art, digital download instant graphic, pink preppy wall  decor, pink prints, picture wall, preppy, girly wall art, college'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31042994/r/il/cc0a86/3345870743/il_fullxfull.3345870743_h19q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="howdy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/a7/16/5fa7168884bd01b362f87ae8d2cde36a.jpg' alt='howdy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/a7/16/5fa7168884bd01b362f87ae8d2cde36a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howdy PINK Vintage Transparent Background, PNG, Sublimation Image, Preppy  Country, Western, Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21169504/r/il/84bffe/4046641124/il_fullxfull.4046641124_du6y.jpg' alt='Howdy PINK Vintage Transparent Background, PNG, Sublimation Image, Preppy  Country, Western, Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21169504/r/il/84bffe/4046641124/il_fullxfull.4046641124_du6y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOWDY HOWDY HOWDY YALL | Simple Type Space Cowgirl Orange Pink Background |  Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3467379765.9616/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='HOWDY HOWDY HOWDY YALL | Simple Type Space Cowgirl Orange Pink Background |  Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3467379765.9616/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Preppy Howdy Pink Birthday Party Banner Western Cowgirl  Backdrop Y2k Photography Background Disco Last Rodeo Nashville Bachelorette  Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RD7+v40zL.jpg' alt='Amazon.com: Preppy Howdy Pink Birthday Party Banner Western Cowgirl  Backdrop Y2k Photography Background Disco Last Rodeo Nashville Bachelorette  Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RD7+v40zL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

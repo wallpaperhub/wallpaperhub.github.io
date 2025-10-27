@@ -1,0 +1,129 @@
+<title>Chick-fil-A Background Checks: What to Know</title>
+                    <meta name="description" content="Discover if Chick-fil-A performs background checks during hiring. Learn about their process, what to expect, and how it impacts your application. Ensure you're prepared for one of the industry's common screening practices!">
+                    <meta name="keywords" content="does chick fil a do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-chick-fil-a-do-background-checks">
+                            <span itemprop="name">does chick fil a do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chick-fil-A Background Checks: What to Know</h1>
+                <p>Yes, Chick-fil-A conducts background checks as part of its hiring process. These checks typically include criminal history and employment verification to ensure a safe and trustworthy workplace. Applicants should be prepared for this step, which is standard in the fast-food industry to maintain security and integrity among staff.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick Fil A hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://www.longisland.com/site_media/images/article/subarticle_image/chick_west_2.jpg.644x0_q85.jpg' alt='Does Chick Fil A hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://www.longisland.com/site_media/images/article/subarticle_image/chick_west_2.jpg.644x0_q85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the hiring process at Chick Fil A? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-chick-fil-a.webp' alt='What is the hiring process at Chick Fil A? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-chick-fil-a.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chic-fil-a Conduct Background Checks on Employees? | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7319982299838270766&location=0&aid=1988' alt='Does Chic-fil-a Conduct Background Checks on Employees? | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7319982299838270766&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick Fil A hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-chick-fil-a-hire-felons.webp' alt='Does Chick Fil A hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-chick-fil-a-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick-fil-A Wrapped 2024: A Culinary Journey">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7455135034203245855&location=0&aid=1988' alt='Chick-fil-A Wrapped 2024: A Culinary Journey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7455135034203245855&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick Fil A hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-much-money-does-chik-fil-a-make-a-day.webp' alt='Does Chick Fil A hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-much-money-does-chik-fil-a-make-a-day.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick Fil A hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-do-you-answer-why-are-you-interested-in-working-for-chick-fil-a.webp' alt='Does Chick Fil A hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-do-you-answer-why-are-you-interested-in-working-for-chick-fil-a.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick-fil-A drug test or do a background check? - Chick-fil-A ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/chick-fil-a/questions/3821555/does-chick-fil-a-drug-test-or-do-a-background-check' alt='Does Chick-fil-A drug test or do a background check? - Chick-fil-A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/chick-fil-a/questions/3821555/does-chick-fil-a-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Chick Fil A hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/how-does-chick-fil-a-pay.webp' alt='Does Chick Fil A hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/how-does-chick-fil-a-pay.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' alt='So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

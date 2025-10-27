@@ -1,0 +1,129 @@
+<title>Vibrant Purple Halloween iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of eye-catching purple Halloween iPhone wallpapers that bring festive flair to your device. Enjoy unique designs featuring iconic Halloween themes, perfect for celebrating the season in style. Download and personalize your iPhone today!">
+                    <meta name="keywords" content="purple halloween iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/purple-halloween-iphone-wallpaper">
+                            <span itemprop="name">purple halloween iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Halloween iPhone Wallpapers</h1>
+                <p>Transform your iPhone for Halloween with stunning purple wallpapers! Dive into a spooky vibe with designs featuring haunted houses, eerie bats, and mystical pumpkins—all in shades of purple. Perfect for adding a festive touch to your device this Halloween season. Download your favorite now and let the spirit of Halloween shine through!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Halloween aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/00/df/c000df7556efc44ac4924615d05338d6.jpg' alt='Purple Halloween aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/00/df/c000df7556efc44ac4924615d05338d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween dusty purple glitter wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d7/9f/09/d79f093840088099f83c4e0c0135d7d2.jpg' alt='Halloween dusty purple glitter wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d7/9f/09/d79f093840088099f83c4e0c0135d7d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted House Halloween Phone Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/haunted-house-halloween-phone-purple-p5m2dabphqs0exvd.jpg' alt='Haunted House Halloween Phone Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/haunted-house-halloween-phone-purple-p5m2dabphqs0exvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Glowing Eyes Peering From The Darkness Purple Halloween ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-halloween-ggixpoekho14nrzi.jpg' alt='Download Glowing Eyes Peering From The Darkness Purple Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-halloween-ggixpoekho14nrzi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Halloween iPhone Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/a6/79/4fa67920412bc90e6a17415f8a3ce547.jpg' alt='Purple Halloween iPhone Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/a6/79/4fa67920412bc90e6a17415f8a3ce547.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gradient Purple Bats And Pumpkins iPhone Halloween ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-halloween-background-n1ilqz1kf4w6r6i7.jpg' alt='Download Gradient Purple Bats And Pumpkins iPhone Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-halloween-background-n1ilqz1kf4w6r6i7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkin Wallpaper 4K, Purple aesthetic, Purple pumpkins">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/halloween-pumpkin-1440x2560-9636.jpg' alt='Halloween Pumpkin Wallpaper 4K, Purple aesthetic, Purple pumpkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/halloween-pumpkin-1440x2560-9636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="      Halloween    Fonds d'écran cellulaires no 64      #toprabais ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/5b/56/3d5b562d0cb6852e37072bb61abde482.jpg' alt='      Halloween    Fonds d'écran cellulaires no 64      #toprabais ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/5b/56/3d5b562d0cb6852e37072bb61abde482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bats Violet Sky Halloween Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bats-violet-sky-halloween-phone-d42k77cxd71y6cuu.jpg' alt='Bats Violet Sky Halloween Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bats-violet-sky-halloween-phone-d42k77cxd71y6cuu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Halloween iPhone Wallpaper To Download for Free!">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thepurplepumpkinblog.co.uk/wp-content/uploads/2020/09/TPPB-Purple-Halloween-Phone-Wallpapers-1.jpg' alt='Purple Halloween iPhone Wallpaper To Download for Free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Purple Pumpkin Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/thepurplepumpkinblog.co.uk/wp-content/uploads/2020/09/TPPB-Purple-Halloween-Phone-Wallpapers-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

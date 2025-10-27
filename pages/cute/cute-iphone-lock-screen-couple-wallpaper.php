@@ -1,0 +1,129 @@
+<title>Charming Couple Lock Screen Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover an array of cute couple lock screen wallpapers for your iPhone. From whimsical designs to romantic landscapes, find the perfect background that reflects your love story. Transform your device into a daily celebration of your relationship with these enchanting wallpapers!">
+                    <meta name="keywords" content="cute iphone lock screen couple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-iphone-lock-screen-couple-wallpaper">
+                            <span itemprop="name">cute iphone lock screen couple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Couple Lock Screen Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with adorable couple wallpapers that capture love in every glance. Choose from enchanting designs featuring romantic themes, playful illustrations, or serene landscapes that showcase the bond between partners. Perfect for making your lock screen a daily reminder of your special connection!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 pairs of cute couple phone wallpapers ❤ part-2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9f/12/66/9f12660e893a82526353250ccd14c92a.jpg' alt='50 pairs of cute couple phone wallpapers ❤ part-2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9f/12/66/9f12660e893a82526353250ccd14c92a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper Dark Cute HD Wallpaper Android Wallpaper iPhone Wallpaper  Lock Screen Wallpaper Gift - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44537920/r/il/b9c8c8/5117816830/il_1080xN.5117816830_doe1.jpg' alt='Couple Wallpaper Dark Cute HD Wallpaper Android Wallpaper iPhone Wallpaper  Lock Screen Wallpaper Gift - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44537920/r/il/b9c8c8/5117816830/il_1080xN.5117816830_doe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple wallpaper♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b1/53/f6/b153f663eb6e3262c0200210eb277dd2.jpg' alt='Couple wallpaper♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b1/53/f6/b153f663eb6e3262c0200210eb277dd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper Cat Cute HD Wallpaper Android Wallpaper iPhone Wallpaper  Lock Screen Wallpaper Gift - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44537920/r/il/0e7592/5117705978/il_1080xN.5117705978_2ac3.jpg' alt='Couple Wallpaper Cat Cute HD Wallpaper Android Wallpaper iPhone Wallpaper  Lock Screen Wallpaper Gift - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44537920/r/il/0e7592/5117705978/il_1080xN.5117705978_2ac3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Francesco on Sfondi iphone | Screen wallpaper, Lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/11/c6/cc11c6850dc665e24f1c9dade5236562.jpg' alt='Pin by Francesco on Sfondi iphone | Screen wallpaper, Lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/11/c6/cc11c6850dc665e24f1c9dade5236562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27+ Couple Lock Screen ideas for iPhone - Download all | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/Mhv3aAD7BiWsdXdKss9chDFE2H43/ubG1EzesNDV6NhUvj4F1/11BD5AE0-DE68-429D-B760-9234223BEE64.jpg?q=70' alt='27+ Couple Lock Screen ideas for iPhone - Download all | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/Mhv3aAD7BiWsdXdKss9chDFE2H43/ubG1EzesNDV6NhUvj4F1/11BD5AE0-DE68-429D-B760-9234223BEE64.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Wallpaper for Couples, Friends, Phone Background , Aesthetic Lock  Screen, Gift for Her, Minimalist , Iphone, Samsung, Instant - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_1080xN.4363038478_r4g5.jpg' alt='Matching Wallpaper for Couples, Friends, Phone Background , Aesthetic Lock  Screen, Gift for Her, Minimalist , Iphone, Samsung, Instant - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38765266/r/il/9d763f/4363038478/il_1080xN.4363038478_r4g5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Couple wallpaper ideas | couple wallpaper, cute couple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/34/f8/49/34f849f857e324fb91d812cd56292ac6.jpg' alt='21 Couple wallpaper ideas | couple wallpaper, cute couple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/34/f8/49/34f849f857e324fb91d812cd56292ac6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peach & Goma (Matching Lockscreens)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/ba/1b/b0ba1b6a32d89062494d91a5d1bbb42f.jpg' alt='Peach & Goma (Matching Lockscreens)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/ba/1b/b0ba1b6a32d89062494d91a5d1bbb42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple Wallpaper Bunny | Cute HD Wallpaper | Android Wallpaper | iPhone  Wallpaper | Lock Screen Wallpaper | Gift">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44537920/r/il/377424/5166015315/il_570xN.5166015315_p2vd.jpg' alt='Couple Wallpaper Bunny | Cute HD Wallpaper | Android Wallpaper | iPhone  Wallpaper | Lock Screen Wallpaper | Gift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44537920/r/il/377424/5166015315/il_570xN.5166015315_p2vd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

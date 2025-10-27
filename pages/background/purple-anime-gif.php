@@ -1,0 +1,129 @@
+<title>Purple Anime GIFs: A Vibrant Collection</title>
+                    <meta name="description" content="Discover stunning purple anime GIFs that bring color and creativity to your digital expressions. Perfect for sharing on social media or enhancing your chats, these animations capture the essence of anime art in a captivating way. Explore now for vibrant visuals that stand out!">
+                    <meta name="keywords" content="purple anime gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-anime-gif">
+                            <span itemprop="name">purple anime gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Anime GIFs: A Vibrant Collection</h1>
+                <p>Explore a mesmerizing collection of purple anime GIFs that captivate with vibrant colors and dynamic animations. Perfect for expressing emotions or enhancing your social media posts, these enchanting visuals can add a unique flair to your conversations. Dive into the world of stylish anime art and unleash your creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/R4lWQN2sQdZUA/giphy.gif?cid=6c09b952i1p1iju50x824ktd2ps5rqshy5r420htufp8q613&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Purple Anime GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/R4lWQN2sQdZUA/giphy.gif?cid=6c09b952i1p1iju50x824ktd2ps5rqshy5r420htufp8q613&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/Erie.gif' alt='Purple GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/Erie.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif' alt='anime gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/71/5c/58/715c585f6a62f0869de90fa244aa80d8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Purple GIF - Anime Purple Clouds - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/29/54/f6/2954f6fb5fa96cd38b989e265015c30e.gif' alt='Anime Purple GIF - Anime Purple Clouds - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/29/54/f6/2954f6fb5fa96cd38b989e265015c30e.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime GIFs - The Best GIF Collections Are On GIFSEC">
+                                <img itemprop="contentUrl url" src='https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif' alt='Purple Anime GIFs - The Best GIF Collections Are On GIFSEC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFSEC" />
+                                </span>
+                                <a href='https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/purple-witch-craft-anime-ydnucfka6fpeojla.gif' alt='Purple Anime GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/purple-witch-craft-anime-ydnucfka6fpeojla.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl With Purple Hair GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/AmbVplw3z_kAAAAM/talking-purple-hair.gif' alt='Girl With Purple Hair GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/AmbVplw3z_kAAAAM/talking-purple-hair.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/14/2d/a3142d2124a104ee1e55cad62d69b708.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/14/2d/a3142d2124a104ee1e55cad62d69b708.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime GIFs - The Best GIF Collections Are On GIFSEC">
+                                <img itemprop="contentUrl url" src='https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-4.gif' alt='Purple Anime GIFs - The Best GIF Collections Are On GIFSEC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFSEC" />
+                                </span>
+                                <a href='https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Anime GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Xg0CKY5V3WIAAAAM/anime-purple.gif' alt='Hollow Anime GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Xg0CKY5V3WIAAAAM/anime-purple.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

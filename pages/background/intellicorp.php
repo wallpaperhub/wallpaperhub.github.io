@@ -1,0 +1,129 @@
+<title>Maximize Success with Intellicorp: Data Analytics Solutions</title>
+                    <meta name="description" content="Discover Intellicorp's cutting-edge data analytics services that enhance business performance. From predictive analytics to effective risk management, we empower companies to leverage data for smarter decisions and growth. Explore how Intellicorp can transform your operations today!">
+                    <meta name="keywords" content="intellicorp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/intellicorp">
+                            <span itemprop="name">intellicorp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maximize Success with Intellicorp: Data Analytics Solutions</h1>
+                <p>Intellicorp is a leading provider of advanced data analytics and technology solutions, empowering businesses to harness their data for informed decision-making. With a focus on innovation and customer satisfaction, Intellicorp offers services like predictive analytics, machine learning, and risk management, driving efficiency and growth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp Announces Advanced Drug Screening Solution for ...">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20190507005049/en/640319/23/100pt_Intellicorp_S.jpg' alt='IntelliCorp Announces Advanced Drug Screening Solution for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20190507005049/en/640319/23/100pt_Intellicorp_S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp | Travelers Innovation Network">
+                                <img itemprop="contentUrl url" src='https://innovation.northlandins.com/images/solutions/1684348598-intellicorp-logo.png' alt='IntelliCorp | Travelers Innovation Network'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northland | Travelers Innovation Network - Northland Insurance" />
+                                </span>
+                                <a href='https://innovation.northlandins.com/images/solutions/1684348598-intellicorp-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for IntelliCorp">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063724923424' alt='Profile for IntelliCorp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063724923424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp – Powered by Joynd | UKG Marketplace">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/321462/thumbs_112/img6324420068783843411-2x.png' alt='IntelliCorp – Powered by Joynd | UKG Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UKG Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/321462/thumbs_112/img6324420068783843411-2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp's Smart Lifecycle Management Software LiveCompare ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/479225/IntelliCorp_Logo.jpg?p=facebook' alt='IntelliCorp's Smart Lifecycle Management Software LiveCompare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2698">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/479225/IntelliCorp_Logo.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/029iQ5T8Hoo8IrOUA7ibB8X-1..v1569469975.jpg' alt='IntelliCorp Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/029iQ5T8Hoo8IrOUA7ibB8X-1..v1569469975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quality, Compliant Background Screenings | IntelliCorp | A Cisive ...">
+                                <img itemprop="contentUrl url" src='https://www.intellicorp.net/marketing/IntelliCorp/media/intellicorp/IntelliCorp%20Logo/Intellicorp-White-378x119.png' alt='Quality, Compliant Background Screenings | IntelliCorp | A Cisive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="378">
+                                <meta itemprop="height" content="119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.intellicorp.net" />
+                                </span>
+                                <a href='https://www.intellicorp.net/marketing/IntelliCorp/media/intellicorp/IntelliCorp%20Logo/Intellicorp-White-378x119.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp Background Screening - An Overview">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CEooYM4evVs/hqdefault.jpg' alt='IntelliCorp Background Screening - An Overview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CEooYM4evVs/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contact Us | IntelliCorp | A Cisive Company">
+                                <img itemprop="contentUrl url" src='https://www.intellicorp.net/marketing/getmedia/0920126d-51bc-4afa-9c6a-0308b39cd36e/building?width=768&height=278' alt='Contact Us | IntelliCorp | A Cisive Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IntelliCorp" />
+                                </span>
+                                <a href='https://www.intellicorp.net/marketing/getmedia/0920126d-51bc-4afa-9c6a-0308b39cd36e/building?width=768&height=278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IntelliCorp Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/029iQ5T8Hoo8IrOUA7ibB8X-2..v1569469975.jpg' alt='IntelliCorp Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/029iQ5T8Hoo8IrOUA7ibB8X-2..v1569469975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

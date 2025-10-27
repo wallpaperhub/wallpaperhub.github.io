@@ -1,0 +1,129 @@
+<title>Revolutionize Background Checks with AI Checkr</title>
+                    <meta name="description" content="Discover AI Checkr, the AI-powered platform transforming background checks. Enjoy faster processing, increased accuracy, and seamless user interactions. Ideal for employers and landlords seeking efficient and reliable verification solutions. Experience the future of background screening today!">
+                    <meta name="keywords" content="ai checkr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ai-checkr">
+                            <span itemprop="name">ai checkr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revolutionize Background Checks with AI Checkr</h1>
+                <p>AI Checkr is an innovative solution that leverages artificial intelligence to streamline background checks and verification processes. It offers real-time analysis, reducing wait times and increasing accuracy. Whether for employment or tenant screening, AI Checkr ensures thorough assessments while enhancing user experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best AI Detector | Free & Premium Tools Compared">
+                                <img itemprop="contentUrl url" src='https://www.scribbr.com/wp-content/uploads/2023/06/Scribbr-AI-detector-1.webp' alt='Best AI Detector | Free & Premium Tools Compared'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="898">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribbr" />
+                                </span>
+                                <a href='https://www.scribbr.com/wp-content/uploads/2023/06/Scribbr-AI-detector-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker">
+                                <img itemprop="contentUrl url" src='https://static-web.grammarly.com/1e6ajr2k4140/3DFyx5UtslpbhSGDit8IA9/948463496626a54fa29a7d342ff7b8a3/left__3_.png?w=1248' alt='Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grammarly" />
+                                </span>
+                                <a href='https://static-web.grammarly.com/1e6ajr2k4140/3DFyx5UtslpbhSGDit8IA9/948463496626a54fa29a7d342ff7b8a3/left__3_.png?w=1248' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Detector - Advanced AI Checker for ChatGPT, GPT-4 & More">
+                                <img itemprop="contentUrl url" src='https://assets.quillbot.com/pageq/QBWebapp/ai-detector-work-projects-ai-refined-light-08-09-25.png' alt='AI Detector - Advanced AI Checker for ChatGPT, GPT-4 & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1656">
+                                <meta itemprop="height" content="1656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QuillBot" />
+                                </span>
+                                <a href='https://assets.quillbot.com/pageq/QBWebapp/ai-detector-work-projects-ai-refined-light-08-09-25.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Detector - Trusted AI Checker for ChatGPT, Copilot & Gemini">
+                                <img itemprop="contentUrl url" src='https://www.scribbr.com/wp-content/uploads/2023/09/02-1.jpg' alt='AI Detector - Trusted AI Checker for ChatGPT, Copilot & Gemini'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2835">
+                                <meta itemprop="height" content="1984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribbr" />
+                                </span>
+                                <a href='https://www.scribbr.com/wp-content/uploads/2023/09/02-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker">
+                                <img itemprop="contentUrl url" src='https://static-web.grammarly.com/1e6ajr2k4140/4LPqihL8A4P2p3q9dhszfY/cbe7d860690bce20ac78c26e8586b063/UI__Plagiariam_AI_Detector_Pro.png?w=1249' alt='Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grammarly" />
+                                </span>
+                                <a href='https://static-web.grammarly.com/1e6ajr2k4140/4LPqihL8A4P2p3q9dhszfY/cbe7d860690bce20ac78c26e8586b063/UI__Plagiariam_AI_Detector_Pro.png?w=1249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Detector - Advanced AI Checker for ChatGPT, GPT-4 & More">
+                                <img itemprop="contentUrl url" src='https://assets.quillbot.com/pageq/QBWebapp/ai-detector-homework-ai-refined-light.png' alt='AI Detector - Advanced AI Checker for ChatGPT, GPT-4 & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1656">
+                                <meta itemprop="height" content="1656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QuillBot" />
+                                </span>
+                                <a href='https://assets.quillbot.com/pageq/QBWebapp/ai-detector-homework-ai-refined-light.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker">
+                                <img itemprop="contentUrl url" src='https://static-web.grammarly.com/1e6ajr2k4140/VvsDbe3mUKRD7U1rh3gYF/78fd0ae2389fafd121bc64e0767842ea/UI_Generative_AI_Ideate_Word_List_NEW.png?w=1248' alt='Free AI Detector | GPT-4, GPT-3, & ChatGPT AI Checker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grammarly" />
+                                </span>
+                                <a href='https://static-web.grammarly.com/1e6ajr2k4140/VvsDbe3mUKRD7U1rh3gYF/78fd0ae2389fafd121bc64e0767842ea/UI_Generative_AI_Ideate_Word_List_NEW.png?w=1248' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best AI Detector | Free & Premium Tools Compared">
+                                <img itemprop="contentUrl url" src='https://www.scribbr.com/wp-content/uploads/2023/05/winston.png' alt='Best AI Detector | Free & Premium Tools Compared'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribbr" />
+                                </span>
+                                <a href='https://www.scribbr.com/wp-content/uploads/2023/05/winston.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Content Detector | AI Checker">
+                                <img itemprop="contentUrl url" src='https://serpstat.com/files/img/65/1690275004.0047.webp' alt='Free AI Content Detector | AI Checker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1438">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serpstat" />
+                                </span>
+                                <a href='https://serpstat.com/files/img/65/1690275004.0047.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best AI content detectors | Zapier">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/lzny33ho1g45/60Bp4g4EG4Sb08z19u6Uac/7d6c6e067c9a400c1d446f53bea34fc4/ai-content-detector-image2.png' alt='The best AI content detectors | Zapier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zapier" />
+                                </span>
+                                <a href='https://images.ctfassets.net/lzny33ho1g45/60Bp4g4EG4Sb08z19u6Uac/7d6c6e067c9a400c1d446f53bea34fc4/ai-content-detector-image2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

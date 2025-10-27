@@ -1,0 +1,129 @@
+<title>Adorable Anime Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore our charming selection of cute anime phone wallpapers! Perfect for fans, these vibrant designs and characters will personalize your device, making it uniquely yours. Upgrade your screen with heartwarming art that showcases your love for anime today!">
+                    <meta name="keywords" content="cute anime phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-anime-phone-wallpaper">
+                            <span itemprop="name">cute anime phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Anime Phone Wallpapers for Every Fan</h1>
+                <p>Discover an enchanting collection of cute anime phone wallpapers that will bring your screen to life! Featuring vibrant colors, adorable characters, and delightful scenes, these wallpapers are perfect for any anime lover. Transform your device with heartwarming designs that reflect your personality and passion for anime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/93/a9/a093a915f1336bc45fbd7ab2990bd6a0.jpg' alt='83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/93/a9/a093a915f1336bc45fbd7ab2990bd6a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Anime Inspired Phone Wallpaper Pack – viyaura">
+                                <img itemprop="contentUrl url" src='https://www.viyaura.com/cdn/shop/files/il_fullxfull.5197002847_juip.jpg?v=1723841173&width=1946' alt='Kawaii Anime Inspired Phone Wallpaper Pack – viyaura'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="viyaura" />
+                                </span>
+                                <a href='https://www.viyaura.com/cdn/shop/files/il_fullxfull.5197002847_juip.jpg?v=1723841173&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Anime Girl Phone Wallpaper Cherry Blossom Theme iPhone Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42900861/r/il/91c275/4920697515/il_570xN.4920697515_q38b.jpg' alt='30 Anime Girl Phone Wallpaper Cherry Blossom Theme iPhone Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42900861/r/il/91c275/4920697515/il_570xN.4920697515_q38b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Girl Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-girl-phone-khx5fyy09nqxipw7.jpg' alt='100+] Anime Girl Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-girl-phone-khx5fyy09nqxipw7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Phone Wallpapers (89 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/d/b/5822531-2160x3840-phone-hd-anime-phone-wallpaper.jpg' alt='Anime Phone Wallpapers (89 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/d/b/5822531-2160x3840-phone-hd-anime-phone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Anime Girl In Blue Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-anime-girl-in-blue-phone-rdg75e9zym1qr30e.jpg' alt='Aesthetic Anime Girl In Blue Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-anime-girl-in-blue-phone-rdg75e9zym1qr30e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple City Anime Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-city-anime-phone-u5tmjtigdsjdi4ts.jpg' alt='Purple City Anime Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-city-anime-phone-u5tmjtigdsjdi4ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/23/f9/4523f98e1b77f7e93e2c165019e1a177.jpg' alt='83 Anime phone wallpapers ideas | anime, wallpaper please, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/23/f9/4523f98e1b77f7e93e2c165019e1a177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Dont Touch My Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-dont-touch-my-phone-l84bn3qfwywho4dt.jpg' alt='100+] Anime Dont Touch My Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-dont-touch-my-phone-l84bn3qfwywho4dt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime, cute, girl, japan, japanese, juice, kawaii, pink, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/528/923/HD-wallpaper-anime-cute-girl-japan-japanese-juice-kawaii-pink.jpg' alt='Anime, cute, girl, japan, japanese, juice, kawaii, pink, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/528/923/HD-wallpaper-anime-cute-girl-japan-japanese-juice-kawaii-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

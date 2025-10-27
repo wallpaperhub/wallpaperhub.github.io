@@ -1,0 +1,129 @@
+<title>Explore the Enigmatic Backgrounds of Gravity Falls</title>
+                    <meta name="description" content="Discover the captivating backgrounds of Gravity Falls, showcasing the magic and charm of this iconic animated series. Immerse yourself in the enchanting landscapes that bring the story to life, perfect for fans and newcomers alike looking to delve into the world of the Pines Twin.">
+                    <meta name="keywords" content="gravity falls backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gravity-falls-backgrounds">
+                            <span itemprop="name">gravity falls backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enigmatic Backgrounds of Gravity Falls</h1>
+                <p>Gravity Falls backgrounds showcase the enchanting and mysterious landscapes of the beloved animated series. From lush forests to quirky landmarks, these stunning visuals immerse fans in the show's unique atmosphere. Explore the tranquil beauty of the Pines, the eerie aura of old mysteries, and the whimsical charm that makes Gravity Falls unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Gravity Falls art direction and background art">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/050/466/982/4k/ian-worrel-gravity-falls-02.jpg?1654903095' alt='ArtStation - Gravity Falls art direction and background art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/050/466/982/4k/ian-worrel-gravity-falls-02.jpg?1654903095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Gravity Falls art direction and background art">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/050/464/760/4k/ian-worrel-vista-sunset.jpg?1654897080' alt='ArtStation - Gravity Falls art direction and background art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2353">
+                                <meta itemprop="height" content="1319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/050/464/760/4k/ian-worrel-vista-sunset.jpg?1654897080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Falls Background Study by DoodleRooChu on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0eea4457-8cad-4470-a04b-278b47d3ad22/dgxpqrp-9c03820a-35ce-4a4e-a380-fc77211d112b.png/v1/fill/w_894,h_894,q_70,strp/gravity_falls_background_study_by_doodleroochu_dgxpqrp-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzBlZWE0NDU3LThjYWQtNDQ3MC1hMDRiLTI3OGI0N2QzYWQyMlwvZGd4cHFycC05YzAzODIwYS0zNWNlLTRhNGUtYTM4MC1mYzc3MjExZDExMmIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3SZ6jF4YNExDHMZJtHrglS8W8TjuiwiKZwEMyhMswic' alt='Gravity Falls Background Study by DoodleRooChu on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0eea4457-8cad-4470-a04b-278b47d3ad22/dgxpqrp-9c03820a-35ce-4a4e-a380-fc77211d112b.png/v1/fill/w_894,h_894,q_70,strp/gravity_falls_background_study_by_doodleroochu_dgxpqrp-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzBlZWE0NDU3LThjYWQtNDQ3MC1hMDRiLTI3OGI0N2QzYWQyMlwvZGd4cHFycC05YzAzODIwYS0zNWNlLTRhNGUtYTM4MC1mYzc3MjExZDExMmIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3SZ6jF4YNExDHMZJtHrglS8W8TjuiwiKZwEMyhMswic' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Gravity Falls art direction and background art">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/050/463/818/4k/ian-worrel-attic-int.jpg?1654894786' alt='ArtStation - Gravity Falls art direction and background art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/050/463/818/4k/ian-worrel-attic-int.jpg?1654894786' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Falls Background : r/gravityfalls">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wevhbp49sl2c1.jpg' alt='Gravity Falls Background : r/gravityfalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wevhbp49sl2c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Falls Cartoon Waterfall - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/625/thumb-1920-625703.jpg' alt='Gravity Falls Cartoon Waterfall - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/625/thumb-1920-625703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Falls Mystery Shack Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/gravity-falls-mystery-shack-hd-ooy8r6tlgq5yzip6.jpg' alt='Gravity Falls Mystery Shack Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/gravity-falls-mystery-shack-hd-ooy8r6tlgq5yzip6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravity Falls Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/8/9/126516-1920x1080-desktop-full-hd-gravity-falls-background-photo.jpg' alt='Gravity Falls Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/8/9/126516-1920x1080-desktop-full-hd-gravity-falls-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Gravity Falls art direction and background art">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/050/463/829/4k/ian-worrel-living-room-int.jpg?1654894820' alt='ArtStation - Gravity Falls art direction and background art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/050/463/829/4k/ian-worrel-living-room-int.jpg?1654894820' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night version of the Gravity Falls Background design will be my ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3349444516246091996' alt='Night version of the Gravity Falls Background design will be my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3349444516246091996' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

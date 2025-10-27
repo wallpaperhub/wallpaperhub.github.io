@@ -1,0 +1,129 @@
+<title>Stunning Windows 11 Live Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover vibrant live wallpapers for Windows 11 that elevate your desktop experience. Choose from stunning animations and dynamic scenes that refresh your workspace and boost creativity. Transform your computer with captivating visuals that inspire and motivate.">
+                    <meta name="keywords" content="windows 11 live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-11-live-wallpaper">
+                            <span itemprop="name">windows 11 live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Windows 11 Live Wallpapers for Your Desktop</h1>
+                <p>Windows 11 live wallpaper brings your desktop to life with dynamic visuals and immersive effects. Explore vast landscapes, colorful animations, or calming nature scenes that change with time or interactivity. Personalize your workspace for a refreshing experience, enhancing your productivity while keeping your display visually engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Live Wallpaper Hero Dark">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9VBDxhvM4lI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgPyh_MA8=&rs=AOn4CLB885HdefTvyxd2opwrp0zv4USsxw' alt='Windows 11 Live Wallpaper Hero Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9VBDxhvM4lI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgPyh_MA8=&rs=AOn4CLB885HdefTvyxd2opwrp0zv4USsxw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Setup Live Wallpaper on Windows 11">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0oFJzbyDy5A/maxresdefault.jpg' alt='How to Setup Live Wallpaper on Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0oFJzbyDy5A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 - Live Wallpapers?">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rc6mixrnfef71.jpg?vthumb=1&s=0315066ac1de6c72bc9de59d7e9db589303ffca9' alt='Windows 11 - Live Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rc6mixrnfef71.jpg?vthumb=1&s=0315066ac1de6c72bc9de59d7e9db589303ffca9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use animated wallpapers on Windows 11">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/screenshot-2023-08-09-154154.png' alt='How to use animated wallpapers on Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/screenshot-2023-08-09-154154.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Background Windows 11">
+                                <img itemprop="contentUrl url" src='http://ms.codes/cdn/shop/articles/live-wallpaper-w11.jpg?v=1709266040' alt='Animated Background Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MS.Codes" />
+                                </span>
+                                <a href='http://ms.codes/cdn/shop/articles/live-wallpaper-w11.jpg?v=1709266040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use animated wallpapers on Windows 11">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/lively-wallpaper-2.png' alt='How to use animated wallpapers on Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3120">
+                                <meta itemprop="height" content="2080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/lively-wallpaper-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Add Live Wallpaper In Windows 11">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/bRxDDV3KPD4/maxresdefault.jpg' alt='How To Add Live Wallpaper In Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/bRxDDV3KPD4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a Live Wallpaper in Windows 11">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/kioyGry2Biuf8aoOIVIrJGB9Sss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/LivelyWallpaperOptions-1711c13be1c1403088169a18a0795b50.jpg' alt='How to Set a Live Wallpaper in Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/kioyGry2Biuf8aoOIVIrJGB9Sss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/LivelyWallpaperOptions-1711c13be1c1403088169a18a0795b50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lively Wallpaper - Free download and install on Windows ...">
+                                <img itemprop="contentUrl url" src='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' alt='Lively Wallpaper - Free download and install on Windows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Store" />
+                                </span>
+                                <a href='https://store-images.s-microsoft.com/image/apps.21640.14416131676512756.8f975657-3f20-4265-8782-90e4e981cac8.157bc225-7b38-424a-8a73-84cec651d367' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Live Wallpaper Hero Light">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uGAjKnXiz5A/maxresdefault.jpg' alt='Windows 11 Live Wallpaper Hero Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uGAjKnXiz5A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

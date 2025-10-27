@@ -1,0 +1,129 @@
+<title>Preppy Tennis Wallpaper: Stylish Décor for Sports Lovers</title>
+                    <meta name="description" content="Discover preppy tennis wallpaper that elevates your décor with sporty elegance. Featuring classic patterns and vibrant colors, it’s perfect for tennis fans and those wanting a chic, playful touch in their space. Refresh your home with this stylish wallpaper today!">
+                    <meta name="keywords" content="preppy tennis wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-tennis-wallpaper">
+                            <span itemprop="name">preppy tennis wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Tennis Wallpaper: Stylish Décor for Sports Lovers</h1>
+                <p>Transform your space with stylish preppy tennis wallpaper! Featuring classic patterns, vibrant colors, and a sporty vibe, this wallpaper effortlessly blends sophistication with playful charm. Perfect for tennis enthusiasts and those seeking a fresh, chic look. Elevate your room's aesthetic with a touch of preppy flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49 Tennis Phone Wallpapers ideas | tennis, tennis aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/88/e8/4c88e8754476bb56ad97581677816084.jpg' alt='49 Tennis Phone Wallpapers ideas | tennis, tennis aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/88/e8/4c88e8754476bb56ad97581677816084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy tennis seamless pattern. Coquette serve repeat background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2Y1PHJ1/preppy-tennis-seamless-pattern-coquette-serve-repeat-background-elegant-sport-vector-continuous-surface-design-2Y1PHJ1.jpg' alt='Preppy tennis seamless pattern. Coquette serve repeat background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2Y1PHJ1/preppy-tennis-seamless-pattern-coquette-serve-repeat-background-elegant-sport-vector-continuous-surface-design-2Y1PHJ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract tennis themed background by Audrey Shtecinjo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/01/d3/6701d315a58dcc61287456222c3664c9.jpg' alt='Abstract tennis themed background by Audrey Shtecinjo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/01/d3/6701d315a58dcc61287456222c3664c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out wyleighjohughes's Shuffles #tennis #tennisgirl #beauty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/31/cd/10/31cd105ab2ab4500d71330bbebd4dccd.jpg' alt='Check out wyleighjohughes's Shuffles #tennis #tennisgirl #beauty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/31/cd/10/31cd105ab2ab4500d71330bbebd4dccd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Fall Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/17/13/961713d297dd371c327047c4b2470301.jpg' alt='Hello Fall Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/17/13/961713d297dd371c327047c4b2470301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Pam Cuadros on Wp | Tennis wallpaper, Tennis posters ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/81/6a/d9816adac9928a50b2f1d474e27edeac.jpg' alt='Pin by Pam Cuadros on Wp | Tennis wallpaper, Tennis posters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/81/6a/d9816adac9928a50b2f1d474e27edeac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Tennis Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14102460.jpg' alt='Preppy Tennis Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14102460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Tennis Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10771108/p/f/m/F2ktGkev731EP5bYzJcljNnQQpLADaH7AVx456PRVNj7uQ2AssH1/Cool%20tennis%20pattern%20-%20vivid%20pink%20-%20large%20scale%20tiles.jpg' alt='Cool Tennis Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10771108/p/f/m/F2ktGkev731EP5bYzJcljNnQQpLADaH7AVx456PRVNj7uQ2AssH1/Cool%20tennis%20pattern%20-%20vivid%20pink%20-%20large%20scale%20tiles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Wallpaper Stock Illustrations – 4,555 Tennis Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/tennis-racket-seamless-pattern-isolated-ball-vector-wallpaper-background-white-tennis-racket-seamless-pattern-isolated-ball-vector-113540900.jpg' alt='Tennis Wallpaper Stock Illustrations – 4,555 Tennis Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/tennis-racket-seamless-pattern-isolated-ball-vector-wallpaper-background-white-tennis-racket-seamless-pattern-isolated-ball-vector-113540900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetics™ | ✔️ -    Solid Background   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/27/16/1e2716ecd721dbe9914501010793a1e7.jpg' alt='Aesthetics™ | ✔️ -    Solid Background   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/27/16/1e2716ecd721dbe9914501010793a1e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

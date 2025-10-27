@@ -1,0 +1,129 @@
+<title>Does a Misdemeanor DUI Appear on Background Checks?</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="does a misdemeanor dui show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-misdemeanor-dui-show-up-on-background-check">
+                            <span itemprop="name">does a misdemeanor dui show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does a Misdemeanor DUI Appear on Background Checks?</h1>
+                <p>A misdemeanor DUI typically does show up on background checks, especially during employment or housing applications. The duration it stays on your record can vary by state, but many will look back at criminal records for several years. It's important to understand how it may impact opportunities and consider legal advice for expungement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a DUI Show up on a Background Check in South Carolina? | De ...">
+                                <img itemprop="contentUrl url" src='https://debruinlawfirm.com/wp-content/uploads/2021/05/does-a-dui-show-up-on-a-background-check-1-scaled.jpeg' alt='Does a DUI Show up on a Background Check in South Carolina? | De ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1538">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="De Bruin Law Firm" />
+                                </span>
+                                <a href='https://debruinlawfirm.com/wp-content/uploads/2021/05/does-a-dui-show-up-on-a-background-check-1-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a DUI Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Does-a-DUI-Show-Up-on-a-Background-Check-2.png' alt='Does a DUI Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Does-a-DUI-Show-Up-on-a-Background-Check-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A DUI Show Up On A Criminal Background Check?">
+                                <img itemprop="contentUrl url" src='https://baldanilaw.com/wp-content/uploads/2019/12/Will-A-DUI-Show-Up-On-A-Criminal-Background-Check-1024x477.png' alt='Will A DUI Show Up On A Criminal Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baldani Law Group" />
+                                </span>
+                                <a href='https://baldanilaw.com/wp-content/uploads/2019/12/Will-A-DUI-Show-Up-On-A-Criminal-Background-Check-1024x477.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a DUI Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/wp-content/uploads/TYPES-OF-BACKGROUND-CHECKS-THAT-MAY-REVEAL-A-DUI-3-600x338.png' alt='Does a DUI Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/wp-content/uploads/TYPES-OF-BACKGROUND-CHECKS-THAT-MAY-REVEAL-A-DUI-3-600x338.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check - Pending DWI : r/dui">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v1085j50w7f91.jpg?width=640&crop=smart&auto=webp&s=61e61ecbba87bd060acc4ec5e722ea4b3ab53d6a' alt='Background Check - Pending DWI : r/dui'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v1085j50w7f91.jpg?width=640&crop=smart&auto=webp&s=61e61ecbba87bd060acc4ec5e722ea4b3ab53d6a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Criminal Background Check Show a DUI in California?">
+                                <img itemprop="contentUrl url" src='https://www.losangelesduiattorney.com/wp-content/uploads/2021/10/filling-out-background-check.jpeg' alt='Will a Criminal Background Check Show a DUI in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles DUI Lawyer" />
+                                </span>
+                                <a href='https://www.losangelesduiattorney.com/wp-content/uploads/2021/10/filling-out-background-check.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A DUI Show Up On A Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.rightlawgroup.com/wp-content/uploads/will-dui-show-up-on-a-background-check.png' alt='Will A DUI Show Up On A Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Right Law Group" />
+                                </span>
+                                <a href='https://www.rightlawgroup.com/wp-content/uploads/will-dui-show-up-on-a-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUIs & Background Checks: What It Means For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='DUIs & Background Checks: What It Means For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a DUI Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/wp-content/uploads/WHERE-DOES-A-DUI-SHOW-UP-3-600x338.png' alt='Does a DUI Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/wp-content/uploads/WHERE-DOES-A-DUI-SHOW-UP-3-600x338.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Pass a Background Check with a Misdemeanor DUI?">
+                                <img itemprop="contentUrl url" src='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' alt='Can You Pass a Background Check with a Misdemeanor DUI?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGO Law Firm" />
+                                </span>
+                                <a href='https://kgofirm.com/wp-content/uploads/2024/05/can-you-pass-a-background-check-with-a-misdemeanor-dui.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

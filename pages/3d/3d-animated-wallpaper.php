@@ -1,0 +1,129 @@
+<title>Stunning 3D Animated Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the world of 3D animated wallpapers that elevate your device's appearance. Choose from an array of captivating designs that animate beautifully, adding depth and style to your screens. Ideal for anyone seeking a fresh, dynamic look, these wallpapers make every glance at your device a visual delight!">
+                    <meta name="keywords" content="3d animated wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-animated-wallpaper">
+                            <span itemprop="name">3d animated wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Animated Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning 3D animated wallpapers! These immersive visuals breathe life into your screens, offering dynamic backgrounds that shift and evolve. Perfect for adding depth and personality to desktops and mobile devices, 3D animated wallpapers are an eye-catching choice for anyone looking to enhance their digital aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 3d Animation Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fiery-running-horse-3d-animation-ysazzyhmonwei25a.jpg' alt='200+] 3d Animation Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1852">
+                                <meta itemprop="height" content="1165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fiery-running-horse-3d-animation-ysazzyhmonwei25a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d live wallpaper - Animated moving magic images 3d wallpa… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4305/35893626606_7b473a0768_b.jpg' alt='3d live wallpaper - Animated moving magic images 3d wallpa… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4305/35893626606_7b473a0768_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Animated Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/98/3b/2c983b21649bd729201579019d3a1056.jpg' alt='3D Animated Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/98/3b/2c983b21649bd729201579019d3a1056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Animated Wallpaper For Mobile | by gabriel manders | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*J9zyIJ0bzFFI-Hqszx0scw.jpeg' alt='3d Animated Wallpaper For Mobile | by gabriel manders | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*J9zyIJ0bzFFI-Hqszx0scw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamon animated wallpapers · Issue #1691 · linuxmint/cinnamon ...">
+                                <img itemprop="contentUrl url" src='https://camo.githubusercontent.com/ad2b2502b6d4198e84e77ef4586c39ac733d0124b594aa4649d67ea05fcbe791/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f333239303738382f3133393436322f34393665306535362d373166372d313165322d383639662d3364653766303365636362302e6a706567' alt='Cinnamon animated wallpapers · Issue #1691 · linuxmint/cinnamon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://camo.githubusercontent.com/ad2b2502b6d4198e84e77ef4586c39ac733d0124b594aa4649d67ea05fcbe791/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f333239303738382f3133393436322f34393665306535362d373166372d313165322d383639662d3364653766303365636362302e6a706567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Animation Wallpapers For Mobile - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2981964.jpg' alt='3d Animation Wallpapers For Mobile - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2981964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 3d Animation Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wandering-leopard-3d-animation-mowv0w2axr5ey90y.jpg' alt='200+] 3d Animation Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1852">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wandering-leopard-3d-animation-mowv0w2axr5ey90y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper desktop free - 3D Animated Live hd 3d wallpaper … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4241/35457912616_c2e1a24bc8_b.jpg' alt='Wallpaper desktop free - 3D Animated Live hd 3d wallpaper … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4241/35457912616_c2e1a24bc8_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d animation wallpaper 21">
+                                <img itemprop="contentUrl url" src='https://webneel.com/wallpaper/sites/default/files/images/01-2014/21-3d-animation-wallpaper.preview.jpg' alt='3d animation wallpaper 21'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Webneel.com" />
+                                </span>
+                                <a href='https://webneel.com/wallpaper/sites/default/files/images/01-2014/21-3d-animation-wallpaper.preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d moving wallpaper - live animated screen saver 3d free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/84/49/678449810c9e136c702624b3d9027244.jpg' alt='3d moving wallpaper - live animated screen saver 3d free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/84/49/678449810c9e136c702624b3d9027244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

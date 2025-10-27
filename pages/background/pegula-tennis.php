@@ -1,0 +1,129 @@
+<title>Jessica Pegula: Rising Star of American Tennis</title>
+                    <meta name="description" content="Discover Jessica Pegula, the dynamic American tennis player making waves on the WTA tour. Explore her journey, style of play, and recent achievements as she continues to rise in the world of competitive tennis. Stay updated on her performance and see why she's a name to watch!">
+                    <meta name="keywords" content="pegula tennis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pegula-tennis">
+                            <span itemprop="name">pegula tennis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jessica Pegula: Rising Star of American Tennis</h1>
+                <p>Pegula Tennis showcases the rising talent of Jessica Pegula, an American professional tennis player. Known for her powerful groundstrokes and strategic gameplay, Pegula has quickly climbed the ranks in the WTA circuit. With impressive performances in major tournaments, she embodies determination and skill on the court, inspiring fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ac/Pegula_RG19_%2823%29_%2848199119221%29.jpg' alt='Jessica Pegula - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2429">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ac/Pegula_RG19_%2823%29_%2848199119221%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula and Emma Navarro say what they think of the state ...">
+                                <img itemprop="contentUrl url" src='https://cdn1.thetennisgazette.com/uploads/78/2025/03/Pegula-Navarro.jpg' alt='Jessica Pegula and Emma Navarro say what they think of the state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennis Gazette" />
+                                </span>
+                                <a href='https://cdn1.thetennisgazette.com/uploads/78/2025/03/Pegula-Navarro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula Looks Head to Her First Grand Slam Final at the US ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/66db04501fbc2f2d747615a2/4:3/w_2560%2Cc_limit/2170450337' alt='Jessica Pegula Looks Head to Her First Grand Slam Final at the US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/66db04501fbc2f2d747615a2/4:3/w_2560%2Cc_limit/2170450337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula wins 2025 ATX Open singles title over McCartney Kessler">
+                                <img itemprop="contentUrl url" src='https://www.statesman.com/gcdn/authoring/authoring-images/2025/03/02/NAAS/81090916007-pegula-backhand.jpg?crop=1182,1575,x0,y0' alt='Jessica Pegula wins 2025 ATX Open singles title over McCartney Kessler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin American-Statesman" />
+                                </span>
+                                <a href='https://www.statesman.com/gcdn/authoring/authoring-images/2025/03/02/NAAS/81090916007-pegula-backhand.jpg?crop=1182,1575,x0,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis-Pegula flies Austin finalists to Indian Wells in private ...">
+                                <img itemprop="contentUrl url" src='https://www.srnnews.com/media/2025/03/1741068340353805ybjdH3PIix.jpg?x72781' alt='Tennis-Pegula flies Austin finalists to Indian Wells in private ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SRN News" />
+                                </span>
+                                <a href='https://www.srnnews.com/media/2025/03/1741068340353805ybjdH3PIix.jpg?x72781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula: Tennis star flies fellow players from Texas to ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15149067dn.jpg?c=original' alt='Jessica Pegula: Tennis star flies fellow players from Texas to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15149067dn.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Facts About Jessica Pegula, the American Tennis Star Who May Win ...">
+                                <img itemprop="contentUrl url" src='https://media.self.com/photos/66db37731d565111d730dadb/4:3/w_2560%2Cc_limit/Jessica%2520Pegula.jpg' alt='8 Facts About Jessica Pegula, the American Tennis Star Who May Win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SELF Magazine" />
+                                </span>
+                                <a href='https://media.self.com/photos/66db37731d565111d730dadb/4:3/w_2560%2Cc_limit/Jessica%2520Pegula.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis: Austin finalists borrow Jessica Pegula's jet to fly to ...">
+                                <img itemprop="contentUrl url" src='https://cdnph.upi.com/svc/sv/upi/8881741092097/2025/1/fdb360c63e61b0e499a7ad3502378e55/Tennis-Austin-finalists-borrow-Jessica-Pegulas-jet-to-fly-to-Indian-Wells.jpg' alt='Tennis: Austin finalists borrow Jessica Pegula's jet to fly to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UPI" />
+                                </span>
+                                <a href='https://cdnph.upi.com/svc/sv/upi/8881741092097/2025/1/fdb360c63e61b0e499a7ad3502378e55/Tennis-Austin-finalists-borrow-Jessica-Pegulas-jet-to-fly-to-Indian-Wells.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula: The daughter of a US billionaire who could be ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230106091215-jessica-pegula.jpg?c=original' alt='Jessica Pegula: The daughter of a US billionaire who could be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2243">
+                                <meta itemprop="height" content="1496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230106091215-jessica-pegula.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Pegula wins 2025 ATX Open singles title over McCartney Kessler">
+                                <img itemprop="contentUrl url" src='https://www.statesman.com/gcdn/authoring/authoring-images/2025/03/02/NAAS/81090916007-pegula-backhand.jpg?crop=1327,996,x0,y78' alt='Jessica Pegula wins 2025 ATX Open singles title over McCartney Kessler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1327">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin American-Statesman" />
+                                </span>
+                                <a href='https://www.statesman.com/gcdn/authoring/authoring-images/2025/03/02/NAAS/81090916007-pegula-backhand.jpg?crop=1327,996,x0,y78' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

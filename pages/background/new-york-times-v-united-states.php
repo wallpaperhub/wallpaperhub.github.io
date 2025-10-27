@@ -1,0 +1,129 @@
+<title>New York Times v. United States: A Landmark Free Press Case</title>
+                    <meta name="description" content="Explore the pivotal Supreme Court case, New York Times v. United States, which affirmed press freedom and accountability. Learn how this decision shaped the media landscape and the rights of journalists to publish sensitive information without government interference.">
+                    <meta name="keywords" content="new york times v united states">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-york-times-v-united-states">
+                            <span itemprop="name">new york times v united states</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>New York Times v. United States: A Landmark Free Press Case</h1>
+                <p>The New York Times v. United States, often called the "Pentagon Papers case," was a landmark Supreme Court decision in 1971. It upheld the freedom of the press, allowing the Times to publish classified documents detailing the U.S. government's activities in Vietnam. This case reinforced the principle that the government cannot exercise prior restraint on media publications, promoting transparency and accountability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freedom of the Press: New York Times v. United States – Annenberg ...">
+                                <img itemprop="contentUrl url" src='https://www.annenbergclassroom.org/wp-content/uploads/freedom-of-press-thumb.jpg' alt='Freedom of the Press: New York Times v. United States – Annenberg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Annenberg Classroom" />
+                                </span>
+                                <a href='https://www.annenbergclassroom.org/wp-content/uploads/freedom-of-press-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Times Co. v. United States (The Pentagon Papers Case ...">
+                                <img itemprop="contentUrl url" src='https://constitutioncenter.org/images/uploads/heros/Pentagon-Papers-Decision-Announcement.png' alt='New York Times Co. v. United States (The Pentagon Papers Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Constitution Center" />
+                                </span>
+                                <a href='https://constitutioncenter.org/images/uploads/heros/Pentagon-Papers-Decision-Announcement.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: New York Times V. United States: National Security and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91LNU2x3K1S._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: New York Times V. United States: National Security and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91LNU2x3K1S._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Times Co. v. United States (1971) | The First Amendment ...">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/Pentagon_Papers_New_York_Times_0-scaled.jpg' alt='New York Times Co. v. United States (1971) | The First Amendment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/Pentagon_Papers_New_York_Times_0-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Times Co. v. United States (1971) (article) | Khan Academy">
+                                <img itemprop="contentUrl url" src='https://cdn.kastatic.org/ka-perseus-images/20c0c709692514b99e317b1cbee080532f4ca734.jpg' alt='New York Times Co. v. United States (1971) (article) | Khan Academy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Khan Academy" />
+                                </span>
+                                <a href='https://cdn.kastatic.org/ka-perseus-images/20c0c709692514b99e317b1cbee080532f4ca734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complicated Impact the Pentagon Papers Had on Free Speech ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/06/10/multimedia/10papers-liptak-promo/10papers-promo-03-superJumbo.jpg' alt='The Complicated Impact the Pentagon Papers Had on Free Speech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/06/10/multimedia/10papers-liptak-promo/10papers-promo-03-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1971 | Supreme Court Allows Publication of Pentagon Papers - The ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2016/06/30/insider/30Insider-Scotus/30Insider-Scotus-superJumbo.jpg' alt='1971 | Supreme Court Allows Publication of Pentagon Papers - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1416">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2016/06/30/insider/30Insider-Scotus/30Insider-Scotus-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Times Co. v. US Supreme Court Case">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/PYAfB-FGGLhbyoZB3uy_sKj38no=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515048182-cdb81d3ff19a4dfb93e87daf4bb08fa0.jpg' alt='New York Times Co. v. US Supreme Court Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/PYAfB-FGGLhbyoZB3uy_sKj38no=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515048182-cdb81d3ff19a4dfb93e87daf4bb08fa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Nichols: 50 years after the Pentagon Papers decision, the ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/captimes.com/content/tncms/assets/v3/editorial/8/44/84423fe6-f5b2-55a5-94a8-2a377ef62b34/60d233e055a09.image.jpg' alt='John Nichols: 50 years after the Pentagon Papers decision, the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Capital Times" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/captimes.com/content/tncms/assets/v3/editorial/8/44/84423fe6-f5b2-55a5-94a8-2a377ef62b34/60d233e055a09.image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Times Co. v. United States (1971) | The First Amendment ...">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/08/haro2-18.jpeg' alt='New York Times Co. v. United States (1971) | The First Amendment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/08/haro2-18.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

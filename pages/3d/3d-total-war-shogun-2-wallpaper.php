@@ -1,0 +1,129 @@
+<title>Epic 3D Total War: Shogun 2 Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a collection of stunning 3D Total War: Shogun 2 wallpapers! Perfect for gamers and fans alike, these high-resolution images will transform your desktop or mobile device. Dive into the world of feudal Japan with beautiful scenes and epic battles. Download your favorites now!">
+                    <meta name="keywords" content="3d total war shogun 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-total-war-shogun-2-wallpaper">
+                            <span itemprop="name">3d total war shogun 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic 3D Total War: Shogun 2 Wallpapers for Your Screen</h1>
+                <p>Enhance your gaming experience with stunning 3D Total War: Shogun 2 wallpapers! Immerse yourself in the feudal Japan era, featuring breathtaking landscapes, fierce samurai battles, and iconic clan symbols. Our collection offers high-resolution options, perfect for desktops and mobile devices. Unleash the beauty of Shogun 2 on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shogun 2 Total War Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/shogun-2-total-war-ci0a7olcxm9th3f7.jpg' alt='100+] Shogun 2 Total War Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/shogun-2-total-war-ci0a7olcxm9th3f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shogun 2 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/shogun-2-qe5rj2mznb6ecsxj.jpg' alt='100+] Shogun 2 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/shogun-2-qe5rj2mznb6ecsxj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total War: Shogun 2 Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/fdec1031-a75a-4cb1-94cc-e36aef0e0947.jpg' alt='Total War: Shogun 2 Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/fdec1031-a75a-4cb1-94cc-e36aef0e0947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shogun 2 Total War Characters Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shogun-2-total-war-characters-kyby74nh65o4ftfd.jpg' alt='Download Shogun 2 Total War Characters Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shogun-2-total-war-characters-kyby74nh65o4ftfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Total War: Shogun 2" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/ac/accea48b5f362ff296961fecc1e7bd5a.jpeg' alt='Download "Total War: Shogun 2" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phone wallpapers free HD download for mobile - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/ac/accea48b5f362ff296961fecc1e7bd5a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Total War: Shogun 2 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/269/thumb-1920-269615.jpg' alt='Download Video Game Total War: Shogun 2 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/269/thumb-1920-269615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Best Total War Shogun 2 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-total-war-shogun-2-background-0phpyr1vd0m9ido9.jpg' alt='100+] Best Total War Shogun 2 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-total-war-shogun-2-background-0phpyr1vd0m9ido9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[REQUEST] This Total War: Shogun 2 wallpaper without the logo in ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/qGb2ns7_B9ZKtgoDgA7ZGd5KqXLuVQYi8FRXFZCR-wk.jpg?auto=webp&s=36444a241ccabbdef8f94639a7bdc5b80e3e33d0' alt='[REQUEST] This Total War: Shogun 2 wallpaper without the logo in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/qGb2ns7_B9ZKtgoDgA7ZGd5KqXLuVQYi8FRXFZCR-wk.jpg?auto=webp&s=36444a241ccabbdef8f94639a7bdc5b80e3e33d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shogun 2 Total War Bloody Warrior Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/shogun-2-total-war-katana-guerl63s5hwunh0d.webp' alt='Shogun 2 Total War Bloody Warrior Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/shogun-2-total-war-katana-guerl63s5hwunh0d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shogun 2 Total War Samurai Katana Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shogun-2-total-war-samurai-katana-hgag3z3e9yfk7b84.jpg' alt='Download Shogun 2 Total War Samurai Katana Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shogun-2-total-war-samurai-katana-hgag3z3e9yfk7b84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

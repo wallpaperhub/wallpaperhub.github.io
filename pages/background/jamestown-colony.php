@@ -1,0 +1,129 @@
+<title>Explore the Historic Jamestown Colony: America's First Settlement</title>
+                    <meta name="description" content="Discover the story of Jamestown Colony, America's first permanent English settlement. Learn about its challenges, early inhabitants, and lasting impact on American history. Dive into the origins of a nation and uncover the trials faced by settlers in the New World.">
+                    <meta name="keywords" content="jamestown colony">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jamestown-colony">
+                            <span itemprop="name">jamestown colony</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Historic Jamestown Colony: America's First Settlement</h1>
+                <p>Founded in 1607, Jamestown Colony was the first permanent English settlement in North America. It faced numerous challenges, including harsh winters, food shortages, and conflicts with Indigenous peoples. Despite these struggles, it laid the foundation for future colonization and the development of what would become the United States.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/80/83680-050-4494A347/Jamestown-Fort-Virginia-1608.jpg' alt='Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/80/83680-050-4494A347/Jamestown-Fort-Virginia-1608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/82/83682-050-5563B33C/Village-Jamestown-James-River-Virginia-1615.jpg' alt='Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/82/83682-050-5563B33C/Village-Jamestown-James-River-Virginia-1615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/77/241277-050-0DDB76AD/Locator-map-Jamestown-Colony.jpg' alt='Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/77/241277-050-0DDB76AD/Locator-map-Jamestown-Colony.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Colonies | Jamestown">
+                                <img itemprop="contentUrl url" src='http://www.smplanet.com/teaching/colonialamerica/images/jamestown-jamesfort.jpg' alt='The Colonies | Jamestown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Small Planet Communications, Inc." />
+                                </span>
+                                <a href='http://www.smplanet.com/teaching/colonialamerica/images/jamestown-jamesfort.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Property rights in Jamestown: Bowling and starving in the New World">
+                                <img itemprop="contentUrl url" src='https://pacificlegal.org/wp-content/uploads/2023/11/Jamestown-Colony.jpg' alt='Property rights in Jamestown: Bowling and starving in the New World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pacific Legal Foundation" />
+                                </span>
+                                <a href='https://pacificlegal.org/wp-content/uploads/2023/11/Jamestown-Colony.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Short History of Jamestown - Historic Jamestowne Part of ...">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/jame/learn/historyculture/images/D-4-Colonists-Landing-at-Jamestown-for-web.jpg?maxwidth=650&autorotate=false' alt='A Short History of Jamestown - Historic Jamestowne Part of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/jame/learn/historyculture/images/D-4-Colonists-Landing-at-Jamestown-for-web.jpg?maxwidth=650&autorotate=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamestown Colony: Founded, Economy, Map, and Facts">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152653169/settings_images/cfcb-afae-1863-fb62-1ee0ce452aa6_jamestown_colony_Map_history.jpg' alt='Jamestown Colony: Founded, Economy, Map, and Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Students of History" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152653169/settings_images/cfcb-afae-1863-fb62-1ee0ce452aa6_jamestown_colony_Map_history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virginia (Jamestown) Colony">
+                                <img itemprop="contentUrl url" src='https://mrnussbaum.com/storage/uploads/activities/images/jamestown.jpg' alt='Virginia (Jamestown) Colony'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrNussbaum.com" />
+                                </span>
+                                <a href='https://mrnussbaum.com/storage/uploads/activities/images/jamestown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things You May Not Know About the Jamestown Colony | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2019/08/jamestown-gettyimages-51246051.jpg' alt='10 Things You May Not Know About the Jamestown Colony | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2019/08/jamestown-gettyimages-51246051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/47/193847-050-F842A1B2/Replica-buildings-Jamestown-Fort-Settlement-Virginia-Williamsburg.jpg' alt='Jamestown Colony | History, Foundation, Settlement, Map, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/47/193847-050-F842A1B2/Replica-buildings-Jamestown-Fort-Settlement-Virginia-Williamsburg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

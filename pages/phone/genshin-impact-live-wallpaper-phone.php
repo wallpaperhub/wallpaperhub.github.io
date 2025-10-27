@@ -1,0 +1,129 @@
+<title>Genshin Impact Live Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover captivating Genshin Impact live wallpapers for your mobile device. Experience dynamic animations and stunning visuals that showcase your favorite characters and scenes from Teyvat. Perfect for fans wanting to personalize their phone with a touch of adventure and magic!">
+                    <meta name="keywords" content="genshin impact live wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/genshin-impact-live-wallpaper-phone">
+                            <span itemprop="name">genshin impact live wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Genshin Impact Live Wallpapers for Your Phone</h1>
+                <p>Transform your phone's aesthetic with mesmerizing Genshin Impact live wallpapers! Immerse yourself in the enchanting world of Teyvat, featuring stunning characters and breathtaking landscapes. Customize your device with dynamic visuals that bring your favorite game to life, creating an engaging and vibrant experience every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper de Furina | Genshin Impact | Gratis">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7295824481187040518&location=0&aid=1988' alt='Live Wallpaper de Furina | Genshin Impact | Gratis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7295824481187040518&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venti Live Wallpaper app : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nl1csdgkwch61.jpg?width=720&format=pjpg&auto=webp&s=043cdfd72ef2a3a42fa67cd8e9ca9c9586b52e26' alt='Venti Live Wallpaper app : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nl1csdgkwch61.jpg?width=720&format=pjpg&auto=webp&s=043cdfd72ef2a3a42fa67cd8e9ca9c9586b52e26' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GENSHIN IMPACT LIVE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/a9/91/1fa99174774a064b6867c03fed265d3c.jpg' alt='GENSHIN IMPACT LIVE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/a9/91/1fa99174774a064b6867c03fed265d3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xiao genshin impact live wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/be/19/3e/be193e49d437b97560d17752004aceb0.jpg' alt='Xiao genshin impact live wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/be/19/3e/be193e49d437b97560d17752004aceb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact | Free Live Wallpaper By Mihoyo - Genshin Live ...">
+                                <img itemprop="contentUrl url" src='https://img.gamewith.net/img/3a3481d5f08089dbd405a3fa43549b69.jpg' alt='Genshin Impact | Free Live Wallpaper By Mihoyo - Genshin Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWith" />
+                                </span>
+                                <a href='https://img.gamewith.net/img/3a3481d5f08089dbd405a3fa43549b69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Version 5.0 Live Wallpapers Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2024/08/23/9946115/ae9bfee0074a3242bcf34ce4d70b9cc2_9150569423936025674.jpeg' alt='Genshin Impact Version 5.0 Live Wallpapers Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1932">
+                                <meta itemprop="height" content="1087">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2024/08/23/9946115/ae9bfee0074a3242bcf34ce4d70b9cc2_9150569423936025674.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi everyone! For those who want to have a Genshin Impact Live ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ev5hwr7zdig81.png?width=1080&crop=smart&auto=webp&s=4fac37f569072e05c203a4e6a9526ff36db3db15' alt='Hi everyone! For those who want to have a Genshin Impact Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ev5hwr7zdig81.png?width=1080&crop=smart&auto=webp&s=4fac37f569072e05c203a4e6a9526ff36db3db15' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact 4K Live Wallpaper | Klee Theme Song | Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7314852335639940358&location=0&aid=1988' alt='Genshin Impact 4K Live Wallpaper | Klee Theme Song | Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7314852335639940358&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get The New Genshin Impact Live Wallpaper, A Night In Liyue ...">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/02/Genshin_Impact_Live_Wallpaper_Ganyu_Venti_Diluc_How_To_Install.jpg' alt='How To Get The New Genshin Impact Live Wallpaper, A Night In Liyue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/02/Genshin_Impact_Live_Wallpaper_Ganyu_Venti_Diluc_How_To_Install.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raiden Shogun & Kokomi - Genshin Impact Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/bkCzpogR8Lc/maxresdefault.jpg' alt='Raiden Shogun & Kokomi - Genshin Impact Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/bkCzpogR8Lc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

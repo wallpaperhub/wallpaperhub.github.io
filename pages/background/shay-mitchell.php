@@ -1,0 +1,129 @@
+<title>Shay Mitchell: Actress, Model, and Entrepreneur</title>
+                    <meta name="description" content="Discover the fascinating world of Shay Mitchell, the renowned actress from "Pretty Little Liars." Explore her journey as a model and entrepreneur, and get inspired by her travel brand and lifestyle. Stay updated with her latest adventures and projects in the entertainment industry!">
+                    <meta name="keywords" content="shay mitchell">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shay-mitchell">
+                            <span itemprop="name">shay mitchell</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shay Mitchell: Actress, Model, and Entrepreneur</h1>
+                <p>Shay Mitchell is a talented actress and model, best known for her role as Emily Fields in the hit series "Pretty Little Liars." With her stunning beauty and versatile acting skills, she has captivated audiences worldwide. Beyond acting, Mitchell is a successful entrepreneur and co-founder of a travel brand, inspiring fans with her adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg/1200px-Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg' alt='Shay Mitchell - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg/1200px-Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/578485_v9_bb.jpg' alt='Shay Mitchell | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/578485_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg/220px-Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg' alt='Shay Mitchell - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg/220px-Shay_Mitchell_Headshot_TheCollectiveYou_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell | The Heiresses Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/theheiresses/images/3/31/ShayMitchell.jpeg/revision/latest?cb=20170930154330' alt='Shay Mitchell | The Heiresses Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Heiresses Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/theheiresses/images/3/31/ShayMitchell.jpeg/revision/latest?cb=20170930154330' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How I Travel: Shay Mitchell's Life Changed in One Flight | Condé ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/6650b8750f06e7562a5bcfc1/16:9/w_3488,h_1962,c_limit/00-Lede-HIT-Shay-Mitchell.jpg' alt='How I Travel: Shay Mitchell's Life Changed in One Flight | Condé ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3488">
+                                <meta itemprop="height" content="1962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/6650b8750f06e7562a5bcfc1/16:9/w_3488,h_1962,c_limit/00-Lede-HIT-Shay-Mitchell.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell (@shaymitchell) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/shaymitchell/profile_pic.jpg' alt='Shay Mitchell (@shaymitchell) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/shaymitchell/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLL"'s Shay Mitchell Swears by This Lip Balm | Teen Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/5cfe968d7d7abad64b21284a/4:3/w_2000,h_1500,c_limit/00-promo-shay-mitchell.jpg' alt='PLL"'s Shay Mitchell Swears by This Lip Balm | Teen Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/5cfe968d7d7abad64b21284a/4:3/w_2000,h_1500,c_limit/00-promo-shay-mitchell.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAYBELLINE NEW YORK ANNOUNCES SHAY MITCHELL AS NEWEST GLOBAL ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/2490823/Maybelline_New_York_Shay_Mitchell.jpg' alt='MAYBELLINE NEW YORK ANNOUNCES SHAY MITCHELL AS NEWEST GLOBAL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/2490823/Maybelline_New_York_Shay_Mitchell.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell | Fanfic Channel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fanficchannel/images/1/11/ShayMitchell.jpg/revision/latest/scale-to-width-down/280?cb=20141227040348' alt='Shay Mitchell | Fanfic Channel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fanfic Channel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fanficchannel/images/1/11/ShayMitchell.jpg/revision/latest/scale-to-width-down/280?cb=20141227040348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shay Mitchell Is 'Learning' How To Talk To Her 1-Year-Old About Racism">
+                                <img itemprop="contentUrl url" src='https://imgix.bustle.com/scary-mommy/2021/05/17/Shay-Mitchell-Talking-to-1-Year-Old-Racism.jpg?w=320&h=168&fit=crop&crop=faces&dpr=2' alt='Shay Mitchell Is 'Learning' How To Talk To Her 1-Year-Old About Racism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scary Mommy" />
+                                </span>
+                                <a href='https://imgix.bustle.com/scary-mommy/2021/05/17/Shay-Mitchell-Talking-to-1-Year-Old-Racism.jpg?w=320&h=168&fit=crop&crop=faces&dpr=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

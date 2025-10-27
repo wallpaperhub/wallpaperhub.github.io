@@ -1,0 +1,129 @@
+<title>"Captivating Sun and Moon Backgrounds for Your Creative Projects"</title>
+                    <meta name="description" content="Discover stunning sun and moon backgrounds that inspire creativity and tranquility. Perfect for art, design, or relaxation, these unique visuals blend vibrant colors and soft glows to reflect nature's beauty. Enhance your projects with the perfect balance of light and darkness today!">
+                    <meta name="keywords" content="sun and moon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sun-and-moon-background">
+                            <span itemprop="name">sun and moon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Captivating Sun and Moon Backgrounds for Your Creative Projects"</h1>
+                <p>The sun and moon background creates a captivating visual that symbolizes the balance of light and darkness. With vibrant colors of sunrise and sunset merging into the soft glow of the moon, this backdrop can evoke feelings of tranquility and wonder. Perfect for art, design, or meditation, it reflects nature's beauty and harmony.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Images – Browse 1,206,348 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/78/48/45/360_F_378484565_YllE1VlArLgR2yxh98WjFdYDX4GvzGQO.jpg' alt='Sun Moon Images – Browse 1,206,348 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/78/48/45/360_F_378484565_YllE1VlArLgR2yxh98WjFdYDX4GvzGQO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Images – Browse 1,206,348 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/70/75/60/360_F_170756032_p0ozB5NzZdwCS8NhlpOnrsUdnQ7vTne8.jpg' alt='Sun Moon Images – Browse 1,206,348 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/70/75/60/360_F_170756032_p0ozB5NzZdwCS8NhlpOnrsUdnQ7vTne8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Background Stock Illustrations – 126,842 Sun Moon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mystical-drawing-sun-face-moon-crescent-moon-background-tarot-card-magic-boho-illustration-golden-sun-208609708.jpg' alt='Sun Moon Background Stock Illustrations – 126,842 Sun Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mystical-drawing-sun-face-moon-crescent-moon-background-tarot-card-magic-boho-illustration-golden-sun-208609708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun And Moon Purple Red Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sun-and-moon-purple-red-sky-z5tt9awlinekx0i4.jpg' alt='Sun And Moon Purple Red Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sun-and-moon-purple-red-sky-z5tt9awlinekx0i4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun and moon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/bb/2e/c9bb2ec9cb95cc8beea8fe2f796ad92a.jpg' alt='Sun and moon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/bb/2e/c9bb2ec9cb95cc8beea8fe2f796ad92a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="118,700+ Sun And Moon Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1320838258/photo/day-and-night-change-above-the-landscape-with-lake.jpg?s=612x612&w=0&k=20&c=612ITL2MJoh5kttZchAxdzh6TT7nTXT6lUzYXitmh_4=' alt='118,700+ Sun And Moon Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1320838258/photo/day-and-night-change-above-the-landscape-with-lake.jpg?s=612x612&w=0&k=20&c=612ITL2MJoh5kttZchAxdzh6TT7nTXT6lUzYXitmh_4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outline Sun Moon Vector Images (over 18,000)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/78/03/tarot-sun-and-moon-background-celestial-stars-vector-47897803.jpg' alt='Outline Sun Moon Vector Images (over 18,000)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/78/03/tarot-sun-and-moon-background-celestial-stars-vector-47897803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sun and moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/396/HD-wallpaper-sun-and-the-moon.jpg' alt='HD sun and moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/396/HD-wallpaper-sun-and-the-moon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Hd Sun And Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/awesome-hd-sun-and-moon-hok8gvx6bq0h9fmw.jpg' alt='Awesome Hd Sun And Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/awesome-hd-sun-and-moon-hok8gvx6bq0h9fmw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Moon Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-sun-moon-stars-pattern_23-2148910059.jpg' alt='Sun Moon Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-sun-moon-stars-pattern_23-2148910059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

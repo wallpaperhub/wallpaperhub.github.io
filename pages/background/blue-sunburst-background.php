@@ -1,0 +1,129 @@
+<title>"Vibrant Blue Sunburst Background for Stunning Designs"</title>
+                    <meta name="description" content="Discover the beauty of a blue sunburst background! This dynamic design element features radiant rays of soothing blue, perfect for elevating your creative projects, whether it's for websites, graphics, or branding. Enhance your visuals with this eye-catching backdrop that stands out in any medium.">
+                    <meta name="keywords" content="blue sunburst background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-sunburst-background">
+                            <span itemprop="name">blue sunburst background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Vibrant Blue Sunburst Background for Stunning Designs"</h1>
+                <p>A blue sunburst background radiates a vibrant and energetic aura, perfect for various design projects. Its captivating rays and soothing hues create a striking visual appeal, ideal for both digital and print use. Embrace creativity with this versatile backdrop to enhance your brand's identity or personal artwork.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunburst Background Images – Browse 258,583 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/22/47/73/360_F_222477339_pMgGGkQdnYY9tbr3J185VNzeuHHim7JR.jpg' alt='Sunburst Background Images – Browse 258,583 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/22/47/73/360_F_222477339_pMgGGkQdnYY9tbr3J185VNzeuHHim7JR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Background Free Vector by 123freevectors on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/267ec993-f4d0-4efc-8ead-7e13713d1ebb/dcqpucc-28e28019-1da1-4a96-9b5e-aed87d3676ed.jpg/v1/fill/w_800,h_800,q_75,strp/blue_sunburst_background_free_vector_by_123freevectors_dcqpucc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMjY3ZWM5OTMtZjRkMC00ZWZjLThlYWQtN2UxMzcxM2QxZWJiXC9kY3FwdWNjLTI4ZTI4MDE5LTFkYTEtNGE5Ni05YjVlLWFlZDg3ZDM2NzZlZC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2g2dBfM4qPZAuOoJTb21nqXl9cNZCw7R4GHdIlwe0Pg' alt='Blue Sunburst Background Free Vector by 123freevectors on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/267ec993-f4d0-4efc-8ead-7e13713d1ebb/dcqpucc-28e28019-1da1-4a96-9b5e-aed87d3676ed.jpg/v1/fill/w_800,h_800,q_75,strp/blue_sunburst_background_free_vector_by_123freevectors_dcqpucc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMjY3ZWM5OTMtZjRkMC00ZWZjLThlYWQtN2UxMzcxM2QxZWJiXC9kY3FwdWNjLTI4ZTI4MDE5LTFkYTEtNGE5Ni05YjVlLWFlZDg3ZDM2NzZlZC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2g2dBfM4qPZAuOoJTb21nqXl9cNZCw7R4GHdIlwe0Pg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And White Sunburst Images – Browse 21,019 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/12/61/31/360_F_312613101_vyXAk1orUILU7i4wya8XzK7qsyXQPLOB.jpg' alt='Blue And White Sunburst Images – Browse 21,019 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/12/61/31/360_F_312613101_vyXAk1orUILU7i4wya8XzK7qsyXQPLOB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/048/942/small/blue-abstract-comic-cartoon-sunlight-background-vector.jpg' alt='Blue Sunburst Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/048/942/small/blue-abstract-comic-cartoon-sunlight-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Background Abstract Texture Starburst Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1702418581/display_1500/stock-vector-blue-sunburst-background-abstract-texture-with-starburst-blue-sun-rays-background-bright-beams-1702418581.jpg' alt='Blue Sunburst Background Abstract Texture Starburst Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1702418581/display_1500/stock-vector-blue-sunburst-background-abstract-texture-with-starburst-blue-sun-rays-background-bright-beams-1702418581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pop-art-comic-zooming-lines-expression_84443-21843.jpg' alt='Blue Sunburst Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pop-art-comic-zooming-lines-expression_84443-21843.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210128/pngtree-halftone-effect-on-blue-sunburst-background-image_546283.jpg' alt='Blue Sunburst Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210128/pngtree-halftone-effect-on-blue-sunburst-background-image_546283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst | Free stock photos - Rgbstock - Free stock images ...">
+                                <img itemprop="contentUrl url" src='https://a.rgbimg.com/users/w/we/weirdvis/600/pI5nOxc.jpg' alt='Blue Sunburst | Free stock photos - Rgbstock - Free stock images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rgbstock" />
+                                </span>
+                                <a href='https://a.rgbimg.com/users/w/we/weirdvis/600/pI5nOxc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Photoshop Background PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/blue-sunburst-photoshop-background-png-5.png' alt='Blue Sunburst Photoshop Background PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/blue-sunburst-photoshop-background-png-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sunburst Background Wallpaper Illustration Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/white-blue-sunburst-background-twisted-wallpaper-vector-illustration-252402186.jpg' alt='Blue Sunburst Background Wallpaper Illustration Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/white-blue-sunburst-background-twisted-wallpaper-vector-illustration-252402186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

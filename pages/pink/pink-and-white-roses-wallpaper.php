@@ -1,0 +1,129 @@
+<title>Elegant Pink and White Roses Wallpaper for Every Space</title>
+                    <meta name="description" content="Discover the beauty of pink and white roses wallpaper to elevate your interior decor. Perfect for adding a floral touch to any room, this wallpaper brings elegance and serenity to your home. Ideal for bedrooms and living spaces, it’s a floral delight that enhances any style. Explore your options today!">
+                    <meta name="keywords" content="pink and white roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-white-roses-wallpaper">
+                            <span itemprop="name">pink and white roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink and White Roses Wallpaper for Every Space</h1>
+                <p>Transform your space with enchanting pink and white roses wallpaper, perfect for adding a touch of elegance to any room. This floral design brings a serene and romantic vibe, making it ideal for bedrooms, living areas, or hallways. Enjoy the beauty of nature indoors with this stunning wallpaper that complements any decor style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Pink Roses Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/d8/e5/35d8e5747944de282d7c6da28f6dd71f.jpg' alt='White and Pink Roses Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/d8/e5/35d8e5747944de282d7c6da28f6dd71f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & White Roses Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42655_WP.jpg' alt='Pink & White Roses Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42655_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper AS Creation Textured Vinyl White Rose Floral Pink Grey">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/blQAAOSwqwJhYFy0/s-l1200.jpg' alt='Flower Wallpaper AS Creation Textured Vinyl White Rose Floral Pink Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/blQAAOSwqwJhYFy0/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Beautiful pink and white roses. Floral festive ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/beautiful-pink-white-roses-floral-festive-natural-background_73152-6092.jpg' alt='Premium Photo | Beautiful pink and white roses. Floral festive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/beautiful-pink-white-roses-floral-festive-natural-background_73152-6092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and White Roses · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/14369791/pexels-photo-14369791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='Pink and White Roses · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/14369791/pexels-photo-14369791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and White Roses Bouquet · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3608751/pexels-photo-3608751.jpeg' alt='Pink and White Roses Bouquet · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3608751/pexels-photo-3608751.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Beautiful Roses Wallpaper Backgrounds For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/92/d6/00/92d6002de9f412101cc609c9e7297514.jpg' alt='45 Beautiful Roses Wallpaper Backgrounds For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/92/d6/00/92d6002de9f412101cc609c9e7297514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Bunch Of Pink And White Roses On A White Background, Flower ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-a-bunch-of-pink-and-white-roses-on-a-white-background-image_13352210.jpg' alt='A Bunch Of Pink And White Roses On A White Background, Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-a-bunch-of-pink-and-white-roses-on-a-white-background-image_13352210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink and White Rose on Pink Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-white-rose-pink-background_511235-9021.jpg' alt='Premium Photo | Pink and White Rose on Pink Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-white-rose-pink-background_511235-9021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD white rose wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/70/1016/HD-wallpaper-pastel-roses-flower-rose-blue-pink-white-thumbnail.jpg' alt='HD white rose wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/70/1016/HD-wallpaper-pastel-roses-flower-rose-blue-pink-white-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

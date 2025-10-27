@@ -1,0 +1,129 @@
+<title>Rustic Christmas Wallpaper for iPhone: Cozy Festive Designs</title>
+                    <meta name="description" content="Discover the perfect rustic Christmas wallpaper for your iPhone! Bring holiday cheer to your device with cozy, festive designs that capture the warmth and charm of the season. Explore unique backgrounds to make your screen merry and bright!">
+                    <meta name="keywords" content="rustic christmas wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/rustic-christmas-wallpaper-iphone">
+                            <span itemprop="name">rustic christmas wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rustic Christmas Wallpaper for iPhone: Cozy Festive Designs</h1>
+                <p>Transform your iPhone into a cozy, festive retreat with rustic Christmas wallpaper. Featuring warm wood textures, charming decorations, and snowy landscapes, these wallpapers encapsulate the heartwarming spirit of the holiday season. Embrace the nostalgic feel of Christmas with unique designs that bring warmth to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wall: Christmas tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/1e/7c/d21e7c69a5724730525bfc82102d9f64.jpg' alt='iPhone Wall: Christmas tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/1e/7c/d21e7c69a5724730525bfc82102d9f64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Christmas Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1576598469651-34abc82ee31a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cnVzdGljJTIwY2hyaXN0bWFzfGVufDB8fDB8fHww' alt='Rustic Christmas Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1576598469651-34abc82ee31a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cnVzdGljJTIwY2hyaXN0bWFzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpapers for iPhone - Best Christmas Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cd/46/16/cd4616e6539d12041507354fc20035da.jpg' alt='Christmas Wallpapers for iPhone - Best Christmas Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cd/46/16/cd4616e6539d12041507354fc20035da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Rustic Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10200144.jpg' alt='iPhone 12 Rustic Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10200144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Forest Phone Wallpapers for a Festive Touch">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' alt='Christmas Forest Phone Wallpapers for a Festive Touch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7434286447969996063&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Christmas Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/15/79/9d/15799d9008bd799fd209c12d969686e7.jpg' alt='Rustic Christmas Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/15/79/9d/15799d9008bd799fd209c12d969686e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Christmas Iphone Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-vertical-christmas-background-with-candies_1361-1816.jpg' alt='Rustic Christmas Iphone Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-vertical-christmas-background-with-candies_1361-1816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Greetings Printed Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://dennymfg.com/cdn/shop/products/Rustic-Red-Barn-Snowy-Pine-Photography-Backdrop-Main-CP-8057_400x.jpg?v=1727372973' alt='Christmas Greetings Printed Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='https://dennymfg.com/cdn/shop/products/Rustic-Red-Barn-Snowy-Pine-Photography-Backdrop-Main-CP-8057_400x.jpg?v=1727372973' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Christmas Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-christmasi-phone-wallpaper-zteao5dd6oor50jv.jpg' alt='100+] Vintage Christmas Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-christmasi-phone-wallpaper-zteao5dd6oor50jv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Christmas Iphone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cinnamon-sticks-cranberry-table-top-view_141793-67.jpg' alt='Rustic Christmas Iphone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cinnamon-sticks-cranberry-table-top-view_141793-67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

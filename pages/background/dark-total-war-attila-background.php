@@ -1,0 +1,129 @@
+<title>Unraveling Dark Total War: Attila's Rich Historical Context</title>
+                    <meta name="description" content="Explore the dark and captivating background of Total War: Attila. Discover the late Roman Empire's struggles, barbarian invasions, and the intense conflicts that shape this strategic masterpiece. Dive into a world fraught with danger and political intrigue, all within this immersive gaming experience.">
+                    <meta name="keywords" content="dark total war attila background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-total-war-attila-background">
+                            <span itemprop="name">dark total war attila background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling Dark Total War: Attila's Rich Historical Context</h1>
+                <p>Dark Total War: Attila delves into the tumultuous era of the late Roman Empire, where barbarian hordes threaten the crumbling borders. Players navigate through a rich historical backdrop filled with political intrigue, cultural clashes, and brutal warfare, embodying leaders who impact the fate of civilizations amid chaos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attila Total War Red Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/attila-total-war-red-dark-o1nal9egke4sc8bv.jpg' alt='Attila Total War Red Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/attila-total-war-red-dark-o1nal9egke4sc8bv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Total War Attila Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/total-war-attila-6vvk101g4jagyunk.jpg' alt='100+] Total War Attila Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/total-war-attila-6vvk101g4jagyunk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Attila Total War Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/attila-total-war-sz0dvzfo49dc7alv.jpg' alt='100+] Attila Total War Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/attila-total-war-sz0dvzfo49dc7alv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Red iPhone XS Max Total War Attila Cavalry ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-total-war-attila-background-1242-x-2688-76w7cmuiuut1y32i.jpg' alt='Download Dark Red iPhone XS Max Total War Attila Cavalry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-total-war-attila-background-1242-x-2688-76w7cmuiuut1y32i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total War: Attila HD Wallpaper - Epic Battles Unleashed">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/557/thumb-1920-557144.jpg' alt='Total War: Attila HD Wallpaper - Epic Battles Unleashed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/557/thumb-1920-557144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Pixel 3 Total War Attila Barbarian Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-total-war-attila-background-1080-x-2160-9ohiv2tdmapbyeym.jpg' alt='Download Dark Pixel 3 Total War Attila Barbarian Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-total-war-attila-background-1080-x-2160-9ohiv2tdmapbyeym.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Battle Scene From Attila Total War Game Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/epic-battle-scene-from-attila-total-war-game-f620qojshixqmn4d.jpg' alt='Epic Battle Scene From Attila Total War Game Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/epic-battle-scene-from-attila-total-war-game-f620qojshixqmn4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Best Total War Attila Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-total-war-attila-background-1920-x-1080-1ukt6k3e1durhdpm.jpg' alt='100+] Best Total War Attila Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-total-war-attila-background-1920-x-1080-1ukt6k3e1durhdpm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attila Total War Red Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/attila-total-war-wolf-headdress-tlds2y7div05n31e.webp' alt='Attila Total War Red Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/attila-total-war-wolf-headdress-tlds2y7div05n31e.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Total War: Attila devs talk units, Hun politics and the apocalypse ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/dfcde032af4d24ac0b31676acdea2cb3.jpg' alt='Total War: Attila devs talk units, Hun politics and the apocalypse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1505">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/dfcde032af4d24ac0b31676acdea2cb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Celebrate 420: Events, Culture & More!"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="420 flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/420-flyer">
+                            <span itemprop="name">420 flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Celebrate 420: Events, Culture & More!"</h1>
+                <p>The 420 flyer is a vibrant piece of art that celebrates cannabis culture, particularly on April 20th. It typically features eye-catching graphics, important event details, and a call to action for cannabis enthusiasts. Whether promoting a festival, a gathering, or an informational session, a well-designed flyer captures attention and generates buzz in the community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rollin 420 FREE Flyer Template – Dope Downloads">
+                                <img itemprop="contentUrl url" src='http://www.dopedownloads.com/wp-content/uploads/edd/2022/04/rollin-420-Flyer-Mockup.jpg' alt='Rollin 420 FREE Flyer Template – Dope Downloads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dope Downloads" />
+                                </span>
+                                <a href='http://www.dopedownloads.com/wp-content/uploads/edd/2022/04/rollin-420-Flyer-Mockup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Original Flier That Sparked the 420 Phenomenon | Freedom Leaf">
+                                <img itemprop="contentUrl url" src='https://www.freedomleaf.com/wp-content/uploads/2016/04/420originfeatured.jpg' alt='The Original Flier That Sparked the 420 Phenomenon | Freedom Leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freedom Leaf" />
+                                </span>
+                                <a href='https://www.freedomleaf.com/wp-content/uploads/2016/04/420originfeatured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="791+ Free Templates for '420' | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/420-day-weed-party-post-template-design-ba5ff24b3df951ee0a21f1d9fe6b2c40.jpg?ts=1698369559' alt='791+ Free Templates for '420' | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="199">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/420-day-weed-party-post-template-design-ba5ff24b3df951ee0a21f1d9fe6b2c40.jpg?ts=1698369559' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cannabis music 420 flyer template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cannabis-music-420-flyer-template-design-84c8cb6bf2f2e628229d0e6ee1700d76_screen.jpg?ts=1698367650' alt='cannabis music 420 flyer template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cannabis-music-420-flyer-template-design-84c8cb6bf2f2e628229d0e6ee1700d76_screen.jpg?ts=1698367650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marijuana Cannabis 420 Flyer Poster Template Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/513134203/display_1500/stock-vector-marijuana-cannabis-flyer-poster-template-layout-vector-illustration-513134203.jpg' alt='Marijuana Cannabis 420 Flyer Poster Template Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/513134203/display_1500/stock-vector-marijuana-cannabis-flyer-poster-template-layout-vector-illustration-513134203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420 Party Flyer 5x5 - RGB & CMYK - Adobe Photoshop PSD Editable Flyer  Template">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22046922/r/il/cc7bff/5963183593/il_fullxfull.5963183593_drtb.jpg' alt='420 Party Flyer 5x5 - RGB & CMYK - Adobe Photoshop PSD Editable Flyer  Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22046922/r/il/cc7bff/5963183593/il_fullxfull.5963183593_drtb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="580+ Free Templates for '420 poster' | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cannabis-party-flyer-design-template-b0da4a671a5827345e9f986cd0d3f9e3.jpg?ts=1698369338' alt='580+ Free Templates for '420 poster' | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="199">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cannabis-party-flyer-design-template-b0da4a671a5827345e9f986cd0d3f9e3.jpg?ts=1698369338' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cannabis Party Flyer, Cannabis Birthday Party Flyer, Club Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39920227/r/il/daaeb4/4669211767/il_570xN.4669211767_ff4r.jpg' alt='Cannabis Party Flyer, Cannabis Birthday Party Flyer, Club Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39920227/r/il/daaeb4/4669211767/il_570xN.4669211767_ff4r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4:20 (420) Time - Template Boom">
+                                <img itemprop="contentUrl url" src='https://templateboom.com/wp-content/uploads/2021/04/2120420T1_420-Time-Flyer-Template-scaled.jpg' alt='4:20 (420) Time - Template Boom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template Boom" />
+                                </span>
+                                <a href='https://templateboom.com/wp-content/uploads/2021/04/2120420T1_420-Time-Flyer-Template-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAPPY 420 Marijuana Day flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/happy-420-marijuana-day-flyer-design-template-a6e5075d5c299bd571b9c7940915ebb0_screen.jpg?ts=1650320393' alt='HAPPY 420 Marijuana Day flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/happy-420-marijuana-day-flyer-design-template-a6e5075d5c299bd571b9c7940915ebb0_screen.jpg?ts=1650320393' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

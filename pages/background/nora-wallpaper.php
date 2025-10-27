@@ -1,0 +1,129 @@
+<title>Nora Wallpaper: Elevate Your Space with Style</title>
+                    <meta name="description" content="Discover the beauty of Nora wallpaper for your home! Our high-quality designs transform your walls into stunning statement pieces. Explore various patterns and styles perfect for any décor. Upgrade your space effortlessly with Nora wallpaper today!">
+                    <meta name="keywords" content="nora wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nora-wallpaper">
+                            <span itemprop="name">nora wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nora Wallpaper: Elevate Your Space with Style</h1>
+                <p>Nora wallpaper adds a touch of elegance and sophistication to any space. With its unique designs and high-quality materials, it transforms walls into stunning focal points. Whether you’re looking for floral patterns, abstract art, or minimalist styles, Nora wallpaper offers endless possibilities to elevate your interior décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nora Noragami HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/662/662301.jpg' alt='Nora Noragami HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/662/662301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nora name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/241/514/HD-wallpaper-happy-birtay-nora-pink-neon-lights-nora-name-creative-nora-happy-birtay-nora-birtay-popular-american-female-names-with-nora-name-nora.jpg' alt='HD nora name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/241/514/HD-wallpaper-happy-birtay-nora-pink-neon-lights-nora-name-creative-nora-happy-birtay-nora-birtay-popular-american-female-names-with-nora-name-nora.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Nora wallpapers ideas | nora, girl names, baby girl names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/9c/ac/bc/9cacbcb468c571945af8254685d49358.jpg' alt='7 Nora wallpapers ideas | nora, girl names, baby girl names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/9c/ac/bc/9cacbcb468c571945af8254685d49358.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nora Wallpaper | Hygge & West">
+                                <img itemprop="contentUrl url" src='https://www.hyggeandwest.com/cdn/shop/files/HW_JS013_Nora_Taupe_Room_web_1800x1800.jpg?v=1738690618' alt='Nora Wallpaper | Hygge & West'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hygge & West" />
+                                </span>
+                                <a href='https://www.hyggeandwest.com/cdn/shop/files/HW_JS013_Nora_Taupe_Room_web_1800x1800.jpg?v=1738690618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nora name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/781/518/HD-wallpaper-nora-with-names-female-names-nora-name-purple-neon-lights-horizontal-text-with-nora-name.jpg' alt='HD nora name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/781/518/HD-wallpaper-nora-with-names-female-names-nora-name-purple-neon-lights-horizontal-text-with-nora-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/NoraWallpaperAbstractPink.png?v=1714498197&width=600' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/NoraWallpaperAbstractPink.png?v=1714498197&width=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nora Fatehi Wallpapers | nora-fatehi-4 - Bollywood Hungama">
+                                <img itemprop="contentUrl url" src='https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Nora-Fatehi.jpg' alt='Nora Fatehi Wallpapers | nora-fatehi-4 - Bollywood Hungama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bollywood Hungama" />
+                                </span>
+                                <a href='https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Nora-Fatehi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_d5886d48-6543-4a41-9366-2c58d8f67d15.jpg?v=1698947447&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_d5886d48-6543-4a41-9366-2c58d8f67d15.jpg?v=1698947447&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Nora wallpapers ideas | nora, girl names, baby girl names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0c/36/01/0c360158286c53f9fa5aec3792327e39.jpg' alt='7 Nora wallpapers ideas | nora, girl names, baby girl names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0c/36/01/0c360158286c53f9fa5aec3792327e39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nora from Noragami - HD Anime Wallpaper with Red Eyes and Tattoos ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/678/thumb-1920-678561.jpg' alt='Nora from Noragami - HD Anime Wallpaper with Red Eyes and Tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/678/thumb-1920-678561.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

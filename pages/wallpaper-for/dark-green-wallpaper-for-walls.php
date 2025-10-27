@@ -1,0 +1,129 @@
+<title>Transform Your Space with Dark Green Wallpaper</title>
+                    <meta name="description" content="Add elegance to your home with dark green wallpaper. Ideal for a soothing ambiance, it enhances any room's style. Discover the perfect shades and textures to create a cozy atmosphere! Explore our collection today and elevate your interior design instantly.">
+                    <meta name="keywords" content="dark green wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/dark-green-wallpaper-for-walls">
+                            <span itemprop="name">dark green wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Dark Green Wallpaper</h1>
+                <p>Dark green wallpaper brings a touch of nature indoors, offering a rich and calming atmosphere for any room. Perfect for accent walls or full coverage, it pairs well with various decor styles, from modern minimalism to rustic charm. Choose dark green wallpaper to create a serene and sophisticated space that invites relaxation and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Wallpaper With Leaves, Field Flowers, Plants, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22799922/r/il/4a4f56/2401575792/il_fullxfull.2401575792_d0kd.jpg' alt='Dark Green Wallpaper With Leaves, Field Flowers, Plants, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22799922/r/il/4a4f56/2401575792/il_fullxfull.2401575792_d0kd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JSEVEM 31"×157" Extra Wide Thick Darker Black Green Matte Wallpaper Peel  and Stick Solid Dark Green Bedroom Contact Paper Vinyl Wrap Waterproof Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719t4Lp1N5L._AC_UF894,1000_QL80_.jpg' alt='JSEVEM 31"×157" Extra Wide Thick Darker Black Green Matte Wallpaper Peel  and Stick Solid Dark Green Bedroom Contact Paper Vinyl Wrap Waterproof Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719t4Lp1N5L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald green malachite removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Emerald-color-dark-green-agate-malachite-design-removable-wallpaper.jpg?v=1589295691' alt='Emerald green malachite removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Emerald-color-dark-green-agate-malachite-design-removable-wallpaper.jpg?v=1589295691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D432">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5269201661_8s1k_6645935a-bc24-41cf-abe2-e7a038b86a84.jpg?v=1725046511&width=1946' alt='Dark Green Wallpaper / Solid Color / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D432'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5269201661_8s1k_6645935a-bc24-41cf-abe2-e7a038b86a84.jpg?v=1725046511&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' alt='Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2759">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' alt='Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Swirl, Dark Green - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1688472566/articles/R19869_interior1.jpg' alt='Gold Swirl, Dark Green - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1688472566/articles/R19869_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark green marble wallpaper with noble gloss effect - green, metallic">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/74/1c/a8/1738740115/a6a380706f0a8e98916f499ecf140d0b.jpg' alt='Dark green marble wallpaper with noble gloss effect - green, metallic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/74/1c/a8/1738740115/a6a380706f0a8e98916f499ecf140d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Wallpaper With Leaves Self Adhesive Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/12e865/3611529132/il_fullxfull.3611529132_hsz8.jpg' alt='Dark Green Wallpaper With Leaves Self Adhesive Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/12e865/3611529132/il_fullxfull.3611529132_hsz8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimoon 78.7"x16.1" Delicate Wallpaper Green Peel and Stick Removable  Contact Paper Thicken Waterproof Retro Dark Green Self Adhesive Floral  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/812wSGZQV8L.jpg' alt='Dimoon 78.7"x16.1" Delicate Wallpaper Green Peel and Stick Removable  Contact Paper Thicken Waterproof Retro Dark Green Self Adhesive Floral  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/812wSGZQV8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

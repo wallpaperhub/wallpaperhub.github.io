@@ -1,0 +1,129 @@
+<title>Stunning Yoruichi Phone Wallpapers for Anime Fans</title>
+                    <meta name="description" content="Discover captivating Yoruichi wallpapers for your phone! Browse vibrant and dynamic designs that showcase your love for anime and Bleach. Perfect for personalizing your device with unique styles that resonate with your passion. Upgrade your phone's look today!">
+                    <meta name="keywords" content="yoruichi wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/yoruichi-wallpaper-phone">
+                            <span itemprop="name">yoruichi wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Yoruichi Phone Wallpapers for Anime Fans</h1>
+                <p>Elevate your phone's aesthetic with stunning Yoruichi wallpapers! Featuring vibrant colors and dynamic designs, these wallpapers capture the spirit and strength of this beloved character. Perfect for fans of anime and Bleach, these backgrounds will personalize your device while showcasing your unique style and passion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoruichi, bleach, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/77/724/HD-wallpaper-yoruichi-bleach.jpg' alt='Yoruichi, bleach, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/77/724/HD-wallpaper-yoruichi-bleach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLEACH - Kubo Tite - Mobile Wallpaper #1398387 - Zerochan Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/e7/e9/bce7e918ab878cd7b3b26f4fa58fe5c4.jpg' alt='BLEACH - Kubo Tite - Mobile Wallpaper #1398387 - Zerochan Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="1793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/e7/e9/bce7e918ab878cd7b3b26f4fa58fe5c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoruichi wallpaper by Bulehya - Download on ZEDGE™ | 0f2a">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=u9RonXePb97Id9BrTIh8QZtNn-cWoFfIaZwqaP9wS9scjzh_P-EYLEnWKg9rMwyaemTYLch0fwKCZ9ejn_7ZH6qVHU27hofAM1-8DYHMp7UQrX7LVq7WmkGXU7mmE4p17w4dUSjKUSlsT_vS0XuRY1Aixa4VwGQ9d1V_Vq0yeL06vEFVQ-1ZufbYcNzXrJo2p-HFuv1AFdTAV04vJHueK8NQt2RZ2Om2Q__wpHuj9gTIDPl1gh_7hVjIuFc' alt='Yoruichi wallpaper by Bulehya - Download on ZEDGE™ | 0f2a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=u9RonXePb97Id9BrTIh8QZtNn-cWoFfIaZwqaP9wS9scjzh_P-EYLEnWKg9rMwyaemTYLch0fwKCZ9ejn_7ZH6qVHU27hofAM1-8DYHMp7UQrX7LVq7WmkGXU7mmE4p17w4dUSjKUSlsT_vS0XuRY1Aixa4VwGQ9d1V_Vq0yeL06vEFVQ-1ZufbYcNzXrJo2p-HFuv1AFdTAV04vJHueK8NQt2RZ2Om2Q__wpHuj9gTIDPl1gh_7hVjIuFc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yoruichi shihouin wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/3d/2b/063d2b1dbbc7bb68da7b4be94cd2d29e.jpg' alt='yoruichi shihouin wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/3d/2b/063d2b1dbbc7bb68da7b4be94cd2d29e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoruichi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/e3/c4/58e3c4b18ad017d35a3caccaafe33781.jpg' alt='Yoruichi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/e3/c4/58e3c4b18ad017d35a3caccaafe33781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLEACH, Yoruichi wallpaper by Dr_Redgrave - Download on ZEDGE™ | bf29">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=AsP1iuVXr11Qi4v40o1zUqHKNcNfIMUkVx5s3riIuhtBWF0r3Q34i6OHY8iaO2HmtLZI3jrgqbJZZQkmTFs6VPLyU3Ej-ma2hvJbZkp7wx2fUMjtp4T2EASYEXbYorsb1Tn7CmKGAhwicc63RyIw54Z3aV76KNZX31E-8sKd5ev2LpsntiIDt9VgO3J7aLIro2zIbS0Y6AQ396rMz-8xVrlCBdx2Dbrz0lzvKBO5Kc8MVrwnJm-cu5p-Ebc' alt='BLEACH, Yoruichi wallpaper by Dr_Redgrave - Download on ZEDGE™ | bf29'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=AsP1iuVXr11Qi4v40o1zUqHKNcNfIMUkVx5s3riIuhtBWF0r3Q34i6OHY8iaO2HmtLZI3jrgqbJZZQkmTFs6VPLyU3Ej-ma2hvJbZkp7wx2fUMjtp4T2EASYEXbYorsb1Tn7CmKGAhwicc63RyIw54Z3aV76KNZX31E-8sKd5ev2LpsntiIDt9VgO3J7aLIro2zIbS0Y6AQ396rMz-8xVrlCBdx2Dbrz0lzvKBO5Kc8MVrwnJm-cu5p-Ebc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoruichi Shihouin At Night Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/serious-yoruichi-shihouin-portrait-3w8rt4lsc440lj9m.webp' alt='Yoruichi Shihouin At Night Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/serious-yoruichi-shihouin-portrait-3w8rt4lsc440lj9m.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shihouin Yoruichi - BLEACH - Mobile Wallpaper by Rexx002 #3596503 ...">
+                                <img itemprop="contentUrl url" src='https://s1.zerochan.net/Shihouin.Yoruichi.600.3596503.jpg' alt='Shihouin Yoruichi - BLEACH - Mobile Wallpaper by Rexx002 #3596503 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://s1.zerochan.net/Shihouin.Yoruichi.600.3596503.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bleu on X: "Fan art | bleach - yoruichi shihōin (art by me ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FQ3-zooVUAU1q0W.jpg' alt='Bleu on X: "Fan art | bleach - yoruichi shihōin (art by me ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FQ3-zooVUAU1q0W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Yorichi wallpaper : r/bleach">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ygxo933exjh31.png' alt='Made a Yorichi wallpaper : r/bleach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ygxo933exjh31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

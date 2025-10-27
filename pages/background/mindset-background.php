@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="mindset background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mindset-background">
+                            <span itemprop="name">mindset background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mindset Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/624/424/small_2x/hand-brain-virtual-screen-mindset-icon-use-in-educational-materials-motivational-posters-or-as-a-visual-representation-concept-copy-space-background-photo.jpg' alt='Mindset Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="777">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/624/424/small_2x/hand-brain-virtual-screen-mindset-icon-use-in-educational-materials-motivational-posters-or-as-a-visual-representation-concept-copy-space-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,604,600+ Mindset Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1299341257/vector/futuristic-growth-mindset-vs-fixed-mindset-concept-with-low-poly-human-heads-with-plant-and.jpg?s=612x612&w=0&k=20&c=ucRIvACAEwYNL0hu7dCT6jD3vDpv9-yeGPxos_w2Rjs=' alt='2,604,600+ Mindset Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1299341257/vector/futuristic-growth-mindset-vs-fixed-mindset-concept-with-low-poly-human-heads-with-plant-and.jpg?s=612x612&w=0&k=20&c=ucRIvACAEwYNL0hu7dCT6jD3vDpv9-yeGPxos_w2Rjs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,100+ Growth Mindset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1185654371/vector/tree-growing-out-of-human-brain-silhouette-illustration-about-growth-mindset-and-good.jpg?s=612x612&w=0&k=20&c=7o4cB0rQTB7UXB6pzMnYpMeXzyOWUG4g2drR6s-2vyw=' alt='31,100+ Growth Mindset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1185654371/vector/tree-growing-out-of-human-brain-silhouette-illustration-about-growth-mindset-and-good.jpg?s=612x612&w=0&k=20&c=7o4cB0rQTB7UXB6pzMnYpMeXzyOWUG4g2drR6s-2vyw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genius Mindset Profile Male Portrait Illuminated Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/genius-mindset-profile-male-portrait-260nw-1771267406.jpg' alt='Genius Mindset Profile Male Portrait Illuminated Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/genius-mindset-profile-male-portrait-260nw-1771267406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mindset in splash's background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2CA4BWY/mindset-in-splashs-background-2CA4BWY.jpg' alt='Mindset in splash's background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2CA4BWY/mindset-in-splashs-background-2CA4BWY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positive Mindset Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/inspirational-words-collage_23-2150104539.jpg' alt='Positive Mindset Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/inspirational-words-collage_23-2150104539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,100+ Growth Mindset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1270600900/vector/businessman-holding-light-bulb-for-put-think-growth-mindset-different-fixed-mindset-concept.jpg?s=612x612&w=0&k=20&c=Hm0rxftEBGsdsx8uXfxGuWeBNUkz-aIp-2KzH3cYs_I=' alt='31,100+ Growth Mindset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1270600900/vector/businessman-holding-light-bulb-for-put-think-growth-mindset-different-fixed-mindset-concept.jpg?s=612x612&w=0&k=20&c=Hm0rxftEBGsdsx8uXfxGuWeBNUkz-aIp-2KzH3cYs_I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth Mindset: Develop the Confidence to Succeed - The Big Bang ...">
+                                <img itemprop="contentUrl url" src='https://bigbangpartnership.co.uk/wp-content/uploads/2023/04/Lightbulb-growth-mindset-1024x576.webp' alt='Growth Mindset: Develop the Confidence to Succeed - The Big Bang ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Big Bang Partnership" />
+                                </span>
+                                <a href='https://bigbangpartnership.co.uk/wp-content/uploads/2023/04/Lightbulb-growth-mindset-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Change your mindset word cloud template Business ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/change-your-mindset-word-cloud-template-business-concept-vector-background_616200-1640.jpg' alt='Premium Vector | Change your mindset word cloud template Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/change-your-mindset-word-cloud-template-business-concept-vector-background_616200-1640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Growth mindset: the key to successful teaching?">
+                                <img itemprop="contentUrl url" src='https://blog.irisconnect.com/hubfs/Stock%20images/Young%20man%20holding%20opened%20book%20with%20glass%20glowing%20light%20bulbs%20flying%20out-1.jpeg' alt='Growth mindset: the key to successful teaching?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blog - IRIS Connect" />
+                                </span>
+                                <a href='https://blog.irisconnect.com/hubfs/Stock%20images/Young%20man%20holding%20opened%20book%20with%20glass%20glowing%20light%20bulbs%20flying%20out-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

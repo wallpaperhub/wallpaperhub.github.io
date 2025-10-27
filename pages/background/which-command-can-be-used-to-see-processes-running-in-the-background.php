@@ -1,0 +1,129 @@
+<title>View Background Processes in Unix: Essential Commands</title>
+                    <meta name="description" content="Discover how to effectively view background processes in Unix-based systems using the `ps`, `top`, and `htop` commands. Get insights into managing and monitoring your system's performance with these essential command-line tools. Perfect for UNIX users seeking efficiency!">
+                    <meta name="keywords" content="which command can be used to see processes running in the background?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-command-can-be-used-to-see-processes-running-in-the-background">
+                            <span itemprop="name">which command can be used to see processes running in the background?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>View Background Processes in Unix: Essential Commands</h1>
+                <p>To view processes running in the background, you can use the command `ps` in Unix-based systems. For a more detailed listing, `ps aux` provides comprehensive information on all processes, including those in the background. Alternatively, `top` or `htop` can be used for a dynamic, real-time view of system processes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Run Linux Commands in Background and Detach From Terminal">
+                                <img itemprop="contentUrl url" src='https://www.tecmint.com/wp-content/uploads/2016/10/Run-Linux-Command-Background-Detach-Process.png' alt='Run Linux Commands in Background and Detach From Terminal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tecmint" />
+                                </span>
+                                <a href='https://www.tecmint.com/wp-content/uploads/2016/10/Run-Linux-Command-Background-Detach-Process.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run Linux Commands in the Background">
+                                <img itemprop="contentUrl url" src='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Linux-command-background-redirect-output0A.png' alt='How to Run Linux Commands in the Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1011">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakeUseOf" />
+                                </span>
+                                <a href='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Linux-command-background-redirect-output0A.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find out what processes are running in the background on Linux ...">
+                                <img itemprop="contentUrl url" src='https://www.cyberciti.biz/media/new/faq/2011/05/Linux-background-processes-command.png' alt='Find out what processes are running in the background on Linux ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nixCraft" />
+                                </span>
+                                <a href='https://www.cyberciti.biz/media/new/faq/2011/05/Linux-background-processes-command.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ways to Check All Running Apps & Processes on Windows">
+                                <img itemprop="contentUrl url" src='https://www.wisecleaner.com/static/upload/article/20231219/39c68fb86de2bb916ab5e7f59e2c25d4.png' alt='3 Ways to Check All Running Apps & Processes on Windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiseCleaner" />
+                                </span>
+                                <a href='https://www.wisecleaner.com/static/upload/article/20231219/39c68fb86de2bb916ab5e7f59e2c25d4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Run Linux Commands in Background and Detach From Terminal">
+                                <img itemprop="contentUrl url" src='https://www.tecmint.com/wp-content/uploads/2016/10/Run-Linux-Command-in-Background.png' alt='Run Linux Commands in Background and Detach From Terminal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="579">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tecmint" />
+                                </span>
+                                <a href='https://www.tecmint.com/wp-content/uploads/2016/10/Run-Linux-Command-in-Background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Process ID of Linux Foreground and Background Processes ...">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20221023144420/gfgPID2.png' alt='Get Process ID of Linux Foreground and Background Processes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20221023144420/gfgPID2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find out what processes are running in the background on Linux ...">
+                                <img itemprop="contentUrl url" src='https://www.cyberciti.biz/media/new/faq/2011/05/Find-out-what-processes-are-running-in-the-background-on-Linux.png' alt='Find out what processes are running in the background on Linux ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nixCraft" />
+                                </span>
+                                <a href='https://www.cyberciti.biz/media/new/faq/2011/05/Find-out-what-processes-are-running-in-the-background-on-Linux.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to run command in background on Linux - LinuxConfig">
+                                <img itemprop="contentUrl url" src='https://linuxconfig.org/wp-content/uploads/2021/04/01-how-to-run-command-in-background-on-linux.png' alt='How to run command in background on Linux - LinuxConfig'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinuxConfig" />
+                                </span>
+                                <a href='https://linuxconfig.org/wp-content/uploads/2021/04/01-how-to-run-command-in-background-on-linux.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run and Control Background Processes on Linux">
+                                <img itemprop="contentUrl url" src='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/11-4.png' alt='How to Run and Control Background Processes on Linux'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How-To Geek" />
+                                </span>
+                                <a href='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/11-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Processes; foreground and background, ps, top, kill, screen, nohup ...">
+                                <img itemprop="contentUrl url" src='https://teaching.healthtech.dtu.dk/unix/images/2/29/Ps_ef_command.png' alt='Processes; foreground and background, ps, top, kill, screen, nohup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DTU Health Tech Bioinformatics Courses" />
+                                </span>
+                                <a href='https://teaching.healthtech.dtu.dk/unix/images/2/29/Ps_ef_command.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

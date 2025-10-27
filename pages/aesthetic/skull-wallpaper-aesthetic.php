@@ -1,0 +1,129 @@
+<title>Skull Wallpaper Aesthetic: Bold & Edgy Decor</title>
+                    <meta name="description" content="Add a touch of dark elegance to your space with our skull wallpaper aesthetic. Explore a variety of stylish skull designs that blend modern artistry with gothic flair, perfect for creating a unique atmosphere in any room. Transform your walls today and embrace your individual style effortlessly!">
+                    <meta name="keywords" content="skull wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/skull-wallpaper-aesthetic">
+                            <span itemprop="name">skull wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skull Wallpaper Aesthetic: Bold & Edgy Decor</h1>
+                <p>Transport your space into an edgy yet stylish realm with skull wallpaper aesthetic. This unique decor choice combines gothic elements with modern designs, making a bold statement in any room. Embrace dark elegance with intricate patterns or minimalist skull designs that enhance your vibe and showcase your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Black Aesthetic Skull Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-and-black-aesthetic-skull-rrwf3gp537ud45se.jpg' alt='Red And Black Aesthetic Skull Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-and-black-aesthetic-skull-rrwf3gp537ud45se.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Skull Aesthetic ideas in 2025 | skull, skull art, skeleton art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/6d/8c/b9/6d8cb9f2a213b41c752f188853356fbd.jpg' alt='130 Skull Aesthetic ideas in 2025 | skull, skull art, skeleton art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/6d/8c/b9/6d8cb9f2a213b41c752f188853356fbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Skull Wallpapers - Top Free Aesthetic Skull Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/fe/a0/c0fea0667d08d57ff7e1db243bac5803.jpg' alt='Aesthetic Skull Wallpapers - Top Free Aesthetic Skull Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/fe/a0/c0fea0667d08d57ff7e1db243bac5803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Skull Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-and-purple-aesthetic-skull-cn9jugobvbbk0jan.jpg' alt='Black And Purple Aesthetic Skull Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-and-purple-aesthetic-skull-cn9jugobvbbk0jan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjM0LWEtZWxlbWVudHNncm91cC1qai0xMy0wMDJiLmpwZw.jpg' alt='Skull Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjM0LWEtZWxlbWVudHNncm91cC1qai0xMy0wMDJiLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Aesthetic Devil Skull Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/emo-aesthetic-devil-skull-r573bg4qqh7q9uh2.jpg' alt='Emo Aesthetic Devil Skull Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/emo-aesthetic-devil-skull-r573bg4qqh7q9uh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Red Aesthetic Skull Digital Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-red-aesthetic-47wkw7y6yqabb6lz.jpg' alt='Download Dark Red Aesthetic Skull Digital Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-red-aesthetic-47wkw7y6yqabb6lz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Skull Aesthetic Glitch Black">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1f/c1/9d/1fc19df992f3a10f1294a6da704edbc5.jpg' alt='Dark Skull Aesthetic Glitch Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1107">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1f/c1/9d/1fc19df992f3a10f1294a6da704edbc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Vintage skull pattern vector black mobile phone ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-skull-pattern-vector-black-mobile-phone-wallpaper_53876-175388.jpg' alt='Free Vector | Vintage skull pattern vector black mobile phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-skull-pattern-vector-black-mobile-phone-wallpaper_53876-175388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Skull Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15301479/p/f/l/JLRprSCCDzawK6XesCPlfsezB3F5WhCbNSqV8V1yLFDqeMxmHg7-sirGa_WG/Neon%20Zombies%20Skull.jpg' alt='Neon Skull Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15301479/p/f/l/JLRprSCCDzawK6XesCPlfsezB3F5WhCbNSqV8V1yLFDqeMxmHg7-sirGa_WG/Neon%20Zombies%20Skull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

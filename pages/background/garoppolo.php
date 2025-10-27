@@ -1,0 +1,129 @@
+<title>Garoppolo: The Rise and Impact of a NFL Quarterback</title>
+                    <meta name="description" content="Explore the journey of NFL quarterback Jimmy Garoppolo, from his beginnings with the Patriots to leading the 49ers to Super Bowl glory. Discover his playing style, key moments, and contributions to the game that have cemented his legacy in football history.">
+                    <meta name="keywords" content="garoppolo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/garoppolo">
+                            <span itemprop="name">garoppolo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Garoppolo: The Rise and Impact of a NFL Quarterback</h1>
+                <p>Jimmy Garoppolo, the talented quarterback, rose to fame with the New England Patriots and later became the face of the San Francisco 49ers. Known for his quick release and football IQ, he led the 49ers to the Super Bowl LIV. His journey is defined by resilience, impactful performances, and strategic plays on the field.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo - Los Angeles Rams Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16760.png' alt='Jimmy Garoppolo - Los Angeles Rams Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16760.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raiders_QB_visits_Nellis_Airmen_%281%29_%28cropped%29.jpg/1200px-Raiders_QB_visits_Nellis_Airmen_%281%29_%28cropped%29.jpg' alt='Jimmy Garoppolo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Raiders_QB_visits_Nellis_Airmen_%281%29_%28cropped%29.jpg/1200px-Raiders_QB_visits_Nellis_Airmen_%281%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo | RevUp Sports">
+                                <img itemprop="contentUrl url" src='https://revupsports.com/media/athletes/profile/Jimmy_Garoppolo_Avatar.png' alt='Jimmy Garoppolo | RevUp Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RevUp Sports" />
+                                </span>
+                                <a href='https://revupsports.com/media/athletes/profile/Jimmy_Garoppolo_Avatar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo, San Francisco, Quarterback">
+                                <img itemprop="contentUrl url" src='https://s3media.247sports.com/Uploads/Assets/940/873/7873940.jpg' alt='Jimmy Garoppolo, San Francisco, Quarterback'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="247 Sports" />
+                                </span>
+                                <a href='https://s3media.247sports.com/Uploads/Assets/940/873/7873940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where will Jimmy Garoppolo play in 2024? 9 options for the soon-to ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/athletic/uploads/wp/2024/02/22184334/GettyImages-1858017650-scaled.jpg' alt='Where will Jimmy Garoppolo play in 2024? 9 options for the soon-to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/athletic/uploads/wp/2024/02/22184334/GettyImages-1858017650-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6c/Jimmy_Garoppolo_2019_%28cropped%29.jpg' alt='Jimmy Garoppolo - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2452">
+                                <meta itemprop="height" content="2794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6c/Jimmy_Garoppolo_2019_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo - NFL News, Rumors, & Updates | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nfl/headshots/10567.vresize.350.350.medium.35.png' alt='Jimmy Garoppolo - NFL News, Rumors, & Updates | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nfl/headshots/10567.vresize.350.350.medium.35.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Garoppolo">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/gscb1g8kpfoba9xkm5tm' alt='Jimmy Garoppolo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Rams" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/gscb1g8kpfoba9xkm5tm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bears should consider Jimmy Garoppolo as veteran backup QB">
+                                <img itemprop="contentUrl url" src='https://bearswire.usatoday.com/gcdn/authoring/images/smg/2025/03/02/SRAM/81090625007-64-712706.jpeg?crop=5286,2974,x0,y275&width=660&height=371&format=pjpg&auto=webp' alt='Bears should consider Jimmy Garoppolo as veteran backup QB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bears Wire" />
+                                </span>
+                                <a href='https://bearswire.usatoday.com/gcdn/authoring/images/smg/2025/03/02/SRAM/81090625007-64-712706.jpeg?crop=5286,2974,x0,y275&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I crazy or is Jimmy Garoppolo the most attractive man to ever ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/am-i-crazy-or-is-jimmy-garoppolo-the-most-attractive-man-to-v0-a5zrfkfcqhme1.jpg?width=640&crop=smart&auto=webp&s=b5aca6adfe6aa4a20cbd611370eb1ed8f4ab37bf' alt='Am I crazy or is Jimmy Garoppolo the most attractive man to ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/am-i-crazy-or-is-jimmy-garoppolo-the-most-attractive-man-to-v0-a5zrfkfcqhme1.jpg?width=640&crop=smart&auto=webp&s=b5aca6adfe6aa4a20cbd611370eb1ed8f4ab37bf' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

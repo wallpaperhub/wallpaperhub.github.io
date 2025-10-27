@@ -1,0 +1,129 @@
+<title>Charming Aura White Pink Heart Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the elegance of aura white pink heart wallpaper. Perfect for creating a calming ambiance, this lovely design features delicate heart patterns that brighten up any room or device. Transform your environment effortlessly with this stylish wallpaper, designed for a modern aesthetic.">
+                    <meta name="keywords" content="aura white pink heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/aura-white-pink-heart-wallpaper">
+                            <span itemprop="name">aura white pink heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Aura White Pink Heart Wallpaper for Your Space</h1>
+                <p>Aura white pink heart wallpaper combines soft hues of white and pink to create a soothing atmosphere perfect for any room. Ideal for phone screens or desktop backgrounds, this charming wallpaper brings a romantic touch with its heart motifs. Transform your space into a serene sanctuary with this elegant design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aura Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' alt='Pink Aura Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Glam Aura Heart Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/73/ce/9773cebf09b81188eb4ea0c9fe498075.jpg' alt='Pink White Glam Aura Heart Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/73/ce/9773cebf09b81188eb4ea0c9fe498075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura pink heart   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/08/c7/7d08c7a3aa27095667dc33bee5bf554b.jpg' alt='Aura pink heart   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/08/c7/7d08c7a3aa27095667dc33bee5bf554b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura heart wallpaper pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/50/4d/d8504d4a2a44adb25dfec3e669cbcd4a.jpg' alt='aura heart wallpaper pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/50/4d/d8504d4a2a44adb25dfec3e669cbcd4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Hearts Wallpaper Background Stock Illustration 2332828507 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/aura-hearts-wallpaper-background-260nw-2332828635.jpg' alt='Aura Hearts Wallpaper Background Stock Illustration 2332828507 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/aura-hearts-wallpaper-background-260nw-2332828635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Heart Aura Abstract Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-heart-aura-abstract-jme3aue5p6yg3mnr.jpg' alt='Download Pink Heart Aura Abstract Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-heart-aura-abstract-jme3aue5p6yg3mnr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart pink aura wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/c1/52/c2c15262bef694088e139c051d4a2453.jpg' alt='heart pink aura wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/c1/52/c2c15262bef694088e139c051d4a2453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Aura Wallpapers Capturing the Essence of Energy and Mood ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/fd/5c/c6fd5c13f0d885182df568a2c7728beb.jpg' alt='15 Aura Wallpapers Capturing the Essence of Energy and Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/fd/5c/c6fd5c13f0d885182df568a2c7728beb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-4.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Pink Heart Aura Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vibrant-pink-heart-aura-cqgn1adh5i0bbgha.jpg' alt='Download Vibrant Pink Heart Aura Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vibrant-pink-heart-aura-cqgn1adh5i0bbgha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

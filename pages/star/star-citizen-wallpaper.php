@@ -1,0 +1,129 @@
+<title>Star Citizen Wallpapers: Download Stunning Space Art</title>
+                    <meta name="description" content="Explore a collection of breathtaking Star Citizen wallpapers perfect for all devices. Transform your screens with eye-catching visuals from the universe of space adventure. Download now for free and showcase your love for Star Citizen in style!">
+                    <meta name="keywords" content="star citizen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-citizen-wallpaper">
+                            <span itemprop="name">star citizen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Citizen Wallpapers: Download Stunning Space Art</h1>
+                <p>Enhance your gaming experience with stunning Star Citizen wallpapers! Dive into the universe of space exploration and warfare with high-quality images featuring iconic ships, breathtaking landscapes and immersive scenes. Perfect for desktops and mobile devices, these wallpapers will transport you to the heart of the action!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen wallpapers [3440x1440] & [21:9] : r/starcitizen">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ckc96jOz5f2PCfLbKht-ykPycAOMI9_4HJrcruM7GSE.jpg?auto=webp&s=766605ed37f32c763f9f7318d5e3dbad96c28db1' alt='Star Citizen wallpapers [3440x1440] & [21:9] : r/starcitizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ckc96jOz5f2PCfLbKht-ykPycAOMI9_4HJrcruM7GSE.jpg?auto=webp&s=766605ed37f32c763f9f7318d5e3dbad96c28db1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STARJUMP wallpaper celebrating this years Citizencon. Enjoy : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d81o1wtg0hr71.jpg' alt='STARJUMP wallpaper celebrating this years Citizencon. Enjoy : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d81o1wtg0hr71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen HD Wallpaper: Spacecraft Fleet">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/633/633459.jpg' alt='Star Citizen HD Wallpaper: Spacecraft Fleet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/633/633459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen: 4K Ultra HD Wallpaper Exploration">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/535/535870.jpg' alt='Star Citizen: 4K Ultra HD Wallpaper Exploration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6420">
+                                <meta itemprop="height" content="3552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/535/535870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8K] - A1 SPIRIT ACTION - Artwork - WallPaper – Community Hub">
+                                <img itemprop="contentUrl url" src='https://robertsspaceindustries.com/i/d2b699e0890eaab6af73c9cf0c789c032f676cf8/resize(1464,1464,inside,JLypLpqVPBaNxs8FRN3D3vuTrjntZTaECi8ToQLLZiEgiUjcwEzuY511JgyJBk2nwU4KBWPC3t64FJzEsV4pZ3115oDxrfRByAEknYvnZaM845PoacYBvRypYJTZz1GgsJQuJgqqXACnpMrw5PPYEBGbEMHn3F4f71woAciGMWiye2pTtd36oarH4AazDRu7WW)/2c52e7ac-e972-4cfc-9cac-1689dc96fad1.jpg' alt='8K] - A1 SPIRIT ACTION - Artwork - WallPaper – Community Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1464">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roberts Space Industries" />
+                                </span>
+                                <a href='https://robertsspaceindustries.com/i/d2b699e0890eaab6af73c9cf0c789c032f676cf8/resize(1464,1464,inside,JLypLpqVPBaNxs8FRN3D3vuTrjntZTaECi8ToQLLZiEgiUjcwEzuY511JgyJBk2nwU4KBWPC3t64FJzEsV4pZ3115oDxrfRByAEknYvnZaM845PoacYBvRypYJTZz1GgsJQuJgqqXACnpMrw5PPYEBGbEMHn3F4f71woAciGMWiye2pTtd36oarH4AazDRu7WW)/2c52e7ac-e972-4cfc-9cac-1689dc96fad1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_star_citizen_83_2560x1080.jpg&height=506&sharpen' alt='Star Citizen UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_star_citizen_83_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen Star Marine Mk3 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-citizen-star-marine-mk3-58hvt27baaxgapob.jpg' alt='Star Citizen Star Marine Mk3 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-citizen-star-marine-mk3-58hvt27baaxgapob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Citizen: Epic 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/100/1007114.jpg' alt='Star Citizen: Epic 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/100/1007114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="890 Jump Animated Wallpaper [1440p] : r/starcitizen">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/WcdHohjK-kA9T5Nzld16zj2TVfJK7LNwE9MZSve6yDc.jpg?width=640&crop=smart&auto=webp&s=0f19a79e4b2b28955664de42f2767a1e51b94e14' alt='890 Jump Animated Wallpaper [1440p] : r/starcitizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/WcdHohjK-kA9T5Nzld16zj2TVfJK7LNwE9MZSve6yDc.jpg?width=640&crop=smart&auto=webp&s=0f19a79e4b2b28955664de42f2767a1e51b94e14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whats Your Favorite Star Citizen Wallpaper? | TEST Squadron ...">
+                                <img itemprop="contentUrl url" src='https://testsquadron.com/attachments/m7actn3-jpg.1782/' alt='Whats Your Favorite Star Citizen Wallpaper? | TEST Squadron ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEST Squadron" />
+                                </span>
+                                <a href='https://testsquadron.com/attachments/m7actn3-jpg.1782/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

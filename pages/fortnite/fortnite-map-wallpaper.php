@@ -1,0 +1,129 @@
+<title>Epic Fortnite Map Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of Fortnite map wallpapers to elevate your gaming setup. Ideal for fans and gamers, our wallpapers feature stunning graphics and vibrant colors. Perfect for personalizing your space, find the perfect Fortnite backdrop today! Get inspired and game in style!">
+                    <meta name="keywords" content="fortnite map wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/fortnite-map-wallpaper">
+                            <span itemprop="name">fortnite map wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Map Wallpapers for Gamers</h1>
+                <p>Transform your gaming space with stunning Fortnite map wallpapers! Whether you're a Battle Royale veteran or a creative mode enthusiast, these vibrant designs bring the dynamic landscapes of Fortnite right to your walls. Showcase your love for the game while adding a unique touch to your room. Get inspired by these epic visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Map - Wallpaper 4K Ultra HD : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/liegy3unghq01.jpg' alt='Fortnite Map - Wallpaper 4K Ultra HD : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/liegy3unghq01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Enchanted Island - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/540/540341.jpg' alt='Fortnite Enchanted Island - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7192">
+                                <meta itemprop="height" content="3912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/540/540341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Map Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2342825.jpg' alt='Fortnite Map Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2342825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Map HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/877/thumb-1920-877850.jpg' alt='Fortnite Battle Royale Map HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/877/thumb-1920-877850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First map 0212-4811-2903 by jonigg - Fortnite">
+                                <img itemprop="contentUrl url" src='https://cdn-0001.qstv.on.epicgames.com/QsMSLLuzNlyKqGTGIU/image/landscape_comp.jpeg' alt='First map 0212-4811-2903 by jonigg - Fortnite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn-0001.qstv.on.epicgames.com/QsMSLLuzNlyKqGTGIU/image/landscape_comp.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 6 Fortnite HD Wallpapers Wallpaper - GetWalls.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/44/e7/8c44e7a6a8f600a66ff543452572c6c0.jpg' alt='Download 6 Fortnite HD Wallpapers Wallpaper - GetWalls.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/44/e7/8c44e7a6a8f600a66ff543452572c6c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite is live again with a new map and more ways to level up ...">
+                                <img itemprop="contentUrl url" src='https://www.cleveland.com/resizer/v2/LB6FDRCJBBEKHPF3IYKDHPCAGA.jpeg?auth=bb9fc64ad511dcd4a71cb087222eadf2da08df1f3b71c6c95b9b845eb1a3d433&width=500&quality=90' alt='Fortnite is live again with a new map and more ways to level up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://www.cleveland.com/resizer/v2/LB6FDRCJBBEKHPF3IYKDHPCAGA.jpeg?auth=bb9fc64ad511dcd4a71cb087222eadf2da08df1f3b71c6c95b9b845eb1a3d433&width=500&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Map Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2342826.jpg' alt='Fortnite Map Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2342826.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE CHAPTER 4 FORTNITE MAP. Via: (@ShiinaBR) : r/FortniteLeaks">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7fdls230vr3a1.jpg' alt='THE CHAPTER 4 FORTNITE MAP. Via: (@ShiinaBR) : r/FortniteLeaks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1841">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7fdls230vr3a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale: Best Season Maps, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/12/fornite-battle-royale-chapter-4-season-1-map.jpg' alt='Fortnite Battle Royale: Best Season Maps, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DualShockers" />
+                                </span>
+                                <a href='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/12/fornite-battle-royale-chapter-4-season-1-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

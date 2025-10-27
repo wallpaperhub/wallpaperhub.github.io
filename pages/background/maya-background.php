@@ -1,0 +1,129 @@
+<title>Maya Civilization: Rich History and Cultural Heritage</title>
+                    <meta name="description" content="Discover the fascinating world of the Maya civilization. Explore their advanced knowledge, stunning architecture, and rich cultural heritage. Learn about their contributions to astronomy, writing, and art. Join us as we delve into the enduring legacy of the Maya and their significant impact on history.">
+                    <meta name="keywords" content="maya background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maya-background">
+                            <span itemprop="name">maya background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maya Civilization: Rich History and Cultural Heritage</h1>
+                <p>Maya civilization, known for its advanced writing system, stunning architecture, and astronomical knowledge, flourished in Mesoamerica from 2000 BC to 1500 AD. The Maya left behind intricate artwork and sophisticated calendars, reflecting their deep connection to both nature and spirituality. Today, their legacy continues to intrigue scholars and enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Background consisting of patterns signs and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-consisting-patterns-signs-symbols-ancient-peoples-maya-toltecs_678045-33.jpg' alt='Premium Vector | Background consisting of patterns signs and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-consisting-patterns-signs-symbols-ancient-peoples-maya-toltecs_678045-33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,400+ Maya Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/842797588/vector/creative-vector-seamless-pattern.jpg?s=612x612&w=0&k=20&c=gwFfYPTWBQi4pr81mgY2Hpmmhx8avwqNAerXDft4_ko=' alt='16,400+ Maya Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/842797588/vector/creative-vector-seamless-pattern.jpg?s=612x612&w=0&k=20&c=gwFfYPTWBQi4pr81mgY2Hpmmhx8avwqNAerXDft4_ko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 10x8ft Fabric Maya Chichen Itza Pyramid ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/715MOrPNPUL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Loccor 10x8ft Fabric Maya Chichen Itza Pyramid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/715MOrPNPUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizontal background with Maya calendar Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R9F1P2/horizontal-background-with-maya-calendar-R9F1P2.jpg' alt='Horizontal background with Maya calendar Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R9F1P2/horizontal-background-with-maya-calendar-R9F1P2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="224 Maya Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165817767/vector/mayan-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=74MReZMEu1LCvq6WqL50SR00P3Q_dcvUFDYLJitImO8=' alt='224 Maya Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165817767/vector/mayan-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=74MReZMEu1LCvq6WqL50SR00P3Q_dcvUFDYLJitImO8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="144,263 Maya Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pagan-ornament-tribe-maya-texture-260nw-445389349.jpg' alt='144,263 Maya Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pagan-ornament-tribe-maya-texture-260nw-445389349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Stylized Maya Sun Symbol On Beige Background Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/zag4x4/zag4x41308/zag4x4130800007/21934917-abstract-stylized-maya-sun-symbol-on-beige-background.jpg' alt='Abstract Stylized Maya Sun Symbol On Beige Background Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/zag4x4/zag4x41308/zag4x4130800007/21934917-abstract-stylized-maya-sun-symbol-on-beige-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12x8ft Fabric Maya Chichen Itza Pyramid Backdrop for Photography Sunset  Ancient Mayan Architecture Ruins Mexico Culture Historical Building Scenic  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rKMwDdijL._AC_UF894,1000_QL80_.jpg' alt='12x8ft Fabric Maya Chichen Itza Pyramid Backdrop for Photography Sunset  Ancient Mayan Architecture Ruins Mexico Culture Historical Building Scenic  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rKMwDdijL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maya calendar on ancient wall. Horizontal background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/R9EXG2/maya-calendar-on-ancient-wall-horizontal-background-R9EXG2.jpg' alt='Maya calendar on ancient wall. Horizontal background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/R9EXG2/maya-calendar-on-ancient-wall-horizontal-background-R9EXG2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maya Calendar Background Design Images Characters Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/maya-calendar-background-design-images-260nw-1472894990.jpg' alt='Maya Calendar Background Design Images Characters Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/maya-calendar-background-design-images-260nw-1472894990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

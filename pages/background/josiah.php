@@ -1,0 +1,129 @@
+<title>Josiah: The Reformer King of Judah</title>
+                    <meta name="description" content="Explore the life of Josiah, the king who championed religious reform in Judah, discovered the Book of the Law, and revitalized worship of Yahweh. Learn about his significant contributions to abolishing idolatry and fostering a renewed covenant with God.">
+                    <meta name="keywords" content="josiah">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/josiah">
+                            <span itemprop="name">josiah</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Josiah: The Reformer King of Judah</h1>
+                <p>Josiah was a remarkable king of Judah known for his religious reforms and attempts to restore the worship of Yahweh. Ascending to the throne at a young age, he discovered the Book of the Law, leading to significant changes in worship practices. His legacy includes a return to covenant faithfulness and the elimination of idolatry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%85hus_kyrka-12.jpg' alt='Josiah - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="2640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%85hus_kyrka-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="America needs a Josiah. (Why an ancient Jewish king provides a ...">
+                                <img itemprop="contentUrl url" src='https://flashtrafficblog.epicentermedia.net/wp-content/uploads/2015/08/josiah.png' alt='America needs a Josiah. (Why an ancient Jewish king provides a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joel C. Rosenberg's Blog" />
+                                </span>
+                                <a href='https://flashtrafficblog.epicentermedia.net/wp-content/uploads/2015/08/josiah.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah and the Book of the Law">
+                                <img itemprop="contentUrl url" src='https://assets.churchofjesuschrist.org/09/8d/098dac1fdeca96be3d2a357feae5d80df5d6683f/098dac1fdeca96be3d2a357feae5d80df5d6683f.jpeg' alt='Josiah and the Book of the Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://assets.churchofjesuschrist.org/09/8d/098dac1fdeca96be3d2a357feae5d80df5d6683f/098dac1fdeca96be3d2a357feae5d80df5d6683f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah Name Meaning, Origin, Popularity, Boy Names Like Josiah ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/boys/j/josiah-name-meaning-baby-boy-h.gif' alt='Josiah Name Meaning, Origin, Popularity, Boy Names Like Josiah ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/boys/j/josiah-name-meaning-baby-boy-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Josiah and the Formation of Jewish Law">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56c13cc00442627a08632989/1607285448518-1KB4PG702FFN3Q1RM9F0/josiah.jpg' alt='King Josiah and the Formation of Jewish Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Not So Innocents Abroad" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56c13cc00442627a08632989/1607285448518-1KB4PG702FFN3Q1RM9F0/josiah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah | The Last Good King of Judah | Ancient Israel">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/I2rSu5v3nhY/maxresdefault.jpg' alt='Josiah | The Last Good King of Judah | Ancient Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/I2rSu5v3nhY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mens Josiah Definition Personalized Name Josiah Funny Birthday Premium  T-Shirt">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91XFGdO22wL._CLa%7C2140%2C2000%7C61oo0dTvVSL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UY1000_.png' alt='Mens Josiah Definition Personalized Name Josiah Funny Birthday Premium  T-Shirt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91XFGdO22wL._CLa%7C2140%2C2000%7C61oo0dTvVSL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UY1000_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah-Jordan James says he's joining Indiana Pacers on Exhibit 10 ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_3666,h_2062,x_0,y_200/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_pacers/01j1gfdtqhtxc27dxy67.jpg' alt='Josiah-Jordan James says he's joining Indiana Pacers on Exhibit 10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_3666,h_2062,x_0,y_200/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_pacers/01j1gfdtqhtxc27dxy67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josiah Biography | Inspirational Christians">
+                                <img itemprop="contentUrl url" src='https://www.inspirationalchristians.org/images/josiah-scroll-descovered-temple-1-1024x640.jpg' alt='Josiah Biography | Inspirational Christians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspirational Christians" />
+                                </span>
+                                <a href='https://www.inspirationalchristians.org/images/josiah-scroll-descovered-temple-1-1024x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Have to See This! Josiah - The Youngest King and the Greatest King of  Israel | Bible Stories">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oiqfAY9tXYI/hqdefault.jpg' alt='You Have to See This! Josiah - The Youngest King and the Greatest King of  Israel | Bible Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oiqfAY9tXYI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

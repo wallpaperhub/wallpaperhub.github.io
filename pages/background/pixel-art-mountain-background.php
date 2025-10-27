@@ -1,0 +1,129 @@
+<title>Stunning Pixel Art Mountain Backgrounds for Creative Projects</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pixel art mountain background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-art-mountain-background">
+                            <span itemprop="name">pixel art mountain background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pixel Art Mountain Backgrounds for Creative Projects</h1>
+                <p>Pixel art mountain backgrounds bring charm and creativity to digital designs. Featuring vibrant colors and unique textures, these pixelated landscapes can enhance video games, websites, or animation projects. Their retro aesthetic appeals to both nostalgic gamers and modern creators alike. Explore endless possibilities with pixel art mountains!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="690+ Mountain Pixel Art Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1887326060/vector/pixel-art-game-mountain-location-summer-seamless-background-with-snow-capped-peaks-fir-tree.jpg?s=612x612&w=0&k=20&c=VgPHEcKFtZA95qqL2vxsFDfj68vZXcm1sYBxTj7sgp4=' alt='690+ Mountain Pixel Art Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1887326060/vector/pixel-art-game-mountain-location-summer-seamless-background-with-snow-capped-peaks-fir-tree.jpg?s=612x612&w=0&k=20&c=VgPHEcKFtZA95qqL2vxsFDfj68vZXcm1sYBxTj7sgp4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel-Art Mountains artwork I made. : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x219hh4w95881.png?auto=webp&s=611a89722f2e652ba12d81e0c8a8665abeef2348' alt='Pixel-Art Mountains artwork I made. : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x219hh4w95881.png?auto=webp&s=611a89722f2e652ba12d81e0c8a8665abeef2348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mountain Backgrounds Pixel Art Download - CraftPix.net">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2022/12/Free-Mountain-Backgrounds-Pixel-Art5.png' alt='Free Mountain Backgrounds Pixel Art Download - CraftPix.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2022/12/Free-Mountain-Backgrounds-Pixel-Art5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Mountain Background Images – Browse 19,534 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/26/96/04/360_F_726960402_pT9ovxJXrATE51rDp0BfL2pAir8ursBN.jpg' alt='Pixel Mountain Background Images – Browse 19,534 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/26/96/04/360_F_726960402_pT9ovxJXrATE51rDp0BfL2pAir8ursBN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape cloud mountain pixel video Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2WARETA/pixel-art-mountain-background-at-night-grassy-ground-against-the-backdrop-of-a-pine-forest-snow-capped-peaks-and-a-cloudy-sky-with-stars-horizontal-2WARETA.jpg' alt='Landscape cloud mountain pixel video Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2WARETA/pixel-art-mountain-background-at-night-grassy-ground-against-the-backdrop-of-a-pine-forest-snow-capped-peaks-and-a-cloudy-sky-with-stars-horizontal-2WARETA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Mountain Background Images – Browse 19,534 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/93/91/29/360_F_693912923_RRizdYxDh0n9L1Lq9y5iIvk3qQo3o2vs.jpg' alt='Pixel Mountain Background Images – Browse 19,534 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/93/91/29/360_F_693912923_RRizdYxDh0n9L1Lq9y5iIvk3qQo3o2vs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Mountain Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/arcade-game-world-pixel-scene_24640-45908.jpg' alt='Pixel Mountain Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/arcade-game-world-pixel-scene_24640-45908.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Mountain Backgrounds Pixel Art Download - CraftPix.net">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2022/12/Free-Mountain-Backgrounds-Pixel-Art6.png' alt='Free Mountain Backgrounds Pixel Art Download - CraftPix.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2022/12/Free-Mountain-Backgrounds-Pixel-Art6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Pixel art seamless background with mountains.">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/17/37/92/62/3/700_FO173792623_e28ff2517c3270ec74c06fab80ec6099,700,398,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,348,jpg)/wall-murals-pixel-art-seamless-background-with-mountains.jpg.jpg' alt='Wall Mural Pixel art seamless background with mountains.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/17/37/92/62/3/700_FO173792623_e28ff2517c3270ec74c06fab80ec6099,700,398,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,348,jpg)/wall-murals-pixel-art-seamless-background-with-mountains.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="690+ Mountain Pixel Art Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1383438801/vector/mountains-and-hills-pixel-art-icon-set-different-landscape-elements-collection.jpg?s=612x612&w=0&k=20&c=msT0ibaquTEXbkETB654Y7jWy0-hAwOlVvR_O_MWN3w=' alt='690+ Mountain Pixel Art Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1383438801/vector/mountains-and-hills-pixel-art-icon-set-different-landscape-elements-collection.jpg?s=612x612&w=0&k=20&c=msT0ibaquTEXbkETB654Y7jWy0-hAwOlVvR_O_MWN3w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

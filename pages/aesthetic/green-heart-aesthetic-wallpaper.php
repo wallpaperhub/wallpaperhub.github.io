@@ -1,0 +1,129 @@
+<title>Lush Green Heart Aesthetic Wallpaper for a Serene Vibe</title>
+                    <meta name="description" content="Discover the perfect green heart aesthetic wallpaper to elevate your devices. Immerse yourself in soothing greenery and heart motifs, creating a vibrant yet calming atmosphere. Perfect for anyone yearning for a touch of nature's beauty in their digital space! Download now for a refreshing transformation!">
+                    <meta name="keywords" content="green heart aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/green-heart-aesthetic-wallpaper">
+                            <span itemprop="name">green heart aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lush Green Heart Aesthetic Wallpaper for a Serene Vibe</h1>
+                <p>Transform your digital space with a captivating green heart aesthetic wallpaper. This vibrant design combines shades of lush green and heart motifs, creating a serene yet lively backdrop. Perfect for nature lovers and those seeking a refreshing vibe, this wallpaper will infuse your devices with positivity and charm, enriching your daily experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/green-heart-aesthetic-zx7bmqklnnqczztk.jpg' alt='Green Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/green-heart-aesthetic-zx7bmqklnnqczztk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Cool Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' alt='Green Heart Cool Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic green heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/24/48/24/244824e9110819ca41559b6b427cb231.jpg' alt='aesthetic green heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="593">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/24/48/24/244824e9110819ca41559b6b427cb231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aesthetic heart wallpaper for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/93/40/a0/9340a0538ea536483a870b61da3110dc.jpg' alt='green aesthetic heart wallpaper for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/93/40/a0/9340a0538ea536483a870b61da3110dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Green Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/white-and-green-heart-2rmvyz6kp4aorsbh.webp' alt='White Green Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/white-and-green-heart-2rmvyz6kp4aorsbh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green heart desktop background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/75/7e/9f757e384bb5d14bf946631a0af034ac.jpg' alt='Green heart desktop background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/75/7e/9f757e384bb5d14bf946631a0af034ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reply to @prashamsa....neupane #wallpaper #hearts | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7077761537825410350&location=0&aid=1988' alt='Reply to @prashamsa....neupane #wallpaper #hearts | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7077761537825410350&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Background in Illustrator, EPS, JPG, SVG - Download ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74418/Free-Green-Heart-Background-Mobile-1.jpg' alt='Green Heart Background in Illustrator, EPS, JPG, SVG - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74418/Free-Green-Heart-Background-Mobile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: Green Y2K Heart Aesthetic Blank Lined: Notebooks ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51p2olLBtuL._AC_UF1000,1000_QL80_.jpg' alt='Notebook: Green Y2K Heart Aesthetic Blank Lined: Notebooks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51p2olLBtuL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Background Stock Photos and Pictures - 766,646 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/y2k-backgrounds-waves-swirl-twirl-260nw-2204161755.jpg' alt='Green Heart Background Stock Photos and Pictures - 766,646 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/y2k-backgrounds-waves-swirl-twirl-260nw-2204161755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

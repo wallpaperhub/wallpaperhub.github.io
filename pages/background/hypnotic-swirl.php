@@ -1,0 +1,129 @@
+<title>Mesmerizing Hypnotic Swirl Patterns for Relaxation</title>
+                    <meta name="description" content="Discover the captivating world of hypnotic swirl patterns. Perfect for relaxation and meditation, these mesmerizing designs draw you in, helping to calm your mind and enhance focus. Experience tranquility through the beauty of swirling colors and shapes.">
+                    <meta name="keywords" content="hypnotic swirl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hypnotic-swirl">
+                            <span itemprop="name">hypnotic swirl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Hypnotic Swirl Patterns for Relaxation</h1>
+                <p>A hypnotic swirl captivates the mind, drawing viewers into an enchanting spiral of colors and patterns. Each rotation stimulates the senses, evoking feelings of tranquility and wonder. Perfect for meditation or relaxation, these swirls harness the power of visual art to create a mesmerizing experience that calms the soul and enhances focus.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hypnotic Spiral Swirl Stock Illustrations – 15,567 Hypnotic Spiral ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hypnotic-circles-abstract-white-black-optical-illusion-vector-spiral-swirl-pattern-background-hypnotize-circular-rotating-102870721.jpg' alt='Hypnotic Spiral Swirl Stock Illustrations – 15,567 Hypnotic Spiral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hypnotic-circles-abstract-white-black-optical-illusion-vector-spiral-swirl-pattern-background-hypnotize-circular-rotating-102870721.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hypnotic swirl lines or vortex spin or black and white circular ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/78/69/53/1000_F_178695324_UuIeZbpaRxmXRU5N4eBbhKjoTcekAvWV.jpg' alt='Hypnotic swirl lines or vortex spin or black and white circular ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/78/69/53/1000_F_178695324_UuIeZbpaRxmXRU5N4eBbhKjoTcekAvWV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hypnotic Spiral Generator | Hypnotic World">
+                                <img itemprop="contentUrl url" src='https://dfud2pxd04g1b.cloudfront.net/images/1/topical/1620x1000-c/1640.jpg' alt='Hypnotic Spiral Generator | Hypnotic World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypnotic World" />
+                                </span>
+                                <a href='https://dfud2pxd04g1b.cloudfront.net/images/1/topical/1620x1000-c/1640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I recreate this two-tone hypnotic spiral effect? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/how-do-i-recreate-this-two-tone-hypnotic-spiral-effect-v0-xq7reg4s699d1.png?width=640&crop=smart&auto=webp&s=ec1129821cdf51ed6d70d2db0c51ea978daaf79d' alt='How do I recreate this two-tone hypnotic spiral effect? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/how-do-i-recreate-this-two-tone-hypnotic-spiral-effect-v0-xq7reg4s699d1.png?width=640&crop=smart&auto=webp&s=ec1129821cdf51ed6d70d2db0c51ea978daaf79d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Hypnotic Swirl">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/33/82/73/96/700_FO33827396_6bd34997d355e932bf5868aa9bb56596.jpg,700,529,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,479,jpg)/wall-murals-hypnotic-swirl.jpg.jpg' alt='Wall Mural Hypnotic Swirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/33/82/73/96/700_FO33827396_6bd34997d355e932bf5868aa9bb56596.jpg,700,529,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,479,jpg)/wall-murals-hypnotic-swirl.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white hypnotic spiral">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/032/054/773/original/black-and-white-hypnotic-spiral-free-video.jpg' alt='Black and white hypnotic spiral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/032/054/773/original/black-and-white-hypnotic-spiral-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hypnotic Swirl HD">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/hypnotic-swirl-hd-000326973_prevstill.jpeg' alt='Hypnotic Swirl HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/hypnotic-swirl-hd-000326973_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Hypnotic Swirl in Animation Nodes - Blender Stack Exchange">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/flKVq.png' alt='Colorful Hypnotic Swirl in Animation Nodes - Blender Stack Exchange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blender Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/flKVq.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hypnosis Spiral | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:300/0*C6_ks7htuom51Fo1.png' alt='The Hypnosis Spiral | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:300/0*C6_ks7htuom51Fo1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Hypnotic Swirl Background Graphic by davidzydd · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/03/07/Colorful-Hypnotic-Swirl-Background-Graphics-3250813-1.jpg' alt='Colorful Hypnotic Swirl Background Graphic by davidzydd · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/03/07/Colorful-Hypnotic-Swirl-Background-Graphics-3250813-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

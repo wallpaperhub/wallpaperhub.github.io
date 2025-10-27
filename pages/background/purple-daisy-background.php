@@ -1,0 +1,129 @@
+<title>Stunning Purple Daisy Background: Vibrant Floral Designs</title>
+                    <meta name="description" content="Discover the beauty of our purple daisy background, perfect for creating eye-catching designs. Ideal for wallpapers, invitations, and decor, this vibrant floral pattern brings a refreshing touch of elegance to any space. Transform your visuals with these delightful purple daisies today!">
+                    <meta name="keywords" content="purple daisy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-daisy-background">
+                            <span itemprop="name">purple daisy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Daisy Background: Vibrant Floral Designs</h1>
+                <p>Transform your space with a stunning purple daisy background! This vibrant floral design adds a touch of elegance and joy to any setting, making it perfect for wallpapers, invitations, or artwork. The rich purple hues combined with cheerful daisies create a refreshing aesthetic that brightens up your surroundings and elevates your mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple daisy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/8b/d6/e68bd6fbec3387d91d3dd88d4ad33494.jpg' alt='purple daisy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/8b/d6/e68bd6fbec3387d91d3dd88d4ad33494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Flower Background" by Stocksy Contributor "Ruth Black ...">
+                                <img itemprop="contentUrl url" src='https://c.stocksy.com/a/xZjA00/z8/2558489.jpg' alt='Purple Flower Background" by Stocksy Contributor "Ruth Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stocksy" />
+                                </span>
+                                <a href='https://c.stocksy.com/a/xZjA00/z8/2558489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Background Of Fresh Little Daisy On Purple ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220718/original/pngtree-beautiful-flower-background-of-fresh-little-daisy-on-purple-background-picture-image_1654453.jpg' alt='Beautiful Flower Background Of Fresh Little Daisy On Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220718/original/pngtree-beautiful-flower-background-of-fresh-little-daisy-on-purple-background-picture-image_1654453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/ed/c8/2fedc877860fca98892b9822c224fada.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/ed/c8/2fedc877860fca98892b9822c224fada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,200+ Purple Daisy Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333098593/vector/cute-seamless-pattern-with-hand-drawn-chamomile-flowers-and-hearts-isolated-on-purple.jpg?s=612x612&w=0&k=20&c=pNRYSdtGxSsV7EWWJc24YIpOAUaJcNopyaKRvDjzc4c=' alt='8,200+ Purple Daisy Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333098593/vector/cute-seamless-pattern-with-hand-drawn-chamomile-flowers-and-hearts-isolated-on-purple.jpg?s=612x612&w=0&k=20&c=pNRYSdtGxSsV7EWWJc24YIpOAUaJcNopyaKRvDjzc4c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral seamless pattern with purple daisy flower and leaves on ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/012/300/796/small/floral-seamless-pattern-with-purple-daisy-flower-and-leaves-on-pastel-violet-background-illustration-vector.jpg' alt='Floral seamless pattern with purple daisy flower and leaves on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/012/300/796/small/floral-seamless-pattern-with-purple-daisy-flower-and-leaves-on-pastel-violet-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Daisy Flower On Purple Background Stock Photo 2144032793 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2144032793/display_1500/stock-photo-spring-daisy-flower-on-a-purple-background-minimal-aesthetic-summer-flower-concept-2144032793.jpg' alt='Spring Daisy Flower On Purple Background Stock Photo 2144032793 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2144032793/display_1500/stock-photo-spring-daisy-flower-on-a-purple-background-minimal-aesthetic-summer-flower-concept-2144032793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with daisy flowers on purple background vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/49/01/72/1000_F_449017217_xp0jEMc13ImtPl1ZVJTvchTnJ0LLDTCT.jpg' alt='Seamless pattern with daisy flowers on purple background vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/49/01/72/1000_F_449017217_xp0jEMc13ImtPl1ZVJTvchTnJ0LLDTCT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Lavender Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' alt='Daisy Lavender Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Daisy Flat Lay Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-daisy-flat-lay-phone-m93ids93n5me2zfm.jpg' alt='Purple Daisy Flat Lay Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-daisy-flat-lay-phone-m93ids93n5me2zfm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

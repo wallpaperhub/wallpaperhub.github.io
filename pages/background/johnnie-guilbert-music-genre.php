@@ -1,0 +1,129 @@
+<title>Discover Johnnie Guilbert's Diverse Music Genre</title>
+                    <meta name="description" content="Explore the captivating music of Johnnie Guilbert, where pop-punk meets emo and alternative rock. Dive into his emotional lyrics and catchy melodies that resonate with fans. Perfect for music lovers looking for fresh sounds and relatable themes!">
+                    <meta name="keywords" content="johnnie guilbert music genre">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/johnnie-guilbert-music-genre">
+                            <span itemprop="name">johnnie guilbert music genre</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Johnnie Guilbert's Diverse Music Genre</h1>
+                <p>Johnnie Guilbert is known for his unique blend of pop-punk, alternative rock, and emo influences. His music often features catchy melodies, emotional lyrics, and relatable themes, appealing to a diverse audience. By combining energetic instrumentals with heartfelt storytelling, Guilbert creates a sound that's both nostalgic and fresh.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert Vinyl Records & Discography - Vinyl Me, Please">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Johnnie-Guilbert-hero-banner-241125-0645.webp' alt='Johnnie Guilbert Vinyl Records & Discography - Vinyl Me, Please'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vinyl Me, Please" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Johnnie-Guilbert-hero-banner-241125-0645.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert "All My Friends Are Dead" Official Music Video">
+                                <img itemprop="contentUrl url" src='https://www.blastoutyourstereo.com/wp-content/uploads/2021/10/all-my-friends-are-dead-johnnie-guilbert-single-review-blast-out-your-stereo.jpg' alt='Johnnie Guilbert "All My Friends Are Dead" Official Music Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BLAST OUT YOUR STEREO" />
+                                </span>
+                                <a href='https://www.blastoutyourstereo.com/wp-content/uploads/2021/10/all-my-friends-are-dead-johnnie-guilbert-single-review-blast-out-your-stereo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert "Zombie" Official Music Video">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0d0txdWY1Uk/maxresdefault.jpg' alt='Johnnie Guilbert "Zombie" Official Music Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0d0txdWY1Uk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert - Songs, Events and Music Stats | Viberate.com">
+                                <img itemprop="contentUrl url" src='https://viberate-upload.ams3.cdn.digitaloceanspaces.com/prod/entity/artist/johnnie-guilbert-lQ7Ia' alt='Johnnie Guilbert - Songs, Events and Music Stats | Viberate.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Viberate.com" />
+                                </span>
+                                <a href='https://viberate-upload.ams3.cdn.digitaloceanspaces.com/prod/entity/artist/johnnie-guilbert-lQ7Ia' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert "Vampire" Official Music Video - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/e9YNgUyK6Js/sddefault.jpg?v=65cc56f8' alt='Johnnie Guilbert "Vampire" Official Music Video - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/e9YNgUyK6Js/sddefault.jpg?v=65cc56f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When did Johnnie Guilbert start making music?">
+                                <img itemprop="contentUrl url" src='https://images.genius.com/1c426c34d9805f0a3adfe9b6fcfdb2f4.1000x1000x1.jpg' alt='When did Johnnie Guilbert start making music?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genius" />
+                                </span>
+                                <a href='https://images.genius.com/1c426c34d9805f0a3adfe9b6fcfdb2f4.1000x1000x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what's ur opinion on johnnie guilbert's music? : r/JohnnieGuilbert">
+                                <img itemprop="contentUrl url" src='https://styles.redditmedia.com/t5_3j1fr/styles/communityIcon_ocytzysv06he1.jpg?format=pjpg&s=961d9c788b032f2e759999fab9659953d77fe8f9' alt='what's ur opinion on johnnie guilbert's music? : r/JohnnieGuilbert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://styles.redditmedia.com/t5_3j1fr/styles/communityIcon_ocytzysv06he1.jpg?format=pjpg&s=961d9c788b032f2e759999fab9659953d77fe8f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert Albums: songs, discography, biography, and ...">
+                                <img itemprop="contentUrl url" src='https://e.snmc.io/i/600/s/fe0a75c285360be993aefdc4da2d5c10/10264241/johnnie-guilbert-it-was-all-for-nothing-cover-art.jpg' alt='Johnnie Guilbert Albums: songs, discography, biography, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rate Your Music" />
+                                </span>
+                                <a href='https://e.snmc.io/i/600/s/fe0a75c285360be993aefdc4da2d5c10/10264241/johnnie-guilbert-it-was-all-for-nothing-cover-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zombie by Johnnie Guilbert (Single, Emo-Pop): Reviews, Ratings ...">
+                                <img itemprop="contentUrl url" src='https://e.snmc.io/i/1200/s/746b93ff9896cd4a5e27d5b1ade88763/11711536' alt='Zombie by Johnnie Guilbert (Single, Emo-Pop): Reviews, Ratings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rate Your Music" />
+                                </span>
+                                <a href='https://e.snmc.io/i/1200/s/746b93ff9896cd4a5e27d5b1ade88763/11711536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Johnnie Guilbert - "Song Without A Name" Official Music Video">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/gZfJefV3-0A/mqdefault.jpg' alt='Johnnie Guilbert - "Song Without A Name" Official Music Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/gZfJefV3-0A/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

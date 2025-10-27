@@ -1,0 +1,129 @@
+<title>Classic Christmas Wallpaper: Timeless Holiday Decor</title>
+                    <meta name="description" content="Explore our collection of classic Christmas wallpaper that transforms your home into a festive haven. Featuring timeless designs and cozy aesthetics, our wallpapers set the perfect holiday mood. Easy to apply and remove, they add a charming touch to any room for a magical Christmas experience.">
+                    <meta name="keywords" content="classic christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/classic-christmas-wallpaper">
+                            <span itemprop="name">classic christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Christmas Wallpaper: Timeless Holiday Decor</h1>
+                <p>Classic Christmas wallpaper brings a festive charm to your home during the holiday season. With timeless designs featuring snowflakes, Santa, and Christmas trees, these wallpapers create a warm atmosphere filled with nostalgia. Perfect for living rooms or bedrooms, they transform your space into a winter wonderland, making every moment magical.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/vintage-christmas-mwsyyexol4qt9bb5.jpg' alt='100+] Vintage Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/vintage-christmas-mwsyyexol4qt9bb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Wallpaper Images – Browse 727,508 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/07/36/90/360_F_607369021_VLgTp8QeFy3nHI5Nn6qNCm7VxQXXmLO3.jpg' alt='Vintage Christmas Wallpaper Images – Browse 727,508 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/07/36/90/360_F_607369021_VLgTp8QeFy3nHI5Nn6qNCm7VxQXXmLO3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-christmas-ornament-border-with-pine-branches-berries_926058-20077.jpg?semt=ais_hybrid' alt='Vintage Christmas Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-christmas-ornament-border-with-pine-branches-berries_926058-20077.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Christmas Wallpaper PSD, High Quality Free PSD Templates ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/elegant-christmas-background-with-watercolor-nature-ornaments_1361-4093.jpg' alt='Classic Christmas Wallpaper PSD, High Quality Free PSD Templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/elegant-christmas-background-with-watercolor-nature-ornaments_1361-4093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-christmas-zhy5mzv5xs3v78a5.jpg' alt='100+] Vintage Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-christmas-zhy5mzv5xs3v78a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Free Vintage Christmas Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/94/ee/ac/94eeacabdd63c1b070596448a556b38c.jpg' alt='35+ Free Vintage Christmas Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/94/ee/ac/94eeacabdd63c1b070596448a556b38c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/4e/ed/044eed7dfb12c7bd1de671d248b59ee7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/4e/ed/044eed7dfb12c7bd1de671d248b59ee7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper - The Best Wallpapers For iPhone (Free ...">
+                                <img itemprop="contentUrl url" src='https://skj.hdv.mybluehost.me/wp-content/uploads/2024/03/christmas-wallpaper.png' alt='Christmas Wallpaper - The Best Wallpapers For iPhone (Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Become Your Most" />
+                                </span>
+                                <a href='https://skj.hdv.mybluehost.me/wp-content/uploads/2024/03/christmas-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="823,565 Traditional Christmas Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/festive-background-features-lush-green-foliage-red-berries-shiny-ornaments-capture-essence-traditional-343113636.jpg' alt='823,565 Traditional Christmas Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/festive-background-features-lush-green-foliage-red-berries-shiny-ornaments-capture-essence-traditional-343113636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Aesthetic Christmas Wallpapers Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdn.autonomous.ai/static/upload/images/common/upload/20211211/Best-Aesthetic-Christmas-Wallpapers-Backgrounds_26728318e98.jpg' alt='Best Aesthetic Christmas Wallpapers Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autonomous" />
+                                </span>
+                                <a href='https://cdn.autonomous.ai/static/upload/images/common/upload/20211211/Best-Aesthetic-Christmas-Wallpapers-Backgrounds_26728318e98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

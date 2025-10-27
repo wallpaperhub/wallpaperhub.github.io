@@ -1,0 +1,129 @@
+<title>Stunning 4K Kevin Durant Wallpapers for Fans</title>
+                    <meta name="description" content="Discover high-quality 4K Kevin Durant wallpapers that enhance your devices. Perfect for fans and enthusiasts, these wallpapers feature iconic images and moments. Download now to showcase your love for basketball's superstar in vibrant detail!">
+                    <meta name="keywords" content="kevin durant wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/kevin-durant-wallpaper-4k">
+                            <span itemprop="name">kevin durant wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Kevin Durant Wallpapers for Fans</h1>
+                <p>Transform your device with stunning Kevin Durant wallpapers in crisp 4K resolution. Whether you’re a die-hard fan or just love the artistry, these wallpapers capture Durant's incredible talent and iconic moments on the court. Download your favorite designs and showcase your admiration for one of basketball's greats!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant Oklahoma City Thunder HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/697/697971.jpg' alt='Kevin Durant Oklahoma City Thunder HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/697/697971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/ed/50/e2ed50de244079efb7d3e219a0067bb0.jpg' alt='Kevin Durant Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/ed/50/e2ed50de244079efb7d3e219a0067bb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant, Nets, Brooklyn, Basketball, NBA, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/421/875/HD-wallpaper-kevin-durant-nets-brooklyn-basketball-nba.jpg' alt='Kevin Durant, Nets, Brooklyn, Basketball, NBA, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/421/875/HD-wallpaper-kevin-durant-nets-brooklyn-basketball-nba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Kevin Durant Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kevin-durant-2xz751399vuq2ve8.jpg' alt='200+] Kevin Durant Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kevin-durant-2xz751399vuq2ve8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant, basketball stars, NBA, Golden State Warriors, Kevin ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/771/820/HD-wallpaper-kevin-durant-basketball-stars-nba-golden-state-warriors-kevin-wayne-durant-basketball-neon-lights-creative-for-with-resolution-high-quality.jpg' alt='Kevin Durant, basketball stars, NBA, Golden State Warriors, Kevin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/771/820/HD-wallpaper-kevin-durant-basketball-stars-nba-golden-state-warriors-kevin-wayne-durant-basketball-neon-lights-creative-for-with-resolution-high-quality.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Kevin Durant Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/4f/c7/f44fc7c2f997fa1169f45e10272a0ac7.jpg' alt='4K Kevin Durant Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/4f/c7/f44fc7c2f997fa1169f45e10272a0ac7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/d/4/52047-1536x2048-samsung-hd-kevin-durant-background-photo.jpg' alt='Kevin Durant Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/d/4/52047-1536x2048-samsung-hd-kevin-durant-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/4/2/184921-2560x1707-desktop-hd-kevin-durant-background.jpg' alt='Kevin Durant Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/4/2/184921-2560x1707-desktop-hd-kevin-durant-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Durant Background | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/6c/f9/d66cf9a142cb95ca9f29f570c1e3276f.jpg' alt='Kevin Durant Background | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/6c/f9/d66cf9a142cb95ca9f29f570c1e3276f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin durant 1080P, 2K, 4K, 5K HD wallpapers free download ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/210/263/777/basketball-golden-state-warriors-kevin-durant-4k-wallpaper-preview.jpg' alt='Kevin durant 1080P, 2K, 4K, 5K HD wallpapers free download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/210/263/777/basketball-golden-state-warriors-kevin-durant-4k-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

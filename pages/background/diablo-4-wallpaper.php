@@ -1,0 +1,129 @@
+<title>Stunning Diablo 4 Wallpapers: Elevate Your Device!</title>
+                    <meta name="description" content="Discover a collection of breathtaking Diablo 4 wallpapers to enhance your device's aesthetic. From iconic characters to stunning landscapes, find the perfect backdrop that reflects your love for the game. Download high-quality images optimized for any screen today!">
+                    <meta name="keywords" content="diablo 4 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diablo-4-wallpaper">
+                            <span itemprop="name">diablo 4 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Diablo 4 Wallpapers: Elevate Your Device!</h1>
+                <p>Explore the dark and immersive world of Diablo 4 with stunning wallpapers that capture the essence of the game. Perfect for fans and newcomers alike, these high-resolution images showcase iconic characters, breathtaking landscapes, and epic battles. Transform your device's background and dive deeper into the adventure today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo 4 Official Lilith Wallpaper : r/diablo4">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/diablo-4-official-lilith-wallpaper-v0-5vyohdzu54qa1.png?width=1080&crop=smart&auto=webp&s=109342b7111233903b2d880fd4f1fceca4919175' alt='Diablo 4 Official Lilith Wallpaper : r/diablo4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/diablo-4-official-lilith-wallpaper-v0-5vyohdzu54qa1.png?width=1080&crop=smart&auto=webp&s=109342b7111233903b2d880fd4f1fceca4919175' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV Wallpapers Released - Dry Steppes, Kehjistan, Hawezar ...">
+                                <img itemprop="contentUrl url" src='https://wow.zamimg.com/uploads/blog/images/33454-diablo-iv-wallpapers-released-dry-steppes-kehjistan-hawezar-and-more.jpg' alt='Diablo IV Wallpapers Released - Dry Steppes, Kehjistan, Hawezar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wowhead" />
+                                </span>
+                                <a href='https://wow.zamimg.com/uploads/blog/images/33454-diablo-iv-wallpapers-released-dry-steppes-kehjistan-hawezar-and-more.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV HD Wallpaper: Dark Majesty">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/129/1298325.png' alt='Diablo IV HD Wallpaper: Dark Majesty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/129/1298325.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Diablo IV 4k : r/gaming">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/80q8d2f6t4w31.png' alt='Wallpaper Diablo IV 4k : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/80q8d2f6t4w31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV Fan Mobile Wallpapers | PureDiablo Forums - The Diablo ...">
+                                <img itemprop="contentUrl url" src='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38886-931d9d232d85345c83966c761053be1c.jpg?1705085632' alt='Diablo IV Fan Mobile Wallpapers | PureDiablo Forums - The Diablo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pure Diablo" />
+                                </span>
+                                <a href='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38886-931d9d232d85345c83966c761053be1c.jpg?1705085632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a quick phone wallpaper with the press kit image. : r/Diablo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e3srokvah55a1.png' alt='Made a quick phone wallpaper with the press kit image. : r/Diablo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e3srokvah55a1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2021/03/diablo-iv-PS5-wallpapers-2023-03.png' alt='Diablo IV Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2021/03/diablo-iv-PS5-wallpapers-2023-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blizzard's Official Diablo IV Wallpapers | PureDiablo Forums - The ...">
+                                <img itemprop="contentUrl url" src='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38172-a63a49e09d27a68ea6db5d58860b8eac.jpg?1655404575' alt='Blizzard's Official Diablo IV Wallpapers | PureDiablo Forums - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pure Diablo" />
+                                </span>
+                                <a href='https://www.purediablo.com/forums/data/xfmg/thumbnail/38/38172-a63a49e09d27a68ea6db5d58860b8eac.jpg?1655404575' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo 4 Animated Wallpaper by Favorisxp on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfyfceh-6c402e97-1df2-4bf4-b00a-03f4515d17a0.jpg' alt='Diablo 4 Animated Wallpaper by Favorisxp on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dfyfceh-6c402e97-1df2-4bf4-b00a-03f4515d17a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diablo IV: #4 Hellgate & Lilith Mobile - Diablo Wallpaper and OS ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e60e9248-06f9-490b-b12c-9d80d57a40ea/ddl2pwy-02f51bae-36be-48c4-8ff4-8a1f23ca31f1.jpg/v1/fill/w_900,h_507,q_75,strp/diablo_iv__4__hellgate_by_holyknight3000_ddl2pwy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvZTYwZTkyNDgtMDZmOS00OTBiLWIxMmMtOWQ4MGQ1N2E0MGVhXC9kZGwycHd5LTAyZjUxYmFlLTM2YmUtNDhjNC04ZmY0LThhMWYyM2NhMzFmMS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.INX3VXmbEfpgo8I44YCimcUTVYYQH4rBuVwo0DYULrg' alt='Diablo IV: #4 Hellgate & Lilith Mobile - Diablo Wallpaper and OS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DiabloFans" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e60e9248-06f9-490b-b12c-9d80d57a40ea/ddl2pwy-02f51bae-36be-48c4-8ff4-8a1f23ca31f1.jpg/v1/fill/w_900,h_507,q_75,strp/diablo_iv__4__hellgate_by_holyknight3000_ddl2pwy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvZTYwZTkyNDgtMDZmOS00OTBiLWIxMmMtOWQ4MGQ1N2E0MGVhXC9kZGwycHd5LTAyZjUxYmFlLTM2YmUtNDhjNC04ZmY0LThhMWYyM2NhMzFmMS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.INX3VXmbEfpgo8I44YCimcUTVYYQH4rBuVwo0DYULrg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

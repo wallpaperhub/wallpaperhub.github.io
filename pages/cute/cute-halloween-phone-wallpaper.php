@@ -1,0 +1,129 @@
+<title>Adorable Halloween Phone Wallpapers for Festive Vibes</title>
+                    <meta name="description" content="Discover the cutest Halloween phone wallpapers that add a touch of fun to your device! Perfect for the spooky season, these charming backgrounds feature whimsical designs like pumpkins, ghosts, and more. Download now and celebrate Halloween with style!">
+                    <meta name="keywords" content="cute halloween phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-halloween-phone-wallpaper">
+                            <span itemprop="name">cute halloween phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Halloween Phone Wallpapers for Festive Vibes</h1>
+                <p>Transform your phone with adorable Halloween wallpapers that bring a festive vibe to your screen! From cute pumpkins and playful ghosts to friendly witches and cuddly bats, these charming designs are perfect for getting into the Halloween spirit. Customize your device and let your personality shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Best Halloween iPhone Wallpaper to Download for Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/74/4f/ef744fcb4a1516dd13c1a10bbeb74013.jpg' alt='40+ Best Halloween iPhone Wallpaper to Download for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/74/4f/ef744fcb4a1516dd13c1a10bbeb74013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Halloween Phone Wallpaper, background, cute, halloween, pastel">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33363487/r/il/2557b5/4231740959/il_fullxfull.4231740959_390f.jpg' alt='Pastel Halloween Phone Wallpaper, background, cute, halloween, pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33363487/r/il/2557b5/4231740959/il_fullxfull.4231740959_390f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' alt='Halloween phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,590 Cute Halloween Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/happy-halloween-party-seamless-pattern-600nw-2493596489.jpg' alt='97,590 Cute Halloween Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/happy-halloween-party-seamless-pattern-600nw-2493596489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin And Skull Cute Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pumpkin-and-skull-cute-halloween-iphone-f3wbc30r62cere1v.webp' alt='Pumpkin And Skull Cute Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pumpkin-and-skull-cute-halloween-iphone-f3wbc30r62cere1v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/41/04/e94104239f50b53629d2f4ff09b3b750.jpg' alt='halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/41/04/e94104239f50b53629d2f4ff09b3b750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who needs a new cute spooky phone background? Make sure to clear display  before you screenshot    #spookygirl #spooky #spookyseason #halloween #cute  #spookyvibes #aesthetic #background ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7412625604916284715&location=0&aid=1988' alt='Who needs a new cute spooky phone background? Make sure to clear display  before you screenshot    #spookygirl #spooky #spookyseason #halloween #cute  #spookyvibes #aesthetic #background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7412625604916284715&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Halloween Phone Ghost Boo And Stuff Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-halloween-phone-tcl0pe53781sgkxu.jpg' alt='Download Cute Halloween Phone Ghost Boo And Stuff Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-halloween-phone-tcl0pe53781sgkxu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple little spooky phone background I drew today! : r/halloween">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/izcknazxbct51.jpg' alt='Simple little spooky phone background I drew today! : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/izcknazxbct51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-pumpkin-graphics.jpg' alt='30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-pumpkin-graphics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

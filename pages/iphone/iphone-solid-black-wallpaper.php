@@ -1,0 +1,129 @@
+<title>Stunning Solid Black Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover sleek solid black wallpapers for your iPhone. Elevate your device’s look with minimalist designs that highlight your icons and bring a modern touch to your screen. Perfect for fans of elegance and simplicity! Explore our collection now!">
+                    <meta name="keywords" content="iphone solid black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-solid-black-wallpaper">
+                            <span itemprop="name">iphone solid black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Solid Black Wallpapers for Your iPhone</h1>
+                <p>Upgrade your iPhone with a stunning solid black wallpaper that enhances the device’s aesthetic. This minimalist design not only provides a sleek look but also makes other icons and images pop, ensuring a clean and modern appearance. Perfect for those who appreciate elegance and simplicity in their digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Problem with stock black wallpaper - Ipho… - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/1033714040' alt='Problem with stock black wallpaper - Ipho… - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/1033714040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I wanted a black wallpaper for my iPhone X but found true black ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ynd3as3qqxt01.jpg' alt='So I wanted a black wallpaper for my iPhone X but found true black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ynd3as3qqxt01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woven Solid Black Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/woven-solid-black-iphone-a40ddwpvvr4gzebn.jpg' alt='Woven Solid Black Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/woven-solid-black-iphone-a40ddwpvvr4gzebn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Solid Black Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/solid-black-iphone-642n3r2btmh4v9x1.jpg' alt='100+] Solid Black Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/solid-black-iphone-642n3r2btmh4v9x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, dark, full, gray, solid, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1024/373/HD-wallpaper-black-dark-full-gray-solid-thumbnail.jpg' alt='Black, dark, full, gray, solid, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1024/373/HD-wallpaper-black-dark-full-gray-solid-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Black Wallpapers For iPhone | Black Wallpapers For iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/d4/df/e0d4dfc75ffd2d7792eb8fc608c74b7d.jpg' alt='Solid Black Wallpapers For iPhone | Black Wallpapers For iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/d4/df/e0d4dfc75ffd2d7792eb8fc608c74b7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All black wallpaper | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/proxy.php?image=https%3A%2F%2Fheyeased.weebly.com%2Fuploads%2F4%2F9%2F1%2F1%2F49114053%2Fthe_x_gray.png&hash=e226faf30b0ce5dcd26eeb9b2c118b7b' alt='All black wallpaper | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/proxy.php?image=https%3A%2F%2Fheyeased.weebly.com%2Fuploads%2F4%2F9%2F1%2F1%2F49114053%2Fthe_x_gray.png&hash=e226faf30b0ce5dcd26eeb9b2c118b7b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Solid Black Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4613707.jpg' alt='iPhone X Solid Black Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4613707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Solid Black Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/sleek-solid-black-iphone-wallpaper-mgnvnmo2xu54u8ay.webp' alt='Simple Solid Black Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/sleek-solid-black-iphone-wallpaper-mgnvnmo2xu54u8ay.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pitch black, dark, phone, plain, solid, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/49/390/HD-wallpaper-s10-s10-plus-amoled-black-colors-dark-fete-gray-led-plain-solid-thumbnail.jpg' alt='Pitch black, dark, phone, plain, solid, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/49/390/HD-wallpaper-s10-s10-plus-amoled-black-colors-dark-fete-gray-led-plain-solid-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Peel and Stick Wallpaper for Glass: Style Made Simple</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="peel and stick wallpaper on glass">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-on-glass">
+                            <span itemprop="name">peel and stick wallpaper on glass</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peel and Stick Wallpaper for Glass: Style Made Simple</h1>
+                <p>Transform your space easily with peel and stick wallpaper on glass! This innovative solution allows you to add flair to windows, mirrors, or glass furniture without the hassle of traditional wallpaper. Simply measure, cut, and stick for a fresh look. It's removable, repositionable, and perfect for renters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr. Kate Watercolor Glass Peel & Stick Wallpaper in Blue">
+                                <img itemprop="contentUrl url" src='https://shop.mrkate.com/cdn/shop/products/RMK12316RL_RS4.jpg?v=1696320160&width=2000' alt='Mr. Kate Watercolor Glass Peel & Stick Wallpaper in Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr. Kate" />
+                                </span>
+                                <a href='https://shop.mrkate.com/cdn/shop/products/RMK12316RL_RS4.jpg?v=1696320160&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr. Kate Watercolor Glass Peel & Stick Wallpaper in Blue">
+                                <img itemprop="contentUrl url" src='https://shop.mrkate.com/cdn/shop/products/RMK12316RL_RS3.jpg?v=1696320160&width=2000' alt='Mr. Kate Watercolor Glass Peel & Stick Wallpaper in Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr. Kate" />
+                                </span>
+                                <a href='https://shop.mrkate.com/cdn/shop/products/RMK12316RL_RS3.jpg?v=1696320160&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr. Kate RMK12315RL Watercolor Glass Peel and Stick Wallpaper, Pink,  Orange, 28 Sq Ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91qRuI0NAsL._AC_UF894,1000_QL80_.jpg' alt='Mr. Kate RMK12315RL Watercolor Glass Peel and Stick Wallpaper, Pink,  Orange, 28 Sq Ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91qRuI0NAsL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Stained Glass Window Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716YhsdsABL.jpg' alt='Amazon.com: Stained Glass Window Peel & Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home Decor for  Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716YhsdsABL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper 28-sq ft Sea Glass Vinyl Abstract Self-adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/fd344db9-b24c-4f98-8739-790876baab4d/50309609.jpg?size=pdhism' alt='Tempaper 28-sq ft Sea Glass Vinyl Abstract Self-adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/fd344db9-b24c-4f98-8739-790876baab4d/50309609.jpg?size=pdhism' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Stained Glass Ocean Mosaic Abstract Sea  Botanicals Peel and Stick Removable Self-Adhesive PVC Wall Stickers for  Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/07670a68-0747-474f-af86-6f0ce1341193.77331fbc54fe3c3c6e385c7b03c5a91d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D Stained Glass Ocean Mosaic Abstract Sea  Botanicals Peel and Stick Removable Self-Adhesive PVC Wall Stickers for  Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/07670a68-0747-474f-af86-6f0ce1341193.77331fbc54fe3c3c6e385c7b03c5a91d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Lace Wall Border Transparent Peel and Stick Wallpaper Mirror Glass  Decor Tile Removable Waterproof Window Stickers - 10M - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CstEOIKBL.jpg' alt='Floral Lace Wall Border Transparent Peel and Stick Wallpaper Mirror Glass  Decor Tile Removable Waterproof Window Stickers - 10M - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1654">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CstEOIKBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Tranquil Stained Glass Skylight Peel and Stick  Removable Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Tranquil-Stained-Glass-Skylight-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Decor_c42a7704-b188-496a-ba03-da55eb5c7039.6509574b6c5dda90e9786e84e5e63364.jpeg' alt='Modern Wallpaper Murals 3D Tranquil Stained Glass Skylight Peel and Stick  Removable Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Tranquil-Stained-Glass-Skylight-Peel-Stick-Removable-Self-Adhesive-PVC-Wall-Stickers-Nursery-Kids-Bedroom-TV-Decor_c42a7704-b188-496a-ba03-da55eb5c7039.6509574b6c5dda90e9786e84e5e63364.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything I Learned Installing Peel-and-Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wildfireinteriors.com/wp-content/uploads/2024/01/cutting.jpg' alt='Everything I Learned Installing Peel-and-Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wildfire Interiors" />
+                                </span>
+                                <a href='https://wildfireinteriors.com/wp-content/uploads/2024/01/cutting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Charm - Whimsical Mermaid Toile Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/MT15243-sea-glass-mermaid-toile-peel-and-stick-wallpaper-bed-room.jpg?v=1691596566&width=480' alt='Coastal Charm - Whimsical Mermaid Toile Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/MT15243-sea-glass-mermaid-toile-peel-and-stick-wallpaper-bed-room.jpg?v=1691596566&width=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

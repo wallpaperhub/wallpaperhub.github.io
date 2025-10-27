@@ -1,0 +1,129 @@
+<title>Stylish Preppy Wallpaper Ideas for a Chic Home</title>
+                    <meta name="description" content="Discover the timeless elegance of preppy wallpaper! Explore trendy patterns and stylish designs to elevate your home decor effortlessly. Perfect for any room, our tips will help you create a chic and vibrant atmosphere that reflects your unique personality. Transform your space today!">
+                    <meta name="keywords" content="preppy wallpaper slay">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-slay">
+                            <span itemprop="name">preppy wallpaper slay</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Preppy Wallpaper Ideas for a Chic Home</h1>
+                <p>Preppy wallpaper slay brings a chic, sophisticated touch to any space with its vibrant patterns and refined aesthetics. From classic plaids to coastal designs, it's perfect for creating a stylish backdrop in bedrooms, living rooms, or home offices. Elevate your decor with a preppy wallpaper that showcases your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out calls_aesthetic's Shuffles #vibes #slay #preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/37/9a/fc/379afc23da3fc943831079df7cbba956.jpg' alt='Check out calls_aesthetic's Shuffles #vibes #slay #preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/37/9a/fc/379afc23da3fc943831079df7cbba956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out lilly_cunningham10's Shuffles #pink #preppy #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/38/51/8d/38518d26b1d9d1d64a8f8c90a36e0795.jpg' alt='Check out lilly_cunningham10's Shuffles #pink #preppy #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/38/51/8d/38518d26b1d9d1d64a8f8c90a36e0795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Very Preppy Wallpaper | Gallery posted by Slay | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7237845721868501509&index=0&sign=701f7263e9261df15674ca2e246c8c0c' alt='Very Preppy Wallpaper | Gallery posted by Slay | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7237845721868501509&index=0&sign=701f7263e9261df15674ca2e246c8c0c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy phone wallpaper // cow print // cowgirl print // preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/61/66/c16166a8c844ec6f7c3e72a3588842d7.jpg' alt='preppy phone wallpaper // cow print // cowgirl print // preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/61/66/c16166a8c844ec6f7c3e72a3588842d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/1c/95/041c958ca2d81294bfc011763b804441.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/1c/95/041c958ca2d81294bfc011763b804441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Slay ideas | preppy wallpaper, pretty wallpapers, iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/0b/68/e3/0b68e3dfef3da78f60c8ff09938572bf.jpg' alt='7 Slay ideas | preppy wallpaper, pretty wallpapers, iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/0b/68/e3/0b68e3dfef3da78f60c8ff09938572bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Slay Heart Graphic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-slay-heart-graphic-i611vvv94vj80byp.jpg' alt='Download Preppy Slay Heart Graphic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-slay-heart-graphic-i611vvv94vj80byp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Slay Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14343412.jpg' alt='Preppy Slay Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14343412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper #baddie #c #hotpink #preppy #slay">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/7f/8f/027f8f66c0bc8fecb3fd9a4ad7b41abf.jpg' alt='wallpaper #baddie #c #hotpink #preppy #slay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/7f/8f/027f8f66c0bc8fecb3fd9a4ad7b41abf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out penelopeleah_'s Shuffles #preppy #preppywallpaperslayyy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/13/87/47/1387471d32d6b2438c8d07b87517a674.jpg' alt='Check out penelopeleah_'s Shuffles #preppy #preppywallpaperslayyy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/13/87/47/1387471d32d6b2438c8d07b87517a674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

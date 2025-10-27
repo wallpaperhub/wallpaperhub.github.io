@@ -1,0 +1,129 @@
+<title>Pastel Preppy Wallpaper: Chic & Charming Decor</title>
+                    <meta name="description" content="Discover the elegance of pastel preppy wallpaper! Ideal for creating a stylish and serene atmosphere, our collection features soft colors and trendy patterns. Perfect for any room, elevate your decor with this charming wallpaper today!">
+                    <meta name="keywords" content="pastel:nrtk0wgkhk0= preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/pastelnrtk0wgkhk0-preppy-wallpaper">
+                            <span itemprop="name">pastel:nrtk0wgkhk0= preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Preppy Wallpaper: Chic & Charming Decor</h1>
+                <p>Transform your space with pastel preppy wallpaper that adds a touch of charm and elegance. Perfect for bedrooms, nurseries, or any serene space, these wallpapers feature soft colors and stylish patterns, blending classic preppy aesthetics with modern vibes. Elevate your decor effortlessly with this delightful choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic and preppy pastel wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/4a/31/ff4a31f74ebfa200b9ca2aeed06454d4.jpg' alt='Aesthetic and preppy pastel wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/4a/31/ff4a31f74ebfa200b9ca2aeed06454d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Preppy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16288112/p/f/m/GGUa9XEqJqvl8HM9TIr2gRrZRe52TpgnjJjRfJgHNW1SjP1LWswC/Coquette%20Pink%20Bow%20Pattern.jpg' alt='Pastel Preppy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16288112/p/f/m/GGUa9XEqJqvl8HM9TIr2gRrZRe52TpgnjJjRfJgHNW1SjP1LWswC/Coquette%20Pink%20Bow%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Peachy Hollow Preppy Pfp Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pastel-peachy-hollow-preppy-pfp-cvt9c516ymx8my6i.jpg' alt='Pastel Peachy Hollow Preppy Pfp Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pastel-peachy-hollow-preppy-pfp-cvt9c516ymx8my6i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/98/18/f09818854c5153ab2b14cc7edf3b9c99.jpg' alt='Preppy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/98/18/f09818854c5153ab2b14cc7edf3b9c99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/8a/5f/6d8a5f31a70d6434430f7f6bf1a41589.jpg' alt='Aesthetic Wallpaper Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/8a/5f/6d8a5f31a70d6434430f7f6bf1a41589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Pastel Wallpapers / Backgrounds - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50186391/r/il/1ef263/5782669129/il_570xN.5782669129_snpp.jpg' alt='Preppy Pastel Wallpapers / Backgrounds - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50186391/r/il/1ef263/5782669129/il_570xN.5782669129_snpp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' alt='100+] Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-zzos3ubt8dibwosv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Pastel Abstract Art.jpg Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-pastel-abstract-art-jpg-cugt6fz5on4xao9g.jpg' alt='Download Preppy Pastel Abstract Art.jpg Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-pastel-abstract-art-jpg-cugt6fz5on4xao9g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Preppy Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16573876/p/f/m/SH4Bym6Mn8LW9R0v2g-6cXdVEoU4YKQ3RTKl1Ae68-L-8cS5xXaVxCkAhQ/EASTER%20PASTEL%20BUNNIES%2C%20RABBITS%2C%20CARROTS%2C%20EASTER%20EGGS%2C%20SPRING%20PREPPY%20GRAND%20MILLENNIAL%2C%20DITSY%20SPRING%20FLORAL%20PF152a.jpg' alt='Pastel Preppy Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16573876/p/f/m/SH4Bym6Mn8LW9R0v2g-6cXdVEoU4YKQ3RTKl1Ae68-L-8cS5xXaVxCkAhQ/EASTER%20PASTEL%20BUNNIES%2C%20RABBITS%2C%20CARROTS%2C%20EASTER%20EGGS%2C%20SPRING%20PREPPY%20GRAND%20MILLENNIAL%2C%20DITSY%20SPRING%20FLORAL%20PF152a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PREPPY PASTEL WALLPAPER       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/de/d4/f3ded4c0eb3bfdebeb028f908674be8b.jpg' alt='PREPPY PASTEL WALLPAPER       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/de/d4/f3ded4c0eb3bfdebeb028f908674be8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

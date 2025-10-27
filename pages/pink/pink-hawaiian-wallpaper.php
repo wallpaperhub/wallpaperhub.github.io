@@ -1,0 +1,129 @@
+<title>Vibrant Pink Hawaiian Wallpaper for Tropical Decor</title>
+                    <meta name="description" content="Explore stunning pink Hawaiian wallpaper that enhances your home with tropical charm. Ideal for any room, this floral design adds warmth and vibrancy to your decor. Discover how to create a blissful, inviting space today!">
+                    <meta name="keywords" content="pink hawaiian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-hawaiian-wallpaper">
+                            <span itemprop="name">pink hawaiian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Hawaiian Wallpaper for Tropical Decor</h1>
+                <p>Transform your space with pink Hawaiian wallpaper, a vibrant choice that brings tropical flair to any room. Featuring lush florals and palm leaves, this wallpaper creates a serene and inviting atmosphere. Perfect for accent walls or entire rooms, it’s an ideal way to celebrate the beauty of Hawaii in your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hawaii Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14986635/p/f/m/QG5EdlW59UyAA5JUJQvfugU-STcgEGzQxfQE332_B96r_fNDs7PXUBY/PINK%20HAWAIIAN%20FLOWERS%20ON%20WHITE%20-%20SMALL%20SIZE.jpg' alt='Pink Hawaii Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14986635/p/f/m/QG5EdlW59UyAA5JUJQvfugU-STcgEGzQxfQE332_B96r_fNDs7PXUBY/PINK%20HAWAIIAN%20FLOWERS%20ON%20WHITE%20-%20SMALL%20SIZE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Swatch - Hibiscus Tropical Flowers Floral Teal ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61QPQdyFA9L._AC_UF894,1000_QL80_.jpg' alt='Removable Wallpaper Swatch - Hibiscus Tropical Flowers Floral Teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61QPQdyFA9L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hawaiian flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/a5/9b/7ba59bc72b938671e24ee9254be10453.jpg' alt='Pink Hawaiian flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/a5/9b/7ba59bc72b938671e24ee9254be10453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic trendy simple pink hibiscus print trendy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/39/af/a839af470c3cafc207dec9c1c00a1c3b.jpg' alt='Aesthetic trendy simple pink hibiscus print trendy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/39/af/a839af470c3cafc207dec9c1c00a1c3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hawaii Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16630735/p/f/m/PHKf816mW6ogQQTzUYBH91macYxIp8X6sFSqPnkvDhHkWrUp9EP1Gn6L8A/Hebrew%20Puas%20Chocolate%20.jpg' alt='Pink Hawaii Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16630735/p/f/m/PHKf816mW6ogQQTzUYBH91macYxIp8X6sFSqPnkvDhHkWrUp9EP1Gn6L8A/Hebrew%20Puas%20Chocolate%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless hibiscus illustration pattern, pink, background image of ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/66/44/92/1000_F_266449287_Atfge5cm9sOLnTZyMBV60PjMwCxLhsjh.jpg' alt='Seamless hibiscus illustration pattern, pink, background image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/66/44/92/1000_F_266449287_Atfge5cm9sOLnTZyMBV60PjMwCxLhsjh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfer Girl Pink Hawaiian Flowers Wallpaper – Extremely Stoked">
+                                <img itemprop="contentUrl url" src='https://extremelystoked.com/cdn/shop/files/14986166-surfer-girl-pink-hawaiian-flowers-on-white-large-scale-by-surferbedding_9109d823-3eee-4a13-82d1-e0d0aa64394c_large.jpg?v=1698780584' alt='Surfer Girl Pink Hawaiian Flowers Wallpaper – Extremely Stoked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Extremely Stoked" />
+                                </span>
+                                <a href='https://extremelystoked.com/cdn/shop/files/14986166-surfer-girl-pink-hawaiian-flowers-on-white-large-scale-by-surferbedding_9109d823-3eee-4a13-82d1-e0d0aa64394c_large.jpg?v=1698780584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer hibiscus hawaiian flower aesthetic trendy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/e7/06/12e70635f6bf7b1821cc84c2d21258a5.jpg' alt='Summer hibiscus hawaiian flower aesthetic trendy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/e7/06/12e70635f6bf7b1821cc84c2d21258a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical hibiscus plumeria floral plant exotic vector beach ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/59/36/81/1000_F_259368186_5Hepq3TMiocsO0ZozU1gLceJt9Qq3Kdz.jpg' alt='Tropical hibiscus plumeria floral plant exotic vector beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/59/36/81/1000_F_259368186_5Hepq3TMiocsO0ZozU1gLceJt9Qq3Kdz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Pink Coastal Surfer Tropical ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61PoZD9A1zL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Pink Coastal Surfer Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61PoZD9A1zL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

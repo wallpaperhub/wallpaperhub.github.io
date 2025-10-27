@@ -1,0 +1,129 @@
+<title>A Boogie: Rise of a Bronx Star</title>
+                    <meta name="description" content="Discover A Boogie, the Bronx rapper blending hip-hop with R&B. Explore his hits, style, and rise to fame in the music industry. Perfect for fans of catchy melodies and relatable lyrics! Join the journey of A Boogie wit da Hoodie today!">
+                    <meta name="keywords" content="a boogie">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/a-boogie">
+                            <span itemprop="name">a boogie</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A Boogie: Rise of a Bronx Star</h1>
+                <p>A Boogie, also known as A Boogie wit da Hoodie, is a talented American rapper and singer hailing from the Bronx. Known for his melodic sound and relatable lyrics, he gained fame with hits like "Drowning" and "Look Back at It." A Boogie's unique style blends hip-hop with R&B, making him a standout artist in today's music scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie wit da Hoodie - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1e/A_Boogie_wit_da_Hoodie_2024.png' alt='A Boogie wit da Hoodie - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1e/A_Boogie_wit_da_Hoodie_2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit da Hoodie - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/m5_V5gQ1YLTegej64Inplh7jH_EefOtR1x1MRiv7QDwYasO3YC9Qtnq4nOHVR9d83i7FKQ3HtS4=s900-c-k-c0x00ffffff-no-rj' alt='A Boogie Wit da Hoodie - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/m5_V5gQ1YLTegej64Inplh7jH_EefOtR1x1MRiv7QDwYasO3YC9Qtnq4nOHVR9d83i7FKQ3HtS4=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit da Hoodie | iHeart">
+                                <img itemprop="contentUrl url" src='https://iscale.iheart.com/catalog/artist/31256620' alt='A Boogie Wit da Hoodie | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://iscale.iheart.com/catalog/artist/31256620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How A Boogie Wit Da Hoodie Made 'Artist 2.0'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2019/08/a-boogie-wit-da-hoodie-from-print.jpg' alt='How A Boogie Wit Da Hoodie Made 'Artist 2.0''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2019/08/a-boogie-wit-da-hoodie-from-print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit Da Hoodie: Bronx Rapper Wants to Be Your Mirror">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/a-boogie-with-a-hoodie-opener-c114326f-f73e-45b9-8b8e-0801d8bd5e86.jpg' alt='A Boogie Wit Da Hoodie: Bronx Rapper Wants to Be Your Mirror'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/a-boogie-with-a-hoodie-opener-c114326f-f73e-45b9-8b8e-0801d8bd5e86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit da Hoodie - Rapper, Singer, Songwriter">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/1020605_v9_bb.jpg' alt='A Boogie Wit da Hoodie - Rapper, Singer, Songwriter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/1020605_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How A-Boogie Made His Hit Song “My Shit” In 30 Minutes | The FADER">
+                                <img itemprop="contentUrl url" src='https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/A-Boogie_B_W_ug3shn/a-boogie-my-shit-interview.jpg' alt='How A-Boogie Made His Hit Song “My Shit” In 30 Minutes | The FADER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="1087">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fader" />
+                                </span>
+                                <a href='https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/A-Boogie_B_W_ug3shn/a-boogie-my-shit-interview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit da Hoodie Interview: Talks New Album 'Artist 2.0 ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/A-Boogie-wit-da-hoodie-press-cr-Xavier-Codie-billboard-1548.jpg' alt='A Boogie Wit da Hoodie Interview: Talks New Album 'Artist 2.0 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/A-Boogie-wit-da-hoodie-press-cr-Xavier-Codie-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit da Hoodie Hasn't Stretched (or Slept) in Three Days ...">
+                                <img itemprop="contentUrl url" src='https://www.interviewmagazine.com/wp-content/uploads/2019/07/EricJohnson_ABoogie_CLR_02_Delivered_02.jpg' alt='A Boogie Wit da Hoodie Hasn't Stretched (or Slept) in Three Days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3420">
+                                <meta itemprop="height" content="5083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interview Magazine" />
+                                </span>
+                                <a href='https://www.interviewmagazine.com/wp-content/uploads/2019/07/EricJohnson_ABoogie_CLR_02_Delivered_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Boogie Wit Da Hoodie Reaches No. 1 With a Dubious Distinction ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/01/15/arts/15billboard/merlin_148299597_ae82282a-d09d-4525-b9cc-9e85f42be9d7-superJumbo.jpg' alt='A Boogie Wit Da Hoodie Reaches No. 1 With a Dubious Distinction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/01/15/arts/15billboard/merlin_148299597_ae82282a-d09d-4525-b9cc-9e85f42be9d7-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

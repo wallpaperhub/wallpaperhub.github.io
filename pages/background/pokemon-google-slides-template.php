@@ -1,0 +1,129 @@
+<title>Catch 'Em All: Pokémon Google Slides Template for Fun Presentations</title>
+                    <meta name="description" content="Discover the ultimate Pokémon Google Slides template! Perfect for engaging presentations, this template is colorful, customizable, and ideal for fans of all ages. Make your slides stand out with unique Pokémon designs that captivate your audience. Get started now and transform your ideas into an exciting visual experience!">
+                    <meta name="keywords" content="pokemon google slides template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pokemon-google-slides-template">
+                            <span itemprop="name">pokemon google slides template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Catch 'Em All: Pokémon Google Slides Template for Fun Presentations</h1>
+                <p>Elevate your presentations with our captivating Pokémon Google Slides template! Perfect for fans and educators alike, this template features vibrant designs, Pokémon icons, and customizable layouts to showcase your ideas in a fun way. Whether for school projects or personal use, bring your slides to life with a touch of Pokémon magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Google Slides and PowerPoint Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/84427-pokemon-powerpoint-slide.png' alt='Pokemon Google Slides and PowerPoint Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/84427-pokemon-powerpoint-slide.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Chrome Themes Template in PPT, PDF, Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/324204/pokemon-chrome-themes-template-8sdvq.jpg' alt='Pokemon Chrome Themes Template in PPT, PDF, Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/324204/pokemon-chrome-themes-template-8sdvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon PowerPoint Presentation Template & Google Slides Theme">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2024/05/Pokemon-PowerPoint-Presentation-Template.jpeg' alt='Pokemon PowerPoint Presentation Template & Google Slides Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2024/05/Pokemon-PowerPoint-Presentation-Template.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free - Pokemon Theme for PowerPoint and Google Slides - PPT Slides">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/f/d/fd10d075cf1105ffd9a77ac6c04b9890bc7dd569b2248fa937b291d243d8ad16/pokemon-theme-slide1.png' alt='Free - Pokemon Theme for PowerPoint and Google Slides - PPT Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/f/d/fd10d075cf1105ffd9a77ac6c04b9890bc7dd569b2248fa937b291d243d8ad16/pokemon-theme-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Animated Whos That Pokemon Template">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2022/10/Whos-That-Pokemon-Meme.jpg' alt='Free Animated Whos That Pokemon Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2022/10/Whos-That-Pokemon-Meme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Presentation Template">
+                                <img itemprop="contentUrl url" src='https://public-files.gumroad.com/nl3d1kvtdta2zj9urh22zqjb4d02' alt='Pokémon Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D Story Presentation Templates" />
+                                </span>
+                                <a href='https://public-files.gumroad.com/nl3d1kvtdta2zj9urh22zqjb4d02' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Chrome Themes Template in PPT, PDF, Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/324204/pokemon-chrome-themes-template-e4dlu.jpg' alt='Pokemon Chrome Themes Template in PPT, PDF, Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/324204/pokemon-chrome-themes-template-e4dlu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Emerald Themed PowerPoint Template | Animated PowerPoint Template |  Academic Presentation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CKMctfTgk08/maxresdefault.jpg' alt='Pokémon Emerald Themed PowerPoint Template | Animated PowerPoint Template |  Academic Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CKMctfTgk08/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokédex Themed PowerPoint Template | Animated PowerPoint Template |  Academic Presentation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nQyV8qomoW4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5kEpIm_tTcUMpayDhxVbFa7bX6w' alt='Pokédex Themed PowerPoint Template | Animated PowerPoint Template |  Academic Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nQyV8qomoW4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5kEpIm_tTcUMpayDhxVbFa7bX6w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free - Pokemon Theme for PowerPoint and Google Slides - PPT Slides">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/6/9/69594372eecaaaf97168a205e56b7f6362a4753583e80242478a33ad3e1fd48d/pokemon-theme-slide12.png' alt='Free - Pokemon Theme for PowerPoint and Google Slides - PPT Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/6/9/69594372eecaaaf97168a205e56b7f6362a4753583e80242478a33ad3e1fd48d/pokemon-theme-slide12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

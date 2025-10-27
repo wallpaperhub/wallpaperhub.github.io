@@ -1,0 +1,129 @@
+<title>Wisteria Aesthetic Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of wisteria aesthetic wallpaper! Enhance your decor with stunning floral designs that bring a serene ambiance to any room. Perfect for homes and offices alike—embrace nature's elegance today!">
+                    <meta name="keywords" content="wisteria aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wisteria-aesthetic-wallpaper">
+                            <span itemprop="name">wisteria aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wisteria Aesthetic Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with enchanting wisteria aesthetic wallpaper, infused with dreamy hues of purple and soft tones. Perfect for creating a serene atmosphere, these wallpapers evoke the elegance of nature. Ideal for bedrooms, living rooms, or creative spaces, wisteria motifs add a touch of whimsy and beauty to any decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wisteria">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/64/a1/a964a100729912b72d98158e1d6f5986.jpg' alt='Wisteria'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/64/a1/a964a100729912b72d98158e1d6f5986.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wisteria Tree Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c0/d2/fa/c0d2fa43732b025623dd1eee0ec45a06.jpg' alt='Wisteria Tree Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c0/d2/fa/c0d2fa43732b025623dd1eee0ec45a06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wisteria Tree Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-wisteria-tree-3g8tvi56tj7nmiit.jpg' alt='Purple Wisteria Tree Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-wisteria-tree-3g8tvi56tj7nmiit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wisteria Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4d/70/70/4d707083786636e2721d36e096c3ae7c.jpg' alt='Wisteria Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4d/70/70/4d707083786636e2721d36e096c3ae7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wisteria Aesthetic Purple Flower Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-purple-flower-rociyf86a85ov7ve.jpg' alt='Download Wisteria Aesthetic Purple Flower Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-purple-flower-rociyf86a85ov7ve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travel Inspiration">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/01/be/b501be2774186e07b61c98e799c009f6.jpg' alt='Travel Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/01/be/b501be2774186e07b61c98e799c009f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wisteria iPhone Wallpaper - Etsy Israel">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26972915/r/il/b7a9c1/2769878262/il_fullxfull.2769878262_2rj1.jpg' alt='Wisteria iPhone Wallpaper - Etsy Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26972915/r/il/b7a9c1/2769878262/il_fullxfull.2769878262_2rj1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese Wisteria Flowers · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/7763793/pexels-photo-7763793.jpeg' alt='Chinese Wisteria Flowers · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3376">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/7763793/pexels-photo-7763793.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spring Branch Bokeh Purple Purple Flower Flower Nature ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/685/685372.jpg' alt='Download Spring Branch Bokeh Purple Purple Flower Flower Nature ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/685/685372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful wisteria tree, pretty, lovely, beautiful colorful colors ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/329/415/HD-wallpaper-beautiful-wisteria-tree-pretty-lovely-beautiful-colorful-colors-beautiful-wisteria-tree-purple-nature-pink.jpg' alt='Beautiful wisteria tree, pretty, lovely, beautiful colorful colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/329/415/HD-wallpaper-beautiful-wisteria-tree-pretty-lovely-beautiful-colorful-colors-beautiful-wisteria-tree-purple-nature-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

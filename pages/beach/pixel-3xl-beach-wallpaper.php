@@ -1,0 +1,129 @@
+<title>Stunning Beach Wallpapers for Pixel 3 XL</title>
+                    <meta name="description" content="Discover beautiful beach wallpapers for your Pixel 3 XL. Choose from high-quality images that bring the ocean's beauty to your phone. Perfect for anyone looking to escape to a tropical paradise every time they unlock their device. Dive into a world of serenity and sunshine!">
+                    <meta name="keywords" content="pixel 3xl beach wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/pixel-3xl-beach-wallpaper">
+                            <span itemprop="name">pixel 3xl beach wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Beach Wallpapers for Pixel 3 XL</h1>
+                <p>Transform your Pixel 3 XL with stunning beach wallpapers that evoke the serenity of sandy shores and azure waters. Whether you're dreaming of a tropical getaway or a sunset by the sea, find a variety of high-resolution options to personalize your device. Embrace the summer vibes and make your phone a beach paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 3 XL, beach, ocean, oceans, waves, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/212/428/HD-wallpaper-pixel-3-xl-abej-beach-beograd-ocean-oceans-waves.jpg' alt='Pixel 3 XL, beach, ocean, oceans, waves, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/212/428/HD-wallpaper-pixel-3-xl-abej-beach-beograd-ocean-oceans-waves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pixel 3 Beach Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-0crvjtcgb5008lo3.jpg' alt='100+] Pixel 3 Beach Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-0crvjtcgb5008lo3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pixel beach wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/316/537/HD-wallpaper-pixel-2-beach-f.jpg' alt='HD pixel beach wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/316/537/HD-wallpaper-pixel-2-beach-f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Waters Splashing Pixel 3 Summer Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-summer-background-td4lyiga850bhcyt.jpg' alt='Download Blue Waters Splashing Pixel 3 Summer Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-summer-background-td4lyiga850bhcyt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Googlepixel, beach, google, stoche, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/700/936/HD-wallpaper-beach-googlepixel-beach-google-stock.jpg' alt='Beach Googlepixel, beach, google, stoche, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/700/936/HD-wallpaper-beach-googlepixel-beach-google-stock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pixel 3xl beach wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/3b/ff/623bff1d566aba6fbd03b21337419fb0.jpg' alt='pixel 3xl beach wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/3b/ff/623bff1d566aba6fbd03b21337419fb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pixel 3 Beach Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-1rc1s1a67vp9bh5v.jpg' alt='100+] Pixel 3 Beach Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-1rc1s1a67vp9bh5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave, android, google, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/692/636/HD-wallpaper-wave-android-google.jpg' alt='Wave, android, google, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/692/636/HD-wallpaper-wave-android-google.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pixel 3 Beach Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-v5hxespwuvzpnurs.jpg' alt='100+] Pixel 3 Beach Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-beach-background-1080-x-2160-v5hxespwuvzpnurs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Beach In Wallpapers — Page 19">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/mac/minimal-sunset-at-the-beach-pretty-peach-color-06-10-2024-1728279532-hd-wallpaper.jpg' alt='Most Popular Beach In Wallpapers — Page 19'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/mac/minimal-sunset-at-the-beach-pretty-peach-color-06-10-2024-1728279532-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

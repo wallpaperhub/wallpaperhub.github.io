@@ -1,0 +1,129 @@
+<title>Charming Pink Poodle Wallpaper for Stylish Spaces</title>
+                    <meta name="description" content="Add a playful pop of color to your room with our pink poodle wallpaper. Ideal for kids' rooms and playful decor, this easy-to-apply wallpaper brings a fun vibe to any space. Perfect for dog lovers, it combines style and charm effortlessly. Refresh your walls today!">
+                    <meta name="keywords" content="pink poodle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-poodle-wallpaper">
+                            <span itemprop="name">pink poodle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Poodle Wallpaper for Stylish Spaces</h1>
+                <p>Transform your space with charming pink poodle wallpaper! Perfect for adding a whimsical touch to nurseries, kids' rooms, or any fun-loving area. This delightful design features cute poodles in lovely pink tones that create a cheerful atmosphere. Easy to apply and remove, it’s a stylish choice for dog lovers and decor enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1/6 Poodle Dollhouse Wallpaper 1:6 1950s Retro Pink Poodle ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24410683/r/il/c5a343/6257061434/il_fullxfull.6257061434_owon.jpg' alt='1/6 Poodle Dollhouse Wallpaper 1:6 1950s Retro Pink Poodle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24410683/r/il/c5a343/6257061434/il_fullxfull.6257061434_owon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Poodle Images – Browse 10,485 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/35/33/98/360_F_1035339879_iSaI0XhEEP67Giz38WpBID2elPA9Wzut.jpg' alt='Pink Poodle Images – Browse 10,485 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/35/33/98/360_F_1035339879_iSaI0XhEEP67Giz38WpBID2elPA9Wzut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fascinated with French Poodles | Cooper Hewitt, Smithsonian Design ...">
+                                <img itemprop="contentUrl url" src='https://www.cooperhewitt.org/wp-content/uploads/2013/02/1989-48-1.jpg' alt='Fascinated with French Poodles | Cooper Hewitt, Smithsonian Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cooper Hewitt" />
+                                </span>
+                                <a href='https://www.cooperhewitt.org/wp-content/uploads/2013/02/1989-48-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Front Pink Poodle Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/standard-poodle-dyed-neon-pink-260nw-1636305052.jpg' alt='Front Pink Poodle Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/standard-poodle-dyed-neon-pink-260nw-1636305052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110+ Pink Poodle Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1488926299/vector/seamless-dog-pattern.jpg?s=612x612&w=0&k=20&c=ZGYFxF4khrl4AcQeoq7VNtNgvz9mlbSOgYAS1SO1zXA=' alt='110+ Pink Poodle Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1488926299/vector/seamless-dog-pattern.jpg?s=612x612&w=0&k=20&c=ZGYFxF4khrl4AcQeoq7VNtNgvz9mlbSOgYAS1SO1zXA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Pink Poodle">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/download(s3:700/FO/24/91/37/90/700_FO24913790_31d5c5083c7a669d707ca05a393be6b4.jpg):pattern(0.2381w,0.2381h):resize(574,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,354,650):format(jpg)/wallpapers-pink-poodle.jpg.jpg' alt='Wallpaper Pink Poodle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/download(s3:700/FO/24/91/37/90/700_FO24913790_31d5c5083c7a669d707ca05a393be6b4.jpg):pattern(0.2381w,0.2381h):resize(574,700):compose(download(cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png),over,354,650):format(jpg)/wallpapers-pink-poodle.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage pink poodle wallpaper... and pink checkerboard teapot ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d8/e8/28/d8e828486130cef8ccf363428ed1be2d.jpg' alt='Vintage pink poodle wallpaper... and pink checkerboard teapot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d8/e8/28/d8e828486130cef8ccf363428ed1be2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Poodle Images – Browse 10,485 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/65/88/86/360_F_1165888618_p9CHU5Elbwi9gNEZ66jRvtRqUwfGec2e.jpg' alt='Pink Poodle Images – Browse 10,485 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/65/88/86/360_F_1165888618_p9CHU5Elbwi9gNEZ66jRvtRqUwfGec2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poochi, Poodle Pink">
+                                <img itemprop="contentUrl url" src='https://thepatterncollective.com/cdn/shop/products/PoochiPoodlePink_DivineSavages_ThePatternCollective.png?v=1625791340&width=1080' alt='Poochi, Poodle Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='https://thepatterncollective.com/cdn/shop/products/PoochiPoodlePink_DivineSavages_ThePatternCollective.png?v=1625791340&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Poodle Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16424581/p/f/m/rXBmzL-3ul9rYKgEtBO0bdAej9ysa-2wBdxFOQ0tRk7_lB5NDSCqqSY/TINY-Tattoo%20Poodle%20on%20Pink%20.jpg' alt='Pink Poodle Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16424581/p/f/m/rXBmzL-3ul9rYKgEtBO0bdAej9ysa-2wBdxFOQ0tRk7_lB5NDSCqqSY/TINY-Tattoo%20Poodle%20on%20Pink%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

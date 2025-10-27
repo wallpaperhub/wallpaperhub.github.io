@@ -1,0 +1,129 @@
+<title>Jack Hughes iPhone Wallpapers: Show Your Support!</title>
+                    <meta name="description" content="Discover the best Jack Hughes wallpapers for your iPhone! Download high-quality designs featuring the hockey star to personalize your device. Perfect for fans wanting to showcase their love for the game and Jack Hughes. Explore now and elevate your phone's look!">
+                    <meta name="keywords" content="jack hughes wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jack-hughes-wallpaper-iphone">
+                            <span itemprop="name">jack hughes wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jack Hughes iPhone Wallpapers: Show Your Support!</h1>
+                <p>Enhance your iPhone with stunning Jack Hughes wallpapers! Featuring dynamic action shots and vibrant designs, these wallpapers showcase the talented NHL player in all his glory. Perfect for fans wanting to personalize their devices with unique images of Hughes. Download your favorite now and support your team in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Hughes iPhone Wallpaper New Jersey Devils by motzaburger on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/078fb2d4-a044-4504-8a8e-d6b474319a5d/ddgubav-fab806ab-7de4-40d2-9e7d-4d2dc3fbba11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3OGZiMmQ0LWEwNDQtNDUwNC04YThlLWQ2YjQ3NDMxOWE1ZFwvZGRndWJhdi1mYWI4MDZhYi03ZGU0LTQwZDItOWU3ZC00ZDJkYzNmYmJhMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5qwMkSDM_Tg_wGLvrMUeoaaoMUcjVg5UNoeS8P4WMms' alt='Jack Hughes iPhone Wallpaper New Jersey Devils by motzaburger on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/078fb2d4-a044-4504-8a8e-d6b474319a5d/ddgubav-fab806ab-7de4-40d2-9e7d-4d2dc3fbba11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3OGZiMmQ0LWEwNDQtNDUwNC04YThlLWQ2YjQ3NDMxOWE1ZFwvZGRndWJhdi1mYWI4MDZhYi03ZGU0LTQwZDItOWU3ZC00ZDJkYzNmYmJhMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5qwMkSDM_Tg_wGLvrMUeoaaoMUcjVg5UNoeS8P4WMms' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/5b/a9/eb5ba9693710ab61ea9340aa0723a73d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/5b/a9/eb5ba9693710ab61ea9340aa0723a73d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JACK HUGHES WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/5f/41/db5f418ef51130fe9fe544876d9ba641.jpg' alt='JACK HUGHES WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/5f/41/db5f418ef51130fe9fe544876d9ba641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jack Hughes Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rising-star-jack-hughes-in-action-h1h2icskli3c6q00.jpg' alt='100+] Jack Hughes Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rising-star-jack-hughes-in-action-h1h2icskli3c6q00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Hockey Meets Art — wallpapers • ty smith & jack hughes + fun ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2cf9798acdba9f755e0b8e2c20a82d07/560bd5dec814ba72-20/s2048x3072/7bb6af93a12e345b4981cd015d377053891497ce.jpg' alt='Where Hockey Meets Art — wallpapers • ty smith & jack hughes + fun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Where Hockey Meets Art - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2cf9798acdba9f755e0b8e2c20a82d07/560bd5dec814ba72-20/s2048x3072/7bb6af93a12e345b4981cd015d377053891497ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jack Hughes Ice Hockey Player Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jack-hughes-ice-hockey-player-dx1ercunom75ejs2.jpg' alt='Download Jack Hughes Ice Hockey Player Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jack-hughes-ice-hockey-player-dx1ercunom75ejs2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Hughes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/23/ca/fd23ca624b194daa72b7b2ffac075c31.jpg' alt='Jack Hughes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/23/ca/fd23ca624b194daa72b7b2ffac075c31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Hughes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/a1/c1/a0a1c1ca527e3ab0d62b0cbbee01fd19.jpg' alt='Jack Hughes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/a1/c1/a0a1c1ca527e3ab0d62b0cbbee01fd19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Hockey Meets Art — wallpapers • jack hughes + simple (iphone ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/82358dfa98ca119210a0de66576bdfa2/c4c53eb1fa1e3e45-23/s2048x3072/c4e1d4ee53b7157a2f7e174ec31a201cae858633.png' alt='Where Hockey Meets Art — wallpapers • jack hughes + simple (iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Where Hockey Meets Art - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/82358dfa98ca119210a0de66576bdfa2/c4c53eb1fa1e3e45-23/s2048x3072/c4e1d4ee53b7157a2f7e174ec31a201cae858633.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GSANEI Jack Hughes Ice Hockey Art Poster Picture Print Canvas Wall Paint  Arts Decor Modern Home Artworks Gift Idea 08x12inch(20x30cm)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Ro0yNJocL._AC_UF894,1000_QL80_.jpg' alt='GSANEI Jack Hughes Ice Hockey Art Poster Picture Print Canvas Wall Paint  Arts Decor Modern Home Artworks Gift Idea 08x12inch(20x30cm)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Ro0yNJocL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

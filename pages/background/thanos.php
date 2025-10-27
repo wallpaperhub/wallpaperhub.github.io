@@ -1,0 +1,129 @@
+<title>Understanding Thanos: The Mad Titan's Quest for Infinity</title>
+                    <meta name="description" content="Explore the depth of Thanos, Marvel's infamous Mad Titan! Discover his motivations, powers, and impact on the Marvel Cinematic Universe. Delve into the complexities of his character and the epic battles against our beloved heroes. Join the journey through the cosmos with Thanos!">
+                    <meta name="keywords" content="thanos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thanos">
+                            <span itemprop="name">thanos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Thanos: The Mad Titan's Quest for Infinity</h1>
+                <p>Thanos, the iconic Marvel supervillain, is known for his quest to obtain the Infinity Stones to enact his vision of balance in the universe. With his immense strength and intelligence, he poses a significant threat to heroes like Thor, Iron Man, and the Avengers. His complex motivations challenge the idea of good versus evil, making him a compelling character.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos | Marvel Cinematic Universe Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Thanos_Infobox.png/revision/latest?cb=20250119155740' alt='Thanos | Marvel Cinematic Universe Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel Cinematic Universe Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Thanos_Infobox.png/revision/latest?cb=20250119155740' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Thanos snap for real: Let's remove humans from half of Earth ...">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/articles/01GFZjPqzBpVYEfUSUNiuoa/hero-image.fill.size_1200x900.v1623384687.jpg' alt='The Thanos snap for real: Let's remove humans from half of Earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/articles/01GFZjPqzBpVYEfUSUNiuoa/hero-image.fill.size_1200x900.v1623384687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos (Marvel Cinematic Universe) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Josh_Brolin_as_Thanos.jpeg/220px-Josh_Brolin_as_Thanos.jpeg' alt='Thanos (Marvel Cinematic Universe) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Josh_Brolin_as_Thanos.jpeg/220px-Josh_Brolin_as_Thanos.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos | Marvel Movies | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marvelmovies/images/f/f4/Behold_The_Mad_Titan_Thanos.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180324234750' alt='Thanos | Marvel Movies | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel Movies Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marvelmovies/images/f/f4/Behold_The_Mad_Titan_Thanos.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180324234750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/c/cd/Thanos_Infinity_4.png' alt='Thanos - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="271">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/c/cd/Thanos_Infinity_4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers: Endgame: Marvel Toys May Reveal Thanos' New Weapon">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/t/ign_ap/news/a/avengers-e/avengers-endgame-marvel-toys-may-reveal-thanos-new-weapon_d11x.1200.jpg' alt='Avengers: Endgame: Marvel Toys May Reveal Thanos' New Weapon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://sm.ign.com/t/ign_ap/news/a/avengers-e/avengers-endgame-marvel-toys-may-reveal-thanos-new-weapon_d11x.1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Fans Are Convinced That Thanos's Snap Wasn't Random in ...">
+                                <img itemprop="contentUrl url" src='https://comicbook.com/wp-content/uploads/sites/4/2025/01/Josh-Brolin-as-Thanos-in-Avengers-Infinity-War.jpg?w=1024' alt='Marvel Fans Are Convinced That Thanos's Snap Wasn't Random in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ComicBook.com" />
+                                </span>
+                                <a href='https://comicbook.com/wp-content/uploads/sites/4/2025/01/Josh-Brolin-as-Thanos-in-Avengers-Infinity-War.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is THANOS OVERPOWERED In Marvel Snap?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OgUMlCVYAGs/maxresdefault.jpg' alt='Is THANOS OVERPOWERED In Marvel Snap?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OgUMlCVYAGs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers: Infinity War's big bad Thanos is getting his own origin ...">
+                                <img itemprop="contentUrl url" src='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10440907/Thanos_MCU.jpg?quality=90&strip=all&crop=25,0,50,100' alt='Avengers: Infinity War's big bad Thanos is getting his own origin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Verge" />
+                                </span>
+                                <a href='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10440907/Thanos_MCU.jpg?quality=90&strip=all&crop=25,0,50,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanos (Marvel Cinematic Universe) | Characters in Fiction Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/characters-in-fiction/images/d/d6/Thanos_Render.png/revision/latest?cb=20190811183332' alt='Thanos (Marvel Cinematic Universe) | Characters in Fiction Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2507">
+                                <meta itemprop="height" content="3861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Characters in Fiction Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/characters-in-fiction/images/d/d6/Thanos_Render.png/revision/latest?cb=20190811183332' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

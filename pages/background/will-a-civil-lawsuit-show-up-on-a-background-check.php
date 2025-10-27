@@ -1,0 +1,129 @@
+<title>A Civil Lawsuit on Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover if a civil lawsuit can affect your background check. Understand the types of checks that reveal civil litigation, and how this information impacts employment opportunities and other areas of life. Get informed and prepared for your next background screening.">
+                    <meta name="keywords" content="will a civil lawsuit show up on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-a-civil-lawsuit-show-up-on-a-background-check">
+                            <span itemprop="name">will a civil lawsuit show up on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A Civil Lawsuit on Background Checks: What You Need to Know</h1>
+                <p>Yes, a civil lawsuit may show up on a background check, depending on the type of check conducted. Different checks focus on varying details like criminal records or civil cases. Employers or agencies might see civil litigation records if they look for comprehensive history or public records including lawsuits.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks & Court Records | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' alt='Civil Court Background Checks & Court Records | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Bankruptcies Show Up On Background Checks? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' alt='Do Bankruptcies Show Up On Background Checks? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks & Court Records | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/filters:quality(0):blur(15)/' alt='Civil Court Background Checks & Court Records | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/filters:quality(0):blur(15)/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/c4b2ba522e008fcda03018a83cf0565b/7842b/GH-VideoThumbnail-CivilBkgrChecks-e1654204877356.png' alt='Civil Court Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/c4b2ba522e008fcda03018a83cf0565b/7842b/GH-VideoThumbnail-CivilBkgrChecks-e1654204877356.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are Civil Background Checks and How are they Disrupting HR ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422bfbaa60940acec0246_62fbe57d7e92a583766972c7_Everything%2520You%2520Need%2520to%2520Know%2520Criminal%2520Record%2520Checks.webp' alt='What are Civil Background Checks and How are they Disrupting HR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422bfbaa60940acec0246_62fbe57d7e92a583766972c7_Everything%2520You%2520Need%2520to%2520Know%2520Criminal%2520Record%2520Checks.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Show Employers?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' alt='What Does a Background Check Show Employers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/What-Does-a-Background-Check-Show-Employers-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on a Background Check? | Attorney Andrew Buda">
+                                <img itemprop="contentUrl url" src='https://budalaw.com/wp-content/uploads/2024/09/Pre-Employment-Background-Checks.jpg' alt='What Shows Up on a Background Check? | Attorney Andrew Buda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buda Law" />
+                                </span>
+                                <a href='https://budalaw.com/wp-content/uploads/2024/09/Pre-Employment-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are Civil Background Checks and How are they Disrupting HR ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422e0f4a0f218f9f0962e_625e84d2e2f0058f356c7e49_What%2520are%2520Civil%2520Background%2520Checks%2520and%2520How%2520They%2520are%2520Disrupting%2520HR%2520and%2520Recruitment.webp' alt='What are Civil Background Checks and How are they Disrupting HR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422e0f4a0f218f9f0962e_625e84d2e2f0058f356c7e49_What%2520are%2520Civil%2520Background%2520Checks%2520and%2520How%2520They%2520are%2520Disrupting%2520HR%2520and%2520Recruitment.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on a Background Check? | Attorney Andrew Buda">
+                                <img itemprop="contentUrl url" src='https://budalaw.com/wp-content/uploads/2024/09/what-shows-up-on-a-background-check.jpg' alt='What Shows Up on a Background Check? | Attorney Andrew Buda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buda Law" />
+                                </span>
+                                <a href='https://budalaw.com/wp-content/uploads/2024/09/what-shows-up-on-a-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Florida State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

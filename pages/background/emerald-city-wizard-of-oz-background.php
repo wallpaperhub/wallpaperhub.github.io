@@ -1,0 +1,129 @@
+<title>Discovering the Emerald City: A Glimpse into Oz's Magical Center</title>
+                    <meta name="description" content="Explore the captivating background of the Emerald City in "The Wizard of Oz." Discover its symbolism, significance in the story, and how it represents the quest for dreams and identity. Perfect for fans of all ages seeking to dive deeper into this enchanting world.">
+                    <meta name="keywords" content="emerald city wizard of oz background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emerald-city-wizard-of-oz-background">
+                            <span itemprop="name">emerald city wizard of oz background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Emerald City: A Glimpse into Oz's Magical Center</h1>
+                <p>Emerald City, a dazzling centerpiece of L. Frank Baum's "The Wonderful Wizard of Oz," is a symbol of hope and dreams. It is depicted as a vibrant city made of emeralds, where the Wizard resides. The city represents the journey of self-discovery and the pursuit of one's true desires, captivating readers with its enchanting allure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald City, Wizard of Oz Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/emerald-city-wizard-of-oz-photo-backdrop-pro-8ft-w-x-10ft-h-w-o-floor-31799054926015_7da9ad63-ead5-46e9-a621-d7121ed8b429.jpg?v=1738773207&width=1445' alt='Emerald City, Wizard of Oz Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/emerald-city-wizard-of-oz-photo-backdrop-pro-8ft-w-x-10ft-h-w-o-floor-31799054926015_7da9ad63-ead5-46e9-a621-d7121ed8b429.jpg?v=1738773207&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VISITING THE EMERALD CITY! (Part One) – OZ Museum / Columbian Theatre">
+                                <img itemprop="contentUrl url" src='http://cdn.shopify.com/s/files/1/0432/1981/files/WamArt1_001_large.jpg?v=1587134132' alt='VISITING THE EMERALD CITY! (Part One) – OZ Museum / Columbian Theatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oz Museum" />
+                                </span>
+                                <a href='http://cdn.shopify.com/s/files/1/0432/1981/files/WamArt1_001_large.jpg?v=1587134132' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop Emerald City (Wizard Of OZ ) - 12'w x 10'h with floor sweep">
+                                <img itemprop="contentUrl url" src='https://eventmagic.com/wp-content/uploads/2023/02/102_0236.jpg' alt='Backdrop Emerald City (Wizard Of OZ ) - 12'w x 10'h with floor sweep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Event Magic" />
+                                </span>
+                                <a href='https://eventmagic.com/wp-content/uploads/2023/02/102_0236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reflections on the Emerald City & Main Street, USA">
+                                <img itemprop="contentUrl url" src='https://rosybvm.com/wp-content/uploads/2023/05/emerald-city.jpg' alt='Reflections on the Emerald City & Main Street, USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1352">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosy BVM" />
+                                </span>
+                                <a href='https://rosybvm.com/wp-content/uploads/2023/05/emerald-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard of Oz Yellow Brick Road With Rainbow Photo Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/4d/88/f04d883e8e8ea7020449e3506a7c8c16.jpg' alt='Wizard of Oz Yellow Brick Road With Rainbow Photo Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/4d/88/f04d883e8e8ea7020449e3506a7c8c16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald City Evening, Wizard of Oz Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/emerald-city-evening-wizard-of-oz-photo-backdrop-pro-10ft-w-x-8ft-h-w-o-floor-31799147659455_53899e6b-98ce-426a-81a5-8b1421477118.jpg?v=1738771635&width=1445' alt='Emerald City Evening, Wizard of Oz Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/emerald-city-evening-wizard-of-oz-photo-backdrop-pro-10ft-w-x-8ft-h-w-o-floor-31799147659455_53899e6b-98ce-426a-81a5-8b1421477118.jpg?v=1738771635&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow brick Road backdrop - Emerald city - Mybackdrop.co.uk">
+                                <img itemprop="contentUrl url" src='https://mybackdrop.co.uk/wp-content/uploads/2018/07/Yellow-brick-rd-with-rainbow.jpg' alt='Yellow brick Road backdrop - Emerald city - Mybackdrop.co.uk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom made backdrops & frames - mybackdrop.co.uk" />
+                                </span>
+                                <a href='https://mybackdrop.co.uk/wp-content/uploads/2018/07/Yellow-brick-rd-with-rainbow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oz Emerald City – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Oz-Emerald-City_backdrop-ES8189-fullsize-scaled.jpg' alt='Oz Emerald City – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Oz-Emerald-City_backdrop-ES8189-fullsize-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard of Oz Yellow Brick Road Backdrop, Emerald City Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11263773/r/il/26e981/1703335297/il_570xN.1703335297_pd0y.jpg' alt='Wizard of Oz Yellow Brick Road Backdrop, Emerald City Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11263773/r/il/26e981/1703335297/il_570xN.1703335297_pd0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald City Oz Stock Illustrations – 91 Emerald City Oz Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/yellow-brick-road-to-emerald-city-winding-storm-clouds-rainbow-over-fields-red-poppies-108130619.jpg' alt='Emerald City Oz Stock Illustrations – 91 Emerald City Oz Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/yellow-brick-road-to-emerald-city-winding-storm-clouds-rainbow-over-fields-red-poppies-108130619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

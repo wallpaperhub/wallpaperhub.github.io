@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Spooky Wallpaper for Your Space</title>
+                    <meta name="description" content="Explore our collection of aesthetic spooky wallpapers that perfectly blend eerie allure and artistic design. Transform your space with hauntingly beautiful patterns, including ghostly imagery and enchanted motifs. Ideal for creating a cozy atmosphere year-round. Discover your perfect wallpaper today!">
+                    <meta name="keywords" content="aesthetic spooky wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-spooky-wallpaper">
+                            <span itemprop="name">aesthetic spooky wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Spooky Wallpaper for Your Space</h1>
+                <p>Aesthetic spooky wallpaper brings a blend of eerie charm and artistic flair to your space. Embrace haunting designs featuring ghostly silhouettes, foggy forests, and enchanted moons. Perfect for creating a cozy yet bewitching atmosphere in your home, these wallpapers inspire a sense of wonder while giving a nod to the mysterious. Transform your walls into artful expressions of the season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' alt='Halloween Digital iPhone Wallpaper - Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_1080xN.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Fall Wallpaper Fall Quotw Ghost Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/48/19/ba48191929f01d0004b5e3372f1ff2ab.jpg' alt='Aesthetic Fall Wallpaper Fall Quotw Ghost Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/48/19/ba48191929f01d0004b5e3372f1ff2ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Wallpapers | Download High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMS5qcGc.jpg' alt='Halloween iPhone Wallpapers | Download High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtZXllLTAwMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/57/a7/1357a7f181950da3d63a98ed4a5e7301.jpg' alt='Halloween aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/57/a7/1357a7f181950da3d63a98ed4a5e7301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Halloween wallpaper I made            : r/halloween">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pastel-halloween-wallpaper-i-made-v0-6qyqb7sxe5ob1.jpg?width=640&crop=smart&auto=webp&s=54e4b72507e08463937e638696e682a8194fb3b5' alt='Pastel Halloween wallpaper I made            : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pastel-halloween-wallpaper-i-made-v0-6qyqb7sxe5ob1.jpg?width=640&crop=smart&auto=webp&s=54e4b72507e08463937e638696e682a8194fb3b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Wallpapers, Halloween Backgrounds, Kawaii Aesthetic, iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25492735/r/il/eb639e/5267569492/il_570xN.5267569492_fhqs.jpg' alt='Spooky Wallpapers, Halloween Backgrounds, Kawaii Aesthetic, iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25492735/r/il/eb639e/5267569492/il_570xN.5267569492_fhqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spooky Halloween Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-collage-aesthetic-vgwlecqfcyyuj4wk.jpg' alt='100+] Spooky Halloween Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-collage-aesthetic-vgwlecqfcyyuj4wk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Pinterest wallpaper ideas    | Gallery posted by Kaylee ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7284037008845308422&index=0&sign=5668996ac631800cfd749e9a7b6039b7' alt='Spooky Pinterest wallpaper ideas    | Gallery posted by Kaylee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7284037008845308422&index=0&sign=5668996ac631800cfd749e9a7b6039b7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky, pastel, aesthetic, halloween, halloween, horror, ghost, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/53/358/HD-wallpaper-spooky-pastel-aesthetic-halloween-halloween-horror-ghost.jpg' alt='Spooky, pastel, aesthetic, halloween, halloween, horror, ghost, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/53/358/HD-wallpaper-spooky-pastel-aesthetic-halloween-halloween-horror-ghost.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

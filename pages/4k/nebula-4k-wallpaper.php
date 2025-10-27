@@ -1,0 +1,129 @@
+<title>Nebula 4K Wallpapers: Stunning Cosmic Designs for Your Screen</title>
+                    <meta name="description" content="Explore a dazzling collection of nebula 4K wallpapers that bring the beauty of the cosmos to your screen. Perfect for all devices, these stunning high-resolution images are designed to inspire and captivate. Download your favorite space-themed wallpaper today and elevate your device's appearance!">
+                    <meta name="keywords" content="nebula 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/nebula-4k-wallpaper">
+                            <span itemprop="name">nebula 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nebula 4K Wallpapers: Stunning Cosmic Designs for Your Screen</h1>
+                <p>Transform your device's screen with stunning nebula 4K wallpapers. These high-resolution images encapsulate the beauty of cosmic clouds, vibrant colors, and intricate designs found in space. Perfect for astronomy enthusiasts or anyone looking to add a touch of the universe to their digital life, our collection offers breathtaking visuals that captivate and inspire.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Telescope - Carina Nebula [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/msiz8gc4u5b91.png' alt='James Webb Telescope - Carina Nebula [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/msiz8gc4u5b91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Nebula [3840 × 2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hcixxqrrjcs71.jpg?width=640&crop=smart&auto=webp&s=9711e5ff545a093592a41e26fd2df0afc3aec237' alt='Space Nebula [3840 × 2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hcixxqrrjcs71.jpg?width=640&crop=smart&auto=webp&s=9711e5ff545a093592a41e26fd2df0afc3aec237' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Nebula Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nebula-lt47o5qub95qmqkx.jpg' alt='300+] Nebula Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nebula-lt47o5qub95qmqkx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tarantula Nebula (NIRCam Image) | ESA/Webb">
+                                <img itemprop="contentUrl url" src='http://cdn.esawebb.org/archives/images/screen/weic2212a.jpg' alt='Tarantula Nebula (NIRCam Image) | ESA/Webb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESA/Webb" />
+                                </span>
+                                <a href='http://cdn.esawebb.org/archives/images/screen/weic2212a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Space Sci Fi Nebula 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/104/1047606.jpg' alt='Download Space Sci Fi Nebula 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/104/1047606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/7e/22/33/7e2233b9bf42d5a646c8193b735650ac.jpg' alt='Cool wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/7e/22/33/7e2233b9bf42d5a646c8193b735650ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula Wallpaper 4K, Astrophotography, Stars, Colorful">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/nebula-astrophotography-stars-colorful-galaxy-cosmos-5k-5120x2880-6236.jpg' alt='Nebula Wallpaper 4K, Astrophotography, Stars, Colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/nebula-astrophotography-stars-colorful-galaxy-cosmos-5k-5120x2880-6236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Through the Door of a Nebula 4K by AnemoiaDreams on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e7deb4d-3e0e-4a33-b249-b82879bfa384/dfzde4j-387fc25c-6669-4be1-98ad-6f93f5c25839.png/v1/fill/w_1920,h_1080,q_80,strp/through_the_door_of_a_nebula_4k_by_anemoiadreams_dfzde4j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzdlN2RlYjRkLTNlMGUtNGEzMy1iMjQ5LWI4Mjg3OWJmYTM4NFwvZGZ6ZGU0ai0zODdmYzI1Yy02NjY5LTRiZTEtOThhZC02ZjkzZjVjMjU4MzkucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Zte-bdIwwEIHiY2WIratjcPMogGPQi521WBQvQX1uM4' alt='Through the Door of a Nebula 4K by AnemoiaDreams on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e7deb4d-3e0e-4a33-b249-b82879bfa384/dfzde4j-387fc25c-6669-4be1-98ad-6f93f5c25839.png/v1/fill/w_1920,h_1080,q_80,strp/through_the_door_of_a_nebula_4k_by_anemoiadreams_dfzde4j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzdlN2RlYjRkLTNlMGUtNGEzMy1iMjQ5LWI4Mjg3OWJmYTM4NFwvZGZ6ZGU0ai0zODdmYzI1Yy02NjY5LTRiZTEtOThhZC02ZjkzZjVjMjU4MzkucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Zte-bdIwwEIHiY2WIratjcPMogGPQi521WBQvQX1uM4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Nebula [4K] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9w4m91k1yax11.jpg?width=1080&crop=smart&auto=webp&s=6b26295146cc876480b039ccf9bc1659cc56cdc1' alt='Red Nebula [4K] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9w4m91k1yax11.jpg?width=1080&crop=smart&auto=webp&s=6b26295146cc876480b039ccf9bc1659cc56cdc1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-Fi Nebula: 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/468/468742.jpg' alt='Sci-Fi Nebula: 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/468/468742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Dog Gifs to Brighten Your Day</title>
+                    <meta name="description" content="Explore a delightful collection of dog gifs that capture the playful spirit and charm of our furry companions. Perfect for sharing on social media or sending to friends, these animated gems will bring smiles and laughter to any conversation!">
+                    <meta name="keywords" content="dog gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dog-gif">
+                            <span itemprop="name">dog gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dog Gifs to Brighten Your Day</h1>
+                <p>Dog gifs are the perfect way to brighten your day! These adorable animated images capture our furry friends in playful moments, showcasing their quirks and charm. Whether it’s a pup happily playing fetch or a doggo giving puppy eyes, these gifs bring laughter, joy, and a little dose of cuteness to your social media or texts!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excited Dogs GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/13ByqbM0hgfN7y/giphy.gif?cid=6c09b952rfgb2wodmtr0hxjhv72k3t3e8jug1wkfip2mrp24&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Excited Dogs GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/13ByqbM0hgfN7y/giphy.gif?cid=6c09b952rfgb2wodmtr0hxjhv72k3t3e8jug1wkfip2mrp24&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop Studying, You Deserve To Look At These Dog GIFs">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/images.onwardstate.com/uploads/2015/05/oie_14175751vZSQRLEn.gif?fit=650%2C408&ssl=1' alt='Stop Studying, You Deserve To Look At These Dog GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Onward State" />
+                                </span>
+                                <a href='https://i0.wp.com/images.onwardstate.com/uploads/2015/05/oie_14175751vZSQRLEn.gif?fit=650%2C408&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog animated GIF (2) | GIFs :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/08ab7226885953.5635dd02cd8d4.gif' alt='Dog animated GIF (2) | GIFs :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/08ab7226885953.5635dd02cd8d4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Dog GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/yNvPaHz8LI4I4jKKws/200w.gif?cid=6c09b952gpfojuso8mvew4phmpigrjeyx9file33otmw99rx&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Happy Dog GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/yNvPaHz8LI4I4jKKws/200w.gif?cid=6c09b952gpfojuso8mvew4phmpigrjeyx9file33otmw99rx&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Dog GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/Fu3OjBQiCs3s0ZuLY3/giphy.gif?cid=6c09b952yu7n1je5wrgd2005qmhf8rekey7z2b6eldlg8vcj&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='It Dog GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/Fu3OjBQiCs3s0ZuLY3/giphy.gif?cid=6c09b952yu7n1je5wrgd2005qmhf8rekey7z2b6eldlg8vcj&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Dog GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ZS6-ci2d52EAAAAM/puppy-cute.gif' alt='Adorable Dog GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ZS6-ci2d52EAAAAM/puppy-cute.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dogs GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/FY8c5SKwiNf1EtZKGs/giphy.gif?cid=6c09b952igu55fpdfrw1ma68nlxbvvsjxqy5d7df454u2zzk&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Dogs GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/FY8c5SKwiNf1EtZKGs/giphy.gif?cid=6c09b952igu55fpdfrw1ma68nlxbvvsjxqy5d7df454u2zzk&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Dog Animated Gif GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/vyundhwy_HsAAAAM/doggie.gif' alt='Happy Dog Animated Gif GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/vyundhwy_HsAAAAM/doggie.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Cute Dogs GIF by BuzzFeed - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/bgWp3ZsJX25RC1MWhj/giphy.gif?cid=6c09b952tnd7q05kjgoiiu90j1qxnu3ofr4vo45cmkzoigzu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Puppy Cute Dogs GIF by BuzzFeed - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/bgWp3ZsJX25RC1MWhj/giphy.gif?cid=6c09b952tnd7q05kjgoiiu90j1qxnu3ofr4vo45cmkzoigzu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dogs GIF - Cute Dogs - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/14/49/9f/14499f968cc0803e2637d4786e51dd10.gif' alt='Cute Dogs GIF - Cute Dogs - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="399">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/14/49/9f/14499f968cc0803e2637d4786e51dd10.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

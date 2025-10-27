@@ -1,0 +1,129 @@
+<title>Understanding Minnesota Tenant Screening Laws</title>
+                    <meta name="description" content="Explore Minnesota tenant screening laws that ensure fair practices for landlords and tenants. Learn about consent requirements, prohibited discrimination, and transparent screening processes to comply with Fair Housing regulations. Stay informed to protect your rights!">
+                    <meta name="keywords" content="mn tenant screening laws">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mn-tenant-screening-laws">
+                            <span itemprop="name">mn tenant screening laws</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Minnesota Tenant Screening Laws</h1>
+                <p>In Minnesota, tenant screening laws protect both landlords and tenants. Landlords may conduct background checks, but they must obtain written consent from applicants. They are prohibited from discriminating based on race, color, gender, or disability. It’s essential for landlords to maintain transparency in their screening processes to comply with Fair Housing laws.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/65b29323fa209b4b7b521b9d_Minnesota%20tenant%20screening%20laws.png' alt='The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/65b29323fa209b4b7b521b9d_Minnesota%20tenant%20screening%20laws.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota Tenant-Landlord Law">
+                                <img itemprop="contentUrl url" src='https://resources.hemlane.com/content/images/2019/06/Minnesota.png' alt='Minnesota Tenant-Landlord Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hemlane" />
+                                </span>
+                                <a href='https://resources.hemlane.com/content/images/2019/06/Minnesota.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minneapolis Tenant Screening Law - What Landlords Need to Know">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5d13ec82c4ad4286e691a14b/5e0cb9340e0ea768a3133760_star%20trib%202.PNG' alt='Minneapolis Tenant Screening Law - What Landlords Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Duplex Doctors" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5d13ec82c4ad4286e691a14b/5e0cb9340e0ea768a3133760_star%20trib%202.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota Tenant Screening - A Landlord's Guide | RentPrep">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2018/03/Minnesota-Tenant-Screening.jpg' alt='Minnesota Tenant Screening - A Landlord's Guide | RentPrep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2018/03/Minnesota-Tenant-Screening.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota Landlord Tenant Laws (2025): Renter's Rights & FAQs">
+                                <img itemprop="contentUrl url" src='https://ipropertymanagement.com/wp-content/uploads/13729/Minnesota-Landlord-Tenant-Rights.png' alt='Minnesota Landlord Tenant Laws (2025): Renter's Rights & FAQs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPropertyManagement.com" />
+                                </span>
+                                <a href='https://ipropertymanagement.com/wp-content/uploads/13729/Minnesota-Landlord-Tenant-Rights.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips for using this template (delete this slide)">
+                                <img itemprop="contentUrl url" src='x-raw-image:///b39dd03c1fceb559872a8ada0e11ba349a742ea346c872798fe2c04c69f37917' alt='Tips for using this template (delete this slide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Saint Paul" />
+                                </span>
+                                <a href='x-raw-image:///b39dd03c1fceb559872a8ada0e11ba349a742ea346c872798fe2c04c69f37917' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minneapolis Tenant Screening Law - What Landlords Need to Know">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5d13ec82c4ad4286e691a14b/5d8a566c31bbc4227b660c19_photo-003.jpg' alt='Minneapolis Tenant Screening Law - What Landlords Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Duplex Doctors" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5d13ec82c4ad4286e691a14b/5d8a566c31bbc4227b660c19_photo-003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navigating Minnesota's New Tenant Protection Laws: 6 Things ...">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/7jlPz7Qruo8jYG4AXDQi1ooZUI.png' alt='Navigating Minnesota's New Tenant Protection Laws: 6 Things ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abe" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/7jlPz7Qruo8jYG4AXDQi1ooZUI.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/674decd2b64446144d4f2a65_Online%20tenant%20screening.png' alt='The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/674decd2b64446144d4f2a65_Online%20tenant%20screening.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/67336de6a56b07ba528760f3_Texas%20rental%20application%20laws%20blog%20image.png' alt='The Complete Guide to Minnesota Tenant Screening Laws in 2024 - Azibo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/67336de6a56b07ba528760f3_Texas%20rental%20application%20laws%20blog%20image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

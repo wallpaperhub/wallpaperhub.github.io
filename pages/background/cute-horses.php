@@ -1,0 +1,129 @@
+<title>Explore the World of Adorable Horses</title>
+                    <meta name="description" content="Discover the beauty of cute horses! This guide showcases their endearing qualities, playful personalities, and stunning appearances. Perfect for horse lovers and enthusiasts, learn what makes these adorable creatures so special. Join us in celebrating the charm of these wonderful animals!">
+                    <meta name="keywords" content="cute horses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-horses">
+                            <span itemprop="name">cute horses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Adorable Horses</h1>
+                <p>Cute horses captivate our hearts with their gentle nature and playful spirit. From miniature ponies to majestic drafts, these adorable creatures showcase a variety of colors and personalities. Their expressive eyes and soft manes beckon us to cuddle, making every encounter unforgettable. Discover the charm of these equine beauties!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ponies and mini horses: 10 adorable photos to brighten your day">
+                                <img itemprop="contentUrl url" src='https://img1.10bestmedia.com/Images/Photos/386313/GettyImages-1036724480_55_660x440.jpg' alt='Ponies and mini horses: 10 adorable photos to brighten your day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA TODAY 10Best" />
+                                </span>
+                                <a href='https://img1.10bestmedia.com/Images/Photos/386313/GettyImages-1036724480_55_660x440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beautiful-horses-ponies-horse-pony-cute-animal-pictures-pics ...">
+                                <img itemprop="contentUrl url" src='https://upaws.org/wp-content/uploads/2016/07/beautiful-horses-ponies-horse-pony-cute-animal-pictures-pics.jpg' alt='beautiful-horses-ponies-horse-pony-cute-animal-pictures-pics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Upper Peninsula Animal Welfare Shelter" />
+                                </span>
+                                <a href='https://upaws.org/wp-content/uploads/2016/07/beautiful-horses-ponies-horse-pony-cute-animal-pictures-pics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Cute Baby Horse    : r/cute">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o4ec5gcdv37d1.jpeg' alt='This Cute Baby Horse    : r/cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o4ec5gcdv37d1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ponies and mini horses: 10 adorable photos to brighten your day">
+                                <img itemprop="contentUrl url" src='https://img1.10bestmedia.com/Images/Photos/386312/GettyImages-517349536_55_660x440.jpg' alt='Ponies and mini horses: 10 adorable photos to brighten your day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA TODAY 10Best" />
+                                </span>
+                                <a href='https://img1.10bestmedia.com/Images/Photos/386312/GettyImages-517349536_55_660x440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pretty post - Imgur | Horses, Beautiful horses photography, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/0c/60/ea/0c60ea8565ddad97464e57054c134458.jpg' alt='pretty post - Imgur | Horses, Beautiful horses photography, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/0c/60/ea/0c60ea8565ddad97464e57054c134458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by rsde.rsde on horses | Pretty horses, Cute horses, Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/f6/0d/e6f60d6c83b3eb073e18188fbe6067b0.jpg' alt='Pin by rsde.rsde on horses | Pretty horses, Cute horses, Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/f6/0d/e6f60d6c83b3eb073e18188fbe6067b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Very cute horse : r/aww">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r693htz1sad21.jpg' alt='Very cute horse : r/aww'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r693htz1sad21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instantly Foal In Love With These Photos Of Small And Cute Baby ...">
+                                <img itemprop="contentUrl url" src='https://www.animalhearted.com/cdn/shop/articles/cute-baby-horses_1890x630.jpg?v=1685762871' alt='Instantly Foal In Love With These Photos Of Small And Cute Baby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animal Hearted Apparel" />
+                                </span>
+                                <a href='https://www.animalhearted.com/cdn/shop/articles/cute-baby-horses_1890x630.jpg?v=1685762871' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I want to be "chased" by this absurdly cute baby miniature horse ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/horse-1.jpeg?fit=1500%2C1000&ssl=1' alt='I want to be "chased" by this absurdly cute baby miniature horse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boing Boing" />
+                                </span>
+                                <a href='https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/horse-1.jpeg?fit=1500%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/23/c4/05/23c405ca9a4a375708f764eec05f10a8.jpg' alt='Little heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/23/c4/05/23c405ca9a4a375708f764eec05f10a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

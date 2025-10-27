@@ -1,0 +1,129 @@
+<title>Top 10 Fascinating Facts About Shaquille O'Neal</title>
+                    <meta name="description" content="Discover intriguing facts about the legendary Shaquille O'Neal, from his basketball dominance to his ventures in entertainment and business. Learn more about the man behind the stats and how he became a cultural icon!">
+                    <meta name="keywords" content="facts about shaq">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-shaq">
+                            <span itemprop="name">facts about shaq</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top 10 Fascinating Facts About Shaquille O'Neal</h1>
+                <p>Shaquille O'Neal, known as Shaq, is a legendary NBA player, actor, and media personality. Standing at 7'1" and weighing 325 pounds, he is one of the most dominant centers in basketball history. Shaq won four NBA Championships, earned 15 All-Star selections, and is a member of the Basketball Hall of Fame. Beyond the court, he’s a savvy businessman and philanthropist.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shaquille O'Neal - Biography and Facts">
+                                <img itemprop="contentUrl url" src='https://www.famousafricanamericans.org/images/shaquille-o-neal.jpg' alt='Shaquille O'Neal - Biography and Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous African Americans" />
+                                </span>
+                                <a href='https://www.famousafricanamericans.org/images/shaquille-o-neal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shaquille O'Neal Interesting Facts">
+                                <img itemprop="contentUrl url" src='https://www.remindmagazine.com/wp-content/uploads/2024/07/shaq-oneal-1014x570.jpg' alt='Shaquille O'Neal Interesting Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remind Magazine" />
+                                </span>
+                                <a href='https://www.remindmagazine.com/wp-content/uploads/2024/07/shaq-oneal-1014x570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 CRAZY Facts You Probably Didn't Know About SHAQ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uuCbZCqWji0/maxresdefault.jpg' alt='15 CRAZY Facts You Probably Didn't Know About SHAQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uuCbZCqWji0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shaquille O'Neal Facts for Kids">
+                                <img itemprop="contentUrl url" src='https://kids.kiddle.co/images/thumb/f/f6/Shaquille_O%27Neal_October_2017_%28cropped%29.jpg/300px-Shaquille_O%27Neal_October_2017_%28cropped%29.jpg' alt='Shaquille O'Neal Facts for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids encyclopedia facts - Kiddle" />
+                                </span>
+                                <a href='https://kids.kiddle.co/images/thumb/f/f6/Shaquille_O%27Neal_October_2017_%28cropped%29.jpg/300px-Shaquille_O%27Neal_October_2017_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Making A Social Impact: Why & How NBA Star Shaquille O'Neal ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/0*or9rg2lIDRC9Q82K.jpg' alt='Stars Making A Social Impact: Why & How NBA Star Shaquille O'Neal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/0*or9rg2lIDRC9Q82K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Things You Didn't Know About SHAQ..">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KubgUvw0dRE/maxresdefault.jpg' alt='20 Things You Didn't Know About SHAQ..'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KubgUvw0dRE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shaquille O'Neal: fun facts about the guy who may be Cleveland's ...">
+                                <img itemprop="contentUrl url" src='http://media.cleveland.com/startingblocks/photo/9014244-large.jpg' alt='Shaquille O'Neal: fun facts about the guy who may be Cleveland's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='http://media.cleveland.com/startingblocks/photo/9014244-large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shaquille O'Neal, fondly known as Shaq, is one of the most ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3373447529692555943' alt='Shaquille O'Neal, fondly known as Shaq, is one of the most ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3373447529692555943' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 Shaquille O'Neal Facts You Probably Don't Know | Hoops Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6130/42641a44e51176b5e1c9d5c7fd59e4997d0ccd64_hq.jpg' alt='Top 5 Shaquille O'Neal Facts You Probably Don't Know | Hoops Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6130/42641a44e51176b5e1c9d5c7fd59e4997d0ccd64_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Rim-Shattering Facts About Shaquille O'Neal">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/574854-gettyimages-51600577-a4a9977a73894eb3762bbaf2e500c27f.jpg' alt='15 Rim-Shattering Facts About Shaquille O'Neal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/574854-gettyimages-51600577-a4a9977a73894eb3762bbaf2e500c27f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

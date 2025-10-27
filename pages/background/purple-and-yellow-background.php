@@ -1,0 +1,129 @@
+<title>Vibrant Purple and Yellow Backgrounds: A Visual Delight</title>
+                    <meta name="description" content="Discover the perfect purple and yellow background that blends creativity and cheerfulness. Enhance your designs and projects with this vibrant color pairing, ideal for art, events, and more. Transform your visual content with these striking colors for a lasting impression!">
+                    <meta name="keywords" content="purple and yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-and-yellow-background">
+                            <span itemprop="name">purple and yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple and Yellow Backgrounds: A Visual Delight</h1>
+                <p>A captivating purple and yellow background instantly draws the eye, creating a vibrant and energetic atmosphere. This striking color combination evokes feelings of creativity, joy, and warmth. Perfect for designs, events, or art pieces, such backgrounds can enhance visual impact and convey playful elegance. Explore how these colors can transform your space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Yellow Background Images – Browse 2,512,093 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/45/53/15/360_F_345531588_PEAIElOEMTBL3vitICAaEi9y770Lb9Mr.jpg' alt='Purple And Yellow Background Images – Browse 2,512,093 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/45/53/15/360_F_345531588_PEAIElOEMTBL3vitICAaEi9y770Lb9Mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,100+ Purple And Yellow Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393848020/vector/purple-with-yellow-pop-art-background-in-retro-comics-book-style-with-dotted-design-vector.jpg?s=612x612&w=0&k=20&c=mIgQJ3E2ohyDaCGsDiFgAnGNQDqQvIlgqN8ZOV4yAXs=' alt='5,100+ Purple And Yellow Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393848020/vector/purple-with-yellow-pop-art-background-in-retro-comics-book-style-with-dotted-design-vector.jpg?s=612x612&w=0&k=20&c=mIgQJ3E2ohyDaCGsDiFgAnGNQDqQvIlgqN8ZOV4yAXs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A yellow and purple background with stars and a ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/yellow-purple-background-with-stars-yellow-purple-background_363897-13876.jpg' alt='Premium Vector | A yellow and purple background with stars and a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/yellow-purple-background-with-stars-yellow-purple-background_363897-13876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Yellow Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/071/017/small_2x/abstract-background-3d-purple-yellow-white-geometric-squares-shape-design-paper-cut-style-vector.jpg' alt='Purple Yellow Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/071/017/small_2x/abstract-background-3d-purple-yellow-white-geometric-squares-shape-design-paper-cut-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Purple and Yellow •☆• ideas in 2025 | purple yellow, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/9d/9e/829d9ea5508f6cd7bb4a76969f59f6de.jpg' alt='140 Purple and Yellow •☆• ideas in 2025 | purple yellow, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/9d/9e/829d9ea5508f6cd7bb4a76969f59f6de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple And Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-background-concept_23-2148497707.jpg' alt='Purple And Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-background-concept_23-2148497707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicate Watercolor Background Beautiful Purple Yellow Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1705161895/display_1500/stock-vector-delicate-watercolor-background-of-a-beautiful-purple-and-yellow-color-for-invitation-greeting-1705161895.jpg' alt='Delicate Watercolor Background Beautiful Purple Yellow Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1705161895/display_1500/stock-vector-delicate-watercolor-background-of-a-beautiful-purple-and-yellow-color-for-invitation-greeting-1705161895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow And Purple Images – Browse 3,789,456 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/08/61/45/360_F_408614527_Cy6CRkt9WOFq3VFUIh61VQzaspCit7Jv.jpg' alt='Yellow And Purple Images – Browse 3,789,456 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/08/61/45/360_F_408614527_Cy6CRkt9WOFq3VFUIh61VQzaspCit7Jv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Purple and Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/53/02/73/53027362a6e0cde3efae92dc2678fdad.jpg' alt='Aesthetic Purple and Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/53/02/73/53027362a6e0cde3efae92dc2678fdad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Yellow Wallpaper Office Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-abstract-background_23-2149157764.jpg' alt='Purple Yellow Wallpaper Office Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-abstract-background_23-2149157764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

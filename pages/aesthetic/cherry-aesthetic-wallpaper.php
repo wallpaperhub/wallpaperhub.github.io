@@ -1,0 +1,129 @@
+<title>Cherry Aesthetic Wallpaper: Vibrant & Trendy Designs</title>
+                    <meta name="description" content="Discover stunning cherry aesthetic wallpaper that transforms your rooms with vibrancy and charm. Perfect for creating a serene atmosphere, these designs showcase nature's beauty and add a whimsical touch to your decor. Elevate your space effortlessly with our curated selection!">
+                    <meta name="keywords" content="cherry aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cherry-aesthetic-wallpaper">
+                            <span itemprop="name">cherry aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cherry Aesthetic Wallpaper: Vibrant & Trendy Designs</h1>
+                <p>Cherry aesthetic wallpaper brings a playful yet sophisticated vibe to your space. Featuring vibrant cherry blossoms and rich hues, these wallpapers transform any room into a serene oasis. Ideal for those who appreciate nature's beauty, they enhance home decor with a touch of whimsy and joy. Elevate your environment effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cherry wallpaper aesthetic pink background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/7d/b3/e17db3917f55d3164b7625d92d3bbee7.jpg' alt='cherry wallpaper aesthetic pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/7d/b3/e17db3917f55d3164b7625d92d3bbee7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cherry wallpaper / IPhone - Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/d2/29/42d2295805bc85b68b1446a92a06cf2f.jpg' alt='cherry wallpaper / IPhone - Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/d2/29/42d2295805bc85b68b1446a92a06cf2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Cherry Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cherry-aesthetic-mjxu9fqww08s4icy.jpg' alt='100+] Cute Cherry Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cherry-aesthetic-mjxu9fqww08s4icy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Neon Aesthetic Cherry Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-neon-aesthetic-cherry-a80r62leb2ddwj67.webp' alt='Black Neon Aesthetic Cherry Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-neon-aesthetic-cherry-a80r62leb2ddwj67.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink blooms for a cherry aesthetic. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cherry-aesthetic-ywrtw9q2323sm8fs.jpg' alt='Download Pink blooms for a cherry aesthetic. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cherry-aesthetic-ywrtw9q2323sm8fs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Wallpaper   ✨ | Gallery posted by maliagood | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7218156562794512902&index=0&sign=1ba096575b194b3b3ea14e0266a2fe45' alt='Cherry Wallpaper   ✨ | Gallery posted by maliagood | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7218156562794512902&index=0&sign=1ba096575b194b3b3ea14e0266a2fe45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Wallpapers Cherry Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/red-hand-drawn-cherry-seamless-pattern-pink-social-template_53876-116104.jpg' alt='Cute Aesthetic Wallpapers Cherry Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/red-hand-drawn-cherry-seamless-pattern-pink-social-template_53876-116104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Forever">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/c8/de/79c8ded7766b2fd16a11378e45ece9f3.jpg' alt='Cherry Forever'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/c8/de/79c8ded7766b2fd16a11378e45ece9f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Red Cherry Cute And Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-red-cherry-cute-and-pink-j459rdjeskt41msh.webp' alt='Aesthetic Red Cherry Cute And Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-red-cherry-cute-and-pink-j459rdjeskt41msh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seamless pattern with cherry and stars on pink background. 90's ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/644/864/non_2x/seamless-pattern-with-cherry-and-stars-on-pink-background-90-s-aesthetic-textile-print-wrapping-paper-scrapbooking-stationary-packaging-wallpaper-etc-eps-10-vector.jpg' alt='seamless pattern with cherry and stars on pink background. 90's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/644/864/non_2x/seamless-pattern-with-cherry-and-stars-on-pink-background-90-s-aesthetic-textile-print-wrapping-paper-scrapbooking-stationary-packaging-wallpaper-etc-eps-10-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Daily Inspiration: Revamp Your Walls with Day by Day Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of day by day wallpaper. Elevate your home decor with unique designs that inspire you every day. Perfect for any room, these wallpapers are easy to apply, change, and bring a refreshing touch to your living space. Transform your environment one day at a time!">
+                    <meta name="keywords" content="day by day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/day-by-day-wallpaper">
+                            <span itemprop="name">day by day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Daily Inspiration: Revamp Your Walls with Day by Day Wallpaper</h1>
+                <p>Transform your space with stunning day by day wallpaper that uplifts your mood each morning. From vibrant patterns to serene landscapes, each design brings a fresh perspective to your walls. Easy to apply and change, these wallpapers offer a daily dose of inspiration, making every day feel special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="day by day ⭐☁️ wallpaper freebie – sleepydaze">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0524/9731/8082/files/wallpaper.png?v=1679460516' alt='day by day ⭐☁️ wallpaper freebie – sleepydaze'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sleepydaze ♡" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0524/9731/8082/files/wallpaper.png?v=1679460516' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step by step. Day by day. — Iphone wallpaper quoted sky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/72/50/b472501f78ae0ba03e1e8314a75fbfe5.jpg' alt='Step by step. Day by day. — Iphone wallpaper quoted sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/72/50/b472501f78ae0ba03e1e8314a75fbfe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="day by day ⭐☁️ wallpaper freebie – sleepydaze">
+                                <img itemprop="contentUrl url" src='https://sleepydaze.ca/cdn/shop/articles/daybyday_1024x1024.png?v=1679460741' alt='day by day ⭐☁️ wallpaper freebie – sleepydaze'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sleepydaze ♡" />
+                                </span>
+                                <a href='https://sleepydaze.ca/cdn/shop/articles/daybyday_1024x1024.png?v=1679460741' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Inspirational Wallpapers - iPhone and Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/0a/fe/af0afefae1d861eb285983ef9ce6ab17.jpg' alt='FREE Inspirational Wallpapers - iPhone and Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/0a/fe/af0afefae1d861eb285983ef9ce6ab17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step by Step, Day by Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/3e/88/5d3e88c475d5a79a2cde30c8a82b4102.jpg' alt='Step by Step, Day by Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/3e/88/5d3e88c475d5a79a2cde30c8a82b4102.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step by step, day by day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/e6/94/f4e694cdb20600b520b445e969cbae9b.jpg' alt='Step by step, day by day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/e6/94/f4e694cdb20600b520b445e969cbae9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Cool Retro Desktop Wallpaper Changes Throughout The Day ...">
+                                <img itemprop="contentUrl url" src='https://www.omgubuntu.co.uk/wp-content/uploads/2016/12/axNNqyH.jpg.png' alt='This Cool Retro Desktop Wallpaper Changes Throughout The Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OMG! Ubuntu" />
+                                </span>
+                                <a href='https://www.omgubuntu.co.uk/wp-content/uploads/2016/12/axNNqyH.jpg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="take it day by day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/b8/eb/e2b8eb7cba53a817cc7d4dcbe3d6341b.jpg' alt='take it day by day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/b8/eb/e2b8eb7cba53a817cc7d4dcbe3d6341b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step by step,day by day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/6a/95/bd6a95c672093296dcfb8f621e9a4efd.jpg' alt='Step by step,day by day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/6a/95/bd6a95c672093296dcfb8f621e9a4efd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Motivation, all day every day, all day, every day, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/358/40/HD-wallpaper-football-motivation-all-day-every-day-all-day-every-day.jpg' alt='Football Motivation, all day every day, all day, every day, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/358/40/HD-wallpaper-football-motivation-all-day-every-day-all-day-every-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

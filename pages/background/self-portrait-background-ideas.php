@@ -1,0 +1,129 @@
+<title>Creative Self Portrait Background Ideas</title>
+                    <meta name="description" content="Explore captivating background ideas for your self portraits! From vibrant murals to tranquil nature scenes, discover tips for choosing the perfect setting that reflects your personality and enhances the overall composition. Dive into the art of self-expression with inspiring backdrop suggestions today!">
+                    <meta name="keywords" content="self portrait background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/self-portrait-background-ideas">
+                            <span itemprop="name">self portrait background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Self Portrait Background Ideas</h1>
+                <p>When creating a self portrait, consider unique background ideas like a colorful mural, a serene nature scene, or a cozy indoor space. Use props that reflect your personality, such as books or musical instruments. Experiment with lighting to enhance mood, and don’t forget about texture—woven fabrics or patterned walls can add depth!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self portrait background ideas? : r/oilpainting">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/self-portrait-background-ideas-v0-zq5slj7i80ub1.jpg?width=1080&crop=smart&auto=webp&s=e36f16e56a617069c249a57f787076ded35f14b3' alt='Self portrait background ideas? : r/oilpainting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/self-portrait-background-ideas-v0-zq5slj7i80ub1.jpg?width=1080&crop=smart&auto=webp&s=e36f16e56a617069c249a57f787076ded35f14b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="that artist woman: Self Portraits and Art Journal Page">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl1eZQlPu696F89-Z2dzDMKtXApUBWAqnio3WqG5VPuf-OguMpdAaQzTMQMIP3XLwfkhNSx7y2we0wVs5XbP3c3uK1jderR1NC1oIyToZGDN5UniEKTuUSfobr1wgz3XWrtali3lM64YbA/s1600/DSC01898.JPG' alt='that artist woman: Self Portraits and Art Journal Page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="that artist woman" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl1eZQlPu696F89-Z2dzDMKtXApUBWAqnio3WqG5VPuf-OguMpdAaQzTMQMIP3XLwfkhNSx7y2we0wVs5XbP3c3uK1jderR1NC1oIyToZGDN5UniEKTuUSfobr1wgz3XWrtali3lM64YbA/s1600/DSC01898.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elementary Art Lessons - Annie Monaghan's Art Room">
+                                <img itemprop="contentUrl url" src='http://anniesartroom.weebly.com/uploads/2/6/1/6/26167192/9375358_orig.jpg' alt='Elementary Art Lessons - Annie Monaghan's Art Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1039">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elementary Art Lessons - Annie Monaghan's Art Room" />
+                                </span>
+                                <a href='http://anniesartroom.weebly.com/uploads/2/6/1/6/26167192/9375358_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-portrait with artist background | Self portrait art, Portrait ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/ed/45/c7ed4542dccde7fe86d1e808a122a3e5.jpg' alt='Self-portrait with artist background | Self portrait art, Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/ed/45/c7ed4542dccde7fe86d1e808a122a3e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elementary Art Lessons - Annie Monaghan's Art Room">
+                                <img itemprop="contentUrl url" src='http://anniesartroom.weebly.com/uploads/2/6/1/6/26167192/5263913.png' alt='Elementary Art Lessons - Annie Monaghan's Art Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elementary Art Lessons - Annie Monaghan's Art Room" />
+                                </span>
+                                <a href='http://anniesartroom.weebly.com/uploads/2/6/1/6/26167192/5263913.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 AESTHETIC SELF PORTRAIT BACKGROUND IDEAS - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ulLoPAuc0Fk/sddefault.jpg' alt='10 AESTHETIC SELF PORTRAIT BACKGROUND IDEAS - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ulLoPAuc0Fk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Portrait Project - Pencil Values - Watercolor Painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/42/70/7a4270e4b3b36c5ff2799c2c77f062d1.jpg' alt='Self-Portrait Project - Pencil Values - Watercolor Painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/42/70/7a4270e4b3b36c5ff2799c2c77f062d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beginner's Self Portraits | Art Brut Sessions">
+                                <img itemprop="contentUrl url" src='https://artbrutsessions.wordpress.com/wp-content/uploads/2014/05/self-portraits-with-colored-background-28.jpg?w=640' alt='Beginner's Self Portraits | Art Brut Sessions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art Brut Sessions - WordPress.com" />
+                                </span>
+                                <a href='https://artbrutsessions.wordpress.com/wp-content/uploads/2014/05/self-portraits-with-colored-background-28.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210 Best Self Portraits ideas | art lessons, teaching art, art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/75/2e/12/752e12fcbf6e4f167405916d9760dc68.jpg' alt='210 Best Self Portraits ideas | art lessons, teaching art, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/75/2e/12/752e12fcbf6e4f167405916d9760dc68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cassie Stephens: In the Art Room: My Fave Portrait Lessons">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDU9eTSKPnfWWWQLSU39S_6gw5_o1_wcew1tjz2RIF9B2INp9O4ZJLx2j4TthWGxYPDrZibA2GUvV3ZEmFK9D-yVmshFvnutcg83iD13U6zI5m-87gF33H_Zh7Ztw-YISMMxIv_MnlwBG/s1600/IMG_0887.JPG' alt='Cassie Stephens: In the Art Room: My Fave Portrait Lessons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cassie Stephens" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDU9eTSKPnfWWWQLSU39S_6gw5_o1_wcew1tjz2RIF9B2INp9O4ZJLx2j4TthWGxYPDrZibA2GUvV3ZEmFK9D-yVmshFvnutcg83iD13U6zI5m-87gF33H_Zh7Ztw-YISMMxIv_MnlwBG/s1600/IMG_0887.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

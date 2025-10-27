@@ -1,0 +1,129 @@
+<title>Nostalgic 80s Background Music: A Retro Playlist</title>
+                    <meta name="description" content="Discover the magic of 80s background music! Relive the nostalgic vibes of this iconic decade with top hits that perfectly set the mood for any occasion. From synth-pop to rock anthems, explore timeless tunes that bring back memories and energize your day. Perfect for playlists, parties, and more!">
+                    <meta name="keywords" content="80s background music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/80s-background-music">
+                            <span itemprop="name">80s background music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nostalgic 80s Background Music: A Retro Playlist</h1>
+                <p>The 80s background music scene is a vibrant tapestry of iconic soundtracks, from synth-pop to rock classics. This era gifted us unforgettable tunes that still evoke nostalgia today. With catchy melodies and powerful lyrics, 80s music creates the perfect backdrop for parties, road trips, or simply reminiscing about the past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Background Music For Videos No Copyright">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LFQS0OAuy4o/maxresdefault.jpg' alt='80s Background Music For Videos No Copyright'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LFQS0OAuy4o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave 80s Music | 80s Music Retro Wave Instrumental Background Royalty  Free | Free Download Link">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mfnb_b2LiqU/maxresdefault.jpg' alt='Synthwave 80s Music | 80s Music Retro Wave Instrumental Background Royalty  Free | Free Download Link'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mfnb_b2LiqU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Retro 80s | Instrumental Background Music | Electro Pop ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-mAqLUERuGBaa3tS0-BZYy9Q-t1080x1080.jpg' alt='Listen to Retro 80s | Instrumental Background Music | Electro Pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-mAqLUERuGBaa3tS0-BZYy9Q-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="77,018 80s Music Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/retro-style-disco-design-neon80s-260nw-2513357439.jpg' alt='77,018 80s Music Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/retro-style-disco-design-neon80s-260nw-2513357439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-free 80s - 90s music | NeoSounds music library">
+                                <img itemprop="contentUrl url" src='https://ns-static.s3.us-east-va.perf.cloud.ovh.us/img/categories/styles/80s-90s_1600x900.jpg' alt='Royalty-free 80s - 90s music | NeoSounds music library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeoSounds" />
+                                </span>
+                                <a href='https://ns-static.s3.us-east-va.perf.cloud.ovh.us/img/categories/styles/80s-90s_1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream EmanMusic | Listen to Synthwave/Retrowave 80's Background ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-WqRwLdNYu7fStmc9-eqgf7A-t1080x1080.jpg' alt='Stream EmanMusic | Listen to Synthwave/Retrowave 80's Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-WqRwLdNYu7fStmc9-eqgf7A-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Leyiyi 10x8ft 80's Party Backdrop Music Theme Photography  Backdrops Retro Style 80's Neon Eighties Background Hip Hop Rock Music ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71OHbfMmXSL.jpg' alt='Amazon.com : Leyiyi 10x8ft 80's Party Backdrop Music Theme Photography  Backdrops Retro Style 80's Neon Eighties Background Hip Hop Rock Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71OHbfMmXSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Birthday Songs From The 1980s - 96.3 KKLZ">
+                                <img itemprop="contentUrl url" src='https://963kklz.com/uploads/2021/10/80s-FI-1556-x-1176.jpg?format=auto&optimize=high&width=1440' alt='8 Birthday Songs From The 1980s - 96.3 KKLZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="96.3 KKLZ" />
+                                </span>
+                                <a href='https://963kklz.com/uploads/2021/10/80s-FI-1556-x-1176.jpg?format=auto&optimize=high&width=1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80's Instrumental Background Music - Compilation by Various ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273fe6bca38335d9ee2cf549879' alt='80's Instrumental Background Music - Compilation by Various ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273fe6bca38335d9ee2cf549879' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="355 80s Music Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1224789453/vector/a-colourful-retro-the-90s-rock-poster-design-with-boom-box-and-audio-cassette-on-a-vivid.jpg?s=612x612&w=gi&k=20&c=4vpiFGEUiedgCw_PB37spIe8yJKomsyNcCfqyn6JiTg=' alt='355 80s Music Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1224789453/vector/a-colourful-retro-the-90s-rock-poster-design-with-boom-box-and-audio-cassette-on-a-vivid.jpg?s=612x612&w=gi&k=20&c=4vpiFGEUiedgCw_PB37spIe8yJKomsyNcCfqyn6JiTg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

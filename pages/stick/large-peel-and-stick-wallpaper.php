@@ -1,0 +1,129 @@
+<title>Transform Your Space with Large Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the ease of large peel and stick wallpaper for a stylish home makeover. With endless designs and simple installation, it's the perfect choice for renters or those looking for a temporary transformation. Revamp your space effortlessly today!">
+                    <meta name="keywords" content="large peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/large-peel-and-stick-wallpaper">
+                            <span itemprop="name">large peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Large Peel and Stick Wallpaper</h1>
+                <p>Large peel and stick wallpaper offers a modern, hassle-free way to transform any space without the mess of traditional wallpaper. Ideal for renters or those seeking temporary solutions, it comes in a myriad of designs, from bold patterns to subtle textures. Installation is simple—just peel and stick! Perfect for accent walls or complete room makeovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Floral Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' alt='Big Floral Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' alt='Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' alt='Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C920">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C920_01.png?v=1737334643&width=1946' alt='Neutral Large Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C920'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C920_01.png?v=1737334643&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wall Mural Peel and Stick Wallpaper 148" W x 98" H Removable Large  Mural Vintage Wallpaper Self-Adhesive Wall Mural for Bedroom Livingroom  Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ZDO2BaZAL.jpg' alt='Floral Wall Mural Peel and Stick Wallpaper 148" W x 98" H Removable Large  Mural Vintage Wallpaper Self-Adhesive Wall Mural for Bedroom Livingroom  Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ZDO2BaZAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Floral, Large Floral Wallpaper, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/8c8271/1961429382/il_fullxfull.1961429382_jtl5.jpg' alt='Peel and Stick Wallpaper Floral, Large Floral Wallpaper, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2360">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/8c8271/1961429382/il_fullxfull.1961429382_jtl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/Peelandstickwallpaper.Wallpaper.Wallpapers.WallPaper.Peelandstickwallpapers.peelandstickwallpaper.peelstickwallpaper.PeonyRemovableWallpaper.removablewallpaper.peelandstickremovablewa.jpg?v=1703883981' alt='Peony Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/Peelandstickwallpaper.Wallpaper.Wallpapers.WallPaper.Peelandstickwallpapers.peelandstickwallpaper.peelstickwallpaper.PeonyRemovableWallpaper.removablewallpaper.peelandstickremovablewa.jpg?v=1703883981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Green French Toile Rococo Queen Baroque  Frames Museum History Large Scale Portraiture Neoclassical Custom Removable  ...">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/6917816447692362656.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Green French Toile Rococo Queen Baroque  Frames Museum History Large Scale Portraiture Neoclassical Custom Removable  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/6917816447692362656.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3668">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667395133_esjp_389ac863-e5a4-40fa-95ee-a8bd7a8f680f.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3668'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667395133_esjp_389ac863-e5a4-40fa-95ee-a8bd7a8f680f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

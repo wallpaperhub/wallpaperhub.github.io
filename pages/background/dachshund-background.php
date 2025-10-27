@@ -1,0 +1,129 @@
+<title>Explore the Fun History of Dachshunds</title>
+                    <meta name="description" content="Discover the fascinating history and characteristics of dachshunds, the beloved long-bodied dogs known for their playful nature. Learn about their origins, care needs, and why they make great pets. Perfect for dog lovers looking to dive deeper into the dachshund legacy!">
+                    <meta name="keywords" content="dachshund background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dachshund-background">
+                            <span itemprop="name">dachshund background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fun History of Dachshunds</h1>
+                <p>Dachshunds, originally bred in Germany for hunting badgers, are renowned for their long bodies and short legs. Their playful demeanor and loyalty make them beloved pets. Known as "wiener dogs," they come in various sizes and coat types. They require regular exercise and mental stimulation to thrive, making them fun companions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1296704304/vector/vector-seamless-pattern-in-dachshund-for-print-and-web-design-on-white-background-eps-10.jpg?s=612x612&w=0&k=20&c=XM25iAusoUtx2PROuvV-Lx5x-Yb_sqAesjUZ5xNuRTI=' alt='2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1296704304/vector/vector-seamless-pattern-in-dachshund-for-print-and-web-design-on-white-background-eps-10.jpg?s=612x612&w=0&k=20&c=XM25iAusoUtx2PROuvV-Lx5x-Yb_sqAesjUZ5xNuRTI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366924668/vector/dachshund-dogs-and-hearts-seamless-pattern-on-a-pink-background-valentines-day-vector.jpg?s=612x612&w=0&k=20&c=CaF3_3HgJT3nnfPtWz2PbkpHIOsePs45z47VqUThfd4=' alt='2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366924668/vector/dachshund-dogs-and-hearts-seamless-pattern-on-a-pink-background-valentines-day-vector.jpg?s=612x612&w=0&k=20&c=CaF3_3HgJT3nnfPtWz2PbkpHIOsePs45z47VqUThfd4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund on a pink background. Seamless vector pattern with a dog ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/823/618/non_2x/dachshund-on-a-pink-background-seamless-pattern-with-a-dog-cute-endless-ornament-vector.jpg' alt='Dachshund on a pink background. Seamless vector pattern with a dog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/823/618/non_2x/dachshund-on-a-pink-background-seamless-pattern-with-a-dog-cute-endless-ornament-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshunds Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664299472390-a42caab13f9a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFjaHNodW5kc3xlbnwwfHwwfHx8MA%3D%3D' alt='Dachshunds Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664299472390-a42caab13f9a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFjaHNodW5kc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graduate Collection - Dachshund Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p8283_i35_w1000.jpeg' alt='Graduate Collection - Dachshund Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p8283_i35_w1000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wire Dachshund Background Stock Illustrations – 65 Wire Dachshund ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/funny-laughing-wire-haired-dachshund-orange-background-happy-dog-making-face-its-mouth-open-showing-all-teeth-generative-342738627.jpg' alt='Wire Dachshund Background Stock Illustrations – 65 Wire Dachshund ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/funny-laughing-wire-haired-dachshund-orange-background-happy-dog-making-face-its-mouth-open-showing-all-teeth-generative-342738627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55,600+ Dachshund Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364860635/photo/dog-puppy-dachshund-sitting-in-bathtub-with-yellow-plastic-duck-on-her-head-and-looks-up.jpg?s=612x612&w=0&k=20&c=0ale8t4nbdbBSsAurUzJGlIY2eQTBxzhNPCPxbUiUVg=' alt='55,600+ Dachshund Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364860635/photo/dog-puppy-dachshund-sitting-in-bathtub-with-yellow-plastic-duck-on-her-head-and-looks-up.jpg?s=612x612&w=0&k=20&c=0ale8t4nbdbBSsAurUzJGlIY2eQTBxzhNPCPxbUiUVg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Dachshund Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661962556493-149dc2e6bf4d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFjaHNodW5kfGVufDB8fDB8fHww' alt='30k+ Dachshund Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661962556493-149dc2e6bf4d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFjaHNodW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund Christmas Images – Browse 14,136 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/67/52/83/360_F_267528374_5aEuyWj3mfU0iO8xo9gfjeYgo4pHLO2G.jpg' alt='Dachshund Christmas Images – Browse 14,136 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/67/52/83/360_F_267528374_5aEuyWj3mfU0iO8xo9gfjeYgo4pHLO2G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund Facts: From Badger Hunters to Beloved Pets">
+                                <img itemprop="contentUrl url" src='https://citizenshipper.com/blog/wp-content/uploads/2024/10/v2-j4csz-k1fpj-768x442.jpg' alt='Dachshund Facts: From Badger Hunters to Beloved Pets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CitizenShipper" />
+                                </span>
+                                <a href='https://citizenshipper.com/blog/wp-content/uploads/2024/10/v2-j4csz-k1fpj-768x442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

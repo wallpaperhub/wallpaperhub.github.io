@@ -1,0 +1,129 @@
+<title>Epic 1920x1080 Gaming Wallpapers</title>
+                    <meta name="description" content="Explore high-definition 1920x1080 gaming wallpapers that elevate your gaming setup. Find vibrant designs that showcase your favorite games and characters. Perfect for desktops and mobile devices, our collection offers a visual treat for every gamer. Customize your screens with stunning artwork today!">
+                    <meta name="keywords" content="1920x1080 wallpaper gaming">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1920x1080-wallpaper-gaming">
+                            <span itemprop="name">1920x1080 wallpaper gaming</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic 1920x1080 Gaming Wallpapers</h1>
+                <p>Discover a stunning collection of 1920x1080 gaming wallpapers that enhance your gaming experience. From epic landscapes to dynamic character art, these high-definition wallpapers bring your favorite games to life. Perfect for gamers looking to personalize their desktops or devices, immerse yourself in vibrant visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1920 X 1080 Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghostrunner-with-sword-1920-x-1080-gaming-wgb53zrmv8y94gjn.jpg' alt='100+] 1920 X 1080 Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghostrunner-with-sword-1920-x-1080-gaming-wgb53zrmv8y94gjn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A collection of 354 Gaming Wallpapers, all 1080p : r/gaming">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-q4j37b3gBaI7TkuOH2f1hfzT3031heAcghyV7Gr9TU.jpg?auto=webp&s=6eb463d17e222dac6c8e7db3adfc8c6245e3f596' alt='A collection of 354 Gaming Wallpapers, all 1080p : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-q4j37b3gBaI7TkuOH2f1hfzT3031heAcghyV7Gr9TU.jpg?auto=webp&s=6eb463d17e222dac6c8e7db3adfc8c6245e3f596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge 1920x1080 Gaming Wallpaper Collection (credits to /u ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/0vrYMObegEmuxVw93S7ZPMAA-YZIiZAP2jG1LS2EeQ0.jpg?auto=webp&s=ec38e854f65bb5fa2e7d1a189c26eb83ab594169' alt='Huge 1920x1080 Gaming Wallpaper Collection (credits to /u ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/0vrYMObegEmuxVw93S7ZPMAA-YZIiZAP2jG1LS2EeQ0.jpg?auto=webp&s=ec38e854f65bb5fa2e7d1a189c26eb83ab594169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Republic of Gamers Wallpaper 4K, Neon, ASUS ROG, Cityscape">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/republic-of-gamers-asus-rog-cityscape-neon-1920x1080-129.jpg' alt='Republic of Gamers Wallpaper 4K, Neon, ASUS ROG, Cityscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/republic-of-gamers-asus-rog-cityscape-neon-1920x1080-129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming background 2025 1920x1080">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920-x-1080-hd-gaming-1v2s1hav09lyly8v.jpg' alt='Gaming background 2025 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920-x-1080-hd-gaming-1v2s1hav09lyly8v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Hd Wallpaper 1920X1080 Game FULL HD 1080p For PC Desktop 2024">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/dd/5b/55dd5bc98ad87d1639c43cb08e012a12.jpg' alt='10 Best Hd Wallpaper 1920X1080 Game FULL HD 1080p For PC Desktop 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/dd/5b/55dd5bc98ad87d1639c43cb08e012a12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/c3/d1/95c3d114a09690a45b9b060843866a66.jpg' alt='HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/c3/d1/95c3d114a09690a45b9b060843866a66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd gaming wallpapers for 2025 pc">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' alt='Hd gaming wallpapers for 2025 pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shooter Game Wallpapers (58 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/e/c/1500738-1920x1080-desktop-full-hd-shooter-game-background.jpg' alt='Shooter Game Wallpapers (58 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/e/c/1500738-1920x1080-desktop-full-hd-shooter-game-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' alt='100+] Purple Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

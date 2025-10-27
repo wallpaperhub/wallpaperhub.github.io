@@ -1,0 +1,129 @@
+<title>John Rolfe and Pocahontas: A Historic Marriage</title>
+                    <meta name="description" content="Explore the fascinating story of John Rolfe, the English settler who married Pocahontas, the Native American princess. Discover how their marriage symbolized peace between cultures and its impact on history. Learn about their legacy and the life of their son, Thomas Rolfe.">
+                    <meta name="keywords" content="john who married pocahontas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/john-who-married-pocahontas">
+                            <span itemprop="name">john who married pocahontas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>John Rolfe and Pocahontas: A Historic Marriage</h1>
+                <p>John Rolfe, an English settler, famously married Pocahontas, the daughter of Powhatan, an Indigenous chief. Their union in 1614 was not only a personal bond but also a strategic alliance that helped foster peace between English settlers and Native Americans. Together, they had a son, Thomas, and their marriage symbolized cultural exchange.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Rolfe - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Pocahontas_Rolfe_crop.jpg' alt='John Rolfe - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d7/Pocahontas_Rolfe_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Rolfe (d. 1622) - Encyclopedia Virginia">
+                                <img itemprop="contentUrl url" src='https://encyclopediavirginia.org/wp-content/uploads/2020/11/28hpr_1c2cd634598317c-scaled.jpg' alt='John Rolfe (d. 1622) - Encyclopedia Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2084">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia Virginia" />
+                                </span>
+                                <a href='https://encyclopediavirginia.org/wp-content/uploads/2020/11/28hpr_1c2cd634598317c-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Day In History: 04/05/1614 - Pocahontas Weds John Rolfe">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2012/05/this-day-in-history-04-05-1614-pocahontas-weds-john-rolfe.jpg' alt='This Day In History: 04/05/1614 - Pocahontas Weds John Rolfe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2012/05/this-day-in-history-04-05-1614-pocahontas-weds-john-rolfe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baptism of Pocahontas | Architect of the Capitol">
+                                <img itemprop="contentUrl url" src='https://www.aoc.gov/sites/default/files/styles/alternative_xl/public/images/artwork/70221-600w-us-capitol-rotunda-painting-chapman-baptism-pocahontas.jpg.webp?itok=HNuqufPV' alt='Baptism of Pocahontas | Architect of the Capitol'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architect of the Capitol" />
+                                </span>
+                                <a href='https://www.aoc.gov/sites/default/files/styles/alternative_xl/public/images/artwork/70221-600w-us-capitol-rotunda-painting-chapman-baptism-pocahontas.jpg.webp?itok=HNuqufPV' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pocahontas' Pastor - Christian Heritage Fellowship, Inc.">
+                                <img itemprop="contentUrl url" src='https://christianheritagefellowship.com/wp-content/uploads/Pocahontas-Marriage.jpg' alt='Pocahontas' Pastor - Christian Heritage Fellowship, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christian Heritage Fellowship" />
+                                </span>
+                                <a href='https://christianheritagefellowship.com/wp-content/uploads/Pocahontas-Marriage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Rolfe | Pocahontas, Jamestown, Virginia | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/24/122324-050-6AE89FE0/Wedding-lithograph-Pocahontas-John-Rolfe-Geo-Spohni-1867.jpg' alt='John Rolfe | Pocahontas, Jamestown, Virginia | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/24/122324-050-6AE89FE0/Wedding-lithograph-Pocahontas-John-Rolfe-Geo-Spohni-1867.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pocahontas' First Marriage: The Powhatan Side of the Story | NMAI ...">
+                                <img itemprop="contentUrl url" src='https://www.americanindianmagazine.org/sites/default/files/styles/social/public/story/2018-01/Pocahontas%27-First-Marriage.jpg?itok=mwvQeMZD' alt='Pocahontas' First Marriage: The Powhatan Side of the Story | NMAI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Indian Magazine" />
+                                </span>
+                                <a href='https://www.americanindianmagazine.org/sites/default/files/styles/social/public/story/2018-01/Pocahontas%27-First-Marriage.jpg?itok=mwvQeMZD' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Rolfe | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/6/66/John_Rolfe.png/revision/latest?cb=20160805173227' alt='John Rolfe | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="1011">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/6/66/John_Rolfe.png/revision/latest?cb=20160805173227' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pocahontas and John Rolfe: The UNTOLD Story of Their Complex ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6750512aa0e8a8001d75f661.jpg' alt='Pocahontas and John Rolfe: The UNTOLD Story of Their Complex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6750512aa0e8a8001d75f661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pocahontas - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Marriage_of_Pocahontas.png/220px-Marriage_of_Pocahontas.png' alt='Pocahontas - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Marriage_of_Pocahontas.png/220px-Marriage_of_Pocahontas.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

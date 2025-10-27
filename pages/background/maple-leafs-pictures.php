@@ -1,0 +1,129 @@
+<title>Stunning Maple Leafs Pictures: Vibrant Fall Colors</title>
+                    <meta name="description" content="Discover breathtaking maple leafs pictures that celebrate the beauty of fall. Our curated selection features vivid colors and artistic captures, perfect for nature enthusiasts and photographers. Explore the charm of autumn through our stunning imagery, optimized for easy viewing on any device.">
+                    <meta name="keywords" content="maple leafs pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maple-leafs-pictures">
+                            <span itemprop="name">maple leafs pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Maple Leafs Pictures: Vibrant Fall Colors</h1>
+                <p>Explore a stunning collection of maple leafs pictures showcasing their vibrant colors and unique shapes. These images capture the essence of autumn, highlighting the beauty of changing foliage. Perfect for nature lovers and photographers alike, our gallery features close-ups, landscapes, and artistic interpretations of the iconic maple leaf.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toronto Maple Leafs - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png' alt='Toronto Maple Leafs - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,804 Maple Leaf Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1211181940/vector/maple-leaf-icon-canadian-symbol-vector-illustration-stock-illustration.jpg?s=612x612&w=gi&k=20&c=jCt9feaFeTWZUKikYIe4wswmaQrmzQTq07374sf0DPY=' alt='88,804 Maple Leaf Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1211181940/vector/maple-leaf-icon-canadian-symbol-vector-illustration-stock-illustration.jpg?s=612x612&w=gi&k=20&c=jCt9feaFeTWZUKikYIe4wswmaQrmzQTq07374sf0DPY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple Leafs sign William Nylander to eight-year extension worth US ...">
+                                <img itemprop="contentUrl url" src='https://cdn.nhlpa.com/img/assets/nhlpa.com/gallery/51EB8605-1943-4B64-B38E-9B345EF7D066/CP-Nylander.jpg' alt='Maple Leafs sign William Nylander to eight-year extension worth US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHLPA.com" />
+                                </span>
+                                <a href='https://cdn.nhlpa.com/img/assets/nhlpa.com/gallery/51EB8605-1943-4B64-B38E-9B345EF7D066/CP-Nylander.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="207,100+ Maple Leafs Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/477832436/photo/happy-canada-day-red-silk-maple-leaf.jpg?s=612x612&w=0&k=20&c=CZiqhl1O-iJpR3DY7AUP2unEc1Tm6QiKnCQ8ivFi2p8=' alt='207,100+ Maple Leafs Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/477832436/photo/happy-canada-day-red-silk-maple-leaf.jpg?s=612x612&w=0&k=20&c=CZiqhl1O-iJpR3DY7AUP2unEc1Tm6QiKnCQ8ivFi2p8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Toronto Maple Leafs Website | Toronto Maple Leafs">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1697722424/prd/assets/mapleleafs/assets/tor_2568x1144.png' alt='Official Toronto Maple Leafs Website | Toronto Maple Leafs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1697722424/prd/assets/mapleleafs/assets/tor_2568x1144.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Maple Leaf Extract For Skin, Skin Care & Wrinkles: Products ...">
+                                <img itemprop="contentUrl url" src='http://pangeaorganics.com/cdn/shop/collections/Pangea_IngredientPhotos_MapleLeaf.png?v=1654244596' alt='Red Maple Leaf Extract For Skin, Skin Care & Wrinkles: Products ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pangea Organics" />
+                                </span>
+                                <a href='http://pangeaorganics.com/cdn/shop/collections/Pangea_IngredientPhotos_MapleLeaf.png?v=1654244596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Auston Matthews is named captain of Maple Leafs, succeeding John ...">
+                                <img itemprop="contentUrl url" src='https://cdn.nhlpa.com/img/assets/nhlpa.com/gallery/6088D2D2-145F-4415-A361-17E63AFD181F/CP-Matthews.jpg' alt='Auston Matthews is named captain of Maple Leafs, succeeding John ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHLPA.com" />
+                                </span>
+                                <a href='https://cdn.nhlpa.com/img/assets/nhlpa.com/gallery/6088D2D2-145F-4415-A361-17E63AFD181F/CP-Matthews.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fans | Toronto Maple Leafs | Toronto Maple Leafs">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio16_9-size30/f_auto/prd/ceczbwswvb3e2olcvy3o.jpg' alt='Fans | Toronto Maple Leafs | Toronto Maple Leafs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio16_9-size30/f_auto/prd/ceczbwswvb3e2olcvy3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple Leaf Clipart | Elegant Maple Leaf Clipart Bundle | 10 High ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41975932/r/il/770cba/5319551684/il_fullxfull.5319551684_msbm.jpg' alt='Maple Leaf Clipart | Elegant Maple Leaf Clipart Bundle | 10 High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41975932/r/il/770cba/5319551684/il_fullxfull.5319551684_msbm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple Leafs recall Matt Murray, assign Dennis Hildeby to AHL's ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/maple-leafs-recall-matt-murray-assign-dennis-hildeby-to-v0-0Ju-ChAmi9WItFzGf-Jb902sUEQHT9OoJL263fnwEZk.jpg?width=1080&crop=smart&auto=webp&s=dcb0289f4211326bcaaf13dcd3238815308ed9c5' alt='Maple Leafs recall Matt Murray, assign Dennis Hildeby to AHL's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/maple-leafs-recall-matt-murray-assign-dennis-hildeby-to-v0-0Ju-ChAmi9WItFzGf-Jb902sUEQHT9OoJL263fnwEZk.jpg?width=1080&crop=smart&auto=webp&s=dcb0289f4211326bcaaf13dcd3238815308ed9c5' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

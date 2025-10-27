@@ -1,0 +1,129 @@
+<title>Delicious Jelly Roll Recipe: A Sweet Treat</title>
+                    <meta name="description" content="Satisfy your sweet tooth with our easy jelly roll recipe! This light and fluffy dessert, filled with your favorite jams or creams, is perfect for any occasion. Make this delightful treat today for a visually stunning and delicious centerpiece that everyone will love!">
+                    <meta name="keywords" content="jelly roll">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jelly-roll">
+                            <span itemprop="name">jelly roll</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Jelly Roll Recipe: A Sweet Treat</h1>
+                <p>Jelly roll, a delightful dessert, features a light sponge cake rolled with a sweet filling, often made of jam or cream. This classic treat can be customized with various flavors like chocolate, vanilla, or seasonal fruits. It's perfect for gatherings, making a visually stunning centerpiece that is easy to slice and serve.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/E5093mBvB2M3xMH0nwQ0w_-zzNHhtYzJXJHv8e-Y0HlLpx14Ji_RxxiCIqZ73dc5R5219stFSw=s900-c-k-c0x00ffffff-no-rj' alt='Jelly Roll - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/E5093mBvB2M3xMH0nwQ0w_-zzNHhtYzJXJHv8e-Y0HlLpx14Ji_RxxiCIqZ73dc5R5219stFSw=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll's Journey From Juvenile Hell to Country Gold | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/65e25ad8350bd17bab9eed2b/master/w_2560%2Cc_limit/story%2520dnc%25204%2520(1).jpg' alt='Jelly Roll's Journey From Juvenile Hell to Country Gold | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1714">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/65e25ad8350bd17bab9eed2b/master/w_2560%2Cc_limit/story%2520dnc%25204%2520(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll (singer) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c4/Jellyroll_Performing_at_Global_Citizen_Festival_%E2%80%93_September_28%2C_2024_%28cropped%29.jpg' alt='Jelly Roll (singer) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1479">
+                                <meta itemprop="height" content="1973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c4/Jellyroll_Performing_at_Global_Citizen_Festival_%E2%80%93_September_28%2C_2024_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll: Biography, Singer, Jason DeFord, 2025 Grammy Nominee">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2171583238-66ede3765da04.jpg?crop=0.825xw:0.559xh;0.0850xw,0.0657xh&resize=640:*' alt='Jelly Roll: Biography, Singer, Jason DeFord, 2025 Grammy Nominee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2171583238-66ede3765da04.jpg?crop=0.825xw:0.559xh;0.0850xw,0.0657xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll Net Worth (2025) - Parade">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/t_share/MjAxMDk0OTkyMDYyNTg4NTk3/jelly-roll-net-worth.jpg' alt='Jelly Roll Net Worth (2025) - Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/t_share/MjAxMDk0OTkyMDYyNTg4NTk3/jelly-roll-net-worth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll Joins 'American Idol' As Its First 'Artist in Residence'">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2025/02/24_10_04_NYC_93-e1738654644856.jpg?w=838&h=559&crop=1' alt='Jelly Roll Joins 'American Idol' As Its First 'Artist in Residence''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2025/02/24_10_04_NYC_93-e1738654644856.jpg?w=838&h=559&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll: Biography, Singer, Jason DeFord, 2025 Grammy Nominee">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/jelly-roll-and-bunnie-xo-attend-the-58th-academy-of-country-news-photo-1697212880.jpg' alt='Jelly Roll: Biography, Singer, Jason DeFord, 2025 Grammy Nominee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3880">
+                                <meta itemprop="height" content="2587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/jelly-roll-and-bunnie-xo-attend-the-58th-academy-of-country-news-photo-1697212880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll on the Grammys, Crying and His Rap Past - The New York ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2024/01/03/multimedia/02JELLY-ROLL-jtqg/02JELLY-ROLL-jtqg-mediumSquareAt3X.jpg' alt='Jelly Roll on the Grammys, Crying and His Rap Past - The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2024/01/03/multimedia/02JELLY-ROLL-jtqg/02JELLY-ROLL-jtqg-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Roll's wife berates haters who bullied country star 'off the ...">
+                                <img itemprop="contentUrl url" src='https://static.foxnews.com/foxnews.com/content/uploads/2024/04/jelly-roll-wife.jpg' alt='Jelly Roll's wife berates haters who bullied country star 'off the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://static.foxnews.com/foxnews.com/content/uploads/2024/04/jelly-roll-wife.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old-Fashioned Jelly Roll">
+                                <img itemprop="contentUrl url" src='https://www.seriouseats.com/thmb/uG_zTLwDBd_f6oAUMJp6sA-iXbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__11__20191105-jelly-roll-vicky-wasik-19-eb58035e3bbe4b40a65756aa362c1b8a.jpg' alt='Old-Fashioned Jelly Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serious Eats" />
+                                </span>
+                                <a href='https://www.seriouseats.com/thmb/uG_zTLwDBd_f6oAUMJp6sA-iXbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__11__20191105-jelly-roll-vicky-wasik-19-eb58035e3bbe4b40a65756aa362c1b8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

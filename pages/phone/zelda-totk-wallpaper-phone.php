@@ -1,0 +1,129 @@
+<title>Zelda: Tears of the Kingdom Phone Wallpapers</title>
+                    <meta name="description" content="Explore a collection of beautiful Zelda: Tears of the Kingdom wallpapers for your phone. Perfectly optimized for mobile display, these wallpapers bring the magic of Hyrule to your screen. Download your favorite now and show off your passion for the game!">
+                    <meta name="keywords" content="zelda totk wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/zelda-totk-wallpaper-phone">
+                            <span itemprop="name">zelda totk wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Zelda: Tears of the Kingdom Phone Wallpapers</h1>
+                <p>Discover stunning Zelda: Tears of the Kingdom wallpapers for your phone! Immerse yourself in the enchanting world of Hyrule with vibrant images of Link, Zelda, and breathtaking landscapes. Transform your phone's screen with these high-quality wallpapers and showcase your love for the game. Perfect for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Nintendo released a few TotK themed mobile wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' alt='TotK] Nintendo released a few TotK themed mobile wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=1125&format=pjpg&auto=webp&s=ef07b1e2efe85117f0609695b594753b40d57710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Mobile Backrounds of Link, Zelda, Ganondorf : r/zelda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/totk-mobile-backrounds-of-link-zelda-ganondorf-v0-xwtn9rct64ua1.png?width=1080&crop=smart&auto=webp&s=682354a9721d5ead76cc58a8f5f108331d0ba86e' alt='TotK] Mobile Backrounds of Link, Zelda, Ganondorf : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/totk-mobile-backrounds-of-link-zelda-ganondorf-v0-xwtn9rct64ua1.png?width=1080&crop=smart&auto=webp&s=682354a9721d5ead76cc58a8f5f108331d0ba86e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Mobile Backrounds of Link, Zelda, Ganondorf : r/zelda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/totk-mobile-backrounds-of-link-zelda-ganondorf-v0-me93y4qt64ua1.png?width=640&crop=smart&auto=webp&s=6afd456a5fb3cf59a6c21c464dcdd6bfb23cc1b1' alt='TotK] Mobile Backrounds of Link, Zelda, Ganondorf : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/totk-mobile-backrounds-of-link-zelda-ganondorf-v0-me93y4qt64ua1.png?width=640&crop=smart&auto=webp&s=6afd456a5fb3cf59a6c21c464dcdd6bfb23cc1b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jefferblue on X: "#Zelda #TotK #ZeldaTearsoftheKingdom ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fc5OszJWAAAAL1A.jpg:large' alt='Jefferblue on X: "#Zelda #TotK #ZeldaTearsoftheKingdom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fc5OszJWAAAAL1A.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Nintendo released a few TotK themed mobile wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-axuypmq045cb1.jpg?width=640&crop=smart&auto=webp&s=2c28297b47408823fd07d216d011bd773ba54525' alt='TotK] Nintendo released a few TotK themed mobile wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-axuypmq045cb1.jpg?width=640&crop=smart&auto=webp&s=2c28297b47408823fd07d216d011bd773ba54525' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda Tears of the Kingdom Wallpaper by De-monVarela ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/dfdbib2-63e7dc30-9443-43dc-b431-d0b7a81c9a89.jpg/v1/fill/w_670,h_1192,q_70,strp/the_legend_of_zelda_tears_of_the_kingdom_wallpaper_by_de_monvarela_dfdbib2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGZkYmliMi02M2U3ZGMzMC05NDQzLTQzZGMtYjQzMS1kMGI3YTgxYzlhODkuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CD_5RWIHj8PIDGkkRJwtYgenZPa7dlc5ztQjARcuUa8' alt='The Legend of Zelda Tears of the Kingdom Wallpaper by De-monVarela ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/dfdbib2-63e7dc30-9443-43dc-b431-d0b7a81c9a89.jpg/v1/fill/w_670,h_1192,q_70,strp/the_legend_of_zelda_tears_of_the_kingdom_wallpaper_by_de_monvarela_dfdbib2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGZkYmliMi02M2U3ZGMzMC05NDQzLTQzZGMtYjQzMS1kMGI3YTgxYzlhODkuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CD_5RWIHj8PIDGkkRJwtYgenZPa7dlc5ztQjARcuUa8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] Nintendo released a few TotK themed mobile wallpapers for ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=108&crop=smart&auto=webp&s=55e14bdda6f397c33284557b69659fa922a517e4' alt='TotK] Nintendo released a few TotK themed mobile wallpapers for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="108">
+                                <meta itemprop="height" content="192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg?width=108&crop=smart&auto=webp&s=55e14bdda6f397c33284557b69659fa922a517e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] New character arts wallpapers : r/zelda">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/totk-new-character-arts-wallpapers-v0-zmjk1kki2ota1.png?width=640&crop=smart&auto=webp&s=47bbf4305547d0f72b3afcf1cd4ed97b71690451' alt='TotK] New character arts wallpapers : r/zelda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/totk-new-character-arts-wallpapers-v0-zmjk1kki2ota1.png?width=640&crop=smart&auto=webp&s=47bbf4305547d0f72b3afcf1cd4ed97b71690451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TotK] With the trailer release today I decided to make some Tears ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/totk-with-the-trailer-release-today-i-decided-to-make-some-v0-4y3dkw8zbtta1.png?width=1772&format=png&auto=webp&s=8f1c8610ce48aa782d43915e743ede1c767bf72b' alt='TotK] With the trailer release today I decided to make some Tears ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="3836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/totk-with-the-trailer-release-today-i-decided-to-make-some-v0-4y3dkw8zbtta1.png?width=1772&format=png&auto=webp&s=8f1c8610ce48aa782d43915e743ede1c767bf72b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Zelda Phone Wallpaper Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/50/c5/0f50c5ea0b2a147f85cbd0d7f1defd87.jpg' alt='4K Zelda Phone Wallpaper Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/50/c5/0f50c5ea0b2a147f85cbd0d7f1defd87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>PBS Kids Wallpaper: Brighten Your Child's Space!</title>
+                    <meta name="description" content="Explore a colorful collection of PBS Kids wallpaper that inspires creativity and joy in your child's room. Featuring popular characters, our easy-to-apply designs create a playful atmosphere perfect for learning and fun. Transform your child's space today with vibrant PBS Kids themes!">
+                    <meta name="keywords" content="pbs kids wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/pbs-kids-wallpaper">
+                            <span itemprop="name">pbs kids wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>PBS Kids Wallpaper: Brighten Your Child's Space!</h1>
+                <p>Transform your child's room into a vibrant wonderland with PBS Kids wallpaper! Featuring beloved characters like Curious George and Elinor, these wallpapers are perfect for sparking imagination and creativity. Durable and easy to apply, they'll bring joy to any space, fostering a fun and engaging environment for learning and play.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents">
+                                <img itemprop="contentUrl url" src='https://cms-tc.pbskids.org/parents/_600xAUTO_crop_center-center_none/video-chat-backgrounds.png' alt='PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://cms-tc.pbskids.org/parents/_600xAUTO_crop_center-center_none/video-chat-backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pbs Kids Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pbs-kids-pink-poster-2nwpsam2yre6v4hq.jpg' alt='100+] Pbs Kids Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="908">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pbs-kids-pink-poster-2nwpsam2yre6v4hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents">
+                                <img itemprop="contentUrl url" src='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-4.jpg?mtime=20200504171337' alt='PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-4.jpg?mtime=20200504171337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Downloads | PBS KIDS">
+                                <img itemprop="contentUrl url" src='https://pbskids.org/apps/media/thumbs/pbs-kids_1.jpg' alt='Mobile Downloads | PBS KIDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="125">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS KIDS" />
+                                </span>
+                                <a href='https://pbskids.org/apps/media/thumbs/pbs-kids_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Downloads | PBS KIDS">
+                                <img itemprop="contentUrl url" src='https://pbskids.org/apps/media/thumbs/pbs-kids-desert.jpg' alt='Mobile Downloads | PBS KIDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="125">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS KIDS" />
+                                </span>
+                                <a href='https://pbskids.org/apps/media/thumbs/pbs-kids-desert.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pbs Kids Purple Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pbs-kids-purple-poster-yaxojszxa2mkyvli.jpg' alt='Pbs Kids Purple Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pbs-kids-purple-poster-yaxojszxa2mkyvli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Downloads | PBS KIDS">
+                                <img itemprop="contentUrl url" src='https://pbskids.org/apps/media/thumbs/pbs-kids-explorers-.jpg' alt='Mobile Downloads | PBS KIDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="125">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS KIDS" />
+                                </span>
+                                <a href='https://pbskids.org/apps/media/thumbs/pbs-kids-explorers-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Downloads | PBS KIDS">
+                                <img itemprop="contentUrl url" src='https://pbskids.org/apps/media/thumbs/dot-goes-fishing_2.jpg' alt='Mobile Downloads | PBS KIDS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="125">
+                                <meta itemprop="height" content="189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS KIDS" />
+                                </span>
+                                <a href='https://pbskids.org/apps/media/thumbs/dot-goes-fishing_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBSK Wallpaper Art - Running Kids by tn1608 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cd5dac1-53ad-4acc-9ad2-ae81185f90ad/dfpfo8r-48ceb836-b993-4d94-9922-92a2ad44f80f.png/v1/fill/w_1188,h_672,q_70,strp/pbsk_wallpaper_art___running_kids_by_tn1608_dfpfo8r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyMyIsInBhdGgiOiJcL2ZcLzJjZDVkYWMxLTUzYWQtNGFjYy05YWQyLWFlODExODVmOTBhZFwvZGZwZm84ci00OGNlYjgzNi1iOTkzLTRkOTQtOTkyMi05MmEyYWQ0NGY4MGYucG5nIiwid2lkdGgiOiI8PTE5ODQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.l7boCzAH0U3ojo3hH88wjsO74yRJ5WOlflG1GKWOt2g' alt='PBSK Wallpaper Art - Running Kids by tn1608 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1188">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cd5dac1-53ad-4acc-9ad2-ae81185f90ad/dfpfo8r-48ceb836-b993-4d94-9922-92a2ad44f80f.png/v1/fill/w_1188,h_672,q_70,strp/pbsk_wallpaper_art___running_kids_by_tn1608_dfpfo8r-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyMyIsInBhdGgiOiJcL2ZcLzJjZDVkYWMxLTUzYWQtNGFjYy05YWQyLWFlODExODVmOTBhZFwvZGZwZm84ci00OGNlYjgzNi1iOTkzLTRkOTQtOTkyMi05MmEyYWQ0NGY4MGYucG5nIiwid2lkdGgiOiI8PTE5ODQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.l7boCzAH0U3ojo3hH88wjsO74yRJ5WOlflG1GKWOt2g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBS KIDS - PBS KIDS Wallpaper | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=410040347041' alt='PBS KIDS - PBS KIDS Wallpaper | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=410040347041' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

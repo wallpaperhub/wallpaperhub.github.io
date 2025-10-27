@@ -1,0 +1,129 @@
+<title>Stunning Goku and Vegeta Wallpapers for iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="goku and vegeta wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-and-vegeta-wallpaper-iphone">
+                            <span itemprop="name">goku and vegeta wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Goku and Vegeta Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Goku and Vegeta wallpapers! Showcase your love for Dragon Ball with high-quality images featuring these iconic characters. Whether you prefer epic battles or vibrant artwork, there's a perfect wallpaper for every fan. Customize your device and bring the spirit of Saiyan pride to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goku And Vegeta Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-qo4f2ipp2alwaheh.jpg' alt='100+] Goku And Vegeta Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-qo4f2ipp2alwaheh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku - Vegeta - fondo de pantalla Dragon Ball hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/03/4d/f7034dd67e517a2348e43002c8cd34a2.jpg' alt='Son Goku - Vegeta - fondo de pantalla Dragon Ball hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/03/4d/f7034dd67e517a2348e43002c8cd34a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Facing Vegeta Dragon Ball Z Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/goku-facing-vegeta-dragon-ball-z-iphone-ae5b1dhqemjnzpah.jpg' alt='Goku Facing Vegeta Dragon Ball Z Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/goku-facing-vegeta-dragon-ball-z-iphone-ae5b1dhqemjnzpah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Vegeta">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/41/81/29418193adca0a849908654c2784a09a.jpg' alt='Goku and Vegeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/41/81/29418193adca0a849908654c2784a09a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Vegeta, anime, dragonball, goku, saiyan, vegeta, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/183/925/HD-wallpaper-goku-and-vegeta-anime-dragonball-goku-saiyan-vegeta.jpg' alt='Goku and Vegeta, anime, dragonball, goku, saiyan, vegeta, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/183/925/HD-wallpaper-goku-and-vegeta-anime-dragonball-goku-saiyan-vegeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate the iconic characters of Dragon Ball Z with the ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-3ddovm4d6vuo1e9g.jpg' alt='Download Celebrate the iconic characters of Dragon Ball Z with the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-3ddovm4d6vuo1e9g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku And Vegeta iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13024147.jpg' alt='Goku And Vegeta iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13024147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Widescreen Dbz Goku And Vegeta Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vegeta-and-son-goku-iphone-ak4hcx14m1f6j5te.webp' alt='Widescreen Dbz Goku And Vegeta Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vegeta-and-son-goku-iphone-ak4hcx14m1f6j5te.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Goku and Vegeta take on the world - on your Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-vzeb2bjivrsu0x93.jpg' alt='Download "Goku and Vegeta take on the world - on your Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-and-vegeta-iphone-vzeb2bjivrsu0x93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Vs Vegeta | Dragon ball super manga, Anime dragon ball goku ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/5a/df/ec5adf338ac07dcc22b59fe0e9894283.jpg' alt='Goku Vs Vegeta | Dragon ball super manga, Anime dragon ball goku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/5a/df/ec5adf338ac07dcc22b59fe0e9894283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

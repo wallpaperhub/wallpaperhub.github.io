@@ -1,0 +1,129 @@
+<title>Transform Your Space with Peel and Stick Moody Wallpaper</title>
+                    <meta name="description" content="Discover the enchanting world of peel and stick moody wallpaper. Easily elevate your interior with dark, dramatic designs that suit any style. Perfect for quick updates and ideal for renters, our wallpapers offer a stylish and hassle-free way to refresh your living space. Explore limitless possibilities today!">
+                    <meta name="keywords" content="peel and stick moody wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-moody-wallpaper">
+                            <span itemprop="name">peel and stick moody wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Peel and Stick Moody Wallpaper</h1>
+                <p>Peel and stick moody wallpaper is the perfect solution to transform your space effortlessly. With a variety of dark, rich patterns and textures, it creates a bold atmosphere in any room. Easy to apply and remove, it allows for quick style changes without damaging your walls. Ideal for renters or anyone seeking a dramatic makeover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Golden Blue Tan Floral Wallpaper Peel and Stick Wallpaper  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 860">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5633364057_7qs7.jpg' alt='Dark Moody Golden Blue Tan Floral Wallpaper Peel and Stick Wallpaper  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 860'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5633364057_7qs7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Moss Leaf Dark Moody Wallpaper Peel and Stick Removable Vintage  Renter-Friendly Wallpaper 15.19"x39.6"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gO-oUrYSL._AC_UF894,1000_QL80_.jpg' alt='Tropical Moss Leaf Dark Moody Wallpaper Peel and Stick Removable Vintage  Renter-Friendly Wallpaper 15.19"x39.6"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gO-oUrYSL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Black Fairy Forest Wallpaper Peel and Stick Moody Mushrooms Floral  Wallpaper Mural 17.7''x118'' Dark Botanical Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914aeUx4qhL._AC_UF894,1000_QL80_.jpg' alt='VEELIKE Black Fairy Forest Wallpaper Peel and Stick Moody Mushrooms Floral  Wallpaper Mural 17.7''x118'' Dark Botanical Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914aeUx4qhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper, Moody Wallpaper Peel and Stick, Roses ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38917423/r/il/beeda2/5423323925/il_570xN.5423323925_rpwj.jpg' alt='Dark Botanical Wallpaper, Moody Wallpaper Peel and Stick, Roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38917423/r/il/beeda2/5423323925/il_570xN.5423323925_rpwj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 819">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574737475_oiak.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 819'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574737475_oiak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Natural Dark Moody Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 884">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5632536287_2m7m.jpg' alt='Wallpaper Peel and Stick Wallpaper Natural Dark Moody Floral Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 884'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5632536287_2m7m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skyblur Black Colorful Wild Floral Wallpaper Peel and Stick Moody Wallpaper  Waterproof Removable Contact Paper for Cabinets and Drawers 17.5"X78.7" ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81u7uGX-lGL.jpg' alt='Skyblur Black Colorful Wild Floral Wallpaper Peel and Stick Moody Wallpaper  Waterproof Removable Contact Paper for Cabinets and Drawers 17.5"X78.7" ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81u7uGX-lGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral and Leaf Wallpaper Peel and Stick and Traditional Wallpaper -  A934">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/A934_06.png?v=1713369548&width=1946' alt='Moody Floral and Leaf Wallpaper Peel and Stick and Traditional Wallpaper -  A934'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/A934_06.png?v=1713369548&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Black Botanical Wallpaper | Premium Removable Peel Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32484627/r/il/37d209/5177551145/il_fullxfull.5177551145_ntwr.jpg' alt='Moody Black Botanical Wallpaper | Premium Removable Peel Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32484627/r/il/37d209/5177551145/il_fullxfull.5177551145_ntwr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/te573_moodyfloral_tempaper_credenza_1800x1800.jpg?v=1724537959' alt='Moody Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/te573_moodyfloral_tempaper_credenza_1800x1800.jpg?v=1724537959' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

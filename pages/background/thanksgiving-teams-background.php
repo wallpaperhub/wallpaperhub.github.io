@@ -1,0 +1,129 @@
+<title>Thanksgiving Teams: Celebrating Gratitude Together</title>
+                    <meta name="description" content="Discover the essence of Thanksgiving teams, where gratitude and camaraderie come together. Explore how these gatherings create lasting memories and strengthen relationships, making every celebration meaningful. Join us in embracing the spirit of unity this Thanksgiving!">
+                    <meta name="keywords" content="thanksgiving teams background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thanksgiving-teams-background">
+                            <span itemprop="name">thanksgiving teams background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thanksgiving Teams: Celebrating Gratitude Together</h1>
+                <p>Thanksgiving teams bring together family, friends, and colleagues to celebrate gratitude and unity. These gatherings often showcase a blend of traditions, from sharing meals to engaging in fun activities. By fostering teamwork and collaboration, Thanksgiving teams create memorable experiences that strengthen bonds and cultivate a spirit of appreciation among participants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 | Thanksgiving Background Teams Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/happy-thanksgiving-with-copy-space-autumn-leaves_23-2148638873.jpg' alt='Page 7 | Thanksgiving Background Teams Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/happy-thanksgiving-with-copy-space-autumn-leaves_23-2148638873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YongFoto Autumn Window Scene Backdrop 7x5ft Maple Leaves Pumpkin Fall  Forest Photography Background Autumn Harvest Happy Fall Yall Thanksgiving  Day ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71cjPJsioIL._AC_UF894,1000_QL80_.jpg' alt='YongFoto Autumn Window Scene Backdrop 7x5ft Maple Leaves Pumpkin Fall  Forest Photography Background Autumn Harvest Happy Fall Yall Thanksgiving  Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71cjPJsioIL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best Thanksgiving Teams backgrounds for Microsoft 365">
+                                <img itemprop="contentUrl url" src='https://office365atwork.com/wp-content/uploads/2022/09/PostPicture-1.jpg' alt='The best Thanksgiving Teams backgrounds for Microsoft 365'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft 365 atWork" />
+                                </span>
+                                <a href='https://office365atwork.com/wp-content/uploads/2022/09/PostPicture-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: Thanksgiving Zoom backgrounds to boost the virtual ...">
+                                <img itemprop="contentUrl url" src='https://assets.techrepublic.com/uploads/2020/11/tasipas.jpg' alt='Photos: Thanksgiving Zoom backgrounds to boost the virtual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1137">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRepublic" />
+                                </span>
+                                <a href='https://assets.techrepublic.com/uploads/2020/11/tasipas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash">
+                                <img itemprop="contentUrl url" src='https://dd86mil3sc3or.cloudfront.net/cms/article/5ed4b66a-3093-456a-9ba2-8ddc9888d463_202010121734327' alt='35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://dd86mil3sc3or.cloudfront.net/cms/article/5ed4b66a-3093-456a-9ba2-8ddc9888d463_202010121734327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE    Thanksgiving backgrounds for Teams | FREE Festive ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Thanksgiving%20Living%20Room%20Gathering.png' alt='FREE    Thanksgiving backgrounds for Teams | FREE Festive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Wiki" />
+                                </span>
+                                <a href='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Thanksgiving%20Living%20Room%20Gathering.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Dinner Table Zoom Background, Autumn Setting for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/54139452/r/il/22aff9/6274823459/il_570xN.6274823459_gjtm.jpg' alt='Thanksgiving Dinner Table Zoom Background, Autumn Setting for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/54139452/r/il/22aff9/6274823459/il_570xN.6274823459_gjtm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/921c4093-2688-4293-a493-d807a4f68470' alt='35 Autumnal Zoom Backgrounds for Thanksgiving - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/921c4093-2688-4293-a493-d807a4f68470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE    Thanksgiving backgrounds for Teams | FREE Festive ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Harvest%20Cornucopia.png' alt='FREE    Thanksgiving backgrounds for Teams | FREE Festive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Wiki" />
+                                </span>
+                                <a href='https://storage.googleapis.com/perfectwiki-meta/backgrounds/2/Harvest%20Cornucopia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Autumnal Thanksgiving Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/84/5a/fa845abbd86421ec502434ce36340793.jpg' alt='35 Autumnal Thanksgiving Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/84/5a/fa845abbd86421ec502434ce36340793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

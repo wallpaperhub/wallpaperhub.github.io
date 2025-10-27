@@ -1,0 +1,129 @@
+<title>Exploring the Iconic Mountains of Anime</title>
+                    <meta name="description" content="Discover the breathtaking mountains featured in popular anime. From the dramatic peaks in "Your Name" to the vast landscapes of "Attack on Titan," explore how these natural wonders enhance storytelling and character journeys. Ideal for anime fans and nature lovers alike! Perfect for quick reads on-the-go.">
+                    <meta name="keywords" content="anime mountains">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-mountains">
+                            <span itemprop="name">anime mountains</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Iconic Mountains of Anime</h1>
+                <p>Anime mountains serve as stunning backdrops, often influencing the story and the atmosphere in many series. Iconic peaks and serene landscapes enhance the visual experience, providing a sense of adventure and escape. From the towering cliffs of "Your Name" to the majestic mountains in "Attack on Titan," these natural wonders play a vital role in storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Mountain Stock Illustrations – 7,828 Anime Mountain Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/magical-anime-mountain-trail-344279568.jpg' alt='Anime Mountain Stock Illustrations – 7,828 Anime Mountain Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/magical-anime-mountain-trail-344279568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="810 Anime Mountains Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/summer-landscape-alps-snow-mountains-600nw-2205932535.jpg' alt='810 Anime Mountains Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/summer-landscape-alps-snow-mountains-600nw-2205932535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountains Anime Stock Illustrations – 6,713 Mountains Anime Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/snow-capped-mountains-reflect-under-clear-blue-sky-anime-style-icefields-landscape-showcases-towering-soft-clouds-drift-354691972.jpg' alt='Mountains Anime Stock Illustrations – 6,713 Mountains Anime Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/snow-capped-mountains-reflect-under-clear-blue-sky-anime-style-icefields-landscape-showcases-towering-soft-clouds-drift-354691972.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Northern Mountain Range | Arifureta Shokugyou de Sekai Saikyou ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/5/50/Northern_Mountain_Range_%28Anime%29.png/revision/latest?cb=20210919210002' alt='Northern Mountain Range | Arifureta Shokugyou de Sekai Saikyou ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arifureta Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/5/50/Northern_Mountain_Range_%28Anime%29.png/revision/latest?cb=20210919210002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Sunset in Anime Mountains - HD Wallpaper by ど〜ら">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/682/682378.jpg' alt='Winter Sunset in Anime Mountains - HD Wallpaper by ど〜ら'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/682/682378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="810 Anime Mountains Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/vector-illustration-lakeside-walkway-beautiful-600nw-2092034647.jpg' alt='810 Anime Mountains Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/vector-illustration-lakeside-walkway-beautiful-600nw-2092034647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the sky, clouds, mountains, night, nature, the moon ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/6/be/art-cura-anime-monobeno-634.webp' alt='Wallpaper the sky, clouds, mountains, night, nature, the moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/6/be/art-cura-anime-monobeno-634.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mountain Motorcycle Path Anime Landscape Anime Landscape ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/105/1054745.jpg' alt='Download Mountain Motorcycle Path Anime Landscape Anime Landscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2046">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/105/1054745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Anime, mountains, scenic, clouds, stars, stream, anime ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/b/5c/anime-landscape-mountains-scenic-clouds-stars-stream-anime.webp' alt='Wallpaper Anime, mountains, scenic, clouds, stars, stream, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/b/5c/anime-landscape-mountains-scenic-clouds-stars-stream-anime.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime landscape, mountain, field, grass, lake, scenic, Anime, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/901/709/HD-wallpaper-anime-landscape-mountain-field-grass-lake-scenic-anime.jpg' alt='Anime landscape, mountain, field, grass, lake, scenic, Anime, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/901/709/HD-wallpaper-anime-landscape-mountain-field-grass-lake-scenic-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

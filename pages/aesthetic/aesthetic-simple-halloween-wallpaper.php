@@ -1,0 +1,129 @@
+<title>Stylish Simple Halloween Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover enchanting aesthetic simple Halloween wallpapers to elevate your screen. Perfect for anyone who loves minimalist designs, our selection features cozy pumpkins and subtle spooky themes. Get ready for the season with a stylish look that captures the spirit of Halloween effortlessly!">
+                    <meta name="keywords" content="aesthetic simple halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-simple-halloween-wallpaper">
+                            <span itemprop="name">aesthetic simple halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Simple Halloween Wallpapers for Your Device</h1>
+                <p>Aesthetic simple Halloween wallpapers add a charming touch to your device, featuring minimalistic designs like pumpkins, ghosts, and autumn leaves. These wallpapers create a cozy atmosphere while keeping your screen stylish and clutter-free. Perfect for those who love a subtle seasonal vibe without overwhelming imagery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple pumpkin wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/2f/0e/c82f0e05f52c395b816286c927281ffd.jpg' alt='Simple pumpkin wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/2f/0e/c82f0e05f52c395b816286c927281ffd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Aesthetic Free Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/95/7a/58957acdd3cb5ebdea7e0a2c44548c32.jpg' alt='Cute Halloween Aesthetic Free Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/95/7a/58957acdd3cb5ebdea7e0a2c44548c32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Fall Aesthetic Spooky Wallpaper Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5c/7a/4b/5c7a4b32140008cd231d22e01436f2fd.jpg' alt='Halloween Fall Aesthetic Spooky Wallpaper Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5c/7a/4b/5c7a4b32140008cd231d22e01436f2fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpapers for Your Phone and Computer">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/2021/09/aesthetic-halloween-wallpaper-2.jpeg' alt='Aesthetic Halloween Wallpapers for Your Phone and Computer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/2021/09/aesthetic-halloween-wallpaper-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Simple Halloween Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201009/pngtree-cute-simple-halloween-icon-seamless-pattern-background-illustration-in-hand-drawn-image_401846.jpg' alt='Cute Simple Halloween Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201009/pngtree-cute-simple-halloween-icon-seamless-pattern-background-illustration-in-hand-drawn-image_401846.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free customizable Halloween desktop wallpaper templates ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFs2Ibdlrk/1/0/1600w/canva-pink-artsy-halloween-desktop-wallpaper-aBZ7QyeVSjg.jpg' alt='Page 2 - Free customizable Halloween desktop wallpaper templates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFs2Ibdlrk/1/0/1600w/canva-pink-artsy-halloween-desktop-wallpaper-aBZ7QyeVSjg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Lock Screen? Sign me up #halloweenlockscreen #Halloweenwallpaper  #Fallwallpaper #halloweenlockscreens #iphonehomescreen #iPhonelockscreen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7283391015770230062&location=0&aid=1988' alt='Halloween Lock Screen? Sign me up #halloweenlockscreen #Halloweenwallpaper  #Fallwallpaper #halloweenlockscreens #iphonehomescreen #iPhonelockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7283391015770230062&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Aesthetic Pc Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/halloween-aesthetic-pc-t5fjfj9nnvsbzmt6.jpg' alt='100+] Halloween Aesthetic Pc Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/halloween-aesthetic-pc-t5fjfj9nnvsbzmt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

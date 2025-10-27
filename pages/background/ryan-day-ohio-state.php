@@ -1,0 +1,129 @@
+<title>Ryan Day: Ohio State Football's Visionary Coach</title>
+                    <meta name="description" content="Discover the impact of Ryan Day, the head coach of Ohio State football, known for his innovative approach and impressive record. Learn how he has transformed the Buckeyes into a national powerhouse through strategic recruiting and game-winning strategies. Join us in exploring his journey and future!">
+                    <meta name="keywords" content="ryan day ohio state">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ryan-day-ohio-state">
+                            <span itemprop="name">ryan day ohio state</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ryan Day: Ohio State Football's Visionary Coach</h1>
+                <p>Ryan Day is the head football coach at Ohio State University, having taken the helm in 2019. Under his leadership, the Buckeyes have enjoyed remarkable success, including multiple Big Ten championships and playoff appearances. His innovative coaching style and ability to recruit top talent have solidified Ohio State's status as a college football powerhouse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did Ryan Day play football? Revisiting Ohio State coach's D2 ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-12/Ryan%20Day%20121924.jpg?itok=WN02aRzR' alt='Did Ryan Day play football? Revisiting Ohio State coach's D2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4333">
+                                <meta itemprop="height" content="2437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-12/Ryan%20Day%20121924.jpg?itok=WN02aRzR' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State's Ryan Day named semifinalist for Coach of the Year Award">
+                                <img itemprop="contentUrl url" src='https://myfox28columbus.com/resources/media2/16x9/1170/986/0x59/90/81f6fd59-29e0-4f3b-9756-5aaaec96f92a-day.JPG' alt='Ohio State's Ryan Day named semifinalist for Coach of the Year Award'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 28" />
+                                </span>
+                                <a href='https://myfox28columbus.com/resources/media2/16x9/1170/986/0x59/90/81f6fd59-29e0-4f3b-9756-5aaaec96f92a-day.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letters: Ryan Day an average coach in SEC">
+                                <img itemprop="contentUrl url" src='https://www.dispatch.com/gcdn/presto/2022/04/17/NCOD/eb6fa7a9-50ba-4b4d-80ec-963a48a7c875-osufb_spring_game_ac_121.jpg' alt='Letters: Ryan Day an average coach in SEC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2141">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Columbus Dispatch" />
+                                </span>
+                                <a href='https://www.dispatch.com/gcdn/presto/2022/04/17/NCOD/eb6fa7a9-50ba-4b4d-80ec-963a48a7c875-osufb_spring_game_ac_121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Day - Head Coach - Football Coaches - Ohio State">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fohiostatebuckeyes.com%2Fimages%2F2023%2F7%2F22%2F0901022-OSUvArkansasSt-0054_Tet98.jpg&height=300&type=webp' alt='Ryan Day - Head Coach - Football Coaches - Ohio State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ryan Day - Head Coach - Football Coaches - Ohio State" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fohiostatebuckeyes.com%2Fimages%2F2023%2F7%2F22%2F0901022-OSUvArkansasSt-0054_Tet98.jpg&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Ohio State coach Ryan Day's record against Michigan ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/iwzkwyeSdodro.Jy4B41jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/608de1e5267833fc9e72ac9224134aec' alt='What is Ohio State coach Ryan Day's record against Michigan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/iwzkwyeSdodro.Jy4B41jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/608de1e5267833fc9e72ac9224134aec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Co-Offensive Coordinator and Quarterbacks Coach Ryan Day">
+                                <img itemprop="contentUrl url" src='https://theozone.net/wp-content/uploads/2017/03/RyanDay.jpg' alt='Ohio State Co-Offensive Coordinator and Quarterbacks Coach Ryan Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The-Ozone" />
+                                </span>
+                                <a href='https://theozone.net/wp-content/uploads/2017/03/RyanDay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Day's decisions may haunt him after No. 3 Michigan beats No ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/008e02e/2147483647/strip/true/crop/4386x2924+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F2e%2Facd81ff8a9b83323a761534268fe%2F04aa7b7f1b37412cb248f49b1481feee' alt='Ryan Day's decisions may haunt him after No. 3 Michigan beats No ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/008e02e/2147483647/strip/true/crop/4386x2924+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F2e%2Facd81ff8a9b83323a761534268fe%2F04aa7b7f1b37412cb248f49b1481feee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Ryan Day Michigan Press Conference - Maize n Brew">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/6T9o_1MQ0VReSxUVAnn_phY0ISc=/0x0:5181x3454/1200x800/filters:focal(2273x1308:3101x2136)/cdn.vox-cdn.com/uploads/chorus_image/image/72889681/1788296247.0.jpg' alt='Ohio State Ryan Day Michigan Press Conference - Maize n Brew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maize n Brew" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/6T9o_1MQ0VReSxUVAnn_phY0ISc=/0x0:5181x3454/1200x800/filters:focal(2273x1308:3101x2136)/cdn.vox-cdn.com/uploads/chorus_image/image/72889681/1788296247.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State Buckeyes Legend Gets Candid on Ryan Day">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_3148,h_1770,x_1546,y_464/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/buckeyes_now/01jhv2n5ewwgp6f03xvs.jpg' alt='Ohio State Buckeyes Legend Gets Candid on Ryan Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_3148,h_1770,x_1546,y_464/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/buckeyes_now/01jhv2n5ewwgp6f03xvs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio State football coach Ryan Day is on hot seat; should he be fired?">
+                                <img itemprop="contentUrl url" src='https://www.dispatch.com/gcdn/authoring/authoring-images/2024/11/30/NCOD/76680087007-osu-24-um-ryan-day-carmen-ohio.jpg?crop=4799,2700,x0,y0' alt='Ohio State football coach Ryan Day is on hot seat; should he be fired?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4799">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Columbus Dispatch" />
+                                </span>
+                                <a href='https://www.dispatch.com/gcdn/authoring/authoring-images/2024/11/30/NCOD/76680087007-osu-24-um-ryan-day-carmen-ohio.jpg?crop=4799,2700,x0,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

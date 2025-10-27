@@ -1,0 +1,129 @@
+<title>Christian Aesthetic Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover aesthetic Christian lock screen wallpapers for your iPhone. Enhance your device with inspiring designs that reflect your faith and style. Perfect for anyone looking to express spirituality and beauty at a glance. Explore various themes and find your perfect match today!">
+                    <meta name="keywords" content="lock screen aesthetic christian wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-aesthetic-christian-wallpaper-iphone">
+                            <span itemprop="name">lock screen aesthetic christian wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Christian Aesthetic Lock Screen Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Christian lock screen wallpapers. These beautifully designed backgrounds feature inspiring scripture, serene landscapes, and artistic representations of faith. Personalize your device while reflecting your beliefs every time you unlock your phone. Discover the perfect blend of style and spirituality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian Wallpaper iPhone Background | Christian Resource ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/12/00/0e1200f7016efe4ae8c0834a8806b522.jpg' alt='Free Christian Wallpaper iPhone Background | Christian Resource ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/12/00/0e1200f7016efe4ae8c0834a8806b522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/58/3f/f3/583ff3504204a6f9697171d91606c7e8.jpg' alt='Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/58/3f/f3/583ff3504204a6f9697171d91606c7e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screens | Hosanna Revival">
+                                <img itemprop="contentUrl url" src='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_400x.png?v=1674237937' alt='Lock Screens | Hosanna Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_400x.png?v=1674237937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Christian Phone Wallpapers With A Summer Glowup">
+                                <img itemprop="contentUrl url" src='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-6.png' alt='10 Beautiful Christian Phone Wallpapers With A Summer Glowup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="single christian blog" />
+                                </span>
+                                <a href='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find Inspiration with Beautiful Christian Lock Screens">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/0d/59/cc0d599aa8af3d8b2b2058b97a6573f0.jpg' alt='Find Inspiration with Beautiful Christian Lock Screens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/0d/59/cc0d599aa8af3d8b2b2058b97a6573f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Christian Phone Wallpapers With A Summer Glowup">
+                                <img itemprop="contentUrl url" src='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-3-576x1024.png' alt='10 Beautiful Christian Phone Wallpapers With A Summer Glowup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="single christian blog" />
+                                </span>
+                                <a href='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-3-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christian Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/christian-iphone-rkw3b52abmdxrnq0.jpg' alt='100+] Christian Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/christian-iphone-rkw3b52abmdxrnq0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Christian phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/70/d9/1470d9262e5e1a831d2ee2340d295633.jpg' alt='Trendy Christian phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/70/d9/1470d9262e5e1a831d2ee2340d295633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Beautiful Christian Phone Wallpapers With A Summer Glowup">
+                                <img itemprop="contentUrl url" src='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-2.png' alt='10 Beautiful Christian Phone Wallpapers With A Summer Glowup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="single christian blog" />
+                                </span>
+                                <a href='https://www.memyselfdonuts.com/wp-content/uploads/2024/05/Summer-Christian-Wallpapers-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reminder, christian, cute, god, him, jesus, lock screen, love ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/215/971/HD-wallpaper-reminder-christian-cute-god-him-jesus-lock-screen-love-luvujesus-thumbnail.jpg' alt='Reminder, christian, cute, god, him, jesus, lock screen, love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/215/971/HD-wallpaper-reminder-christian-cute-god-him-jesus-lock-screen-love-luvujesus-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

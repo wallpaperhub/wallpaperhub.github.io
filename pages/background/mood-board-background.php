@@ -1,0 +1,129 @@
+<title>"Create Stunning Mood Board Backgrounds for Your Projects"</title>
+                    <meta name="description" content=""Discover how to create captivating mood board backgrounds that elevate your creative projects. Explore tips on color selection, texture integration, and visual elements to inspire your design journey."">
+                    <meta name="keywords" content="mood board background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mood-board-background">
+                            <span itemprop="name">mood board background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Create Stunning Mood Board Backgrounds for Your Projects"</h1>
+                <p>A mood board background serves as the canvas for creativity, setting the tone for a project or vision. It can be filled with colors, textures, images, and keywords that inspire and reflect the desired aesthetic. Utilize digital tools or traditional materials to craft a compelling background that resonates with your ideas and goals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January Moodboard (Desktop Wallpaper!)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAlxoEsHYg_ocTjakAxXi9CGmmt2nHE2Pzsvqshzscjg2OONgJUsUBLNdsGLXr4qBo4oV1hrkuqgCjBjmqtr-RYWro85OcWmPI45l7WPtGXLnjGF8UpFPrfeUgliPvFxJruUvuhFG4K6UE/s2048/january+2021+moodboard+JPG.jpg' alt='January Moodboard (Desktop Wallpaper!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fran Acciardo" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAlxoEsHYg_ocTjakAxXi9CGmmt2nHE2Pzsvqshzscjg2OONgJUsUBLNdsGLXr4qBo4oV1hrkuqgCjBjmqtr-RYWro85OcWmPI45l7WPtGXLnjGF8UpFPrfeUgliPvFxJruUvuhFG4K6UE/s2048/january+2021+moodboard+JPG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mood Board Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681584472258-6ef06bfa771c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9vZCUyMGJvYXJkfGVufDB8fDB8fHww' alt='Mood Board Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681584472258-6ef06bfa771c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9vZCUyMGJvYXJkfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mood-boards">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2c/2e/8b/2c2e8bebf7ac017df78a28016122cbd1.jpg' alt='mood-boards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2c/2e/8b/2c2e8bebf7ac017df78a28016122cbd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mood Board Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/c9/cf/e8c9cfab79878c56dd84b751b5a27e30.jpg' alt='Mood Board Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/c9/cf/e8c9cfab79878c56dd84b751b5a27e30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Moodboard Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-moodboard-no54akggcsa9xbu3.jpg' alt='100+] Aesthetic Moodboard Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-moodboard-no54akggcsa9xbu3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mood boards">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/61/f7/7961f7979bb05c8322f69d433ec94424.jpg' alt='mood boards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/61/f7/7961f7979bb05c8322f69d433ec94424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Moodboard (Desktop Wallpaper!)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicMmCK9BrlO1R7XJPSJAwY3mdM1WBiGaExowuZgqOjlmwcZJbaMoG1hT2edTcRnhLiu-5MwUaZG_skCo3V37uvcWrS3PocMcvhkdTSArOJa4TtGK91t8D0CB0mJCy9t40Bvdqrid4cJlbe/s2048/Screen+Shot+2020-09-30+at+7.05.47+PM.png' alt='October Moodboard (Desktop Wallpaper!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fran Acciardo" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicMmCK9BrlO1R7XJPSJAwY3mdM1WBiGaExowuZgqOjlmwcZJbaMoG1hT2edTcRnhLiu-5MwUaZG_skCo3V37uvcWrS3PocMcvhkdTSArOJa4TtGK91t8D0CB0mJCy9t40Bvdqrid4cJlbe/s2048/Screen+Shot+2020-09-30+at+7.05.47+PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Create a Mood Board — Nancy Straughan Photography">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c6c4e4e4b043886463b57c/1537357922140-XRPKTI6R24UA7RF50S8H/photo-background-backdrop-board-how-to-diy-flat-lay-styling.jpg' alt='How To Create a Mood Board — Nancy Straughan Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nancy Straughan Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c6c4e4e4b043886463b57c/1537357922140-XRPKTI6R24UA7RF50S8H/photo-background-backdrop-board-how-to-diy-flat-lay-styling.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Moodboard Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-moodboard-4bg2vps1krqre0u7.jpg' alt='100+] Aesthetic Moodboard Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-moodboard-4bg2vps1krqre0u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable and customizable mood board templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFaGp-ms1k/2/0/1600w/canva-brown-beige-elegant-minimalist-aesthetic-moodboard-sfCPqeHS4uQ.jpg' alt='Free printable and customizable mood board templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFaGp-ms1k/2/0/1600w/canva-brown-beige-elegant-minimalist-aesthetic-moodboard-sfCPqeHS4uQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

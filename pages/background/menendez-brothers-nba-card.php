@@ -1,0 +1,129 @@
+<title>Menendez Brothers: A Unique NBA Card Collecting Experience</title>
+                    <meta name="description" content="Discover the intriguing world of Menendez brothers NBA cards! Explore rare collectibles that intertwine sports history with notorious crime stories. Learn about the unique significance of these cards in modern collecting, appealing to both sports aficionados and true crime enthusiasts alike.">
+                    <meta name="keywords" content="menendez brothers nba card">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/menendez-brothers-nba-card">
+                            <span itemprop="name">menendez brothers nba card</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Menendez Brothers: A Unique NBA Card Collecting Experience</h1>
+                <p>The Menendez brothers, notorious for their infamous crime, captivate collectors even in the world of NBA cards. As rare as they are unique, cards featuring players tied to their story are sought after by enthusiasts. Collecting these items not only preserves history but also highlights the intersection of crime and sports culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 1990 Hoops Basketball Card (1990-91) #205 Mark Jackson ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51JwDfc6W7L.jpg' alt='Amazon.com: 1990 Hoops Basketball Card (1990-91) #205 Mark Jackson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51JwDfc6W7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 1990-91 NBA HOOPS SERIES 1 MARK JACKSON MENENDEZ ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BGhXoVmZL.jpg' alt='Amazon.com: 1990-91 NBA HOOPS SERIES 1 MARK JACKSON MENENDEZ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BGhXoVmZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MENENDEZ BROTHERS ROOKIE CARD - MARK JACKSON 1990-91 Hoops ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/3o4AAOSwJTRhLFme/s-l1200.jpg' alt='MENENDEZ BROTHERS ROOKIE CARD - MARK JACKSON 1990-91 Hoops ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/3o4AAOSwJTRhLFme/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1990 NBA Hoops Mark Jackson Knicks Menendez Brothers Killers Courtside Real  Card">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/POcAAOSw~E5gfGPG/$_57.JPG?set_id=8800005007' alt='1990 NBA Hoops Mark Jackson Knicks Menendez Brothers Killers Courtside Real  Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/POcAAOSw~E5gfGPG/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infamous Menendez Brothers Card 1990 91 Hoops Basketball Card #205 Mark  Jackson NY Knicks Vintage Great Gift Idea Genuine Original">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18960061/r/il/fd445e/1883809885/il_fullxfull.1883809885_c0e9.jpg' alt='Infamous Menendez Brothers Card 1990 91 Hoops Basketball Card #205 Mark  Jackson NY Knicks Vintage Great Gift Idea Genuine Original'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1161">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18960061/r/il/fd445e/1883809885/il_fullxfull.1883809885_c0e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eBay pulls basketball card that appears to show killer Menendez ...">
+                                <img itemprop="contentUrl url" src='https://www.inquirer.com/resizer/v2/L2G7SVQ3JND6PLL2VYT4TZVO2Q.jpg?auth=d51978231d235cf6672952696256d6352f3ee9acbca038ba9af2b22566aeaf0f&width=760&smart=true' alt='eBay pulls basketball card that appears to show killer Menendez ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Philadelphia Inquirer" />
+                                </span>
+                                <a href='https://www.inquirer.com/resizer/v2/L2G7SVQ3JND6PLL2VYT4TZVO2Q.jpg?auth=d51978231d235cf6672952696256d6352f3ee9acbca038ba9af2b22566aeaf0f&width=760&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mark wholesalers Jackson Error Menendez Brothers">
+                                <img itemprop="contentUrl url" src='https://www.cardboardandcoins.com/cdn/shop/files/Jackson-Mark-Error-Menendez-Brothers-Twins-In-Background-1990-NBA-Hoops-205-White-Edges-010325_1_1024x1024.jpg?v=1735972730' alt='Mark wholesalers Jackson Error Menendez Brothers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="re-store.net" />
+                                </span>
+                                <a href='https://www.cardboardandcoins.com/cdn/shop/files/Jackson-Mark-Error-Menendez-Brothers-Twins-In-Background-1990-NBA-Hoops-205-White-Edges-010325_1_1024x1024.jpg?v=1735972730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mark Jackson Menendez brothers card. : r/basketballcards">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mark-jackson-menendez-brothers-card-v0-tgz87vg1feuc1.jpeg?width=3000&format=pjpg&auto=webp&s=1590ae6bf397f95ecf840ad1131affa997490680' alt='Mark Jackson Menendez brothers card. : r/basketballcards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mark-jackson-menendez-brothers-card-v0-tgz87vg1feuc1.jpeg?width=3000&format=pjpg&auto=webp&s=1590ae6bf397f95ecf840ad1131affa997490680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1990 NBA Hoops Mark Jackson Knicks Menendez Brothers Courtside | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/c6YAAOSwPnVgbGOg/s-l400.jpg' alt='1990 NBA Hoops Mark Jackson Knicks Menendez Brothers Courtside | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/c6YAAOSwPnVgbGOg/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan card with Menendez brothers surges in price ...">
+                                <img itemprop="contentUrl url" src='https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/1031-michael-jordan-menedez-bros-card.jpg?quality=100&strip=all' alt='Michael Jordan card with Menendez brothers surges in price ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toronto Sun" />
+                                </span>
+                                <a href='https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/1031-michael-jordan-menedez-bros-card.jpg?quality=100&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Bedroom Wallpaper Designs for a Cozy Retreat</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wallpaper for bedroom walls designs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wallpaper-for-bedroom-walls-designs">
+                            <span itemprop="name">wallpaper for bedroom walls designs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bedroom Wallpaper Designs for a Cozy Retreat</h1>
+                <p>Transform your bedroom with stunning wallpaper designs! Choose from vibrant patterns, serene colors, or textured finishes to create a cozy retreat. Whether you prefer floral motifs, geometric shapes, or soothing tones, the right wallpaper can enhance your space, reflect your personality, and elevate your home decor effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish Bedroom Wallpaper Ideas For Your Home">
+                                <img itemprop="contentUrl url" src='https://housedesigner.com/wp-content/uploads/2020/10/bedroom-wallpaper-ideas-.jpeg' alt='Stylish Bedroom Wallpaper Ideas For Your Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Designer" />
+                                </span>
+                                <a href='https://housedesigner.com/wp-content/uploads/2020/10/bedroom-wallpaper-ideas-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Love Wallpaper Valentine Art Fabric Bedroom Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22555528/r/il/64664a/4185938748/il_570xN.4185938748_ij75.jpg' alt='Heart Love Wallpaper Valentine Art Fabric Bedroom Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22555528/r/il/64664a/4185938748/il_570xN.4185938748_ij75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Marvels: Wallpaper Design for Bedroom Interiors">
+                                <img itemprop="contentUrl url" src='https://media.designcafe.com/wp-content/uploads/2019/12/21000322/bedroom-design-wallpaper-for-your-home.jpg' alt='Modern Marvels: Wallpaper Design for Bedroom Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesignCafe" />
+                                </span>
+                                <a href='https://media.designcafe.com/wp-content/uploads/2019/12/21000322/bedroom-design-wallpaper-for-your-home.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for bedroom walls, buy bedroom wallpaper mural in Canada ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/124000/124620/w02930v1pib5mr_900.webp' alt='Wallpaper for bedroom walls, buy bedroom wallpaper mural in Canada ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ca.uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/124000/124620/w02930v1pib5mr_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Wallpaper Design Ideas for Your Bedroom Space!">
+                                <img itemprop="contentUrl url" src='https://www.buildingmaterialreporter.com/uploads/blogs/files/07%20(6).jpg' alt='Amazing Wallpaper Design Ideas for Your Bedroom Space!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Building Material Reporter" />
+                                </span>
+                                <a href='https://www.buildingmaterialreporter.com/uploads/blogs/files/07%20(6).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Wallpaper Ideas for Every Room and Style">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/-0hBapV-OdQcUcLdWQsrWZhvS0U=/2000x0/filters:no_upscale():strip_icc()/211206_Shot_10_408_preview-5f9c8c34c15c48a88748ff0aa5eb6e49.jpeg' alt='52 Wallpaper Ideas for Every Room and Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/-0hBapV-OdQcUcLdWQsrWZhvS0U=/2000x0/filters:no_upscale():strip_icc()/211206_Shot_10_408_preview-5f9c8c34c15c48a88748ff0aa5eb6e49.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Select Wallpaper Color for your Room and How it Affects ...">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=1024' alt='How to Select Wallpaper Color for your Room and How it Affects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/Etta_mockup4.jpg?v=1717014621&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/Etta_mockup4.jpg?v=1717014621&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper 3d Romantic Fantasy Forest Tree Hand Painted Murals Living  Room Tv Sofa Kids Bedroom Background Wall Paper Walls - Wallpapers - ...">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/HTB1PtMyOzDpK1RjSZFrq6y78VXad.jpg' alt='Photo Wallpaper 3d Romantic Fantasy Forest Tree Hand Painted Murals Living  Room Tv Sofa Kids Bedroom Background Wall Paper Walls - Wallpapers - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/HTB1PtMyOzDpK1RjSZFrq6y78VXad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Bedroom Wallpaper Design | Ideas for your interiors - Livspace">
+                                <img itemprop="contentUrl url" src='https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/ond-2024-1727950725-vfT46/mbr-1728896086-T3mTU/bedroom1-4-1-1732692714-9BPDR.jpg' alt='100+ Bedroom Wallpaper Design | Ideas for your interiors - Livspace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livspace" />
+                                </span>
+                                <a href='https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/ond-2024-1727950725-vfT46/mbr-1728896086-T3mTU/bedroom1-4-1-1732692714-9BPDR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Dark Boho Backgrounds for Your Aesthetic</title>
+                    <meta name="description" content="Explore captivating dark boho backgrounds that blend moody tones with artistic flair. Perfect for wallpapers, prints, or event decor, these designs create a unique and enchanting atmosphere. Elevate your space with these stylish, rich textures and earthy hues that resonate with bohemian vibes.">
+                    <meta name="keywords" content="dark boho background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-boho-background">
+                            <span itemprop="name">dark boho background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Boho Backgrounds for Your Aesthetic</h1>
+                <p>Dark boho backgrounds exude a mysterious charm, effortlessly blending rich textures and earthy tones. Ideal for creating a moody atmosphere, these designs feature deep blacks, browns, and accented jewel tones, evoking a sense of bohemian elegance. Perfect for wallpapers, art prints, or event backdrops, they captivate with their artistic flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Dark boho background with dried palm leaf ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/dark-boho-background-with-dried-palm-leaf-aesthetic-phone-wallpaper-watercolor_587382-130.jpg' alt='Premium Vector | Dark boho background with dried palm leaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/dark-boho-background-with-dried-palm-leaf-aesthetic-phone-wallpaper-watercolor_587382-130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Dark Boho">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/82316/flowers-dark-boho.jpg?h=699&q=85' alt='Flowers Dark Boho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/82316/flowers-dark-boho.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Boho Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwODAtMTU1ZC1rdzM5bXFjaC5qcGc.jpg' alt='Dark Boho Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwODAtMTU1ZC1rdzM5bXFjaC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floralplus Floral Wallpapr Peel and Stick Boho Wallpaper Removable Vintage  Flroal Wallpaper for Bathroom Bedroom Floral Leaf Wallpaper Black Floral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bmICJ2b4L.jpg' alt='Floralplus Floral Wallpapr Peel and Stick Boho Wallpaper Removable Vintage  Flroal Wallpaper for Bathroom Bedroom Floral Leaf Wallpaper Black Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bmICJ2b4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Boho Background in Illustrator, SVG, JPG, EPS, PNG - Download ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/111984/free-dark-boho-background-x7r9b.jpg' alt='Dark Boho Background in Illustrator, SVG, JPG, EPS, PNG - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/111984/free-dark-boho-background-x7r9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Mushroom Peel and Stick Wallpaper, Vintage Dark Floral Contact Paper,  Self Adhesive Removable Waterproof Botanical Vinyl Boho Wall Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qpGGr5SOL.jpg' alt='Black Mushroom Peel and Stick Wallpaper, Vintage Dark Floral Contact Paper,  Self Adhesive Removable Waterproof Botanical Vinyl Boho Wall Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qpGGr5SOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Peel and Stick Wallpaper | Mitchell Black">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/collections/DecoFan_BlackGold.jpg?v=1725472234' alt='Boho Peel and Stick Wallpaper | Mitchell Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/collections/DecoFan_BlackGold.jpg?v=1725472234' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pegasus - Watercolor Boho minimalist Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16281648/r/l/d-i-27/Fj9qHw27PCvaeLrM8Ciy22zYaxoDsaCp7vup/Pegasus_-_Watercolor_Boho_minimalist_flowers_black_Large__-_Moody_floral_-_bohemian_dark_botanical_in_earth_tones_-_watercolor_romantic_spring.jpg' alt='Pegasus - Watercolor Boho minimalist Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1346">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16281648/r/l/d-i-27/Fj9qHw27PCvaeLrM8Ciy22zYaxoDsaCp7vup/Pegasus_-_Watercolor_Boho_minimalist_flowers_black_Large__-_Moody_floral_-_bohemian_dark_botanical_in_earth_tones_-_watercolor_romantic_spring.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Boho Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3675">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686528845_e7qi_b562fe6e-eb80-4b7a-b287-33b734d9c19a.jpg?v=1644723974&width=3000' alt='Dark Boho Floral Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3675'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686528845_e7qi_b562fe6e-eb80-4b7a-b287-33b734d9c19a.jpg?v=1644723974&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector mystical dark boho background with ornate outline geometric ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/65/07/14/1000_F_465071430_ocVDjzJqmAcux39CTooQY5EQI5fLmKRv.jpg' alt='Vector mystical dark boho background with ornate outline geometric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/65/07/14/1000_F_465071430_ocVDjzJqmAcux39CTooQY5EQI5fLmKRv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

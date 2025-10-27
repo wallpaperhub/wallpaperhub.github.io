@@ -1,0 +1,129 @@
+<title>Refreshing Blue Floral Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Explore our collection of blue wallpaper floral designs that rejuvenate your living spaces. Perfect for adding elegance and tranquility, these wallpapers vividly display nature's beauty. Transform your home decor effortlessly with our stunning and serene floral patterns!">
+                    <meta name="keywords" content="blue wallpaper floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/blue-wallpaper-floral">
+                            <span itemprop="name">blue wallpaper floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refreshing Blue Floral Wallpaper for Elegant Interiors</h1>
+                <p>Blue wallpaper floral designs bring a refreshing and vibrant touch to any space. Ideal for creating a serene atmosphere, these wallpapers feature intricate flower patterns against soothing blue backgrounds. Perfect for bedrooms or living areas, they enhance elegance while promoting a calming ambiance, transforming walls into stunning showcases of nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Home Fashions UW25895 Gabriela Blue Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91YIA5oNKZL.jpg' alt='Brewster Home Fashions UW25895 Gabriela Blue Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91YIA5oNKZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' alt='PR33836 | Floral Prints 2 Blue Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_210a8e45-a654-4f0b-b52a-002c1edd7eaf.jpg?v=1666277828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Blue Heron Plumeria Floral Trail Wallpaper - Blue">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/4071-71040_3fddf914-39ee-43b9-aaf0-848d928b826f.jpg?v=1700257465' alt='Chesapeake Blue Heron Plumeria Floral Trail Wallpaper - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/4071-71040_3fddf914-39ee-43b9-aaf0-848d928b826f.jpg?v=1700257465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake 311524481 Cyrus Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210053.jpg' alt='Chesapeake 311524481 Cyrus Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' alt='FunStick Blue Floral Peel and Stick Wallpaper Vintage Peony Floral  Wallpaper Self Adhesive Floral Contact Paper Removable Blue White Flower  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jjPBBifiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Bird Toile - Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' alt='Floral Bird Toile - Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/WC404-5.jpg?v=1684443177&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Catherine Lansfield Meadowsweet Floral Wallpaper Blue Muriva 165583">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/m/u/mur663-meadowsweet-floral-wallpaper-blue-ae1.jpg' alt='Catherine Lansfield Meadowsweet Floral Wallpaper Blue Muriva 165583'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/m/u/mur663-meadowsweet-floral-wallpaper-blue-ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/09/Wallpaper-Forest-Floral-Blue-1.jpg.optimal.jpg' alt='Forest Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/09/Wallpaper-Forest-Floral-Blue-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Deja Blue Floral Paper Strippable Roll (Covers 56.4 sq. ft.)  UW25888 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7a0fde3d-f734-4581-9e73-c8cb53e68450/svn/brewster-wallpaper-rolls-uw25888-64_1000.jpg' alt='Brewster Deja Blue Floral Paper Strippable Roll (Covers 56.4 sq. ft.)  UW25888 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7a0fde3d-f734-4581-9e73-c8cb53e68450/svn/brewster-wallpaper-rolls-uw25888-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_570xN.2005485123_1boi.jpg' alt='Pale Blue Floral Wallpaper, Large Peony Wallpaper, Blue Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/00d765/2005485123/il_570xN.2005485123_1boi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

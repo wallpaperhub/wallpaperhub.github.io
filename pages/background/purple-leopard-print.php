@@ -1,0 +1,129 @@
+<title>Vibrant Purple Leopard Print: Bold & Stylish Fashion</title>
+                    <meta name="description" content="Explore the captivating world of purple leopard print! Perfect for fashion lovers seeking to stand out, this trendy pattern combines boldness and elegance. Discover outfits, accessories, and ideas to incorporate this stunning print into your wardrobe today!">
+                    <meta name="keywords" content="purple leopard print">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-leopard-print">
+                            <span itemprop="name">purple leopard print</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Leopard Print: Bold & Stylish Fashion</h1>
+                <p>Discover the allure of purple leopard print, a daring blend of style and wild elegance. This vibrant pattern adds a touch of sophistication to any outfit, whether it's a chic dress, cozy accessories, or stunning footwear. Perfect for those who want to make a statement, purple leopard print celebrates individuality with every bold spot.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Purple Leopard Print Seamless Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/5bfa86/5214281195/il_fullxfull.5214281195_s2zd.jpg' alt='Realistic Purple Leopard Print Seamless Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/5bfa86/5214281195/il_fullxfull.5214281195_s2zd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Leopard Print Seamless Background Pattern - Cheetah ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/b14839/3446626474/il_570xN.3446626474_5v16.jpg' alt='Purple Glitter Leopard Print Seamless Background Pattern - Cheetah ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/b14839/3446626474/il_570xN.3446626474_5v16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Leopard Print 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='https://www.icraftvinyl.com/cdn/shop/products/purpleleopardprint_600x600_crop_center.jpg?v=1628536377' alt='Purple Leopard Print 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='https://www.icraftvinyl.com/cdn/shop/products/purpleleopardprint_600x600_crop_center.jpg?v=1628536377' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple leopard craft vinyl sheet - HTV - Adhesive Vinyl - purple and black  cheetah pattern vinyl HTV222">
+                                <img itemprop="contentUrl url" src='https://breezecrafts.com/cdn/shop/products/il_fullxfull.615644879_205v_1024x.jpg?v=1571726607' alt='Purple leopard craft vinyl sheet - HTV - Adhesive Vinyl - purple and black  cheetah pattern vinyl HTV222'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Breeze Crafts" />
+                                </span>
+                                <a href='https://breezecrafts.com/cdn/shop/products/il_fullxfull.615644879_205v_1024x.jpg?v=1571726607' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: Cheetah Print Purple and Pink in a GLOSSY Finish, 8.5"x11", 150  Pages: Super Cute Purple and Pink Cheetah Print Notebook/Journal (Super  Cute ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61B7XKQy8mL._AC_UF1000,1000_QL80_.jpg' alt='Notebook: Cheetah Print Purple and Pink in a GLOSSY Finish, 8.5"x11", 150  Pages: Super Cute Purple and Pink Cheetah Print Notebook/Journal (Super  Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61B7XKQy8mL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Prints (White/Purple)">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spandex-imgs1/S3/IMG_DIR_2020/2020-10-28/8491-201028-03.jpg' alt='Animal Prints (White/Purple)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spandex World" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spandex-imgs1/S3/IMG_DIR_2020/2020-10-28/8491-201028-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Leopard Print PNG Seamless Pattern Overlay — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1652318245557-XIA3LBYLFR9GVRUK31D3/Purple+Leopard+Print+Seamless+Cover+WM+1.jpg?format=1500w' alt='Purple Leopard Print PNG Seamless Pattern Overlay — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1652318245557-XIA3LBYLFR9GVRUK31D3/Purple+Leopard+Print+Seamless+Cover+WM+1.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leopard Print Spots Purple | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1414602615.1017/gbrf,10x12,f,540x540-pad,450x450,f8f8f8.jpg' alt='Leopard Print Spots Purple | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1414602615.1017/gbrf,10x12,f,540x540-pad,450x450,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Leopard Print">
+                                <img itemprop="contentUrl url" src='https://www.thenagaia.com/cdn/shop/files/1007NCP010NCP023NCP044PerBuildKit.jpg?v=1696920749' alt='Violet Leopard Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nagaia" />
+                                </span>
+                                <a href='https://www.thenagaia.com/cdn/shop/files/1007NCP010NCP023NCP044PerBuildKit.jpg?v=1696920749' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,614 Purple Leopard Print Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165488621/vector/leopard-fur-kitschy-colours.jpg?s=170667a&w=gi&k=20&c=O4r2mrcAzdkU0-hG7Ne1jkvJWSXMeXYh2wL_Y_jMHHg=' alt='2,614 Purple Leopard Print Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165488621/vector/leopard-fur-kitschy-colours.jpg?s=170667a&w=gi&k=20&c=O4r2mrcAzdkU0-hG7Ne1jkvJWSXMeXYh2wL_Y_jMHHg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

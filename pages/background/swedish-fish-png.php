@@ -1,0 +1,129 @@
+<title>Download Vibrant Swedish Fish PNG Images</title>
+                    <meta name="description" content="Discover a collection of high-quality Swedish Fish PNG images perfect for your projects! Bright, colorful, and versatile, these candy graphics are ideal for web design, social media, and more. Enhance your visuals with our stunning Swedish Fish PNGs today!">
+                    <meta name="keywords" content="swedish fish png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/swedish-fish-png">
+                            <span itemprop="name">swedish fish png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Vibrant Swedish Fish PNG Images</h1>
+                <p>Swedish Fish PNG images are vibrant, colorful, and perfect for various digital projects. These iconic gummy candies are not only a favorite snack but also an appealing graphic element. Whether you're designing a fun poster, creating a meme, or adding flair to your website, Swedish Fish PNGs bring a playful touch to any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Swedish fish.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/40/Swedish_fish.png' alt='File:Swedish fish.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/40/Swedish_fish.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Candy - Swedish Fish Candy - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181106/yzh/kisspng-swedish-fish-gummy-candy-sour-patch-candy-oreo-swedish-fish-elki-z-usa-sklep-scrummy-1713925225696.webp' alt='Swedish Fish Candy - Swedish Fish Candy - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181106/yzh/kisspng-swedish-fish-gummy-candy-sour-patch-candy-oreo-swedish-fish-elki-z-usa-sklep-scrummy-1713925225696.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish: Over 579 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/isolated-red-fish-shaped-gummy-260nw-2322752177.jpg' alt='Swedish Fish: Over 579 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/isolated-red-fish-shaped-gummy-260nw-2322752177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish - Red Swedish Fish Candy - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180528/ss/avp3jem1f.webp' alt='Swedish Fish - Red Swedish Fish Candy - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180528/ss/avp3jem1f.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/532/847/png-clipart-gummi-candy-swedish-fish-flavor-small-fresh-wedding-food-sweetness-thumbnail.png' alt='Swedish Fish png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/532/847/png-clipart-gummi-candy-swedish-fish-flavor-small-fresh-wedding-food-sweetness-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish - Swedish Fish added a new photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=515901598586548' alt='Swedish Fish - Swedish Fish added a new photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=515901598586548' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Soft & Chewy Candy - Lunds & Byerlys">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/images-lnb-prd-8936dd0.lnb.prd.v8.commerce.mi9cloud.com/product-images/zoom/00070462035988.png' alt='Swedish Fish Soft & Chewy Candy - Lunds & Byerlys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lunds & Byerlys" />
+                                </span>
+                                <a href='https://storage.googleapis.com/images-lnb-prd-8936dd0.lnb.prd.v8.commerce.mi9cloud.com/product-images/zoom/00070462035988.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Bag png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/146/18/png-clipart-gummi-candy-swedish-fish-chewing-gum-kroger-candy-food-sweetness-thumbnail.png' alt='Swedish Fish Bag png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/146/18/png-clipart-gummi-candy-swedish-fish-chewing-gum-kroger-candy-food-sweetness-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish Original Soft & Chewy 2oz - PTL ONE">
+                                <img itemprop="contentUrl url" src='https://ptlone.com/product/image/mediumlarge/c730_0.png' alt='Swedish Fish Original Soft & Chewy 2oz - PTL ONE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ptlone.com" />
+                                </span>
+                                <a href='https://ptlone.com/product/image/mediumlarge/c730_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swedish Fish "Chomped" - Allionce Group">
+                                <img itemprop="contentUrl url" src='https://www.allioncegroup.com/wp-content/uploads/2019/10/Swedish-Fish.png' alt='Swedish Fish "Chomped" - Allionce Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allionce Group" />
+                                </span>
+                                <a href='https://www.allioncegroup.com/wp-content/uploads/2019/10/Swedish-Fish.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

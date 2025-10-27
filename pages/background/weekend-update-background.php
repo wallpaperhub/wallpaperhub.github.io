@@ -1,0 +1,129 @@
+<title>Weekend Update: The Satirical Spin on Current Events</title>
+                    <meta name="description" content="Discover the iconic Weekend Update segment from "Saturday Night Live." Enjoy witty commentary on news and pop culture, blending humor and sharp analysis. Perfect for quick laughs and insightful observations about today's world, tailored for both loyal fans and new viewers alike.">
+                    <meta name="keywords" content="weekend update background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weekend-update-background">
+                            <span itemprop="name">weekend update background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Weekend Update: The Satirical Spin on Current Events</h1>
+                <p>Weekend Update is a comedic segment on "Saturday Night Live," delivering sharp commentary on current events, politics, and pop culture. Launched in 1975, it features a news desk format with hosts who utilize humor and wit to engage viewers. The segment has become a cultural staple, reflecting societal sentiments through satire.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weekend Update Background : r/LiveFromNewYork">
+                                <img itemprop="contentUrl url" src='https://solodialogue.files.wordpress.com/2011/07/update_desk.jpg' alt='Weekend Update Background : r/LiveFromNewYork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="1917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://solodialogue.files.wordpress.com/2011/07/update_desk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weekend Update - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/33/Weekend_Update.jpg' alt='Weekend Update - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="423">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/33/Weekend_Update.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for the weekend update background : r/zoombackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/7dyR4eA.png' alt='Looking for the weekend update background : r/zoombackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/7dyR4eA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every SNL Weekend Update Host Through the Years | NBC Insider">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/08/snl-weekend-update-seth-meyers.jpg' alt='Every SNL Weekend Update Host Through the Years | NBC Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/08/snl-weekend-update-seth-meyers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saturday Night Live Shakes Up 'Weekend Update" Behind The Scenes">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2016/02/nup_171869_0108.jpg' alt='Saturday Night Live Shakes Up 'Weekend Update" Behind The Scenes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2016/02/nup_171869_0108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Zoom Virtual Backgrounds | Kustom Imprints">
+                                <img itemprop="contentUrl url" src='https://kustomimprints.com/wp-content/uploads/2020/04/Weekend_Update-1024x576.jpg' alt='Free Zoom Virtual Backgrounds | Kustom Imprints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kustom Imprints" />
+                                </span>
+                                <a href='https://kustomimprints.com/wp-content/uploads/2020/04/Weekend_Update-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SNL' 'Weekend Update' gets new set - NewscastStudio">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/uploads/2014/09/wu.jpg' alt='SNL' 'Weekend Update' gets new set - NewscastStudio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/uploads/2014/09/wu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every SNL Weekend Update Host Through the Years | NBC Insider">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/08/snl-weekend-update-norm-macdonald.jpg' alt='Every SNL Weekend Update Host Through the Years | NBC Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/08/snl-weekend-update-norm-macdonald.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Non-weekend 'Update' connects to parent show with background ...">
+                                <img itemprop="contentUrl url" src='https://www.newscaststudio.com/wp-content/uploads/2017/08/weekend-update-summer-wide.jpg' alt='Non-weekend 'Update' connects to parent show with background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1860">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NewscastStudio" />
+                                </span>
+                                <a href='https://www.newscaststudio.com/wp-content/uploads/2017/08/weekend-update-summer-wide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saturday Night Live's' 'Weekend Update' Is Ready For Prime Time">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2017_11/1935611/170316-snl-jost-che-mn-1930.jpg' alt='Saturday Night Live's' 'Weekend Update' Is Ready For Prime Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2017_11/1935611/170316-snl-jost-che-mn-1930.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

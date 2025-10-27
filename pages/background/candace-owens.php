@@ -1,0 +1,129 @@
+<title>Candace Owens: Conservative Voice & Activist</title>
+                    <meta name="description" content="Explore the impactful journey of Candace Owens, a leading conservative commentator and activist. Discover her insights on politics, social issues, and her role in shaping today's conservative movement. Join the conversation on free speech and individual rights.">
+                    <meta name="keywords" content="candace owens">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candace-owens">
+                            <span itemprop="name">candace owens</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candace Owens: Conservative Voice & Activist</h1>
+                <p>Candace Owens is a prominent political commentator, author, and activist known for her conservative viewpoints. Rising to fame through social media, she advocates for limited government, free speech, and individual responsibility. With her unapologetic stance on various social issues, Owens has become a polarizing figure in American politics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YouTube demonetizes Candace Owens anti-trans videos">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230607-candace-owens-mn-1550-b2e054.jpg' alt='YouTube demonetizes Candace Owens anti-trans videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230607-candace-owens-mn-1550-b2e054.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candace Owens - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Candace_Owens_%2853805331465%29_%28cropped%29.jpg/220px-Candace_Owens_%2853805331465%29_%28cropped%29.jpg' alt='Candace Owens - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Candace_Owens_%2853805331465%29_%28cropped%29.jpg/220px-Candace_Owens_%2853805331465%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candace Owens - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BY2U2ZmI3ODItMWNmMi00ZTU2LTkyN2YtZGM1ODdiNTcwMTI1XkEyXkFqcGc@._V1_.jpg' alt='Candace Owens - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BY2U2ZmI3ODItMWNmMi00ZTU2LTkyN2YtZGM1ODdiNTcwMTI1XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conservative influencer Candace Owens blocked from entering New ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/96be05d/2147483647/strip/true/crop/4800x2700+0+385/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Ff5%2F40e5a3830e1336ab0478726fe84a%2F859ee52900154044b50922d6266a8d48' alt='Conservative influencer Candace Owens blocked from entering New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/96be05d/2147483647/strip/true/crop/4800x2700+0+385/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Ff5%2F40e5a3830e1336ab0478726fe84a%2F859ee52900154044b50922d6266a8d48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Judge tosses lawsuit by Candace Owens over Facebook fact checks">
+                                <img itemprop="contentUrl url" src='https://nbcmontana.com/resources/media2/16x9/full/1015/center/80/85e583d0-c986-4ec5-8c08-03ab0a215dff-large16x9_GettyImages1310196656.jpg' alt='Judge tosses lawsuit by Candace Owens over Facebook fact checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC Montana" />
+                                </span>
+                                <a href='https://nbcmontana.com/resources/media2/16x9/full/1015/center/80/85e583d0-c986-4ec5-8c08-03ab0a215dff-large16x9_GettyImages1310196656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candace Owen out at the Daily Wire | CNN Business">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/sipausa-44870122.jpg?c=original' alt='Candace Owen out at the Daily Wire | CNN Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/sipausa-44870122.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candace Owens - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZmFkZDRlOTMtMzk5My00MTdlLWE1ODgtNzc5ZTM0YzhmN2NmXkEyXkFqcGc@._V1_.jpg' alt='Candace Owens - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2752">
+                                <meta itemprop="height" content="1612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZmFkZDRlOTMtMzk5My00MTdlLWE1ODgtNzc5ZTM0YzhmN2NmXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hate cannot be reasoned with. So why is Black radio hosting ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/2bacc9a45dc11915b7cac053ba924d04640104aa/1514_717_2504_1502/master/2504.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=38e55627c17fdaeac0407a242dfc206c' alt='Hate cannot be reasoned with. So why is Black radio hosting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/2bacc9a45dc11915b7cac053ba924d04640104aa/1514_717_2504_1502/master/2504.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=38e55627c17fdaeac0407a242dfc206c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Australia rejects visa application by rightwing US pundit Candace ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/3a141bfde8d5db1d151d61fb7f9f6d25cbb2e47b/0_239_2256_1354/master/2256.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=efa9143ab437813109bac4673b48093d' alt='Australia rejects visa application by rightwing US pundit Candace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/3a141bfde8d5db1d151d61fb7f9f6d25cbb2e47b/0_239_2256_1354/master/2256.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=efa9143ab437813109bac4673b48093d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candace Owens | GLAAD">
+                                <img itemprop="contentUrl url" src='https://media.glaad.org/wp-content/uploads/2021/02/25195312/candace-owens-768.jpg' alt='Candace Owens | GLAAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="327">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GLAAD" />
+                                </span>
+                                <a href='https://media.glaad.org/wp-content/uploads/2021/02/25195312/candace-owens-768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

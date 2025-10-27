@@ -1,0 +1,129 @@
+<title>Exploring Landscape: Foreground, Middleground, and Background</title>
+                    <meta name="description" content="Discover the beauty of landscapes through the interplay of foreground, middleground, and background. Learn how these elements enhance depth and perspective in art. Perfect for artists and enthusiasts seeking to enrich their understanding of landscape compositions!">
+                    <meta name="keywords" content="landscape with foreground middleground and background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/landscape-with-foreground-middleground-and-background">
+                            <span itemprop="name">landscape with foreground middleground and background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Landscape: Foreground, Middleground, and Background</h1>
+                <p>In landscape painting, the composition is often divided into three essential parts: foreground, middleground, and background. The foreground captivates the viewer with detailed elements, such as plants or rocks, while the middleground provides depth with rolling hills or water bodies. The background sets the scene with distant mountains or sky, creating a harmonious three-dimensional view.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape- foreground, middle ground, background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ID-2KibIASA/mqdefault.jpg' alt='Landscape- foreground, middle ground, background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ID-2KibIASA/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Art Elements-foreground, middle ground, back ground ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/81/66/b7/8166b799fa254b2b9161bdf4f3a9febe.jpg' alt='28 Art Elements-foreground, middle ground, back ground ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/81/66/b7/8166b799fa254b2b9161bdf4f3a9febe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground, middle ground, and background : Digital Photography Review">
+                                <img itemprop="contentUrl url" src='https://g4.img-dpreview.com/D822AD539FC74FFAAC93C0BB50BD7350.jpg' alt='Foreground, middle ground, and background : Digital Photography Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DPReview" />
+                                </span>
+                                <a href='https://g4.img-dpreview.com/D822AD539FC74FFAAC93C0BB50BD7350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LANDSCAPE PAINTING | Foreground, Middle Ground, and Background ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OjmOc1Hme74/sddefault.jpg' alt='LANDSCAPE PAINTING | Foreground, Middle Ground, and Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OjmOc1Hme74/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground, Middleground,Background Greeting Card">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/foreground-middlegroundbackground-rudolf-volkmann.jpg' alt='Foreground, Middleground,Background Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/foreground-middlegroundbackground-rudolf-volkmann.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground / Background Flow">
+                                <img itemprop="contentUrl url" src='https://www.firstlighttours.com/PHOTOS/flow-2476.jpg' alt='Foreground / Background Flow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Light Photography Workshops" />
+                                </span>
+                                <a href='https://www.firstlighttours.com/PHOTOS/flow-2476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground, Middle Ground, and Background: A Detailed Guide">
+                                <img itemprop="contentUrl url" src='https://drawpaintacademy.com/wp-content/uploads/2022/11/Dan-Scott-New-Zealand-Foggy-Mountains-2020-Terms.jpg' alt='Foreground, Middle Ground, and Background: A Detailed Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Draw Paint Academy" />
+                                </span>
+                                <a href='https://drawpaintacademy.com/wp-content/uploads/2022/11/Dan-Scott-New-Zealand-Foggy-Mountains-2020-Terms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Distance in Landscapes: Foreground, Middle Ground ...">
+                                <img itemprop="contentUrl url" src='https://kristenoneillart.com/wp-content/uploads/2022/02/lake_lucerne_1990.50.1.jpg' alt='Creating Distance in Landscapes: Foreground, Middle Ground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kristen O'Neill Art" />
+                                </span>
+                                <a href='https://kristenoneillart.com/wp-content/uploads/2022/02/lake_lucerne_1990.50.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscapes foreground, middle, background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QPxXnrhb1bA/maxresdefault.jpg' alt='Landscapes foreground, middle, background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QPxXnrhb1bA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foreground, Middleground, and Background in Photography">
+                                <img itemprop="contentUrl url" src='https://media.greatbigphotographyworld.com/wp-content/uploads/2023/06/landscape-sea-sunset-rose-sky-background-foreground.jpg' alt='Foreground, Middleground, and Background in Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Big Photography World" />
+                                </span>
+                                <a href='https://media.greatbigphotographyworld.com/wp-content/uploads/2023/06/landscape-sea-sunset-rose-sky-background-foreground.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

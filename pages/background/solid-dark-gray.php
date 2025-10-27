@@ -1,0 +1,129 @@
+<title>Transform Your Space with Solid Dark Gray</title>
+                    <meta name="description" content="Explore the elegance of solid dark gray! Perfect for modern interiors, this versatile color enhances any space while offering depth and sophistication. Discover how to incorporate deep gray into your decor for a stylish and timeless look.">
+                    <meta name="keywords" content="solid dark gray">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/solid-dark-gray">
+                            <span itemprop="name">solid dark gray</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Solid Dark Gray</h1>
+                <p>Solid dark gray offers a modern and sophisticated aesthetic that serves as a perfect backdrop for any decor. Its versatility makes it ideal for both residential and commercial spaces. This neutral shade complements a variety of color palettes, providing elegance and depth without overwhelming the senses. Ideal for furniture, walls, and more.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15811820/p/f/m/bUNV3URbFK5GS-FL9_vGgMg84-aTAeh7nMl0VP4li4egQfFaJq0d/Charcoal%20Solid%20Color.jpg' alt='Charcoal Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15811820/p/f/m/bUNV3URbFK5GS-FL9_vGgMg84-aTAeh7nMl0VP4li4egQfFaJq0d/Charcoal%20Solid%20Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Dark Charcoal Gray Solid Color Stock Illustration 1770018968 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/plain-dark-charcoal-gray-solid-260nw-1770018968.jpg' alt='Plain Dark Charcoal Gray Solid Color Stock Illustration 1770018968 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/plain-dark-charcoal-gray-solid-260nw-1770018968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark guarantee Gray Solid Color Pantone">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dark-gray-solid-color-pantone-tap-shoes-19-4004-tcx-shades-of-black-hues-petite-patterns.jpg' alt='Dark guarantee Gray Solid Color Pantone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fchclinic.com" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dark-gray-solid-color-pantone-tap-shoes-19-4004-tcx-shades-of-black-hues-petite-patterns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Solid Dark Grey Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-solid-dark-grey-iphone-r02twlutlnvjl0gp.jpg' alt='Plain Solid Dark Grey Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-solid-dark-grey-iphone-r02twlutlnvjl0gp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal Gray Choice Fabrics Supreme Solids (a very dark gray) Quilters'  100% Cotton Fabric, Sold by Yard">
+                                <img itemprop="contentUrl url" src='http://www.lapappstore.net/cdn/shop/products/CharcoalGray_1200x1200.jpg?v=1634746316' alt='Charcoal Gray Choice Fabrics Supreme Solids (a very dark gray) Quilters'  100% Cotton Fabric, Sold by Yard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lap App Store" />
+                                </span>
+                                <a href='http://www.lapappstore.net/cdn/shop/products/CharcoalGray_1200x1200.jpg?v=1634746316' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Dark Gray Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-dark-gray-m3ipqx1wiu2etkfr.jpg' alt='Simple Dark Gray Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-dark-gray-m3ipqx1wiu2etkfr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gray Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/950x350/950x350-dark-gray-solid-color-background.jpg' alt='Dark Gray Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/950x350/950x350-dark-gray-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Wallpaper Matte No texture Dark Gray, Self Adhesive Paper">
+                                <img itemprop="contentUrl url" src='https://www.royalwallskins.com/cdn/shop/products/HSM-21804.jpg?v=1616037789' alt='Solid Color Wallpaper Matte No texture Dark Gray, Self Adhesive Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoyalWallSkins" />
+                                </span>
+                                <a href='https://www.royalwallskins.com/cdn/shop/products/HSM-21804.jpg?v=1616037789' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Grey Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-texture_1249-133.jpg' alt='Solid Dark Grey Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-texture_1249-133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal Gray | All Powder Paints®">
+                                <img itemprop="contentUrl url" src='https://www.allpowderpaints.com/images/products/preview/psggy289001w.jpg?time=1739650621' alt='Charcoal Gray | All Powder Paints®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Powder Paints" />
+                                </span>
+                                <a href='https://www.allpowderpaints.com/images/products/preview/psggy289001w.jpg?time=1739650621' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

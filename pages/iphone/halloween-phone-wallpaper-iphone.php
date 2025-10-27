@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Phone Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best Halloween phone wallpapers for your iPhone! Choose from a selection of spooky, cute, and vibrant designs to celebrate this festive season. Perfect for showcasing your Halloween spirit and impressing friends—download today!">
+                    <meta name="keywords" content="halloween phone wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/halloween-phone-wallpaper-iphone">
+                            <span itemprop="name">halloween phone wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Phone Wallpapers for iPhone</h1>
+                <p>Get into the Halloween spirit with spooky and fun phone wallpapers for your iPhone! From eerie ghosts and jack-o'-lanterns to cute witches and haunted houses, there's a perfect design for everyone. Transform your device and celebrate the season with vibrant colors and festive themes that will delight you and your friends!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky iPhone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/b7/83/77b7830c6f8c0da6c28d2954e99eef75.jpg' alt='Spooky iPhone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/b7/83/77b7830c6f8c0da6c28d2954e99eef75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cute Halloween Wallpaper Ideas For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/17/16/a3171613d41d2f996ed51fd9ffc5b1fa.jpg' alt='30+ Cute Halloween Wallpaper Ideas For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/17/16/a3171613d41d2f996ed51fd9ffc5b1fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' alt='Download Boo Bitch Cute Halloween Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/boo-bitch-cute-halloween-iphone-zetuxhliu1cf7yg9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest Fall Wallpapers for iPhone -">
+                                <img itemprop="contentUrl url" src='https://www.twinsdish.com/wp-content/uploads/2023/10/Halloween-Wallpaper-576x1024.jpg' alt='Cutest Fall Wallpapers for iPhone -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twins Dish" />
+                                </span>
+                                <a href='https://www.twinsdish.com/wp-content/uploads/2023/10/Halloween-Wallpaper-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Iphone Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/ef/d1/93efd1ac90db3decdaa7cc4d949488e2.jpg' alt='Halloween Iphone Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/ef/d1/93efd1ac90db3decdaa7cc4d949488e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone Wallpapers      | Gallery posted by Sofie   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7290189587893371398&index=0&sign=5c934a5eadbdb695ae9b1bba792f4f77' alt='Halloween iPhone Wallpapers      | Gallery posted by Sofie   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7290189587893371398&index=0&sign=5c934a5eadbdb695ae9b1bba792f4f77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Best Halloween iPhone Wallpaper to Download for Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/74/4f/ef744fcb4a1516dd13c1a10bbeb74013.jpg' alt='40+ Best Halloween iPhone Wallpaper to Download for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/74/4f/ef744fcb4a1516dd13c1a10bbeb74013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween wallpapers (from One4Wall) : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/halloween-wallpapers-from-one4wall-v0-665000a8sbvb1.jpg?width=1080&crop=smart&auto=webp&s=935d7dd40d790ad4a5dcda50a09473af0b88f50f' alt='Halloween wallpapers (from One4Wall) : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/halloween-wallpapers-from-one4wall-v0-665000a8sbvb1.jpg?width=1080&crop=smart&auto=webp&s=935d7dd40d790ad4a5dcda50a09473af0b88f50f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Pumpkin Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skeleton-pumpkin-halloween-iphone-gjsdc0dx7ia8pc5f.jpg' alt='Skeleton Pumpkin Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skeleton-pumpkin-halloween-iphone-gjsdc0dx7ia8pc5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-pumpkin-graphics.jpg' alt='30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2023/09/fall-phone-wallpaper-pumpkin-graphics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

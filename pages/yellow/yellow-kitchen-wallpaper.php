@@ -1,0 +1,129 @@
+<title>Brighten Your Culinary Space with Yellow Kitchen Wallpaper</title>
+                    <meta name="description" content="Discover the charm of yellow kitchen wallpaper! Our vibrant designs brighten up your cooking space, creating a warm and inviting atmosphere. Explore various styles that elevate your decor while inspiring culinary creativity. Perfect for every kitchen, let yellow transform your home today!">
+                    <meta name="keywords" content="yellow kitchen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-kitchen-wallpaper">
+                            <span itemprop="name">yellow kitchen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Culinary Space with Yellow Kitchen Wallpaper</h1>
+                <p>Yellow kitchen wallpaper adds a vibrant touch to any culinary space, brightening up the atmosphere and enhancing the overall decor. This cheerful color is perfect for creating a warm, inviting environment, encouraging creativity in cooking. From bold patterns to soft pastels, yellow wallpaper brings a sense of joy and freshness, making meal times more enjoyable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2904-25687 | Fresh Start Kitchen & Bath, Limon Yellow Fruit Wallpaper  Yellow - Brewster">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_8a792c4b-03ec-48c5-8b23-d05725946a30.jpg?v=1663914516&width=1445' alt='2904-25687 | Fresh Start Kitchen & Bath, Limon Yellow Fruit Wallpaper  Yellow - Brewster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_8a792c4b-03ec-48c5-8b23-d05725946a30.jpg?v=1663914516&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2305">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3244016574_o9if_53a26192-3431-4f75-ae19-a0289a356a55.jpg' alt='Yellow White Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2305'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3244016574_o9if_53a26192-3431-4f75-ae19-a0289a356a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Fruit Wallpaper Kitchen, Lemon Wallpaper, Laundry Room Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11768524/r/il/fd6261/5676009733/il_fullxfull.5676009733_61i1.jpg' alt='Citrus Fruit Wallpaper Kitchen, Lemon Wallpaper, Laundry Room Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11768524/r/il/fd6261/5676009733/il_fullxfull.5676009733_61i1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kitchen Shelves - Yellow">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/49775/landscape/wallpaper/room105.jpg?w=2000&q=80' alt='Kitchen Shelves - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/49775/landscape/wallpaper/room105.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Yellow Honeycomb Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1247828815_1.jpg' alt='Geometric Yellow Honeycomb Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1247828815_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Yellow Lemons Wallpaper CC232">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/02_c052e679-a5c3-4450-bd60-138f55626fa3_1080x.jpg?v=1682383132' alt='Watercolor Yellow Lemons Wallpaper CC232'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/02_c052e679-a5c3-4450-bd60-138f55626fa3_1080x.jpg?v=1682383132' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5inx23ft Lemon Peel and Stick Wallpaper for Kitchen Fruit  Floral Vinyl Self Adhesive Wallpaper Yellow Contact Paper Lemon Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jtMqm9jTL.jpg' alt='ReWallpaper 17.5inx23ft Lemon Peel and Stick Wallpaper for Kitchen Fruit  Floral Vinyl Self Adhesive Wallpaper Yellow Contact Paper Lemon Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jtMqm9jTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow & Green Plaid | KV27422">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/book/fk78457roomjpg-nqmv-scene-l.jpg' alt='Yellow & Green Plaid | KV27422'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/book/fk78457roomjpg-nqmv-scene-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Yellow">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/70139/landscape/wallpaper/room105.jpg?w=2000&q=80' alt='Happy Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/70139/landscape/wallpaper/room105.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Lemon Wallpaper CC230">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/files/zoom_9ecc2c62-3689-4fb6-a6cf-e59c9bd6eba3.jpg?v=1689365244' alt='Yellow Lemon Wallpaper CC230'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/files/zoom_9ecc2c62-3689-4fb6-a6cf-e59c9bd6eba3.jpg?v=1689365244' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

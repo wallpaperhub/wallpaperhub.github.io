@@ -1,0 +1,129 @@
+<title>Understanding D-Day: The Normandy Invasion</title>
+                    <meta name="description" content="Discover the significance of D-Day, the historic invasion on June 6, 1944, that changed the course of World War II. Learn about the brave Allied forces' efforts to liberate Normandy and reshaped European history in this concise overview.">
+                    <meta name="keywords" content="what is d day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-d-day">
+                            <span itemprop="name">what is d day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding D-Day: The Normandy Invasion</h1>
+                <p>D-Day refers to June 6, 1944, the day Allied forces launched the largest amphibious invasion in history on the beaches of Normandy, France, during World War II. This pivotal moment marked the beginning of the liberation of Western Europe from Nazi control. It was a monumental effort involving thousands of troops, aircraft, and naval vessels.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is D-Day? – The D-Day Story, Portsmouth">
+                                <img itemprop="contentUrl url" src='https://theddaystory.com/wp-content/uploads/2017/12/PhoNor-USNA-p012623-Omaha-9-10-Jun-unloading.jpg' alt='What is D-Day? – The D-Day Story, Portsmouth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3482">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The D-Day Story, Portsmouth" />
+                                </span>
+                                <a href='https://theddaystory.com/wp-content/uploads/2017/12/PhoNor-USNA-p012623-Omaha-9-10-Jun-unloading.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About D-Day You Need To Know | Imperial War Museums">
+                                <img itemprop="contentUrl url" src='https://media.iwm.org.uk/ciim5/36/72/large_000000.jpg' alt='10 Facts About D-Day You Need To Know | Imperial War Museums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperial War Museums" />
+                                </span>
+                                <a href='https://media.iwm.org.uk/ciim5/36/72/large_000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does the 'D' in D-Day Mean? Here Are the Term's Origins | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2019/06/d-daynameorigin.jpg' alt='What Does the 'D' in D-Day Mean? Here Are the Term's Origins | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3579">
+                                <meta itemprop="height" content="2845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2019/06/d-daynameorigin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why D-Day Was So Important to Allied Victory In WW2">
+                                <img itemprop="contentUrl url" src='https://media.iwm.org.uk/ciim5/14/192/large_000000.jpg' alt='Why D-Day Was So Important to Allied Victory In WW2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperial War Museums" />
+                                </span>
+                                <a href='https://media.iwm.org.uk/ciim5/14/192/large_000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D-Day - Operation Overlord Heritage Site | The United States Army">
+                                <img itemprop="contentUrl url" src='https://www.army.mil/e2/images/rv7/d-day/photos/13/620.jpg' alt='D-Day - Operation Overlord Heritage Site | The United States Army'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Army.mil" />
+                                </span>
+                                <a href='https://www.army.mil/e2/images/rv7/d-day/photos/13/620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D-Day: Learn about the D-Day Invasion | Holocaust Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://encyclopedia.ushmm.org/images/large/b3a43994-8230-4211-ab2e-c67ac4a336a8.jpg' alt='D-Day: Learn about the D-Day Invasion | Holocaust Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Holocaust Encyclopedia - United States Holocaust Memorial Museum" />
+                                </span>
+                                <a href='https://encyclopedia.ushmm.org/images/large/b3a43994-8230-4211-ab2e-c67ac4a336a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In color | #DDay75 - Marina Amaral">
+                                <img itemprop="contentUrl url" src='https://149357032.v2.pressablecdn.com/wp-content/uploads/2019/06/D-Day-landings-1.jpg' alt='In color | #DDay75 - Marina Amaral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marina Amaral" />
+                                </span>
+                                <a href='https://149357032.v2.pressablecdn.com/wp-content/uploads/2019/06/D-Day-landings-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D-day: key facts on one of the most vital military operations ever ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/66374bee0516d7bff1d8ca1e3f144cf3e14f0649/0_431_3500_2099/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=c619a899c1ccc2bc056e4cacd67e38f3' alt='D-day: key facts on one of the most vital military operations ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/66374bee0516d7bff1d8ca1e3f144cf3e14f0649/0_431_3500_2099/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=c619a899c1ccc2bc056e4cacd67e38f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D-Day, the battle to end WWII in Europe > 477th Fighter Group ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2020/Jun/05/2002311772/1200/1200/0/200605-F-PA944-0101.JPG' alt='D-Day, the battle to end WWII in Europe > 477th Fighter Group ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="477th Fighter Group" />
+                                </span>
+                                <a href='https://media.defense.gov/2020/Jun/05/2002311772/1200/1200/0/200605-F-PA944-0101.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D-Day Invasion: Facts and Significance">
+                                <img itemprop="contentUrl url" src='https://cms-b-assets.familysearch.org/88/c6/81f6723f4545b4660f3d54105c08/ww2-d-day-numbers.jpg' alt='D-Day Invasion: Facts and Significance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FamilySearch" />
+                                </span>
+                                <a href='https://cms-b-assets.familysearch.org/88/c6/81f6723f4545b4660f3d54105c08/ww2-d-day-numbers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

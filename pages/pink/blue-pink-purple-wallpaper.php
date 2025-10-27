@@ -1,0 +1,129 @@
+<title>Vibrant Blue, Pink & Purple Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Discover beautiful blue, pink, and purple wallpaper designs to enhance your living space. Explore a variety of patterns and styles to suit your aesthetics, from subtle textures to bold prints, and transform any room into a stylish sanctuary. Perfect for a fresh decor update!">
+                    <meta name="keywords" content="blue pink purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/blue-pink-purple-wallpaper">
+                            <span itemprop="name">blue pink purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue, Pink & Purple Wallpaper Ideas for Your Home</h1>
+                <p>Transform your space with stunning blue, pink, and purple wallpaper. Perfect for adding a touch of serenity and creativity to any room, these vibrant hues blend harmoniously to create an inviting atmosphere. Whether you desire a subtle accent wall or full-room coverage, choose patterns that reflect your personal style and elevate your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418278739/vector/galaxy-background-realistic-milky-way-magic-color-cosmos-starry-nebula-with-constellations.jpg?s=612x612&w=0&k=20&c=U1sLdgdcTf_lsrDOuoP6RTFfWnofvKvvSBTlh8lIgi0=' alt='14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418278739/vector/galaxy-background-realistic-milky-way-magic-color-cosmos-starry-nebula-with-constellations.jpg?s=612x612&w=0&k=20&c=U1sLdgdcTf_lsrDOuoP6RTFfWnofvKvvSBTlh8lIgi0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-blue-pink-gradient-banner-with-blur-effect_1017-44262.jpg' alt='Pink Purple Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-blue-pink-gradient-banner-with-blur-effect_1017-44262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399067900/vector/abstract-geometric-texture-low-poly-background-polygonal-mosaic-purple-gradient.jpg?s=612x612&w=0&k=20&c=1ODL7qO74bGUN538SoPV8-cLqb7lQ-NAT2wWWdRyR4c=' alt='14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399067900/vector/abstract-geometric-texture-low-poly-background-polygonal-mosaic-purple-gradient.jpg?s=612x612&w=0&k=20&c=1ODL7qO74bGUN538SoPV8-cLqb7lQ-NAT2wWWdRyR4c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Blue Watercolor Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/f2/76/a2f276efb44c4346cad319a475061e13.jpg' alt='Pink Purple Blue Watercolor Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/f2/76/a2f276efb44c4346cad319a475061e13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An abstract background with a blue, purple, and pink color scheme ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1693590229281-6a78deecd122?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='An abstract background with a blue, purple, and pink color scheme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1693590229281-6a78deecd122?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1966767937/vector/abstract-purple-blue-blurred-wavy-background.jpg?s=612x612&w=0&k=20&c=PAn9TCkS6O3ciF8y6XoIAGL0OQgZEkSH2MEDZLvEVMc=' alt='14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1966767937/vector/abstract-purple-blue-blurred-wavy-background.jpg?s=612x612&w=0&k=20&c=PAn9TCkS6O3ciF8y6XoIAGL0OQgZEkSH2MEDZLvEVMc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink purple and blue 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15320292/r/il/8ba78c/2930438254/il_1080xN.2930438254_pwcu.jpg' alt='Pink purple and blue 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15320292/r/il/8ba78c/2930438254/il_1080xN.2930438254_pwcu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' alt='14,200+ Purple Blue Pink Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Blue Pink Purple Cute Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/watercolor-blue-pink-purple-cute-background-4o197fat91qnxjyf.jpg' alt='Watercolor Blue Pink Purple Cute Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/watercolor-blue-pink-purple-cute-background-4o197fat91qnxjyf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink purple shop and blue wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ed/8c/c9/ed8cc9b8561665c529af2a1fa00dd7a8.jpg' alt='Pink purple shop and blue wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tropicasem" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ed/8c/c9/ed8cc9b8561665c529af2a1fa00dd7a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

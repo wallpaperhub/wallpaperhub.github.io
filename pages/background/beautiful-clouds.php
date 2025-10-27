@@ -1,0 +1,129 @@
+<title>Explore the Beauty of Clouds</title>
+                    <meta name="description" content="Discover the mesmerizing beauty of clouds, from their varied shapes and colors to the mood they create in our skies. Join us as we explore their captivating forms and the serene experience they bring to our world.">
+                    <meta name="keywords" content="beautiful clouds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beautiful-clouds">
+                            <span itemprop="name">beautiful clouds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Beauty of Clouds</h1>
+                <p>Beautiful clouds dance across the sky, transforming the horizon into a canvas of colors. Their ever-changing shapes range from fluffy white cumulus to wispy cirrus, evoking wonder and tranquility. Whether it's a vibrant sunset or a stormy gray sky, clouds add an enchanting element to our landscapes, inviting us to dream.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri clouds are unique and so beautiful, no edits needed just ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/missouri-clouds-are-unique-and-so-beautiful-no-edits-needed-v0-t7qmi11cu3ua1.jpg?width=1080&crop=smart&auto=webp&s=df1cdcc1780868ce05cfdacf911bc1e7eeddab2e' alt='Missouri clouds are unique and so beautiful, no edits needed just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/missouri-clouds-are-unique-and-so-beautiful-no-edits-needed-v0-t7qmi11cu3ua1.jpg?width=1080&crop=smart&auto=webp&s=df1cdcc1780868ce05cfdacf911bc1e7eeddab2e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,635,300+ Beautiful Clouds Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1015820498/photo/heaven-cloud-sky-sunny-bright-for-future-wealth-fortune-day-concept.jpg?s=612x612&w=0&k=20&c=vTQc6EceqP-p6n0Oqe7MDqBWA2hra2lWTeH758ip7mU=' alt='4,635,300+ Beautiful Clouds Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1015820498/photo/heaven-cloud-sky-sunny-bright-for-future-wealth-fortune-day-concept.jpg?s=612x612&w=0&k=20&c=vTQc6EceqP-p6n0Oqe7MDqBWA2hra2lWTeH758ip7mU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunset above clouds Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/9/8/198f0197-e047-4f4e-8f84-70c6eafc78ed_large/sunset-above-clouds-stockcake.jpg' alt='Free Sunset above clouds Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/9/8/198f0197-e047-4f4e-8f84-70c6eafc78ed_large/sunset-above-clouds-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven beautiful clouds to brighten your day - BBC Science Focus ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/41/2019/09/yRhcEyp9uGQWBB71tHGzoZCJOpg7sn-crop-e3a49a0.jpg' alt='Seven beautiful clouds to brighten your day - BBC Science Focus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Science Focus Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/41/2019/09/yRhcEyp9uGQWBB71tHGzoZCJOpg7sn-crop-e3a49a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,301,900+ Vibrant Clouds Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/697120006/photo/amazing-cloudscape-on-the-sky.jpg?s=612x612&w=0&k=20&c=6GK5lZu6xbOpVBNw4tnyoMiu_O8JrD6Et1-TM2b6dqg=' alt='1,301,900+ Vibrant Clouds Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/697120006/photo/amazing-cloudscape-on-the-sky.jpg?s=612x612&w=0&k=20&c=6GK5lZu6xbOpVBNw4tnyoMiu_O8JrD6Et1-TM2b6dqg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven beautiful clouds to brighten your day - BBC Science Focus ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/41/2019/09/img-4660-high-res-crop-1009211.jpg?webp=1&w=1200' alt='Seven beautiful clouds to brighten your day - BBC Science Focus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Science Focus Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/41/2019/09/img-4660-high-res-crop-1009211.jpg?webp=1&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Amazing sky clouds background. Beautiful clouds on sky,  40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/72/07/54/1000_F_272075422_tDrKTqRi4d8W76DsJSnVEgGB8nQUFsKz.jpg' alt='Poster, Print Amazing sky clouds background. Beautiful clouds on sky,  40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/72/07/54/1000_F_272075422_tDrKTqRi4d8W76DsJSnVEgGB8nQUFsKz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Beautiful Cloud Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1506624682682-13fa0130f321?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwY2xvdWR8ZW58MHx8MHx8fDA%3D' alt='999+ Beautiful Cloud Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1506624682682-13fa0130f321?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsJTIwY2xvdWR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue sky and beautiful clouds 2182163 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/182/163/large_2x/blue-sky-and-beautiful-clouds-free-photo.jpg' alt='Blue sky and beautiful clouds 2182163 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/182/163/large_2x/blue-sky-and-beautiful-clouds-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunset cloud burst Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/4/3/b/43b684d0-e446-40da-9326-92b60c5a2aa8_large/sunset-cloud-burst-stockcake.jpg' alt='Free Sunset cloud burst Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/4/3/b/43b684d0-e446-40da-9326-92b60c5a2aa8_large/sunset-cloud-burst-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

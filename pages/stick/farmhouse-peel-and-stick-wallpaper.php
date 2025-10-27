@@ -1,0 +1,129 @@
+<title>Farmhouse Peel and Stick Wallpaper: Easy Rustic Charm</title>
+                    <meta name="description" content="Explore our collection of farmhouse peel and stick wallpaper for a stylish, rustic update to your home. Easy to install and remove, these wallpapers are perfect for any room in your house. Bring warmth and personality to your decor with minimal effort. Discover your ideal design today!">
+                    <meta name="keywords" content="farmhouse peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/farmhouse-peel-and-stick-wallpaper">
+                            <span itemprop="name">farmhouse peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Farmhouse Peel and Stick Wallpaper: Easy Rustic Charm</h1>
+                <p>Transform your space effortlessly with farmhouse peel and stick wallpaper. Perfect for adding a rustic charm, these wallpapers are easy to apply and remove, making them ideal for any DIY project. Choose from a variety of patterns and textures to create a cozy, inviting atmosphere in your home without the hassle of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Farmhouse Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3626">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602959842_506l_c4b22194-0713-483a-85e4-57a888eff270.jpg' alt='Tan Farmhouse Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3626'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602959842_506l_c4b22194-0713-483a-85e4-57a888eff270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' alt='Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Peel and Stick Wallpaper (Self-Adhesive)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/farmhouse-peel-and-stick-wallpaper-self-adhesive-934874.png?crop=center&height=1631&v=1722973567&width=1352' alt='Farmhouse Peel and Stick Wallpaper (Self-Adhesive)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1352">
+                                <meta itemprop="height" content="1631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/farmhouse-peel-and-stick-wallpaper-self-adhesive-934874.png?crop=center&height=1631&v=1722973567&width=1352' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Daisy Farmhouse Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3442">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696733191_c8kx.jpg' alt='Golden Daisy Farmhouse Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3442'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696733191_c8kx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland Toile Farmhouse Wallpaper Beige Neutral Cottage Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27464172/r/il/044eda/5727828900/il_570xN.5727828900_9xr1.jpg' alt='Woodland Toile Farmhouse Wallpaper Beige Neutral Cottage Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27464172/r/il/044eda/5727828900/il_570xN.5727828900_9xr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HueBurst 17.3"x236" Black and White Floral Wallpaper Farmhouse Wallpaper  Leaf Spike Wheat Meadow Peel and Stick Wallpaper Country Wildflower  Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81X3ufKNfVL.jpg' alt='HueBurst 17.3"x236" Black and White Floral Wallpaper Farmhouse Wallpaper  Leaf Spike Wheat Meadow Peel and Stick Wallpaper Country Wildflower  Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81X3ufKNfVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wooden wallpaper Farmhouse wallpaper - Peel and stick wallpaper -  Traditional wallpaper 3426">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4344121256_1471.jpg?v=1668587402&width=1080' alt='Wooden wallpaper Farmhouse wallpaper - Peel and stick wallpaper -  Traditional wallpaper 3426'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4344121256_1471.jpg?v=1668587402&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Plaid Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/249/1287/IMG_4338__46950.1664381105.jpg?c=2' alt='Farmhouse Plaid Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/249/1287/IMG_4338__46950.1664381105.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Tulips Peel + Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/0023584_folk-tulip-peel-stick-wallpaper_1_530x@2x.jpg?v=1589569105' alt='Farmhouse Tulips Peel + Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renovate Wallcoverings" />
+                                </span>
+                                <a href='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/0023584_folk-tulip-peel-stick-wallpaper_1_530x@2x.jpg?v=1589569105' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Rocky Mountain Decals Removable Peel and Stick Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?crop=center&height=980&v=1666799095&width=980' alt='All Rocky Mountain Decals Removable Peel and Stick Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?crop=center&height=980&v=1666799095&width=980' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

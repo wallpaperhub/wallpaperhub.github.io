@@ -1,0 +1,129 @@
+<title>Spring Cleaning Inspiration: Transform Your Space</title>
+                    <meta name="description" content="Discover stunning spring cleaning images that inspire a fresh start for your home. From clutter-free spaces to vibrant organization, find visuals that motivate your spring cleaning journey and help you turn chaos into calm. Perfect for anyone looking to refresh their living environment this season!">
+                    <meta name="keywords" content="spring cleaning images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spring-cleaning-images">
+                            <span itemprop="name">spring cleaning images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Cleaning Inspiration: Transform Your Space</h1>
+                <p>Spring cleaning images capture the essence of freshness and renewal. They showcase bright, airy spaces filled with sunlight, before-and-after transformations of cluttered rooms to tidy havens, and the joy of organizing. These visuals inspire motivation to declutter and refresh your home, making spring cleaning an invigorating ritual.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Medical Minute: Six tips for safe spring cleaning - Penn State ...">
+                                <img itemprop="contentUrl url" src='https://pennstatehealthnews.org/wp-content/uploads/2019/05/050119-spring-clean.jpg' alt='The Medical Minute: Six tips for safe spring cleaning - Penn State ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penn State Health News" />
+                                </span>
+                                <a href='https://pennstatehealthnews.org/wp-content/uploads/2019/05/050119-spring-clean.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Spring Clean Your Workplace — Onsite Safety">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/64de3e915c623b1e97114aaa/32f0bfe9-2b68-42ed-a429-867af3023208/Spring-Cleaning-1200x600.jpg' alt='How To Spring Clean Your Workplace — Onsite Safety'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Onsite Safety" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/64de3e915c623b1e97114aaa/32f0bfe9-2b68-42ed-a429-867af3023208/Spring-Cleaning-1200x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Benefits of Spring Cleaning | Goodwill of North Georgia">
+                                <img itemprop="contentUrl url" src='https://goodwillng.org/wp-content/uploads/2017/03/Spring-Cleaning.png' alt='5 Benefits of Spring Cleaning | Goodwill of North Georgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodwill of North Georgia" />
+                                </span>
+                                <a href='https://goodwillng.org/wp-content/uploads/2017/03/Spring-Cleaning.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Cleaning Images – Browse 1,294,687 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/08/30/88/360_F_408308890_XHRoVSnFIkraSccagXJTmu72ChFvORWl.jpg' alt='Spring Cleaning Images – Browse 1,294,687 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/08/30/88/360_F_408308890_XHRoVSnFIkraSccagXJTmu72ChFvORWl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Cleaning For Spring (Room-by-Room Checklist)">
+                                <img itemprop="contentUrl url" src='https://thediyplaybook.com/wp-content/uploads/2020/03/spring-cleaning-maintenance-5-scaled.jpg' alt='Deep Cleaning For Spring (Room-by-Room Checklist)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DIY Playbook" />
+                                </span>
+                                <a href='https://thediyplaybook.com/wp-content/uploads/2020/03/spring-cleaning-maintenance-5-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top tips for handling a house spring clean – The Forge Skip Hire ...">
+                                <img itemprop="contentUrl url" src='https://www.forgeskiphire.co.uk/blog/wp-content/uploads/2022/03/bigstock-Cleaning-items-in-a-bucket-on-412003618-1-825x510.jpg' alt='Top tips for handling a house spring clean – The Forge Skip Hire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forge Skip Hire" />
+                                </span>
+                                <a href='https://www.forgeskiphire.co.uk/blog/wp-content/uploads/2022/03/bigstock-Cleaning-items-in-a-bucket-on-412003618-1-825x510.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Cleaning Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/spring-cleaning-tools_24908-56558.jpg' alt='Spring Cleaning Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/spring-cleaning-tools_24908-56558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Cleaning | mittonmusings">
+                                <img itemprop="contentUrl url" src='https://mittonmusings.com/wp-content/uploads/2022/03/dk-springclean19.jpg?w=747' alt='Spring Cleaning | mittonmusings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mittonmusings" />
+                                </span>
+                                <a href='https://mittonmusings.com/wp-content/uploads/2022/03/dk-springclean19.jpg?w=747' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Ultimate Spring-Cleaning Checklist">
+                                <img itemprop="contentUrl url" src='https://www.marthastewart.com/thmb/g9E__BeO6H6M2aiNAvfWnKkYVTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spring-cleaning-checklist-lead-getty-0323-2000-f41cb717819a4e858fb5188434f34f13.jpg' alt='Your Ultimate Spring-Cleaning Checklist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Martha Stewart" />
+                                </span>
+                                <a href='https://www.marthastewart.com/thmb/g9E__BeO6H6M2aiNAvfWnKkYVTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spring-cleaning-checklist-lead-getty-0323-2000-f41cb717819a4e858fb5188434f34f13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Spring Cleaning Guide - Georgia Home Remodeling">
+                                <img itemprop="contentUrl url" src='https://gahomeremodeling.com/wp-content/uploads/2020/04/1.jpg' alt='The Ultimate Spring Cleaning Guide - Georgia Home Remodeling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Home Remodeling" />
+                                </span>
+                                <a href='https://gahomeremodeling.com/wp-content/uploads/2020/04/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

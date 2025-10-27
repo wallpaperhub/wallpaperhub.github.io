@@ -1,0 +1,129 @@
+<title>Halloween Dog Backgrounds: Spook-tacular Pet Joy!</title>
+                    <meta name="description" content="Discover the perfect Halloween dog backgrounds for your devices! Enjoy vibrant images of dogs in costumes and autumn settings. Ideal for pet lovers wanting to celebrate the season in style. Transform your screens this Halloween with our unique and festive dog-themed designs!">
+                    <meta name="keywords" content="halloween dog background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-dog-background">
+                            <span itemprop="name">halloween dog background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Halloween Dog Backgrounds: Spook-tacular Pet Joy!</h1>
+                <p>Get ready for Halloween with a spooktacular dog-themed background! Transform your screen with images of pups dressed in cute costumes, surrounded by pumpkins, ghosts, and autumn leaves. Perfect for dog lovers, this festive backdrop captures the playful spirit of Halloween, showcasing your furry friend in all its seasonal glory!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1338829508/photo/a-dog-dressed-as-a-witch-for-halloween-a-golden-retriever-sits-in-a-park-in-autumn-with.jpg?s=612x612&w=0&k=20&c=HECA_42OEuqcK4YR17h32d-CX9v94W5pK-e2h-WPka8=' alt='14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1338829508/photo/a-dog-dressed-as-a-witch-for-halloween-a-golden-retriever-sits-in-a-park-in-autumn-with.jpg?s=612x612&w=0&k=20&c=HECA_42OEuqcK4YR17h32d-CX9v94W5pK-e2h-WPka8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Dog Halloween Pet Cutout Halloween Digital Background Backdrop Fall  background Pet portrait">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20281179/r/il/64cc1e/3189846218/il_fullxfull.3189846218_fvyg.jpg' alt='Ghost Dog Halloween Pet Cutout Halloween Digital Background Backdrop Fall  background Pet portrait'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20281179/r/il/64cc1e/3189846218/il_fullxfull.3189846218_fvyg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1434083212/photo/cute-corgi-dog-in-fancy-black-hat-and-striped-cat-sitting-in-autumn-park-with-pumpkin-for.jpg?s=612x612&w=0&k=20&c=oh9H4QYaMAotWdEF3d_g3i4rJyE8AFfXtMrqlLYT3dI=' alt='14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1434083212/photo/cute-corgi-dog-in-fancy-black-hat-and-striped-cat-sitting-in-autumn-park-with-pumpkin-for.jpg?s=612x612&w=0&k=20&c=oh9H4QYaMAotWdEF3d_g3i4rJyE8AFfXtMrqlLYT3dI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="happy halloween!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/2b/61/bc2b61391f95b826ccb18fe230cb4556.jpg' alt='happy halloween!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/2b/61/bc2b61391f95b826ccb18fe230cb4556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Dog Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cute-dog-pumpkins-halloween-decorations-260nw-2503161793.jpg' alt='Halloween Dog Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cute-dog-pumpkins-halloween-decorations-260nw-2503161793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween! Maltese">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d9/86/b7/d986b75d234cd7060e130779da366e95.jpg' alt='Happy Halloween! Maltese'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="343">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d9/86/b7/d986b75d234cd7060e130779da366e95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Dog Picture Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230605/pngtree-dog-dressed-up-in-a-halloween-costume-holding-a-pumpkin-image_2934016.jpg' alt='Halloween Dog Picture Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230605/pngtree-dog-dressed-up-in-a-halloween-costume-holding-a-pumpkin-image_2934016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,818 Costume Halloween Pet Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wallpaper-illustrates-halloween-dog-front-view-concept-party-costume-pet-stock-ai-generated-illustration-332460847.jpg' alt='9,818 Costume Halloween Pet Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wallpaper-illustrates-halloween-dog-front-view-concept-party-costume-pet-stock-ai-generated-illustration-332460847.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog in Halloween Red Costume Black Background">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/ed4a9668-9527-4baa-9719-77fad1aa10a4/inline_image_preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=04cad0a537ffec31496c1cde081a3f1f0e964b52ed4e25dea3a3b539dc63f012' alt='Dog in Halloween Red Costume Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/ed4a9668-9527-4baa-9719-77fad1aa10a4/inline_image_preview.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=04cad0a537ffec31496c1cde081a3f1f0e964b52ed4e25dea3a3b539dc63f012' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1292884801/photo/funny-west-highland-white-terrier-dog-decorated-with-photo-props-sits-near-orange-pumpkins-at.jpg?s=612x612&w=0&k=20&c=bA9W7tSbEG2sQ0uTLDMpv2l6KV1po6J0El2XN5UUi1Q=' alt='14,000+ Halloween Dog Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1292884801/photo/funny-west-highland-white-terrier-dog-decorated-with-photo-props-sits-near-orange-pumpkins-at.jpg?s=612x612&w=0&k=20&c=bA9W7tSbEG2sQ0uTLDMpv2l6KV1po6J0El2XN5UUi1Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Lagoon Photos: Nature's Hidden Gems</title>
+                    <meta name="description" content="Discover breathtaking lagoon photos that highlight the stunning landscapes and tranquil waters. Perfect for nature lovers and travel enthusiasts, our collection showcases the beauty of lagoons worldwide. Explore the serene charm and vibrant hues captured in each photo today!">
+                    <meta name="keywords" content="lagoon photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lagoon-photos">
+                            <span itemprop="name">lagoon photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lagoon Photos: Nature's Hidden Gems</h1>
+                <p>Experience the serene beauty of lagoon photos, capturing the vibrant hues of crystal clear waters surrounded by lush greenery. These stunning images showcase the tranquility and exotic charm of lagoons, making them perfect for nature enthusiasts and travelers. Explore the magic of lagoons through captivating photography.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lagoon - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/33/BalosLagoonCreta.jpg' alt='Lagoon - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/33/BalosLagoonCreta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Lagoon? - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w768/upload/5d/17/8d/shutterstock-1666107121.jpg' alt='What Is A Lagoon? - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w768/upload/5d/17/8d/shutterstock-1666107121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lagoon">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1652301450/EducationHub/photos/bora-bora.jpg' alt='Lagoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1652301450/EducationHub/photos/bora-bora.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Lagoon? - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/97/1a/45/shutterstock-1476612089.jpg' alt='What Is A Lagoon? - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/97/1a/45/shutterstock-1476612089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lagoon Geothermal Spa: Plan Your Day Visit | Blue Lagoon Iceland">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/w65k7w0nsb8q/4egTHqIvc6A9cNgAILlcyK/ef94101278f85c96a659e6bd7899729e/Bluelagoon-meta.jpg' alt='Blue Lagoon Geothermal Spa: Plan Your Day Visit | Blue Lagoon Iceland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Lagoon Iceland" />
+                                </span>
+                                <a href='https://images.ctfassets.net/w65k7w0nsb8q/4egTHqIvc6A9cNgAILlcyK/ef94101278f85c96a659e6bd7899729e/Bluelagoon-meta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Lagoon? - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w768/upload/02/5f/e5/shutterstock-1042742641.jpg' alt='What Is A Lagoon? - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w768/upload/02/5f/e5/shutterstock-1042742641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful photos of Western Australia's lagoons - Australian ...">
+                                <img itemprop="contentUrl url" src='https://www.australiangeographic.com.au/wp-content/uploads/2018/06/Big-Lagoon-9.jpg?quality=75' alt='Beautiful photos of Western Australia's lagoons - Australian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australian Geographic" />
+                                </span>
+                                <a href='https://www.australiangeographic.com.au/wp-content/uploads/2018/06/Big-Lagoon-9.jpg?quality=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epperson Lagoon - MetroLagoons">
+                                <img itemprop="contentUrl url" src='https://www.metrolagoons.com/wp-content/uploads/2021/12/73-Lagoon-Photos-230614-0948DJI_0948-scaled.jpg' alt='Epperson Lagoon - MetroLagoons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MetroLagoons" />
+                                </span>
+                                <a href='https://www.metrolagoons.com/wp-content/uploads/2021/12/73-Lagoon-Photos-230614-0948DJI_0948-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lagoon - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kara-Bogaz_Gol_from_space%2C_September_1995.jpg/220px-Kara-Bogaz_Gol_from_space%2C_September_1995.jpg' alt='Lagoon - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kara-Bogaz_Gol_from_space%2C_September_1995.jpg/220px-Kara-Bogaz_Gol_from_space%2C_September_1995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lagoon | Definition, Characteristics & Examples | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/74/1974-050-C5B0D1D0/Lagoons-coral-reef-barrier-islands-Raiatea-Tahaa.jpg' alt='Lagoon | Definition, Characteristics & Examples | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/74/1974-050-C5B0D1D0/Lagoons-coral-reef-barrier-islands-Raiatea-Tahaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

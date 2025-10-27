@@ -1,0 +1,129 @@
+<title>Stunning "Made in Abyss" Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the best "Made in Abyss" wallpapers to enhance your devices! Explore captivating designs featuring beloved characters and the mysterious landscapes of the Abyss. Perfect for showcasing your love for this anime and bringing its magic to your screens. Download your favorite today!">
+                    <meta name="keywords" content="made in abyss wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/made-in-abyss-wallpaper">
+                            <span itemprop="name">made in abyss wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning "Made in Abyss" Wallpapers for Every Fan</h1>
+                <p>Experience the enchanting world of "Made in Abyss" with stunning wallpapers that capture its unique art style and vivid landscapes. These wallpapers showcase the descent into the Abyss, featuring characters like Riko and Reg, and mesmerizing creatures. Perfect for fans wanting to bring the adventure to their devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riko and Regu HD Adventure - Made in Abyss Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/856/856712.jpg' alt='Riko and Regu HD Adventure - Made in Abyss Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/856/856712.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do we have any high resolution Made in Abyss backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/rQGehDH.jpg' alt='Do we have any high resolution Made in Abyss backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/rQGehDH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made in Abyss HD wallpaper : r/MadeInAbyss">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wl5cyn0i0r881.jpg' alt='Made in Abyss HD wallpaper : r/MadeInAbyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wl5cyn0i0r881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Made In Abyss HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/126/1262030.jpg' alt='Download Anime Made In Abyss HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3575">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/126/1262030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Made In Abyss - The Edge of the Abyss">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1915737211351167462/E7055C787239DA8104064934D988C1E4E72E1CBF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Made In Abyss - The Edge of the Abyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1915737211351167462/E7055C787239DA8104064934D988C1E4E72E1CBF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made in Abyss (TV Series) Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/8/8/32321-2400x1742-desktop-hd-made-in-abyss-tv-series-wallpaper-photo.jpg' alt='Made in Abyss (TV Series) Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/8/8/32321-2400x1742-desktop-hd-made-in-abyss-tv-series-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nanachi (Made in Abyss) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/4218/nanachi-made-in-abyss.jpg' alt='Nanachi (Made in Abyss) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/4218/nanachi-made-in-abyss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made in Abyss, anime, madeinabyss, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/310/824/HD-wallpaper-made-in-abyss-anime-madeinabyss.jpg' alt='Made in Abyss, anime, madeinabyss, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/310/824/HD-wallpaper-made-in-abyss-anime-madeinabyss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made in Abyss: Riko & Lyza's Adventure - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/2c/31/fc2c31573dcf30e75dde402d7054b9d3.jpg' alt='Made in Abyss: Riko & Lyza's Adventure - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/2c/31/fc2c31573dcf30e75dde402d7054b9d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made In Abyss Wallpaper : r/MadeInAbyss">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1s71psctepm01.jpg' alt='Made In Abyss Wallpaper : r/MadeInAbyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1s71psctepm01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

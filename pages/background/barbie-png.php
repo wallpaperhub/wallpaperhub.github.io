@@ -1,0 +1,129 @@
+<title>Stunning Barbie PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Explore a fantastic selection of Barbie PNG images, ideal for crafts and digital designs. With transparent backgrounds and vibrant colors, these high-quality graphics will enhance your projects and bring your creative visions to life!">
+                    <meta name="keywords" content="barbie png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barbie-png">
+                            <span itemprop="name">barbie png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Barbie PNG Images for Your Creative Projects</h1>
+                <p>Discover a vibrant collection of Barbie PNG images, perfect for your creative projects! From iconic doll poses to stylish outfits, these transparent background images are ideal for graphic design, scrapbooking, and digital art. Elevate your visuals with high-quality Barbie PNGs that capture the essence of this beloved character!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/668/944/png-clipart-barbie-barbie.png' alt='Barbie png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/668/944/png-clipart-barbie-barbie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download high quality Barbie Png Photo - Rosto Barbie Png PNG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/d9/f0/eed9f0f7c3313de6715c5ced90c1c261.jpg' alt='Download high quality Barbie Png Photo - Rosto Barbie Png PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/d9/f0/eed9f0f7c3313de6715c5ced90c1c261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie PNG transparent image download, size: 566x1340px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/barbie_PNG34.png' alt='Barbie PNG transparent image download, size: 566x1340px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/barbie_PNG34.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Logo barbie.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo_barbie.png/1200px-Logo_barbie.png' alt='File:Logo barbie.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo_barbie.png/1200px-Logo_barbie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie PNG transparent image download, size: 343x560px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/barbie_PNG5.png' alt='Barbie PNG transparent image download, size: 343x560px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="343">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/barbie_PNG5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come On Barbie Let'S Go Party Png, Barbie Png, Barbie Doll Png, Barbie  Girls, Party Girls Png, Birthday Party Png (6)">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1690018760_ComeOnBarbieLetSGoPartyPngBarbiePngBarbieDollPngBarbieGirlsPartyGirlsPngBirthdayPartyPng6.jpg&width=600&height=600&quality=90&format=auto&fit=pad' alt='Come On Barbie Let'S Go Party Png, Barbie Png, Barbie Doll Png, Barbie  Girls, Party Girls Png, Birthday Party Png (6)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Come On Barbie Let'S Go Party Png, Barbie Png, Barbie Doll P ..." />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1690018760_ComeOnBarbieLetSGoPartyPngBarbiePngBarbieDollPngBarbieGirlsPartyGirlsPngBirthdayPartyPng6.jpg&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ad/9e/c9/ad9ec915408459e6aedcb7314491e97e.jpg' alt='Barbie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ad/9e/c9/ad9ec915408459e6aedcb7314491e97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Mega, png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/801/1015/png-clipart-barbie-mega.png' alt='Barbie Mega, png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/801/1015/png-clipart-barbie-mega.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/589a43a65aa6293a4aac48af.png' alt='Barbie Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/589a43a65aa6293a4aac48af.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="barbie png">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9a/51/ce/9a51cedc82983e12ddd22df88a35ed02.jpg' alt='barbie png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9a/51/ce/9a51cedc82983e12ddd22df88a35ed02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

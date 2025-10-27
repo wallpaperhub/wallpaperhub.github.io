@@ -1,0 +1,129 @@
+<title>Cheerful Yellow Hearts Wallpaper: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover vibrant yellow hearts wallpaper that brightens your devices! Perfect for adding warmth and positivity to your screens, these cheerful designs will uplift your space with a sunny aesthetic. Explore various styles and make your tech more delightful today!">
+                    <meta name="keywords" content="yellow hearts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-hearts-wallpaper">
+                            <span itemprop="name">yellow hearts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Yellow Hearts Wallpaper: Brighten Your Screen!</h1>
+                <p>Brighten up your device with cheerful yellow hearts wallpaper! Perfect for adding a splash of color and positivity to your screens, these designs feature playful heart motifs in various shades of yellow. Ideal for those who love a sunny aesthetic, this wallpaper will bring warmth and happiness to your digital space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow heart wallpaper in 2022 | Heart wallpaper, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/19/c5/1919c521ccee30bb2b74995051203c31.jpg' alt='yellow heart wallpaper in 2022 | Heart wallpaper, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/19/c5/1919c521ccee30bb2b74995051203c31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Phone Yellow Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/girly-phone-yellow-hearts-n4tt9jj3uef9qy9s.jpg' alt='Girly Phone Yellow Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/girly-phone-yellow-hearts-n4tt9jj3uef9qy9s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow hearts :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/55/e2/de55e2873273e4d43c7a5338d3a3f7f1.jpg' alt='yellow hearts :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/55/e2/de55e2873273e4d43c7a5338d3a3f7f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern of yellow hearts. Concept for baby shower ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WR72AM/seamless-pattern-of-yellow-hearts-concept-for-baby-shower-birthday-love-valentines-day-texture-background-wallpaper-wrapping-paper-print-for-WR72AM.jpg' alt='Seamless pattern of yellow hearts. Concept for baby shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WR72AM/seamless-pattern-of-yellow-hearts-concept-for-baby-shower-birthday-love-valentines-day-texture-background-wallpaper-wrapping-paper-print-for-WR72AM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Mustard y2k Heart Layers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/6d5d74dd870d4df8bd04db3755a77752.jpg?v=1726982382' alt='Yellow Mustard y2k Heart Layers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society6" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0693/3345/0968/files/6d5d74dd870d4df8bd04db3755a77752.jpg?v=1726982382' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheerful Yellow Heart Wallpaper For Your Phone and Computer | Skip ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/Yellow-Heart-Wallpaper-Mobile-544x900.png' alt='Cheerful Yellow Heart Wallpaper For Your Phone and Computer | Skip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkipToMyLou.org" />
+                                </span>
+                                <a href='https://i0.wp.com/www.skiptomylou.org/wp-content/uploads/2023/02/Yellow-Heart-Wallpaper-Mobile-544x900.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bright yellow background with a yellow heart makes up the heart ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/281/540/non_2x/a-bright-yellow-background-with-a-yellow-heart-makes-up-the-heart-seamless-design-vector.jpg' alt='A bright yellow background with a yellow heart makes up the heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/281/540/non_2x/a-bright-yellow-background-with-a-yellow-heart-makes-up-the-heart-seamless-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Radiant Yellow Heart on a Dark Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-heart-1080-x-1870-wallpaper-l7y8eh8mus5alpd8.jpg' alt='Download Radiant Yellow Heart on a Dark Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-heart-1080-x-1870-wallpaper-l7y8eh8mus5alpd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  yellow Hearts Wallpaper Aesthetic In 2021 | Hippie Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/80/c9/2a80c90bc17bdcd1cecfa7e38865fb32.jpg' alt='  yellow Hearts Wallpaper Aesthetic In 2021 | Hippie Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/80/c9/2a80c90bc17bdcd1cecfa7e38865fb32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Heart Tunnel Background Screensaver 1 Hour HD 4K">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mYJUTamrQoA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDFB6k2xwEdsw9fzqqr7BpuU8cxfA' alt='Yellow Heart Tunnel Background Screensaver 1 Hour HD 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mYJUTamrQoA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDFB6k2xwEdsw9fzqqr7BpuU8cxfA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

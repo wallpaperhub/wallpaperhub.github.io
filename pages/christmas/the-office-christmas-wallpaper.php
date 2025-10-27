@@ -1,0 +1,129 @@
+<title>Brighten Your Office with Christmas Wallpaper</title>
+                    <meta name="description" content="Discover the perfect Christmas wallpaper to elevate your office's holiday spirit! Explore a variety of festive designs that inspire joy and productivity during the season. Make your workspace a cheerful retreat this winter with our curated selection of Christmas wallpapers.">
+                    <meta name="keywords" content="the office christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/the-office-christmas-wallpaper">
+                            <span itemprop="name">the office christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Office with Christmas Wallpaper</h1>
+                <p>Transform your workspace this holiday season with festive office Christmas wallpaper! Choose vibrant designs that bring cheer and inspiration to your daily routine. From whimsical patterns to elegant themes, there's something for every taste. Enhance your productivity while spreading Christmas joy throughout your office environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office Christmas wallpaper • OfficeTally">
+                                <img itemprop="contentUrl url" src='https://www.officetally.com/wp-content/uploads/2005/12/the-office-christmas-wallpaper-1600x1086.jpg' alt='The Office Christmas wallpaper • OfficeTally'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OfficeTally" />
+                                </span>
+                                <a href='https://www.officetally.com/wp-content/uploads/2005/12/the-office-christmas-wallpaper-1600x1086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Office Cast Celebrates the Holidays Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-office-us-christmas-boys-plptnk9kxrh338wg.jpg' alt='Download The Office Cast Celebrates the Holidays Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-office-us-christmas-boys-plptnk9kxrh338wg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office US Christmas Episode HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/135/1356196.jpeg' alt='The Office US Christmas Episode HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/135/1356196.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office Christmas wallpaper • OfficeTally">
+                                <img itemprop="contentUrl url" src='https://www.officetally.com/wp-content/uploads/2005/12/the-office-christmas-wallpaper-2006.jpg' alt='The Office Christmas wallpaper • OfficeTally'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OfficeTally" />
+                                </span>
+                                <a href='https://www.officetally.com/wp-content/uploads/2005/12/the-office-christmas-wallpaper-2006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/81/4a/a2814aa6697f8572cf9165f6260ef253.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/81/4a/a2814aa6697f8572cf9165f6260ef253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office Christmas HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/dwight-elf-the-office-iphone-k368oay89xdbkyza.jpg' alt='The Office Christmas HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/dwight-elf-the-office-iphone-k368oay89xdbkyza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/34/31/b7/3431b7b99fa525c4510471b9ae485015.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/34/31/b7/3431b7b99fa525c4510471b9ae485015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Office Christmas Episodes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/8b/d1/f28bd18ff19ace965bca1688fd1bb2e6.jpg' alt='The Best Office Christmas Episodes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/8b/d1/f28bd18ff19ace965bca1688fd1bb2e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Mike, christmas, christmas sweater, funny, michael scott ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/955/352/HD-wallpaper-santa-mike-christmas-christmas-sweater-funny-michael-scott-the-office.jpg' alt='Santa Mike, christmas, christmas sweater, funny, michael scott ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/955/352/HD-wallpaper-santa-mike-christmas-christmas-sweater-funny-michael-scott-the-office.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Office: Christmas Wishes Photo: 690921 - NBC.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/8a/81/b38a815129750dca06e3136dd3d7a18e.jpg' alt='The Office: Christmas Wishes Photo: 690921 - NBC.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/8a/81/b38a815129750dca06e3136dd3d7a18e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

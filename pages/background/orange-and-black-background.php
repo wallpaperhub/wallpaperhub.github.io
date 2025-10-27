@@ -1,0 +1,129 @@
+<title>Striking Orange and Black Backgrounds for Every Design</title>
+                    <meta name="description" content="Discover the powerful impact of orange and black backgrounds in design. Perfect for websites and graphics, this striking color combination catches the eye and enhances your visual storytelling. Learn how to effectively use orange and black to bring energy and excitement to your projects.">
+                    <meta name="keywords" content="orange and black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-and-black-background">
+                            <span itemprop="name">orange and black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Striking Orange and Black Backgrounds for Every Design</h1>
+                <p>An orange and black background is a bold design choice, evoking excitement and energy. The vibrant orange contrasts sharply with the deep black, creating a visually striking effect that's perfect for both text and imagery. This color combination can be used effectively in websites, graphics, and marketing materials to grab attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,600+ Orange Black Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1450676666/vector/grunge-texture-effect-distressed-overlay-rough-textured-abstract-vintage-monochrome-orange.jpg?s=612x612&w=0&k=20&c=o6L8_xO5RRSchFzeNStuOpqygKwbSpuMDix-WoD5usc=' alt='9,600+ Orange Black Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1450676666/vector/grunge-texture-effect-distressed-overlay-rough-textured-abstract-vintage-monochrome-orange.jpg?s=612x612&w=0&k=20&c=o6L8_xO5RRSchFzeNStuOpqygKwbSpuMDix-WoD5usc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="643,121 Orange Black Design Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/408055588/display_1500/stock-vector-vector-comic-book-and-journal-background-comic-book-and-journal-orange-grunge-background-and-408055588.jpg' alt='643,121 Orange Black Design Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/408055588/display_1500/stock-vector-vector-comic-book-and-journal-background-comic-book-and-journal-orange-grunge-background-and-408055588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/orange-black-backgrounds-sky-abstract_53876-493388.jpg?semt=ais_hybrid' alt='Orange Black Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/orange-black-backgrounds-sky-abstract_53876-493388.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/006/353/small/abstract-black-and-orange-layer-geometric-background-vector.jpg' alt='Orange Black Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/006/353/small/abstract-black-and-orange-layer-geometric-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange And Black Gradient Background With 3d Rendered Abstract ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230618/original/pngtree-orange-and-black-gradient-background-with-3d-rendered-abstract-waves-picture-image_3711513.jpg' alt='Orange And Black Gradient Background With 3d Rendered Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230618/original/pngtree-orange-and-black-gradient-background-with-3d-rendered-abstract-waves-picture-image_3711513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/background-wave-red-abstractswith-gradient-modern-style_343694-3280.jpg' alt='Black Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/background-wave-red-abstractswith-gradient-modern-style_343694-3280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Gradient Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/863/505/small_2x/smooth-wave-gradient-mesh-background-abstract-design-illustration-on-soft-yellow-dark-orange-black-vibrant-blend-template-free-vector.jpg' alt='Orange Black Gradient Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/863/505/small_2x/smooth-wave-gradient-mesh-background-abstract-design-illustration-on-soft-yellow-dark-orange-black-vibrant-blend-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange + Black Liquid Marble Swirl Seamless Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1653626772967-MYGVI9MSWNSABAJEXU2D/Orange+Black+Marble+Seamless+Cover+WM+2.jpg?format=1500w' alt='Orange + Black Liquid Marble Swirl Seamless Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1653626772967-MYGVI9MSWNSABAJEXU2D/Orange+Black+Marble+Seamless+Cover+WM+2.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black Orange Background Stock Illustrations – 336,919 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-orange-yellow-gradient-stripes-motion-blur-black-background-texture-abstract-orange-yellow-gradient-stripes-196756930.jpg' alt='Abstract Black Orange Background Stock Illustrations – 336,919 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-orange-yellow-gradient-stripes-motion-blur-black-background-texture-abstract-orange-yellow-gradient-stripes-196756930.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Black Images – Browse 5,744,359 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/45/90/77/360_F_345907711_ppj5ieRGL9P75uGk7gJUbxNdmeXPsJ3X.jpg' alt='Orange Black Images – Browse 5,744,359 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/45/90/77/360_F_345907711_ppj5ieRGL9P75uGk7gJUbxNdmeXPsJ3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

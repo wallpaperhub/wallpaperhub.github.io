@@ -1,0 +1,129 @@
+<title>Understanding the Narrator in "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Explore the complex narrator in "The Yellow Wallpaper," a profound representation of mental illness and societal oppression. Discover how her journey reflects the fight for freedom and self-identity in a constrained environment. Join us in analyzing this essential character and her impact on literary history.">
+                    <meta name="keywords" content="narrator in the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/narrator-in-the-yellow-wallpaper">
+                            <span itemprop="name">narrator in the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Narrator in "The Yellow Wallpaper"</h1>
+                <p>The narrator in "The Yellow Wallpaper" symbolizes the struggle against societal constraints and mental illness. As she descends into madness, her interactions with the wallpaper reflect her internal conflict and desire for freedom. This powerful portrayal highlights the dangers of isolation and the importance of self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper (2021): adapting a classic | by Letícia ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' alt='The Yellow Wallpaper (2021): adapting a classic | by Letícia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*RREQTqo5JzGjno5BYSNuDQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia">
+                                <img itemprop="contentUrl url" src='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg?w=640' alt='The Yellow Wallpaper by Charlotte Perkins Gilman | pagesofjulia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pagesofjulia" />
+                                </span>
+                                <a href='https://pagesofjulia.com/wp-content/uploads/2013/07/yellow-wallpaper.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Characters | The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://gilmanswallpaper.wordpress.com/wp-content/uploads/2015/05/croppedillustrationofnarrator.jpg' alt='Characters | The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Yellow Wallpaper - WordPress.com" />
+                                </span>
+                                <a href='https://gilmanswallpaper.wordpress.com/wp-content/uploads/2015/05/croppedillustrationofnarrator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pm1.narvii.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' alt='The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reading Litty" />
+                                </span>
+                                <a href='https://i0.wp.com/pm1.narvii.com/6844/f8de1607d6e0c208dd66ef6fa258a3c4dadfdbc7v2_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Role of Voice in 'The Yellow Wallpaper' by Charlotte Perkins ...">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc0NDI5NDc3OTU3NjA4ODA4/the-role-of-voice-in-charlotte-perkins-gilmans-the-yellow-wallpaper-1890.jpg' alt='The Role of Voice in 'The Yellow Wallpaper' by Charlotte Perkins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owlcation" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc0NDI5NDc3OTU3NjA4ODA4/the-role-of-voice-in-charlotte-perkins-gilmans-the-yellow-wallpaper-1890.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comparison and Contrast: The Yellow Wallpaper and Story of an Hour ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1260/1*TzKDSVnz4FcgMVli_TU-VQ.jpeg' alt='Comparison and Contrast: The Yellow Wallpaper and Story of an Hour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evelyn – Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1260/1*TzKDSVnz4FcgMVli_TU-VQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='x-raw-image:///3149fc016a5c3a53a054b5354ff003f032038437e4e7e58e8172a6a294cb096a' alt='The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dsdeaf.org" />
+                                </span>
+                                <a href='x-raw-image:///3149fc016a5c3a53a054b5354ff003f032038437e4e7e58e8172a6a294cb096a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hysterical Dissociation and The Yellow Wallpaper – Shelly ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/20158/files/2021/12/the-yellow-wallpaper-wallpaper.jpeg' alt='Hysterical Dissociation and The Yellow Wallpaper – Shelly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelly Astudillos Portfolio - CUNY" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/20158/files/2021/12/the-yellow-wallpaper-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Figurative Language in The Yellow Wallpaper | Example & Analysis Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/tn7zcnfe0j.jpg' alt='Figurative Language in The Yellow Wallpaper | Example & Analysis Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/tn7zcnfe0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Literawiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/literature/images/7/74/YesserinaYellowWallpaper.jpg/revision/latest?cb=20160120074246' alt='The Yellow Wallpaper | Literawiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Literawiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/literature/images/7/74/YesserinaYellowWallpaper.jpg/revision/latest?cb=20160120074246' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

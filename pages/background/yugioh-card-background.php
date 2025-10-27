@@ -1,0 +1,129 @@
+<title>Captivating Yu-Gi-Oh! Card Backgrounds Explained</title>
+                    <meta name="description" content="Explore the fascinating world of Yu-Gi-Oh! card backgrounds. Uncover the artistry and themes behind the exceptional designs that bring each card to life and enhance gameplay. Perfect for fans and collectors alike!">
+                    <meta name="keywords" content="yugioh card background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yugioh-card-background">
+                            <span itemprop="name">yugioh card background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Yu-Gi-Oh! Card Backgrounds Explained</h1>
+                <p>Yu-Gi-Oh! card backgrounds are an essential element of the game's visual appeal. Each card features intricate designs that reflect its theme and abilities. From vibrant colors to detailed illustrations, these backgrounds enhance storytelling and immerse players in the Yu-Gi-Oh! universe. Discover the artistry and significance behind these stunning graphics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where can I get a high resolution image of just the card back ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3b8xne72vdfd1.png' alt='Where can I get a high resolution image of just the card back ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3424">
+                                <meta itemprop="height" content="2360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3b8xne72vdfd1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugioh, Yugioh cards, Black hole">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/b7/02/edb702c8400d4b0c806d964380b03b6a.jpg' alt='Yugioh, Yugioh cards, Black hole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/b7/02/edb702c8400d4b0c806d964380b03b6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Created a wallpaper from random card artworks (see comments) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/159d6ljny7g01.png?auto=webp&s=65b1c5c5f2194c71155e11b7839cde51573236f3' alt='Created a wallpaper from random card artworks (see comments) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/159d6ljny7g01.png?auto=webp&s=65b1c5c5f2194c71155e11b7839cde51573236f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh! Back Card Template by HolyCrapWhiteDragon on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/03b5a34c-d066-4223-ae94-21c906adb0bc/dbhvznu-9b0e1236-13b7-4684-98e8-c1c839a7e22b.jpg' alt='Yu-Gi-Oh! Back Card Template by HolyCrapWhiteDragon on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/03b5a34c-d066-4223-ae94-21c906adb0bc/dbhvznu-9b0e1236-13b7-4684-98e8-c1c839a7e22b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh! Background Dragon - FLOD-EN012 - Common - Unlimited - Mint/NM X1">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/4W4AAOSw8DNfnzW~/s-l400.jpg' alt='Yu-Gi-Oh! Background Dragon - FLOD-EN012 - Common - Unlimited - Mint/NM X1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="281">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/4W4AAOSw8DNfnzW~/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu-Gi-Oh! back cards artwork by wisleur on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/084d243d-e248-4e6c-8877-21895886b8bb/d7xwheu-a54f38fb-ac20-48d5-a7c8-893ccd06701b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4NGQyNDNkLWUyNDgtNGU2Yy04ODc3LTIxODk1ODg2YjhiYlwvZDd4d2hldS1hNTRmMzhmYi1hYzIwLTQ4ZDUtYTdjOC04OTNjY2QwNjcwMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5lDicK3YzccLUhMNmIbm52s0J54ukQozFesqL3X2ojE' alt='Yu-Gi-Oh! back cards artwork by wisleur on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/084d243d-e248-4e6c-8877-21895886b8bb/d7xwheu-a54f38fb-ac20-48d5-a7c8-893ccd06701b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4NGQyNDNkLWUyNDgtNGU2Yy04ODc3LTIxODk1ODg2YjhiYlwvZDd4d2hldS1hNTRmMzhmYi1hYzIwLTQ4ZDUtYTdjOC04OTNjY2QwNjcwMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5lDicK3YzccLUhMNmIbm52s0J54ukQozFesqL3X2ojE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yu Gi Oh Cards Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rheinbach-germany-november-large-card-collection-famous-yu-gi-oh-card-game-konami-rheinbach-germany-november-large-202387435.jpg' alt='Yu Gi Oh Cards Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rheinbach-germany-november-large-card-collection-famous-yu-gi-oh-card-game-konami-rheinbach-germany-november-large-202387435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I need some additional help on making cards with Inkscape ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/T0kpvR2.jpg' alt='I need some additional help on making cards with Inkscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yugioh Card Maker" />
+                                </span>
+                                <a href='http://i.imgur.com/T0kpvR2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/2e/5d/f22e5dc521c9b3e98386325978cba431.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/2e/5d/f22e5dc521c9b3e98386325978cba431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Card Artworks:Invigoration | Yu-Gi-Oh! Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/yugioh/images/5/51/Invigoration-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/250?cb=20120621214938' alt='Card Artworks:Invigoration | Yu-Gi-Oh! Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yu-Gi-Oh! Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/yugioh/images/5/51/Invigoration-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/250?cb=20120621214938' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Splashing Good Times: Capture Your Pool Party Moments"</title>
+                    <meta name="description" content=""Discover tips for taking stunning pool party photos that capture fun, laughter, and vibrant vibes. Perfect for sharing memories, our guide helps you frame those sun-soaked moments! Join us and make your pool parties unforgettable with captivating photography."">
+                    <meta name="keywords" content="pool party photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pool-party-photos">
+                            <span itemprop="name">pool party photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Splashing Good Times: Capture Your Pool Party Moments"</h1>
+                <p>Pool party photos capture the essence of summer fun! From splashes and swimsuits to laughter and sun-kissed memories, these snapshots bring joy and nostalgia. Perfect for sharing with friends, they highlight vibrant decorations, tasty treats, and unforgettable moments. Dive into fun with your best poolside memories today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Pools - Earl Vaughn Pools & Concrete">
+                                <img itemprop="contentUrl url" src='https://earlvaughnpoolsandconcrete.com/wp-content/uploads/2020/06/pp2.jpeg' alt='Party Pools - Earl Vaughn Pools & Concrete'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Earl Vaughn Pools & Concrete" />
+                                </span>
+                                <a href='https://earlvaughnpoolsandconcrete.com/wp-content/uploads/2020/06/pp2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Had a *DIVE-IN* Movie Night POOL PARTY!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xCnxJBEM3QI/maxresdefault.jpg' alt='We Had a *DIVE-IN* Movie Night POOL PARTY!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xCnxJBEM3QI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Night Pool Party with Dr Pepper | Tangled with Taste">
+                                <img itemprop="contentUrl url" src='https://tangledwithtaste.com/wp-content/uploads/2018/06/4F8A1365.jpg' alt='Girls Night Pool Party with Dr Pepper | Tangled with Taste'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tangled with Taste" />
+                                </span>
+                                <a href='https://tangledwithtaste.com/wp-content/uploads/2018/06/4F8A1365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Playful Pool Party Ideas 2024">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/pool-party-ideas-balloons-644074fef255a.jpg?crop=1.00xw:0.834xh;0,0.141xh&resize=980:*' alt='25 Playful Pool Party Ideas 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pioneer Woman" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/pool-party-ideas-balloons-644074fef255a.jpg?crop=1.00xw:0.834xh;0,0.141xh&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Night Swimming Pool Party - Fun and Entertainment | #NewYearPoolParty">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7321708228826434821&location=0&aid=1988' alt='Late Night Swimming Pool Party - Fun and Entertainment | #NewYearPoolParty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7321708228826434821&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A STAMPED Pool Party - Arlo Hotels">
+                                <img itemprop="contentUrl url" src='https://arlohotels.com/wp-content/uploads/2024/02/20240229_Wynwood_Happenings_A-STAMPED-Pool-Party-scaled.jpg' alt='A STAMPED Pool Party - Arlo Hotels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arlo Hotels" />
+                                </span>
+                                <a href='https://arlohotels.com/wp-content/uploads/2024/02/20240229_Wynwood_Happenings_A-STAMPED-Pool-Party-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Throw a Pool Party that People Will Enjoy - Anker US">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0493/9834/9974/files/how-to-throw-a-pool-party_480x480.jpg?v=1680858015' alt='How to Throw a Pool Party that People Will Enjoy - Anker US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anker SOLIX" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0493/9834/9974/files/how-to-throw-a-pool-party_480x480.jpg?v=1680858015' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make A Splash: How to Plan a Pool Party">
+                                <img itemprop="contentUrl url" src='https://www.windowworld.com/uploads/images/news/Family-enjoying-pool-party_window-world_hero.jpg' alt='Make A Splash: How to Plan a Pool Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3871">
+                                <meta itemprop="height" content="2580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Window World" />
+                                </span>
+                                <a href='https://www.windowworld.com/uploads/images/news/Family-enjoying-pool-party_window-world_hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Night Pool Party with Dr Pepper | Tangled with Taste">
+                                <img itemprop="contentUrl url" src='https://tangledwithtaste.com/wp-content/uploads/2018/06/4F8A1393.jpg' alt='Girls Night Pool Party with Dr Pepper | Tangled with Taste'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tangled with Taste" />
+                                </span>
+                                <a href='https://tangledwithtaste.com/wp-content/uploads/2018/06/4F8A1393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Backyard Pool Party Planning Guide - Leisure Pools USA">
+                                <img itemprop="contentUrl url" src='https://leisurepoolsusa.com/wp-content/uploads/2023/05/051823-PoolPartyHero.webp' alt='The Ultimate Backyard Pool Party Planning Guide - Leisure Pools USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leisure Pools" />
+                                </span>
+                                <a href='https://leisurepoolsusa.com/wp-content/uploads/2023/05/051823-PoolPartyHero.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

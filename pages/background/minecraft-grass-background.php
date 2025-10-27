@@ -1,0 +1,129 @@
+<title>Stunning Minecraft Grass Backgrounds for Your World</title>
+                    <meta name="description" content="Discover vibrant Minecraft grass backgrounds that enhance your gaming experience. Perfect for building and exploration, these lush green textures create a beautiful environment in your virtual world. Get inspired and elevate your Minecraft adventures today!">
+                    <meta name="keywords" content="minecraft grass background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-grass-background">
+                            <span itemprop="name">minecraft grass background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Minecraft Grass Backgrounds for Your World</h1>
+                <p>Minecraft grass backgrounds add a touch of natural beauty to your gaming experience. The vibrant green textures create a lively environment perfect for building, exploring, and crafting. Whether you’re designing your dream world or simply enjoying the scenery, the lush grass serves as a stunning backdrop that enhances your Minecraft adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Background 'Grass' by JabJabJab on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/803b6435-c912-4bd1-be8f-5ae39e106dbf/d30egxg-10015fae-f8d4-401c-8e14-04baae0fa788.png/v1/fill/w_900,h_507,q_80,strp/minecraft_background__grass__by_jabjabjab_d30egxg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvODAzYjY0MzUtYzkxMi00YmQxLWJlOGYtNWFlMzllMTA2ZGJmXC9kMzBlZ3hnLTEwMDE1ZmFlLWY4ZDQtNDAxYy04ZTE0LTA0YmFhZTBmYTc4OC5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WZX8jjedkTVVJOSZ3XdRlqEkPd1fnJ51auboX-uZElU' alt='Minecraft Background 'Grass' by JabJabJab on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/803b6435-c912-4bd1-be8f-5ae39e106dbf/d30egxg-10015fae-f8d4-401c-8e14-04baae0fa788.png/v1/fill/w_900,h_507,q_80,strp/minecraft_background__grass__by_jabjabjab_d30egxg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvODAzYjY0MzUtYzkxMi00YmQxLWJlOGYtNWFlMzllMTA2ZGJmXC9kMzBlZ3hnLTEwMDE1ZmFlLWY4ZDQtNDAxYy04ZTE0LTA0YmFhZTBmYTc4OC5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WZX8jjedkTVVJOSZ3XdRlqEkPd1fnJ51auboX-uZElU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080p] Minecraft Grass Wallpaper by iWithered on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/278c7db1-13cc-43b2-a015-8b0e390ab65a/d6o2yv5-5da287d7-a543-4ca2-88e6-75de1321a14e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3OGM3ZGIxLTEzY2MtNDNiMi1hMDE1LThiMGUzOTBhYjY1YVwvZDZvMnl2NS01ZGEyODdkNy1hNTQzLTRjYTItODhlNi03NWRlMTMyMWExNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9f1x_W0SBuE-PLxCAnkVc1GcaTo58qzTTIBpi4voLLI' alt='1080p] Minecraft Grass Wallpaper by iWithered on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/278c7db1-13cc-43b2-a015-8b0e390ab65a/d6o2yv5-5da287d7-a543-4ca2-88e6-75de1321a14e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3OGM3ZGIxLTEzY2MtNDNiMi1hMDE1LThiMGUzOTBhYjY1YVwvZDZvMnl2NS01ZGEyODdkNy1hNTQzLTRjYTItODhlNi03NWRlMTMyMWExNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9f1x_W0SBuE-PLxCAnkVc1GcaTo58qzTTIBpi4voLLI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Grass Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10944792.png' alt='Minecraft Grass Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10944792.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Sneak Peek at the Blissful Outdoors With Minecraft ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minecraft-grass-dbxcmhljbqezxxmc.jpg' alt='Download A Sneak Peek at the Blissful Outdoors With Minecraft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minecraft-grass-dbxcmhljbqezxxmc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Block of the Week: Grass | Minecraft">
+                                <img itemprop="contentUrl url" src='https://www.minecraft.net/content/dam/minecraftnet/archive/dcfca3c39bc5caca67cbcfac89fa8d6a-grassland.jpg' alt='Block of the Week: Grass | Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="748">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minecraft" />
+                                </span>
+                                <a href='https://www.minecraft.net/content/dam/minecraftnet/archive/dcfca3c39bc5caca67cbcfac89fa8d6a-grassland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/41/01/874101c93f78ad5f8c9ff7f55048a5ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/41/01/874101c93f78ad5f8c9ff7f55048a5ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass With Trees 2560x1440 Minecraft Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/grass-with-trees-2560x1440-minecraft-185ifl3wjmuln1ux.jpg' alt='Grass With Trees 2560x1440 Minecraft Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/grass-with-trees-2560x1440-minecraft-185ifl3wjmuln1ux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Minecraft Grass Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minecraft-grass-9hzkv3qc6b8tpytu.jpg' alt='100+] Minecraft Grass Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minecraft-grass-9hzkv3qc6b8tpytu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who remembers this Minecraft background? : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1uu6kvimeszd1.jpeg' alt='Who remembers this Minecraft background? : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1006">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1uu6kvimeszd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Background Stock Illustrations – 1,751 Minecraft ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pixel-grass-ground-background-concept-minecraft-games-d-abstract-cubes-video-game-geometric-mosaic-waves-pattern-215986985.jpg' alt='Minecraft Background Stock Illustrations – 1,751 Minecraft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pixel-grass-ground-background-concept-minecraft-games-d-abstract-cubes-video-game-geometric-mosaic-waves-pattern-215986985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Victig: Embracing Resilience and Empowerment</title>
+                    <meta name="description" content="Explore the concept of Victig, where resilience meets empowerment. Discover how overcoming adversity transforms challenges into victories, fostering personal growth and community support. Join us in celebrating the journey of triumph over struggle!">
+                    <meta name="keywords" content="victig">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/victig">
+                            <span itemprop="name">victig</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Victig: Embracing Resilience and Empowerment</h1>
+                <p>Victig is a term that embodies resilience and the spirit of overcoming adversity. It represents the journey of individuals who have faced challenges and emerged stronger. This concept inspires personal growth, encouraging people to embrace their struggles and transform them into victories, fostering a culture of support and empowerment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Solutions - VICTIG">
+                                <img itemprop="contentUrl url" src='https://victig.com/wp-content/uploads/victig-logo-light.png' alt='Background Check Solutions - VICTIG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="victig.com" />
+                                </span>
+                                <a href='https://victig.com/wp-content/uploads/victig-logo-light.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VICTIG Background Checks | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQFL60A-FaRIPg/company-logo_200_200/company-logo_200_200/0/1648852561393/victig_logo?e=2147483647&v=beta&t=6Dmb7h0nvk0ldGIeXmqbrSNOJobi-aNwUcWGrWcYi8Q' alt='VICTIG Background Checks | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQFL60A-FaRIPg/company-logo_200_200/company-logo_200_200/0/1648852561393/victig_logo?e=2147483647&v=beta&t=6Dmb7h0nvk0ldGIeXmqbrSNOJobi-aNwUcWGrWcYi8Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Solutions - VICTIG">
+                                <img itemprop="contentUrl url" src='https://victig.com/wp-content/uploads/og-victig.png' alt='Background Check Solutions - VICTIG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="victig.com" />
+                                </span>
+                                <a href='https://victig.com/wp-content/uploads/og-victig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VICTIG Screening Solutions Customer Reviews 2025 | SoftwareReviews">
+                                <img itemprop="contentUrl url" src='https://cdn-public.softwarereviews.com/production/logos/offerings/5440/large/victig-screening-solutions.png?1617158155' alt='VICTIG Screening Solutions Customer Reviews 2025 | SoftwareReviews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Info-Tech Research Group" />
+                                </span>
+                                <a href='https://cdn-public.softwarereviews.com/production/logos/offerings/5440/large/victig-screening-solutions.png?1617158155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origin of VICTIG - VICTIG">
+                                <img itemprop="contentUrl url" src='https://victig.com/wp-content/uploads/photos-victor-lustig.jpg' alt='The Origin of VICTIG - VICTIG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICTIG" />
+                                </span>
+                                <a href='https://victig.com/wp-content/uploads/photos-victor-lustig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VICTIG Background Checks - Powered by TazWorks | UKG Marketplace">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/321589/thumbs_112/img3098562412808646249-2x.png' alt='VICTIG Background Checks - Powered by TazWorks | UKG Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="94">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UKG Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/321589/thumbs_112/img3098562412808646249-2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for VICTIG Background Screening">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057593134029' alt='Profile for VICTIG Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100057593134029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VICTIG Screening Solutions Achieves Background Screening ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1094673/VICTIG.jpg?p=facebook' alt='VICTIG Screening Solutions Achieves Background Screening ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1274">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1094673/VICTIG.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VICTIG Background Checks Reviews 2025: Details, Pricing ...">
+                                <img itemprop="contentUrl url" src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_cfd517d431845614b4bdd6f8de883386/victig-screening-solutions.png' alt='VICTIG Background Checks Reviews 2025: Details, Pricing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G2" />
+                                </span>
+                                <a href='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_cfd517d431845614b4bdd6f8de883386/victig-screening-solutions.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Solutions - VICTIG">
+                                <img itemprop="contentUrl url" src='https://victig.com/wp-content/uploads/victig-logo-dark.png' alt='Background Check Solutions - VICTIG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1411">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="victig.com" />
+                                </span>
+                                <a href='https://victig.com/wp-content/uploads/victig-logo-dark.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

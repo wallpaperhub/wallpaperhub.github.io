@@ -1,0 +1,129 @@
+<title>Edgy 90s Aesthetic Wallpaper: Unleash Retro Vibes</title>
+                    <meta name="description" content="Discover the unique appeal of edgy 90s aesthetic wallpaper! Explore vibrant designs that blend nostalgia and modern flair, perfect for any room. Revitalize your space with bold patterns and colors that celebrate the rebellious spirit of the 90s. Elevate your decor today!">
+                    <meta name="keywords" content="edgy 90s aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/edgy-90s-aesthetic-wallpaper">
+                            <span itemprop="name">edgy 90s aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy 90s Aesthetic Wallpaper: Unleash Retro Vibes</h1>
+                <p>Dive into the world of edgy 90s aesthetic wallpaper, where bold colors, graphic patterns, and nostalgic vibes collide. Think geometric shapes, neon hues, and rebellious motifs that channel the spirit of the grunge era. Transform your space with these striking designs, perfect for creating a retro yet modern atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="skater aesthetic iphone wallpaper #90s #aesthetic #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/07/70/9e0770d141b9d99eabc1f23412e4e848.jpg' alt='skater aesthetic iphone wallpaper #90s #aesthetic #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/07/70/9e0770d141b9d99eabc1f23412e4e848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/4c/1b/3a4c1b23876ea997c5691f361105d470.jpg' alt='90s aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/4c/1b/3a4c1b23876ea997c5691f361105d470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90's Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/a5/7f/52a57f765d5450ccc4fa902356a38f65.jpg' alt='90's Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/a5/7f/52a57f765d5450ccc4fa902356a38f65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s grunge wallpaper   ☁️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/75/e3/e775e384ef0ddfed9449015292087c3d.jpg' alt='90s grunge wallpaper   ☁️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/75/e3/e775e384ef0ddfed9449015292087c3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Rock Aesthetic Wallpapers - Wallpaper Cave E23">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4b/70/ea/4b70ead043148278a288183fa1c7a4f2.jpg' alt='90s Rock Aesthetic Wallpapers - Wallpaper Cave E23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4b/70/ea/4b70ead043148278a288183fa1c7a4f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/66/0c/01660c1b16a2c3061d80529776d1f5eb.jpg' alt='90s wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/66/0c/01660c1b16a2c3061d80529776d1f5eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Perfect 90s Grunge Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/90s-grunge-aesthetic-szbum954magqmh9m.jpg' alt='Download The Perfect 90s Grunge Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/90s-grunge-aesthetic-szbum954magqmh9m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s, collage, indie kid, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/233/241/HD-wallpaper-90s-collage-indie-kid.jpg' alt='90s, collage, indie kid, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/233/241/HD-wallpaper-90s-collage-indie-kid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Rock Collage 90s Grunge Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/90s-grunge-aesthetic-bpkx1g9uwzsgggyi.jpg' alt='Download Rock Collage 90s Grunge Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/90s-grunge-aesthetic-bpkx1g9uwzsgggyi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pay homage to the 90s Grunge Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/90s-grunge-aesthetic-cj5afy8f00o31uj5.jpg' alt='Download Pay homage to the 90s Grunge Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/90s-grunge-aesthetic-cj5afy8f00o31uj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

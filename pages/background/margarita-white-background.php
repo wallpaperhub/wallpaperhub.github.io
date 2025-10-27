@@ -1,0 +1,129 @@
+<title>Refreshing Margarita Cocktails on a White Background</title>
+                    <meta name="description" content="Discover the vibrant beauty of margaritas showcased against a clean white background. This refreshing cocktail, made with tequila and lime, is perfect for any celebration. Explore our tips for serving and enjoying margaritas, making every moment special with this classic drink.">
+                    <meta name="keywords" content="margarita white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/margarita-white-background">
+                            <span itemprop="name">margarita white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refreshing Margarita Cocktails on a White Background</h1>
+                <p>The margarita, a classic cocktail, is known for its zesty flavor, typically combining tequila, lime juice, and orange liqueur. Served over ice in a salt-rimmed glass, it’s a favorite for summer nights and festive gatherings. The refreshing taste and vibrant color make it a stunning choice for any occasion, especially against a white background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Margarita cocktail isolated on white background | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/classic-margarita-cocktail-isolated-white-background_1045163-1320.jpg?w=360' alt='Classic Margarita cocktail isolated on white background | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/classic-margarita-cocktail-isolated-white-background_1045163-1320.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="520+ Margarita Glass White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1201076329/vector/cocktail-1.jpg?s=612x612&w=0&k=20&c=FrwMbDotZSeiLiDNF7iglZ2huWtNstYAz65D6t1RMWY=' alt='520+ Margarita Glass White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1201076329/vector/cocktail-1.jpg?s=612x612&w=0&k=20&c=FrwMbDotZSeiLiDNF7iglZ2huWtNstYAz65D6t1RMWY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Margarita On White Images – Browse 88,029 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/63/26/43/360_F_163264310_2QNrNQSz7x4oJjKqYfVAsvZLMAFIA2p2.jpg' alt='Margarita On White Images – Browse 88,029 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="244">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/63/26/43/360_F_163264310_2QNrNQSz7x4oJjKqYfVAsvZLMAFIA2p2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="54,460 Margarita White Background Images, Stock Photos, and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/classic-margarita-cocktail-lime-slice-260nw-192613355.jpg' alt='54,460 Margarita White Background Images, Stock Photos, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="173">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/classic-margarita-cocktail-lime-slice-260nw-192613355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cocktail Margarita on a white background with a lime slice Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/J2ACFK/cocktail-margarita-on-a-white-background-with-a-lime-slice-J2ACFK.jpg' alt='Cocktail Margarita on a white background with a lime slice Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/J2ACFK/cocktail-margarita-on-a-white-background-with-a-lime-slice-J2ACFK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicious Margarita Cocktail On White Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/delicious-margarita-cocktail-on-white-260nw-677327488.jpg' alt='Delicious Margarita Cocktail On White Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="231">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/delicious-margarita-cocktail-on-white-260nw-677327488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,772 Lime Margarita Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/glass-tasty-margarita-cocktail-on-260nw-2220394811.jpg' alt='47,772 Lime Margarita Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="227">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/glass-tasty-margarita-cocktail-on-260nw-2220394811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Margarita in glass with lime isolated on white background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/WWX10T/margarita-in-glass-with-lime-isolated-on-white-background-WWX10T.jpg' alt='Margarita in glass with lime isolated on white background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/WWX10T/margarita-in-glass-with-lime-isolated-on-white-background-WWX10T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic margarita cocktail with lime — Stock Photo © baibaz #183304070">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1003272/18330/i/1600/depositphotos_183304070-stock-photo-classic-margarita-cocktail-with-lime.jpg' alt='Classic margarita cocktail with lime — Stock Photo © baibaz #183304070'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1157">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1003272/18330/i/1600/depositphotos_183304070-stock-photo-classic-margarita-cocktail-with-lime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Christmas Margaritas Recipe">
+                                <img itemprop="contentUrl url" src='https://agratefulmeal.com/wp-content/uploads/2023/10/white-christmas-margaritas-featured.jpg' alt='White Christmas Margaritas Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Grateful Meal" />
+                                </span>
+                                <a href='https://agratefulmeal.com/wp-content/uploads/2023/10/white-christmas-margaritas-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

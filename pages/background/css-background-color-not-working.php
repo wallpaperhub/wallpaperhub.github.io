@@ -1,0 +1,129 @@
+<title>Fixing CSS Background Color Issues</title>
+                    <meta name="description" content="Struggling with CSS background color not displaying? Explore common pitfalls and quick fixes to ensure your styles render correctly. Optimize your design with our simple tips and troubleshooting techniques for seamless web experience.">
+                    <meta name="keywords" content="css background color not working">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-background-color-not-working">
+                            <span itemprop="name">css background color not working</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fixing CSS Background Color Issues</h1>
+                <p>When your CSS background color isn't working, check the code for common issues. Ensure specificity is correct, avoiding conflicts with other styles. Also, verify that the background property is applied to the right element and that it’s not overridden by another rule. Inspect the element in developer tools for debugging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - CSS -- li background-color and color do not work - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/P7GkK.png' alt='html - CSS -- li background-color and color do not work - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2855">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/P7GkK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS background color not working? I'm pretty new to CSS this is ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3rwhlravz7p61.jpg' alt='CSS background color not working? I'm pretty new to CSS this is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3rwhlravz7p61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - Cannot change background-color of tr element in Chrome ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/9RDD0.png' alt='css - Cannot change background-color of tr element in Chrome ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/9RDD0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Website background won't change color - HTML-CSS - The ...">
+                                <img itemprop="contentUrl url" src='https://global.discourse-cdn.com/freecodecamp/original/4X/4/4/3/443230811ce5045e0302f7c5b35cd2db9295e4b9.jpeg' alt='Website background won't change color - HTML-CSS - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The freeCodeCamp Forum" />
+                                </span>
+                                <a href='https://global.discourse-cdn.com/freecodecamp/original/4X/4/4/3/443230811ce5045e0302f7c5b35cd2db9295e4b9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Backround of my website is not changing color - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/KN0L5.png' alt='html - Backround of my website is not changing color - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1418">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/KN0L5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Backround of my website is not changing color - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/glWcq.png' alt='html - Backround of my website is not changing color - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1415">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/glWcq.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Css background-color: none; - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/AyU78.png' alt='html - Css background-color: none; - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/AyU78.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS linear gradient and background color property not working : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/css-linear-gradient-and-background-color-property-not-v0-fheo8q92h5rb1.jpg?width=4160&format=pjpg&auto=webp&s=ec3aaf27ad7180e8aa12617b2fd6c9f501d183e9' alt='CSS linear gradient and background color property not working : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4160">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/css-linear-gradient-and-background-color-property-not-v0-fheo8q92h5rb1.jpg?width=4160&format=pjpg&auto=webp&s=ec3aaf27ad7180e8aa12617b2fd6c9f501d183e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - Background color not changing in HTML file - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/SbLLR.png' alt='css - Background color not changing in HTML file - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1292">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/SbLLR.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - My CSS codes for background color for body cannot work ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/kA1VX.jpg' alt='html - My CSS codes for background color for body cannot work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1565">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/kA1VX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Unleashing the Brilliance of Jazz Chisholm: A Rising MLB Star</title>
+                    <meta name="description" content="Discover the exhilarating journey of Jazz Chisholm, the Miami Marlins' standout infielder. With his explosive playing style and charismatic presence, he's quickly becoming one of baseball's most exciting emerging talents. Stay updated on his career highlights and adventures!">
+                    <meta name="keywords" content="jazz chisholm">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jazz-chisholm">
+                            <span itemprop="name">jazz chisholm</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing the Brilliance of Jazz Chisholm: A Rising MLB Star</h1>
+                <p>Jazz Chisholm is an electrifying talent in Major League Baseball, known for his dynamic playing style and vibrant personality. The Bahamian infielder, part of the Miami Marlins, has captured the hearts of fans with his impressive skills, including speed and power. Chisholm's passion for the game makes him a rising star to watch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jazz_Chisholm_%2853947682813%29_%28cropped%29.jpg/1200px-Jazz_Chisholm_%2853947682813%29_%28cropped%29.jpg' alt='Jazz Chisholm Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jazz_Chisholm_%2853947682813%29_%28cropped%29.jpg/1200px-Jazz_Chisholm_%2853947682813%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. - New York Yankees Third Baseman - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41433.png' alt='Jazz Chisholm Jr. - New York Yankees Third Baseman - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41433.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. Stats, Age, Position, Height, Weight, Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665862/headshot/67/current' alt='Jazz Chisholm Jr. Stats, Age, Position, Height, Weight, Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665862/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. Stats and Highlights - MLB Player Stories">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/v1/people/665862/action/vertical/current' alt='Jazz Chisholm Jr. Stats and Highlights - MLB Player Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2608">
+                                <meta itemprop="height" content="4636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/ar_9:16,g_auto,q_auto:good,w_2608,c_fill,f_jpg/v1/people/665862/action/vertical/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mets' Jazz Chisholm Focused on Injury Recovery">
+                                <img itemprop="contentUrl url" src='https://www.amny.com/wp-content/uploads/2024/08/2024-08-04T213012Z_1977372104_MT1USATODAY23911088_RTRMADP_3_MLB-TORONTO-BLUE-JAYS-AT-NEW-YORK-YANKEES.jpg' alt='Mets' Jazz Chisholm Focused on Injury Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4752">
+                                <meta itemprop="height" content="3168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="amNewYork" />
+                                </span>
+                                <a href='https://www.amny.com/wp-content/uploads/2024/08/2024-08-04T213012Z_1977372104_MT1USATODAY23911088_RTRMADP_3_MLB-TORONTO-BLUE-JAYS-AT-NEW-YORK-YANKEES.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr added a new photo. - Jazz Chisholm Jr">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183244530282313' alt='Jazz Chisholm Jr added a new photo. - Jazz Chisholm Jr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1234">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183244530282313' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. makes Yankees debut, one day after being ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/a9e0bf9/2147483647/strip/true/crop/4857x3238+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B3%2F7%2C%2F%20-38%2C%2097%2C%207%2C%2090%2C%20-128%2C%20-123%2C%2014%2C%20-100%2C%208%2C%20116%2C%20-123%2C%2082%2C%20120%2C%20-77%2C%20-96%2C%20-27%2C%2069%2C%20-25%2C%2078%2C%2079%2C%2084%2C%20-82%2C%2084%2C%2076%2C%20-46%2C%20-17%2C%20-23%5D%2Fd30c450a6c5b4ea7aa70133f9a00d272' alt='Jazz Chisholm Jr. makes Yankees debut, one day after being ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/a9e0bf9/2147483647/strip/true/crop/4857x3238+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B3%2F7%2C%2F%20-38%2C%2097%2C%207%2C%2090%2C%20-128%2C%20-123%2C%2014%2C%20-100%2C%208%2C%20116%2C%20-123%2C%2082%2C%20120%2C%20-77%2C%20-96%2C%20-27%2C%2069%2C%20-25%2C%2078%2C%2079%2C%2084%2C%20-82%2C%2084%2C%2076%2C%20-46%2C%20-17%2C%20-23%5D%2Fd30c450a6c5b4ea7aa70133f9a00d272' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. approves of the 8th inning comeback win by the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2655764302389333442' alt='Jazz Chisholm Jr. approves of the 8th inning comeback win by the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2655764302389333442' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Chisholm Jr. 'likely' headed to IL with elbow injury – KGET ...">
+                                <img itemprop="contentUrl url" src='https://www.kget.com/wp-content/uploads/sites/2/2024/08/66bbe6c9335653.59409105.jpeg?w=2560&h=1440&crop=1' alt='Jazz Chisholm Jr. 'likely' headed to IL with elbow injury – KGET ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGET.com" />
+                                </span>
+                                <a href='https://www.kget.com/wp-content/uploads/sites/2/2024/08/66bbe6c9335653.59409105.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marlins' Jazz Chisholm loses in salary arbitration on his 26th ...">
+                                <img itemprop="contentUrl url" src='https://www.kget.com/wp-content/uploads/sites/2/2024/02/65bc15b1b51025.24365652.jpeg?w=2560&h=1440&crop=1' alt='Marlins' Jazz Chisholm loses in salary arbitration on his 26th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KGET.com" />
+                                </span>
+                                <a href='https://www.kget.com/wp-content/uploads/sites/2/2024/02/65bc15b1b51025.24365652.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

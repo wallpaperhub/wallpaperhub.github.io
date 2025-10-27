@@ -1,0 +1,129 @@
+<title>Chocolate Covered Strawberries Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover our vibrant collection of chocolate covered strawberries clipart! Ideal for enhancing invitations, social media, or blogs, these irresistible designs bring a touch of sweetness to your creative projects. Perfect for any occasion, delight your audience with these mouthwatering visuals today!">
+                    <meta name="keywords" content="chocolate covered strawberries clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chocolate-covered-strawberries-clipart">
+                            <span itemprop="name">chocolate covered strawberries clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chocolate Covered Strawberries Clipart for Creative Projects</h1>
+                <p>Indulge in the sweet beauty of chocolate covered strawberries with our delightful clipart collection! Perfect for invitations, blogs, or social media, these designs capture the mouthwatering allure of this classic treat. Enhance your projects with vibrant images that celebrate love, sweetness, and gourmet delights!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170+ Cartoon Of Chocolate Covered Strawberries Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1354738365/vector/glazed-ripe-strawberry-in-white-and-dark-chocolate.jpg?s=612x612&w=0&k=20&c=JjCzKppuXvgiRndsSE8V_7cZfi4njCy4NFx-GevqUVY=' alt='170+ Cartoon Of Chocolate Covered Strawberries Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1354738365/vector/glazed-ripe-strawberry-in-white-and-dark-chocolate.jpg?s=612x612&w=0&k=20&c=JjCzKppuXvgiRndsSE8V_7cZfi4njCy4NFx-GevqUVY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Covered Strawberry Clipart, Valentine Wedding Chocolate Clip Art,  Fruit Strawberries Clipart, Commercial Use - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15903285/r/il/9e3feb/1789803186/il_1080xN.1789803186_h91g.jpg' alt='Chocolate Covered Strawberry Clipart, Valentine Wedding Chocolate Clip Art,  Fruit Strawberries Clipart, Commercial Use - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15903285/r/il/9e3feb/1789803186/il_1080xN.1789803186_h91g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Chocolate Covered Strawberry Clipart | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/02/Chocolate-Covered-Strawberry-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' alt='FREE Chocolate Covered Strawberry Clipart | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/02/Chocolate-Covered-Strawberry-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="620+ Chocolate Dipped Strawberry Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1128622864/vector/strawberry-and-chocolate-dipped-realistic-vector-illustration.jpg?s=612x612&w=0&k=20&c=lt_HpjruFwqURc2ao04kky49YRUQ9tGkRqWqRwxUvAo=' alt='620+ Chocolate Dipped Strawberry Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1128622864/vector/strawberry-and-chocolate-dipped-realistic-vector-illustration.jpg?s=612x612&w=0&k=20&c=lt_HpjruFwqURc2ao04kky49YRUQ9tGkRqWqRwxUvAo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Covered Strawberries Clipart PNG, Digital Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47952861/r/il/1b4842/5669806690/il_fullxfull.5669806690_4ol0.jpg' alt='Chocolate Covered Strawberries Clipart PNG, Digital Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47952861/r/il/1b4842/5669806690/il_fullxfull.5669806690_4ol0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="620+ Chocolate Dipped Strawberry Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/154371664/vector/animation-of-strawberries-dipped-in-dark-and-white-chocolate.jpg?s=612x612&w=0&k=20&c=gokLa71Rk8OsYb4VRCXm7sLnJ8YDBbgPZFK8nx_w560=' alt='620+ Chocolate Dipped Strawberry Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/154371664/vector/animation-of-strawberries-dipped-in-dark-and-white-chocolate.jpg?s=612x612&w=0&k=20&c=gokLa71Rk8OsYb4VRCXm7sLnJ8YDBbgPZFK8nx_w560=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Covered Strawberry Vector Images – Browse 4,435 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/74/80/36/360_F_774803615_XgGi2OSDLwOu1E3NkLjFNjxC5c3kz2Hx.jpg' alt='Chocolate Covered Strawberry Vector Images – Browse 4,435 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/74/80/36/360_F_774803615_XgGi2OSDLwOu1E3NkLjFNjxC5c3kz2Hx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Covered Strawberry Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/776/050/non_2x/strawberries-in-chocolate-free-vector.jpg' alt='Chocolate Covered Strawberry Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/776/050/non_2x/strawberries-in-chocolate-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of Chocolate Covered Strawberries Graphic by Vesnushka-Art ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/05/06/Set-of-Chocolate-Covered-Strawberries-Graphics-30141233-1.jpg' alt='Set of Chocolate Covered Strawberries Graphic by Vesnushka-Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4696">
+                                <meta itemprop="height" content="3107">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/05/06/Set-of-Chocolate-Covered-Strawberries-Graphics-30141233-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Covered Strawberry PNG Transparent Images Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221224/ourmid/pngtree-chocolate-covered-strawberries-png-image_6535289.png' alt='Chocolate Covered Strawberry PNG Transparent Images Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221224/ourmid/pngtree-chocolate-covered-strawberries-png-image_6535289.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

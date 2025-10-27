@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Chromebook Wallpapers</title>
+                    <meta name="description" content="Discover the best Halloween Chromebook wallpapers to add a spooky flair to your device. Explore our curated collection featuring ghosts, pumpkins, and more to celebrate the season in style. Perfect for getting into the Halloween spirit, these wallpapers are just a click away!">
+                    <meta name="keywords" content="halloween chromebook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/halloween-chromebook-wallpaper">
+                            <span itemprop="name">halloween chromebook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Chromebook Wallpapers</h1>
+                <p>Transform your Chromebook this Halloween with spooky wallpapers that set the perfect eerie vibe. From haunted houses to playful pumpkins, our collection adds a festive touch to your device, making it ideal for the season. Embrace the spirit of Halloween with eye-catching designs that inspire creativity and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy halloween wallpaper chromebook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/7f/e1/0e7fe1231655d99e2641fef7e3a991ec.jpg' alt='preppy halloween wallpaper chromebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/7f/e1/0e7fe1231655d99e2641fef7e3a991ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Aesthetic Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-aesthetic-halloween-k85uwwzxo661uhcg.jpg' alt='100+] Cute Aesthetic Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-aesthetic-halloween-k85uwwzxo661uhcg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Halloween Wallpaper Chromebook Vectors & Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-halloween-background_23-2148624337.jpg' alt='Page 3 | Halloween Wallpaper Chromebook Vectors & Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-halloween-background_23-2148624337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween HD Wallpaper for a Spook-tacular Holiday">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/552/552486.jpg' alt='Happy Halloween HD Wallpaper for a Spook-tacular Holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/552/552486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Poster Of Happy Halloween Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/orange-poster-of-happy-halloween-phone-mgeeuiqniao2g5sz.jpg' alt='Orange Poster Of Happy Halloween Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/orange-poster-of-happy-halloween-phone-mgeeuiqniao2g5sz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-ghost-pattern-background_23-2150737201.jpg' alt='Cute Halloween Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-ghost-pattern-background_23-2150737201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Halloween wallpaper with evil pumpkins">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/halloween-wallpaper-with-evil-pumpkins_23-2149122573.jpg' alt='Premium Photo | Halloween wallpaper with evil pumpkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/halloween-wallpaper-with-evil-pumpkins_23-2149122573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Halloween Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/floating-cartoon-halloween-characters-7zj5vwo6ysn16xj5.jpg' alt='Cartoon Halloween Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/floating-cartoon-halloween-characters-7zj5vwo6ysn16xj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Free, Creepy, and Fun Halloween Wallpapers for 2025">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/ssUsuDFe3726dp8nesNwAK33-HY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/halloween-2016-clementine-creative-desktop-596137b23df78cdc68ba1961.png' alt='21 Free, Creepy, and Fun Halloween Wallpapers for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/ssUsuDFe3726dp8nesNwAK33-HY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/halloween-2016-clementine-creative-desktop-596137b23df78cdc68ba1961.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Elegant Purple Patterned Wallpaper Designs</title>
+                    <meta name="description" content="Enhance your home with beautiful purple patterned wallpaper. Explore a variety of designs that captivate and elevate any room, adding color and charm to your decor. Perfect for creating a stylish atmosphere that reflects your unique taste.">
+                    <meta name="keywords" content="purple patterned wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-patterned-wallpaper">
+                            <span itemprop="name">purple patterned wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Elegant Purple Patterned Wallpaper Designs</h1>
+                <p>Transform your space with stunning purple patterned wallpaper that blends elegance and creativity. Perfect for adding a pop of color and texture to any room, these wallpapers feature unique designs ranging from floral to geometric patterns. Ideal for both modern and classic interiors, elevate your decor effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Damask">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/757845/pr22/1/1280/purple-damask-vintage-pattern-wallpaper.jpg' alt='Purple Damask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/757845/pr22/1/1280/purple-damask-vintage-pattern-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Floral Damask - black purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/files/198a7e9107b98d63445aeb9a3cb48b46_3600x.jpg?v=1690552723' alt='Victorian Floral Damask - black purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/files/198a7e9107b98d63445aeb9a3cb48b46_3600x.jpg?v=1690552723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lilac & Pastel Tones With Light & Dark Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1656580011-willow-purple-wide.jpg?auto=format&dpr=0.18&w=2736' alt='Purple Wallpaper | Lilac & Pastel Tones With Light & Dark Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1656580011-willow-purple-wide.jpg?auto=format&dpr=0.18&w=2736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Moroccan Pattern Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #506">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/ef6858/2756901064/il_570xN.2756901064_bllf.jpg' alt='Purple Moroccan Pattern Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #506'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/ef6858/2756901064/il_570xN.2756901064_bllf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/36915/mushrooms---fairies-wallpaper-l-purple.jpg?q=1737571988' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/36915/mushrooms---fairies-wallpaper-l-purple.jpg?q=1737571988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33850 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_bf776b3a-caa7-4aae-b5c4-01d247ca3d18.jpg?v=1666277893' alt='PR33850 | Floral Prints 2 Purple Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_bf776b3a-caa7-4aae-b5c4-01d247ca3d18.jpg?v=1666277893' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornate Baroque Damask Wallpaper - Purple Victorian Gothic, Dark Vintage  Edwardian, Regal Steampunk Rococo Floral – By The Yard MD29427so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/df63aa/2032351222/il_fullxfull.2032351222_j0ai.jpg' alt='Ornate Baroque Damask Wallpaper - Purple Victorian Gothic, Dark Vintage  Edwardian, Regal Steampunk Rococo Floral – By The Yard MD29427so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/df63aa/2032351222/il_fullxfull.2032351222_j0ai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Botanical Watercolor Floral Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern5.jpg?v=1739232080&width=1214' alt='Purple Botanical Watercolor Floral Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern5.jpg?v=1739232080&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lilac & Pastel Tones With Light & Dark Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1637669695-midnight-tropical-purple.jpg?auto=format&dpr=0.23&w=2200' alt='Purple Wallpaper | Lilac & Pastel Tones With Light & Dark Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1637669695-midnight-tropical-purple.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Mural for Home Decor | Premium Wall Murals US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/purple-gold-wallpaper-mural.jpg?v=1655716965' alt='Purple Wallpaper Mural for Home Decor | Premium Wall Murals US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/purple-gold-wallpaper-mural.jpg?v=1655716965' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

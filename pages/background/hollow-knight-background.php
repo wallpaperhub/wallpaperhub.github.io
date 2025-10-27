@@ -1,0 +1,129 @@
+<title>Hollow Knight: Dive Into Hallownest's Depths</title>
+                    <meta name="description" content="Explore the enchanting yet perilous world of Hollow Knight. Unravel secrets of Hallownest, confront challenging foes, and experience a visually stunning adventure that blends action with deep lore. Perfect for fans of atmospheric platformers!">
+                    <meta name="keywords" content="hollow knight background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hollow-knight-background">
+                            <span itemprop="name">hollow knight background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hollow Knight: Dive Into Hallownest's Depths</h1>
+                <p>In the captivating world of Hollow Knight, players explore the desolate kingdom of Hallownest, filled with intricate landscapes, diverse enemies, and rich lore. The game's haunting ambiance and hand-drawn art style immerse players in a mysterious narrative, unraveling the tragic history and the secrets hidden deep beneath the earth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got this screenshot, goes hard for a wallpaper. : r/HollowKnight">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/got-this-screenshot-goes-hard-for-a-wallpaper-v0-ijncdet95zad1.png?auto=webp&s=426f5235ecdab7b1651dda88081c18fb91d000f4' alt='Got this screenshot, goes hard for a wallpaper. : r/HollowKnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/got-this-screenshot-goes-hard-for-a-wallpaper-v0-ijncdet95zad1.png?auto=webp&s=426f5235ecdab7b1651dda88081c18fb91d000f4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Hollow Knight Background [1920x1080] Not yet completed ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6o71jx3quvh11.png?auto=webp&s=d3eab6663046db8fc39edfd60af3d24a73ad7ba3' alt='Made a Hollow Knight Background [1920x1080] Not yet completed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6o71jx3quvh11.png?auto=webp&s=d3eab6663046db8fc39edfd60af3d24a73ad7ba3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new background : r/HollowKnight">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sue8kys1sq121.jpg' alt='My new background : r/HollowKnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sue8kys1sq121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hollow Knight Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hollow-knight-blue-butterflies-htthva79qwf3msbg.jpg' alt='100+] Hollow Knight Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hollow-knight-blue-butterflies-htthva79qwf3msbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INTRODUCING HOLLOW KNIGHT — Team Cherry">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/606d4deb4db8c15ea53b3624/1619052791039-U5P66XF1HX6OHSPMRHP0/banner_real.jpg' alt='INTRODUCING HOLLOW KNIGHT — Team Cherry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Team Cherry" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/606d4deb4db8c15ea53b3624/1619052791039-U5P66XF1HX6OHSPMRHP0/banner_real.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Hollow Knight [4k]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1856045227612228965/6A7D646C0EDDAA810078EE2E18E49C145C6DB9AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Hollow Knight [4k]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1856045227612228965/6A7D646C0EDDAA810078EE2E18E49C145C6DB9AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight by Team Cherry — Kickstarter">
+                                <img itemprop="contentUrl url" src='https://i.kickstarter.com/assets/020/108/042/722ae9a8bcadd5ca2b87b687d341d8a8_original.jpg?anim=false&fit=scale-down&origin=ugc&q=92&v=1517649022&width=700&sig=%2BbQ6wmpTO%2BaRSYNIvtPJ%2Bsb%2FSoIDyLCpqgWsQLIRRRE%3D' alt='Hollow Knight by Team Cherry — Kickstarter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hollow Knight by Team Cherry — Kickstarter" />
+                                </span>
+                                <a href='https://i.kickstarter.com/assets/020/108/042/722ae9a8bcadd5ca2b87b687d341d8a8_original.jpg?anim=false&fit=scale-down&origin=ugc&q=92&v=1517649022&width=700&sig=%2BbQ6wmpTO%2BaRSYNIvtPJ%2Bsb%2FSoIDyLCpqgWsQLIRRRE%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Game Art HD Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/806/806254.jpg' alt='Hollow Knight Game Art HD Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/806/806254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressions: Hollow Knight | In An Age">
+                                <img itemprop="contentUrl url" src='https://inanage.com/wp-content/uploads/2018/10/hollowknight_1.jpg?w=584' alt='Impressions: Hollow Knight | In An Age'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="In An Age" />
+                                </span>
+                                <a href='https://inanage.com/wp-content/uploads/2018/10/hollowknight_1.jpg?w=584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow-Knight-Wallpaper by Giilead on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dc2caad-40bb-405d-adf4-cb10836b0b54/dd3xjj8-6f628b8f-22a4-4d7d-9db1-e54cb857d96b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYzJjYWFkLTQwYmItNDA1ZC1hZGY0LWNiMTA4MzZiMGI1NFwvZGQzeGpqOC02ZjYyOGI4Zi0yMmE0LTRkN2QtOWRiMS1lNTRjYjg1N2Q5NmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6VCyPAhx6I8utKkTmDycnRyEfgyBbmu_vjmRwajduoI' alt='Hollow-Knight-Wallpaper by Giilead on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dc2caad-40bb-405d-adf4-cb10836b0b54/dd3xjj8-6f628b8f-22a4-4d7d-9db1-e54cb857d96b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYzJjYWFkLTQwYmItNDA1ZC1hZGY0LWNiMTA4MzZiMGI1NFwvZGQzeGpqOC02ZjYyOGI4Zi0yMmE0LTRkN2QtOWRiMS1lNTRjYjg1N2Q5NmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6VCyPAhx6I8utKkTmDycnRyEfgyBbmu_vjmRwajduoI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Usahana Wallpapers for Anime Lovers</title>
+                    <meta name="description" content="Transform your device with stunning Usahana wallpapers! Explore a collection of vibrant designs that capture the joy of anime, perfect for fans wanting to add personality and flair to their screens. Download now and let your favorite characters brighten your day!">
+                    <meta name="keywords" content="usahana wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usahana-wallpaper">
+                            <span itemprop="name">usahana wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Usahana Wallpapers for Anime Lovers</h1>
+                <p>Usahana wallpaper brings the delightful charm of anime to your screens, featuring vibrant colors and enchanting characters. Perfect for fans, these wallpapers breathe life into your devices, offering a refreshing aesthetic. Elevate your visual experience with beautiful designs that capture the essence of joy and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/7c/00/567c00e1a75139bb375de1541c0aa992.jpg' alt='usahana wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/7c/00/567c00e1a75139bb375de1541c0aa992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana my dear love (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/c5/78/42c578cba9222d6fe5c776c8eea71405.jpg' alt='usahana my dear love (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/c5/78/42c578cba9222d6fe5c776c8eea71405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana wallpaper by becka72 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90d4012d-c375-40ec-b9b4-6eb4f0dcadc2/d15na3-37aafd9c-7302-44f0-a5d9-c34e24a534a7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwZDQwMTJkLWMzNzUtNDBlYy1iOWI0LTZlYjRmMGRjYWRjMlwvZDE1bmEzLTM3YWFmZDljLTczMDItNDRmMC1hNWQ5LWMzNGUyNGE1MzRhNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.s02_UceE7goVsAOipECVHDOQA7o-gO4oy3I60cDyWHQ' alt='usahana wallpaper by becka72 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90d4012d-c375-40ec-b9b4-6eb4f0dcadc2/d15na3-37aafd9c-7302-44f0-a5d9-c34e24a534a7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwZDQwMTJkLWMzNzUtNDBlYy1iOWI0LTZlYjRmMGRjYWRjMlwvZDE1bmEzLTM3YWFmZDljLTczMDItNDRmMC1hNWQ5LWMzNGUyNGE1MzRhNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.s02_UceE7goVsAOipECVHDOQA7o-gO4oy3I60cDyWHQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew another wallpaper for my phone. Thought I should post it ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/k2aw4b4nofu41.jpg' alt='I drew another wallpaper for my phone. Thought I should post it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/k2aw4b4nofu41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana spring     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/48/13/314813a45f86d2f7e3b5a21cd2876f59.jpg' alt='usahana spring     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/48/13/314813a45f86d2f7e3b5a21cd2876f59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana - Other & Abstract Background Wallpapers on Desktop Nexus ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1364/1364257-bigthumbnail.jpg' alt='usahana - Other & Abstract Background Wallpapers on Desktop Nexus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1364/1364257-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usahana Wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/d9/e6/02d9e61c152de7359eae30ca4193fff7.jpg' alt='Usahana Wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/d9/e6/02d9e61c152de7359eae30ca4193fff7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/fa/b9/8dfab96162735dd3780aafee318fd7bc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/fa/b9/8dfab96162735dd3780aafee318fd7bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U*sa*ha*na wallpaper I made : r/sanrio">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/u-sa-ha-na-wallpaper-i-made-v0-mx5lx8qsgrld1.jpeg?auto=webp&s=5f5b656213cc380a7c4a3b41ec3b41cbf8fa5326' alt='U*sa*ha*na wallpaper I made : r/sanrio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="3650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/u-sa-ha-na-wallpaper-i-made-v0-mx5lx8qsgrld1.jpeg?auto=webp&s=5f5b656213cc380a7c4a3b41ec3b41cbf8fa5326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usahana wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/4d/be/7c4dbe185d36cd5b765a3a49367bbc8f.jpg' alt='usahana wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/4d/be/7c4dbe185d36cd5b765a3a49367bbc8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

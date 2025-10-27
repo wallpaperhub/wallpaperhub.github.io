@@ -1,0 +1,129 @@
+<title>Hilarious GIF Backgrounds to Brighten Your Day</title>
+                    <meta name="description" content="Explore a vibrant collection of funny backgrounds GIFs that are sure to add a touch of humor to your online interactions. Perfect for chats, social media, and more! Discover endless laughter with these animated gems. Suitable for both casual and professional use. Dive in and start sharing smiles today!">
+                    <meta name="keywords" content="funny backgrounds gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-backgrounds-gif">
+                            <span itemprop="name">funny backgrounds gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious GIF Backgrounds to Brighten Your Day</h1>
+                <p>Looking to add a splash of humor to your online presence? Funny backgrounds GIFs are the perfect way to lighten up your chats, social media profiles, or presentations. From silly animals to hilarious memes, these animated gems can make anyone crack a smile. Discover the joy of funny GIFs and elevate your digital communication!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoombackgrounds GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/pBDbq66MYbC4sT6jcs/giphy.gif?cid=6c09b9529exm6vjqzshki0u59apzy25st8vxcoh0him39zl2&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Zoombackgrounds GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/pBDbq66MYbC4sT6jcs/giphy.gif?cid=6c09b9529exm6vjqzshki0u59apzy25st8vxcoh0him39zl2&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/iDthoYUbpfMAAAAM/endox-vs-skill.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/iDthoYUbpfMAAAAM/endox-vs-skill.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Moving Backgrounds GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/rEWzuG_TQQcAAAAM/spongebob-spongebob-mocking.gif' alt='Funny Moving Backgrounds GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/rEWzuG_TQQcAAAAM/spongebob-spongebob-mocking.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/TFCbIl7HvH1aha1kdh/giphy-downsized.gif' alt='Zoom Backgrounds GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/TFCbIl7HvH1aha1kdh/giphy-downsized.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Dancing GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/despicable-me-vector-in-the-moon-funny-dancing-zzgggnifvntttc8j.gif' alt='Funny Dancing GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/despicable-me-vector-in-the-moon-funny-dancing-zzgggnifvntttc8j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Moving Backgrounds GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/scX-kVPwUn8AAAAM/this-is-fine.gif' alt='Funny Moving Backgrounds GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/scX-kVPwUn8AAAAM/this-is-fine.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIPHY - Be Animated, funny gif wallpaper - thirstymag.com - Clip ...">
+                                <img itemprop="contentUrl url" src='https://img.clipart-library.com/2/clip-funny-gif-background/clip-funny-gif-background-11.gif' alt='GIPHY - Be Animated, funny gif wallpaper - thirstymag.com - Clip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clipart Library" />
+                                </span>
+                                <a href='https://img.clipart-library.com/2/clip-funny-gif-background/clip-funny-gif-background-11.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b5/8f/56/b58f56367c062ad837f8e763a8889404.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b5/8f/56/b58f56367c062ad837f8e763a8889404.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minions background GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/XGaB.gif' alt='Minions background GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/XGaB.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Backgrounds GIF by Illumination - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/dxDPqBCFEhtwXepHsR/giphy.gif?cid=6c09b9524h8o90fwetfesusavkfff4ekk0y8alctoxz02tpj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Zoom Backgrounds GIF by Illumination - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/dxDPqBCFEhtwXepHsR/giphy.gif?cid=6c09b9524h8o90fwetfesusavkfff4ekk0y8alctoxz02tpj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

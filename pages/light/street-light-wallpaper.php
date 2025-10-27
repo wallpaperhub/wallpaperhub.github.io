@@ -1,0 +1,129 @@
+<title>Street Light Wallpaper: Illuminate Your Walls</title>
+                    <meta name="description" content="Discover the charm of street light wallpaper, perfect for enhancing your interior decor. Choose from a variety of stunning designs that bring urban beauty indoors. Ideal for stylish homes and modern offices, these wallpapers offer a unique twist to any space. Brighten up your walls today!">
+                    <meta name="keywords" content="street light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/street-light-wallpaper">
+                            <span itemprop="name">street light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Street Light Wallpaper: Illuminate Your Walls</h1>
+                <p>Transform your space with stunning street light wallpaper that captures the beauty of urban nights. Ideal for homes and offices, this wallpaper adds a touch of modern elegance to any room. Choose from a variety of designs, from classic lampposts to contemporary street scenes, and enhance your decor with a unique flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Outdoor Lamp Wallpaper, Mist, Street Light, Minimalism ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/9c/d6/eb/9cd6eb712663a5de98ff271e6d560fe7.jpg' alt='Black Outdoor Lamp Wallpaper, Mist, Street Light, Minimalism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/9c/d6/eb/9cd6eb712663a5de98ff271e6d560fe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/09/80/23098020662a1594fdc579108ddadbdc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/09/80/23098020662a1594fdc579108ddadbdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man Standing in Front of Street Light Turned on · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/163790/at-night-under-a-lantern-guy-night-city-163790.jpeg' alt='Man Standing in Front of Street Light Turned on · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3667">
+                                <meta itemprop="height" content="5500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/163790/at-night-under-a-lantern-guy-night-city-163790.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Lights Photos, Download The BEST Free Street Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1013516/pexels-photo-1013516.jpeg?cs=srgb&dl=pexels-karoldach-1013516.jpg&fm=jpg' alt='Street Lights Photos, Download The BEST Free Street Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1013516/pexels-photo-1013516.jpeg?cs=srgb&dl=pexels-karoldach-1013516.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Streetlight Illumination Wallpapers (11 images)">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_v/26403.jpg' alt='Streetlight Illumination Wallpapers (11 images)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_v/26403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: streetlight, mist, road light, scene, autumn ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/20/4c/ec204cf129ff9d84819c590c4e2908a1.jpg' alt='HD wallpaper: streetlight, mist, road light, scene, autumn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/20/4c/ec204cf129ff9d84819c590c4e2908a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Urban street lights phone background image mobile phone background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/urban-street-lights-phone-background-image-mobile-phone-background-modern-wallpaper_1020697-525291.jpg' alt='Urban street lights phone background image mobile phone background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/urban-street-lights-phone-background-image-mobile-phone-background-modern-wallpaper_1020697-525291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Street Light Bridge Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/street-light-h9rwijlkne2a2vxj.jpg' alt='Download Street Light Bridge Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/street-light-h9rwijlkne2a2vxj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Light [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5awryvxcdtq51.png' alt='Street Light [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5awryvxcdtq51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Street Light Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520099915051-e4cb8ab04de9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RyZWV0JTIwbGlnaHR8ZW58MHx8MHx8fDA%3D' alt='750+ Street Light Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520099915051-e4cb8ab04de9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RyZWV0JTIwbGlnaHR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

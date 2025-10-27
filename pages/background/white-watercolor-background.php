@@ -1,0 +1,129 @@
+<title>Elegant White Watercolor Backgrounds for Your Projects</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="white watercolor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-watercolor-background">
+                            <span itemprop="name">white watercolor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Watercolor Backgrounds for Your Projects</h1>
+                <p>A white watercolor background provides a soft, delicate canvas ideal for various artistic projects. Its subtle texture enhances the beauty of designs without overpowering them. Perfect for invitations, digital graphics, or art prints, this background complements vibrant colors while maintaining an elegant and serene aesthetic, making it extremely versatile.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Watercolor Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/stone-texture-background_632498-973.jpg' alt='White Watercolor Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/stone-texture-background_632498-973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Watercolor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-alcohol-ink-texture-grey-tone-marble-style-background_176697-807.jpg?semt=ais_hybrid' alt='White Watercolor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-alcohol-ink-texture-grey-tone-marble-style-background_176697-807.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Watercolor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/hand-painted-watercolor-background-with-sky-clouds-shape_493206-860.jpg?semt=ais_hybrid' alt='White Watercolor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/hand-painted-watercolor-background-with-sky-clouds-shape_493206-860.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off white watercolor space background. Soft paper texture grunge ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/019/588/907/small_2x/off-white-watercolor-space-background-soft-paper-texture-grunge-background-beautiful-white-abstract-watercolor-painting-textured-on-white-paper-background-graphics-design-vector.jpg' alt='Off white watercolor space background. Soft paper texture grunge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/019/588/907/small_2x/off-white-watercolor-space-background-soft-paper-texture-grunge-background-beautiful-white-abstract-watercolor-painting-textured-on-white-paper-background-graphics-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,700+ Black And White Water Color Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1158035804/photo/watercolor-chaotic-texture.jpg?s=612x612&w=0&k=20&c=5lKWy2qC9xCktMqYo4XPTQp9pKscVu_aJ4GgvB3JgHM=' alt='13,700+ Black And White Water Color Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1158035804/photo/watercolor-chaotic-texture.jpg?s=612x612&w=0&k=20&c=5lKWy2qC9xCktMqYo4XPTQp9pKscVu_aJ4GgvB3JgHM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,638 Watercolor On White Photos, Pictures And Background Images ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240104/pngtree-vector-abstract-watercolor-background-blue-and-white-paper-texture-with-flowing-image_13891654.png' alt='1,638 Watercolor On White Photos, Pictures And Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240104/pngtree-vector-abstract-watercolor-background-blue-and-white-paper-texture-with-flowing-image_13891654.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Watercolor Backgrounds 2 Graphic by ArtistMef · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2019/09/White-Watercolor-Backgrounds-2-by-ArtistMef-1-580x387.jpg' alt='White Watercolor Backgrounds 2 Graphic by ArtistMef · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2019/09/White-Watercolor-Backgrounds-2-by-ArtistMef-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white watercolor background painting with cloudy distressed ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/35/97/41/1000_F_535974177_t6NHKuqvkFKkUwkSKZoWnui6UVeq4dPs.jpg' alt='white watercolor background painting with cloudy distressed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/35/97/41/1000_F_535974177_t6NHKuqvkFKkUwkSKZoWnui6UVeq4dPs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Hand painted watercolor background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/b3/a4/90b3a4464dd20bb2dd6c4534bb17fdd9.jpg' alt='Free Photo | Hand painted watercolor background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/b3/a4/90b3a4464dd20bb2dd6c4534bb17fdd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A blue watercolor background with white clouds photo – Blue Image ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667853262434-3aafb46fb360?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A blue watercolor background with white clouds photo – Blue Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667853262434-3aafb46fb360?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

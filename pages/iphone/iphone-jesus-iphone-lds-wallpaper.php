@@ -1,0 +1,129 @@
+<title>Stunning Jesus iPhone Wallpapers for LDS Followers</title>
+                    <meta name="description" content="Explore beautiful and uplifting Jesus iPhone wallpapers tailored for LDS users. Personalize your device with inspiring images that reflect your faith and values. Perfect for daily motivation and spiritual reminders on the go. Download your favorites now!">
+                    <meta name="keywords" content="iphone jesus iphone lds wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-jesus-iphone-lds-wallpaper">
+                            <span itemprop="name">iphone jesus iphone lds wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jesus iPhone Wallpapers for LDS Followers</h1>
+                <p>Elevate your iPhone with inspiring LDS Jesus wallpapers that blend spirituality and style. Discover a collection of beautiful images that reflect faith, peace, and devotion. Perfect for personalizing your device while keeping your beliefs close. Transform your screen into a daily reminder of hope and love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/05201feb93c13fbf8a014c9e370630cd390f8fe4/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/05201feb93c13fbf8a014c9e370630cd390f8fe4/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy Daily Inspiration and Teachings from Jesus Christ ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-0ht626mteqci9x5p.jpg' alt='Download Enjoy Daily Inspiration and Teachings from Jesus Christ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-0ht626mteqci9x5p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A beautiful Jesus LDS iPhone wallpaper to show your faith ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-08bd9ik2h9n6o34l.jpg' alt='Download A beautiful Jesus LDS iPhone wallpaper to show your faith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1278">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-lds-iphone-wallpaper-08bd9ik2h9n6o34l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/44/db/2c44db520baa475455e8294789d2bd6c.jpg' alt='Wallpapers   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/44/db/2c44db520baa475455e8294789d2bd6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Shroud Jesus Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-shroud-jesus-phone-aibqkar7o5gonnjw.jpg' alt='White Shroud Jesus Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-shroud-jesus-phone-aibqkar7o5gonnjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jesus Lds Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' alt='100+] Jesus Lds Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/jesus-lds-iphone-j31jeuxhllsfd1d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Lds wallpaper ideas | church quotes, lds quotes, lds scriptures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b9/f1/3e/b9f13e98c54b4e9a7839bcb62363bac1.jpg' alt='21 Lds wallpaper ideas | church quotes, lds quotes, lds scriptures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b9/f1/3e/b9f13e98c54b4e9a7839bcb62363bac1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop and Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://churchofjesuschrist.org/imgs/9c8fca2aeef7f4e25944b9eb2984eff20be0d041/full/500%2C/0/default' alt='Desktop and Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://churchofjesuschrist.org/imgs/9c8fca2aeef7f4e25944b9eb2984eff20be0d041/full/500%2C/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christ by the shore, christ, jesus, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/959/574/HD-wallpaper-christ-by-the-shore-christ-jesus.jpg' alt='Christ by the shore, christ, jesus, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/959/574/HD-wallpaper-christ-by-the-shore-christ-jesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christ Knocking On Door Jesus Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/christ-knocking-on-door-jesus-phone-lfxzjtbzx1dt4wxe.jpg' alt='Christ Knocking On Door Jesus Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/christ-knocking-on-door-jesus-phone-lfxzjtbzx1dt4wxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

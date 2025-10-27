@@ -1,0 +1,129 @@
+<title>Stellar Star Wars Vertical Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of stunning Star Wars vertical wallpapers! Perfectly designed for fans, these wallpapers bring iconic characters and thrilling scenes to your screens. Download now and showcase your love for the galaxy far, far away with vibrant and engaging visuals!">
+                    <meta name="keywords" content="star wars vertical wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-vertical-wallpaper">
+                            <span itemprop="name">star wars vertical wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stellar Star Wars Vertical Wallpapers for Your Device</h1>
+                <p>Transform your device's aesthetics with stunning Star Wars vertical wallpapers! Dive into the galaxy far, far away with breathtaking visuals featuring iconic characters, spaceships, and epic scenes from the beloved saga. Perfect for Star Wars fans looking to personalize their screens and bring the Force to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: amoled, dark, Star Wars, vertical">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/25/4f/90254fad9b81273e05656aa2ba6aaa9b.jpg' alt='HD wallpaper: amoled, dark, Star Wars, vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/25/4f/90254fad9b81273e05656aa2ba6aaa9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars, black, vertical, Darth Vader, portrait display, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/798/693/HD-wallpaper-star-wars-black-vertical-darth-vader-portrait-display.jpg' alt='Star Wars, black, vertical, Darth Vader, portrait display, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/798/693/HD-wallpaper-star-wars-black-vertical-darth-vader-portrait-display.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/0/6/129815-1080x2160-phone-hd-star-wars-background.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/0/6/129815-1080x2160-phone-hd-star-wars-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Vertical wallpaper ideas | star wars poster, star wars ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7f/7a/6c/7f7a6c8c6041a6c2358bb17a029a20e4.jpg' alt='21 Vertical wallpaper ideas | star wars poster, star wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7f/7a/6c/7f7a6c8c6041a6c2358bb17a029a20e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venator Star Wars Live Wallpaper |                                                                    ✨The original image was made by Malte  artist. I adapted it into a vertical format and brought it to life to  create the final ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7288894515069340961&location=0&aid=1988' alt='Venator Star Wars Live Wallpaper |                                                                    ✨The original image was made by Malte  artist. I adapted it into a vertical format and brought it to life to  create the final ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7288894515069340961&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Cool Star Wars Wallpapers! : r/starwarsmemes">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-cool-star-wars-wallpapers-v0-uozi0i13v4db1.jpg?width=640&crop=smart&auto=webp&s=924f0846cf17a0bcbecf845b6cdf1babe290f830' alt='Some Cool Star Wars Wallpapers! : r/starwarsmemes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-cool-star-wars-wallpapers-v0-uozi0i13v4db1.jpg?width=640&crop=smart&auto=webp&s=924f0846cf17a0bcbecf845b6cdf1babe290f830' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: darth vader, Lightsaber, minimalism, Portrait ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/b5/57/e8b5570c617d0ce45e721abc0292997e.jpg' alt='HD wallpaper: darth vader, Lightsaber, minimalism, Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/b5/57/e8b5570c617d0ce45e721abc0292997e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Vertical Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11249925.jpg' alt='Star Wars Vertical Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11249925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Cool Star Wars Wallpapers! : r/starwarsmemes">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-cool-star-wars-wallpapers-v0-5zumyx13v4db1.jpg?width=676&format=pjpg&auto=webp&s=dbdd99389f8d6d81f570fa7261f0115e5c887105' alt='Some Cool Star Wars Wallpapers! : r/starwarsmemes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-cool-star-wars-wallpapers-v0-5zumyx13v4db1.jpg?width=676&format=pjpg&auto=webp&s=dbdd99389f8d6d81f570fa7261f0115e5c887105' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Portrait Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11252484.jpg' alt='Star Wars Portrait Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11252484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

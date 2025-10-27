@@ -1,0 +1,129 @@
+<title>Stunning Google Doc Themes for Every Project</title>
+                    <meta name="description" content="Discover a wide range of Google Doc themes designed to elevate your documents. Choose from professional to creative styles, customize effortlessly, and make your content stand out. Perfect for business reports, presentations, or personal projects. Explore now!">
+                    <meta name="keywords" content="google doc themes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/google-doc-themes">
+                            <span itemprop="name">google doc themes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Google Doc Themes for Every Project</h1>
+                <p>Google Docs offers a variety of themes to enhance your documents and make your work visually appealing. Whether you need a sleek professional layout or a vibrant creative style, there’s an option for everyone. Customize your fonts, colors, and styles easily, ensuring your document stands out and effectively communicates your message.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add or Change Themes in Google Slides - Tutorial">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/82915/01.gif' alt='How to Add or Change Themes in Google Slides - Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/82915/01.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Google Drive Presentation Theme">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/93Z_nD3hIKI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD8gUyhyMA8=&rs=AOn4CLBXkWC7LcClD6_HNPNE8fufq8Brlw' alt='How to Change Google Drive Presentation Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/93Z_nD3hIKI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD8gUyhyMA8=&rs=AOn4CLBXkWC7LcClD6_HNPNE8fufq8Brlw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAWN - Free Google Slides Theme">
+                                <img itemprop="contentUrl url" src='https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9EYXduLUZyZWUtR29vZ2xlLVNsaWRlcy1UaGVtZS1QcmV2aWV3LTEuanBn&q=70&enlarge=true&h=777&w=1200' alt='DAWN - Free Google Slides Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medialoot" />
+                                </span>
+                                <a href='https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9EYXduLUZyZWUtR29vZ2xlLVNsaWRlcy1UaGVtZS1QcmV2aWV3LTEuanBn&q=70&enlarge=true&h=777&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to download Google Slides templates for free | Slidesgo">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/34394865/Animation.gif' alt='How to download Google Slides templates for free | Slidesgo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1885">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/34394865/Animation.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW! Free Google Docs Templates – cloudHQ">
+                                <img itemprop="contentUrl url" src='https://blog.cloudhq.net/wp-content/uploads/2022/07/Get_100s_of_free_Google_Docs_templates.png' alt='NEW! Free Google Docs Templates – cloudHQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cloudHQ" />
+                                </span>
+                                <a href='https://blog.cloudhq.net/wp-content/uploads/2022/07/Get_100s_of_free_Google_Docs_templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Choose a Theme in Google Slides - Free Google Slides Templates">
+                                <img itemprop="contentUrl url" src='https://freegoogleslidestemplates.com/wp-content/uploads/2015/10/choose-a-google-slides-theme-1024x569.jpg' alt='How to Choose a Theme in Google Slides - Free Google Slides Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Google Slides Templates" />
+                                </span>
+                                <a href='https://freegoogleslidestemplates.com/wp-content/uploads/2015/10/choose-a-google-slides-theme-1024x569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SlidesMania | Free Google Slides themes and PowerPoint templates.">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2024/02/Slide1-1.jpg' alt='SlidesMania | Free Google Slides themes and PowerPoint templates.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slidesmania.com" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2024/02/Slide1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Import Google Slides Themes into a Presentation">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/02_import-theme-in-google-slides.png' alt='How to Import Google Slides Themes into a Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/02_import-theme-in-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Docs, Sheets, and Slides rolling out Google Material Theme ...">
+                                <img itemprop="contentUrl url" src='https://9to5google.com/2019/01/15/google-material-theme-docs-slides/google-material-theme-slides/' alt='Google Docs, Sheets, and Slides rolling out Google Material Theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Google" />
+                                </span>
+                                <a href='https://9to5google.com/2019/01/15/google-material-theme-docs-slides/google-material-theme-slides/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Drive Blog: More magic in Slides: editable themes and ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoXMy7tJP2eXCS_cg-18HyRJXD9KDwko4FGaViHhqrexrag5bD7pNL_tda60DV9z2SkNd9YVrM3i4kA4nvUDpvxOGVFmyUK0DjCs_gGKxoRRi8V7qmjRDnZ7bZ2pACDGLGgmM58cl6SeZz/s1600/Screen+Shot+2013-10-08+at+10.40.55+AM.png' alt='Google Drive Blog: More magic in Slides: editable themes and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Official Google Drive news and updates" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoXMy7tJP2eXCS_cg-18HyRJXD9KDwko4FGaViHhqrexrag5bD7pNL_tda60DV9z2SkNd9YVrM3i4kA4nvUDpvxOGVFmyUK0DjCs_gGKxoRRi8V7qmjRDnZ7bZ2pACDGLGgmM58cl6SeZz/s1600/Screen+Shot+2013-10-08+at+10.40.55+AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

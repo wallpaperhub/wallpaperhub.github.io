@@ -1,0 +1,129 @@
+<title>Wasteland Wonders: Exploring Desolation and Survival</title>
+                    <meta name="description" content="Discover the captivating world of wasteland backgrounds, where desolation meets resilience. Explore themes of survival, environmental decay, and the haunting beauty of barren landscapes. Perfect for storytelling and artistic inspiration in dystopian settings.">
+                    <meta name="keywords" content="wasteland background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wasteland-background">
+                            <span itemprop="name">wasteland background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wasteland Wonders: Exploring Desolation and Survival</h1>
+                <p>Wasteland backgrounds evoke a sense of desolation, featuring barren landscapes, cracked earth, and remnants of civilization. These settings often symbolize environmental decay and highlight themes of survival in harsh conditions. From dystopian narratives to post-apocalyptic tales, wastelands serve as powerful backdrops for exploring human resilience and nature's reclaim.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post Apocalyptic Background Image Of Desert City Wasteland Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1280069839/photo/post-apocalyptic-background-image-of-desert-city-wasteland.jpg?s=170667a&w=0&k=20&c=RD98WZ3vHwdzFLEKnoMlLnSYHyFX_t5nXxWzIYJuKbc=' alt='Post Apocalyptic Background Image Of Desert City Wasteland Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1280069839/photo/post-apocalyptic-background-image-of-desert-city-wasteland.jpg?s=170667a&w=0&k=20&c=RD98WZ3vHwdzFLEKnoMlLnSYHyFX_t5nXxWzIYJuKbc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the wasteland">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9a/df/e0/9adfe0dbdf5170923090a6955cd7c702.jpg' alt='the wasteland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9a/df/e0/9adfe0dbdf5170923090a6955cd7c702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOFOTO 15x8ft Future Destroyed City Wasteland Background for Photography  Urban Destruction Abandoned Buildings Town Disaster Ruins Backdrop Doomsday  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HYk3z62wL._AC_UF894,1000_QL80_.jpg' alt='AOFOTO 15x8ft Future Destroyed City Wasteland Background for Photography  Urban Destruction Abandoned Buildings Town Disaster Ruins Backdrop Doomsday  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HYk3z62wL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 10 | Wasteland Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/99/fa/5599faed870c9461cc3e0d083003aba7.jpg' alt='Page 10 | Wasteland Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/99/fa/5599faed870c9461cc3e0d083003aba7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wasteland : r/gaming">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/D1T8z_djmgHnlLx7suqimLchdA-uTExZEL0bMkdlJ_s.jpg?width=640&crop=smart&auto=webp&s=bc9f4d6204479b756af40d2479f20c0b3abf4ffe' alt='The Wasteland : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/D1T8z_djmgHnlLx7suqimLchdA-uTExZEL0bMkdlJ_s.jpg?width=640&crop=smart&auto=webp&s=bc9f4d6204479b756af40d2479f20c0b3abf4ffe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handpainted battle background (wasteland) by EduardoGaray on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/302a3405-2cd8-4cad-8979-c044b67b6a96/dedwm09-31c921f4-c56c-45a8-bdd5-1186be1419ae.png/v1/fill/w_1192,h_670,q_70,strp/handpainted_battle_background__wasteland__by_eduardogaray_dedwm09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMzAyYTM0MDUtMmNkOC00Y2FkLTg5NzktYzA0NGI2N2I2YTk2XC9kZWR3bTA5LTMxYzkyMWY0LWM1NmMtNDVhOC1iZGQ1LTExODZiZTE0MTlhZS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IMIFzRKlD-kfpD7u0QAHS992vYXWv_DX4ahw23TC6_Q' alt='Handpainted battle background (wasteland) by EduardoGaray on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/302a3405-2cd8-4cad-8979-c044b67b6a96/dedwm09-31c921f4-c56c-45a8-bdd5-1186be1419ae.png/v1/fill/w_1192,h_670,q_70,strp/handpainted_battle_background__wasteland__by_eduardogaray_dedwm09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMzAyYTM0MDUtMmNkOC00Y2FkLTg5NzktYzA0NGI2N2I2YTk2XC9kZWR3bTA5LTMxYzkyMWY0LWM1NmMtNDVhOC1iZGQ1LTExODZiZTE0MTlhZS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IMIFzRKlD-kfpD7u0QAHS992vYXWv_DX4ahw23TC6_Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wasteland Background Stock Illustrations – 3,884 Wasteland ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-wasteland-illustration-f-ai-generated-background-352285588.jpg' alt='Wasteland Background Stock Illustrations – 3,884 Wasteland ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-wasteland-illustration-f-ai-generated-background-352285588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wasteland Premade Background by DavidDarkheartKing on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ee95d08-8bc6-40c3-bf55-93c69ac7b816/d89nyja-e97dc7e5-f38d-41d7-830b-b993ee1adf6a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlZTk1ZDA4LThiYzYtNDBjMy1iZjU1LTkzYzY5YWM3YjgxNlwvZDg5bnlqYS1lOTdkYzdlNS1mMzhkLTQxZDctODMwYi1iOTkzZWUxYWRmNmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sylUFlodGQYWDHbjZDmQiGrX6-d1Kjyza-UfUN4DLl0' alt='Wasteland Premade Background by DavidDarkheartKing on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ee95d08-8bc6-40c3-bf55-93c69ac7b816/d89nyja-e97dc7e5-f38d-41d7-830b-b993ee1adf6a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlZTk1ZDA4LThiYzYtNDBjMy1iZjU1LTkzYzY5YWM3YjgxNlwvZDg5bnlqYS1lOTdkYzdlNS1mMzhkLTQxZDctODMwYi1iOTkzZWUxYWRmNmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sylUFlodGQYWDHbjZDmQiGrX6-d1Kjyza-UfUN4DLl0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wasteland Desert Battlefield Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/wasteland-desert-battlefield-hy4i9wdnfbxd752p.jpg' alt='Wasteland Desert Battlefield Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/wasteland-desert-battlefield-hy4i9wdnfbxd752p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XaKeR on X: "Love #steam profile background by @Sheltered_Game ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CO5q0C1WsAE4zbi.jpg:large' alt='XaKeR on X: "Love #steam profile background by @Sheltered_Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CO5q0C1WsAE4zbi.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

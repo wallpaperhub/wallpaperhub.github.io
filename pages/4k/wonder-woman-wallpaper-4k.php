@@ -1,0 +1,129 @@
+<title>Stunning 4K Wonder Woman Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of high-quality 4K Wonder Woman wallpapers perfect for any fan. Choose from dynamic poses and vibrant designs to bring empowerment and inspiration to your screens. Ideal for mobile devices, these wallpapers will enhance your background with stunning visuals of your favorite superhero.">
+                    <meta name="keywords" content="wonder woman wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/wonder-woman-wallpaper-4k">
+                            <span itemprop="name">wonder woman wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wonder Woman Wallpapers for Your Device</h1>
+                <p>Explore vibrant 4K Wonder Woman wallpapers that celebrate strength and heroism. Transform your device's background with stunning visuals capturing the essence of this iconic character. Whether you admire her courage or style, these wallpapers will inspire and elevate your screens, making them truly remarkable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Woman (Movie) Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/c/a/325884-3840x2160-desktop-4k-wonder-woman-movie-background.jpg' alt='Wonder Woman (Movie) Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/c/a/325884-3840x2160-desktop-4k-wonder-woman-movie-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Woman Cosplay HD 4K Wallpaper #6.2779">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBth9LP-hVoD7C-fITpozUu9dJqtQLj3PSEgZsxW89RXXqULyHQGSJYxiA-19Ul4LhkRxNPyc5-1JDvuaCuRwONciWPaOTzDjWW4xt9NMcyYYWEZ3eiGe3QQLs-l7-QPzFY4QGgtvsNeJ5/w919/wonder-woman-cosplay-uhdpaper.com-4K-6.2779-wp.thumbnail.jpg' alt='Wonder Woman Cosplay HD 4K Wallpaper #6.2779'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="914">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBth9LP-hVoD7C-fITpozUu9dJqtQLj3PSEgZsxW89RXXqULyHQGSJYxiA-19Ul4LhkRxNPyc5-1JDvuaCuRwONciWPaOTzDjWW4xt9NMcyYYWEZ3eiGe3QQLs-l7-QPzFY4QGgtvsNeJ5/w919/wonder-woman-cosplay-uhdpaper.com-4K-6.2779-wp.thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Wonder Woman Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/wonder-woman-7bzf16n8khrhc2oj.jpg' alt='200+] Wonder Woman Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/wonder-woman-7bzf16n8khrhc2oj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download DC Comics Gal Gadot Wonder Woman Movie Wonder Woman 1984 ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/108/1085795.jpg' alt='Download DC Comics Gal Gadot Wonder Woman Movie Wonder Woman 1984 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/108/1085795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wonder woman wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/613/677/HD-wallpaper-wonder-woman-eye-gal-gadot-thumbnail.jpg' alt='HD wonder woman wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/613/677/HD-wallpaper-wonder-woman-eye-gal-gadot-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Woman in Action - 8K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/837/837098.jpg' alt='Wonder Woman in Action - 8K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8064">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/837/837098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gal Gadot (Wonder Woman) Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/6/7/472730-2160x3840-mobile-4k-gal-gadot-wonder-woman-wallpaper-image.jpg' alt='Gal Gadot (Wonder Woman) Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/6/7/472730-2160x3840-mobile-4k-gal-gadot-wonder-woman-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gal Gadot Wonder Woman Top Iphone Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gal-gadot-wonder-woman-top-iphone-hd-zehm673jznjjjnre.jpg' alt='Gal Gadot Wonder Woman Top Iphone Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gal-gadot-wonder-woman-top-iphone-hd-zehm673jznjjjnre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Woman, 4K, #9 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bf/8c/6a/bf8c6a738fb0cb65dadd2a2ae66f8251.jpg' alt='Wonder Woman, 4K, #9 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bf/8c/6a/bf8c6a738fb0cb65dadd2a2ae66f8251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wonder Woman HD Wallpapers and 4K Backgrounds - Wallpapers Den">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/hbo-wonder-woman-1984_bGpna2uUmZqaraWkpJRmbmdlrWdtaWo.jpg' alt='Wonder Woman HD Wallpapers and 4K Backgrounds - Wallpapers Den'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/hbo-wonder-woman-1984_bGpna2uUmZqaraWkpJRmbmdlrWdtaWo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

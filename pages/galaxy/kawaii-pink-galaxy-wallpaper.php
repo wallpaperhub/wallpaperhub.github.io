@@ -1,0 +1,129 @@
+<title>Kawaii Pink Galaxy Wallpaper: Cute & Cosmic Backgrounds</title>
+                    <meta name="description" content="Discover adorable kawaii pink galaxy wallpaper that blends cuteness with cosmic beauty. Perfect for personalizing your devices, this whimsical design adds a playful touch to your screen. Explore a world of pastel colors and enchanting stars that inspire creativity and joy in every glance!">
+                    <meta name="keywords" content="kawaii pink galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/kawaii-pink-galaxy-wallpaper">
+                            <span itemprop="name">kawaii pink galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Pink Galaxy Wallpaper: Cute & Cosmic Backgrounds</h1>
+                <p>Kawaii pink galaxy wallpaper combines charming aesthetics with a cosmic theme, perfect for adding a touch of whimsy to your device. Featuring cute pastel hues and dreamy celestial patterns, it creates a vibrant backdrop that sparks joy and creativity. Transform your screen into a playful universe, inviting smiles every time you glance at it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Galaxy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/cf/0d/7acf0d0d604ca72b6cdc82be96f3b506.jpg' alt='Cute Pink Galaxy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/cf/0d/7acf0d0d604ca72b6cdc82be96f3b506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aesthetic Cute Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-aesthetic-cute-galaxy-k2pcmgdeks4z200p.jpg' alt='Pink Aesthetic Cute Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-aesthetic-cute-galaxy-k2pcmgdeks4z200p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/d4/9f/d6d49f8edd2e3208ef3b218487e4556e.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/d4/9f/d6d49f8edd2e3208ef3b218487e4556e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Purple And Pink Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/kawaii-purple-and-pink-galaxy-il3k5v9m2gzb67gl.jpg' alt='Kawaii Purple And Pink Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/kawaii-purple-and-pink-galaxy-il3k5v9m2gzb67gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink sparkly galaxy cocoppa iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/3b/cd/bf3bcd9e22c4a3e842822830a5c58fd0.jpg' alt='Pink sparkly galaxy cocoppa iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/3b/cd/bf3bcd9e22c4a3e842822830a5c58fd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Galaxy Pastel Cute Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_23-2148973126.jpg' alt='Pink Galaxy Pastel Cute Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_23-2148973126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Purple Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-purple-galaxy-w8urzuei8xixpxba.jpg' alt='100+] Pink And Purple Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-purple-galaxy-w8urzuei8xixpxba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Pastel Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-pink-pastel-galaxy-z2z0yhsfwafe6jlx.jpg' alt='Aesthetic Pink Pastel Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-pink-pastel-galaxy-z2z0yhsfwafe6jlx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute pastel galaxy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/bd/3f/debd3ff29e322f9a7f1e83b616091ea4.jpg' alt='Cute pastel galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/bd/3f/debd3ff29e322f9a7f1e83b616091ea4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudy sky background. Unicorn fantasy pastel galaxy. Rainbow cute ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2NA9APG/cloudy-sky-background-unicorn-fantasy-pastel-galaxy-rainbow-cute-wallpaper-fluffy-magic-pink-landscape-vector-illustration-2NA9APG.jpg' alt='Cloudy sky background. Unicorn fantasy pastel galaxy. Rainbow cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2NA9APG/cloudy-sky-background-unicorn-fantasy-pastel-galaxy-rainbow-cute-wallpaper-fluffy-magic-pink-landscape-vector-illustration-2NA9APG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

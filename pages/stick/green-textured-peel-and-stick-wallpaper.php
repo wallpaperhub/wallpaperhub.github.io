@@ -1,0 +1,129 @@
+<title>Refresh Your Space: Green Textured Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add a natural touch to your home with green textured peel and stick wallpaper. Easy to apply and remove, it’s perfect for renters or anyone looking for a quick decor update. Choose from a variety of designs to enliven any room effortlessly. Enjoy a fresh look without the commitment of traditional wallpaper!">
+                    <meta name="keywords" content="green textured peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/green-textured-peel-and-stick-wallpaper">
+                            <span itemprop="name">green textured peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your Space: Green Textured Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with green textured peel and stick wallpaper. Ideal for renters and DIY enthusiasts, this stylish option adds a touch of nature to any room. With easy application and removal, you can update your decor without the hassle of paint. Explore a range of patterns to find the perfect fit for your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x118"  Neutral Faux Grassweave Wallpaper Waterproof Self Adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-c04F89SL.jpg' alt='Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x118"  Neutral Faux Grassweave Wallpaper Waterproof Self Adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-c04F89SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safiyya Contact Paper Gold and Dark Green Wallpaper Peel and Stick  Geometric Contact Paper Textured Wallpaper Self Adhesive Removable  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71b0HbY2DfL._AC_UF894,1000_QL80_.jpg' alt='Safiyya Contact Paper Gold and Dark Green Wallpaper Peel and Stick  Geometric Contact Paper Textured Wallpaper Self Adhesive Removable  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71b0HbY2DfL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x118"  Neutral Faux Grassweave Wallpaper Waterproof Self Adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91fIARFt1LL._AC_UF894,1000_QL80_.jpg' alt='Simon&Siff Green Textured Grasscloth Peel and Stick Wallpaper 17.7"x118"  Neutral Faux Grassweave Wallpaper Waterproof Self Adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91fIARFt1LL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lichen Green Peel and Stick Removable Wallpapers">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-911097.jpg?v=1703066650' alt='Lichen Green Peel and Stick Removable Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-911097.jpg?v=1703066650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Green Abstract Ombre Wallpaper - X160">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5990262524_7kga.jpg?v=1730234707&width=1946' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor Wall Art  Wall Decor Room Decor / Green Abstract Ombre Wallpaper - X160'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5990262524_7kga.jpg?v=1730234707&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Size 30"x236" Teal Green Grasscloth Wallpaper Peel and Stick Textured  Wallpaper for Walls Self Adhesive Linen Contact Paper Waterproof Faux ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Large-Size-30-x236-Teal-Green-Grasscloth-Wallpaper-Peel-Stick-Textured-Walls-Self-Adhesive-Linen-Contact-Paper-Waterproof-Faux-Vinyl-Wall-Covering-Ho_2401d169-76a8-4c71-b6d1-eb038ab729bb.7f25c61c4f325e95ad75748f0a969889.jpeg' alt='Large Size 30"x236" Teal Green Grasscloth Wallpaper Peel and Stick Textured  Wallpaper for Walls Self Adhesive Linen Contact Paper Waterproof Faux ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Large-Size-30-x236-Teal-Green-Grasscloth-Wallpaper-Peel-Stick-Textured-Walls-Self-Adhesive-Linen-Contact-Paper-Waterproof-Faux-Vinyl-Wall-Covering-Ho_2401d169-76a8-4c71-b6d1-eb038ab729bb.7f25c61c4f325e95ad75748f0a969889.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Peel & Stick Removable Wallpaper | Peel&Stick – Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/PeytonWallpaperWithWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736948861&width=533' alt='Green Peel & Stick Removable Wallpaper | Peel&Stick – Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/PeytonWallpaperWithWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736948861&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Grasscloth Peel and Stick Wallpaper for Bedroom Modern Wallpaper  Textured Fabric Contact Paper Self Adhesive Wall Paper Cabinets Drawers  Teal ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91sUN0VK4BL.jpg' alt='Green Grasscloth Peel and Stick Wallpaper for Bedroom Modern Wallpaper  Textured Fabric Contact Paper Self Adhesive Wall Paper Cabinets Drawers  Teal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91sUN0VK4BL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux grass cloth peel and stick wallpaper - removable">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-879107.jpg?v=1718902432' alt='Faux grass cloth peel and stick wallpaper - removable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/faux-grass-cloth-peel-and-stick-wallpaper-sage-green-879107.jpg?v=1718902432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Green Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3670">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/022b7346-fc0b-4fc6-8f9b-5bd539b6badb/svn/nuwallpaper-wallpaper-rolls-nu3670-64_600.jpg' alt='NuWallpaper Green Vinyl Peel & Stick Washable Wallpaper Roll (Covers 30.75  Sq. Ft.) NU3670'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/022b7346-fc0b-4fc6-8f9b-5bd539b6badb/svn/nuwallpaper-wallpaper-rolls-nu3670-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

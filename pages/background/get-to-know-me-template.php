@@ -1,0 +1,129 @@
+<title>"Discover Me: Your Personalized Get to Know Me Template"</title>
+                    <meta name="description" content=""Explore a customizable 'Get to Know Me' template perfect for sharing your background, interests, and personality. Ideal for social media, networking, or group introductions, this template helps you make meaningful connections quickly!"">
+                    <meta name="keywords" content="get to know me template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/get-to-know-me-template">
+                            <span itemprop="name">get to know me template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover Me: Your Personalized Get to Know Me Template"</h1>
+                <p>A "Get to Know Me" template is an engaging way to share your personality, interests, and background. Begin with your name, age, and location. Include your hobbies, favorite books, and a fun fact. This template is perfect for social media bios, networking, or introducing yourself in groups. Make it personal to connect with others!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable get to know me templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHIbKcRLw/1/0/900w/canva-blue-minimalist-gradient-get-to-know-me-game-instagram-story-LQevNPvV-38.jpg' alt='Free and customizable get to know me templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHIbKcRLw/1/0/900w/canva-blue-minimalist-gradient-get-to-know-me-game-instagram-story-LQevNPvV-38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable get to know me templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlBRO6A6k/4/0/1131w/canva-get-to-know-you-worksheet-in-pastel-simple-illustrative-style-XsvMfbP7QDI.jpg' alt='Free and customizable get to know me templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlBRO6A6k/4/0/1131w/canva-get-to-know-you-worksheet-in-pastel-simple-illustrative-style-XsvMfbP7QDI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to Know Me" Instagram Story Template - Lifestyle with Leah">
+                                <img itemprop="contentUrl url" src='https://www.lifestylewithleah.com/wp-content/uploads/2020/03/Get-to-Know-Me-Cover.png' alt='Get to Know Me" Instagram Story Template - Lifestyle with Leah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifestyle with Leah -" />
+                                </span>
+                                <a href='https://www.lifestylewithleah.com/wp-content/uploads/2020/03/Get-to-Know-Me-Cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to Know Me Printable, Work Exchange Gift, Editable Survey, All ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24723032/r/il/d31dbb/5842469513/il_fullxfull.5842469513_enwp.jpg' alt='Get to Know Me Printable, Work Exchange Gift, Editable Survey, All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24723032/r/il/d31dbb/5842469513/il_fullxfull.5842469513_enwp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable get to know me templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQkNUa4tg/1/0/1236w/canva-retro-classroom-get-to-know-me-worksheet-for-students-5bG2B0ilTZw.jpg' alt='Free and customizable get to know me templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1236">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQkNUa4tg/1/0/1236w/canva-retro-classroom-get-to-know-me-worksheet-for-students-5bG2B0ilTZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="get to know me template | IG story template">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/d8/a1/33d8a1a25c92be645c772a4815fdd9cf.jpg' alt='get to know me template | IG story template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/d8/a1/33d8a1a25c92be645c772a4815fdd9cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Get to Know Me for Employees Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/339205/Get-to-Know-Me-for-Employees-Template-edit-online-1.jpg' alt='Free Get to Know Me for Employees Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/339205/Get-to-Know-Me-for-Employees-Template-edit-online-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Get to Know Me GIFs Template - Customize with PicMonkey">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/850El0ctIQDTYu-5PycTtsO3xHEG-rmTRzvOsuo5PulStsdE7KEksnlbta83tVCDW43JVL7KIBuFN4Cg1iuTCAHGaiYdItY5wkXFy1Dk7uyOUkb4=e365-rj-l80-w364' alt='Free Get to Know Me GIFs Template - Customize with PicMonkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMonkey" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/850El0ctIQDTYu-5PycTtsO3xHEG-rmTRzvOsuo5PulStsdE7KEksnlbta83tVCDW43JVL7KIBuFN4Cg1iuTCAHGaiYdItY5wkXFy1Dk7uyOUkb4=e365-rj-l80-w364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Printable All About Me Templates (FREE) ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2023/10/All-About-Me-Template-Adults-V2-scaled.jpg' alt='19 Printable All About Me Templates (FREE) ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1810">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2023/10/All-About-Me-Template-Adults-V2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable get to know me templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE36_SzLCk/1/0/900w/canva-soft-pink-colorful-get-to-know-me-instagram-story-wEe1TSKmhi0.jpg' alt='Free and customizable get to know me templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE36_SzLCk/1/0/900w/canva-soft-pink-colorful-get-to-know-me-instagram-story-wEe1TSKmhi0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

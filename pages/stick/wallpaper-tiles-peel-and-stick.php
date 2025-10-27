@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Peel and Stick Wallpaper Tiles</title>
+                    <meta name="description" content="Discover the ease of peel and stick wallpaper tiles! Perfect for a quick home makeover, these versatile tiles are easy to install and come in various stylish designs. Ideal for renters or anyone looking to refresh their decor without commitment. Give your walls a new look today!">
+                    <meta name="keywords" content="wallpaper tiles peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/wallpaper-tiles-peel-and-stick">
+                            <span itemprop="name">wallpaper tiles peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Peel and Stick Wallpaper Tiles</h1>
+                <p>Transform your space instantly with peel and stick wallpaper tiles! These innovative tiles are a dream for DIY enthusiasts, offering a quick and easy way to update your walls without the mess of traditional wallpaper. Available in various designs, they’re perfect for kitchens, bathrooms, and living rooms. Simply peel, stick, and enjoy a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick | Self Adhesive Wallpaper | Wallpaper | Tile ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/26688b/3292603712/il_fullxfull.3292603712_pdmz.jpg' alt='Peel and Stick | Self Adhesive Wallpaper | Wallpaper | Tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/26688b/3292603712/il_fullxfull.3292603712_pdmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75-sq ft Off-white Vinyl Tile Self-adhesive Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/900f8cd8-32c5-422c-9f3e-4787732cc827/15956637.jpg' alt='NextWall 30.75-sq ft Off-white Vinyl Tile Self-adhesive Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/900f8cd8-32c5-422c-9f3e-4787732cc827/15956637.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornamental Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' alt='Ornamental Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LONGKING C-Stones Beige 10.5 in. x 11.8 in. Vinyl Wallpaper Peel and Stick  Backsplash Tiles ( 8.7 sq ft. /Pack) LK12hd72">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9e8d3f09-104e-4d05-bfec-04c39285cc40/svn/longking-peel-and-stick-backsplash-lk12hd72-31_600.jpg' alt='LONGKING C-Stones Beige 10.5 in. x 11.8 in. Vinyl Wallpaper Peel and Stick  Backsplash Tiles ( 8.7 sq ft. /Pack) LK12hd72'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9e8d3f09-104e-4d05-bfec-04c39285cc40/svn/longking-peel-and-stick-backsplash-lk12hd72-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Peel and Stick Wallpaper Tile, Moroccan Tile Cover up Stickers  PVC Contact Paper for Floors Waterproof Wall Tiles for Bathroom Walls ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8138yWaSQpL.jpg' alt='Livelynine Peel and Stick Wallpaper Tile, Moroccan Tile Cover up Stickers  PVC Contact Paper for Floors Waterproof Wall Tiles for Bathroom Walls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8138yWaSQpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorento Faux Tile Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/DB20500-A_2000x2000.jpg?v=1649066419' alt='Sorento Faux Tile Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/DB20500-A_2000x2000.jpg?v=1649066419' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Tile Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D526">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5270830136_8u95.jpg?v=1706982222&width=1946' alt='Blue Tile Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D526'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5270830136_8u95.jpg?v=1706982222&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Villicana Peel & Stick Geometric Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/48970758/compr-r85/8420/84200761/villicana-peel-stick-geometric-roll.jpg' alt='Villicana Peel & Stick Geometric Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/48970758/compr-r85/8420/84200761/villicana-peel-stick-geometric-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Tile Peel and Stick Wallpaper - SAMPLE - NW32100">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/NW32100.jpg?v=1637097837' alt='NextWall Tile Peel and Stick Wallpaper - SAMPLE - NW32100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/NW32100.jpg?v=1637097837' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Power of Odin: The Allfather of Norse Mythology</title>
+                    <meta name="description" content="Uncover the mysteries of Odin, the Allfather in Norse mythology. Explore his wisdom, tales of bravery, and his role in Valhalla. Learn how this complex god shaped ancient beliefs and continues to inspire. Perfect for mythology enthusiasts looking for short, engaging insights about Odin's legacy.">
+                    <meta name="keywords" content="odin">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/odin">
+                            <span itemprop="name">odin</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Power of Odin: The Allfather of Norse Mythology</h1>
+                <p>Odin, a major deity in Norse mythology, is revered as the god of wisdom, poetry, war, and death. He is often depicted with one eye, having sacrificed the other for knowledge. Odin leads the Valkyries and rules over Valhalla, welcoming fallen warriors. His legendary quests and pursuit of wisdom define him as a complex, multi-faceted figure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Odin%2C_der_G%C3%B6ttervater.jpg/640px-Odin%2C_der_G%C3%B6ttervater.jpg' alt='Odin - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Odin%2C_der_G%C3%B6ttervater.jpg/640px-Odin%2C_der_G%C3%B6ttervater.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg' alt='Odin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin | Marvel Cinematic Universe Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Odin_Infobox.png/revision/latest?cb=20250203212940' alt='Odin | Marvel Cinematic Universe Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1002">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel Cinematic Universe Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Odin_Infobox.png/revision/latest?cb=20250203212940' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin | Age of Empires Series Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ageofempires/images/e/e6/AoMR_Odin_artwork.png/revision/latest/scale-to-width-down/1200?cb=20241013130916' alt='Odin | Age of Empires Series Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Age of Empires Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ageofempires/images/e/e6/AoMR_Odin_artwork.png/revision/latest/scale-to-width-down/1200?cb=20241013130916' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thoughts on Odin? : r/GodofWarRagnarok">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cz6k0da4vjzb1.png' alt='Thoughts on Odin? : r/GodofWarRagnarok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cz6k0da4vjzb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Odin The God Of? - The Viking Dragon Blog">
+                                <img itemprop="contentUrl url" src='https://thevikingdragon.com/cdn/shop/articles/what-is-odin-the-god-of.jpg?v=1720867548&width=1920' alt='What Is Odin The God Of? - The Viking Dragon Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Viking Dragon" />
+                                </span>
+                                <a href='https://thevikingdragon.com/cdn/shop/articles/what-is-odin-the-god-of.jpg?v=1720867548&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin - Vikinger Blood">
+                                <img itemprop="contentUrl url" src='https://imgs.search.brave.com/y7AYZuvFiEXEY3_e25b49biM3zA6xNdZvcj2bhWTUMc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQveDQ3enJm/MnJrZ2I1MS5qcGc' alt='Odin - Vikinger Blood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vikinger Blood" />
+                                </span>
+                                <a href='https://imgs.search.brave.com/y7AYZuvFiEXEY3_e25b49biM3zA6xNdZvcj2bhWTUMc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQveDQ3enJm/MnJrZ2I1MS5qcGc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Odin really the All-Father?">
+                                <img itemprop="contentUrl url" src='https://www.codypolston.com/wp-content/uploads/2022/08/Odin.jpg' alt='Is Odin really the All-Father?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cody Polston" />
+                                </span>
+                                <a href='https://www.codypolston.com/wp-content/uploads/2022/08/Odin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin (God of War) | Near Pure Evil Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/near_pure_evil/images/c/c1/OdinGow.jpg/revision/latest/scale-to-width-down/1200?cb=20240531100013' alt='Odin (God of War) | Near Pure Evil Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Near Pure Evil Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/near_pure_evil/images/c/c1/OdinGow.jpg/revision/latest/scale-to-width-down/1200?cb=20240531100013' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odin - Flame Tree Publishing">
+                                <img itemprop="contentUrl url" src='https://www.flametreepublishing.com/ProductImages/odin-isbn-9781804179321.0.jpg' alt='Odin - Flame Tree Publishing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flame Tree Publishing" />
+                                </span>
+                                <a href='https://www.flametreepublishing.com/ProductImages/odin-isbn-9781804179321.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

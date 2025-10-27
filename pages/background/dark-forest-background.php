@@ -1,0 +1,129 @@
+<title>Dark Forest Background: Embrace Nature's Mystery</title>
+                    <meta name="description" content="Discover the allure of a dark forest background, perfect for adding an enigmatic atmosphere to your creative projects. Ideal for designs, photography, or storytelling, this backdrop brings nature's shadows to life. Enhance your visuals with the rich charm of a forest shrouded in mystery.">
+                    <meta name="keywords" content="dark forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-forest-background">
+                            <span itemprop="name">dark forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Forest Background: Embrace Nature's Mystery</h1>
+                <p>Immerse yourself in the mystique of a dark forest background, where towering trees create an enchanting silhouette against the dim light. The air is thick with intrigue, inviting the imagination to wander through hidden paths and secrets. Perfect for any project seeking an atmosphere of mystery and depth, this backdrop captivates with nature's shadows.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy Dark Forest Mural Wallpaper - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/343534-825-auto?width=825&height=auto&aspect=true' alt='Foggy Dark Forest Mural Wallpaper - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/343534-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark forest with a reflection. Any commentary is appreciated : r/GIMP">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7s3jjLPJsBvU42dyOyotCJ83S4KEH0vJABySQHIouyU.jpg?width=1080&crop=smart&auto=webp&s=41102967f2b1e12e34e2b04ba411531e84c80095' alt='Dark forest with a reflection. Any commentary is appreciated : r/GIMP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7s3jjLPJsBvU42dyOyotCJ83S4KEH0vJABySQHIouyU.jpg?width=1080&crop=smart&auto=webp&s=41102967f2b1e12e34e2b04ba411531e84c80095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Photos, Download The BEST Free Dark Forest Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg' alt='Dark Forest Photos, Download The BEST Free Dark Forest Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3312">
+                                <meta itemprop="height" content="4416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="384,000+ Dark Forest Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/532523359/photo/spooky-dark-forest-at-night-in-moonlight.jpg?s=612x612&w=0&k=20&c=l6IySCb5p5oqnlTNoTJnclwPWdk7N213UZQc84wALSw=' alt='384,000+ Dark Forest Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/532523359/photo/spooky-dark-forest-at-night-in-moonlight.jpg?s=612x612&w=0&k=20&c=l6IySCb5p5oqnlTNoTJnclwPWdk7N213UZQc84wALSw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark forest. Gloomy dark scene with trees, big moon, moonlight ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/dark-forest-gloomy-dark-scene-with-trees-big-moon-moonlight-smoke-shadow-abstract-dark-cold-street-background-night-view-julien.jpg' alt='Dark forest. Gloomy dark scene with trees, big moon, moonlight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puzzles" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/dark-forest-gloomy-dark-scene-with-trees-big-moon-moonlight-smoke-shadow-abstract-dark-cold-street-background-night-view-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mysterious fantasy woods at night, dark forest background Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/98/73/60/1000_F_498736013_D5pjFIpHGYVOevYBnRHomWiosxsSoPfk.jpg' alt='mysterious fantasy woods at night, dark forest background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/98/73/60/1000_F_498736013_D5pjFIpHGYVOevYBnRHomWiosxsSoPfk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Dark Path Images – Browse 307,307 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/97/28/93/360_F_897289304_jut3oLSGy8j17bES8khFI4OV6JoIYxVi.jpg' alt='Forest Dark Path Images – Browse 307,307 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/97/28/93/360_F_897289304_jut3oLSGy8j17bES8khFI4OV6JoIYxVi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print wind blowing magical dust in mysterious dark ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/60/50/74/1000_F_260507400_c7Gkql5Pbljg3154rkV00p8eE7KjNWmq.jpg' alt='Photo & Art Print wind blowing magical dust in mysterious dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/60/50/74/1000_F_260507400_c7Gkql5Pbljg3154rkV00p8eE7KjNWmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/78/e3/6978e39aaa98547c707759226bc07dfc.jpg' alt='Dark Forest Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/78/e3/6978e39aaa98547c707759226bc07dfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 10x6.5ft Fabric Dark Forest Halloween Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71AeG6WCd-L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Loccor 10x6.5ft Fabric Dark Forest Halloween Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71AeG6WCd-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

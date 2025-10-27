@@ -1,0 +1,129 @@
+<title>Chill Out with "Stranger Things" Zoom Backgrounds</title>
+                    <meta name="description" content="Enhance your Zoom meetings with captivating "Stranger Things" backgrounds. Bring the mystery and nostalgia of Hawkins, Indiana to your video calls. Perfect for fans looking to spice up their virtual spaces in a fun and engaging way!">
+                    <meta name="keywords" content="stranger things zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stranger-things-zoom-background">
+                            <span itemprop="name">stranger things zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chill Out with "Stranger Things" Zoom Backgrounds</h1>
+                <p>Transform your virtual meetings with a "Stranger Things" Zoom background! Dive into the eerie charm of Hawkins, Indiana with iconic imagery, from the Upside Down to Joyce's Christmas lights. Whether you're a fan of the supernatural or simply want to stand out during video calls, these backgrounds will elevate your Zoom experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Christmas lights - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2022/03/stranger-things-christmas-lights.jpg' alt='Stranger Things Christmas lights - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2022/03/stranger-things-christmas-lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Stranger Things Day! I made some Byers House Zoom backgrounds that  you can download.">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/happy-stranger-things-day-i-made-some-byers-house-zoom-v0-amV4ZTh6ZnNnYnpkMUA3t8DviGouNId1gd9q3MgJ1kyHpA4dR9KLn100Dfrk.png?width=1080&crop=smart&format=pjpg&auto=webp&s=2450ebff96a682cd94e73d1b1ba9bd5576ee99a0' alt='Happy Stranger Things Day! I made some Byers House Zoom backgrounds that  you can download.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/happy-stranger-things-day-i-made-some-byers-house-zoom-v0-amV4ZTh6ZnNnYnpkMUA3t8DviGouNId1gd9q3MgJ1kyHpA4dR9KLn100Dfrk.png?width=1080&crop=smart&format=pjpg&auto=webp&s=2450ebff96a682cd94e73d1b1ba9bd5576ee99a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Join Your Favorite TV Shows... On Zoom – ~Pourri">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1020/1629/files/Stranger-Things-Light-Wall-Scene-Arduino-In-scaled_1024x1024.jpg?v=1585768158' alt='Join Your Favorite TV Shows... On Zoom – ~Pourri'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poo-Pourri" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1020/1629/files/Stranger-Things-Light-Wall-Scene-Arduino-In-scaled_1024x1024.jpg?v=1585768158' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things 4 Backgrounds : r/zoombackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/stranger-things-4-backgrounds-v0-msep7yusuf791.jpg?width=1000&format=pjpg&auto=webp&s=f103bdc09b0b95c72157ee5ab105ce4a9d0e2b60' alt='Stranger Things 4 Backgrounds : r/zoombackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/stranger-things-4-backgrounds-v0-msep7yusuf791.jpg?width=1000&format=pjpg&auto=webp&s=f103bdc09b0b95c72157ee5ab105ce4a9d0e2b60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Christmas lights - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?is_home=0&is_front_page=0&object_type=post&post_id=4524&object_id=4524&img=https%253A%252F%252Fvirtualbackgrounds.site%252Fwp-content%252Fuploads%252F2022%252F03%252Fstranger-things-christmas-lights.jpg' alt='Stranger Things Christmas lights - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?is_home=0&is_front_page=0&object_type=post&post_id=4524&object_id=4524&img=https%253A%252F%252Fvirtualbackgrounds.site%252Fwp-content%252Fuploads%252F2022%252F03%252Fstranger-things-christmas-lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Funny Zoom Backgrounds for 2024">
+                                <img itemprop="contentUrl url" src='https://lh5.googleusercontent.com/JUEditRGuonBlnNNKg9LHnPecsz1zOYA9BLmGRk_itclI8MBkhD2eCQRxHCJVAJ4TJrHl5htJHc4-NpFZh901clCzcDBfsVxMjGmy0TouXyGGZINNldi0wrTNHMrBKseZFWcBaR-O0L8a8PYjQ' alt='20 Funny Zoom Backgrounds for 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fellow.app" />
+                                </span>
+                                <a href='https://lh5.googleusercontent.com/JUEditRGuonBlnNNKg9LHnPecsz1zOYA9BLmGRk_itclI8MBkhD2eCQRxHCJVAJ4TJrHl5htJHc4-NpFZh901clCzcDBfsVxMjGmy0TouXyGGZINNldi0wrTNHMrBKseZFWcBaR-O0L8a8PYjQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital background, digital backdrop, stranger things, stranger things  wall, alphabet wall, stranger things background, alphabet with lights">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13644400/r/il/fb9511/4501999871/il_fullxfull.4501999871_q1be.jpg' alt='Digital background, digital backdrop, stranger things, stranger things  wall, alphabet wall, stranger things background, alphabet with lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13644400/r/il/fb9511/4501999871/il_fullxfull.4501999871_q1be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things Scoops Ahoy - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2022/03/stranger-things-scoops-ahoy.jpg' alt='Stranger Things Scoops Ahoy - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2022/03/stranger-things-scoops-ahoy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Virtual Background - Stranger Things R-U-N - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Lb1EbfZf0PI/maxresdefault.jpg' alt='Zoom Virtual Background - Stranger Things R-U-N - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Lb1EbfZf0PI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stranger Things' Day 2021: Our Complete Preview Guide - About Netflix">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/4cd45et68cgf/2F2hoRy68LVDa130sAxw5y/49abcb099e3d07576f0ef130c0997a08/StrangerThingsStorePhotos.jpg' alt='Stranger Things' Day 2021: Our Complete Preview Guide - About Netflix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Netflix" />
+                                </span>
+                                <a href='https://images.ctfassets.net/4cd45et68cgf/2F2hoRy68LVDa130sAxw5y/49abcb099e3d07576f0ef130c0997a08/StrangerThingsStorePhotos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

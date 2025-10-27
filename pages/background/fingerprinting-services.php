@@ -1,0 +1,129 @@
+<title>Fast & Reliable Fingerprinting Services for All Needs</title>
+                    <meta name="description" content="Get fast, reliable fingerprinting services for employment, licensing, and legal needs. Our advanced technology ensures accurate identification, providing peace of mind for businesses and individuals. Trust us for your fingerprinting solutions!">
+                    <meta name="keywords" content="fingerprinting services">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fingerprinting-services">
+                            <span itemprop="name">fingerprinting services</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fast & Reliable Fingerprinting Services for All Needs</h1>
+                <p>Fingerprinting services provide essential background checks for various purposes, including employment, licensing, and legal requirements. These services use advanced technology to capture and process fingerprints accurately, ensuring a secure and trustworthy method of identification. Ideal for businesses and individuals seeking reliable documentation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Fingerprinting | Torrance, CA | US Mail Plus">
+                                <img itemprop="contentUrl url" src='https://images.rscentral.org/StoreImages/PageHeaders/fingerprinting_01.jpg' alt='Digital Fingerprinting | Torrance, CA | US Mail Plus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Mail Plus" />
+                                </span>
+                                <a href='https://images.rscentral.org/StoreImages/PageHeaders/fingerprinting_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IdentoGO Fingerprinting Service | Identogo">
+                                <img itemprop="contentUrl url" src='https://www.identogo.com/uploads/general/MboroTN_hero2.jpg' alt='IdentoGO Fingerprinting Service | Identogo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Identogo" />
+                                </span>
+                                <a href='https://www.identogo.com/uploads/general/MboroTN_hero2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Services | Digital Fingerprinting | Fountain Valley ...">
+                                <img itemprop="contentUrl url" src='https://www.aimmailcenters.com/sites/all/themes/aim_zen/images/views/fingerprinting.jpg' alt='Fingerprinting Services | Digital Fingerprinting | Fountain Valley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIM Mail Centers" />
+                                </span>
+                                <a href='https://www.aimmailcenters.com/sites/all/themes/aim_zen/images/views/fingerprinting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting - Puget Sound Educational Service District 121">
+                                <img itemprop="contentUrl url" src='https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1616747793/psesdorg/tdvezzyec1hxkgpyrlyp/GettyImages-1208700065.png' alt='Fingerprinting - Puget Sound Educational Service District 121'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puget Sound Educational Service District" />
+                                </span>
+                                <a href='https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1616747793/psesdorg/tdvezzyec1hxkgpyrlyp/GettyImages-1208700065.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Services | Live Scan, Digital | PostalAnnex">
+                                <img itemprop="contentUrl url" src='https://www.postalannex.com/sites/all/themes/pa_zen/images/views/hero-live-scan-fingerprinting-services.jpg' alt='Fingerprinting Services | Live Scan, Digital | PostalAnnex'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PostalAnnex" />
+                                </span>
+                                <a href='https://www.postalannex.com/sites/all/themes/pa_zen/images/views/hero-live-scan-fingerprinting-services.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Scan and Ink Card Fingerprinting Services - no appt needed ...">
+                                <img itemprop="contentUrl url" src='https://afingerprints.com/wp-content/uploads/2019/10/A-Fingerprints-company-logo.jpg' alt='Live Scan and Ink Card Fingerprinting Services - no appt needed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="afingerprints.com" />
+                                </span>
+                                <a href='https://afingerprints.com/wp-content/uploads/2019/10/A-Fingerprints-company-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FAMU Fingerprinting Services">
+                                <img itemprop="contentUrl url" src='https://www.famu.edu/administration/campus-services/parking/img/Fingerprinting_Services_640x480.jpg' alt='FAMU Fingerprinting Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FAMU" />
+                                </span>
+                                <a href='https://www.famu.edu/administration/campus-services/parking/img/Fingerprinting_Services_640x480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprint Services - Pinpoint Investigations & Security Corp">
+                                <img itemprop="contentUrl url" src='https://pinpointisc.com/wp-content/uploads/2016/02/shutterstock_188832104.jpg' alt='Fingerprint Services - Pinpoint Investigations & Security Corp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinpoint Investigations & Security Corp." />
+                                </span>
+                                <a href='https://pinpointisc.com/wp-content/uploads/2016/02/shutterstock_188832104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Services | Digital Fingerprinting | AIM Mail Centers">
+                                <img itemprop="contentUrl url" src='https://www.aimmailcenters.com/sites/all/themes/aim_zen/images/views/hero-fingerprinting.jpg' alt='Fingerprinting Services | Digital Fingerprinting | AIM Mail Centers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIM Mail Centers" />
+                                </span>
+                                <a href='https://www.aimmailcenters.com/sites/all/themes/aim_zen/images/views/hero-fingerprinting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Services | SecureOne Security Services">
+                                <img itemprop="contentUrl url" src='https://www.secureone.com/images/fingerprinting-electronic.jpg' alt='Fingerprinting Services | SecureOne Security Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecureOne" />
+                                </span>
+                                <a href='https://www.secureone.com/images/fingerprinting-electronic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

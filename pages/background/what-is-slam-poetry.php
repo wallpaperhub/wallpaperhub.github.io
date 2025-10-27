@@ -1,0 +1,129 @@
+<title>Discover the Power of Slam Poetry: Expression and Impact</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="what is slam poetry">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-slam-poetry">
+                            <span itemprop="name">what is slam poetry</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Power of Slam Poetry: Expression and Impact</h1>
+                <p>Slam poetry is a dynamic form of performance poetry where artists deliver original works at competitions or open mic events. It emphasizes rhythm, emotion, and engaging storytelling, often tackling social issues. This interactive medium encourages audience participation, making it a powerful tool for expression and connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Step Guide on How To Write Slam Poetry">
+                                <img itemprop="contentUrl url" src='https://www.digitalpoet.net/uploads/2/0/9/4/20945120/1397140390.jpg' alt='9 Step Guide on How To Write Slam Poetry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Poet" />
+                                </span>
+                                <a href='https://www.digitalpoet.net/uploads/2/0/9/4/20945120/1397140390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Spoken Word Poetry? - ppt download">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/12633137/76/images/3/What+is+slam+poetry.jpg' alt='What is Spoken Word Poetry? - ppt download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/12633137/76/images/3/What+is+slam+poetry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Host a Poetry Slam in Your Classroom - Presto Plans">
+                                <img itemprop="contentUrl url" src='https://prestoplans.com/wp-content/uploads/sites/7221/2022/02/History-of-Poetry-Slams.png' alt='Host a Poetry Slam in Your Classroom - Presto Plans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Presto Plans" />
+                                </span>
+                                <a href='https://prestoplans.com/wp-content/uploads/sites/7221/2022/02/History-of-Poetry-Slams.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write a Concrete Slam Poem: 10 Steps (with Pictures)">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/5/53/Write-a-Concrete-Slam-Poem-Step-4.jpg/v4-460px-Write-a-Concrete-Slam-Poem-Step-4.jpg' alt='How to Write a Concrete Slam Poem: 10 Steps (with Pictures)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow Life" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/5/53/Write-a-Concrete-Slam-Poem-Step-4.jpg/v4-460px-Write-a-Concrete-Slam-Poem-Step-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Poetry Slam?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BSSf9k8zo4k/maxresdefault.jpg' alt='What Is Poetry Slam?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BSSf9k8zo4k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slam poetry competitions are keeping poetry alive | Opinion ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/dailytitan.com/content/tncms/assets/v3/editorial/9/f5/9f5c8926-1bf8-59fa-8c73-992d01a2b4a9/5f3b007649f57.image.jpg?resize=1200%2C1200' alt='Slam poetry competitions are keeping poetry alive | Opinion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Titan" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/dailytitan.com/content/tncms/assets/v3/editorial/9/f5/9f5c8926-1bf8-59fa-8c73-992d01a2b4a9/5f3b007649f57.image.jpg?resize=1200%2C1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slam Poetry | Ms. Lee's Classroom Blog">
+                                <img itemprop="contentUrl url" src='https://kleeclark.wordpress.com/wp-content/uploads/2014/05/img_22551.jpg' alt='Slam Poetry | Ms. Lee's Classroom Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="2448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ms. Lee's Classroom Blog - WordPress.com" />
+                                </span>
+                                <a href='https://kleeclark.wordpress.com/wp-content/uploads/2014/05/img_22551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PPT - What is Slam Poetry? PowerPoint Presentation, free download ...">
+                                <img itemprop="contentUrl url" src='https://image1.slideserve.com/1869230/slide2-l.jpg' alt='PPT - What is Slam Poetry? PowerPoint Presentation, free download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideServe" />
+                                </span>
+                                <a href='https://image1.slideserve.com/1869230/slide2-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Poetry Slam Winner - Between the Lines">
+                                <img itemprop="contentUrl url" src='https://autodesk.blogs.com/.a/6a00d8341bfd0c53ef01b7c89097d1970b-pi' alt='Bad Poetry Slam Winner - Between the Lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Between the Lines" />
+                                </span>
+                                <a href='https://autodesk.blogs.com/.a/6a00d8341bfd0c53ef01b7c89097d1970b-pi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slam Poetry 101: An Introduction — Mud and Ink Teaching">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56f2c68022482eb8ffb71e44/1523111446297-8T25WA7M34VOIP9FVEYJ/Getting+Started+with+Slam.png' alt='Slam Poetry 101: An Introduction — Mud and Ink Teaching'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mud and Ink Teaching" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56f2c68022482eb8ffb71e44/1523111446297-8T25WA7M34VOIP9FVEYJ/Getting+Started+with+Slam.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

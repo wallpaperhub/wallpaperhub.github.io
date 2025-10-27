@@ -1,0 +1,129 @@
+<title>Unraveling Zeus: The King of Greek Gods</title>
+                    <meta name="description" content="Discover Zeus, the powerful king of the Greek gods, known for his control over thunder and lightning. Explore his myths, influence, and enduring legacy in ancient culture. Perfect for those seeking to delve into Greek mythology's rich history and fascinating characters!">
+                    <meta name="keywords" content="zeus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/zeus">
+                            <span itemprop="name">zeus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling Zeus: The King of Greek Gods</h1>
+                <p>Zeus, the king of the Greek gods, ruled Mount Olympus and presided over the sky and thunder. Known for his powerful lightning bolt, Zeus was a symbol of authority and protection. Myths portray him as both benevolent and vengeful, influencing the fates of gods and mortals alike. His legacy endures in literature and culture today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg/1200px-Jupiter_Smyrna_Louvre_Ma13.jpg' alt='Zeus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg/1200px-Jupiter_Smyrna_Louvre_Ma13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus | Encyclopedia of myths Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/encyclopediaofmyths/images/4/4c/Zeus.jpg/revision/latest?cb=20130131083843' alt='Zeus | Encyclopedia of myths Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia of myths Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/encyclopediaofmyths/images/4/4c/Zeus.jpg/revision/latest?cb=20130131083843' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus (Character) - Giant Bomb">
+                                <img itemprop="contentUrl url" src='https://www.giantbomb.com/a/uploads/scale_small/1/17172/1443469-zeus_by_thegryph.jpg' alt='Zeus (Character) - Giant Bomb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giant Bomb" />
+                                </span>
+                                <a href='https://www.giantbomb.com/a/uploads/scale_small/1/17172/1443469-zeus_by_thegryph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus | Myths, Wife, Children, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/52/190152-050-687E3778/sculpture-god-Jupiter-Roman.jpg' alt='Zeus | Myths, Wife, Children, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/52/190152-050-687E3778/sculpture-god-Jupiter-Roman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Facts About Zeus - OhMyFacts">
+                                <img itemprop="contentUrl url" src='https://ohmyfacts.com/wp-content/uploads/2024/06/45-facts-about-zeus-1717999453.jpeg' alt='45 Facts About Zeus - OhMyFacts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OhMyFacts" />
+                                </span>
+                                <a href='https://ohmyfacts.com/wp-content/uploads/2024/06/45-facts-about-zeus-1717999453.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus Stock Illustrations – 6,139 Zeus Stock Illustrations, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hand-drawn-vector-zeus-king-gods-greek-mythology-showcases-his-majestic-presence-wielding-thunderbolts-symbolizing-340825118.jpg' alt='Zeus Stock Illustrations – 6,139 Zeus Stock Illustrations, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hand-drawn-vector-zeus-king-gods-greek-mythology-showcases-his-majestic-presence-wielding-thunderbolts-symbolizing-340825118.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus | Age of Empires Series Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ageofempires/images/4/4b/AoMR_Zeus_artwork.png/revision/latest/scale-to-width-down/1200?cb=20240908095017' alt='Zeus | Age of Empires Series Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Age of Empires Series Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ageofempires/images/4/4b/AoMR_Zeus_artwork.png/revision/latest/scale-to-width-down/1200?cb=20240908095017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Zeus | Greek Mythology">
+                                <img itemprop="contentUrl url" src='https://www.kidzone.ws/mythology/greek/images/zeus-purple-lightning.jpg' alt='About Zeus | Greek Mythology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KidZone.ws" />
+                                </span>
+                                <a href='https://www.kidzone.ws/mythology/greek/images/zeus-purple-lightning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus|Jupiter Greek|Roman God Wall Art">
+                                <img itemprop="contentUrl url" src='http://roundlakedecor.com/cdn/shop/products/zeus-greek-god-wall-art_1200x1200.jpg?v=1617716603' alt='Zeus|Jupiter Greek|Roman God Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Round Lake Decor" />
+                                </span>
+                                <a href='http://roundlakedecor.com/cdn/shop/products/zeus-greek-god-wall-art_1200x1200.jpg?v=1617716603' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeus - King of the Gods">
+                                <img itemprop="contentUrl url" src='https://e498h76z5mp.exactdn.com/wp-content/uploads/2014/09/167482645.jpg?lossy=1&quality=65' alt='Zeus - King of the Gods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Boston" />
+                                </span>
+                                <a href='https://e498h76z5mp.exactdn.com/wp-content/uploads/2014/09/167482645.jpg?lossy=1&quality=65' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

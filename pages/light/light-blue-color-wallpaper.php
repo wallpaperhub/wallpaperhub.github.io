@@ -1,0 +1,129 @@
+<title>Transform Your Space with Light Blue Color Wallpaper</title>
+                    <meta name="description" content="Explore a stunning range of light blue color wallpapers that create a peaceful and relaxing atmosphere. Perfect for any room, our selection enhances your decor while providing a soothing backdrop. Discover your ideal shade and pattern today for a refreshing home makeover!">
+                    <meta name="keywords" content="light blue color wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-color-wallpaper">
+                            <span itemprop="name">light blue color wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Light Blue Color Wallpaper</h1>
+                <p>Light blue color wallpaper brings a serene and tranquil feel to any space. Its soft hue evokes calmness, making it perfect for bedrooms, living rooms, or meditation areas. With a variety of patterns and textures available, light blue wallpaper can complement different decor styles, enhancing the overall ambiance of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue Light Blue Background Plain">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/5c/fe/5b5cfebcdce5c88b2b8f2a2c7cccae4d.jpg' alt='Baby Blue Light Blue Background Plain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/5c/fe/5b5cfebcdce5c88b2b8f2a2c7cccae4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yeele 10x10ft Solid Color Blurry Light Blue Background for Photography  Customized Abstract Pastel Backdrop Baby Adult Family Party Booth Portraits  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41g8yeF0NWL._AC_UF894,1000_QL80_.jpg' alt='Yeele 10x10ft Solid Color Blurry Light Blue Background for Photography  Customized Abstract Pastel Backdrop Baby Adult Family Party Booth Portraits  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41g8yeF0NWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Color Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/light-blue-color-iphone-hm2y13mdgw3xag51.webp' alt='Light Blue Color Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/light-blue-color-iphone-hm2y13mdgw3xag51.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky-blue Pastel Color Painted Wooden Texture, Wallpaper, Background Photo  (121172) - YouWorkForThem">
+                                <img itemprop="contentUrl url" src='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/121172/121172_00_2x.jpg?20170515031019' alt='Sky-blue Pastel Color Painted Wooden Texture, Wallpaper, Background Photo  (121172) - YouWorkForThem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouWorkForThem" />
+                                </span>
+                                <a href='https://dfjx2uxqg3cgi.cloudfront.net/img/photo/121172/121172_00_2x.jpg?20170515031019' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Light Blue Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15425983/p/f/m/CvJ306sQkqjdhbfkiBFcagr9Bz9HiAXw7lXB-4mR7HURamLiFol-/Baby%20Blue%20Printed%20Solid.jpg' alt='Solid Light Blue Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15425983/p/f/m/CvJ306sQkqjdhbfkiBFcagr9Bz9HiAXw7lXB-4mR7HURamLiFol-/Baby%20Blue%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg' alt='Light Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Light blue | iPhone wallpapers | Solid color backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/light-blue-iphone-wallpapers-solid-color-backgrounds-paint--comdlpng6948395.jpg' alt='Free: Light blue | iPhone wallpapers | Solid color backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/light-blue-iphone-wallpapers-solid-color-backgrounds-paint--comdlpng6948395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Plain by Albany - Baby Blue - Wallpaper - 383259">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/194872/tiled/albany-dream-plain-baby-blue-wallpaper-tiled-194872.jpg' alt='Dream Plain by Albany - Baby Blue - Wallpaper - 383259'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/194872/tiled/albany-dream-plain-baby-blue-wallpaper-tiled-194872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3772.jpg' alt='Sky Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Light Blue Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-2iuzyh711jo9bmgo.jpg' alt='500+] Light Blue Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-2iuzyh711jo9bmgo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

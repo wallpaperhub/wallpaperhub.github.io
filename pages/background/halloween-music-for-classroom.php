@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Music for Your Classroom</title>
+                    <meta name="description" content="Discover the best Halloween music for your classroom! Enhance the festive spirit with playful tracks and spooky soundscapes, perfect for activities and celebrations. Engage students and make learning fun this Halloween season!">
+                    <meta name="keywords" content="halloween music for classroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-music-for-classroom">
+                            <span itemprop="name">halloween music for classroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Music for Your Classroom</h1>
+                <p>Halloween music is a great way to create a festive atmosphere in the classroom! Incorporate spooky soundtracks, fun Halloween-themed songs, and instrumental pieces to engage students during activities and celebrations. Use playlists tailored for different age groups to enhance creativity and make learning a treat!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qw07ZfxeV4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABZ2YVnPk7SM89Rh8eAWecvxubJg' alt='Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qw07ZfxeV4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABZ2YVnPk7SM89Rh8eAWecvxubJg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Songs Playlist    1 Hour Halloween Playlist for Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SC5iv5ejF-w/maxresdefault.jpg' alt='Clean Halloween Songs Playlist    1 Hour Halloween Playlist for Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SC5iv5ejF-w/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/I9rZsWYRm1A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBWPXHjHZ5vKHk3ftM5ci9nov80rQ' alt='Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/I9rZsWYRm1A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBWPXHjHZ5vKHk3ftM5ci9nov80rQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/GwtTX69zRM0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7Kjk3J7WarMnlTwp-aTOANsBfpQ' alt='Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/GwtTX69zRM0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7Kjk3J7WarMnlTwp-aTOANsBfpQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_BafNUzeQFQ/maxresdefault.jpg' alt='Clean Halloween Songs Playlist    Clean Halloween Music for School /  Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_BafNUzeQFQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HALLOWEEN RELAXING MUSIC    Halloween 2020    Halloween Background     Halloween Instrumental Songs, Mix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qkwHZc7ydVs/maxresdefault.jpg' alt='HALLOWEEN RELAXING MUSIC    Halloween 2020    Halloween Background     Halloween Instrumental Songs, Mix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qkwHZc7ydVs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean Halloween Playlist    Clean Halloween Songs for Classrooms / School">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1kXrPQzs-YY/maxresdefault.jpg' alt='Clean Halloween Playlist    Clean Halloween Songs for Classrooms / School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1kXrPQzs-YY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Music for the Classroom">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SctXMzw9XOM/maxresdefault.jpg' alt='Halloween Music for the Classroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SctXMzw9XOM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Halloween Songs Playlist    Disney Halloween Music Mix">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XaKZg9BGc8Y/maxresdefault.jpg' alt='Disney Halloween Songs Playlist    Disney Halloween Music Mix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XaKZg9BGc8Y/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween – Music and Motivate">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/musicandmotivate.com/wp-content/uploads/2019/10/2.png?resize=768%2C768&ssl=1' alt='Halloween – Music and Motivate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Music and Motivate" />
+                                </span>
+                                <a href='https://i0.wp.com/musicandmotivate.com/wp-content/uploads/2019/10/2.png?resize=768%2C768&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Electrifying Lightning GIFs for Your Content</title>
+                    <meta name="description" content="Discover stunning lightning GIFs to energize your content! Perfect for social media, websites, and presentations, these dynamic visuals bring the thrill of nature's power right to your screen. Explore our collection and make your posts shine with excitement today!">
+                    <meta name="keywords" content="lightning gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lightning-gif">
+                            <span itemprop="name">lightning gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Electrifying Lightning GIFs for Your Content</h1>
+                <p>Lightning GIFs are dynamic visual representations of lightning strikes, perfect for adding excitement to your content. Whether you're looking to capture nature's fury or create an electrifying atmosphere, these GIFs offer a quick, engaging way to enhance your social media posts, presentations, or websites. Use them for a lively impact!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/CKlafeh1NAxz35KTq4/200w.gif?cid=6c09b952o7x48cnt90gymscqkekmqfte6csadfjvplv9vwen&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Lightning GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/CKlafeh1NAxz35KTq4/200w.gif?cid=6c09b952o7x48cnt90gymscqkekmqfte6csadfjvplv9vwen&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AHH! Lightning GIF! | DCist">
+                                <img itemprop="contentUrl url" src='https://dcist.com/wp-content/uploads/sites/3/2014/08/PleaseCreditJasonMorenz-thumb-640xauto-853938.gif' alt='AHH! Lightning GIF! | DCist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCist" />
+                                </span>
+                                <a href='https://dcist.com/wp-content/uploads/sites/3/2014/08/PleaseCreditJasonMorenz-thumb-640xauto-853938.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Screenshot :: >lightning.gif">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/158027122752854420/72139CE3927B6DED12C02FD1F17BC63B41C00186/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: Screenshot :: >lightning.gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/158027122752854420/72139CE3927B6DED12C02FD1F17BC63B41C00186/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lightning freaking out GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/38/8b/e2/388be24848b1bbb4388a4352f0af1a5c.gif' alt='lightning freaking out GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/38/8b/e2/388be24848b1bbb4388a4352f0af1a5c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/origin/8b/8bbba99bfecf907ac91070fe50177b96_w200.gif' alt='Lightning GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/origin/8b/8bbba99bfecf907ac91070fe50177b96_w200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Lightning.gif - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/58/Lightning.gif' alt='File:Lightning.gif - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/58/Lightning.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 cool facts about lightning: Weather you'd like to know ...">
+                                <img itemprop="contentUrl url" src='https://www.cleveland.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.cleveland.com%2Fhome%2Fcleve-media%2Fwidth2048%2Fimg%2Fweather%2Fblog_impact%2Fphoto%2Fcatatumbo-lightning-venezuela-nasagif-4d23f385f2ccdc20.gif?auth=776231ca76846291326eda279e7425a3b03427a9e95501d5b5da23518ea7da24&width=1280&quality=90' alt='15 cool facts about lightning: Weather you'd like to know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland.com" />
+                                </span>
+                                <a href='https://www.cleveland.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.cleveland.com%2Fhome%2Fcleve-media%2Fwidth2048%2Fimg%2Fweather%2Fblog_impact%2Fphoto%2Fcatatumbo-lightning-venezuela-nasagif-4d23f385f2ccdc20.gif?auth=776231ca76846291326eda279e7425a3b03427a9e95501d5b5da23518ea7da24&width=1280&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Animations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fb/04/99/fb049953437ae89baa065bcce27bd799.gif' alt='Best Animations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fb/04/99/fb049953437ae89baa065bcce27bd799.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Gif Lightning GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/VoTP4zAdmqYAAAAM/lightning.gif' alt='Animated Gif Lightning GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/VoTP4zAdmqYAAAAM/lightning.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Storm GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/l0MYOJCCE8yTfcwSY/200w.gif?cid=6c09b952n48a27kjg2318wu4sibeva0e20honidu83f0yyg3&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Lightning Storm GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/l0MYOJCCE8yTfcwSY/200w.gif?cid=6c09b952n48a27kjg2318wu4sibeva0e20honidu83f0yyg3&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

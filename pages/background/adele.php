@@ -1,0 +1,129 @@
+<title>Adele: The Voice of a Generation</title>
+                    <meta name="description" content="Discover the magic of Adele, the multi-talented artist known for her soul-stirring voice and heartfelt lyrics. From chart-topping hits to award-winning albums, explore her journey and impact on music today. Join us in celebrating the incredible legacy of this iconic singer-songwriter!">
+                    <meta name="keywords" content="adele">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adele">
+                            <span itemprop="name">adele</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adele: The Voice of a Generation</h1>
+                <p>Adele, the British singer-songwriter, is renowned for her powerful voice and emotional ballads. Rising to fame with her debut album "19," she has captivated millions with hits like "Someone Like You" and "Rolling in the Deep." Her soulful music often explores themes of heartbreak and resilience, making her a beloved icon in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele Announces Hiatus from Performing: "I Will Not See You"">
+                                <img itemprop="contentUrl url" src='https://consequence.net/wp-content/uploads/2024/09/Adele.jpeg?quality=80' alt='Adele Announces Hiatus from Performing: "I Will Not See You"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consequence.net" />
+                                </span>
+                                <a href='https://consequence.net/wp-content/uploads/2024/09/Adele.jpeg?quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele: Biography, British Singer, Musician, Grammy Winner">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/adele-attends-the-brit-awards-2022-at-the-o2-arena-on-news-photo-1709739132.jpg' alt='Adele: Biography, British Singer, Musician, Grammy Winner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/adele-attends-the-brit-awards-2022-at-the-o2-arena-on-news-photo-1709739132.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png' alt='Adele - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele Going on “Break” After Las Vegas Residency | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/66d4fb2464cf52f1796b54a1/2:1/w_2560%2Cc_limit/GettyImages-2165151244.jpg' alt='Adele Going on “Break” After Las Vegas Residency | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/66d4fb2464cf52f1796b54a1/2:1/w_2560%2Cc_limit/GettyImages-2165151244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele | Biography, Songs, Albums, Hello, 30, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/98/163898-050-B2E2A704/British-sensation-Adele.jpg' alt='Adele | Biography, Songs, Albums, Hello, 30, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/98/163898-050-B2E2A704/British-sensation-Adele.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele - Singer, Songwriter">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/521029_v9_bc.jpg' alt='Adele - Singer, Songwriter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/521029_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele Opens Up About the Internet's Obsession With Her Weight Loss ...">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/615f3e01c8239c8b20c72989/master/w_2560%2Cc_limit/1229269763' alt='Adele Opens Up About the Internet's Obsession With Her Weight Loss ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/615f3e01c8239c8b20c72989/master/w_2560%2Cc_limit/1229269763' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele: albums, songs, playlists | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/cover/8bdaf37e2e7f883e84bbc3462c938293/0x1900-000000-80-0-0.jpg' alt='Adele: albums, songs, playlists | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/cover/8bdaf37e2e7f883e84bbc3462c938293/0x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele and Her Epic Transformation | SurgeryTR">
+                                <img itemprop="contentUrl url" src='https://www.surgerytr.com/wp-content/uploads/2024/01/Adele3.jpg' alt='Adele and Her Epic Transformation | SurgeryTR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SurgeryTR" />
+                                </span>
+                                <a href='https://www.surgerytr.com/wp-content/uploads/2024/01/Adele3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele Not Working on New Music and Planning Break Following Residency">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/07/adele-taking-break-from-music.jpg?w=1581&h=1054&crop=1' alt='Adele Not Working on New Music and Planning Break Following Residency'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/07/adele-taking-break-from-music.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

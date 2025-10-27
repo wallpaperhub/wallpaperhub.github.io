@@ -1,0 +1,129 @@
+<title>Explore the UTSA Logo: Symbol of Excellence</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="utsa logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/utsa-logo">
+                            <span itemprop="name">utsa logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the UTSA Logo: Symbol of Excellence</h1>
+                <p>The UTSA logo symbolizes the spirit and identity of the University of Texas at San Antonio. Featuring bold colors and a dynamic design, it reflects the institution's commitment to excellence in education and community engagement. The logo serves as a source of pride for students, faculty, and alumni alike, showcasing the university's rich heritage and future aspirations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UTSA Roadrunners - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/UTSA_Athletics_logo.svg/1200px-UTSA_Athletics_logo.svg.png' alt='UTSA Roadrunners - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/UTSA_Athletics_logo.svg/1200px-UTSA_Athletics_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas-SA Roadrunners Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2021/07/Texas-SA-Roadrunners-logo.png' alt='Texas-SA Roadrunners Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2021/07/Texas-SA-Roadrunners-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:UTSA Roadrunners logo.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/UTSA_Roadrunners_logo.svg/2560px-UTSA_Roadrunners_logo.svg.png' alt='File:UTSA Roadrunners logo.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/UTSA_Roadrunners_logo.svg/2560px-UTSA_Roadrunners_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UTSA Roadrunners Alternate Logo | SPORTS LOGO HISTORY">
+                                <img itemprop="contentUrl url" src='https://sportslogohistory.com/wp-content/uploads/2022/09/utsa_roadrunners_2008-pres%5Ea.png' alt='UTSA Roadrunners Alternate Logo | SPORTS LOGO HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Logo History" />
+                                </span>
+                                <a href='https://sportslogohistory.com/wp-content/uploads/2022/09/utsa_roadrunners_2008-pres%5Ea.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:UTSA Logo.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UTSA_Logo.svg/1280px-UTSA_Logo.svg.png' alt='File:UTSA Logo.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UTSA_Logo.svg/1280px-UTSA_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UTSA Roadrunners 18'' x 18'' Team Logo Slimline Illuminated Wall Sign">
+                                <img itemprop="contentUrl url" src='https://images.footballfanatics.com/utsa-roadrunners/utsa-roadrunners-18-x-18-team-logo-slimline-illuminated-wall-sign_pi4142000_altimages_ff_4142370-0a7b39a17db78d635466alt1_full.jpg?_hv=2&w=900' alt='UTSA Roadrunners 18'' x 18'' Team Logo Slimline Illuminated Wall Sign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Athletic Conference Apparel, AAC Gear, AAC Shop" />
+                                </span>
+                                <a href='https://images.footballfanatics.com/utsa-roadrunners/utsa-roadrunners-18-x-18-team-logo-slimline-illuminated-wall-sign_pi4142000_altimages_ff_4142370-0a7b39a17db78d635466alt1_full.jpg?_hv=2&w=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Utsa Roadrunners Logo - UTSA Roadrunners University Logo ...">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180614/vj/aa7r3otpg.webp' alt='Utsa Roadrunners Logo - UTSA Roadrunners University Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180614/vj/aa7r3otpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="utsa-logo-stacked_orange - Study Architecture | Architecture ...">
+                                <img itemprop="contentUrl url" src='https://studyarchitecture.com/wp-content/uploads/utsa-logo-stacked_orange.png' alt='utsa-logo-stacked_orange - Study Architecture | Architecture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3276">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study Architecture" />
+                                </span>
+                                <a href='https://studyarchitecture.com/wp-content/uploads/utsa-logo-stacked_orange.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four UTSA Athletics programs recognized for academic excellence ...">
+                                <img itemprop="contentUrl url" src='https://www.utsa.edu/today/2017/images/athleticsutsa780.jpg' alt='Four UTSA Athletics programs recognized for academic excellence ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UTSA" />
+                                </span>
+                                <a href='https://www.utsa.edu/today/2017/images/athleticsutsa780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UTSA Roadrunners Logo Svg & Png Transparent Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/1f/61/831f61fdf61d5ca192f3d0c38fcda5d0.jpg' alt='UTSA Roadrunners Logo Svg & Png Transparent Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/1f/61/831f61fdf61d5ca192f3d0c38fcda5d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

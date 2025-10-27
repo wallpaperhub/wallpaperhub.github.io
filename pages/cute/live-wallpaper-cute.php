@@ -1,0 +1,129 @@
+<title>Adorable Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Elevate your mobile experience with cute live wallpapers that brighten your screen! Discover a collection of charming animations perfect for showcasing your personality. Easy to use and customizable, these wallpapers will bring joy and creativity to your everyday device use. Download now for instant cuteness!">
+                    <meta name="keywords" content="live wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/live-wallpaper-cute">
+                            <span itemprop="name">live wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Live Wallpapers for Your Device</h1>
+                <p>Bring your screen to life with adorable live wallpapers! These charming animations transform your device into a cute wonderland, featuring everything from playful kittens to whimsical flowers. Perfect for creating a joyful atmosphere, you can customize your wallpaper to reflect your personality and style. Enjoy the magic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cat Anime Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-cat-anime-wallpaper.webp' alt='Cute Cat Anime Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-cat-anime-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Live wallpaper iphone ideas | live wallpaper iphone, live ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/02/34/0d/02340dca8dcca1743cb72bb52dbd37e4.gif' alt='20 Live wallpaper iphone ideas | live wallpaper iphone, live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/02/34/0d/02340dca8dcca1743cb72bb52dbd37e4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated twitch stream astronaut cat be right back screen for streamers">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/585/690/small_2x/animated-twitch-stream-astronaut-cat-be-right-back-screen-for-streamers-free-video.jpg' alt='Animated twitch stream astronaut cat be right back screen for streamers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/585/690/small_2x/animated-twitch-stream-astronaut-cat-be-right-back-screen-for-streamers-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jolie image de fond Hello Kitty pour votre téléphone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7207384976654978309&location=0&aid=1988' alt='Jolie image de fond Hello Kitty pour votre téléphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7207384976654978309&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute by EvlcmApp live wallpaper for Android. Cute by EvlcmApp free ...">
+                                <img itemprop="contentUrl url" src='https://mobimg.b-cdn.net/lwallpaper_img/cute_by_evlcmapp/real/1_cute_by_evlcmapp.jpg' alt='Cute by EvlcmApp live wallpaper for Android. Cute by EvlcmApp free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://mobimg.b-cdn.net/lwallpaper_img/cute_by_evlcmapp/real/1_cute_by_evlcmapp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Cute Live Wallpapers ideas | galaxy wallpaper, live ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/50/bd/1f/50bd1f0524b6be45915be45872661966.jpg' alt='10 Best Cute Live Wallpapers ideas | galaxy wallpaper, live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/50/bd/1f/50bd1f0524b6be45915be45872661966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#CapCut #stitch #livewallpaper Selfmade | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7133922175647501574&location=0&aid=1988' alt='#CapCut #stitch #livewallpaper Selfmade | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7133922175647501574&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81CBb3zUg1L.png' alt='Cute Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81CBb3zUg1L.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girly Live Wallpapers HD for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/0bca0a51-e011-400e-ba7a-6aa7026cc5b5/1763509406/cute-girly-live-wallpapers-hd-screenshot.png' alt='Cute Girly Live Wallpapers HD for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Girly Live Wallpapers HD for Android" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/0bca0a51-e011-400e-ba7a-6aa7026cc5b5/1763509406/cute-girly-live-wallpapers-hd-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pictures Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/b853yZaeNpsSrlRHxky4Nf_4h_X2OPDH10wvHFVxefML7bMolRyGxswDjQvST2RPVU8=w240-h480-rw' alt='Cute Pictures Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/b853yZaeNpsSrlRHxky4Nf_4h_X2OPDH10wvHFVxefML7bMolRyGxswDjQvST2RPVU8=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

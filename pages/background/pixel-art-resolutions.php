@@ -1,0 +1,129 @@
+<title>Understanding Pixel Art Resolutions: A Quick Guide</title>
+                    <meta name="description" content="Explore the essential guide to pixel art resolutions! Learn about standard sizes like 16x16, 32x32, and 64x64 pixels, and discover how each affects your artwork's detail and style. Perfect for novices seeking to create stunning pixel art effectively!">
+                    <meta name="keywords" content="pixel art resolutions">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-art-resolutions">
+                            <span itemprop="name">pixel art resolutions</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pixel Art Resolutions: A Quick Guide</h1>
+                <p>Pixel art resolutions play a crucial role in determining the visual quality and aesthetics of your artwork. Common resolutions include 16x16, 32x32, and 64x64 pixels, each offering a unique style. Higher resolutions provide more detail, while lower ones evoke nostalgia and simplicity. Choosing the right resolution is essential for effective pixel art creation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Size is Pixel Art? (Intro to Sprite and Canvas Size)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ad-3dn2qUUs/maxresdefault.jpg' alt='What Size is Pixel Art? (Intro to Sprite and Canvas Size)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ad-3dn2qUUs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Sharp Graphics at Multiple Screen Resolutions | Dev Blog ...">
+                                <img itemprop="contentUrl url" src='https://weareludicrous.com/assets/blog/multiple-resolutions/interpolation.png' alt='Pixel Sharp Graphics at Multiple Screen Resolutions | Dev Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ludicrous Games" />
+                                </span>
+                                <a href='https://weareludicrous.com/assets/blog/multiple-resolutions/interpolation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've been experimenting with different resolutions for pixel art ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2yqelwvvmy551.png' alt='I've been experimenting with different resolutions for pixel art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2yqelwvvmy551.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choosing the Right Resolution for your Pixel Art - Pixel Parmesan">
+                                <img itemprop="contentUrl url" src='https://pixelparmesan.com/media/pages/blog/choosing-the-right-resolution-for-your-pixel-art/2ad4fa4827-1737480524/sword_example.png' alt='Choosing the Right Resolution for your Pixel Art - Pixel Parmesan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel Parmesan" />
+                                </span>
+                                <a href='https://pixelparmesan.com/media/pages/blog/choosing-the-right-resolution-for-your-pixel-art/2ad4fa4827-1737480524/sword_example.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choosing the Right Resolution for your Pixel Art - Pixel Parmesan">
+                                <img itemprop="contentUrl url" src='https://pixelparmesan.com/media/pages/blog/choosing-the-right-resolution-for-your-pixel-art/8c87c51673-1737480567/shoe_illustration_2x-2.png' alt='Choosing the Right Resolution for your Pixel Art - Pixel Parmesan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel Parmesan" />
+                                </span>
+                                <a href='https://pixelparmesan.com/media/pages/blog/choosing-the-right-resolution-for-your-pixel-art/8c87c51673-1737480567/shoe_illustration_2x-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelblog - 5 - Back to Basics — SLYNYRD">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/546c23dd-79cd-406b-8883-917ecbd8c303/8-Size_And_Scale_1024.png' alt='Pixelblog - 5 - Back to Basics — SLYNYRD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLYNYRD" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/546c23dd-79cd-406b-8883-917ecbd8c303/8-Size_And_Scale_1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make High-Resolution Pixel Art - Guru Blog">
+                                <img itemprop="contentUrl url" src='https://guru.com/blog/wp-content/uploads/2023/03/high-res-pixel-art.jpg' alt='How to Make High-Resolution Pixel Art - Guru Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guru" />
+                                </span>
+                                <a href='https://guru.com/blog/wp-content/uploads/2023/03/high-res-pixel-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Canvas Size Should you use for Pixel Art? (Pixel Art Tutorial ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Z8earctNBxg/sddefault.jpg' alt='What Canvas Size Should you use for Pixel Art? (Pixel Art Tutorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Z8earctNBxg/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I committing a sin by mixing resolutions? : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/am-i-committing-a-sin-by-mixing-resolutions-v0-pbftr24zjiib1.png?auto=webp&s=d635b1c649b461aec2590a2da9c873dc02a359b5' alt='Am I committing a sin by mixing resolutions? : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="771">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/am-i-committing-a-sin-by-mixing-resolutions-v0-pbftr24zjiib1.png?auto=webp&s=d635b1c649b461aec2590a2da9c873dc02a359b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resolution Increases Quadratically by Cyangmou on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1f/5a/5a/1f5a5a0bf90fc8044c28051c568d9270.png' alt='Resolution Increases Quadratically by Cyangmou on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1f/5a/5a/1f5a5a0bf90fc8044c28051c568d9270.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Weed Christmas: A Festive Twist on the Holidays</title>
+                    <meta name="description" content="Discover the joy of a Weed Christmas! Explore creative ideas for incorporating cannabis into your holiday celebrations, from themed decorations to tasty treats. Embrace a laid-back spirit this season and celebrate with friends in a fun, cheerful atmosphere. Join the trend now!">
+                    <meta name="keywords" content="weed christmas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weed-christmas">
+                            <span itemprop="name">weed christmas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Weed Christmas: A Festive Twist on the Holidays</h1>
+                <p>Celebrate the holiday season in a unique way with a "Weed Christmas"! Whether you’re decorating with cannabis-themed ornaments or sharing special holiday treats infused with your favorite strain, this festive twist adds a fun and relaxed vibe. Gather with friends, enjoy a cozy evening, and let the good times roll!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have a Lit Christmas Ornament Blunt Weed Themed Christmas Tree - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5187628/r/il/2de3fd/5473457447/il_fullxfull.5473457447_ojkn.jpg' alt='Have a Lit Christmas Ornament Blunt Weed Themed Christmas Tree - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5187628/r/il/2de3fd/5473457447/il_fullxfull.5473457447_ojkn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tree Buddees Green Christmas Funny Weed Christmas Ornament :  Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91npeEqZpDL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Tree Buddees Green Christmas Funny Weed Christmas Ornament :  Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91npeEqZpDL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com - Funny Cannabis Christmas Tree Marijuana Christmas ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61NgFnKg+9L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com - Funny Cannabis Christmas Tree Marijuana Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61NgFnKg+9L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling Blunt Weed Christmas Ornament – OrnamentallyYou">
+                                <img itemprop="contentUrl url" src='https://ornamentallyyou.com/cdn/shop/products/RollingBluntWeedChristmasOrnamentCloseUpDarkChristmasTreeOrnamentMockup.jpg?v=1610541402&width=1080' alt='Rolling Blunt Weed Christmas Ornament – OrnamentallyYou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OrnamentallyYou" />
+                                </span>
+                                <a href='https://ornamentallyyou.com/cdn/shop/products/RollingBluntWeedChristmasOrnamentCloseUpDarkChristmasTreeOrnamentMockup.jpg?v=1610541402&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tis the season to get baked': a stoner's guide to Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/519fc8a6071b52f51c4981a97c883342aa030a76/0_0_3000_1800/master/3000.jpg?width=1200&quality=85&auto=format&fit=max&s=0f8492e7c88c8a8f9cc35fde0db5a77e' alt='Tis the season to get baked': a stoner's guide to Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/519fc8a6071b52f51c4981a97c883342aa030a76/0_0_3000_1800/master/3000.jpg?width=1200&quality=85&auto=format&fit=max&s=0f8492e7c88c8a8f9cc35fde0db5a77e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marijuana Christmas. Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/5/3/3/large1500/335581504.jpg' alt='Marijuana Christmas. Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/5/3/3/large1500/335581504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weed Wish You a Merry Christmas Marijuana Panel Fabric, Raspberry ...">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/products/12051601_Image_4000.0x4000.0_600x.jpg?v=1688167646' alt='Weed Wish You a Merry Christmas Marijuana Panel Fabric, Raspberry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/products/12051601_Image_4000.0x4000.0_600x.jpg?v=1688167646' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Weed Strains for the Holidays | Lightshade">
+                                <img itemprop="contentUrl url" src='https://lightshade.com/wp-content/uploads/2021/12/Christmas-Weed.jpg' alt='The Best Weed Strains for the Holidays | Lightshade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lightshade" />
+                                </span>
+                                <a href='https://lightshade.com/wp-content/uploads/2021/12/Christmas-Weed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificial Marijuana Leaf Christmas Tree - Green for sale online ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/mbYAAOSwD-pnpvnU/s-l1600.jpg' alt='Artificial Marijuana Leaf Christmas Tree - Green for sale online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/mbYAAOSwD-pnpvnU/s-l1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back in the 80s: Wishing for a Green Christmas? Then and Now">
+                                <img itemprop="contentUrl url" src='https://www.mercurynews.com/wp-content/uploads/2024/12/80s_Green-Christmas_AS1037209005.jpeg?w=1200&resize=1200,900' alt='Back in the 80s: Wishing for a Green Christmas? Then and Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mercury News" />
+                                </span>
+                                <a href='https://www.mercurynews.com/wp-content/uploads/2024/12/80s_Green-Christmas_AS1037209005.jpeg?w=1200&resize=1200,900' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

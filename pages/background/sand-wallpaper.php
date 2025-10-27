@@ -1,0 +1,129 @@
+<title>Elegant Sand Wallpaper for a Relaxing Home Ambience</title>
+                    <meta name="description" content="Discover the beauty of sand wallpaper to enhance your home decor. Perfect for bringing a soothing, natural feel to any space, our stylish designs are easy to install and remove. Elevate your interiors with the warmth and elegance of sand textures today!">
+                    <meta name="keywords" content="sand wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sand-wallpaper">
+                            <span itemprop="name">sand wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Sand Wallpaper for a Relaxing Home Ambience</h1>
+                <p>Transform your space with stunning sand wallpaper that evokes the tranquil beauty of beaches and deserts. Ideal for creating a calming atmosphere in any room, these wallpapers are available in various textures and colors. Easy to apply and remove, sand wallpaper elevates your interior design while bringing nature indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sand Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681558402429-9427dadca430?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FuZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Sand Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681558402429-9427dadca430?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FuZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desert Sand Foot Prints">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/55278/desert-sand-foot-prints.jpg?h=699&q=85' alt='Desert Sand Foot Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/55278/desert-sand-foot-prints.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sand Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1601519293208-5644ee3a32f0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Sand Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1601519293208-5644ee3a32f0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Beach Sand">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/84396/perfect-beach-sand.jpg?h=699&q=85' alt='Perfect Beach Sand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/84396/perfect-beach-sand.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sand Photos, Download The BEST Free Sand Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1207528/pexels-photo-1207528.jpeg?cs=srgb&dl=pexels-minan1398-1207528.jpg&fm=jpg' alt='Sand Photos, Download The BEST Free Sand Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4181">
+                                <meta itemprop="height" content="2782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1207528/pexels-photo-1207528.jpeg?cs=srgb&dl=pexels-minan1398-1207528.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sand Paper Texture Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sand-paper-texture-rwtclas8fszzq2xa.jpg' alt='Sand Paper Texture Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sand-paper-texture-rwtclas8fszzq2xa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water and sand wallpapers — JB Design">
+                                <img itemprop="contentUrl url" src='https://jonberrydesign.net/s/Dunes_iPhone.jpg' alt='Water and sand wallpapers — JB Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JB Design" />
+                                </span>
+                                <a href='https://jonberrydesign.net/s/Dunes_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper sand, background, beach, texture, background, sand ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/5/28/background-texture-sand-pesok-beach-marine-fon.webp' alt='Wallpaper sand, background, beach, texture, background, sand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/5/28/background-texture-sand-pesok-beach-marine-fon.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Closeup Holiday iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/be/8e/eebe8edd5b1669f999411ceb9b0a576c.jpg' alt='Beach Sand Closeup Holiday iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/be/8e/eebe8edd5b1669f999411ceb9b0a576c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2645245/pexels-photo-2645245.jpeg?cs=srgb&dl=pexels-anacardia-2645245.jpg&fm=jpg' alt='Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2645245/pexels-photo-2645245.jpeg?cs=srgb&dl=pexels-anacardia-2645245.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

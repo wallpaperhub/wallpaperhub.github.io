@@ -1,0 +1,129 @@
+<title>Are DUIs Public Record? Understanding Your Rights</title>
+                    <meta name="description" content="Discover whether DUIs are public records and what it means for you. Learn about access to DUI records, impacts on personal life, and how transparency in the justice system works. Stay informed and protect your rights regarding DUI-related information.">
+                    <meta name="keywords" content="are duis public record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/are-duis-public-record">
+                            <span itemprop="name">are duis public record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Are DUIs Public Record? Understanding Your Rights</h1>
+                <p>Yes, DUIs (Driving Under the Influence) are considered public records. This means that they can be accessed by anyone through court records or law enforcement databases. This transparency is meant to maintain public safety and accountability, but it can also have lasting impacts on an individual's personal and professional life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUIs Public Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/j3vMPcrCPSc/maxresdefault.jpg' alt='Are DUIs Public Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/j3vMPcrCPSc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUIs Public Record? A Comprehensive Guide - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Are-DUIs-Public-Record_-A-Comprehensive-Guide.png' alt='Are DUIs Public Record? A Comprehensive Guide - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Are-DUIs-Public-Record_-A-Comprehensive-Guide.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUI Arrests Public Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BLz2azRSVXU/maxresdefault.jpg' alt='Are DUI Arrests Public Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BLz2azRSVXU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUI Charges Public Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CVO2ybcx6tE/maxresdefault.jpg' alt='Are DUI Charges Public Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CVO2ybcx6tE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUI Records Public? | RI DUI Lawyer | Attorney Daniel Griffin">
+                                <img itemprop="contentUrl url" src='https://dgriffinlaw.com/wp-content/uploads/2017/12/areduirecordspublic.jpg' alt='Are DUI Records Public? | RI DUI Lawyer | Attorney Daniel Griffin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rhode Island DUI lawyer" />
+                                </span>
+                                <a href='https://dgriffinlaw.com/wp-content/uploads/2017/12/areduirecordspublic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are DUIs Public Record? A Comprehensive Guide - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/are-duis-public-record-a-comprehensive-guide/interstate-sharing-of-dui-records/' alt='Are DUIs Public Record? A Comprehensive Guide - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/are-duis-public-record-a-comprehensive-guide/interstate-sharing-of-dui-records/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a DUI Give You a Criminal Record in New Jersey?">
+                                <img itemprop="contentUrl url" src='https://www.criminalnjattorney.com/wp-content/uploads/2023/01/pexels-energepiccom-174936-2.jpg' alt='Does a DUI Give You a Criminal Record in New Jersey?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bergen County criminal defense attorney" />
+                                </span>
+                                <a href='https://www.criminalnjattorney.com/wp-content/uploads/2023/01/pexels-energepiccom-174936-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Time DWI or DUI in NJ - A Complete Guide - Rosenblum Law">
+                                <img itemprop="contentUrl url" src='https://rosenblumlaw.com/wp-content/uploads/2021/05/timelineofdwi_rosenblumlaw-01-scaled.jpg' alt='First Time DWI or DUI in NJ - A Complete Guide - Rosenblum Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosenblum Law" />
+                                </span>
+                                <a href='https://rosenblumlaw.com/wp-content/uploads/2021/05/timelineofdwi_rosenblumlaw-01-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a DUI/DWI Stay on Your Record in NJ?">
+                                <img itemprop="contentUrl url" src='https://www.newjerseycriminallawattorney.com/wp-content/uploads/2022/09/how-long-does-dui-dwi-stay-record.png' alt='How Long Does a DUI/DWI Stay on Your Record in NJ?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Jersey Criminal Defense Attorneys" />
+                                </span>
+                                <a href='https://www.newjerseycriminallawattorney.com/wp-content/uploads/2022/09/how-long-does-dui-dwi-stay-record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Records Dui">
+                                <img itemprop="contentUrl url" src='https://public-records-dui.govbackgroundchecks.com/screenshots/public-records-dui/0.jpg' alt='Public Records Dui'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://public-records-dui.govbackgroundchecks.com/screenshots/public-records-dui/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

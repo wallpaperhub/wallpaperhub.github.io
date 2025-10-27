@@ -1,0 +1,129 @@
+<title>Creative Ways to Decorate Google Slides</title>
+                    <meta name="description" content="Discover effective decorating tips for Google Slides. Learn how to use themes, images, and animations to create visually stunning presentations that engage your audience. Perfect for students and professionals looking to enhance their slide designs!">
+                    <meta name="keywords" content="how to decorate google slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-decorate-google-slides">
+                            <span itemprop="name">how to decorate google slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Ways to Decorate Google Slides</h1>
+                <p>To decorate Google Slides, start with a theme that matches your message. Use high-quality images, icons, and infographics to enhance visual appeal. Choose a cohesive color palette and consistent fonts. Incorporate animations and transitions to engage the audience. Finally, keep slides uncluttered for a professional touch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change the Design in Google Slides - Tutorial">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/82617/Screenshot1.PNG' alt='How to Change the Design in Google Slides - Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/82617/Screenshot1.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides Design Options for Courses">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fbk0uZBYWKk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBOeQJP7milvjER-2Rlh-NFXG1tWA' alt='Google Slides Design Options for Courses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fbk0uZBYWKk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBOeQJP7milvjER-2Rlh-NFXG1tWA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make Google Slides presentations look good (15 cool effects ...">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/151/posts/106863/image-upload/how_to_highlight_on_google_slides_shape.jpg' alt='How to make Google Slides presentations look good (15 cool effects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/151/posts/106863/image-upload/how_to_highlight_on_google_slides_shape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add or Change Themes in Google Slides - Tutorial">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/82915/01.gif' alt='How to Add or Change Themes in Google Slides - Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/82915/01.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to make  aesthetic slides (easy + free templates!)   - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/O7zb_dedGdQ/sddefault.jpg' alt='how to make  aesthetic slides (easy + free templates!)   - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/O7zb_dedGdQ/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Creative (& Aesthetic) Google Slides Presentation Design Ideas ...">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1223/posts/35281/image/Fow.jpeg' alt='30 Creative (& Aesthetic) Google Slides Presentation Design Ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1223/posts/35281/image/Fow.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Your Google Slides Aesthetic - From Boring to Beautiful">
+                                <img itemprop="contentUrl url" src='https://images.surferseo.art/e504370c-07a1-43c3-8175-9a2e31f8acf2.png' alt='How To Make Your Google Slides Aesthetic - From Boring to Beautiful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Slides" />
+                                </span>
+                                <a href='https://images.surferseo.art/e504370c-07a1-43c3-8175-9a2e31f8acf2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decor Google Slides Templates - Google Slides Themes for ...">
+                                <img itemprop="contentUrl url" src='https://s.tmimgcdn.com/scr/400x250/359300/aesthic-aesthetic-google-slides-template_359345-original.jpg' alt='Decor Google Slides Templates - Google Slides Themes for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template Monster" />
+                                </span>
+                                <a href='https://s.tmimgcdn.com/scr/400x250/359300/aesthic-aesthetic-google-slides-template_359345-original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Choose a Theme in Google Slides - Free Google Slides Templates">
+                                <img itemprop="contentUrl url" src='https://freegoogleslidestemplates.com/wp-content/uploads/2015/10/choosing-google-slides-theme.jpg' alt='How to Choose a Theme in Google Slides - Free Google Slides Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Google Slides Templates" />
+                                </span>
+                                <a href='https://freegoogleslidestemplates.com/wp-content/uploads/2015/10/choosing-google-slides-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 essential Google Slides tips | Airtame">
+                                <img itemprop="contentUrl url" src='https://airtame.com/wp-content/uploads/2019/02/2-google-slides-presentation.png' alt='10 essential Google Slides tips | Airtame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1213">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Airtame" />
+                                </span>
+                                <a href='https://airtame.com/wp-content/uploads/2019/02/2-google-slides-presentation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

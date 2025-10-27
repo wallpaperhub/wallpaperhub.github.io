@@ -1,0 +1,129 @@
+<title>Charming My Melody Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of enchanting My Melody anime wallpapers! Perfect for fans who want to brighten their screens with beloved characters. Easy to download, these wallpapers add a touch of cuteness to your mobile or desktop devices. Explore now and personalize your digital space!">
+                    <meta name="keywords" content="my melody anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/my-melody-anime-wallpaper">
+                            <span itemprop="name">my melody anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming My Melody Anime Wallpapers for Your Device</h1>
+                <p>Transform your digital space with delightful My Melody anime wallpapers! Featuring the adorable Sanrio character in vibrant designs, these wallpapers bring a touch of cuteness to your screens. Perfect for fans of all ages, explore a variety of styles that reflect your personality. Download your favorite My Melody wallpaper today and enjoy its charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody, anime, pink, sanrio, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/754/861/HD-wallpaper-my-melody-anime-pink-sanrio.jpg' alt='My melody, anime, pink, sanrio, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/754/861/HD-wallpaper-my-melody-anime-pink-sanrio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download My Melody (Onegai My Melody) Anime Onegai My Melody HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/119/1197443.jpg' alt='Download My Melody (Onegai My Melody) Anime Onegai My Melody HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2996">
+                                <meta itemprop="height" content="2314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/119/1197443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi (Onegai My Melody) Anime Onegai My Melody HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/119/1197457.jpg' alt='Download Kuromi (Onegai My Melody) Anime Onegai My Melody HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/119/1197457.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/db/bf/fbdbbf1f40d6c0d26f3c1b906afbf1a9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/db/bf/fbdbbf1f40d6c0d26f3c1b906afbf1a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆*:.｡. purikura.｡.:*☆✨  , my melody & kuromi have this as their phone  wallpapers hehe, i wanted to try lineart again & also try a low contrast  style of shading, since I’m so drawn to flat colors but I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2693837354205233545' alt='☆*:.｡. purikura.｡.:*☆✨  , my melody & kuromi have this as their phone  wallpapers hehe, i wanted to try lineart again & also try a low contrast  style of shading, since I’m so drawn to flat colors but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2693837354205233545' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Anime Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11161499.jpg' alt='My Melody Anime Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11161499.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/c4/30/d6c430b77da5b8a18aae61d17a967551.jpg' alt='My Melody   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/c4/30/d6c430b77da5b8a18aae61d17a967551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen To My Melody - Other & Anime Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2050/2050658-bigthumbnail.jpg' alt='Listen To My Melody - Other & Anime Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2050/2050658-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/119/1197468.jpg' alt='Download My Melody (Onegai My Melody) Kuromi (Onegai My Melody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/119/1197468.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody and Kuromi | Hello kitty drawing, Hello kitty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/17/7d/2e177d6ffab2256c1ae1fcb44eb86b24.jpg' alt='My melody and Kuromi | Hello kitty drawing, Hello kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/17/7d/2e177d6ffab2256c1ae1fcb44eb86b24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

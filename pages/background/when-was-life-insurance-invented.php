@@ -1,0 +1,129 @@
+<title>When Was Life Insurance Invented? A Brief History</title>
+                    <meta name="description" content="Discover the fascinating history of life insurance, from ancient practices to the establishment of the first modern company in 1706. Learn how this financial safeguard evolved to protect families and individuals across generations. Explore its impactful journey today!">
+                    <meta name="keywords" content="when was life insurance invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-life-insurance-invented">
+                            <span itemprop="name">when was life insurance invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Life Insurance Invented? A Brief History</h1>
+                <p>Life insurance can trace its origins back to ancient civilizations, with early proto-insurance practices in Babylon and Rome. However, the modern concept began in the 17th century in England, with the establishment of the first life insurance company, the Amicable Societies, in 1706, marking a significant milestone in financial security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life insurance - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b8/Life_insurance_certificate_issued_by_the_Yorkshire_Fire_%26_Life_Insurance_Company_to_Samuel_Holt%2C_Liverpool%2C_England%2C_1851._On_display_at_the_British_Museum_in_London.jpg' alt='Life insurance - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4142">
+                                <meta itemprop="height" content="2809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b8/Life_insurance_certificate_issued_by_the_Yorkshire_Fire_%26_Life_Insurance_Company_to_Samuel_Holt%2C_Liverpool%2C_England%2C_1851._On_display_at_the_British_Museum_in_London.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Insurance in America">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/mPyzEX-vtd2454yfmNuqvKWpdwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/american-insurance.asp_final-77a721e4c7b642b79fcbd8b007397bbd.png' alt='The History of Insurance in America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/mPyzEX-vtd2454yfmNuqvKWpdwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/american-insurance.asp_final-77a721e4c7b642b79fcbd8b007397bbd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of insurance - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1777_loan_Massachusetts_BeineckeLibrary.jpg/1200px-1777_loan_Massachusetts_BeineckeLibrary.jpg' alt='History of insurance - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1777_loan_Massachusetts_BeineckeLibrary.jpg/1200px-1777_loan_Massachusetts_BeineckeLibrary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Putting a Price on a Life - JSTOR Daily">
+                                <img itemprop="contentUrl url" src='https://daily.jstor.org/wp-content/uploads/2016/04/LifeInsurance_1050x700.jpg' alt='Putting a Price on a Life - JSTOR Daily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JSTOR Daily" />
+                                </span>
+                                <a href='https://daily.jstor.org/wp-content/uploads/2016/04/LifeInsurance_1050x700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Past, Present and Future of Risk Factors: The History of Life ...">
+                                <img itemprop="contentUrl url" src='https://www.rgare.com/images/default-source/kc-article-images/life-insurance-history-timelines.jpg?sfvrsn=764f9188_0' alt='Past, Present and Future of Risk Factors: The History of Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RGA" />
+                                </span>
+                                <a href='https://www.rgare.com/images/default-source/kc-article-images/life-insurance-history-timelines.jpg?sfvrsn=764f9188_0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of insurance - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National-insurance-act-1911.jpg/200px-National-insurance-act-1911.jpg' alt='History of insurance - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National-insurance-act-1911.jpg/200px-National-insurance-act-1911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History & Invention of Life Insurance | Ethos Life">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/getethos/image/upload/c_fill,f_auto,fl_progressive:semi,q_auto:eco,t_unsupported/v1574808443/05_Weekly%20Email/Stocksy_txp465a7a123jX200_Medium_1862306_y0mqsm.jpg' alt='The History & Invention of Life Insurance | Ethos Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ethos" />
+                                </span>
+                                <a href='https://res.cloudinary.com/getethos/image/upload/c_fill,f_auto,fl_progressive:semi,q_auto:eco,t_unsupported/v1574808443/05_Weekly%20Email/Stocksy_txp465a7a123jX200_Medium_1862306_y0mqsm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pacific Life 150th Anniversary - Elizur Wright: The Father of Life ...">
+                                <img itemprop="contentUrl url" src='http://www.pl150years.com/img/stories/6_img1.jpg' alt='Pacific Life 150th Anniversary - Elizur Wright: The Father of Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pacific Life 150th Anniversary" />
+                                </span>
+                                <a href='http://www.pl150years.com/img/stories/6_img1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Early History of Life Insurance | Inside Adams">
+                                <img itemprop="contentUrl url" src='https://blogs.loc.gov/inside_adams/files/2012/08/cover-203x300.jpg' alt='An Early History of Life Insurance | Inside Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="203">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress Blogs" />
+                                </span>
+                                <a href='https://blogs.loc.gov/inside_adams/files/2012/08/cover-203x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Life Insurance">
+                                <img itemprop="contentUrl url" src='https://paradigmlife.net/wp-content/uploads/2015/03/old-insurance-picture.jpg' alt='The History of Life Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2296">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paradigm Life" />
+                                </span>
+                                <a href='https://paradigmlife.net/wp-content/uploads/2015/03/old-insurance-picture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

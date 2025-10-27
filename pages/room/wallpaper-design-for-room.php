@@ -1,0 +1,129 @@
+<title>Stunning Wallpaper Designs to Transform Your Room</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wallpaper design for room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-design-for-room">
+                            <span itemprop="name">wallpaper design for room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wallpaper Designs to Transform Your Room</h1>
+                <p>Wallpaper design transforms a room, adding personality and style. Choose patterns, colors, and textures that reflect your taste. From bold florals to subtle geometric shapes, wallpaper can create a focal point or a soothing backdrop. Consider wallpaper that complements existing furniture and decor for a cohesive look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Wallpaper Ideas for Every Room and Style">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/-0hBapV-OdQcUcLdWQsrWZhvS0U=/2000x0/filters:no_upscale():strip_icc()/211206_Shot_10_408_preview-5f9c8c34c15c48a88748ff0aa5eb6e49.jpeg' alt='52 Wallpaper Ideas for Every Room and Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/-0hBapV-OdQcUcLdWQsrWZhvS0U=/2000x0/filters:no_upscale():strip_icc()/211206_Shot_10_408_preview-5f9c8c34c15c48a88748ff0aa5eb6e49.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' alt='Modern Wallpaper Designs [From 5 Top Designers] | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-01/blobid1642763640857.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish Bedroom Wallpaper Ideas For Your Home">
+                                <img itemprop="contentUrl url" src='https://housedesigner.com/wp-content/uploads/2020/10/bedroom-wallpaper-ideas-.jpeg' alt='Stylish Bedroom Wallpaper Ideas For Your Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Designer" />
+                                </span>
+                                <a href='https://housedesigner.com/wp-content/uploads/2020/10/bedroom-wallpaper-ideas-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg' alt='45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Beautiful Wallpaper Ideas for Every Room and Style">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/braff-long-island-bedroom-wallpaper-veranda-jpg-1556212235.jpg?crop=1xw:0.7502469948954388xh;center,top&resize=1200:*' alt='52 Beautiful Wallpaper Ideas for Every Room and Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/braff-long-island-bedroom-wallpaper-veranda-jpg-1556212235.jpg?crop=1xw:0.7502469948954388xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Best Elegant living room wallpaper ideas | room wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' alt='15 Best Elegant living room wallpaper ideas | room wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Wallpaper Design Ideas for Your Bedroom Space!">
+                                <img itemprop="contentUrl url" src='https://www.buildingmaterialreporter.com/uploads/blogs/files/07%20(6).jpg' alt='Amazing Wallpaper Design Ideas for Your Bedroom Space!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Building Material Reporter" />
+                                </span>
+                                <a href='https://www.buildingmaterialreporter.com/uploads/blogs/files/07%20(6).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Select Wallpaper Color for your Room and How it Affects ...">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=1024' alt='How to Select Wallpaper Color for your Room and How it Affects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/articles/Untitled_design_-_2021-03-10T222949.938.png?v=1615405922&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Design Green Colour Wallpaper Roll for Wall Covering Living ...">
+                                <img itemprop="contentUrl url" src='http://daylightdecore.com/cdn/shop/files/TJ6025.jpg?v=1688637453' alt='Floral Design Green Colour Wallpaper Roll for Wall Covering Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daylight Decore" />
+                                </span>
+                                <a href='http://daylightdecore.com/cdn/shop/files/TJ6025.jpg?v=1688637453' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Blooms Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' alt='Terracotta Blooms Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/3_80ae0a1f-0e89-4fc8-b1e1-6e66dc985cb2.jpg?v=1698951799&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

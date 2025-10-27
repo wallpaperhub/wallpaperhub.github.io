@@ -1,0 +1,129 @@
+<title>Unlock Opportunities: Become a Movie Extra Today!</title>
+                    <meta name="description" content="Explore the exciting world of movie extra jobs! Join the film industry as a background actor, connect with professionals, and gain valuable experience without the pressures of main roles. Start your journey today and see where it takes you!">
+                    <meta name="keywords" content="movie extra jobs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movie-extra-jobs">
+                            <span itemprop="name">movie extra jobs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Opportunities: Become a Movie Extra Today!</h1>
+                <p>Movie extra jobs offer a unique opportunity to step into the world of filmmaking. As a background actor, you’ll portray various roles without the spotlight, enhancing the film's authenticity. It’s a great way to gain experience, meet industry professionals, and possibly discover your passion for acting. Flexible schedules make it accessible for many!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get a job as an extra in a movie or TV show - Los Angeles Times">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/c180595/2147483647/strip/true/crop/6059x4039+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' alt='How to get a job as an extra in a movie or TV show - Los Angeles Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/c180595/2147483647/strip/true/crop/6059x4039+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F89%2Fc5f9261a45ad91d3d56edb40cb60%2Fla-photos-freelance-contract-3083073-la-et-st-pose-throws-a-ball-fx-20190618-mn-007.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Being an Extra Won't Jumpstart Your Acting Career">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/42198/original.jpg' alt='Why Being an Extra Won't Jumpstart Your Acting Career'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3668">
+                                <meta itemprop="height" content="2521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/42198/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Most Common Acting Jobs for Background Actors - Project Casting">
+                                <img itemprop="contentUrl url" src='https://static1.squarespace.com/static/5352fe9de4b013cdd4d0b596/t/548abab3e4b075ef31258b85/1418377907682/' alt='20 Most Common Acting Jobs for Background Actors - Project Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Casting" />
+                                </span>
+                                <a href='https://static1.squarespace.com/static/5352fe9de4b013cdd4d0b596/t/548abab3e4b075ef31258b85/1418377907682/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become an Extra/Background Actor in Film/TV">
+                                <img itemprop="contentUrl url" src='https://www.careersinfilm.com/wp-content/uploads/2018/12/extra.jpg' alt='How to Become an Extra/Background Actor in Film/TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Careers in Film" />
+                                </span>
+                                <a href='https://www.careersinfilm.com/wp-content/uploads/2018/12/extra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Extra Jobs: Get Paid up to $180/Day as a Movie Extra (& Top ...">
+                                <img itemprop="contentUrl url" src='https://moneypantry.com/wp-content/uploads/2017/05/movie-extras.jpg' alt='Movie Extra Jobs: Get Paid up to $180/Day as a Movie Extra (& Top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MoneyPantry" />
+                                </span>
+                                <a href='https://moneypantry.com/wp-content/uploads/2017/05/movie-extras.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Getting Work as a Movie Extra - VideoUniversity">
+                                <img itemprop="contentUrl url" src='https://www.videouniversity.com/wp-content/uploads/BeAnextra.jpg' alt='Getting Work as a Movie Extra - VideoUniversity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Video University" />
+                                </span>
+                                <a href='https://www.videouniversity.com/wp-content/uploads/BeAnextra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Extra Jobs: Earn Up to $200 a Day on Nearby Movies">
+                                <img itemprop="contentUrl url" src='https://www.sidehustlenation.com/wp-content/uploads/2019/07/where-to-find-movie-extra-jobs.jpg' alt='Movie Extra Jobs: Earn Up to $200 a Day on Nearby Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Side Hustle Nation" />
+                                </span>
+                                <a href='https://www.sidehustlenation.com/wp-content/uploads/2019/07/where-to-find-movie-extra-jobs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become an Extra on Film Sets">
+                                <img itemprop="contentUrl url" src='https://actinginlondon.co.uk/wp-content/uploads/2017/05/Movie-extras-on-a-film-set.jpg' alt='How to Become an Extra on Film Sets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acting in London" />
+                                </span>
+                                <a href='https://actinginlondon.co.uk/wp-content/uploads/2017/05/Movie-extras-on-a-film-set.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become a Background Actor | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44447/article_full%401x.jpg' alt='How to Become a Background Actor | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44447/article_full%401x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become an Extra on Film Sets">
+                                <img itemprop="contentUrl url" src='https://actinginlondon.co.uk/wp-content/uploads/2016/03/The-Benefits-of-Extra-Work.jpg' alt='How to Become an Extra on Film Sets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Acting in London" />
+                                </span>
+                                <a href='https://actinginlondon.co.uk/wp-content/uploads/2016/03/The-Benefits-of-Extra-Work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

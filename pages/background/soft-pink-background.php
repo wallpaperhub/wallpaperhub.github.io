@@ -1,0 +1,129 @@
+<title>Soft Pink Backgrounds: Enhance Your Design</title>
+                    <meta name="description" content="Discover the charm of soft pink backgrounds for your creative projects. Perfect for branding and social media, this gentle hue adds warmth and elegance to any design, making it ideal for expressing love and femininity. Transform your visuals with a soothing pink aesthetic today!">
+                    <meta name="keywords" content="soft pink background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soft-pink-background">
+                            <span itemprop="name">soft pink background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soft Pink Backgrounds: Enhance Your Design</h1>
+                <p>Soft pink backgrounds evoke feelings of calm and serenity, making them perfect for various design projects. Whether used in branding, social media graphics, or photography, this gentle hue resonates with warmth and tenderness. Ideal for expressing femininity and love, a soft pink background can enhance the overall aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Plain pink background ideas | pink background, tumblr ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/bb/4c/c3/bb4cc3b2fae7978db32f35b4519cc0f8.jpg' alt='7 Best Plain pink background ideas | pink background, tumblr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/bb/4c/c3/bb4cc3b2fae7978db32f35b4519cc0f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,400+ Soft Pink Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1176281328/vector/light-pink-paper-texture-background-border-of-hues-of-light-pink-paint-splashing-droplets.jpg?s=612x612&w=0&k=20&c=Hf30T4odT_Y0qvrzHvlkAoU-sUjq_U42VO8m-mlc5lM=' alt='6,400+ Soft Pink Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1176281328/vector/light-pink-paper-texture-background-border-of-hues-of-light-pink-paint-splashing-droplets.jpg?s=612x612&w=0&k=20&c=Hf30T4odT_Y0qvrzHvlkAoU-sUjq_U42VO8m-mlc5lM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pastel-pink-vignette-concrete-textured-background_53876-129734.jpg' alt='Sweet Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pastel-pink-vignette-concrete-textured-background_53876-129734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17618557/p/f/m/WjDl9qYJIrRLxoGl8dmfqWvb98s3gG6ZH0458xrXVluEvBHbYL0p/Penelope%20Solid%20Color%20Baby%20Pink.jpg' alt='Plain Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17618557/p/f/m/WjDl9qYJIrRLxoGl8dmfqWvb98s3gG6ZH0458xrXVluEvBHbYL0p/Penelope%20Solid%20Color%20Baby%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg' alt='Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Soft Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soft-pink-r7d98m4se0or1ch5.jpg' alt='100+] Soft Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soft-pink-r7d98m4se0or1ch5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Versatile Texture Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/cf/3b/52cf3b5b003213a8d19ea0b15c725632.jpg' alt='Soft Pink Versatile Texture Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/cf/3b/52cf3b5b003213a8d19ea0b15c725632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Wallpaper Vector Images (over 26,000)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/58/69/abstract-pink-watercolor-textured-background-vector-18115869.jpg' alt='Soft Pink Wallpaper Vector Images (over 26,000)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/58/69/abstract-pink-watercolor-textured-background-vector-18115869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/181/236/non_2x/beautiful-soft-pink-feather-pattern-elegant-line-texture-background-photo.jpg' alt='Soft Pink Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/181/236/non_2x/beautiful-soft-pink-feather-pattern-elegant-line-texture-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Background Images – Browse 27,270,314 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/46/06/25/360_F_146062503_SKhVeah2NFWSauxFm4qEvkgBJMMBOYCh.jpg' alt='Pink Background Images – Browse 27,270,314 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/46/06/25/360_F_146062503_SKhVeah2NFWSauxFm4qEvkgBJMMBOYCh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

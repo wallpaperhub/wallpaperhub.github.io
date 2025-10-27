@@ -1,0 +1,129 @@
+<title>Elegant Dark Purple Wallpaper for Sophisticated Interiors</title>
+                    <meta name="description" content="Discover our plain dark purple wallpaper – a perfect blend of luxury and style. Ideal for any room, it creates a serene backdrop that enhances your decor. Elevate your space effortlessly with this rich, versatile shade that brings depth and sophistication to your interiors. Shop now for your dream home transformation!">
+                    <meta name="keywords" content="plain dark purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/plain-dark-purple-wallpaper">
+                            <span itemprop="name">plain dark purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Purple Wallpaper for Sophisticated Interiors</h1>
+                <p>Plain dark purple wallpaper adds a touch of elegance and sophistication to any space. Its rich, deep hue creates a calming atmosphere, making it perfect for bedrooms, living rooms, or offices. Easy to match with various decor styles, this wallpaper enhances the overall aesthetic while providing a chic backdrop that highlights furniture and art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16008280/p/f/m/vvFD5MvBj-yj73GKlX365PHjx84hdv3qfBoiCw230fZEjdKlCoCl/Royal%20Purple%20Printed%20Solid.jpg' alt='Dark Purple Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16008280/p/f/m/vvFD5MvBj-yj73GKlX365PHjx84hdv3qfBoiCw230fZEjdKlCoCl/Royal%20Purple%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Wallpaper Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/paper-purple-texture-background-600nw-699187972.jpg' alt='Dark Purple Wallpaper Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/paper-purple-texture-background-600nw-699187972.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Palette ideas | dark purple wallpaper, pure products, dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/e5/9f/5ce59f56a352deafa3956a5c89faf9a5.jpg' alt='13 Palette ideas | dark purple wallpaper, pure products, dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/e5/9f/5ce59f56a352deafa3956a5c89faf9a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain, purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/87/bb/bb87bb35d6fe516ec45ec3e7dc298f25.jpg' alt='Plain, purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/87/bb/bb87bb35d6fe516ec45ec3e7dc298f25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple And Black Plain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-purple-and-black-plain-75znhgkjjxu552fr.jpg' alt='Dark Purple And Black Plain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-purple-and-black-plain-75znhgkjjxu552fr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Texture Plain Dark Purple, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/257/571/HD-wallpaper-dark-purple-texture-plain-dark-purple.jpg' alt='Dark Purple Texture Plain Dark Purple, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/257/571/HD-wallpaper-dark-purple-texture-plain-dark-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/7f/f0/ea7ff00eb8e28940555876de68dcfbf1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/7f/f0/ea7ff00eb8e28940555876de68dcfbf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-plain-purple-metwp6xusj257qda.jpg' alt='100+] Plain Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-plain-purple-metwp6xusj257qda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14624572/p/f/m/-b_2ei3-XhqoZMXBVyNkmT_RhDyInjjZaDAJmaI4qtEgYcnEwXXtHCk/Dark%20Purple%20Printed%20Solid%20%23463148.jpg' alt='Dark Purple Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14624572/p/f/m/-b_2ei3-XhqoZMXBVyNkmT_RhDyInjjZaDAJmaI4qtEgYcnEwXXtHCk/Dark%20Purple%20Printed%20Solid%20%23463148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid color single one colour plain violet wallpaper 4K HD">
+                                <img itemprop="contentUrl url" src='https://xmple.com/wallpaper/solid-color-single-one-colour-plain-violet-3840x2160-c-0c0023-f-24.svg' alt='Solid color single one colour plain violet wallpaper 4K HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xmple" />
+                                </span>
+                                <a href='https://xmple.com/wallpaper/solid-color-single-one-colour-plain-violet-3840x2160-c-0c0023-f-24.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

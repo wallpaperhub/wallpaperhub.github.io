@@ -1,0 +1,129 @@
+<title>Enchanting Night Light Wallpaper for Cozy Spaces</title>
+                    <meta name="description" content="Discover soothing night light wallpaper to enhance your rooms! Ideal for kids' bedrooms or peaceful retreats, these wallpapers bring a gentle glow that eases nighttime anxiety. Choose from a variety of designs for a magical touch to your decor. Transform your space today!">
+                    <meta name="keywords" content="night light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/night-light-wallpaper">
+                            <span itemprop="name">night light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Night Light Wallpaper for Cozy Spaces</h1>
+                <p>Transform your space with enchanting night light wallpaper! Perfect for bedrooms and nurseries, these unique designs evoke a calming atmosphere. They can create a soothing glow that helps reduce fear of the dark. Explore a variety of styles, from whimsical stars to serene moonlit scenes, making your environment cozy and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights Photos, Download The BEST Free Night Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/722432/pexels-photo-722432.jpeg?cs=srgb&dl=pexels-anatolii-kiriak-227809-722432.jpg&fm=jpg' alt='Night Lights Photos, Download The BEST Free Night Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2832">
+                                <meta itemprop="height" content="4256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/722432/pexels-photo-722432.jpeg?cs=srgb&dl=pexels-anatolii-kiriak-227809-722432.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights Photos, Download The BEST Free Night Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/716656/pexels-photo-716656.jpeg?cs=srgb&dl=pexels-h-s-224963-716656.jpg&fm=jpg' alt='Night Lights Photos, Download The BEST Free Night Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/716656/pexels-photo-716656.jpeg?cs=srgb&dl=pexels-h-s-224963-716656.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/13/96/45/139645b388e744c858775342b01c5b10.jpg' alt='Night Lights iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/13/96/45/139645b388e744c858775342b01c5b10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Night Lights Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1491642273511-91b7769b169e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' alt='999+ Night Lights Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1491642273511-91b7769b169e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="103,300+ Night Light Bulb Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' alt='103,300+ Night Light Bulb Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ [HQ] Night Light Pictures | Download Free Images & Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1548317202-26d94742e8d8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmlnaHQlMjBsaWdodHxlbnwwfHwwfHx8MA%3D%3D' alt='350+ [HQ] Night Light Pictures | Download Free Images & Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1548317202-26d94742e8d8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmlnaHQlMjBsaWdodHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Light Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blurred-nightlights-city_23-2149049662.jpg' alt='Night Light Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blurred-nightlights-city_23-2149049662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights Photos, Download The BEST Free Night Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/721247/pexels-photo-721247.jpeg?cs=srgb&dl=pexels-b3stography-721247.jpg&fm=jpg' alt='Night Lights Photos, Download The BEST Free Night Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/721247/pexels-photo-721247.jpeg?cs=srgb&dl=pexels-b3stography-721247.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights Photos, Download The BEST Free Night Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1829067/pexels-photo-1829067.jpeg?cs=srgb&dl=pexels-well-naves-861559-1829067.jpg&fm=jpg' alt='Night Lights Photos, Download The BEST Free Night Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1829067/pexels-photo-1829067.jpeg?cs=srgb&dl=pexels-well-naves-861559-1829067.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper asphalt, macro, light, night, lights, rain, street, Road ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/86/doroga-asfalt-dozhd-noch.webp' alt='Wallpaper asphalt, macro, light, night, lights, rain, street, Road ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/86/doroga-asfalt-dozhd-noch.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

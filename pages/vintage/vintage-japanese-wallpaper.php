@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Japanese Wallpaper</title>
+                    <meta name="description" content="Discover the charm of vintage Japanese wallpaper! Explore unique designs that blend tradition with elegance, perfect for enhancing your home decor. Embrace the artistry and add a touch of history to your interiors today!">
+                    <meta name="keywords" content="vintage japanese wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-japanese-wallpaper">
+                            <span itemprop="name">vintage japanese wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Japanese Wallpaper</h1>
+                <p>Vintage Japanese wallpaper showcases a rich tapestry of culture and artistry. With intricate patterns and traditional motifs, these wallpapers transport you to a timeless realm. Perfect for adding a touch of elegance to any space, they are ideal for both modern and classic interiors. Embrace the beauty of history in your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Art Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Vintage-Japanese-Art-Wall-Mural_6bd4617d-8abf-4ce8-a1be-6fd2eedbd3ca_1024x1024.jpg?v=1630069692' alt='Vintage Japanese Art Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Vintage-Japanese-Art-Wall-Mural_6bd4617d-8abf-4ce8-a1be-6fd2eedbd3ca_1024x1024.jpg?v=1630069692' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Great Wave Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_60957907-231b-4c86-aedc-ea93a1eead58.jpg?v=1710132112' alt='Vintage Japanese Great Wave Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_60957907-231b-4c86-aedc-ea93a1eead58.jpg?v=1710132112' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Landscape Wallpaper, Vintage Wall Mural, Line Art, Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/09c15e/4676040496/il_570xN.4676040496_8cna.jpg' alt='Japanese Landscape Wallpaper, Vintage Wall Mural, Line Art, Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/09c15e/4676040496/il_570xN.4676040496_8cna.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Japanese Artistic Girl Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/8/18675236_crop.jpg' alt='Retro Japanese Artistic Girl Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/8/18675236_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Water Color Patterns 20 Printable Antique ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20009534/r/il/814eac/4104028629/il_fullxfull.4104028629_d2n8.jpg' alt='Vintage Japanese Water Color Patterns 20 Printable Antique ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20009534/r/il/814eac/4104028629/il_fullxfull.4104028629_d2n8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZYMECH Accent Wall Peel and Stick Wallpaper Vintage Japanese Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ki5V9PqKL.jpg' alt='ZYMECH Accent Wall Peel and Stick Wallpaper Vintage Japanese Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ki5V9PqKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Landscape Wall Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_a1be3c38-6f65-4595-8d39-278c592d6f48.jpg?v=1655885746' alt='Vintage Japanese Landscape Wall Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_a1be3c38-6f65-4595-8d39-278c592d6f48.jpg?v=1655885746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Style Photo Wallpaper Mural Women in the Garden (㎡)">
+                                <img itemprop="contentUrl url" src='https://www.bvm-home.com/cdn/shop/products/beibehang-Vintage-wallpaper-japanese-woman-garden-tooling-photo-wallpaper-wall-wallpaper-3d-background-papier-peint-mural_3f9ef7cd-9299-4a00-b111-a61dffce9ade_2048x.jpg?v=1571609152' alt='Vintage Japanese Style Photo Wallpaper Mural Women in the Garden (㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='https://www.bvm-home.com/cdn/shop/products/beibehang-Vintage-wallpaper-japanese-woman-garden-tooling-photo-wallpaper-wall-wallpaper-3d-background-papier-peint-mural_3f9ef7cd-9299-4a00-b111-a61dffce9ade_2048x.jpg?v=1571609152' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Japanese Wall Mural, Chinoiserie Wallpaper, Peel and Stick  Traditional Japanese Art, Sakura Tree Wallpaper, Classic Accent Wall Art">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/5-WN056-chinese-chinoiserie-pell-and-stick-wallpaper.jpg?v=1718569473&width=2500' alt='Vintage Japanese Wall Mural, Chinoiserie Wallpaper, Peel and Stick  Traditional Japanese Art, Sakura Tree Wallpaper, Classic Accent Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/5-WN056-chinese-chinoiserie-pell-and-stick-wallpaper.jpg?v=1718569473&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale gold leaf panoramic wallpaper - Japanese cranes | Japanese decor">
+                                <img itemprop="contentUrl url" src='https://www.legrandsiecle.com/776/pale-gold-japanese-cranes.jpg' alt='Pale gold leaf panoramic wallpaper - Japanese cranes | Japanese decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Le Grand Siècle" />
+                                </span>
+                                <a href='https://www.legrandsiecle.com/776/pale-gold-japanese-cranes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

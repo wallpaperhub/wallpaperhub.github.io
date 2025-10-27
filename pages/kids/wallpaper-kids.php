@@ -1,0 +1,129 @@
+<title>Kids Wallpaper: Colorful & Fun Designs for Their Dream Rooms</title>
+                    <meta name="description" content="Explore our collection of kids wallpaper featuring playful designs and bright colors. Perfect for creating a joyful and imaginative space, our wallpapers are easy to apply and remove. Transform your child's room into a fun haven that inspires creativity and adventure!">
+                    <meta name="keywords" content="wallpaper kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/wallpaper-kids">
+                            <span itemprop="name">wallpaper kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kids Wallpaper: Colorful & Fun Designs for Their Dream Rooms</h1>
+                <p>Transform your child's space with fun and vibrant wallpaper designed just for kids! Choose from playful themes, bright colors, and engaging patterns that spark imagination. Whether it’s animals, stars, or fantasy worlds, kids' wallpaper not only beautifies rooms but also creates a joyful environment for learning and play.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' alt='Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playroom Wallpaper, Nursery Alphabet Wallpaper, Educational Kids ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26458108/r/il/0086a6/4660133127/il_fullxfull.4660133127_ebte.jpg' alt='Playroom Wallpaper, Nursery Alphabet Wallpaper, Educational Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26458108/r/il/0086a6/4660133127/il_fullxfull.4660133127_ebte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' alt='Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars and moon Kids Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tenstickers.com/webp/wallpaper/large/stars-and-moon-childrens-wallpaper-19831.webp' alt='Stars and moon Kids Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://www.tenstickers.com/webp/wallpaper/large/stars-and-moon-childrens-wallpaper-19831.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Hearts Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper | 3579">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3549039710_hchc_ae4eb6ed-9107-4bcd-b814-e21a6d6ce9d9.jpg' alt='Cute Hearts Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Removable Wallpaper | 3579'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2801">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3549039710_hchc_ae4eb6ed-9107-4bcd-b814-e21a6d6ce9d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kids Room Space Theme Wallpapers">
+                                <img itemprop="contentUrl url" src='https://lifencolors.in/cdn/shop/products/81d868_0890acc9b00140a49caa274a8787070f_mv2.jpg?v=1693654594&width=533' alt='Cute Kids Room Space Theme Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lifencolors" />
+                                </span>
+                                <a href='https://lifencolors.in/cdn/shop/products/81d868_0890acc9b00140a49caa274a8787070f_mv2.jpg?v=1693654594&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Train Wallpaper Nursery Room Decor Playroom Decor Peel and Stick  Wallpaper - A328">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5809455295_jx2s.jpg?v=1730281771&width=1946' alt='Kids Train Wallpaper Nursery Room Decor Playroom Decor Peel and Stick  Wallpaper - A328'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5809455295_jx2s.jpg?v=1730281771&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Wallpaper Decor for Kids Room">
+                                <img itemprop="contentUrl url" src='https://www.muravie.com/wp-content/uploads/2022/09/MUR_8089-2-1.jpg' alt='Animal Wallpaper Decor for Kids Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muravie" />
+                                </span>
+                                <a href='https://www.muravie.com/wp-content/uploads/2022/09/MUR_8089-2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Spaceship Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Kids-Spaceship-Mural-Wallpaper_de1cc2d9-07d7-45e2-bdbd-ad7bf496bd74.jpg?v=1628797248' alt='Kids Spaceship Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Kids-Spaceship-Mural-Wallpaper_de1cc2d9-07d7-45e2-bdbd-ad7bf496bd74.jpg?v=1628797248' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wallink Nursery Wallpaper Kids Wallpaper Peel and Stick  Wallpaper 17.5"x120" Self Adhesive Polka Dot Wallpaper Removable Kids  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714dJGeOiWL.jpg' alt='Amazon.com: Wallink Nursery Wallpaper Kids Wallpaper Peel and Stick  Wallpaper 17.5"x120" Self Adhesive Polka Dot Wallpaper Removable Kids  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714dJGeOiWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

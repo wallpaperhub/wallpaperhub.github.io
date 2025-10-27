@@ -1,0 +1,129 @@
+<title>Edgy Christmas Emo Wallpaper for Holiday Vibes</title>
+                    <meta name="description" content="Discover unique Christmas emo wallpaper that blends festive cheer with edgy, alternative styles. Perfect for expressing your individuality this holiday season. Download now and give your devices a moody Christmas makeover!">
+                    <meta name="keywords" content="christmas wallpaper emo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-wallpaper-emo">
+                            <span itemprop="name">christmas wallpaper emo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy Christmas Emo Wallpaper for Holiday Vibes</h1>
+                <p>Embrace the holiday spirit with a twist using Christmas emo wallpaper. Featuring dark aesthetics, unique designs, and a blend of festive imagery with emo culture, these wallpapers offer an alternative vibe for your devices. Transform your screen into a canvas of moody Christmas cheer that reflects your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12583163/p/f/l/arGP6g5LrdWzgIMb91CgCbF-P0wPXpMjdQo4lZfELXuaHDjur11p2bI/Goth%20Christmas%20Emo%20Pastel%20Goth%20Gothic%20Gingerbread%20Cookie%20Skull%20Candy%20Cane%20Christmas%20Tree.jpg' alt='Emo Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12583163/p/f/l/arGP6g5LrdWzgIMb91CgCbF-P0wPXpMjdQo4lZfELXuaHDjur11p2bI/Goth%20Christmas%20Emo%20Pastel%20Goth%20Gothic%20Gingerbread%20Cookie%20Skull%20Candy%20Cane%20Christmas%20Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Christmas wallpaper by JustTrishy - Download on ZEDGE™ | 9794">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=PJZ3_ahIpfBHSiMOEBazH2mEvZ9Q8ito1VtUQhtfOmH5O387laT3UBJfXXNofBi79aYxgtZ3xCRLf0rPOpCkiWnFsrEtMB1nOwC0pcxAYNoZI5_VzyprPnDZGDe9bDvZj7whvbxzKZV2PvyAc0ZlPVgdHbZcRVd8PoVzaRMG0tIzlckS4Ij6ru53zCQRyui55jOF5ODFMDUoAphVspWAfGMDiaYPS5TTTuF2EYSBBANJzYHr9Hbp5h4akk8' alt='Emo Christmas wallpaper by JustTrishy - Download on ZEDGE™ | 9794'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=PJZ3_ahIpfBHSiMOEBazH2mEvZ9Q8ito1VtUQhtfOmH5O387laT3UBJfXXNofBi79aYxgtZ3xCRLf0rPOpCkiWnFsrEtMB1nOwC0pcxAYNoZI5_VzyprPnDZGDe9bDvZj7whvbxzKZV2PvyAc0ZlPVgdHbZcRVd8PoVzaRMG0tIzlckS4Ij6ru53zCQRyui55jOF5ODFMDUoAphVspWAfGMDiaYPS5TTTuF2EYSBBANJzYHr9Hbp5h4akk8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' alt='Gothic Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/43/68/43/4368435e73b8d93314947e88b26b7703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/af/8d/f0af8d44edf8992dd3cd8e29859a4470.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/af/8d/f0af8d44edf8992dd3cd8e29859a4470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Kid On A Christmas Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220725/original/pngtree-emo-kid-on-a-christmas-background-picture-image_1751501.jpg' alt='Emo Kid On A Christmas Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220725/original/pngtree-emo-kid-on-a-christmas-background-picture-image_1751501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Christmas Goth Sarcastic Horror Gothic Snarky | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2852326043.5134/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Emo Christmas Goth Sarcastic Horror Gothic Snarky | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2852326043.5134/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="emo kid on a christmas background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/CT8K2H/emo-kid-on-a-christmas-background-CT8K2H.jpg' alt='emo kid on a christmas background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1085">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/CT8K2H/emo-kid-on-a-christmas-background-CT8K2H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xmas Skeleton Sweatshirt - L">
+                                <img itemprop="contentUrl url" src='https://vampirefreaks.com/cdn/shop/files/emo-xmas-clothes_fc3fb627-64cb-4e0a-8031-a7b60d6b9eff.jpg?v=1734964712&width=1080' alt='Xmas Skeleton Sweatshirt - L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vampire Freaks" />
+                                </span>
+                                <a href='https://vampirefreaks.com/cdn/shop/files/emo-xmas-clothes_fc3fb627-64cb-4e0a-8031-a7b60d6b9eff.jpg?v=1734964712&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Christmas and Halloween Wallpaper | Interior Design  Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7432215337128430881&location=0&aid=1988' alt='Studio Ghibli Christmas and Halloween Wallpaper | Interior Design  Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7432215337128430881&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12583165/p/f/m/Vc_ldpx4e5mv1xpslGJuT6hV-fwpk8FiKFC1lbypd7yQhfZ0WWteVDw/Pastel%20Goth%20Christmas%20Pink%20Skull%20Gingerbread%20Cookie%20Snow%20Globe%20Candy%20Cane%20Christmas%20Tree.jpg' alt='Gothic Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12583165/p/f/m/Vc_ldpx4e5mv1xpslGJuT6hV-fwpk8FiKFC1lbypd7yQhfZ0WWteVDw/Pastel%20Goth%20Christmas%20Pink%20Skull%20Gingerbread%20Cookie%20Snow%20Globe%20Candy%20Cane%20Christmas%20Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

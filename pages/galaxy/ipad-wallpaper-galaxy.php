@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Wallpapers for Your iPad</title>
+                    <meta name="description" content="Discover the beauty of the cosmos with our collection of galaxy wallpapers for iPad. Immerse yourself in vibrant cosmic designs that enhance your device's look and reflect your love for space. Perfect for personalization, these wallpapers bring the universe right to your screen in a breathtaking way!">
+                    <meta name="keywords" content="ipad wallpaper galaxy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/ipad-wallpaper-galaxy">
+                            <span itemprop="name">ipad wallpaper galaxy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Wallpapers for Your iPad</h1>
+                <p>Transform your iPad with stunning galaxy wallpapers that ignite your imagination. Explore a collection of cosmic designs featuring vibrant stars, swirling nebulae, and mesmerizing galaxies. Whether you seek tranquility or inspiration, discover the perfect backdrop to enhance your device's aesthetic and express your love for the universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Glowing Green On Free Ipad Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/galaxy-glowing-green-on-free-ipad-9oa4l4wpqnyrou76.jpg' alt='Galaxy Glowing Green On Free Ipad Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/galaxy-glowing-green-on-free-ipad-9oa4l4wpqnyrou76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Ipad Wallpaper Photos, Download The BEST Free Galaxy Ipad ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5149021/pexels-photo-5149021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Galaxy Ipad Wallpaper Photos, Download The BEST Free Galaxy Ipad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5149021/pexels-photo-5149021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Space Ipad Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/space-ipad-jm98qk0hxh1mc8rq.jpg' alt='100+] Space Ipad Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/space-ipad-jm98qk0hxh1mc8rq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Ipad Wallpaper Photos, Download The BEST Free Galaxy Ipad ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/4995090/pexels-photo-4995090.jpeg?cs=srgb&dl=pexels-david-kopacz-3259639-4995090.jpg&fm=jpg' alt='Galaxy Ipad Wallpaper Photos, Download The BEST Free Galaxy Ipad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4043">
+                                <meta itemprop="height" content="4063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/4995090/pexels-photo-4995090.jpeg?cs=srgb&dl=pexels-david-kopacz-3259639-4995090.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space universe nebula star light iPad Pro Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/b5/cb/2bb5cb12c923a87946675d1a52c3593e.jpg' alt='Space universe nebula star light iPad Pro Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/b5/cb/2bb5cb12c923a87946675d1a52c3593e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Galaxy For Ipad Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-ipad-m4g053j0ja25l5bw.jpg' alt='Download Blue Galaxy For Ipad Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-ipad-m4g053j0ja25l5bw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Star Planet iPad Air Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/48/c3/1148c3f9b56e30762a6884323f1854b0.jpg' alt='Space Star Planet iPad Air Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/48/c3/1148c3f9b56e30762a6884323f1854b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GALAXY IPAD WALLPAPERS - Heroscreen | Free image stock. Background ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2Aw_TIGmec05SgN_miJp0H9NBqynog9W7hjZ_oHkOwre5HKNmTBlk_9gVdRqV8TWRwrisnRjKv3avXcCcKlgB5Gc1lTXTnYLl1AZZeEDXpNSFMJtKaV1ebKoaiVjFGQ2jUcgbsMT_MX-/d/IPAD_WALLPAPER_1.jpg' alt='GALAXY IPAD WALLPAPERS - Heroscreen | Free image stock. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2Aw_TIGmec05SgN_miJp0H9NBqynog9W7hjZ_oHkOwre5HKNmTBlk_9gVdRqV8TWRwrisnRjKv3avXcCcKlgB5Gc1lTXTnYLl1AZZeEDXpNSFMJtKaV1ebKoaiVjFGQ2jUcgbsMT_MX-/d/IPAD_WALLPAPER_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Lion Galaxy Ipad Air 4 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mountain-lion-galaxy-ipad-air-4-zkx8n6036amzshw1.jpg' alt='Mountain Lion Galaxy Ipad Air 4 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mountain-lion-galaxy-ipad-air-4-zkx8n6036amzshw1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous galaxy wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/02/dark-space-sky-planet-nature-art-9-wallpaper.jpg' alt='Gorgeous galaxy wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2524">
+                                <meta itemprop="height" content="2524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/02/dark-space-sky-planet-nature-art-9-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

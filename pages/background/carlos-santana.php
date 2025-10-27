@@ -1,0 +1,129 @@
+<title>Carlos Santana: The Legend of Rock and Latin Fusion</title>
+                    <meta name="description" content="Explore the captivating journey of Carlos Santana, the iconic guitarist who transformed music through his unique fusion of rock and Latin sounds. Discover his timeless hits and the impact he has made on generations of musicians and fans alike.">
+                    <meta name="keywords" content="carlos santana">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carlos-santana">
+                            <span itemprop="name">carlos santana</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Carlos Santana: The Legend of Rock and Latin Fusion</h1>
+                <p>Carlos Santana, a legendary guitarist and visionary musician, is known for blending rock, blues, and Latin rhythms. With his iconic melodies and passionate performances, he has won multiple Grammy Awards and continues to inspire generations. From "Black Magic Woman" to "Smooth," Santana's music transcends boundaries and resonates worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg/1200px-Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg' alt='Carlos Santana - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg/1200px-Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana | Kennedy Center">
+                                <img itemprop="contentUrl url" src='https://cdn2.kennedy-center.org/images/slideshow/CarlosSantana-photo-credit-MaryanneBilham_slideshow.jpg' alt='Carlos Santana | Kennedy Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kennedy Center" />
+                                </span>
+                                <a href='https://cdn2.kennedy-center.org/images/slideshow/CarlosSantana-photo-credit-MaryanneBilham_slideshow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana | Artist | GRAMMY.com">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/carlos-santana_MI0004672320-MN0000175196' alt='Carlos Santana | Artist | GRAMMY.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/carlos-santana_MI0004672320-MN0000175196' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana | Biography, Albums, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/74841-050-7F506B51/Carlos-Santana-2000.jpg' alt='Carlos Santana | Biography, Albums, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/74841-050-7F506B51/Carlos-Santana-2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana: Legendary US guitarist collapses on stage">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/56AD/production/_125798122_gettyimages-1407025472-1.jpg.webp' alt='Carlos Santana: Legendary US guitarist collapses on stage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/56AD/production/_125798122_gettyimages-1407025472-1.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's clear Carlos Santana's motivation is just to make music that ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/07/19/carlos-santana-2-credit-jay-blakseberg_wide-c7f2d7bf47b5c658abf9515cc6504407e5386967.jpg' alt='It's clear Carlos Santana's motivation is just to make music that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4662">
+                                <meta itemprop="height" content="2622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/07/19/carlos-santana-2-credit-jay-blakseberg_wide-c7f2d7bf47b5c658abf9515cc6504407e5386967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana Brings Hope, Courage And Joy To A World 'Infected ...">
+                                <img itemprop="contentUrl url" src='https://cdn.kpbs.org/assets/img/2019/06/10/carlos-santana-1-credit-maryanne-bilham_wide-152be3b02e07cb742455ffc060b0c31ada41bf04.jpg' alt='Carlos Santana Brings Hope, Courage And Joy To A World 'Infected ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KPBS" />
+                                </span>
+                                <a href='https://cdn.kpbs.org/assets/img/2019/06/10/carlos-santana-1-credit-maryanne-bilham_wide-152be3b02e07cb742455ffc060b0c31ada41bf04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Epic Life of Carlos Santana">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-681-20130717-santana-624x420-1374096004.jpg?w=624&h=420&crop=1' alt='The Epic Life of Carlos Santana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-681-20130717-santana-624x420-1374096004.jpg?w=624&h=420&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carlos Santana - California Museum">
+                                <img itemprop="contentUrl url" src='https://californiamuseum.org/wp-content/uploads/Photo-by-Maryanne-Bilham-Cropped-Resized.jpg' alt='Carlos Santana - California Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1870">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Museum" />
+                                </span>
+                                <a href='https://californiamuseum.org/wp-content/uploads/Photo-by-Maryanne-Bilham-Cropped-Resized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hoax alert: Carlos Santana is not dead">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/f1252982fd20529e2fbab66fbd9f25cf02331268/c=0-37-2194-2962/local/-/media/2015/09/30/USATODAY/USATODAY/635792128316137238-AP-CARLOS-SANTANA-IN-CONCERT---BALTIMORE-68011730.JPG' alt='Hoax alert: Carlos Santana is not dead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2194">
+                                <meta itemprop="height" content="2925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/f1252982fd20529e2fbab66fbd9f25cf02331268/c=0-37-2194-2962/local/-/media/2015/09/30/USATODAY/USATODAY/635792128316137238-AP-CARLOS-SANTANA-IN-CONCERT---BALTIMORE-68011730.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

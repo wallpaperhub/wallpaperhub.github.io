@@ -1,0 +1,129 @@
+<title>Exploring the Richness of Leather Texture</title>
+                    <meta name="description" content="Discover the allure of leather texture! Learn about its unique characteristics, ranging from softness to ruggedness, and see how it enhances fashion and decor. Perfect for anyone wanting to appreciate the beauty and durability of genuine leather.">
+                    <meta name="keywords" content="leather texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/leather-texture">
+                            <span itemprop="name">leather texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Richness of Leather Texture</h1>
+                <p>Leather texture is a luxurious and versatile material, characterized by its unique feel and durability. It can range from smooth and soft to rugged and coarse, making it ideal for various applications, including fashion, upholstery, and accessories. Its natural variations add character, ensuring each piece is distinctly beautiful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Free Leather Texture & Leather Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/11/19/10/29/background-1838494_1280.jpg' alt='60,000+ Free Leather Texture & Leather Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/11/19/10/29/background-1838494_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Leather Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673978423093-e54ddb60304a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGVhdGhlciUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' alt='1000+ Leather Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673978423093-e54ddb60304a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGVhdGhlciUyMHRleHR1cmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather - Architextures">
+                                <img itemprop="contentUrl url" src='https://cdn.architextures.org/textures/21/07/leather-60ed62c94f911-1200.jpg' alt='Leather - Architextures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architextures" />
+                                </span>
+                                <a href='https://cdn.architextures.org/textures/21/07/leather-60ed62c94f911-1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Leather Texture (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2015/10/leather-texture-black1.jpg' alt='Black Leather Texture (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2015/10/leather-texture-black1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather Texture Images – Browse 1,055,839 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/83/08/34/360_F_183083428_c40Pxtzlwm1X0u0p3qmSr2hAP9aOdRl5.jpg' alt='Leather Texture Images – Browse 1,055,839 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/83/08/34/360_F_183083428_c40Pxtzlwm1X0u0p3qmSr2hAP9aOdRl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/original-black-leather-texture-background_24972-1600.jpg' alt='Leather Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/original-black-leather-texture-background_24972-1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="158,800+ Leather Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/611994700/photo/grey-leather-texture-background.jpg?s=612x612&w=0&k=20&c=FvRWwSB14CP6LD4Qg_q0MQxO7My0FsVVFf4XKuq6tbU=' alt='158,800+ Leather Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/611994700/photo/grey-leather-texture-background.jpg?s=612x612&w=0&k=20&c=FvRWwSB14CP6LD4Qg_q0MQxO7My0FsVVFf4XKuq6tbU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="leather texture material surface orange bright smooth pattern ...">
+                                <img itemprop="contentUrl url" src='https://www.texturex.com/wp-content/uploads/2018/03/leather-texture-material-surface-orange-bright-smooth-pattern-photo-5.jpg' alt='leather texture material surface orange bright smooth pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texture X" />
+                                </span>
+                                <a href='https://www.texturex.com/wp-content/uploads/2018/03/leather-texture-material-surface-orange-bright-smooth-pattern-photo-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Leather Texture Images – Browse 133,384 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/20/73/01/360_F_320730170_p6EJ3c5KwzsjnFOrEi7MzPgVcsM1RWi7.jpg' alt='Seamless Leather Texture Images – Browse 133,384 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/20/73/01/360_F_320730170_p6EJ3c5KwzsjnFOrEi7MzPgVcsM1RWi7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered Old Leather Texture Free (Fabric) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/weathered-old-leather-texture-free-835.jpg' alt='Weathered Old Leather Texture Free (Fabric) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/weathered-old-leather-texture-free-835.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

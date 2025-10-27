@@ -1,0 +1,129 @@
+<title>Adorable Cute Pug Cartoon Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover charming and playful cute pug cartoon wallpapers to brighten your device! Perfect for pug enthusiasts, these fun designs will enhance your screen with joy and personality. Download your favorites now for a delightful daily dose of cuteness!">
+                    <meta name="keywords" content="cute pug wallpaper cartoon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-pug-wallpaper-cartoon">
+                            <span itemprop="name">cute pug wallpaper cartoon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Pug Cartoon Wallpapers for Your Screen</h1>
+                <p>Transform your device's look with adorable cute pug wallpaper cartoons! These charming designs showcase playful pugs in various antics, adding a joyful vibe to any screen. Perfect for pug lovers, our wallpapers bring a smile every time you glance at your phone or computer. Embrace the cuteness and express your love for pugs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Pug Images – Browse 45,850 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/35/17/66/360_F_835176690_RjSwyJ3J6QU0ZMXvBeHzk7Ss2fJ5VWPQ.jpg' alt='Cartoon Pug Images – Browse 45,850 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/35/17/66/360_F_835176690_RjSwyJ3J6QU0ZMXvBeHzk7Ss2fJ5VWPQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Pug Dog With Doughnut Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cartoon-pug-dog-with-doughnut-h9wzc9q9g90idc6l.jpg' alt='Cartoon Pug Dog With Doughnut Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cartoon-pug-dog-with-doughnut-h9wzc9q9g90idc6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/5a/55/845a55398f7ca8dc755da2aabd43a8a3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/5a/55/845a55398f7ca8dc755da2aabd43a8a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puglie Mood Wallpapers – Puglie Mart">
+                                <img itemprop="contentUrl url" src='http://www.pugliepug.com/cdn/shop/files/WP_ToiletLife_d2e11fce-71f5-4a97-9783-c6b8b5cc26b3.png?v=1698996685' alt='Puglie Mood Wallpapers – Puglie Mart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puglie Pug" />
+                                </span>
+                                <a href='http://www.pugliepug.com/cdn/shop/files/WP_ToiletLife_d2e11fce-71f5-4a97-9783-c6b8b5cc26b3.png?v=1698996685' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="57 Pug wallpaper ideas | pug wallpaper, pugs, cute pugs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5c/83/92/5c839273f0bcea5d56db9fd7434e6736.jpg' alt='57 Pug wallpaper ideas | pug wallpaper, pugs, cute pugs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5c/83/92/5c839273f0bcea5d56db9fd7434e6736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Pug Dog With Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cartoon-pug-dog-with-heart-xt936twsicjgwlkq.jpg' alt='Cartoon Pug Dog With Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cartoon-pug-dog-with-heart-xt936twsicjgwlkq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Pug Wallpaper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1341737394/vector/cute-pug-dog-with-sunglasses-cartoon-vector-illustration.jpg?s=612x612&w=0&k=20&c=m8rVqxFShiljP2h2_k9ynQiUiygGOK5EqhJziLts1mU=' alt='3,700+ Pug Wallpaper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1341737394/vector/cute-pug-dog-with-sunglasses-cartoon-vector-illustration.jpg?s=612x612&w=0&k=20&c=m8rVqxFShiljP2h2_k9ynQiUiygGOK5EqhJziLts1mU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Pug Dog Cartoon · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/11/21/Cute-Baby-Pug-Dog-Cartoon-47674036-1-1.png' alt='Cute Baby Pug Dog Cartoon · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/11/21/Cute-Baby-Pug-Dog-Cartoon-47674036-1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Funny Pug Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11371934/p/f/m/S7CbPHuu8hAU1W9vxL8Bu1LsNvIGwWHi_3S368Yv7eGcKI145nhVIueJeKihlhc/pug%20dog%20SWEETS%20%40%20blue%20color.jpg' alt='Cartoon Funny Pug Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11371934/p/f/m/S7CbPHuu8hAU1W9vxL8Bu1LsNvIGwWHi_3S368Yv7eGcKI145nhVIueJeKihlhc/pug%20dog%20SWEETS%20%40%20blue%20color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Wallpaper Pattern Funny Cartoon Pugs Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-wallpaper-pattern-funny-cartoon-260nw-1653769237.jpg' alt='Seamless Wallpaper Pattern Funny Cartoon Pugs Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-wallpaper-pattern-funny-cartoon-260nw-1653769237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

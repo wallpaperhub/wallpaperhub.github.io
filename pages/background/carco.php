@@ -1,0 +1,129 @@
+<title>Carco: Your Trusted Automotive Service Partner</title>
+                    <meta name="description" content="Discover exceptional car care with Carco, your go-to service provider for maintenance and repairs. Enjoy reliable solutions from experienced technicians dedicated to keeping your vehicle in top shape. Visit us today for quality service that drives confidence!">
+                    <meta name="keywords" content="carco">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carco">
+                            <span itemprop="name">carco</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Carco: Your Trusted Automotive Service Partner</h1>
+                <p>Carco is a versatile automotive service provider that focuses on the needs of car owners. From routine maintenance to specialized repairs, Carco offers expert solutions at competitive prices. Our team of skilled technicians ensures that your vehicle runs smoothly and safely, delivering peace of mind every time you hit the road.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fraud and Risk Prevention Technology | CARCO">
+                                <img itemprop="contentUrl url" src='https://www.carcogroup.com/sites/carco.com/themes/carco/CARCO_a%20Cisive%20company2021.svg' alt='Fraud and Risk Prevention Technology | CARCO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.carcogroup.com" />
+                                </span>
+                                <a href='https://www.carcogroup.com/sites/carco.com/themes/carco/CARCO_a%20Cisive%20company2021.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CarcoWebsite">
+                                <img itemprop="contentUrl url" src='https://www.carcogap.com/assets/Carco-Wordmark%20underneath-46d454b47c5cf96e2e09808c561a050f38f9a11749e90da6d66e986f23dd62a2.png' alt='CarcoWebsite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2363">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.carcogap.com" />
+                                </span>
+                                <a href='https://www.carcogap.com/assets/Carco-Wordmark%20underneath-46d454b47c5cf96e2e09808c561a050f38f9a11749e90da6d66e986f23dd62a2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CARCO Mobile AI Inspection - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/AFAAJUG2HJ3QGPbvT3EGcPCi0VeZ8SyoA6hxCTBTe-UuUNWPd2k42d8DAtOPnl1Kfw' alt='CARCO Mobile AI Inspection - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/AFAAJUG2HJ3QGPbvT3EGcPCi0VeZ8SyoA6hxCTBTe-UuUNWPd2k42d8DAtOPnl1Kfw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who we are – Carco PRP">
+                                <img itemprop="contentUrl url" src='https://www.carcoprp.com/wp-content/uploads/2021/12/carco-precision-rubber-logo.png' alt='Who we are – Carco PRP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carco PRP" />
+                                </span>
+                                <a href='https://www.carcoprp.com/wp-content/uploads/2021/12/carco-precision-rubber-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carco Incorporated | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQFmpzLTH8LsHg/company-logo_200_200/company-logo_200_200/0/1714679166142/carco_inc_logo?e=2147483647&v=beta&t=xsE9VLGTFBst4ZZgl0Ek0ayMxM_UpiTbCARQOhczWyk' alt='Carco Incorporated | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQFmpzLTH8LsHg/company-logo_200_200/company-logo_200_200/0/1714679166142/carco_inc_logo?e=2147483647&v=beta&t=xsE9VLGTFBst4ZZgl0Ek0ayMxM_UpiTbCARQOhczWyk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CarcoWebsite">
+                                <img itemprop="contentUrl url" src='https://www.carcogap.com/assets/logo-0c85ff035c76dba2f768d6884b85fd7a404a9a786821c74bd2b257f3e9dd6bb9.png' alt='CarcoWebsite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7174">
+                                <meta itemprop="height" content="1991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CarcoWebsite" />
+                                </span>
+                                <a href='https://www.carcogap.com/assets/logo-0c85ff035c76dba2f768d6884b85fd7a404a9a786821c74bd2b257f3e9dd6bb9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carco International, Inc. | Truck Leasing & Rental | Truck Sales ...">
+                                <img itemprop="contentUrl url" src='https://chambermaster.blob.core.windows.net/images/customers/3335/members/100/logos/MEMBER_PAGE_HEADER/CARCO.png' alt='Carco International, Inc. | Truck Leasing & Rental | Truck Sales ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Buren Chamber of Commerce" />
+                                </span>
+                                <a href='https://chambermaster.blob.core.windows.net/images/customers/3335/members/100/logos/MEMBER_PAGE_HEADER/CARCO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CARCO Mobile Inspection on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f9/cc/33f9cc86-f3f1-5701-a403-f220ddd8a50b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png' alt='CARCO Mobile Inspection on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f9/cc/33f9cc86-f3f1-5701-a403-f220ddd8a50b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Press Releases | Arrowhead Winch">
+                                <img itemprop="contentUrl url" src='https://www.arrowheadwinch.com/wp-content/uploads/2022/03/CARCO-90th-Anniversary-Logo.jpg' alt='Press Releases | Arrowhead Winch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Press Releases | Arrowhead Winch" />
+                                </span>
+                                <a href='https://www.arrowheadwinch.com/wp-content/uploads/2022/03/CARCO-90th-Anniversary-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for CARCO WA">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100076259444262' alt='Profile for CARCO WA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100076259444262' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

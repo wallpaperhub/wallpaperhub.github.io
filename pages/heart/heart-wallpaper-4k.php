@@ -1,0 +1,129 @@
+<title>Stunning 4K Heart Wallpapers for Your Screens</title>
+                    <meta name="description" content="Discover beautiful 4K heart wallpapers to enhance your device's aesthetic. Express your love with vibrant designs that captivate and inspire. Perfect for any screen size, find the perfect wallpaper that resonates with your feelings today!">
+                    <meta name="keywords" content="heart wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/heart-wallpaper-4k">
+                            <span itemprop="name">heart wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Heart Wallpapers for Your Screens</h1>
+                <p>Transform your device with stunning 4K heart wallpapers that evoke love and passion. Choose from a variety of designs, featuring vibrant colors and intricate patterns. Perfect for any romantic occasion or just to express your feelings, these wallpapers will bring a touch of warmth to your screens. Explore and download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper Phone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' alt='Heart Wallpaper Phone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpapers (84 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/a/7/107110-2160x3840-iphone-4k-heart-wallpaper-photo.jpg' alt='Heart Wallpapers (84 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/a/7/107110-2160x3840-iphone-4k-heart-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/d/8/2155346-3840x2160-desktop-4k-hearts-wallpaper.jpg' alt='Hearts Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/d/8/2155346-3840x2160-desktop-4k-hearts-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Ultra HD heart wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/e4/31/2ae43142374d630e4c0a009b88cee3fd.jpg' alt='4k Ultra HD heart wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/e4/31/2ae43142374d630e4c0a009b88cee3fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Heart Shape Lights Free Pure 4K Ultra HD Mobile Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/18/a8/bc18a8d6951e4356664eb9149a38f6d6.jpg' alt='Download Heart Shape Lights Free Pure 4K Ultra HD Mobile Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/18/a8/bc18a8d6951e4356664eb9149a38f6d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel  Pink Heart Background | Neon Heart Background Video |  Wallpaper Heart-4K | Relaxing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WwH8Iwtr6dI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gEyhJMA8=&rs=AOn4CLAQ0EadIq2zPUomRxvgQKZwNeFtwA' alt='Heart Tunnel  Pink Heart Background | Neon Heart Background Video |  Wallpaper Heart-4K | Relaxing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WwH8Iwtr6dI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gEyhJMA8=&rs=AOn4CLAQ0EadIq2zPUomRxvgQKZwNeFtwA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love heart Wallpaper 4K, Dark aesthetic, Artwork">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/love-heart-dark-background-artwork-heart-beat-3440x1440-6122.jpg' alt='Love heart Wallpaper 4K, Dark aesthetic, Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/love-heart-dark-background-artwork-heart-beat-3440x1440-6122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love hearts Wallpaper 4K, Red aesthetic, Red hearts">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/love-hearts-red-hearts-girly-backgrounds-5k-2880x1800-1778.png' alt='Love hearts Wallpaper 4K, Red aesthetic, Red hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/love-hearts-red-hearts-girly-backgrounds-5k-2880x1800-1778.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Best Heart Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/887349/pexels-photo-887349.jpeg?cs=srgb&dl=pexels-designecologist-887349.jpg&fm=jpg' alt='10,000+ Best Heart Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4272">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/887349/pexels-photo-887349.jpeg?cs=srgb&dl=pexels-designecologist-887349.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Love Heart HD Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815Xh6EGYPL.png' alt='4K Love Heart HD Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815Xh6EGYPL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

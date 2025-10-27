@@ -1,0 +1,129 @@
+<title>Stunning Chinese New Year Dragon Wallpaper Designs</title>
+                    <meta name="description" content="Discover captivating Chinese New Year dragon wallpapers that enhance your festive spirit. Perfect for mobile, these beautiful designs symbolize luck and prosperity. Transform your space and celebrate the new year with vibrant, eye-catching backgrounds!">
+                    <meta name="keywords" content="chinese new year dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/chinese-new-year-dragon-wallpaper">
+                            <span itemprop="name">chinese new year dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Chinese New Year Dragon Wallpaper Designs</h1>
+                <p>Celebrate the vibrant spirit of the Chinese New Year with stunning dragon wallpaper designs! These majestic creatures symbolize power and good fortune, making them a perfect backdrop for your holiday celebrations. Choose from various styles and colors to bring prosperity and joy to your space this festive season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese New Year Dragon Background Images – Browse 137,471 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/87/43/66/360_F_687436695_KpqkuwAsII5ckOdtyTnDB19PDsZ4abFz.jpg' alt='Chinese New Year Dragon Background Images – Browse 137,471 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/87/43/66/360_F_687436695_KpqkuwAsII5ckOdtyTnDB19PDsZ4abFz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Official Year of the Dragon Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/cny24_iphone_wallpaper_5160_11184.png' alt='Apple Official Year of the Dragon Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5160">
+                                <meta itemprop="height" content="11184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/cny24_iphone_wallpaper_5160_11184.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,259 Chinese New Year Dragon Stock Photos, High-Res Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1578437393/vector/chinese-new-year-dragon.jpg?s=612x612&w=gi&k=20&c=AJwDQk-sFD9kzC9B93d_wzOde4A_EOtO0PtBg662Q2E=' alt='17,259 Chinese New Year Dragon Stock Photos, High-Res Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1578437393/vector/chinese-new-year-dragon.jpg?s=612x612&w=gi&k=20&c=AJwDQk-sFD9kzC9B93d_wzOde4A_EOtO0PtBg662Q2E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,246 Cny Dragon Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/chinese-banner-happy-new-year-600nw-2402603425.jpg' alt='5,246 Cny Dragon Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/chinese-banner-happy-new-year-600nw-2402603425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese New Year Dragon Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3JtMTEzNmRlc2lnbi1yZW1peC1hZS0wMDJhLmpwZw.jpg' alt='Chinese New Year Dragon Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3JtMTEzNmRlc2lnbi1yZW1peC1hZS0wMDJhLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Chinese New Year Dragon Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/chinese-new-year-iphone-9m3n7kjjd0d9ceqk.jpg' alt='Download Chinese New Year Dragon Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/chinese-new-year-iphone-9m3n7kjjd0d9ceqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lunar New Year" Images – Browse 229,907 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/19/12/13/360_F_619121329_OiRPC8jut0laHVYQIRGoAJz4Vj8FwuVr.jpg' alt='Lunar New Year" Images – Browse 229,907 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/19/12/13/360_F_619121329_OiRPC8jut0laHVYQIRGoAJz4Vj8FwuVr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Chinese New Year 2024 Year of the Chinese Dragon Zodiac with ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-chinese-new-year-dragon-zodiac-color-background-translation-268192086.jpg' alt='Happy Chinese New Year 2024 Year of the Chinese Dragon Zodiac with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-chinese-new-year-dragon-zodiac-color-background-translation-268192086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Chinese dragon as a character for the dragon dance at the  Chinese New Year festival, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/92/11/86/1000_F_692118604_9YyjpdeSUVHYvYWsJPtZgn33YlW2Idtu.jpg' alt='Poster, Print Chinese dragon as a character for the dragon dance at the  Chinese New Year festival, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/92/11/86/1000_F_692118604_9YyjpdeSUVHYvYWsJPtZgn33YlW2Idtu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese Dragon Wallpaper 3747">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/a/d/adbj-36503747_jpg.webp' alt='Chinese Dragon Wallpaper 3747'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/a/d/adbj-36503747_jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

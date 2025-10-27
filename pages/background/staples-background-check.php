@@ -1,0 +1,129 @@
+<title>Understanding Staples Background Check Process</title>
+                    <meta name="description" content="Explore the Staples background check process, designed to ensure a safe workplace. Learn about the types of checks conducted and how they impact your employment journey at Staples. Discover everything you need to know about joining the team with confidence!">
+                    <meta name="keywords" content="staples background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/staples-background-check">
+                            <span itemprop="name">staples background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Staples Background Check Process</h1>
+                <p>Staples conducts comprehensive background checks as part of its hiring process to ensure the safety and integrity of its workplace. These checks typically include reviewing criminal records, employment history, and educational qualifications. This helps Staples maintain a trustworthy environment for both employees and customers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Versus a Reference Check When Hiring New ...">
+                                <img itemprop="contentUrl url" src='https://www.staples.com/sbd/cre/tech-services/images/res/istock_000026972482sm.jpg' alt='Background Check Versus a Reference Check When Hiring New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="182">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://www.staples.com/sbd/cre/tech-services/images/res/istock_000026972482sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Checks | Personalized Business Checks | Staples®">
+                                <img itemprop="contentUrl url" src='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/configurator-1?v=41fc7d661aa67198' alt='Custom Checks | Personalized Business Checks | Staples®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1526">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/configurator-1?v=41fc7d661aa67198' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VersaCheck 8.5" x 11" Business Custom Checks, Blue, 250 Sheets ...">
+                                <img itemprop="contentUrl url" src='https://www.staples-3p.com/s7/is/image/Staples/s1124783_sc7?wid=700&hei=700' alt='VersaCheck 8.5" x 11" Business Custom Checks, Blue, 250 Sheets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://www.staples-3p.com/s7/is/image/Staples/s1124783_sc7?wid=700&hei=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris DocuGard Standard 8.5" x 11" Security Check On Bottom, 24 lbs., Blue,  500 Sheets/Ream, 2500/Carton (04517P)">
+                                <img itemprop="contentUrl url" src='https://www.staples-3p.com/s7/is/image/Staples/sp42114818_sc7?wid=512&hei=512' alt='Paris DocuGard Standard 8.5" x 11" Security Check On Bottom, 24 lbs., Blue,  500 Sheets/Ream, 2500/Carton (04517P)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://www.staples-3p.com/s7/is/image/Staples/sp42114818_sc7?wid=512&hei=512' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VersaCheck 8.5" x 11" Business Custom Checks, Blue, 250 Sheets/Pack  (GLO921800F006)">
+                                <img itemprop="contentUrl url" src='https://www.staples-3p.com/s7/is/image/Staples/s1124780_sc7?wid=700&hei=700' alt='VersaCheck 8.5" x 11" Business Custom Checks, Blue, 250 Sheets/Pack  (GLO921800F006)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://www.staples-3p.com/s7/is/image/Staples/s1124780_sc7?wid=700&hei=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Checks | Personalized Business Checks | Staples®">
+                                <img itemprop="contentUrl url" src='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/1-desktop?v=18aebb6a4083d7eb' alt='Custom Checks | Personalized Business Checks | Staples®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/1-desktop?v=18aebb6a4083d7eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What background checks are done during the hiring process at ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EBBLPyBndMY/maxresdefault.jpg' alt='What background checks are done during the hiring process at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JobzMall" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EBBLPyBndMY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Staples removed and replaced in TRANSLATED background check : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/staples-removed-and-replaced-in-translated-background-check-v0-hzlpyijk9mw91.jpg?auto=webp&s=420fef5ae28e697270e6868d3c9f479e619562b6' alt='Staples removed and replaced in TRANSLATED background check : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/staples-removed-and-replaced-in-translated-background-check-v0-hzlpyijk9mw91.jpg?auto=webp&s=420fef5ae28e697270e6868d3c9f479e619562b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Checks | Personalized Business Checks | Staples®">
+                                <img itemprop="contentUrl url" src='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/configurator-3?v=a26b60a212564074' alt='Custom Checks | Personalized Business Checks | Staples®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Staples.com" />
+                                </span>
+                                <a href='https://splus-prod-phoenix-site-assets.pnimedia.com/dynamic/Content/images/RetailerSpecific/SPLUS/Landing-Page/Checks/configurator-3?v=a26b60a212564074' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got my settlement check : r/Staples">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/got-my-settlement-check-v0-yprw4lpq9ruc1.jpeg?width=640&crop=smart&auto=webp&s=b854744cca16f578fa31f8e02c5c0f68f47bc466' alt='Got my settlement check : r/Staples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/got-my-settlement-check-v0-yprw4lpq9ruc1.jpeg?width=640&crop=smart&auto=webp&s=b854744cca16f578fa31f8e02c5c0f68f47bc466' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

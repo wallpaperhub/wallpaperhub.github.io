@@ -1,0 +1,129 @@
+<title>Exploring the Essence of Art Music: A Harmonious Journey</title>
+                    <meta name="description" content="Discover the captivating world of art music, where creativity meets emotion. Explore unique melodies, innovative rhythms, and the profound connections they create. Dive into this enriching experience that transcends boundaries and invites reflection. Perfect for music enthusiasts and art lovers alike!">
+                    <meta name="keywords" content="art music background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/art-music-background">
+                            <span itemprop="name">art music background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Essence of Art Music: A Harmonious Journey</h1>
+                <p>Art music intertwines melody, rhythm, and emotion, creating an immersive experience that transcends traditional boundaries. This genre draws inspiration from visual arts, enhancing each note with a rich context. As composers explore new textures and forms, art music invites listeners to a deeper emotional journey, fostering connection and reflection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful background music for drawing and art">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/n6qFvgaM1nc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpO4U__6ljEBPyZHaujp2uYi3cQw' alt='Beautiful background music for drawing and art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/n6qFvgaM1nc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpO4U__6ljEBPyZHaujp2uYi3cQw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract art music background with musical notes for entertainment ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2EA5BN5/abstract-art-music-background-with-musical-notes-for-entertainment-design-2EA5BN5.jpg' alt='Abstract art music background with musical notes for entertainment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2EA5BN5/abstract-art-music-background-with-musical-notes-for-entertainment-design-2EA5BN5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Art Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cartoon-style-musical-notes-background_23-2151056769.jpg' alt='Music Art Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cartoon-style-musical-notes-background_23-2151056769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Music Background Backgrounds | JPG Free Download - Pikbest">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202345/art-music-background_9587687.jpg!f305cw' alt='Art Music Background Backgrounds | JPG Free Download - Pikbest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="305">
+                                <meta itemprop="height" content="171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202345/art-music-background_9587687.jpg!f305cw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustration Abstract Music Background Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/illustration-abstract-music-background-260nw-303733247.jpg' alt='Illustration Abstract Music Background Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/illustration-abstract-music-background-260nw-303733247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Background, Photos, and Wallpaper for Free Download">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg' alt='Music Background, Photos, and Wallpaper for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Music Background Stock Illustrations – 159,771 Creative ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/creative-music-background-psychedelic-style-notes-design-30549707.jpg' alt='Creative Music Background Stock Illustrations – 159,771 Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/creative-music-background-psychedelic-style-notes-design-30549707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Background Vector & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/2/7/4/large2/472844851.jpg' alt='Music Background Vector & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/2/7/4/large2/472844851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract music background with musical notes Stock Vector Image ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/W10WDD/abstract-music-background-with-musical-notes-W10WDD.jpg' alt='Abstract music background with musical notes Stock Vector Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/W10WDD/abstract-music-background-with-musical-notes-W10WDD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cartoon-style-musical-notes-background_23-2151056773.jpg' alt='Music Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cartoon-style-musical-notes-background_23-2151056773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

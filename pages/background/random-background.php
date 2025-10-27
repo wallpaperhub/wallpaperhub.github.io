@@ -1,0 +1,129 @@
+<title>Elevate Your Design with Unique Random Backgrounds</title>
+                    <meta name="description" content="Discover the power of random backgrounds to enhance your projects. From stunning patterns to tranquil landscapes, find inspiration for creating visually compelling designs that capture attention and evoke feelings. Transform your content with the perfect backdrop today!">
+                    <meta name="keywords" content="random background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/random-background">
+                            <span itemprop="name">random background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Design with Unique Random Backgrounds</h1>
+                <p>Random backgrounds can elevate your projects, providing depth and interest. Whether for digital design or photography, these unexpected elements can capture attention and evoke emotions. From vibrant patterns to serene landscapes, a well-chosen random background enhances your content, making it visually engaging and memorable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/322/066/small/pastel-colour-shape-abstract-background-with-blue-green-yellow-free-vector.jpg' alt='Random Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/322/066/small/pastel-colour-shape-abstract-background-with-blue-green-yellow-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/016/597/572/non_2x/psychedelic-glitch-background-random-digital-error-signal-wave-glitches-with-the-image-vector.jpg' alt='Random Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1895">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/016/597/572/non_2x/psychedelic-glitch-background-random-digital-error-signal-wave-glitches-with-the-image-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Blue and purple random background with copy ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/22/33/26/1000_F_122332604_2GoEwq1Wlue7AscVlfsEhKK87NxQ5BZx.jpg' alt='Photo & Art Print Blue and purple random background with copy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/22/33/26/1000_F_122332604_2GoEwq1Wlue7AscVlfsEhKK87NxQ5BZx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Random Paint Splats Background | Download Free ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/23839/random-paint-splats-background.jpg' alt='Free Stock Photo of Random Paint Splats Background | Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/23839/random-paint-splats-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Discover the beauty of randomness" | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/random-background-1920-x-1080-7ov6o26vgly7kmgp.jpg' alt='Download "Discover the beauty of randomness" | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/random-background-1920-x-1080-7ov6o26vgly7kmgp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Shapes Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20211107/pngtree-abstract-crystal-background-low-poly-textured-triangle-shapes-in-random-pattern-image_915268.png' alt='Random Shapes Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20211107/pngtree-abstract-crystal-background-low-poly-textured-triangle-shapes-in-random-pattern-image_915268.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How can I use PHP/HTML to display a random image as a background ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/bkC9s.jpg' alt='How can I use PHP/HTML to display a random image as a background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/bkC9s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Palette Vibrant Geometric 3d Background Featuring Random ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230526/2b649155813d57c0af6e457060509b7a.jpg!w700wp' alt='Color Palette Vibrant Geometric 3d Background Featuring Random ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230526/2b649155813d57c0af6e457060509b7a.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download At the End of the Day, Randomness is What Makes Life ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/random-background-1920-x-1080-t28o7lmkp5dinua2.jpg' alt='Download At the End of the Day, Randomness is What Makes Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/random-background-1920-x-1080-t28o7lmkp5dinua2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random Background Pack [3440x1440] : r/WidescreenWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/random-background-pack-3440x1440-v0-cvqs1e0ziv6c1.png?width=640&crop=smart&auto=webp&s=2cb811601427349092cff403810d3eb818917bd6' alt='Random Background Pack [3440x1440] : r/WidescreenWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/random-background-pack-3440x1440-v0-cvqs1e0ziv6c1.png?width=640&crop=smart&auto=webp&s=2cb811601427349092cff403810d3eb818917bd6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

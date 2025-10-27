@@ -1,0 +1,129 @@
+<title>Vibrant Green Slime Wallpaper for Fun Spaces</title>
+                    <meta name="description" content="Discover the playful appeal of green slime wallpaper! Perfect for kids' rooms and creative spaces, this unique design brings a lively touch to your decor. Easy to apply and remove, it's the ideal choice for a temporary yet striking transformation. Brighten up any room effortlessly with our vibrant wallpaper!">
+                    <meta name="keywords" content="green slime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-slime-wallpaper">
+                            <span itemprop="name">green slime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Slime Wallpaper for Fun Spaces</h1>
+                <p>Transform your space with green slime wallpaper, a bold choice that adds a playful and vibrant touch to any room. Ideal for kids' bedrooms, playrooms, or creative studios, this unique design features a fun, dripping slime pattern that sparks imagination. Easy to apply and removable, it’s perfect for a temporary makeover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Slime Abstract Background by Benny Marty">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/green-slime-abstract-background-benny-marty.jpg' alt='Green Slime Abstract Background by Benny Marty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Benny Marty" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/green-slime-abstract-background-benny-marty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/fc/78/5efc787bf5e7e975d77bc8fe702796f5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/fc/78/5efc787bf5e7e975d77bc8fe702796f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Slime Images – Browse 384,437 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/64/62/43/360_F_364624323_66obbHcHuVcp5g2Yd2yD6ajPy5uRKg3G.jpg' alt='Green Slime Images – Browse 384,437 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/64/62/43/360_F_364624323_66obbHcHuVcp5g2Yd2yD6ajPy5uRKg3G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6b/b2/20/6bb2200477da76b6735d66390ad479e4.jpg' alt='Slime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6b/b2/20/6bb2200477da76b6735d66390ad479e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Slime Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14277827/p/f/m/sSTREXwjHwAD3FYaznkxnRGS3sVAUeFUCwrGv4VaVNKcaM2iGJqBTe6gAQ/Green%20Slime.jpg' alt='Green Slime Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14277827/p/f/m/sSTREXwjHwAD3FYaznkxnRGS3sVAUeFUCwrGv4VaVNKcaM2iGJqBTe6gAQ/Green%20Slime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Slime Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/flowing-green-sticky-liquid-slime-drips-flowing-background-with-slime-vector-illustration_450469-600.jpg?semt=ais_hybrid' alt='Green Slime Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/flowing-green-sticky-liquid-slime-drips-flowing-background-with-slime-vector-illustration_450469-600.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Slime Background Images – Browse 188,106 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/88/53/28/360_F_988532884_AcnG3rGGbAfBtkcOSacvkCfuwG4Lsuh3.jpg' alt='Green Slime Background Images – Browse 188,106 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/88/53/28/360_F_988532884_AcnG3rGGbAfBtkcOSacvkCfuwG4Lsuh3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Green Lighted Object | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/slime-background-qqti5rxh2a9hq2vv.jpg' alt='Download A Green Lighted Object | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/slime-background-qqti5rxh2a9hq2vv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid slime background. Cartoon green drip goo mucus glitter ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs/800_4213913_0h1kfz0t0ps49m7vc96a4kt666kn3fdtt6rfed6q.jpg' alt='Liquid slime background. Cartoon green drip goo mucus glitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs/800_4213913_0h1kfz0t0ps49m7vc96a4kt666kn3fdtt6rfed6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slime background, green toxic stretches of ooze 13699090 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/699/090/non_2x/slime-background-green-toxic-stretches-of-ooze-free-vector.jpg' alt='Slime background, green toxic stretches of ooze 13699090 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/699/090/non_2x/slime-background-green-toxic-stretches-of-ooze-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

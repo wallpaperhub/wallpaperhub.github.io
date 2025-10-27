@@ -1,0 +1,129 @@
+<title>Stunning Blue Aesthetic Wallpapers for Your Space</title>
+                    <meta name="description" content="Explore a curated collection of blue aesthetic wallpapers that enhance your home or workspace. Perfect for creating a tranquil atmosphere, these designs range from light pastels to bold navy, bringing a touch of elegance and style to any room. Transform your space with calming shades of blue today!">
+                    <meta name="keywords" content="blue:pwjn7vhzpjc= wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/bluepwjn7vhzpjc-wallpaper-aesthetic">
+                            <span itemprop="name">blue:pwjn7vhzpjc= wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Aesthetic Wallpapers for Your Space</h1>
+                <p>Discover the perfect blue aesthetic wallpaper that elevates your space. From soothing shades of sky blue to deep navy hues, these wallpapers create a serene and stylish backdrop. Ideal for bedrooms, living rooms, or offices, embrace calmness and creativity in your decor with these stunning blue designs. Let your walls speak serenity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/8b/39/ba8b39df84fe3f61d898cbaab60b866f.jpg' alt='Blue Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/8b/39/ba8b39df84fe3f61d898cbaab60b866f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/26/23/a4262336aebc411060676369508088d3.jpg' alt='Blue wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/26/23/a4262336aebc411060676369508088d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/3f/70/423f708ab4aacde8e7ea6f746725f404.jpg' alt='Blue Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/3f/70/423f708ab4aacde8e7ea6f746725f404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic blue wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/d9/db/3fd9db34382c696a8db1b4fb13f4726c.jpg' alt='Aesthetic blue wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/d9/db/3fd9db34382c696a8db1b4fb13f4726c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91QeJlbS6VL.png' alt='Blue Aesthetic Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91QeJlbS6VL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/b8/9f/5ab89f9034759a258538ec00f77b80a5.jpg' alt='Blue Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/b8/9f/5ab89f9034759a258538ec00f77b80a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper | Cute blue wallpaper, Blue wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/31/43/60/3143606c57373744005e0708bd48d056.jpg' alt='Blue Aesthetic Wallpaper | Cute blue wallpaper, Blue wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/31/43/60/3143606c57373744005e0708bd48d056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue wallpaper blue aesthetic blue background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/85/db/cf85dbd8e3e69cd1871afd5002c13187.jpg' alt='Blue wallpaper blue aesthetic blue background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/85/db/cf85dbd8e3e69cd1871afd5002c13187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue aesthetic wallpaper | Blue wallpapers, Blue wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/42/ec/2b42ec8d3facf51d69261cefddc87900.jpg' alt='Blue aesthetic wallpaper | Blue wallpapers, Blue wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/42/ec/2b42ec8d3facf51d69261cefddc87900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ബ്ലൂ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/fd/f2/f2fdf208f09cbf1a9918e7a1c980cde9.jpg' alt='ബ്ലൂ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/fd/f2/f2fdf208f09cbf1a9918e7a1c980cde9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Haunted Mansion Peel and Stick Wallpaper – Spooky Style for Your Home</title>
+                    <meta name="description" content="Add a touch of eeriness to your decor with haunted mansion peel and stick wallpaper! Perfect for creating a spooky atmosphere, it’s easy to apply, removable, and won’t harm your walls. Transform any space into a haunted retreat effortlessly!">
+                    <meta name="keywords" content="haunted mansion peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/haunted-mansion-peel-and-stick-wallpaper">
+                            <span itemprop="name">haunted mansion peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Haunted Mansion Peel and Stick Wallpaper – Spooky Style for Your Home</h1>
+                <p>Transform your space with haunted mansion peel and stick wallpaper! Perfect for Halloween or year-round spooky vibes, this easy-to-apply wallpaper features eerie designs that bring a touch of haunted elegance to any room. Ideal for renters, it's removable and won't damage your walls—create your own haunted haven effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion Wall Decor - Peel & Stick or Traditional Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19420891/r/il/a43b08/2562051160/il_570xN.2562051160_64ti.jpg' alt='Haunted Mansion Wall Decor - Peel & Stick or Traditional Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19420891/r/il/a43b08/2562051160/il_570xN.2562051160_64ti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion Wall Mural, Horror House Wallpaper, Traditional ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53185770/r/il/250118/6166982151/il_fullxfull.6166982151_smuj.jpg' alt='Haunted Mansion Wall Mural, Horror House Wallpaper, Traditional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumos Wallpaper" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53185770/r/il/250118/6166982151/il_fullxfull.6166982151_smuj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Haunted Mansion Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/files/RMWS1220_Room2.jpg?v=1729698484' alt='Disney Haunted Mansion Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/files/RMWS1220_Room2.jpg?v=1729698484' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fabric Wallpaper Haunted Mansion Inspired Wall Mural, Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21378591/r/il/56f09e/3100869784/il_570xN.3100869784_cjee.jpg' alt='Fabric Wallpaper Haunted Mansion Inspired Wall Mural, Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21378591/r/il/56f09e/3100869784/il_570xN.3100869784_cjee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: VGHUYEVOGERE Modern Wallpaper Murals 3D Victorian Haunted  Mansion Art Dark Gothic Decor Peel and Stick Removable Self-Adhesive PVC  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81SCQLjO4WL.jpg' alt='Amazon.com: VGHUYEVOGERE Modern Wallpaper Murals 3D Victorian Haunted  Mansion Art Dark Gothic Decor Peel and Stick Removable Self-Adhesive PVC  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81SCQLjO4WL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roommates Disney Haunted Mansion Grey Peel And Stick Grey ...">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/7115675172910_6.jpg?v=1733236938' alt='Roommates Disney Haunted Mansion Grey Peel And Stick Grey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/7115675172910_6.jpg?v=1733236938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel & Stick Wallpaper Art Haunted Mansion Scene Eerie ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ljZC5NzjL.jpg' alt='Amazon.com: Peel & Stick Wallpaper Art Haunted Mansion Scene Eerie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ljZC5NzjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Haunted Mansion, Haunted Mansion Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20707967/r/il/2b89fc/2609718235/il_fullxfull.2609718235_ksbg.jpg' alt='Removable Wallpaper Haunted Mansion, Haunted Mansion Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20707967/r/il/2b89fc/2609718235/il_fullxfull.2609718235_ksbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Haunted Mansion Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/files/RMWS1221_Room.jpg?v=1729698484' alt='Disney Haunted Mansion Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/files/RMWS1221_Room.jpg?v=1729698484' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Mansion Wall Mural, Horror House Wallpaper, ,halloween and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53185770/r/il/354b77/6235805603/il_fullxfull.6235805603_i9g1.jpg' alt='Haunted Mansion Wall Mural, Horror House Wallpaper, ,halloween and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53185770/r/il/354b77/6235805603/il_fullxfull.6235805603_i9g1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

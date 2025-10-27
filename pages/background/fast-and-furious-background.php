@@ -1,0 +1,129 @@
+<title>Fast and Furious Franchise: The Ultimate Action Series</title>
+                    <meta name="description" content="Discover the exhilarating world of the "Fast and Furious" franchise, where speed, adrenaline, and family collide. Explore the evolution of this iconic series, featuring thrilling races, epic heists, and unforgettable characters. Join the ride now!">
+                    <meta name="keywords" content="fast and furious background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fast-and-furious-background">
+                            <span itemprop="name">fast and furious background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fast and Furious Franchise: The Ultimate Action Series</h1>
+                <p>The "Fast and Furious" franchise began in 2001, delivering a high-octane blend of street racing, heists, and family ties. Its successful blend of adrenaline-pumping action and a diverse cast, led by Vin Diesel and Paul Walker, highlights themes of loyalty and friendship. Over the years, it has evolved, embracing global espionage and thrilling stunts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="232 Fast & Furious HD Wallpapers | Background Images - Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/cb/ef/afcbefb25c1d6bcb6827a1a28bf91dc2.jpg' alt='232 Fast & Furious HD Wallpapers | Background Images - Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/cb/ef/afcbefb25c1d6bcb6827a1a28bf91dc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Fast And Furious Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fast-and-furious-cars-black-and-orange-imux8vr8msps14o7.jpg' alt='300+] Fast And Furious Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fast-and-furious-cars-black-and-orange-imux8vr8msps14o7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast and the furious 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/130/1306348.jpg' alt='Fast and the furious 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3158">
+                                <meta itemprop="height" content="1776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/130/1306348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast and Furious | ScreenRant">
+                                <img itemprop="contentUrl url" src='https://static0.srcdn.com/wordpress/wp-content/uploads/2016/08/movie-timelines-fast-furious.jpg' alt='Fast and Furious | ScreenRant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static0.srcdn.com/wordpress/wp-content/uploads/2016/08/movie-timelines-fast-furious.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FAST & FURIOUS CROSSROADS Is Now Available For Xbox One - Xbox Wire">
+                                <img itemprop="contentUrl url" src='https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2020/08/Fast-and-Furious-Crossroads.jpg' alt='FAST & FURIOUS CROSSROADS Is Now Available For Xbox One - Xbox Wire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xbox Wire" />
+                                </span>
+                                <a href='https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2020/08/Fast-and-Furious-Crossroads.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fast and the Furious Wallpaper (1024 x 768 Pixels)">
+                                <img itemprop="contentUrl url" src='https://www.dan-dare.org/FreeFun/Images/CartoonsMoviesTV/FastAndTheFuriousWallpaper1024.jpg' alt='The Fast and the Furious Wallpaper (1024 x 768 Pixels)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dan-Dare.org" />
+                                </span>
+                                <a href='https://www.dan-dare.org/FreeFun/Images/CartoonsMoviesTV/FastAndTheFuriousWallpaper1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast & Furious: In The Background (Part 5) – LamleyGroup">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lamleygroup.com/wp-content/uploads/2023/01/1995-Mitsubishi-Eclipse-6.jpg?ssl=1' alt='Fast & Furious: In The Background (Part 5) – LamleyGroup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lamley Group" />
+                                </span>
+                                <a href='https://i0.wp.com/lamleygroup.com/wp-content/uploads/2023/01/1995-Mitsubishi-Eclipse-6.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fate of The Furious HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/816/thumb-1920-816872.jpg' alt='The Fate of The Furious HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/816/thumb-1920-816872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Grayscale Best Fast And Furious Movie 8 Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-fast-and-furious-background-5120-x-2880-wnugsbt99ty9hwg5.jpg' alt='Download Grayscale Best Fast And Furious Movie 8 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-fast-and-furious-background-5120-x-2880-wnugsbt99ty9hwg5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast & Furious: In The Background (Part 5) – LamleyGroup">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lamleygroup.com/wp-content/uploads/2023/01/FF1-Background5.jpg?ssl=1' alt='Fast & Furious: In The Background (Part 5) – LamleyGroup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lamley Group" />
+                                </span>
+                                <a href='https://i0.wp.com/lamleygroup.com/wp-content/uploads/2023/01/FF1-Background5.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

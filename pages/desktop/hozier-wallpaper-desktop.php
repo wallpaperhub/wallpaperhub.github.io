@@ -1,0 +1,129 @@
+<title>Stunning Hozier Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover a captivating collection of Hozier wallpapers for your desktop. Perfect for fans, these stunning visuals capture the essence of his music and art. Enhance your workspace with inspiration and beauty—download your favorite Hozier wallpapers today!">
+                    <meta name="keywords" content="hozier wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/hozier-wallpaper-desktop">
+                            <span itemprop="name">hozier wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hozier Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop with stunning Hozier wallpapers! Celebrate the soulful melodies of Hozier by adorning your screen with his artistic designs. Our collection features vibrant images from concerts, album covers, and serene landscapes inspired by his songs. Perfect for fans seeking inspiration and beauty daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/5/3/2420963-2480x1654-desktop-hd-hozier-wallpaper.jpg' alt='Hozier Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/5/3/2420963-2480x1654-desktop-hd-hozier-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hozier desktop wallpaper :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/1e/05/891e055b2a4be25798094c88ebebee50.jpg' alt='hozier desktop wallpaper :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/1e/05/891e055b2a4be25798094c88ebebee50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/a/6/2421154-2048x1353-desktop-hd-hozier-wallpaper-image.jpg' alt='Hozier Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/a/6/2421154-2048x1353-desktop-hd-hozier-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/0/5/2420956-1920x1080-desktop-1080p-hozier-wallpaper-photo.jpg' alt='Hozier Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/0/5/2420956-1920x1080-desktop-1080p-hozier-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wasteland, baby! wallpaper (2000 x 1333) : r/Hozier">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/owwy6qhg15t21.jpg' alt='wasteland, baby! wallpaper (2000 x 1333) : r/Hozier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/owwy6qhg15t21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Indie Aesthetic Laptop Hozier Black And White Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-aesthetic-laptop-hozier-black-and-white-xi3dq9ztqru376th.jpg' alt='Download Indie Aesthetic Laptop Hozier Black And White Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-aesthetic-laptop-hozier-black-and-white-xi3dq9ztqru376th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier | Music fanart | fanart.tv">
+                                <img itemprop="contentUrl url" src='https://images.fanart.tv/fanart/hozier-651111df42595.jpg' alt='Hozier | Music fanart | fanart.tv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fanart.tv" />
+                                </span>
+                                <a href='https://images.fanart.tv/fanart/hozier-651111df42595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/d/0/2420961-1920x1080-desktop-1080p-hozier-background.jpg' alt='Hozier Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/d/0/2420961-1920x1080-desktop-1080p-hozier-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier aesthetic wallpaper for desktop HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/75/0a/60750a274fff34764c524b76e4b29b7d.jpg' alt='Hozier aesthetic wallpaper for desktop HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/75/0a/60750a274fff34764c524b76e4b29b7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knowhere, baby! — Hozier NFWMB wallpapers/screenshots">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8ca1ea4a54a5a52caa252191fac8d7e6/66dfb389574fc3f5-82/s1280x1920/6c227453f1526156f5cc4e493a5f15a3ad72142a.png' alt='Knowhere, baby! — Hozier NFWMB wallpapers/screenshots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knowhere, baby! - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8ca1ea4a54a5a52caa252191fac8d7e6/66dfb389574fc3f5-82/s1280x1920/6c227453f1526156f5cc4e493a5f15a3ad72142a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

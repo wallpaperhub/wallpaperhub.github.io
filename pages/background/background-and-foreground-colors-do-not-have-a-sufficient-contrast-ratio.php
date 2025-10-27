@@ -1,0 +1,129 @@
+<title>Enhancing Readability: Importance of Color Contrast Ratio</title>
+                    <meta name="description" content="Learn why a sufficient contrast ratio between background and foreground colors is crucial for improving readability and accessibility. Discover how to enhance user experience by optimizing color choices for better visibility and compliance with accessibility standards.">
+                    <meta name="keywords" content="background and foreground colors do not have a sufficient contrast ratio.">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-and-foreground-colors-do-not-have-a-sufficient-contrast-ratio">
+                            <span itemprop="name">background and foreground colors do not have a sufficient contrast ratio.</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhancing Readability: Importance of Color Contrast Ratio</h1>
+                <p>Background and foreground colors that lack sufficient contrast can create readability issues, particularly for individuals with visual impairments. It's essential to ensure adequate contrast ratios to enhance accessibility and user experience. A clear distinction between colors not only improves visibility but also conveys content effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to fix "Background and foreground colors do not have a ...">
+                                <img itemprop="contentUrl url" src='https://www.plothost.com/wp-content/uploads/2022/02/background-foreground-colors1.webp' alt='How to fix "Background and foreground colors do not have a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1203">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlotHost" />
+                                </span>
+                                <a href='https://www.plothost.com/wp-content/uploads/2022/02/background-foreground-colors1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to fix "Background and foreground colors do not have a ...">
+                                <img itemprop="contentUrl url" src='https://www.plothost.com/wp-content/uploads/2022/02/background-foreground-colors2.webp' alt='How to fix "Background and foreground colors do not have a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1203">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlotHost" />
+                                </span>
+                                <a href='https://www.plothost.com/wp-content/uploads/2022/02/background-foreground-colors2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background and foreground colors have a sufficient contrast ratio ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/1066253/114235578-3c5d5c80-9935-11eb-9475-65fa6944d0d9.png' alt='Background and foreground colors have a sufficient contrast ratio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1570">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/1066253/114235578-3c5d5c80-9935-11eb-9475-65fa6944d0d9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background and foreground colors have a sufficient contrast ratio ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/2301202/103790451-d5af6680-5006-11eb-9d33-6167853e78c1.png' alt='Background and foreground colors have a sufficient contrast ratio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2174">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/2301202/103790451-d5af6680-5006-11eb-9d33-6167853e78c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix “Background and Foreground Colors Sufficient Contrast Ratio”">
+                                <img itemprop="contentUrl url" src='https://mllj2j8xvfl0.i.optimole.com/cb:c5QE.37290/w:auto/h:auto/q:mauto/f:best/https://themeisle.com/blog/wp-content/uploads/2023/05/Not-Sufficient-Contrast-Ratio.png' alt='Fix “Background and Foreground Colors Sufficient Contrast Ratio”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Themeisle" />
+                                </span>
+                                <a href='https://mllj2j8xvfl0.i.optimole.com/cb:c5QE.37290/w:auto/h:auto/q:mauto/f:best/https://themeisle.com/blog/wp-content/uploads/2023/05/Not-Sufficient-Contrast-Ratio.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix Background and foreground colors do not have a sufficient contrast  ratio | Page Speed Insight">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/srtDq5zbyv0/maxresdefault.jpg' alt='Fix Background and foreground colors do not have a sufficient contrast  ratio | Page Speed Insight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/srtDq5zbyv0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix Background and foreground colors do not have a sufficient ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eSVRWvJ8_XE/sddefault.jpg' alt='Fix Background and foreground colors do not have a sufficient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eSVRWvJ8_XE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix “Background and Foreground Colors Sufficient Contrast Ratio”">
+                                <img itemprop="contentUrl url" src='https://mllj2j8xvfl0.i.optimole.com/cb:c5QE.37290/w:1411/h:828/q:mauto/f:best/https://themeisle.com/blog/wp-content/uploads/2023/05/identify-contrast-error-1.png' alt='Fix “Background and Foreground Colors Sufficient Contrast Ratio”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1411">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Themeisle" />
+                                </span>
+                                <a href='https://mllj2j8xvfl0.i.optimole.com/cb:c5QE.37290/w:1411/h:828/q:mauto/f:best/https://themeisle.com/blog/wp-content/uploads/2023/05/identify-contrast-error-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background and foreground colors do not have a sufficient contrat ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/31345346/41911241-679a8118-794c-11e8-94ac-c86c46afd002.png' alt='Background and foreground colors do not have a sufficient contrat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/31345346/41911241-679a8118-794c-11e8-94ac-c86c46afd002.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background and foreground colors do not have a sufficient contrast ...">
+                                <img itemprop="contentUrl url" src='https://us1.discourse-cdn.com/webflow1/original/4X/0/e/f/0ef45cd07c8ee40663cca0c05b89c9042049b4b3.png' alt='Background and foreground colors do not have a sufficient contrast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1316">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forum | Webflow" />
+                                </span>
+                                <a href='https://us1.discourse-cdn.com/webflow1/original/4X/0/e/f/0ef45cd07c8ee40663cca0c05b89c9042049b4b3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

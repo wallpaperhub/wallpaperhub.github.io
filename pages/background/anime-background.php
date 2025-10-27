@@ -1,0 +1,129 @@
+<title>Stunning Anime Backgrounds: Elevate Your Viewing Experience</title>
+                    <meta name="description" content="Explore the enchanting world of anime backgrounds! Discover how expertly designed landscapes enrich your favorite shows, enhance storytelling, and immerse viewers in captivating atmospheres. Dive into the artistry that brings anime adventures to life!">
+                    <meta name="keywords" content="anime background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-background">
+                            <span itemprop="name">anime background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Backgrounds: Elevate Your Viewing Experience</h1>
+                <p>Anime backgrounds play a crucial role in setting the tone and atmosphere of animated scenes. These meticulously crafted landscapes, ranging from bustling cityscapes to serene nature vistas, enhance storytelling and character development. They provide context, evoke emotions, and immerse viewers in the captivating worlds of their favorite shows.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,695 Anime Background City Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/anime-background-wallpaper-nice-theme-349617311.jpg' alt='2,695 Anime Background City Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/anime-background-wallpaper-nice-theme-349617311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Background Images – Browse 558,252 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/97/79/83/360_F_297798377_VB9egqGnRKcZxU53wybEHLRnnTrcvlAH.jpg' alt='Anime Background Images – Browse 558,252 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/97/79/83/360_F_297798377_VB9egqGnRKcZxU53wybEHLRnnTrcvlAH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/serene-urban-sunset-illustration_53876-326536.jpg' alt='Anime Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/serene-urban-sunset-illustration_53876-326536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/623/928/small_2x/background-for-productgraphy-ai-generated-photo.jpg' alt='Anime Landscape Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/623/928/small_2x/background-for-productgraphy-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,708 Tree Anime Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/nice-anime-background-road-wood-night-nice-anime-background-road-wood-night-huge-moon-338448223.jpg' alt='3,708 Tree Anime Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/nice-anime-background-road-wood-night-nice-anime-background-road-wood-night-huge-moon-338448223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print anime background, hong kong, city, business ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/96/24/65/1000_F_596246569_eC3suGAVq2XlF5OjPUlqaQJwbn60cMBU.jpg' alt='Photo & Art Print anime background, hong kong, city, business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/96/24/65/1000_F_596246569_eC3suGAVq2XlF5OjPUlqaQJwbn60cMBU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Japanese house street. Rainy old asian village. Lofi loop anime  style animation background .">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/974/308/small_2x/traditional-japanese-house-street-rainy-old-asian-village-lofi-loop-anime-style-animation-background-video.jpg' alt='Traditional Japanese house street. Rainy old asian village. Lofi loop anime  style animation background .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/974/308/small_2x/traditional-japanese-house-street-rainy-old-asian-village-lofi-loop-anime-style-animation-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset city (Anime) - Finished Projects - Blender Artists Community">
+                                <img itemprop="contentUrl url" src='https://blenderartists.org/uploads/default/original/4X/e/d/2/ed227bab74f5961a91d20c2e13757fb1a217e09f.jpeg' alt='Sunset city (Anime) - Finished Projects - Blender Artists Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blender Artists" />
+                                </span>
+                                <a href='https://blenderartists.org/uploads/default/original/4X/e/d/2/ed227bab74f5961a91d20c2e13757fb1a217e09f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Admire the tranquility of an Aesthetic Anime background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-anime-background-uniiofevfptrbv8t.jpg' alt='Download Admire the tranquility of an Aesthetic Anime background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-anime-background-uniiofevfptrbv8t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Night sky clouds - Anime Background., 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/08/05/17/1000_F_308051716_3EnfFImcHUeWGAWBtuFgTIoEwVmn70f0.jpg' alt='Poster, Print Night sky clouds - Anime Background., 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/08/05/17/1000_F_308051716_3EnfFImcHUeWGAWBtuFgTIoEwVmn70f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

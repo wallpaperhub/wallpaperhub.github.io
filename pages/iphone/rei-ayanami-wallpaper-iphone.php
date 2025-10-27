@@ -1,0 +1,129 @@
+<title>Stunning Rei Ayanami Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover amazing Rei Ayanami wallpapers for your iPhone. Personalize your device with designs that beautifully highlight this iconic character from "Neon Genesis Evangelion." Perfect for fans seeking a unique touch for their screens! Explore and download your favorites today!">
+                    <meta name="keywords" content="rei ayanami wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/rei-ayanami-wallpaper-iphone">
+                            <span itemprop="name">rei ayanami wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rei Ayanami Wallpapers for iPhone</h1>
+                <p>Enhance your iPhone with stunning Rei Ayanami wallpapers that capture her enigmatic beauty from "Neon Genesis Evangelion." Choose from a variety of designs featuring her iconic blue hair and captivating expressions. Perfect for fans wanting to showcase their love for this iconic character on their devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ayanami Rei AMOLED wallpaper [1440x3040] : r/evangelion">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/5pSDtzFc8BtYNVCXVDj-JUduCydOgbP6xmSVgyWDliU.jpg?auto=webp&s=b8da252b65c2f946417cd16f065f4070620b7ee4' alt='Ayanami Rei AMOLED wallpaper [1440x3040] : r/evangelion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/5pSDtzFc8BtYNVCXVDj-JUduCydOgbP6xmSVgyWDliU.jpg?auto=webp&s=b8da252b65c2f946417cd16f065f4070620b7ee4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ayanami rei wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/339/369/HD-wallpaper-rei-ayanami-ii-eva-evangelion-neon-genesis-evangelion-nge-rei-ayanami.jpg' alt='HD ayanami rei wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/339/369/HD-wallpaper-rei-ayanami-ii-eva-evangelion-neon-genesis-evangelion-nge-rei-ayanami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ayanami rei wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1023/70/HD-wallpaper-ayanami-rei-anime-ayanamis-evangelion-iphone-rei-thumbnail.jpg' alt='HD ayanami rei wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1023/70/HD-wallpaper-ayanami-rei-anime-ayanamis-evangelion-iphone-rei-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ayanami rei wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/527/789/HD-wallpaper-rei-evangelion-rei-ayanami-thumbnail.jpg' alt='HD ayanami rei wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/527/789/HD-wallpaper-rei-evangelion-rei-ayanami-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rei Ayanami From Neon Genesis Evangelion Posing In Front Of A ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/rei-ayanami-from-neon-genesis-evangelion-posing-in-front-of-a-white-background-i3sd646mktp2cep7.jpg' alt='Rei Ayanami From Neon Genesis Evangelion Posing In Front Of A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/rei-ayanami-from-neon-genesis-evangelion-posing-in-front-of-a-white-background-i3sd646mktp2cep7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rei Ayanami Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nobon.me/wp-content/uploads/2021/06/2eva_1242x2688_02-scaled.jpg?ssl=1' alt='Rei Ayanami Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i0.wp.com/nobon.me/wp-content/uploads/2021/06/2eva_1242x2688_02-scaled.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rei Ayanami - Wallpaper by ASOlivera on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79a77ced-1756-441f-8a06-192e0c661cf2/dfr81t7-5724be2f-c6bf-4fe7-bf8f-99000ea39359.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5YTc3Y2VkLTE3NTYtNDQxZi04YTA2LTE5MmUwYzY2MWNmMlwvZGZyODF0Ny01NzI0YmUyZi1jNmJmLTRmZTctYmY4Zi05OTAwMGVhMzkzNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M-q3yHIHx5NCLvt0DpqdvaFoHg3YWF8muloiDw8JbtM' alt='Rei Ayanami - Wallpaper by ASOlivera on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1890">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79a77ced-1756-441f-8a06-192e0c661cf2/dfr81t7-5724be2f-c6bf-4fe7-bf8f-99000ea39359.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5YTc3Y2VkLTE3NTYtNDQxZi04YTA2LTE5MmUwYzY2MWNmMlwvZGZyODF0Ny01NzI0YmUyZi1jNmJmLTRmZTctYmY4Zi05OTAwMGVhMzkzNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M-q3yHIHx5NCLvt0DpqdvaFoHg3YWF8muloiDw8JbtM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Genesis Evangelion - Anime Wallpaper Iphone Xs, HD Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/78/7b/70787b7a42bcd243fb5ed59f879c3e10.jpg' alt='Neon Genesis Evangelion - Anime Wallpaper Iphone Xs, HD Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/78/7b/70787b7a42bcd243fb5ed59f879c3e10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rei Ayanami from Neon Genesis Evangelion NGE [Anime] : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rei-ayanami-from-neon-genesis-evangelion-nge-anime-v0-q4vxp1s0c83b1.jpg?auto=webp&s=66625d8995e742c66dfc48c053c043ebba43b6df' alt='Rei Ayanami from Neon Genesis Evangelion NGE [Anime] : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2636">
+                                <meta itemprop="height" content="4312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rei-ayanami-from-neon-genesis-evangelion-nge-anime-v0-q4vxp1s0c83b1.jpg?auto=webp&s=66625d8995e742c66dfc48c053c043ebba43b6df' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ayanami Rei - Neon Genesis Evangelion - Mobile Wallpaper by Gainax ...">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Ayanami.Rei.full.408982.jpg' alt='Ayanami Rei - Neon Genesis Evangelion - Mobile Wallpaper by Gainax ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2819">
+                                <meta itemprop="height" content="4196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan Anime Image Board" />
+                                </span>
+                                <a href='https://static.zerochan.net/Ayanami.Rei.full.408982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

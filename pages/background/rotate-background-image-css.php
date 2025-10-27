@@ -1,0 +1,129 @@
+<title>Rotate Background Image in CSS: Easy Guide</title>
+                    <meta name="description" content="Learn how to easily rotate your background images in CSS with our concise guide. Optimize your web design and enhance aesthetic appeal by mastering simple CSS techniques for effective background rotation. Perfect for beginners and experienced developers alike!">
+                    <meta name="keywords" content="rotate background image css">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rotate-background-image-css">
+                            <span itemprop="name">rotate background image css</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rotate Background Image in CSS: Easy Guide</h1>
+                <p>To rotate a background image in CSS, use the `background-image` property combined with `transform`. First, set your background image using `background-image: url('your-image.jpg');`. Then, wrap the element in a container, apply `transform: rotate(45deg);` to it, and adjust overflow and positioning as needed for best visual effect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rotate Background Images in CSS3 Using Transforms | SitePoint">
+                                <img itemprop="contentUrl url" src='https://uploads.sitepoint.com/wp-content/uploads/2018/07/1578355340background-rotate.png' alt='How to Rotate Background Images in CSS3 Using Transforms | SitePoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SitePoint" />
+                                </span>
+                                <a href='https://uploads.sitepoint.com/wp-content/uploads/2018/07/1578355340background-rotate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - How do I create rotating animation for background ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/xtolD.png' alt='javascript - How do I create rotating animation for background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/xtolD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Rotate background image height 100% - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/fPpS8.jpg' alt='html - Rotate background image height 100% - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/fPpS8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - How to rotate background in CSS? - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/dhUDp.gif' alt='html - How to rotate background in CSS? - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/dhUDp.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS: background-image rotate without transform: rotate() - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/efRXq.jpg' alt='CSS: background-image rotate without transform: rotate() - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/efRXq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rotate Container Background Image using CSS ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20200324230912/Screenshot-from-2020-03-24-23-07-48.png' alt='How to Rotate Container Background Image using CSS ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1462">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20200324230912/Screenshot-from-2020-03-24-23-07-48.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rotate Background Images in CSS3 Using Transforms | SitePoint">
+                                <img itemprop="contentUrl url" src='https://uploads.sitepoint.com/wp-content/uploads/2025/01/1736203616How-to-Apply-CSS3-Transforms-to-Background-Images-2.png' alt='How to Rotate Background Images in CSS3 Using Transforms | SitePoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SitePoint" />
+                                </span>
+                                <a href='https://uploads.sitepoint.com/wp-content/uploads/2025/01/1736203616How-to-Apply-CSS3-Transforms-to-Background-Images-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rotate Background Image | UnusedCSS">
+                                <img itemprop="contentUrl url" src='https://unused-css.com/media/blog-images/601d0a23cea54c9bc9a870500d44b16c/header_blog_768.jpg' alt='Rotate Background Image | UnusedCSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unused CSS" />
+                                </span>
+                                <a href='https://unused-css.com/media/blog-images/601d0a23cea54c9bc9a870500d44b16c/header_blog_768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - rotating background image with css for <img> - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/dmU2a.jpg' alt='javascript - rotating background image with css for <img> - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4804">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/dmU2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Rotate Background Image - DEV Community">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrh4oj5picdvhe4fpdno.png' alt='How to Rotate Background Image - DEV Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrh4oj5picdvhe4fpdno.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

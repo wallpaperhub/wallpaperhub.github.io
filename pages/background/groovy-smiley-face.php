@@ -1,0 +1,129 @@
+<title>Groovy Smiley Face: Spread Positivity Effortlessly!</title>
+                    <meta name="description" content="Discover the delightful world of the groovy smiley face! This cheerful icon boosts positivity and adds a fun touch to your messages and decor. Brighten up your day and spread happiness effortlessly with the iconic groovy smiley face! Perfect for all ages!">
+                    <meta name="keywords" content="groovy smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-smiley-face">
+                            <span itemprop="name">groovy smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Smiley Face: Spread Positivity Effortlessly!</h1>
+                <p>Embrace the joy of the groovy smiley face! This iconic symbol brings a fun and playful vibe to any conversation. With its cheerful expression and bright colors, the groovy smiley face is perfect for spreading positivity. Use it in messages, art, or decor to uplift spirits and share happiness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE 70s Groovy Smiley Face SVG | Retro Flower SVG Cut File for Cricut,  Cameo Silhouette">
+                                <img itemprop="contentUrl url" src='http://store.caluyadesign.com/cdn/shop/products/main_4b95886b-9237-42dd-95b5-dc3a7ce81478.jpg?v=1670989309' alt='FREE 70s Groovy Smiley Face SVG | Retro Flower SVG Cut File for Cricut,  Cameo Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caluya Design" />
+                                </span>
+                                <a href='http://store.caluyadesign.com/cdn/shop/products/main_4b95886b-9237-42dd-95b5-dc3a7ce81478.jpg?v=1670989309' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Face, Groovy, Retro, SVG Vector Cut File, PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26950043/r/il/f6f185/4767163136/il_fullxfull.4767163136_jx1v.jpg' alt='Happy Face, Groovy, Retro, SVG Vector Cut File, PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26950043/r/il/f6f185/4767163136/il_fullxfull.4767163136_jx1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Smiley Face Cocktail Napkins">
+                                <img itemprop="contentUrl url" src='https://genwooshop.com/cdn/shop/products/SmileyFaceNapkinsCocktail_1200x.jpg?v=1662055203' alt='Groovy Smiley Face Cocktail Napkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GenWooShop" />
+                                </span>
+                                <a href='https://genwooshop.com/cdn/shop/products/SmileyFaceNapkinsCocktail_1200x.jpg?v=1662055203' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Retro Smiley Face SVG | 70s Groovy Flower SVG">
+                                <img itemprop="contentUrl url" src='https://store.caluyadesign.com/cdn/shop/products/main_a05002db-7e34-4c5d-a163-9d6cf133daeb.jpg?v=1670990451&width=1920' alt='FREE Retro Smiley Face SVG | 70s Groovy Flower SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caluya Design" />
+                                </span>
+                                <a href='https://store.caluyadesign.com/cdn/shop/products/main_a05002db-7e34-4c5d-a163-9d6cf133daeb.jpg?v=1670990451&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Face Smiley Bundle, Hippie, Groovy, SVG, PNG, Thunder Eyes ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26950043/r/il/fe2ded/6027292362/il_570xN.6027292362_la86.jpg' alt='Happy Face Smiley Bundle, Hippie, Groovy, SVG, PNG, Thunder Eyes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26950043/r/il/fe2ded/6027292362/il_570xN.6027292362_la86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Smile Face Round Beverage Napkins - 16 Pc. | Oriental Trading">
+                                <img itemprop="contentUrl url" src='https://s7.orientaltrading.com/is/image/OrientalTrading/14232750?$PDP_VIEWER_IMAGE$' alt='Groovy Smile Face Round Beverage Napkins - 16 Pc. | Oriental Trading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oriental Trading" />
+                                </span>
+                                <a href='https://s7.orientaltrading.com/is/image/OrientalTrading/14232750?$PDP_VIEWER_IMAGE$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Groovy Pink Checkered Smiley Face Happy Face | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4646684960.8276/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Retro Groovy Pink Checkered Smiley Face Happy Face | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4646684960.8276/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Colors Smiley Face Happy Funky Groovy " Sticker for Sale by ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5087143522.8809/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Pastel Colors Smiley Face Happy Funky Groovy " Sticker for Sale by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5087143522.8809/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy smiley face blossom hippie flower isolated Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/72/21/groovy-smiley-face-blossom-hippie-flower-isolated-vector-44717221.jpg' alt='Groovy smiley face blossom hippie flower isolated Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/72/21/groovy-smiley-face-blossom-hippie-flower-isolated-vector-44717221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Libbey Glass Can Svg, Groovy Svg, Smiley Face Icon Svg, Mother's Day  Svg - Digital File">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1683765628_Clintonfrazier-copy-6-Groovy-12.jpeg&width=800&height=800&quality=90&format=auto&fit=pad' alt='Groovy Libbey Glass Can Svg, Groovy Svg, Smiley Face Icon Svg, Mother's Day  Svg - Digital File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1683765628_Clintonfrazier-copy-6-Groovy-12.jpeg&width=800&height=800&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

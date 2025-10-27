@@ -1,0 +1,129 @@
+<title>Disney St. Patrick's Day Wallpaper: Lucky Magic for Your Screen</title>
+                    <meta name="description" content="Add a sprinkle of Disney magic to your St. Patrick's Day celebrations! Explore our collection of festive backgrounds featuring beloved characters in charming Irish themes. Perfect for phones and tablets, these wallpapers bring luck and joy to your screen. Download your favorite today and celebrate in style!">
+                    <meta name="keywords" content="background disney st patrick's day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/background-disney-st-patricks-day-wallpaper">
+                            <span itemprop="name">background disney st patrick's day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Disney St. Patrick's Day Wallpaper: Lucky Magic for Your Screen</h1>
+                <p>Celebrate St. Patrick's Day with delightful Disney-themed wallpaper! Transform your device with vibrant backgrounds featuring your favorite Disney characters in festive green attire, surrounded by shamrocks and rainbows. Perfect for adding a touch of magic to your holiday, these wallpapers are sure to bring joy and cheer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney St. Patrick's Day Wallpaper by Thekingblader995 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df1vt35-8bc555ea-3d1f-4c07-8620-addeca0ca1ac.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGYxdnQzNS04YmM1NTVlYS0zZDFmLTRjMDctODYyMC1hZGRlY2EwY2ExYWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oeT7yBebIOQyYEuwfldik4GaXMF9lx2Wn3usBXgwDAs' alt='Disney St. Patrick's Day Wallpaper by Thekingblader995 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df1vt35-8bc555ea-3d1f-4c07-8620-addeca0ca1ac.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGYxdnQzNS04YmM1NTVlYS0zZDFmLTRjMDctODYyMC1hZGRlY2EwY2ExYWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oeT7yBebIOQyYEuwfldik4GaXMF9lx2Wn3usBXgwDAs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Disney - St Pats ideas | st patricks day wallpaper, happy st ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/1e/0e/a2/1e0ea257329bed8b32049c122306e887.jpg' alt='8 Disney - St Pats ideas | st patricks day wallpaper, happy st ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/1e/0e/a2/1e0ea257329bed8b32049c122306e887.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St.Patricks Day Mickey">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/e7/78/dde7781c6fe494ebd1511b289e9037bf.jpg' alt='St.Patricks Day Mickey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/e7/78/dde7781c6fe494ebd1511b289e9037bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Disney - St Pats ideas | st patricks day wallpaper, happy st ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c9/6d/77/c96d7755a5b70ad5d8a45e3703b05028.jpg' alt='8 Disney - St Pats ideas | st patricks day wallpaper, happy st ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c9/6d/77/c96d7755a5b70ad5d8a45e3703b05028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney St.Patrick Day Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10777479.jpg' alt='Disney St.Patrick Day Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10777479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patricks Day At Disney World! - Disney Tips and Trips">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/disneytipsandtrips.com/wp-content/uploads/2020/03/Q4B3600-1.jpg?resize=880%2C312&ssl=1' alt='St. Patricks Day At Disney World! - Disney Tips and Trips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Tips and Trips" />
+                                </span>
+                                <a href='https://i0.wp.com/disneytipsandtrips.com/wp-content/uploads/2020/03/Q4B3600-1.jpg?resize=880%2C312&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney leprechaun | Our Magical Disney Moments">
+                                <img itemprop="contentUrl url" src='https://collinsrace1.wordpress.com/wp-content/uploads/2020/03/st-pats-day.jpg' alt='Disney leprechaun | Our Magical Disney Moments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Magical Disney Moments - WordPress.com" />
+                                </span>
+                                <a href='https://collinsrace1.wordpress.com/wp-content/uploads/2020/03/st-pats-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Day Disney Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8644796.jpg' alt='St. Patrick's Day Disney Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8644796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/74/66/347466ccd917a391e02de0287ef0b863.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/74/66/347466ccd917a391e02de0287ef0b863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney on X: "Don't look clover this.    Can you spot who is ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FrX4LuzWcAIkqgr?format=jpg&name=4096x4096' alt='Disney on X: "Don't look clover this.    Can you spot who is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FrX4LuzWcAIkqgr?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

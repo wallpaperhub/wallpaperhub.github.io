@@ -1,0 +1,129 @@
+<title>Shattered Glass PNG: Stunning Textures for Your Designs</title>
+                    <meta name="description" content="Discover high-quality shattered glass PNG images for your graphic design needs. Perfect for adding depth and realism to your projects, these transparent textures are versatile for various applications. Enhance your artwork effortlessly with our collection of shattered glass PNGs today!">
+                    <meta name="keywords" content="shattered glass png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shattered-glass-png">
+                            <span itemprop="name">shattered glass png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shattered Glass PNG: Stunning Textures for Your Designs</h1>
+                <p>Shattered glass PNG images are ideal for graphic design projects, providing a realistic effect in digital art, advertising, and web design. These transparent images allow designers to overlay shattered glass textures seamlessly on various backgrounds, enhancing the visual impact of their creations. Perfect for creative presentations!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass Digital - Shattered Glass PNG - Digital Drawings &  Illustrations - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25324953/r/il/f22338/3141859477/il_1080xN.3141859477_ncxz.jpg' alt='Broken Glass Digital - Shattered Glass PNG - Digital Drawings &  Illustrations - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25324953/r/il/f22338/3141859477/il_1080xN.3141859477_ncxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass Transparent Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/png-glass-backgrounds-shattered-glass-destruction-image-by_53876-624085.jpg?semt=ais_hybrid' alt='Broken Glass Transparent Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/png-glass-backgrounds-shattered-glass-destruction-image-by_53876-624085.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass PNG 20 by agusrockforlife on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1177d997-54a5-47ed-8309-eb5d0285890a/ddyqyd9-8ed778bf-c677-4de6-9d6c-5d4ab043f165.png/v1/fill/w_1280,h_854/broken_glass_png_20_by_agusrockforlife_ddyqyd9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMTE3N2Q5OTctNTRhNS00N2VkLTgzMDktZWI1ZDAyODU4OTBhXC9kZHlxeWQ5LThlZDc3OGJmLWM2NzctNGRlNi05ZDZjLTVkNGFiMDQzZjE2NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VxyPPG3p_v42Xnezx3f2WkgtqktCWCRzjWyBq-gQGuA' alt='Broken Glass PNG 20 by agusrockforlife on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1177d997-54a5-47ed-8309-eb5d0285890a/ddyqyd9-8ed778bf-c677-4de6-9d6c-5d4ab043f165.png/v1/fill/w_1280,h_854/broken_glass_png_20_by_agusrockforlife_ddyqyd9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMTE3N2Q5OTctNTRhNS00N2VkLTgzMDktZWI1ZDAyODU4OTBhXC9kZHlxeWQ5LThlZDc3OGJmLWM2NzctNGRlNi05ZDZjLTVkNGFiMDQzZjE2NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VxyPPG3p_v42Xnezx3f2WkgtqktCWCRzjWyBq-gQGuA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Shatter Broken Glass PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-shatter-broken-glass-png-701751694688354d8h4gqbqar.png' alt='HD Shatter Broken Glass PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-shatter-broken-glass-png-701751694688354d8h4gqbqar.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shattered Glass PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20190724/ourmid/pngtree-glass-crack-png-png-image_1589477.jpg' alt='Shattered Glass PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20190724/ourmid/pngtree-glass-crack-png-png-image_1589477.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass PNG Transparent SVG Vector | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2021/08/broken-glass-0112.png' alt='Broken Glass PNG Transparent SVG Vector | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2202">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2021/08/broken-glass-0112.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/513/845/small/high-resolution-broken-glass-texture-with-shattered-impact-pattern-cut-out-on-transparent-background-png.png' alt='Broken Glass PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/513/845/small/high-resolution-broken-glass-texture-with-shattered-impact-pattern-cut-out-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass PNG 1 by agusrockforlife on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1177d997-54a5-47ed-8309-eb5d0285890a/ddyqy01-2247e3dd-1b27-492e-8cfc-11260152305e.png/v1/fill/w_1280,h_854/broken_glass_png_1_by_agusrockforlife_ddyqy01-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMTE3N2Q5OTctNTRhNS00N2VkLTgzMDktZWI1ZDAyODU4OTBhXC9kZHlxeTAxLTIyNDdlM2RkLTFiMjctNDkyZS04Y2ZjLTExMjYwMTUyMzA1ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.B6iejy_gRVUH85f2MnsfW8La_63fnOUedCkcxU02s8c' alt='Broken Glass PNG 1 by agusrockforlife on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1177d997-54a5-47ed-8309-eb5d0285890a/ddyqy01-2247e3dd-1b27-492e-8cfc-11260152305e.png/v1/fill/w_1280,h_854/broken_glass_png_1_by_agusrockforlife_ddyqy01-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMTE3N2Q5OTctNTRhNS00N2VkLTgzMDktZWI1ZDAyODU4OTBhXC9kZHlxeTAxLTIyNDdlM2RkLTFiMjctNDkyZS04Y2ZjLTExMjYwMTUyMzA1ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.B6iejy_gRVUH85f2MnsfW8La_63fnOUedCkcxU02s8c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken glass PNG transparent image download, size: 1920x1080px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/broken_glass_PNG52.png' alt='Broken glass PNG transparent image download, size: 1920x1080px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/broken_glass_PNG52.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Broken Glass Effect Transparent PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-broken-glass-effect-transparent-png-701751694688395j3pzr7ndod.png' alt='HD Broken Glass Effect Transparent PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-broken-glass-effect-transparent-png-701751694688395j3pzr7ndod.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

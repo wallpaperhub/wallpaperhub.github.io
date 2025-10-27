@@ -1,0 +1,129 @@
+<title>Football-Themed Wallpaper: Game On! Decorate Your Space</title>
+                    <meta name="description" content="Discover the ultimate collection of football-themed wallpaper to energize your space. Perfect for fans, our designs add a unique touch that resonates with your love for the game. Revamp your home, office, or fan cave with striking patterns and colors that celebrate football like never before!">
+                    <meta name="keywords" content="football themed wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-themed-wallpaper">
+                            <span itemprop="name">football themed wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football-Themed Wallpaper: Game On! Decorate Your Space</h1>
+                <p>Transform your space with football-themed wallpaper, perfect for fans of all ages! From vibrant designs featuring iconic teams to subtle patterns showcasing the beauty of the game, these wallpapers can elevate any room. Ideal for man caves, kids' rooms, or even your office, they bring energetic vibes and passion for football into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Stadium Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' alt='Football Stadium Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Room Mural for Football Fans, Sports Themed Child Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/02f4b1/5938144607/il_1080xN.5938144607_l3m0.jpg' alt='Kids Room Mural for Football Fans, Sports Themed Child Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/02f4b1/5938144607/il_1080xN.5938144607_l3m0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Graphic Wallpaper Mural, Teenage Boys Dream Spaces ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13371893/r/il/5dc568/5684638036/il_570xN.5684638036_gc1t.jpg' alt='Football Graphic Wallpaper Mural, Teenage Boys Dream Spaces ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13371893/r/il/5dc568/5684638036/il_570xN.5684638036_gc1t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/4d/5e/d84d5ef7d940bd725a1625291f4bcaa7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/4d/5e/d84d5ef7d940bd725a1625291f4bcaa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football On The Field Wall Mural - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/238446-825-auto?width=825&height=auto&aspect=true' alt='Football On The Field Wall Mural - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/238446-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Wallpaper & Soccer Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/13603/cr23/24/828/1/two-football-players-striking-ball-kids-football-wallpaper.jpg' alt='Football Wallpaper & Soccer Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/13603/cr23/24/828/1/two-football-players-striking-ball-kids-football-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football themed poster and wallpaper for Super Bowl ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/american-football-themed-poster-wallpaper-super-bowl-featuring-football-helmet-ball-player-stadium_285885-2179.jpg' alt='American football themed poster and wallpaper for Super Bowl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/american-football-themed-poster-wallpaper-super-bowl-featuring-football-helmet-ball-player-stadium_285885-2179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Wallpaper Football Wall Mural Soccer Player Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/51600f/5191309007/il_fullxfull.5191309007_t7ka.jpg' alt='Sports Wallpaper Football Wall Mural Soccer Player Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/51600f/5191309007/il_fullxfull.5191309007_t7ka.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper football | Dynamic action on the field — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-football-action-dynamique-sur-le-terrain_700x700.jpg?v=1729279209' alt='Mural Wallpaper football | Dynamic action on the field — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-football-action-dynamique-sur-le-terrain_700x700.jpg?v=1729279209' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Themed Kids Room Wallpaper Soccer Wallpaper for Childrens ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/4e5b53/4993562512/il_fullxfull.4993562512_j41c.jpg' alt='Football Themed Kids Room Wallpaper Soccer Wallpaper for Childrens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/4e5b53/4993562512/il_fullxfull.4993562512_j41c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

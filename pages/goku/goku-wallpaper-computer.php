@@ -1,0 +1,129 @@
+<title>Stunning Goku Wallpapers for Your Computer</title>
+                    <meta name="description" content="Discover the best Goku wallpapers to elevate your computer's look! Perfect for anime lovers, these vibrant designs bring your favorite character to life. Explore a variety of styles and themes for the ultimate desktop experience!">
+                    <meta name="keywords" content="goku wallpaper computer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-wallpaper-computer">
+                            <span itemprop="name">goku wallpaper computer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Goku Wallpapers for Your Computer</h1>
+                <p>Transform your computer screen with stunning Goku wallpapers! From epic battle scenes to serene moments, there's a wallpaper for every Dragon Ball fan. Enhance your desktop with vibrant designs, capturing Goku's spirit and energy. Ideal for personalizing your workspace, inspiring productivity, and showcasing your love for anime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/6/1215980-3840x2160-desktop-4k-goku-background-image.jpg' alt='Goku Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/6/1215980-3840x2160-desktop-4k-goku-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku | Best Wallpaper - 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/goku-chromebook-wallpaper.jpg' alt='Goku | Best Wallpaper - 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/goku-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku HD Wallpaper - Dragon Ball Z Anime">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/610/610757.jpg' alt='Goku HD Wallpaper - Dragon Ball Z Anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/610/610757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku MUI Fan Art [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/e0bgfppl2q661.jpg?auto=webp&s=5f59a00aa83c9dcd5212b42744e231f2ce68604a' alt='Goku MUI Fan Art [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/e0bgfppl2q661.jpg?auto=webp&s=5f59a00aa83c9dcd5212b42744e231f2ce68604a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Kaioken Goku - Desktop Background (1920x1080) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/mySxsPV.png' alt='Super Kaioken Goku - Desktop Background (1920x1080) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/mySxsPV.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Epic Battle - Dragon Ball Super HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/902/902283.jpg' alt='Goku Epic Battle - Dragon Ball Super HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/902/902283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4K wallpaper for pc by rockydevilweeb on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/218894fb-2ed2-4a32-b4dd-7e017fccd106/df2b9m9-185f3531-93a9-41ed-af8f-9f50634cdd07.jpg/v1/fill/w_1280,h_720,q_75,strp/goku_4k_wallpaper_for_pc_by_rockydevilweeb_df2b9m9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjE4ODk0ZmItMmVkMi00YTMyLWI0ZGQtN2UwMTdmY2NkMTA2XC9kZjJiOW05LTE4NWYzNTMxLTkzYTktNDFlZC1hZjhmLTlmNTA2MzRjZGQwNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1APBchVh0q4MUHzQQdeVhF3lDK-oeblMvB4glwcBdsg' alt='Goku 4K wallpaper for pc by rockydevilweeb on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/218894fb-2ed2-4a32-b4dd-7e017fccd106/df2b9m9-185f3531-93a9-41ed-af8f-9f50634cdd07.jpg/v1/fill/w_1280,h_720,q_75,strp/goku_4k_wallpaper_for_pc_by_rockydevilweeb_df2b9m9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjE4ODk0ZmItMmVkMi00YTMyLWI0ZGQtN2UwMTdmY2NkMTA2XC9kZjJiOW05LTE4NWYzNTMxLTkzYTktNDFlZC1hZjhmLTlmNTA2MzRjZGQwNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1APBchVh0q4MUHzQQdeVhF3lDK-oeblMvB4glwcBdsg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra instinct (UI) Cool4K Wallpaper Draw PC by Mariofandomte ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eca94ed-6e9e-48b5-bd1c-26e3bebf663d/dg5kx98-8013e432-581d-44ba-ae9f-ffa3231fb5d5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlY2E5NGVkLTZlOWUtNDhiNS1iZDFjLTI2ZTNiZWJmNjYzZFwvZGc1a3g5OC04MDEzZTQzMi01ODFkLTQ0YmEtYWU5Zi1mZmEzMjMxZmI1ZDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LV4HUcwShvX-H4aLq9bdxCEUVO6IWqUfmvnexUjRrqo' alt='Goku Ultra instinct (UI) Cool4K Wallpaper Draw PC by Mariofandomte ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1817">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eca94ed-6e9e-48b5-bd1c-26e3bebf663d/dg5kx98-8013e432-581d-44ba-ae9f-ffa3231fb5d5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlY2E5NGVkLTZlOWUtNDhiNS1iZDFjLTI2ZTNiZWJmNjYzZFwvZGc1a3g5OC04MDEzZTQzMi01ODFkLTQ0YmEtYWU5Zi1mZmEzMjMxZmI1ZDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LV4HUcwShvX-H4aLq9bdxCEUVO6IWqUfmvnexUjRrqo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Dragon Ball Super Saiyan Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/goku-dragon-ball-super-desktop-background.jpg' alt='Goku Dragon Ball Super Saiyan Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/goku-dragon-ball-super-desktop-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Power Pole, Dragon Ball, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/dragon-ball-z-goku-5k-3440x1440-19865.jpg' alt='Goku Wallpaper 4K, Power Pole, Dragon Ball, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/dragon-ball-z-goku-5k-3440x1440-19865.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

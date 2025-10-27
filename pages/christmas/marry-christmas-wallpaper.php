@@ -1,0 +1,129 @@
+<title>Festive Merry Christmas Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the perfect "Merry Christmas" wallpapers to capture the holiday spirit! Explore festive designs for all your devices and make your screens pop with joy. Download your favorites now and celebrate in style this season!">
+                    <meta name="keywords" content="marry christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/marry-christmas-wallpaper">
+                            <span itemprop="name">marry christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Merry Christmas Wallpapers for Your Devices</h1>
+                <p>Transform your holiday spirit with our beautiful "Merry Christmas" wallpapers! Perfect for your devices, these festive designs set the scene for joyous celebrations. Whether you prefer classic winter themes or whimsical Santa illustrations, our wallpapers will delight and inspire throughout the holiday season. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Wallpaper Stock Illustrations – 311,256 Merry ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/merry-christmas-wallpaper-beautifully-decorated-tree-gift-box-festive-christmas-scene-beautifully-decorated-345402904.jpg' alt='Merry Christmas Wallpaper Stock Illustrations – 311,256 Merry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/merry-christmas-wallpaper-beautifully-decorated-tree-gift-box-festive-christmas-scene-beautifully-decorated-345402904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Merry Christmas Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tones7.com/img/uploads/IMG_20141217193917.jpg' alt='Free Merry Christmas Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tones7" />
+                                </span>
+                                <a href='https://www.tones7.com/img/uploads/IMG_20141217193917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cute Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-christmas-9yav81zxoilvilv9.jpg' alt='200+] Cute Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-christmas-9yav81zxoilvilv9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-christmas-season-celebration-background_23-2149872289.jpg' alt='Merry Christmas Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-christmas-season-celebration-background_23-2149872289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Cheerful Merry Christmas Wallpaper For The Season - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b8/9f/32/b89f32ae4a56839241ee7ea604817a47.jpg' alt='25+ Cheerful Merry Christmas Wallpaper For The Season - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b8/9f/32/b89f32ae4a56839241ee7ea604817a47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpapers for Your Phone to Spark Holiday Spirit - Our ...">
+                                <img itemprop="contentUrl url" src='http://ourhappycorner.com/wp-content/uploads/2024/10/Christmas-wallpaper-phone-62-485x1024.png' alt='Christmas Wallpapers for Your Phone to Spark Holiday Spirit - Our ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Happy Corner" />
+                                </span>
+                                <a href='http://ourhappycorner.com/wp-content/uploads/2024/10/Christmas-wallpaper-phone-62-485x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Wallpaper Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/4089/raw/350975b8e651e4b289d2e8b15b4efee0-merry-christmas-wallpaper.jpg' alt='Merry Christmas Wallpaper Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/4089/raw/350975b8e651e4b289d2e8b15b4efee0-merry-christmas-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Wallpaper with Tree and Santa's Sleigh">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/89/dd/fe89dd765d7b94bdf81e2e73c1a712e3.jpg' alt='Merry Christmas Wallpaper with Tree and Santa's Sleigh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/89/dd/fe89dd765d7b94bdf81e2e73c1a712e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper 2017. Merry Christmas Wallpaper 2017:- As ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:480/1*sa1nfLvXd8s15ixx93tvDA.jpeg' alt='Christmas Wallpaper 2017. Merry Christmas Wallpaper 2017:- As ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:480/1*sa1nfLvXd8s15ixx93tvDA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Merry Christmas Holiday Magic">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/471/thumb-1920-471548.jpg' alt='HD Wallpaper: Merry Christmas Holiday Magic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/471/thumb-1920-471548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

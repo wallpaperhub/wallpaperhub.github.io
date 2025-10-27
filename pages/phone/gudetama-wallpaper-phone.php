@@ -1,0 +1,129 @@
+<title>Adorable Gudetama Phone Wallpapers for Ultimate Cuteness</title>
+                    <meta name="description" content="Discover the best Gudetama phone wallpapers to brighten up your screen! From cute to quirky designs, find the perfect wallpaper that showcases the beloved lazy egg character. Download now and give your phone a delightful makeover with Gudetama!">
+                    <meta name="keywords" content="gudetama wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gudetama-wallpaper-phone">
+                            <span itemprop="name">gudetama wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Gudetama Phone Wallpapers for Ultimate Cuteness</h1>
+                <p>Looking to add a touch of cuteness to your phone? Gudetama wallpapers are the perfect solution! Featuring the adorable lazy egg character, these wallpapers come in a variety of designs, perfect for any mood. Transform your device with Gudetama's quirky charm and spread joy every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gudetama Phone Wallpapers | ctrl + curate">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ctrlcurate.com/wp-content/uploads/2016/04/photo-template.jpg?resize=600%2C800&ssl=1' alt='Gudetama Phone Wallpapers | ctrl + curate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ctrl + curate" />
+                                </span>
+                                <a href='https://i0.wp.com/ctrlcurate.com/wp-content/uploads/2016/04/photo-template.jpg?resize=600%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gudetama Phone Wallpapers | ctrl + curate">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ctrlcurate.com/wp-content/uploads/2016/04/photo-template2.jpg?resize=600%2C800&ssl=1' alt='Gudetama Phone Wallpapers | ctrl + curate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ctrl + curate" />
+                                </span>
+                                <a href='https://i0.wp.com/ctrlcurate.com/wp-content/uploads/2016/04/photo-template2.jpg?resize=600%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gudetama Phone Wallpapers | ctrl + curate">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/51/30/2451307c8ad12a7946b67e245d5af54a.jpg' alt='Gudetama Phone Wallpapers | ctrl + curate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/51/30/2451307c8ad12a7946b67e245d5af54a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gudetama Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/f/f/2161604-1080x1920-phone-1080p-gudetama-background-photo.jpg' alt='Gudetama Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/f/f/2161604-1080x1920-phone-1080p-gudetama-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Gudetama Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/relaxing-gudetama-75gf2kz8hc0kqky5.jpg' alt='Relaxing Gudetama Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/relaxing-gudetama-75gf2kz8hc0kqky5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/35/65/fe3565fb7279945fbc392230bf8c9925.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/35/65/fe3565fb7279945fbc392230bf8c9925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gudetama Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gudetama-phone-gb0glryab2s708md.jpg' alt='100+] Gudetama Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gudetama-phone-gb0glryab2s708md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GUDETAMA">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/050124_MayGudetamaWallpapers-Social-KC-Food-C.png?v=1714515175' alt='GUDETAMA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/050124_MayGudetamaWallpapers-Social-KC-Food-C.png?v=1714515175' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gudetama Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gudetama-phone-b8x7xsi3k4v728ou.jpg' alt='100+] Gudetama Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gudetama-phone-b8x7xsi3k4v728ou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio - New month, new adorable Gudetama phone... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159496453107816' alt='Sanrio - New month, new adorable Gudetama phone... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159496453107816' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

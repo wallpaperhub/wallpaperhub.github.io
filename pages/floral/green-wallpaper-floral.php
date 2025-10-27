@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Green Floral Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of green floral wallpaper to elevate your home decor. Its vibrant patterns bring nature indoors, creating a serene ambiance. Perfect for any room, this wallpaper merges style with tranquility, ensuring your living space feels fresh and inviting. Explore the latest designs today!">
+                    <meta name="keywords" content="green wallpaper floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/green-wallpaper-floral">
+                            <span itemprop="name">green wallpaper floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Green Floral Wallpaper</h1>
+                <p>Transform your space with green floral wallpaper! This stunning design brings the beauty of nature indoors, adding vibrancy and charm to any room. Perfect for accent walls or entire rooms, green floral patterns enhance your decor while promoting a calming atmosphere. Embrace the freshness and elegance of floral aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 236.2inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' alt='Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 236.2inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland Floral Wallpaper • Floral Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/06/WR564HC-G-WoodlandFloral-Green-1.jpg' alt='Woodland Floral Wallpaper • Floral Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/06/WR564HC-G-WoodlandFloral-Green-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_1000.jpg' alt='Brewster Driselle Green Floral Green Wallpaper Sample 2686-21628SAM - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8c0d8951-2de6-4af9-b555-f1b914304e14/svn/brewster-wallpaper-samples-2686-21628sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farrich Vintage Spring Floral Peel and Stick Wallpaper Bouquet Botanical  Contact Paper Removable Wallpaper for Bedroom Nursery Decorations Vinyl  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Bih-G2VAL.jpg' alt='Farrich Vintage Spring Floral Peel and Stick Wallpaper Bouquet Botanical  Contact Paper Removable Wallpaper for Bedroom Nursery Decorations Vinyl  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Bih-G2VAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper With White Floral Motive Self Adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/3b7e4e/3554910691/il_fullxfull.3554910691_r6ys.jpg' alt='Green Wallpaper With White Floral Motive Self Adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/3b7e4e/3554910691/il_fullxfull.3554910691_r6ys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Anemone Green Floral Wallpaper Sample 4080 ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/65478388-c404-4b2b-be0a-292d0fb40193/svn/wallpaper-samples-4080-44104sam-64_600.jpg' alt='A-Street Prints Anemone Green Floral Wallpaper Sample 4080 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/65478388-c404-4b2b-be0a-292d0fb40193/svn/wallpaper-samples-4080-44104sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall NW45704 Vintage Floral Forest Green Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250902.jpg' alt='NextWall NW45704 Vintage Floral Forest Green Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Classic Minimalist Floral Wallpaper R9303">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1024' alt='Green Classic Minimalist Floral Wallpaper R9303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Wildwood Wallpaper - Hunter Green">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RI5156.jpg?v=1594011035' alt='Rifle Paper Co. Wildwood Wallpaper - Hunter Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RI5156.jpg?v=1594011035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' alt='Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

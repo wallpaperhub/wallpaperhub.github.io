@@ -1,0 +1,129 @@
+<title>Whimsical World of Teletubbies: Background Magic</title>
+                    <meta name="description" content="Dive into the enchanting Teletubbies background! Explore the vibrant, whimsical landscapes where Tinky Winky, Dipsy, Laa-Laa, and Po play, filled with bright colors and joy. Discover how this magical setting captivates children's imaginations and creates a joyful viewing experience.">
+                    <meta name="keywords" content="teletubby background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/teletubby-background">
+                            <span itemprop="name">teletubby background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical World of Teletubbies: Background Magic</h1>
+                <p>Teletubbies, a beloved children's show, features a vibrant and whimsical background set in a sunlit, rolling green landscape. The Tubbies' home, Tinky Winky, Dipsy, Laa-Laa, and Po, frolic amidst colorful flowers, hills, and a bright sun with a giggling baby face. This enchanting setting captures imagination and joy, evoking happiness for young viewers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Does No One Talk About the House on the Teletubbies Set ...">
+                                <img itemprop="contentUrl url" src='http://media.architecturaldigest.com/photos/5c4a3a2892ce212ce3f514bd/master/pass/teletubbies-01.jpg' alt='Why Does No One Talk About the House on the Teletubbies Set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='http://media.architecturaldigest.com/photos/5c4a3a2892ce212ce3f514bd/master/pass/teletubbies-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbies! Yes, I'm Serious! - Goggler">
+                                <img itemprop="contentUrl url" src='https://goggler.my/wp-content/uploads/2022/11/Teletubbies_Featured.jpg' alt='Teletubbies! Yes, I'm Serious! - Goggler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goggler" />
+                                </span>
+                                <a href='https://goggler.my/wp-content/uploads/2022/11/Teletubbies_Featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbies #16 Greeting Card">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/16-teletubbies-ivanlos-andrea.jpg?&targetx=0&targety=-30&imagewidth=700&imageheight=560&modelwidth=700&modelheight=500&backgroundcolor=414B66&orientation=0' alt='Teletubbies #16 Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/16-teletubbies-ivanlos-andrea.jpg?&targetx=0&targety=-30&imagewidth=700&imageheight=560&modelwidth=700&modelheight=500&backgroundcolor=414B66&orientation=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbie Background No.7 by Sergeant--Rainbow on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxn6oi-372833f1-2f6a-4367-b6e9-3f6dfcc99d59.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_7_by_sergeant__rainbow_ddxn6oi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHhuNm9pLTM3MjgzM2YxLTJmNmEtNDM2Ny1iNmU5LTNmNmRmY2M5OWQ1OS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QrphulKgwOVuV5lPfIQ-FWLHJdRYbbigMJ1Q0YfjDkw' alt='Teletubbie Background No.7 by Sergeant--Rainbow on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxn6oi-372833f1-2f6a-4367-b6e9-3f6dfcc99d59.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_7_by_sergeant__rainbow_ddxn6oi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHhuNm9pLTM3MjgzM2YxLTJmNmEtNDM2Ny1iNmU5LTNmNmRmY2M5OWQ1OS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QrphulKgwOVuV5lPfIQ-FWLHJdRYbbigMJ1Q0YfjDkw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbies (TV Series 1997–2001) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZWM5ZjNkOWItNmU0Zi00YzdiLTg0MTAtMzkxMTZmZGI4NmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Teletubbies (TV Series 1997–2001) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZWM5ZjNkOWItNmU0Zi00YzdiLTg0MTAtMzkxMTZmZGI4NmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbie Background No.8 by Sergeant--Rainbow on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxpxhq-8466e0f3-23a3-4219-aed0-10e480330626.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_8_by_sergeant__rainbow_ddxpxhq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHhweGhxLTg0NjZlMGYzLTIzYTMtNDIxOS1hZWQwLTEwZTQ4MDMzMDYyNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AE2pmS7y_oZGfdlNItdwzxJVxhnLZmNTDuqMjJclF70' alt='Teletubbie Background No.8 by Sergeant--Rainbow on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxpxhq-8466e0f3-23a3-4219-aed0-10e480330626.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_8_by_sergeant__rainbow_ddxpxhq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHhweGhxLTg0NjZlMGYzLTIzYTMtNDIxOS1hZWQwLTEwZTQ4MDMzMDYyNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AE2pmS7y_oZGfdlNItdwzxJVxhnLZmNTDuqMjJclF70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Teletubbies Sun Wallpaper 438690070 Jpg on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/eb/38/40/eb3840e45f14cb5cbf2d65e9b802617b.jpg' alt='   Free download Teletubbies Sun Wallpaper 438690070 Jpg on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/eb/38/40/eb3840e45f14cb5cbf2d65e9b802617b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Teletubbies Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/teletubbies-background-0pul0lgcqcx47xvm.jpg' alt='100+] Teletubbies Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/teletubbies-background-0pul0lgcqcx47xvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbies | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Teletubbies-Sun-with-child-in-Teletubbies-429.jpg' alt='Teletubbies | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Teletubbies-Sun-with-child-in-Teletubbies-429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teletubbie Background No.9 by Sergeant--Rainbow on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxvsj0-e4acdafc-2370-4e97-acd5-8c4bae8da2be.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_9_by_sergeant__rainbow_ddxvsj0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHh2c2owLWU0YWNkYWZjLTIzNzAtNGU5Ny1hY2Q1LThjNGJhZThkYTJiZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N0bfrLPPf73DBVEIT-Y9eFstZC9YpIc4xpga2IU4BUQ' alt='Teletubbie Background No.9 by Sergeant--Rainbow on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bccc7b6f-44e5-4673-bc73-e2d70da9e2b8/ddxvsj0-e4acdafc-2370-4e97-acd5-8c4bae8da2be.png/v1/fill/w_1024,h_576,q_80,strp/teletubbie_background_no_9_by_sergeant__rainbow_ddxvsj0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmNjYzdiNmYtNDRlNS00NjczLWJjNzMtZTJkNzBkYTllMmI4XC9kZHh2c2owLWU0YWNkYWZjLTIzNzAtNGU5Ny1hY2Q1LThjNGJhZThkYTJiZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N0bfrLPPf73DBVEIT-Y9eFstZC9YpIc4xpga2IU4BUQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

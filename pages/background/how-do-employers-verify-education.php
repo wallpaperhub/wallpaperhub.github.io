@@ -1,0 +1,129 @@
+<title>How Employers Verify Your Education: The Complete Guide</title>
+                    <meta name="description" content="Discover how employers verify your educational background. Learn about the processes involved, from direct school contacts to third-party services, ensuring you understand the importance of accurate qualifications in the hiring process.">
+                    <meta name="keywords" content="how do employers verify education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-do-employers-verify-education">
+                            <span itemprop="name">how do employers verify education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Employers Verify Your Education: The Complete Guide</h1>
+                <p>Employers verify education by contacting schools or universities directly to confirm degrees, diplomas, and attendance dates. They may utilize third-party verification services that specialize in background checks. Additionally, employers may require transcripts or other documentation to ensure candidates meet educational qualifications for the job.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education Background?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326ac4679d959bf665c_AD_4nXfu5mUsihca0kz9e-ZMKde4tVJ-7Aa57A0uzXLDGjaruIq02TcA2VXxB9w0wSmXBlvSjCl_HXPCeXqgqKQjaJ0BD7bOIVTvm8nuFzH3gTtayWgTeaZE03l_PMJQqLD1j3zegz1kMm1X_T2MWWrPSZVx6Ydj.png' alt='How Do Employers Verify Education Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="804">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326ac4679d959bf665c_AD_4nXfu5mUsihca0kz9e-ZMKde4tVJ-7Aa57A0uzXLDGjaruIq02TcA2VXxB9w0wSmXBlvSjCl_HXPCeXqgqKQjaJ0BD7bOIVTvm8nuFzH3gTtayWgTeaZE03l_PMJQqLD1j3zegz1kMm1X_T2MWWrPSZVx6Ydj.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QLQRWXMixpI/maxresdefault.jpg' alt='How Do Employers Verify Education? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QLQRWXMixpI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education Background?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326fb2f47e96aaea148_AD_4nXemuTagWyBXOFClDbCCJ1y9gjjg9mhctx2XISA_voeM3kDyJb7gR7Gq5b3skapMD0vJnU6V7LSRMqnGQr20XUrxYfzFCexV0jCrVcqKJxtNg4hcI4z9tds-KGqBbHwotV4WChcUzuLOkZwQQaSthcD4yP4.png' alt='How Do Employers Verify Education Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326fb2f47e96aaea148_AD_4nXemuTagWyBXOFClDbCCJ1y9gjjg9mhctx2XISA_voeM3kDyJb7gR7Gq5b3skapMD0vJnU6V7LSRMqnGQr20XUrxYfzFCexV0jCrVcqKJxtNg4hcI4z9tds-KGqBbHwotV4WChcUzuLOkZwQQaSthcD4yP4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education Background?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674390562ba17ea80e142bba_How%20Do%20Employers%20Verify%20Education%20Background.webp' alt='How Do Employers Verify Education Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3609">
+                                <meta itemprop="height" content="2406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/674390562ba17ea80e142bba_How%20Do%20Employers%20Verify%20Education%20Background.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do Employers Verify Education? | Punjab Colleges">
+                                <img itemprop="contentUrl url" src='https://pgc.edu/wp-content/uploads/2021/05/How-do-Employers-Verify-Education.jpg' alt='How do Employers Verify Education? | Punjab Colleges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Punjab Colleges" />
+                                </span>
+                                <a href='https://pgc.edu/wp-content/uploads/2021/05/How-do-Employers-Verify-Education.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do employers verify education? - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Q3pAX_APC44/maxresdefault.jpg' alt='How do employers verify education? - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Q3pAX_APC44/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/ce6f3a8a89/checkr-web-edu-verif-2.png/m/' alt='Education Verification Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/ce6f3a8a89/checkr-web-edu-verif-2.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Guide to Education Verification Background Checks">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog/Blog%20Callouts/Education%201.png?width=650&height=333&name=Education%201.png' alt='Ultimate Guide to Education Verification Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog/Blog%20Callouts/Education%201.png?width=650&height=333&name=Education%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using Vetted Data Sources to Verify Employee Education Records ...">
+                                <img itemprop="contentUrl url" src='https://aisintl.com.au/wp-content/uploads/2016/10/AU-Using-Vetted-Data-Sources-to-Verify-Employee-Education-Records-AdobeStock_99067580.jpeg' alt='Using Vetted Data Sources to Verify Employee Education Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIS International" />
+                                </span>
+                                <a href='https://aisintl.com.au/wp-content/uploads/2016/10/AU-Using-Vetted-Data-Sources-to-Verify-Employee-Education-Records-AdobeStock_99067580.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Education Verification Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1302x732/716b0ba8fe/edu-verif-demo-thumbnail.png/m/' alt='Education Verification Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1302">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1302x732/716b0ba8fe/edu-verif-demo-thumbnail.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

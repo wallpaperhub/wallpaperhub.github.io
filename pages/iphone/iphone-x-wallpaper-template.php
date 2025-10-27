@@ -1,0 +1,129 @@
+<title>Personalized iPhone X Wallpaper Templates</title>
+                    <meta name="description" content="Discover unique iPhone X wallpaper templates to customize your device. Easily personalize your screen with high-quality designs that express your style. Perfect for every aesthetic, these templates make it simple to create stunning wallpapers. Upgrade your iPhone's look today!">
+                    <meta name="keywords" content="iphone x wallpaper template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-x-wallpaper-template">
+                            <span itemprop="name">iphone x wallpaper template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Personalized iPhone X Wallpaper Templates</h1>
+                <p>Explore the perfect iPhone X wallpaper template for a stunning and personalized look. With high-resolution designs, you can easily customize your screen with artistic patterns, scenic images, or minimalist graphics. Unleash your creativity and transform your device into a unique expression of your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Parallax Wallpaper Template | Free PSD Template | PSD Repo">
+                                <img itemprop="contentUrl url" src='https://cdn.psdrepo.com/images/2x/free-iphone-x-parallax-wallpaper-template-psd-g2.jpg' alt='iPhone X Parallax Wallpaper Template | Free PSD Template | PSD Repo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSD Repo" />
+                                </span>
+                                <a href='https://cdn.psdrepo.com/images/2x/free-iphone-x-parallax-wallpaper-template-psd-g2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/34/b9/31/34b9313afa179a643989cab0890362a5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/34/b9/31/34b9313afa179a643989cab0890362a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid and blueprint wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/12/blueprint-wallpaper-iPhone-X-x_monitor_lock_graphic1.png' alt='Grid and blueprint wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/12/blueprint-wallpaper-iPhone-X-x_monitor_lock_graphic1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Use This Template to Avoid the iPhone X Notch in Your Custom ...">
+                                <img itemprop="contentUrl url" src='https://www.macobserver.com/wp-content/uploads/2017/11/iphone-x-wallpaper-notch-template.png' alt='Use This Template to Avoid the iPhone X Notch in Your Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Observer" />
+                                </span>
+                                <a href='https://www.macobserver.com/wp-content/uploads/2017/11/iphone-x-wallpaper-notch-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iOS Parallax Wallpaper Template Pack (3) | Images :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/6ed12831075635.56406fb189db9.jpg' alt='Free iOS Parallax Wallpaper Template Pack (3) | Images :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/hd/6ed12831075635.56406fb189db9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Parallax Wallpaper Template | Free PSD Template | PSD Repo">
+                                <img itemprop="contentUrl url" src='https://cdn.psdrepo.com/images/1x/free-iphone-x-mockup-m4.jpg' alt='iPhone X Parallax Wallpaper Template | Free PSD Template | PSD Repo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSD Repo" />
+                                </span>
+                                <a href='https://cdn.psdrepo.com/images/1x/free-iphone-x-mockup-m4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Template Mockup">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/1c/e7/d51ce7b2325062c33c443de467068a14.jpg' alt='iPhone X Template Mockup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/1c/e7/d51ce7b2325062c33c443de467068a14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone X Parallax Wallpaper Template PSD by Jack ...">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/22173909/file/original-06ae6bd119c8f340846aacb41d8005bb.jpg?format=webp&resize=400x300&vertical=center' alt='Free iPhone X Parallax Wallpaper Template PSD by Jack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/22173909/file/original-06ae6bd119c8f340846aacb41d8005bb.jpg?format=webp&resize=400x300&vertical=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Wallpaper Pack | Free PSD Template | PSD Repo">
+                                <img itemprop="contentUrl url" src='https://cdn.psdrepo.com/images/2x/iphone-x-wallpaper-pack-y3.jpg' alt='iPhone X Wallpaper Pack | Free PSD Template | PSD Repo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSD Repo" />
+                                </span>
+                                <a href='https://cdn.psdrepo.com/images/2x/iphone-x-wallpaper-pack-y3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iOS Parallax Wallpaper Template Pack :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/666c3d31075635.56406fb18b469.jpg' alt='Free iOS Parallax Wallpaper Template Pack :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/666c3d31075635.56406fb18b469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

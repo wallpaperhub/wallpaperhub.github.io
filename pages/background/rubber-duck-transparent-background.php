@@ -1,0 +1,129 @@
+<title>Transparent Background Rubber Duck Image</title>
+                    <meta name="description" content="Discover the charm of rubber ducks with our transparent background images! Perfect for graphic design, stickers, or promotional content. Add a touch of whimsy and fun to your projects effortlessly. Ideal for quick and easy use in any creative endeavor!">
+                    <meta name="keywords" content="rubber duck transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rubber-duck-transparent-background">
+                            <span itemprop="name">rubber duck transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Background Rubber Duck Image</h1>
+                <p>Rubber ducks are iconic bath time companions, bringing joy to children and adults alike. A rubber duck with a transparent background is perfect for graphic design projects, allowing seamless integration into various visuals. Whether it's for stickers, digital art, or playful promotions, this fun and adorable image enhances any design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Duck PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210522/ourmid/pngtree-rubber-duck-bathing-cute-play-png-image_3321934.jpg' alt='Rubber Duck PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210522/ourmid/pngtree-rubber-duck-bathing-cute-play-png-image_3321934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Duck PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/497/888/small/plastic-rubber-duck-isolated-on-transparent-background-png.png' alt='Rubber Duck PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/497/888/small/plastic-rubber-duck-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber duck PNG transparent image download, size: 1006x1092px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/rubber_duck_PNG54.png' alt='Rubber duck PNG transparent image download, size: 1006x1092px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1006">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/rubber_duck_PNG54.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Duck PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210523/original/pngtree-rubber-duck-bathing-cute-play-png-image_6325644.jpg' alt='Rubber Duck PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210523/original/pngtree-rubber-duck-bathing-cute-play-png-image_6325644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free png of Rubber duck png sticker, transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/0b/e9/f40be90052da82cc0a156c74a24b4d93.jpg' alt='Download free png of Rubber duck png sticker, transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/0b/e9/f40be90052da82cc0a156c74a24b4d93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bath Yellow Rubber Duck on isolate background 8508307 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/508/307/non_2x/bath-yellow-rubber-duck-on-isolate-background-png.png' alt='bath Yellow Rubber Duck on isolate background 8508307 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/508/307/non_2x/bath-yellow-rubber-duck-on-isolate-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber duck PNG transparent image download, size: 1608x1389px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/rubber_duck_PNG99899.png' alt='Rubber duck PNG transparent image download, size: 1608x1389px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1608">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/rubber_duck_PNG99899.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Rubber Duck transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5c0560f077e79003db621e7e.png' alt='Little Rubber Duck transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5c0560f077e79003db621e7e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSD yellow rubber duck on transparent background with editable ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/psd-yellow-rubber-duck-transparent-background-with-editable-mask-layer_1026556-32744.jpg' alt='PSD yellow rubber duck on transparent background with editable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/psd-yellow-rubber-duck-transparent-background-with-editable-mask-layer_1026556-32744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print yellow rubber duck, isolated on transparent background, PNG,  Generative AI, 40x40 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/06/01/17/91/1000_F_601179161_zWxxiq3BbtsEhMZB8pWnS33B6Lyq1bTk.jpg' alt='Poster, Print yellow rubber duck, isolated on transparent background, PNG,  Generative AI, 40x40 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/06/01/17/91/1000_F_601179161_zWxxiq3BbtsEhMZB8pWnS33B6Lyq1bTk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

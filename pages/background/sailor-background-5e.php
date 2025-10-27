@@ -1,0 +1,129 @@
+<title>Explore the Sailor Background in D&D 5E</title>
+                    <meta name="description" content="Discover the sailor background in D&D 5E! Uncover character traits, proficiencies, and unique adventures inspired by a life at sea. Perfect for players seeking nautical themes in their campaigns. Dive into the deep for thrilling storytelling and gameplay possibilities!">
+                    <meta name="keywords" content="sailor background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sailor-background-5e">
+                            <span itemprop="name">sailor background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Sailor Background in D&D 5E</h1>
+                <p>A sailor background in Dungeons & Dragons 5th Edition provides a rich narrative flavor for characters. Originating from seafaring life, these backgrounds offer proficiencies in Athletics, Acrobatics, and the Navigator's tools, enabling sailors to thrive on water. Explore adventures filled with oceanic lore, trade, and exploration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanding 5E D&D Background Characteristics — Sailor – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/07/mtg-sailor-of-means-5E-DD-background.jpg?fit=920%2C606&ssl=1' alt='Expanding 5E D&D Background Characteristics — Sailor – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/07/mtg-sailor-of-means-5E-DD-background.jpg?fit=920%2C606&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Variant Backgrounds for D&D 5e - Sailor - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2016/02/ship-explorers.png' alt='Creating Variant Backgrounds for D&D 5e - Sailor - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2016/02/ship-explorers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Background 5e In DnD - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://5ebackgrounds.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-15-at-10.22.46-AM.png' alt='Sailor Background 5e In DnD - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1033">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://5ebackgrounds.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-15-at-10.22.46-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e Background - Airship Skyman : r/DnDHomebrew">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iknnvyz82g271.jpg?width=640&crop=smart&auto=webp&s=cf30110c91ed037646ad63aa4665d300dd953405' alt='5e Background - Airship Skyman : r/DnDHomebrew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iknnvyz82g271.jpg?width=640&crop=smart&auto=webp&s=cf30110c91ed037646ad63aa4665d300dd953405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor background DnD 5th edition">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/b4/24/7cb424faf5831050b4b0d92d19273941.jpg' alt='Sailor background DnD 5th edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/b4/24/7cb424faf5831050b4b0d92d19273941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Sailor Background - Tribality">
+                                <img itemprop="contentUrl url" src='https://www.tribality.com/wp-content/uploads/2020/04/Webp.net-resizeimage-7-750x375.jpg' alt='Exploring the Sailor Background - Tribality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tribality" />
+                                </span>
+                                <a href='https://www.tribality.com/wp-content/uploads/2020/04/Webp.net-resizeimage-7-750x375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Guide to the Sailor Background (from the 2024 Player's Handbook)">
+                                <img itemprop="contentUrl url" src='https://arcaneeye.com/wp-content/uploads/2024/12/Sailor-Background-DnD.webp' alt='Your Guide to the Sailor Background (from the 2024 Player's Handbook)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arcane Eye" />
+                                </span>
+                                <a href='https://arcaneeye.com/wp-content/uploads/2024/12/Sailor-Background-DnD.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Sailor Background - Help Action - D&D Tips, Guides ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/11/51e7f569c4ac92f3bc990185516b70dc-300x200.jpg' alt='Exploring the Sailor Background - Help Action - D&D Tips, Guides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/11/51e7f569c4ac92f3bc990185516b70dc-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e Background - Airship Skyman : r/DnDHomebrew">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tbdbvum82g271.jpg' alt='5e Background - Airship Skyman : r/DnDHomebrew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2298">
+                                <meta itemprop="height" content="3228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tbdbvum82g271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Backgrounds In The DND 2024 Player's Handbook">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/sailor-background-image-by-noor-rahman.jpg' alt='The Best Backgrounds In The DND 2024 Player's Handbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/09/sailor-background-image-by-noor-rahman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

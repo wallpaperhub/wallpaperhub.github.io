@@ -1,0 +1,129 @@
+<title>Free Backgrounds: High-Quality & Creative Options</title>
+                    <meta name="description" content="Find the perfect free backgrounds for your projects! Our diverse collection offers high-quality images and designs ideal for websites, social media, and more. Boost your creativity and discover endless options today!">
+                    <meta name="keywords" content="free backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-backgrounds">
+                            <span itemprop="name">free backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Backgrounds: High-Quality & Creative Options</h1>
+                <p>Discover a wide range of free backgrounds to enhance your creative projects! From stunning nature scenes to vibrant abstract designs, our collection offers something for everyone. Perfect for both personal and commercial use, these high-quality backgrounds will elevate your presentations, websites, and social media posts. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/965/779/non_2x/empty-top-wooden-table-and-sakura-flower-with-fog-and-morning-light-background-photo.jpg' alt='Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/965/779/non_2x/empty-top-wooden-table-and-sakura-flower-with-fog-and-morning-light-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background | Free Background by picjumbo">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/picjumbo.com/wp-content/uploads/free-background-free-photo.jpeg?w=2210&quality=70' alt='Free Background | Free Background by picjumbo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2210">
+                                <meta itemprop="height" content="1316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picjumbo" />
+                                </span>
+                                <a href='https://i0.wp.com/picjumbo.com/wp-content/uploads/free-background-free-photo.jpeg?w=2210&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Screen Stand Out with Free Background Images! · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg' alt='Make Your Screen Stand Out with Free Background Images! · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Backgrounds Images – Browse 383,102 Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/43/37/67/360_F_243376759_VZEpwRRstiwMRsDzg96UC8ByFeRGCpQX.jpg' alt='Free Backgrounds Images – Browse 383,102 Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/43/37/67/360_F_243376759_VZEpwRRstiwMRsDzg96UC8ByFeRGCpQX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Background Photos, Download The BEST Free Royalty ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?cs=srgb&dl=pexels-simon73-1323550.jpg&fm=jpg' alt='Royalty Free Background Photos, Download The BEST Free Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="2963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?cs=srgb&dl=pexels-simon73-1323550.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/907/004/small/world-earth-day-concept-illustration-of-the-green-planet-earth-on-a-white-background-earth-day-poster-banner-card-april-22-saving-the-planet-environment-planet-earth-generate-ai-free-photo.jpg' alt='Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/907/004/small/world-earth-day-concept-illustration-of-the-green-planet-earth-on-a-white-background-earth-day-poster-banner-card-april-22-saving-the-planet-environment-planet-earth-generate-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Free Space Background Images (JPG)">
+                                <img itemprop="contentUrl url" src='https://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-2.jpg' alt='10 Free Space Background Images (JPG)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unblast" />
+                                </span>
+                                <a href='https://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400,000+ Best Free Background Images & Pictures [HD] - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_640.png' alt='400,000+ Best Free Background Images & Pictures [HD] - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107181.jpg?semt=ais_hybrid' alt='Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107181.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3826 Free CC0 Background Stock Photos - StockSnap.io">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1460853312/photo/abstract-connected-dots-and-lines-concept-of-ai-technology-motion-of-digital-data-flow.webp?b=1&s=612x612&w=0&k=20&c=x0QPuKC83SPVcM7Wx364nTusL776cWWPL23U8HmlCfw=' alt='3826 Free CC0 Background Stock Photos - StockSnap.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockSnap.io" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1460853312/photo/abstract-connected-dots-and-lines-concept-of-ai-technology-motion-of-digital-data-flow.webp?b=1&s=612x612&w=0&k=20&c=x0QPuKC83SPVcM7Wx364nTusL776cWWPL23U8HmlCfw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Rilakkuma Phone Wallpapers: Cute & Cozy Designs</title>
+                    <meta name="description" content="Discover the cutest Rilakkuma phone wallpapers that bring joy and relaxation to your screen! Perfect for fans, these designs capture the essence of Rilakkuma's charm. Browse now to find the ideal wallpaper that speaks to you and adds a whimsical touch to your device.">
+                    <meta name="keywords" content="rilakkuma phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/rilakkuma-phone-wallpaper">
+                            <span itemprop="name">rilakkuma phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Rilakkuma Phone Wallpapers: Cute & Cozy Designs</h1>
+                <p>Transform your phone with delightful Rilakkuma wallpapers! Featuring the beloved bear and friends in playful, calming designs, these wallpapers add a touch of cuteness to your device. Perfect for fans of all ages, you'll find various themes from cozy, pastel colors to vibrant, cheerful scenes. Express your love for Rilakkuma today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/e8/7a/98e87a8019db73fb034cdf446f5998b1.jpg' alt='Rilakkuma Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/e8/7a/98e87a8019db73fb034cdf446f5998b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD rilakkuma wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/205/798/HD-wallpaper-rilakkuma-bear.jpg' alt='HD rilakkuma wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/205/798/HD-wallpaper-rilakkuma-bear.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Following on with the wallpapers- I am so pleased to see them ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/following-on-with-the-wallpapers-i-am-so-pleased-to-see-v0-vorh8dy852ba1.jpg?width=828&format=pjpg&auto=webp&s=ca3dfed238a5b9c8d29d0c80ca3fa5af9e708f1a' alt='Following on with the wallpapers- I am so pleased to see them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/following-on-with-the-wallpapers-i-am-so-pleased-to-see-v0-vorh8dy852ba1.jpg?width=828&format=pjpg&auto=webp&s=ca3dfed238a5b9c8d29d0c80ca3fa5af9e708f1a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320 Rilakkuma ideas | rilakkuma, rilakkuma wallpaper, kawaii">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/75/45/01/754501425a5783123fdef59448bca9a6.jpg' alt='320 Rilakkuma ideas | rilakkuma, rilakkuma wallpaper, kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/75/45/01/754501425a5783123fdef59448bca9a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Rilakkuma Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-rilakkuma-218blbpkfw9h8eqj.jpg' alt='100+] Kawaii Rilakkuma Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-rilakkuma-218blbpkfw9h8eqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma San X Characters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rilakkuma-san-x-characters-rq53olwcxy9ux825.jpg' alt='Rilakkuma San X Characters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rilakkuma-san-x-characters-rq53olwcxy9ux825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Show Your Love for Kawaii Rilakkuma Today! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-rilakkuma-jao7zg3vl6j29gfo.jpg' alt='Download Show Your Love for Kawaii Rilakkuma Today! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-rilakkuma-jao7zg3vl6j29gfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma, kawaii, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/619/818/HD-wallpaper-rilakkuma-kawaii.jpg' alt='Rilakkuma, kawaii, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/619/818/HD-wallpaper-rilakkuma-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I combined 2 wallpapers to make this for my cell : r/rilakkuma">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-combined-2-wallpapers-to-make-this-for-my-cell-v0-conmf29sggkd1.jpg?width=1079&format=pjpg&auto=webp&s=e4b8c85c97e5b46de0d263415e7f7861e9e738d0' alt='I combined 2 wallpapers to make this for my cell : r/rilakkuma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-combined-2-wallpapers-to-make-this-for-my-cell-v0-conmf29sggkd1.jpg?width=1079&format=pjpg&auto=webp&s=e4b8c85c97e5b46de0d263415e7f7861e9e738d0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Rilakkuma Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/rilakkuma-pink-heart-5m91au32er6jft0v.webp' alt='Minimalist Rilakkuma Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/rilakkuma-pink-heart-5m91au32er6jft0v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

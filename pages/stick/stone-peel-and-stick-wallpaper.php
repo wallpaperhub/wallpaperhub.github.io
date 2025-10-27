@@ -1,0 +1,129 @@
+<title>Stone Peel and Stick Wallpaper: Easy Home Makeover</title>
+                    <meta name="description" content="Discover the versatility of stone peel and stick wallpaper. Ideal for quick renovations, it offers stunning designs with easy application and removal. Perfect for any room, this wallpaper combines style with convenience for a fresh and inviting atmosphere. Transform your home today!">
+                    <meta name="keywords" content="stone peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/stone-peel-and-stick-wallpaper">
+                            <span itemprop="name">stone peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stone Peel and Stick Wallpaper: Easy Home Makeover</h1>
+                <p>Transform your space effortlessly with stone peel and stick wallpaper. Perfect for renters and DIY enthusiasts, this stylish option adds a touch of rustic charm to any room. Easy to apply and remove, it requires no glue, making it a hassle-free solution for an instant makeover. Elevate your decor with stunning, realistic stone patterns!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Peel and Stick Wallpaper - Removable and Self-Adhesive">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/stone-peel-and-stick-wallpaper-449571.jpg?v=1704231513' alt='Stone Peel and Stick Wallpaper - Removable and Self-Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/stone-peel-and-stick-wallpaper-449571.jpg?v=1704231513' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Grey Stone Vinyl Peel and Stick Wallpaper Roll (Covers 56 sq. ft.)  HD595">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b2bd031b-a423-40de-a440-1413a075febc/svn/tempaper-wallpaper-rolls-hd595-c3_600.jpg' alt='Tempaper Grey Stone Vinyl Peel and Stick Wallpaper Roll (Covers 56 sq. ft.)  HD595'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b2bd031b-a423-40de-a440-1413a075febc/svn/tempaper-wallpaper-rolls-hd595-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Stone Wallpaper Peel and Stick Brick Wallpaper 17.7inch×393.7inch  Brick Contact Paper Grey Stone Self Adhesive Wallpaper Brick Peel and Stick  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91pA7hWdzLL.jpg' alt='Grey Stone Wallpaper Peel and Stick Brick Wallpaper 17.7inch×393.7inch  Brick Contact Paper Grey Stone Self Adhesive Wallpaper Brick Peel and Stick  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91pA7hWdzLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U M I G G E E Brown Stone Wallpaper, Removable, Self-Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Meiban-Brown-Stone-Wallpaper-Brick-Peel-Stick-35-4-x-118-Self-Adhesive-Removable-Vinyl-Backsplash-Faux-3D-Look-Shelf-Paper_6c5cb5f5-c727-466b-b377-169f587f9450.b1abfc9cf721050f1ee184e4b393a147.jpeg' alt='U M I G G E E Brown Stone Wallpaper, Removable, Self-Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Meiban-Brown-Stone-Wallpaper-Brick-Peel-Stick-35-4-x-118-Self-Adhesive-Removable-Vinyl-Backsplash-Faux-3D-Look-Shelf-Paper_6c5cb5f5-c727-466b-b377-169f587f9450.b1abfc9cf721050f1ee184e4b393a147.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Faux Stone Peel and Stick Removable Wallpaper 7227 | Walls by Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/6ef207cdd8a598780edd12268c26c4e0_grande.jpg?v=1723301477' alt='Beige Faux Stone Peel and Stick Removable Wallpaper 7227 | Walls by Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/6ef207cdd8a598780edd12268c26c4e0_grande.jpg?v=1723301477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Wallpaper [self Adhesive, Peel & Stick, Removable] - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/5642bf/3694921594/il_570xN.3694921594_tbqb.jpg' alt='Stone Wallpaper [self Adhesive, Peel & Stick, Removable] - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/5642bf/3694921594/il_570xN.3694921594_tbqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12017WP_RS3.jpg?v=1608559845' alt='Stone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12017WP_RS3.jpg?v=1608559845' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Sample Stone Wall Peel-and-Stick Wallpaper in Grey | Burke Decor">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Stone_Wall_Peel-and-Stick_Wallpaper_in_Grey_by_NextWall.jpg?v=1571711369' alt='Shop Sample Stone Wall Peel-and-Stick Wallpaper in Grey | Burke Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Stone_Wall_Peel-and-Stick_Wallpaper_in_Grey_by_NextWall.jpg?v=1571711369' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lenify Brick Wallpaper Peel and Stick Stone Wallpaper 17.7inch x 118.1inch  Grey Stone Brick Paper Faux Stone Peel and Stick Wallpaper Grey Brick Self  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Db5dHZ3AL.jpg' alt='lenify Brick Wallpaper Peel and Stick Stone Wallpaper 17.7inch x 118.1inch  Grey Stone Brick Paper Faux Stone Peel and Stick Wallpaper Grey Brick Self  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Db5dHZ3AL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacked Stone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK9025WP-stacked-stone-peel-and-stick-wallpaper-rs4_2c7550a7-5d42-43ae-994f-05844ed067ef.jpg?v=1703809508&width=2400' alt='Stacked Stone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK9025WP-stacked-stone-peel-and-stick-wallpaper-rs4_2c7550a7-5d42-43ae-994f-05844ed067ef.jpg?v=1703809508&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

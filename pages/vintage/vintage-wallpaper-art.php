@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Wallpaper Art</title>
+                    <meta name="description" content="Discover the beauty of vintage wallpaper art to elevate your home decor. Uncover unique patterns and styles that blend nostalgia with modern aesthetics. Perfect for DIY enthusiasts and design lovers alike, vintage wallpaper will add character and warmth to any room. Explore now for inspiration!">
+                    <meta name="keywords" content="vintage wallpaper art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-wallpaper-art">
+                            <span itemprop="name">vintage wallpaper art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Wallpaper Art</h1>
+                <p>Vintage wallpaper art brings the charm of bygone eras into contemporary spaces. With intricate patterns and rich colors, these wallpapers evoke nostalgia while adding character to interiors. Perfect for creating statement walls or cozy atmospheres, vintage wallpaper art is a timeless choice for both retro lovers and modern design enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Vintage Mural Retro Wallpaper Vintage Collage & Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/04d9d2/3913063897/il_fullxfull.3913063897_rf2a.jpg' alt='Pop Art Vintage Mural Retro Wallpaper Vintage Collage & Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2034">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/04d9d2/3913063897/il_fullxfull.3913063897_rf2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Historic Paradise Bird Art Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/r/original_crop.jpg' alt='Vintage Historic Paradise Bird Art Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/r/original_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' alt='Vintage Art Nouveau Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4888673906_kl0l.jpg?v=1717330058&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper & Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/5/645/retro-hero-2.jpg' alt='Retro Wallpaper & Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/5/645/retro-hero-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - Bradbury & Bradbury">
+                                <img itemprop="contentUrl url" src='https://bradbury.com/wp-content/uploads/thirties_home_slide_plain.jpg' alt='Home - Bradbury & Bradbury'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bradbury.com" />
+                                </span>
+                                <a href='https://bradbury.com/wp-content/uploads/thirties_home_slide_plain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pop Art Original Poster Wallpaper Peel and Stick & Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/4d8e30/3991813378/il_fullxfull.3991813378_lv2t.jpg' alt='Retro Pop Art Original Poster Wallpaper Peel and Stick & Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/4d8e30/3991813378/il_fullxfull.3991813378_lv2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' alt='Vintage Bird Floral Botanical Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/Bird-and-Floral-Art-Wallpaper-Mural-Room_11db8a97-dd5f-4468-a3b1-1d83c7cabb6e.jpg?v=1721961124&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/06/WR563HC-AG-MeadowsAntique-AntiqueGreen-1.jpg.optimal.jpg' alt='Meadows Antique Wallpaper • Floral Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/06/WR563HC-AG-MeadowsAntique-AntiqueGreen-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4925562713_ay5z.jpg?v=1714739354&width=1946' alt='Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4925562713_ay5z.jpg?v=1714739354&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b2c4ace-f1cb-4e5a-8f59-7c95abda0f16.__CR259,0,1482,2000_PT0_SX463_V1___.jpg' alt='ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b2c4ace-f1cb-4e5a-8f59-7c95abda0f16.__CR259,0,1482,2000_PT0_SX463_V1___.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

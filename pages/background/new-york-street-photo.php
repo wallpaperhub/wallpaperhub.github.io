@@ -1,0 +1,129 @@
+<title>Captivating New York Street Photography: Life Through a Lens</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="new york street photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/new-york-street-photo">
+                            <span itemprop="name">new york street photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating New York Street Photography: Life Through a Lens</h1>
+                <p>New York street photography captures the vibrant energy of city life, showcasing diverse characters, unique architecture, and spontaneous moments. From bustling sidewalks to quiet alleyways, each shot tells a story. Photographers find beauty in the chaos, immortalizing the essence of one of the world's most iconic cities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Street Photos, Download The BEST Free New York City ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1389339/pexels-photo-1389339.jpeg?cs=srgb&dl=pexels-wildlittlethingsphoto-1389339.jpg&fm=jpg' alt='New York City Street Photos, Download The BEST Free New York City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1389339/pexels-photo-1389339.jpeg?cs=srgb&dl=pexels-wildlittlethingsphoto-1389339.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,009,403 New York Street Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1475073978/photo/street-in-manhattan-downtown-with-crysler-building-new-york-city-usa.jpg?s=612x612&w=gi&k=20&c=_uQkpVjbShQzUiXCAfat7dgK-05zhjZ6pJhGI7jlYqw=' alt='1,009,403 New York Street Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1475073978/photo/street-in-manhattan-downtown-with-crysler-building-new-york-city-usa.jpg?s=612x612&w=gi&k=20&c=_uQkpVjbShQzUiXCAfat7dgK-05zhjZ6pJhGI7jlYqw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 11 Best Street Photographers in New York City (2024) - Peerspace">
+                                <img itemprop="contentUrl url" src='https://www.peerspace.com/resources/wp-content/uploads/street-690826_1280.jpg' alt='The 11 Best Street Photographers in New York City (2024) - Peerspace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peerspace" />
+                                </span>
+                                <a href='https://www.peerspace.com/resources/wp-content/uploads/street-690826_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,100+ New York Night Street Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/523538287/photo/times-square.jpg?s=612x612&w=0&k=20&c=gZMU_YAcKxkwUCurZkkAjYOdZfnxhcA_sZnpHMx703A=' alt='22,100+ New York Night Street Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/523538287/photo/times-square.jpg?s=612x612&w=0&k=20&c=gZMU_YAcKxkwUCurZkkAjYOdZfnxhcA_sZnpHMx703A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How and Where to do Street Photography in New York - a Detailed Guide">
+                                <img itemprop="contentUrl url" src='https://cdn-ffcgi.nitrocdn.com/ZhDYBbXPoHrCHvLPGOdQmXKAjZXwoPng/assets/images/optimized/rev-bea8d4d/jamesmaherphotography.com/wp-content/uploads/2020/01/street-photography-new-york-city-2.jpg' alt='How and Where to do Street Photography in New York - a Detailed Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James Maher Photography" />
+                                </span>
+                                <a href='https://cdn-ffcgi.nitrocdn.com/ZhDYBbXPoHrCHvLPGOdQmXKAjZXwoPng/assets/images/optimized/rev-bea8d4d/jamesmaherphotography.com/wp-content/uploads/2020/01/street-photography-new-york-city-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ New York Street Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1682629789675-5a2ecb3db5c9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ New York Street Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1682629789675-5a2ecb3db5c9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Streets">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a0/21/56/a02156b75a9929abef7366b5fa79ac81.jpg' alt='New York City Streets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a0/21/56/a02156b75a9929abef7366b5fa79ac81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,100+ New York Night Street Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' alt='22,100+ New York Night Street Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street photography in New York: my amazing experience | Emiliano Russo">
+                                <img itemprop="contentUrl url" src='https://www.emilianorusso.com/wp-content/uploads/2021/09/Street-photography-in-New-York-emiliano-russo-14.jpg' alt='Street photography in New York: my amazing experience | Emiliano Russo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amalfi Coast wedding photographer" />
+                                </span>
+                                <a href='https://www.emilianorusso.com/wp-content/uploads/2021/09/Street-photography-in-New-York-emiliano-russo-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Street Photos, Download The BEST Free New York City ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?cs=srgb&dl=pexels-maoriginalphotography-2168974.jpg&fm=jpg' alt='New York City Street Photos, Download The BEST Free New York City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5124">
+                                <meta itemprop="height" content="6404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?cs=srgb&dl=pexels-maoriginalphotography-2168974.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

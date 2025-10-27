@@ -1,0 +1,129 @@
+<title>Low Background Steel: Precision for Radiation-Sensitive Applications</title>
+                    <meta name="description" content="Discover the benefits of low background steel for radiation-sensitive applications. This specialized steel ensures minimal radiation interference, making it perfect for research labs and medical equipment. Achieve high performance and reliability in environments that require utmost safety with this innovative material.">
+                    <meta name="keywords" content="low background steel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/low-background-steel">
+                            <span itemprop="name">low background steel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Low Background Steel: Precision for Radiation-Sensitive Applications</h1>
+                <p>Low background steel is a unique material designed for applications requiring minimal interference from background radiation. It's commonly used in scientific experiments, medical equipment, and radiation shielding. This specialized steel ensures high performance, reliability, and safety in environments sensitive to radiation, making it ideal for research facilities and healthcare applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low-background steel - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c5/Body_counting_room_at_Rocky_Flats_Plant.jpg' alt='Low-background steel - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3451">
+                                <meta itemprop="height" content="4313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c5/Body_counting_room_at_Rocky_Flats_Plant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eerie Story of Low Background Steel - by Ed Conway">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1b62122-2369-4bdb-9492-d944fde92187_1200x675.jpeg' alt='The Eerie Story of Low Background Steel - by Ed Conway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ed Conway | Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1b62122-2369-4bdb-9492-d944fde92187_1200x675.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Eerie Story of Low Background Steel - by Ed Conway">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47f8ad9-d0dc-4f30-abc4-be07a5533015_1280x720.jpeg' alt='The Eerie Story of Low Background Steel - by Ed Conway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ed Conway | Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47f8ad9-d0dc-4f30-abc4-be07a5533015_1280x720.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low-background steel | Podcast | Chemistry World">
+                                <img itemprop="contentUrl url" src='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/1/6/6/140166_Trinity_Test_Fireball_16ms.jpg' alt='Low-background steel | Podcast | Chemistry World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chemistry World" />
+                                </span>
+                                <a href='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/1/6/6/140166_Trinity_Test_Fireball_16ms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low-background steel | Podcast | Chemistry World">
+                                <img itemprop="contentUrl url" src='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/1/6/9/140169_Tug_alongside.jpg' alt='Low-background steel | Podcast | Chemistry World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chemistry World" />
+                                </span>
+                                <a href='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/1/6/9/140169_Tug_alongside.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low Background Steel — So Hot Right Now | Hackaday">
+                                <img itemprop="contentUrl url" src='https://hackaday.com/wp-content/uploads/2017/03/1964-whole-body-hi.jpg?w=800' alt='Low Background Steel — So Hot Right Now | Hackaday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hackaday" />
+                                </span>
+                                <a href='https://hackaday.com/wp-content/uploads/2017/03/1964-whole-body-hi.jpg?w=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low-background steel | Podcast | Chemistry World">
+                                <img itemprop="contentUrl url" src='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/1/7/1/140171_shutterstock_1244045785.jpg' alt='Low-background steel | Podcast | Chemistry World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chemistry World" />
+                                </span>
+                                <a href='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/1/7/1/140171_shutterstock_1244045785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into Heavy Metal | BOSS Magazine">
+                                <img itemprop="contentUrl url" src='https://thebossmagazine.com/wp-content/uploads/2023/07/GettyImages-1262396647-1.jpg' alt='Into Heavy Metal | BOSS Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BOSS Magazine" />
+                                </span>
+                                <a href='https://thebossmagazine.com/wp-content/uploads/2023/07/GettyImages-1262396647-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low-background steel | Podcast | Chemistry World">
+                                <img itemprop="contentUrl url" src='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/1/7/2/140172_shutterstock_1244519374.jpg' alt='Low-background steel | Podcast | Chemistry World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chemistry World" />
+                                </span>
+                                <a href='https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/1/7/2/140172_shutterstock_1244519374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Low Background Steel? - John M Jennings">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/www.theifod.com/wp-content/uploads/2019/09/Trinity-15.0-sec-from-David-Wargowski.jpg?fit=525%2C381&ssl=1' alt='What is Low Background Steel? - John M Jennings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John M Jennings" />
+                                </span>
+                                <a href='https://i1.wp.com/www.theifod.com/wp-content/uploads/2019/09/Trinity-15.0-sec-from-David-Wargowski.jpg?fit=525%2C381&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

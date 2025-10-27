@@ -1,0 +1,129 @@
+<title>Enchanting Moon Wallpaper for a Dreamy Aesthetic</title>
+                    <meta name="description" content="Discover the beauty of our enchanting moon wallpaper! Perfect for creating a dreamy aesthetic, this captivating design transforms any space into a calming oasis. Ideal for mobile viewing, elevate your décor today with a touch of celestial charm that inspires tranquility and creativity.">
+                    <meta name="keywords" content="aesthetic:-6cjm8es05a= moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-6cjm8es05a-moon-wallpaper">
+                            <span itemprop="name">aesthetic:-6cjm8es05a= moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Moon Wallpaper for a Dreamy Aesthetic</h1>
+                <p>A stunning moon wallpaper transforms your space, infusing it with a sense of wonder. With its ethereal glow and captivating details, this aesthetic design captures the beauty of the night sky. Perfect for creating a calming atmosphere, it invites tranquility and inspires creativity. Elevate your décor with this enchanting visual.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFd5-UzGYY/1/0/900w/canva-moon-and-stars-minimalist-phone-wallpaper-uQUjznCnF2g.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFd5-UzGYY/1/0/900w/canva-moon-and-stars-minimalist-phone-wallpaper-uQUjznCnF2g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7Cct9Oko/1/0/900w/canva-quote-template-night-sky-moon-dark-aesthetic-phone-wallpaper-_MJ4hkzU0Fs.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7Cct9Oko/1/0/900w/canva-quote-template-night-sky-moon-dark-aesthetic-phone-wallpaper-_MJ4hkzU0Fs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4tp-B5XI/1/0/900w/canva-moon-phone-wallpaper-Yhl0TagWPQ4.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4tp-B5XI/1/0/900w/canva-moon-phone-wallpaper-Yhl0TagWPQ4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/5b/84/075b849d57f1e86186f3e00cb046320e.jpg' alt='Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/5b/84/075b849d57f1e86186f3e00cb046320e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-b1uXwTs/1/0/900w/canva-black-moon-aesthetic-motivation-quotes-phone-wallpaper-zMS48C_8F2c.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-b1uXwTs/1/0/900w/canva-black-moon-aesthetic-motivation-quotes-phone-wallpaper-zMS48C_8F2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMVH4SUa4/1/0/900w/canva-moon-star-wallpaper-RJuW6kLgiM8.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMVH4SUa4/1/0/900w/canva-moon-star-wallpaper-RJuW6kLgiM8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511553677255-ba939e5537e0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9vbiUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' alt='Moon Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511553677255-ba939e5537e0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9vbiUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-hJr0le0/1/0/1600w/canva-navy-and-pink-aesthetic-fun-creative-minimalist-cat-on-the-moon-desktop-wallpaper-0LNBQ7eUuww.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-hJr0le0/1/0/1600w/canva-navy-and-pink-aesthetic-fun-creative-minimalist-cat-on-the-moon-desktop-wallpaper-0LNBQ7eUuww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE2p4TgcRw/1/0/900w/canva-aesthetic-moon-phone-wallpaper-kzeJeaiYl78.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE2p4TgcRw/1/0/900w/canva-aesthetic-moon-phone-wallpaper-kzeJeaiYl78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1532767153582-b1a0e5145009?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9vbiUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' alt='Moon Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1532767153582-b1a0e5145009?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9vbiUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Bold Metallic Red Wallpaper for a Stunning Interior</title>
+                    <meta name="description" content="Discover metallic red wallpaper that adds a touch of luxury to your home. Perfect for accent walls or entire rooms, our premium designs combine elegance with vibrant color to transform any space. Shop now for a stylish upgrade that’s sure to impress!">
+                    <meta name="keywords" content="metallic red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/metallic-red-wallpaper">
+                            <span itemprop="name">metallic red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Metallic Red Wallpaper for a Stunning Interior</h1>
+                <p>Transform your space with stunning metallic red wallpaper that exudes elegance and sophistication. The shimmering finish enhances any room, creating a dramatic yet inviting atmosphere. Perfect for accent walls or full rooms, this wallpaper pairs beautifully with various decor styles, from modern to classic. Elevate your interior design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="92,500+ Red Metallic Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1067354644/vector/red-metal-abstract-technology-background.jpg?s=612x612&w=0&k=20&c=72mP50QYoRxsgctb1fLLHihPxU_7OPLkWjx-WR9AyNw=' alt='92,500+ Red Metallic Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1067354644/vector/red-metal-abstract-technology-background.jpg?s=612x612&w=0&k=20&c=72mP50QYoRxsgctb1fLLHihPxU_7OPLkWjx-WR9AyNw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Red Background Images – Browse 487,847 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/63/86/66/360_F_263866641_BIidVWGSVM6Ki8Nmm9HUo5KULLOAqkEs.jpg' alt='Metallic Red Background Images – Browse 487,847 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/63/86/66/360_F_263866641_BIidVWGSVM6Ki8Nmm9HUo5KULLOAqkEs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Metallic Foil Seamless Background Texture Modern Luxurious ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/e98877/3977632255/il_fullxfull.3977632255_cftx.jpg' alt='Red Metallic Foil Seamless Background Texture Modern Luxurious ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/e98877/3977632255/il_fullxfull.3977632255_cftx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Wallpaper ❤️‍  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/28/a6/44/28a64489c4e8d5cb05c838fd1c677474.jpg' alt='Metallic Wallpaper ❤️‍  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/28/a6/44/28a64489c4e8d5cb05c838fd1c677474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An Eye-catching Red Metallic Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-metallic-background-ucj7qi9enryvan8a.jpg' alt='Download An Eye-catching Red Metallic Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-metallic-background-ucj7qi9enryvan8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,169,700+ Red Metallic Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/470141900/photo/red-foil-seamless-background-texture.jpg?s=612x612&w=0&k=20&c=37VpudioOYIBdTU-m5vHnZJV-qVc8ZyYpHAK1icEwWI=' alt='1,169,700+ Red Metallic Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/470141900/photo/red-foil-seamless-background-texture.jpg?s=612x612&w=0&k=20&c=37VpudioOYIBdTU-m5vHnZJV-qVc8ZyYpHAK1icEwWI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Red Background Images – Browse 471,254 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/20/96/55/360_F_320965583_YzmdGsdRH3Ttb2gRZAW8HMO93Kj1Rdep.jpg' alt='Metallic Red Background Images – Browse 471,254 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/20/96/55/360_F_320965583_YzmdGsdRH3Ttb2gRZAW8HMO93Kj1Rdep.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Metallic Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/963/607/non_2x/modern-high-resolution-red-geometric-background-with-polygonal-grid-abstract-dark-metallic-hexagonal-pattern-simple-illustration-vector.jpg' alt='Red Metallic Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/963/607/non_2x/modern-high-resolution-red-geometric-background-with-polygonal-grid-abstract-dark-metallic-hexagonal-pattern-simple-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Metallic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/metallic-holographic-background_23-2148862140.jpg?semt=ais_hybrid' alt='Red Metallic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/metallic-holographic-background_23-2148862140.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Red Background Images – Browse 487,847 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/90/96/18/360_F_90961814_kWJQIAMhD0RQX4LvVx4PocQdwSAAvSlW.jpg' alt='Metallic Red Background Images – Browse 487,847 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/90/96/18/360_F_90961814_kWJQIAMhD0RQX4LvVx4PocQdwSAAvSlW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

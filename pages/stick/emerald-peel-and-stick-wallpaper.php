@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Emerald Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of emerald peel and stick wallpaper! Perfect for hassle-free decorating, this vibrant wallpaper brings an elegant touch to any room. Easy to apply and remove, it's ideal for renters and DIY enthusiasts alike. Transform your home with this stylish solution today!">
+                    <meta name="keywords" content="emerald peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/emerald-peel-and-stick-wallpaper">
+                            <span itemprop="name">emerald peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Emerald Peel and Stick Wallpaper</h1>
+                <p>Transform your space with emerald peel and stick wallpaper, a stunning and convenient way to elevate your interior design. This stylish wallpaper offers a vibrant hue that can enhance any room, from living areas to bedrooms. Easy to apply and remove, it allows for hassle-free decorating without damage to your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald green malachite removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Dark-green-malachite-emerald-removable-wallpaper_900x.jpg?v=1589295690' alt='Emerald green malachite removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Dark-green-malachite-emerald-removable-wallpaper_900x.jpg?v=1589295690' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Green Emerald Enchanted Vinyl Peel and Stick Matte Wallpaper  NUS4480">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/835cb61a-c21c-4afc-9ac8-d86eac746745/svn/nuwallpaper-wallpaper-rolls-nus4480-64_600.jpg' alt='NuWallpaper Green Emerald Enchanted Vinyl Peel and Stick Matte Wallpaper  NUS4480'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/835cb61a-c21c-4afc-9ac8-d86eac746745/svn/nuwallpaper-wallpaper-rolls-nus4480-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Green Emerald Enchanted Vinyl Peel and Stick Matte Wallpaper  NUS4480">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4fdad2eb-b0a4-4417-8dc4-93559eeebfda/svn/nuwallpaper-wallpaper-rolls-nus4480-31_600.jpg' alt='NuWallpaper Green Emerald Enchanted Vinyl Peel and Stick Matte Wallpaper  NUS4480'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4fdad2eb-b0a4-4417-8dc4-93559eeebfda/svn/nuwallpaper-wallpaper-rolls-nus4480-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Abstract Wallpaper, Self Adhesive, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/44cee9/2071797054/il_570xN.2071797054_o9jw.jpg' alt='Emerald Green Abstract Wallpaper, Self Adhesive, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/44cee9/2071797054/il_570xN.2071797054_o9jw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Versailles Emerald Removable Wallpaper 113959">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5d4382be-4b86-4ca5-83c9-7c2ffaf08ea3/svn/graham-brown-wallpaper-rolls-113959-31_600.jpg' alt='Graham & Brown Versailles Emerald Removable Wallpaper 113959'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5d4382be-4b86-4ca5-83c9-7c2ffaf08ea3/svn/graham-brown-wallpaper-rolls-113959-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Marbled Tile Pattern Wallpaper Self Adhesive, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21115285/r/il/8d9ee6/3883261843/il_570xN.3883261843_mb6c.jpg' alt='Emerald Green Marbled Tile Pattern Wallpaper Self Adhesive, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21115285/r/il/8d9ee6/3883261843/il_570xN.3883261843_mb6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Emerald Green">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1471RL_cc52aac7-77e8-4458-8f5b-84635f694560.jpg?v=1666625891' alt='Rifle Paper Co. Willowberry Peel & Stick Wallpaper - Emerald Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1471RL_cc52aac7-77e8-4458-8f5b-84635f694560.jpg?v=1666625891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Mermaid Wallpaper Peel-and-stick Removable Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/2891eb/5231732761/il_fullxfull.5231732761_drs8.jpg' alt='Emerald Green Mermaid Wallpaper Peel-and-stick Removable Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/2891eb/5231732761/il_fullxfull.5231732761_drs8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Woodland Peel & Stick Wallpaper in Emerald | Burke Decor">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/PSW1548-RL.jpg?v=1698082199' alt='Shop Woodland Peel & Stick Wallpaper in Emerald | Burke Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/PSW1548-RL.jpg?v=1698082199' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nu Wallpaper ENCHANTED EMERALD GREEN Peel & Stick Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32737973/r/il/5e92ec/4244866676/il_570xN.4244866676_s6an.jpg' alt='Nu Wallpaper ENCHANTED EMERALD GREEN Peel & Stick Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32737973/r/il/5e92ec/4244866676/il_570xN.4244866676_s6an.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

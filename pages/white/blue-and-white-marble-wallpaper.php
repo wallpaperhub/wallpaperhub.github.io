@@ -1,0 +1,129 @@
+<title>Elegant Blue and White Marble Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the elegance of blue and white marble wallpaper. Perfect for enhancing your home's aesthetic, this timeless design complements any decor style. Ideal for feature walls, it adds sophistication and a luxurious touch to your space. Upgrade your interior with this stunning wallpaper choice!">
+                    <meta name="keywords" content="blue and white marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-marble-wallpaper">
+                            <span itemprop="name">blue and white marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue and White Marble Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning blue and white marble wallpaper that adds elegance and sophistication to any room. This timeless design effortlessly blends with various decor styles, offering a stylish backdrop for your furniture and accessories. Perfect for accent walls, it brings a touch of luxury to everyday living.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper White blue marble, fluid u70767">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/1000/1489/u70767p.jpg' alt='Wall Mural Photo Wallpaper White blue marble, fluid u70767'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/1000/1489/u70767p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxe Marble Blue SAMPLE">
+                                <img itemprop="contentUrl url" src='http://chelsealaneco.com/cdn/shop/products/luxe.png?v=1588799431' alt='Luxe Marble Blue SAMPLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsea Lane" />
+                                </span>
+                                <a href='http://chelsealaneco.com/cdn/shop/products/luxe.png?v=1588799431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' alt='Luxury Blue Marble Effect Wallpaper, Marble Wallpaper, Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/6f8c36/3633717761/il_570xN.3633717761_p25h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D abstract white blue marble gold glitter veins  fake stone texture Peel and Stick Removable Self-Adhesive canvas Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/42041842-0a71-4725-97ed-8fc4b24a97f2.306a9690b406380f28f59a02653dfa70.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D abstract white blue marble gold glitter veins  fake stone texture Peel and Stick Removable Self-Adhesive canvas Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/42041842-0a71-4725-97ed-8fc4b24a97f2.306a9690b406380f28f59a02653dfa70.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Marble Stone Wallpaper, Abstract Acrylic Art Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/c2ad1d/3345212873/il_570xN.3345212873_14wp.jpg' alt='Blue and White Marble Stone Wallpaper, Abstract Acrylic Art Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/c2ad1d/3345212873/il_570xN.3345212873_14wp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NIVFOEASC Peel and Stick Wallpaper Blue Gold Marble Watercolor Abstract  Blue White Gold Marble Wall Mural Modern Contact Paper Removable Self  Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71n0NDN7-eL.jpg' alt='NIVFOEASC Peel and Stick Wallpaper Blue Gold Marble Watercolor Abstract  Blue White Gold Marble Wall Mural Modern Contact Paper Removable Self  Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71n0NDN7-eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Marble Effect">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/305217/pr22/2/414/blue-marble-effect-marble-effect-wallpaper.jpg' alt='Blue Marble Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/305217/pr22/2/414/blue-marble-effect-marble-effect-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, White and Gold Marble Wallpaper Mural, Custom Sizes ...">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/8e23aa78-6763-4fe9-910e-bb5e684f47e6-transformed_large.jpg?v=1676509167' alt='Blue, White and Gold Marble Wallpaper Mural, Custom Sizes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/8e23aa78-6763-4fe9-910e-bb5e684f47e6-transformed_large.jpg?v=1676509167' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And White Marble Wallpaper-Buy Now-Call (03) 8774 2139">
+                                <img itemprop="contentUrl url" src='https://www.thewallstickercompany.com.au/wp-content/uploads/2020/02/Marble-blue-and-white-wallpaper-800x800.jpg' alt='Blue And White Marble Wallpaper-Buy Now-Call (03) 8774 2139'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wall Sticker Company" />
+                                </span>
+                                <a href='https://www.thewallstickercompany.com.au/wp-content/uploads/2020/02/Marble-blue-and-white-wallpaper-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gold Look Marble with Splash Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/2/2/22-5_1.jpg' alt='Blue Gold Look Marble with Splash Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/2/2/22-5_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

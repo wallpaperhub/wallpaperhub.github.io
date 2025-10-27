@@ -1,0 +1,129 @@
+<title>Christmas Basketball Wallpaper: Festive Designs for Fans</title>
+                    <meta name="description" content="Discover unique Christmas basketball wallpaper to elevate your holiday spirit! Perfect for fans, these designs blend festive cheer with your love for the game. Transform your space this season with eye-catching graphics that celebrate both basketball and Christmas in style. Ideal for mobile and desktop!">
+                    <meta name="keywords" content="christmas wallpaper basketball">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-basketball">
+                            <span itemprop="name">christmas wallpaper basketball</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Christmas Basketball Wallpaper: Festive Designs for Fans</h1>
+                <p>Celebrate the holiday season with festive Christmas basketball wallpaper! Transform your home court or living space into a winter wonderland, combining the joy of Christmas with your love for basketball. From snow-covered hoops to ornaments hanging from nets, find the perfect designs that bring cheer to your game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nba Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nba-christmas-yprv0cn34n2uz4y9.jpg' alt='100+] Nba Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1128">
+                                <meta itemprop="height" content="1742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nba-christmas-yprv0cn34n2uz4y9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="829 Christmas Basketball Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/portrait-his-nice-handsome-attractive-cheerful-cheery-fat-overweight-santa-grandfather-playing-basketball-training-201459380.jpg' alt='829 Christmas Basketball Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/portrait-his-nice-handsome-attractive-cheerful-cheery-fat-overweight-santa-grandfather-playing-basketball-training-201459380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warriors Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/20/d7/f820d7e1b47a3323eaee7baf23690dc8.jpg' alt='Warriors Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/20/d7/f820d7e1b47a3323eaee7baf23690dc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Dunk, Basketball, Blue, Chicago Bulls, Dunk, Funny, Merry ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/569/430/HD-wallpaper-santa-dunk-basketball-blue-chicago-bulls-dunk-funny-merry-christmas-michael-jordan-nba-pere-noel-santa-claus.jpg' alt='Santa Dunk, Basketball, Blue, Chicago Bulls, Dunk, Funny, Merry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/569/430/HD-wallpaper-santa-dunk-basketball-blue-chicago-bulls-dunk-funny-merry-christmas-michael-jordan-nba-pere-noel-santa-claus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#CapCut | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7441363873975864618&location=0&aid=1988' alt='#CapCut | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7441363873975864618&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry Christmas edit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/82/c2/6182c29a2a71bc5de14762c8a999cd8a.jpg' alt='Stephen Curry Christmas edit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/82/c2/6182c29a2a71bc5de14762c8a999cd8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BT Basketball - HOLIDAY HOOPS CLINIC!!!! Our annual... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1089376699644268' alt='BT Basketball - HOLIDAY HOOPS CLINIC!!!! Our annual... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1089376699644268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Basketball Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-christmas-illustration_23-2149711863.jpg' alt='Christmas Basketball Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-christmas-illustration_23-2149711863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Basketball Player Santa by thyshirtproject">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/50/7e/e5507e29346eb7abaf7f1a7a46dd28d2.jpg' alt='Funny Basketball Player Santa by thyshirtproject'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/50/7e/e5507e29346eb7abaf7f1a7a46dd28d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="829 Christmas Basketball Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-basketball-ornament-hanging-branch-christmas-tree-red-basketball-ornament-hanging-christmas-tree-341016743.jpg' alt='829 Christmas Basketball Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-basketball-ornament-hanging-branch-christmas-tree-red-basketball-ornament-hanging-christmas-tree-341016743.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

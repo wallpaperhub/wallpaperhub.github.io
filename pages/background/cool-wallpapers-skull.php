@@ -1,0 +1,129 @@
+<title>Cool Skull Wallpapers: Edgy Designs for Your Device</title>
+                    <meta name="description" content="Discover unique and striking skull wallpapers to personalize your device! Perfect for adding an edgy flair to your screen, our collection features a variety of designs that cater to every taste. Upgrade your wallpaper game with these cool and captivating images!">
+                    <meta name="keywords" content="cool wallpapers skull">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-wallpapers-skull">
+                            <span itemprop="name">cool wallpapers skull</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Skull Wallpapers: Edgy Designs for Your Device</h1>
+                <p>Explore a stunning collection of cool skull wallpapers that blend style and edginess! From intricately designed skull art to minimalistic patterns, find the perfect wallpaper to express your personality. Ideal for phones and desktops alike, these wallpapers bring a unique touch to your device, showcasing the perfect fusion of art and attitude.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Skull Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-skull-pictures-oi8h4846tbciuosj.jpg' alt='100+] Cool Skull Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-skull-pictures-oi8h4846tbciuosj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull wallpaper by _Gothic_Angel - Download on ZEDGE™ | 1a3a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/73/ec/6973ecf3eabe13902b80ccfe12d69acb.jpg' alt='Skull wallpaper by _Gothic_Angel - Download on ZEDGE™ | 1a3a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/73/ec/6973ecf3eabe13902b80ccfe12d69acb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Skull Wallpaper ideas | skull, skull wallpaper, skull art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/71/cb/a4/71cba460d820a3eff752857a8381571e.jpg' alt='160 Skull Wallpaper ideas | skull, skull wallpaper, skull art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/71/cb/a4/71cba460d820a3eff752857a8381571e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Awesome Skull Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/awesome-skull-1sbxa3fgh1e58oof.jpg' alt='100+] Awesome Skull Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/awesome-skull-1sbxa3fgh1e58oof.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Blue Fiery Skull Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/majestic-blue-fiery-skull-wallpaper-k8li0b3kij1ljhgj.jpg' alt='Majestic Blue Fiery Skull Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/majestic-blue-fiery-skull-wallpaper-k8li0b3kij1ljhgj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull wallpaper by Fant_asy - Download on ZEDGE™ | a95d">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/e8/58/74e858336087b890754326e08dae79bb.jpg' alt='Skull wallpaper by Fant_asy - Download on ZEDGE™ | a95d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/e8/58/74e858336087b890754326e08dae79bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This awesome melting skull wallpaper. : r/phonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lmrhmxyhm2841.jpg' alt='This awesome melting skull wallpaper. : r/phonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lmrhmxyhm2841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41sKr5K2VRL.jpg' alt='Skull Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41sKr5K2VRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull wallpaper ideas #skull #wallpaper #phonewallpaper #iphonewallpaper  #foryou">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7379666460455062790&location=0&aid=1988' alt='Skull wallpaper ideas #skull #wallpaper #phonewallpaper #iphonewallpaper  #foryou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7379666460455062790&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Skull Art – Make A Cool Statement. Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/colorful-skull-art-make-a-cool-statement-sb8o5q3xsj1669li.jpg' alt='Colorful Skull Art – Make A Cool Statement. Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/colorful-skull-art-make-a-cool-statement-sb8o5q3xsj1669li.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

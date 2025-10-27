@@ -1,0 +1,129 @@
+<title>Trendy Half Heart Wallpapers for TikTok</title>
+                    <meta name="description" content="Explore trendy half heart wallpapers that are all the rage on TikTok! Perfect for personalizing your device, these eye-catching designs combine style and creativity. Find the ideal wallpaper to express your personality and enhance your mobile experience. Dive into the latest trends today!">
+                    <meta name="keywords" content="half heart wallpaper tiktok">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/half-heart-wallpaper-tiktok">
+                            <span itemprop="name">half heart wallpaper tiktok</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Half Heart Wallpapers for TikTok</h1>
+                <p>Discover the latest half heart wallpaper trends on TikTok! These unique designs, often featuring vibrant colors and thoughtful aesthetics, are perfect for personalizing your phone. Join the creativity, share your favorites, and find the perfect backdrop that matches your vibe. Get inspired and make your screen pop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Half Heart Photo Ideas for Crush Moments">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7242996045700009221&location=0&aid=1988' alt='Creative Half Heart Photo Ideas for Crush Moments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7242996045700009221&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Or nah? #fyp #viral #fypシ #shadowgamer100 #loveyou #blowup #heart #ornah  #mybaby #wallpaper #love #bf #fypシ゚viral #me #you #red #blue #foryoupage  #fypage #videos #us #forever #bestcouple">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7195120148578061574&location=0&aid=1988' alt='Or nah? #fyp #viral #fypシ #shadowgamer100 #loveyou #blowup #heart #ornah  #mybaby #wallpaper #love #bf #fypシ゚viral #me #you #red #blue #foryoupage  #fypage #videos #us #forever #bestcouple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7195120148578061574&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When you don’t have no one to match with    #hearttoheart  #heartwallpapertrend #heart #matchingwallpapers #hearttrend #fyp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194293029186899242&location=0&aid=1988' alt='When you don’t have no one to match with    #hearttoheart  #heartwallpapertrend #heart #matchingwallpapers #hearttrend #fyp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194293029186899242&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart Wallpaper Collection for Your Aesthetic Needs">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194672898777402625&location=0&aid=1988' alt='Purple Heart Wallpaper Collection for Your Aesthetic Needs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194672898777402625&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Half Heart Wallpaper Trends for Couples">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7210829219897543978&location=0&aid=1988' alt='Matching Half Heart Wallpaper Trends for Couples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7210829219897543978&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mẫu Hình Nền Tim Đẹp Cho Các Cặp Đôi">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7200965147668663579&location=0&aid=1988' alt='Mẫu Hình Nền Tim Đẹp Cho Các Cặp Đôi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7200965147668663579&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Heart Finger Wallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6965576003670347014&location=0&aid=1988' alt='Half Heart Finger Wallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6965576003670347014&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sariling gawa haha kinilig ako dito pramisssss     #ldr | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7109790231066316059&location=0&aid=1988' alt='sariling gawa haha kinilig ako dito pramisssss     #ldr | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7109790231066316059&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half A Heart Wallpaper Trend Cropped | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7206906207410343195&location=0&aid=1988' alt='Half A Heart Wallpaper Trend Cropped | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7206906207410343195&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Heart Wallpaper Trend on TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194818191065976065&location=0&aid=1988' alt='Yellow Heart Wallpaper Trend on TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194818191065976065&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

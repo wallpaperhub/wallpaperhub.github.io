@@ -1,0 +1,129 @@
+<title>Unleash Your Legacy: Inheritor Class in D&D 5e</title>
+                    <meta name="description" content="Explore the Inheritor class in D&D 5e! Discover unique abilities, rich backstories, and how lineage shapes your character’s journey. Dive into an epic role-playing experience that combines fate, legacy, and adventure today!">
+                    <meta name="keywords" content="inheritor 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/inheritor-5e">
+                            <span itemprop="name">inheritor 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash Your Legacy: Inheritor Class in D&D 5e</h1>
+                <p>Inheritors in Dungeons & Dragons 5th Edition (5e) represent characters who possess unique abilities and traits passed down through their lineage. These individuals can embody themes of legacy, fate, and destiny, making them fascinating to role-play. They can draw from their heritage to enhance skills, magic, and storytelling within the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inheritor Sorcerer Sub! The 2nd Cultivator related sub in need ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/16wbudu2pis81.png?width=640&crop=smart&auto=webp&s=eb190edd72426d29cbbed4c5bb33228d60546fce' alt='Inheritor Sorcerer Sub! The 2nd Cultivator related sub in need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/16wbudu2pis81.png?width=640&crop=smart&auto=webp&s=eb190edd72426d29cbbed4c5bb33228d60546fce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DriveThruRPG - The Largest RPG Download Store!">
+                                <img itemprop="contentUrl url" src='https://d1vzi28wh99zvq.cloudfront.net/images/8957/292950.jpg' alt='DriveThruRPG - The Largest RPG Download Store!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DriveThruRPG - The Largest RPG Download Store!" />
+                                </span>
+                                <a href='https://d1vzi28wh99zvq.cloudfront.net/images/8957/292950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Inheritor Class - Dungeon Masters Guild | Dungeon Masters Guild">
+                                <img itemprop="contentUrl url" src='https://www.dmsguild.com/images/8957/279661.jpg' alt='The Inheritor Class - Dungeon Masters Guild | Dungeon Masters Guild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeon Masters Guild -" />
+                                </span>
+                                <a href='https://www.dmsguild.com/images/8957/279661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Inheritor of the Unbegotten: an aberrant druid subclass [OC ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/s3f1cx0e9qnc1.png' alt='The Inheritor of the Unbegotten: an aberrant druid subclass [OC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2259">
+                                <meta itemprop="height" content="2182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/s3f1cx0e9qnc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inheritor (5e)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/85/3b/b1853b584d949fa17c3c918ac9832c3b.jpg' alt='Inheritor (5e)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1062">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/85/3b/b1853b584d949fa17c3c918ac9832c3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorcerous Origin: Arcane Inheritor. Draw your powers from the spirit ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7b0zkmcgsz561.jpg?auto=webp&s=486130d33cedb12bc607b2026a5d4cd5e9e49652' alt='Sorcerous Origin: Arcane Inheritor. Draw your powers from the spirit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1836">
+                                <meta itemprop="height" content="2376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7b0zkmcgsz561.jpg?auto=webp&s=486130d33cedb12bc607b2026a5d4cd5e9e49652' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Inheritor: An artifact and exploration class - Dungeon Masters Guild |  Dungeon Masters Guild">
+                                <img itemprop="contentUrl url" src='https://www.dmsguild.com/images/8957/387298.png' alt='The Inheritor: An artifact and exploration class - Dungeon Masters Guild |  Dungeon Masters Guild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dungeon Masters Guild -" />
+                                </span>
+                                <a href='https://www.dmsguild.com/images/8957/387298.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Inheritor's (5e) - Dungeon Masters Guild | DriveThruRPG">
+                                <img itemprop="contentUrl url" src='https://d1vzi28wh99zvq.cloudfront.net/images/8957/209043.png' alt='The Inheritor's (5e) - Dungeon Masters Guild | DriveThruRPG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DriveThruRPG - The Largest RPG Download Store!" />
+                                </span>
+                                <a href='https://d1vzi28wh99zvq.cloudfront.net/images/8957/209043.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inheritor 5e: Background Review — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/8e16aa9e-e000-4b9b-a7b1-1595f1c55eb4/Cloey1+%281%29.png' alt='Inheritor 5e: Background Review — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/8e16aa9e-e000-4b9b-a7b1-1595f1c55eb4/Cloey1+%281%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #30: Inheritor (DnD 5E)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rs3P55PULLM/maxresdefault.jpg' alt='Background #30: Inheritor (DnD 5E)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rs3P55PULLM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

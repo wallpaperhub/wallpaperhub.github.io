@@ -1,0 +1,129 @@
+<title>Understanding the Eastern Star Symbol: Meaning & Significance</title>
+                    <meta name="description" content="Discover the Eastern Star symbol's meaning and significance. Learn how this five-pointed star represents key virtues in the Order of the Eastern Star, fostering unity and moral values among its members. Explore its rich symbolism and the biblical characters it honors. Ideal for those interested in Freemasonry folklore.">
+                    <meta name="keywords" content="eastern star symbol">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eastern-star-symbol">
+                            <span itemprop="name">eastern star symbol</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Eastern Star Symbol: Meaning & Significance</h1>
+                <p>The Eastern Star symbol, often associated with the Order of the Eastern Star, features a five-pointed star representing various virtues. Each point corresponds to a biblical character, embodying attributes like fidelity and charity. This emblem signifies unity and fellowship among its members, emphasizing moral values and enlightenment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order of the Eastern Star - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Oes_GGC_color.PNG/220px-Oes_GGC_color.PNG' alt='Order of the Eastern Star - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Oes_GGC_color.PNG/220px-Oes_GGC_color.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PHA O.E.S. Order of Eastern Star Emblem With Altar- Silhouette ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14122708/r/il/bbc45a/3274955905/il_fullxfull.3274955905_pg6k.jpg' alt='PHA O.E.S. Order of Eastern Star Emblem With Altar- Silhouette ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14122708/r/il/bbc45a/3274955905/il_fullxfull.3274955905_pg6k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Eastern Star with Free Mason Symbol Patch (P7688) : Arts,  Crafts & Sewing">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81GE1HyRKgL.jpg' alt='Amazon.com: Eastern Star with Free Mason Symbol Patch (P7688) : Arts,  Crafts & Sewing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81GE1HyRKgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""OES Emblem Order of the Eastern Star" Sticker for Sale by MasterMasonMade">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4982857481.4300/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"OES Emblem Order of the Eastern Star" Sticker for Sale by MasterMasonMade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4982857481.4300/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OES, Order of the Eastern Star Cut File, Silhouette Cricut, Jpeg ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18945043/r/il/fc7b01/2196917656/il_570xN.2196917656_e0xl.jpg' alt='OES, Order of the Eastern Star Cut File, Silhouette Cricut, Jpeg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18945043/r/il/fc7b01/2196917656/il_570xN.2196917656_e0xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EASTERN STAR WATCH - What do its logo colors and symbols represent?">
+                                <img itemprop="contentUrl url" src='https://www.masonic-lodge-of-education.com/images/EASTSTAR_333x300.jpg' alt='EASTERN STAR WATCH - What do its logo colors and symbols represent?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Masonic Lodge of Education" />
+                                </span>
+                                <a href='https://www.masonic-lodge-of-education.com/images/EASTSTAR_333x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is an Eastern Star? History, How to Join & More">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/4/4a/What-Is-an-Eastern-Star-Step-5.jpg/v4-460px-What-Is-an-Eastern-Star-Step-5.jpg' alt='What Is an Eastern Star? History, How to Join & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/4/4a/What-Is-an-Eastern-Star-Step-5.jpg/v4-460px-What-Is-an-Eastern-Star-Step-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order of the Eastern Star - Grand Ledge Masonic Lodge #179">
+                                <img itemprop="contentUrl url" src='https://www.grandledgemasons.com/wp-content/uploads/2020/09/oes_chapter_clear.png' alt='Order of the Eastern Star - Grand Ledge Masonic Lodge #179'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grand Ledge Masonic Lodge #179" />
+                                </span>
+                                <a href='https://www.grandledgemasons.com/wp-content/uploads/2020/09/oes_chapter_clear.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order of the Eastern Star OES Emblem- 5 Inches">
+                                <img itemprop="contentUrl url" src='https://cdn1.bigcommerce.com/server4500/916b5/products/3629/images/5212/OES_Emblem__20356.1656434553.1000.1200.jpg?c=2' alt='Order of the Eastern Star OES Emblem- 5 Inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brothers and Sisters' Greek Store" />
+                                </span>
+                                <a href='https://cdn1.bigcommerce.com/server4500/916b5/products/3629/images/5212/OES_Emblem__20356.1656434553.1000.1200.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eastern Star Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/eastern-star-logo-svg-vector.svg' alt='Eastern Star Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/eastern-star-logo-svg-vector.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

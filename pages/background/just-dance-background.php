@@ -1,0 +1,129 @@
+<title>“Explore the Exciting History of Just Dance”</title>
+                    <meta name="description" content="Discover the evolution of Just Dance, Ubisoft's hit dance game series that combines music, movement, and fun for gamers of all ages. Learn about its vibrant backgrounds, catchy tracks, and the impact it has on dance and fitness culture. Join the dance revolution today!">
+                    <meta name="keywords" content="just dance background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/just-dance-background">
+                            <span itemprop="name">just dance background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Explore the Exciting History of Just Dance”</h1>
+                <p>Just Dance, developed by Ubisoft, revolutionized rhythm gaming since its debut in 2009. With vibrant visuals and catchy pop songs, players mirror on-screen choreography. It promotes fitness and fun, suitable for all ages. The franchise has expanded with numerous editions and annual updates, capturing the hearts of dance enthusiasts worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance Mad Love Background by ScooterKitty on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a18fd3d-fd25-443d-bfe6-76d933dca9b9/ddcat4r-01247889-9985-4919-8811-9fefaccf38d4.jpg/v1/fill/w_1280,h_720,q_75,strp/just_dance_mad_love_background_by_scooterkitty_ddcat4r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMmExOGZkM2QtZmQyNS00NDNkLWJmZTYtNzZkOTMzZGNhOWI5XC9kZGNhdDRyLTAxMjQ3ODg5LTk5ODUtNDkxOS04ODExLTlmZWZhY2NmMzhkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3uqjomMVc9VzUHsOQ_VaK_3LjDN4rj6M9UcK603J4so' alt='Just Dance Mad Love Background by ScooterKitty on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a18fd3d-fd25-443d-bfe6-76d933dca9b9/ddcat4r-01247889-9985-4919-8811-9fefaccf38d4.jpg/v1/fill/w_1280,h_720,q_75,strp/just_dance_mad_love_background_by_scooterkitty_ddcat4r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMmExOGZkM2QtZmQyNS00NDNkLWJmZTYtNzZkOTMzZGNhOWI5XC9kZGNhdDRyLTAxMjQ3ODg5LTk5ODUtNDkxOS04ODExLTlmZWZhY2NmMzhkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3uqjomMVc9VzUHsOQ_VaK_3LjDN4rj6M9UcK603J4so' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance 4 Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/g475iIzaUOk/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYXSA6KHIwDw==&rs=AOn4CLCSQVraXK-vFH1JlOzc9AB7ifUp2Q' alt='Just Dance 4 Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/g475iIzaUOk/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYXSA6KHIwDw==&rs=AOn4CLCSQVraXK-vFH1JlOzc9AB7ifUp2Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xavier Etchepare - JUST DANCE 4 backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/007/709/261/large/xavier-etchepare-xavier-etchepare-maketheparty-06.jpg?1507995909' alt='Xavier Etchepare - JUST DANCE 4 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xavier Etchepare" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/007/709/261/large/xavier-etchepare-xavier-etchepare-maketheparty-06.jpg?1507995909' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fanmade Just Dance Background by FrancescoDDJ on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81523f36-4bb5-4094-b3a5-d31332d7592d/da62lcb-c27cea65-64f4-4390-826b-defc3672fa01.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxNTIzZjM2LTRiYjUtNDA5NC1iM2E1LWQzMTMzMmQ3NTkyZFwvZGE2MmxjYi1jMjdjZWE2NS02NGY0LTQzOTAtODI2Yi1kZWZjMzY3MmZhMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0buepHw-UDCvAQACGrj7LepwB4oUXqDPV_U9sBU9iLY' alt='Fanmade Just Dance Background by FrancescoDDJ on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81523f36-4bb5-4094-b3a5-d31332d7592d/da62lcb-c27cea65-64f4-4390-826b-defc3672fa01.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxNTIzZjM2LTRiYjUtNDA5NC1iM2E1LWQzMTMzMmQ3NTkyZFwvZGE2MmxjYi1jMjdjZWE2NS02NGY0LTQzOTAtODI2Yi1kZWZjMzY3MmZhMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0buepHw-UDCvAQACGrj7LepwB4oUXqDPV_U9sBU9iLY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance 2025 Edition on X: "you get a wallpaper, and you get a ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fq36hVQWwAQeLbW.jpg:large' alt='Just Dance 2025 Edition on X: "you get a wallpaper, and you get a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fq36hVQWwAQeLbW.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YJ0pBx5p9c4/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwLEc_bjmTNfUl1D0lIyUFu0mcXw' alt='Just Dance Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YJ0pBx5p9c4/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwLEc_bjmTNfUl1D0lIyUFu0mcXw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Just Dance Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/just-dance-background-975krdfimubx7xml.jpg' alt='100+] Just Dance Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/just-dance-background-975krdfimubx7xml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | Just Dance Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/justdance/images/e/e5/Jd2023_backgrounds_screen.png/revision/latest?cb=20231015233452' alt='Backgrounds | Just Dance Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Dance Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/justdance/images/e/e5/Jd2023_backgrounds_screen.png/revision/latest?cb=20231015233452' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xavier Etchepare - JUST DANCE 4 backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/007/709/259/large/xavier-etchepare-xavier-etchepare-rock-vs-lavida-01.jpg?1507995907' alt='Xavier Etchepare - JUST DANCE 4 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xavier Etchepare" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/007/709/259/large/xavier-etchepare-xavier-etchepare-rock-vs-lavida-01.jpg?1507995907' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance 2025 Edition on X: "don't mind us, just dropping some ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FtcfqesXgAQs2bu.jpg:large' alt='Just Dance 2025 Edition on X: "don't mind us, just dropping some ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FtcfqesXgAQs2bu.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

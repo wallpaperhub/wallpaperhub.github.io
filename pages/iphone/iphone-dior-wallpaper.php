@@ -1,0 +1,129 @@
+<title>Stunning Dior Wallpapers for iPhone: Elevate Your Style</title>
+                    <meta name="description" content="Discover luxurious Dior wallpaper options for your iPhone. Transform your device with elegant designs that reflect your unique style and sophistication. Perfect for fashion enthusiasts looking to make a statement with their mobile aesthetic!">
+                    <meta name="keywords" content="iphone dior wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-dior-wallpaper">
+                            <span itemprop="name">iphone dior wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dior Wallpapers for iPhone: Elevate Your Style</h1>
+                <p>Elevate your iPhone's aesthetic with stylish Dior wallpapers. These elegant designs blend luxury and modernity, allowing you to customize your screen while showcasing your taste. Whether you prefer classic patterns or contemporary motifs, find the perfect Dior wallpaper to make your device a true fashion statement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior iPhone Wallpaper ✰ pinterest @mimosaswithmaria">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/5a/fe/ca5afe544af0a0dec59d7bcbd1614c9f.jpg' alt='Dior iPhone Wallpaper ✰ pinterest @mimosaswithmaria'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/5a/fe/ca5afe544af0a0dec59d7bcbd1614c9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/4b/f6/d94bf682f10483df6a3f4bca6d251acc.jpg' alt='Dior wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/4b/f6/d94bf682f10483df6a3f4bca6d251acc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dior Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dior-iphone-53hhjd40yw0cdrt1.jpg' alt='100+] Dior Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dior-iphone-53hhjd40yw0cdrt1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/a5/05/8aa5054b27f1641124c490aaf2770152.jpg' alt='Dior Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/a5/05/8aa5054b27f1641124c490aaf2770152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Christian Dior Logo Luxurious Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/ipad/christian-dior-logo-luxurious-repeating-11-10-2024-1728716276-hd-wallpaper.jpg' alt='Most Popular Christian Dior Logo Luxurious Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="4451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/ipad/christian-dior-logo-luxurious-repeating-11-10-2024-1728716276-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Luxury Brands Christian Dior Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/christian-dior-luxury-brands-butterflies-11-10-2024-1728715764-hd-wallpaper.jpg' alt='Most Popular Luxury Brands Christian Dior Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/christian-dior-luxury-brands-butterflies-11-10-2024-1728715764-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dior Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dior-pattern-background-p0zviq4x4etp1r8k.jpg' alt='100+] Dior Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dior-pattern-background-p0zviq4x4etp1r8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GreenandYellowDior, dior, green, green dior, new, yellow, yellow ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/151/153/HD-wallpaper-greenandyellowdior-dior-green-green-dior-new-yellow-yellow-dior.jpg' alt='GreenandYellowDior, dior, green, green dior, new, yellow, yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/151/153/HD-wallpaper-greenandyellowdior-dior-green-green-dior-new-yellow-yellow-dior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cool dior wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/35/28/d7/3528d74a82fce9104e0bc09e2eaee64c.jpg' alt='cool dior wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prathima Hospitals" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/35/28/d7/3528d74a82fce9104e0bc09e2eaee64c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dior Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dior-phone-i36p41c22t9wizrb.jpg' alt='100+] Dior Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dior-phone-i36p41c22t9wizrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

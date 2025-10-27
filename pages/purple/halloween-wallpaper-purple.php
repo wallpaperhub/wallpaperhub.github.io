@@ -1,0 +1,129 @@
+<title>Spooky Purple Halloween Wallpaper: Enchant Your Space</title>
+                    <meta name="description" content="Discover stunning purple Halloween wallpaper that adds a spooky flair to your home. Perfect for decor enthusiasts, our collection features designs that elevate your Halloween spirit while maintaining style. Transform your space with vibrant and eerie patterns today!">
+                    <meta name="keywords" content="halloween wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/halloween-wallpaper-purple">
+                            <span itemprop="name">halloween wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Purple Halloween Wallpaper: Enchant Your Space</h1>
+                <p>Transform your space this Halloween with enchanting purple wallpaper! Perfect for creating a spooky yet stylish ambiance, these wallpapers feature creepy designs and ghostly accents that elevate your Halloween decor. Choose from elegant patterns and playful motifs, and let the spirit of Halloween come alive in your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Halloween Wallpaper Stock Illustrations – 5,570 Violet ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/violet-halloween-background-scary-pumpkins-tree-abstract-backdrop-holiday-party-template-grunge-wallpaper-design-334813029.jpg' alt='Violet Halloween Wallpaper Stock Illustrations – 5,570 Violet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/violet-halloween-background-scary-pumpkins-tree-abstract-backdrop-holiday-party-template-grunge-wallpaper-design-334813029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple theme wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/a8/a0/1ca8a0ae4de89240d2717416500ca1d1.jpg' alt='Purple theme wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/a8/a0/1ca8a0ae4de89240d2717416500ca1d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Halloween Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-halloween-pumpkin-glow-lifh051ew7qy66re.jpg' alt='100+] Purple Halloween Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-halloween-pumpkin-glow-lifh051ew7qy66re.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Halloween aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/00/df/c000df7556efc44ac4924615d05338d6.jpg' alt='Purple Halloween aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/00/df/c000df7556efc44ac4924615d05338d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Halloween Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/547/376/small/halloween-bat-with-blink-seamless-pattern-purple-design-vector.jpg' alt='Purple Halloween Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/547/376/small/halloween-bat-with-blink-seamless-pattern-purple-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted House Halloween Phone Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/haunted-house-halloween-phone-purple-p5m2dabphqs0exvd.jpg' alt='Haunted House Halloween Phone Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/haunted-house-halloween-phone-purple-p5m2dabphqs0exvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ghostface With A Bloody Knife Purple Halloween Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-halloween-gc72kasxfzqorz8r.jpg' alt='Download Ghostface With A Bloody Knife Purple Halloween Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-halloween-gc72kasxfzqorz8r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween On Purple Background Images – Browse 172,505 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/91/36/29/360_F_891362992_K4xlKlBlNKDul7s53OzkSScuZJd6OEdD.jpg' alt='Halloween On Purple Background Images – Browse 172,505 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/91/36/29/360_F_891362992_K4xlKlBlNKDul7s53OzkSScuZJd6OEdD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkin Wallpaper 4K, Purple aesthetic, Purple pumpkins">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/halloween-pumpkin-1080x2340-9636.jpg' alt='Halloween Pumpkin Wallpaper 4K, Purple aesthetic, Purple pumpkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/halloween-pumpkin-1080x2340-9636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless Pattern Cute Purple Halloween design for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-cute-purple-halloween-design-background-wallpaper-clothing-wrapping-fabric_107335-642.jpg' alt='Premium Vector | Seamless Pattern Cute Purple Halloween design for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-cute-purple-halloween-design-background-wallpaper-clothing-wrapping-fabric_107335-642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

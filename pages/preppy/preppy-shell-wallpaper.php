@@ -1,0 +1,129 @@
+<title>Transform Your Space with Preppy Shell Wallpaper</title>
+                    <meta name="description" content="Discover the charm of preppy shell wallpaper, ideal for creating a breezy, coastal vibe in your home. With its elegant shell designs and soft colors, this wallpaper is perfect for any room. Elevate your decor with a touch of playful sophistication today!">
+                    <meta name="keywords" content="preppy shell wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-shell-wallpaper">
+                            <span itemprop="name">preppy shell wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Preppy Shell Wallpaper</h1>
+                <p>Preppy shell wallpaper combines coastal charm and classic style, perfect for creating a refreshing atmosphere in any space. Featuring delightful shell patterns in soft pastel colors, it adds a playful yet sophisticated touch to your home. Ideal for beach houses, nurseries, or any room looking for a seaside vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Seashells Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-seashells-pattern-grwkh412li8ytrix.jpg' alt='Download Preppy Seashells Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-seashells-pattern-grwkh412li8ytrix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Sea Shells Design Custom Wallpaper & Surface Covering">
+                                <img itemprop="contentUrl url" src='https://www.youcustomizeit.com/common/MAKE/1108490/Sea-Shells-Wallpaper-Square.jpg?lm=1554930784' alt='Preppy Sea Shells Design Custom Wallpaper & Surface Covering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouCustomizeIt" />
+                                </span>
+                                <a href='https://www.youcustomizeit.com/common/MAKE/1108490/Sea-Shells-Wallpaper-Square.jpg?lm=1554930784' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seashells // blue // white">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/30/b7/9330b71e9eb4886d7ba6c0f9bb005c65.jpg' alt='seashells // blue // white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/30/b7/9330b71e9eb4886d7ba6c0f9bb005c65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Preppy Pink Shells Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-pink-shells-k482mwggxhkgzq9c.jpg' alt='Download Preppy Pink Shells Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-pink-shells-k482mwggxhkgzq9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Shells Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16682512/p/f/m/_Jx2GezpOn35VJRMy1KWqQf5288pg6eORH8YecHbBW8832gIpab0/Large%20Under%20the%20sea%20-%20Blue%20and%20white%20-%20Beach%20life%20-%20Seahorses%20seahorse%20Sea%20Horse%20starfish%20shells%20seashells%20Seaweed%20lobster%20crab%20-%20Nautical%20Preppy%20-%20Coastal%20Sealife%20Sea%20Ocean%20Maritime%20-%20kids%20childrens%20nursery%20baby%20boy%20painterly%20shellfish.jpg' alt='Preppy Shells Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16682512/p/f/m/_Jx2GezpOn35VJRMy1KWqQf5288pg6eORH8YecHbBW8832gIpab0/Large%20Under%20the%20sea%20-%20Blue%20and%20white%20-%20Beach%20life%20-%20Seahorses%20seahorse%20Sea%20Horse%20starfish%20shells%20seashells%20Seaweed%20lobster%20crab%20-%20Nautical%20Preppy%20-%20Coastal%20Sealife%20Sea%20Ocean%20Maritime%20-%20kids%20childrens%20nursery%20baby%20boy%20painterly%20shellfish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer wallpapers•     #wallpaper #beach #flowers #shell ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7215197798868831534&location=0&aid=1988' alt='Summer wallpapers•     #wallpaper #beach #flowers #shell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7215197798868831534&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/62/f5/6662f59e693fd2f0cdd55b9d7f419c44.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/62/f5/6662f59e693fd2f0cdd55b9d7f419c44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seashell seamless pattern. Hand drawn scallop ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seashell-seamless-pattern-hand-drawn-scallop-shells-with-pearls-cute-underwater-seashells-ocean-fauna-flat-vector-background-illustration_627510-2546.jpg' alt='Premium Vector | Seashell seamless pattern. Hand drawn scallop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seashell-seamless-pattern-hand-drawn-scallop-shells-with-pearls-cute-underwater-seashells-ocean-fauna-flat-vector-background-illustration_627510-2546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor sea shell seamless pattern. Hand drawn seashells ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FK8RXN/watercolor-sea-shell-seamless-pattern-hand-drawn-seashells-texture-vintage-ocean-background-watercolour-marine-illustration-print-for-wallpaper-fa-2FK8RXN.jpg' alt='Watercolor sea shell seamless pattern. Hand drawn seashells ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FK8RXN/watercolor-sea-shell-seamless-pattern-hand-drawn-seashells-texture-vintage-ocean-background-watercolour-marine-illustration-print-for-wallpaper-fa-2FK8RXN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Seashell Patterns for Your Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/90e927052f8b5f6438d022103636b23e/3oFfkir0t4SDuYCwqc7T.jpg?q=70&w=500' alt='Pink Seashell Patterns for Your Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/90e927052f8b5f6438d022103636b23e/3oFfkir0t4SDuYCwqc7T.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

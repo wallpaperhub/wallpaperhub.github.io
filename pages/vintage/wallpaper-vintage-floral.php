@@ -1,0 +1,129 @@
+<title>Vintage Floral Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wallpaper vintage floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/wallpaper-vintage-floral">
+                            <span itemprop="name">wallpaper vintage floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Floral Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with vintage floral wallpaper, a timeless design that adds elegance and charm to any room. This beautiful wallpaper features intricate flower patterns that evoke a sense of nostalgia while bringing warmth and personality to your decor. Perfect for creating cozy bedrooms, inviting living rooms, or vibrant hallways.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 472.4inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' alt='Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 472.4inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Illustration Pattern Wallpaper, Vintage Floral ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/005_Front_Interior_Scene11-23.jpg' alt='Vintage Flowers Illustration Pattern Wallpaper, Vintage Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/005_Front_Interior_Scene11-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flower Wallpaper, Peony on Black Background, Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16834792/r/il/de7707/2589417542/il_fullxfull.2589417542_89ww.jpg' alt='Vintage Flower Wallpaper, Peony on Black Background, Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16834792/r/il/de7707/2589417542/il_fullxfull.2589417542_89ww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' alt='Vintage Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/211039/main/albany-vintage-floral-dark-grey-wallpaper-1@lg.webp?v=1697208212' alt='Vintage Floral by Albany - Dark Grey - Wallpaper - 38636-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/211039/main/albany-vintage-floral-dark-grey-wallpaper-1@lg.webp?v=1697208212' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202771.jpg' alt='Wallquest MV81502 Vintage Floral Trail Vintage Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Vintage Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D129">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5042057849_gxge.jpg?v=1712107513&width=1946' alt='Dark Vintage Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D129'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5042057849_gxge.jpg?v=1712107513&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Mural Wallpaper | Vibrant Magnolia Colors — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-fleuri-vintage-magnolia-blanc-rose-fleur-jaune-20589_700x700.jpg?v=1715272010' alt='Vintage Floral Mural Wallpaper | Vibrant Magnolia Colors — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-fleuri-vintage-magnolia-blanc-rose-fleur-jaune-20589_700x700.jpg?v=1715272010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Classical Flower Floral Wallpaper R9226">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' alt='Dark Blue Classical Flower Floral Wallpaper R9226'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper • Antique Asian Design • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' alt='Vintage Floral Wallpaper • Antique Asian Design • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

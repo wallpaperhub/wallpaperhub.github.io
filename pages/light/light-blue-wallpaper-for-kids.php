@@ -1,0 +1,129 @@
+<title>Charming Light Blue Wallpaper for Kids' Rooms</title>
+                    <meta name="description" content="Discover delightful light blue wallpaper for kids! Transform their space with calming shades and fun patterns that inspire creativity. Perfect for nurseries, playrooms, and bedrooms. Explore our collection for a cheerful ambiance your children will love!">
+                    <meta name="keywords" content="light blue wallpaper for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-wallpaper-for-kids">
+                            <span itemprop="name">light blue wallpaper for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Light Blue Wallpaper for Kids' Rooms</h1>
+                <p>Light blue wallpaper is a perfect choice for kids' rooms, creating a serene and cheerful atmosphere. Its calming hue promotes relaxation while adding a playful touch. Available in various patterns, from whimsical clouds to adorable animals, light blue wallpaper bursts with potential for sparks of creativity. Ideal for both boys and girls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky White Clouds Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper  | Childrens Wallpaper | Peel Stick Removable Wallpaper | 3905">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3857790986_n6qb.jpg' alt='Blue Sky White Clouds Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper  | Childrens Wallpaper | Peel Stick Removable Wallpaper | 3905'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2422">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3857790986_n6qb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Gingham Check Watercolor Peel and Stick Wallpaper for Kids –  Wallflora">
+                                <img itemprop="contentUrl url" src='http://wallflorashop.com/cdn/shop/files/Enhanceyourlittleone_snurserywithourcharminglightblueginghamcheckwatercolorpeel-and-stickwallpaper.Thisversatiledesignaddsatouchofplayfulsophisticationtoanygender-neutralnursery.jpg?v=1704287689' alt='Light Blue Gingham Check Watercolor Peel and Stick Wallpaper for Kids –  Wallflora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="2300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallflora" />
+                                </span>
+                                <a href='http://wallflorashop.com/cdn/shop/files/Enhanceyourlittleone_snurserywithourcharminglightblueginghamcheckwatercolorpeel-and-stickwallpaper.Thisversatiledesignaddsatouchofplayfulsophisticationtoanygender-neutralnursery.jpg?v=1704287689' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper for Baby Room Light Blue Baby Wallpaper for Boys ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25401407/r/il/10544a/2966569545/il_570xN.2966569545_tip3.jpg' alt='Blue Wallpaper for Baby Room Light Blue Baby Wallpaper for Boys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25401407/r/il/10544a/2966569545/il_570xN.2966569545_tip3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloudy Sky Childrens Wallpaper Clouds Blue Grey White Nursery Kids Holden  Decor">
+                                <img itemprop="contentUrl url" src='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/e4930312-01b1-481f-b704-a530b5bcba90.jpg' alt='Cloudy Sky Childrens Wallpaper Clouds Blue Grey White Nursery Kids Holden  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://s3-eu-west-1.amazonaws.com/images.linnlive.com/0d5180a37a8de3cf76052639384dd66f/e4930312-01b1-481f-b704-a530b5bcba90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Striped Light Blue Wallpaper from the Just 4 Kids 2 Collection">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/G56025_791115de-7e84-43d8-969e-a567464b706e_1080x.jpg?v=1650296795' alt='Sample Striped Light Blue Wallpaper from the Just 4 Kids 2 Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/G56025_791115de-7e84-43d8-969e-a567464b706e_1080x.jpg?v=1650296795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Striped Wallpaper, Kids Room Wall Art, Blue White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/0c09bb/3283115041/il_fullxfull.3283115041_bind.jpg' alt='Light Blue Striped Wallpaper, Kids Room Wall Art, Blue White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2850">
+                                <meta itemprop="height" content="2940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/0c09bb/3283115041/il_fullxfull.3283115041_bind.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="212,356 Blue Kids Wallpaper Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/vector-illustration-swirl-design-swirling-600nw-677379868.jpg' alt='212,356 Blue Kids Wallpaper Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/vector-illustration-swirl-design-swirling-600nw-677379868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Kids Wallpaper Blue Wallpaper Whale Wallpaper Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/7942a2/1897148486/il_570xN.1897148486_219f.jpg' alt='Wallpaper Kids Wallpaper Blue Wallpaper Whale Wallpaper Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/7942a2/1897148486/il_570xN.1897148486_219f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Tiny Tots 2-Collection Light Blue/White Glitter Finish Kids Koala  Leaf Design Non-Woven Paper Wallpaper Roll G78381">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f1a74591-2bb4-403f-8e17-80bd13da6e9a/svn/wallpaper-rolls-g78381-64_600.jpg' alt='Unbranded Tiny Tots 2-Collection Light Blue/White Glitter Finish Kids Koala  Leaf Design Non-Woven Paper Wallpaper Roll G78381'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f1a74591-2bb4-403f-8e17-80bd13da6e9a/svn/wallpaper-rolls-g78381-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BT2818 Room to Grow Kids Clouds Wallpaper by York">
+                                <img itemprop="contentUrl url" src='https://www.insidewallpaper.com/images/product/medium/bt2818-room-to-grow-kids-clouds-wallpaper-by-york.jpg' alt='BT2818 Room to Grow Kids Clouds Wallpaper by York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inside Wallpaper" />
+                                </span>
+                                <a href='https://www.insidewallpaper.com/images/product/medium/bt2818-room-to-grow-kids-clouds-wallpaper-by-york.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

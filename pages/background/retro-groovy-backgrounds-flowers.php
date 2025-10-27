@@ -1,0 +1,129 @@
+<title>Retro Groovy Flower Backgrounds: A Blast from the Past!</title>
+                    <meta name="description" content="Discover the charm of retro groovy backgrounds with stunning flower designs! Perfect for digital art, home decor, or stylish wallpapers, these vivid patterns offer a delightful blend of nostalgia and modern aesthetics. Transform your space with colorful vibes that lift your spirits! Explore our collection now!">
+                    <meta name="keywords" content="retro groovy backgrounds flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-groovy-backgrounds-flowers">
+                            <span itemprop="name">retro groovy backgrounds flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Groovy Flower Backgrounds: A Blast from the Past!</h1>
+                <p>Step into a vibrant world with retro groovy backgrounds adorned with whimsical flowers! These eye-catching designs combine bold colors and playful patterns, perfect for adding a nostalgic flair to any space. Ideal for art projects, home decor, or digital wallpapers, these flower-filled backgrounds will inspire creativity and evoke joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Retro Flowers 70S Color Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/54604/groovy_retro_flowers_70s_color_limited.jpg' alt='Groovy Retro Flowers 70S Color Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/54604/groovy_retro_flowers_70s_color_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Flowers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-retro-60s-70s-background_23-2149989208.jpg' alt='Groovy Flowers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-retro-60s-70s-background_23-2149989208.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Floral Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-groovy-psychedelic-pattern_23-2149095377.jpg' alt='Groovy Floral Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-groovy-psychedelic-pattern_23-2149095377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73,200+ Groovy Flowers Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1408537252/vector/groovy-daisy-flowers-seamless-pattern-floral-vector-background-in-1970s-hippie-retro-style.jpg?s=612x612&w=0&k=20&c=Opg46z8e1-Dd0zkfgkPf6f7mBuKXQPkDpHfbXiMFnfE=' alt='73,200+ Groovy Flowers Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1408537252/vector/groovy-daisy-flowers-seamless-pattern-floral-vector-background-in-1970s-hippie-retro-style.jpg?s=612x612&w=0&k=20&c=Opg46z8e1-Dd0zkfgkPf6f7mBuKXQPkDpHfbXiMFnfE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | 70s seamless pattern with vintage daisy or ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/70s-seamless-pattern-with-vintage-daisy-camomile-groovy-flowers-psychedelic-floral-background_522613-699.jpg' alt='Premium Vector | 70s seamless pattern with vintage daisy or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/70s-seamless-pattern-with-vintage-daisy-camomile-groovy-flowers-psychedelic-floral-background_522613-699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Flowers Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12204899/p/f/m/p9QzR9wczqF4ToY9SNHDRAEfi036RxeGK9joeelDfuT3J6ovTSR5T75OUg/Groovy%2C%20Flowers%2C%20Boho%20Pattern.jpg' alt='Groovy Flowers Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12204899/p/f/m/p9QzR9wczqF4ToY9SNHDRAEfi036RxeGK9joeelDfuT3J6ovTSR5T75OUg/Groovy%2C%20Flowers%2C%20Boho%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/37128/groovy-floral-wallpaper-2x.jpg?q=1732779095' alt='Groovy Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/37128/groovy-floral-wallpaper-2x.jpg?q=1732779095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro groovy flowers, design + illustration inspo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/bc/38/f0bc38276511a9fb764558bd6bee0e8e.jpg' alt='retro groovy flowers, design + illustration inspo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/bc/38/f0bc38276511a9fb764558bd6bee0e8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Flowers Images – Browse 113,133 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/25/83/60/360_F_525836064_zlkNAkNUiuN8BAEgpun1qdBmJGFpalcN.jpg' alt='Groovy Flowers Images – Browse 113,133 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/25/83/60/360_F_525836064_zlkNAkNUiuN8BAEgpun1qdBmJGFpalcN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector seamless pattern of pink retro groovy flowers isolated on ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2R4NFEH/vector-seamless-pattern-of-pink-retro-groovy-flowers-isolated-on-checkered-chessboard-texture-background-2R4NFEH.jpg' alt='Vector seamless pattern of pink retro groovy flowers isolated on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2R4NFEH/vector-seamless-pattern-of-pink-retro-groovy-flowers-isolated-on-checkered-chessboard-texture-background-2R4NFEH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Modern White Space Wallpaper for a Minimalist Look</title>
+                    <meta name="description" content="Enhance your home with sleek white space wallpaper. This minimalist design choice creates a serene atmosphere while making your decor pop. Perfect for any room, it invites openness and tranquility, transforming your space into a stylish haven. Explore the elegance of simplicity today!">
+                    <meta name="keywords" content="white space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/white-space-wallpaper">
+                            <span itemprop="name">white space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Modern White Space Wallpaper for a Minimalist Look</h1>
+                <p>White space wallpaper is a minimalist design trend that embraces simplicity and serenity in interiors. Ideal for modern spaces, these wallpapers create a sense of openness and tranquility. They pair well with various decor styles, allowing furniture and artwork to stand out while keeping the ambiance calm and inviting. Perfect for creating a fresh, airy feel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Space by OmniTurd">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/738/738122.png' alt='White Space by OmniTurd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/738/738122.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star White Space Galaxy Android wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/85/9f/7e859f7ec4d02ad01582a1433d9423db.jpg' alt='Star White Space Galaxy Android wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/85/9f/7e859f7ec4d02ad01582a1433d9423db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black And White Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-white-space-5oaf3j9bxsr20g5v.jpg' alt='100+] Black And White Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-white-space-5oaf3j9bxsr20g5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Space, Grey Space, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/545/421/HD-wallpaper-white-space-grey-space.jpg' alt='White Space, Grey Space, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/545/421/HD-wallpaper-white-space-grey-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Friday Design Wallpaper: White Space - Paper Leaf">
+                                <img itemprop="contentUrl url" src='https://paper-leaf.com/app/uploads/2009/12/whitespace_1280.png' alt='Free Friday Design Wallpaper: White Space - Paper Leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper Leaf" />
+                                </span>
+                                <a href='https://paper-leaf.com/app/uploads/2009/12/whitespace_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | ac03-wallpaper-space-star-night ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ac03-wallpaper-space-star-night-dark-white-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | ac03-wallpaper-space-star-night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ac03-wallpaper-space-star-night-dark-white-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Prints & Printed Wall Decor | Society6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/d8/90/ffd89049e5b742d225e8c5e6b5175532.jpg' alt='Art Prints & Printed Wall Decor | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/d8/90/ffd89049e5b742d225e8c5e6b5175532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | mc29-wallpaper-earth-is-round-star ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-mc29-wallpaper-earth-is-round-star-space-white-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | mc29-wallpaper-earth-is-round-star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-mc29-wallpaper-earth-is-round-star-space-white-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Galaxy Wallpapers - Top Free White Galaxy Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/f5/90/98f5905c8d404107792e372ff0b027ba.jpg' alt='White Galaxy Wallpapers - Top Free White Galaxy Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/f5/90/98f5905c8d404107792e372ff0b027ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Planet HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/102/102670.jpg' alt='Download Sci Fi Planet HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/102/102670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

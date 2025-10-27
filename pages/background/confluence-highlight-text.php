@@ -1,0 +1,129 @@
+<title>Highlight Text in Confluence: Enhance Collaboration</title>
+                    <meta name="description" content="Discover how to effectively use highlight text in Confluence to improve communication and collaboration. Learn tips to make key information stand out and optimize your team's workflow. Perfect for both beginners and seasoned users looking to enhance their Confluence experience.">
+                    <meta name="keywords" content="confluence highlight text">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/confluence-highlight-text">
+                            <span itemprop="name">confluence highlight text</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Highlight Text in Confluence: Enhance Collaboration</h1>
+                <p>Confluence highlights enable users to emphasize essential text within pages, making important information stand out. By using the highlight feature, teams can draw attention to key concepts, decisions, or directives. This tool enhances collaboration and ensures crucial details are easily accessible, promoting effective communication across projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: How do I highlight text with color in confluence?">
+                                <img itemprop="contentUrl url" src='https://community.atlassian.com/t5/image/serverpage/image-id/190498iA80529C72F67B311?v=v2' alt='Solved: How do I highlight text with color in confluence?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2472">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Community" />
+                                </span>
+                                <a href='https://community.atlassian.com/t5/image/serverpage/image-id/190498iA80529C72F67B311?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Text Highlighter for Confluence | Atlassian Marketplace">
+                                <img itemprop="contentUrl url" src='https://marketplace.atlassian.com/product-listing/files/7a11ef71-c80e-4e3c-8d37-f70c0f449f33?fileType=image&mode=full-fit' alt='Text Highlighter for Confluence | Atlassian Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Marketplace" />
+                                </span>
+                                <a href='https://marketplace.atlassian.com/product-listing/files/7a11ef71-c80e-4e3c-8d37-f70c0f449f33?fileType=image&mode=full-fit' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: How do I highlight text with color in confluence?">
+                                <img itemprop="contentUrl url" src='https://community.atlassian.com/t5/image/serverpage/image-id/227172i02DDF09ED471EE50?v=v2' alt='Solved: How do I highlight text with color in confluence?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="882">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Community" />
+                                </span>
+                                <a href='https://community.atlassian.com/t5/image/serverpage/image-id/227172i02DDF09ED471EE50?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to highlight text in Confluence Cloud">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/b5fgx0yb/production/2cf17bbae594733f2096906d6b85c486c8297649-1961x866.webp?w=1400&auto=format' alt='How to highlight text in Confluence Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kolekti" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/b5fgx0yb/production/2cf17bbae594733f2096906d6b85c486c8297649-1961x866.webp?w=1400&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: How do I highlight text with color in confluence?">
+                                <img itemprop="contentUrl url" src='https://community.atlassian.com/t5/image/serverpage/image-id/145150i36AE45372A4231D2?v=v2' alt='Solved: How do I highlight text with color in confluence?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Community" />
+                                </span>
+                                <a href='https://community.atlassian.com/t5/image/serverpage/image-id/145150i36AE45372A4231D2?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to highlight text in Confluence Cloud - Atlassian Community">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/docsz/AD_4nXcTdLu7jfMmpDDpG9UxbkdbnBXHc1Ltb0bwfznj8rMviDR6kv_zIaJtuG-1AVsaIynA1x-iQCr1uuJwdIKhgo-Ai_6KsTgXhe-x0UJRI6kEboAw8yWCNBZF3Q1gpA-8RuxE1W4YQMABVns-zzzerbkpvMHT?key=esUjFWTJmjDmA4Salr_VfA' alt='How to highlight text in Confluence Cloud - Atlassian Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="273">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Community" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/docsz/AD_4nXcTdLu7jfMmpDDpG9UxbkdbnBXHc1Ltb0bwfznj8rMviDR6kv_zIaJtuG-1AVsaIynA1x-iQCr1uuJwdIKhgo-Ai_6KsTgXhe-x0UJRI6kEboAw8yWCNBZF3Q1gpA-8RuxE1W4YQMABVns-zzzerbkpvMHT?key=esUjFWTJmjDmA4Salr_VfA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to highlight text in Confluence Cloud">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/b5fgx0yb/production/362374a312f84f62ae0d403b2bb842740d3b0dd6-1564x604.webp?w=1400&auto=format' alt='How to highlight text in Confluence Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kolekti" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/b5fgx0yb/production/362374a312f84f62ae0d403b2bb842740d3b0dd6-1564x604.webp?w=1400&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Text Highlighter for Confluence | Atlassian Marketplace">
+                                <img itemprop="contentUrl url" src='https://marketplace.atlassian.com/product-listing/files/71280d66-a51c-42e3-8064-96f189a2a1b8?fileType=image&mode=full-fit' alt='Simple Text Highlighter for Confluence | Atlassian Marketplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Marketplace" />
+                                </span>
+                                <a href='https://marketplace.atlassian.com/product-listing/files/71280d66-a51c-42e3-8064-96f189a2a1b8?fileType=image&mode=full-fit' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to highlight text in Confluence Cloud">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/b5fgx0yb/production/1f736bbab9da5d66a1a2db6c280e71a99e05d3f8-1149x679.webp?w=1400&auto=format' alt='How to highlight text in Confluence Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kolekti" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/b5fgx0yb/production/1f736bbab9da5d66a1a2db6c280e71a99e05d3f8-1149x679.webp?w=1400&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to highlight text in Confluence Cloud - Atlassian Community">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/docsz/AD_4nXeAaRDLqL6SIMiMFMdIdDU2z2AcITOlym5LvFSjnz_enqcUduDeozPQ4DLI7oIKrAW_nqZ2wx0m_wPFUp-2-uaLUUEcSBHxkAQkI5eHl2pn4uGFmrpLlSpWfAkU96wMYH_lm3dJN7XBQ5JPy6MngpKDL2lM?key=esUjFWTJmjDmA4Salr_VfA' alt='How to highlight text in Confluence Cloud - Atlassian Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlassian Community" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/docsz/AD_4nXeAaRDLqL6SIMiMFMdIdDU2z2AcITOlym5LvFSjnz_enqcUduDeozPQ4DLI7oIKrAW_nqZ2wx0m_wPFUp-2-uaLUUEcSBHxkAQkI5eHl2pn4uGFmrpLlSpWfAkU96wMYH_lm3dJN7XBQ5JPy6MngpKDL2lM?key=esUjFWTJmjDmA4Salr_VfA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

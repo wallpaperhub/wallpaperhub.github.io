@@ -1,0 +1,129 @@
+<title>"Discover the Lyrics of 'Rolling in the Deep' by Adele"</title>
+                    <meta name="description" content="Explore the powerful lyrics of "Rolling in the Deep" by Adele. This emotional anthem captures themes of heartbreak and resilience, resonating deeply with listeners. Dive into the meaning behind the words and feel the intensity of Adele's voice. Perfect for fans of soulful music!">
+                    <meta name="keywords" content="rolling in the deep lyrics">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rolling-in-the-deep-lyrics">
+                            <span itemprop="name">rolling in the deep lyrics</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Lyrics of 'Rolling in the Deep' by Adele"</h1>
+                <p>"Rolling in the Deep" by Adele is an anthem of heartbreak and empowerment. The lyrics convey feelings of pain and betrayal while expressing a fierce strength that emerges from suffering. The song's powerful imagery and haunting melody connect with listeners, showcasing resilience and the determination to rise above adversity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adele - Rolling In The Deep (Lyrics)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yXWxgpUyMtU/sddefault.jpg' alt='Adele - Rolling In The Deep (Lyrics)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yXWxgpUyMtU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling in The Deep | PDF">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/719830270/original/9537bf43fb/1?v=1' alt='Rolling in The Deep | PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/719830270/original/9537bf43fb/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling In The Deep - Adele (Lyrics) #rollinginthedeep #adele #lyrics #fyp  #popular #trend #lyric #music #fypシ #viral #trending #lyricsvideo">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7193662388447530266&location=0&aid=1988' alt='Rolling In The Deep - Adele (Lyrics) #rollinginthedeep #adele #lyrics #fyp  #popular #trend #lyric #music #fypシ #viral #trending #lyricsvideo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7193662388447530266&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rolling in the deep">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/7a/68/c47a685ce81699cf529af1961ca3b6f2.jpg' alt='rolling in the deep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/7a/68/c47a685ce81699cf529af1961ca3b6f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling in The Deep Lyrics | PDF | Adele | Entertainment (General)">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/99565387/original/ad1880a0e8/1?v=1' alt='Rolling in The Deep Lyrics | PDF | Adele | Entertainment (General)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/99565387/original/ad1880a0e8/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling in the Deep ~ ADELE~ Lyrics - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yJ_1y3iNvwc/mqdefault.jpg' alt='Rolling in the Deep ~ ADELE~ Lyrics - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yJ_1y3iNvwc/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling in the Deep by Adele Vintage Song Lyrics on Parchment Greeting Card">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/rolling-in-the-deep-by-adele-vintage-song-lyrics-on-parchment-design-turnpike.jpg?&targetx=0&targety=0&imagewidth=500&imageheight=700&modelwidth=500&modelheight=700&backgroundcolor=755E36&orientation=1' alt='Rolling in the Deep by Adele Vintage Song Lyrics on Parchment Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instaprints" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/rolling-in-the-deep-by-adele-vintage-song-lyrics-on-parchment-design-turnpike.jpg?&targetx=0&targety=0&imagewidth=500&imageheight=700&modelwidth=500&modelheight=700&backgroundcolor=755E36&orientation=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Lyrics ideas | lyrics, great song lyrics, song quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ac/13/63/ac1363c0f2bde0607ae94e831d9b8558.jpg' alt='7 Lyrics ideas | lyrics, great song lyrics, song quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ac/13/63/ac1363c0f2bde0607ae94e831d9b8558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling In The Deep - Adele (Lyrics)   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AIYpdjQVidc/maxresdefault.jpg' alt='Rolling In The Deep - Adele (Lyrics)   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AIYpdjQVidc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rolling in the Deep - Adele | Song Lyrics">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7093113768284032282&location=0&aid=1988' alt='Rolling in the Deep - Adele | Song Lyrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7093113768284032282&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

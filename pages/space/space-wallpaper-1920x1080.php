@@ -1,0 +1,129 @@
+<title>Stunning 1920x1080 Space Wallpapers for Cosmic Vibes</title>
+                    <meta name="description" content="Discover a collection of mesmerizing space wallpapers in 1920x1080 resolution. Perfectly designed for your screens, these cosmic images add a touch of the universe's beauty to your device, inspiring creativity and tranquility. Transform your digital environment with vibrant starscapes and breathtaking galaxies today!">
+                    <meta name="keywords" content="space wallpaper 1920x1080">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-wallpaper-1920x1080">
+                            <span itemprop="name">space wallpaper 1920x1080</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 1920x1080 Space Wallpapers for Cosmic Vibes</h1>
+                <p>Elevate your device's aesthetic with stunning space wallpaper in 1920x1080 resolution. Immerse yourself in breathtaking images of galaxies, stars, and nebulae that inspire wonder and creativity. Perfect for desktops and laptops, these wallpapers bring the beauty of the universe right to your screen, making every glance a journey through space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1100+] Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-sjryfre8k8f6i3ge.jpg' alt='1100+] Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-sjryfre8k8f6i3ge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space wallpaper [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1fgdzur5shr11.jpg?width=640&crop=smart&auto=webp&s=e6c841c66281d2f30ef1b2d0af16fc4a974d2ee9' alt='Space wallpaper [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1fgdzur5shr11.jpg?width=640&crop=smart&auto=webp&s=e6c841c66281d2f30ef1b2d0af16fc4a974d2ee9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1920x1080 Hd Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-hd-space-gq0s9dv5gwk75txg.jpg' alt='100+] 1920x1080 Hd Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-hd-space-gq0s9dv5gwk75txg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Wallpapers (44 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/4/194442-1920x1080-desktop-full-hd-outer-space-background.jpg' alt='Outer Space Wallpapers (44 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/4/194442-1920x1080-desktop-full-hd-outer-space-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ow6unus1l7c71.jpg?auto=webp&s=93de7908da590b15a2f6bfdc8c703b4e34ab266e' alt='Space (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ow6unus1l7c71.jpg?auto=webp&s=93de7908da590b15a2f6bfdc8c703b4e34ab266e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1920x1080 clouds, fantasy, space, landscape ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1920x1080/72a2b5/clouds-fantasy-space-planets.jpg' alt='Download wallpaper 1920x1080 clouds, fantasy, space, landscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1920x1080/72a2b5/clouds-fantasy-space-planets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg' alt='Space Wallpaper Photos, Download The BEST Free Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6070">
+                                <meta itemprop="height" content="3414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galactic Nebula: Sci-Fi Space HD Wallpaper by DUBSTEP">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/106/thumb-1920-106826.jpg' alt='Galactic Nebula: Sci-Fi Space HD Wallpaper by DUBSTEP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/106/thumb-1920-106826.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper (Galaxy, Milky Way) #25599">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/space-1920x1080-milky-way-25599.jpg' alt='Space Wallpaper (Galaxy, Milky Way) #25599'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/space-1920x1080-milky-way-25599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Space Wallpapers 1080p on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/a9/d8/f5a9d883538a43f5c61935815804477a.jpg' alt='   Space Wallpapers 1080p on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/a9/d8/f5a9d883538a43f5c61935815804477a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Captivating Moonshine: Stunning Pictures and Stories</title>
+                    <meta name="description" content="Discover the allure of moonshine through captivating pictures that showcase the beauty and craftsmanship behind this timeless spirit. Explore our collection of stunning visuals that highlight the rich history and artistry of moonshine, perfect for enthusiasts and curious minds alike.">
+                    <meta name="keywords" content="moonshine pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moonshine-pictures">
+                            <span itemprop="name">moonshine pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Moonshine: Stunning Pictures and Stories</h1>
+                <p>Moonshine pictures capture the essence of handcrafted spirits and a rich cultural heritage. From rustic stills hidden in the woods to glistening jars filled with amber liquid, these images tell stories of tradition, rebellion, and ingenuity. Explore the artistry and allure of moonshine through stunning visuals that celebrate its mystique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ORIGINAL">
+                                <img itemprop="contentUrl url" src='https://olesmoky.com/cdn/shop/products/OSM_original8_552x.png?v=1525121470' alt='ORIGINAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="245">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ole Smoky Moonshine" />
+                                </span>
+                                <a href='https://olesmoky.com/cdn/shop/products/OSM_original8_552x.png?v=1525121470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sun Don't Shine on a Moonshine Still — The Airship">
+                                <img itemprop="contentUrl url" src='http://airshipdaily.com/assets/feature/moonshine04.jpg' alt='The Sun Don't Shine on a Moonshine Still — The Airship'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Airship" />
+                                </span>
+                                <a href='http://airshipdaily.com/assets/feature/moonshine04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonshine - Deep Creek Distilling">
+                                <img itemprop="contentUrl url" src='https://www.deepcreekdistilling.com/wp-content/uploads/2021/08/242886398_146044177730147_6573928788062372420_n.jpg' alt='Moonshine - Deep Creek Distilling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deep Creek Distilling" />
+                                </span>
+                                <a href='https://www.deepcreekdistilling.com/wp-content/uploads/2021/08/242886398_146044177730147_6573928788062372420_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver Moon Moonshine 80 | Backroads Liquor House">
+                                <img itemprop="contentUrl url" src='https://backroadsliquorhouse.com/cdn/shop/files/silver-moon-moonshine-backroads-liquor-house_decf1289-8c9c-4580-82e4-8402c84c588e.jpg' alt='Silver Moon Moonshine 80 | Backroads Liquor House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1230">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backroads Liquor House" />
+                                </span>
+                                <a href='https://backroadsliquorhouse.com/cdn/shop/files/silver-moon-moonshine-backroads-liquor-house_decf1289-8c9c-4580-82e4-8402c84c588e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,400+ Moonshine Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1268937040/photo/moonshine-still.jpg?s=612x612&w=0&k=20&c=4-xfcOUPYnKEindb1eqpHVDzlQ9jDih1zliqevngBpc=' alt='5,400+ Moonshine Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1268937040/photo/moonshine-still.jpg?s=612x612&w=0&k=20&c=4-xfcOUPYnKEindb1eqpHVDzlQ9jDih1zliqevngBpc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Moonshine Flavors and Recipes for the Holidays - Midnight ...">
+                                <img itemprop="contentUrl url" src='https://midnightmoonshine.com/wp-content/uploads/2021/11/Midnight-Moon_Peppermint_w_cocktail_h-Blog-1200x799-1.jpg' alt='Winter Moonshine Flavors and Recipes for the Holidays - Midnight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Midnight Moon Moonshine" />
+                                </span>
+                                <a href='https://midnightmoonshine.com/wp-content/uploads/2021/11/Midnight-Moon_Peppermint_w_cocktail_h-Blog-1200x799-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 55 Gallon Moonshine Still (Rocky Mountain High Edition ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/670f72_dea22688660d437e8586c468eb51dd7f~mv2.jpg/v1/fill/w_520,h_696,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/670f72_dea22688660d437e8586c468eb51dd7f~mv2.jpg' alt='Custom 55 Gallon Moonshine Still (Rocky Mountain High Edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ace Custom Copper" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/670f72_dea22688660d437e8586c468eb51dd7f~mv2.jpg/v1/fill/w_520,h_696,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/670f72_dea22688660d437e8586c468eb51dd7f~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonshine Goes Legit - Tallahassee Magazine">
+                                <img itemprop="contentUrl url" src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.tallahasseemagazine.com/content/uploads/2023/01/r/d/moonshine-goes-legit-1.jpg' alt='Moonshine Goes Legit - Tallahassee Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tallahassee Magazine" />
+                                </span>
+                                <a href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.tallahasseemagazine.com/content/uploads/2023/01/r/d/moonshine-goes-legit-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="615 Moonshine Still Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/photo-captures-old-fashioned-moonshine-still-nestled-lush-wooded-area-weathered-barrel-stone-furnace-rustic-337942985.jpg' alt='615 Moonshine Still Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/photo-captures-old-fashioned-moonshine-still-nestled-lush-wooded-area-weathered-barrel-stone-furnace-rustic-337942985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonshine | Meaning, History, Trivia, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/28/250228-050-1514AFC4/commercial-moonshine-corn-liquor.jpg?w=400&h=225&c=crop' alt='Moonshine | Meaning, History, Trivia, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/28/250228-050-1514AFC4/commercial-moonshine-corn-liquor.jpg?w=400&h=225&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

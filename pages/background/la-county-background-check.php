@@ -1,0 +1,129 @@
+<title>LA County Background Checks: Everything You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of LA County background checks, including how to request one, what it entails, and its significance for employment and community safety. Navigate the process easily with our concise guide tailored for anyone needing essential background information in Los Angeles County.">
+                    <meta name="keywords" content="la county background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/la-county-background-check">
+                            <span itemprop="name">la county background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LA County Background Checks: Everything You Need to Know</h1>
+                <p>LA County background checks are essential for employment, housing, and volunteering. Conducted by the Los Angeles County Sheriff's Department, these checks verify an individual's criminal history, ensuring safety in various sectors. Understanding the process and requirements can streamline the application and enhance trust in community interactions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Criminal Background Check Rules & New Forms ...">
+                                <img itemprop="contentUrl url" src='http://www.complianceposter.com/wp-content/uploads/2017/03/LAFCO-1-235x300.jpg' alt='Los Angeles Criminal Background Check Rules & New Forms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compliance Poster Company" />
+                                </span>
+                                <a href='http://www.complianceposter.com/wp-content/uploads/2017/03/LAFCO-1-235x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA County Changes Background Check Rules: What to Know | DISA">
+                                <img itemprop="contentUrl url" src='https://disa.com/uploads/general/LA-County-Removes-Date-of-Birth-on-Background-Checks.jpg' alt='LA County Changes Background Check Rules: What to Know | DISA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DISA Global Solutions" />
+                                </span>
+                                <a href='https://disa.com/uploads/general/LA-County-Removes-Date-of-Birth-on-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles County Background Check | CaliforniaPublicRecords.org">
+                                <img itemprop="contentUrl url" src='http://californiapublicrecords.org/wp-content/uploads/2021/07/Los-Angeles-County-Background-Check.jpg' alt='Los Angeles County Background Check | CaliforniaPublicRecords.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Public Records" />
+                                </span>
+                                <a href='http://californiapublicrecords.org/wp-content/uploads/2021/07/Los-Angeles-County-Background-Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impacts Of Los Angeles Court's Revised Search Procedures On ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/65d67bea8dcef18971fbda3a/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds' alt='Impacts Of Los Angeles Court's Revised Search Procedures On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/65d67bea8dcef18971fbda3a/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Know About LA's New Background Check Regulations">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63edbb9dbbc5991c8d328c5a/660183a770ae50a5bf4f1f4b_LA%20county%20court%20.jpeg' alt='What to Know About LA's New Background Check Regulations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fama" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63edbb9dbbc5991c8d328c5a/660183a770ae50a5bf4f1f4b_LA%20county%20court%20.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delay in background checks affects people seeking employment ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/1e8ac20/2147483647/strip/true/crop/6720x4480+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F62%2Fa9%2Fbbfc14fe4d1bb949ccabafbddf59%2Fla-photos-1staff-526978-me-video-arraignment-05-mjc.jpg' alt='Delay in background checks affects people seeking employment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/1e8ac20/2147483647/strip/true/crop/6720x4480+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F62%2Fa9%2Fbbfc14fe4d1bb949ccabafbddf59%2Fla-photos-1staff-526978-me-video-arraignment-05-mjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Ruling Poses Challenges in Los Angeles County Background ...">
+                                <img itemprop="contentUrl url" src='https://assets.equifax.com/wfs/TV-new-ruling-poses-challenges-in-los-angeles-county-background-screenings-1000x400.png' alt='New Ruling Poses Challenges in Los Angeles County Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TotalVerify™ from Equifax" />
+                                </span>
+                                <a href='https://assets.equifax.com/wfs/TV-new-ruling-poses-challenges-in-los-angeles-county-background-screenings-1000x400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check - Los Angeles Faces More Challenges - JDP">
+                                <img itemprop="contentUrl url" src='https://www.jdp.com/wp-content/uploads/2024/03/Los-Angeles-Faces-More-Background-Check-Challenges.jpg' alt='Background Check - Los Angeles Faces More Challenges - JDP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JDP" />
+                                </span>
+                                <a href='https://www.jdp.com/wp-content/uploads/2024/03/Los-Angeles-Faces-More-Background-Check-Challenges.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA County's Fair Chance Ordinance Just Took Effect">
+                                <img itemprop="contentUrl url" src='https://www.shrm.org/content/dam/en/shrm/topics-tools/legal-compliance/criminal_background_check_3_p4jb7y.jpeg' alt='LA County's Fair Chance Ordinance Just Took Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SHRM" />
+                                </span>
+                                <a href='https://www.shrm.org/content/dam/en/shrm/topics-tools/legal-compliance/criminal_background_check_3_p4jb7y.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Metropolitan Area Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/metro-area-maps/Los%20Angeles%20Metro%20Area.png?width=602&height=364&name=Los%20Angeles%20Metro%20Area.png' alt='Los Angeles Metropolitan Area Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/metro-area-maps/Los%20Angeles%20Metro%20Area.png?width=602&height=364&name=Los%20Angeles%20Metro%20Area.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

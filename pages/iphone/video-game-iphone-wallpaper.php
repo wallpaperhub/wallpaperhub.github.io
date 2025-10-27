@@ -1,0 +1,129 @@
+<title>Awesome Video Game iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a treasure trove of video game iPhone wallpapers that elevate your device's look. Perfect for gamers, our curated selection features vibrant designs and beloved characters. Transform your phone into a gaming masterpiece today! Download now and make your iPhone reflect your gaming spirit!">
+                    <meta name="keywords" content="video game iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/video-game-iphone-wallpaper">
+                            <span itemprop="name">video game iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Video Game iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning video game wallpapers! Choose from a vast collection featuring your favorite characters and landscapes. Whether you're into action-packed adventures or whimsical designs, there's a wallpaper that reflects your gaming passion. Dive into the world of gaming every time you unlock your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Videogames are life">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/61/be/0161bee48c2f31f4cae1c315a09b1c4d.jpg' alt='Videogames are life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/61/be/0161bee48c2f31f4cae1c315a09b1c4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Life iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/92/6a/c5926ab03a730ce2e4e904028ecaedfa.jpg' alt='Gamer Life iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/92/6a/c5926ab03a730ce2e4e904028ecaedfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-gaming-wbf700gl587cp614.jpg' alt='100+] Iphone Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-gaming-wbf700gl587cp614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Gamers Wallpaper | Sfondi iphone, Carta da parati del ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c4/cc/8b/c4cc8b75c256ab7ddf810bec0d31e5fd.jpg' alt='Awesome Gamers Wallpaper | Sfondi iphone, Carta da parati del ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c4/cc/8b/c4cc8b75c256ab7ddf810bec0d31e5fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Gaming Wallpaper HQ : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jycarm9fl5v41.png?auto=webp&s=df6069e4d221e62ad8b15a9ff2d736ce6a843998' alt='iPhone Gaming Wallpaper HQ : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jycarm9fl5v41.png?auto=webp&s=df6069e4d221e62ad8b15a9ff2d736ce6a843998' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found this cool N64 phone wallpaper but there are two references I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/clcdqo2kek9b1.jpg' alt='Found this cool N64 phone wallpaper but there are two references I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/clcdqo2kek9b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GAMER, play, pro, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/131/575/HD-wallpaper-gamer-play-pro.jpg' alt='GAMER, play, pro, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/131/575/HD-wallpaper-gamer-play-pro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8bit Video Game Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/8bit-video-game-retro-aesthetic-iphone-qqbqx8tom6414h34.jpg' alt='8bit Video Game Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/8bit-video-game-retro-aesthetic-iphone-qqbqx8tom6414h34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming Wallpapers Best Game 4K on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/f6/ae/5af6aee2-05c2-558c-3589-9856e5993d0f/3.png/643x0w.jpg' alt='Gaming Wallpapers Best Game 4K on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/f6/ae/5af6aee2-05c2-558c-3589-9856e5993d0f/3.png/643x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Engaging Iphone With Arcade Game Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/engaging-iphone-with-arcade-game-wallpaper-a2be8yhfihws2xtu.jpg' alt='Download Engaging Iphone With Arcade Game Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/engaging-iphone-with-arcade-game-wallpaper-a2be8yhfihws2xtu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

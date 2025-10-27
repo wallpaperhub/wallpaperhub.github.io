@@ -1,0 +1,129 @@
+<title>Stunning Lavender Glitter Background: Sparkle & Charm</title>
+                    <meta name="description" content="Discover the elegance of a lavender glitter background, perfect for enhancing your designs, events, or social media posts. This captivating backdrop adds a touch of sparkle and charm, making any project stand out. Elevate your aesthetic with a blend of soothing lavender and dazzling glitter!">
+                    <meta name="keywords" content="lavender glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lavender-glitter-background">
+                            <span itemprop="name">lavender glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lavender Glitter Background: Sparkle & Charm</h1>
+                <p>A lavender glitter background combines the soothing tones of lavender with a sparkling, glamorous touch. Perfect for creating stunning visuals for events, digital designs, or social media posts. This enchanting backdrop instantly elevates any project, leaving a sense of elegance and charm that captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/light-purple-glittery-background_53876-147530.jpg' alt='Lavender Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/light-purple-glittery-background_53876-147530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/purple-glitter-background_53876-74679.jpg' alt='Lavender Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/purple-glitter-background_53876-74679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,166 Lavender Glitter Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/cute-purple-baby-girl-pattern-260nw-1417516535.jpg' alt='7,166 Lavender Glitter Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/cute-purple-baby-girl-pattern-260nw-1417516535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/illustration-purple-glitter-cool-picture-backgrounds-wallpapers_181624-19675.jpg' alt='Lavender Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/illustration-purple-glitter-cool-picture-backgrounds-wallpapers_181624-19675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Background Images – Browse 650,083 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/79/83/36/360_F_179833652_RGv6AQWSKxmS3xIOIfy9n9FOsC330sPH.jpg' alt='Purple Glitter Background Images – Browse 650,083 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/79/83/36/360_F_179833652_RGv6AQWSKxmS3xIOIfy9n9FOsC330sPH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COLOR ❤ LILA + LAVANDA ♡ #Sparkle #glitter #lavender">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/c2/58/24c2582c677d56e4c2f79aa29ae200a6.jpg' alt='COLOR ❤ LILA + LAVANDA ♡ #Sparkle #glitter #lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/c2/58/24c2582c677d56e4c2f79aa29ae200a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Purple Glitter Sparkle Background Stock Photo - Download ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/666866834/photo/lavender-purple-glitter-sparkle-background.jpg?s=1024x1024&w=is&k=20&c=ih6W8bcizQmwutiD1LCY8YRdVANfjiPV9Lis2To5o8Q=' alt='Lavender Purple Glitter Sparkle Background Stock Photo - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/666866834/photo/lavender-purple-glitter-sparkle-background.jpg?s=1024x1024&w=is&k=20&c=ih6W8bcizQmwutiD1LCY8YRdVANfjiPV9Lis2To5o8Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Background Images – Browse 650,083 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/73/75/71/360_F_273757143_wKsNxt1Wc1xjvZJcRGBRq6eXJGIXUUMG.jpg' alt='Purple Glitter Background Images – Browse 650,083 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/73/75/71/360_F_273757143_wKsNxt1Wc1xjvZJcRGBRq6eXJGIXUUMG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Purple Glitter Sparkle Texture And Lilac Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/923136428/photo/lavender-purple-glitter-sparkle-texture-and-lilac-background.jpg?s=1024x1024&w=is&k=20&c=aTaPJaxFtMwIOTkyRgwjZwnaJBCfYi7SwfmdVUJJreg=' alt='Lavender Purple Glitter Sparkle Texture And Lilac Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/923136428/photo/lavender-purple-glitter-sparkle-texture-and-lilac-background.jpg?s=1024x1024&w=is&k=20&c=aTaPJaxFtMwIOTkyRgwjZwnaJBCfYi7SwfmdVUJJreg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,166 Lavender Glitter Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1607825476.jpg' alt='7,166 Lavender Glitter Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ombre-glitter-texture-sparkling-colorful-260nw-1607825476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

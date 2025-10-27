@@ -1,0 +1,129 @@
+<title>Stunning SZA CTRL Wallpapers for Your Device</title>
+                    <meta name="description" content="Transform your device with SZA CTRL wallpapers! Explore a collection of stunning visuals inspired by SZA's empowering album. Perfect for fans seeking to refresh their screens with artistic and vibrant designs that reflect confidence and creativity. Download yours today!">
+                    <meta name="keywords" content="sza ctrl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sza-ctrl-wallpaper">
+                            <span itemprop="name">sza ctrl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning SZA CTRL Wallpapers for Your Device</h1>
+                <p>Discover the perfect SZA CTRL wallpaper to elevate your device's aesthetic! Featuring vibrant colors and iconic imagery from SZA's CTRL album, these wallpapers embody the spirit of empowerment and self-love. Refresh your phone or computer with stunning visuals that inspire confidence and creativity, celebrating the essence of SZA's music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I extended the CTRL Album cover in honor of "Drew barrymores" 6th ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-extended-the-ctrl-album-cover-in-honor-of-drew-barrymores-v0-ddslzk6ms1ca1.png?width=2496&format=png&auto=webp&s=e0dd89739391408735a824d3db754f8b1731edf7' alt='I extended the CTRL Album cover in honor of "Drew barrymores" 6th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2496">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-extended-the-ctrl-album-cover-in-honor-of-drew-barrymores-v0-ddslzk6ms1ca1.png?width=2496&format=png&auto=webp&s=e0dd89739391408735a824d3db754f8b1731edf7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA, Ctrl - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/b0/41/9fb041673843ffd84a8a7a57bb6130ca.jpg' alt='SZA, Ctrl - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/b0/41/9fb041673843ffd84a8a7a57bb6130ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Created my version of @sza's CTRL album. I always thought her ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2699197820973652557' alt='Created my version of @sza's CTRL album. I always thought her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2699197820973652557' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA: CTRL Album Review | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/593ed23cf6f585756595affa/master/pass/b24dfb11.jpg' alt='SZA: CTRL Album Review | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/593ed23cf6f585756595affa/master/pass/b24dfb11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sza #ctrl">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/7f/1c/377f1c56327c14088b906167c0d88ed0.jpg' alt='sza #ctrl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/7f/1c/377f1c56327c14088b906167c0d88ed0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Philosophical Narrative of SZA's Ctrl – WRVU Nashville">
+                                <img itemprop="contentUrl url" src='http://wrvu.org/wp-content/uploads/2017/09/rs-sza-v1-caef9ee6-c938-4f82-a50d-f05fb2fef08e.jpg' alt='The Philosophical Narrative of SZA's Ctrl – WRVU Nashville'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRVU Nashville" />
+                                </span>
+                                <a href='http://wrvu.org/wp-content/uploads/2017/09/rs-sza-v1-caef9ee6-c938-4f82-a50d-f05fb2fef08e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="&Sza &ctrl album cover Cool Wall Decor Art Print posters for room aesthetic  Frameless Gift 12 x 18 inch(30cm x 46cm)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/sza-ctrl-album-cover-Cool-Wall-Decor-Art-Print-posters-for-room-aesthetic-Frameless-Gift-16x24inch-40x60cm_abc287c6-c77f-4f4e-a203-3aa1e04696d8.1d645467eab71ff8847c1a2d64a2e252.jpeg' alt='&Sza &ctrl album cover Cool Wall Decor Art Print posters for room aesthetic  Frameless Gift 12 x 18 inch(30cm x 46cm)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/sza-ctrl-album-cover-Cool-Wall-Decor-Art-Print-posters-for-room-aesthetic-Frameless-Gift-16x24inch-40x60cm_abc287c6-c77f-4f4e-a203-3aa1e04696d8.1d645467eab71ff8847c1a2d64a2e252.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA Ctrl Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9855546.jpg' alt='SZA Ctrl Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9855546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA - Ctrl">
+                                <img itemprop="contentUrl url" src='http://whitenoiserecords.org/cdn/shop/products/sza-ctrl.jpg?v=1628769421' alt='SZA - Ctrl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White Noise Records" />
+                                </span>
+                                <a href='http://whitenoiserecords.org/cdn/shop/products/sza-ctrl.jpg?v=1628769421' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SZA's Ctrl : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/8MrQnGquoVhUPpUUJI6QnWqutChyhuTp745YkZJuMOs.jpg?width=640&crop=smart&auto=webp&s=f5607ff47568241fec1b2db29b023d8f0559219f' alt='SZA's Ctrl : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/8MrQnGquoVhUPpUUJI6QnWqutChyhuTp745YkZJuMOs.jpg?width=640&crop=smart&auto=webp&s=f5607ff47568241fec1b2db29b023d8f0559219f' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

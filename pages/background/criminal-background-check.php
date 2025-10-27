@@ -1,0 +1,129 @@
+<title>Essential Guide to Criminal Background Checks</title>
+                    <meta name="description" content="Discover the significance of criminal background checks. Learn how they work, what information is revealed, and why they matter for hiring, renting, and personal safety. Get informed and make confident decisions with this concise guide to understanding criminal history checks.">
+                    <meta name="keywords" content="criminal background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-background-check">
+                            <span itemprop="name">criminal background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Criminal Background Checks</h1>
+                <p>Understanding criminal background checks is essential for employers, property managers, and individuals seeking to ensure safety and trust. These checks uncover an individual’s criminal history, including arrests and convictions, helping to make informed decisions. Stay informed on the process and its implications for security and peace of mind.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navigating the Complex Landscape of Employment Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.californiaemploymentlawreport.com/wp-content/uploads/sites/747/2024/04/Background-checks.png' alt='Navigating the Complex Landscape of Employment Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Employment Law Report" />
+                                </span>
+                                <a href='https://www.californiaemploymentlawreport.com/wp-content/uploads/sites/747/2024/04/Background-checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Check in California - Things to Know">
+                                <img itemprop="contentUrl url" src='https://cdn-apgml.nitrocdn.com/LebpnhtoivqQZrhySxTgIGIqkErReVqW/assets/images/optimized/rev-ec464ea/s3.amazonaws.com/law-media/uploads/131/67910/large/criminal_background_check_ss.jpg' alt='Criminal Background Check in California - Things to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shouse Law Group" />
+                                </span>
+                                <a href='https://cdn-apgml.nitrocdn.com/LebpnhtoivqQZrhySxTgIGIqkErReVqW/assets/images/optimized/rev-ec464ea/s3.amazonaws.com/law-media/uploads/131/67910/large/criminal_background_check_ss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applicant with Criminal History? Follow Process Before Revoking ...">
+                                <img itemprop="contentUrl url" src='https://hrwatchdog.calchamber.com/wp-content/uploads/RequestforCriminalBackgroundCheck.jpg' alt='Applicant with Criminal History? Follow Process Before Revoking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HRWatchdog - California Chamber of Commerce" />
+                                </span>
+                                <a href='https://hrwatchdog.calchamber.com/wp-content/uploads/RequestforCriminalBackgroundCheck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Employers: Beware the Background Check Bugaboos ...">
+                                <img itemprop="contentUrl url" src='https://www.calpeculiarities.com/wp-content/uploads/sites/20/2018/04/iStock-853952274-320x213.jpg' alt='California Employers: Beware the Background Check Bugaboos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Peculiarities Employment Law Blog" />
+                                </span>
+                                <a href='https://www.calpeculiarities.com/wp-content/uploads/sites/20/2018/04/iStock-853952274-320x213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Criminal Record Checks for ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422bfbaa60940acec0246_62fbe57d7e92a583766972c7_Everything%2520You%2520Need%2520to%2520Know%2520Criminal%2520Record%2520Checks.webp' alt='Everything You Need to Know About Criminal Record Checks for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/642422bfbaa60940acec0246_62fbe57d7e92a583766972c7_Everything%2520You%2520Need%2520to%2520Know%2520Criminal%2520Record%2520Checks.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Landlords Can Use Criminal Background Checks To Screen Tenants ...">
+                                <img itemprop="contentUrl url" src='https://rentsafe.lease/wp-content/uploads/2021/11/criminal-background-check.jpg' alt='How Landlords Can Use Criminal Background Checks To Screen Tenants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentSafe" />
+                                </span>
+                                <a href='https://rentsafe.lease/wp-content/uploads/2021/11/criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks for Employment [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' alt='Criminal Background Checks for Employment [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2020/11/criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assessing the Impact of Automatic Record Clearance in California ...">
+                                <img itemprop="contentUrl url" src='https://capolicylab.org/wp-content/uploads/2021/05/Criminal-Record-Clearance-1110x550-1-1024x507.jpg' alt='Assessing the Impact of Automatic Record Clearance in California ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Policy Lab" />
+                                </span>
+                                <a href='https://capolicylab.org/wp-content/uploads/2021/05/Criminal-Record-Clearance-1110x550-1-1024x507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a nationwide criminal background check? | HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' alt='What is a nationwide criminal background check? | HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='California State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

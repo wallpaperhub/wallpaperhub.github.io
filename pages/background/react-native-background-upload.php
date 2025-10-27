@@ -1,0 +1,129 @@
+<title>Efficient Background Uploads in React Native</title>
+                    <meta name="description" content="Discover how to implement background uploads in your React Native app effortlessly. Enhance your mobile experience by keeping file uploads running smoothly, even when your app is not in the foreground. Perfect for handling large files, this guide helps you integrate the React Native Background Upload library with ease.">
+                    <meta name="keywords" content="react-native-background-upload">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/react-native-background-upload">
+                            <span itemprop="name">react-native-background-upload</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Efficient Background Uploads in React Native</h1>
+                <p>React Native Background Upload is a powerful library for seamlessly uploading files in the background, even when the app is closed. This feature enhances user experience by allowing uploads to continue uninterrupted. With easy integration and support for both Android and iOS, it's perfect for applications handling large files or media.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - Vydia/react-native-background-upload: Upload files in ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/cc10a64d568a5d6e8a5a7870b69b59f30f46549518b02ba346caad875abed01b/Vydia/react-native-background-upload' alt='GitHub - Vydia/react-native-background-upload: Upload files in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/cc10a64d568a5d6e8a5a7870b69b59f30f46549518b02ba346caad875abed01b/Vydia/react-native-background-upload' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - cristianoccazinsp/react-native-background-upload: Fork ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/4bcf76f365dcbb4d611c9a03f788ea4118002267d84e432427a5a9ce3dc7f4c4/cristianoccazinsp/react-native-background-upload' alt='GitHub - cristianoccazinsp/react-native-background-upload: Fork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/4bcf76f365dcbb4d611c9a03f788ea4118002267d84e432427a5a9ce3dc7f4c4/cristianoccazinsp/react-native-background-upload' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Easy Ways to Add React Native Background Image">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/sitereq-production/image/upload/PostContentImage/565x380/React-Native-Background-Image-Running-App12212019120003' alt='Two Easy Ways to Add React Native Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SiteReq" />
+                                </span>
+                                <a href='https://res.cloudinary.com/sitereq-production/image/upload/PostContentImage/565x380/React-Native-Background-Image-Running-App12212019120003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jeremistadler/react-native-background-upload CDN by jsDelivr - A ...">
+                                <img itemprop="contentUrl url" src='https://www.jsdelivr.com/open-graph/image/npm/@jeremistadler/react-native-background-upload' alt='jeremistadler/react-native-background-upload CDN by jsDelivr - A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jsDelivr" />
+                                </span>
+                                <a href='https://www.jsdelivr.com/open-graph/image/npm/@jeremistadler/react-native-background-upload' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - MostafaTaghipour/react-native-upload-manager: The React ...">
+                                <img itemprop="contentUrl url" src='https://raw.githubusercontent.com/MostafaTaghipour/react-native-upload-manager/main/screenshots/2.png' alt='GitHub - MostafaTaghipour/react-native-upload-manager: The React ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://raw.githubusercontent.com/MostafaTaghipour/react-native-upload-manager/main/screenshots/2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ktree/react-native-background-upload CDN by jsDelivr - A CDN for ...">
+                                <img itemprop="contentUrl url" src='https://www.jsdelivr.com/open-graph/image/npm/@ktree/react-native-background-upload' alt='ktree/react-native-background-upload CDN by jsDelivr - A CDN for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jsDelivr" />
+                                </span>
+                                <a href='https://www.jsdelivr.com/open-graph/image/npm/@ktree/react-native-background-upload' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to upload large files when app is in background state? | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*lF_A_HniZbQpxQNgz-CNyw.jpeg' alt='How to upload large files when app is in background state? | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stackademic" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*lF_A_HniZbQpxQNgz-CNyw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uploading from background not working at all · Issue #325 · Vydia ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/627f640aed8e6759c507670b2570ca467871959cc01ba6a8199d3462dcb6f762/Vydia/react-native-background-upload/issues/325' alt='Uploading from background not working at all · Issue #325 · Vydia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/627f640aed8e6759c507670b2570ca467871959cc01ba6a8199d3462dcb6f762/Vydia/react-native-background-upload/issues/325' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handle Background File Uploads in React Native | JavaScript in ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*ZHPLogBpVXNTJosR' alt='Handle Background File Uploads in React Native | JavaScript in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JavaScript in Plain English" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*ZHPLogBpVXNTJosR' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="react-native-background-upload examples - CodeSandbox">
+                                <img itemprop="contentUrl url" src='https://codesandbox.io/api/v1/sandboxes/pkhi5/screenshot.png' alt='react-native-background-upload examples - CodeSandbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeSandbox" />
+                                </span>
+                                <a href='https://codesandbox.io/api/v1/sandboxes/pkhi5/screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Synthwave iPhone Wallpapers: Retro Neon Aesthetics</title>
+                    <meta name="description" content="Discover stunning synthwave wallpapers for your iPhone! Embrace the retro vibe with neon colors and 80s-inspired designs that transform your screen into a vibrant showcase. Perfect for lovers of nostalgia and futuristic art. Download now and elevate your mobile experience!">
+                    <meta name="keywords" content="synthwave wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/synthwave-wallpaper-iphone">
+                            <span itemprop="name">synthwave wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Synthwave iPhone Wallpapers: Retro Neon Aesthetics</h1>
+                <p>Immerse yourself in the vibrant retro-future aesthetic of synthwave with captivating iPhone wallpapers. Perfectly designed to evoke nostalgia, these wallpapers feature neon colors, 80s-inspired graphics, and dreamy landscapes, turning your device into a piece of art. Experience the sound and feel of a bygone era every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A friend asked me to make a synthwave themed iphone X wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/atyw9326due31.jpg' alt='A friend asked me to make a synthwave themed iphone X wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/atyw9326due31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6742487.jpg' alt='Synthwave iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6742487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave, blue, higgsas, iphone, mountain, old school, outrun ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/994/942/HD-wallpaper-synthwave-blue-higgsas-iphone-mountain-old-school-outrun-purple-retro-samsung-sun-vaporwave.jpg' alt='Synthwave, blue, higgsas, iphone, mountain, old school, outrun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/994/942/HD-wallpaper-synthwave-blue-higgsas-iphone-mountain-old-school-outrun-purple-retro-samsung-sun-vaporwave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Car to Synthwave City">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/d0/9e/ead09e707a76943fea7a5c1ad66fdefb.jpg' alt='Retro Car to Synthwave City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/d0/9e/ead09e707a76943fea7a5c1ad66fdefb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Saturn Synthwave Ios 16 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/saturn-synthwave-ios-16-jple7euvrdsgmavj.jpg' alt='Download Saturn Synthwave Ios 16 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/saturn-synthwave-ios-16-jple7euvrdsgmavj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights of city Synthwave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/68/02/2c680287a7e4c0f61113ca9500e623f1.jpg' alt='Lights of city Synthwave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/68/02/2c680287a7e4c0f61113ca9500e623f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave Neon Mountain Skyline Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/synthwave-neon-mountain-skyline-6ej5800oup0tqlol.jpg' alt='Synthwave Neon Mountain Skyline Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/synthwave-neon-mountain-skyline-6ej5800oup0tqlol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Synthwave Retro Design on Vintage iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-iphone-purple-retro-wave-2zkly58xp6yytl1n.jpg' alt='Download Synthwave Retro Design on Vintage iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-iphone-purple-retro-wave-2zkly58xp6yytl1n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cityscape Synthwave iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/01/64/47016471bdcc4b7407eb76fbe6447b9a.jpg' alt='Cityscape Synthwave iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/01/64/47016471bdcc4b7407eb76fbe6447b9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Synthwave iPhone X wallpaper : r/outrun">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/22esq1ycfo631.jpg?width=640&crop=smart&auto=webp&s=ae7371647ded50e92aacdd081cecebc557b381f0' alt='Synthwave iPhone X wallpaper : r/outrun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/22esq1ycfo631.jpg?width=640&crop=smart&auto=webp&s=ae7371647ded50e92aacdd081cecebc557b381f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

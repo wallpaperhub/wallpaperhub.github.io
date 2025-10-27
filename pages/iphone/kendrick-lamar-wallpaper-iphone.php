@@ -1,0 +1,129 @@
+<title>Kendrick Lamar iPhone Wallpapers: Style Your Device</title>
+                    <meta name="description" content="Explore a collection of mesmerizing Kendrick Lamar wallpapers for your iPhone. Perfect for fans, these unique designs will enhance your device's look and showcase your admiration for one of hip-hop's greatest artists. Download your favorite wallpaper now!">
+                    <meta name="keywords" content="kendrick lamar wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/kendrick-lamar-wallpaper-iphone">
+                            <span itemprop="name">kendrick lamar wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kendrick Lamar iPhone Wallpapers: Style Your Device</h1>
+                <p>Elevate your iPhone aesthetic with stunning Kendrick Lamar wallpapers! Discover a variety of vibrant and artistic backgrounds featuring the iconic rapper. Whether you prefer bold album art or inspiring quotes, you can find the perfect wallpaper to express your love for Kendrick. Personalize your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Wallpapers I made : r/KendrickLamar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kendrick-wallpapers-i-made-v0-9s8ogetatsga1.jpg?width=640&crop=smart&auto=webp&s=fdfa756cfe5363dfdfb563f92972645cc455975d' alt='Kendrick Wallpapers I made : r/KendrickLamar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kendrick-wallpapers-i-made-v0-9s8ogetatsga1.jpg?width=640&crop=smart&auto=webp&s=fdfa756cfe5363dfdfb563f92972645cc455975d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a few simple Phone wallpapers from the Not Like Us video ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-few-simple-phone-wallpapers-from-the-not-like-us-v0-mxhz2vk8sebd1.jpg?width=1080&crop=smart&auto=webp&s=f4dcd4cfc06e48603ebcdaa751866d30fea550e5' alt='I made a few simple Phone wallpapers from the Not Like Us video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-few-simple-phone-wallpapers-from-the-not-like-us-v0-mxhz2vk8sebd1.jpg?width=1080&crop=smart&auto=webp&s=f4dcd4cfc06e48603ebcdaa751866d30fea550e5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Lamar - To Pimp A Butterfly Iphone Wallpaper #tpab ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/b2/a1/feb2a1f41f14996081f556aa66214cb2.jpg' alt='Kendrick Lamar - To Pimp A Butterfly Iphone Wallpaper #tpab ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/b2/a1/feb2a1f41f14996081f556aa66214cb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE FIT.    @justnjames_">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/d6/01/ded601d348d0be2b708eda5a3c08d973.jpg' alt='THE FIT.    @justnjames_'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/d6/01/ded601d348d0be2b708eda5a3c08d973.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Simple Red Kendrick Lamar Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-simple-red-kendrick-lamar-2o43iqyy1x8rb9d1.jpg' alt='Cool Simple Red Kendrick Lamar Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-simple-red-kendrick-lamar-2o43iqyy1x8rb9d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New fan of Kendrick here! Absolutely loved TPAB so I decided to ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/um08ux05fsl51.jpg?width=640&crop=smart&auto=webp&s=c030544678eef91cae242d602f0471e8fe844d9c' alt='New fan of Kendrick here! Absolutely loved TPAB so I decided to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/um08ux05fsl51.jpg?width=640&crop=smart&auto=webp&s=c030544678eef91cae242d602f0471e8fe844d9c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CM Designs on X: "Kendrick Lamar Alright iPhone Wallpaper https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GO7d59JXkAA4vps?format=jpg&name=4096x4096' alt='CM Designs on X: "Kendrick Lamar Alright iPhone Wallpaper https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GO7d59JXkAA4vps?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/bf/6c/92bf6c3c40bc19df6aa10bce6bd9bea8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/bf/6c/92bf6c3c40bc19df6aa10bce6bd9bea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kendrick Wallpapers I made : r/KendrickLamar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kendrick-wallpapers-i-made-v0-w3cstdtatsga1.jpg?width=640&crop=smart&auto=webp&s=932f8608d2158d88919dae4cf5cded87f8ecab92' alt='Kendrick Wallpapers I made : r/KendrickLamar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kendrick-wallpapers-i-made-v0-w3cstdtatsga1.jpg?width=640&crop=smart&auto=webp&s=932f8608d2158d88919dae4cf5cded87f8ecab92' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait display, hip hop, Kendrick Lamar, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/325/47/HD-wallpaper-portrait-display-hip-hop-kendrick-lamar.jpg' alt='Portrait display, hip hop, Kendrick Lamar, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/325/47/HD-wallpaper-portrait-display-hip-hop-kendrick-lamar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

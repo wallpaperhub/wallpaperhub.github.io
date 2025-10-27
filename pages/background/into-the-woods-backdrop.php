@@ -1,0 +1,129 @@
+<title>Enchanting Into the Woods Backdrop for Your Next Production</title>
+                    <meta name="description" content="Discover the perfect backdrop for your production with our captivating "Into the Woods" theme. Create an immersive forest setting that enhances storytelling and captivates your audience. Ideal for theaters, schools, and events. Transform your stage into a magical woodland today!">
+                    <meta name="keywords" content="into the woods backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/into-the-woods-backdrop">
+                            <span itemprop="name">into the woods backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Into the Woods Backdrop for Your Next Production</h1>
+                <p>The "Into the Woods" backdrop transports audiences into an enchanting forest, rich with whimsical elements. This immersive setting features towering trees, dappled sunlight, and a sense of mystery. Perfect for theatrical productions, it enhances storytelling, inviting viewers to explore the intertwining paths of characters and their fateful choices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Woods Backdrop Rentals | TheatreWorld® Backdrops">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/twbmarketingprod/files/production/426/07eae2f59e/into-the-woods-scenic-backdrop-lightbox-facf61.jpg' alt='Into The Woods Backdrop Rentals | TheatreWorld® Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheatreWorld® Backdrops" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/twbmarketingprod/files/production/426/07eae2f59e/into-the-woods-scenic-backdrop-lightbox-facf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Woods – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/2016/03/Forest_backdrop_ES7985.jpg' alt='Into the Woods – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/2016/03/Forest_backdrop_ES7985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Woods – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Mystical-Forest_backdrop-ES8288-fullsize-scaled.jpg' alt='Into the Woods – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Mystical-Forest_backdrop-ES8288-fullsize-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Woods Backdrop Projections - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://www.groshdigital.com/wp-content/uploads/2019/04/Into-the-Woods-projected-backdrop-image.jpg' alt='Into the Woods Backdrop Projections - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://www.groshdigital.com/wp-content/uploads/2019/04/Into-the-Woods-projected-backdrop-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Woods Legs Backdrop Rentals | TheatreWorld®">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/twbmarketingprod/files/production/618/0c09306d2e/into-the-woods-legs-scenic-backdrop-lightbox-193ab7.jpg' alt='Into The Woods Legs Backdrop Rentals | TheatreWorld®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheatreWorld® Backdrops" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/twbmarketingprod/files/production/618/0c09306d2e/into-the-woods-legs-scenic-backdrop-lightbox-193ab7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Woods Backdrops For Rent - Backdrops by Charles H. Stewart">
+                                <img itemprop="contentUrl url" src='https://charleshstewart.com/wp-content/uploads/2023/09/Forest-Backdrop-scaled.jpg' alt='Into The Woods Backdrops For Rent - Backdrops by Charles H. Stewart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops by Charles H. Stewart" />
+                                </span>
+                                <a href='https://charleshstewart.com/wp-content/uploads/2023/09/Forest-Backdrop-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Woods Backdrops For Rent - Backdrops by Charles H. Stewart">
+                                <img itemprop="contentUrl url" src='https://charleshstewart.com/wp-content/uploads/2024/09/Dark-Forest-Backdrop-2-scaled.jpg' alt='Into The Woods Backdrops For Rent - Backdrops by Charles H. Stewart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops by Charles H. Stewart" />
+                                </span>
+                                <a href='https://charleshstewart.com/wp-content/uploads/2024/09/Dark-Forest-Backdrop-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Theatre International">
+                                <img itemprop="contentUrl url" src='https://www.mtishows.com/sites/default/files/styles/content_image/public/marketplace/resize-forest-panel-3_backdrop.jpg?itok=kGxmW5Qw' alt='Music Theatre International'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Music Theatre International" />
+                                </span>
+                                <a href='https://www.mtishows.com/sites/default/files/styles/content_image/public/marketplace/resize-forest-panel-3_backdrop.jpg?itok=kGxmW5Qw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into the Woods Show Package Projected Backdrops - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://www.groshdigital.com/media/title_intothewoods-1.jpg' alt='Into the Woods Show Package Projected Backdrops - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://www.groshdigital.com/media/title_intothewoods-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Into The Woods Backdrop by stagemil on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49f50685-8593-4e9a-adf1-4ee2f90be7d7/d5ca8oz-212f0a20-f1bc-45d1-abc2-3d75169ac82f.jpg/v1/fill/w_900,h_399,q_75,strp/into_the_woods_backdrop_by_stagemil_d5ca8oz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk5IiwicGF0aCI6IlwvZlwvNDlmNTA2ODUtODU5My00ZTlhLWFkZjEtNGVlMmY5MGJlN2Q3XC9kNWNhOG96LTIxMmYwYTIwLWYxYmMtNDVkMS1hYmMyLTNkNzUxNjlhYzgyZi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OCZpx2fmMO12jey3WxtOVW2SnFNF1sX8SqCTqk1ZGWw' alt='Into The Woods Backdrop by stagemil on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49f50685-8593-4e9a-adf1-4ee2f90be7d7/d5ca8oz-212f0a20-f1bc-45d1-abc2-3d75169ac82f.jpg/v1/fill/w_900,h_399,q_75,strp/into_the_woods_backdrop_by_stagemil_d5ca8oz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk5IiwicGF0aCI6IlwvZlwvNDlmNTA2ODUtODU5My00ZTlhLWFkZjEtNGVlMmY5MGJlN2Q3XC9kNWNhOG96LTIxMmYwYTIwLWYxYmMtNDVkMS1hYmMyLTNkNzUxNjlhYzgyZi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OCZpx2fmMO12jey3WxtOVW2SnFNF1sX8SqCTqk1ZGWw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

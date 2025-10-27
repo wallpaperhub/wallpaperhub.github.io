@@ -1,0 +1,129 @@
+<title>Frosted Flakes: Sweet Crunchy Breakfast Cereal</title>
+                    <meta name="description" content="Discover Frosted Flakes, the iconic cereal that combines a delightful crunch with sweet frosting. Perfect for a quick breakfast or snack, enjoy the taste that has captured hearts for generations!  Start your day with deliciousness in every bite.">
+                    <meta name="keywords" content="frosted flakes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frosted-flakes">
+                            <span itemprop="name">frosted flakes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frosted Flakes: Sweet Crunchy Breakfast Cereal</h1>
+                <p>Frosted Flakes are a beloved breakfast cereal made from crispy corn flakes coated in sweet, sugary frosting. This classic choice provides a delicious start to the day with a perfect crunch. Enjoyed by kids and adults alike, they pair well with milk, making breakfast both tasty and convenient. Dive into a bowl of nostalgia!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Breakfast Cereal, Kids Cereal, Family Breakfast,  Mega Size, Original, 34oz Box (1 Box)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/d0d429a8-cc84-44f9-92a5-c657c4e59f33.ee0d2bf0b83db8ff31a88dc090918f81.jpeg' alt='Kellogg's Frosted Flakes Breakfast Cereal, Kids Cereal, Family Breakfast,  Mega Size, Original, 34oz Box (1 Box)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/d0d429a8-cc84-44f9-92a5-c657c4e59f33.ee0d2bf0b83db8ff31a88dc090918f81.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes, 30.9 Oz.,( 2 pack )">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91SJd0yJGoL._AC_UF894,1000_QL80_.jpg' alt='Kellogg's Frosted Flakes, 30.9 Oz.,( 2 pack )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91SJd0yJGoL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Original with Vanilla Flavored ...">
+                                <img itemprop="contentUrl url" src='https://content.syndigo.com/asset/b97f6e08-b652-4b59-a523-14c0adb0fed0/480.webp' alt='Kellogg's Frosted Flakes Original with Vanilla Flavored ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shaw's" />
+                                </span>
+                                <a href='https://content.syndigo.com/asset/b97f6e08-b652-4b59-a523-14c0adb0fed0/480.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Cold Breakfast Cereal, 8 Vitamins and Minerals,  Kids Snacks, Family Size, Strawberry Milkshake, 23oz Box (1 Box)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fcE-AIS-L._AC_UF894,1000_QL80_.jpg' alt='Kellogg's Frosted Flakes Cold Breakfast Cereal, 8 Vitamins and Minerals,  Kids Snacks, Family Size, Strawberry Milkshake, 23oz Box (1 Box)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fcE-AIS-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malt-O-Meal Cereal Frosted Flakes Super Size - 37 Oz - vons">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/960141389-H1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available' alt='Malt-O-Meal Cereal Frosted Flakes Super Size - 37 Oz - vons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vons" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/960141389-H1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Flakes Cereal, Cinnamon French Toast - FRESH by Brookshire's">
+                                <img itemprop="contentUrl url" src='https://images.cdn.retail.brookshires.com/zoom/bcab39df-5d16-42a9-a187-d98d8e6976a5.jpeg' alt='Frosted Flakes Cereal, Cinnamon French Toast - FRESH by Brookshire's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FRESH by Brookshire's" />
+                                </span>
+                                <a href='https://images.cdn.retail.brookshires.com/zoom/bcab39df-5d16-42a9-a187-d98d8e6976a5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Breakfast Cereal, 2 Bags/61.9 oz Box, 2  Boxes/Carton">
+                                <img itemprop="contentUrl url" src='https://de2wfhoo6xqi5.cloudfront.net/size/600/c82/02b/a8696551f1a3e4abe948885e758d4a7698.jpg' alt='Kellogg's Frosted Flakes Breakfast Cereal, 2 Bags/61.9 oz Box, 2  Boxes/Carton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OfficeSupply.com" />
+                                </span>
+                                <a href='https://de2wfhoo6xqi5.cloudfront.net/size/600/c82/02b/a8696551f1a3e4abe948885e758d4a7698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Cereal Single-Serve Box 1.2 oz. - 70/Case">
+                                <img itemprop="contentUrl url" src='https://www.webstaurantstore.com/images/products/large/690111/2377211.jpg' alt='Kellogg's Frosted Flakes Cereal Single-Serve Box 1.2 oz. - 70/Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WebstaurantStore" />
+                                </span>
+                                <a href='https://www.webstaurantstore.com/images/products/large/690111/2377211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes Original Breakfast Cereal, 12 oz">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/qC8AAOSwbEpmskLa/$_57.PNG?set_id=880000500F' alt='Kellogg's Frosted Flakes Original Breakfast Cereal, 12 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/qC8AAOSwbEpmskLa/$_57.PNG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kellogg's Frosted Flakes">
+                                <img itemprop="contentUrl url" src='http://pinkdot.com/cdn/shop/products/kelloggs-frosted-flakes-227514_1024x.jpg?v=1701515075' alt='Kellogg's Frosted Flakes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pink Dot" />
+                                </span>
+                                <a href='http://pinkdot.com/cdn/shop/products/kelloggs-frosted-flakes-227514_1024x.jpg?v=1701515075' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

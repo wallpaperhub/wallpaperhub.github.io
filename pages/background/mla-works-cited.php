@@ -1,0 +1,129 @@
+<title>Essential Guide to MLA Works Cited</title>
+                    <meta name="description" content="Discover how to create a perfect MLA Works Cited page! Learn essential formatting tips and ensure academic integrity with clear source references. Ideal for students and researchers looking to master MLA citation style.">
+                    <meta name="keywords" content="mla works cited">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mla-works-cited">
+                            <span itemprop="name">mla works cited</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to MLA Works Cited</h1>
+                <p>MLA Works Cited is a crucial element of academic writing that lists all sources referenced in a paper. Proper formatting, including author names, publication titles, and publication dates, ensures clarity and credibility. Adhering to the MLA style promotes academic integrity and helps readers locate the original sources easily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Style: Works Cited - Del Mar College">
+                                <img itemprop="contentUrl url" src='https://www.delmar.edu/offices/swc/research-apa-mla/_images/mla-works-cited.png' alt='MLA Style: Works Cited - Del Mar College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Del Mar College" />
+                                </span>
+                                <a href='https://www.delmar.edu/offices/swc/research-apa-mla/_images/mla-works-cited.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Works Cited | 2021 Guidelines & Free Template">
+                                <img itemprop="contentUrl url" src='https://www.scribbr.com/wp-content/uploads/2021/06/mla-works-cited-1-1-1.webp' alt='MLA Works Cited | 2021 Guidelines & Free Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1190">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribbr" />
+                                </span>
+                                <a href='https://www.scribbr.com/wp-content/uploads/2021/06/mla-works-cited-1-1-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Works Cited: Develop an MLA Works Cited Page!">
+                                <img itemprop="contentUrl url" src='https://www.easybib.com/wp-content/uploads/2020/03/EB-MLA-works-cited-example-FULL.webp' alt='MLA Works Cited: Develop an MLA Works Cited Page!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EasyBib" />
+                                </span>
+                                <a href='https://www.easybib.com/wp-content/uploads/2020/03/EB-MLA-works-cited-example-FULL.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Put MLA Works Cited in Alphabetical Order | Bibliography.com">
+                                <img itemprop="contentUrl url" src='https://cms.bibliography.com/wp-content/uploads/2019/04/MLA-works-cited-alphabetical-order.png' alt='How to Put MLA Works Cited in Alphabetical Order | Bibliography.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1316">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bibliography.com" />
+                                </span>
+                                <a href='https://cms.bibliography.com/wp-content/uploads/2019/04/MLA-works-cited-alphabetical-order.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Works Cited: Develop an MLA Works Cited Page!">
+                                <img itemprop="contentUrl url" src='https://www.easybib.com/wp-content/uploads/2020/03/EasyBib-MLA-works-cited-citation-format.webp' alt='MLA Works Cited: Develop an MLA Works Cited Page!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EasyBib" />
+                                </span>
+                                <a href='https://www.easybib.com/wp-content/uploads/2020/03/EasyBib-MLA-works-cited-citation-format.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Works Cited ~ Newest Guidelines & Instructions">
+                                <img itemprop="contentUrl url" src='https://www.bachelorprint.com/wp-content/uploads/2023/07/MLA-Works-Cited-format-example.jpg' alt='MLA Works Cited ~ Newest Guidelines & Instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BachelorPrint" />
+                                </span>
+                                <a href='https://www.bachelorprint.com/wp-content/uploads/2023/07/MLA-Works-Cited-format-example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Works Cited Page - MLA Citation Style 8th Edition - LibGuides at ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/libapps/accounts/3013/images/Works_Cited.png' alt='Works Cited Page - MLA Citation Style 8th Edition - LibGuides at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="763">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LibGuides" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/libapps/accounts/3013/images/Works_Cited.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLA Quick Citation Guide (In-text Citation & Works Cited)">
+                                <img itemprop="contentUrl url" src='https://tamararesearch.com/wp-content/uploads/2022/04/Screenshot-2023-04-02-at-23.20.51-1024x416.png' alt='MLA Quick Citation Guide (In-text Citation & Works Cited)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tamara Research" />
+                                </span>
+                                <a href='https://tamararesearch.com/wp-content/uploads/2022/04/Screenshot-2023-04-02-at-23.20.51-1024x416.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Formatting your Works Cited page (MLA 8)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/69WFdAyD0DE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGDYgUih_MA8=&rs=AOn4CLCbTTK1NkqvCgsxybVUr5YwVC62pA' alt='Formatting your Works Cited page (MLA 8)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/69WFdAyD0DE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGDYgUih_MA8=&rs=AOn4CLCbTTK1NkqvCgsxybVUr5YwVC62pA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12.4 MLA Citation: Works Cited Example – 1st Edition: A Guide to ...">
+                                <img itemprop="contentUrl url" src='https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/wp-content/uploads/sites/18/2019/08/Screen-Shot-2022-08-10-at-9.29.06-PM-1024x554.png' alt='12.4 MLA Citation: Works Cited Example – 1st Edition: A Guide to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pressbooks@MSL" />
+                                </span>
+                                <a href='https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/wp-content/uploads/sites/18/2019/08/Screen-Shot-2022-08-10-at-9.29.06-PM-1024x554.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

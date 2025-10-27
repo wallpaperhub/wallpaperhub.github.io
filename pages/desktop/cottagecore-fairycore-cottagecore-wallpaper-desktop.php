@@ -1,0 +1,129 @@
+<title>Enchanting Cottagecore & Fairycore Desktop Wallpapers</title>
+                    <meta name="description" content="Discover the beauty of cottagecore and fairycore with our curated collection of desktop wallpapers. Perfect for creating a serene and whimsical workspace, these designs blend nature and magic. Download your favorite today for a refreshing digital retreat!">
+                    <meta name="keywords" content="cottagecore fairycore cottagecore wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/cottagecore-fairycore-cottagecore-wallpaper-desktop">
+                            <span itemprop="name">cottagecore fairycore cottagecore wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Cottagecore & Fairycore Desktop Wallpapers</h1>
+                <p>Transform your desktop into a whimsical wonderland with cottagecore and fairycore wallpapers. These enchanting designs bring nature's charm indoors, featuring lush florals, cozy cottages, and dreamy landscapes. Elevate your workspace with a touch of ethereal magic and rustic tranquility for daily inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: cottagecore, Fairycore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/03/a5/c403a58fbde0431dcfccb0b6c0ca52fc.jpg' alt='HD wallpaper: cottagecore, Fairycore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/03/a5/c403a58fbde0431dcfccb0b6c0ca52fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a very cottage/farmcore-y desktop background with various ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o9nlmvbxjqd41.jpg' alt='Made a very cottage/farmcore-y desktop background with various ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o9nlmvbxjqd41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cottagecore wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/432/94/HD-wallpaper-cottagecore-top-20-best-cottagecore.jpg' alt='HD cottagecore wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/432/94/HD-wallpaper-cottagecore-top-20-best-cottagecore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairycore, Fairy Aesthetic, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/265/HD-wallpaper-fairycore-fairy-aesthetic.jpg' alt='Fairycore, Fairy Aesthetic, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/265/HD-wallpaper-fairycore-fairy-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/99/97/eb9997ac6d44f057b578bf338194557e.jpg' alt='Cottagecore PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/99/97/eb9997ac6d44f057b578bf338194557e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Cottagecore Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/enigmatic-floral-cottage-window-jpg-rt3vfln04sw1hu51.jpg' alt='100+] Dark Cottagecore Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/enigmatic-floral-cottage-window-jpg-rt3vfln04sw1hu51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ig @kendalllortonn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/69/89/4869895207721c38417a836cabfd0e1e.jpg' alt='ig @kendalllortonn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/69/89/4869895207721c38417a836cabfd0e1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper by simonesheri1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ddc88-4dff-40c5-9d7d-bb11ac481953/df06gt6-18ed9103-6b57-42a2-bd17-b237b0bda4a8.jpg/v1/fill/w_564,h_317,q_75,strp/cottagecore_wallpaper_by_simonesheri1_df06gt6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE3IiwicGF0aCI6IlwvZlwvNjQzZGRjODgtNGRmZi00MGM1LTlkN2QtYmIxMWFjNDgxOTUzXC9kZjA2Z3Q2LTE4ZWQ5MTAzLTZiNTctNDJhMi1iZDE3LWIyMzdiMGJkYTRhOC5qcGciLCJ3aWR0aCI6Ijw9NTY0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JSxy2ZvI1PH7Hey2HTFrtb3XAMm0s3hM-CEF_-Z837Q' alt='Cottagecore Wallpaper by simonesheri1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ddc88-4dff-40c5-9d7d-bb11ac481953/df06gt6-18ed9103-6b57-42a2-bd17-b237b0bda4a8.jpg/v1/fill/w_564,h_317,q_75,strp/cottagecore_wallpaper_by_simonesheri1_df06gt6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE3IiwicGF0aCI6IlwvZlwvNjQzZGRjODgtNGRmZi00MGM1LTlkN2QtYmIxMWFjNDgxOTUzXC9kZjA2Z3Q2LTE4ZWQ5MTAzLTZiNTctNDJhMi1iZDE3LWIyMzdiMGJkYTRhOC5qcGciLCJ3aWR0aCI6Ijw9NTY0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JSxy2ZvI1PH7Hey2HTFrtb3XAMm0s3hM-CEF_-Z837Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Cottagecore Desktop View Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/serene-cottagecore-desktop-view-ri2cml1bwj1gn5ip.jpg' alt='Serene Cottagecore Desktop View Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/serene-cottagecore-desktop-view-ri2cml1bwj1gn5ip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/6e/37/d36e37743461336ef06ad8badd1bc0ab.jpg' alt='Fairy Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/6e/37/d36e37743461336ef06ad8badd1bc0ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

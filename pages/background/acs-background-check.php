@@ -1,0 +1,129 @@
+<title>Essential Guide to ACS Background Checks</title>
+                    <meta name="description" content="Discover the vital aspects of ACS background checks. Learn how these checks help employers assess candidates’ integrity and safety, ensuring informed hiring decisions. Stay compliant and secure with our insights into the process and benefits of conducting thorough background checks.">
+                    <meta name="keywords" content="acs background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/acs-background-check">
+                            <span itemprop="name">acs background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to ACS Background Checks</h1>
+                <p>ACS background checks are essential tools used by employers and organizations to ensure the integrity and safety of potential candidates. They include a review of criminal records, employment history, and education verification. By conducting these checks, businesses can make informed hiring decisions and maintain workplace security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Webinar">
+                                <img itemprop="contentUrl url" src='https://i.vimeocdn.com/video/713161077-93e293c1265122196fcb1312870287135b25dd27a9cd3be948a25f28fd107cca-d_640' alt='Background Check Webinar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://i.vimeocdn.com/video/713161077-93e293c1265122196fcb1312870287135b25dd27a9cd3be948a25f28fd107cca-d_640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Church Background Check Show? | ACS Technologies">
+                                <img itemprop="contentUrl url" src='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/church-growth/wp-content/uploads/sites/5/2021/09/bgcheck.png' alt='What Does a Church Background Check Show? | ACS Technologies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/church-growth/wp-content/uploads/sites/5/2021/09/bgcheck.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening - ACS Data Search | HPS Process">
+                                <img itemprop="contentUrl url" src='https://www.hpsprocess.com/wp-content/uploads/2017/01/ACS-Data-Search_New-1.png' alt='Employment Screening - ACS Data Search | HPS Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="293">
+                                <meta itemprop="height" content="122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HPS Process Service & Investigations" />
+                                </span>
+                                <a href='https://www.hpsprocess.com/wp-content/uploads/2017/01/ACS-Data-Search_New-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Background Check Software For Staff & Volunteers">
+                                <img itemprop="contentUrl url" src='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/07/permissions.png' alt='Church Background Check Software For Staff & Volunteers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="331">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/07/permissions.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Comes Up in a Background Check? | ACS Technologies">
+                                <img itemprop="contentUrl url" src='https://www.acstechnologies.com/church-growth/wp-content/uploads/sites/5/2022/08/iStock-1194077069.jpg' alt='What Comes Up in a Background Check? | ACS Technologies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://www.acstechnologies.com/church-growth/wp-content/uploads/sites/5/2022/08/iStock-1194077069.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ACS Data Search - Unlock the Truth">
+                                <img itemprop="contentUrl url" src='https://ks.acsdatasearch.com/wp-content/uploads/ACS_lock_200.png' alt='ACS Data Search - Unlock the Truth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Data Search" />
+                                </span>
+                                <a href='https://ks.acsdatasearch.com/wp-content/uploads/ACS_lock_200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Background Check Software For Staff & Volunteers">
+                                <img itemprop="contentUrl url" src='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/04/Tour_Background_Checks.png' alt='Church Background Check Software For Staff & Volunteers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/04/Tour_Background_Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Background Check Software For Staff & Volunteers">
+                                <img itemprop="contentUrl url" src='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/07/follow_up.png' alt='Church Background Check Software For Staff & Volunteers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="331">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/realm/wp-content/uploads/sites/3/2021/07/follow_up.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Solutions to Keep Your Ministry Safe | ACST">
+                                <img itemprop="contentUrl url" src='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/wp-content/uploads/2024/06/background-checks-header.png' alt='Background Check Solutions to Keep Your Ministry Safe | ACST'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACS Technologies" />
+                                </span>
+                                <a href='https://cdn-jehol.nitrocdn.com/XBwbYFbRYVMjkUYSoaVcGgRdcPyjhKvO/assets/images/optimized/rev-c333d2c/www.acstechnologies.com/wp-content/uploads/2024/06/background-checks-header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check form | Eastside Elementary School">
+                                <img itemprop="contentUrl url" src='https://e2.acsc.net/apps/api/images/646f5a138c353a0009685b65/src' alt='Background Check form | Eastside Elementary School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastside Elementary School - Anderson Community Schools" />
+                                </span>
+                                <a href='https://e2.acsc.net/apps/api/images/646f5a138c353a0009685b65/src' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

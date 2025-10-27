@@ -1,0 +1,129 @@
+<title>"Discover the Excitement of Raffles"</title>
+                    <meta name="description" content=""Explore the world of raffles—a fun and effective way to raise funds while offering thrilling prizes. Perfect for charities and events, learn how this age-old tradition can boost community engagement and excitement!"">
+                    <meta name="keywords" content="raffle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/raffle-background">
+                            <span itemprop="name">raffle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Excitement of Raffles"</h1>
+                <p>Raffles have a rich history, dating back to ancient times when they were used for fundraising and distributing prizes. Today, they remain popular for various events, from charity functions to school fairs, enticing participants with the chance of winning exciting prizes while supporting a cause. Their simplicity and thrill make them a staple in many communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/49/40/31/360_F_749403122_9JcKFEmEme3zKiB4mgtvZqidNCqAQw3B.jpg' alt='Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/49/40/31/360_F_749403122_9JcKFEmEme3zKiB4mgtvZqidNCqAQw3B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Raffle Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/849724476/vector/enter-to-win-banner.jpg?s=612x612&w=0&k=20&c=0l9cnkiQ0RPtaqf9QMuUCT3LXsuCEELNr1ds8pz0HjA=' alt='1,000+ Raffle Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/849724476/vector/enter-to-win-banner.jpg?s=612x612&w=0&k=20&c=0l9cnkiQ0RPtaqf9QMuUCT3LXsuCEELNr1ds8pz0HjA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/95/83/98/360_F_295839812_316qzOMpsPc0jIG2fY8tStCw5GI4iTsb.jpg' alt='Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/95/83/98/360_F_295839812_316qzOMpsPc0jIG2fY8tStCw5GI4iTsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Raffle Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1773808452/vector/gold-and-silver-confetti-on-red-background.jpg?s=612x612&w=0&k=20&c=4FWgPeY4a4KpnuP4-eNr3qqzlykJWss-k9MNFeHNaTM=' alt='1,000+ Raffle Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1773808452/vector/gold-and-silver-confetti-on-red-background.jpg?s=612x612&w=0&k=20&c=4FWgPeY4a4KpnuP4-eNr3qqzlykJWss-k9MNFeHNaTM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Ticket Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/winner-selection-paper-pieces-lottery-260nw-1706330998.jpg' alt='Raffle Ticket Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/winner-selection-paper-pieces-lottery-260nw-1706330998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/596/548/small/ai-generated-labor-day-advertisment-background-with-copy-space-free-photo.jpg' alt='Raffle Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/596/548/small/ai-generated-labor-day-advertisment-background-with-copy-space-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/53/34/92/360_F_253349242_6lVHfJ2OQUD6Uc4A3kwiNHaaiJtTDo3A.jpg' alt='Raffle Background Images – Browse 15,431 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/53/34/92/360_F_253349242_6lVHfJ2OQUD6Uc4A3kwiNHaaiJtTDo3A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109 Raffle Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/885860654/vector/enter-to-win-banner.jpg?s=612x612&w=gi&k=20&c=DsTA9K6LOz8R5NRNxgDmv2adscrmrNAZWDDqAQgbWEM=' alt='109 Raffle Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/885860654/vector/enter-to-win-banner.jpg?s=612x612&w=gi&k=20&c=DsTA9K6LOz8R5NRNxgDmv2adscrmrNAZWDDqAQgbWEM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/back_our/20190623/ourmid/pngtree-yellow-geometric-flat-draw-raffle-promotion-ad-background-image_247327.jpg' alt='Raffle Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="174">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/back_our/20190623/ourmid/pngtree-yellow-geometric-flat-draw-raffle-promotion-ad-background-image_247327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raffle Banner Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/lucky-tiny-people-turning-raffle-260nw-1331332679.jpg' alt='Raffle Banner Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/lucky-tiny-people-turning-raffle-260nw-1331332679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

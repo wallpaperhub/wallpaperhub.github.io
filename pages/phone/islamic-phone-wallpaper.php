@@ -1,0 +1,129 @@
+<title>Stunning Islamic Phone Wallpapers: Faith Meets Art</title>
+                    <meta name="description" content="Explore a curated selection of beautiful Islamic phone wallpapers designed to inspire and uplift. Perfect for personalizing your device, these artistic backgrounds reflect faith and culture, making each glance at your screen a moment of serenity. Download now to transform your phone!">
+                    <meta name="keywords" content="islamic phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/islamic-phone-wallpaper">
+                            <span itemprop="name">islamic phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Islamic Phone Wallpapers: Faith Meets Art</h1>
+                <p>Discover a collection of stunning Islamic phone wallpapers that beautifully blend faith and artistry. From intricate geometric patterns to serene calligraphy, these wallpapers inspire spirituality while enhancing your device's aesthetics. Perfect for anyone looking to express their Islamic identity through modern technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/thumb-1920-201550.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/thumb-1920-201550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD islamic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/860/701/HD-wallpaper-islamic-dhikr-of-allah-islam-thumbnail.jpg' alt='HD islamic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/860/701/HD-wallpaper-islamic-dhikr-of-allah-islam-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/201552.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/201552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone islamic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/203/963/HD-wallpaper-allah-athkar-god-iphone-islam-islamic-landscape-muslim-nature-thumbnail.jpg' alt='HD iphone islamic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/203/963/HD-wallpaper-allah-athkar-god-iphone-islam-islamic-landscape-muslim-nature-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islamic Mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/da/8e/43da8e48d9833c04a3621ec54f941632.jpg' alt='Islamic Mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/da/8e/43da8e48d9833c04a3621ec54f941632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Islamic Mobile Wallpapers ideas | mobile wallpaper, 3 in one ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c3/42/b0/c342b07afe98d052be14dccaa61e1dd5.jpg' alt='95 Islamic Mobile Wallpapers ideas | mobile wallpaper, 3 in one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c3/42/b0/c342b07afe98d052be14dccaa61e1dd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="islamic Phone Wallpaper by francopfx">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/201/201549.jpg' alt='islamic Phone Wallpaper by francopfx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/201/201549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Mosque and crescent Islamic mobile phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/mosque-crescent-islamic-mobile-phone-wallpaper_621211-153.jpg?w=360' alt='Premium Vector | Mosque and crescent Islamic mobile phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/mosque-crescent-islamic-mobile-phone-wallpaper_621211-153.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dhul Hijjah 2021 - Wallpapers | Islamic Relief Canada">
+                                <img itemprop="contentUrl url" src='https://dev.islamicreliefcanada.org/wp-content/uploads/2021/06/IRC-R-PhoneWallpapers-1920x1080-2.jpg' alt='Dhul Hijjah 2021 - Wallpapers | Islamic Relief Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Islamic Relief Canada" />
+                                </span>
+                                <a href='https://dev.islamicreliefcanada.org/wp-content/uploads/2021/06/IRC-R-PhoneWallpapers-1920x1080-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asgfer allah, allah, galaxy, iphone, islam, islamic, note, s20 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/363/938/HD-wallpaper-asgfer-allah-allah-galaxy-iphone-islam-islamic-note-s20-s30.jpg' alt='Asgfer allah, allah, galaxy, iphone, islam, islamic, note, s20 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/363/938/HD-wallpaper-asgfer-allah-allah-galaxy-iphone-islam-islamic-note-s20-s30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

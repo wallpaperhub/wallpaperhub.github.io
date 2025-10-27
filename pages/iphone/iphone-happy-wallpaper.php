@@ -1,0 +1,129 @@
+<title>Brighten Your Day with Happy iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a curated selection of happy iPhone wallpapers that will instantly enhance your mood. Explore colorful designs and uplifting images perfect for your screen. Download and personalize your device with joy—each wallpaper crafted to inspire happiness and creativity!">
+                    <meta name="keywords" content="iphone happy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-happy-wallpaper">
+                            <span itemprop="name">iphone happy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Day with Happy iPhone Wallpapers</h1>
+                <p>Transform your iPhone into a canvas of joy with our collection of happy wallpapers! From vibrant landscapes to cheerful illustrations, find the perfect backdrop that uplifts your mood every time you unlock your screen. Enjoy a daily dose of positivity and color with these delightful designs, tailored exclusively for you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Happy Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-iphone-750-x-1334-wallpaper-fucj4f2038jttju0.jpg' alt='100+] Happy Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-iphone-750-x-1334-wallpaper-fucj4f2038jttju0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smile in Sad World">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/61/16/92611683ac9cfbca41cf671d33c115d2.jpg' alt='Smile in Sad World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/61/16/92611683ac9cfbca41cf671d33c115d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/00/78/5300786863e5fe59cd3c19d04266f4d8.jpg' alt='Cute Iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/00/78/5300786863e5fe59cd3c19d04266f4d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Panpan Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/happy-panpan-cute-iphone-617chnjhsqruclws.jpg' alt='Happy Panpan Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/happy-panpan-cute-iphone-617chnjhsqruclws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be happy by Time - fd now. Browse millions of popul. Happy, Cute ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/898/170/HD-wallpaper-be-happy-by-time-fd-now-browse-millions-of-popul-happy-cute-emoji-iphone-kawaii-smile-and-be-happy.jpg' alt='Be happy by Time - fd now. Browse millions of popul. Happy, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/898/170/HD-wallpaper-be-happy-by-time-fd-now-browse-millions-of-popul-happy-cute-emoji-iphone-kawaii-smile-and-be-happy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smile iPhone, Smile and Be Happy, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/357/438/HD-wallpaper-smile-iphone-smile-and-be-happy.jpg' alt='Smile iPhone, Smile and Be Happy, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/357/438/HD-wallpaper-smile-iphone-smile-and-be-happy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper- smiley face- boho- hippie -wallpaper for ios">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0f9b94/4506069099/il_570xN.4506069099_5prn.jpg' alt='iPhone wallpaper- smiley face- boho- hippie -wallpaper for ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0f9b94/4506069099/il_570xN.4506069099_5prn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Think Happy Quote On Sunset Clouds Background — Download Free ...">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/18965454365227132-44463021154838808.png' alt='Think Happy Quote On Sunset Clouds Background — Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/18965454365227132-44463021154838808.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpapers - Wallpapers For IPhone 13, IPhone 12 And IPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/00/dc/c900dcfaffaf6099caa3820c21f0c04e.jpg' alt='IPhone Wallpapers - Wallpapers For IPhone 13, IPhone 12 And IPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/00/dc/c900dcfaffaf6099caa3820c21f0c04e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Smiling Happy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/49247080016462494-32789381616942518.jpg' alt='Most Popular Smiling Happy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/49247080016462494-32789381616942518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

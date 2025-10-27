@@ -1,0 +1,129 @@
+<title>Charming Farmhouse Bathroom Wallpaper Ideas</title>
+                    <meta name="description" content="Explore trendy farmhouse bathroom wallpaper ideas that blend rustic charm with modern aesthetics. Discover patterns and colors that create a cozy atmosphere, enhancing your space while reflecting your personal style. Perfect for small or large bathrooms, elevate your decor effortlessly!">
+                    <meta name="keywords" content="farmhouse bathroom wallpaper ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/farmhouse-bathroom-wallpaper-ideas">
+                            <span itemprop="name">farmhouse bathroom wallpaper ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Farmhouse Bathroom Wallpaper Ideas</h1>
+                <p>Transform your farmhouse bathroom with stylish wallpaper! Opt for rustic patterns like shiplap, floral prints, or classic gingham to create a cozy retreat. Consider earthy tones and soft textures that complement wooden accents. Don't be afraid to mix patterns for a playful vibe, or keep it simple for a serene look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Rustic Farmhouse Bathroom Makeover with Vintage Patina Tile ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.rainandpine.com/wp-content/uploads/2019/04/8222C6CB-E8A9-45AF-9DB5-864F21617E46.jpeg?fit=4707%2C3138&ssl=1' alt='Modern Rustic Farmhouse Bathroom Makeover with Vintage Patina Tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4707">
+                                <meta itemprop="height" content="3138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rain and Pine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.rainandpine.com/wp-content/uploads/2019/04/8222C6CB-E8A9-45AF-9DB5-864F21617E46.jpeg?fit=4707%2C3138&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Farmhouse Bathrooms We're Obsessed With (2023)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/df/6f/08df6f1f16c5254b6280037a384b1c3e.jpg' alt='9 Farmhouse Bathrooms We're Obsessed With (2023)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/df/6f/08df6f1f16c5254b6280037a384b1c3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_570xN.4533010817_jenh.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_570xN.4533010817_jenh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Rustic Farmhouse Bathroom Makeover with Vintage Patina Tile ...">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/www.rainandpine.com/wp-content/uploads/2020/04/47C74BEF-B155-4D93-982F-444C352902B2-scaled.jpeg?ssl=1' alt='Modern Rustic Farmhouse Bathroom Makeover with Vintage Patina Tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rain and Pine" />
+                                </span>
+                                <a href='https://i2.wp.com/www.rainandpine.com/wp-content/uploads/2020/04/47C74BEF-B155-4D93-982F-444C352902B2-scaled.jpeg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where to Find the Perfect Farmhouse Style Wallpaper - Making it in ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.makingitinthemountains.com/wp-content/uploads/2017/09/5TIPSFORASMALLBATHROOM-2.jpeg?ssl=1' alt='Where to Find the Perfect Farmhouse Style Wallpaper - Making it in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Making it in the Mountains" />
+                                </span>
+                                <a href='https://i0.wp.com/www.makingitinthemountains.com/wp-content/uploads/2017/09/5TIPSFORASMALLBATHROOM-2.jpeg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Bathroom Wallpaper Ideas to Add Pretty Color and Pattern">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/dog-bathroom-wallpaper-1560141891.jpg' alt='40 Bathroom Wallpaper Ideas to Add Pretty Color and Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3400">
+                                <meta itemprop="height" content="5100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Country Living Magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/dog-bathroom-wallpaper-1560141891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Farmhouse Bathroom Ideas | Family Handyman">
+                                <img itemprop="contentUrl url" src='https://www.familyhandyman.com/wp-content/uploads/2024/01/FHM-8-Farmhouse-Bathroom-Ideas-Subtle-Pattern-courtesy-oliverjames_interiors-instagram.jpg' alt='8 Farmhouse Bathroom Ideas | Family Handyman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Handyman" />
+                                </span>
+                                <a href='https://www.familyhandyman.com/wp-content/uploads/2024/01/FHM-8-Farmhouse-Bathroom-Ideas-Subtle-Pattern-courtesy-oliverjames_interiors-instagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Farmhouse Wallpaper Bathroom Ideas You'll Love - February, 2025 ...">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/bathrooms/otter-howell-bathroom-clark-aldine-img~950145f10e62869b_14-5336-1-9ccb773.jpg' alt='75 Farmhouse Wallpaper Bathroom Ideas You'll Love - February, 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/bathrooms/otter-howell-bathroom-clark-aldine-img~950145f10e62869b_14-5336-1-9ccb773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SMALL BATHROOM MAKEOVER // DIY FARMHOUSE WALLPAPER & SHIPLAP ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2ZCkFlMq5EY/sddefault.jpg' alt='SMALL BATHROOM MAKEOVER // DIY FARMHOUSE WALLPAPER & SHIPLAP ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2ZCkFlMq5EY/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Farmhouse Style Bathroom Makeover Reveal">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/50/3d/70503d5c8fb0dcc89e47a3726d28b99d.jpg' alt='Modern Farmhouse Style Bathroom Makeover Reveal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/50/3d/70503d5c8fb0dcc89e47a3726d28b99d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

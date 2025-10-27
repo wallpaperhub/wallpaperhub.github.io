@@ -1,0 +1,129 @@
+<title>Porsche 911 GT3 RS: Unleashing Motorsport Excellence</title>
+                    <meta name="description" content="Discover the exhilarating Porsche 911 GT3 RS, a high-performance sports car designed for speed enthusiasts. With its aerodynamic finesse and roaring engine, this automotive icon offers precision handling and an unmatched driving experience. Explore the world of motorsport excellence today!">
+                    <meta name="keywords" content="porsche 911 gt3 rs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/porsche-911-gt3-rs">
+                            <span itemprop="name">porsche 911 gt3 rs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Porsche 911 GT3 RS: Unleashing Motorsport Excellence</h1>
+                <p>The Porsche 911 GT3 RS is a high-performance sports car that embodies the essence of motorsport engineering. Famed for its aerodynamic design, lightweight build, and roaring naturally aspirated engine, it offers exhilarating speed and precision handling. With advanced technology and a thrilling driving experience, the GT3 RS is a true masterpiece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Porsche 911 GT3 RS - Porsche USA">
+                                <img itemprop="contentUrl url" src='https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelexplorer/normal/c310eed8-1a15-11ed-80f5-005056bbdc38;sS;twebp065/porsche-normal.webp' alt='Porsche 911 GT3 RS - Porsche USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche" />
+                                </span>
+                                <a href='https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelexplorer/normal/c310eed8-1a15-11ed-80f5-005056bbdc38;sS;twebp065/porsche-normal.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Porsche 911 GT3 RS Pros and Cons Review: Master of the Road ...">
+                                <img itemprop="contentUrl url" src='https://www.motortrend.com/files/667c8b6f08d8e8000842c179/001-2024-porsche-911-gt3rs-lead.jpg' alt='2023 Porsche 911 GT3 RS Pros and Cons Review: Master of the Road ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotorTrend" />
+                                </span>
+                                <a href='https://www.motortrend.com/files/667c8b6f08d8e8000842c179/001-2024-porsche-911-gt3rs-lead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Porsche 911 GT3 RS - Porsche Salt Lake City">
+                                <img itemprop="contentUrl url" src='https://assets.porsche.com/us/saltlakecity/-/media/Project/DealerWebsites/SharedDealersWebsite/Master-Model-Page/911-GT3-RS/Header/911-gt3-rs-desktop.jpg?rev=a686c70b5a86432fa4e9148283984288' alt='Porsche 911 GT3 RS - Porsche Salt Lake City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche" />
+                                </span>
+                                <a href='https://assets.porsche.com/us/saltlakecity/-/media/Project/DealerWebsites/SharedDealersWebsite/Master-Model-Page/911-GT3-RS/Header/911-gt3-rs-desktop.jpg?rev=a686c70b5a86432fa4e9148283984288' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Porsche 911 GT3 RS: the race car for the circuit racetrack and ...">
+                                <img itemprop="contentUrl url" src='https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/porsche_newsroom/Produkte/911/Porsche-911-GT3-RS/P15_0152_a4_rgb/jcr:content/P15_0152_a4_rgb.jpg' alt='Porsche 911 GT3 RS: the race car for the circuit racetrack and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1935">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche Newsroom" />
+                                </span>
+                                <a href='https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/porsche_newsroom/Produkte/911/Porsche-911-GT3-RS/P15_0152_a4_rgb/jcr:content/P15_0152_a4_rgb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="911 GT3 RS | Porsche Car Configurator">
+                                <img itemprop="contentUrl url" src='https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMH1spbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCxkF%25vUqCNwuWXsOw3meV6iTCj%25zhRc2GRdqAZ%25oD21P%25S1BAXmenugTfeIJpV7nDhQk' alt='911 GT3 RS | Porsche Car Configurator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche Car Configurator" />
+                                </span>
+                                <a href='https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMH1spbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCxkF%25vUqCNwuWXsOw3meV6iTCj%25zhRc2GRdqAZ%25oD21P%25S1BAXmenugTfeIJpV7nDhQk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certified Pre-Owned 2024 Porsche 911 GT3 RS 2D Coupe in San Diego ...">
+                                <img itemprop="contentUrl url" src='https://vehicle-images.dealerinspire.com/02ad-110006864/WP0AF2A98RS273085/f959c5b1165372e49f9fd891b537e5db.jpg' alt='Certified Pre-Owned 2024 Porsche 911 GT3 RS 2D Coupe in San Diego ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche San Diego" />
+                                </span>
+                                <a href='https://vehicle-images.dealerinspire.com/02ad-110006864/WP0AF2A98RS273085/f959c5b1165372e49f9fd891b537e5db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purpose-built for performance: the new Porsche 911 GT3 RS ...">
+                                <img itemprop="contentUrl url" src='https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2022/Products/911-GT3-RS-Premiere/_BKOS6959_edit_V02_highres.jpeg/jcr:content/_BKOS6959_edit_V02_highres.jpeg' alt='Purpose-built for performance: the new Porsche 911 GT3 RS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1935">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche Newsroom" />
+                                </span>
+                                <a href='https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2022/Products/911-GT3-RS-Premiere/_BKOS6959_edit_V02_highres.jpeg/jcr:content/_BKOS6959_edit_V02_highres.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Porsche 911 GT3 / GT3 RS Review, Pricing, and Specs">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/2024-porsche-911-gt3-rs-138-64ecda037334a.jpg?crop=0.628xw:0.529xh;0.176xw,0.281xh&resize=2048:*' alt='2023 Porsche 911 GT3 / GT3 RS Review, Pricing, and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1413">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Car and Driver" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/2024-porsche-911-gt3-rs-138-64ecda037334a.jpg?crop=0.628xw:0.529xh;0.176xw,0.281xh&resize=2048:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Porsche 911 GT3 RS: Where Engineering Meets Perfection ...">
+                                <img itemprop="contentUrl url" src='https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1709547872932-Porsche-911-GT3RS-F1rstMotors-1.webp' alt='The Porsche 911 GT3 RS: Where Engineering Meets Perfection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="F1rst Motors" />
+                                </span>
+                                <a href='https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1709547872932-Porsche-911-GT3RS-F1rstMotors-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="911 GT3 RS | Porsche Car Configurator">
+                                <img itemprop="contentUrl url" src='https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCxkF%25vUqCNwuWXsOw3meV6iTCj%25zhRc2GRdqAZ%25oD21P%25S1BAXmenugTfeIJpV7nDhQk' alt='911 GT3 RS | Porsche Car Configurator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Porsche Car Configurator" />
+                                </span>
+                                <a href='https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCxkF%25vUqCNwuWXsOw3meV6iTCj%25zhRc2GRdqAZ%25oD21P%25S1BAXmenugTfeIJpV7nDhQk' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

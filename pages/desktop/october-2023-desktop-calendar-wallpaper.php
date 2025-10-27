@@ -1,0 +1,129 @@
+<title>Stunning October 2023 Desktop Calendar Wallpapers</title>
+                    <meta name="description" content="Discover beautiful October 2023 desktop calendar wallpapers! Choose from unique designs and keep your workspace inspiring and organized. Perfect for any screen size. Download now for a refreshing touch this fall!">
+                    <meta name="keywords" content="october 2023 desktop calendar wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/october-2023-desktop-calendar-wallpaper">
+                            <span itemprop="name">october 2023 desktop calendar wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning October 2023 Desktop Calendar Wallpapers</h1>
+                <p>October 2023 brings a fresh vibe with stunning desktop calendar wallpapers. Choose from vibrant nature scenes, minimalistic designs, or motivational quotes to enhance your workspace. Perfectly sized for any screen, these wallpapers keep you organized while adding aesthetic charm. Download your favorite and embrace the new month!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Downloadable October 2023 Calendar - The Knit Picks Staff ...">
+                                <img itemprop="contentUrl url" src='https://blog.knitpicks.com/wp-content/uploads/2023/09/wallpapers_2023_desktop_October.jpg' alt='Free Downloadable October 2023 Calendar - The Knit Picks Staff ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knit Picks Blog" />
+                                </span>
+                                <a href='https://blog.knitpicks.com/wp-content/uploads/2023/09/wallpapers_2023_desktop_October.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/02/10_2023_Oct_Christian_Landscape_Designed-By-EntheosWeb.png' alt='October Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/02/10_2023_Oct_Christian_Landscape_Designed-By-EntheosWeb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2023 Halloween Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2023/09/10-2023-wallpaper-02-computer-calendar.jpg' alt='October 2023 Halloween Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10793">
+                                <meta itemprop="height" content="6001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2023/09/10-2023-wallpaper-02-computer-calendar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-Autumn.png' alt='October Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-Autumn.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/October-Calendar-Desktop-Wallpaper-Pumpkins.png' alt='October Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/October-Calendar-Desktop-Wallpaper-Pumpkins.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-Autumn-2.png' alt='October Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-Autumn-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="october 2023 desktop, laptop halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/54/f0/1a54f00536d6deb4be93fd2c1af888cc.jpg' alt='october 2023 desktop, laptop halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/54/f0/1a54f00536d6deb4be93fd2c1af888cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2023 - Golden Hour Desktop Calendar- Free October Wallpaper">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/images/2023/09/27/32649/32649-golden-1440x900_source_file.png' alt='October 2023 - Golden Hour Desktop Calendar- Free October Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/images/2023/09/27/32649/32649-golden-1440x900_source_file.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/10-2023/october-2023-wallpaper-calendar-halloween-1600x900.jpg' alt='October 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6668">
+                                <meta itemprop="height" content="3751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/10-2023/october-2023-wallpaper-calendar-halloween-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-flowers.png' alt='October Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/05/October-2023-Desktop-Wallpaper-flowers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

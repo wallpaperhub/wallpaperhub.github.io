@@ -1,0 +1,129 @@
+<title>Awesome Seinfeld Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the best Seinfeld wallpapers for your iPhone! Personalize your device with stunning designs featuring classic moments and quotes from the beloved sitcom. Perfect for fans looking to add a touch of nostalgia and humor to their screens. Download your favorites today!">
+                    <meta name="keywords" content="seinfeld wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/seinfeld-wallpaper-iphone">
+                            <span itemprop="name">seinfeld wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Seinfeld Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with Seinfeld wallpaper that captures the essence of the iconic sitcom! From memorable quotes to classic moments, these wallpapers add a touch of humor and nostalgia to your device. Perfect for any Seinfeld fan, enjoy a daily reminder of your favorite moments right on your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-ypxtjicjbhjc1.jpg?width=640&crop=smart&auto=webp&s=712cfdfa62d00a6c257ff2bcd5a2f7f96807fa17' alt='Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-ypxtjicjbhjc1.jpg?width=640&crop=smart&auto=webp&s=712cfdfa62d00a6c257ff2bcd5a2f7f96807fa17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-y9kp5icjbhjc1.jpg?width=1170&format=pjpg&auto=webp&s=21ff03dbea5c4c5c28254998b65421246202eb87' alt='Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-y9kp5icjbhjc1.jpg?width=1170&format=pjpg&auto=webp&s=21ff03dbea5c4c5c28254998b65421246202eb87' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-q8lmficjbhjc1.jpg?width=640&crop=smart&auto=webp&s=63dbcb057545f771f565a9cae1f9a0dba4bfc99d' alt='Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-q8lmficjbhjc1.jpg?width=640&crop=smart&auto=webp&s=63dbcb057545f771f565a9cae1f9a0dba4bfc99d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seinfeld Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/02/79/f20279492031bf1cc5c0e3adfb93c1b1.jpg' alt='Seinfeld Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/02/79/f20279492031bf1cc5c0e3adfb93c1b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seinfeld Wallpaper Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/71/da/84/71da846b9560b97716771d8fb4fd4cbf.jpg' alt='Seinfeld Wallpaper Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/71/da/84/71da846b9560b97716771d8fb4fd4cbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2020/04/seinfeld-offensive-brute_iphone-x.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2020/04/seinfeld-offensive-brute_iphone-x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my favorite Seinfeld Wallpaper that I've come across on ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5of2sabwyuh01.jpg' alt='This is my favorite Seinfeld Wallpaper that I've come across on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5of2sabwyuh01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-q8lmficjbhjc1.jpg?width=108&crop=smart&auto=webp&s=5515296a3a33b9bd660220b16cbbe47d2215fe59' alt='Made some wallpapers for my iPhone 14! Wanted to share! : r/seinfeld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="108">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-some-wallpapers-for-my-iphone-14-wanted-to-share-v0-q8lmficjbhjc1.jpg?width=108&crop=smart&auto=webp&s=5515296a3a33b9bd660220b16cbbe47d2215fe59' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper. : r/seinfeld">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/w1hwcuh2xfu91.jpg' alt='New wallpaper. : r/seinfeld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/w1hwcuh2xfu91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 15 Pro Max Wallpaper Seinfeld C by rix-wn on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhq60yz-5623e982-6a52-4657-9416-9fcb3026398b.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_seinfeld_c_by_rix_wn_dhq60yz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhxNjB5ei01NjIzZTk4Mi02YTUyLTQ2NTctOTQxNi05ZmNiMzAyNjM5OGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vOTwHHchFIRfRzfWaUgmtwP0vCyTiK5cQf92MR4RR6Q' alt='iphone 15 Pro Max Wallpaper Seinfeld C by rix-wn on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhq60yz-5623e982-6a52-4657-9416-9fcb3026398b.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_seinfeld_c_by_rix_wn_dhq60yz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhxNjB5ei01NjIzZTk4Mi02YTUyLTQ2NTctOTQxNi05ZmNiMzAyNjM5OGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vOTwHHchFIRfRzfWaUgmtwP0vCyTiK5cQf92MR4RR6Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

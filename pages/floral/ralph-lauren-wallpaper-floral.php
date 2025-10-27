@@ -1,0 +1,129 @@
+<title>Elegant Floral Wallpaper by Ralph Lauren for Your Home</title>
+                    <meta name="description" content="Add elegance to your interiors with Ralph Lauren floral wallpaper. Perfect for any room, these high-quality designs capture the beauty of nature and enhance your decor. Explore our collection for a sophisticated touch to transform your space today!">
+                    <meta name="keywords" content="ralph lauren wallpaper floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/ralph-lauren-wallpaper-floral">
+                            <span itemprop="name">ralph lauren wallpaper floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Floral Wallpaper by Ralph Lauren for Your Home</h1>
+                <p>Transform your space with Ralph Lauren's exquisite floral wallpaper. Known for its timeless elegance, this collection features intricate designs inspired by nature, bringing a touch of sophistication into any room. Ideal for creating a serene atmosphere, these wallpapers elevate your decor and add a breathtaking visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Ashfield Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7645_i182_w1000.jpeg' alt='Ralph Lauren - Ashfield Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7645_i182_w1000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRL048-04 | Marlowe Floral - Ralph Lauren Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_5acbfe5a-9dcd-48ab-a6b9-9bd4555b78fe.jpg?v=1662049716' alt='PRL048-04 | Marlowe Floral - Ralph Lauren Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_5acbfe5a-9dcd-48ab-a6b9-9bd4555b78fe.jpg?v=1662049716' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren Wainscott Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tattahome.com/87991-large_default/ralph-lauren-wainscott-floral-wallpaper.jpg' alt='Ralph Lauren Wainscott Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattahome" />
+                                </span>
+                                <a href='https://www.tattahome.com/87991-large_default/ralph-lauren-wainscott-floral-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Ashfield Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7645_i185_w1000.jpeg' alt='Ralph Lauren - Ashfield Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p7645_i185_w1000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample LWP60740W Marlowe Floral by Ralph Lauren Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_3746ffb1-bad9-4369-9478-761cf8957ced.jpg?v=1663332885' alt='Sample LWP60740W Marlowe Floral by Ralph Lauren Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_3746ffb1-bad9-4369-9478-761cf8957ced.jpg?v=1663332885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ashfield Floral by Ralph Lauren - Blue - Wallpaper - PRL027/01">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/93657/tiled/ralph-lauren-ashfield-floral-blue-wallpaper-tiled-093657.jpg' alt='Ashfield Floral by Ralph Lauren - Blue - Wallpaper - PRL027/01'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/93657/tiled/ralph-lauren-ashfield-floral-blue-wallpaper-tiled-093657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marlowe Floral Swatch: Gunmetal">
+                                <img itemprop="contentUrl url" src='https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-60201186A3714_lifestyle?$rl_enh_sample$' alt='Marlowe Floral Swatch: Gunmetal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ralph Lauren" />
+                                </span>
+                                <a href='https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-60201186A3714_lifestyle?$rl_enh_sample$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marlowe Floral Wallpaper Ralph Lauren">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/149797-extra_large/marlowe-floral-wallpaper-ralph-lauren.jpg' alt='Marlowe Floral Wallpaper Ralph Lauren'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/149797-extra_large/marlowe-floral-wallpaper-ralph-lauren.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren - Ashfield Floral - 1 Roll">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p12619_i191_w1336.jpeg' alt='Ralph Lauren - Ashfield Floral - 1 Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p12619_i191_w1336.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ralph Lauren Wallpaper LWP66515W Marlowe Floral Sage">
+                                <img itemprop="contentUrl url" src='https://is-theme-dev.myshopify.com/cdn/shop/products/lwp66515w-marlowe-floral-sage-by-ralph-lauren.jpg?v=1478631078' alt='Ralph Lauren Wallpaper LWP66515W Marlowe Floral Sage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IS Theme Dev" />
+                                </span>
+                                <a href='https://is-theme-dev.myshopify.com/cdn/shop/products/lwp66515w-marlowe-floral-sage-by-ralph-lauren.jpg?v=1478631078' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

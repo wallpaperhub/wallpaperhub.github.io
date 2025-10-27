@@ -1,0 +1,129 @@
+<title>The History of Xanax: When It First Launched</title>
+                    <meta name="description" content="Discover the history of Xanax, approved by the FDA in 1981. Learn about its rise in popularity for treating anxiety and panic disorders, as well as the ongoing conversations around its usage and dependency issues. Explore the journey of this widely prescribed medication today!">
+                    <meta name="keywords" content="when did xanax come out">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-xanax-come-out">
+                            <span itemprop="name">when did xanax come out</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The History of Xanax: When It First Launched</h1>
+                <p>Xanax, the brand name for alprazolam, was first approved by the FDA in 1981. It quickly became popular as an effective treatment for anxiety and panic disorders. Its calming effects led to widespread use, making it one of the most prescribed medications in the United States. Over the years, Xanax has sparked discussions around dependency and misuse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xanax | Release">
+                                <img itemprop="contentUrl url" src='https://www.release.org.uk/sites/default/files/styles/thumbnail-teaser/public/images/drugs/xanax.jpg?itok=w8UVmmRm' alt='Xanax | Release'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="178">
+                                <meta itemprop="height" content="178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xanax | Release" />
+                                </span>
+                                <a href='https://www.release.org.uk/sites/default/files/styles/thumbnail-teaser/public/images/drugs/xanax.jpg?itok=w8UVmmRm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alprazolam - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Xanax_2_mg.jpg/220px-Xanax_2_mg.jpg' alt='Alprazolam - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Xanax_2_mg.jpg/220px-Xanax_2_mg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Xanax: Tracing the Origins of Xanax">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/650badc7216ec563f3aeb918/65df0c39e4bfa8c98a803ac1_Xanax-Tolerance.jpg-1024x512.webp' alt='The History of Xanax: Tracing the Origins of Xanax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elev8 Centers" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/650badc7216ec563f3aeb918/65df0c39e4bfa8c98a803ac1_Xanax-Tolerance.jpg-1024x512.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rise of Xanax Addiction in Pop Culture | Recovery Care Partner">
+                                <img itemprop="contentUrl url" src='https://recoverycarepartner.com/wp-content/uploads/2018/11/1269477821_b802f3c7c5_b.jpg' alt='Rise of Xanax Addiction in Pop Culture | Recovery Care Partner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recovery Care Partner" />
+                                </span>
+                                <a href='https://recoverycarepartner.com/wp-content/uploads/2018/11/1269477821_b802f3c7c5_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What you need to know about Xanax - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6B26/production/_96003472_xanax.jpg' alt='What you need to know about Xanax - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6B26/production/_96003472_xanax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fake Xanax: Anxiety drug deaths an 'escalating crisis'">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/6AC3/production/_101013372_img_6877.jpg' alt='Fake Xanax: Anxiety drug deaths an 'escalating crisis''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/6AC3/production/_101013372_img_6877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does Xanax feel like? Main effects, side effects, and withdrawal">
+                                <img itemprop="contentUrl url" src='https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/01/Xanax_feel_GettyImages1041936304_Thumb-732x549.jpg' alt='What does Xanax feel like? Main effects, side effects, and withdrawal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MedicalNewsToday" />
+                                </span>
+                                <a href='https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/01/Xanax_feel_GettyImages1041936304_Thumb-732x549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xanax Bars: Types, Strengths, Effects, & Risks | Renaissance Recovery">
+                                <img itemprop="contentUrl url" src='https://www.renaissancerecovery.com/wp-content/uploads/2024/12/Xanax-Bars_-Types-Strengths-Effects-Risks.png' alt='Xanax Bars: Types, Strengths, Effects, & Risks | Renaissance Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renaissance Recovery" />
+                                </span>
+                                <a href='https://www.renaissancerecovery.com/wp-content/uploads/2024/12/Xanax-Bars_-Types-Strengths-Effects-Risks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xanax Study Outcomes - Benzodiazepine Information Coalition">
+                                <img itemprop="contentUrl url" src='https://www.benzoinfo.com/wp-content/uploads/2017/01/0035012_01.jpg' alt='Xanax Study Outcomes - Benzodiazepine Information Coalition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Benzodiazepine Information Coalition" />
+                                </span>
+                                <a href='https://www.benzoinfo.com/wp-content/uploads/2017/01/0035012_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xanax Bars: What Are They and Everything You Need To Know">
+                                <img itemprop="contentUrl url" src='https://www.tpoftampa.com/wp-content/uploads/2023/06/xanax-bars-dean812-turning-point-of-tampa-1024x576.webp' alt='Xanax Bars: What Are They and Everything You Need To Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turning Point of Tampa" />
+                                </span>
+                                <a href='https://www.tpoftampa.com/wp-content/uploads/2023/06/xanax-bars-dean812-turning-point-of-tampa-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spring Minimalist Wallpapers: Refresh Your Space</title>
+                    <meta name="description" content="Discover elegant spring minimalist wallpapers designed to rejuvenate your home. With soft colors and simple patterns, each wallpaper creates a serene environment perfect for any decor style. Elevate your space effortlessly with our handpicked collection today!">
+                    <meta name="keywords" content="spring minimalist wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spring-minimalist-wallpaper">
+                            <span itemprop="name">spring minimalist wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Minimalist Wallpapers: Refresh Your Space</h1>
+                <p>Embrace the essence of spring with our collection of minimalist wallpapers. Featuring soft pastels and nature-inspired designs, these wallpapers breathe life into your space while maintaining a calm aesthetic. Perfect for modern homes, they create a refreshing atmosphere, evoking feelings of warmth and tranquility. Transform your walls today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Minimalist Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-spring-btfte37sl1tmesjw.jpg' alt='100+] Minimalist Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-spring-btfte37sl1tmesjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Classic Minimalist Floral Wallpaper R9303">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' alt='Green Classic Minimalist Floral Wallpaper R9303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Spring Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/6a/16/e16a165cc356141f9d6d88a6b41ab7c2.jpg' alt='Minimalist Spring Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/6a/16/e16a165cc356141f9d6d88a6b41ab7c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring time minimal landscape wallpaper by dpcdpc11">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/127/1273611.png' alt='Spring time minimal landscape wallpaper by dpcdpc11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/127/1273611.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute minimal floral phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/63/f1/f563f18407dc1efa7b18e8ac786b26d9.jpg' alt='Cute minimal floral phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/63/f1/f563f18407dc1efa7b18e8ac786b26d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Elegant Spring Time Background Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/illustrated-minimal-elegant-spring-time-background-wallpaper-minimal-spring-background-255312789.jpg' alt='Minimal Elegant Spring Time Background Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/illustrated-minimal-elegant-spring-time-background-wallpaper-minimal-spring-background-255312789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Spring Aesthetic Wallpaper Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-floral-background_53876-67066.jpg' alt='Minimalist Spring Aesthetic Wallpaper Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-floral-background_53876-67066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring egg desktop, phone and tablet wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='http://makeandtell.com/cdn/shop/articles/spring-egg-widescreen.jpg?v=1648438685' alt='Spring egg desktop, phone and tablet wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='http://makeandtell.com/cdn/shop/articles/spring-egg-widescreen.jpg?v=1648438685' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Spring Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/b8/bf/93b8bf448760d5d44da74c97a8f7e7ec.jpg' alt='Minimal Spring Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/b8/bf/93b8bf448760d5d44da74c97a8f7e7ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy the beauty of the season with a minimalist approach ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-spring-lbc0t5uvip1ft3vs.jpg' alt='Download Enjoy the beauty of the season with a minimalist approach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-spring-lbc0t5uvip1ft3vs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

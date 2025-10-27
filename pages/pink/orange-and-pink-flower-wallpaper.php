@@ -1,0 +1,129 @@
+<title>Vibrant Orange & Pink Flower Wallpaper for Home Decor</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="orange and pink flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/orange-and-pink-flower-wallpaper">
+                            <span itemprop="name">orange and pink flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange & Pink Flower Wallpaper for Home Decor</h1>
+                <p>Transform your space with vibrant orange and pink flower wallpaper. Perfect for adding a touch of warmth and creativity to any room, these stunning floral designs can brighten your decor. Whether you're looking to create a focal point or a soft background, orange and pink flowers bring energy and charm to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Orange Retro Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.dormify.com/cdn/shop/products/82198567473e4874a764193968bdd64a.jpg?v=1695754411&width=1500' alt='Pink And Orange Retro Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dormify" />
+                                </span>
+                                <a href='https://www.dormify.com/cdn/shop/products/82198567473e4874a764193968bdd64a.jpg?v=1695754411&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Orange Flowers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-hand-painted-flowers-background_52683-76464.jpg' alt='Pink And Orange Flowers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-hand-painted-flowers-background_52683-76464.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A pattern of pink and orange flowers Pink flower ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pattern-pink-orange-flowers-pink-flower-wallpaper-spring-summer-floral-print-vector_884113-22.jpg' alt='Premium Vector | A pattern of pink and orange flowers Pink flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pattern-pink-orange-flowers-pink-flower-wallpaper-spring-summer-floral-print-vector_884113-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink orange flower background with watercolor">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-orange-flower-background-with-watercolor_359536-367.jpg' alt='Premium Vector | Pink orange flower background with watercolor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-orange-flower-background-with-watercolor_359536-367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange and pink Hawaiian flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/47/19/024719d9122f52bf8b12ca6df7a9dc4a.jpg' alt='Orange and pink Hawaiian flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/47/19/024719d9122f52bf8b12ca6df7a9dc4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REDAMANCY Vintage Orange/Pink Poppy Floral Large Flowers Peel and Stick  Wallpaper Stick on Contact Paper Vintage Wall Paper Easy Peel Off for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71m6UYpOPtL._AC_UF894,1000_QL80_.jpg' alt='REDAMANCY Vintage Orange/Pink Poppy Floral Large Flowers Peel and Stick  Wallpaper Stick on Contact Paper Vintage Wall Paper Easy Peel Off for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71m6UYpOPtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="181,700+ Orange And Pink Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1427936674/photo/summer-flowers.jpg?s=612x612&w=0&k=20&c=15Aga0_QKks-0eTB0R4nn2VqeV3uX89KCBTN4cXsjjA=' alt='181,700+ Orange And Pink Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1427936674/photo/summer-flowers.jpg?s=612x612&w=0&k=20&c=15Aga0_QKks-0eTB0R4nn2VqeV3uX89KCBTN4cXsjjA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Orange Flower Background">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/backgrounds/flower/flowerbg130.gif' alt='Pink and Orange Flower Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/backgrounds/flower/flowerbg130.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicate pastel floral pattern. Light pink and orange flowers ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2E9WGPG/delicate-pastel-floral-pattern-light-pink-and-orange-flowers-background-cute-diagonal-blooming-texture-for-fabric-wallpaper-wrapping-paper-2E9WGPG.jpg' alt='Delicate pastel floral pattern. Light pink and orange flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2E9WGPG/delicate-pastel-floral-pattern-light-pink-and-orange-flowers-background-cute-diagonal-blooming-texture-for-fabric-wallpaper-wrapping-paper-2E9WGPG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Bomb Wallpaper in Pink and Orange">
+                                <img itemprop="contentUrl url" src='https://lusthome.com/cdn/shop/products/LH900274---Chintz---Overgrown-Bright-Pink-and-Orange.jpg?v=1614284124' alt='Flower Bomb Wallpaper in Pink and Orange'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lust Home" />
+                                </span>
+                                <a href='https://lusthome.com/cdn/shop/products/LH900274---Chintz---Overgrown-Bright-Pink-and-Orange.jpg?v=1614284124' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

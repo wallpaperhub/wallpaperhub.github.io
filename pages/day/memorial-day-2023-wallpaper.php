@@ -1,0 +1,129 @@
+<title>Memorial Day 2023 Wallpaper: Honor & Remember</title>
+                    <meta name="description" content="Discover stunning Memorial Day 2023 wallpapers to honor our heroes. Celebrate with vibrant designs that pay tribute to the brave sacrifices made for our freedom. Find the perfect wallpaper to personalize your device and show your patriotism this Memorial Day!">
+                    <meta name="keywords" content="memorial day 2023 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/memorial-day-2023-wallpaper">
+                            <span itemprop="name">memorial day 2023 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Memorial Day 2023 Wallpaper: Honor & Remember</h1>
+                <p>Honor the heroes this Memorial Day with stunning wallpapers for 2023, designed to commemorate the sacrifices of brave souls. Choose from vibrant images of flags, solemn tributes, and patriotic symbols to personalize your devices. Celebrate freedom and remembrance in style this May. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day 2023 Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-memorial-day-background_23-2149340484.jpg' alt='Memorial Day 2023 Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-memorial-day-background_23-2149340484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Memorial Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/memorial-day-3wzxsvz9k7yx2jx1.jpg' alt='100+] Memorial Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/memorial-day-3wzxsvz9k7yx2jx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day 2023 Images – Browse 7,194 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/90/62/18/360_F_490621854_PX6QBiXow7wYY462NN36WdKcLPEYZhHV.jpg' alt='Memorial Day 2023 Images – Browse 7,194 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/90/62/18/360_F_490621854_PX6QBiXow7wYY462NN36WdKcLPEYZhHV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12135183.png' alt='Memorial Day 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12135183.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Opening hours: Memorial Day 2023: What's open and ...">
+                                <img itemprop="contentUrl url" src='https://m.economictimes.com/thumb/msid-100503354,width-1600,height-900,resizemode-4,imgsize-78094/memorial-day-2023-whats-open-and-closed-on-may-29.jpg' alt='Memorial Day Opening hours: Memorial Day 2023: What's open and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Economic Times" />
+                                </span>
+                                <a href='https://m.economictimes.com/thumb/msid-100503354,width-1600,height-900,resizemode-4,imgsize-78094/memorial-day-2023-whats-open-and-closed-on-may-29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Ceremony May 29th, 2023 - North County Cemetery District">
+                                <img itemprop="contentUrl url" src='https://streamline.imgix.net/151b843f-62be-447a-adab-0af7fc1bdf03/bfd364f9-3e16-4739-985a-f03aa4528156/Memorial%20Day%20Event%202023.webp?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=f3722f839ed1ca011cde6c1224f1a962' alt='Memorial Day Ceremony May 29th, 2023 - North County Cemetery District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North County Cemetery District" />
+                                </span>
+                                <a href='https://streamline.imgix.net/151b843f-62be-447a-adab-0af7fc1bdf03/bfd364f9-3e16-4739-985a-f03aa4528156/Memorial%20Day%20Event%202023.webp?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=f3722f839ed1ca011cde6c1224f1a962' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Memorial Day Images">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=214619720908344' alt='Happy Memorial Day Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=214619720908344' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Wallpaper PSD, High Quality Free PSD Templates for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/usa-memorial-day-3d-social-media-banner-template_47987-15638.jpg' alt='Memorial Day Wallpaper PSD, High Quality Free PSD Templates for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/usa-memorial-day-3d-social-media-banner-template_47987-15638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day 2024: Facts, Meaning & Traditions | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/memorial-day-gettyimages-612537080.jpg?width=768' alt='Memorial Day 2024: Facts, Meaning & Traditions | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/memorial-day-gettyimages-612537080.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day 2023 - American Beauty School">
+                                <img itemprop="contentUrl url" src='https://www.americanbeautyschool.edu/wp-content/uploads/2023/05/Memorial-Day--1024x1024.png' alt='Memorial Day 2023 - American Beauty School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Beauty School" />
+                                </span>
+                                <a href='https://www.americanbeautyschool.edu/wp-content/uploads/2023/05/Memorial-Day--1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

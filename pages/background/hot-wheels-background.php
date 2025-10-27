@@ -1,0 +1,129 @@
+<title>Rev Up Your Imagination: The Hot Wheels Experience</title>
+                    <meta name="description" content="Discover the thrilling world of Hot Wheels, where creativity meets speed! Explore an extensive collection of toy cars and tracks, perfect for racing fans and collectors. Dive into the vibrant history and excitement of Hot Wheels today!">
+                    <meta name="keywords" content="hot wheels background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hot-wheels-background">
+                            <span itemprop="name">hot wheels background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rev Up Your Imagination: The Hot Wheels Experience</h1>
+                <p>Hot Wheels, the iconic toy car brand, has captivated generations since its debut in 1968. Designed for racing enthusiasts and collectors alike, Hot Wheels features an array of cars and tracks that spark creativity and imagination. Its racing concept promotes friendly competition while showcasing innovative designs that thrill fans of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Backdrop Hot Wheels Beautiful Colorful Toy Cars Party Personalized  DIY Custom Photo Studio Props Background Vinyl - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/H98410df789ab4f72910a4c9a51f31a94K.jpg' alt='Photo Backdrop Hot Wheels Beautiful Colorful Toy Cars Party Personalized  DIY Custom Photo Studio Props Background Vinyl - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/H98410df789ab4f72910a4c9a51f31a94K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/two-cars-are-blue-background-with-yellow-x-front_1284951-2646.jpg' alt='Hot Wheels Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/two-cars-are-blue-background-with-yellow-x-front_1284951-2646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Racing Car Backdrop Wheels Wild Racer Runway Boy Birthday Party  Photography Background">
+                                <img itemprop="contentUrl url" src='http://www.dreamybackdrop.com/cdn/shop/products/5_36ff581d-48ef-45f7-8d84-924579fe23fe_1024x.png?v=1676020020' alt='Custom Racing Car Backdrop Wheels Wild Racer Runway Boy Birthday Party  Photography Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='http://www.dreamybackdrop.com/cdn/shop/products/5_36ff581d-48ef-45f7-8d84-924579fe23fe_1024x.png?v=1676020020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Plastic Table Cover 54" x 96"">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Hot-Wheels-Wild-Racer-Plastic-Table-Cover-Party-Supplies_5c7f2865-d12b-4af4-b28c-5812d345ee86.922b9d2c5c326bca473ef08e6924310f.jpeg' alt='Hot Wheels Plastic Table Cover 54" x 96"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Hot-Wheels-Wild-Racer-Plastic-Table-Cover-Party-Supplies_5c7f2865-d12b-4af4-b28c-5812d345ee86.922b9d2c5c326bca473ef08e6924310f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cars Hot Wheels Happy Birthday Party Background Supplies Photo Banner  Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/5j8AAOSwUCpmcOZq/s-l1200.jpg' alt='Cars Hot Wheels Happy Birthday Party Background Supplies Photo Banner  Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/5j8AAOSwUCpmcOZq/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/8/2136041-3840x2160-desktop-4k-hot-wheels-background.jpg' alt='Hot Wheels Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/8/2136041-3840x2160-desktop-4k-hot-wheels-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Birthday Party Backdrop Tabletop 7x5ft Wild Hot Racer Car Themed  Birthday Background for Boy 1st Birthday Party Vinyl Photo Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71umbTge7NL._AC_UF894,1000_QL80_.jpg' alt='Hot Wheels Birthday Party Backdrop Tabletop 7x5ft Wild Hot Racer Car Themed  Birthday Background for Boy 1st Birthday Party Vinyl Photo Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71umbTge7NL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOTWHEELS PARTY BACKDROP BANNER | HOT WHEELS HOT RODS RACE CARS BIRTHDAY  BACKDROP | CUSTOM PHOTO">
+                                <img itemprop="contentUrl url" src='https://simsluvcreations.com/cdn/shop/products/Hot_Wheels_Backdrop_With_Photo-02_2048x.png?v=1568342436' alt='HOTWHEELS PARTY BACKDROP BANNER | HOT WHEELS HOT RODS RACE CARS BIRTHDAY  BACKDROP | CUSTOM PHOTO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sims Luv Creations" />
+                                </span>
+                                <a href='https://simsluvcreations.com/cdn/shop/products/Hot_Wheels_Backdrop_With_Photo-02_2048x.png?v=1568342436' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Birthday Party Decorations: Car Backdrop, Macao | Ubuy">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71UZnhecVvL._AC_SL1500_.jpg' alt='Hot Wheels Birthday Party Decorations: Car Backdrop, Macao | Ubuy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuy Macao" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71UZnhecVvL._AC_SL1500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Wheels Made to Race Car Race Blue - 889333373612">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/Checker/CD15300R-BLUE.jpg' alt='Hot Wheels Made to Race Car Race Blue - 889333373612'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Out West Quilts and Fabric" />
+                                </span>
+                                <a href='https://media.rainpos.com/Checker/CD15300R-BLUE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

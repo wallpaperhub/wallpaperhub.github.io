@@ -1,0 +1,129 @@
+<title>Vintage Green Floral Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Discover the beauty of vintage green floral wallpaper to elevate your home decor. This timeless design brings a touch of nature indoors, enhancing any space with elegance and style. Perfect for creating a cozy atmosphere in any room. Shop now for a classic look that never goes out of fashion!">
+                    <meta name="keywords" content="vintage green floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-green-floral-wallpaper">
+                            <span itemprop="name">vintage green floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Green Floral Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with vintage green floral wallpaper, perfect for adding a touch of nostalgia and elegance. Its intricate designs, featuring delicate blooms and lush greenery, create a serene atmosphere, ideal for bedrooms, living areas, or any personal retreat. Embrace the charm of the past while enhancing modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' alt='Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodland Floral Wallpaper • Floral Wallpaper • Milton & King USA">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2024/06/WR564HC-G-WoodlandFloral-Green-1.jpg' alt='Woodland Floral Wallpaper • Floral Wallpaper • Milton & King USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2024/06/WR564HC-G-WoodlandFloral-Green-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Vintage Floral Peel and Stick Wallpaper (Forest Green) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mgdAejfCL.jpg' alt='NextWall Vintage Floral Peel and Stick Wallpaper (Forest Green) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mgdAejfCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MEADOW WALLPAPER">
+                                <img itemprop="contentUrl url" src='http://greenlyliving.co/cdn/shop/files/Western_Meadow_Sage_Sample_1600x2000_86cc2574-8804-4fc9-bd04-018f190b0e4a.jpg?v=1720356203&width=2048' alt='MEADOW WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="greenly living" />
+                                </span>
+                                <a href='http://greenlyliving.co/cdn/shop/files/Western_Meadow_Sage_Sample_1600x2000_86cc2574-8804-4fc9-bd04-018f190b0e4a.jpg?v=1720356203&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flora Green - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1669803208/articles/R19238_product.jpg' alt='Vintage Flora Green - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1669803208/articles/R19238_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Green Tandrils Boho Home Decor Sold per Full ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37069088/r/il/04da83/4239777970/il_570xN.4239777970_7dib.jpg' alt='Vintage Wallpaper Green Tandrils Boho Home Decor Sold per Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37069088/r/il/04da83/4239777970/il_570xN.4239777970_7dib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral by Albany - Green - Wallpaper - 13550">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/209582/tiled/albany-vintage-floral-green-wallpaper-tiled-209582.jpg?v=1690375126' alt='Vintage Floral by Albany - Green - Wallpaper - 13550'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/209582/tiled/albany-vintage-floral-green-wallpaper-tiled-209582.jpg?v=1690375126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Flowers • Antique Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Avocado-1.jpg.optimal.jpg' alt='County Flowers • Antique Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Avocado-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Wallpaper Vintage Garden Wallpaper Peel and Stick and  Traditional Wallpaper - D869">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5621072682_trnw.jpg?v=1725058172&width=1946' alt='Green Floral Wallpaper Vintage Garden Wallpaper Peel and Stick and  Traditional Wallpaper - D869'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5621072682_trnw.jpg?v=1725058172&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern 307345 Auguste Dark Green Floral Wallpaper from Museum by ...">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/auguste-dark-green-floral-wallpaper-nkqe-m.jpg' alt='Pattern 307345 Auguste Dark Green Floral Wallpaper from Museum by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/auguste-dark-green-floral-wallpaper-nkqe-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

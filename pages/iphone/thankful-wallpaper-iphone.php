@@ -1,0 +1,129 @@
+<title>Thankful Wallpapers for iPhone: Elevate Your Gratitude</title>
+                    <meta name="description" content="Discover the perfect thankful wallpapers for your iPhone! Our collection features inspiring designs that promote gratitude and positivity. Transform your screen into a daily reminder of appreciation and enhance your mood with beautiful visuals. Perfect for anyone who loves to spread positivity!">
+                    <meta name="keywords" content="thankful wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/thankful-wallpaper-iphone">
+                            <span itemprop="name">thankful wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thankful Wallpapers for iPhone: Elevate Your Gratitude</h1>
+                <p>Gratefulness is just a glance away with our collection of thankful wallpapers for iPhone. Each design inspires positivity and appreciation, creating a beautiful reminder of the good things in life. Elevate your screen and spread a wave of gratitude with stunning visuals that reflect your thankful spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thankful fall thanksgiving iPhone wallpaper | Thanksgiving iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/56/90/245690c50aa6ba3fc347d1d3cce3dfc0.jpg' alt='Thankful fall thanksgiving iPhone wallpaper | Thanksgiving iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/56/90/245690c50aa6ba3fc347d1d3cce3dfc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Am Thankful - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/44270-iamthankful_mobile.1100w.tn.jpg' alt='I Am Thankful - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/44270-iamthankful_mobile.1100w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Thanksgiving tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/a2/4f/c5a24f6875370f8ebcf7d16e7c5f7246.jpg' alt='iPhone Wallpaper - Thanksgiving tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/a2/4f/c5a24f6875370f8ebcf7d16e7c5f7246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn iPhone Wallpapers - Ginger and Ivory">
+                                <img itemprop="contentUrl url" src='https://gingerandivory.com/wp-content/uploads/2019/09/Fall-iphone-thankful.png' alt='Free Autumn iPhone Wallpapers - Ginger and Ivory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ginger and Ivory" />
+                                </span>
+                                <a href='https://gingerandivory.com/wp-content/uploads/2019/09/Fall-iphone-thankful.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun And Colorful Thanksgiving Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fun-and-colorful-thanksgiving-iphone-2xiek59wjw2plh2s.jpg' alt='Fun And Colorful Thanksgiving Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fun-and-colorful-thanksgiving-iphone-2xiek59wjw2plh2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grateful And Blessed Thanksgiving Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/grateful-and-blessed-thanksgiving-iphone-w5upiqkhia0delpm.jpg' alt='Grateful And Blessed Thanksgiving Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/grateful-and-blessed-thanksgiving-iphone-w5upiqkhia0delpm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Best Free Thanksgiving Wallpaper Downloads For Your iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0f/0e/fe/0f0efe4f42e7346d7755749e5d96a954.jpg' alt='30+ Best Free Thanksgiving Wallpaper Downloads For Your iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0f/0e/fe/0f0efe4f42e7346d7755749e5d96a954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Phone Wallpapers & Screensavers | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2023/10/Give-Thanks-By-EntheosWeb.png' alt='Thanksgiving Phone Wallpapers & Screensavers | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2023/10/Give-Thanks-By-EntheosWeb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November iPhone, Android, and Computer Wallpapers - More Than Sparrows">
+                                <img itemprop="contentUrl url" src='http://www.morethansparrows1.com/uploads/2/7/1/0/27101617/1570742.png?267' alt='November iPhone, Android, and Computer Wallpapers - More Than Sparrows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Than Sparrows" />
+                                </span>
+                                <a href='http://www.morethansparrows1.com/uploads/2/7/1/0/27101617/1570742.png?267' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpapers For The Newly-Engaged Bride!">
+                                <img itemprop="contentUrl url" src='https://somethingturquoise.com/wp-content/uploads/2017/11/ST_iphone_WP_Thankful.jpg' alt='Free iPhone Wallpapers For The Newly-Engaged Bride!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Something Turquoise" />
+                                </span>
+                                <a href='https://somethingturquoise.com/wp-content/uploads/2017/11/ST_iphone_WP_Thankful.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

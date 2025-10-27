@@ -1,0 +1,129 @@
+<title>Stunning Neon Fortnite Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover vibrant neon Fortnite wallpapers to energize your devices! Choose from a range of designs showcasing beloved characters and epic scenes, perfect for gamers looking to personalize their screens with a dazzling touch. Download now for an electrifying visual experience!">
+                    <meta name="keywords" content="neon fortnite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/neon-fortnite-wallpaper">
+                            <span itemprop="name">neon fortnite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Neon Fortnite Wallpapers for Gamers</h1>
+                <p>Elevate your gaming experience with stunning neon Fortnite wallpapers! Designed to bring vibrant energy to your screen, these wallpapers feature your favorite characters and iconic scenes illuminated in electrifying neon colors. Perfect for personalizing your devices, they add a unique flair and excitement to your Fortnite adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Fortnite Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/bc/cf/2bbccf9d193c637380d19c198838a6ff.jpg' alt='Neon Fortnite Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/bc/cf/2bbccf9d193c637380d19c198838a6ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite neon logo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/672/342/HD-wallpaper-fortnite-violet-logo-violet-brickwall-fortnite-logo-2020-games-fortnite-neon-logo-fortnite.jpg' alt='HD fortnite neon logo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/672/342/HD-wallpaper-fortnite-violet-logo-violet-brickwall-fortnite-logo-2020-games-fortnite-neon-logo-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite neon logo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/558/476/HD-wallpaper-fortnite-blue-logo-blue-neon-lights-creative-blue-abstract-background-fortnite-logo-online-games-fortnite.jpg' alt='HD fortnite neon logo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/558/476/HD-wallpaper-fortnite-blue-logo-blue-neon-lights-creative-blue-abstract-background-fortnite-logo-online-games-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite wallpaper I made ages ago. (1440p DL Link in comments ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ca8dnwbm4wm41.png' alt='Fortnite wallpaper I made ages ago. (1440p DL Link in comments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ca8dnwbm4wm41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Free For All 4915-8137-2262 by lootllamalex - Fortnite">
+                                <img itemprop="contentUrl url" src='https://cdn-0001.qstv.on.epicgames.com/iEJVXCSAvkGOCxzhyh/image/landscape_comp.jpeg' alt='Neon Free For All 4915-8137-2262 by lootllamalex - Fortnite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn-0001.qstv.on.epicgames.com/iEJVXCSAvkGOCxzhyh/image/landscape_comp.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Fortnite, Fortnite Battle Royale, Black Knight Fortnite ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3840x2400/b/10/black-knight-red-neon-lights-2020-games-fortnite-battle-roya.jpg' alt='Wallpaper Fortnite, Fortnite Battle Royale, Black Knight Fortnite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3840x2400/b/10/black-knight-red-neon-lights-2020-games-fortnite-battle-roya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite neon logo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/757/976/HD-wallpaper-fortnite-blue-logo-blue-brickwall-fortnite-logo-2020-games-fortnite-neon-logo-fortnite.jpg' alt='HD fortnite neon logo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/757/976/HD-wallpaper-fortnite-blue-logo-blue-brickwall-fortnite-logo-2020-games-fortnite-neon-logo-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Fortnite Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3908337.jpg' alt='Neon Fortnite Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3908337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fortnite Shirt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/0a/ae/e70aae9cd0a6fa8927d0c67431968881.jpg' alt='Amazon.com: Fortnite Shirt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/0a/ae/e70aae9cd0a6fa8927d0c67431968881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite 2560x1440 Neon Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fortnite-2560x1440-neon-background-bd43xxmusleagtnj.jpg' alt='Fortnite 2560x1440 Neon Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fortnite-2560x1440-neon-background-bd43xxmusleagtnj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

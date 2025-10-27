@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="css checkbox background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-checkbox-background-color">
+                            <span itemprop="name">css checkbox background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Checkbox background color and style - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/Xvp7H.png' alt='html - Checkbox background color and style - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="168">
+                                <meta itemprop="height" content="229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/Xvp7H.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jquery - Add background color to box of checkbox with Javascript ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/x7RNZ.png' alt='jquery - Add background color to box of checkbox with Javascript ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="171">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/x7RNZ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Tricks: Using images as checkboxes in your html forms">
+                                <img itemprop="contentUrl url" src='https://www.leenix.co.uk/social-images/2018-Dec/--sm-33.jpg' alt='CSS Tricks: Using images as checkboxes in your html forms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leenix" />
+                                </span>
+                                <a href='https://www.leenix.co.uk/social-images/2018-Dec/--sm-33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pure HTML CSS checboxes | Mario Araque">
+                                <img itemprop="contentUrl url" src='https://www.marioaraque.com/sites/default/files/styles/large/public/field/image/purehtmlcsschexkboxes.jpg?itok=mJp9AeL5' alt='Pure HTML CSS checboxes | Mario Araque'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mario Araque" />
+                                </span>
+                                <a href='https://www.marioaraque.com/sites/default/files/styles/large/public/field/image/purehtmlcsschexkboxes.jpg?itok=mJp9AeL5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - How do I change the color of the checkbox? - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/qhx6Y.png' alt='html - How do I change the color of the checkbox? - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/qhx6Y.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check box CSS Make Gradient Checkbox with pure CSS. Custom Input ...">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ozt9kee79w2tqczzwdb.png' alt='Check box CSS Make Gradient Checkbox with pure CSS. Custom Input ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ozt9kee79w2tqczzwdb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change the Checked Mark Color of a Checkbox using CSS ...">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20240627122803/out1.png' alt='How to Change the Checked Mark Color of a Checkbox using CSS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20240627122803/out1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - Background color on select checkbox - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/2Lk4b.png' alt='javascript - Background color on select checkbox - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/2Lk4b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Styling a checkbox with only CSS">
+                                <img itemprop="contentUrl url" src='https://cdn.hashnode.com/res/hashnode/image/upload/v1627309289830/DR_cVZEij.png' alt='Styling a checkbox with only CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kallmanation" />
+                                </span>
+                                <a href='https://cdn.hashnode.com/res/hashnode/image/upload/v1627309289830/DR_cVZEij.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Times Styling Checkbox States | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/fun-checkboxes.jpg' alt='Fun Times Styling Checkbox States | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/fun-checkboxes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

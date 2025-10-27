@@ -1,0 +1,129 @@
+<title>Unlock Your Ancestry: Discover Your Roots Today!</title>
+                    <meta name="description" content="Dive into your ancestry to uncover your family's history and heritage. Explore genealogy, build your family tree, and connect with your roots for a deeper understanding of who you are. Start your journey now and embrace the stories of your ancestors!">
+                    <meta name="keywords" content="ancestry">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ancestry">
+                            <span itemprop="name">ancestry</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Your Ancestry: Discover Your Roots Today!</h1>
+                <p>Ancestry offers a fascinating glimpse into our heritage, connecting us to our ancestors and their stories. By exploring family trees and genealogy, we uncover the rich tapestry of diverse backgrounds and cultures that shape who we are today. Understanding our roots fosters a deeper appreciation of traditions and family bonds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancestry Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/02YLLi86lwlZfi7PhKu6SMK-3.fit_scale.size_760x427.v1569474766.png' alt='Ancestry Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/02YLLi86lwlZfi7PhKu6SMK-3.fit_scale.size_760x427.v1569474766.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: AncestryDNA Genetic Test Kit: Personalized Genetic Results, DNA  Ethnicity Test, Origins & Ethnicities, Complete DNA Test : Health & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/617BGIO5IoL.jpg' alt='Amazon.com: AncestryDNA Genetic Test Kit: Personalized Genetic Results, DNA  Ethnicity Test, Origins & Ethnicities, Complete DNA Test : Health & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/617BGIO5IoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ancestry mobile apps for iPhone, iPad, Android and Amazon">
+                                <img itemprop="contentUrl url" src='https://cmsasset.ancestrycdn.com/content/ancestry/acom/en-us/ancestry-app/_jcr_content/root/responsivegrid/container_1770251051/itemlist/item-1/carousel_ancwidget/container-0/image.coreimg.png/1701468159657/appshow-l1.png' alt='Ancestry mobile apps for iPhone, iPad, Android and Amazon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ancestry.com" />
+                                </span>
+                                <a href='https://cmsasset.ancestrycdn.com/content/ancestry/acom/en-us/ancestry-app/_jcr_content/root/responsivegrid/container_1770251051/itemlist/item-1/carousel_ancwidget/container-0/image.coreimg.png/1701468159657/appshow-l1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Ancestry">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064457603428' alt='Profile for Ancestry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064457603428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AncestryDNA Genetic Test Kit + 3-Month Ancestry World Explorer Membership:  DNA Ethnicity Test, Find Relatives, Family History, Complete DNA Test, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71VtwMdr7nL._AC_UF1000,1000_QL80_.jpg' alt='AncestryDNA Genetic Test Kit + 3-Month Ancestry World Explorer Membership:  DNA Ethnicity Test, Find Relatives, Family History, Complete DNA Test, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="955">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71VtwMdr7nL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AncestryDNA® | DNA Tests for Ethnicity & Genealogy DNA Test">
+                                <img itemprop="contentUrl url" src='https://cmsasset.ancestrycdn.com/content/experience-fragments/acom/en-us/onsite/bau/dna_lohp/hero---jan-2023/3-product-ev24-lgcf/_jcr_content/root/responsivegrid/container_copy_copy__891895731/itemlist/item-0/container_copy/image.coreimg.png/1706304069942/dna-kit-campaigns-1.png' alt='AncestryDNA® | DNA Tests for Ethnicity & Genealogy DNA Test'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ancestry" />
+                                </span>
+                                <a href='https://cmsasset.ancestrycdn.com/content/experience-fragments/acom/en-us/onsite/bau/dna_lohp/hero---jan-2023/3-product-ev24-lgcf/_jcr_content/root/responsivegrid/container_copy_copy__891895731/itemlist/item-0/container_copy/image.coreimg.png/1706304069942/dna-kit-campaigns-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How accurate is Ancestry? - Organize Your Family History">
+                                <img itemprop="contentUrl url" src='https://organizeyourfamilyhistory.com/wp-content/uploads/2019/08/ancestrylogo.png' alt='How accurate is Ancestry? - Organize Your Family History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Organize Your Family History" />
+                                </span>
+                                <a href='https://organizeyourfamilyhistory.com/wp-content/uploads/2019/08/ancestrylogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23andMe DNA Ancestry Testing">
+                                <img itemprop="contentUrl url" src='https://www.23andme.com/_next/static/media/mobile-at.e9762cc9.png' alt='23andMe DNA Ancestry Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2260">
+                                <meta itemprop="height" content="1928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="23andMe" />
+                                </span>
+                                <a href='https://www.23andme.com/_next/static/media/mobile-at.e9762cc9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genealogy Website Ancestry.com Explores Sale | Vox">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15794988/20150520-ancestry-logo.0.1537217707.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889' alt='Genealogy Website Ancestry.com Explores Sale | Vox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15794988/20150520-ancestry-logo.0.1537217707.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Guide to Building and Searching Ancestry.com Family Trees">
+                                <img itemprop="contentUrl url" src='https://familytreemagazine.com/wp-content/uploads/2023/07/Ancestry-tree-example-Charles-family-descendant.png' alt='Your Guide to Building and Searching Ancestry.com Family Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Tree Magazine" />
+                                </span>
+                                <a href='https://familytreemagazine.com/wp-content/uploads/2023/07/Ancestry-tree-example-Charles-family-descendant.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

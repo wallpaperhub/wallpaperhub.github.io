@@ -1,0 +1,129 @@
+<title>Transform Your Space with Turquoise and White Wallpaper</title>
+                    <meta name="description" content="Add a refreshing look to your home with turquoise and white wallpaper. This stylish design brightens up any room, combining tranquility and elegance effortlessly. Perfect for various decor styles, it adds a modern and inviting touch to your space. Explore options to elevate your interior today!">
+                    <meta name="keywords" content="turquoise and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/turquoise-and-white-wallpaper">
+                            <span itemprop="name">turquoise and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Turquoise and White Wallpaper</h1>
+                <p>Turquoise and white wallpaper is perfect for adding a fresh, vibrant touch to any room. The combination of cool turquoise with crisp white creates a serene and modern atmosphere. Ideal for living rooms, bedrooms, or even bathrooms, it enhances natural light and pairs beautifully with various decor styles, making spaces feel inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Tiny Tots 2 Turquoise/White Matte Traditional Regency Stripe  Design Non-Pasted Non-Woven Paper Wallpaper Roll G78406">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/869b8ac5-d8c8-4ba6-97d0-0fd4ab5f3360/svn/wallpaper-rolls-g78406-64_600.jpg' alt='Unbranded Tiny Tots 2 Turquoise/White Matte Traditional Regency Stripe  Design Non-Pasted Non-Woven Paper Wallpaper Roll G78406'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/869b8ac5-d8c8-4ba6-97d0-0fd4ab5f3360/svn/wallpaper-rolls-g78406-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Wallpaper Leaves Wall Mural Pattern Watercolor Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/f90d41/3308572029/il_fullxfull.3308572029_cvkj.jpg' alt='Turquoise Wallpaper Leaves Wall Mural Pattern Watercolor Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/f90d41/3308572029/il_fullxfull.3308572029_cvkj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deliciosa Designer Wallpaper in Powder 'Blues, Turquoise and White ...">
+                                <img itemprop="contentUrl url" src='https://a.1stdibscdn.com/archivesE/upload/f_30433/f_96075011516390113991/deliciosa_powder_ai_01_master.jpg' alt='Deliciosa Designer Wallpaper in Powder 'Blues, Turquoise and White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stDibs" />
+                                </span>
+                                <a href='https://a.1stdibscdn.com/archivesE/upload/f_30433/f_96075011516390113991/deliciosa_powder_ai_01_master.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Turquoise Nautical Peel and Stick Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/afc6db0dbae27ad9f6cd6874fa075e744fece317/White-and-Turquoise-Nautical-Peel-and-Stick-Removable-Wallpaper-1610.jpg?impolicy=medium' alt='White and Turquoise Nautical Peel and Stick Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/afc6db0dbae27ad9f6cd6874fa075e744fece317/White-and-Turquoise-Nautical-Peel-and-Stick-Removable-Wallpaper-1610.jpg?impolicy=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3D Modern Canvas Wallpaper Mural Clean ocean waves breaking  white sand beach turquoise emerald coloured Peel and Stick Removable Self  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lRIp+eybL.jpg' alt='Amazon.com: 3D Modern Canvas Wallpaper Mural Clean ocean waves breaking  white sand beach turquoise emerald coloured Peel and Stick Removable Self  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lRIp+eybL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Teal">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_teal_8b3d3c52-401b-4be4-9dc5-ef5d43debaa2.jpg?v=1615484523' alt=''Candy Stripe' Wallpaper by Wallshoppe - Teal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_teal_8b3d3c52-401b-4be4-9dc5-ef5d43debaa2.jpg?v=1615484523' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise White Striped Wallpaper Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/foreground-there-white-turquoise-stripes-260nw-2150436291.jpg' alt='Turquoise White Striped Wallpaper Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/foreground-there-white-turquoise-stripes-260nw-2150436291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsy in Turquoise Patterns">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/whimsy-in-turquoise-patterns-pattern-repeat-removable-wallpaper-design.jpg' alt='Whimsy in Turquoise Patterns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/whimsy-in-turquoise-patterns-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Radiant Turquoise">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715960664/articles/OM0002BU01W_product.jpg' alt='Radiant Turquoise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715960664/articles/OM0002BU01W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Ostanskar Turquoise Retro Floral Non Woven Paper Wallpaper  2999-24111">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9735c6c1-d425-471b-b3c7-43337cd067b3/svn/wallpaper-rolls-2999-24111-64_600.jpg' alt='A-Street Prints Ostanskar Turquoise Retro Floral Non Woven Paper Wallpaper  2999-24111'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9735c6c1-d425-471b-b3c7-43337cd067b3/svn/wallpaper-rolls-2999-24111-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

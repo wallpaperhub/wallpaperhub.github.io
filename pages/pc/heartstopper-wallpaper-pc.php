@@ -1,0 +1,129 @@
+<title>Heartstopper Wallpaper for PC: Download Stunning Designs</title>
+                    <meta name="description" content="Discover a collection of captivating Heartstopper wallpapers for your PC. Personalize your desktop with beautiful artwork inspired by the hit series. Perfect for fans who want to showcase their love for Nick and Charlie. Download your favorite designs and elevate your digital space today!">
+                    <meta name="keywords" content="heartstopper wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/heartstopper-wallpaper-pc">
+                            <span itemprop="name">heartstopper wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartstopper Wallpaper for PC: Download Stunning Designs</h1>
+                <p>Transform your PC with stunning Heartstopper wallpapers that bring the beloved webcomic to life! Choose from vibrant designs featuring Nick and Charlie, capturing their heartwarming journey. Perfect for fans, these wallpapers add a personal touch to your desktop while showcasing your love for the series. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper for my laptop! I thought maybe you guys would ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qyc89zf7c7x81.png?width=1920&format=png&auto=webp&s=aa48eadbd626d727177a657b2a9ba3ae37bc29d3' alt='Made a wallpaper for my laptop! I thought maybe you guys would ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qyc89zf7c7x81.png?width=1920&format=png&auto=webp&s=aa48eadbd626d727177a657b2a9ba3ae37bc29d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper pc wallpaper    (size 1920x1080) : r/HeartstopperAO">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heartstopper-pc-wallpaper-size-1920x1080-v0-wz82398tdhg91.jpg?width=1080&crop=smart&auto=webp&s=7ee3f24051f4ff23d6f6821eedf33827d90b28eb' alt='Heartstopper pc wallpaper    (size 1920x1080) : r/HeartstopperAO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heartstopper-pc-wallpaper-size-1920x1080-v0-wz82398tdhg91.jpg?width=1080&crop=smart&auto=webp&s=7ee3f24051f4ff23d6f6821eedf33827d90b28eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/d6/2b/4cd62bb12e51c9756d6005121e110886.jpg' alt='Heartstopper Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/d6/2b/4cd62bb12e51c9756d6005121e110886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper Flowers and Leaves Wallpapers (Desktop + Phone) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ecls76uo6cw81.png?width=2560&format=png&auto=webp&s=f71cb08160ddb83451172f9ffed5d6340283a480' alt='Heartstopper Flowers and Leaves Wallpapers (Desktop + Phone) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ecls76uo6cw81.png?width=2560&format=png&auto=webp&s=f71cb08160ddb83451172f9ffed5d6340283a480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/66/97/a366977bbffa052ce5a234191ff6335a.jpg' alt='Heartstopper Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/66/97/a366977bbffa052ce5a234191ff6335a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper Flowers and Leaves Wallpapers (Desktop + Phone) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vn44w9fv6cw81.png?width=2560&format=png&auto=webp&s=861a6fe6e279c21726543b827952bf053b09ea09' alt='Heartstopper Flowers and Leaves Wallpapers (Desktop + Phone) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vn44w9fv6cw81.png?width=2560&format=png&auto=webp&s=861a6fe6e279c21726543b827952bf053b09ea09' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartstopper PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12630023.jpg' alt='Heartstopper PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12630023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Heartstopper HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/123/1230913.jpg' alt='Download TV Show Heartstopper HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/123/1230913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Heartstopper wallpapers ideas | laptop wallpaper, wallpaper pc ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1b/b4/ce/1bb4ce3d9243f9faad58a6ad33b93cf9.jpg' alt='7 Heartstopper wallpapers ideas | laptop wallpaper, wallpaper pc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1b/b4/ce/1bb4ce3d9243f9faad58a6ad33b93cf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Heartstopper Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/heartstopper-n7nzzwhwe9zteyu3.jpg' alt='100+] Heartstopper Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/heartstopper-n7nzzwhwe9zteyu3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

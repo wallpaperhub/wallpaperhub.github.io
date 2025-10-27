@@ -1,0 +1,129 @@
+<title>Chic Neutral iPhone Wallpaper for Every Style</title>
+                    <meta name="description" content="Elevate your iPhone with our chic neutral wallpaper collection. Designed for simplicity and elegance, these wallpapers enhance your device's look while maintaining a calming aesthetic. Perfect for every style, discover the ideal background that fits your lifestyle seamlessly.">
+                    <meta name="keywords" content="iphone:yjfhy1aohzi= neutral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoneyjfhy1aohzi-neutral-wallpaper">
+                            <span itemprop="name">iphone:yjfhy1aohzi= neutral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Neutral iPhone Wallpaper for Every Style</h1>
+                <p>Discover the perfect neutral wallpaper for your iPhone, designed to complement any aesthetic. This elegant wallpaper stretches across your screen, providing a soft, calming backdrop that enhances any app. Transform your device's appearance with a stylish neutral design that celebrates simplicity and elegance, perfect for all users.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Minimalist Stone Neutral iPhone Wallpapers (2024) – IceSword">
+                                <img itemprop="contentUrl url" src='https://icesword.us/cdn/shop/products/20-minimalist-stone-neutral-iphone-wallpapers-2023-572783_530x@2x.jpg?v=1679078850' alt='20 Minimalist Stone Neutral iPhone Wallpapers (2024) – IceSword'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceSword" />
+                                </span>
+                                <a href='https://icesword.us/cdn/shop/products/20-minimalist-stone-neutral-iphone-wallpapers-2023-572783_530x@2x.jpg?v=1679078850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral Aesthetic Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zNl9mbG9yYWxfc3VubGlnaHRfc2hhZG93c19vbl9hX25ldXRyYWxfYmVpZ2VfYl82NjdlYTc1NS04NWMwLTRiNzktYjJjNC1iOTg0YTRjNzZkM2MuanBn.jpg' alt='Neutral Aesthetic Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zNl9mbG9yYWxfc3VubGlnaHRfc2hhZG93c19vbl9hX25ldXRyYWxfYmVpZ2VfYl82NjdlYTc1NS04NWMwLTRiNzktYjJjNC1iOTg0YTRjNzZkM2MuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neutral Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neutral-iphone-it8s6d8snw4h9h7o.jpg' alt='100+] Neutral Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neutral-iphone-it8s6d8snw4h9h7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Minimalist Stone Neutral iPhone Wallpapers (2024)">
+                                <img itemprop="contentUrl url" src='https://icesword.us/cdn/shop/products/20-minimalist-stone-neutral-iphone-wallpapers-2023-174520.jpg?v=1679078850' alt='20 Minimalist Stone Neutral iPhone Wallpapers (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceSword" />
+                                </span>
+                                <a href='https://icesword.us/cdn/shop/products/20-minimalist-stone-neutral-iphone-wallpapers-2023-174520.jpg?v=1679078850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neutral Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/newest-iphone-resting-on-a-neutral-background-p6bxc21fm4kqrith.jpg' alt='100+] Neutral Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/newest-iphone-resting-on-a-neutral-background-p6bxc21fm4kqrith.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Boho iPhone Wallpapers Digital Download , Beige Cream Brown ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25011817/r/il/1f7392/3240281310/il_570xN.3240281310_p5ys.jpg' alt='10 Boho iPhone Wallpapers Digital Download , Beige Cream Brown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25011817/r/il/1f7392/3240281310/il_570xN.3240281310_p5ys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral iPhone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/66/08/29/6608295c1dc21695385829ace274e1c5.jpg' alt='Neutral iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/66/08/29/6608295c1dc21695385829ace274e1c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Phone Wallpaper Neutral Floral iPhone Home Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28615394/r/il/729e79/5456876181/il_fullxfull.5456876181_7xkf.jpg' alt='Aesthetic Phone Wallpaper Neutral Floral iPhone Home Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28615394/r/il/729e79/5456876181/il_fullxfull.5456876181_7xkf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Neutral iPhone Wallpapers Warm Tones Ultimate Pack Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28615394/r/il/2bc77c/5784575726/il_570xN.5784575726_ed1r.jpg' alt='12 Neutral iPhone Wallpapers Warm Tones Ultimate Pack Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28615394/r/il/2bc77c/5784575726/il_570xN.5784575726_ed1r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral iPhone Wallpaper Earthy Neutral Pastels Color Scheme ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/9526cb/4708667931/il_570xN.4708667931_az41.jpg' alt='Neutral iPhone Wallpaper Earthy Neutral Pastels Color Scheme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/9526cb/4708667931/il_570xN.4708667931_az41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

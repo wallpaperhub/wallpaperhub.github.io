@@ -1,0 +1,129 @@
+<title>Brownie Dreams: Irresistible Photos of Homemade Delights</title>
+                    <meta name="description" content="Discover a collection of mouthwatering brownie pictures that capture their rich, decadent appeal. From classic recipes to creative twists, these images will inspire your baking adventures. Perfect for food lovers and home bakers looking to indulge in delicious brownie treats!">
+                    <meta name="keywords" content="brownie pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brownie-pictures">
+                            <span itemprop="name">brownie pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brownie Dreams: Irresistible Photos of Homemade Delights</h1>
+                <p>Brownie pictures are a delightful way to celebrate the rich, fudgy goodness of this beloved treat! Whether showcasing a towering brownie stack, a warm batch fresh out of the oven, or an artistic close-up drizzled with chocolate sauce, these images inspire sweet cravings. Capture the textures and colors that make brownies irresistible!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Brownies">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/eLSgazITlYrKf9EFTR9y1L2mSxg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southern-Living-Homemade_Brownies_023-3c582f0fba1842dd918a3d9c26c1ab59.jpg' alt='Homemade Brownies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/eLSgazITlYrKf9EFTR9y1L2mSxg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southern-Living-Homemade_Brownies_023-3c582f0fba1842dd918a3d9c26c1ab59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Ever Chewy Brownies">
+                                <img itemprop="contentUrl url" src='https://handletheheat.com/wp-content/uploads/2017/03/chewy-brownies-SQUARE.jpg' alt='Best Ever Chewy Brownies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Handle the Heat" />
+                                </span>
+                                <a href='https://handletheheat.com/wp-content/uploads/2017/03/chewy-brownies-SQUARE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick and Easy Brownies">
+                                <img itemprop="contentUrl url" src='https://www.allrecipes.com/thmb/Bf_v7CGEIk1T0KOYsBeGdcs56Lo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9599-Quick-Easy-Brownies-ddmfs-4x3-697df57aa40a45f8a7bdb3a089eee2e5.jpg' alt='Quick and Easy Brownies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allrecipes" />
+                                </span>
+                                <a href='https://www.allrecipes.com/thmb/Bf_v7CGEIk1T0KOYsBeGdcs56Lo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9599-Quick-Easy-Brownies-ddmfs-4x3-697df57aa40a45f8a7bdb3a089eee2e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Triple Chocolate Brownies">
+                                <img itemprop="contentUrl url" src='https://chopnotch.com/wp-content/uploads/Triple-Chocolate-Brownies.jpg' alt='Triple Chocolate Brownies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chopnotch" />
+                                </span>
+                                <a href='https://chopnotch.com/wp-content/uploads/Triple-Chocolate-Brownies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brownie Recipe - Preppy Kitchen">
+                                <img itemprop="contentUrl url" src='https://preppykitchen.com/wp-content/uploads/2023/09/Brownie-Recipe-Feature.jpg' alt='Brownie Recipe - Preppy Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Preppy Kitchen" />
+                                </span>
+                                <a href='https://preppykitchen.com/wp-content/uploads/2023/09/Brownie-Recipe-Feature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brownie Sundae">
+                                <img itemprop="contentUrl url" src='https://www.thereciperebel.com/wp-content/uploads/2022/05/brownie-sundae-TRR-1200-25-of-40.jpg' alt='Brownie Sundae'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Recipe Rebel" />
+                                </span>
+                                <a href='https://www.thereciperebel.com/wp-content/uploads/2022/05/brownie-sundae-TRR-1200-25-of-40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fudgy Brownie Recipe">
+                                <img itemprop="contentUrl url" src='https://baranbakery.com/wp-content/uploads/2023/06/Crinkle-Top-Brownies-11.jpg' alt='Fudgy Brownie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baran Bakery" />
+                                </span>
+                                <a href='https://baranbakery.com/wp-content/uploads/2023/06/Crinkle-Top-Brownies-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Batch Brownies">
+                                <img itemprop="contentUrl url" src='https://www.cookingclassy.com/wp-content/uploads/2020/04/small-batch-brownies-39.jpg' alt='Small Batch Brownies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cooking Classy" />
+                                </span>
+                                <a href='https://www.cookingclassy.com/wp-content/uploads/2020/04/small-batch-brownies-39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Fudgy Brownies {Think: Homemade Brownies Like The Boxed Mix!}">
+                                <img itemprop="contentUrl url" src='https://www.melskitchencafe.com/wp-content/uploads/2013/04/Brownies-Tray-Closeup-jpg.jpg' alt='The Best Fudgy Brownies {Think: Homemade Brownies Like The Boxed Mix!}'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mel's Kitchen Cafe" />
+                                </span>
+                                <a href='https://www.melskitchencafe.com/wp-content/uploads/2013/04/Brownies-Tray-Closeup-jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fudgy Brownie Recipe">
+                                <img itemprop="contentUrl url" src='https://natashaskitchen.com/wp-content/uploads/2020/08/Chocolate-Brownie-Recipe-5.jpg' alt='Fudgy Brownie Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natasha's Kitchen" />
+                                </span>
+                                <a href='https://natashaskitchen.com/wp-content/uploads/2020/08/Chocolate-Brownie-Recipe-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

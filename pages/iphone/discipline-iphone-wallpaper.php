@@ -1,0 +1,129 @@
+<title>Discipline iPhone Wallpapers: Stay Motivated!</title>
+                    <meta name="description" content="Explore our stunning discipline iPhone wallpapers designed to inspire and motivate you. Perfect for keeping your focus on personal goals, each wallpaper serves as a daily reminder to embody discipline and determination. Download now and transform your device into a source of motivation!">
+                    <meta name="keywords" content="discipline iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/discipline-iphone-wallpaper">
+                            <span itemprop="name">discipline iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discipline iPhone Wallpapers: Stay Motivated!</h1>
+                <p>Find inspiration and motivation with our collection of discipline-themed iPhone wallpapers. Each design serves as a daily reminder to stay focused, embrace consistency, and strive for personal growth. Transform your phone's background into a source of inspiration that encourages you to pursue your goals with dedication and unwavering discipline.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please Charge iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/e7/fa/4ae7faa40e5d20d3a8fc995f1b7195da.jpg' alt='Please Charge iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/e7/fa/4ae7faa40e5d20d3a8fc995f1b7195da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discipline quote mobile wallpaper - VIVE CON STYLE">
+                                <img itemprop="contentUrl url" src='https://viveconstyle.com/wp-content/uploads/2019/02/Discipline-and-talent-mobile-wallpaper.jpg' alt='Discipline quote mobile wallpaper - VIVE CON STYLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="vive con style" />
+                                </span>
+                                <a href='https://viveconstyle.com/wp-content/uploads/2019/02/Discipline-and-talent-mobile-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Discipline iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/86/81/7686813694a50d63b0ab6fb1352f3530.jpg' alt='Self Discipline iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/86/81/7686813694a50d63b0ab6fb1352f3530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discipline is the key' iphone wallpaper | Discipline quotes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/22/47/432247ec4e39e01598e06814f752f5f0.jpg' alt='Discipline is the key' iphone wallpaper | Discipline quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/22/47/432247ec4e39e01598e06814f752f5f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Discipline iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4648265.jpg' alt='Self Discipline iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4648265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Discipline Wallpaper Iphone 4k | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7299536325093510407&location=0&aid=1988' alt='Self Discipline Wallpaper Iphone 4k | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7299536325093510407&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discipline wallpaper @apple @android">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C95Kq1uS6E3/7/image.jpg' alt='Discipline wallpaper @apple @android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C95Kq1uS6E3/7/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase Discipline, Not Dopamine : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mq2r5ilfq1l51.jpg?width=640&crop=smart&auto=webp&s=30b6ec827a15969e02ee6e7d7c6b038428a146cd' alt='Chase Discipline, Not Dopamine : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mq2r5ilfq1l51.jpg?width=640&crop=smart&auto=webp&s=30b6ec827a15969e02ee6e7d7c6b038428a146cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Discipline Dreams Reality Quote Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/discipline-dreams-reality-quote-l8641dz7za09gozv.jpg' alt='Download Discipline Dreams Reality Quote Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/discipline-dreams-reality-quote-l8641dz7za09gozv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 More iPhone Wallpapers For Producers (MPC, 808 Mafia, Discipline ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0297/3233/9847/files/discipline-motivation-wallpaper.png?v=1578697540' alt='7 More iPhone Wallpapers For Producers (MPC, 808 Mafia, Discipline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProducerGrind" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0297/3233/9847/files/discipline-motivation-wallpaper.png?v=1578697540' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

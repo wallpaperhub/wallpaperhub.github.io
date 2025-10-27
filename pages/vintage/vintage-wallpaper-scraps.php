@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Wallpaper Scraps</title>
+                    <meta name="description" content="Discover the charm of vintage wallpaper scraps! Ideal for DIY projects and home decor, these unique pieces add character and personality to any space. Craft sustainable art and revitalize old treasures with creative use of these beautiful, nostalgic materials. Perfect for crafters and decor enthusiasts!">
+                    <meta name="keywords" content="vintage wallpaper scraps">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-wallpaper-scraps">
+                            <span itemprop="name">vintage wallpaper scraps</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Wallpaper Scraps</h1>
+                <p>Vintage wallpaper scraps are a nostalgic treasure, offering unique patterns and colors that can transform any project. Perfect for crafting, home decor, or DIY enthusiasts, these scraps bring a charming, old-world feel to modern spaces. Embrace creativity and sustainability by giving these forgotten pieces a new life in your art and design ventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Scraps Printable Junk Journaling Digitals Junk ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22422569/r/il/da0ee5/4034242231/il_fullxfull.4034242231_seer.jpg' alt='Vintage Wallpaper Scraps Printable Junk Journaling Digitals Junk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22422569/r/il/da0ee5/4034242231/il_fullxfull.4034242231_seer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Such Pretty Things: Pretty Organized: Vintage Wallpaper Scraps">
+                                <img itemprop="contentUrl url" src='https://suchprettythings.typepad.com/.a/6a00e553a4097c88340133edb0a1c1970b-pi' alt='Such Pretty Things: Pretty Organized: Vintage Wallpaper Scraps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Such Pretty Things - TypePad" />
+                                </span>
+                                <a href='https://suchprettythings.typepad.com/.a/6a00e553a4097c88340133edb0a1c1970b-pi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Holtz Idea-ology Worn Wallpaper Scraps">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-87od2q0wh1/images/stencil/1280x1280/products/13719/49773/20240220_Holtz_010__22487.1708468591.jpg?c=2' alt='Tim Holtz Idea-ology Worn Wallpaper Scraps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stampington & Company" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-87od2q0wh1/images/stencil/1280x1280/products/13719/49773/20240220_Holtz_010__22487.1708468591.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Scraps 1950s & Vintage Sheet Music Paper Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22014692/r/il/85c7a3/6012926255/il_570xN.6012926255_oawe.jpg' alt='Vintage Wallpaper Scraps 1950s & Vintage Sheet Music Paper Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22014692/r/il/85c7a3/6012926255/il_570xN.6012926255_oawe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tim Holtz Idea-Ology, Worn Wallpaper Scraps, 94122,silver">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71w0TrZdPhL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Tim Holtz Idea-Ology, Worn Wallpaper Scraps, 94122,silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71w0TrZdPhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper, Vintage Papers, Digital, Download, Printable, Junk ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15996663/r/il/8495c2/4144870474/il_570xN.4144870474_5xut.jpg' alt='Wallpaper, Vintage Papers, Digital, Download, Printable, Junk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15996663/r/il/8495c2/4144870474/il_570xN.4144870474_5xut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scraps">
+                                <img itemprop="contentUrl url" src='http://thepatterncollective.com/cdn/shop/products/vintage_scraps_studio_ditte_the_pattern_collective-01-01-01.png?v=1427588738' alt='Vintage Scraps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='http://thepatterncollective.com/cdn/shop/products/vintage_scraps_studio_ditte_the_pattern_collective-01-01-01.png?v=1427588738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 Best How to use vintage wallpaper scraps ideas | vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c8/41/6f/c8416f08c0c1624b52995f4421dfed70.jpg' alt='220 Best How to use vintage wallpaper scraps ideas | vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c8/41/6f/c8416f08c0c1624b52995f4421dfed70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Scraps Vintage Pink Printable Junk Journaling ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22422569/r/il/c7602b/3986565928/il_fullxfull.3986565928_90zk.jpg' alt='Vintage Wallpaper Scraps Vintage Pink Printable Junk Journaling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22422569/r/il/c7602b/3986565928/il_fullxfull.3986565928_90zk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chestnut Vintage Wallpaper || Scraps Of Kindness - 703081230945">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/Henry_Glass/675-33__44209.jpg' alt='Chestnut Vintage Wallpaper || Scraps Of Kindness - 703081230945'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Buckles Bobbins & Bolts" />
+                                </span>
+                                <a href='https://media.rainpos.com/Henry_Glass/675-33__44209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

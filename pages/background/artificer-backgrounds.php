@@ -1,0 +1,129 @@
+<title>Explore Unique Artificer Backgrounds for Greater Role-Playing!</title>
+                    <meta name="description" content="Dive into the fascinating world of artificer backgrounds! Discover how these unique histories enrich your character's journey with innovative skills and traits, perfect for enhancing your role-playing experience in any fantasy setting.">
+                    <meta name="keywords" content="artificer backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/artificer-backgrounds">
+                            <span itemprop="name">artificer backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Unique Artificer Backgrounds for Greater Role-Playing!</h1>
+                <p>Artificer backgrounds enhance the role-playing experience by shaping a character's history and motivations. These artisans blend magic and technology, often working as inventors, alchemists, or engineers. Players can explore unique traits, skills, and story hooks that reflect their character’s journey in a fantastical setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificer - The Expanded Toolbox | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/t3kMoW7.jpg' alt='Artificer - The Expanded Toolbox | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/t3kMoW7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Build And Artificer In DND">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/11/47-dungeons-dragons-artificer-build-guide.jpg' alt='How To Build And Artificer In DND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/11/47-dungeons-dragons-artificer-build-guide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificer - The Expanded Toolbox | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/0jzi1Qc.png' alt='Artificer - The Expanded Toolbox | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1412">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/0jzi1Qc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC][ART] Warforged Artillerist Artificer (Background in comments ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nwm5bfv3zwo51.jpg?width=1080&crop=smart&auto=webp&s=9ae9a2cd57d221fdf80cb84ddbe855781f3858e2' alt='OC][ART] Warforged Artillerist Artificer (Background in comments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nwm5bfv3zwo51.jpg?width=1080&crop=smart&auto=webp&s=9ae9a2cd57d221fdf80cb84ddbe855781f3858e2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e - Revised Artificer | GM Binder">
+                                <img itemprop="contentUrl url" src='https://www.gmbinder.com/images/OnS4jgN.jpg' alt='5e - Revised Artificer | GM Binder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GM Binder" />
+                                </span>
+                                <a href='https://www.gmbinder.com/images/OnS4jgN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Build D&D's Most Powerful Artificer">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/artificer-dd-5e.jpg' alt='How To Build D&D's Most Powerful Artificer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/artificer-dd-5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Build And Artificer In DND">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/11/the-gnome-artificer-vi-and-her-cockatrice-like-eldritch-cannon-battle-foes-atop-a-lightning-train-via-wizards-of-the-coast.jpg' alt='How To Build And Artificer In DND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/11/the-gnome-artificer-vi-and-her-cockatrice-like-eldritch-cannon-battle-foes-atop-a-lightning-train-via-wizards-of-the-coast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D Ideas — Artificer – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2019/03/izzet-league.png?resize=1000%2C632' alt='D&D Ideas — Artificer – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2019/03/izzet-league.png?resize=1000%2C632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serious Artificer Backgrounds in D&D – DNDArticles">
+                                <img itemprop="contentUrl url" src='https://articles.dndnames.com/wp-content/uploads/2024/03/artificer-sage-1024x512.png' alt='Serious Artificer Backgrounds in D&D – DNDArticles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DNDArticles - DNDNames" />
+                                </span>
+                                <a href='https://articles.dndnames.com/wp-content/uploads/2024/03/artificer-sage-1024x512.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ART] Since people requested to see it without the accessories ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/art-since-people-requested-to-see-it-without-the-v0-zhryf8ku01991.png?auto=webp&s=3fe207f931706b472e3d4c44e51911743d929d00' alt='ART] Since people requested to see it without the accessories ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/art-since-people-requested-to-see-it-without-the-v0-zhryf8ku01991.png?auto=webp&s=3fe207f931706b472e3d4c44e51911743d929d00' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

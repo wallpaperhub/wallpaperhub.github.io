@@ -1,0 +1,129 @@
+<title>Rising Extinction Rates: What You Need to Know</title>
+                    <meta name="description" content="Explore the alarming rise in extinction rates worldwide. Discover the causes, impacts, and importance of biodiversity conservation. Stay informed and learn how you can make a difference in preserving our planet's species for future generations.">
+                    <meta name="keywords" content="extinction rates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/extinction-rates">
+                            <span itemprop="name">extinction rates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rising Extinction Rates: What You Need to Know</h1>
+                <p>Extinction rates are rising alarmingly due to habitat loss, climate change, and human activity. Scientists estimate that species are disappearing at 1,000 times the natural rate, with many unable to adapt to rapidly changing environments. Protecting biodiversity is crucial for ecosystem health and resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EO Indexes: Extinction | Earth.Org">
+                                <img itemprop="contentUrl url" src='https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2022/01/Extinction-EOINDEX.png' alt='EO Indexes: Extinction | Earth.Org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Earth.Org" />
+                                </span>
+                                <a href='https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2022/01/Extinction-EOINDEX.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extinction magnitude of animals in the near future | Scientific ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41598-022-23369-5/MediaObjects/41598_2022_23369_Fig5_HTML.png' alt='Extinction magnitude of animals in the near future | Scientific ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41598-022-23369-5/MediaObjects/41598_2022_23369_Fig5_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accelerated modern human–induced species losses: Entering the ...">
+                                <img itemprop="contentUrl url" src='https://www.science.org/cms/10.1126/sciadv.1400253/asset/0e397fd8-81cc-492b-af8e-90cd035b3aff/assets/graphic/1400253-f1.jpeg' alt='Accelerated modern human–induced species losses: Entering the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science" />
+                                </span>
+                                <a href='https://www.science.org/cms/10.1126/sciadv.1400253/asset/0e397fd8-81cc-492b-af8e-90cd035b3aff/assets/graphic/1400253-f1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Charting the world's sixth mass extinction">
+                                <img itemprop="contentUrl url" src='https://macleans.ca/_next/image/?url=https%3A%2F%2Fcms.macleans.ca%2Fwp-content%2Fuploads%2F2015%2F06%2FMacBlog_extinct.png&w=1200&q=75' alt='Infographic: Charting the world's sixth mass extinction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Macleans.ca" />
+                                </span>
+                                <a href='https://macleans.ca/_next/image/?url=https%3A%2F%2Fcms.macleans.ca%2Fwp-content%2Fuploads%2F2015%2F06%2FMacBlog_extinct.png&w=1200&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extinction - Understanding Global Change">
+                                <img itemprop="contentUrl url" src='https://ugc.berkeley.edu/wp-content/uploads/2016/01/mass-extinction-graph.jpg' alt='Extinction - Understanding Global Change'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Understanding Global Change" />
+                                </span>
+                                <a href='https://ugc.berkeley.edu/wp-content/uploads/2016/01/mass-extinction-graph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relationship between extinction rates and the time interval over ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/50267709/figure/fig3/AS:267654275530788@1440825160648/Relationship-between-extinction-rates-and-the-time-interval-over-which-the-rates-were.png' alt='Relationship between extinction rates and the time interval over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/50267709/figure/fig3/AS:267654275530788@1440825160648/Relationship-between-extinction-rates-and-the-time-interval-over-which-the-rates-were.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the extinction crisis? 5 key facts | The Wilderness Society">
+                                <img itemprop="contentUrl url" src='https://www.wilderness.org/sites/default/files/styles/1000xy/public/media/image/chart-IPBES-extinctions-cumul_pct_2019.jpg?itok=AXSDVYLh' alt='What is the extinction crisis? 5 key facts | The Wilderness Society'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wilderness Society" />
+                                </span>
+                                <a href='https://www.wilderness.org/sites/default/files/styles/1000xy/public/media/image/chart-IPBES-extinctions-cumul_pct_2019.jpg?itok=AXSDVYLh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Background Extinction Rate and How is it Calculated?">
+                                <img itemprop="contentUrl url" src='https://populationeducation.org/wp-content/uploads/2018/12/graph-of-extinction-rates-over-time.gif' alt='What is Background Extinction Rate and How is it Calculated?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Population Education" />
+                                </span>
+                                <a href='https://populationeducation.org/wp-content/uploads/2018/12/graph-of-extinction-rates-over-time.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are mass extinctions?">
+                                <img itemprop="contentUrl url" src='https://evolution.berkeley.edu/wp-content/uploads/2021/09/mass-extinction-02-graph.jpg' alt='What are mass extinctions?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Understanding Evolution" />
+                                </span>
+                                <a href='https://evolution.berkeley.edu/wp-content/uploads/2021/09/mass-extinction-02-graph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extinction Rates of Families">
+                                <img itemprop="contentUrl url" src='https://www.mun.ca/biology/scarr/139413_Extinction.jpg' alt='Extinction Rates of Families'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.mun.ca" />
+                                </span>
+                                <a href='https://www.mun.ca/biology/scarr/139413_Extinction.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

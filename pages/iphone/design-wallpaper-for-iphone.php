@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpaper Designs: Personalize Your Device</title>
+                    <meta name="description" content="Explore a variety of eye-catching wallpaper designs for your iPhone! Whether you prefer bold patterns or serene landscapes, find the perfect backdrop to express your personality. Download and transform your device today for a fresh, vibrant look that stands out! Perfect for any style.">
+                    <meta name="keywords" content="design wallpaper for iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/design-wallpaper-for-iphone">
+                            <span itemprop="name">design wallpaper for iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpaper Designs: Personalize Your Device</h1>
+                <p>Transform your iPhone with stunning wallpaper designs that reflect your style! Choose from vibrant patterns, minimalist aesthetics, or personalized images to create a unique visual experience. Elevate your device's look and feel with impressive designs that inspire and motivate. Discover your perfect wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers | Russfuss Pattern Design">
+                                <img itemprop="contentUrl url" src='https://russfuss.com/site/assets/files/1246/maxin-iphone-wallpaper-by-russfuss_0001.jpg' alt='Phone Wallpapers | Russfuss Pattern Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Russfuss" />
+                                </span>
+                                <a href='https://russfuss.com/site/assets/files/1246/maxin-iphone-wallpaper-by-russfuss_0001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers for iPhone 12, iPhone 11, iPhone X, iPhone XR ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/08/56/89/08568978cc0daec02ddb4be602054b62.jpg' alt='iPhone Wallpapers for iPhone 12, iPhone 11, iPhone X, iPhone XR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/08/56/89/08568978cc0daec02ddb4be602054b62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone pattern wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1012/114/HD-wallpaper-airplane-design-galaxy-geometric-iphone-material-pattern-retro-samsung.jpg' alt='HD iphone pattern wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1012/114/HD-wallpaper-airplane-design-galaxy-geometric-iphone-material-pattern-retro-samsung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Best Designer iPhone wallpaper ideas | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4a/ea/c2/4aeac23d68014c48d1b191566f10071a.jpg' alt='52 Best Designer iPhone wallpaper ideas | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4a/ea/c2/4aeac23d68014c48d1b191566f10071a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Abstract Wallpapers: Add an Artistic Touch to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-abstract-wallpapers/fluid-art-iphone-wallpaper' alt='iPhone Abstract Wallpapers: Add an Artistic Touch to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-abstract-wallpapers/fluid-art-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract iPhone wallpapers created by Facebook's design team">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/01/Facebook-iOS-11-Wallpaper-7.jpeg' alt='Abstract iPhone wallpapers created by Facebook's design team'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/01/Facebook-iOS-11-Wallpaper-7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Design Black Apple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/geometric-design-black-apple-iphone-yiymyedv65b1ci8c.jpg' alt='Geometric Design Black Apple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/geometric-design-black-apple-iphone-yiymyedv65b1ci8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vk29-wallpaper-design-flower-line-dark-bw-pattern-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-vk29-wallpaper-design-flower-line-dark-bw-pattern-41-iphone-wallpaper.jpg' alt='vk29-wallpaper-design-flower-line-dark-bw-pattern-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-vk29-wallpaper-design-flower-line-dark-bw-pattern-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic iPhone Wallpapers | Download High Resolution Illustration ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDk0LWJnLTAzNGMteC5qcGc.jpg' alt='Graphic iPhone Wallpapers | Download High Resolution Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDk0LWJnLTAzNGMteC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poolga. iPhone, iPad and iPod Touch wallpapers for the rest of us.">
+                                <img itemprop="contentUrl url" src='http://poolga.com/shared/images/poolgas/iphone_2134.jpg' alt='Poolga. iPhone, iPad and iPod Touch wallpapers for the rest of us.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="poolga.com" />
+                                </span>
+                                <a href='http://poolga.com/shared/images/poolgas/iphone_2134.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

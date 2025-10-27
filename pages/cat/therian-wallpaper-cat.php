@@ -1,0 +1,129 @@
+<title>Therian Cat Wallpaper: Embrace Your Spirit Animal</title>
+                    <meta name="description" content="Explore unique therian cat wallpapers that blend mystical themes with feline charm. Perfect for cat lovers and spirit animal enthusiasts, our vibrant collection will transform your devices. Download your favorite designs now and showcase your love for cats and the therian spirit!">
+                    <meta name="keywords" content="therian wallpaper cat">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/therian-wallpaper-cat">
+                            <span itemprop="name">therian wallpaper cat</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Therian Cat Wallpaper: Embrace Your Spirit Animal</h1>
+                <p>Discover a captivating collection of therian wallpaper featuring enchanting cat designs. Perfect for cat lovers and those who embrace their inner spirit animal, these wallpapers combine mystical aesthetics with the charm of our feline friends. Transform your screens with inspiring therian-themed art today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="therianthropy #therian #therians #cat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/c8/a1/87c8a18d4095348266319e321f006990.jpg' alt='therianthropy #therian #therians #cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/c8/a1/87c8a18d4095348266319e321f006990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cat otherhearted/therian wallpaper by goofybatz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d483568-4b68-4103-aefd-35a84b57ed81/dgt5iaw-c63add26-133e-4f4d-b1f3-67b7fdb7fb57.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNDgzNTY4LTRiNjgtNDEwMy1hZWZkLTM1YTg0YjU3ZWQ4MVwvZGd0NWlhdy1jNjNhZGQyNi0xMzNlLTRmNGQtYjFmMy02N2I3ZmRiN2ZiNTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peOvH8lsC8jfW4eDozFF1exAgSc91a9BOUGXtVWq73g' alt='cat otherhearted/therian wallpaper by goofybatz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d483568-4b68-4103-aefd-35a84b57ed81/dgt5iaw-c63add26-133e-4f4d-b1f3-67b7fdb7fb57.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNDgzNTY4LTRiNjgtNDEwMy1hZWZkLTM1YTg0YjU3ZWQ4MVwvZGd0NWlhdy1jNjNhZGQyNi0xMzNlLTRmNGQtYjFmMy02N2I3ZmRiN2ZiNTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peOvH8lsC8jfW4eDozFF1exAgSc91a9BOUGXtVWq73g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat therian wallpaper      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/ac/d9/81acd97a7caa2ac559863215577dc010.jpg' alt='Cat therian wallpaper      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/ac/d9/81acd97a7caa2ac559863215577dc010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="calico cat therian wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/e0/ce/4ee0ce912e1fcbd0f5c3b07ab45bab50.jpg' alt='calico cat therian wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/e0/ce/4ee0ce912e1fcbd0f5c3b07ab45bab50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wild Cat Therian Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wild-cat-therian-collage-zcl1lkks5yf3sn5n.jpg' alt='Download Wild Cat Therian Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wild-cat-therian-collage-zcl1lkks5yf3sn5n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @swan_hazel anyone can use! just credit if reposted     #norweiganforestcat #lynx #calicocat #therian #adulttherian  #theriansoftiktok #otherkin #adultotherkin #otherkincommunity ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7278372408497622278&location=0&aid=1988' alt='Replying to @swan_hazel anyone can use! just credit if reposted     #norweiganforestcat #lynx #calicocat #therian #adulttherian  #theriansoftiktok #otherkin #adultotherkin #otherkincommunity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7278372408497622278&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calico cat therian wallpaper or pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/88/13/55881344fc95e4d556bb2f510e29abd0.jpg' alt='Calico cat therian wallpaper or pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/88/13/55881344fc95e4d556bb2f510e29abd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Therian pfps! : r/Therian">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/therian-pfps-v0-htzfe1hf1w7c1.jpg?width=736&format=pjpg&auto=webp&s=0b1cdc51fbb311af6075eedbfa8e97916bf48ecc' alt='Therian pfps! : r/Therian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/therian-pfps-v0-htzfe1hf1w7c1.jpg?width=736&format=pjpg&auto=webp&s=0b1cdc51fbb311af6075eedbfa8e97916bf48ecc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Therian Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/therian-collage-aesthetic-jpg-9yp0ypdgckqnsph0.jpg' alt='100+] Therian Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/therian-collage-aesthetic-jpg-9yp0ypdgckqnsph0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coyte therian wallpaper<3 : r/Therian">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ysm115mgi5ad1.jpeg' alt='Coyte therian wallpaper<3 : r/Therian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ysm115mgi5ad1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

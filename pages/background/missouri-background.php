@@ -1,0 +1,129 @@
+<title>Exploring Missouri: History, Culture, and Nature</title>
+                    <meta name="description" content="Discover the charm of Missouri! Dive into its rich historical tapestry, vibrant culture, and stunning natural landscapes. From bustling cities to serene mountains, explore what makes this Midwestern gem a must-visit destination!">
+                    <meta name="keywords" content="missouri background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/missouri-background">
+                            <span itemprop="name">missouri background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Missouri: History, Culture, and Nature</h1>
+                <p>Missouri, located in the Midwestern region of the United States, is known for its rich history and diverse culture. The state offers a blend of urban and rural environments, with cities like St. Louis and Kansas City showcasing vibrant arts and music scenes. Missouri's scenic landscapes feature the Ozark Mountains and fertile plains, making it a great destination for outdoor enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri Pictures and Facts">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/42ce0ecf-743b-4a6d-a6ff-76273c01195b/united-states-st-louis-arch_3x2.jpg' alt='Missouri Pictures and Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/42ce0ecf-743b-4a6d-a6ff-76273c01195b/united-states-st-louis-arch_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri Images – Browse 45,737 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/41/56/04/360_F_41560437_88w9FKPodgnnmOqUvjFJYCERZeZ9pFKo.jpg' alt='Missouri Images – Browse 45,737 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/41/56/04/360_F_41560437_88w9FKPodgnnmOqUvjFJYCERZeZ9pFKo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/gateway-arch-gettyimages-dv372050.jpg' alt='Missouri'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/gateway-arch-gettyimages-dv372050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Missouri Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/missouri-lu29d1dmr58ra8hj.jpg' alt='100+] Missouri Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/missouri-lu29d1dmr58ra8hj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Missouri Skyline Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1035099308/photo/st-louis-missouri-usa-skyline.jpg?s=612x612&w=0&k=20&c=WFk91bqLQXzskxxMU3GqXdMPZ28TIZ-qxGuTN-5OP60=' alt='3,700+ Missouri Skyline Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1035099308/photo/st-louis-missouri-usa-skyline.jpg?s=612x612&w=0&k=20&c=WFk91bqLQXzskxxMU3GqXdMPZ28TIZ-qxGuTN-5OP60=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1697729864667-57f5f29e946b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWlzc291cml8ZW58MHx8MHx8fDA%3D' alt='Missouri Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1697729864667-57f5f29e946b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWlzc291cml8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Missouri Skyline Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1047316896/photo/st-louis-downtown-city-skyline.jpg?s=612x612&w=0&k=20&c=hA52aCm9Jzqltz0d5zf-aGi4enq4yZVKJBompG5Mz8k=' alt='3,700+ Missouri Skyline Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1047316896/photo/st-louis-downtown-city-skyline.jpg?s=612x612&w=0&k=20&c=hA52aCm9Jzqltz0d5zf-aGi4enq4yZVKJBompG5Mz8k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg' alt='Missouri - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Missouri Background: Over 19,336 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/panoramic-sepia-st-louis-arch-260nw-58885916.jpg' alt='Missouri Background: Over 19,336 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/panoramic-sepia-st-louis-arch-260nw-58885916.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag Of Missouri Painted On Grungy Wooden Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/grafvision/grafvision1302/grafvision130200177/17786934-flag-of-missouri-painted-on-grungy-wooden-background.jpg' alt='Flag Of Missouri Painted On Grungy Wooden Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/grafvision/grafvision1302/grafvision130200177/17786934-flag-of-missouri-painted-on-grungy-wooden-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

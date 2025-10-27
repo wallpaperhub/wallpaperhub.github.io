@@ -1,0 +1,129 @@
+<title>Where is ABC News Located? Find Out Here!</title>
+                    <meta name="description" content="Discover the locations of ABC News, including its main studios in New York City and important regional offices across the U.S. Explore how the network delivers news from its key sites and stays connected with audiences nationwide.">
+                    <meta name="keywords" content="where is abc news located">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-abc-news-located">
+                            <span itemprop="name">where is abc news located</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Where is ABC News Located? Find Out Here!</h1>
+                <p>ABC News is primarily located in New York City, where its main studios are situated in Manhattan. The network operates various regional offices across the United States to provide comprehensive news coverage. Additionally, ABC News has a prominent presence in Washington, D.C., for political reporting and analysis.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic ABC News headquarters reportedly to be torn down, network ...">
+                                <img itemprop="contentUrl url" src='https://www.tristatehomepage.com/wp-content/uploads/sites/92/2018/07/ABC20News20Building_1531340690957.jpg_48318607_ver1.0.jpg?strip=1' alt='Historic ABC News headquarters reportedly to be torn down, network ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WEHT" />
+                                </span>
+                                <a href='https://www.tristatehomepage.com/wp-content/uploads/sites/92/2018/07/ABC20News20Building_1531340690957.jpg_48318607_ver1.0.jpg?strip=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About WABC-TV, Eyewitness News and our history - ABC7 New York">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/6417399_2020stock-wabc-eyewitnessnews-studio-exterior-img.jpg' alt='About WABC-TV, Eyewitness News and our history - ABC7 New York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7 New York" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/6417399_2020stock-wabc-eyewitnessnews-studio-exterior-img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OFFICE TOUR: Inside ABC News' Huge New York City Headquarters ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/500eb21169bedda43e000012?width=400&format=jpeg' alt='OFFICE TOUR: Inside ABC News' Huge New York City Headquarters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/500eb21169bedda43e000012?width=400&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABC Television Center | Game Shows Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gameshows/images/b/b2/Ny_abc_30_west_67th_street_doorways_07_158.jpg/revision/latest?cb=20140516131353' alt='ABC Television Center | Game Shows Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Shows Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gameshows/images/b/b2/Ny_abc_30_west_67th_street_doorways_07_158.jpg/revision/latest?cb=20140516131353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABC News Washington Bureau">
+                                <img itemprop="contentUrl url" src='https://img.nmcdn.io/e1/w:800,h:800,v:1/kpfwp/wp-content/uploads/imported-files/ABC-News-Washington-Bureau.jpg?s=389130d4' alt='ABC News Washington Bureau'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KPF" />
+                                </span>
+                                <a href='https://img.nmcdn.io/e1/w:800,h:800,v:1/kpfwp/wp-content/uploads/imported-files/ABC-News-Washington-Bureau.jpg?s=389130d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horizontal View of the Iconic Times Square Studios, a Television ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/new-york-ny-usa-may-horizontal-view-iconic-times-square-studios-television-studio-home-to-abc-news-good-morning-248157684.jpg' alt='Horizontal View of the Iconic Times Square Studios, a Television ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/new-york-ny-usa-may-horizontal-view-iconic-times-square-studios-television-studio-home-to-abc-news-good-morning-248157684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WJLA-TV Building in Rosslyn, Virginia | Located at 1100 Wils… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3281/2565965216_8cdd19595d_z.jpg' alt='WJLA-TV Building in Rosslyn, Virginia | Located at 1100 Wils… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3281/2565965216_8cdd19595d_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos at ABC News Headquarters - Lincoln Square - New York, NY">
+                                <img itemprop="contentUrl url" src='https://fastly.4sqi.net/img/general/600x600/192647_JTHcFyor6-OI7jtIMj2q144Pi4XVg2rSLovziFsn7i8.jpg' alt='Photos at ABC News Headquarters - Lincoln Square - New York, NY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foursquare" />
+                                </span>
+                                <a href='https://fastly.4sqi.net/img/general/600x600/192647_JTHcFyor6-OI7jtIMj2q144Pi4XVg2rSLovziFsn7i8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OFFICE TOUR: Inside ABC News' Huge New York City Headquarters ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/50046b9b6bb3f72842000000?width=600&format=jpeg&auto=webp' alt='OFFICE TOUR: Inside ABC News' Huge New York City Headquarters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/50046b9b6bb3f72842000000?width=600&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The ABC television studios are located in Times Square, NYC, USA ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/S3C6MJ/the-abc-television-studios-are-located-in-times-square-nyc-usa-S3C6MJ.jpg' alt='The ABC television studios are located in Times Square, NYC, USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/S3C6MJ/the-abc-television-studios-are-located-in-times-square-nyc-usa-S3C6MJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

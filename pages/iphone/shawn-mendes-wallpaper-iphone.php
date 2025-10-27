@@ -1,0 +1,129 @@
+<title>Shawn Mendes iPhone Wallpapers: Perfect for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="shawn mendes wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/shawn-mendes-wallpaper-iphone">
+                            <span itemprop="name">shawn mendes wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shawn Mendes iPhone Wallpapers: Perfect for Fans</h1>
+                <p>Looking for stunning Shawn Mendes wallpapers for your iPhone? Explore a collection of high-resolution images showcasing Shawn's unforgettable performances and charming personality. Perfectly designed for your screen, these wallpapers will keep your device looking stylish and personalized. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for shawn mendes wallpaper | Fotoğraf, Ünlüler, Books">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/c8/9e/59c89e2d85fd9e8801537345ed86c11b.jpg' alt='Image result for shawn mendes wallpaper | Fotoğraf, Ünlüler, Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/c8/9e/59c89e2d85fd9e8801537345ed86c11b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes aesthetic blue iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/26/28/5d26282e0bb605e4e32900aa86273db0.jpg' alt='Shawn Mendes aesthetic blue iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/26/28/5d26282e0bb605e4e32900aa86273db0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best Shawn Mendes Wallpapers ideas | shawn mendes wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c1/1b/4c/c11b4c6d20aafe0b45f702a0db5373fb.jpg' alt='290 Best Shawn Mendes Wallpapers ideas | shawn mendes wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c1/1b/4c/c11b4c6d20aafe0b45f702a0db5373fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn mendes, pop, shawn mendes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/606/70/HD-wallpaper-shawn-mendes-pop-shawn-mendes.jpg' alt='Shawn mendes, pop, shawn mendes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/606/70/HD-wallpaper-shawn-mendes-pop-shawn-mendes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best Shawn Mendes Wallpapers ideas | shawn mendes wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/20/16/6f/20166fd6ef8214c84fdfc269998c2972.jpg' alt='290 Best Shawn Mendes Wallpapers ideas | shawn mendes wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1838">
+                                <meta itemprop="height" content="3266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/20/16/6f/20166fd6ef8214c84fdfc269998c2972.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes, king, shawn mendes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/672/HD-wallpaper-shawn-mendes-king-shawn-mendes.jpg' alt='Shawn Mendes, king, shawn mendes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/672/HD-wallpaper-shawn-mendes-king-shawn-mendes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shawn-mendes-heaven-shirt-1u7i08t5hqxfnr2c.jpg' alt='Shawn Mendes Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shawn-mendes-heaven-shirt-1u7i08t5hqxfnr2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes, guitar, music, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/446/16/HD-wallpaper-shawn-mendes-guitar-music.jpg' alt='Shawn Mendes, guitar, music, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/446/16/HD-wallpaper-shawn-mendes-guitar-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes wallpaper by MzwPetra - Download on ZEDGE™ | 7072">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/66/5a/87665acbb6a57ad5ff75a1a6e7a1cdb2.jpg' alt='Shawn Mendes wallpaper by MzwPetra - Download on ZEDGE™ | 7072'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/66/5a/87665acbb6a57ad5ff75a1a6e7a1cdb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shawn Mendes Minimalist Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shawn-mendes-minimalist-art-4u47g7x3mlkwv8qr.jpg' alt='Shawn Mendes Minimalist Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shawn-mendes-minimalist-art-4u47g7x3mlkwv8qr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

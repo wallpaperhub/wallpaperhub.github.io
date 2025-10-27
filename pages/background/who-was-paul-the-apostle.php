@@ -1,0 +1,129 @@
+<title>Who Was Paul the Apostle? A Key Figure in Early Christianity</title>
+                    <meta name="description" content="Discover the life of Paul the Apostle, a pivotal missionary in early Christianity. From persecutor to proponent, learn how his teachings and letters shaped the New Testament and the spread of the Christian faith across the Roman world. Explore his transformative journey and lasting impact on Christianity.">
+                    <meta name="keywords" content="who was paul the apostle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-was-paul-the-apostle">
+                            <span itemprop="name">who was paul the apostle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Was Paul the Apostle? A Key Figure in Early Christianity</h1>
+                <p>Paul the Apostle, originally known as Saul of Tarsus, was a key figure in early Christianity. A former persecutor of Christians, he converted after an encounter with Jesus on the road to Damascus. Paul became an influential missionary, spreading the gospel across the Roman Empire and authoring several New Testament letters that shape Christian theology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul the Apostle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rubens_apostel_paulus_grt.jpg/1200px-Rubens_apostel_paulus_grt.jpg' alt='Paul the Apostle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rubens_apostel_paulus_grt.jpg/1200px-Rubens_apostel_paulus_grt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Paul the Apostle | Biography & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/90/130090-050-81EB1C84/Paul-the-Apostle.jpg' alt='Saint Paul the Apostle | Biography & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/90/130090-050-81EB1C84/Paul-the-Apostle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul the Apostle - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/94/Workshop_of_Peter_Paul_Rubens_-_Saint_Paul.jpg' alt='Paul the Apostle - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3455">
+                                <meta itemprop="height" content="4898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/94/Workshop_of_Peter_Paul_Rubens_-_Saint_Paul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Paul the Apostle - Newman Connection">
+                                <img itemprop="contentUrl url" src='https://connection.newmanministry.com/wp-content/uploads/2024/10/260077c0-e26d-4bae-be3e-fff1be3183e8-1200x1653.jpg' alt='Saint Paul the Apostle - Newman Connection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newman Connection - Newman Ministry" />
+                                </span>
+                                <a href='https://connection.newmanministry.com/wp-content/uploads/2024/10/260077c0-e26d-4bae-be3e-fff1be3183e8-1200x1653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul, Apostle of Christ Jesus | Simply Catholic">
+                                <img itemprop="contentUrl url" src='https://www.simplycatholic.com/wp-content/uploads/2019/01/Paul-1.jpg' alt='Paul, Apostle of Christ Jesus | Simply Catholic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Catholic" />
+                                </span>
+                                <a href='https://www.simplycatholic.com/wp-content/uploads/2019/01/Paul-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Paul's Contributions to the New Testament | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/199237-131-2785A71A/fresco-St-Paul-the-Apostle-church-beginning.jpg' alt='Saint Paul's Contributions to the New Testament | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/199237-131-2785A71A/fresco-St-Paul-the-Apostle-church-beginning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul in the Bible - His Life and Story">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/13071-probablyvalentindeboulogne-saintpaulwritinghi.jpg' alt='Paul in the Bible - His Life and Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Study Tools" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/13071-probablyvalentindeboulogne-saintpaulwritinghi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Paul the Apostle | Biography & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/93/130093-050-4926C50E/Paul-the-Apostle-epistle-prison-Ephesians.jpg' alt='Saint Paul the Apostle | Biography & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/93/130093-050-4926C50E/Paul-the-Apostle-epistle-prison-Ephesians.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saint Paul the Apostle">
+                                <img itemprop="contentUrl url" src='http://saintsforsinners.com/cdn/shop/articles/Paul.jpg?v=1586879895&width=2048' alt='Saint Paul the Apostle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saints for Sinners" />
+                                </span>
+                                <a href='http://saintsforsinners.com/cdn/shop/articles/Paul.jpg?v=1586879895&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was the Apostle Paul?">
+                                <img itemprop="contentUrl url" src='https://www.churchofjesuschrist.org/imgs/a82b1f669cb711edbedceeeeac1ea47e204f7d7e/full/1920,/0/default' alt='Who Was the Apostle Paul?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Church of Jesus Christ of Latter-day Saints" />
+                                </span>
+                                <a href='https://www.churchofjesuschrist.org/imgs/a82b1f669cb711edbedceeeeac1ea47e204f7d7e/full/1920,/0/default' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

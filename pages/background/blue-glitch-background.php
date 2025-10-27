@@ -1,0 +1,129 @@
+<title>Stunning Blue Glitch Backgrounds for Modern Designs</title>
+                    <meta name="description" content="Explore a collection of stunning blue glitch backgrounds ideal for enhancing your digital projects. Perfect for websites, artwork, and social media, these unique designs bring a contemporary flair to your visuals. Elevate your creativity with captivating blue glitch aesthetics today!">
+                    <meta name="keywords" content="blue glitch background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-glitch-background">
+                            <span itemprop="name">blue glitch background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Glitch Backgrounds for Modern Designs</h1>
+                <p>Discover the mesmerizing blue glitch background that captivates the digital art scene. Combining vibrant hues and distorted patterns, this backdrop adds a modern touch to any design project. Perfect for websites, wallpapers, and social media graphics, the blue glitch aesthetic inspires creativity and evokes a sense of technology. Dive into the world of blue glitch art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast Blue Glitch Interference Screen Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1015303282/thumb/6.jpg?ip=x480' alt='Fast Blue Glitch Interference Screen Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1015303282/thumb/6.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Blue Glitch Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1311040886/vector/glitch-interlaced-textured-futuristic-background.jpg?s=612x612&w=0&k=20&c=yYZfKcd_iTG1cEhVzVcfV619yKqdaLnCuH81qC4tHRg=' alt='12,800+ Blue Glitch Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1311040886/vector/glitch-interlaced-textured-futuristic-background.jpg?s=612x612&w=0&k=20&c=yYZfKcd_iTG1cEhVzVcfV619yKqdaLnCuH81qC4tHRg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitch 4K Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-186133-qwnMM9dMZO-high_0011.jpg?w=660&q=60&fit=max&auto=format' alt='Blue Glitch 4K Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-186133-qwnMM9dMZO-high_0011.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast Blue Glitch Interference Screen Background Stock Footage ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1112118469/thumb/1.jpg?ip=x480' alt='Fast Blue Glitch Interference Screen Background Stock Footage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1112118469/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitch Background with Digital Pixel Noise">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/93/ba/0693ba22fd7defd335a42326cbbbf0b3.jpg' alt='Blue Glitch Background with Digital Pixel Noise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/93/ba/0693ba22fd7defd335a42326cbbbf0b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue Background with Glitch Effect for Background. Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/noise-texture-video-glitch-error-test-screen-abstract-blue-background-effect-116775190.jpg' alt='Abstract Blue Background with Glitch Effect for Background. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/noise-texture-video-glitch-error-test-screen-abstract-blue-background-effect-116775190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract background with glitch effect distortion ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-background-with-glitch-effect-distortion-texture-random-horizontal-blue-lines_109181-373.jpg' alt='Premium Vector | Abstract background with glitch effect distortion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-background-with-glitch-effect-distortion-texture-random-horizontal-blue-lines_109181-373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract lines texture. Glitch effect background. Blue glitch ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/45/28/85/1000_F_245288585_oOEm91IKCVRM6c0ShicWhqdaGumEaCME.jpg' alt='Abstract lines texture. Glitch effect background. Blue glitch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/45/28/85/1000_F_245288585_oOEm91IKCVRM6c0ShicWhqdaGumEaCME.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitch effect blue background | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iMTc0LWNhcmQtMDRiXzFfMS5qcGc.jpg' alt='Glitch effect blue background | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iMTc0LWNhcmQtMDRiXzFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue HUD Cyber Glitch Background Loop">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/2fffaa43-52cd-459f-aa7a-a73aac91ddbc/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=31b0265baa2c6954e510d0bbf2035b87a97a3077969fbcdd8d6c201e5447ec59' alt='Blue HUD Cyber Glitch Background Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/2fffaa43-52cd-459f-aa7a-a73aac91ddbc/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=31b0265baa2c6954e510d0bbf2035b87a97a3077969fbcdd8d6c201e5447ec59' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

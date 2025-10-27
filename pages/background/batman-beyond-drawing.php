@@ -1,0 +1,129 @@
+<title>Creative Batman Beyond Drawing Tips</title>
+                    <meta name="description" content="Unlock your artistic potential with our Batman Beyond drawing guide! Learn essential tips and techniques to capture the futuristic hero's unique style and vibrant energy. Perfect for artists of all levels looking to explore the bustling world of Gotham and its compelling characters. Start drawing today!">
+                    <meta name="keywords" content="batman beyond drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/batman-beyond-drawing">
+                            <span itemprop="name">batman beyond drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Batman Beyond Drawing Tips</h1>
+                <p>Batman Beyond drawing is a dynamic exercise in blending futuristic design with the iconic elements of the Batman legacy. Use bold lines and vibrant colors to capture Terry McGinnis's sleek suit and Gotham's high-tech skyline. Focus on expressing his agility and the essence of heroism, showcasing both his youthful energy and the weight of responsibility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Batman Beyond | Step By Step | DC Arkham Knight">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nckJTLlYCeI/maxresdefault.jpg' alt='How To Draw Batman Beyond | Step By Step | DC Arkham Knight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nckJTLlYCeI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Beyond Drawing by cusT0M on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dadef2f-5494-4230-8873-95c16b34394a/d5a7cip-d867f85e-68f6-491f-afed-59c6515179ca.jpg/v1/fill/w_1024,h_1302,q_75,strp/batman_beyond_drawing_by_cust0m_d5a7cip-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkYWRlZjJmLTU0OTQtNDIzMC04ODczLTk1YzE2YjM0Mzk0YVwvZDVhN2NpcC1kODY3Zjg1ZS02OGY2LTQ5MWYtYWZlZC01OWM2NTE1MTc5Y2EuanBnIiwiaGVpZ2h0IjoiPD0xMzAyIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvN2RhZGVmMmYtNTQ5NC00MjMwLTg4NzMtOTVjMTZiMzQzOTRhXC9jdXN0MG0tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.Xx_uJxYI2z9jOCuyABFi_7L9wanoBIDZuAsDq1eL4ms' alt='Batman Beyond Drawing by cusT0M on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dadef2f-5494-4230-8873-95c16b34394a/d5a7cip-d867f85e-68f6-491f-afed-59c6515179ca.jpg/v1/fill/w_1024,h_1302,q_75,strp/batman_beyond_drawing_by_cust0m_d5a7cip-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkYWRlZjJmLTU0OTQtNDIzMC04ODczLTk1YzE2YjM0Mzk0YVwvZDVhN2NpcC1kODY3Zjg1ZS02OGY2LTQ5MWYtYWZlZC01OWM2NTE1MTc5Y2EuanBnIiwiaGVpZ2h0IjoiPD0xMzAyIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvN2RhZGVmMmYtNTQ5NC00MjMwLTg4NzMtOTVjMTZiMzQzOTRhXC9jdXN0MG0tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.Xx_uJxYI2z9jOCuyABFi_7L9wanoBIDZuAsDq1eL4ms' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Terry McGinnis from Batman Beyond (Batman Beyond) Step ...">
+                                <img itemprop="contentUrl url" src='https://www.drawingtutorials101.com/drawing-tutorials/Cartoon-TV/Batman-Beyond/terry-mcginnis/how-to-draw-Terry-McGinnis-from-Batman-Beyond-step-0.png' alt='How to Draw Terry McGinnis from Batman Beyond (Batman Beyond) Step ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drawing Tutorials 101" />
+                                </span>
+                                <a href='https://www.drawingtutorials101.com/drawing-tutorials/Cartoon-TV/Batman-Beyond/terry-mcginnis/how-to-draw-Terry-McGinnis-from-Batman-Beyond-step-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw | Batman Beyond">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JyIq-0uyLbA/maxresdefault.jpg' alt='How to draw | Batman Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JyIq-0uyLbA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw Batman Beyond - Sketchok easy drawing guides">
+                                <img itemprop="contentUrl url" src='https://sketchok.com/images/articles/02-comics/004-superheroes-new/25/29.jpg' alt='How to draw Batman Beyond - Sketchok easy drawing guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchok easy drawing guides" />
+                                </span>
+                                <a href='https://sketchok.com/images/articles/02-comics/004-superheroes-new/25/29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Beyond sketch from NYCC. Happy Halloween! #batmanbeyond ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3491057279393072643' alt='Batman Beyond sketch from NYCC. Happy Halloween! #batmanbeyond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3491057279393072643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Batman Beyond DC Comics - Art Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AU_ojJW_nyo/maxresdefault.jpg' alt='How to Draw Batman Beyond DC Comics - Art Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AU_ojJW_nyo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of Batman Beyond">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1572823366670-6IREEY9KUWGW19SP5RZU/Art+of+Batman+Beyond+%28A2%29+-+8.jpg' alt='Art of Batman Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1572823366670-6IREEY9KUWGW19SP5RZU/Art+of+Batman+Beyond+%28A2%29+-+8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of Batman Beyond">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1572823978399-6W4P0UZAG4967ELS7LEE/Art+of+Batman+Beyond+%28A2%29+-+9.jpg' alt='Art of Batman Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1572823978399-6W4P0UZAG4967ELS7LEE/Art+of+Batman+Beyond+%28A2%29+-+9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Beyond Original Production Cel with Matching Drawing: Batman">
+                                <img itemprop="contentUrl url" src='https://choicefineart.com/cdn/shop/products/batman-beyond-original-production-cel-with-matching-drawing-batman-349913.jpg?v=1689160491' alt='Batman Beyond Original Production Cel with Matching Drawing: Batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choice Fine Art" />
+                                </span>
+                                <a href='https://choicefineart.com/cdn/shop/products/batman-beyond-original-production-cel-with-matching-drawing-batman-349913.jpg?v=1689160491' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

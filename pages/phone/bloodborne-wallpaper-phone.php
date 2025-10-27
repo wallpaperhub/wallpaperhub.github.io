@@ -1,0 +1,129 @@
+<title>Bloodborne Phone Wallpapers: Dark Aesthetic Designs</title>
+                    <meta name="description" content="Discover a collection of mesmerizing Bloodborne wallpapers for your phone. Elevate your device's look with dark, atmospheric designs that celebrate the game's gripping visuals. Whether you prefer eerie landscapes or iconic characters, find the perfect wallpaper to showcase your passion for Bloodborne!">
+                    <meta name="keywords" content="bloodborne wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/bloodborne-wallpaper-phone">
+                            <span itemprop="name">bloodborne wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bloodborne Phone Wallpapers: Dark Aesthetic Designs</h1>
+                <p>Transform your phone with stunning Bloodborne wallpapers that capture the gothic aesthetic and haunting atmosphere of the game. Choose from iconic characters, chilling landscapes, and breathtaking artwork that will immerse you in the world of Bloodborne. Perfect for fans wanting to showcase their love for this dark adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite mobile wallpaper : r/bloodborne">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/toabzz311vf61.jpg' alt='My favorite mobile wallpaper : r/bloodborne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/toabzz311vf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne iPhone Wallpapers - Top Free Bloodborne iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/9b/86/9e9b8654ca86f94efc49cdb09d5c221f.jpg' alt='Bloodborne iPhone Wallpapers - Top Free Bloodborne iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/9b/86/9e9b8654ca86f94efc49cdb09d5c221f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone background I'm using if anyone is interested : r/bloodborne">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-background-im-using-if-anyone-is-interested-v0-j9zhmwraa9j81.jpg?width=1080&crop=smart&auto=webp&s=f28362c67dc8944d72cf509c16ea2492816e94b8' alt='Phone background I'm using if anyone is interested : r/bloodborne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-background-im-using-if-anyone-is-interested-v0-j9zhmwraa9j81.jpg?width=1080&crop=smart&auto=webp&s=f28362c67dc8944d72cf509c16ea2492816e94b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download City Fantasy Video Game Bloodborne Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/786/786909.jpg' alt='Download City Fantasy Video Game Bloodborne Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/786/786909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My current phone wallpaper after getting the Platinum, absolutely ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/41mjbp8j0ms61.jpg' alt='My current phone wallpaper after getting the Platinum, absolutely ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/41mjbp8j0ms61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lady Maria of the Clocktower - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/33/c9/8b/33c98be315884edab5a80e158165059e.jpg' alt='Lady Maria of the Clocktower - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="817">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/33/c9/8b/33c98be315884edab5a80e158165059e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hemwick Charnel Lane - Mobile Wallpaper : r/bloodborne">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dnf6y89iixr51.jpg' alt='Hemwick Charnel Lane - Mobile Wallpaper : r/bloodborne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dnf6y89iixr51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne phone wallpaper - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbTkiWTZNl3LSlFTYEGOT1r3p5TVHzldtWaH7fUaD7J_jgNcYrW32KF0QgOSBu17Ec1Z-dNODy5USNdPZquqbxoN5ynKh6wyOBfRDkFlOiiw5yjB3s-EOOiEGDv1K5VKTgo1yYeuy9jXk/d/bloodborne-wallpaper.png' alt='Bloodborne phone wallpaper - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbTkiWTZNl3LSlFTYEGOT1r3p5TVHzldtWaH7fUaD7J_jgNcYrW32KF0QgOSBu17Ec1Z-dNODy5USNdPZquqbxoN5ynKh6wyOBfRDkFlOiiw5yjB3s-EOOiEGDv1K5VKTgo1yYeuy9jXk/d/bloodborne-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloodborne Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/784/784557.png' alt='Bloodborne Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/784/784557.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bloodborne wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/336/427/HD-wallpaper-bloodborne-horror-souls.jpg' alt='HD bloodborne wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/336/427/HD-wallpaper-bloodborne-horror-souls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Animated GIFs of Pizza Tower: A Quirky Adventure</title>
+                    <meta name="description" content="Explore vibrant and playful Pizza Tower GIFs that capture the essence of this beloved indie game. Perfect for fans, these animations highlight the fun and excitement of Pizza Tower's unique characters and zany gameplay. Share and enjoy the whimsical world of Pizza Tower today!">
+                    <meta name="keywords" content="pizza tower gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pizza-tower-gif">
+                            <span itemprop="name">pizza tower gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Animated GIFs of Pizza Tower: A Quirky Adventure</h1>
+                <p>Discover the whimsical world of "Pizza Tower" through captivating GIFs that showcase the vibrant animations and quirky characters! These animated snippets bring the game's playful energy to life, transporting fans into its zany culinary adventure. Perfect for sharing and expressing your love for this unique indie platformer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Sticker - Pizza Tower - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/39KByaPELz4AAAAj/pizza-tower.gif' alt='Pizza Tower Sticker - Pizza Tower - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/39KByaPELz4AAAAj/pizza-tower.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/06/icegif-264.gif' alt='Pizza Tower Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/06/icegif-264.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Sticker - Pizza Tower - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1b/ab/c6/1babc643c2e289bdb5fb68733fa04a5d.gif' alt='Pizza Tower Sticker - Pizza Tower - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1b/ab/c6/1babc643c2e289bdb5fb68733fa04a5d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/06/icegif-274.gif' alt='Pizza Tower Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/06/icegif-274.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Choose a gif of your reaction when you beat pizza tower : r/PizzaTower">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9gem0j1q9icc1.gif' alt='Choose a gif of your reaction when you beat pizza tower : r/PizzaTower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9gem0j1q9icc1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/03/icegif-1235.gif' alt='Pizza Tower Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/03/icegif-1235.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peppino Pizza Tower Sticker - Peppino Pizza tower Pizza - Discover ...">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/3mssuthDFzcAAAAj/peppino-pizza-tower.gif' alt='Peppino Pizza Tower Sticker - Peppino Pizza tower Pizza - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/3mssuthDFzcAAAAj/peppino-pizza-tower.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/36/90/e9/3690e99ceed5190fda13e2e4094d672a.gif' alt='Pizza Tower Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/36/90/e9/3690e99ceed5190fda13e2e4094d672a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EVERYBODY **SPREAD THE GREATNESS OF MY GIF!!** : r/PizzaTower">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jqikcfo7bqcd1.gif' alt='EVERYBODY **SPREAD THE GREATNESS OF MY GIF!!** : r/PizzaTower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jqikcfo7bqcd1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Tower Gifs - Free animated GIF - PicMix">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/pic/normal/6/1/8/1/11041816_c371c.gif' alt='Pizza Tower Gifs - Free animated GIF - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/pic/normal/6/1/8/1/11041816_c371c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

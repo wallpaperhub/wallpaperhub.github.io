@@ -1,0 +1,129 @@
+<title>Star Wars Landscape Wallpaper: Explore Iconic Scenes</title>
+                    <meta name="description" content="Discover breathtaking Star Wars landscape wallpapers that bring iconic scenes to your device. Perfect for fans who want to showcase their love for this legendary galaxy, our collection features stunning visuals ideal for mobile and desktop displays. Transform your background today!">
+                    <meta name="keywords" content="star wars landscape wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-landscape-wallpaper">
+                            <span itemprop="name">star wars landscape wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Landscape Wallpaper: Explore Iconic Scenes</h1>
+                <p>Explore the vast, enchanting landscapes of the Star Wars universe with stunning wallpaper designs. From the snowy plains of Hoth to the deserts of Tatooine and the lush forests of Endor, each wallpaper transports you to a different world. Perfect for any Star Wars fan looking to elevate their screen experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Star Wars Landscape Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-landscape-2392-x-1080-l6rxpuq9yyuh0omi.jpg' alt='200+] Star Wars Landscape Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-landscape-2392-x-1080-l6rxpuq9yyuh0omi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper Dump : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/y_YdHJBLaUlgNnIqvscJYAtTnN3ywXT4U4kn9uLSnr4.jpg?auto=webp&s=7bdcbf7a7be0a1577e0c708e6cb78af24e7f5ee0' alt='Star Wars Wallpaper Dump : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/y_YdHJBLaUlgNnIqvscJYAtTnN3ywXT4U4kn9uLSnr4.jpg?auto=webp&s=7bdcbf7a7be0a1577e0c708e6cb78af24e7f5ee0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars landscape wallpapers - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/LpcZBnb.jpeg' alt='Star Wars landscape wallpapers - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/LpcZBnb.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Landscape [3840 x 2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/star-wars-landscape-3840-x-2160-v0-9my1a5ggbd0d1.jpeg?auto=webp&s=b0808f3da818dc1f1dd36a9b63fcbe337f96e25b' alt='Star Wars Landscape [3840 x 2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/star-wars-landscape-3840-x-2160-v0-9my1a5ggbd0d1.jpeg?auto=webp&s=b0808f3da818dc1f1dd36a9b63fcbe337f96e25b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars landscape wallpapers - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/VNDCqpR.jpeg' alt='Star Wars landscape wallpapers - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/VNDCqpR.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Star Wars Landscape HD Wallpaper: Rey & Spaceships by Gabriel ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/894/894673.jpg' alt='Epic Star Wars Landscape HD Wallpaper: Rey & Spaceships by Gabriel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/894/894673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Landscape Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8959977.jpg' alt='Star Wars Landscape Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1097">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8959977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Jedi: Fallen Order Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/star-wars-jedi-fallen-order-ps4-wallpapers-41.jpg' alt='Star Wars Jedi: Fallen Order Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/star-wars-jedi-fallen-order-ps4-wallpapers-41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Star Wars Landscape Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/65/1f/4a651f5c4c0697cc49b01d17230431c8.jpg' alt='60+ Star Wars Landscape Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/65/1f/4a651f5c4c0697cc49b01d17230431c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designer Star Wars wallpapers collection">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2016/05/Star-Wars-iPhone-Wallpaper-The-Force-Unleashed-Rey-BB8-Marko-Manev-color.jpg' alt='Designer Star Wars wallpapers collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2016/05/Star-Wars-iPhone-Wallpaper-The-Force-Unleashed-Rey-BB8-Marko-Manev-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

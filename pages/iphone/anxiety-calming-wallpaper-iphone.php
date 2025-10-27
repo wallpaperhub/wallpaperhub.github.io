@@ -1,0 +1,129 @@
+<title>Soothing Anxiety-Calming Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect anxiety-calming wallpaper for your iPhone. Explore serene designs and colors that promote relaxation and reduce stress. Customize your screen with uplifting visuals tailored to soothe your mind and enhance your daily experience. Download now for a peaceful mobile environment.">
+                    <meta name="keywords" content="anxiety calming wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/anxiety-calming-wallpaper-iphone">
+                            <span itemprop="name">anxiety calming wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soothing Anxiety-Calming Wallpapers for iPhone</h1>
+                <p>Transform your iPhone screen with anxiety-calming wallpaper that helps ease your mind. Choose from soothing designs featuring nature scenes, gentle pastels, and motivational quotes. These wallpapers are perfect for creating a serene atmosphere that reduces stress and promotes a sense of calm throughout your day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 30 Calming iPhone Wallpaper To Relax Your Mind">
+                                <img itemprop="contentUrl url" src='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' alt='Top 30 Calming iPhone Wallpaper To Relax Your Mind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calm Sage" />
+                                </span>
+                                <a href='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 30 Calming iPhone Wallpaper To Relax Your Mind">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/03/7d/30037dbbe60143164f04ba3e8dbd2c9c.jpg' alt='Top 30 Calming iPhone Wallpaper To Relax Your Mind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/03/7d/30037dbbe60143164f04ba3e8dbd2c9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anxiety Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anxiety-iphone-744-x-1392-wallpaper-276tlrpeden4iifw.jpg' alt='100+] Anxiety Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anxiety-iphone-744-x-1392-wallpaper-276tlrpeden4iifw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Clouds Breathe Meditation Anxiety Relief Background  Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' alt='Phone Wallpaper Clouds Breathe Meditation Anxiety Relief Background  Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Calming Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/calming-iphone-60fzuzdsvs28u7ln.jpg' alt='100+] Calming Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/calming-iphone-60fzuzdsvs28u7ln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calming Quotes to Relieve Stress and Anxiety, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/509/267/HD-wallpaper-calming-quotes-to-relieve-stress-and-anxiety.jpg' alt='Calming Quotes to Relieve Stress and Anxiety, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/509/267/HD-wallpaper-calming-quotes-to-relieve-stress-and-anxiety.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Calm Wallpapers ideas | calm, breathe in the air, iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/29/e1/d1/29e1d151888262ba517be2894b6e4f10.jpg' alt='170 Calm Wallpapers ideas | calm, breathe in the air, iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/29/e1/d1/29e1d151888262ba517be2894b6e4f10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="breathe cloud pastel wallpaper iPhone background cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/ce/ca/5aceca6368406ceceb66af215e20b55e.jpg' alt='breathe cloud pastel wallpaper iPhone background cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/ce/ca/5aceca6368406ceceb66af215e20b55e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calming iphone wallpaper sales">
+                                <img itemprop="contentUrl url" src='https://www.mindzoneapp.com/wp-content/uploads/2021/04/Hello-Darling-Mindzone-Wallpaper-copy-2-1-768x1365.jpeg' alt='Calming iphone wallpaper sales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="npl-project.com" />
+                                </span>
+                                <a href='https://www.mindzoneapp.com/wp-content/uploads/2021/04/Hello-Darling-Mindzone-Wallpaper-copy-2-1-768x1365.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relax And Recharge With A Calming Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/relax-and-recharge-with-a-calming-iphone-0gvgott5y2cbtja6.jpg' alt='Relax And Recharge With A Calming Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/relax-and-recharge-with-a-calming-iphone-0gvgott5y2cbtja6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

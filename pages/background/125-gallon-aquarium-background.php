@@ -1,0 +1,129 @@
+<title>Stunning Background Ideas for Your 125 Gallon Aquarium</title>
+                    <meta name="description" content="Discover the best background options for your 125-gallon aquarium! From vibrant aquatic scenes to serene natural landscapes, find the perfect backdrop that elevates your tank's beauty and enhances your fish's habitat. Transform your aquarium's look today with our top picks!">
+                    <meta name="keywords" content="125 gallon aquarium background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/125-gallon-aquarium-background">
+                            <span itemprop="name">125 gallon aquarium background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Ideas for Your 125 Gallon Aquarium</h1>
+                <p>Transform your 125-gallon aquarium with a striking background that enhances the overall aesthetic. Consider options like realistic underwater scenes or vibrant tropical landscapes to create an engaging environment for your fish. A well-chosen backdrop not only beautifies your tank but also minimizes visual distractions, making it easier to focus on your aquatic inhabitants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91F2rr6KsuL.jpg' alt='Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91F2rr6KsuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91M9HX-dN1L.jpg' alt='Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91M9HX-dN1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Aquarium Background 180, 150 or 125 Gallon Fish Tank Background |  24 ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ZTAAAOSwXHdl7otU/s-l400.jpg' alt='Premium Aquarium Background 180, 150 or 125 Gallon Fish Tank Background |  24 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ZTAAAOSwXHdl7otU/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon Fish Tank  Background | 24 x 71 inches | Durable, Thick & Tear Resistant + Easy Install">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51r5ORoI17L._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA327,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' alt='JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon Fish Tank  Background | 24 x 71 inches | Durable, Thick & Tear Resistant + Easy Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51r5ORoI17L._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA327,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3-D Aquarium Background ROCKY w/ FREE Clips -Choose Size 10 Gallon to 125  Gallon">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/DTIAAOSw7UJa-4ac/s-l1200.jpg' alt='3-D Aquarium Background ROCKY w/ FREE Clips -Choose Size 10 Gallon to 125  Gallon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/DTIAAOSw7UJa-4ac/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocky 3D Background - Castle Rock Grey">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2107/0905/files/Rocky-Tank.JPG?10797776690870192554' alt='Rocky 3D Background - Castle Rock Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Fish Stuff" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2107/0905/files/Rocky-Tank.JPG?10797776690870192554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Aquarium Background Poster Black Brick Wall Tree Art Fish ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25639777/r/il/25e063/4119345973/il_fullxfull.4119345973_36xy.jpg' alt='Custom Aquarium Background Poster Black Brick Wall Tree Art Fish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25639777/r/il/25e063/4119345973/il_fullxfull.4119345973_36xy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 3D Fish Tank Backgrounds for a Natural Habitat | Aquadecor LLC">
+                                <img itemprop="contentUrl url" src='https://aquadecorbackgrounds.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fz-section-image-2.e5371b90.webp&w=3840&q=75' alt='Top 3D Fish Tank Backgrounds for a Natural Habitat | Aquadecor LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="aquadecorbackgrounds.com" />
+                                </span>
+                                <a href='https://aquadecorbackgrounds.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fz-section-image-2.e5371b90.webp&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aquarium Background Poster Sticker Decoration Aquarium Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21655828/r/il/2f437a/3452042710/il_fullxfull.3452042710_d7gh.jpg' alt='Aquarium Background Poster Sticker Decoration Aquarium Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21655828/r/il/2f437a/3452042710/il_fullxfull.3452042710_d7gh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d1a1b13-4926-4135-bd8c-03d56798e35c.__CR0,0,970,600_PT0_SX970_V1___.png' alt='Amazon.com : JUBMACH Premium Aquarium Background 180, 150 or 125 Gallon  Fish Tank Background | 24 x 71 inches | Durable, Thick & Tear Resistant +  Easy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d1a1b13-4926-4135-bd8c-03d56798e35c.__CR0,0,970,600_PT0_SX970_V1___.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

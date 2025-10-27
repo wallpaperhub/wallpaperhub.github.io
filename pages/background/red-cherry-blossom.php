@@ -1,0 +1,129 @@
+<title>Experience the Allure of Red Cherry Blossoms</title>
+                    <meta name="description" content="Discover the enchanting beauty of red cherry blossoms! Explore their vibrant hues, delicate petals, and breathtaking seasonal displays. Perfect for nature lovers and photographers, these stunning flowers symbolize renewal and the magic of spring.">
+                    <meta name="keywords" content="red cherry blossom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-cherry-blossom">
+                            <span itemprop="name">red cherry blossom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Allure of Red Cherry Blossoms</h1>
+                <p>Red cherry blossoms, vibrant and fleeting, captivate onlookers with their radiant hue and delicate petals. These blossoms symbolize renewal and beauty, heralding the arrival of spring. As trees bloom with clusters of striking red flowers, parks and gardens transform into enchanting landscapes, inviting nature enthusiasts and photographers alike to savor this breathtaking spectacle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artificial Japanese Cherry Blossom Tree Decor - Red Sakura Flowers for  Indoor/Outdoor Wedding - Lifelike Sakura Tree Décor, 2.5*2.5米/98*98in">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aGWbnS7-L._AC_UF894,1000_QL80_.jpg' alt='Artificial Japanese Cherry Blossom Tree Decor - Red Sakura Flowers for  Indoor/Outdoor Wedding - Lifelike Sakura Tree Décor, 2.5*2.5米/98*98in'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aGWbnS7-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/052/339/959/non_2x/vibrant-red-cherry-blossoms-in-bloom-photo.jpg' alt='Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1410">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/052/339/959/non_2x/vibrant-red-cherry-blossoms-in-bloom-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red cherry blossom tree hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HN6PAK/card-holiday-background-with-beautiful-pink-red-cherry-blossom-tree-sakura-flowers-2HN6PAK.jpg' alt='Red cherry blossom tree hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HN6PAK/card-holiday-background-with-beautiful-pink-red-cherry-blossom-tree-sakura-flowers-2HN6PAK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spot the Difference: Are They Cherry Blossoms? - TokyoTreat Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tokyotreatblog.wpcomstaging.com/wp-content/uploads/2024/01/spot-the-difference-spring-flowers-japan-thumbnail.webp?fit=1024%2C683&ssl=1' alt='Spot the Difference: Are They Cherry Blossoms? - TokyoTreat Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TokyoTreat" />
+                                </span>
+                                <a href='https://i0.wp.com/tokyotreatblog.wpcomstaging.com/wp-content/uploads/2024/01/spot-the-difference-spring-flowers-japan-thumbnail.webp?fit=1024%2C683&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/054/784/206/small_2x/elegant-cherry-blossom-branch-against-vibrant-red-background-for-nature-art-photo.jpg' alt='Red Cherry Blossom Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/054/784/206/small_2x/elegant-cherry-blossom-branch-against-vibrant-red-background-for-nature-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom 1 oz Bottle">
+                                <img itemprop="contentUrl url" src='https://d384u2mq2suvbq.cloudfront.net/public/spree/products/1597/jumbo/Japanese-Cherry-Blossom-Fragrance-Oil.webp?1704911119' alt='Japanese Cherry Blossom 1 oz Bottle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CandleScience" />
+                                </span>
+                                <a href='https://d384u2mq2suvbq.cloudfront.net/public/spree/products/1597/jumbo/Japanese-Cherry-Blossom-Fragrance-Oil.webp?1704911119' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Ft Detachable Red Cherry Blossom Tree Artificial Tree Fake ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23246521/r/il/dcaacc/5731078743/il_570xN.5731078743_9mzy.jpg' alt='4 Ft Detachable Red Cherry Blossom Tree Artificial Tree Fake ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23246521/r/il/dcaacc/5731078743/il_570xN.5731078743_9mzy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JAPANESE SAKURA CHERRY BLOSSOM TREE SEEDS (Prunus sargentii) Hardy Flower  Plant">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTM1MFgxMzUw/z/m~IAAOSwgc1jKhwP/$_57.JPG?set_id=8800005007' alt='JAPANESE SAKURA CHERRY BLOSSOM TREE SEEDS (Prunus sargentii) Hardy Flower  Plant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTM1MFgxMzUw/z/m~IAAOSwgc1jKhwP/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cherry Blossom Images – Browse 376,422 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/49/29/19/360_F_1149291990_ziUtTXgF6J3EVVHzAHRq1SqpuQUrYbcP.jpg' alt='Red Cherry Blossom Images – Browse 376,422 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/49/29/19/360_F_1149291990_ziUtTXgF6J3EVVHzAHRq1SqpuQUrYbcP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Sakura/cherry Blossom - EPS, JPG, PNG Sakura Flowers - Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12075307/r/il/279f52/3185759162/il_fullxfull.3185759162_eaqm.jpg' alt='Red Sakura/cherry Blossom - EPS, JPG, PNG Sakura Flowers - Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12075307/r/il/279f52/3185759162/il_fullxfull.3185759162_eaqm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

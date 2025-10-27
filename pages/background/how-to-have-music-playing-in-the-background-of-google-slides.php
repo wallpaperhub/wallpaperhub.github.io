@@ -1,0 +1,129 @@
+<title>How to Add Background Music to Google Slides</title>
+                    <meta name="description" content="Learn how to effortlessly add background music to your Google Slides presentation. Enhance your slides with captivating audio that plays seamlessly across multiple slides. Follow simple steps to upload, insert, and customize music, boosting engagement during your presentation. Perfect for educators and professionals alike!">
+                    <meta name="keywords" content="how to have music playing in the background of google slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-have-music-playing-in-the-background-of-google-slides">
+                            <span itemprop="name">how to have music playing in the background of google slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Add Background Music to Google Slides</h1>
+                <p>To play music in the background of Google Slides, first upload your audio file to Google Drive. Next, open your presentation and select the slide where you want the music to start. Click on "Insert," choose "Audio," and select your file. Adjust the playback options under the Format options menu to play across slides and loop if desired.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Background Music to your Google Slides">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/asVVdt0aUgc/maxresdefault.jpg' alt='How to Add Background Music to your Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/asVVdt0aUgc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music to Google Slides in 2025">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/634e7aa49f5b025e1fd9e87b/6520588c510f4810b2abc862_ldoyIBv3xt4GpXQ2PVuppeTZ2j9d5t-R7YVmIKDx3_305Uqu3208mQcoqdElBf7QCgfhFAr4KuKoBZ0tOh_QyKYWSm6_qvN2b2tc1oTGIt3wfIsLPx8RdFmpjIA0QpvKBY-a5qIfJPDgrKU69ODDWi0.png' alt='Add Music to Google Slides in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Descript" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/634e7aa49f5b025e1fd9e87b/6520588c510f4810b2abc862_ldoyIBv3xt4GpXQ2PVuppeTZ2j9d5t-R7YVmIKDx3_305Uqu3208mQcoqdElBf7QCgfhFAr4KuKoBZ0tOh_QyKYWSm6_qvN2b2tc1oTGIt3wfIsLPx8RdFmpjIA0QpvKBY-a5qIfJPDgrKU69ODDWi0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add and Edit Audio or Music in Google Slides - Tutorial">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/82979/05.gif' alt='How to Add and Edit Audio or Music in Google Slides - Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1297">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/82979/05.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Music and Audio to Google Slides">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b-eZA9CSVVE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMjyP628QjU8rcHgMKoJN8xcHNLg' alt='How to Add Music and Audio to Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b-eZA9CSVVE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMjyP628QjU8rcHgMKoJN8xcHNLg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I play music in the background of my google slide? - Google ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/support-forums-api/attachment/message-56722098-5714954678327803127.png' alt='How do I play music in the background of my google slide? - Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Help" />
+                                </span>
+                                <a href='https://storage.googleapis.com/support-forums-api/attachment/message-56722098-5714954678327803127.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add music to a Google Slides presentation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KKiEnrzyzPE/maxresdefault.jpg' alt='How to add music to a Google Slides presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KKiEnrzyzPE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add music to Google Slides - Plus">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/62375700635d76646ef2457f/6529ce0b763ab4f52373eacf_Untitled%20(63).png' alt='How to add music to Google Slides - Plus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2686">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plus AI" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/62375700635d76646ef2457f/6529ce0b763ab4f52373eacf_Untitled%20(63).png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Music to Google Slides in 2025">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/634e7aa49f5b025e1fd9e87b/6520394f17eee978a2d3c6d0_x7omkshI4yAbQCQOxtdnIMk6h6sbV8ce7roArBBoztOk7Hq__rIPELULlb8G6mlcqC1Xe7M8jxzniND51MzkFZu_R42WdDH6s1_Y7OTR97vH-HTAaXB0I3L5AzsmIrPzZ80T40ZFwA1Um_7DMyjC4Hk.png' alt='Add Music to Google Slides in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Descript" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/634e7aa49f5b025e1fd9e87b/6520394f17eee978a2d3c6d0_x7omkshI4yAbQCQOxtdnIMk6h6sbV8ce7roArBBoztOk7Hq__rIPELULlb8G6mlcqC1Xe7M8jxzniND51MzkFZu_R42WdDH6s1_Y7OTR97vH-HTAaXB0I3L5AzsmIrPzZ80T40ZFwA1Um_7DMyjC4Hk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add and Edit Audio or Music in Google Slides - Tutorial">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/82970/13.gif' alt='How to Add and Edit Audio or Music in Google Slides - Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1235">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/82970/13.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Ultimate Ways to Add Apple Music to Google Slides - TunesMake">
+                                <img itemprop="contentUrl url" src='https://www.tunesmake.com/images/2021/09/select-lin-in-google-slides.png' alt='2 Ultimate Ways to Add Apple Music to Google Slides - TunesMake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TunesMake" />
+                                </span>
+                                <a href='https://www.tunesmake.com/images/2021/09/select-lin-in-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

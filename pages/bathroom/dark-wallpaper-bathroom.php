@@ -1,0 +1,129 @@
+<title>Elegant Dark Wallpaper Ideas for Your Bathroom</title>
+                    <meta name="description" content="Explore beautiful dark wallpaper ideas to elevate your bathroom aesthetic. From deep blues to rich blacks, discover how to embrace bold styles that create a cozy vibe. Perfect for adding luxury and depth, dark wallpaper can turn your space into a modern sanctuary.">
+                    <meta name="keywords" content="dark wallpaper bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/dark-wallpaper-bathroom">
+                            <span itemprop="name">dark wallpaper bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Wallpaper Ideas for Your Bathroom</h1>
+                <p>Transform your bathroom into a luxurious retreat with dark wallpaper. Deep tones like navy, charcoal, or forest green can create an intimate atmosphere, adding a touch of sophistication. Pair with metallic accents and soft lighting to enhance the mood. Dark wallpaper not only makes a bold statement but also works wonders in hiding imperfections.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' alt='Black Moody Wallpaper Botanical Watercolor Peach Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WESTICK Dark Floral Peel and Stick Wallpaper Vintage Tropical Wallpaper for  Bathroom Removable Floral Contact Paper for Cabinets Accent Wallpaper Peel  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811Fu7LDQWL.jpg' alt='WESTICK Dark Floral Peel and Stick Wallpaper Vintage Tropical Wallpaper for  Bathroom Removable Floral Contact Paper for Cabinets Accent Wallpaper Peel  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811Fu7LDQWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' alt='Small Wallpaper Bathroom- Utah Ranch Home - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2021/12/IMG_4710-2-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Bathroom Wallpaper Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/E8SXZ9Hr1NWP006qQ6MzBXf9ZoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0-8747b9e9a8974a459bb6e3f0219712dd.jpg' alt='39 Bathroom Wallpaper Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/E8SXZ9Hr1NWP006qQ6MzBXf9ZoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0-8747b9e9a8974a459bb6e3f0219712dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A moody floral bathroom - Diana Elizabeth Steffen">
+                                <img itemprop="contentUrl url" src='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' alt='A moody floral bathroom - Diana Elizabeth Steffen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diana Elizabeth Blog" />
+                                </span>
+                                <a href='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' alt='Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2242">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark wallpaper patterns for the bathroom that elicit a moody ...">
+                                <img itemprop="contentUrl url" src='https://designdispatch.mt/wp-content/uploads/2024/01/2.-Photo-Camille-Styles.jpg' alt='Dark wallpaper patterns for the bathroom that elicit a moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Dispatch" />
+                                </span>
+                                <a href='https://designdispatch.mt/wp-content/uploads/2024/01/2.-Photo-Camille-Styles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Bathroom Wallpaper Ideas That Will Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' alt='32 Bathroom Wallpaper Ideas That Will Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/rMWAnv_2HteqxU7dkTJ3-IQJknE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amypeltier_BethanyNauert-2000-ac28971db8d44928b1ecde11c73e98f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Bathroom Design — Olive & June Home: DIY Renovation ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e2f03e43fc67e718ad7f91d/1694787627683-6UO9HI7D6Z6TJZORF8D3/Inspo_2.jpg?format=500w' alt='Half Bathroom Design — Olive & June Home: DIY Renovation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive & June" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e2f03e43fc67e718ad7f91d/1694787627683-6UO9HI7D6Z6TJZORF8D3/Inspo_2.jpg?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 765">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5526705796_czhv.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Muted Moody Floral Garden Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 765'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5526705796_czhv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

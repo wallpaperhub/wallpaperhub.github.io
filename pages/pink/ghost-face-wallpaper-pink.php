@@ -1,0 +1,129 @@
+<title>Trendy Pink Ghost Face Wallpaper for Chic Decor</title>
+                    <meta name="description" content="Discover stylish "Ghost Face wallpaper pink" designs! Ideal for horror lovers wanting to add a fun pop of color to their decor. Perfect for any room, these wallpapers balance playful and edgy aesthetics effortlessly. Upgrade your space with this unique touch today!">
+                    <meta name="keywords" content="ghost face wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/ghost-face-wallpaper-pink">
+                            <span itemprop="name">ghost face wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pink Ghost Face Wallpaper for Chic Decor</h1>
+                <p>Transform your space with unique "Ghost Face wallpaper pink" designs! Perfect for fans of horror and chic aesthetics, these wallpapers combine the iconic Ghost Face motif with a trendy pink backdrop. Whether you're sprucing up your bedroom or creating a striking feature wall, this wallpaper adds a playful yet edgy vibe to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghostface | Halloween | Ghostface wallpaper | iPhone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/18/05/6218053ee6919ad8cf957fb933447c26.jpg' alt='Ghostface | Halloween | Ghostface wallpaper | iPhone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/18/05/6218053ee6919ad8cf957fb933447c26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink wallpaper Ghostface   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/de/ec/dddeeceafd303235dba7b606aaefb4c3.jpg' alt='Pink wallpaper Ghostface   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/de/ec/dddeeceafd303235dba7b606aaefb4c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ghostface Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghostface-pink-background-hello-sidney-lq9vwhyznr9ydc41.jpg' alt='100+] Ghostface Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghostface-pink-background-hello-sidney-lq9vwhyznr9ydc41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Scream pink ideas | halloween wallpaper, halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8e/06/2d/8e062d1ba118eb95b61c32b3a9b69089.jpg' alt='15 Scream pink ideas | halloween wallpaper, halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8e/06/2d/8e062d1ba118eb95b61c32b3a9b69089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Heart Ghost Face PFP Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-heart-ghost-face-pfp-57s46kak5c5wnqsx.jpg' alt='Download Pink Heart Ghost Face PFP Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-heart-ghost-face-pfp-57s46kak5c5wnqsx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b2/8e/7f/b28e7f7f23727c563b50ce23a53c3109.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b2/8e/7f/b28e7f7f23727c563b50ce23a53c3109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ghostface Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghostface-pink-pumpkinsand-ghosts-pattern-lgpgzvncdrcku6p8.jpg' alt='100+] Ghostface Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghostface-pink-pumpkinsand-ghosts-pattern-lgpgzvncdrcku6p8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Face Pink Patchwork">
+                                <img itemprop="contentUrl url" src='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-07-27T223134.951.png?v=1690559950' alt='Ghost Face Pink Patchwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wild Cattle Designs" />
+                                </span>
+                                <a href='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-07-27T223134.951.png?v=1690559950' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=1&sign=9c019210b09c7abe93fd57e874b76fc5' alt='✨ Ghostface wallpapers ✨ | Gallery posted by Ember <3 | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1107">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7294330352041574918&index=1&sign=9c019210b09c7abe93fd57e874b76fc5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ghostface wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/36/a3/7636a3499db2a363830ff99b9627e107.jpg' alt='Pink Ghostface wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/36/a3/7636a3499db2a363830ff99b9627e107.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

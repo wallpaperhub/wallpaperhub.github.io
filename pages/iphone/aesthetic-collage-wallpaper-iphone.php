@@ -1,0 +1,129 @@
+<title>Aesthetic Collage Wallpaper for iPhone: Unique Designs</title>
+                    <meta name="description" content="Discover a collection of aesthetic collage wallpapers for iPhone that blend art, color, and style. Perfect for showcasing your personality and enhancing your device's look, these unique designs are ideal for anyone who loves creative expression. Elevate your screen with our curated selections!">
+                    <meta name="keywords" content="aesthetic collage wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-collage-wallpaper-iphone">
+                            <span itemprop="name">aesthetic collage wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Collage Wallpaper for iPhone: Unique Designs</h1>
+                <p>Transform your iPhone with stunning aesthetic collage wallpapers! These unique designs blend colors, textures, and images, creating a visually captivating backdrop for your device. Perfect for personal expression or artistic vibes, explore a variety of styles to match your personality and elevate your screen's aesthetic appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Yellow Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-yellow-aesthetic-collage-fljks9i42na3tawt.jpg' alt='Iphone Yellow Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-yellow-aesthetic-collage-fljks9i42na3tawt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper Summer Collage | Wallpaper iphone summer, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/fb/8f/c1fb8fd2c1d89e26cde45cd66c2c69ea.jpg' alt='iPhone wallpaper Summer Collage | Wallpaper iphone summer, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/fb/8f/c1fb8fd2c1d89e26cde45cd66c2c69ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Aesthetic Collage iPhone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' alt='Light Pink Aesthetic Collage iPhone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/fe05aa/6354366070/il_fullxfull.6354366070_1nzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grey Aesthetic Collage iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/9f7933/6354369674/il_fullxfull.6354369674_ji7t.jpg' alt='Light Grey Aesthetic Collage iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/9f7933/6354369674/il_fullxfull.6354369674_ji7t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink collage wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/48/a5/9248a5866e18d636281f12381dd9d96b.jpg' alt='pink collage wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/48/a5/9248a5866e18d636281f12381dd9d96b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Aesthetic Lilac Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-aesthetic-lilac-collage-k6795dnsdtsn34h9-2.jpg' alt='Iphone Aesthetic Lilac Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-aesthetic-lilac-collage-k6795dnsdtsn34h9-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beach aesthetic collage | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2047503889.7076/flat,750x1000,075,t.webp' alt='beach aesthetic collage | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2047503889.7076/flat,750x1000,075,t.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Aesthetic Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' alt='400+] Aesthetic Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This may look too much. But i think this is aesthetically pleasing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/33/80/1c33802b0dceef84abd0b524c270da84.jpg' alt='This may look too much. But i think this is aesthetically pleasing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/33/80/1c33802b0dceef84abd0b524c270da84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

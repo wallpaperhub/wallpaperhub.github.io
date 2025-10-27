@@ -1,0 +1,129 @@
+<title>Lilo and Stitch Wallpaper: Colorful Patterns for Your Space</title>
+                    <meta name="description" content="Discover the magic of Lilo and Stitch with our vibrant wallpaper patterns. Perfect for adding a touch of Disney charm to any room, these designs bring fun and personality to your space. Explore our collection and find the perfect one to brighten your walls today!">
+                    <meta name="keywords" content="wallpaper lilo and stitch pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stitch">
+                            <span itemprop="name">Stitch</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stitch/wallpaper-lilo-and-stitch-pattern">
+                            <span itemprop="name">wallpaper lilo and stitch pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lilo and Stitch Wallpaper: Colorful Patterns for Your Space</h1>
+                <p>Transform your space with a vibrant Lilo and Stitch wallpaper pattern! Perfect for fans of this beloved Disney duo, these wallpapers burst with colorful designs featuring Stitch's mischievous charm and Lilo's aloha spirit. Whether for a child's room or a playful corner in your home, it's sure to bring joy and personality to any wall!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Stitch Pattern,seamless Pattern,digital Paper,digital,paper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18333309/r/il/3004d9/4645926623/il_fullxfull.4645926623_jtps.jpg' alt='2 Stitch Pattern,seamless Pattern,digital Paper,digital,paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18333309/r/il/3004d9/4645926623/il_fullxfull.4645926623_jtps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quilt fabric, Largest selection of quilting fabrics- Free Quilt ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/5d/9b/01/5d9b01e0927cc3d08c7399ea5d9639f9.jpg' alt='Quilt fabric, Largest selection of quilting fabrics- Free Quilt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/5d/9b/01/5d9b01e0927cc3d08c7399ea5d9639f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stitch pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Background,Design,Watercolor,Clipart,Printable,Print,Pattern,lilo,">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37626230/r/il/3ee6cd/4741458217/il_570xN.4741458217_ootx.jpg' alt='stitch pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Background,Design,Watercolor,Clipart,Printable,Print,Pattern,lilo,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37626230/r/il/3ee6cd/4741458217/il_570xN.4741458217_ootx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilo & Stitch Pattern | Lilo and stitch drawings, Cute cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ba/c1/56/bac156e21bcc0d1f0f7d753db408ca17.jpg' alt='Lilo & Stitch Pattern | Lilo and stitch drawings, Cute cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ba/c1/56/bac156e21bcc0d1f0f7d753db408ca17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilo & Stitch Disney Photo Wallpaper Woven Self-Adhesive Wall Mural Art M119">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/CxwAAOSwqb5mn4mG/s-l1200.jpg' alt='Lilo & Stitch Disney Photo Wallpaper Woven Self-Adhesive Wall Mural Art M119'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/CxwAAOSwqb5mn4mG/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lilo and Stitch Seamless Pattern DIGITAL DOWNLOAD Commercial Use  Printable. Digital Paper Background design clipart angel ohana hawaii">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44947902/r/il/ee966c/5189652296/il_fullxfull.5189652296_mdw6.jpg' alt='Cute Lilo and Stitch Seamless Pattern DIGITAL DOWNLOAD Commercial Use  Printable. Digital Paper Background design clipart angel ohana hawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44947902/r/il/ee966c/5189652296/il_fullxfull.5189652296_mdw6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CF-Disney Stitch Ohana 85240201-01 White - Stitch Garden ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/e5/03/6ce503054ef4fecbd7a5901a2e9e41b7.jpg' alt='CF-Disney Stitch Ohana 85240201-01 White - Stitch Garden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/e5/03/6ce503054ef4fecbd7a5901a2e9e41b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stitch pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Background,Design,Watercolor,Clipart,Printable,Print,Pattern,lilo,">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37626230/r/il/1d9e34/5066020729/il_570xN.5066020729_h5uq.jpg' alt='stitch pattern,Seamless Pattern,Digital  Paper,Digital,Paper,Seamless,Background,Design,Watercolor,Clipart,Printable,Print,Pattern,lilo,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37626230/r/il/1d9e34/5066020729/il_570xN.5066020729_h5uq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilo & Stitch Wallpaper Print" Tote Bag for Sale by martily1990 ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.810206976.2625/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' alt='Lilo & Stitch Wallpaper Print" Tote Bag for Sale by martily1990 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.810206976.2625/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Lilo And Stitch Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-lilo-and-stitch-iphone-d63qtv9cvdila5mj.jpg' alt='Download Pastel Lilo And Stitch Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-lilo-and-stitch-iphone-d63qtv9cvdila5mj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

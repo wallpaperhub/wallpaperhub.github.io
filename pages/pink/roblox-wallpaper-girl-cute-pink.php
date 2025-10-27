@@ -1,0 +1,129 @@
+<title>Adorable Pink Roblox Girl Wallpapers</title>
+                    <meta name="description" content="Explore a delightful selection of cute pink Roblox girl wallpapers. Perfect for adding a splash of charm to your device, these vibrant images celebrate creativity and style in the Roblox universe. Download your favorite designs now to showcase your love for gaming and unique aesthetics!">
+                    <meta name="keywords" content="roblox wallpaper girl cute pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/roblox-wallpaper-girl-cute-pink">
+                            <span itemprop="name">roblox wallpaper girl cute pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pink Roblox Girl Wallpapers</h1>
+                <p>Looking for the perfect Roblox wallpaper featuring cute girls in pink? Discover a collection of charming images that bring together your favorite game with adorable aesthetics. These wallpapers will brighten up your screen and inspire your gaming sessions, showcasing fun, colorful, and stylish designs that every Roblox fan will love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink princess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/c2/7f/88c27febeb15cb58ea1da9e6f2baf07f.jpg' alt='Pink princess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/c2/7f/88c27febeb15cb58ea1da9e6f2baf07f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Roblox Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/roblox-pink-ivc4pj63l7j4feqw.jpg' alt='100+] Roblox Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1054">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/roblox-pink-ivc4pj63l7j4feqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Roblox GFX | Cute tumblr wallpaper, Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/10/70/56107034624d74b46825777fc4378584.jpg' alt='Aesthetic Pink Roblox GFX | Cute tumblr wallpaper, Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/10/70/56107034624d74b46825777fc4378584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Pink Roblox Girl Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-pink-roblox-girl-9fqa2riqhu6pwdn9.jpg' alt='Download Neon Pink Roblox Girl Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-pink-roblox-girl-9fqa2riqhu6pwdn9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Exciting World Of Roblox With The Fun And Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/explore-the-exciting-world-of-roblox-with-the-fun-and-vibrant-virtual-item-the-roblox-pink-af1nrjvy0j2i30zv.jpg' alt='Explore The Exciting World Of Roblox With The Fun And Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/explore-the-exciting-world-of-roblox-with-the-fun-and-vibrant-virtual-item-the-roblox-pink-af1nrjvy0j2i30zv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Pink Make Up Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/roblox-pink-make-up-clfdlbtx8huobs13.jpg' alt='Roblox Pink Make Up Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/roblox-pink-make-up-clfdlbtx8huobs13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox wallpaper cute pink anime :D | Userstyles.org">
+                                <img itemprop="contentUrl url" src='https://userstyles.org/style_screenshots/230701_after.jpeg?r=1740682885' alt='Roblox wallpaper cute pink anime :D | Userstyles.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Userstyles.org" />
+                                </span>
+                                <a href='https://userstyles.org/style_screenshots/230701_after.jpeg?r=1740682885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Aesthetic Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/roblox-aesthetic-pink-erpy3osn0wtc46lq.jpg' alt='Roblox Aesthetic Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/roblox-aesthetic-pink-erpy3osn0wtc46lq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox Girls Pink Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10553580.jpg' alt='Roblox Girls Pink Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10553580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/72/4e/7a724eec6c422789cd4c2a335630f7cc.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/72/4e/7a724eec6c422789cd4c2a335630f7cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

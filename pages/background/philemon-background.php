@@ -1,0 +1,129 @@
+<title>Understanding Philemon: A Story of Forgiveness</title>
+                    <meta name="description" content="Explore the background of Philemon, a key figure in early Christianity, known for his role in reconciliation and forgiveness. Discover the significance of his story and its themes in the New Testament, specifically regarding his relationship with the runaway slave, Onesimus.">
+                    <meta name="keywords" content="philemon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/philemon-background">
+                            <span itemprop="name">philemon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Philemon: A Story of Forgiveness</h1>
+                <p>Philemon is an early Christian figure mentioned in the New Testament, specifically in Paul's epistle. He was a wealthy slave owner and leader in the Colossian church. His story revolves around Onesimus, a runaway slave who converted to Christianity. The letter addresses themes of forgiveness, reconciliation, and the value of every individual.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book of Philemon Summary | Watch an Overview Video">
+                                <img itemprop="contentUrl url" src='https://d1bsmz3sdihplr.cloudfront.net/media/explore-v2/New%20Testament%20Series/Philemon/philem_YT.jpg' alt='Book of Philemon Summary | Watch an Overview Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bible Project" />
+                                </span>
+                                <a href='https://d1bsmz3sdihplr.cloudfront.net/media/explore-v2/New%20Testament%20Series/Philemon/philem_YT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philemon Images – Browse 437 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/50/92/53/360_F_750925333_0WpwNa61lxTJx4rvkaDGEvFDzlWOtOut.jpg' alt='Philemon Images – Browse 437 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/50/92/53/360_F_750925333_0WpwNa61lxTJx4rvkaDGEvFDzlWOtOut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Paul' Letter to Philemon PowerPoint Template ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:1600/h:1200/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/slide-02-437.jpg' alt='ShareFaith Media » Paul' Letter to Philemon PowerPoint Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:1600/h:1200/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/slide-02-437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Book of Philemon: A Timeless Message">
+                                <img itemprop="contentUrl url" src='https://www.steppesoffaith.com/wp-content/uploads/2020/04/PHILEMON-2.jpg' alt='The Book of Philemon: A Timeless Message'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steppes of Faith" />
+                                </span>
+                                <a href='https://www.steppesoffaith.com/wp-content/uploads/2020/04/PHILEMON-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philemon">
+                                <img itemprop="contentUrl url" src='https://lamb-theological-seminary.com/pluginfile.php/173/course/overviewfiles/philemon.jpg' alt='Philemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lamb Theological Seminary" />
+                                </span>
+                                <a href='https://lamb-theological-seminary.com/pluginfile.php/173/course/overviewfiles/philemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philemon - Bible Book Chapters and Summary - New International Version">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/12078-philemon-ccom.jpg' alt='Philemon - Bible Book Chapters and Summary - New International Version'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christianity.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/12078-philemon-ccom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philemon Stock Illustrations – 94 Philemon Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/generated-image-315692278.jpg' alt='Philemon Stock Illustrations – 94 Philemon Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/generated-image-315692278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Thank God for You, Philemon – Devoted To You">
+                                <img itemprop="contentUrl url" src='https://gregsloop.com/wp-content/uploads/2020/12/book-of-philemon.jpg' alt='I Thank God for You, Philemon – Devoted To You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Devoted To You" />
+                                </span>
+                                <a href='https://gregsloop.com/wp-content/uploads/2020/12/book-of-philemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Paul' Letter to Philemon PowerPoint Template ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1245811723189_228/slide-12.jpg' alt='ShareFaith Media » Paul' Letter to Philemon PowerPoint Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1245811723189_228/slide-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philemon | Catholic Answers Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://cdn.catholic.com/wp-content/uploads/AdobeStock_62443325-1200x400.jpeg' alt='Philemon | Catholic Answers Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Answers" />
+                                </span>
+                                <a href='https://cdn.catholic.com/wp-content/uploads/AdobeStock_62443325-1200x400.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

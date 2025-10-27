@@ -1,0 +1,129 @@
+<title>Epic Star Wars Desktop Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an amazing collection of Star Wars desktop wallpapers to elevate your screen experience. Perfect for fans of all ages, our wallpapers feature beloved characters, epic starships, and breathtaking scenes from the galaxy far, far away. Download your favorites and make your desktop truly stellar!">
+                    <meta name="keywords" content="star wars desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-desktop-wallpaper">
+                            <span itemprop="name">star wars desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Desktop Wallpapers for Every Fan</h1>
+                <p>Transform your desktop with stunning Star Wars wallpapers that bring your favorite galaxy far, far away right to your screen! From iconic characters like Jedi Knights and Sith Lords to breathtaking starships and planets, immerse yourself in the epic saga. Find the perfect wallpaper that reflects your love for the Force!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Star Wars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' alt='1000+] Star Wars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My ultimate wallpaper dump: 140+ HD Star Wars Wallpapers for you ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/KPEDl3a16m7PE5d-qgar1mFJjY96Zw4nCLXkBsKKzko.jpg?auto=webp&s=e84a8fc450bd1f250e003eda510f2c28a1c401c9' alt='My ultimate wallpaper dump: 140+ HD Star Wars Wallpapers for you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/KPEDl3a16m7PE5d-qgar1mFJjY96Zw4nCLXkBsKKzko.jpg?auto=webp&s=e84a8fc450bd1f250e003eda510f2c28a1c401c9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3376">
+                                <meta itemprop="height" content="1899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Heroines Wallpapers for Your Desktop, Tablet or Phone - D23">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2017/12/1180w-600h_120617_star-wars-heroines-downloadables-780x440.jpg' alt='Star Wars Heroines Wallpapers for Your Desktop, Tablet or Phone - D23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2017/12/1180w-600h_120617_star-wars-heroines-downloadables-780x440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Sith Desktop Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/star-wars-sith-chromebook-wallpaper.jpg' alt='Star Wars Sith Desktop Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/star-wars-sith-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found this super cool Star Wars poster online and set it as my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-found-this-super-cool-star-wars-poster-online-and-set-it-v0-f46xrb44ysn81.jpg?width=640&crop=smart&auto=webp&s=2d54f3cb0e782911281f9a11af1dd64cd59a68ad' alt='I found this super cool Star Wars poster online and set it as my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-found-this-super-cool-star-wars-poster-online-and-set-it-v0-f46xrb44ysn81.jpg?width=640&crop=smart&auto=webp&s=2d54f3cb0e782911281f9a11af1dd64cd59a68ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Episode VI: Return Of The Jedi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/428/428996.jpg' alt='Star Wars Episode VI: Return Of The Jedi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/428/428996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: The Force Awakens Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/34/5c/2d345c6e6b854580c2de25083ad1b71c.jpg' alt='Star Wars: The Force Awakens Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/34/5c/2d345c6e6b854580c2de25083ad1b71c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper Dump : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/y_YdHJBLaUlgNnIqvscJYAtTnN3ywXT4U4kn9uLSnr4.jpg?auto=webp&s=7bdcbf7a7be0a1577e0c708e6cb78af24e7f5ee0' alt='Star Wars Wallpaper Dump : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/y_YdHJBLaUlgNnIqvscJYAtTnN3ywXT4U4kn9uLSnr4.jpg?auto=webp&s=7bdcbf7a7be0a1577e0c708e6cb78af24e7f5ee0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Battlefront II 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/823/823125.png' alt='Star Wars Battlefront II 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5333">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/823/823125.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Purple Bible Verse Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover uplifting purple Bible verse wallpapers for your lock screen. Infuse your device with inspiration and motivation through beautifully designed Scripture. Perfect for daily encouragement and adding a personal touch to your technology. Download now for a spiritual boost at your fingertips!">
+                    <meta name="keywords" content="lock screen purple bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-purple-bible-verse-wallpaper">
+                            <span itemprop="name">lock screen purple bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Bible Verse Lock Screen Wallpapers</h1>
+                <p>Transform your device with a lock screen wallpaper featuring beautiful purple Bible verses. This stunning design combines vibrant hues with inspirational Scripture, allowing you to carry your faith with you everywhere. Ideal for daily motivation, these wallpapers are perfect for anyone looking to uplift their spirit while personalizing their technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Wallpaper Collection for Girls">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7225312572298317061&location=0&aid=1988' alt='Christian Wallpaper Collection for Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7225312572298317061&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart Wallpaper: Let All That You Do Be Done in Love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/7d/18/757d1832d94c5248255204466978f550.jpg' alt='Purple Heart Wallpaper: Let All That You Do Be Done in Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/7d/18/757d1832d94c5248255204466978f550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christian wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/6c/a0/406ca0e76540caa1ac1341e817ebeb2b.jpg' alt='christian wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/6c/a0/406ca0e76540caa1ac1341e817ebeb2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple plain wallpaper with dark purple lettering and dash detailing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/96/b6/5596b6a89f9d2aa262c172392ccc1b14.jpg' alt='purple plain wallpaper with dark purple lettering and dash detailing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/96/b6/5596b6a89f9d2aa262c172392ccc1b14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verses    #bibleverses #bibledailyverse #bibletok #worshipmusic |  TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7382303448902929706&location=0&aid=1988' alt='Bible Verses    #bibleverses #bibledailyverse #bibletok #worshipmusic |  TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7382303448902929706&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel purple wallpaper with white plant creeper detailing and ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/ef/cf/35efcffaba5dc46ce8bfd38a0ccb142e.jpg' alt='pastel purple wallpaper with white plant creeper detailing and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/ef/cf/35efcffaba5dc46ce8bfd38a0ccb142e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspiring Free Bible Verse Wallpaper For Your Phone – The ...">
+                                <img itemprop="contentUrl url" src='https://thecreatorsclassroom.com/wp-content/uploads/2024/01/31-577x1025.jpg' alt='Inspiring Free Bible Verse Wallpaper For Your Phone – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Creator's Classroom" />
+                                </span>
+                                <a href='https://thecreatorsclassroom.com/wp-content/uploads/2024/01/31-577x1025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ISAIAH 41:10 BIBLE VERSE WALLPAPER : PURPLE ✞ ✞">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/09/08/1a0908c4488eb8b1d0be71f7e468912c.jpg' alt='ISAIAH 41:10 BIBLE VERSE WALLPAPER : PURPLE ✞ ✞'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/09/08/1a0908c4488eb8b1d0be71f7e468912c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bcm the best version, best version, christian, cute, happy ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/240/435/HD-wallpaper-bcm-the-best-version-best-version-christian-cute-happy-lavender-lord-luvujesus-purple-quotes-you.jpg' alt='Bcm the best version, best version, christian, cute, happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/240/435/HD-wallpaper-bcm-the-best-version-best-version-christian-cute-happy-lavender-lord-luvujesus-purple-quotes-you.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bible lockscreen Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2022/03/Cleanse-me.jpg' alt='bible lockscreen Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2022/03/Cleanse-me.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

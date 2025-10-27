@@ -1,0 +1,129 @@
+<title>Discover the Horror of Leatherface (1974): A Classic Unveiled</title>
+                    <meta name="description" content="Explore the chilling legacy of Leatherface (1974), a horror classic that defined the genre. Unravel the story of the infamous killer, his twisted family, and the terrifying atmosphere that has captivated audiences for decades. Perfect for horror fans and film historians alike!">
+                    <meta name="keywords" content="leatherface 1974">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/leatherface-1974">
+                            <span itemprop="name">leatherface 1974</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Horror of Leatherface (1974): A Classic Unveiled</h1>
+                <p>Leatherface (1974) is a groundbreaking horror film that revolutionized the genre. Directed by Tobe Hooper, it introduces the deranged character Leatherface, who wields a chainsaw and wears a mask made from human skin. The film, inspired by real-life events, explores themes of madness, family, and survival, making it a classic in horror cinema.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Double Date With Leatherface – Texas Monthly">
+                                <img itemprop="contentUrl url" src='https://img.texasmonthly.com/2020/03/texas-chainsaw-massacre-1974-gunnar-hansen.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250' alt='A Double Date With Leatherface – Texas Monthly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Monthly" />
+                                </span>
+                                <a href='https://img.texasmonthly.com/2020/03/texas-chainsaw-massacre-1974-gunnar-hansen.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leatherface/Original Timeline | The Texas Chainsaw Massacre Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/texaschainsawmassacre/images/b/bd/KilelrmaksHQ.png/revision/latest?cb=20170824162604' alt='Leatherface/Original Timeline | The Texas Chainsaw Massacre Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="747">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Texas Chainsaw Massacre Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/texaschainsawmassacre/images/b/bd/KilelrmaksHQ.png/revision/latest?cb=20170824162604' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Texas Chainsaw Massacre (1974) - Original Trailer (4K)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BKn9QIaMgtQ/maxresdefault.jpg' alt='The Texas Chainsaw Massacre (1974) - Original Trailer (4K)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BKn9QIaMgtQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Texas Chainsaw Massacre (1974): Franklin Becomes Leatherface ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*8_24aCRxMWdWRa-DNIAF_w.jpeg' alt='The Texas Chainsaw Massacre (1974): Franklin Becomes Leatherface ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*8_24aCRxMWdWRa-DNIAF_w.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tracking the Wild History of Leatherface">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/e55/77c/ee6e782e84f6def4e036000e79f3e5aff1-17-leatherface-movie.rsquare.w400.jpg' alt='Tracking the Wild History of Leatherface'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/e55/77c/ee6e782e84f6def4e036000e79f3e5aff1-17-leatherface-movie.rsquare.w400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kotobukiya ARTFX The Texas Chainsaw Massacre 1974 Leatherface ...">
+                                <img itemprop="contentUrl url" src='https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/s/v/sv295_leatherface_1974_w.jpg' alt='Kotobukiya ARTFX The Texas Chainsaw Massacre 1974 Leatherface ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BAIT" />
+                                </span>
+                                <a href='https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/s/v/sv295_leatherface_1974_w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Terrifying Blunt Force of Leatherface in The Texas Chain Saw ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/scriptophobic.ca/wp-content/uploads/2020/03/Texas-Chain-Saw-Massacre-Leatherface.jpg?fit=1934%2C1088&ssl=1' alt='The Terrifying Blunt Force of Leatherface in The Texas Chain Saw ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1934">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptophobic" />
+                                </span>
+                                <a href='https://i0.wp.com/scriptophobic.ca/wp-content/uploads/2020/03/Texas-Chain-Saw-Massacre-Leatherface.jpg?fit=1934%2C1088&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leatherface/Original Timeline | The Texas Chainsaw Massacre Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/texaschainsawmassacre/images/0/06/The-texas-chainsaw-massacre-gunnar-hansen-1974.jpg/revision/latest/scale-to-width-down/250?cb=20141213195521' alt='Leatherface/Original Timeline | The Texas Chainsaw Massacre Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Texas Chainsaw Massacre Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/texaschainsawmassacre/images/0/06/The-texas-chainsaw-massacre-gunnar-hansen-1974.jpg/revision/latest/scale-to-width-down/250?cb=20141213195521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Texas Chain Saw Massacre - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/a0/The_Texas_Chain_Saw_Massacre_%281974%29_theatrical_poster.jpg' alt='The Texas Chain Saw Massacre - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/a0/The_Texas_Chain_Saw_Massacre_%281974%29_theatrical_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One:12 Collective The Texas Chainsaw Massacre (1974): Leatherface ...">
+                                <img itemprop="contentUrl url" src='https://www.mezcotoyz.com/mas_assets/cache/image/2/5/6/9/9577.Jpg' alt='One:12 Collective The Texas Chainsaw Massacre (1974): Leatherface ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mezco Toyz" />
+                                </span>
+                                <a href='https://www.mezcotoyz.com/mas_assets/cache/image/2/5/6/9/9577.Jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

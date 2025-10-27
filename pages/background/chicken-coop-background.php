@@ -1,0 +1,129 @@
+<title>Essential Guide to Chicken Coop Design</title>
+                    <meta name="description" content="Discover the essential elements of chicken coop design. Learn how to create a safe, comfortable space for your backyard chickens, ensuring their health and happiness. Perfect for both novice and experienced poultry enthusiasts!">
+                    <meta name="keywords" content="chicken coop background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chicken-coop-background">
+                            <span itemprop="name">chicken coop background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Chicken Coop Design</h1>
+                <p>A chicken coop serves as a vital sanctuary for backyard poultry, providing shelter, safety, and a comfortable environment. Typically made of wood or metal, coops protect chickens from predators and harsh weather while promoting natural behaviors. Understanding coop design is essential for successful poultry keeping, ensuring happy and healthy birds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="330+ Chicken Coop Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1344284003/vector/barn-on-farm-with-chickens-straw-and-hay-as-a-chicken-coop.jpg?s=612x612&w=0&k=20&c=x8zj3Yd8aWHDRa-sOi5PXKyTXhpjIsaZuhQDNwRr7Gc=' alt='330+ Chicken Coop Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1344284003/vector/barn-on-farm-with-chickens-straw-and-hay-as-a-chicken-coop.jpg?s=612x612&w=0&k=20&c=x8zj3Yd8aWHDRa-sOi5PXKyTXhpjIsaZuhQDNwRr7Gc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+ Chicken Coop Inside Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1807252278/vector/inside-of-a-chicken-house-for-laying-eggs.jpg?s=612x612&w=0&k=20&c=bxD9FUdwjWmzyzSn7YeJcedjidetjN6MzpSnJhfP5Vg=' alt='70+ Chicken Coop Inside Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1807252278/vector/inside-of-a-chicken-house-for-laying-eggs.jpg?s=612x612&w=0&k=20&c=bxD9FUdwjWmzyzSn7YeJcedjidetjN6MzpSnJhfP5Vg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="330+ Chicken Coop Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1460779512/vector/chicken-coop-banner.jpg?s=612x612&w=0&k=20&c=MjN7TxEjgEN6Jpy5Zx16GozziPQQXLFbmq48xY_7EwM=' alt='330+ Chicken Coop Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1460779512/vector/chicken-coop-banner.jpg?s=612x612&w=0&k=20&c=MjN7TxEjgEN6Jpy5Zx16GozziPQQXLFbmq48xY_7EwM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Tour of Our New Backyard Chicken Coop — Drinking with Chickens ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/62aa437e84841c4037f4e2d0/5071becb-d2a4-49e0-b218-2ebad59e1fa2/Backyard+chicken+coop+with+wallpaper+reveal+2+copy.jpg' alt='A Tour of Our New Backyard Chicken Coop — Drinking with Chickens ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drinking with Chickens" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/62aa437e84841c4037f4e2d0/5071becb-d2a4-49e0-b218-2ebad59e1fa2/Backyard+chicken+coop+with+wallpaper+reveal+2+copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,451 Chicken Coop Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cockerel-chicken-seen-one-his-600nw-2537016047.jpg' alt='49,451 Chicken Coop Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cockerel-chicken-seen-one-his-600nw-2537016047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape With Chicken Coop Stock Illustration - Download Image ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/473985180/vector/landscape-with-chicken-coop.jpg?s=1024x1024&w=is&k=20&c=xqS4so0Obn5DwLHg1sAHnGEKjUmPuD4TkQkxoJgzkUs=' alt='Landscape With Chicken Coop Stock Illustration - Download Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/473985180/vector/landscape-with-chicken-coop.jpg?s=1024x1024&w=is&k=20&c=xqS4so0Obn5DwLHg1sAHnGEKjUmPuD4TkQkxoJgzkUs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicken Coop Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664527009217-7ab29b61bd3f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGNvb3B8ZW58MHx8MHx8fDA%3D' alt='Chicken Coop Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664527009217-7ab29b61bd3f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGNvb3B8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicken coops and chickens on white background illustration Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BMGNN1/chicken-coops-and-chickens-on-white-background-illustration-2BMGNN1.jpg' alt='Chicken coops and chickens on white background illustration Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BMGNN1/chicken-coops-and-chickens-on-white-background-illustration-2BMGNN1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicken Coop Plans: Creating a Delightful Chicken Home – The Mill">
+                                <img itemprop="contentUrl url" src='http://www.themillstores.com/cdn/shop/articles/chicken-coop-343942_1280.jpg?v=1595432722' alt='Chicken Coop Plans: Creating a Delightful Chicken Home – The Mill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mill of Bel Air" />
+                                </span>
+                                <a href='http://www.themillstores.com/cdn/shop/articles/chicken-coop-343942_1280.jpg?v=1595432722' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Chicken and chicks in coop for free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/ba/a3/b6baa35d562632f5990f60d343c8c7f5.jpg' alt='Download Chicken and chicks in coop for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/ba/a3/b6baa35d562632f5990f60d343c8c7f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Do Background Checks Process on Weekends?</title>
+                    <meta name="description" content="Discover if background checks are conducted on weekends. Learn about processing times and how to ensure your application is completed promptly. Get insights on what to expect from various background check services.">
+                    <meta name="keywords" content="do background checks come back on weekends">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-background-checks-come-back-on-weekends">
+                            <span itemprop="name">do background checks come back on weekends</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Background Checks Process on Weekends?</h1>
+                <p>Background checks typically do not get processed over the weekend, as most organizations operate on usual business hours, Monday to Friday. However, some online services may allow for requests to be submitted at any time, but actual verification and notifications are normally limited to weekdays.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/9167dfbefec2ef02119e0c429b55dbc4/7842b/How-Long-BGC-Take-2-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Um how long does the background check take? She's pending still ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/um-how-long-does-the-background-check-take-shes-pending-v0-9nj5s7b8nthe1.jpeg?width=640&crop=smart&auto=webp&s=722043fa8627d7c69de6f8ca82572d6c93d5a3dd' alt='Um how long does the background check take? She's pending still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/um-how-long-does-the-background-check-take-shes-pending-v0-9nj5s7b8nthe1.jpeg?width=640&crop=smart&auto=webp&s=722043fa8627d7c69de6f8ca82572d6c93d5a3dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Background Checks Done On Weekends? | Edify Background ...">
+                                <img itemprop="contentUrl url" src='https://www.edifyscreening.com/wp-content/uploads/2024/02/FAQ.png' alt='Are Background Checks Done On Weekends? | Edify Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDIFY Background Screening" />
+                                </span>
+                                <a href='https://www.edifyscreening.com/wp-content/uploads/2024/02/FAQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We are processing your screening results. Start date in 5 days ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/we-are-processing-your-screening-results-start-date-in-5-v0-wnoceo2dxw9c1.jpeg?auto=webp&s=1c3d230495ba33846643931743a3666afe265218' alt='We are processing your screening results. Start date in 5 days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/we-are-processing-your-screening-results-start-date-in-5-v0-wnoceo2dxw9c1.jpeg?auto=webp&s=1c3d230495ba33846643931743a3666afe265218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Background Check Take? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/d2e685983c6571b8df8d3f4e14992087/60263/Blog-header-How-Long-BGC-Take-Header.png' alt='How Long Does A Background Check Take? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/d2e685983c6571b8df8d3f4e14992087/60263/Blog-header-How-Long-BGC-Take-Header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I’ve always wondered what type of info comes back on these and honestly i  think it varies, but my report seemed pretty straightforward  #backgroundcheck #backgroundchecks #newhire ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' alt='I’ve always wondered what type of info comes back on these and honestly i  think it varies, but my report seemed pretty straightforward  #backgroundcheck #backgroundchecks #newhire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What you need to know about background checks when applying | Jobcase">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' alt='What you need to know about background checks when applying | Jobcase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1474">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobcase" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/3AAXfSTUy4ckGpqViLuvwjE-JOe_bR2VE_pCNVE8oDRHDC3YUKq7J71E-QyWwPUIZz5v2p8YHHtW2z2TCMzZX6zP8JUKhzJWIIdZHVx-hlJ2dBzUTSEr3RMg_Q3tzQEqB-me_fIHVkyDv_CpIQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

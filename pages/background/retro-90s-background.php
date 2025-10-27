@@ -1,0 +1,129 @@
+<title>Retro 90s Backgrounds: A Nostalgic Journey</title>
+                    <meta name="description" content="Discover the essence of retro 90s backgrounds! Explore colorful patterns and nostalgic designs that bring the vibrant energy of the 90s back to life. Perfect for your creative projects, these eye-catching elements evoke memories of a beloved era. Dive into the playful world of retro 90s design today!">
+                    <meta name="keywords" content="retro 90s background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-90s-background">
+                            <span itemprop="name">retro 90s background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro 90s Backgrounds: A Nostalgic Journey</h1>
+                <p>Step back into the vibrant era of retro 90s backgrounds, where neon colors, geometric patterns, and classic pop culture elements reign supreme. Influenced by the likes of video games and iconic television shows, these designs evoke nostalgia for a generation. Embrace boldness, energy, and creativity through captivating retro 90s aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' alt='51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515679310/vector/illustration-for-hipsters-style.jpg?s=612x612&w=0&k=20&c=mgcC1_Hz6fFyCqtagi_12td81HXTvPmC8D6JMJW1W5s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 90s Instant Digital Download Wallpaper, Background, & Backdrop -  Golden Line Shapes">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20742613/r/il/d68b7c/2738196547/il_fullxfull.2738196547_tvoy.jpg' alt='Retro 90s Instant Digital Download Wallpaper, Background, & Backdrop -  Golden Line Shapes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20742613/r/il/d68b7c/2738196547/il_fullxfull.2738196547_tvoy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Retro Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-background-80s-style_23-2148242342.jpg' alt='90s Retro Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-background-80s-style_23-2148242342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,335 90s Background High Res Illustrations - Getty Images | Retro ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/665702344/vector/abstract-retro-brush-background.jpg?s=612x612&w=gi&k=20&c=FLBngrp3PXLIQ1nHKPhuvTnQs3Sf7UpjZj4GXHvrP1c=' alt='2,335 90s Background High Res Illustrations - Getty Images | Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/665702344/vector/abstract-retro-brush-background.jpg?s=612x612&w=gi&k=20&c=FLBngrp3PXLIQ1nHKPhuvTnQs3Sf7UpjZj4GXHvrP1c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Back to The 90s Backdrop for Photography 8x6ft Hip ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71v9FnFBuFL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Back to The 90s Backdrop for Photography 8x6ft Hip ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71v9FnFBuFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 90s Background Stock Illustrations – 93,244 Retro 90s ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/retro-vintage-s-s-fashion-style-abstract-pattern-backgrou-background-good-textile-fabric-design-wrapping-paper-website-84071831.jpg' alt='Retro 90s Background Stock Illustrations – 93,244 Retro 90s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/retro-vintage-s-s-fashion-style-abstract-pattern-backgrou-background-good-textile-fabric-design-wrapping-paper-website-84071831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 90s Seamless Pattern Background 8069065 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/069/065/non_2x/retro-90s-seamless-pattern-background-free-vector.jpg' alt='Retro 90s Seamless Pattern Background 8069065 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/069/065/non_2x/retro-90s-seamless-pattern-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1356164906/vector/geometric-seamless-pattern-in-80s-style-abstract-geometric-background-design-for-brochures.jpg?s=612x612&w=0&k=20&c=jnx_I1eag5ZQAsUsdgZQ0rUs-dG_ViCPufFKY103EKw=' alt='51,600+ 90s Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1356164906/vector/geometric-seamless-pattern-in-80s-style-abstract-geometric-background-design-for-brochures.jpg?s=612x612&w=0&k=20&c=jnx_I1eag5ZQAsUsdgZQ0rUs-dG_ViCPufFKY103EKw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 90s Retro Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-90s-background-8fsunge1cfkn50lw.jpg' alt='100+] 90s Retro Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-90s-background-8fsunge1cfkn50lw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/073/823/small/90s-retro-seamless-abstract-shapes-background-vector.jpg' alt='90s Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/073/823/small/90s-retro-seamless-abstract-shapes-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Sanrio iPhone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a delightful collection of Sanrio iPhone wallpapers that bring your favorite characters to life. Perfect for fans of all ages, these vibrant designs will enhance your mobile experience. Browse, download, and enjoy a touch of cuteness on your screen today!">
+                    <meta name="keywords" content="sanrio iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sanrio-iphone-wallpaper">
+                            <span itemprop="name">sanrio iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Sanrio iPhone Wallpapers for Every Fan</h1>
+                <p>Transform your iPhone with charming Sanrio wallpapers featuring beloved characters like Hello Kitty, My Melody, and Cinnamoroll. These vibrant designs add a playful touch to your device, perfect for fans who want to express their personality. Download your favorite Sanrio wallpaper now and brighten up your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll Sanrio Iphone 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-23_63864031725508.2.jpg' alt='Cinnamoroll Sanrio Iphone 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-23_63864031725508.2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/11-9_HK_1500x2000_50th.png?v=1699393414' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3125">
+                                <meta itemprop="height" content="4167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/11-9_HK_1500x2000_50th.png?v=1699393414' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty & Friends Phone Wallpapers – Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Cinamoroll-Pink-Phone-Wallpaper-v1711554882390.jpg' alt='Hello Kitty & Friends Phone Wallpapers – Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.accentuate.cloud/images/1666656/Skinnydip-London_Hello-Kitty-And-Friends_Cinamoroll-Pink-Phone-Wallpaper-v1711554882390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Friends">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/28/e4/b828e4ff6e71754a5bfac6d1ad5556f9.jpg' alt='Sanrio Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/28/e4/b828e4ff6e71754a5bfac6d1ad5556f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio, hello, kitty, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/439/982/HD-wallpaper-sanrio-hello-kitty.jpg' alt='Sanrio, hello, kitty, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/439/982/HD-wallpaper-sanrio-hello-kitty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Sanrio Wallpaper for Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7350950717500280110&location=0&aid=1988' alt='Pastel Sanrio Wallpaper for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7350950717500280110&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Cute HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-7_63860882173289.9.jpg' alt='Sanrio Cute HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/cinna-7_63860882173289.9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Pankeawป่านแก้ว on Wallpaper sanrio | Hello kitty iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/ce/52/19ce527c252df087064323a81883bb38.jpg' alt='Pin by Pankeawป่านแก้ว on Wallpaper sanrio | Hello kitty iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/ce/52/19ce527c252df087064323a81883bb38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987bZI-10-26-NATL-Pumpkin-Day-Wallpaper-1500x2000-A-s.png?c=00' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://storageciggallery.addons.business/15706/cig-cozy-gallery-8987bZI-10-26-NATL-Pumpkin-Day-Wallpaper-1500x2000-A-s.png?c=00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my iphone wallpapers : r/sanrio">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-iphone-wallpapers-v0-0ixqpc0qznzd1.png?width=828&format=png&auto=webp&s=db83db7cf943cce62d4e40533b68f84a5e8ac151' alt='my iphone wallpapers : r/sanrio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-iphone-wallpapers-v0-0ixqpc0qznzd1.png?width=828&format=png&auto=webp&s=db83db7cf943cce62d4e40533b68f84a5e8ac151' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

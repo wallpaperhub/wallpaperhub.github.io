@@ -1,0 +1,129 @@
+<title>Aesthetic Witch Wallpapers: Enchant Your Space</title>
+                    <meta name="description" content="Explore captivating aesthetic witch wallpapers that transform your devices into magical realms. Discover vibrant designs with celestial motifs, botanical spirits, and enchanting symbols, perfect for adding a touch of whimsy to your screens. Ideal for witchy vibes and personalization!">
+                    <meta name="keywords" content="aesthetic witch wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-witch-wallpaper">
+                            <span itemprop="name">aesthetic witch wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Witch Wallpapers: Enchant Your Space</h1>
+                <p>Aesthetic witch wallpapers bring a magical ambiance to any space. Featuring enchanting elements like lunar phases, botanical designs, and mystical symbols, these wallpapers create a whimsical atmosphere. Perfect for personalizing your phone or desktop, they inspire creativity and evoke a sense of wonder in your everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witchy Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/witchy-aesthetic-27unxjlcrc77um2v.jpg' alt='100+] Witchy Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/witchy-aesthetic-27unxjlcrc77um2v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Witch Halloween">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/aesthetic-witch-halloween-pattern-repeat-removable-wallpaper-design.jpg' alt='Aesthetic Witch Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/aesthetic-witch-halloween-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Witch Aesthetic Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/c0/f3/97c0f3e56500043ce2fa06b2979088e2.jpg' alt='Awesome Witch Aesthetic Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/c0/f3/97c0f3e56500043ce2fa06b2979088e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Witch Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/witch-aesthetic-1080-x-1920-wallpaper-lfe8z711oexaelcl.jpg' alt='100+] Witch Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/witch-aesthetic-1080-x-1920-wallpaper-lfe8z711oexaelcl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD witch aesthetic iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/668/990/HD-wallpaper-trendy-halloween-backgrounds-for-your-iphone-witch-aesthetic-iphone.jpg' alt='HD witch aesthetic iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/668/990/HD-wallpaper-trendy-halloween-backgrounds-for-your-iphone-witch-aesthetic-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft Black Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/witchcraft-black-aesthetic-bp9jkexl6ktxhpeg.jpg' alt='Witchcraft Black Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/witchcraft-black-aesthetic-bp9jkexl6ktxhpeg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Witch Aesthetic Phone Wallpapers | Instant Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31630290/r/il/c5138e/4397805714/il_570xN.4397805714_43n5.jpg' alt='Cosmic Witch Aesthetic Phone Wallpapers | Instant Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31630290/r/il/c5138e/4397805714/il_570xN.4397805714_43n5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witch / Wiccan / / / / Background / Lockscreen...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/7bc9ce3fbc6546dcffe804d7e8d2d91b/tumblr_oxqgt8B7DY1w53q7lo1_1280.jpg' alt='Witch / Wiccan / / / / Background / Lockscreen...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@aesthetic-background on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/7bc9ce3fbc6546dcffe804d7e8d2d91b/tumblr_oxqgt8B7DY1w53q7lo1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wallpaper, Witch, Magic. Royalty-Free Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/17/cd/0017cd91d4865e9b8170b34bd8f5d6c8.jpg' alt='Download Wallpaper, Witch, Magic. Royalty-Free Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/17/cd/0017cd91d4865e9b8170b34bd8f5d6c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Aesthetic, witch aesthetic iphone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/588/329/HD-wallpaper-witchy-aesthetic-witch-aesthetic-iphone.jpg' alt='Witchy Aesthetic, witch aesthetic iphone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/588/329/HD-wallpaper-witchy-aesthetic-witch-aesthetic-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

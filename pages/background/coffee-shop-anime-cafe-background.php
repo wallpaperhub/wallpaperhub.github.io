@@ -1,0 +1,129 @@
+<title>Discover Your Anime Paradise: Coffee Shop Cafe</title>
+                    <meta name="description" content="Immerse yourself in the ultimate coffee shop anime cafe experience! Savor delicious brews, themed snacks, and enjoy screenings of your favorite shows in a cozy, vibrant setting. Perfect for fans and coffee lovers, this unique venue offers a delightful escape from everyday life. Join us today!">
+                    <meta name="keywords" content="coffee shop anime cafe background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coffee-shop-anime-cafe-background">
+                            <span itemprop="name">coffee shop anime cafe background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Your Anime Paradise: Coffee Shop Cafe</h1>
+                <p>Step into a whimsical world where anime meets aroma at our coffee shop anime cafe. The vibrant decor features beloved characters, creating a cozy and immersive experience. Sip on expertly crafted brews and indulge in themed snacks while enjoying screenings of iconic shows. A haven for fans and coffee lovers alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LoFi Late Night Coffee Shop [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4jhm2gy2gx381.png' alt='LoFi Late Night Coffee Shop [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4jhm2gy2gx381.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/a8/a6/f4a8a6371562138661735bda3be16005.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/a8/a6/f4a8a6371562138661735bda3be16005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Coffee Stock Illustrations – 1,948 Anime Coffee Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-coffee-shop-illustration-background-ai-generated-352283709.jpg' alt='Anime Coffee Stock Illustrations – 1,948 Anime Coffee Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-coffee-shop-illustration-background-ai-generated-352283709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/c2/ac/18c2ac1019821ca78497779400fe017e.jpg' alt='Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/c2/ac/18c2ac1019821ca78497779400fe017e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Cool Coffee Shop (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCzLHpoDVMY2_cMGGyv5LabGG_VYVQpDB_ej3tSXQzCq4PYKcNRFFpsinTvKMETEQtvJK1XrqS1RWxC0ginhjNK0dA-9idQbTrpd1e0P5xAPJuU2IUYW8zNiat1m3Y-e0oqNyTLdKoxlo/w1200-h630-p-k-no-nu/Cafe+%2528Anime+Background%2529+001.jpg' alt='Anime Landscape: Cool Coffee Shop (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCzLHpoDVMY2_cMGGyv5LabGG_VYVQpDB_ej3tSXQzCq4PYKcNRFFpsinTvKMETEQtvJK1XrqS1RWxC0ginhjNK0dA-9idQbTrpd1e0P5xAPJuU2IUYW8zNiat1m3Y-e0oqNyTLdKoxlo/w1200-h630-p-k-no-nu/Cafe+%2528Anime+Background%2529+001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cafe Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cafe-anime-uimtisawnjfca0v3.jpg' alt='100+] Cafe Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cafe-anime-uimtisawnjfca0v3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Retro Anime Coffee Shop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/7d/12/027d12b472ceed6996388a787d332246.jpg' alt='Cozy Retro Anime Coffee Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/7d/12/027d12b472ceed6996388a787d332246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CM:Coffee Shop by Elle-Rei on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e5912ca-35eb-4990-987a-2cc8ed7ef083/daub0b5-882c9674-51a1-4570-9864-8f518d2b5f22.png/v1/fill/w_1280,h_721,q_80,strp/_cm_coffee_shop_by_elle_rei_daub0b5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlNTkxMmNhLTM1ZWItNDk5MC05ODdhLTJjYzhlZDdlZjA4M1wvZGF1YjBiNS04ODJjOTY3NC01MWExLTQ1NzAtOTg2NC04ZjUxOGQyYjVmMjIucG5nIiwiaGVpZ2h0IjoiPD03MjEiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC80ZTU5MTJjYS0zNWViLTQ5OTAtOTg3YS0yY2M4ZWQ3ZWYwODNcL2VsbGUtcmVpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.7xtFaQWP6YH5vgBOgV_Xk6QzB39aYyAs2RqMh4qhJNU' alt='CM:Coffee Shop by Elle-Rei on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e5912ca-35eb-4990-987a-2cc8ed7ef083/daub0b5-882c9674-51a1-4570-9864-8f518d2b5f22.png/v1/fill/w_1280,h_721,q_80,strp/_cm_coffee_shop_by_elle_rei_daub0b5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlNTkxMmNhLTM1ZWItNDk5MC05ODdhLTJjYzhlZDdlZjA4M1wvZGF1YjBiNS04ODJjOTY3NC01MWExLTQ1NzAtOTg2NC04ZjUxOGQyYjVmMjIucG5nIiwiaGVpZ2h0IjoiPD03MjEiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC80ZTU5MTJjYS0zNWViLTQ5OTAtOTg3YS0yY2M4ZWQ3ZWYwODNcL2VsbGUtcmVpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.7xtFaQWP6YH5vgBOgV_Xk6QzB39aYyAs2RqMh4qhJNU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Wooden Coffee Shop (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCl2-CLVJDdZj_YCnmzhkliRZMOmkqXRCcegSx4BrSNUQUN8FgqPkWnkFgjCe2L6W38DvcshxiTZ9cBtWiR6SHtLrmOqdanNFhnRTb5WLuq8ThQBAyIquIhQ8Yr9_u4aIIZyJdmoXUB18/s800/Coffee+Shop+%2528Anime+Background%2529+002.bmp' alt='Anime Landscape: Wooden Coffee Shop (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCl2-CLVJDdZj_YCnmzhkliRZMOmkqXRCcegSx4BrSNUQUN8FgqPkWnkFgjCe2L6W38DvcshxiTZ9cBtWiR6SHtLrmOqdanNFhnRTb5WLuq8ThQBAyIquIhQ8Yr9_u4aIIZyJdmoXUB18/s800/Coffee+Shop+%2528Anime+Background%2529+002.bmp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Order up! A nice hot cup of coffee ready before the slopes!    I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3554977950330010468' alt='Order up! A nice hot cup of coffee ready before the slopes!    I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3554977950330010468' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

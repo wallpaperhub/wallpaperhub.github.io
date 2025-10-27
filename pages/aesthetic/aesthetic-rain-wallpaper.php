@@ -1,0 +1,129 @@
+<title>Aesthetic Rain Wallpapers: Tranquil Digital Serenity</title>
+                    <meta name="description" content="Discover stunning aesthetic rain wallpapers that bring tranquility to your digital space. Perfect for nature enthusiasts, these visually pleasing designs feature soothing rain scenes that enhance your mood and ambiance. Download and personalize your devices today for a refreshing escape into nature's beauty!">
+                    <meta name="keywords" content="aesthetic rain wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-rain-wallpaper">
+                            <span itemprop="name">aesthetic rain wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Rain Wallpapers: Tranquil Digital Serenity</h1>
+                <p>Aesthetic rain wallpaper creates a serene atmosphere, transforming your screen into a calming haven. Featuring gentle raindrops, blurred landscapes, and soft colors, these wallpapers evoke a sense of tranquility. Ideal for nature lovers, they bring the beauty of a rainy day indoors, enhancing your digital experience with a soothing vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain wallpaper 15+ Dark Academia Aesthetic Wallpaper Rain 2020 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/bb/4b/5cbb4bd56682c25c480146b1681f1352.jpg' alt='Rain wallpaper 15+ Dark Academia Aesthetic Wallpaper Rain 2020 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/bb/4b/5cbb4bd56682c25c480146b1681f1352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Favourite Phone Wallpaper. : r/raining">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/favourite-phone-wallpaper-v0-a0a86wv12eca1.jpg?width=640&crop=smart&auto=webp&s=c33db17da1f323e77ef4e9414d998fc7ffa1115f' alt='Favourite Phone Wallpaper. : r/raining'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/favourite-phone-wallpaper-v0-a0a86wv12eca1.jpg?width=640&crop=smart&auto=webp&s=c33db17da1f323e77ef4e9414d998fc7ffa1115f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Aesthetic Wallpaper hd wallpaper for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/df/f4/d2dff4cc364fc78e7712c1b9bbca6d0b.jpg' alt='Rain Aesthetic Wallpaper hd wallpaper for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/df/f4/d2dff4cc364fc78e7712c1b9bbca6d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Rainbow Behind Wet Window Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-rain-4ew7uxhta3m4odpv.jpg' alt='Download Aesthetic Rainbow Behind Wet Window Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-rain-4ew7uxhta3m4odpv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Rain Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-rain-0s6kbmcc20qih81p.jpg' alt='100+] Aesthetic Rain Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-rain-0s6kbmcc20qih81p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1716118775397-97f71c31e26f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJhaW4lMjBhZXN0aGV0aWN8ZW58MHx8MHx8fDA%3D' alt='Rain Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1716118775397-97f71c31e26f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJhaW4lMjBhZXN0aGV0aWN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the aesthetic - rainy day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/27/45/b52745c334817803b507daed1161c12a.jpg' alt='the aesthetic - rainy day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/27/45/b52745c334817803b507daed1161c12a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/view-flowers-through-condensed-glass_23-2149478663.jpg' alt='Rain Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/view-flowers-through-condensed-glass_23-2149478663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain Aesthetics Computer, Rainy Day, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1006/570/HD-wallpaper-rain-aesthetics-computer-rainy-day.jpg' alt='Rain Aesthetics Computer, Rainy Day, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1006/570/HD-wallpaper-rain-aesthetics-computer-rainy-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sunset After A Beautiful Rain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-sunset-after-a-beautiful-rain-mg4ey9ezr2fcbj9d.jpg' alt='Dark Sunset After A Beautiful Rain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-sunset-after-a-beautiful-rain-mg4ey9ezr2fcbj9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

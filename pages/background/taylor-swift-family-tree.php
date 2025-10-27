@@ -1,0 +1,129 @@
+<title>Taylor Swift's Family Tree: A Look at Her Roots</title>
+                    <meta name="description" content="Explore Taylor Swift's family tree and discover the roots that shaped her. From her supportive parents to her brother Austin, learn how her family background has influenced her music and artistry. Uncover the connections that define one of pop's biggest stars!">
+                    <meta name="keywords" content="taylor swift family tree">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/taylor-swift-family-tree">
+                            <span itemprop="name">taylor swift family tree</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift's Family Tree: A Look at Her Roots</h1>
+                <p>Taylor Swift's family tree showcases a rich tapestry of connections. Born to Scott and Andrea Swift, Taylor has a brother, Austin. She often credits her family's support in her career. The Swifts hail from Pennsylvania, with deep roots in the arts, enhancing Taylor's creative spirit. Learn more about her family's influence and background!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift's family tree shines with love, heartbreak and the ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/findmypast-titan/a561619c-bd73-4923-a489-e62ac33cd170_Taylor+Swift+family+tree+%282%29.png?auto=compress,format' alt='Taylor Swift's family tree shines with love, heartbreak and the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Findmypast" />
+                                </span>
+                                <a href='https://images.prismic.io/findmypast-titan/a561619c-bd73-4923-a489-e62ac33cd170_Taylor+Swift+family+tree+%282%29.png?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Swift Family Tree | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/90fffea9-c7ac-447d-89a3-a3b6200e2d51' alt='The Swift Family Tree | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1636">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taylor Swift Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/90fffea9-c7ac-447d-89a3-a3b6200e2d51' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Ancestor Search: How cousins become distant">
+                                <img itemprop="contentUrl url" src='https://researchthroughpeople.com/wp-content/uploads/2020/08/Swift-cousins-3-Trees.jpg' alt='Taylor Swift Ancestor Search: How cousins become distant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Research Through People" />
+                                </span>
+                                <a href='https://researchthroughpeople.com/wp-content/uploads/2020/08/Swift-cousins-3-Trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Famous Relatives of Taylor Swift : r/UsefulCharts">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/famous-relatives-of-taylor-swift-v0-v35r2ezwt0gd1.png?auto=webp&s=1cc30bbb685fee4e4394a50de6437d668959c79e' alt='Famous Relatives of Taylor Swift : r/UsefulCharts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5276">
+                                <meta itemprop="height" content="6458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/famous-relatives-of-taylor-swift-v0-v35r2ezwt0gd1.png?auto=webp&s=1cc30bbb685fee4e4394a50de6437d668959c79e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift&#039;s Family Tree by Lauryn Mason on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/hom2ht2csonc76wqa5ivav3kip6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='Taylor Swift&#039;s Family Tree by Lauryn Mason on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/hom2ht2csonc76wqa5ivav3kip6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fb72b28dfb304f753f74ce67c59738 ...">
+                                <img itemprop="contentUrl url" src='https://familyroot.s3.ap-southeast-1.amazonaws.com/familyroot/uploads/images/fb72b28dfb304f753f74ce67c59738ac.jpg' alt='fb72b28dfb304f753f74ce67c59738 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1492">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Root App" />
+                                </span>
+                                <a href='https://familyroot.s3.ap-southeast-1.amazonaws.com/familyroot/uploads/images/fb72b28dfb304f753f74ce67c59738ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Family Tree: Ancestry, Cousins, and Royal Ties">
+                                <img itemprop="contentUrl url" src='https://treemily.com/wp-content/uploads/2024/11/Family-Tree-of-Taylor-Swift-909x1024.png' alt='Taylor Swift Family Tree: Ancestry, Cousins, and Royal Ties'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treemily" />
+                                </span>
+                                <a href='https://treemily.com/wp-content/uploads/2024/11/Family-Tree-of-Taylor-Swift-909x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift is related to Emily Dickinson: See family tree">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/04/PNAS/72840687007-swift-to-dickinson-family-connection-tree.png' alt='Taylor Swift is related to Emily Dickinson: See family tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/04/PNAS/72840687007-swift-to-dickinson-family-connection-tree.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Ancestor Search: How cousins become distant">
+                                <img itemprop="contentUrl url" src='https://researchthroughpeople.com/wp-content/uploads/2020/08/Swift-cousins-Warren-e1604828999193.jpg' alt='Taylor Swift Ancestor Search: How cousins become distant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Research Through People" />
+                                </span>
+                                <a href='https://researchthroughpeople.com/wp-content/uploads/2020/08/Swift-cousins-Warren-e1604828999193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family tree reveals Taylor Swift is a descendant of French King ...">
+                                <img itemprop="contentUrl url" src='https://i.dailymail.co.uk/1s/2024/05/02/18/84382657-0-image-a-16_1714670458088.jpg' alt='Family tree reveals Taylor Swift is a descendant of French King ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Mail" />
+                                </span>
+                                <a href='https://i.dailymail.co.uk/1s/2024/05/02/18/84382657-0-image-a-16_1714670458088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

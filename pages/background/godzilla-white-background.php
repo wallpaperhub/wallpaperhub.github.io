@@ -1,0 +1,129 @@
+<title>Godzilla: Iconic Monster on a White Background</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="godzilla white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/godzilla-white-background">
+                            <span itemprop="name">godzilla white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Godzilla: Iconic Monster on a White Background</h1>
+                <p>Godzilla, the iconic Kaiju, has been captivating audiences for decades with his colossal presence and destructive power. On a striking white background, the legendary monster stands out, symbolizing both chaos and heroism. This stark contrast emphasizes Godzilla's raw strength and nature's beauty, making it a perfect artistic representation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MonsterVerse: Godzilla (2) - Transparent! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/5f/9e/5d5f9ea537e8c7e659446de3b1253a4f.jpg' alt='MonsterVerse: Godzilla (2) - Transparent! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/5f/9e/5d5f9ea537e8c7e659446de3b1253a4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MV Godzilla KOTM/GVK/MLOM/GXK (White Background) by chrisZ2006 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f50c7401-b91a-4808-ace9-2c88b2fb3fde/dhghicj-5a27ab22-37f9-49d1-bcef-ed53096402a0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1MGM3NDAxLWI5MWEtNDgwOC1hY2U5LTJjODhiMmZiM2ZkZVwvZGhnaGljai01YTI3YWIyMi0zN2Y5LTQ5ZDEtYmNlZi1lZDUzMDk2NDAyYTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S-V16X-R13eldnh4PshUSDHT6uVOpUofl915LbErUgY' alt='MV Godzilla KOTM/GVK/MLOM/GXK (White Background) by chrisZ2006 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f50c7401-b91a-4808-ace9-2c88b2fb3fde/dhghicj-5a27ab22-37f9-49d1-bcef-ed53096402a0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1MGM3NDAxLWI5MWEtNDgwOC1hY2U5LTJjODhiMmZiM2ZkZVwvZGhnaGljai01YTI3YWIyMi0zN2Y5LTQ5ZDEtYmNlZi1lZDUzMDk2NDAyYTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S-V16X-R13eldnh4PshUSDHT6uVOpUofl915LbErUgY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsterverse - Godzilla/Gojira by Dino-master on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/11/5f/c3115f7941cc4c0e1c2531a91be6eac4.jpg' alt='Monsterverse - Godzilla/Gojira by Dino-master on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/11/5f/c3115f7941cc4c0e1c2531a91be6eac4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla 2019 HD png transparent background 2 by GojifanNekozilla ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8baa77f-c488-4769-bb75-a8a228144b41/dd2uaem-4574e26f-539c-4879-944d-f22a4557568c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E4YmFhNzdmLWM0ODgtNDc2OS1iYjc1LWE4YTIyODE0NGI0MVwvZGQydWFlbS00NTc0ZTI2Zi01MzljLTQ4NzktOTQ0ZC1mMjJhNDU1NzU2OGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VBosZHCOk-FkZEHYzNvq8_4GynljbMApGiOQB1hArvM' alt='Godzilla 2019 HD png transparent background 2 by GojifanNekozilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8baa77f-c488-4769-bb75-a8a228144b41/dd2uaem-4574e26f-539c-4879-944d-f22a4557568c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E4YmFhNzdmLWM0ODgtNDc2OS1iYjc1LWE4YTIyODE0NGI0MVwvZGQydWFlbS00NTc0ZTI2Zi01MzljLTQ4NzktOTQ0ZC1mMjJhNDU1NzU2OGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VBosZHCOk-FkZEHYzNvq8_4GynljbMApGiOQB1hArvM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla 2019 Transparent! by Jacksondeans on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/f9/f3/b0f9f3c99b482228ff4a5f990d0a090a.jpg' alt='Godzilla 2019 Transparent! by Jacksondeans on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/f9/f3/b0f9f3c99b482228ff4a5f990d0a090a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla on transparent background | Premium AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/godzilla-transparent-background_1195761-18611.jpg' alt='Godzilla on transparent background | Premium AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/godzilla-transparent-background_1195761-18611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/6f/f2/c16ff28ca0e2c8fda73a2487fb6a10ef.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/6f/f2/c16ff28ca0e2c8fda73a2487fb6a10ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla 2019 HD png transparent background by GojifanNekozilla on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8baa77f-c488-4769-bb75-a8a228144b41/dd2tjfq-85e97484-ce68-49eb-8076-fa2b28320d8c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E4YmFhNzdmLWM0ODgtNDc2OS1iYjc1LWE4YTIyODE0NGI0MVwvZGQydGpmcS04NWU5NzQ4NC1jZTY4LTQ5ZWItODA3Ni1mYTJiMjgzMjBkOGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OWZL_orDlN8tV7v5U_Q3IknHw4Ma3U4oabWiO3V_p8o' alt='Godzilla 2019 HD png transparent background by GojifanNekozilla on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1918">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8baa77f-c488-4769-bb75-a8a228144b41/dd2tjfq-85e97484-ce68-49eb-8076-fa2b28320d8c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E4YmFhNzdmLWM0ODgtNDc2OS1iYjc1LWE4YTIyODE0NGI0MVwvZGQydGpmcS04NWU5NzQ4NC1jZTY4LTQ5ZWItODA3Ni1mYTJiMjgzMjBkOGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OWZL_orDlN8tV7v5U_Q3IknHw4Ma3U4oabWiO3V_p8o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding a Spine to Godzilla every day until GvK comes out: Day 3 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7yytf1gz7vg61.png?width=640&crop=smart&auto=webp&s=5080b28ca4a64e4690f3686965af7cb12b33f854' alt='Adding a Spine to Godzilla every day until GvK comes out: Day 3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7yytf1gz7vg61.png?width=640&crop=smart&auto=webp&s=5080b28ca4a64e4690f3686965af7cb12b33f854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Godzilla on a White Background Editorial Stock Photo - Image ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/zhongshan-guangdong-china-april-red-godzilla-white-background-277226808.jpg' alt='Red Godzilla on a White Background Editorial Stock Photo - Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/zhongshan-guangdong-china-april-red-godzilla-white-background-277226808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

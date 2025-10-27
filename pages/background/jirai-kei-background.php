@@ -1,0 +1,129 @@
+<title>Exploring Jirai Kei: Japan's Earthy Fashion Subculture</title>
+                    <meta name="description" content="Discover Jirai Kei, the Japanese fashion subculture that blends natural aesthetics with simplicity. Delve into its roots, style elements, and how it reflects personal narratives through fashion. Perfect for enthusiasts of unique, cultural fashion inspirations!">
+                    <meta name="keywords" content="jirai kei background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jirai-kei-background">
+                            <span itemprop="name">jirai kei background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Jirai Kei: Japan's Earthy Fashion Subculture</h1>
+                <p>Jirai Kei is a unique fashion subculture originating in Japan that emphasizes a natural, earthy aesthetic often characterized by layers of textures and natural materials. Inspired by traditional Japanese clothing, this style promotes simplicity and comfort while showcasing an individual’s personal narrative through carefully chosen garments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jirai kei wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/eb/ba/a7ebba54a34b6d380ff92d0af4d8dea8.jpg' alt='jirai kei wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/eb/ba/a7ebba54a34b6d380ff92d0af4d8dea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jirai Kei wallpaper (⁠｡⁠・⁠ω⁠・⁠｡⁠)⁠ﾉ⁠♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/b5/31/a0b531c61c896c2690159d667d05f5a6.jpg' alt='Jirai Kei wallpaper (⁠｡⁠・⁠ω⁠・⁠｡⁠)⁠ﾉ⁠♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/b5/31/a0b531c61c896c2690159d667d05f5a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jirai Kei Wallpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/2a/e9/f32ae900996a52add0e4e320266fd81f.jpg' alt='Jirai Kei Wallpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/2a/e9/f32ae900996a52add0e4e320266fd81f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☽              ☾ on X: "꒰ა                   ໒꒱    New ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GVyjQb6WoAEap9D.jpg:large' alt='☽              ☾ on X: "꒰ა                   ໒꒱    New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GVyjQb6WoAEap9D.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone know the name of this style? : r/ProjectSekai">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/does-anyone-know-the-name-of-this-style-v0-0d6v8lgk464c1.jpg?width=2048&format=pjpg&auto=webp&s=4b6feb81d3e119c6c7ac878c852f0cc70a9e110f' alt='Does anyone know the name of this style? : r/ProjectSekai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/does-anyone-know-the-name-of-this-style-v0-0d6v8lgk464c1.jpg?width=2048&format=pjpg&auto=webp&s=4b6feb81d3e119c6c7ac878c852f0cc70a9e110f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jirai Kei Black-white Landmine Girl Cute Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2333179781/display_1500/stock-photo-jirai-kei-black-white-landmine-girl-cute-wallpaper-2333179781.jpg' alt='Jirai Kei Black-white Landmine Girl Cute Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2333179781/display_1500/stock-photo-jirai-kei-black-white-landmine-girl-cute-wallpaper-2333179781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jirai Kei Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13919961.jpg' alt='Jirai Kei Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13919961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/7b/40/807b4066f67ec5f0053e89367348e919.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/7b/40/807b4066f67ec5f0053e89367348e919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The theme this time is jiraikei-ish! #phone #phoneinspo #jiraikei  #aesthetic #blackandpink #pink #pinkaesthetic #cute #kawaii #inspo  #phonelayout">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7219702743173270790&location=0&aid=1988' alt='The theme this time is jiraikei-ish! #phone #phoneinspo #jiraikei  #aesthetic #blackandpink #pink #pinkaesthetic #cute #kawaii #inspo  #phonelayout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7219702743173270790&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JIRAI KEI - Japan's Melancholic Fashion Movement │Yokogao Magazine">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/e2539909-409e-4f89-be87-459019a18e49/jirai+5.jpeg' alt='JIRAI KEI - Japan's Melancholic Fashion Movement │Yokogao Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yokogao Magazine" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/e2539909-409e-4f89-be87-459019a18e49/jirai+5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

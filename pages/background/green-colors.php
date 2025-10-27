@@ -1,0 +1,129 @@
+<title>Explore the Beauty of Green Colors</title>
+                    <meta name="description" content="Discover the calming and renewing power of green colors. Explore their significance in nature, design, and our emotions. Embrace the beauty of green hues to enhance your space and promote balance in your life.">
+                    <meta name="keywords" content="green colors">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-colors">
+                            <span itemprop="name">green colors</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Beauty of Green Colors</h1>
+                <p>Green colors evoke a sense of tranquility and freshness, symbolizing nature, growth, and renewal. From the vibrant hues of spring leaves to the soft pastels of a lush garden, green offers a spectrum that can uplift and calm simultaneously. It's a color that inspires balance and harmony in our surroundings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shades of green - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Color_icon_green.png/1200px-Color_icon_green.png' alt='Shades of green - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Color_icon_green.png/1200px-Color_icon_green.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="134 Shades of Green: Color Names, Hex, RGB, CMYK Codes | Color ...">
+                                <img itemprop="contentUrl url" src='https://www.color-meanings.com/wp-content/uploads/shades-of-green-color-names.png' alt='134 Shades of Green: Color Names, Hex, RGB, CMYK Codes | Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Meanings" />
+                                </span>
+                                <a href='https://www.color-meanings.com/wp-content/uploads/shades-of-green-color-names.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shades Of Green Color: +50 Green Colors with HEXs">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5a9423a3f702750001758d4f/6767cd0c0da05a4abb518ea3_green-colors.svg' alt='Shades Of Green Color: +50 Green Colors with HEXs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5a9423a3f702750001758d4f/6767cd0c0da05a4abb518ea3_green-colors.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green To Dark Green Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/34343.png' alt='Light Green To Dark Green Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/34343.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Shades of Green: Color Names, Hex, RGB, CMYK Codes">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0631/6746/3632/files/pinterest.jpg?v=1724397804' alt='160 Shades of Green: Color Names, Hex, RGB, CMYK Codes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art Craft Blend" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0631/6746/3632/files/pinterest.jpg?v=1724397804' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green color shades swatches palette with names Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/77/78/green-color-shades-swatches-palette-with-names-vector-45017778.jpg' alt='Green color shades swatches palette with names Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/77/78/green-color-shades-swatches-palette-with-names-vector-45017778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Colors Make Green? – Artsy Fartsy Life">
+                                <img itemprop="contentUrl url" src='https://artsyfartsylife.com/wp-content/uploads/2019/09/green.jpg' alt='What Colors Make Green? – Artsy Fartsy Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy Fartsy Life" />
+                                </span>
+                                <a href='https://artsyfartsylife.com/wp-content/uploads/2019/09/green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Dark Green Colors With HEX Codes - Eggradients.com">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209178b17_Dark%20Green%20Colors.webp' alt='30 Dark Green Colors With HEX Codes - Eggradients.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209178b17_Dark%20Green%20Colors.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green color codes and names selection colors Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/21/44/green-color-codes-and-names-selection-colors-vector-25122144.jpg' alt='Green color codes and names selection colors Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/21/44/green-color-codes-and-names-selection-colors-vector-25122144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Green Color Palette Inspirations with Names & hex Codes ...">
+                                <img itemprop="contentUrl url" src='https://colors.dopely.top/inside-colors/wp-content/uploads/2021/03/Dopely-Green-Color-Palette-%E2%80%93-3.png' alt='15 Green Color Palette Inspirations with Names & hex Codes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dopely Colors" />
+                                </span>
+                                <a href='https://colors.dopely.top/inside-colors/wp-content/uploads/2021/03/Dopely-Green-Color-Palette-%E2%80%93-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

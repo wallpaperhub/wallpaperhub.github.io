@@ -1,0 +1,129 @@
+<title>Top Backgrounds for Bards in BG3</title>
+                    <meta name="description" content="Discover the best backgrounds for your bard in Baldur's Gate 3! Learn how choices like Entertainer and Charlatan can enhance skills, storytelling, and gameplay. Make your bard's journey unforgettable with the perfect background that suits your style!">
+                    <meta name="keywords" content="best background for bard bg3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-background-for-bard-bg3">
+                            <span itemprop="name">best background for bard bg3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Backgrounds for Bards in BG3</h1>
+                <p>In Baldur's Gate 3, choosing the right background for your bard can enhance your character's abilities and story. The Entertainer background is ideal, as it boosts performance skills, while the Charlatan can add a sneaky element. Consider how each background shapes your bard's narrative and enhances your roleplaying experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Backgrounds To Pick In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-bard-with-persuasion-proficiency-from-guild-artisan-background-in-character-creator.jpg' alt='7 Best Backgrounds To Pick In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-female-mephistopheles-tiefling-bard-with-persuasion-proficiency-from-guild-artisan-background-in-character-creator.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Background for BG3? Ranked : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-background-for-bg3-ranked-v0-vzu0l8xeyamc1.jpg?width=2048&format=pjpg&auto=webp&s=1d4652ff347d359fcd275cbdcbc3e31a063dd57e' alt='Best Background for BG3? Ranked : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-background-for-bg3-ranked-v0-vzu0l8xeyamc1.jpg?width=2048&format=pjpg&auto=webp&s=1d4652ff347d359fcd275cbdcbc3e31a063dd57e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: 10 Best Class & Background Combinations">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/bard-charlata-rock-gnome-baldur-s-gate-3.jpg' alt='Baldur's Gate 3: 10 Best Class & Background Combinations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/bard-charlata-rock-gnome-baldur-s-gate-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Bard Class Build">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/A-Bard-playing-the-violin.jpg' alt='Baldur's Gate 3: Best Bard Class Build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/A-Bard-playing-the-violin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: All Backgrounds (And Which To Use)">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/8-10-best-backgrounds-in-baldur-s-gate-3.jpg' alt='Baldur's Gate 3: All Backgrounds (And Which To Use)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/8-10-best-backgrounds-in-baldur-s-gate-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Every Background, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-best-backgrounds-entertainer.jpg' alt='Baldur's Gate 3: Every Background, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DualShockers" />
+                                </span>
+                                <a href='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-best-backgrounds-entertainer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: How to Build a Bard">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/07/Baldurs-Gate-3-Bard-Lava.jpg' alt='Baldur's Gate 3: How to Build a Bard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/07/Baldurs-Gate-3-Bard-Lava.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Bard build">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-best-bard-build-header.jpg' alt='Best Baldur's Gate 3 Bard build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/07/baldurs-gate-3-best-bard-build-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best Baldur's Gate 3 backgrounds | GamesRadar+">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/Dsmn554zvnUwN4g6zFDRQF.jpg' alt='The best Baldur's Gate 3 backgrounds | GamesRadar+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Games Radar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/Dsmn554zvnUwN4g6zFDRQF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Bard build in Baldur's Gate 3: Race, skills, spells & more ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/02/Baldurs-Gate-3-Bard-build.jpg' alt='Best Bard build in Baldur's Gate 3: Race, skills, spells & more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/02/Baldurs-Gate-3-Bard-build.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

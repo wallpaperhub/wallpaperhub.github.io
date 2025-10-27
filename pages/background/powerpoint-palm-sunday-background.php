@@ -1,0 +1,129 @@
+<title>Beautiful PowerPoint Backgrounds for Palm Sunday</title>
+                    <meta name="description" content="Discover stunning PowerPoint backgrounds for Palm Sunday to elevate your presentations. Perfect for worship services and educational settings, these designs capture the spirit of the occasion while keeping your slides visually appealing and engaging. Enhance your message today!">
+                    <meta name="keywords" content="powerpoint palm sunday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/powerpoint-palm-sunday-background">
+                            <span itemprop="name">powerpoint palm sunday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful PowerPoint Backgrounds for Palm Sunday</h1>
+                <p>Enhance your PowerPoint presentations for Palm Sunday with beautifully designed backgrounds that capture the essence of this significant day. From serene landscapes to symbolic imagery, these backgrounds will set a reflective mood for your audience, making your message resonate. Perfect for church services and educational purposes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Palm Sunday PowerPoint Template – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1298507798673_121/slide-02.jpg' alt='ShareFaith Media » Palm Sunday PowerPoint Template – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1298507798673_121/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Sunday 1 PowerPoint">
+                                <img itemprop="contentUrl url" src='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2021/02/28164821/PalmSunday1.png' alt='Palm Sunday 1 PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Progressive Church Media" />
+                                </span>
+                                <a href='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2021/02/28164821/PalmSunday1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Sunday 1 Graphics">
+                                <img itemprop="contentUrl url" src='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2021/02/28164934/PalmSunday1PPT2.png' alt='Palm Sunday 1 Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Progressive Church Media" />
+                                </span>
+                                <a href='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2021/02/28164934/PalmSunday1PPT2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Palm Sunday PowerPoint Template – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1298507798673_121/slide-92.jpg' alt='ShareFaith Media » Palm Sunday PowerPoint Template – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1298507798673_121/slide-92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Sunday Backgrounds PPT and Google Slides Templates">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/79673-free-palm-sunday-powerpoint-backgrounds.png' alt='Palm Sunday Backgrounds PPT and Google Slides Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/79673-free-palm-sunday-powerpoint-backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerpoint Slides for Everyone - week 14 - Palm Sunday">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/2e/53/9d2e5359cde55a62182e8924887c601d.jpg' alt='Powerpoint Slides for Everyone - week 14 - Palm Sunday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/2e/53/9d2e5359cde55a62182e8924887c601d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Palm Sunday PowerPoint Design – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1328652096986_410/slide-02.jpg' alt='ShareFaith Media » Palm Sunday PowerPoint Design – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1328652096986_410/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Sunday Background Still 1">
+                                <img itemprop="contentUrl url" src='https://www.4thoughtmedia.com/wp-content/uploads/2016/03/palm_sunday_background_still_1.jpg' alt='Palm Sunday Background Still 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4Thought Media" />
+                                </span>
+                                <a href='https://www.4thoughtmedia.com/wp-content/uploads/2016/03/palm_sunday_background_still_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Sunday Background Still | Hyper Pixels Media | WorshipHouse Media">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/st/hpm/st/palmsundaybackgroundstill.jpg' alt='Palm Sunday Background Still | Hyper Pixels Media | WorshipHouse Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorshipHouse Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/st/hpm/st/palmsundaybackgroundstill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Palm Sunday Background Presentation Slide - SlideKit">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2024/12/Free-Palm-Sunday-Background-Template-For-PowerPoint-and-Google-Slides.jpg' alt='Free Palm Sunday Background Presentation Slide - SlideKit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2024/12/Free-Palm-Sunday-Background-Template-For-PowerPoint-and-Google-Slides.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

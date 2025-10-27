@@ -1,0 +1,129 @@
+<title>Vibrant Pink Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Explore the bold and playful elegance of vibrant pink wallpaper. Perfect for creating a stunning focal point, it brightens any room while reflecting your unique style. Discover the perfect designs to elevate your home decor and bring a cheerful ambiance to your space.">
+                    <meta name="keywords" content="vibrant pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/vibrant-pink-wallpaper">
+                            <span itemprop="name">vibrant pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with vibrant pink wallpaper that exudes energy and positivity. Perfect for any room, it creates a playful yet sophisticated ambiance. Ideal for accent walls or entire rooms, this bold choice showcases your personality while enhancing the decor. Embrace the cheerful vibe and make a stylish statement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2425601/p/f/m/K2q284jU-T9f9Uk91HjOd0dIWEMlsMHlIgl8IQ7lqvK0PV60Rps/Hot%20Pink%20Solid%20.jpg' alt='Solid Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2425601/p/f/m/K2q284jU-T9f9Uk91HjOd0dIWEMlsMHlIgl8IQ7lqvK0PV60Rps/Hot%20Pink%20Solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/56/0f/02560f0a35918a90013c74d2ee681b81.jpg' alt='Neon pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/56/0f/02560f0a35918a90013c74d2ee681b81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Leopard Print Wallpaper, Hot Pink Wall Design, Trendy ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/52137569/r/il/887c21/6139736355/il_fullxfull.6139736355_mm0s.jpg' alt='Vibrant Leopard Print Wallpaper, Hot Pink Wall Design, Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/52137569/r/il/887c21/6139736355/il_fullxfull.6139736355_mm0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Bright Pink Wallpaper - Thick Textured Feature - Paste The Wall  51115433 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/2v8AAOSw0X5fX1VL/s-l400.jpg' alt='Plain Bright Pink Wallpaper - Thick Textured Feature - Paste The Wall  51115433 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/2v8AAOSw0X5fX1VL/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Pink Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16398704/p/f/m/eBtfMpvMWmBZmMydtwe-YtewI2JTN6wXyMR0LJJjsZ8GX9wf6RbfeAY/Begonia%20Pink%20Solid%20-%20Vibrant%20Pink%20Solid%20Color%20Design%20for%20Lively%20Decor.jpg' alt='Vibrant Pink Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16398704/p/f/m/eBtfMpvMWmBZmMydtwe-YtewI2JTN6wXyMR0LJJjsZ8GX9wf6RbfeAY/Begonia%20Pink%20Solid%20-%20Vibrant%20Pink%20Solid%20Color%20Design%20for%20Lively%20Decor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink 2000  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/c9/bd/08c9bd0f655c5fc49f8d82cd6685614b.jpg' alt='Pink 2000  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/c9/bd/08c9bd0f655c5fc49f8d82cd6685614b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hot Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hot-pink-plain-background-8c9ukpy6dyb1vnl9.jpg' alt='100+] Hot Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hot-pink-plain-background-8c9ukpy6dyb1vnl9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Electric Palm' Wallpaper by Nathan Turner - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Electric-Palm-PINK_P_93b4268e-87dd-4937-9b5e-d6aca990c70b.jpg?v=1615484792' alt=''Electric Palm' Wallpaper by Nathan Turner - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Electric-Palm-PINK_P_93b4268e-87dd-4937-9b5e-d6aca990c70b.jpg?v=1615484792' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dark Pink Wallpapers - Wallpaper Cave 4AD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/19/d4/0e/19d40e1027dfdc79a273f91538ee4a0c.jpg' alt='Aesthetic Dark Pink Wallpapers - Wallpaper Cave 4AD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/19/d4/0e/19d40e1027dfdc79a273f91538ee4a0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant pink solid color background. Plain magenta surface. Modern ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/69/58/05/1000_F_269580540_zLr5UiRym6YQSdQZILjshZCoRbf8mz0b.jpg' alt='Vibrant pink solid color background. Plain magenta surface. Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/69/58/05/1000_F_269580540_zLr5UiRym6YQSdQZILjshZCoRbf8mz0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

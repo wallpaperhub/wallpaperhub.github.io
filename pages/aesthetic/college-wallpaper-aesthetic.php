@@ -1,0 +1,129 @@
+<title>Elevate Your College Aesthetic: Stunning Wallpaper Ideas</title>
+                    <meta name="description" content="Discover beautiful college wallpaper aesthetics that enhance your dorm room! From trendy designs to unique styles, find the perfect wallpaper to express your personality and create an inspiring study environment. Explore ideas that elevate your college experience in seconds!">
+                    <meta name="keywords" content="college wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/college-wallpaper-aesthetic">
+                            <span itemprop="name">college wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your College Aesthetic: Stunning Wallpaper Ideas</h1>
+                <p>Transform your college space with captivating wallpaper aesthetics! Choose from trendy designs, like soft pastels, botanical prints, or vintage vibes, to express your personality. Create a cozy atmosphere with wallpapers that inspire creativity and motivate study sessions. Discover your unique style and enhance your dorm room today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Aesthetic Wall Collage Kit, Indie Room Decor, College Dorm ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27902097/r/il/3bc595/2960887282/il_570xN.2960887282_iuz4.jpg' alt='Pastel Aesthetic Wall Collage Kit, Indie Room Decor, College Dorm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27902097/r/il/3bc595/2960887282/il_570xN.2960887282_iuz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 College wallpaper ideas | wallpaper, aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/b2/5d/85b25dcfa76bbd173d1e6e94227125b6.jpg' alt='100 College wallpaper ideas | wallpaper, aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/b2/5d/85b25dcfa76bbd173d1e6e94227125b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Collage Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-collage-laptop-q6nxow9x3xp0addv.jpg' alt='100+] Aesthetic Collage Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-collage-laptop-q6nxow9x3xp0addv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wall Collage Kit, Dorm Decor for College Girls ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27902097/r/il/f33b58/3194341828/il_570xN.3194341828_kagf.jpg' alt='Blue Aesthetic Wall Collage Kit, Dorm Decor for College Girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27902097/r/il/f33b58/3194341828/il_570xN.3194341828_kagf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Aesthetic College Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/90/74/5c907463562fed4fba7203f26ab1f896.jpg' alt='Pastel Pink Aesthetic College Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/90/74/5c907463562fed4fba7203f26ab1f896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College wellpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/5e/fc/cb5efc0f8da7ba7ce86ba0e7207b45cb.jpg' alt='College wellpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/5e/fc/cb5efc0f8da7ba7ce86ba0e7207b45cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Aesthetic Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' alt='400+] Aesthetic Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown College Aesthetic Wallpaper"        foryou">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DD6s2YZSiDU/3/image.jpg' alt='Brown College Aesthetic Wallpaper"        foryou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DD6s2YZSiDU/3/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 College wallpaper ideas | wallpaper, aesthetic iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/99/f9/1a/99f91a85a08bdcee0dc544cbfe3b0e96.jpg' alt='100 College wallpaper ideas | wallpaper, aesthetic iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/99/f9/1a/99f91a85a08bdcee0dc544cbfe3b0e96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College Green. ☁️       Vintage and romantic aesthetic. wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_mYtpDIJcy/0/image.jpg' alt='College Green. ☁️       Vintage and romantic aesthetic. wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C_mYtpDIJcy/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

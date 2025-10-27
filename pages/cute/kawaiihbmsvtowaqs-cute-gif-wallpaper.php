@@ -1,0 +1,129 @@
+<title>Adorable Kawaii GIF Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover a collection of kawaii gif wallpapers that add a touch of cuteness to your screens! Perfect for personalizing your phone or computer, these animated designs bring joy and color to your digital experience. Explore our gallery for charming options that express your unique style!">
+                    <meta name="keywords" content="kawaii:hbmsvtowaqs= cute gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/kawaiihbmsvtowaqs-cute-gif-wallpaper">
+                            <span itemprop="name">kawaii:hbmsvtowaqs= cute gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii GIF Wallpapers for Every Device</h1>
+                <p>Transform your screens with adorable kawaii gif wallpapers! Featuring charming characters and vibrant colors, these cute animations breathe life into your devices. Perfect for expressing your personality, these playful designs will surely bring a smile every time you unlock your phone or computer. Get ready to embrace cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Kawaii ideas | cute gif, cute love gif, cute cartoon images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bb/44/93/bb44931dc45437960e92eb0bed039145.gif' alt='100 Kawaii ideas | cute gif, cute love gif, cute cartoon images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bb/44/93/bb44931dc45437960e92eb0bed039145.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii GIF - Cute Kawaii Pink - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8d/57/62/8d5762d92620523412d73df694ca252b.gif' alt='Cute Kawaii GIF - Cute Kawaii Pink - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8d/57/62/8d5762d92620523412d73df694ca252b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Pink Cute Kawaii Gif Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1824520139618986394/893BDDBD69077AEC3C4C755297B0093AC3DC98BF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Pink Cute Kawaii Gif Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1824520139618986394/893BDDBD69077AEC3C4C755297B0093AC3DC98BF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Gif Wallpaper Pc">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/2c/10/a82c10de644f30afb3d05fa73f8bf88b.gif' alt='Kawaii Gif Wallpaper Pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/2c/10/a82c10de644f30afb3d05fa73f8bf88b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/09/75/6d/09756d27dd4144a14a6fac6fd7de5f44.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/09/75/6d/09756d27dd4144a14a6fac6fd7de5f44.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Gif Wallpaper Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a6/37/be/a637bebe9725567f653c8d244a1470fa.gif' alt='Kawaii Gif Wallpaper Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a6/37/be/a637bebe9725567f653c8d244a1470fa.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gif by Humble4others on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa3cc095-c26e-4b05-a8f1-3709dd7246b7/dg28zwg-b48de57b-6530-4699-ac65-003228b4ba98.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhM2NjMDk1LWMyNmUtNGIwNS1hOGYxLTM3MDlkZDcyNDZiN1wvZGcyOHp3Zy1iNDhkZTU3Yi02NTMwLTQ2OTktYWM2NS0wMDMyMjhiNGJhOTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p9Ha-7lT7o6KXKDyHlhhSOa-8CpQ1J_0QTZKj4efZFA' alt='Cute Gif by Humble4others on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa3cc095-c26e-4b05-a8f1-3709dd7246b7/dg28zwg-b48de57b-6530-4699-ac65-003228b4ba98.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhM2NjMDk1LWMyNmUtNGIwNS1hOGYxLTM3MDlkZDcyNDZiN1wvZGcyOHp3Zy1iNDhkZTU3Yi02NTMwLTQ2OTktYWM2NS0wMDMyMjhiNGJhOTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p9Ha-7lT7o6KXKDyHlhhSOa-8CpQ1J_0QTZKj4efZFA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gif Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/jD8fmhulF4MAAAAM/clap-clap-cute-cat.gif' alt='Cute Gif Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/jD8fmhulF4MAAAAM/clap-clap-cute-cat.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gif Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/21/af/55/21af5581d2efe39b0e2ad2321d7dcf54.gif' alt='Cute Gif Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/21/af/55/21af5581d2efe39b0e2ad2321d7dcf54.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Cute wallpapers and gifs ideas | cute gif, cute wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/de/c3/c5dec31c18b69544ec0fae01c496b080.gif' alt='900+ Cute wallpapers and gifs ideas | cute gif, cute wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/de/c3/c5dec31c18b69544ec0fae01c496b080.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

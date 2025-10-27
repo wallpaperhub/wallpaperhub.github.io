@@ -1,0 +1,129 @@
+<title>Harry Styles: Icon of Music and Fashion</title>
+                    <meta name="description" content="Discover the multifaceted career of Harry Styles, from One Direction to his solo success. Explore his music, style, and impact on pop culture in this concise overview. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="harry styles">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-styles">
+                            <span itemprop="name">harry styles</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harry Styles: Icon of Music and Fashion</h1>
+                <p>Harry Styles, the British singer and actor, rose to fame as a member of One Direction. With his distinctive voice and charismatic stage presence, he has captivated millions. Since going solo, Styles has explored various musical styles, releasing chart-topping albums like "Fine Line" and "Harry's House," showcasing his versatility and artistic growth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/1200px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg' alt='Harry Styles - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/1200px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTUxMzU2MTk1OF5BMl5BanBnXkFtZTgwNzg4NjAwMzI@._V1_FMjpg_UX1000_.jpg' alt='Harry Styles - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTUxMzU2MTk1OF5BMl5BanBnXkFtZTgwNzg4NjAwMzI@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry styles 2025 fashion">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/harry-styles-leaving-bbc-radio-2-on-february-14-2020-in-news-photo-1584982703.jpg' alt='Harry styles 2025 fashion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/harry-styles-leaving-bbc-radio-2-on-february-14-2020-in-news-photo-1584982703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles Runs the Tokyo Marathon: See His Impressive Time">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/i03ZLUCkp0X007mLRnY_11dxq-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x347:707x349)/harry-styles-030225-4c9033005ca24a2b9aab72fa7dd96602.jpg' alt='Harry Styles Runs the Tokyo Marathon: See His Impressive Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/i03ZLUCkp0X007mLRnY_11dxq-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x347:707x349)/harry-styles-030225-4c9033005ca24a2b9aab72fa7dd96602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Harry Styles">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044630460255' alt='Profile for Harry Styles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044630460255' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles Runs the Tokyo Marathon: Here's His Finish Time">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2023/07/Harry-Styles-2023-grammys-billboard-1548.jpg?w=942&h=623&crop=1' alt='Harry Styles Runs the Tokyo Marathon: Here's His Finish Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2023/07/Harry-Styles-2023-grammys-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles | One Direction, Movies, Don't Worry Darling ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/07/222807-050-50D5DC99/English-singer-songwriter-actor-Harry-Styles-2020.jpg' alt='Harry Styles | One Direction, Movies, Don't Worry Darling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1133">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/07/222807-050-50D5DC99/English-singer-songwriter-actor-Harry-Styles-2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles Ran the Tokyo Marathon—and Paced It Perfectly">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/harry-styles-performs-at-the-brit-awards-2023-at-the-o2-news-photo-1740923685.pjpeg?crop=0.668xw:1.00xh;0.133xw,0&resize=640:*' alt='Harry Styles Ran the Tokyo Marathon—and Paced It Perfectly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Runner's World" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/harry-styles-performs-at-the-brit-awards-2023-at-the-o2-news-photo-1740923685.pjpeg?crop=0.668xw:1.00xh;0.133xw,0&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles' beauty brand returns to Austin for 2nd pop-up ...">
+                                <img itemprop="contentUrl url" src='https://austin.culturemap.com/media-library/harry-styles.jpg?id=30395820&width=2000&height=1500&quality=65&coordinates=0%2C0%2C0%2C0' alt='Harry Styles' beauty brand returns to Austin for 2nd pop-up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CultureMap Austin" />
+                                </span>
+                                <a href='https://austin.culturemap.com/media-library/harry-styles.jpg?id=30395820&width=2000&height=1500&quality=65&coordinates=0%2C0%2C0%2C0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Styles wows with Tokyo Marathon time">
+                                <img itemprop="contentUrl url" src='https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/r5t2fpfejx2oau8qq4we' alt='Harry Styles wows with Tokyo Marathon time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olympics.com" />
+                                </span>
+                                <a href='https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/r5t2fpfejx2oau8qq4we' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

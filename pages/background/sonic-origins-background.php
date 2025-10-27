@@ -1,0 +1,129 @@
+<title>Sonic Origins: Classic Games Revived for a New Generation</title>
+                    <meta name="description" content="Explore Sonic Origins, a timeless collection of classic Sonic games with revamped graphics and exciting features. Relive the adventure and speed through beloved levels, perfect for both newcomers and fans of the originals. Experience the thrill of Sonic like never before!">
+                    <meta name="keywords" content="sonic origins background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sonic-origins-background">
+                            <span itemprop="name">sonic origins background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sonic Origins: Classic Games Revived for a New Generation</h1>
+                <p>Sonic Origins is a compilation of classic Sonic the Hedgehog games, celebrated for their nostalgic charm and innovative gameplay. Released in 2022, it includes updated graphics, new features, and additional content. This collection revives the iconic titles, bringing them to modern platforms while preserving their original essence for both new and longtime fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ashley Lange - Sonic Origins Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/061/269/227/large/ashley-lange-so-grasszonelarge.jpg?1680387218' alt='Ashley Lange - Sonic Origins Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashley Lange" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/061/269/227/large/ashley-lange-so-grasszonelarge.jpg?1680387218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Origins Wallpapers - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2022/04/featured-sonic-origins-artwork-01.jpg' alt='Sonic Origins Wallpapers - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1929">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2022/04/featured-sonic-origins-artwork-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Sonic Origins: Sonic the Hedgehog">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1826782024807717264/47B6075A3801800977B961FE63B367FD4CBFAE59/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Sonic Origins: Sonic the Hedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1826782024807717264/47B6075A3801800977B961FE63B367FD4CBFAE59/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Sonic Origins HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/124/thumb-350-1248301.webp' alt='Download Video Game Sonic Origins HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/124/thumb-350-1248301.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Origins (Video Game 2022) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNThjZTEzNjQtMGNjNi00MTI3LWI5OWYtYmZhODY4ZDU4NjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Sonic Origins (Video Game 2022) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNThjZTEzNjQtMGNjNi00MTI3LWI5OWYtYmZhODY4ZDU4NjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sonic origins wallpaper custom fan made edit by WilliamSonic2005 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/927e8d8d-d46d-416c-adce-18345d506d31/dghcvgp-18e25ee9-0a6c-4f8a-849d-6a8f96971528.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkyN2U4ZDhkLWQ0NmQtNDE2Yy1hZGNlLTE4MzQ1ZDUwNmQzMVwvZGdoY3ZncC0xOGUyNWVlOS0wYTZjLTRmOGEtODQ5ZC02YThmOTY5NzE1MjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pRYJ1A4xmxYeXf48oXwjtGj1Ljy-yCQW2WFm0LIdEoI' alt='sonic origins wallpaper custom fan made edit by WilliamSonic2005 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/927e8d8d-d46d-416c-adce-18345d506d31/dghcvgp-18e25ee9-0a6c-4f8a-849d-6a8f96971528.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkyN2U4ZDhkLWQ0NmQtNDE2Yy1hZGNlLTE4MzQ1ZDUwNmQzMVwvZGdoY3ZncC0xOGUyNWVlOS0wYTZjLTRmOGEtODQ5ZC02YThmOTY5NzE1MjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pRYJ1A4xmxYeXf48oXwjtGj1Ljy-yCQW2WFm0LIdEoI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ABOUT｜SONIC ORIGINS Official Site|SEGA">
+                                <img itemprop="contentUrl url" src='https://asia.sega.com/SonicOrigins/en/images/about/about-titlebg-sonic3.jpg' alt='ABOUT｜SONIC ORIGINS Official Site|SEGA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEGA" />
+                                </span>
+                                <a href='https://asia.sega.com/SonicOrigins/en/images/about/about-titlebg-sonic3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Origins art | Classic sonic, Sonic, Sonic dash">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/21/2e/0c212e88532586c049647b4425edb451.jpg' alt='Sonic Origins art | Classic sonic, Sonic, Sonic dash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/21/2e/0c212e88532586c049647b4425edb451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic Origins officially announced: new details, release date ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tailschannel.com/wp-content/uploads/2022/04/SonicOrigins06.png?resize=1919%2C1024&ssl=1' alt='Sonic Origins officially announced: new details, release date ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tails' Channel" />
+                                </span>
+                                <a href='https://i0.wp.com/tailschannel.com/wp-content/uploads/2022/04/SonicOrigins06.png?resize=1919%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Sonic Origins HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/123/1230440.jpg' alt='Download Video Game Sonic Origins HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/123/1230440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

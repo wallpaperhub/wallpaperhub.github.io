@@ -1,0 +1,129 @@
+<title>Stylish Lock Screen Wallpapers for Teenage Girls</title>
+                    <meta name="description" content="Explore a collection of trendy lock screen wallpapers perfect for teenage girls. Find unique designs that express your personality—choose from nature scenes, inspiring quotes, and vibrant patterns. Refresh your phone with wallpapers that resonate with your style and bring joy to every unlock!">
+                    <meta name="keywords" content="lock screen wallpaper for teenage girl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-wallpaper-for-teenage-girl">
+                            <span itemprop="name">lock screen wallpaper for teenage girl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Lock Screen Wallpapers for Teenage Girls</h1>
+                <p>Transform your phone with stunning lock screen wallpapers designed for teenage girls! From vibrant florals and dreamy skies to chic quotes and fun patterns, discover wallpapers that reflect your personality and style. Add a touch of inspiration to your day with a perfect lock screen that speaks to you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cool wallpapers for iphone lock screen for girls - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/b0/2d/a3b02de86da1611e22979dbbcf512681.jpg' alt='cool wallpapers for iphone lock screen for girls - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/b0/2d/a3b02de86da1611e22979dbbcf512681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Teen Wallpapers ideas | teen wallpaper, iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/98/14/b8/9814b8bebed5748f933370f566cc64fd.jpg' alt='22 Teen Wallpapers ideas | teen wallpaper, iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/98/14/b8/9814b8bebed5748f933370f566cc64fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls/Teen lockscreen wallpapers | ARMY's Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6605/d7d0155f5bc03c14c897c9bc7d3867282172d9df_hq.jpg' alt='Girls/Teen lockscreen wallpapers | ARMY's Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6605/d7d0155f5bc03c14c897c9bc7d3867282172d9df_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teen Wallpapers">
+                                <img itemprop="contentUrl url" src='https://teen-wallpapers-mx.web.app/images/teen1.png' alt='Teen Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="teen-wallpapers-mx.web.app" />
+                                </span>
+                                <a href='https://teen-wallpapers-mx.web.app/images/teen1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cc/7b/30/cc7b3009d1c4177c52558b94983aa076.jpg' alt='22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cc/7b/30/cc7b3009d1c4177c52558b94983aa076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/67/dd/8d/67dd8d77c1b446b9f9a644249bd898c8.jpg' alt='22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/67/dd/8d/67dd8d77c1b446b9f9a644249bd898c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teen Lock Screen, funny, lock screen, locked, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/137/958/HD-wallpaper-teen-lock-screen-funny-lock-screen-locked-thumbnail.jpg' alt='Teen Lock Screen, funny, lock screen, locked, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/137/958/HD-wallpaper-teen-lock-screen-funny-lock-screen-locked-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' alt='100+] Girly Lock Screen Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/girly-lock-screen-iphone-xgql5lt8fdgav6fp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Wallpaper Ideas for Girls">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7258762457684970757&location=0&aid=1988' alt='Cute Lock Screen Wallpaper Ideas for Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7258762457684970757&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls/Teen lockscreen wallpapers | ARMY's Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6605/6ba8d1b597fa5b4118376861902018cbaf436e9f_hq.jpg' alt='Girls/Teen lockscreen wallpapers | ARMY's Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6605/6ba8d1b597fa5b4118376861902018cbaf436e9f_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Fallout 4 Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore an amazing collection of Fallout 4 desktop wallpapers that bring the post-apocalyptic world to life! Get your favorite characters and breathtaking scenes in high resolution, perfect for any gamer looking to enhance their desktop experience. Download your ideal wallpaper today!">
+                    <meta name="keywords" content="fallout 4 desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/fallout-4-desktop-wallpaper">
+                            <span itemprop="name">fallout 4 desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fallout 4 Desktop Wallpapers for Gamers</h1>
+                <p>Transform your desktop with vibrant Fallout 4 wallpapers that capture the iconic apocalyptic landscape and characters of the game. From the desolate Commonwealth to the ferocious Deathclaws, each wallpaper provides a stunning visual experience. Perfect for fans who want to personalize their screens with the unique charm of Fallout 4.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Fallout 4 Wallpaper for those that are interested. : r/fo4">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/3ooBGhPsbEiC3VKJ3GzU3iwFuvrS6BKD9g-hD65OHqk.jpg?width=1080&crop=smart&auto=webp&s=2c3c30b8e7cfee9ecf219cf1ce43875fab98816d' alt='A Fallout 4 Wallpaper for those that are interested. : r/fo4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/3ooBGhPsbEiC3VKJ3GzU3iwFuvrS6BKD9g-hD65OHqk.jpg?width=1080&crop=smart&auto=webp&s=2c3c30b8e7cfee9ecf219cf1ce43875fab98816d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fallout 4 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fallout-4-fez4gn3kgqco8xyu.jpg' alt='100+] Fallout 4 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fallout-4-fez4gn3kgqco8xyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/d/7/154-1920x1080-desktop-full-hd-fallout-background-photo.jpg' alt='Fallout Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/d/7/154-1920x1080-desktop-full-hd-fallout-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 4 UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_fallout_4_09_2560x1080.jpg&height=506&sharpen' alt='Fallout 4 UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_fallout_4_09_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 4 HD Wallpaper: Apocalyptic Suburbia">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/600/600881.jpg' alt='Fallout 4 HD Wallpaper: Apocalyptic Suburbia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/600/600881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k screenshot/wallpaper from the Fallout 4 website. : r/xboxone">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/aF_YXexgFQ9jTfDau5RkyVY1O5s8GdqNTj5CWdjp9dg.jpg?auto=webp&s=1f3fc34eb830bc17f55a8d6fb58f1e627bb63d68' alt='4k screenshot/wallpaper from the Fallout 4 website. : r/xboxone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/aF_YXexgFQ9jTfDau5RkyVY1O5s8GdqNTj5CWdjp9dg.jpg?auto=webp&s=1f3fc34eb830bc17f55a8d6fb58f1e627bb63d68' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 4's concept art is wallpaper worthy | Polygon">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3791414/Fallout4_Concept_Garage_1434323462.0.jpg?quality=90&strip=all' alt='Fallout 4's concept art is wallpaper worthy | Polygon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3791414/Fallout4_Concept_Garage_1434323462.0.jpg?quality=90&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fallout 4 HD Wallpaper: Post-Apocalyptic Wasteland by digitalfrontiers">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/848/thumb-1920-848415.png' alt='Fallout 4 HD Wallpaper: Post-Apocalyptic Wasteland by digitalfrontiers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/848/thumb-1920-848415.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Game, Bethesda, Fallout 4 for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/37/fallout-4-game-bethesda.webp' alt='Wallpaper Game, Bethesda, Fallout 4 for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/37/fallout-4-game-bethesda.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Guide: 'Fallout 4' is game-of-the-year material">
+                                <img itemprop="contentUrl url" src='https://www.battlecreekenquirer.com/gcdn/-mm-/9a10d18443197ab9a2a837953a60ea6375b5467c/c=4-0-1916-1080/local/-/media/2015/12/01/MIGroup/BattleCreek/635845756104169683-Game-Review-Fallout-4.jpg' alt='Game Guide: 'Fallout 4' is game-of-the-year material'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1912">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Battle Creek Enquirer" />
+                                </span>
+                                <a href='https://www.battlecreekenquirer.com/gcdn/-mm-/9a10d18443197ab9a2a837953a60ea6375b5467c/c=4-0-1916-1080/local/-/media/2015/12/01/MIGroup/BattleCreek/635845756104169683-Game-Review-Fallout-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

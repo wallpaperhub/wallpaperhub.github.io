@@ -1,0 +1,129 @@
+<title>Stunning Purple Ombre Backgrounds for a Creative Touch</title>
+                    <meta name="description" content="Discover the beauty of purple ombre backgrounds! With graceful gradients from deep violet to light lavender, these designs add elegance and creativity to your projects. Ideal for web and social media, explore captivating visuals that enhance your aesthetic appeal and leave a lasting impression.">
+                    <meta name="keywords" content="purple ombre background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-ombre-background">
+                            <span itemprop="name">purple ombre background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Ombre Backgrounds for a Creative Touch</h1>
+                <p>A purple ombre background transitions elegantly from a deep violet to a light lavender, creating a soothing and visually appealing aesthetic. Perfect for web design, social media, or digital art, this gradient can evoke feelings of creativity, calmness, and luxury, making it a versatile choice for numerous applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' alt='Purple Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blurred-pink-tones-background_1102-31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images – Browse 46,322 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/45/32/00/360_F_545320068_7MuGBwVWBwO7rJmSwV4ICTXQfzbeuYdh.jpg' alt='Purple Ombre Background Images – Browse 46,322 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/45/32/00/360_F_545320068_7MuGBwVWBwO7rJmSwV4ICTXQfzbeuYdh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1288894676/photo/watercolor-light-blue-and-purple-ombre-background-painting-texture-multicolored-pastel-watery.jpg?s=612x612&w=0&k=20&c=lyad-325ukNMFHprDD2eHXeIIxsf7HQA1a94QZw4vXk=' alt='5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1288894676/photo/watercolor-light-blue-and-purple-ombre-background-painting-texture-multicolored-pastel-watery.jpg?s=612x612&w=0&k=20&c=lyad-325ukNMFHprDD2eHXeIIxsf7HQA1a94QZw4vXk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images – Browse 46,322 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/77/22/90/360_F_677229066_Bb48grnbq8Jxzbxx6upFL7CfjZcm57sX.jpg' alt='Purple Ombre Background Images – Browse 46,322 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/77/22/90/360_F_677229066_Bb48grnbq8Jxzbxx6upFL7CfjZcm57sX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light purple ombre background texture. Aquarelle ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/754/074/large_2x/watercolor-light-purple-ombre-background-texture-aquarelle-abstract-pastel-lavender-gradient-backdrop-photo.jpg' alt='Watercolor light purple ombre background texture. Aquarelle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2799">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/754/074/large_2x/watercolor-light-purple-ombre-background-texture-aquarelle-abstract-pastel-lavender-gradient-backdrop-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1400038187/photo/blue-purple-pink-abstract-background-gradient-elegant-lilac-background-with-space-for-design.jpg?s=612x612&w=0&k=20&c=CG_GW5Cp9PFAoF2bG0VkwPTYS-cH8aGtEbargtLmaTA=' alt='5,000+ Purple Ombre Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1400038187/photo/blue-purple-pink-abstract-background-gradient-elegant-lilac-background-with-space-for-design.jpg?s=612x612&w=0&k=20&c=CG_GW5Cp9PFAoF2bG0VkwPTYS-cH8aGtEbargtLmaTA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/background-gradient-lights_23-2149305017.jpg?semt=ais_hybrid' alt='Purple Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/background-gradient-lights_23-2149305017.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ombre Backgrounds · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2022/12/21/Purple-Ombre-Backgrounds-53707791-1.png' alt='Purple Ombre Backgrounds · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2022/12/21/Purple-Ombre-Backgrounds-53707791-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Purple Ombre Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/35/20/633520442259b891a46638beaf1475ed.jpg' alt='55+ Purple Ombre Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/35/20/633520442259b891a46638beaf1475ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Ombre Background Stock Illustrations – 1,360 Dark ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-watercolor-background-gradient-light-purple-lilac-to-dark-blue-ink-ombre-hand-drawn-illustration-texture-paper-164409422.jpg' alt='Dark Purple Ombre Background Stock Illustrations – 1,360 Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-watercolor-background-gradient-light-purple-lilac-to-dark-blue-ink-ombre-hand-drawn-illustration-texture-paper-164409422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

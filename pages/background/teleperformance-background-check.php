@@ -1,0 +1,129 @@
+<title>Understanding Teleperformance’s Background Check Process</title>
+                    <meta name="description" content="Explore the essentials of the Teleperformance background check process. Learn what to expect, the key checks involved, and how to prepare for a smooth application experience. Stay informed to boost your chances of landing a job with one of the leading global customer experience providers.">
+                    <meta name="keywords" content="teleperformance background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/teleperformance-background-check">
+                            <span itemprop="name">teleperformance background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Teleperformance’s Background Check Process</h1>
+                <p>Teleperformance conducts thorough background checks for prospective employees to ensure a safe and secure working environment. This process may include verification of employment history, education, and criminal records. Understanding the background check process can help applicants prepare and increase their chances of success.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' alt='So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips for Getting a Job with a Criminal Background">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7228701245190507818&location=0&aid=1988' alt='Tips for Getting a Job with a Criminal Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7228701245190507818&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Ling for Teleperformance Background Check | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7174882986679192874&location=0&aid=1988' alt='How Ling for Teleperformance Background Check | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7174882986679192874&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Teleperformance drug test or do a background check ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/teleperformance/questions/3784124/does-teleperformance-drug-test-or-do-a-background-check' alt='Does Teleperformance drug test or do a background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/teleperformance/questions/3784124/does-teleperformance-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failing a background check for employment due to a felony conviction. Where  can I work? What can I do? #felonyrecord #backgroundcheck #jobmarket  #federalcourt #convictedfelons #hiringfelons ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7413170464614272302&location=0&aid=1988' alt='Failing a background check for employment due to a felony conviction. Where  can I work? What can I do? #felonyrecord #backgroundcheck #jobmarket  #federalcourt #convictedfelons #hiringfelons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7413170464614272302&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you have a bacground this is a oistbof comonaies who are willing to gove  you a chance #hiringimmediately #remotework #jobsearch  #jobsesearchwithfelonybackground">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7332511779718892846&location=0&aid=1988' alt='If you have a bacground this is a oistbof comonaies who are willing to gove  you a chance #hiringimmediately #remotework #jobsearch  #jobsesearchwithfelonybackground'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7332511779718892846&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anybody know if teleperformance does background checks I just ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1306146764031664' alt='Does anybody know if teleperformance does background checks I just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1306146764031664' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Teleperformance hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-teleperformance-hire-felons.webp' alt='Does Teleperformance hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-teleperformance-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Working At Teleperformance - Ask a Question | Comparably">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/teleperformance/questions' alt='Working At Teleperformance - Ask a Question | Comparably'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/teleperformance/questions' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Senture/Teleperformance…. Applied 11/14 Assessment 11/19 Received ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1507481213245339' alt='Senture/Teleperformance…. Applied 11/14 Assessment 11/19 Received ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1507481213245339' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

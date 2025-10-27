@@ -1,0 +1,129 @@
+<title>Gold and White Striped Wallpaper: Elegance Redefined</title>
+                    <meta name="description" content="Add a touch of luxury to your home with gold and white striped wallpaper. Ideal for creating a sophisticated atmosphere, this stunning design brightens your space while making a bold statement. Perfect for any room, easily elevate your décor with this chic, eye-catching wallpaper!">
+                    <meta name="keywords" content="gold and white striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/gold-and-white-striped-wallpaper">
+                            <span itemprop="name">gold and white striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gold and White Striped Wallpaper: Elegance Redefined</h1>
+                <p>Transform your space with stunning gold and white striped wallpaper. This elegant design adds a touch of luxury and sophistication to any room. Perfect for accent walls or entire spaces, the shimmering gold stripes create a warm glow, while the crisp white backdrop enhances brightness. Elevate your décor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Stripes - Ventnor - Gold">
+                                <img itemprop="contentUrl url" src='http://summergray.com/cdn/shop/products/thingold_gray.jpg?v=1647070603' alt='Wallpaper Stripes - Ventnor - Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Summer Gray" />
+                                </span>
+                                <a href='http://summergray.com/cdn/shop/products/thingold_gray.jpg?v=1647070603' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and White Stripes Wallpaper | happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-179pattern-d.jpg?w=2560&h=1280&fit=min&auto=format&crop=bottom%2Ccenter&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelk1TnpRMUx6WTVOelExTFhCaGRIUmxjbTR0TlRBdE1USXdNREF0TmpBd01DMDBNREF1YW5CblAzSmxZM1E5TUN3d0xETTNOVEFzTVRnM05TWjNQVEkxTmpBbWFEMHhNamd3Sm1acGREMWpjbTl3Sm1OeWIzQTlZbTkwZEc5dEptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT0wJmJsZW5kLXg9MA%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTE3OXBhdHRlcm4tZC5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmF1dG89Zm9ybWF0JmNyb3A9Ym90dG9tJTJDY2VudGVy&mark-x=0&mark-y=0' alt='Gold and White Stripes Wallpaper | happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-179pattern-d.jpg?w=2560&h=1280&fit=min&auto=format&crop=bottom%2Ccenter&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelk1TnpRMUx6WTVOelExTFhCaGRIUmxjbTR0TlRBdE1USXdNREF0TmpBd01DMDBNREF1YW5CblAzSmxZM1E5TUN3d0xETTNOVEFzTVRnM05TWjNQVEkxTmpBbWFEMHhNamd3Sm1acGREMWpjbTl3Sm1OeWIzQTlZbTkwZEc5dEptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT0wJmJsZW5kLXg9MA%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTE3OXBhdHRlcm4tZC5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmF1dG89Zm9ybWF0JmNyb3A9Ym90dG9tJTJDY2VudGVy&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripped Wallpaper Peel and Stick Classic Gold Stripes Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16895977/r/il/41ad5c/3916422415/il_570xN.3916422415_66hg.jpg' alt='Stripped Wallpaper Peel and Stick Classic Gold Stripes Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16895977/r/il/41ad5c/3916422415/il_570xN.3916422415_66hg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Stripes by SK Filson - Gold - Wallpaper - SK10044">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/162528/tiled/sk-filson-textured-stripes-gold-wallpaper-tiled-162528.jpg' alt='Textured Stripes by SK Filson - Gold - Wallpaper - SK10044'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/162528/tiled/sk-filson-textured-stripes-gold-wallpaper-tiled-162528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dillan Stripe Wallpaper Cream / Gold Holden 12761">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/h/l/hld156_dillan_stripe_wallpaper_cream_gold_ae2.jpg' alt='Dillan Stripe Wallpaper Cream / Gold Holden 12761'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/h/l/hld156_dillan_stripe_wallpaper_cream_gold_ae2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kravet Dot Stripe Gold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/2071709253699_e55b3bab-7670-475a-b426-1d36fb8f6eb0.jpg?v=1671132810' alt='Kravet Dot Stripe Gold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/2071709253699_e55b3bab-7670-475a-b426-1d36fb8f6eb0.jpg?v=1671132810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold White Stripe Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/2423915/p/f/m/uHYQdJvu3_nY9XRDhxkQ8zxs__fLbK27jVnWjz0gGCQzxjUko67kKsbZ/Gold%20Dust%20Metallic%20Stripe.jpg' alt='Gold White Stripe Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/2423915/p/f/m/uHYQdJvu3_nY9XRDhxkQ8zxs__fLbK27jVnWjz0gGCQzxjUko67kKsbZ/Gold%20Dust%20Metallic%20Stripe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lelandswallpaper.com/wp-content/uploads/2017/01/SD36109-Patton-Wallcoverings-Stripes-Damasks-3-Classic-Stripe-Wallpaper-Roomset.jpg' alt='Classic Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://lelandswallpaper.com/wp-content/uploads/2017/01/SD36109-Patton-Wallcoverings-Stripes-Damasks-3-Classic-Stripe-Wallpaper-Roomset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q QIHANG European Modern Minimalist Country Stripe Wallpaper Roll for  Living Room Bedroom Tv Backdrop Wall Beige Color - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61R5S3geX+L.jpg' alt='Q QIHANG European Modern Minimalist Country Stripe Wallpaper Roll for  Living Room Bedroom Tv Backdrop Wall Beige Color - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61R5S3geX+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold And White Stripes Wallpaper Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-11-d-pattern.jpg?w=2560&h=1280&fit=min&auto=format&crop=bottom%2Ccenter&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelk1TnpRMUx6WTVOelExTFhCaGRIUmxjbTR0TlRBdE1USXdNREF0TmpBd01DMDBNREF1YW5CblAzSmxZM1E5TUN3d0xEazNNVGdzTkRnMU9TWjNQVEkxTmpBbWFEMHhNamd3Sm1acGREMWpjbTl3Sm1OeWIzQTlZbTkwZEc5dEptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXdKbkU5T1RrJTNEJmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MTM1JmJsZW5kLXg9NDAw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTExLWQtcGF0dGVybi5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmF1dG89Zm9ybWF0JmNyb3A9Ym90dG9tJTJDY2VudGVy&mark-x=0&mark-y=0' alt='Gold And White Stripes Wallpaper Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-11-d-pattern.jpg?w=2560&h=1280&fit=min&auto=format&crop=bottom%2Ccenter&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelk1TnpRMUx6WTVOelExTFhCaGRIUmxjbTR0TlRBdE1USXdNREF0TmpBd01DMDBNREF1YW5CblAzSmxZM1E5TUN3d0xEazNNVGdzTkRnMU9TWjNQVEkxTmpBbWFEMHhNamd3Sm1acGREMWpjbTl3Sm1OeWIzQTlZbTkwZEc5dEptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXdKbkU5T1RrJTNEJmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MTM1JmJsZW5kLXg9NDAw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTExLWQtcGF0dGVybi5wbmc_dz0yNTYwJmg9MTI4MCZmaXQ9bWluJmF1dG89Zm9ybWF0JmNyb3A9Ym90dG9tJTJDY2VudGVy&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

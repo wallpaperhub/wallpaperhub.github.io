@@ -1,0 +1,129 @@
+<title>Eartha Kitt: Iconic Singer and Activist</title>
+                    <meta name="description" content="Discover the life of Eartha Kitt, the legendary singer and actress known for her distinct voice and passion for social justice. Explore her trailblazing career, hit songs, and impact on civil rights in this concise overview of her remarkable contributions to music and activism.">
+                    <meta name="keywords" content="eartha kitt">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eartha-kitt">
+                            <span itemprop="name">eartha kitt</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eartha Kitt: Iconic Singer and Activist</h1>
+                <p>Eartha Kitt, the iconic American singer, actress, and civil rights activist, captivated audiences with her unique voice and dramatic flair. Best known for her sultry rendition of "Santa Baby," Kitt's career spanned over six decades. She broke barriers in the entertainment industry, becoming a powerful advocate for social justice and equality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjAwNDIwMDI0M15BMl5BanBnXkFtZTgwMDQyMjIxMTE@._V1_.jpg' alt='Eartha Kitt - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjAwNDIwMDI0M15BMl5BanBnXkFtZTgwMDQyMjIxMTE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/98/Eartha_Kitt_visit_to_Israel_%28997009326916805171%29_%28cropped%29.jpg' alt='Eartha Kitt - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/98/Eartha_Kitt_visit_to_Israel_%28997009326916805171%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt | Biography, Songs, Catwoman, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/29/1929-004-CFBDBA7E/Eartha-Kitt.jpg' alt='Eartha Kitt | Biography, Songs, Catwoman, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/29/1929-004-CFBDBA7E/Eartha-Kitt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Carolina Superheroes: Eartha Kitt | South Carolina State Museum">
+                                <img itemprop="contentUrl url" src='https://scmuseum.org/sites/default/files/styles/wysiwyg/public/wp_uploads/Eartha_Kitt_Catwoman_Batman_1967-e1549654073247.jpg?itok=pQTNvHuS' alt='South Carolina Superheroes: Eartha Kitt | South Carolina State Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="871">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Carolina State Museum" />
+                                </span>
+                                <a href='https://scmuseum.org/sites/default/files/styles/wysiwyg/public/wp_uploads/Eartha_Kitt_Catwoman_Batman_1967-e1549654073247.jpg?itok=pQTNvHuS' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt | PlayStation Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/playstation/images/e/e8/Eartha_Kitt.jpg/revision/latest?cb=20210227194342' alt='Eartha Kitt | PlayStation Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/playstation/images/e/e8/Eartha_Kitt.jpg/revision/latest?cb=20210227194342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/65takhbaw358/attlxU8EB3PByEb03/b1937e94a80ec4d983ecb0274b115d57/17_EX.REG.405.4.53-web.jpg' alt='Eartha Kitt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2104">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regeneration: Black Cinema" />
+                                </span>
+                                <a href='https://images.ctfassets.net/65takhbaw358/attlxU8EB3PByEb03/b1937e94a80ec4d983ecb0274b115d57/17_EX.REG.405.4.53-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black History Month: Nikki Renée Daniels Remembers the Iconic ...">
+                                <img itemprop="contentUrl url" src='https://boston.broadway.com/wp-content/uploads/2021/02/119325-1.jpg' alt='Black History Month: Nikki Renée Daniels Remembers the Iconic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1475">
+                                <meta itemprop="height" content="2061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway In Boston" />
+                                </span>
+                                <a href='https://boston.broadway.com/wp-content/uploads/2021/02/119325-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt's Empowering Performance as Catwoman Turned a Short ...">
+                                <img itemprop="contentUrl url" src='https://www.tvguide.com/a/img/hub/2020/02/11/bc779e82-6910-4dcc-8969-30b5e143b0a5/200211-earth-kitt-catwoman-call-premium.jpg' alt='Eartha Kitt's Empowering Performance as Catwoman Turned a Short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Guide" />
+                                </span>
+                                <a href='https://www.tvguide.com/a/img/hub/2020/02/11/bc779e82-6910-4dcc-8969-30b5e143b0a5/200211-earth-kitt-catwoman-call-premium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt | Batman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/batman/images/e/e8/Eartha_Kitt.jpg/revision/latest?cb=20210702161849' alt='Eartha Kitt | Batman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/batman/images/e/e8/Eartha_Kitt.jpg/revision/latest?cb=20210702161849' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eartha Kitt's Daughter Says Her Late Mom Left Her "The Ability to ...">
+                                <img itemprop="contentUrl url" src='https://www.closerweekly.com/wp-content/uploads/2018/01/kitt-and-eartha-opening-night.jpg?fit=2048%2C1452&quality=86&strip=all' alt='Eartha Kitt's Daughter Says Her Late Mom Left Her "The Ability to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Closer Weekly" />
+                                </span>
+                                <a href='https://www.closerweekly.com/wp-content/uploads/2018/01/kitt-and-eartha-opening-night.jpg?fit=2048%2C1452&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

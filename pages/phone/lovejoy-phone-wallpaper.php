@@ -1,0 +1,129 @@
+<title>Lovejoy Phone Wallpapers: Aesthetic Designs for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lovejoy phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/lovejoy-phone-wallpaper">
+                            <span itemprop="name">lovejoy phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lovejoy Phone Wallpapers: Aesthetic Designs for Your Device</h1>
+                <p>Discover stunning Lovejoy phone wallpapers that capture the essence of your favorite band. Transform your device with vibrant designs featuring lyrics, artwork, and iconic moments from Lovejoy's music. These wallpapers not only enhance your screen but also let you showcase your passion for this amazing band every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="love joy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/59/ef/6c/59ef6c036a21d93d74fe36ed2070af29.jpg' alt='love joy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/59/ef/6c/59ef6c036a21d93d74fe36ed2070af29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lovejoy EP wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/ec/bd/4becbd06bcf8a5e063e34850ae25ee31.jpg' alt='lovejoy EP wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/ec/bd/4becbd06bcf8a5e063e34850ae25ee31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebble brain lovejoy, wilbur soot, pebble brain, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/887/HD-wallpaper-pebble-brain-lovejoy-wilbur-soot-pebble-brain.jpg' alt='Pebble brain lovejoy, wilbur soot, pebble brain, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/887/HD-wallpaper-pebble-brain-lovejoy-wilbur-soot-pebble-brain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wake Up & It's Over” Lovejoy Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b5/86/59/b58659fec2f320e950904565146e4f87.jpg' alt='Wake Up & It's Over” Lovejoy Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b5/86/59/b58659fec2f320e950904565146e4f87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovejoy Pebble Brain, electric blue, beak, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/736/327/HD-wallpaper-lovejoy-pebble-brain-electric-blue-beak.jpg' alt='Lovejoy Pebble Brain, electric blue, beak, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/736/327/HD-wallpaper-lovejoy-pebble-brain-electric-blue-beak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovejoy wallpaper :D">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/44/a9/4644a9073506b8727faf38994c4d212c.jpg' alt='Lovejoy wallpaper :D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/44/a9/4644a9073506b8727faf38994c4d212c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Really cool Lovejoy wallpaper :D by Astro_Not_Here15 -- Fur ...">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/astronothere15/1664155663/1664155663.astronothere15_untitled101_20220925160218.jpg' alt='Really cool Lovejoy wallpaper :D by Astro_Not_Here15 -- Fur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/astronothere15/1664155663/1664155663.astronothere15_untitled101_20220925160218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovejoy album cover, album cover, wilbur soot, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/568/3/HD-wallpaper-lovejoy-album-cover-album-cover-wilbur-soot.jpg' alt='Lovejoy album cover, album cover, wilbur soot, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/568/3/HD-wallpaper-lovejoy-album-cover-album-cover-wilbur-soot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pebblebrain | Lovejoy iPhone Wallpaper by SlothSketches on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e711f5cc-2d7f-42d2-aa0f-b84f6c4f83d2/df6g62j-8c978ef7-1e78-4c38-8fc6-204da52a8c01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3MTFmNWNjLTJkN2YtNDJkMi1hYTBmLWI4NGY2YzRmODNkMlwvZGY2ZzYyai04Yzk3OGVmNy0xZTc4LTRjMzgtOGZjNi0yMDRkYTUyYThjMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dlb3gBLb8gOOYeeYbwPVI1NRkKWEzyaQAqX0NPzwGEs' alt='Pebblebrain | Lovejoy iPhone Wallpaper by SlothSketches on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e711f5cc-2d7f-42d2-aa0f-b84f6c4f83d2/df6g62j-8c978ef7-1e78-4c38-8fc6-204da52a8c01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3MTFmNWNjLTJkN2YtNDJkMi1hYTBmLWI4NGY2YzRmODNkMlwvZGY2ZzYyai04Yzk3OGVmNy0xZTc4LTRjMzgtOGZjNi0yMDRkYTUyYThjMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dlb3gBLb8gOOYeeYbwPVI1NRkKWEzyaQAqX0NPzwGEs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovejoy wallpaper by Eris47 - Download on ZEDGE™ | a541">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=CGLi2l1c5aFt86MkLSe1ARsYzhB6Snf-IRwF0XdcKPeK9YZYnqb6-ltRRuoOm_XIBlb3MmG0VXCOCBA8KLpFmdmpvXMfmhafzIRHhKXtDZXOy5IF4t-vP2PykPOuo2PaQ8RIomvDWJyBQfZiPE4zOqBZgL7KdnjV-8SoIARzGxNYXPmGAxbecIfVKUg0lGRthXwUthIss63C5m3ZKArOt4I1zJ6uFf4px1yQlxZdAsDBh1wc5kmgcTZc-9s' alt='Lovejoy wallpaper by Eris47 - Download on ZEDGE™ | a541'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=CGLi2l1c5aFt86MkLSe1ARsYzhB6Snf-IRwF0XdcKPeK9YZYnqb6-ltRRuoOm_XIBlb3MmG0VXCOCBA8KLpFmdmpvXMfmhafzIRHhKXtDZXOy5IF4t-vP2PykPOuo2PaQ8RIomvDWJyBQfZiPE4zOqBZgL7KdnjV-8SoIARzGxNYXPmGAxbecIfVKUg0lGRthXwUthIss63C5m3ZKArOt4I1zJ6uFf4px1yQlxZdAsDBh1wc5kmgcTZc-9s' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

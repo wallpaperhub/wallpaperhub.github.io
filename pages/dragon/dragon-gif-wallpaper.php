@@ -1,0 +1,129 @@
+<title>Stunning Dragon GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating dragon gif wallpapers that bring your screen to life. Perfect for fantasy lovers, these vibrant animations enhance your device's aesthetic with dynamic visuals. Elevate your wallpaper game and showcase your passion for mythical creatures today!">
+                    <meta name="keywords" content="dragon gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-gif-wallpaper">
+                            <span itemprop="name">dragon gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon GIF Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning dragon gif wallpapers! Immerse yourself in a world of fantasy as dynamic dragons come to life on your screen. Perfect for fans of mythical creatures, our collection offers vibrant animations that captivate and inspire. Update your background and unleash your imagination today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="image-4.gif (360×640)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/40/9d/44409db83eb02f015d6ea387df814962.gif' alt='image-4.gif (360×640)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/40/9d/44409db83eb02f015d6ea387df814962.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dragon gif animation">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/94/31/7e/94317e605a84bb4c3a2a2ad4170ccf7d.gif' alt='dragon gif animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/94/31/7e/94317e605a84bb4c3a2a2ad4170ccf7d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinese New Year GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/Z6RnypP25KNSEED434/giphy.gif?cid=6c09b952erlhs8lw1crnahh3qwaxj5l6huwr1r8qharfcepd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Chinese New Year GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/Z6RnypP25KNSEED434/giphy.gif?cid=6c09b952erlhs8lw1crnahh3qwaxj5l6huwr1r8qharfcepd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d9/55/dd/d955dd59340ba77b5cb26365761d0d1b.gif' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d9/55/dd/d955dd59340ba77b5cb26365761d0d1b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Dragons GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/AMhxzRcP0pMAAAAM/dragons.gif' alt='Cool Dragons GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/AMhxzRcP0pMAAAAM/dragons.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON GIF">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9e/7c/f4/9e7cf423cb9e1ee2c2d1c424403a3986.gif' alt='DRAGON GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9e/7c/f4/9e7cf423cb9e1ee2c2d1c424403a3986.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Dragon Animation">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/301/3012.gif' alt='Enchanted Dragon Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/301/3012.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Animations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/97/89/0b/97890b74e05fb55430837d96886820df.gif' alt='Best Animations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/97/89/0b/97890b74e05fb55430837d96886820df.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon Wallpaper GIF | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/white-dragon-wallpaper-wd53qhhm5141n5nf.gif' alt='White Dragon Wallpaper GIF | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/white-dragon-wallpaper-wd53qhhm5141n5nf.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::dragon-(dark fantasy)">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1796351166156793400/D584C1FAAB02F5EC6CDF21166031FBC89CEFB52D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::dragon-(dark fantasy)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1796351166156793400/D584C1FAAB02F5EC6CDF21166031FBC89CEFB52D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

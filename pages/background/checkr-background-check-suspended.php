@@ -1,0 +1,129 @@
+<title>Why Is My Checkr Background Check Suspended?</title>
+                    <meta name="description" content="Discover why your Checkr background check may be suspended and learn how to resolve it. Get insights into common reasons for suspension and tips to ensure a smooth background check process. Stay informed to maintain your application status!">
+                    <meta name="keywords" content="checkr background check suspended">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/checkr-background-check-suspended">
+                            <span itemprop="name">checkr background check suspended</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Is My Checkr Background Check Suspended?</h1>
+                <p>Checkr background checks can be suspended for several reasons, including discrepancies in the applicant's information, unresolved issues from previous checks, or compliance-related concerns. If your background check has been suspended, it's crucial to review the details, address any inaccuracies, and follow up with Checkr for clarification.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what does this mean? says suspended but can't do anything else to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qzhdyd8okhga1.jpg' alt='what does this mean? says suspended but can't do anything else to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qzhdyd8okhga1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help! My Checkr portal is suspended and I can't get anyone to help ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hvq9vbtvy9471.jpg' alt='Help! My Checkr portal is suspended and I can't get anyone to help ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hvq9vbtvy9471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help! My Checkr portal is suspended and I can't get anyone to help ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cn7qhctvy9471.jpg' alt='Help! My Checkr portal is suspended and I can't get anyone to help ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cn7qhctvy9471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Checkr Background Check Wrong? - We Can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84d409dfc7.webp' alt='Was Your Checkr Background Check Wrong? - We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84d409dfc7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using Checkr for Background Checks – People">
+                                <img itemprop="contentUrl url" src='https://pcopeople.zendesk.com/hc/article_attachments/30294072879643' alt='Using Checkr for Background Checks – People'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1282">
+                                <meta itemprop="height" content="1610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People - Zendesk" />
+                                </span>
+                                <a href='https://pcopeople.zendesk.com/hc/article_attachments/30294072879643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Something on my background check report is wrong. What should I do?">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr00000045nV&feoid=00NQr000002fF8Q&refid=0EMQr00000963Fl' alt='Something on my background check report is wrong. What should I do?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr00000045nV&feoid=00NQr000002fF8Q&refid=0EMQr00000963Fl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="please help! checkr report suspended : r/doordash">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/please-help-checkr-report-suspended-v0-hagal9klplsd1.jpg?width=4028&format=pjpg&auto=webp&s=32e50e26b3469b1a74345ad59c69ef2284319d6f' alt='please help! checkr report suspended : r/doordash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4028">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/please-help-checkr-report-suspended-v0-hagal9klplsd1.jpg?width=4028&format=pjpg&auto=webp&s=32e50e26b3469b1a74345ad59c69ef2284319d6f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've turned my life around and my background check report doesn't ...">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002hNR&feoid=00NQr000002fF8Q&refid=0EMQr00000963Iz' alt='I've turned my life around and my background check report doesn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002hNR&feoid=00NQr000002fF8Q&refid=0EMQr00000963Iz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understand and manage invitations">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr00000049hR&feoid=00NQr000002fF8Q&refid=0EMQr00000961nT' alt='Understand and manage invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr00000049hR&feoid=00NQr000002fF8Q&refid=0EMQr00000961nT' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using Checkr for Background Checks – People">
+                                <img itemprop="contentUrl url" src='https://pcopeople.zendesk.com/hc/article_attachments/30294063748379' alt='Using Checkr for Background Checks – People'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People - Zendesk" />
+                                </span>
+                                <a href='https://pcopeople.zendesk.com/hc/article_attachments/30294063748379' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The English Flag: Symbol of Heritage and Pride</title>
+                    <meta name="description" content="Discover the significance of the English flag, the St. George's Cross. Learn about its history, symbolism, and its important role in representing English identity at events and celebrations. Explore how this iconic emblem reflects the rich cultural heritage of England.">
+                    <meta name="keywords" content="english flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/english-flag">
+                            <span itemprop="name">english flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The English Flag: Symbol of Heritage and Pride</h1>
+                <p>The English flag, known as the St. George's Cross, features a bold red cross on a white background. It symbolizes courage and valor, honoring England's patron saint, St. George. The flag is a prominent emblem at sporting events, national celebrations, and cultural festivities, representing English heritage and pride.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Union Jack - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png' alt='Union Jack - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of England | Design, Colors & Meaning | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg' alt='Flag of England | Design, Colors & Meaning | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 3x5 British Flag with Two Brass Grommets 100% Polyester , UK  Flag , United Kingdom Flag , Union Jack Flags , English Flag England Flag  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71upJOywp1L.jpg' alt='Amazon.com : 3x5 British Flag with Two Brass Grommets 100% Polyester , UK  Flag , United Kingdom Flag , Union Jack Flags , English Flag England Flag  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2312">
+                                <meta itemprop="height" content="1647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71upJOywp1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoding the History: Understanding the Meaning of the UK Flag ...">
+                                <img itemprop="contentUrl url" src='https://pic.uhomes.com/onlineblog/cdn/uploads/2024/02/closeup-union-jack-flag.jpg' alt='Decoding the History: Understanding the Meaning of the UK Flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uhomes.com" />
+                                </span>
+                                <a href='https://pic.uhomes.com/onlineblog/cdn/uploads/2024/02/closeup-union-jack-flag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of the English Language : r/vexillology">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/vIV4IgbsTjC4Ahw0sC1_1HH2xt6fu6U-25-C6Prqqpw.png?auto=webp&s=e2499d2b09809fcbc6eee8208d0bdda5b748d409' alt='Flag of the English Language : r/vexillology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/vIV4IgbsTjC4Ahw0sC1_1HH2xt6fu6U-25-C6Prqqpw.png?auto=webp&s=e2499d2b09809fcbc6eee8208d0bdda5b748d409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DMSE King Edward III Historical Kingdom of England ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81WgHGCE3aL.jpg' alt='Amazon.com : DMSE King Edward III Historical Kingdom of England ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81WgHGCE3aL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:English language.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg' alt='File:English language.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENGLAND FLAG ST GEORGE CROSS 3x2 5x3 8x5 ft - UK FLAG SELLER">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/6BMAAOSw4MZfkXh0/s-l400.jpg' alt='ENGLAND FLAG ST GEORGE CROSS 3x2 5x3 8x5 ft - UK FLAG SELLER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/6BMAAOSw4MZfkXh0/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="England Flag Images – Browse 160,368 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/62/19/82/360_F_62198244_HcI4q6pS86tREeUYuseBfTzPP7nLaSPi.jpg' alt='England Flag Images – Browse 160,368 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/62/19/82/360_F_62198244_HcI4q6pS86tREeUYuseBfTzPP7nLaSPi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United Kingdom Great Britain Flag 4 x 6 Inch">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-e2nupsxogj/images/stencil/1280x1280/products/7369/40509/p1yumzqkhcjzmdj2ge3l__72848.1734321679.jpg?c=1' alt='United Kingdom Great Britain Flag 4 x 6 Inch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United States Flag Store" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-e2nupsxogj/images/stencil/1280x1280/products/7369/40509/p1yumzqkhcjzmdj2ge3l__72848.1734321679.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

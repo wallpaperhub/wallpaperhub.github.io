@@ -1,0 +1,129 @@
+<title>Export SVG with Transparent Background in Illustrator</title>
+                    <meta name="description" content="Learn how to easily export SVG files with a transparent background in Adobe Illustrator. Follow these simple steps to ensure your designs maintain their quality and transparency, perfect for web use and graphic projects!">
+                    <meta name="keywords" content="how to export svg with transparent background illustrator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-export-svg-with-transparent-background-illustrator">
+                            <span itemprop="name">how to export svg with transparent background illustrator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Export SVG with Transparent Background in Illustrator</h1>
+                <p>To export an SVG with a transparent background in Adobe Illustrator, open your artwork, and ensure the background is set to transparent. Navigate to File > Export > Export As, select SVG from the format dropdown, and check the ‘Transparent’ box under the background options. Click ‘OK’ to save your SVG seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to save your work as a SVG, and PNG file in Adobe Illustrator">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SfYi_EATvi8/maxresdefault.jpg' alt='How to save your work as a SVG, and PNG file in Adobe Illustrator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SfYi_EATvi8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply Transparency to SVGs">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6634a8f8dd9b2a63c9e6be83/66a1f139a805d1355d1da4ee_illustrator-export-screens.jpeg' alt='How to Apply Transparency to SVGs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dummies.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6634a8f8dd9b2a63c9e6be83/66a1f139a805d1355d1da4ee_illustrator-export-screens.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to save svg with transparent background in Illustrator">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/d7FOm6B0O44/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDMg6yQxaixJrFGaBxI9higFKYa9g' alt='How to save svg with transparent background in Illustrator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/d7FOm6B0O44/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDMg6yQxaixJrFGaBxI9higFKYa9g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White background added when exporting as SVG - Adobe Community ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/t5/image/serverpage/image-id/340409iE01E947AE21E718D/image-size/large/is-moderation-mode/true?v=v2&px=999' alt='White background added when exporting as SVG - Adobe Community ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/t5/image/serverpage/image-id/340409iE01E947AE21E718D/image-size/large/is-moderation-mode/true?v=v2&px=999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent background is trimmed in SVG export - Share an issue ...">
+                                <img itemprop="contentUrl url" src='https://europe1.discourse-cdn.com/flex013/uploads/sketch/original/2X/3/3c2c6f300f1d3f15cdf42dfbcd87eab5a464a868.png' alt='Transparent background is trimmed in SVG export - Share an issue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1236">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketch Community Forum" />
+                                </span>
+                                <a href='https://europe1.discourse-cdn.com/flex013/uploads/sketch/original/2X/3/3c2c6f300f1d3f15cdf42dfbcd87eab5a464a868.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SVG's exporting with white background. : r/AdobeIllustrator">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/svgs-exporting-with-white-background-v0-uo0cl0yy54yb1.png?width=3024&format=png&auto=webp&s=b6a0b1de6f8ebb64d962cbea0e51cdbcff625b67' alt='SVG's exporting with white background. : r/AdobeIllustrator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="1964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/svgs-exporting-with-white-background-v0-uo0cl0yy54yb1.png?width=3024&format=png&auto=webp&s=b6a0b1de6f8ebb64d962cbea0e51cdbcff625b67' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Export high-quality, optimized SVG">
+                                <img itemprop="contentUrl url" src='https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/export-svg/jcr_content/main-pars/image0/5286-export-svg-fig1.jpg' alt='Export high-quality, optimized SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/export-svg/jcr_content/main-pars/image0/5286-export-svg-fig1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Export SVGs For The Web From Illustrator | by Colin Lord ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:792/1*cjoh6wO_fD7Aix_MH6AYLQ.png' alt='How To Export SVGs For The Web From Illustrator | by Colin Lord ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:792/1*cjoh6wO_fD7Aix_MH6AYLQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SVG export with transparency">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dn_WrX8SDs8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZX9NaiaXwa9IsCQWL2oPIhjOz1w' alt='SVG export with transparency'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dn_WrX8SDs8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZX9NaiaXwa9IsCQWL2oPIhjOz1w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Different Ways of Getting SVG Out of Adobe Illustrator | CSS ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/11/svg-import-exportscreens.jpg?ssl=1' alt='The Different Ways of Getting SVG Out of Adobe Illustrator | CSS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/11/svg-import-exportscreens.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

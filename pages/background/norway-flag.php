@@ -1,0 +1,129 @@
+<title>Norway Flag: History, Colors, and Symbolism</title>
+                    <meta name="description" content="Explore the Norway flag's vibrant colors and deep symbolism. Discover how its design reflects the nation's Viking heritage and Christian roots, showcasing Norway's unique cultural identity and history in a simple yet powerful visual representation.">
+                    <meta name="keywords" content="norway flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/norway-flag">
+                            <span itemprop="name">norway flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Norway Flag: History, Colors, and Symbolism</h1>
+                <p>The Norway flag, featuring a red backdrop adorned with a blue cross outlined in white, symbolizes the country's rich Viking heritage and connection to Nordic culture. Each color has historical significance, representing the landscapes and history of Norway, while the cross reflects the nation's Christian heritage, uniting its people.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of Norway - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png' alt='Flag of Norway - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DMSE Norway Norwegian Scandinavian Cross Flag 2X3 Ft Foot 100%  Polyester 100D Flag UV Resistant (2' X 3' Ft Foot) : Patio, Lawn & Garden">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/615ShN7OODL.jpg' alt='Amazon.com : DMSE Norway Norwegian Scandinavian Cross Flag 2X3 Ft Foot 100%  Polyester 100D Flag UV Resistant (2' X 3' Ft Foot) : Patio, Lawn & Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/615ShN7OODL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Norway Flag Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520769669658-f07657f5a307?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm9yd2F5JTIwZmxhZ3xlbnwwfHwwfHx8MA%3D%3D' alt='1000+ Norway Flag Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520769669658-f07657f5a307?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm9yd2F5JTIwZmxhZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norway Flag">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a03c0/images/stencil/1280x1280/products/885/1261/norway__62217.1339610548.jpg?c=2' alt='Norway Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlagCenter.com" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a03c0/images/stencil/1280x1280/products/885/1261/norway__62217.1339610548.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norway Flag">
+                                <img itemprop="contentUrl url" src='https://www.usflags.com/cdn/shop/products/0002355_grande.jpg?v=1699068660' alt='Norway Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flags Unlimited" />
+                                </span>
+                                <a href='https://www.usflags.com/cdn/shop/products/0002355_grande.jpg?v=1699068660' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwegian Flag Etiquette | Sons of Norway">
+                                <img itemprop="contentUrl url" src='https://www.sofn.com/wp-content/uploads/2024/05/GettyImages-477401040.jpg' alt='Norwegian Flag Etiquette | Sons of Norway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sons of Norway" />
+                                </span>
+                                <a href='https://www.sofn.com/wp-content/uploads/2024/05/GettyImages-477401040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag: Norway | landscape flag | 1.35m² | 14.5sqft | 90x150cm | 3x5ft">
+                                <img itemprop="contentUrl url" src='https://media.magflags.net/media/catalog/product/cache/78ead0662930e105a85d1fa3f0325792/N/O/NO-1x1.66.png' alt='Flag: Norway | landscape flag | 1.35m² | 14.5sqft | 90x150cm | 3x5ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flags" />
+                                </span>
+                                <a href='https://media.magflags.net/media/catalog/product/cache/78ead0662930e105a85d1fa3f0325792/N/O/NO-1x1.66.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the blue with black and Norway's flag instantly becomes a ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/rwLKnu-7V03lkPQyvPEb-xXx_dO9-b5F6kByXglakPo.png?width=640&crop=smart&auto=webp&s=4115a90bb318e3aea54d65f550059de70ca9a345' alt='Change the blue with black and Norway's flag instantly becomes a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/rwLKnu-7V03lkPQyvPEb-xXx_dO9-b5F6kByXglakPo.png?width=640&crop=smart&auto=webp&s=4115a90bb318e3aea54d65f550059de70ca9a345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norway Flag Wallpaper Wall Mural by Magic Murals">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/g/l/glo-0000000097_dr.jpg' alt='Norway Flag Wallpaper Wall Mural by Magic Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/g/l/glo-0000000097_dr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AZ FLAG - Norway Flag - Large 5x8 Ft - 100D Polyester  Norwegian Big Banner with Two Metal Grommets - Fade Resistant - Vivid  Colors - 5' x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51R6mtWpGPL.jpg' alt='Amazon.com : AZ FLAG - Norway Flag - Large 5x8 Ft - 100D Polyester  Norwegian Big Banner with Two Metal Grommets - Fade Resistant - Vivid  Colors - 5' x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51R6mtWpGPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

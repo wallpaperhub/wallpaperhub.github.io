@@ -1,0 +1,129 @@
+<title>Essential Guide to Credential Checks</title>
+                    <meta name="description" content="Discover the importance of credential checks in hiring processes. Learn how they help verify qualifications, work history, and integrity to safeguard your organization. Ensure a trustworthy workplace with effective credential verification strategies. Perfect for employers and HR professionals seeking reliable hiring practices!">
+                    <meta name="keywords" content="credential check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/credential-check">
+                            <span itemprop="name">credential check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Credential Checks</h1>
+                <p>Credential check is a vital process in various sectors, ensuring that individuals possess the necessary qualifications and integrity for specific roles. It involves verifying educational backgrounds, work history, criminal records, and professional licenses. Effective credential checks protect organizations from fraud and enhance workplace safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CredentialCheck | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D1BAQEC_iGc2gFPOQ/company-background_10000/company-background_10000/0/1647461553883/credential_check_corporation_cover?e=2147483647&v=beta&t=ky6KSVcrPM94WSXQYRsOJHHIldpQj3Hnm7xB0ymhcB4' alt='CredentialCheck | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D1BAQEC_iGc2gFPOQ/company-background_10000/company-background_10000/0/1647461553883/credential_check_corporation_cover?e=2147483647&v=beta&t=ky6KSVcrPM94WSXQYRsOJHHIldpQj3Hnm7xB0ymhcB4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CredentialCheck | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQF1Yv1WxGyHAg/company-logo_200_200/company-logo_200_200/0/1666362662868/credential_check_corporation_logo?e=2147483647&v=beta&t=_zWs5Wt3jy0MXFn8zHYb8GGUCbpySzzzPWZCN5sZFYc' alt='CredentialCheck | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQF1Yv1WxGyHAg/company-logo_200_200/company-logo_200_200/0/1666362662868/credential_check_corporation_logo?e=2147483647&v=beta&t=_zWs5Wt3jy0MXFn8zHYb8GGUCbpySzzzPWZCN5sZFYc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Credentials of Financial Planners With These Tips">
+                                <img itemprop="contentUrl url" src='https://thesketchleymethod.com/wp-content/uploads/Check-credentials.jpg' alt='Check Credentials of Financial Planners With These Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sketchley Method" />
+                                </span>
+                                <a href='https://thesketchleymethod.com/wp-content/uploads/Check-credentials.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EPRMA">
+                                <img itemprop="contentUrl url" src='https://eprma.org/wp-content/uploads/2017/03/Credential-Credit-LOGO-300x250.jpg' alt='EPRMA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EPRMA" />
+                                </span>
+                                <a href='https://eprma.org/wp-content/uploads/2017/03/Credential-Credit-LOGO-300x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your Credential Background Check Wrong? - We can Help">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84cde760e2.webp' alt='Was Your Credential Background Check Wrong? - We can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84cde760e2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verifying employee credentials | Maine ALF Regulation">
+                                <img itemprop="contentUrl url" src='https://alfboss.com/wp-content/uploads/2021/04/Verifying-employee-credentials.png' alt='Verifying employee credentials | Maine ALF Regulation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ALF Boss" />
+                                </span>
+                                <a href='https://alfboss.com/wp-content/uploads/2021/04/Verifying-employee-credentials.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verified Credentials | Trusted Background Screening">
+                                <img itemprop="contentUrl url" src='https://verifiedcredentials.com/hubfs/Screening%20platform%20-%20Dashboard_Background%20Check%20Platform.svg' alt='Verified Credentials | Trusted Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="verifiedcredentials.com" />
+                                </span>
+                                <a href='https://verifiedcredentials.com/hubfs/Screening%20platform%20-%20Dashboard_Background%20Check%20Platform.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,000 Employees / 11 Locations">
+                                <img itemprop="contentUrl url" src='https://46128427.fs1.hubspotusercontent-na1.net/hubfs/46128427/CredentialCheckLogo2022_Primary-Full.jpg' alt='5,000 Employees / 11 Locations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4001">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Credential Check" />
+                                </span>
+                                <a href='https://46128427.fs1.hubspotusercontent-na1.net/hubfs/46128427/CredentialCheckLogo2022_Primary-Full.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credential Verification Done in Seconds">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6311eb97e2519f5dbb9ea0cb/631f7526f09bcf3b4b2e6209_3-certificate%20fraud-issuer%2C%20holder%2C%20verifier.jpeg' alt='Credential Verification Done in Seconds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dock.io" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6311eb97e2519f5dbb9ea0cb/631f7526f09bcf3b4b2e6209_3-certificate%20fraud-issuer%2C%20holder%2C%20verifier.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credential Check – Identeco">
+                                <img itemprop="contentUrl url" src='https://identeco.de/en/images/products/explainers/credential_check.svg' alt='Credential Check – Identeco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Identeco" />
+                                </span>
+                                <a href='https://identeco.de/en/images/products/explainers/credential_check.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

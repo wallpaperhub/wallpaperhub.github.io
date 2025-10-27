@@ -1,0 +1,129 @@
+<title>Adorable Cute Mario Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of adorable cute Mario wallpapers, ideal for gamers and fans alike! Brighten your device with charming designs and fun scenes featuring Mario and friends. Perfect for adding a touch of whimsy to your screen, these wallpapers are a must-have for any Mario enthusiast!">
+                    <meta name="keywords" content="cute mario wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-mario-wallpaper">
+                            <span itemprop="name">cute mario wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Mario Wallpapers for Fans</h1>
+                <p>Bring your gaming space to life with adorable cute Mario wallpapers! Perfect for fans of all ages, these vibrant designs feature everyone’s favorite plumber in delightful, whimsical scenes. Whether on your phone or desktop, these wallpapers will spark joy and nostalgia, transforming your screen into a fun Mario-themed haven!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Cute Mario Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs_2t/11517.png' alt='4K Cute Mario Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs_2t/11517.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Parody Wallpapers: Discover The Mario Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molang_wallpaper_mario_576x1024.jpg?v=1656072807' alt='Molang Parody Wallpapers: Discover The Mario Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molang_wallpaper_mario_576x1024.jpg?v=1656072807' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Super Mario Wallpapers ideas | super mario, mario, mario art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1a/48/1d/1a481d30b6c22a517416dcd6ca5ffc3e.jpg' alt='130 Super Mario Wallpapers ideas | super mario, mario, mario art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1a/48/1d/1a481d30b6c22a517416dcd6ca5ffc3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Wallpaper Movie Toad, Peach, Kids Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/51bca0/5722157496/il_fullxfull.5722157496_cr9k.jpg' alt='Super Mario Bros Wallpaper Movie Toad, Peach, Kids Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/51bca0/5722157496/il_fullxfull.5722157496_cr9k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="princess #peach #super #mario #supermario #gaming #geek #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/65/6b/28656bea5dca272e6e493fc88c34ed5e.jpg' alt='princess #peach #super #mario #supermario #gaming #geek #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/65/6b/28656bea5dca272e6e493fc88c34ed5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Wallpaper 4K, Cute Mario, Purple background, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/super-mario-cute-2160x3840-11517.png' alt='Super Mario Wallpaper 4K, Cute Mario, Purple background, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/super-mario-cute-2160x3840-11517.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mario Wallpaper I put together with different sprites : r/Mario">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5j89jyqeijj91.png' alt='Cute Mario Wallpaper I put together with different sprites : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5j89jyqeijj91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo just shared super cute Mario and Yoshi wallpaper art">
+                                <img itemprop="contentUrl url" src='https://www.destructoid.com/wp-content/uploads/2023/08/Nintendo-just-shared-super-cute-Mario-and-Yoshi-wallpaper-art.jpg' alt='Nintendo just shared super cute Mario and Yoshi wallpaper art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destructoid" />
+                                </span>
+                                <a href='https://www.destructoid.com/wp-content/uploads/2023/08/Nintendo-just-shared-super-cute-Mario-and-Yoshi-wallpaper-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Mario Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12306384.jpg' alt='Cute Mario Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12306384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario cute Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5b/03/da/5b03da10f0244c1445750d94087c8602.jpg' alt='Super Mario cute Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5b/03/da/5b03da10f0244c1445750d94087c8602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

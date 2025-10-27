@@ -1,0 +1,129 @@
+<title>Light Floral Wallpaper: Elegant Decor for Every Room</title>
+                    <meta name="description" content="Transform your space with light floral wallpaper! Discover how its soft patterns can brighten and enhance any room's ambiance. Perfect for creating a serene environment, explore designs that suit your style today!">
+                    <meta name="keywords" content="light floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/light-floral-wallpaper">
+                            <span itemprop="name">light floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Floral Wallpaper: Elegant Decor for Every Room</h1>
+                <p>Light floral wallpaper brings a breath of fresh air into any space, creating a serene and inviting atmosphere. Its delicate patterns and soft hues enhance the beauty of your rooms, making them feel more spacious and bright. Ideal for bedrooms, living rooms, or nurseries, it complements various decor styles effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Mist Peel-and-Stick Luxe Haven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' alt='Floral Mist Peel-and-Stick Luxe Haven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lillian August" />
+                                </span>
+                                <a href='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Vintage Wallpaper Peel and Stick Modern Floral Wall Paper  Wildflowers Botanical Contact Paper Removable Renter Friendly Wallpaper  480" x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81llVUNHR1L.jpg' alt='Simon&Siff Vintage Wallpaper Peel and Stick Modern Floral Wall Paper  Wildflowers Botanical Contact Paper Removable Renter Friendly Wallpaper  480" x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81llVUNHR1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mythic Light Grey Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/2904-24320_589f8fe0-bac7-4637-9fd2-5519c52df420_720x.jpg?v=1687894054' alt='Mythic Light Grey Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/2904-24320_589f8fe0-bac7-4637-9fd2-5519c52df420_720x.jpg?v=1687894054' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anemone Light Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/files/2948-33000_b9252cc5-7750-4fce-9990-ba4c4ae4c4b3.jpg?v=1722373032&width=2400' alt='Anemone Light Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/files/2948-33000_b9252cc5-7750-4fce-9990-ba4c4ae4c4b3.jpg?v=1722373032&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Glinda Light Yellow Floral Trail Wallpaper Sample 3122-10903SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/807037e2-8567-4575-87c1-c830f94424a1/svn/chesapeake-wallpaper-samples-3122-10903sam-64_600.jpg' alt='Chesapeake Glinda Light Yellow Floral Trail Wallpaper Sample 3122-10903SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/807037e2-8567-4575-87c1-c830f94424a1/svn/chesapeake-wallpaper-samples-3122-10903sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eijffinger 316020 Zahara Light Grey Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/242498.jpg' alt='Eijffinger 316020 Zahara Light Grey Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/242498.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nami White Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' alt='Nami White Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/nami-white-floral-wallpaper-ucno-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4080-15912 Lizette Light Blue Charming Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/4080-15912LizetteLightBlueCharmingFloralWallpaper.jpg?v=1675120611' alt='4080-15912 Lizette Light Blue Charming Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/4080-15912LizetteLightBlueCharmingFloralWallpaper.jpg?v=1675120611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in X 23ft Removable Aesthetic Floral Wallpaper Pink Peel  and Stick Renter Friendly Wall Paper Waterproof Self Adhesive Contact Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qi3J1Mg7L.jpg' alt='ReWallpaper 17.5in X 23ft Removable Aesthetic Floral Wallpaper Pink Peel  and Stick Renter Friendly Wall Paper Waterproof Self Adhesive Contact Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qi3J1Mg7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

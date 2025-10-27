@@ -1,0 +1,129 @@
+<title>Fortnite Llama Wallpaper: Color Your Device!</title>
+                    <meta name="description" content="Enhance your device's look with our Fortnite Llama wallpaper! Featuring vibrant colors and iconic designs, this wallpaper is perfect for every Fortnite fan. Download now and bring your favorite game to your screens!">
+                    <meta name="keywords" content="wallpaper fortnite llama">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/wallpaper-fortnite-llama">
+                            <span itemprop="name">wallpaper fortnite llama</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fortnite Llama Wallpaper: Color Your Device!</h1>
+                <p>Discover the vibrant world of Fortnite with our amazing wallpaper featuring the iconic Llama! Perfect for fans of the game, this wallpaper combines stunning graphics and engaging colors to bring your device to life. Whether you're decorating your computer or mobile, the Fortnite Llama wallpaper is a must-have for every gamer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Fortnite ideas | fortnite, epic games fortnite, gaming wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c1/d7/96/c1d79674eaf960bad792dc90b516c344.jpg' alt='12 Fortnite ideas | fortnite, epic games fortnite, gaming wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c1/d7/96/c1d79674eaf960bad792dc90b516c344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Llama! Wallpaper : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/973c5eoyo6911.jpg?width=1920&format=pjpg&auto=webp&s=e868de897c8dcb7f61510640d9e52ac63b07c394' alt='Llama! Wallpaper : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/973c5eoyo6911.jpg?width=1920&format=pjpg&auto=webp&s=e868de897c8dcb7f61510640d9e52ac63b07c394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Fortnite Lama Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/74/c0/f274c01f191ceb4e2e42b16c7db799cd.jpg' alt='Awesome Fortnite Lama Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/74/c0/f274c01f191ceb4e2e42b16c7db799cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Llama Wallpaper by LukxXros">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/943/943165.jpg' alt='Fortnite Llama Wallpaper by LukxXros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/943/943165.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Llama! Wallpaper : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i9rqh35wm6911.jpg?width=1077&format=pjpg&auto=webp&s=52378f08da37ce7b792c0065c7294cff1288c8a5' alt='Llama! Wallpaper : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1077">
+                                <meta itemprop="height" content="1914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i9rqh35wm6911.jpg?width=1077&format=pjpg&auto=webp&s=52378f08da37ce7b792c0065c7294cff1288c8a5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Llama, fortnite, gaming, llama, manpie, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/36/70/HD-wallpaper-fortnite-llama-fortnite-gaming-llama-manpie.jpg' alt='Fortnite Llama, fortnite, gaming, llama, manpie, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/36/70/HD-wallpaper-fortnite-llama-fortnite-gaming-llama-manpie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Llama 4K Wallpaper #3.461">
+                                <img itemprop="contentUrl url" src='https://image3.uhdpaper.com/wallpaper/fortnite-llama-loading-screen-uhdpaper.com-4K-3.461.jpg' alt='Fortnite Llama 4K Wallpaper #3.461'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image3.uhdpaper.com/wallpaper/fortnite-llama-loading-screen-uhdpaper.com-4K-3.461.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Llama Wallpaper! | Fortnite Pro Club">
+                                <img itemprop="contentUrl url" src='https://fortniteproclub.home.blog/wp-content/uploads/2018/12/dawsonr12_46257758_901378370253111_8624757478571336001_n.jpg?w=640' alt='Fortnite Llama Wallpaper! | Fortnite Pro Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite Pro Club" />
+                                </span>
+                                <a href='https://fortniteproclub.home.blog/wp-content/uploads/2018/12/dawsonr12_46257758_901378370253111_8624757478571336001_n.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Llama Wallpaper by LukxXros">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/943/943171.jpg' alt='Fortnite Llama Wallpaper by LukxXros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/943/943171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="llama-pajamas - Fortnite">
+                                <img itemprop="contentUrl url" src='https://cdn2.unrealengine.com/t-ui-creatorprofile-banner-fallbackerror-1920x1080-3f830cc95018.png' alt='llama-pajamas - Fortnite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn2.unrealengine.com/t-ui-creatorprofile-banner-fallbackerror-1920x1080-3f830cc95018.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

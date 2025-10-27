@@ -1,0 +1,129 @@
+<title>American Red Cross Wallpaper | Inspire Hope & Community</title>
+                    <meta name="description" content="Explore American Red Cross wallpaper to bring inspiration and compassion into your space. Perfect for personal or professional areas, these designs celebrate the spirit of community service. Transform your walls with meaningful visuals that promote preparedness and aid. Ideal for any setting!">
+                    <meta name="keywords" content="american red cross wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/american-red-cross-wallpaper">
+                            <span itemprop="name">american red cross wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>American Red Cross Wallpaper | Inspire Hope & Community</h1>
+                <p>Decorate your space with American Red Cross wallpaper, symbolizing compassion and service. Ideal for home or office, these designs inspire hope and community spirit. Choose from various styles that reflect the mission of aiding others in times of need. Make your wall a reminder of the strength of humanity and preparedness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:American Red Cross logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/be/American_Red_Cross_logo.png' alt='File:American Red Cross logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/be/American_Red_Cross_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,253 Red Cross Symbol Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/641963368/photo/red-cross-on-blurred-greyish-background.jpg?s=612x612&w=gi&k=20&c=bINNi5XKxpw9HhaXD-gKJMKSZS9-IsFbt7luR9m9KMI=' alt='11,253 Red Cross Symbol Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/641963368/photo/red-cross-on-blurred-greyish-background.jpg?s=612x612&w=gi&k=20&c=bINNi5XKxpw9HhaXD-gKJMKSZS9-IsFbt7luR9m9KMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Red Cross Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1678228914929-db91370522b3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlZCUyMGNyb3NzfGVufDB8fDB8fHww' alt='100+ Red Cross Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1678228914929-db91370522b3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlZCUyMGNyb3NzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Red Cross Logo Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/10780/FreeVector-American-Red-Cross-1.jpg' alt='American Red Cross Logo Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/10780/FreeVector-American-Red-Cross-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Red Cross Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11402762/p/f/m/5YENMBpVI29ZWJMCUWoYpPej1cLZf5DPg8lWLRPRZsquaxb2ozWVOZc/Blood%20Donor%20Perfusion%20Medical%20Give%20Blood.jpg' alt='American Red Cross Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11402762/p/f/m/5YENMBpVI29ZWJMCUWoYpPej1cLZf5DPg8lWLRPRZsquaxb2ozWVOZc/Blood%20Donor%20Perfusion%20Medical%20Give%20Blood.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Red Cross Day Background (4900340)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/22e6967f0c55692c5920ced894662a012715f632f27a1ed6aa2ada2f6e847521.jpg' alt='World Red Cross Day Background (4900340)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/22e6967f0c55692c5920ced894662a012715f632f27a1ed6aa2ada2f6e847521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="handly eugene - The American Red Cross">
+                                <img itemprop="contentUrl url" src='https://cdn.myportfolio.com/16ac4b8eed65f84c51ab75dcc1ae9075/276855b2cf00f9daa9da8259_rw_1200.png?h=1114e442a51ccd967e7b632db0c96107' alt='handly eugene - The American Red Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="handly eugene" />
+                                </span>
+                                <a href='https://cdn.myportfolio.com/16ac4b8eed65f84c51ab75dcc1ae9075/276855b2cf00f9daa9da8259_rw_1200.png?h=1114e442a51ccd967e7b632db0c96107' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download American Red Cross Logoand Slogan | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/american-red-cross-logoand-slogan-sqfb2qfwzy8xu316.jpg' alt='Download American Red Cross Logoand Slogan | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/american-red-cross-logoand-slogan-sqfb2qfwzy8xu316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medical Health Red Cross Neon Light Stock Illustration 1923933524 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/medical-health-red-cross-neon-260nw-1923933524.jpg' alt='Medical Health Red Cross Neon Light Stock Illustration 1923933524 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/medical-health-red-cross-neon-260nw-1923933524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Red Cross Logo - American Red Cross Logo Design ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180820/vhu/816f11822d27a26f48324db87033ecc4.webp' alt='American Red Cross Logo - American Red Cross Logo Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180820/vhu/816f11822d27a26f48324db87033ecc4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

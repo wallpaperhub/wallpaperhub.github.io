@@ -1,0 +1,129 @@
+<title>Beautiful White Boho Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover elegant white boho wallpaper that combines style and serenity. Perfect for any room, it adds a chic, artistic touch while creating a fresh atmosphere. Elevate your home decor with this stunning wallpaper that embodies bohemian elegance! Ideal for mobile viewing.">
+                    <meta name="keywords" content="white boho wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-boho-wallpaper">
+                            <span itemprop="name">white boho wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful White Boho Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning white boho wallpaper, a perfect blend of elegance and whimsy. Featuring intricate patterns and soft textures, it's ideal for brightening up any room. Suitable for living rooms, bedrooms, or nurseries, this wallpaper effortlessly adds a laid-back, artistic vibe while ensuring a clean and airy atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiula Geometric Peel and Stick Wallpaper Boho wallpaper78.7 "x16.1" White  and Gray Wallpaper White Contact Paper Removable Wallpaper for Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AABZocZrL.jpg' alt='Fiula Geometric Peel and Stick Wallpaper Boho wallpaper78.7 "x16.1" White  and Gray Wallpaper White Contact Paper Removable Wallpaper for Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AABZocZrL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige and White Boho Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C681">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C681_07.png?v=1731636327&width=1946' alt='Beige and White Boho Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C681'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C681_07.png?v=1731636327&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Boho Peel And Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/rustic_boho_wallpaper/rustic_boho_wallpaper_bench.png.webp' alt='Rustic Boho Peel And Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/rustic_boho_wallpaper/rustic_boho_wallpaper_bench.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho wallpaper, leaves on white Traditional and Peel and Stick wallpaper  #3592">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/files/il_fullxfull.5761568612_oh2p.jpg?v=1713806545&width=1080' alt='Boho wallpaper, leaves on white Traditional and Peel and Stick wallpaper  #3592'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/files/il_fullxfull.5761568612_oh2p.jpg?v=1713806545&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan White Deco Boho Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3606">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3623449848_1iup_7b792363-befb-4138-b7b2-86913f09ed65.jpg?v=1644725450' alt='Tan White Deco Boho Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3606'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3623449848_1iup_7b792363-befb-4138-b7b2-86913f09ed65.jpg?v=1644725450' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal boho aztec removable wallpaper for kids room">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-boho-kids-room-aztec-print-wallpaper.jpg?v=1595364843' alt='Minimal boho aztec removable wallpaper for kids room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-boho-kids-room-aztec-print-wallpaper.jpg?v=1595364843' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Wallpaper by CostaCover">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/collections/14x10banner.jpg?v=1672948963' alt='Boho Wallpaper by CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/collections/14x10banner.jpg?v=1672948963' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Boho Wallpaper">
+                                <img itemprop="contentUrl url" src='https://inspire360interiors.com/wp-content/uploads/2024/01/BOHO-001-Botanical-Boho.jpg' alt='Botanical Boho Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire 360 Interiors" />
+                                </span>
+                                <a href='https://inspire360interiors.com/wp-content/uploads/2024/01/BOHO-001-Botanical-Boho.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaf Abstract Wallpaper Boho Wallpaper Peel and Stick and Traditional  Wallpaper - D668">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5382028131_oqmr.jpg?v=1709591597&width=1946' alt='Leaf Abstract Wallpaper Boho Wallpaper Peel and Stick and Traditional  Wallpaper - D668'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5382028131_oqmr.jpg?v=1709591597&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Grey Self Adhesive Wallpaper - The Wallberry Wallpapers">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2023/02/boho_botanical_wallpaper_pattern_wallberry.jpg' alt='Subtle Grey Self Adhesive Wallpaper - The Wallberry Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2023/02/boho_botanical_wallpaper_pattern_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

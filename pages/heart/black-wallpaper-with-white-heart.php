@@ -1,0 +1,129 @@
+<title>Chic Black Wallpaper with White Heart Design for Modern Decor</title>
+                    <meta name="description" content="Discover elegant black wallpaper adorned with a stylish white heart. Perfect for modern interiors, this wallpaper enhances any room with a chic touch. Ideal for accent walls or cozy spaces, it combines beauty and warmth effortlessly. Elevate your decor today!">
+                    <meta name="keywords" content="black wallpaper with white heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/black-wallpaper-with-white-heart">
+                            <span itemprop="name">black wallpaper with white heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black Wallpaper with White Heart Design for Modern Decor</h1>
+                <p>Transform your space with stunning black wallpaper featuring a chic white heart design. Ideal for modern and minimalist decor, this wallpaper adds a touch of elegance and love to any room. Perfect for bedrooms, living areas, or accent walls, it effortlessly combines style and personality, creating a cozy ambience you'll adore.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1e/91/37/1e913761859d10067ef6501a10a1032a.jpg' alt='Black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1e/91/37/1e913761859d10067ef6501a10a1032a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white heart iPhone wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/53/cf/1753cf6715cb75419bdb0d0f782f26bf.jpg' alt='Black and white heart iPhone wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/53/cf/1753cf6715cb75419bdb0d0f782f26bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Heart Sketch Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/flaming-black-and-white-heart-ziwvjap3jcpi5wgj.webp' alt='Black And White Heart Sketch Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/flaming-black-and-white-heart-ziwvjap3jcpi5wgj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Black Aesthetic Collage White Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/black-aesthetic-collage-white-heart-r9z9h3zm88wv1i23.jpg' alt='Download free Black Aesthetic Collage White Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/black-aesthetic-collage-white-heart-r9z9h3zm88wv1i23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Love, two white heart, black, white, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1015/884/HD-wallpaper-black-and-white-love-two-white-heart-black-white.jpg' alt='Black And White Love, two white heart, black, white, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1015/884/HD-wallpaper-black-and-white-love-two-white-heart-black-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hearts with a black background with a white heart ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14067.jpg' alt='Premium Vector | Hearts with a black background with a white heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Evolving Black Heart iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/evolving-black-heart-iphone-1whec48daewqg7hp.jpg' alt='Download Evolving Black Heart iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/evolving-black-heart-iphone-1whec48daewqg7hp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Aesthetic Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-white-aesthetic-heart-zwqtouf2johnauws.jpg' alt='Black And White Aesthetic Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-white-aesthetic-heart-zwqtouf2johnauws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White heart and black background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/85/d0/3985d0c1ae164d2b849bf25b79663f41.jpg' alt='White heart and black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/85/d0/3985d0c1ae164d2b849bf25b79663f41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@❤️ Kiera's bae❤️ White and black hearts   ♣️    #heartbackground | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7245371480492510510&location=0&aid=1988' alt='@❤️ Kiera's bae❤️ White and black hearts   ♣️    #heartbackground | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7245371480492510510&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

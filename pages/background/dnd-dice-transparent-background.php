@@ -1,0 +1,129 @@
+<title>Stunning DnD Dice with Transparent Backgrounds</title>
+                    <meta name="description" content="Enhance your Dungeons and Dragons experience with our collection of DnD dice featuring transparent backgrounds. Perfect for graphics and gameplay, these colorful dice make your tabletop adventures come alive. Explore our selection and elevate your gaming visuals now!">
+                    <meta name="keywords" content="dnd dice transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-dice-transparent-background">
+                            <span itemprop="name">dnd dice transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning DnD Dice with Transparent Backgrounds</h1>
+                <p>Discover the vibrant world of DnD dice with transparent backgrounds! Perfect for custom designs, these stunning dice showcase intricate details and colors, enhancing your tabletop gaming experience. Use them for creating graphics, backgrounds, or promotional materials. Elevate your D&D sessions with unique visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dnd Dice Vector PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230927/original/pngtree-vector-illustration-of-rpg-dice-set-including-d8-d10-d12-and-png-image_12882018.png' alt='Dnd Dice Vector PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230927/original/pngtree-vector-illustration-of-rpg-dice-set-including-d8-d10-d12-and-png-image_12882018.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Red D20 Dice Transparent Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-d20-dice-transparent-background-cl3lyq4qc7aldjrt.jpg' alt='Download Red D20 Dice Transparent Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="346">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-d20-dice-transparent-background-cl3lyq4qc7aldjrt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D20 RPG Dice Stroke PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/232402/isolated/preview/577188470e86ba1944f70149d08ea858-d20-rpg-dice-stroke.png' alt='D20 RPG Dice Stroke PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/232402/isolated/preview/577188470e86ba1944f70149d08ea858-d20-rpg-dice-stroke.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: DND Transparent Dice Set Polyhedral - IDTQ Dungeons ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dH-u+DjGL.jpg' alt='Amazon.com: DND Transparent Dice Set Polyhedral - IDTQ Dungeons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1926">
+                                <meta itemprop="height" content="1926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dH-u+DjGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dnd Dice PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230927/original/pngtree-vector-set-of-dice-for-board-gamesrpgs-includes-d8-d10-d12-png-image_12885805.png' alt='Dnd Dice PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230927/original/pngtree-vector-set-of-dice-for-board-gamesrpgs-includes-d8-d10-d12-png-image_12885805.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D20 Dice Icon On Transparent Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1284470672/vector/d20-dice-icon-on-transparent-background.jpg?s=612x612&w=0&k=20&c=fUp0cpbbT8ukPnzBZny53asFSWCmXmN4UNNQs5QUmzA=' alt='D20 Dice Icon On Transparent Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1284470672/vector/d20-dice-icon-on-transparent-background.jpg?s=612x612&w=0&k=20&c=fUp0cpbbT8ukPnzBZny53asFSWCmXmN4UNNQs5QUmzA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D20 PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180426/kgq/avtmn77jd.webp' alt='D20 PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180426/kgq/avtmn77jd.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: DND Dice 5×7 Sets, 35Pieces Transparent Rainbow Polyhedral DND  Dice for RPG MTG Table Game Dice : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CkCGPQdYL.jpg' alt='Amazon.com: DND Dice 5×7 Sets, 35Pieces Transparent Rainbow Polyhedral DND  Dice for RPG MTG Table Game Dice : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CkCGPQdYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Dice Package by magenta-stock on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f269b854-48d3-4e6a-b635-befe70b8bdfc/d62ifnq-4031eb62-8e5b-4b37-9fb3-014743e7856d.png' alt='Transparent Dice Package by magenta-stock on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1059">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f269b854-48d3-4e6a-b635-befe70b8bdfc/d62ifnq-4031eb62-8e5b-4b37-9fb3-014743e7856d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D20 PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180525/zbi/avqkngonm.webp' alt='D20 PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180525/zbi/avqkngonm.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

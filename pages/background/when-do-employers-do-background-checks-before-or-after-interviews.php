@@ -1,0 +1,129 @@
+<title>Background Checks: When Do Employers Conduct Them?</title>
+                    <meta name="description" content="Discover the timing of employer background checks—before or after interviews. Understand how this impacts your job application and what you can do to prepare. Get insights into the hiring process and ensure you stand out as a suitable candidate.">
+                    <meta name="keywords" content="when do employers do background checks before or after interviews">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-do-employers-do-background-checks-before-or-after-interviews">
+                            <span itemprop="name">when do employers do background checks before or after interviews</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Checks: When Do Employers Conduct Them?</h1>
+                <p>Employers typically conduct background checks after selecting candidates for interviews, often to verify qualifications and ensure a safe work environment. This step usually comes once final candidates have been identified, reducing time and resources spent on unsuitable applicants. However, some companies may opt for checks before interviews.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When Do Employers Do Background Checks Before Or After Interviews? -  CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qNNAT-r8lIU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5S8Ymg904xEldd_KUCVDBfowlbg' alt='When Do Employers Do Background Checks Before Or After Interviews? -  CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qNNAT-r8lIU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5S8Ymg904xEldd_KUCVDBfowlbg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct an Employee Background Check for Employment">
+                                <img itemprop="contentUrl url" src='https://d341ezm4iqaae0.cloudfront.net/assets/2020/09/30211207/background-check_lambdaoptimized.webp' alt='How to Conduct an Employee Background Check for Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d341ezm4iqaae0.cloudfront.net/assets/2020/09/30211207/background-check_lambdaoptimized.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The facts about background checks">
+                                <img itemprop="contentUrl url" src='https://www.hollandsentinel.com/gcdn/authoring/2017/07/03/NHOS/ghows-MI-531db1e9-457b-0237-e053-0100007f7deb-3adfd62e.jpeg' alt='The facts about background checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="1651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Holland Sentinel" />
+                                </span>
+                                <a href='https://www.hollandsentinel.com/gcdn/authoring/2017/07/03/NHOS/ghows-MI-531db1e9-457b-0237-e053-0100007f7deb-3adfd62e.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Background Check Show Employment History? Spoiler: Yes">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/627c8700df0be67c4b1d533c/66a29712dfc4d2bada877aa2_6605f2941fce1119856ba5c8_Can%2520employers%2520see%2520my%2520work%2520history%2520through%2520a%2520background%2520check.png' alt='Does a Background Check Show Employment History? Spoiler: Yes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teal" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/627c8700df0be67c4b1d533c/66a29712dfc4d2bada877aa2_6605f2941fce1119856ba5c8_Can%2520employers%2520see%2520my%2520work%2520history%2520through%2520a%2520background%2520check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Practices for Pre-Employment Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ismartrecruit.com/upload/blog/When_do_Employers_Conduct_Background_Check.webp.dat' alt='7 Best Practices for Pre-Employment Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iSmartRecruit" />
+                                </span>
+                                <a href='https://www.ismartrecruit.com/upload/blog/When_do_Employers_Conduct_Background_Check.webp.dat' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Background Checks - Legal Reader">
+                                <img itemprop="contentUrl url" src='https://image.slidesharecdn.com/globalverificationnetwork-guide-180222174232/95/the-ultimate-guide-to-background-checks-1-638.jpg?cb=1519321467' alt='The Ultimate Guide to Background Checks - Legal Reader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="2221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Reader" />
+                                </span>
+                                <a href='https://image.slidesharecdn.com/globalverificationnetwork-guide-180222174232/95/the-ultimate-guide-to-background-checks-1-638.jpg?cb=1519321467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Stage of the Hiring Process includes the Background Check?">
+                                <img itemprop="contentUrl url" src='https://blog.verifirst.com/hs-fs/hubfs/Blog_Images/What%20Stage%20of%20the%20Hiring%20Process%20includes%20the%20Background%20Check.jpg?width=800&height=400&name=What%20Stage%20of%20the%20Hiring%20Process%20includes%20the%20Background%20Check.jpg' alt='What Stage of the Hiring Process includes the Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Screening Blog - VeriFirst" />
+                                </span>
+                                <a href='https://blog.verifirst.com/hs-fs/hubfs/Blog_Images/What%20Stage%20of%20the%20Hiring%20Process%20includes%20the%20Background%20Check.jpg?width=800&height=400&name=What%20Stage%20of%20the%20Hiring%20Process%20includes%20the%20Background%20Check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Ways to Prepare Yourself for a Background Check Before Your ...">
+                                <img itemprop="contentUrl url" src='https://theinterviewguys.com/wp-content/uploads/2015/06/background-check.png' alt='7 Ways to Prepare Yourself for a Background Check Before Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Interview Guys" />
+                                </span>
+                                <a href='https://theinterviewguys.com/wp-content/uploads/2015/06/background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

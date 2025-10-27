@@ -1,0 +1,129 @@
+<title>Vaporwave Wallpaper for iPhone: Retro Aesthetic Backgrounds</title>
+                    <meta name="description" content="Discover a collection of vibrant vaporwave wallpapers for your iPhone. Enhance your device with nostalgic designs that feature pastel colors and retro styles. Perfect for adding a unique touch, browse through our curated selection and find the ideal wallpaper that captures the essence of vaporwave culture.">
+                    <meta name="keywords" content="iphone vaporwave wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-vaporwave-wallpaper">
+                            <span itemprop="name">iphone vaporwave wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vaporwave Wallpaper for iPhone: Retro Aesthetic Backgrounds</h1>
+                <p>Transform your iPhone with stunning vaporwave wallpapers that blend retro aesthetics and vibrant colors. Perfect for anyone who loves nostalgic vibes, these wallpapers evoke the dreamy essence of the '80s and '90s. Dive into visuals that feature neon sunsets, palm trees, and surreal landscapes, and let your device reflect your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 AMAZING VAPORWAVE PHONE WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/aa/ef/f4aaef3003da1b28581eeb96abb15e62.jpg' alt='12 AMAZING VAPORWAVE PHONE WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/aa/ef/f4aaef3003da1b28581eeb96abb15e62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vaporwave Retro Style 4k Neon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vaporwave-retro-style-4k-neon-iphone-dfsg1x7cqqpgcml3.jpg' alt='Vaporwave Retro Style 4k Neon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vaporwave-retro-style-4k-neon-iphone-dfsg1x7cqqpgcml3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC VAPORWAVE PHONE WALLPAPER COLLECTION 192">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/71/61/4a7161de9f2939090c2b6aea0ca967da.jpg' alt='AESTHETIC VAPORWAVE PHONE WALLPAPER COLLECTION 192'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/71/61/4a7161de9f2939090c2b6aea0ca967da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Aesthetic Wallpapers for iPhone (+ Vaporwave / Pastel Kawaii)">
+                                <img itemprop="contentUrl url" src='https://flourishmentary.b-cdn.net/wp-content/uploads/2022/02/vaporwave-aesthetic-iphone-wallpaper-5-scaled.jpg' alt='66 Aesthetic Wallpapers for iPhone (+ Vaporwave / Pastel Kawaii)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flourishmentary" />
+                                </span>
+                                <a href='https://flourishmentary.b-cdn.net/wp-content/uploads/2022/02/vaporwave-aesthetic-iphone-wallpaper-5-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vaporwave Retro Art Top Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vaporwave-retro-art-top-iphone-318oyd3u4y5g3cgz.jpg' alt='Vaporwave Retro Art Top Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vaporwave-retro-art-top-iphone-318oyd3u4y5g3cgz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Vaporwave Wallpaper : r/VaporwaveArt">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4v3fvzmttu441.jpg' alt='iPhone 6 Vaporwave Wallpaper : r/VaporwaveArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4v3fvzmttu441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vaporwave iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4687610.jpg' alt='Vaporwave iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4687610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vaporwave Iphone Sports Car Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-macyr2wecfb84r6s.jpg' alt='Download Vaporwave Iphone Sports Car Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-macyr2wecfb84r6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey people, ive done this Iphone 11 format wallpaper with a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ou723wfmvr051.jpg' alt='Hey people, ive done this Iphone 11 format wallpaper with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ou723wfmvr051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

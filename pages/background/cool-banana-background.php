@@ -1,0 +1,129 @@
+<title>Fresh & Fun: Awesome Banana Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover vibrant banana backgrounds that add a playful touch to your screens. Perfect for wallpapers and creative projects, these designs will uplift your visuals with a fun tropical vibe. Explore now to find your perfect banana-themed backdrop!">
+                    <meta name="keywords" content="cool banana background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-banana-background">
+                            <span itemprop="name">cool banana background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh & Fun: Awesome Banana Backgrounds for Your Device</h1>
+                <p>Looking for a cool banana background to brighten up your device? Explore vibrant patterns and playful designs featuring cheerful bananas! Perfect for phone wallpapers, social media posts, or any creative project, these backgrounds will bring a fun tropical vibe to your visuals. Dive into the banana trend today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,998 Cool Banana Cartoon Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/banana-cartoon-character-vector-illustration-600nw-2279910235.jpg' alt='4,998 Cool Banana Cartoon Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/banana-cartoon-character-vector-illustration-600nw-2279910235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Background Images – Browse 1,016,561 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/85/72/67/360_F_385726776_2KgzDmzFHanqlx9oPKbQusB9p0GqPCLH.jpg' alt='Banana Background Images – Browse 1,016,561 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/85/72/67/360_F_385726776_2KgzDmzFHanqlx9oPKbQusB9p0GqPCLH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dub banana cartoon with cool pose and glasses in blue background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/053/675/non_2x/dub-banana-cartoon-with-cool-pose-and-glasses-in-blue-background-vector.jpg' alt='Dub banana cartoon with cool pose and glasses in blue background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/053/675/non_2x/dub-banana-cartoon-with-cool-pose-and-glasses-in-blue-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Velvet Bananas - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0275_1s_Velvet-Bananas-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-2.jpg?v=1734717534' alt='Velvet Bananas - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0275_1s_Velvet-Bananas-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-2.jpg?v=1734717534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool muscular banana character in sunglasses. Happy banana fruit ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HGP6B9/cool-muscular-banana-character-in-sunglasses-happy-banana-fruit-isolated-on-white-background-cartoon-vector-mascot-2HGP6B9.jpg' alt='Cool muscular banana character in sunglasses. Happy banana fruit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HGP6B9/cool-muscular-banana-character-in-sunglasses-happy-banana-fruit-isolated-on-white-background-cartoon-vector-mascot-2HGP6B9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37,938 Cool Banana Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/set-sticker-banana-vector-designs-600nw-2419030501.jpg' alt='37,938 Cool Banana Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/set-sticker-banana-vector-designs-600nw-2419030501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Over Diamonds - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0067_1s_Banana-Over-Diamonds-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717691' alt='Banana Over Diamonds - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0067_1s_Banana-Over-Diamonds-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717691' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Banana Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/933/895/small_2x/cool-banana-logo-illustration-perfect-for-game-store-food-store-food-logo-game-developer-game-or-food-review-blog-or-vlog-channel-game-fans-or-community-etc-vector.jpg' alt='Cool Banana Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/933/895/small_2x/cool-banana-logo-illustration-perfect-for-game-store-food-store-food-logo-game-developer-game-or-food-review-blog-or-vlog-channel-game-fans-or-community-etc-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fresh, yellow banana | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/banana-pictures-m6vjz6kvzvs5tzn8.jpg' alt='Download Fresh, yellow banana | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/banana-pictures-m6vjz6kvzvs5tzn8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A cool banana with sunglasses and a smile on a yellow background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cool-banana-with-sunglasses-smile-yellow-background_14117-750664.jpg' alt='A cool banana with sunglasses and a smile on a yellow background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cool-banana-with-sunglasses-smile-yellow-background_14117-750664.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

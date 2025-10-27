@@ -1,0 +1,129 @@
+<title>Batman: Arkham Knight - The Ultimate Gotham Adventure</title>
+                    <meta name="description" content="Explore Gotham City in Batman: Arkham Knight. Dive into the thrilling conclusion of the Arkham series, facing off against the Arkham Knight and other iconic villains. Experience immersive gameplay with advanced combat mechanics and an expansive open world. Join Batman on his final mission!">
+                    <meta name="keywords" content="batman arkham knight background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/batman-arkham-knight-background">
+                            <span itemprop="name">batman arkham knight background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Batman: Arkham Knight - The Ultimate Gotham Adventure</h1>
+                <p>Batman: Arkham Knight is a critically acclaimed action-adventure game that serves as the conclusion of the Arkham series. Set in Gotham City, it features an original story where Batman faces off against the titular Arkham Knight, a mysterious new villain. Players utilize an expansive open world and advanced combat mechanics to explore Gotham while battling iconic foes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman - Arkham Knight Wallpaper (from comicwalls) : r/batman">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/vmvovpkTKbDMPI2iBWuGdZ9Ke11T4ENA3Nx6Pu6iFBs.jpg?auto=webp&s=c864e3c481883ddb1facc369019cd149bdc6c396' alt='Batman - Arkham Knight Wallpaper (from comicwalls) : r/batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/vmvovpkTKbDMPI2iBWuGdZ9Ke11T4ENA3Nx6Pu6iFBs.jpg?auto=webp&s=c864e3c481883ddb1facc369019cd149bdc6c396' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080] Batman Vs Arkham Knight : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ISRISwILks8FvAC4GM8-Op1wMIvZ6ekVHDZ10XfSBpc.jpg?auto=webp&s=011f46528ffd5b7b1c74d6b3ee0d6871c7edd425' alt='1920x1080] Batman Vs Arkham Knight : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ISRISwILks8FvAC4GM8-Op1wMIvZ6ekVHDZ10XfSBpc.jpg?auto=webp&s=011f46528ffd5b7b1c74d6b3ee0d6871c7edd425' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper City, Batman, Batman, Arkham Knight for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/3/89/batman-arkham-knight-city-7345.jpg' alt='Wallpaper City, Batman, Batman, Arkham Knight for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/3/89/batman-arkham-knight-city-7345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arkham Knight's Gotham: Batman HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/532/thumb-1920-532804.jpg' alt='Arkham Knight's Gotham: Batman HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/532/thumb-1920-532804.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Batman: Arkham Knight Steam">
+                                <img itemprop="contentUrl url" src='https://gaming-cdn.com/images/products/2419/orig/batman-arkham-knight-pc-game-steam-cover.jpg?v=1703252478' alt='Buy Batman: Arkham Knight Steam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant-Gaming.com" />
+                                </span>
+                                <a href='https://gaming-cdn.com/images/products/2419/orig/batman-arkham-knight-pc-game-steam-cover.jpg?v=1703252478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated] The Beauty of Batman: Arkham Knight (Screenshots) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/FRvBzXuXDdm7Wy84yDjHFwFboOiWuLCPDOp-0mZLGSo.jpg?auto=webp&s=982ccaee53898827b099ee6dcb0f19ef44b77dbc' alt='Updated] The Beauty of Batman: Arkham Knight (Screenshots) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/FRvBzXuXDdm7Wy84yDjHFwFboOiWuLCPDOp-0mZLGSo.jpg?auto=webp&s=982ccaee53898827b099ee6dcb0f19ef44b77dbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham Knight wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_batman_arkham_knight_01_ipad.jpg&height=450&width=506&crop-to-fit&sharpen' alt='Batman: Arkham Knight wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_batman_arkham_knight_01_ipad.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atelier Steam::[UHD] Batman: Arkham Knight - 4K 60FPS Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/831329213371554739/67BAAC4111E1BF2DEE38DB6E8DB188D9D61044C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Atelier Steam::[UHD] Batman: Arkham Knight - 4K 60FPS Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/831329213371554739/67BAAC4111E1BF2DEE38DB6E8DB188D9D61044C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Batman : Arkham Knight Wallpaper - Games HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.net/previews/the-batman-arkham-knight-522.jpg' alt='The Batman : Arkham Knight Wallpaper - Games HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.net/previews/the-batman-arkham-knight-522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watching The City, A Batman: Arkham Knight Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/watching-the-city-a-batman-arkham-knight-iphone-lgxfe1zezecwfm1o.jpg' alt='Watching The City, A Batman: Arkham Knight Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/watching-the-city-a-batman-arkham-knight-iphone-lgxfe1zezecwfm1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

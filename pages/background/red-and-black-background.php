@@ -1,0 +1,129 @@
+<title>Stunning Red and Black Backgrounds for Impactful Designs</title>
+                    <meta name="description" content="Discover the captivating allure of red and black backgrounds. Learn how to use this powerful color combination to enhance your designs, evoke emotion, and create visual impact. Perfect for websites, presentations, and digital art, find inspiration and tips for impactful visuals.">
+                    <meta name="keywords" content="red and black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-and-black-background">
+                            <span itemprop="name">red and black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red and Black Backgrounds for Impactful Designs</h1>
+                <p>A red and black background creates a striking visual contrast, perfect for evoking strong emotions and grabbing attention. This color combination is often associated with passion and power, providing an intense depth to designs. Ideal for websites, presentations, or digital art, it can enhance your work's dramatic effect and vibrancy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,600+ Black And Red Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1466057420/vector/80s-retro-futuristic-sci-fi-illustration-retrowave-video-game-landscape-with-neon-grids.jpg?s=612x612&w=0&k=20&c=qp7sWF94R7KzFqNXoJANSF408lkHKigeLnWkd1TDvk0=' alt='6,600+ Black And Red Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1466057420/vector/80s-retro-futuristic-sci-fi-illustration-retrowave-video-game-landscape-with-neon-grids.jpg?s=612x612&w=0&k=20&c=qp7sWF94R7KzFqNXoJANSF408lkHKigeLnWkd1TDvk0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Red Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/933/882/non_2x/abstract-metallic-red-black-cyber-dark-grey-hexagon-mesh-design-modern-futuristic-background-vector.jpg' alt='Black Red Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/933/882/non_2x/abstract-metallic-red-black-cyber-dark-grey-hexagon-mesh-design-modern-futuristic-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a red and black background with a bright light. Gradient art ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/792/171/non_2x/a-red-and-black-background-with-a-bright-light-gradient-art-design-idea-template-free-vector.jpg' alt='a red and black background with a bright light. Gradient art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/792/171/non_2x/a-red-and-black-background-with-a-bright-light-gradient-art-design-idea-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Black Background Images – Browse 8,186,793 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/95/36/50/360_F_195365048_5WMfbAEiwdXtESNzT2AmVNMFVP6Uenaa.jpg' alt='Red Black Background Images – Browse 8,186,793 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/95/36/50/360_F_195365048_5WMfbAEiwdXtESNzT2AmVNMFVP6Uenaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Black Background Images – Browse 8,186,793 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/21/85/12/360_F_521851247_oLSyMLqorjucuFJWpuAzcwKMCKc2MGt7.jpg' alt='Red Black Background Images – Browse 8,186,793 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/21/85/12/360_F_521851247_oLSyMLqorjucuFJWpuAzcwKMCKc2MGt7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red + Black Smoke Seamless Background Texture PNG - Dark and Bold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/2fb83c/3988920739/il_fullxfull.3988920739_az1a.jpg' alt='Red + Black Smoke Seamless Background Texture PNG - Dark and Bold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/2fb83c/3988920739/il_fullxfull.3988920739_az1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Splatter Black Background Vector Images (over 6,100)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/27/72/blood-red-grunge-splatter-background-vector-52622772.jpg' alt='Red Splatter Black Background Vector Images (over 6,100)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/27/72/blood-red-grunge-splatter-background-vector-52622772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Black Gradient Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210916/pngtree-mottled-texture-red-black-gradient-background-image_901247.jpg' alt='Red And Black Gradient Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210916/pngtree-mottled-texture-red-black-gradient-background-image_901247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Red Gradient Photography Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/25/f8/8825f874a0476ae10d78109a2ff07e9e.jpg' alt='Black and Red Gradient Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/25/f8/8825f874a0476ae10d78109a2ff07e9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red + Black Marble Seamless Background Texture - Abstract Red Liquid Marble  Digital Paper Background - Digital Download Files - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/9f3258/3772552628/il_1080xN.3772552628_foo7.jpg' alt='Red + Black Marble Seamless Background Texture - Abstract Red Liquid Marble  Digital Paper Background - Digital Download Files - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/9f3258/3772552628/il_1080xN.3772552628_foo7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Rainbow Butterflies</title>
+                    <meta name="description" content="Explore the vibrant world of rainbow butterflies, a stunning symbol of beauty and transformation. Learn about their ecological role and discover how these colorful insects inspire awe and appreciation for nature. Perfect for enthusiasts and nature lovers alike.">
+                    <meta name="keywords" content="rainbow butterfly">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-butterfly">
+                            <span itemprop="name">rainbow butterfly</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Rainbow Butterflies</h1>
+                <p>The rainbow butterfly is a stunning symbol of transformation and beauty, adorned with vibrant hues that captivate everyone. This enchanting insect plays a crucial role in pollination, contributing to our ecosystem. Embrace the joy and wonder these delicate wings bring, reminding us of nature's artistry and the power of change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print A vivid colorful rainbow butterfly on a green leaf -  Generative AI, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/71/80/74/1000_F_671807433_zIKWUUo428IUOjRh9aP1f6ktmwgWS4qX.jpg' alt='Poster, Print A vivid colorful rainbow butterfly on a green leaf -  Generative AI, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/71/80/74/1000_F_671807433_zIKWUUo428IUOjRh9aP1f6ktmwgWS4qX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Rainbow Butterflies Pictures Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/481637337/photo/rainbow-swallowtail-fantasy.jpg?s=612x612&w=0&k=20&c=sZ5yYL8WngOlShRTOj8lm40h52CwK4A1OEzxuu2c0Nk=' alt='2,200+ Rainbow Butterflies Pictures Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/481637337/photo/rainbow-swallowtail-fantasy.jpg?s=612x612&w=0&k=20&c=sZ5yYL8WngOlShRTOj8lm40h52CwK4A1OEzxuu2c0Nk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Rainbow Butterfly PNG Clipart,bright Graphic Multicolor Art,digital  Download,printable Design for Sublimation,scrapbooking,diy Craft - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16060308/r/il/1f32dc/5060536605/il_1080xN.5060536605_hpzg.jpg' alt='Vibrant Rainbow Butterfly PNG Clipart,bright Graphic Multicolor Art,digital  Download,printable Design for Sublimation,scrapbooking,diy Craft - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16060308/r/il/1f32dc/5060536605/il_1080xN.5060536605_hpzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow butterfly stock photo. Image of butterfly, nature - 20599662">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rainbow-butterfly-20599662.jpg' alt='Rainbow butterfly stock photo. Image of butterfly, nature - 20599662'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rainbow-butterfly-20599662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Butterflies Free Stock Photo - Public Domain Pictures">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/650000/nahled/rainbow-butterflies.jpg' alt='Rainbow Butterflies Free Stock Photo - Public Domain Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/650000/nahled/rainbow-butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decor Well Rainbow Butterfly on Flower Canvas Wall Art Grey Picture Modern  Decor(20" x 20", Rainbow Butterfly)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41PDqD9ZZzL._AC_UF894,1000_QL80_.jpg' alt='Decor Well Rainbow Butterfly on Flower Canvas Wall Art Grey Picture Modern  Decor(20" x 20", Rainbow Butterfly)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41PDqD9ZZzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Butterfly Paint By Numbers - Numeral Paint Kit">
+                                <img itemprop="contentUrl url" src='https://numeralpaint.com/wp-content/uploads/2020/07/beautiful-rainbow-butterfly-adult-paint-by-numbers.jpg' alt='Rainbow Butterfly Paint By Numbers - Numeral Paint Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Numeral Paint Kit" />
+                                </span>
+                                <a href='https://numeralpaint.com/wp-content/uploads/2020/07/beautiful-rainbow-butterfly-adult-paint-by-numbers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Butterfly Wall Art High Quality Canvas wall arts home decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/tDsAAOSwUKxYlcsF/$_57.JPG?set_id=8800005007' alt='Rainbow Butterfly Wall Art High Quality Canvas wall arts home decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/tDsAAOSwUKxYlcsF/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow monarch butterfly ( Butterflies ) Rainbow butterfly | Art Board  Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.435708694.0425/flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg' alt='Rainbow monarch butterfly ( Butterflies ) Rainbow butterfly | Art Board  Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.435708694.0425/flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Butterfly 2 | Rainbow Butterfly #2 | PhotoMasterGreg | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3018/2290360512_583aa0e33a_c.jpg' alt='Rainbow Butterfly 2 | Rainbow Butterfly #2 | PhotoMasterGreg | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3018/2290360512_583aa0e33a_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mastering Depth Control on iPhone Photography</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="depth control iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/depth-control-iphone">
+                            <span itemprop="name">depth control iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Depth Control on iPhone Photography</h1>
+                <p>Depth control on iPhone enhances photo quality by allowing users to adjust the sharpness of the subject versus the background. This feature, available in portrait mode, creates a stunning "bokeh" effect, offering more professional-looking photos. Mastering depth control can elevate your photography and capture memories beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hands on with iPhone XS/XS Max New Depth Control Feature! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1SFg1KVLWXA/sddefault.jpg' alt='Hands on with iPhone XS/XS Max New Depth Control Feature! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1SFg1KVLWXA/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to manage depth control in iPhone photos | Macworld">
+                                <img itemprop="contentUrl url" src='https://b2c-contenthub.com/wp-content/uploads/2024/04/mac911-portrait-mod-sbs-bordered.png?w=1200' alt='How to manage depth control in iPhone photos | Macworld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Macworld" />
+                                </span>
+                                <a href='https://b2c-contenthub.com/wp-content/uploads/2024/04/mac911-portrait-mod-sbs-bordered.png?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change background blur in iPhone XS and XR photos | Cult of Mac">
+                                <img itemprop="contentUrl url" src='https://www.cultofmac.com/wp-content/uploads/2018/10/8-Oct-2018-at-114131-shot.jpeg' alt='How to change background blur in iPhone XS and XR photos | Cult of Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cult of Mac" />
+                                </span>
+                                <a href='https://www.cultofmac.com/wp-content/uploads/2018/10/8-Oct-2018-at-114131-shot.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hands-On With the New Depth Control Feature in iPhone XS and XS ...">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/FdFc9hVgQrywyZiqv6ZKA-Kf_-k=/1600x/article-new/2018/09/depthcontroloptions.jpg' alt='Hands-On With the New Depth Control Feature in iPhone XS and XS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/FdFc9hVgQrywyZiqv6ZKA-Kf_-k=/1600x/article-new/2018/09/depthcontroloptions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Depth Control on iPhone XS & XS Max - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MCFL3ebGhhM/sddefault.jpg' alt='How to Use Depth Control on iPhone XS & XS Max - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MCFL3ebGhhM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Depth Control in the iPhone camera is and how it works">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/10/Depth-control-iPhone-XS-002.jpg' alt='What Depth Control in the iPhone camera is and how it works'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/10/Depth-control-iPhone-XS-002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple to add support for depth control while taking an image w ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2018/09/Screen-Shot-2018-09-23-at-3.26.43-PM.jpg?quality=82&strip=all' alt='Apple to add support for depth control while taking an image w ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3002">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2018/09/Screen-Shot-2018-09-23-at-3.26.43-PM.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My depth control is not showing up on my … - Apple Community">
+                                <img itemprop="contentUrl url" src='https://help.apple.com/assets/61606EE5D7F26F422E7EB450/61606EEAD7F26F422E7EB468/en_US/2345643296e6934d20c56fcd64747663.png' alt='My depth control is not showing up on my … - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://help.apple.com/assets/61606EE5D7F26F422E7EB450/61606EEAD7F26F422E7EB468/en_US/2345643296e6934d20c56fcd64747663.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take portraits with your iPhone camera - Apple Support">
+                                <img itemprop="contentUrl url" src='https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/en_US/efe737c90463fbebb9188e04480848b4.png' alt='Take portraits with your iPhone camera - Apple Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support" />
+                                </span>
+                                <a href='https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/en_US/efe737c90463fbebb9188e04480848b4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO USE DEPTH CONTROL on iPhone Xs Max, iPhone Xs and iPhone Xr!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oy4KyHeoFAs/maxresdefault.jpg' alt='HOW TO USE DEPTH CONTROL on iPhone Xs Max, iPhone Xs and iPhone Xr!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oy4KyHeoFAs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

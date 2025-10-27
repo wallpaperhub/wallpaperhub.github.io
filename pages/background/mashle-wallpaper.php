@@ -1,0 +1,129 @@
+<title>Mashle Wallpaper: Elevate Your Space with Style</title>
+                    <meta name="description" content="Discover Mashle wallpaper to enhance your room with unique designs inspired by the beloved series. Perfect for fans, these wallpapers add character and charm to your home. Transform your walls into a tribute to Mashle effortlessly and stylishly!">
+                    <meta name="keywords" content="mashle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mashle-wallpaper">
+                            <span itemprop="name">mashle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mashle Wallpaper: Elevate Your Space with Style</h1>
+                <p>Transform your space with Mashle wallpaper! Featuring vibrant designs inspired by the popular manga series, these wallpapers bring the magic and excitement of Mashle to your walls. Perfect for fans wanting to showcase their passion, each roll makes decorating fun and imaginative. Elevate your home décor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle: Magic and Muscles Wallpaper 4K, Poster, Dot Barrett">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/mashle-magic-and-2560x1440-16339.jpg' alt='Mashle: Magic and Muscles Wallpaper 4K, Poster, Dot Barrett'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/mashle-magic-and-2560x1440-16339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime mashle: magic and muscles mash wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/91/95/55919593b469d5713514c62af134cfc7.jpg' alt='anime mashle: magic and muscles mash wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/91/95/55919593b469d5713514c62af134cfc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a minimal Mash wallpaper : r/MASHLE">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/q5b1wue1s8461.jpg?width=1080&crop=smart&auto=webp&s=22d1b2a15b2e2c39d356938543e254a71ac74061' alt='I made a minimal Mash wallpaper : r/MASHLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/q5b1wue1s8461.jpg?width=1080&crop=smart&auto=webp&s=22d1b2a15b2e2c39d356938543e254a71ac74061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle Anime HD Wallpaper - Magic, Muscles & Mash Burnedead">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/135/1351462.jpeg' alt='Mashle Anime HD Wallpaper - Magic, Muscles & Mash Burnedead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6400">
+                                <meta itemprop="height" content="3656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/135/1351462.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle Magic and Muscles Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5462550603.4883/flat,750x1000,075,t.jpg' alt='Mashle Magic and Muscles Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5462550603.4883/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle Magic and Muscles Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5e/01/b9/5e01b938c11076651c8a1061f509b767.jpg' alt='Mashle Magic and Muscles Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="3720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5e/01/b9/5e01b938c11076651c8a1061f509b767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mash Burnedead (Mashle) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5928/mash-burnedead-mashle.jpg' alt='Mash Burnedead (Mashle) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5928/mash-burnedead-mashle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle Anime HD Wallpaper - Mash Burnedead Magic and Muscles ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/135/1355404.jpeg' alt='Mashle Anime HD Wallpaper - Mash Burnedead Magic and Muscles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/135/1355404.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mashle Magic And Muscles Anime Poster Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mashle-magic-and-muscles-anime-poster-bfjsnsst8ny4fx12.jpg' alt='Download Mashle Magic And Muscles Anime Poster Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mashle-magic-and-muscles-anime-poster-bfjsnsst8ny4fx12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mashle Mash Finn 4K Wallpaper iPhone HD Phone #3501k">
+                                <img itemprop="contentUrl url" src='https://image-1.uhdpaper.com/wallpaper/mashle-mash-finn-phone-wallpaper-hd-uhdpaper.com-350@1@k.jpg' alt='Mashle Mash Finn 4K Wallpaper iPhone HD Phone #3501k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-1.uhdpaper.com/wallpaper/mashle-mash-finn-phone-wallpaper-hd-uhdpaper.com-350@1@k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

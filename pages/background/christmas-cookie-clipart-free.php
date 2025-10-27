@@ -1,0 +1,129 @@
+<title>Free Christmas Cookie Clipart for Festive Projects</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="christmas cookie clipart free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-cookie-clipart-free">
+                            <span itemprop="name">christmas cookie clipart free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Christmas Cookie Clipart for Festive Projects</h1>
+                <p>Looking for free Christmas cookie clipart? Explore our delightful collection of festive cookie images perfect for your holiday projects! Whether you’re designing cards, decorations, or social media posts, our clipart is easily downloadable and ideal for spreading Christmas cheer. Get creative this holiday season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Christmas Cookies Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165745677/vector/christmas-cookies.jpg?s=612x612&w=0&k=20&c=0pMsJev0XO5cJrfUo4R7xo9AIyByot8JY7WcyL3N8Zo=' alt='60,000+ Christmas Cookies Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165745677/vector/christmas-cookies.jpg?s=612x612&w=0&k=20&c=0pMsJev0XO5cJrfUo4R7xo9AIyByot8JY7WcyL3N8Zo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookies Stock Illustrations – 60,054 Christmas Cookies ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-cookies-plate-327239.jpg' alt='Christmas Cookies Stock Illustrations – 60,054 Christmas Cookies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-cookies-plate-327239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,856 Christmas Cookies Clip Art Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/christmas-sweets-clip-art-merry-600nw-2503231061.jpg' alt='5,856 Christmas Cookies Clip Art Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/christmas-sweets-clip-art-merry-600nw-2503231061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookies Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/christmas-cookies-vector-illustration_1049408-15794.jpg?semt=ais_hybrid' alt='Christmas Cookies Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/christmas-cookies-vector-illustration_1049408-15794.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Christmas Cookies Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1423979960/vector/christmas-gingerbread-set-bright-symbols-of-christmas-on-a-white-background.jpg?s=612x612&w=0&k=20&c=W-hzQrByLmri-Is_K-_PwX-8Oi_mWyTV2NjvPY1BQC8=' alt='60,000+ Christmas Cookies Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1423979960/vector/christmas-gingerbread-set-bright-symbols-of-christmas-on-a-white-background.jpg?s=612x612&w=0&k=20&c=W-hzQrByLmri-Is_K-_PwX-8Oi_mWyTV2NjvPY1BQC8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookie Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/christmas-cookies-vector-illustration_1049408-15785.jpg' alt='Christmas Cookie Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/christmas-cookies-vector-illustration_1049408-15785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookies Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/homemade-gingerbread-cookies-vector-illustrations-set-biscuits-different-shapes-tree-house-star-sock-reindeer-snowflakes-isolated-white-background-winter-holidays-food-dessert-concept_74855-22496.jpg' alt='Christmas Cookies Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/homemade-gingerbread-cookies-vector-illustrations-set-biscuits-different-shapes-tree-house-star-sock-reindeer-snowflakes-isolated-white-background-winter-holidays-food-dessert-concept_74855-22496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookie Star PNG Clipart Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/11541' alt='Christmas Cookie Star PNG Clipart Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6169">
+                                <meta itemprop="height" content="5523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/11541' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Clipart-plate filled with various decorated Christmas ...">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/plate-filled-with-various-decorated-christmas-cookies-72512.jpg' alt='Christmas Clipart-plate filled with various decorated Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/plate-filled-with-various-decorated-christmas-cookies-72512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cookies Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/841/378/small/cute-christmas-cookies-background-free-vector.jpg' alt='Christmas Cookies Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/841/378/small/cute-christmas-cookies-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

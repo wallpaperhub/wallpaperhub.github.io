@@ -1,0 +1,129 @@
+<title>Explore Stunning Boat Clipart for Your Creative Projects</title>
+                    <meta name="description" content="Discover a collection of beautiful boat clipart ideal for all your design needs. Perfect for enhancing presentations, websites, and more with a nautical touch. Find various styles that fit your project and elevate your creativity with easy-to-use graphics.">
+                    <meta name="keywords" content="boat clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boat-clipart">
+                            <span itemprop="name">boat clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Boat Clipart for Your Creative Projects</h1>
+                <p>Boat clipart is a vibrant way to enhance your design projects. Perfect for invitations, websites, and educational materials, these graphics capture the essence of boating. With various styles available, from simple outlines to detailed illustrations, boat clipart adds a touch of nautical charm, making your artwork stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transportation Outline Clipart-small-boat-black-outline">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/smallboatblackoutline-60266.jpg' alt='Transportation Outline Clipart-small-boat-black-outline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/smallboatblackoutline-60266.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speed Boat Clipart Images – Browse 5,767 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/06/41/00/360_F_506410092_ZFoMqa21dDKwrxJe25Q8RrdqINtkBbop.jpg' alt='Speed Boat Clipart Images – Browse 5,767 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/06/41/00/360_F_506410092_ZFoMqa21dDKwrxJe25Q8RrdqINtkBbop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sail Boat Outline Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/663/301/non_2x/wooden-boat-with-sail-black-outline-doodle-illustration-on-white-background-vector.jpg' alt='Sail Boat Outline Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/663/301/non_2x/wooden-boat-with-sail-black-outline-doodle-illustration-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boats and Ships Clipart-small leisure boat clip art">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/small-leisure-boat-clip-art-59215.jpg' alt='Boats and Ships Clipart-small leisure boat clip art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/small-leisure-boat-clip-art-59215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boat Clipart Images – Browse 44,298 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/41/60/94/360_F_41609453_X3A8NNRDWvihqMLoJUVNmrQyKQgwgvh4.jpg' alt='Boat Clipart Images – Browse 44,298 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/41/60/94/360_F_41609453_X3A8NNRDWvihqMLoJUVNmrQyKQgwgvh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boat Clipart | 10 JPG | Watercolor Boat Clipart, Sailboat JPG Sailing Boat  Clipart, Boat Clipart Boat Clip Art, Boat JPG, Pontoon Boat - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43201484/r/il/8ff49e/5781880953/il_1080xN.5781880953_l822.jpg' alt='Boat Clipart | 10 JPG | Watercolor Boat Clipart, Sailboat JPG Sailing Boat  Clipart, Boat Clipart Boat Clip Art, Boat JPG, Pontoon Boat - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43201484/r/il/8ff49e/5781880953/il_1080xN.5781880953_l822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Boat Transparent PNG Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/17113' alt='Blue Boat Transparent PNG Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="5634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/17113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boat Outline Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/244/240/non_2x/boat-outline-icon-free-vector.jpg' alt='Boat Outline Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/244/240/non_2x/boat-outline-icon-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand drawn Wooden boat cartoon vector illustration clipart white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hand-drawn-wooden-boat-cartoon-vector-illustration-clipart-white-background_191095-40902.jpg?w=360' alt='Hand drawn Wooden boat cartoon vector illustration clipart white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hand-drawn-wooden-boat-cartoon-vector-illustration-clipart-white-background_191095-40902.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boats and Ships Clipart-small wooden fishing boat clip art">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/small-wooden-fishing-boat-clip-art-59216.jpg' alt='Boats and Ships Clipart-small wooden fishing boat clip art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/small-wooden-fishing-boat-clip-art-59216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

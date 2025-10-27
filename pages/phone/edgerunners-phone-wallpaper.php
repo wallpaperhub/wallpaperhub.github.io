@@ -1,0 +1,129 @@
+<title>Edgerunners Phone Wallpapers: Vibrant Designs for Fans</title>
+                    <meta name="description" content="Discover the ultimate Edgerunners phone wallpapers! Enjoy high-quality designs that capture the essence of your favorite characters and scenes. Ideal for showcasing your love for the Cyberpunk universe. Download now and personalize your device with a touch of style!">
+                    <meta name="keywords" content="edgerunners phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/edgerunners-phone-wallpaper">
+                            <span itemprop="name">edgerunners phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgerunners Phone Wallpapers: Vibrant Designs for Fans</h1>
+                <p>Transform your screen with stunning Edgerunners phone wallpapers! Dive into the vibrant world of Cyberpunk with dynamic visuals featuring characters and scenes from the popular anime. Perfect for fans wanting to showcase their love for the series. Download now and enhance your phone's aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some iphone wallpapers for edgerunners! : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zzzmg7hpfvr91.png?width=640&crop=smart&auto=webp&s=194cada1c2d8fb34797de290893e0c4e223f751f' alt='made some iphone wallpapers for edgerunners! : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zzzmg7hpfvr91.png?width=640&crop=smart&auto=webp&s=194cada1c2d8fb34797de290893e0c4e223f751f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some iphone wallpapers for edgerunners! : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qrvgi6hpfvr91.png?width=640&crop=smart&auto=webp&s=3eb6b7087cfb2da1687e6df82aaec63193edf566' alt='made some iphone wallpapers for edgerunners! : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qrvgi6hpfvr91.png?width=640&crop=smart&auto=webp&s=3eb6b7087cfb2da1687e6df82aaec63193edf566' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom phone wallpaper : r/Edgerunners">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/custom-phone-wallpaper-v0-ydi588c1v1ab1.jpg?width=640&crop=smart&auto=webp&s=a6a3d10139e7948fcb2617629a092a0e556ec4ec' alt='Custom phone wallpaper : r/Edgerunners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/custom-phone-wallpaper-v0-ydi588c1v1ab1.jpg?width=640&crop=smart&auto=webp&s=a6a3d10139e7948fcb2617629a092a0e556ec4ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a vertical phone wallpaper since I didn't see one anywhere ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/yRXfNTQG2nBwq--Cd7ejpHAA5mtqVqSxNKFnahYRFFY.jpg?auto=webp&s=4bf8a79a1a7f072f075b3782d2986e929d659361' alt='I made a vertical phone wallpaper since I didn't see one anywhere ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/yRXfNTQG2nBwq--Cd7ejpHAA5mtqVqSxNKFnahYRFFY.jpg?auto=webp&s=4bf8a79a1a7f072f075b3782d2986e929d659361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom phone wallpaper : r/Edgerunners">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/custom-phone-wallpaper-v0-pt6oc8c1v1ab1.jpg?width=640&crop=smart&auto=webp&s=18a4ea87e4b17568e044a90abbbd56760dd28668' alt='Custom phone wallpaper : r/Edgerunners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/custom-phone-wallpaper-v0-pt6oc8c1v1ab1.jpg?width=640&crop=smart&auto=webp&s=18a4ea87e4b17568e044a90abbbd56760dd28668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Edgerunners 4K Ultra HD Mobile Wallpaper | Cyberpunk ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/19/ba/1b19bac887df8121fae90ed6b994ea25.jpg' alt='Cyberpunk Edgerunners 4K Ultra HD Mobile Wallpaper | Cyberpunk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/19/ba/1b19bac887df8121fae90ed6b994ea25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk: Edgerunners on X: "Time for an upgrade, choom! Grab the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fcs-pGRXwAgpACY.jpg' alt='Cyberpunk: Edgerunners on X: "Time for an upgrade, choom! Grab the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fcs-pGRXwAgpACY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this wallpaper for iPhone : r/Edgerunners">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rctw4jcenuo91.jpg' alt='Made this wallpaper for iPhone : r/Edgerunners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rctw4jcenuo91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="phone wallpaper collage by me, art by others. : r/Edgerunners">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-wallpaper-collage-by-me-art-by-others-v0-ohewhvvha3w91.jpg?width=640&crop=smart&auto=webp&s=b008f493b5a074c04b569b4406556799805f19b4' alt='phone wallpaper collage by me, art by others. : r/Edgerunners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-wallpaper-collage-by-me-art-by-others-v0-ohewhvvha3w91.jpg?width=640&crop=smart&auto=webp&s=b008f493b5a074c04b569b4406556799805f19b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk edgerunners Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/23/3b/21233b108a1cc0e3d3d0feee79e7c009.jpg' alt='Cyberpunk edgerunners Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/23/3b/21233b108a1cc0e3d3d0feee79e7c009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

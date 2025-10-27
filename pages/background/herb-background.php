@@ -1,0 +1,129 @@
+<title>Explore the World of Herbs: History & Uses</title>
+                    <meta name="description" content="Discover the fascinating background of herbs! From ancient culinary applications to their medicinal roles in traditional practices, learn about the diverse types of herbs and their impact on cultures around the globe. Perfect for home cooks and herbal enthusiasts alike!">
+                    <meta name="keywords" content="herb background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/herb-background">
+                            <span itemprop="name">herb background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Herbs: History & Uses</h1>
+                <p>Herbs have been treasured for centuries, revered for their culinary, medicinal, and aromatic properties. Originating from diverse climates worldwide, these plants are often categorized into culinary herbs like basil and thyme, and medicinal herbs such as ginseng and echinacea. Their rich history and versatility make them essential in various cultures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/21/79/00/360_F_321790080_JFFC2czBsHl2glOX29UPJm1FeDDmgydq.jpg' alt='Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/21/79/00/360_F_321790080_JFFC2czBsHl2glOX29UPJm1FeDDmgydq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/94/84/42/360_F_194844284_VLk82z8KnehVhd5EkxfY1zchvas2YUSu.jpg' alt='Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/94/84/42/360_F_194844284_VLk82z8KnehVhd5EkxfY1zchvas2YUSu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herb Garden - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0012_1s_Herb-Garden-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717831' alt='Herb Garden - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0012_1s_Herb-Garden-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbs Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-fresh-greens-white-background_140725-138860.jpg' alt='Herbs Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-fresh-greens-white-background_140725-138860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="635,791 Herb Stock Photos, High-Res Pictures, and Images - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1212239340/photo/fresh-scented-organic-herbs-for-cooking-shot-on-rustic-kitchen-table.jpg?s=612x612&w=gi&k=20&c=kTHJV5m0uJvacXV_Q8qX83s8GTedwG39y7VKZJhQ6Zo=' alt='635,791 Herb Stock Photos, High-Res Pictures, and Images - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1212239340/photo/fresh-scented-organic-herbs-for-cooking-shot-on-rustic-kitchen-table.jpg?s=612x612&w=gi&k=20&c=kTHJV5m0uJvacXV_Q8qX83s8GTedwG39y7VKZJhQ6Zo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,033,920 Herbal Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/herbal-background-grunge-effects-lots-copy-space-includes-sage-mint-spearmint-rosemary-coriander-parsley-oregano-thyme-35236601.jpg' alt='1,033,920 Herbal Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/herbal-background-grunge-effects-lots-copy-space-includes-sage-mint-spearmint-rosemary-coriander-parsley-oregano-thyme-35236601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/91/20/38/360_F_291203831_8B7j1scDrUsMsWkgWfquUptYXq4oHfpG.jpg' alt='Herbal Background Images – Browse 2,734,447 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/91/20/38/360_F_291203831_8B7j1scDrUsMsWkgWfquUptYXq4oHfpG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | herbal background">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/d9/d9b099c4282f818e19e6242c1bc1c15a_t.jpeg' alt='Free Photos | herbal background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/d9/d9b099c4282f818e19e6242c1bc1c15a_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/102/744/small_2x/cannabis-oil-gold-bubbles-on-green-blurred-background-with-cannabis-leafs-realistic-effect-vector.jpg' alt='Herbal Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/102/744/small_2x/cannabis-oil-gold-bubbles-on-green-blurred-background-with-cannabis-leafs-realistic-effect-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbal Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/016/413/096/small_2x/herbal-minimalist-and-modern-banner-with-free-space-for-text-hand-painted-plants-branches-leaves-on-a-white-background-greenery-wedding-simple-horizontal-template-free-vector.jpg' alt='Herbal Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/016/413/096/small_2x/herbal-minimalist-and-modern-banner-with-free-space-for-text-hand-painted-plants-branches-leaves-on-a-white-background-greenery-wedding-simple-horizontal-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

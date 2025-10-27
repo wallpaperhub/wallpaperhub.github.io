@@ -1,0 +1,129 @@
+<title>Vibrant Custom Holographic Stickers for Every Occasion</title>
+                    <meta name="description" content="Discover the allure of custom holographic stickers! Perfect for branding or personal use, these eye-catching decals can be personalized to elevate your projects. Explore unique designs and vibrant colors to make a statement wherever you go!">
+                    <meta name="keywords" content="custom holographic stickers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/custom-holographic-stickers">
+                            <span itemprop="name">custom holographic stickers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Custom Holographic Stickers for Every Occasion</h1>
+                <p>Custom holographic stickers are vibrant, eye-catching decals that feature a three-dimensional effect, making them perfect for branding, promotions, and personal projects. These unique stickers can be tailored in size, shape, and design to suit your needs. Ideal for adding a touch of flair to laptops, water bottles, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic stickers | Free shipping | Sticker Mule Canada">
+                                <img itemprop="contentUrl url" src='https://assets.stickermule.com/image/fetch/c_lfill,fl_lossy,f_auto,q_auto:best,w_auto/https%3A%2F%2Fstorage.googleapis.com%2Fsm-content%2Fcore%2Fproducts%2Fproducts%2Fholographic-stickers%2Fcover' alt='Holographic stickers | Free shipping | Sticker Mule Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sticker Mule" />
+                                </span>
+                                <a href='https://assets.stickermule.com/image/fetch/c_lfill,fl_lossy,f_auto,q_auto:best,w_auto/https%3A%2F%2Fstorage.googleapis.com%2Fsm-content%2Fcore%2Fproducts%2Fproducts%2Fholographic-stickers%2Fcover' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : instMerch Custom Holographic Stickers — Custom Personalized  Stickers for Business Logo — Rainbow Film Individually Cut Labels (Circle)  : ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71C+5pGvySL.jpg' alt='Amazon.com : instMerch Custom Holographic Stickers — Custom Personalized  Stickers for Business Logo — Rainbow Film Individually Cut Labels (Circle)  : ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71C+5pGvySL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic Stickers | Rockin Monkey">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1118/7224/t/46/assets/holographickitttencatstickersprintedbyrockinmonkeyforstarshipink-1672923546164.webp?v=1672923554' alt='Holographic Stickers | Rockin Monkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rockin Monkey" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1118/7224/t/46/assets/holographickitttencatstickersprintedbyrockinmonkeyforstarshipink-1672923546164.webp?v=1672923554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic Stickers">
+                                <img itemprop="contentUrl url" src='https://d3ccuprjuqkp1j.cloudfront.net/ProductLandingPages/FeaturedImages/Holographic_1_720x720_C_20201009144106_0.jpg' alt='Holographic Stickers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickerYou" />
+                                </span>
+                                <a href='https://d3ccuprjuqkp1j.cloudfront.net/ProductLandingPages/FeaturedImages/Holographic_1_720x720_C_20201009144106_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : avgrafx 120 Custom Holographic Stickers Labels Vinyl  Individualy Die Cut Label Stickers Your Design : Office Products">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sysTM2hxL.jpg' alt='Amazon.com : avgrafx 120 Custom Holographic Stickers Labels Vinyl  Individualy Die Cut Label Stickers Your Design : Office Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1506">
+                                <meta itemprop="height" content="1314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sysTM2hxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 2.5" Iridescent Holographic Stickers - Sticky Brand">
+                                <img itemprop="contentUrl url" src='https://thestickybrand.com/cdn/shop/files/acf.Holographic-Prismatic.jpg?v=1683314112' alt='Custom 2.5" Iridescent Holographic Stickers - Sticky Brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sticky Brand" />
+                                </span>
+                                <a href='https://thestickybrand.com/cdn/shop/files/acf.Holographic-Prismatic.jpg?v=1683314112' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic Stickers">
+                                <img itemprop="contentUrl url" src='https://customstickers.com/cdn/shop/files/customholographicstickers.jpg?v=1709244209' alt='Holographic Stickers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Stickers" />
+                                </span>
+                                <a href='https://customstickers.com/cdn/shop/files/customholographicstickers.jpg?v=1709244209' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic Clear Custom Stickers, Custom Product Labels ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20901236/r/il/8da23b/4526330965/il_1080xN.4526330965_ikgr.jpg' alt='Holographic Clear Custom Stickers, Custom Product Labels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20901236/r/il/8da23b/4526330965/il_1080xN.4526330965_ikgr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 holographic stickers for 40 bucks">
+                                <img itemprop="contentUrl url" src='https://awarddecals.com/wp-content/uploads/2022/11/holographic-custom-stickers-scaled-e1668012804357.jpg' alt='50 holographic stickers for 40 bucks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="1772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award Decals" />
+                                </span>
+                                <a href='https://awarddecals.com/wp-content/uploads/2022/11/holographic-custom-stickers-scaled-e1668012804357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Holographic Stickers">
+                                <img itemprop="contentUrl url" src='https://cdn.makestickers.com/products/6706fc38d1774bd4bdccf60abf7314cb.webp' alt='Custom Holographic Stickers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakeStickers" />
+                                </span>
+                                <a href='https://cdn.makestickers.com/products/6706fc38d1774bd4bdccf60abf7314cb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

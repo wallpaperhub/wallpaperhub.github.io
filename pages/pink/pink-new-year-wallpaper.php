@@ -1,0 +1,129 @@
+<title>Stunning Pink New Year Wallpapers for a Festive Touch</title>
+                    <meta name="description" content="Explore a collection of enchanting pink New Year wallpapers to celebrate the season in style. Perfect for every device, these wallpapers will add a festive flair while reflecting joy and elegance. Update your screens and welcome the New Year with vibrancy and charm! Download your favorites now!">
+                    <meta name="keywords" content="pink new year wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-new-year-wallpaper">
+                            <span itemprop="name">pink new year wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink New Year Wallpapers for a Festive Touch</h1>
+                <p>Transform your device this festive season with stunning pink New Year wallpapers! Embrace the spirit of new beginnings and vibrant celebrations while adding a touch of elegance to your screens. Choose from a variety of designs that reflect joy, hope, and the beautiful essence of the New Year. Celebrate in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free stock photos - Kaboompics">
+                                <img itemprop="contentUrl url" src='https://kaboompics.com/download/ca18c8cda3993b1430b21aeabb084576/original' alt='Free stock photos - Kaboompics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4907">
+                                <meta itemprop="height" content="3271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free stock photos - Kaboompics" />
+                                </span>
+                                <a href='https://kaboompics.com/download/ca18c8cda3993b1430b21aeabb084576/original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink New Years Images – Browse 741,625 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/98/10/45/360_F_1098104599_LmSfxdIjSU2NJehDLlXtEzs7yV85JGGU.jpg' alt='Pink New Years Images – Browse 741,625 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/98/10/45/360_F_1098104599_LmSfxdIjSU2NJehDLlXtEzs7yV85JGGU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/happy-new-year-banner-with-globes_23-2149539966.jpg' alt='New Year Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/happy-new-year-banner-with-globes_23-2149539966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink New Year Images – Browse 741,688 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/91/09/90/360_F_991099082_DRKOdHj7Gz4RDwGmHpv2syshDx0Wf0g8.jpg' alt='Pink New Year Images – Browse 741,688 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/91/09/90/360_F_991099082_DRKOdHj7Gz4RDwGmHpv2syshDx0Wf0g8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Year Pink Stock Illustrations – 87,684 Happy Year Pink Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pink-purple-fireworks-frame-glowing-sparkling-happy-new-year-mesmerizing-display-vibrant-fireworks-pink-purple-349591152.jpg' alt='Happy Year Pink Stock Illustrations – 87,684 Happy Year Pink Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pink-purple-fireworks-frame-glowing-sparkling-happy-new-year-mesmerizing-display-vibrant-fireworks-pink-purple-349591152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/bf/4e/10bf4ec323af3c67133b8d8a370ad4c3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/bf/4e/10bf4ec323af3c67133b8d8a370ad4c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free stock photos - Kaboompics">
+                                <img itemprop="contentUrl url" src='https://kaboompics.com/download/528cf8a58f5e450e2b03997e04d0b4a9/original' alt='Free stock photos - Kaboompics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2181">
+                                <meta itemprop="height" content="3271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free stock photos - Kaboompics" />
+                                </span>
+                                <a href='https://kaboompics.com/download/528cf8a58f5e450e2b03997e04d0b4a9/original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Purple Happy New Year Fireworks Background, Desktop ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-pink-and-purple-happy-new-year-fireworks-background-picture-image_1281400.jpg' alt='Pink And Purple Happy New Year Fireworks Background, Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-pink-and-purple-happy-new-year-fireworks-background-picture-image_1281400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Happy new year wallpaper ideas | happy new year wallpaper, new ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2b/d6/86/2bd68629f80ccfc2f029460b6ca0104d.jpg' alt='12 Happy new year wallpaper ideas | happy new year wallpaper, new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2b/d6/86/2bd68629f80ccfc2f029460b6ca0104d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/new-year-lettering-with-copy-space-pink-background_23-2148346476.jpg' alt='New Year Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/new-year-lettering-with-copy-space-pink-background_23-2148346476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

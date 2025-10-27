@@ -1,0 +1,129 @@
+<title>Cool Phone Wallpapers: Trendy Designs for Your Device</title>
+                    <meta name="description" content="Explore the ultimate collection of cool phone wallpapers! Enhance your smartphone with unique designs that showcase your style. Find modern, artistic, and vibrant wallpapers optimized for your mobile display. Refresh your device’s look today and express your individuality with every glance!">
+                    <meta name="keywords" content="wallpaper for phone cool">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wallpaper-for-phone-cool">
+                            <span itemprop="name">wallpaper for phone cool</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Phone Wallpapers: Trendy Designs for Your Device</h1>
+                <p>Discover a world of cool phone wallpapers that elevate your device's aesthetic! From minimalist designs to bold patterns and artistic illustrations, find the perfect background that matches your vibe. Customize your smartphone with stunning visuals that reflect your personality and keep you inspired every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Creative And Perfect HD Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/7e/9e/c57e9e5037ac440ba2530b1fcc174735.jpg' alt='42 Creative And Perfect HD Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/7e/9e/c57e9e5037ac440ba2530b1fcc174735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free cool phone wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJDaBwwC0/1/0/900w/canva-violet-and-yellow-retro-cool-minimalist-trippy-psychedelic-phone-wallpaper-iO7OSY0gJcs.jpg' alt='Free cool phone wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJDaBwwC0/1/0/900w/canva-violet-and-yellow-retro-cool-minimalist-trippy-psychedelic-phone-wallpaper-iO7OSY0gJcs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A really cool phone wallpaper I have on my phone : r/Mobpsycho100">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dso88e303oj51.jpg' alt='A really cool phone wallpaper I have on my phone : r/Mobpsycho100'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dso88e303oj51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL PHONE WALLPAPERS 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/47/d3/cd47d398ba00dde95af52daf4fc2c52b.jpg' alt='COOL PHONE WALLPAPERS 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/47/d3/cd47d398ba00dde95af52daf4fc2c52b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+] Cool Phone Wallpapers 4K, Full HD - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/2/0/5816464-1080x2160-phone-hd-cool-phone-background.jpg' alt='40+] Cool Phone Wallpapers 4K, Full HD - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/2/0/5816464-1080x2160-phone-hd-cool-phone-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL WALLPAPER PHONE - HeroWall | Phone Backgrounds. Free download!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjv70aK1pstM4khQhPIFghomTLZf01MS95trXOJ8pntyjiAwa3jPVC2o8iVDaeQz8ou2QE95prOidzrVEazKUaqKHYLXZx6xjZ_csdW48SzB_qT0p-K4_yAA1QGRiqH9Yws4Sv_5ke4bkZ-edgQHIt1aSh212lWjVxak1Il6nG39Yl_eHSzrxM-RcEdftk' alt='COOL WALLPAPER PHONE - HeroWall | Phone Backgrounds. Free download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjv70aK1pstM4khQhPIFghomTLZf01MS95trXOJ8pntyjiAwa3jPVC2o8iVDaeQz8ou2QE95prOidzrVEazKUaqKHYLXZx6xjZ_csdW48SzB_qT0p-K4_yAA1QGRiqH9Yws4Sv_5ke4bkZ-edgQHIt1aSh212lWjVxak1Il6nG39Yl_eHSzrxM-RcEdftk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download these cool wallpapers for your phone - Android Authority">
+                                <img itemprop="contentUrl url" src='https://www.androidauthority.com/wp-content/uploads/2024/02/Cool-wallpaper-2.jpg' alt='Download these cool wallpapers for your phone - Android Authority'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Authority" />
+                                </span>
+                                <a href='https://www.androidauthority.com/wp-content/uploads/2024/02/Cool-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool For Phones Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4809234.jpg' alt='Cool For Phones Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4809234.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free cool phone wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJFBPOJuw/1/0/900w/canva-charcoal-mint-green-bright-purple-tactile-psychedelic-no-copy-psychedelic-phone-wallpaper-PUeoaZriqbQ.jpg' alt='Free cool phone wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJFBPOJuw/1/0/900w/canva-charcoal-mint-green-bright-purple-tactile-psychedelic-no-copy-psychedelic-phone-wallpaper-PUeoaZriqbQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 COOL PHONE WALLPAPERS - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbPg2cZSUpXDrENxPsRp20Q37ETWDOHVnEyzg3ObgUix-nClVQKlEmphT1791fVQisaTfXLNJABFM5S2G6R71KKFRBdCK-kWc263piW4JxH0WH_VQ1Lrx_-V2jTrxx1RRIXe13S3YnkEf/d/cool-phone-wallpaper-12-1170x2535.jpg' alt='12 COOL PHONE WALLPAPERS - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbPg2cZSUpXDrENxPsRp20Q37ETWDOHVnEyzg3ObgUix-nClVQKlEmphT1791fVQisaTfXLNJABFM5S2G6R71KKFRBdCK-kWc263piW4JxH0WH_VQ1Lrx_-V2jTrxx1RRIXe13S3YnkEf/d/cool-phone-wallpaper-12-1170x2535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

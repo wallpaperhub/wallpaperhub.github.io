@@ -1,0 +1,129 @@
+<title>Preppy Christmas Wallpaper Collage: Festive Decor Ideas</title>
+                    <meta name="description" content="Discover how to enhance your holiday vibe with a preppy Christmas wallpaper collage. Easy to create and stylish, our ideas blend festive cheer with modern flair. Perfect for your home, these unique designs will elevate your seasonal decor and add a touch of sophistication to any space.">
+                    <meta name="keywords" content="preppy christmas wallpaper collage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/preppy-christmas-wallpaper-collage">
+                            <span itemprop="name">preppy christmas wallpaper collage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Christmas Wallpaper Collage: Festive Decor Ideas</h1>
+                <p>Transform your holiday decor with a stunning preppy Christmas wallpaper collage! Featuring festive patterns, vibrant colors, and chic designs, this collage brings a playful yet sophisticated charm to your festive celebrations. Perfect for a modern twist on classic holiday aesthetics, make your space shine with seasonal spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christmas Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/preppy-christmas-collage-fd4o9b8c9cdcozsd.webp' alt='Preppy Christmas Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/preppy-christmas-collage-fd4o9b8c9cdcozsd.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/d8/ba/07d8ba80f7a1bcf741939d19b08877e2.jpg' alt='christmas collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/d8/ba/07d8ba80f7a1bcf741939d19b08877e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/84/7d/1c847dcb39267e49fd203d8699754026.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/84/7d/1c847dcb39267e49fd203d8699754026.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/christmas-collage-zx1gtwib1vkn6bvf.jpg' alt='100+] Christmas Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/christmas-collage-zx1gtwib1vkn6bvf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/fc/02/b5fc02767eb447290e3a6df2c3a47c7f.jpg' alt='Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/fc/02/b5fc02767eb447290e3a6df2c3a47c7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Preppy Christmas Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-preppy-christmas-collage-1k5lsobhntx3nbd4.jpg' alt='Cool Preppy Christmas Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-preppy-christmas-collage-1k5lsobhntx3nbd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Download Preppy Christmas Collage Kit | Printable Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11459707/r/il/2cb7a3/4357104882/il_fullxfull.4357104882_ac3k.jpg' alt='Digital Download Preppy Christmas Collage Kit | Printable Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11459707/r/il/2cb7a3/4357104882/il_fullxfull.4357104882_ac3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="        ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/46/a8/1146a88d501749cbf99cc6ba7b1e5146.jpg' alt='        '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/46/a8/1146a88d501749cbf99cc6ba7b1e5146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHRISTMAS Digital Download Wall Collage Kit 50/85/125/165/200 Pcs Jolly,  Winter, Holiday, Trendy, VSCO - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23857363/r/il/829ef1/3469626872/il_1080xN.3469626872_cw39.jpg' alt='CHRISTMAS Digital Download Wall Collage Kit 50/85/125/165/200 Pcs Jolly,  Winter, Holiday, Trendy, VSCO - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23857363/r/il/829ef1/3469626872/il_1080xN.3469626872_cw39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Blue Christmas Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/preppy-blue-christmas-collage-mkeli93x3rmj4bs2.webp' alt='Preppy Blue Christmas Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/preppy-blue-christmas-collage-mkeli93x3rmj4bs2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

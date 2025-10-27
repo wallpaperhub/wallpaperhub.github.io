@@ -1,0 +1,129 @@
+<title>Elegant Black and Gold Backgrounds for Luxurious Designs</title>
+                    <meta name="description" content="Discover the beauty of luxury with our elegant black and gold backgrounds. Perfect for elevating your designs, these stunning visuals combine sophistication and style to captivate your audience. Ideal for upscale events or branding, they add a timeless touch to any project.">
+                    <meta name="keywords" content="luxury elegant black and gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/luxury-elegant-black-and-gold-background">
+                            <span itemprop="name">luxury elegant black and gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Gold Backgrounds for Luxurious Designs</h1>
+                <p>Experience the allure of luxury with an elegant black and gold background that exudes sophistication and style. This classic color combination adds a touch of opulence to any design, making it perfect for upscale events, marketing materials, or personal branding. Let your visuals stand out with this timeless aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black And Gold Background Stock Photos, Images and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/433/550/small/abstract-shiny-luxury-frame-black-and-gold-color-premium-design-party-invitation-card-copy-space-for-text-word-ai-generative-photo.jpg' alt='Elegant Black And Gold Background Stock Photos, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/433/550/small/abstract-shiny-luxury-frame-black-and-gold-color-premium-design-party-invitation-card-copy-space-for-text-word-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black and Gold luxury background for free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/4d/1c/194d1cb9d94267b14a5f6e08ac870bb2.jpg' alt='Download Black and Gold luxury background for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/4d/1c/194d1cb9d94267b14a5f6e08ac870bb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Black and Gold Background 2196269 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/196/269/non_2x/luxury-black-and-gold-background-free-vector.jpg' alt='Luxury Black and Gold Background 2196269 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/196/269/non_2x/luxury-black-and-gold-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Luxury elegant black and gold background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/luxury-elegant-black-gold-background_569389-2.jpg' alt='Premium Vector | Luxury elegant black and gold background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/luxury-elegant-black-gold-background_569389-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Elegant Black Gold Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg' alt='Luxury Elegant Black Gold Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Gold Background Images – Browse 4,340,099 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/69/29/63/360_F_369296387_GdDW7xx3YCXQeOx5AaW4IyH9hZhRo6Au.jpg' alt='Elegant Gold Background Images – Browse 4,340,099 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/69/29/63/360_F_369296387_GdDW7xx3YCXQeOx5AaW4IyH9hZhRo6Au.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Luxury black gold background. Elegant business ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/47/d1/6d47d175c6da489ae994114feda55290.jpg' alt='Download Luxury black gold background. Elegant business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/47/d1/6d47d175c6da489ae994114feda55290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Black Gold Background Stock Illustrations – 126,419 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gold-frame-beautiful-golden-glitter-design-vintage-style-decorative-border-isolated-black-background-deco-elegant-luxury-framework-128006199.jpg' alt='Beautiful Black Gold Background Stock Illustrations – 126,419 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gold-frame-beautiful-golden-glitter-design-vintage-style-decorative-border-isolated-black-background-deco-elegant-luxury-framework-128006199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Luxury Background">
+                                <img itemprop="contentUrl url" src='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/53331/vecteezy_black-and-gold_AD0321.jpg' alt='Black and Gold Luxury Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector4Free" />
+                                </span>
+                                <a href='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/53331/vecteezy_black-and-gold_AD0321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Elegant Black Gold Background Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2250513443/display_1500/stock-photo-black-and-gold-award-background-luxury-background-modern-abstract-template-straight-upward-2250513443.jpg' alt='Best Elegant Black Gold Background Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2250513443/display_1500/stock-photo-black-and-gold-award-background-luxury-background-modern-abstract-template-straight-upward-2250513443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>History of PCR: From Invention to Innovation</title>
+                    <meta name="description" content="Explore the fascinating history of Polymerase Chain Reaction (PCR), a groundbreaking technique invented in 1983 by Kary Mullis. Learn how PCR transformed molecular biology and enabled advances in genetics, forensics, and medical diagnostics. Discover its impact on modern science and technology.">
+                    <meta name="keywords" content="history of pcr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-pcr">
+                            <span itemprop="name">history of pcr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of PCR: From Invention to Innovation</h1>
+                <p>Polymerase Chain Reaction (PCR) was developed in 1983 by Kary Mullis, revolutionizing molecular biology. This technique allows for the amplification of specific DNA sequences, making it essential for genetic research, forensic analysis, and medical diagnostics. PCR's innovative approach has led to breakthroughs in genomics and biotechnology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of PCR | Thermo Fisher Scientific - US">
+                                <img itemprop="contentUrl url" src='https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/spotlight-articles/history-pcr/_jcr_content/MainParsys/image_9bde/backgroundimg.img.jpg/1691768769692.jpg' alt='The History of PCR | Thermo Fisher Scientific - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thermo Fisher Scientific" />
+                                </span>
+                                <a href='https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/spotlight-articles/history-pcr/_jcr_content/MainParsys/image_9bde/backgroundimg.img.jpg/1691768769692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of PCR | Thermo Fisher Scientific - US">
+                                <img itemprop="contentUrl url" src='https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/spotlight-articles/history-pcr/_jcr_content/MainParsys/image_789a/backgroundimg.img.jpg/1691768769618.jpg' alt='The History of PCR | Thermo Fisher Scientific - US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thermo Fisher Scientific" />
+                                </span>
+                                <a href='https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/spotlight-articles/history-pcr/_jcr_content/MainParsys/image_789a/backgroundimg.img.jpg/1691768769618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How does PCR work and what are its 3 steps? | INTEGRA">
+                                <img itemprop="contentUrl url" src='https://www.integra-biosciences.com/sites/default/files/styles/large/public/images/history-of-pcr.jpg?itok=dyteObB1' alt='How does PCR work and what are its 3 steps? | INTEGRA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Integra Biosciences" />
+                                </span>
+                                <a href='https://www.integra-biosciences.com/sites/default/files/styles/large/public/images/history-of-pcr.jpg?itok=dyteObB1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PCR Has a History of Amplifying Its Game">
+                                <img itemprop="contentUrl url" src='https://www.genengnews.com/wp-content/uploads/2018/10/Feb16_2016_NHGRI_PCR_factsheet1884523719.jpg' alt='PCR Has a History of Amplifying Its Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genetic Engineering and Biotechnology News" />
+                                </span>
+                                <a href='https://www.genengnews.com/wp-content/uploads/2018/10/Feb16_2016_NHGRI_PCR_factsheet1884523719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of PCR and Its Derivatives - Labtag Blog">
+                                <img itemprop="contentUrl url" src='https://blog.labtag.com/wp-content/uploads/2020/02/0026-600-x-250px.png' alt='A Brief History of PCR and Its Derivatives - Labtag Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Labtag Blog" />
+                                </span>
+                                <a href='https://blog.labtag.com/wp-content/uploads/2020/02/0026-600-x-250px.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline of key events in the early development of PCR. | Download ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/6966905/figure/fig1/AS:202938455728134@1425395706609/Timeline-of-key-events-in-the-early-development-of-PCR.png' alt='Timeline of key events in the early development of PCR. | Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/6966905/figure/fig1/AS:202938455728134@1425395706609/Timeline-of-key-events-in-the-early-development-of-PCR.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PCR ( real-time polymerase chain reaction (Real-Time PCR) Basic ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D12AQFWeqMUfVEyCA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1584717403489?e=1745452800&v=beta&t=DEu6lKUc7Oi76nGGUYeL8qcg94ZuENNyPnyy6eaj478' alt='PCR ( real-time polymerase chain reaction (Real-Time PCR) Basic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D12AQFWeqMUfVEyCA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1584717403489?e=1745452800&v=beta&t=DEu6lKUc7Oi76nGGUYeL8qcg94ZuENNyPnyy6eaj478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of PCR">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RhBiy4lyDkg/maxresdefault.jpg' alt='History of PCR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RhBiy4lyDkg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PCR in Forensic Science: A Critical Review">
+                                <img itemprop="contentUrl url" src='https://www.mdpi.com/genes/genes-15-00438/article_deploy/html/images/genes-15-00438-g001-550.jpg' alt='PCR in Forensic Science: A Critical Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://www.mdpi.com/genes/genes-15-00438/article_deploy/html/images/genes-15-00438-g001-550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History and Development of the Polymerase Chain Reaction (PCR ...">
+                                <img itemprop="contentUrl url" src='https://www.mybiosource.com/learn/wp-content/uploads/2023/04/1.1-1.jpg' alt='History and Development of the Polymerase Chain Reaction (PCR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1325">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyBioSource" />
+                                </span>
+                                <a href='https://www.mybiosource.com/learn/wp-content/uploads/2023/04/1.1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

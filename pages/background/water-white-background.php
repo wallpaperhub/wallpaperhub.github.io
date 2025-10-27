@@ -1,0 +1,129 @@
+<title>Water on White Background: Captivating Visuals</title>
+                    <meta name="description" content="Discover the beauty of water against a white background. This captivating imagery emphasizes clarity and purity, making it an ideal choice for art, marketing, and photography. Perfect for enhancing your brand, engage your audience with stunning visuals! Explore creative ways to utilize this aesthetic today.">
+                    <meta name="keywords" content="water white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/water-white-background">
+                            <span itemprop="name">water white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Water on White Background: Captivating Visuals</h1>
+                <p>Water on a white background creates a striking visual effect, emphasizing purity and clarity. The contrast highlights the fluidity and movement of water, making it ideal for product photography, branding, and artistic presentations. This combination captures attention while conveying freshness and simplicity, making it versatile for various uses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="446,000+ Water On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/476683764/photo/water-splash.jpg?s=612x612&w=0&k=20&c=s-R07t1YvhKEAsklGvpB4l8iPx6F7G1tvRx8ugwDf2o=' alt='446,000+ Water On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/476683764/photo/water-splash.jpg?s=612x612&w=0&k=20&c=s-R07t1YvhKEAsklGvpB4l8iPx6F7G1tvRx8ugwDf2o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="446,000+ Water On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1407660533/photo/water-liquid-splash-in-sphere-shape-isolated-on-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=b-N-6psOedHtL3HRDW375y3WqIgApo8b3FPMMcw4mqU=' alt='446,000+ Water On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1407660533/photo/water-liquid-splash-in-sphere-shape-isolated-on-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=b-N-6psOedHtL3HRDW375y3WqIgApo8b3FPMMcw4mqU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,800+ Glass Of Water On White Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/485685046/photo/glass-of-water.jpg?s=612x612&w=0&k=20&c=IhnBJVxcDkR_Igk1wIaFYVhG8EWTtrxwXYClhOT7gOs=' alt='47,800+ Glass Of Water On White Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/485685046/photo/glass-of-water.jpg?s=612x612&w=0&k=20&c=IhnBJVxcDkR_Igk1wIaFYVhG8EWTtrxwXYClhOT7gOs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water White Background Images – Browse 8,134,818 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/28/06/32/360_F_228063221_wB7FCbAoBmy8A3446YtkC1LxB8r3jWdW.jpg' alt='Water White Background Images – Browse 8,134,818 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/28/06/32/360_F_228063221_wB7FCbAoBmy8A3446YtkC1LxB8r3jWdW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glass of water isolated on white background 4178402 Stock Photo at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/178/402/large_2x/glass-of-water-isolated-on-white-background-photo.jpg' alt='Glass of water isolated on white background 4178402 Stock Photo at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1675">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/178/402/large_2x/glass-of-water-isolated-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,500+ Blue Water Droplets On White Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/801948192/photo/splash-fresh-drop-in-water-close-up.jpg?s=612x612&w=0&k=20&c=k1YgaMEf_Q8BA3-K8B2XhSKIc9cZ-JzpxjCp_kLyzWA=' alt='31,500+ Blue Water Droplets On White Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/801948192/photo/splash-fresh-drop-in-water-close-up.jpg?s=612x612&w=0&k=20&c=k1YgaMEf_Q8BA3-K8B2XhSKIc9cZ-JzpxjCp_kLyzWA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="water pouring into glass on white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/C42M4N/water-pouring-into-glass-on-white-background-C42M4N.jpg' alt='water pouring into glass on white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/C42M4N/water-pouring-into-glass-on-white-background-C42M4N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue water wave isolated on white background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/02/41/46/1000_F_302414671_wSnHnoxbsVGwUPan6NXHvFqghTjffHcR.jpg' alt='blue water wave isolated on white background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/02/41/46/1000_F_302414671_wSnHnoxbsVGwUPan6NXHvFqghTjffHcR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water on white background Stock Photos, Royalty Free Water on ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/20524830/26244/i/450/depositphotos_262446958-stock-photo-closeup-water-line-isolated-white.jpg' alt='Water on white background Stock Photos, Royalty Free Water on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/20524830/26244/i/450/depositphotos_262446958-stock-photo-closeup-water-line-isolated-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Water Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/water-ripple-texture-background-white-design_53876-142878.jpg' alt='White Water Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/water-ripple-texture-background-white-design_53876-142878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Overcoming Adversity: Insights from a Poor Background</title>
+                    <meta name="description" content="Explore the impact of a poor background on personal growth and resilience. Discover how challenges can inspire ambition and success, transforming adversity into a catalyst for positive change. Join us in understanding the journey from struggle to achievement.">
+                    <meta name="keywords" content="poor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/poor-background">
+                            <span itemprop="name">poor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Overcoming Adversity: Insights from a Poor Background</h1>
+                <p>Growing up in a poor background can shape one’s resilience and determination. Limited resources often foster creativity and drive, pushing individuals to overcome obstacles. While challenges can feel overwhelming, they also provide invaluable life lessons, igniting ambition to strive for a better future and inspiring a passion for change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you're poor, poverty is an environmental issue">
+                                <img itemprop="contentUrl url" src='https://scx2.b-cdn.net/gfx/news/2020/urbanpoverty.jpg' alt='If you're poor, poverty is an environmental issue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phys.org" />
+                                </span>
+                                <a href='https://scx2.b-cdn.net/gfx/news/2020/urbanpoverty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,633 Poor Photos, Pictures And Background Images For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220927/pngtree-slum-house-poor-houses-drying-photo-image_3123919.jpg' alt='5,633 Poor Photos, Pictures And Background Images For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220927/pngtree-slum-house-poor-houses-drying-photo-image_3123919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poverty Photos, Download The BEST Free Poverty Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg' alt='Poverty Photos, Download The BEST Free Poverty Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2208">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/384553/pexels-photo-384553.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="district of poor residential buildings, architecture background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/40/04/03/1000_F_140040390_yTmoHuzXppvPiLwQtNxPoM3Cb6aFOYZC.jpg' alt='district of poor residential buildings, architecture background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/40/04/03/1000_F_140040390_yTmoHuzXppvPiLwQtNxPoM3Cb6aFOYZC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poverty Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/134/566/small/ai-generated-malnourished-people-living-in-poverty-background-generate-ai-photo.jpg' alt='Poverty Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/134/566/small/ai-generated-malnourished-people-living-in-poverty-background-generate-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Landscape Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/5/5/2/large1500/255105391.jpg' alt='Colorful Landscape Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/5/5/2/large1500/255105391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark old wall and deserted for classic or vintage exterior on city ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/15/59/66/1000_F_215596614_1NCz33fwmzp6yqzLLgA1Yy9q9OD48xW0.jpg' alt='dark old wall and deserted for classic or vintage exterior on city ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/15/59/66/1000_F_215596614_1NCz33fwmzp6yqzLLgA1Yy9q9OD48xW0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poor background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/BXRJ5P/colorful-balconies-background-in-poor-latin-district-of-old-barcelona-BXRJ5P.jpg' alt='Poor background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/BXRJ5P/colorful-balconies-background-in-poor-latin-district-of-old-barcelona-BXRJ5P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picture of a poor family inside their house in Northeast Region of ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/350921015/figure/fig2/AS:1013267707224067@1618593255742/Picture-of-a-poor-family-inside-their-house-in-Northeast-Region-of-Brazil.ppm' alt='Picture of a poor family inside their house in Northeast Region of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/350921015/figure/fig2/AS:1013267707224067@1618593255742/Picture-of-a-poor-family-inside-their-house-in-Northeast-Region-of-Brazil.ppm' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poor asian family hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/E2356M/poor-family-in-cambodiaasians-asian-asia-outside-outdoor-employment-E2356M.jpg' alt='Poor asian family hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/E2356M/poor-family-in-cambodiaasians-asian-asia-outside-outdoor-employment-E2356M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

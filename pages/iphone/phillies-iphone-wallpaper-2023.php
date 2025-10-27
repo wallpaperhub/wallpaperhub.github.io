@@ -1,0 +1,129 @@
+<title>2023 Phillies iPhone Wallpaper: Download Now!</title>
+                    <meta name="description" content="Discover the ultimate 2023 Phillies iPhone wallpaper collection! Browse and download high-quality backgrounds showcasing your favorite players and team spirit. Perfect for any iPhone model. Show your love for the Phillies in style today!">
+                    <meta name="keywords" content="phillies iphone wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/phillies-iphone-wallpaper-2023">
+                            <span itemprop="name">phillies iphone wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>2023 Phillies iPhone Wallpaper: Download Now!</h1>
+                <p>Looking for the latest Phillies iPhone wallpaper for 2023? Check out our collection of stunning backgrounds featuring your favorite players, team logos, and iconic moments. Perfect for showing off your Phillies pride, these wallpapers are designed to fit any iPhone model seamlessly. Download yours today and elevate your phone's look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/ae/2b/18ae2bdc7c327708835b62d0d856f36e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/ae/2b/18ae2bdc7c327708835b62d0d856f36e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a Phillies wallpaper I made if any are interested  ⚾️ : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lu0syaotnc171.jpg' alt='Here's a Phillies wallpaper I made if any are interested  ⚾️ : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lu0syaotnc171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies - Prepping your wallpapers for baseball ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=963695898448877' alt='Philadelphia Phillies - Prepping your wallpapers for baseball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=963695898448877' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phillies Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/fe/0d/dafe0dfc746bdf790dd685e2e6c45b38.jpg' alt='Phillies Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/fe/0d/dafe0dfc746bdf790dd685e2e6c45b38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got a new wallpaper - Link to image in comments : r/phillies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/got-a-new-wallpaper-link-to-image-in-comments-v0-x41xv5xq2otb1.png?auto=webp&s=f179f30a50981954c11396c20c40661e71bebe04' alt='Got a new wallpaper - Link to image in comments : r/phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/got-a-new-wallpaper-link-to-image-in-comments-v0-x41xv5xq2otb1.png?auto=webp&s=f179f30a50981954c11396c20c40661e71bebe04' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/a9/90/efa9904c88558cec03f52a9841abb6dd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/a9/90/efa9904c88558cec03f52a9841abb6dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phillies Minimalist Wallpaper : r/phillies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phillies-minimalist-wallpaper-v0-voydoiykub7b1.jpg?width=640&crop=smart&auto=webp&s=09ecce9e418be14ac87d6c198d870623e4056104' alt='Phillies Minimalist Wallpaper : r/phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phillies-minimalist-wallpaper-v0-voydoiykub7b1.jpg?width=640&crop=smart&auto=webp&s=09ecce9e418be14ac87d6c198d870623e4056104' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National League Champions Phone Wallpaper I just made. Enjoy! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/national-league-champions-phone-wallpaper-i-just-made-enjoy-v0-1p7uwcvb2nv91.png?width=1080&crop=smart&auto=webp&s=2cffd4e717a68f6eece0d48ec0dc2f486dcba9e2' alt='National League Champions Phone Wallpaper I just made. Enjoy! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/national-league-champions-phone-wallpaper-i-just-made-enjoy-v0-1p7uwcvb2nv91.png?width=1080&crop=smart&auto=webp&s=2cffd4e717a68f6eece0d48ec0dc2f486dcba9e2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bryce Harper Phillies Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bryce-harper-phillies-5v9b4srj9r4r6aav.jpg' alt='Download Bryce Harper Phillies Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bryce-harper-phillies-5v9b4srj9r4r6aav.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phillies Wallpaper - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/55/fe/ff55fe9e3750f5e63127d9996dacb8e3.jpg' alt='Phillies Wallpaper - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/55/fe/ff55fe9e3750f5e63127d9996dacb8e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

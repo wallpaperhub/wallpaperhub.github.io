@@ -1,0 +1,129 @@
+<title>Kawaii Boba Wallpaper: Adorable Designs for Your Device</title>
+                    <meta name="description" content="Discover our collection of cute kawaii boba wallpapers! Perfect for adding a touch of whimsy to your phone or computer. Experience delightful designs that will make you smile and personalize your device effortlessly. Download now to enjoy these charming boba-themed backgrounds!">
+                    <meta name="keywords" content="cute kawaii boba wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cute-kawaii-boba-wallpaper">
+                            <span itemprop="name">cute kawaii boba wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Boba Wallpaper: Adorable Designs for Your Device</h1>
+                <p>Adorn your digital space with cute kawaii boba wallpaper! These charming designs feature adorable boba drinks in pastel colors, perfect for bringing a cheerful vibe to your screens. Whether you’re a fan of sweet treats or just love all things kawaii, this wall art will brighten your day and showcase your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Boba Tea Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' alt='Kawaii Boba Tea Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' alt='cute boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/2a/05/692a05ffd14516b9a5807b80ebe2117a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' alt='Peachy Cat Boba Tea Mobile + Desktop Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/02/peachy-cat-boba-tea-desktop-wallpaper-kawaii-hoshi-1536x864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Kawaii Boba Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1297610831/vector/postcard-with-kawaii-bubble-tea-on-a-pink-background-vector-graphics.jpg?s=612x612&w=0&k=20&c=zN6jlbQI7vgX7FrS3AxirnxkSOo51n0tuE6ScrtWpGs=' alt='1,000+ Kawaii Boba Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1297610831/vector/postcard-with-kawaii-bubble-tea-on-a-pink-background-vector-graphics.jpg?s=612x612&w=0&k=20&c=zN6jlbQI7vgX7FrS3AxirnxkSOo51n0tuE6ScrtWpGs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii bubble tea Wallpaper 4K, Love hearts, Rainbow">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2560x2560-11099.png' alt='Kawaii bubble tea Wallpaper 4K, Love hearts, Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2560x2560-11099.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Boba Tea With Kawaii Pearls Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-boba-tea-with-kawaii-pearls-jiiq8h0zikbj1zf1.jpg' alt='Download Cute Boba Tea With Kawaii Pearls Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-boba-tea-with-kawaii-pearls-jiiq8h0zikbj1zf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Peach Boba Wallpaper Cute Kawaii Drawings Tea on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/24/8f/e4248f568bb2b0c9908c1cfa41298c3c.jpg' alt='   Free download Peach Boba Wallpaper Cute Kawaii Drawings Tea on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/24/8f/e4248f568bb2b0c9908c1cfa41298c3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii, boba, cute, drinks, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/236/918/HD-wallpaper-kawaii-boba-cute-drinks.jpg' alt='Kawaii, boba, cute, drinks, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/236/918/HD-wallpaper-kawaii-boba-cute-drinks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Boba Tea Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/starry-cute-boba-tea-kca6kdnsuujaa31w.jpg' alt='100+] Cute Boba Tea Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/starry-cute-boba-tea-kca6kdnsuujaa31w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii bubble tea Wallpaper 4K, Kawaii boba tea, Cute tea cups">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2560x1440-10101.png' alt='Kawaii bubble tea Wallpaper 4K, Kawaii boba tea, Cute tea cups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2560x1440-10101.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

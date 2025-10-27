@@ -1,0 +1,129 @@
+<title>Spook-tacular Fortnite Halloween Wallpapers for Your Screens!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="fortnite halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/fortnite-halloween-wallpaper">
+                            <span itemprop="name">fortnite halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spook-tacular Fortnite Halloween Wallpapers for Your Screens!</h1>
+                <p>Transform your gaming space with vibrant Fortnite Halloween wallpapers! Discover exciting designs featuring your favorite characters and spooky themes to celebrate the season. Perfect for setting the mood during your gameplay, these wallpapers add a festive touch to your device. Download now and embrace the Halloween spirit in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnitemares 2024 | Everything in the Halloween event explained ...">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/3/2024/10/Fortnitemares-651b84c.jpeg' alt='Fortnitemares 2024 | Everything in the Halloween event explained ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radio Times" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/3/2024/10/Fortnitemares-651b84c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What fortnite holiday is better? : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-fortnite-holiday-is-better-v0-0r7sk2oqqyud1.png?width=640&crop=smart&auto=webp&s=e859d9de4833927e17d0c121a12d27ee149b5cc3' alt='What fortnite holiday is better? : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-fortnite-holiday-is-better-v0-0r7sk2oqqyud1.png?width=640&crop=smart&auto=webp&s=e859d9de4833927e17d0c121a12d27ee149b5cc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Halloween Pumpkin Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/fortnite-halloween-pumpkin_bG5ubWuUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Fortnite Halloween Pumpkin Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/fortnite-halloween-pumpkin_bG5ubWuUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Battle Royale Halloween 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fortnite-battle-royale-halloween-4k-ciao1xi1sizccocg.jpg' alt='Fortnite Battle Royale Halloween 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fortnite-battle-royale-halloween-4k-ciao1xi1sizccocg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Halloween Duo HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d7/36/0d/d7360dd28f632ef069b72dfcf906154a.jpg' alt='Fortnite Halloween Duo HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d7/36/0d/d7360dd28f632ef069b72dfcf906154a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Halloween Video Game Fortnite 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/104/1049952.jpg' alt='Download Halloween Video Game Fortnite 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/104/1049952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  BAZOOKA2D HALLOWEEN   8228-6108-2295 by hufxfeat - Fortnite">
+                                <img itemprop="contentUrl url" src='https://cdn-0001.qstv.on.epicgames.com/ViVyguOQZnfflPeeQo/image/landscape_comp.jpeg' alt='  BAZOOKA2D HALLOWEEN   8228-6108-2295 by hufxfeat - Fortnite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn-0001.qstv.on.epicgames.com/ViVyguOQZnfflPeeQo/image/landscape_comp.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Season 6 Halloween • Images • WallpaperFusion by Binary ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperfusion.com/Download/25896/?W=1920&H=1080' alt='Fortnite Season 6 Halloween • Images • WallpaperFusion by Binary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperFusion" />
+                                </span>
+                                <a href='https://www.wallpaperfusion.com/Download/25896/?W=1920&H=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnitehalloweenupdate 4365643b by frostrobloxfnf46 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80fb4669-3a42-4376-b4b0-fe0ca35bf23b/did1naq-414cb175-673d-4f70-8d3f-920231511e25.jpg/v1/fill/w_1192,h_670,q_70,strp/fortnitehalloweenupdate_4365643b_by_frostrobloxfnf46_did1naq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODBmYjQ2NjktM2E0Mi00Mzc2LWI0YjAtZmUwY2EzNWJmMjNiXC9kaWQxbmFxLTQxNGNiMTc1LTY3M2QtNGY3MC04ZDNmLTkyMDIzMTUxMWUyNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.K_vZmk2ax1fwgN82itoCfCveQ_Ed3-5gXUlSDfYsENw' alt='Fortnitehalloweenupdate 4365643b by frostrobloxfnf46 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80fb4669-3a42-4376-b4b0-fe0ca35bf23b/did1naq-414cb175-673d-4f70-8d3f-920231511e25.jpg/v1/fill/w_1192,h_670,q_70,strp/fortnitehalloweenupdate_4365643b_by_frostrobloxfnf46_did1naq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODBmYjQ2NjktM2E0Mi00Mzc2LWI0YjAtZmUwY2EzNWJmMjNiXC9kaWQxbmFxLTQxNGNiMTc1LTY3M2QtNGY3MC04ZDNmLTkyMDIzMTUxMWUyNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.K_vZmk2ax1fwgN82itoCfCveQ_Ed3-5gXUlSDfYsENw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Halloween, battle, creepy, haloween, panda, royale, scary ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/161/568/HD-wallpaper-fortnite-halloween-battle-creepy-haloween-panda-royale-scary-skelton-spooky-zombie.jpg' alt='Fortnite Halloween, battle, creepy, haloween, panda, royale, scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/161/568/HD-wallpaper-fortnite-halloween-battle-creepy-haloween-panda-royale-scary-skelton-spooky-zombie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

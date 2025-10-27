@@ -1,0 +1,129 @@
+<title>Inspire Your iPhone 11 with Beautiful Bible Verse Wallpapers</title>
+                    <meta name="description" content="Discover a collection of beautiful Bible verse wallpapers for your iPhone 11. Elevate your device with inspiring quotes and messages that reinforce positivity and faith, perfect for daily encouragement. Find your favorite design now and let your phone reflect your beliefs.">
+                    <meta name="keywords" content="bible verse wallpaper iphone 11">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/bible-verse-wallpaper-iphone-11">
+                            <span itemprop="name">bible verse wallpaper iphone 11</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspire Your iPhone 11 with Beautiful Bible Verse Wallpapers</h1>
+                <p>Transform your iPhone 11 with inspiring Bible verse wallpapers that uplift your spirit daily. Choose from a variety of stunning designs that feature powerful scriptures, enhancing both aesthetics and motivation. Perfect for creating a daily reminder of faith and positivity, these wallpapers will keep you connected to your beliefs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-2160-x-3840-wallpaper-8bqed5utsgiiz8n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Bible Verse and Christian Phone Wallpaper - The Arc">
+                                <img itemprop="contentUrl url" src='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/10/Gal-6.9-iphone-wallpaper.jpg' alt='Free Bible Verse and Christian Phone Wallpaper - The Arc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tyndale House Publishers" />
+                                </span>
+                                <a href='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/10/Gal-6.9-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Bible Verse and Christian Phone Wallpaper - The Arc">
+                                <img itemprop="contentUrl url" src='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/07/Eccl-3-iphone-wallpaper.jpg' alt='Free Bible Verse and Christian Phone Wallpaper - The Arc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tyndale House Publishers" />
+                                </span>
+                                <a href='https://www.tyndale.com/sites/readthearc/wp-content/uploads/sites/12/2021/07/Eccl-3-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Christian iPhone Wallpapers | Download Our Collection for Free!">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2692/8118/files/He_Works_All_Things_for_Good_Christian_Iphone_Wallpaper.PNG?v=1584060042' alt='Pretty Christian iPhone Wallpapers | Download Our Collection for Free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rooted and Grounded" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2692/8118/files/He_Works_All_Things_for_Good_Christian_Iphone_Wallpaper.PNG?v=1584060042' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COURAGE BLACK, bible, bible verse, christian, god, inspirational ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/427/943/HD-wallpaper-courage-black-bible-bible-verse-christian-god-inspirational-sayings-spiritual-verse.jpg' alt='COURAGE BLACK, bible, bible verse, christian, god, inspirational ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/427/943/HD-wallpaper-courage-black-bible-bible-verse-christian-god-inspirational-sayings-spiritual-verse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Divine Grace - Jeremiah 29:11 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/divine-grace-jeremiah-29-11-wjtylczte95fjzz6-3.jpg' alt='Divine Grace - Jeremiah 29:11 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/divine-grace-jeremiah-29-11-wjtylczte95fjzz6-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uplifting Bible Verse On Pastel Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/uplifting-bible-verse-on-pastel-background-88j72sw3qkaxvu2v.jpg' alt='Uplifting Bible Verse On Pastel Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/uplifting-bible-verse-on-pastel-background-88j72sw3qkaxvu2v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verse wallpaper Jeremiah 29-11">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/89/06/d389062d9d4ba248b3336067894eba63.jpg' alt='Verse wallpaper Jeremiah 29-11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/89/06/d389062d9d4ba248b3336067894eba63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 16:11">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/11/23/201123b0b91011014f0c5adcb7fdbad3.jpg' alt='Psalm 16:11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/11/23/201123b0b91011014f0c5adcb7fdbad3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse, aesthetic, encouraging, inspiring, jesus, quote ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/486/476/HD-wallpaper-bible-verse-christ-encouraging-inspiring-jesus-pastel-pink-pretty-quote-saying.jpg' alt='Bible Verse, aesthetic, encouraging, inspiring, jesus, quote ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/486/476/HD-wallpaper-bible-verse-christ-encouraging-inspiring-jesus-pastel-pink-pretty-quote-saying.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

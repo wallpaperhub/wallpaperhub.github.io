@@ -1,0 +1,129 @@
+<title>Elegant Yellow Damask Wallpaper for a Stylish Home</title>
+                    <meta name="description" content="Discover the beauty of yellow damask wallpaper, perfect for adding sophistication to your home. This elegant design will elevate any room with its intricate patterns and warm tones. Easy to apply and maintain, it’s the ideal choice for homeowners looking to enhance their spaces beautifully.">
+                    <meta name="keywords" content="yellow damask wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-damask-wallpaper">
+                            <span itemprop="name">yellow damask wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Yellow Damask Wallpaper for a Stylish Home</h1>
+                <p>Yellow damask wallpaper adds a touch of elegance and sophistication to any room. Its intricate patterns and vibrant hue create a warm and inviting atmosphere, making it perfect for living rooms, bedrooms, or dining areas. Easy to apply and maintain, this wallpaper transforms spaces with its timeless charm and luxurious feel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper - Yellow Damask on White, Sold by the Yard ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5342408/r/il/642f40/5264655479/il_fullxfull.5264655479_52mj.jpg' alt='1960s Vintage Wallpaper - Yellow Damask on White, Sold by the Yard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5342408/r/il/642f40/5264655479/il_fullxfull.5264655479_52mj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York GR6027 Tapestry Damask Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/227379.jpg' alt='York GR6027 Tapestry Damask Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/227379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall SD25650 Document Damask Prepasted Wallpaper, Yellow, White -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816UHUBfpgL.jpg' alt='Norwall SD25650 Document Damask Prepasted Wallpaper, Yellow, White -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816UHUBfpgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Pineapple Damask Yellow Wallpaper – DecoratorsBest">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/7056589717550_6.jpg?v=1718735104' alt='Rifle Paper Co. Pineapple Damask Yellow Wallpaper – DecoratorsBest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1291">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/7056589717550_6.jpg?v=1718735104' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Fiorella Damask Yellow Wallpaper | Samples">
+                                <img itemprop="contentUrl url" src='https://images.ladesignconcepts.com/schumacher/sf-529191.jpg' alt='Schumacher Fiorella Damask Yellow Wallpaper | Samples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://images.ladesignconcepts.com/schumacher/sf-529191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GLOW4U Removable Peel and Stick Yellow Damask Wallpaper Mural  Roll Prepasted Self Adhesive Non-Woven Embossed Fabric Home Decor Wall  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ZZgRRFyVL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: GLOW4U Removable Peel and Stick Yellow Damask Wallpaper Mural  Roll Prepasted Self Adhesive Non-Woven Embossed Fabric Home Decor Wall  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ZZgRRFyVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Pineapple Damask Wallpaper - Yellow">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/RF7481_247a342d-d2c1-4b37-b845-48f7caa2d0df.jpg?v=1714684864&width=1445' alt='Rifle Paper Co. Pineapple Damask Wallpaper - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/RF7481_247a342d-d2c1-4b37-b845-48f7caa2d0df.jpg?v=1714684864&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DM4953 French Artichoke Damask Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/DM4953-French-Artichoke-Damask-Yellow-Wallpaper-3.jpg?v=1638796915' alt='DM4953 French Artichoke Damask Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/DM4953-French-Artichoke-Damask-Yellow-Wallpaper-3.jpg?v=1638796915' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Wall of Yellow Damask Wallpaper With Ornate Molding Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/49/60/46/1000_F_249604623_JKfjYdVMPFmP1JrIra6XKvXPpgVgtfi2.jpg' alt='Elegant Wall of Yellow Damask Wallpaper With Ornate Molding Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/49/60/46/1000_F_249604623_JKfjYdVMPFmP1JrIra6XKvXPpgVgtfi2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Feathered Damask Yellow/Cream Metallic Finish Vinyl on Non-woven  Non-Pasted Wallpaper Roll 25723">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/33bab843-6e0b-46cb-90e5-45059cfd4b18/svn/wallpaper-rolls-25723-64_600.jpg' alt='Unbranded Feathered Damask Yellow/Cream Metallic Finish Vinyl on Non-woven  Non-Pasted Wallpaper Roll 25723'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/33bab843-6e0b-46cb-90e5-45059cfd4b18/svn/wallpaper-rolls-25723-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

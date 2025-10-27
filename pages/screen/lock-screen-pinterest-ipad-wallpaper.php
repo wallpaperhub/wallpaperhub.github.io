@@ -1,0 +1,129 @@
+<title>Stunning Lock Screen Wallpaper Ideas for Your iPad on Pinterest</title>
+                    <meta name="description" content="Explore creative lock screen wallpaper ideas for your iPad on Pinterest. Find beautiful designs that suit your style and make your device stand out. Discover endless inspiration and elevate your iPad's look with unique and trendy wallpapers!">
+                    <meta name="keywords" content="lock screen pinterest ipad wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-pinterest-ipad-wallpaper">
+                            <span itemprop="name">lock screen pinterest ipad wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lock Screen Wallpaper Ideas for Your iPad on Pinterest</h1>
+                <p>Transform your iPad's lock screen with stunning Pinterest wallpapers! Discover a variety of beautiful designs ranging from minimalistic art to vibrant landscapes. With just a few taps, you can elevate your device's aesthetic. Explore endless inspiration on Pinterest to find the perfect wallpaper that reflects your style and personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/c0/97/fac097ee7e07d2d28053f0eff09ba562.jpg' alt='iPad lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/c0/97/fac097ee7e07d2d28053f0eff09ba562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lock Screen Background in 2022 | Ipad wallpaper quotes, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7a/7e/ee/7a7eeea9ddb39f6005226928607d1d68.jpg' alt='Cute Lock Screen Background in 2022 | Ipad wallpaper quotes, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7a/7e/ee/7a7eeea9ddb39f6005226928607d1d68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/55/ce/2555ced26e1289d460059e8e963d1713.jpg' alt='iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/55/ce/2555ced26e1289d460059e8e963d1713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Best iPad lockscreen ideas | cute wallpapers, kawaii wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/48/d9/8948d9e2e4482b937209ac25ac9a337b.jpg' alt='340 Best iPad lockscreen ideas | cute wallpapers, kawaii wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/48/d9/8948d9e2e4482b937209ac25ac9a337b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background, lock screen. ' stripe hearts ' (5)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/a9/8c/86a98c32d7faa0a06b40e7b3f6a04026.jpg' alt='Phone wallpaper, background, lock screen. ' stripe hearts ' (5)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/a9/8c/86a98c32d7faa0a06b40e7b3f6a04026.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="freetoedit #background #backgrounds #wallpaper #wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/9e/2f/4e/9e2f4e5d4219286a23bb0acaee149340.jpg' alt='freetoedit #background #backgrounds #wallpaper #wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/9e/2f/4e/9e2f4e5d4219286a23bb0acaee149340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK LOCK SCREEN">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/69/1a/1f/691a1f3ce71f38ce8df1f8d857550ade.jpg' alt='PINK LOCK SCREEN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/69/1a/1f/691a1f3ce71f38ce8df1f8d857550ade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/ca/da/14cadae2f58dcdf1dc78d1ae6b06c145.jpg' alt='Cute lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/ca/da/14cadae2f58dcdf1dc78d1ae6b06c145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positive Quote Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' alt='Positive Quote Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/a2/79/3ba2792ee884edd4451a2fd3924f6f73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/fd/dc/28fddc5b703a5fa05250121cc75d5bae.jpg' alt='iPhone Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="1183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/fd/dc/28fddc5b703a5fa05250121cc75d5bae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

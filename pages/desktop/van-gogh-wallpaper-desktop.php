@@ -1,0 +1,129 @@
+<title>Stunning Van Gogh Wallpaper for Your Desktop</title>
+                    <meta name="description" content="Discover beautiful Van Gogh wallpaper for your desktop. Enhance your screen with iconic artworks like "Starry Night." Perfect for art lovers looking to add creativity and inspiration to their workspace. Browse various styles and resolutions tailored for every aesthetic!">
+                    <meta name="keywords" content="van gogh wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/van-gogh-wallpaper-desktop">
+                            <span itemprop="name">van gogh wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Van Gogh Wallpaper for Your Desktop</h1>
+                <p>Transform your desktop with stunning Van Gogh wallpaper! Experience his iconic masterpieces, like "Starry Night" and "Sunflowers," right on your screen. These vibrant artworks not only enhance your workspace but also inspire creativity. Choose from various styles and resolutions to suit your personal aesthetic and elevate your digital experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent van Gogh Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/b/7/974448-2560x1600-desktop-hd-vincent-van-gogh-wallpaper-photo.jpg' alt='Vincent van Gogh Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/b/7/974448-2560x1600-desktop-hd-vincent-van-gogh-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Van Gogh Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTI0LWJnLTA1NmQuanBn.jpg' alt='Vincent Van Gogh Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTI0LWJnLTA1NmQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Van Gogh Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyNDQtcGRmYW1vdXNwYWludGluZ2V0YzA2ODAwNC0yLWltYWdlXzQuanBn.jpg' alt='Vincent Van Gogh Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyNDQtcGRmYW1vdXNwYWludGluZ2V0YzA2ODAwNC0yLWltYWdlXzQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent van Gogh Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/b/e/974450-1920x1080-desktop-1080p-vincent-van-gogh-wallpaper-image.jpg' alt='Vincent van Gogh Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/b/e/974450-1920x1080-desktop-1080p-vincent-van-gogh-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irises, Vincent van Gogh – high-quality wall murals with free ...">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/44767/van-gogh-vincent-irises.jpg?h=699&q=85' alt='Irises, Vincent van Gogh – high-quality wall murals with free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="817">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/44767/van-gogh-vincent-irises.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Van Gogh Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/van-gogh-wheat-field-with-cypresses-5uq91o74ejxb9aq4.jpg' alt='100+] Van Gogh Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/van-gogh-wheat-field-with-cypresses-5uq91o74ejxb9aq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is 5 different versions of the 'Starry Night' wallpaper that ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/d566c5zc7ak91.jpg?width=1080&crop=smart&auto=webp&s=d025fb4c4b2662ce4ba75c07938a6b1ae603086f' alt='Here is 5 different versions of the 'Starry Night' wallpaper that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/d566c5zc7ak91.jpg?width=1080&crop=smart&auto=webp&s=d025fb4c4b2662ce4ba75c07938a6b1ae603086f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Downloads | Van Gogh Gallery">
+                                <img itemprop="contentUrl url" src='https://www.vangoghgallery.com/downloads/starrynightwallpaper1.jpeg' alt='Wallpaper Downloads | Van Gogh Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vincent Van Gogh Gallery" />
+                                </span>
+                                <a href='https://www.vangoghgallery.com/downloads/starrynightwallpaper1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Van Gogh Night Water: HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/839/thumb-350-83960.webp' alt='Vincent Van Gogh Night Water: HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/839/thumb-350-83960.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Van Gogh Art Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/d1/c4/2bd1c4916582f2f6bc174485d5aa828f.jpg' alt='Awesome Van Gogh Art Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/d1/c4/2bd1c4916582f2f6bc174485d5aa828f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

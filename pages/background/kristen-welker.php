@@ -1,0 +1,129 @@
+<title>Discover Kristen Welker: NBC News Anchor & Political Journalist</title>
+                    <meta name="description" content="Explore the career of Kristen Welker, acclaimed NBC News anchor and political journalist. Learn about her impactful reporting, interviews, and significant role in covering major political events. Stay informed with insights from a leading voice in news today!">
+                    <meta name="keywords" content="kristen welker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kristen-welker">
+                            <span itemprop="name">kristen welker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Kristen Welker: NBC News Anchor & Political Journalist</h1>
+                <p>Kristen Welker is an acclaimed NBC News correspondent and co-anchor of "Weekend Today." Known for her insightful reporting and sharp interviewing skills, she has covered significant political events, including presidential elections and White House briefings. Welker is recognized for her ability to ask tough questions while maintaining professionalism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kristen Welker - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/64/Governor-healey-participates-in-fireside-chat-with-nh-gov-sununu_53662835948_o_%281%29.jpg' alt='Kristen Welker - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2271">
+                                <meta itemprop="height" content="3026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/64/Governor-healey-participates-in-fireside-chat-with-nh-gov-sununu_53662835948_o_%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kristen Welker - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristen_Welker_by_Gage_Skidmore.jpg/220px-Kristen_Welker_by_Gage_Skidmore.jpg' alt='Kristen Welker - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristen_Welker_by_Gage_Skidmore.jpg/220px-Kristen_Welker_by_Gage_Skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBC News Author Kristen Welker">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2024_04/3636548/screenshot_2024-01-23_at_3-34-51_pm.png' alt='NBC News Author Kristen Welker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2024_04/3636548/screenshot_2024-01-23_at_3-34-51_pm.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kristen Welker (@kwelkernbc) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1701241641309196289/tnFQ8JTZ_400x400.jpg' alt='Kristen Welker (@kwelkernbc) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1701241641309196289/tnFQ8JTZ_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Kristen Welker - Edward M. Kennedy Institute for the United ...">
+                                <img itemprop="contentUrl url" src='https://emkinstitute.org/wp-content/uploads/2023/12/Kristen-Welker_MTP-e1703093216800-929x1024.jpg' alt='About Kristen Welker - Edward M. Kennedy Institute for the United ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edward M. Kennedy Institute" />
+                                </span>
+                                <a href='https://emkinstitute.org/wp-content/uploads/2023/12/Kristen-Welker_MTP-e1703093216800-929x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday to my love, John Patrick Hughes! Margot and I are ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2998299282806716418' alt='Happy Birthday to my love, John Patrick Hughes! Margot and I are ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2998299282806716418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBC News' Kristen Welker Expecting First Baby Through Surrogate">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/1gPnkIw7GggcExGLBYcJjQvfqZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/Kristen-Welker-8da4872456904d2281cccfcae7eeeafe.jpg' alt='NBC News' Kristen Welker Expecting First Baby Through Surrogate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/1gPnkIw7GggcExGLBYcJjQvfqZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/Kristen-Welker-8da4872456904d2281cccfcae7eeeafe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBC's Kristen Welker and Husband Expecting 2nd Baby Via Surrogate ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2024/05/NBCs-Kristen-Welker-Expecting-Baby-No.-2-Via-Surrogate-With-Husband-John-Hughes-1.jpg?quality=86&strip=all' alt='NBC's Kristen Welker and Husband Expecting 2nd Baby Via Surrogate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1563">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2024/05/NBCs-Kristen-Welker-Expecting-Baby-No.-2-Via-Surrogate-With-Husband-John-Hughes-1.jpg?quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Congratulations to my friend @laurajarrett! I'm so excited to ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3165832874872180973' alt='Congratulations to my friend @laurajarrett! I'm so excited to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3165832874872180973' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kristen Welker of 'Meet the Press' Welcomes Second Baby Via Surrogate">
+                                <img itemprop="contentUrl url" src='https://www.tvinsider.com/wp-content/uploads/2024/06/kristen-welker-john-hughes-1014x570.jpg' alt='Kristen Welker of 'Meet the Press' Welcomes Second Baby Via Surrogate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://www.tvinsider.com/wp-content/uploads/2024/06/kristen-welker-john-hughes-1014x570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

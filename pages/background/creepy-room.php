@@ -1,0 +1,129 @@
+<title>Creepy Room: Uncover Secrets of the Haunted Space</title>
+                    <meta name="description" content="Explore the eerie atmosphere of the creepy room filled with shadows, whispers, and untold stories. Discover the chilling secrets that lie within, and step carefully into a world where every creak and flicker sends shivers down your spine. Perfect for thrill-seekers and ghost story lovers!">
+                    <meta name="keywords" content="creepy room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/creepy-room">
+                            <span itemprop="name">creepy room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creepy Room: Uncover Secrets of the Haunted Space</h1>
+                <p>Step into the creepy room, where shadows dance and whispers echo. Dusty cobwebs cling to the corners, while the flickering light casts eerie shapes on the walls. Old portraits seem to follow your every move, and the air feels heavy with untold stories. Venture cautiously, for secrets lurk in the darkness waiting to be uncovered.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,700+ Creepy Room Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/998252956/photo/interrogation-room.jpg?s=612x612&w=0&k=20&c=Gp1DGJGp_oFLYB4VvZkhFWI0c6_Bt4bw8_8xbUJzajw=' alt='53,700+ Creepy Room Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/998252956/photo/interrogation-room.jpg?s=612x612&w=0&k=20&c=Gp1DGJGp_oFLYB4VvZkhFWI0c6_Bt4bw8_8xbUJzajw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SADFA 10x8ft Halloween Theme Photography Backdrop Scary Morgue  Haunted House Psychiatric Hospital Background Trick or Treat Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8148wStFZXL.jpg' alt='Amazon.com : SADFA 10x8ft Halloween Theme Photography Backdrop Scary Morgue  Haunted House Psychiatric Hospital Background Trick or Treat Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8148wStFZXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53,700+ Creepy Room Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1295605018/photo/old-empty-grunge-basement-room.jpg?s=612x612&w=0&k=20&c=9SzbVg1JHfO0fGwqM_hQTf_uSx0hBylXBx4hG-s8DGs=' alt='53,700+ Creepy Room Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1295605018/photo/old-empty-grunge-basement-room.jpg?s=612x612&w=0&k=20&c=9SzbVg1JHfO0fGwqM_hQTf_uSx0hBylXBx4hG-s8DGs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO Fabric Scary Hospital Mortuary Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XzuW-9JqL.jpg' alt='Amazon.com : CORFOTO Fabric Scary Hospital Mortuary Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XzuW-9JqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,756 Creepy Room Shadows Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/oldfashioned-spooky-living-room-big-600nw-2493528053.jpg' alt='5,756 Creepy Room Shadows Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/oldfashioned-spooky-living-room-big-600nw-2493528053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Room Images – Browse 104,704 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/94/19/95/360_F_394199500_PnmPvK9zpImiv5TxvrPfjN0YM99DBqyQ.jpg' alt='Creepy Room Images – Browse 104,704 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/94/19/95/360_F_394199500_PnmPvK9zpImiv5TxvrPfjN0YM99DBqyQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy room : r/dioramas">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aegioh78j7ob1.jpg' alt='Creepy room : r/dioramas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7122">
+                                <meta itemprop="height" content="4573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aegioh78j7ob1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Room Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511406361295-0a1ff814c0ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlZXB5JTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D' alt='Creepy Room Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511406361295-0a1ff814c0ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlZXB5JTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creepy Room Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1571554921588-2deac5ea478c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3JlZXB5JTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D' alt='Creepy Room Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1571554921588-2deac5ea478c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3JlZXB5JTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interior Creepy Old Room: Over 2,077 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/interior-design-horror-creepy-damage-260nw-1573035244.jpg' alt='Interior Creepy Old Room: Over 2,077 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/interior-design-horror-creepy-damage-260nw-1573035244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

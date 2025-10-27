@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Stick-On Wallpaper</title>
+                    <meta name="description" content="Elevate your home decor effortlessly with floral stick-on wallpaper. Easy to apply and remove, these designs bring nature indoors, adding a fresh touch to any room. Perfect for renters or a quick update. Discover endless possibilities with our stunning collection today!">
+                    <meta name="keywords" content="floral stick on wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/floral-stick-on-wallpaper">
+                            <span itemprop="name">floral stick on wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Stick-On Wallpaper</h1>
+                <p>Floral stick-on wallpaper offers an effortless way to transform your space with natural elegance. Easy to apply and remove, it's perfect for renters or those seeking a temporary upgrade. Available in various designs, it adds warmth and personality to any room. Embrace the beauty of nature indoors with this stylish decor solution.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Floral Peel & Stick Wallpaper, 17.3" x 120" Dark Floral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' alt='Simon&Siff Floral Peel & Stick Wallpaper, 17.3" x 120" Dark Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Floral Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' alt='Big Floral Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/big-floral-removable-peel-and-stick-wallpaper-249207.jpg?v=1734108605' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable ...">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' alt='Wallpaper Peel and Stick Wallpaper Vintage Dark Floral Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3728034770_1u6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/Peelandstickwallpaper.Wallpaper.Wallpapers.WallPaper.Peelandstickwallpapers.peelandstickwallpaper.peelstickwallpaper.PeonyRemovableWallpaper.removablewallpaper.peelandstickremovablewa.jpg?v=1703883981' alt='Peony Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/Peelandstickwallpaper.Wallpaper.Wallpapers.WallPaper.Peelandstickwallpapers.peelandstickwallpaper.peelstickwallpaper.PeonyRemovableWallpaper.removablewallpaper.peelandstickremovablewa.jpg?v=1703883981' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27349619/r/il/c24ddd/4181892928/il_1080xN.4181892928_7xs9.jpg' alt='Boho Vintage Floral Wallpaper Peel and Stick Wallpaper Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27349619/r/il/c24ddd/4181892928/il_1080xN.4181892928_7xs9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 40.5 sq. ft. Alabaster Summer Garden Floral Vinyl Peel ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/fc761bb1-b6ca-45c2-83ee-d0741557b7fb/svn/nextwall-wallpaper-rolls-nw43005-64_600.jpg' alt='NextWall 40.5 sq. ft. Alabaster Summer Garden Floral Vinyl Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/fc761bb1-b6ca-45c2-83ee-d0741557b7fb/svn/nextwall-wallpaper-rolls-nw43005-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Color Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D382">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5249120057_9ljz.jpg?v=1709591149&width=1946' alt='Pastel Color Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D382'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5249120057_9ljz.jpg?v=1709591149&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Floral Wallpaper Mural, Black Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/033af9/1936706158/il_fullxfull.1936706158_9s2o.jpg' alt='Peel and Stick Floral Wallpaper Mural, Black Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2083">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/033af9/1936706158/il_fullxfull.1936706158_9s2o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick - Farm Wall Wallpaper, Wildwood Self  Adhesive for Home Bedroom Cabinets Kitchen Countertop Thicken 17.71"x118"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Go10yzcTL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick - Farm Wall Wallpaper, Wildwood Self  Adhesive for Home Bedroom Cabinets Kitchen Countertop Thicken 17.71"x118"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Go10yzcTL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

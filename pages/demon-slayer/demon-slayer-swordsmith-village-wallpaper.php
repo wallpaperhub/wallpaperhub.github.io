@@ -1,0 +1,129 @@
+<title>Demon Slayer Swordsmith Village Wallpapers for Fans</title>
+                    <meta name="description" content="Discover captivating Demon Slayer Swordsmith Village wallpapers! Perfect for fans of the anime, these high-resolution images will enhance your devices while showcasing the art and characters of this beloved series. Download your favorites now and bring the excitement of Demon Slayer to your screens!">
+                    <meta name="keywords" content="demon slayer swordsmith village wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer">
+                            <span itemprop="name">Demon Slayer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer/demon-slayer-swordsmith-village-wallpaper">
+                            <span itemprop="name">demon slayer swordsmith village wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Slayer Swordsmith Village Wallpapers for Fans</h1>
+                <p>Explore stunning Demon Slayer Swordsmith Village wallpapers that capture the essence of this anime classic. Featuring vibrant visuals and beloved characters, these wallpapers are perfect for fans looking to enhance their devices with an artistic touch. Dive into a world of fantasy and adventure with these stunning images!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kimetsu no Yaiba Swordsmith Village Arc (2023) Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nnz9k2bnsdla1.png' alt='kimetsu no Yaiba Swordsmith Village Arc (2023) Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nnz9k2bnsdla1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Demon Slayer Anime To The Swordsmith Village Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/demon-slayer-anime-to-the-swordsmith-village-05crqo0e0fzkql5q.jpg' alt='Download Demon Slayer Anime To The Swordsmith Village Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/demon-slayer-anime-to-the-swordsmith-village-05crqo0e0fzkql5q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="demon slayer wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/ac/d3/b5acd32c80996edb4e4459eb5ff0057f.jpg' alt='demon slayer wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/ac/d3/b5acd32c80996edb4e4459eb5ff0057f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer To The Swordsmith Village, demon-slayer-to-the ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/855/550/HD-wallpaper-demon-slayer-to-the-swordsmith-village-demon-slayer-to-the-swordsmith-village-anime-2023-movies-movies.jpg' alt='Demon Slayer To The Swordsmith Village, demon-slayer-to-the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/855/550/HD-wallpaper-demon-slayer-to-the-swordsmith-village-demon-slayer-to-the-swordsmith-village-anime-2023-movies-movies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="demon slayer swordsmith village new key visual - Anime Trending ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/demon-slayer-swordsmith-village-new-key-visual-e1684729720433.jpg' alt='demon slayer swordsmith village new key visual - Anime Trending ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Trending" />
+                                </span>
+                                <a href='https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/05/demon-slayer-swordsmith-village-new-key-visual-e1684729720433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer wallpapers: HD official art for phone and PC | ONE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.oneesports.gg/cdn-data/2023/12/Anime_DemonSlayer_TotheSwordsmithVillage_Season3_1-1024x576.jpg' alt='Demon Slayer wallpapers: HD official art for phone and PC | ONE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONE Esports" />
+                                </span>
+                                <a href='https://cdn.oneesports.gg/cdn-data/2023/12/Anime_DemonSlayer_TotheSwordsmithVillage_Season3_1-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="swordsmith village arc poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/44/90/b344903880df695c27c33aafbde43569.jpg' alt='swordsmith village arc poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/44/90/b344903880df695c27c33aafbde43569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc has an hour ...">
+                                <img itemprop="contentUrl url" src='https://media.nichegamer.com/wp-content/uploads/2023/03/demon-slayer-03-02-2023-e1677803856731.jpg' alt='Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc has an hour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1425">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Niche Gamer" />
+                                </span>
+                                <a href='https://media.nichegamer.com/wp-content/uploads/2023/03/demon-slayer-03-02-2023-e1677803856731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Demon Slayer: Kimetsu no Yaiba: Swordsmith Village Arc ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91WdbOEzygL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Demon Slayer: Kimetsu no Yaiba: Swordsmith Village Arc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91WdbOEzygL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc | OFFICIAL TRAILER">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/G9MJjAArKBk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzxXH-7_0QIYMBzXK3n43ucpvpIw' alt='Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc | OFFICIAL TRAILER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/G9MJjAArKBk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzxXH-7_0QIYMBzXK3n43ucpvpIw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

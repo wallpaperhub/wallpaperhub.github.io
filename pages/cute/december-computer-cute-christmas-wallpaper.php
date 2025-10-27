@@ -1,0 +1,129 @@
+<title>Adorable December Christmas Wallpapers for Your Computer</title>
+                    <meta name="description" content="Discover the cutest Christmas wallpapers for your computer this December! Enhance your digital space with festive designs that bring joy and holiday cheer. Perfect for creating a merry atmosphere as you celebrate the season. Download your favorites today and enjoy a delightful festive look!">
+                    <meta name="keywords" content="december computer cute christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/december-computer-cute-christmas-wallpaper">
+                            <span itemprop="name">december computer cute christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable December Christmas Wallpapers for Your Computer</h1>
+                <p>Transform your computer this December with adorable cute Christmas wallpapers! From cheerful snowmen and festive Santa Claus images to enchanting winter wonderlands, these wallpapers bring the holiday spirit right to your screen. Perfect for spreading joy and warmth, get ready to celebrate the season in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFxz4elOIA/1/0/1600w/canva-december-festive-christmas-desktop-wallpaper-zWNzaeIP2Ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPOBuST18/1/0/1600w/canva-green-gold-watercolor-tree-christmas-december-2022-calendar-desktop-wallpaper-kPwdxUbVWX0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFSAsQmQeg/1/0/1600w/canva-orange-illustrated-cute-christmas-house-desktop-wallpaper-IscQ9unhXnA.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFSAsQmQeg/1/0/1600w/canva-orange-illustrated-cute-christmas-house-desktop-wallpaper-IscQ9unhXnA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2019 Desktop Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/c1/f4/05c1f45da927b1f27566fa04aa133c2b.jpg' alt='December 2019 Desktop Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/c1/f4/05c1f45da927b1f27566fa04aa133c2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF253C8MDw/1/0/1600w/canva-pink-artsy-christmas-desktop-wallpaper--xz36duXy10.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF253C8MDw/1/0/1600w/canva-pink-artsy-christmas-desktop-wallpaper--xz36duXy10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Backgrounds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-christmas-tree-background_1048-17086.jpg' alt='Cute Christmas Backgrounds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-christmas-tree-background_1048-17086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Backgrounds for your Phone and Desktop">
+                                <img itemprop="contentUrl url" src='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-holiday-backgrounds-christmas-cars-800x450.jpg' alt='Holiday Backgrounds for your Phone and Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-holiday-backgrounds-christmas-cars-800x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Backgrounds for your Phone and Desktop">
+                                <img itemprop="contentUrl url" src='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-desktop-sweets2.jpg' alt='Holiday Backgrounds for your Phone and Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='https://www.danielle-moss.com/wp-content/uploads/2022/12/danielle-moss-december-desktop-sweets2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December 2016 Christmas Cookie Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2016/11/12_2016_wallpaper_computer_art.jpg' alt='December 2016 Christmas Cookie Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5333">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2016/11/12_2016_wallpaper_computer_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable Christmas desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPOHT3FNk/1/0/1600w/canva-green-cream-watercolor-tree-december-2022-calendar-winter-desktop-wallpaper-HWSnyQqhM1Y.jpg' alt='Free editable Christmas desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPOHT3FNk/1/0/1600w/canva-green-cream-watercolor-tree-december-2022-calendar-winter-desktop-wallpaper-HWSnyQqhM1Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

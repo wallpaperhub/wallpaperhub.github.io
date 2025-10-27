@@ -1,0 +1,129 @@
+<title>Free Horror Movie Characters SVG – Spooky Designs!</title>
+                    <meta name="description" content="Discover an array of free SVG designs featuring your favorite horror movie characters. Perfect for crafts, scrapbooking, or digital projects, these eerie silhouettes are sure to inspire creativity. Download now and start crafting with these spine-tingling designs!">
+                    <meta name="keywords" content="horror movie characters svg free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horror-movie-characters-svg-free">
+                            <span itemprop="name">horror movie characters svg free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Horror Movie Characters SVG – Spooky Designs!</h1>
+                <p>Explore a chilling collection of free SVG files featuring iconic horror movie characters! Perfect for crafting, DIY projects, or digital designs, these spooky silhouettes include classic figures like ghosts, monsters, and more. Download your favorites and bring a touch of fright to your next creative endeavor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror movie SVG & PNG pennywise svg, chucky svg, freddy svg ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/48/a5/3748a58840d480cf59d5736e151b8914.jpg' alt='Horror movie SVG & PNG pennywise svg, chucky svg, freddy svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/48/a5/3748a58840d480cf59d5736e151b8914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror movie characters in knives SVG Free - Cut files for Cricut ...">
+                                <img itemprop="contentUrl url" src='https://svg4k.com/wp-content/uploads/2022/08/Horror-movie-characters-SVG-Free.jpg' alt='Horror movie characters in knives SVG Free - Cut files for Cricut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free SVG Files" />
+                                </span>
+                                <a href='https://svg4k.com/wp-content/uploads/2022/08/Horror-movie-characters-SVG-Free.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends Horror Movies Svg Free Cut File For Cricut – RNOSA LTD | 8SVG">
+                                <img itemprop="contentUrl url" src='http://8svg.com/cdn/shop/products/8_383320c4-d982-4eaf-965d-5300554773a8.png?v=1691623113' alt='Friends Horror Movies Svg Free Cut File For Cricut – RNOSA LTD | 8SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="8SVG" />
+                                </span>
+                                <a href='http://8svg.com/cdn/shop/products/8_383320c4-d982-4eaf-965d-5300554773a8.png?v=1691623113' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror movie SVG & PNG pennywise svg, chucky svg, freddy svg ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/48/07/f84807c171416ef9766a4e2c3da6d603.jpg' alt='Horror movie SVG & PNG pennywise svg, chucky svg, freddy svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/48/07/f84807c171416ef9766a4e2c3da6d603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Free SVG Files | Free SVG Download">
+                                <img itemprop="contentUrl url" src='https://www.freesvgdownload.com/wp-content/uploads/2024/07/horror-movies.webp' alt='Horror Movie Free SVG Files | Free SVG Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free SVG" />
+                                </span>
+                                <a href='https://www.freesvgdownload.com/wp-content/uploads/2024/07/horror-movies.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Characters SVG Bundle">
+                                <img itemprop="contentUrl url" src='https://masterbundles.com/wp-content/uploads/edd/2022/01/il_1140xn.2857327756_57q1.png' alt='Horror Movie Characters SVG Bundle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MasterBundles" />
+                                </span>
+                                <a href='https://masterbundles.com/wp-content/uploads/edd/2022/01/il_1140xn.2857327756_57q1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Characters SVG Tumbler Template Digital Download">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-6delidahxt/images/stencil/1280x1280/products/2404/3780/COVER_Scary_Movie_Characters__39472.1694065506.jpg?c=1' alt='Horror Movie Characters SVG Tumbler Template Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kayla's Custom Designs" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-6delidahxt/images/stencil/1280x1280/products/2404/3780/COVER_Scary_Movie_Characters__39472.1694065506.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="horror movie characters svg | Inspire Uplift">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/1687153654_All.jpg' alt='horror movie characters svg | Inspire Uplift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/1687153654_All.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Characters Bundle svg eps dxf png file – lasoniansvg">
+                                <img itemprop="contentUrl url" src='http://www.lasoniansvg.com/cdn/shop/products/HL25092002232-HorrorMovieCharactersBundle_1200x1200.jpg?v=1665322761' alt='Horror Movie Characters Bundle svg eps dxf png file – lasoniansvg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lasoniansvg" />
+                                </span>
+                                <a href='http://www.lasoniansvg.com/cdn/shop/products/HL25092002232-HorrorMovieCharactersBundle_1200x1200.jpg?v=1665322761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Characters Pennywise Beetlejuice Michael Myers SVG ...">
+                                <img itemprop="contentUrl url" src='https://www.svgart.org/wp-content/uploads/2021/09/Horror-Movie-Characters-Pennywise-Beetlejuice-Michael-Myers-01-01.png' alt='Horror Movie Characters Pennywise Beetlejuice Michael Myers SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG Art" />
+                                </span>
+                                <a href='https://www.svgart.org/wp-content/uploads/2021/09/Horror-Movie-Characters-Pennywise-Beetlejuice-Michael-Myers-01-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

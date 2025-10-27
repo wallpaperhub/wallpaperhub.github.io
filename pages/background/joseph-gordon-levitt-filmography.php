@@ -1,0 +1,129 @@
+<title>Joseph Gordon-Levitt's Filmography: A Journey Through His Best Roles</title>
+                    <meta name="description" content="Explore the dynamic filmography of Joseph Gordon-Levitt, featuring his most memorable performances from "Inception" to "500 Days of Summer." Discover how this talented actor has shaped modern cinema with his diverse roles and directorial ventures.">
+                    <meta name="keywords" content="joseph gordon levitt filmography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joseph-gordon-levitt-filmography">
+                            <span itemprop="name">joseph gordon levitt filmography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joseph Gordon-Levitt's Filmography: A Journey Through His Best Roles</h1>
+                <p>Joseph Gordon-Levitt is a versatile actor known for his roles in various iconic films. His filmography includes standout performances in "Inception," "500 Days of Summer," and "Looper." Additionally, he has lent his voice to animated features and directed films like "Don Jon," showcasing his multifaceted talent in Hollywood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjM4NzMyNzMzMV5BMl5BanBnXkFtZTgwMjc2OTAzMTE@._V1_.jpg' alt='Joseph Gordon-Levitt - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1513">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjM4NzMyNzMzMV5BMl5BanBnXkFtZTgwMjc2OTAzMTE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjgyYTBlNTktNjJjMS00ZjY0LTg5ZTMtZjc4M2JjYmVkZTEwXkEyXkFqcGc@._V1_.jpg' alt='Joseph Gordon-Levitt - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1822">
+                                <meta itemprop="height" content="2551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjgyYTBlNTktNjJjMS00ZjY0LTg5ZTMtZjc4M2JjYmVkZTEwXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_.jpg' alt='Joseph Gordon-Levitt - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1421">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTczNDUzMTg0M15BMl5BanBnXkFtZTcwNDg2NDQzNA@@._V1_.jpg' alt='Joseph Gordon-Levitt - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTczNDUzMTg0M15BMl5BanBnXkFtZTcwNDg2NDQzNA@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dc/Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg' alt='Joseph Gordon-Levitt - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="1772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dc/Joseph_Gordon-Levitt_TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%28cropped%29.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/666_v9_bb.jpg' alt='Joseph Gordon-Levitt | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/666_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt's Best Comedy Movies, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/10-things-i-hate-about-you-buena-vista-pictures-distribution.jpg' alt='Joseph Gordon-Levitt's Best Comedy Movies, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MovieWeb" />
+                                </span>
+                                <a href='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/10-things-i-hate-about-you-buena-vista-pictures-distribution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt's 10 best films ranked in order of greatness ...">
+                                <img itemprop="contentUrl url" src='https://faroutmagazine.co.uk/static/uploads/1/2021/02/Joseph-Gordon-Levitts-10-best-films-ranked-in-order-of-greatness.jpg' alt='Joseph Gordon-Levitt's 10 best films ranked in order of greatness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Far Out Magazine" />
+                                </span>
+                                <a href='https://faroutmagazine.co.uk/static/uploads/1/2021/02/Joseph-Gordon-Levitts-10-best-films-ranked-in-order-of-greatness.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top 10 Best Joseph Gordon-Levitt Movies Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/06/joseph-gordon-levitt-movies-ranked.png' alt='The Top 10 Best Joseph Gordon-Levitt Movies Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/06/joseph-gordon-levitt-movies-ranked.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joseph Gordon-Levitt - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WP_-_random_-5_%2814094372762%29.jpg/170px-WP_-_random_-5_%2814094372762%29.jpg' alt='Joseph Gordon-Levitt - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WP_-_random_-5_%2814094372762%29.jpg/170px-WP_-_random_-5_%2814094372762%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

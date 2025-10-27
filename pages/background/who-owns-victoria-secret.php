@@ -1,0 +1,129 @@
+<title>Who Owns Victoria's Secret? Ownership Explained</title>
+                    <meta name="description" content="Discover who owns Victoria's Secret and the evolution of its ownership since its founding. Learn about L Brands, Inc. and the transition to independence in the retail landscape as Victoria's Secret continues to define lingerie fashion. Stay informed about this iconic brand's journey!">
+                    <meta name="keywords" content="who owns victoria secret">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-owns-victoria-secret">
+                            <span itemprop="name">who owns victoria secret</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Owns Victoria's Secret? Ownership Explained</h1>
+                <p>Victoria's Secret is owned by L Brands, Inc., a company founded by Leslie Wexner in 1963. After years of success, in 2020, L Brands announced plans to spin off Victoria's Secret as a separate publicly traded entity. In 2021, the brand officially became its independent company and now operates on its own in the retail market.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Les Wexner, Victoria's Secret Owner, Is in Talks to Step Down ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/01/29/business/29wexner/merlin_168037218_9013407e-b561-434c-8342-d5e27f7192d5-superJumbo.jpg' alt='Les Wexner, Victoria's Secret Owner, Is in Talks to Step Down ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1117">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/01/29/business/29wexner/merlin_168037218_9013407e-b561-434c-8342-d5e27f7192d5-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victoria's Secret Owner Les Wexner In Talks To Step Down">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/538742678/0x0.jpg?format=jpg&crop=2000,1500,x0,y0,safe&height=900&width=1600&fit=bounds' alt='Victoria's Secret Owner Les Wexner In Talks To Step Down'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/538742678/0x0.jpg?format=jpg&crop=2000,1500,x0,y0,safe&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Les Wexner: Decline and Fall of Victoria's Secret Titan ...">
+                                <img itemprop="contentUrl url" src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwWy6xJgngGg/v0/-1x-1.webp' alt='Who Is Les Wexner: Decline and Fall of Victoria's Secret Titan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg" />
+                                </span>
+                                <a href='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwWy6xJgngGg/v0/-1x-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="L Brands Founder Leslie H. Wexner Leaves Victoria's Secret">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2020/01/leslie-wexner-cover-1.jpg' alt='L Brands Founder Leslie H. Wexner Leaves Victoria's Secret'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2020/01/leslie-wexner-cover-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Les Wexner, the man behind Victoria's Secret">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/w-uXHoJiFCX6aGMG1JvatS99STvjhK0ZsLtk6koBIgmrPDaDtgzU_mQlQMxzaDqM7rKEQPu_4BHreyWg3DW4IhZ8=s750' alt='Les Wexner, the man behind Victoria's Secret'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wanted Online" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/w-uXHoJiFCX6aGMG1JvatS99STvjhK0ZsLtk6koBIgmrPDaDtgzU_mQlQMxzaDqM7rKEQPu_4BHreyWg3DW4IhZ8=s750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victoria's Secret' Hulu: Who is Les Wexner and Where Is He Now ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2075167/les-wexner.jpg?w=1600&h=1600&q=88&f=6b20bab9e42dc9034841a8a328a77abc' alt='Victoria's Secret' Hulu: Who is Les Wexner and Where Is He Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2075167/les-wexner.jpg?w=1600&h=1600&q=88&f=6b20bab9e42dc9034841a8a328a77abc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victoria's Secret Billionaire to Sell $1.2 Billion of Company ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5bda0ae45f1f753c5e393185?width=700' alt='Victoria's Secret Billionaire to Sell $1.2 Billion of Company ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5bda0ae45f1f753c5e393185?width=700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeffrey Epstein's Shadowy Ties to Billionaire Founder of ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NfW2SjBh64s/hqdefault.jpg' alt='Jeffrey Epstein's Shadowy Ties to Billionaire Founder of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NfW2SjBh64s/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leslie Wexner may sell Victoria's Secret - report | CNN Business">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190808101205-les-wexner-2016-file-l-brands-ceo.jpg?q=x_63,y_0,h_768,w_1366,c_crop/w_1280' alt='Leslie Wexner may sell Victoria's Secret - report | CNN Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190808101205-les-wexner-2016-file-l-brands-ceo.jpg?q=x_63,y_0,h_768,w_1366,c_crop/w_1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victoria's Secret Doc Highlights Founder's Ties to Epstein">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/202267/rs_1200x1200-220707104146-1200.Les-Wexner-Jeffrey-Epstein.ct.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' alt='Victoria's Secret Doc Highlights Founder's Ties to Epstein'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/202267/rs_1200x1200-220707104146-1200.Les-Wexner-Jeffrey-Epstein.ct.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

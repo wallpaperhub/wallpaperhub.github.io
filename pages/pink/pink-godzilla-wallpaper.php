@@ -1,0 +1,129 @@
+<title>Stunning Pink Godzilla Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover the ultimate pink Godzilla wallpaper to brighten up your screens! Perfect for fans, this unique design adds a fun touch to your mobile and desktop backgrounds. Dive into a world of creativity and express your love for this iconic monster with an eye-catching, trendy look!">
+                    <meta name="keywords" content="pink godzilla wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-godzilla-wallpaper">
+                            <span itemprop="name">pink godzilla wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Godzilla Wallpaper for Your Device</h1>
+                <p>Transform your device with vibrant pink Godzilla wallpaper, a perfect blend of nostalgia and style. Ideal for fans of the iconic monster, this eye-catching design brings energy and personality to your screen. Impress friends and stand out from the crowd with unique wallpaper that showcases your love for all things Godzilla!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Godzilla looks kinda like…really cool : r/Monsterverse">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pink-godzilla-looks-kinda-like-really-cool-v0-wrm41wn7c2wc1.jpeg?auto=webp&s=9fa64190237f0bd701936247e3b6d948aa5c20c3' alt='Pink Godzilla looks kinda like…really cool : r/Monsterverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pink-godzilla-looks-kinda-like-really-cool-v0-wrm41wn7c2wc1.jpeg?auto=webp&s=9fa64190237f0bd701936247e3b6d948aa5c20c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/11/7a/d4/117ad4b12ef891272ab81c52c34f5e47.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/11/7a/d4/117ad4b12ef891272ab81c52c34f5e47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla's New Pink Transformation Was Inspired By Dragon Ball Z">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/ign_nordic/news/g/godzillas-/godzillas-new-pink-transformation-was-inspired-by-dragon-bal_dfda.jpg' alt='Godzilla's New Pink Transformation Was Inspired By Dragon Ball Z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN Nordic" />
+                                </span>
+                                <a href='https://sm.ign.com/ign_nordic/news/g/godzillas-/godzillas-new-pink-transformation-was-inspired-by-dragon-bal_dfda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm sorry but this is the best Godzilla has looked in awhile. An ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/im-sorry-but-this-is-the-best-godzilla-has-looked-in-awhile-v0-nazudby529ic1.jpeg?auto=webp&s=b9bfb4094f65423a886bfd9b519bfbd3a8339de3' alt='I'm sorry but this is the best Godzilla has looked in awhile. An ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/im-sorry-but-this-is-the-best-godzilla-has-looked-in-awhile-v0-nazudby529ic1.jpeg?auto=webp&s=b9bfb4094f65423a886bfd9b519bfbd3a8339de3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/13/0d/63/130d63c6b15fc63d2a2d32fec4dd745c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/13/0d/63/130d63c6b15fc63d2a2d32fec4dd745c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GxK - Godzilla Rose Wallpaper by DracoKhajiit on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e35e309b-9127-4d26-9876-4762c7411cfa/dh73hhw-8ddfdc01-ca0d-4656-b6af-b9756f1cab07.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UzNWUzMDliLTkxMjctNGQyNi05ODc2LTQ3NjJjNzQxMWNmYVwvZGg3M2hody04ZGRmZGMwMS1jYTBkLTQ2NTYtYjZhZi1iOTc1NmYxY2FiMDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z1V2QFryBSdpOTx5qQOMykgc6yHMR-OvO69EAEaDjEk' alt='GxK - Godzilla Rose Wallpaper by DracoKhajiit on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e35e309b-9127-4d26-9876-4762c7411cfa/dh73hhw-8ddfdc01-ca0d-4656-b6af-b9756f1cab07.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UzNWUzMDliLTkxMjctNGQyNi05ODc2LTQ3NjJjNzQxMWNmYVwvZGg3M2hody04ZGRmZGMwMS1jYTBkLTQ2NTYtYjZhZi1iOTc1NmYxY2FiMDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z1V2QFryBSdpOTx5qQOMykgc6yHMR-OvO69EAEaDjEk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Godzilla x Kong: The New Empire HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/134/1344593.jpeg' alt='Godzilla x Kong: The New Empire HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/134/1344593.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KJMM 2020: Godzilla by Gangor7 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/22/6e/61226e25003ff617264db4eeb87cb81f.jpg' alt='KJMM 2020: Godzilla by Gangor7 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/22/6e/61226e25003ff617264db4eeb87cb81f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kia!.•°○⭐️ on X: "Pink Godzilla yayy I think this design would ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GA12ncQXwAANbXN.jpg:large' alt='Kia!.•°○⭐️ on X: "Pink Godzilla yayy I think this design would ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GA12ncQXwAANbXN.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-godzilla-ios-16-wallpapers-v0-98qyc4vjevoa1.jpg?width=1242&format=pjpg&auto=webp&s=477da55755c969305ba85aec89d3ee9633ac8162' alt='I Made Godzilla IOS 16 Wallpapers! : r/GODZILLA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-godzilla-ios-16-wallpapers-v0-98qyc4vjevoa1.jpg?width=1242&format=pjpg&auto=webp&s=477da55755c969305ba85aec89d3ee9633ac8162' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

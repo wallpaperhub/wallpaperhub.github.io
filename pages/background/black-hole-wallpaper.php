@@ -1,0 +1,129 @@
+<title>Stunning Black Hole Wallpaper for Cosmic Enthusiasts</title>
+                    <meta name="description" content="Discover captivating black hole wallpaper that brings the wonders of the universe to your screen. Perfect for astronomy fans, our collection offers breathtaking visuals that enhance your device’s aesthetic. Transform your background with mesmerizing cosmic beauty today!">
+                    <meta name="keywords" content="black hole wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-hole-wallpaper">
+                            <span itemprop="name">black hole wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Hole Wallpaper for Cosmic Enthusiasts</h1>
+                <p>Explore the vastness of space with stunning black hole wallpaper that transforms your device's screen into a cosmic masterpiece. Featuring mesmerizing visuals, these wallpapers capture the mystery and beauty of black holes, perfect for astronomy lovers and anyone seeking a unique aesthetic. Dive into the universe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Hole Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/0/6/26427-3840x2160-desktop-4k-black-hole-wallpaper-image.jpg' alt='Black Hole Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/0/6/26427-3840x2160-desktop-4k-black-hole-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Hole Sun/Supermassive Black Hole" [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b1hclrn2q2r91.png' alt='Black Hole Sun/Supermassive Black Hole" [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b1hclrn2q2r91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASA SVS | Black Hole Desktop & Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/BH_accretion_disk_viz_mobile.png' alt='NASA SVS | Black Hole Desktop & Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Scientific Visualization Studio" />
+                                </span>
+                                <a href='https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/BH_accretion_disk_viz_mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blackhole Near Earth iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/9b/af/0a9baf746c3a06cf74eab99e7d2138fb.jpg' alt='Blackhole Near Earth iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/9b/af/0a9baf746c3a06cf74eab99e7d2138fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gargantua black hole Wallpaper 4K, Wormhole, Interstellar, Cosmos">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/gargantua-black-2880x1800-9621.jpg' alt='Gargantua black hole Wallpaper 4K, Wormhole, Interstellar, Cosmos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/gargantua-black-2880x1800-9621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Holes Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/970/562/small/ai-generated-black-holes-massive-centers-of-gravity-that-absorb-light-offering-a-glimpse-into-the-enigmatic-forces-of-the-universe-photo.jpg' alt='Black Holes Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/970/562/small/ai-generated-black-holes-massive-centers-of-gravity-that-absorb-light-offering-a-glimpse-into-the-enigmatic-forces-of-the-universe-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Hole">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/1d/69/5e1d6958b57f8089b12f2b4b734fe87d.jpg' alt='Black Hole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/1d/69/5e1d6958b57f8089b12f2b4b734fe87d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Hole HD Wallpaper, HD Space 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/black-hole-hd_bWxnaG2UmZqaraWkpJRmbmdlrWZnZWU.jpg' alt='Black Hole HD Wallpaper, HD Space 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/black-hole-hd_bWxnaG2UmZqaraWkpJRmbmdlrWZnZWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gargantua black hole Wallpaper 4K, Planet Earth, Cosmos, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/gargantua-black-1080x1920-9659.jpg' alt='Gargantua black hole Wallpaper 4K, Planet Earth, Cosmos, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/gargantua-black-1080x1920-9659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Black Hole [2560x1440] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/llGzaVSVIcaIYZkI7XbfjOfqAxSjkvuCi_dsYzPG04A.jpg?auto=webp&s=837707e91fbc30bdeecfb3c9bc1348b780043854' alt='A Black Hole [2560x1440] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/llGzaVSVIcaIYZkI7XbfjOfqAxSjkvuCi_dsYzPG04A.jpg?auto=webp&s=837707e91fbc30bdeecfb3c9bc1348b780043854' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

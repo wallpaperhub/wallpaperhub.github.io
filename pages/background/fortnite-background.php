@@ -1,0 +1,129 @@
+<title>Epic Fortnite Backgrounds: Elevate Your Game</title>
+                    <meta name="description" content="Discover stunning Fortnite backgrounds that enhance your gaming experience. From iconic landscapes to your favorite characters, these visuals will transform your screen. Perfect for fans looking to show off their love for Fortnite with vibrant and immersive images. Explore now and level up your backdrop!">
+                    <meta name="keywords" content="fortnite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-background">
+                            <span itemprop="name">fortnite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Backgrounds: Elevate Your Game</h1>
+                <p>Fortnite backgrounds immerse players in vibrant worlds filled with thrilling action, iconic characters, and dynamic landscapes. From the lush greenery of Lazy Lake to the urban vibe of Neo Tilted, each backdrop enhances the gaming experience. Players can customize their screens with stunning artwork, showcasing their favorite moments and characters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The lobby background for this Summer Event is finally revealed ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1xv5ejvwfcab1.jpg' alt='The lobby background for this Summer Event is finally revealed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1xv5ejvwfcab1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Fortnite-PS4-Wallpapers-48.jpg' alt='Fortnite Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Fortnite-PS4-Wallpapers-48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="520 Fortnite ideas | fortnite, best gaming wallpapers, skin images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/32/a3/4b32a376bb5a0d1fd2d526f791ff8663.jpg' alt='520 Fortnite ideas | fortnite, best gaming wallpapers, skin images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/32/a3/4b32a376bb5a0d1fd2d526f791ff8663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Okay so i did a little bit of research, and the guy who made the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1vmbc35tlht51.png?auto=webp&s=f04a1e059ed4e197006bc36eae1c6dee79c90328' alt='Okay so i did a little bit of research, and the guy who made the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1vmbc35tlht51.png?auto=webp&s=f04a1e059ed4e197006bc36eae1c6dee79c90328' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fortnite background - Soccer Gods">
+                                <img itemprop="contentUrl url" src='https://soccergods.co.uk/wp-content/uploads/fortnite-background-scaled.jpg' alt='fortnite background - Soccer Gods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soccer Gods" />
+                                </span>
+                                <a href='https://soccergods.co.uk/wp-content/uploads/fortnite-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite background 2025">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/ormQSWvZa55OIeVcpPx4AFS-7bLs_gysS0fAPURMHqZnIY4WMqaevrOntxjebeQCxGYDWgA8ySIxUiJ81YiLP6xyBQ=w640-h400-e365-rj-sc0x00ffffff' alt='Fortnite background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/ormQSWvZa55OIeVcpPx4AFS-7bLs_gysS0fAPURMHqZnIY4WMqaevrOntxjebeQCxGYDWgA8ySIxUiJ81YiLP6xyBQ=w640-h400-e365-rj-sc0x00ffffff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fortnite Battle Royale Video Game Fortnite 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/953/thumb-1920-953236.png' alt='Download Fortnite Battle Royale Video Game Fortnite 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/953/thumb-1920-953236.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite: Battle Royale Fans - Fortnite Chapter 3 - Season 4 lobby ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1536618183480310' alt='Fortnite: Battle Royale Fans - Fortnite Chapter 3 - Season 4 lobby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1536618183480310' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite: Battle Royale will beat PUBG to consoles and be free-to-play">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/32/83/e6328344fbc921290b4b35b8c81ad384.jpg' alt='Fortnite: Battle Royale will beat PUBG to consoles and be free-to-play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/32/83/e6328344fbc921290b4b35b8c81ad384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

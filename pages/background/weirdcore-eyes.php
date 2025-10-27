@@ -1,0 +1,129 @@
+<title>Exploring Weirdcore Eyes: A Dive into Surreal Visuals</title>
+                    <meta name="description" content="Discover the captivating world of weirdcore eyes, where surreal visuals and digital art merge to evoke wonder and unease. Join us in exploring this unique aesthetic that challenges reality and invites endless interpretations. Perfect for fans of the strange and unusual!">
+                    <meta name="keywords" content="weirdcore eyes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weirdcore-eyes">
+                            <span itemprop="name">weirdcore eyes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Weirdcore Eyes: A Dive into Surreal Visuals</h1>
+                <p>Weirdcore eyes are an intriguing visual phenomenon that blends surrealism and digital art aesthetics. These eyes often feature unsettling, vivid patterns and distorted shapes, evoking an otherworldly feeling. Popular in online subcultures, they symbolize the uncanny and challenge perceptions of reality, inviting viewers to explore deeper meanings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Eye - Roblox">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-b4ec2cf9f80e17d35c03d30adc94ee51/420/420/Hat/Png/noFilter' alt='Weirdcore Eye - Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roblox" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-b4ec2cf9f80e17d35c03d30adc94ee51/420/420/Hat/Png/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Eyes Make Images 10x More Unsettling (Weirdcore)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AMcG_BmhR0Q/hqdefault.jpg' alt='How Eyes Make Images 10x More Unsettling (Weirdcore)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AMcG_BmhR0Q/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="weirdcore dreamcore eye aesthetic | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5060744725.6319/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='weirdcore dreamcore eye aesthetic | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5060744725.6319/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Eyes and clouds design - Dreamcore patter outfit">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/teepublic/image/private/s--TCdFb0fg--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1669052829/production/designs/36732149_0.jpg' alt='Weirdcore Eyes and clouds design - Dreamcore patter outfit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeePublic" />
+                                </span>
+                                <a href='https://res.cloudinary.com/teepublic/image/private/s--TCdFb0fg--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1669052829/production/designs/36732149_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore eyes wallpaper ☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/95/db/7e95db62be6dccda15e0b7a5c2538794.jpg' alt='Weirdcore eyes wallpaper ☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/95/db/7e95db62be6dccda15e0b7a5c2538794.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore black eyes | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4419227548.6102/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Weirdcore black eyes | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4419227548.6102/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Face Eyes | Roblox Item - Rolimon's">
+                                <img itemprop="contentUrl url" src='https://tr.rbxcdn.com/180DAY-a1e736bc939b79c521d6e4a539cc6cef/420/420/Hat/Webp/noFilter' alt='Weirdcore Face Eyes | Roblox Item - Rolimon's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolimon's" />
+                                </span>
+                                <a href='https://tr.rbxcdn.com/180DAY-a1e736bc939b79c521d6e4a539cc6cef/420/420/Hat/Webp/noFilter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::(Test/first nexbot) Weirdcore eye">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2051996230442851145/CF6EE876376B70107488D62545DED2DA1AF962C7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::(Test/first nexbot) Weirdcore eye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2051996230442851145/CF6EE876376B70107488D62545DED2DA1AF962C7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Eyes PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/15/Weirdcore-Eyes-PNG-Pic-1.png' alt='Weirdcore Eyes PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/15/Weirdcore-Eyes-PNG-Pic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="weirdcore eyes and wings | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4790829741.3582/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='weirdcore eyes and wings | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4790829741.3582/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Murder Mystery: Unravel the Secrets!</title>
+                    <meta name="description" content="Explore the thrilling world of murder mysteries! Dive into intriguing plots and captivating characters that keep you guessing until the very end. Discover secrets hidden in the shadows and join the quest for justice in this spellbinding genre.">
+                    <meta name="keywords" content="murder mystery background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/murder-mystery-background">
+                            <span itemprop="name">murder mystery background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Murder Mystery: Unravel the Secrets!</h1>
+                <p>In a world where shadows hide secrets, murder mysteries thrive on suspense and intrigue. Historical settings, from Victorian mansions to jazz-filled speakeasies, often serve as the backdrop for these tales. Each element, from the enigmatic detective to the array of suspects, forms a rich tapestry that entices audiences to unravel the truth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Images – Browse 43,699 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/71/61/47/360_F_171614792_w70zHz9nAiGd0c1yvm8TdW6ifHtdOGlB.jpg' alt='Murder Mystery Background Images – Browse 43,699 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/71/61/47/360_F_171614792_w70zHz9nAiGd0c1yvm8TdW6ifHtdOGlB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 5x3ft Fabric Vintage Police Department Background Detective Backdrop  Magnifier Fingerprint Blood Crime Scene Backdrop Crime Murder Mystery ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qnyXmk+aL._AC_UF894,1000_QL80_.jpg' alt='BELECO 5x3ft Fabric Vintage Police Department Background Detective Backdrop  Magnifier Fingerprint Blood Crime Scene Backdrop Crime Murder Mystery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qnyXmk+aL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Images – Browse 43,699 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/49/51/08/360_F_49510847_rB26ertXJyu4S8qWgbkzfohqNR7HlDRS.jpg' alt='Murder Mystery Background Images – Browse 43,699 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/49/51/08/360_F_49510847_rB26ertXJyu4S8qWgbkzfohqNR7HlDRS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Images – Browse 43,699 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/20/02/22/360_F_320022201_iskWgYQZDICRWh64UPxwyV97EBOiQS3z.jpg' alt='Murder Mystery Background Images – Browse 43,699 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/20/02/22/360_F_320022201_iskWgYQZDICRWh64UPxwyV97EBOiQS3z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-render-bloody-dagger-grunge-background_1048-6419.jpg' alt='Murder Mystery Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-render-bloody-dagger-grunge-background_1048-6419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/867/258/small_2x/dark-and-black-wall-halloween-background-concept-black-concrete-dusty-for-background-horror-cement-texture-free-photo.jpg' alt='Murder Mystery Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/867/258/small_2x/dark-and-black-wall-halloween-background-concept-black-concrete-dusty-for-background-horror-cement-texture-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-bloody-handprint-background_52683-133393.jpg' alt='Murder Mystery Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-bloody-handprint-background_52683-133393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Photo Backdrop Spy Detective Wall Tapestry Mystery  Photography Background Clue Themed Birthday Party Decorations Banner for  Teen Boys, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91J3fh+PCQL.jpg' alt='Murder Mystery Photo Backdrop Spy Detective Wall Tapestry Mystery  Photography Background Clue Themed Birthday Party Decorations Banner for  Teen Boys, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91J3fh+PCQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,379 Murder Mystery Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/red-grunge-blood-splash-colour-260nw-448045330.jpg' alt='15,379 Murder Mystery Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/red-grunge-blood-splash-colour-260nw-448045330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murder Mystery Background Images – Browse 43,699 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/66/91/94/360_F_366919441_DQgMmXsT7PaXohsCmyr2nzc1BYZjjmqn.jpg' alt='Murder Mystery Background Images – Browse 43,699 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/66/91/94/360_F_366919441_DQgMmXsT7PaXohsCmyr2nzc1BYZjjmqn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

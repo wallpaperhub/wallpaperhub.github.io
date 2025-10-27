@@ -1,0 +1,129 @@
+<title>Shohei Ohtani's Age: Discover the MLB Star's Journey</title>
+                    <meta name="description" content="Find out how old Shohei Ohtani is as of 2023, and explore his incredible journey in Major League Baseball, where he shines as both a pitcher and a hitter, making headlines with his remarkable talent.">
+                    <meta name="keywords" content="how old is shohei ohtani">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-old-is-shohei-ohtani">
+                            <span itemprop="name">how old is shohei ohtani</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shohei Ohtani's Age: Discover the MLB Star's Journey</h1>
+                <p>As of October 2023, Shohei Ohtani is 29 years old, having been born on July 5, 1994. He has quickly become one of the most exciting players in Major League Baseball, known for his unique ability to excel both as a pitcher and a hitter, captivating fans with his impressive skills and performances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani Stats, Age, Position, Height, Weight, Fantasy & News ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current' alt='Shohei Ohtani Stats, Age, Position, Height, Weight, Fantasy & News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/10/6-Shohei-Ohtani.jpg' alt='Shohei Ohtani Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/10/6-Shohei-Ohtani.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shohei_Ohtani_%2852251755266%29_%28cropped%29.jpg/170px-Shohei_Ohtani_%2852251755266%29_%28cropped%29.jpg' alt='Shohei Ohtani - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shohei_Ohtani_%2852251755266%29_%28cropped%29.jpg/170px-Shohei_Ohtani_%2852251755266%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Shohei Ohtani and how old is he? | The US Sun">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2023/03/SC-Shohei-Ohtani-Comp-copy.jpg?w=620' alt='Who is Shohei Ohtani and how old is he? | The US Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2023/03/SC-Shohei-Ohtani-Comp-copy.jpg?w=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani | Biography, MLB, Facts, Statistics, & Family ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/87/237587-050-8A4B9F08/Shohei-Ohtani-Los-Angeles-Angels-pitcher-baseball-player-2022.jpg' alt='Shohei Ohtani | Biography, MLB, Facts, Statistics, & Family ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/87/237587-050-8A4B9F08/Shohei-Ohtani-Los-Angeles-Angels-pitcher-baseball-player-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani | Biography, MLB, Facts, Statistics, & Family ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/94/256194-050-DD861124/Shohei-Ohtani-Los-Angeles-Dodgers.jpg' alt='Shohei Ohtani | Biography, MLB, Facts, Statistics, & Family ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2235">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/94/256194-050-DD861124/Shohei-Ohtani-Los-Angeles-Dodgers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani Career Stats - MLB - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39832.png&w=350&h=254' alt='Shohei Ohtani Career Stats - MLB - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39832.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Japanese baseball star Shohei Ohtani: the 29-year-old is in ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/12/08/93213e77-367e-45bb-831b-d8aca62a6db9_cb789e2a.jpg?itok=vQ5BX_Zy&v=1702026368' alt='Meet Japanese baseball star Shohei Ohtani: the 29-year-old is in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/12/08/93213e77-367e-45bb-831b-d8aca62a6db9_cb789e2a.jpg?itok=vQ5BX_Zy&v=1702026368' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani: the two-way Japanese marvel with once-in-a-century ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/d471900b97e65e1b5080ac718bb2fbf24e94fcb2/0_79_3109_1866/master/3109.jpg?width=465&dpr=1&s=none&crop=none' alt='Shohei Ohtani: the two-way Japanese marvel with once-in-a-century ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/d471900b97e65e1b5080ac718bb2fbf24e94fcb2/0_79_3109_1866/master/3109.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shohei Ohtani - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Shohei_Ohtani_%2816735312258%29_%28cropped%29.jpg/220px-Shohei_Ohtani_%2816735312258%29_%28cropped%29.jpg' alt='Shohei Ohtani - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Shohei_Ohtani_%2816735312258%29_%28cropped%29.jpg/220px-Shohei_Ohtani_%2816735312258%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

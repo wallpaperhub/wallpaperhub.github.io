@@ -1,0 +1,129 @@
+<title>Elegant Black and White Wavy Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Enhance your home decor with our elegant black and white wavy wallpaper. Perfect for modern interiors, this design adds a sophisticated touch to any room. Easy to install and versatile, it’s the ideal choice for anyone looking to refresh their space with style. Explore our collection today!">
+                    <meta name="keywords" content="black and white wavy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-wavy-wallpaper">
+                            <span itemprop="name">black and white wavy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Wavy Wallpaper for Modern Interiors</h1>
+                <p>Transform your space with stunning black and white wavy wallpaper. This stylish design adds a modern touch to any room, creating depth and interest. Whether in a living room, bedroom, or office, the sleek lines of this wallpaper enhance your decor, offering a timeless contrast that pairs beautifully with various colors and furniture styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black And White Wavy Stripes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233848/Abstract-Black-And-White-Wavy-Stripes-Wallpaper.jpg?v=638234753992170000' alt='Abstract Black And White Wavy Stripes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233848/Abstract-Black-And-White-Wavy-Stripes-Wallpaper.jpg?v=638234753992170000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wavy Chequered Aesthetic Wall Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715873435/articles/GE0158BW03W_product.jpg' alt='Black & White Wavy Chequered Aesthetic Wall Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715873435/articles/GE0158BW03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage abstract black white wave background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/026/305/040/original/vintage-abstract-black-white-wave-background-free-video.jpg' alt='Vintage abstract black white wave background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/026/305/040/original/vintage-abstract-black-white-wave-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white wavy line pattern background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/65/49/black-and-white-wavy-line-pattern-background-vector-30906549.jpg' alt='Black and white wavy line pattern background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/65/49/black-and-white-wavy-line-pattern-background-vector-30906549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Wavy Background, Wavy Background, Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/65/7f/7e657f80946f82e548af2047b2b31a43.jpg' alt='Black And White Wavy Background, Wavy Background, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/65/7f/7e657f80946f82e548af2047b2b31a43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Abstract Black White Line Background, Wallpaper, Wavy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4e/66/14/4e6614685ca3b2838acc39f9640420b8.jpg' alt='Wavy Abstract Black White Line Background, Wallpaper, Wavy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4e/66/14/4e6614685ca3b2838acc39f9640420b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Background In Black And White With Wavy Lines Pattern ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1222160066/vector/abstract-background-in-black-and-white-with-wavy-lines-pattern.jpg?s=1024x1024&w=is&k=20&c=NGAT8BJ7FzbccoF_YvFrRZ32cObSIQPGmtMGwWlcE2Y=' alt='Abstract Background In Black And White With Wavy Lines Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1222160066/vector/abstract-background-in-black-and-white-with-wavy-lines-pattern.jpg?s=1024x1024&w=is&k=20&c=NGAT8BJ7FzbccoF_YvFrRZ32cObSIQPGmtMGwWlcE2Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Stripes Wave Elevation Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6278978/p/f/m/IG-UNz2dxzA9r589OMBCU6vNmQSuEX-mwzcEwtQ66bquBf_dW2gFV6hZ/6278978-black-white-stripes-wave-elevation-topographic-topo-map-pattern-by-khaus.jpg' alt='Black and White Stripes Wave Elevation Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6278978/p/f/m/IG-UNz2dxzA9r589OMBCU6vNmQSuEX-mwzcEwtQ66bquBf_dW2gFV6hZ/6278978-black-white-stripes-wave-elevation-topographic-topo-map-pattern-by-khaus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white abstract striped background.Optical illusion of ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/83/92/20/1000_F_483922080_haoFydDyteNi2Ghf5a1curLyiLY5KWdn.jpg' alt='Black and white abstract striped background.Optical illusion of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/83/92/20/1000_F_483922080_haoFydDyteNi2Ghf5a1curLyiLY5KWdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black and White Wavy Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/11undulating-checkerboard-grid-mural-wallpaper-plain.jpg?v=1675318533' alt='Abstract Black and White Wavy Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/11undulating-checkerboard-grid-mural-wallpaper-plain.jpg?v=1675318533' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

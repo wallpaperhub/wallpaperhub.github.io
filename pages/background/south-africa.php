@@ -1,0 +1,129 @@
+<title>Discover South Africa: Culture, Nature & Adventure</title>
+                    <meta name="description" content="Explore South Africa—home to diverse cultures, breathtaking scenery, and rich history. Experience its wildlife, cities, and delicious cuisine. Perfect for adventure seekers and cultural enthusiasts! Discover the beauty of this captivating destination today.">
+                    <meta name="keywords" content="south africa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/south-africa">
+                            <span itemprop="name">south africa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover South Africa: Culture, Nature & Adventure</h1>
+                <p>South Africa is a vibrant country known for its diverse cultures, stunning landscapes, and rich history. From the beautiful coastlines of the Garden Route to the iconic Table Mountain, it offers a mix of wildlife, bustling cities, and heritage sites. Explore its unique cuisine, wine routes, and the warmth of its people.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa | Flag, Capital, People, Official Languages, Map ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/30/4230-050-BDCC1F6A/South-Africa.jpg' alt='South Africa | Flag, Capital, People, Official Languages, Map ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/30/4230-050-BDCC1F6A/South-Africa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa country profile - BBC News">
+                                <img itemprop="contentUrl url" src='http://c.files.bbci.co.uk/4915/production/_128690781_bbcm_south_africa_country_profile_map_200223.jpg' alt='South Africa country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='http://c.files.bbci.co.uk/4915/production/_128690781_bbcm_south_africa_country_profile_map_200223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png' alt='South Africa - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/b4e47564-f91d-413c-a3c5-594eb39a8a56/South-Africa-Map_3x2.jpg' alt='South Africa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/b4e47564-f91d-413c-a3c5-594eb39a8a56/South-Africa-Map_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa | Flag, Capital, People, Official Languages, Map ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/4242-050-065CC83A/South-Africa-map-features-locator.jpg?w=400&h=225&c=crop' alt='South Africa | Flag, Capital, People, Official Languages, Map ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/4242-050-065CC83A/South-Africa-map-features-locator.jpg?w=400&h=225&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is it Safe to Travel in South Africa in 2025? | Berkshire Hathaway ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/32623/1708462515-cape_town_south_africa.jpeg' alt='Is it Safe to Travel in South Africa in 2025? | Berkshire Hathaway ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4978">
+                                <meta itemprop="height" content="2489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkshire Hathaway Travel Protection" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/32623/1708462515-cape_town_south_africa.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Africa | Flag, Capital, People, Official Languages, Map ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/60/183760-050-B153A86F/World-Data-Locator-Map-South-Africa.jpg' alt='South Africa | Flag, Capital, People, Official Languages, Map ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/60/183760-050-B153A86F/World-Data-Locator-Map-South-Africa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The nine provinces of South Africa - South Africa Gateway">
+                                <img itemprop="contentUrl url" src='https://southafrica-info.com/wp-content/uploads/2016/12/Map_South_Africa_nine_provinces.png' alt='The nine provinces of South Africa - South Africa Gateway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Africa Gateway" />
+                                </span>
+                                <a href='https://southafrica-info.com/wp-content/uploads/2016/12/Map_South_Africa_nine_provinces.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About South Africa - Africa.com">
+                                <img itemprop="contentUrl url" src='https://www.africa.com/wp-content/uploads/2019/01/Webp.net-compress-image-12.jpg' alt='All About South Africa - Africa.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Africa.com" />
+                                </span>
+                                <a href='https://www.africa.com/wp-content/uploads/2019/01/Webp.net-compress-image-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When is the best time to visit South Africa? | CN Traveller">
+                                <img itemprop="contentUrl url" src='https://media.cntraveller.com/photos/656735185529fa5c61ddf276/16:9/w_2560%2Cc_limit/Cape_Town_When_to_Visit_South_Africa_November_GettyImages-671323338.jpg' alt='When is the best time to visit South Africa? | CN Traveller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CN Traveller" />
+                                </span>
+                                <a href='https://media.cntraveller.com/photos/656735185529fa5c61ddf276/16:9/w_2560%2Cc_limit/Cape_Town_When_to_Visit_South_Africa_November_GettyImages-671323338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

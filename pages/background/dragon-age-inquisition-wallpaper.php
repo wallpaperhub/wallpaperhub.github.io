@@ -1,0 +1,129 @@
+<title>Epic Dragon Age Inquisition Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a collection of breathtaking Dragon Age Inquisition wallpapers. Perfect for every fan, these images capture the magic of Thedas and its unforgettable characters. Customize your screens with stunning visuals that enhance your gaming experience, all optimized for mobile viewing!">
+                    <meta name="keywords" content="dragon age inquisition wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dragon-age-inquisition-wallpaper">
+                            <span itemprop="name">dragon age inquisition wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dragon Age Inquisition Wallpapers for Fans</h1>
+                <p>Discover stunning Dragon Age Inquisition wallpapers to enhance your device's aesthetic. From breathtaking landscapes of Thedas to iconic characters like the Inquisitor and companions, immerse yourself in this vibrant world. Perfect for fans of RPGs, these wallpapers bring your love for the game to life on screens of all sizes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition Screenshots and Images - EA Official">
+                                <img itemprop="contentUrl url" src='https://media.contentapi.ea.com/content/dam/ea/dragonage/inquisition-refresh/images/2018/01/dai-wallpaper-media-screenshot.jpg.adapt.crop16x9.180p.jpg' alt='Dragon Age: Inquisition Screenshots and Images - EA Official'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EA" />
+                                </span>
+                                <a href='https://media.contentapi.ea.com/content/dam/ea/dragonage/inquisition-refresh/images/2018/01/dai-wallpaper-media-screenshot.jpg.adapt.crop16x9.180p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Age Inquisition Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dragon-age-inquisition-fight-scene-dy2n2mry2ni8a4fy.jpg' alt='100+] Dragon Age Inquisition Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dragon-age-inquisition-fight-scene-dy2n2mry2ni8a4fy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Dragon Age: Inquisition HD Wallpaper Adventure">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/519/519659.jpg' alt='Epic Dragon Age: Inquisition HD Wallpaper Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/519/519659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/DragonAge-Inquisition-PS4-Wallpapers-22.jpg' alt='Dragon Age: Inquisition Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/DragonAge-Inquisition-PS4-Wallpapers-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagem relacionada">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/6b/9a/326b9a4a9685c728310434eb2f3c1c2b.jpg' alt='Imagem relacionada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/6b/9a/326b9a4a9685c728310434eb2f3c1c2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition HD Wallpaper – Epic Fantasy Awaits">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/556/556193.jpg' alt='Dragon Age: Inquisition HD Wallpaper – Epic Fantasy Awaits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/556/556193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition Screenshots and Images - EA Official">
+                                <img itemprop="contentUrl url" src='https://media.contentapi.ea.com/content/dam/ea/dragonage/inquisition-refresh/images/2018/01/dai-spellcaster-media-screenshot.jpg.adapt.crop16x9.180p.jpg' alt='Dragon Age: Inquisition Screenshots and Images - EA Official'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EA" />
+                                </span>
+                                <a href='https://media.contentapi.ea.com/content/dam/ea/dragonage/inquisition-refresh/images/2018/01/dai-spellcaster-media-screenshot.jpg.adapt.crop16x9.180p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition wallpaper 12 1080p Horizontal">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Dragon+Age%3A+Inquisition&nummer=12&phoneResId=3501&wallpaperType=&qhdbeschikbaar=0&wallpaper_id=5556' alt='Dragon Age: Inquisition wallpaper 12 1080p Horizontal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Dragon+Age%3A+Inquisition&nummer=12&phoneResId=3501&wallpaperType=&qhdbeschikbaar=0&wallpaper_id=5556' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | ah67-dragon-age-inquisition-game ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ah67-dragon-age-inquisition-game-illust-art-8-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | ah67-dragon-age-inquisition-game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ah67-dragon-age-inquisition-game-illust-art-8-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dorian Pavus Dragon Age Inquisition Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dorian-pavus-dragon-age-inquisition-sque018r40kh58ol.jpg' alt='Dorian Pavus Dragon Age Inquisition Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dorian-pavus-dragon-age-inquisition-sque018r40kh58ol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

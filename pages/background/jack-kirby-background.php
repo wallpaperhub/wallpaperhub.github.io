@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="Discover the incredible journey of Jack Kirby, the legendary comic book artist and writer. Explore his groundbreaking creations and lasting impact on the superhero genre, shaping the future of comics with iconic characters and imaginative storytelling. Dive into the legacy of the King of Comics!">
+                    <meta name="keywords" content="jack kirby background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jack-kirby-background">
+                            <span itemprop="name">jack kirby background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p>Jack Kirby, born Jacob Kurtzberg in 1917, was a groundbreaking American comic book artist and writer. His work in the 1940s to the 1980s, particularly with Marvel Comics, hugely influenced superhero genres. Known for co-creating iconic characters like the Avengers and X-Men, Kirby's dynamic style and storytelling revolutionized comics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby: Genius in a Box">
+                                <img itemprop="contentUrl url" src='https://www.artnews.com/wp-content/uploads/2015/12/img-jack-kirby-115235230343.jpg?w=652&h=648&crop=1' alt='Jack Kirby: Genius in a Box'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARTnews.com" />
+                                </span>
+                                <a href='https://www.artnews.com/wp-content/uploads/2015/12/img-jack-kirby-115235230343.jpg?w=652&h=648&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Influence & Inspiration in Jack Kirby's Comic Art – PRINT ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.printmag.com/wp-content/uploads/2015/09/2a34d8_8e8e4f65671647ad9eaa118f5aa98c8cmv2.jpeg?fit=480%2C274&quality=89&ssl=1' alt='Design Influence & Inspiration in Jack Kirby's Comic Art – PRINT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PRINT Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.printmag.com/wp-content/uploads/2015/09/2a34d8_8e8e4f65671647ad9eaa118f5aa98c8cmv2.jpeg?fit=480%2C274&quality=89&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby: Hand of Fire Roundtable (Part 1) - The Comics Journal">
+                                <img itemprop="contentUrl url" src='https://www.tcj.com/jack-kirby-hand-of-fire-roundtable-part-1/kirby-machine/' alt='Jack Kirby: Hand of Fire Roundtable (Part 1) - The Comics Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1168">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Comics Journal" />
+                                </span>
+                                <a href='https://www.tcj.com/jack-kirby-hand-of-fire-roundtable-part-1/kirby-machine/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby - Comic Artist and Writer.">
+                                <img itemprop="contentUrl url" src='http://www.wizards-keep.com/graphics/RTE/RTEPage-005_Toxl_page11.jpg' alt='Jack Kirby - Comic Artist and Writer.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizards Keep" />
+                                </span>
+                                <a href='http://www.wizards-keep.com/graphics/RTE/RTEPage-005_Toxl_page11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby's NFL Football Uniforms of the Future Would've Changed ...">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2025/02/kirby-nfl-header.jpeg' alt='Jack Kirby's NFL Football Uniforms of the Future Would've Changed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2025/02/kirby-nfl-header.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby's 'Fourth World' is a Jewish superhero tale">
+                                <img itemprop="contentUrl url" src='https://images.forwardcdn.com/image/970x/center/images/cropped/screen-shot-2022-01-13-at-120635-pm-1642093717.png' alt='Jack Kirby's 'Fourth World' is a Jewish superhero tale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Forward" />
+                                </span>
+                                <a href='https://images.forwardcdn.com/image/970x/center/images/cropped/screen-shot-2022-01-13-at-120635-pm-1642093717.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby Wallpaper - Bing images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b3/8d/aa/b38daa7d6451ceb4c9e32bf68b1973b9.jpg' alt='Jack Kirby Wallpaper - Bing images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b3/8d/aa/b38daa7d6451ceb4c9e32bf68b1973b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/3a/25/4d3a255f17eb0bb046dab1c5a7ddeb20.jpg' alt='Jack Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/3a/25/4d3a255f17eb0bb046dab1c5a7ddeb20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Kirby's best comic book creations | GamesRadar+">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/VszAFo4MyfCCmhNVF6odi9.jpg' alt='Jack Kirby's best comic book creations | GamesRadar+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GamesRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/VszAFo4MyfCCmhNVF6odi9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Killer Panels from Jack Kirby | Marvel">
+                                <img itemprop="contentUrl url" src='https://cdn.marvel.com/content/1x/t161.jpg' alt='10 Killer Panels from Jack Kirby | Marvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel.com" />
+                                </span>
+                                <a href='https://cdn.marvel.com/content/1x/t161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

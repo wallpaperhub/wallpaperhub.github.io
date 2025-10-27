@@ -1,0 +1,129 @@
+<title>Transform Your Space with a Hawaiian Theme Background</title>
+                    <meta name="description" content="Create a stunning Hawaiian theme background ideal for events and home decor! Bring the essence of the islands to life with vibrant colors and tropical elements. Perfect for parties or as a daily escape, this backdrop will create a relaxing ambiance wherever it's used.">
+                    <meta name="keywords" content="hawaiian theme background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hawaiian-theme-background">
+                            <span itemprop="name">hawaiian theme background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with a Hawaiian Theme Background</h1>
+                <p>Transform your space with a vibrant Hawaiian theme background! Imagine lush green tropical foliage, stunning sunsets, and the soothing sounds of ocean waves. Add elements like surfboards, tiki torches, and colorful hibiscus flowers. Perfect for parties, events, or a beach-inspired home decor, it brings an island paradise to any setting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Summer Hawaiian Beach Backdrop for Photography Tropical Flower Luau  Hawaiian Party Decorations Aloha Blue Sky Ocean Palm Leaves Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818eDB7d2mS._AC_UF894,1000_QL80_.jpg' alt='7x5ft Summer Hawaiian Beach Backdrop for Photography Tropical Flower Luau  Hawaiian Party Decorations Aloha Blue Sky Ocean Palm Leaves Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818eDB7d2mS._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Hawaiian Beach Photography Backdrop Summer Tropical Luau Palm Floral  Photography Background for Hawaiian Party Decorations Photo Booth Banner ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81la3m4ik+L._AC_UF894,1000_QL80_.jpg' alt='7x5ft Hawaiian Beach Photography Backdrop Summer Tropical Luau Palm Floral  Photography Background for Hawaiian Party Decorations Photo Booth Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81la3m4ik+L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Hawaii Aloha Luau Tropical Beach Tiki Floral Birthday Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11810216/r/il/af34e0/3189257607/il_fullxfull.3189257607_o4mn.jpg' alt='Summer Hawaii Aloha Luau Tropical Beach Tiki Floral Birthday Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11810216/r/il/af34e0/3189257607/il_fullxfull.3189257607_o4mn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Theme Background Photos and Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/3d-wallpaper-design-tropical-theme-600w-1147192550.jpg' alt='Hawaiian Theme Background Photos and Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/3d-wallpaper-design-tropical-theme-600w-1147192550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Hawaiian Luau Party Backdrop Summer Beach Photos Backdrop Tiki  Background Aloha Photos Tropical Flowers Plants Seaside Background Summer  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Bum4ksutL.jpg' alt='Amazon.com : Hawaiian Luau Party Backdrop Summer Beach Photos Backdrop Tiki  Background Aloha Photos Tropical Flowers Plants Seaside Background Summer  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Bum4ksutL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Hawaiian Beach Backdrop for Photography Tropical Flower Luau  Hawaiian Party Decorations Aloha Blue Sky Ocean Palm Leaves Background  Supplies ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/3104a15d-3a86-443f-a474-dcede3aba6fb.4850e51a838695e6fad2feb4abca56f1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Summer Hawaiian Beach Backdrop for Photography Tropical Flower Luau  Hawaiian Party Decorations Aloha Blue Sky Ocean Palm Leaves Background  Supplies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/3104a15d-3a86-443f-a474-dcede3aba6fb.4850e51a838695e6fad2feb4abca56f1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plan a Hawaiian Theme Party: 25 Can't-Miss Tropical Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.greenvelope.com/blog/wp-content/uploads/image2-21-e1615528213505.jpg' alt='Plan a Hawaiian Theme Party: 25 Can't-Miss Tropical Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenvelope" />
+                                </span>
+                                <a href='https://cdn.greenvelope.com/blog/wp-content/uploads/image2-21-e1615528213505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sensfun Tropical Luau Party Backdrop with Hawaiian Comoros | Ubuy">
+                                <img itemprop="contentUrl url" src='https://images-cdn.ubuy.ae/635026c96c09b77bf55364e3-sensfun-aloha-luau-party-backdrop-summer.jpg' alt='Sensfun Tropical Luau Party Backdrop with Hawaiian Comoros | Ubuy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubuy Comoros" />
+                                </span>
+                                <a href='https://images-cdn.ubuy.ae/635026c96c09b77bf55364e3-sensfun-aloha-luau-party-backdrop-summer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Generic 7 * 5ft Beach Party Background - Large Beach Party  Banner Hawaiian Party Background Surf Party Decoration Hawaiian Beach Theme  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mLnhi0rUL.jpg' alt='Amazon.com : Generic 7 * 5ft Beach Party Background - Large Beach Party  Banner Hawaiian Party Background Surf Party Decoration Hawaiian Beach Theme  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mLnhi0rUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10x8ft Hawaii Sea Beach Aloha Luau Party Photo Background Vinyl Studio  Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTAyOFgxNjAw/z/W1UAAOSwmvBdJVLD/$_57.JPG?set_id=8800005007' alt='10x8ft Hawaii Sea Beach Aloha Luau Party Photo Background Vinyl Studio  Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTAyOFgxNjAw/z/W1UAAOSwmvBdJVLD/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

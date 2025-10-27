@@ -1,0 +1,129 @@
+<title>Aaliyah: Meaning, Origin, and Significance</title>
+                    <meta name="description" content="Discover the meaning of Aaliyah, an Arabic name signifying "exalted" and "highborn." Learn about its cultural significance and its rise in popularity, inspired by the iconic singer Aaliyah. Explore the qualities that make this name a beautiful choice for girls.">
+                    <meta name="keywords" content="what does aaliyah mean">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-aaliyah-mean">
+                            <span itemprop="name">what does aaliyah mean</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aaliyah: Meaning, Origin, and Significance</h1>
+                <p>Aaliyah is a beautiful Arabic name meaning "exalted" or "highborn." It embodies the qualities of nobility and greatness. The name gained popularity, partly due to the influence of the late singer Aaliyah, who was known for her talent and style. Aaliyah signifies strength and elegance, making it a favored choice for girls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Name Meaning, Origin, Popularity, Girl Names Like Aaliyah ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/girls/a/aaliyah-name-meaning-baby-girl-h.gif' alt='Aaliyah Name Meaning, Origin, Popularity, Girl Names Like Aaliyah ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/girls/a/aaliyah-name-meaning-baby-girl-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Name Meaning, Origin, Popularity & Nicknames">
+                                <img itemprop="contentUrl url" src='https://cdn.cdnparenting.com/articles/2021/12/16135750/Aaliyah_Name_Meaning-_and_Origin.webp' alt='Aaliyah Name Meaning, Origin, Popularity & Nicknames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstCry Parenting" />
+                                </span>
+                                <a href='https://cdn.cdnparenting.com/articles/2021/12/16135750/Aaliyah_Name_Meaning-_and_Origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Personalised Name Meaning Placemat - The Card Zoo">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7f9rxjod7c/products/30964/images/23786/Aaliyah-Personalised-Name-Meaning-Placemat-94363-p__42630.1493739897.500.750.png?c=2' alt='Aaliyah Personalised Name Meaning Placemat - The Card Zoo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Card Zoo" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7f9rxjod7c/products/30964/images/23786/Aaliyah-Personalised-Name-Meaning-Placemat-94363-p__42630.1493739897.500.750.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Name Aaliyah Definition Aaliyah Female Name Aaliyah Meaning -  Trendy Sublimation Digital Download - Perfect for Personalization">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1699457372_UC-20231108-901_AaliyahNameAaliyahDefinitionAaliyahFemaleNameAaliyahMeaning2101.jpg&width=600&height=600&quality=90&format=auto&fit=pad' alt='Aaliyah Name Aaliyah Definition Aaliyah Female Name Aaliyah Meaning -  Trendy Sublimation Digital Download - Perfect for Personalization'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1699457372_UC-20231108-901_AaliyahNameAaliyahDefinitionAaliyahFemaleNameAaliyahMeaning2101.jpg&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Name Meaning Floral Certificate">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/FFoAAOSwQKlbBWjh/s-l1200.jpg' alt='Aaliyah Name Meaning Floral Certificate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/FFoAAOSwQKlbBWjh/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#Aaliyah #Namemeaning #Namestory #Babyname #Nameinspiration #Aaliyahmeaning  Say hello if you are Aaliyah">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7456643198027402513&location=0&aid=1988' alt='#Aaliyah #Namemeaning #Namestory #Babyname #Nameinspiration #Aaliyahmeaning  Say hello if you are Aaliyah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7456643198027402513&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aliyah Name Meaning, Origin, Popularity, Girl Names Like Aliyah ...">
+                                <img itemprop="contentUrl url" src='https://www.mamanatural.com/wp-content/uploads/name-images/girls/a/aliyah-name-meaning-baby-girl-h.gif' alt='Aliyah Name Meaning, Origin, Popularity, Girl Names Like Aliyah ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Natural" />
+                                </span>
+                                <a href='https://www.mamanatural.com/wp-content/uploads/name-images/girls/a/aliyah-name-meaning-baby-girl-h.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Definition | Greeting Card">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1279148158.0875/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Aaliyah Definition | Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1279148158.0875/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaliyah Name Meaning Pink Certificate">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/vckAAOSwxphbBWhU/s-l1200.jpg' alt='Aaliyah Name Meaning Pink Certificate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/vckAAOSwxphbBWhU/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Say my name, say my name">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/8b/7b/a08b7b8226cc2b8c095735588b85abd0.jpg' alt='Say my name, say my name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/8b/7b/a08b7b8226cc2b8c095735588b85abd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

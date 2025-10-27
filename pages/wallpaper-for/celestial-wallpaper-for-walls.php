@@ -1,0 +1,129 @@
+<title>Celestial Wallpaper: Transform Your Space with Cosmic Designs</title>
+                    <meta name="description" content="Discover celestial wallpaper to elevate your interiors. Explore stunning designs featuring galaxies and stars that bring a touch of the cosmos into your home. Perfect for bedrooms and creative spaces, our wallpapers create a dreamy ambiance, inspiring a sense of wonder. Transform your walls today!">
+                    <meta name="keywords" content="celestial wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/celestial-wallpaper-for-walls">
+                            <span itemprop="name">celestial wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celestial Wallpaper: Transform Your Space with Cosmic Designs</h1>
+                <p>Transform your space with celestial wallpaper, perfect for creating an dreamy atmosphere in any room. Inspired by the universe, these designs feature stunning galaxies, starry skies, and cosmic patterns. Ideal for bedrooms, nurseries, or creative spaces, celestial wallpaper fosters a sense of wonder and tranquility, making every moment special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Celestial Wallpaper 17.3” X 118” Gothic Peel and Stick Wallpaper  Dark Brown and Yellow Contact Paper Sun/Moon/Star Wallpaper Self Adhesive  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Va8xlenhL.jpg' alt='WENMER Celestial Wallpaper 17.3” X 118” Gothic Peel and Stick Wallpaper  Dark Brown and Yellow Contact Paper Sun/Moon/Star Wallpaper Self Adhesive  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Va8xlenhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Celestial Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D341">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5196531837_5itp.jpg?v=1709548663&width=1946' alt='Aesthetic Celestial Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D341'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5196531837_5itp.jpg?v=1709548663&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Self Adhesive Wallpaper - Premium Quality - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/12/celestial_moon_wallpaper_pattern_wallberry.jpg' alt='Celestial Self Adhesive Wallpaper - Premium Quality - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/12/celestial_moon_wallpaper_pattern_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial - Twilight | Santorus Shop Site">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/8ec410_853e66dfedc842c7bd61d4c9190e5c95~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8ec410_853e66dfedc842c7bd61d4c9190e5c95~mv2.jpg' alt='Celestial - Twilight | Santorus Shop Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Santorus" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/8ec410_853e66dfedc842c7bd61d4c9190e5c95~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8ec410_853e66dfedc842c7bd61d4c9190e5c95~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Wallpaper, Dark Blue Astrology Symbols Wallpaper, Planets Sun  Moon Stars Wallpaper, Peel and Stick Space Wall Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN047-celestial-blue-and-white-wallpaper.jpg?v=1720959559&width=2500' alt='Celestial Wallpaper, Dark Blue Astrology Symbols Wallpaper, Planets Sun  Moon Stars Wallpaper, Peel and Stick Space Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN047-celestial-blue-and-white-wallpaper.jpg?v=1720959559&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Chart Wallpaper, Star Map Wall Mural, Sky Chart Wall Paper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/d5e833/2551716044/il_fullxfull.2551716044_ld21.jpg' alt='Star Chart Wallpaper, Star Map Wall Mural, Sky Chart Wall Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/d5e833/2551716044/il_fullxfull.2551716044_ld21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Celestial Moon Phase Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/celestial-floral-seamless-mystic-pattern-wallpaper.jpg?v=1649930736' alt='Whimsical Celestial Moon Phase Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/celestial-floral-seamless-mystic-pattern-wallpaper.jpg?v=1649930736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Celestial Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D346">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5222811885_crqe.jpg?v=1727639361&width=1946' alt='Beige Celestial Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D346'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5222811885_crqe.jpg?v=1727639361&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun & Moon Beige Astrology Celestial Wallpaper Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/eca7fb/4272175550/il_570xN.4272175550_8we4.jpg' alt='Sun & Moon Beige Astrology Celestial Wallpaper Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/eca7fb/4272175550/il_570xN.4272175550_8we4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Gathering Mural - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240244-825-auto?width=825&height=auto&aspect=true' alt='Celestial Gathering Mural - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240244-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

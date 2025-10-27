@@ -1,0 +1,129 @@
+<title>Ronaldo, Messi, Neymar & Mbappe Wallpapers</title>
+                    <meta name="description" content="Explore stunning wallpapers of football superstars Ronaldo, Messi, Neymar, and Mbappe. Perfect for fans seeking unique backgrounds to showcase their love for the game. Download high-quality images to elevate your mobile or desktop experience!">
+                    <meta name="keywords" content="ronaldo messi neymar and mbappe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/ronaldo-messi-neymar-and-mbappe-wallpaper">
+                            <span itemprop="name">ronaldo messi neymar and mbappe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ronaldo, Messi, Neymar & Mbappe Wallpapers</h1>
+                <p>Discover captivating wallpapers featuring football legends Ronaldo, Messi, Neymar, and Mbappe. Perfect for fans, these vibrant images capture the essence of each player's skill and charisma. Transform your device with stunning backgrounds showcasing the greatest in football. Explore now and elevate your screen's style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✓ ⚽ WAZAFOOT NEWS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b2/69/bf/b269bf9d71a80dbe8ad3648834522da1.jpg' alt='✓ ⚽ WAZAFOOT NEWS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b2/69/bf/b269bf9d71a80dbe8ad3648834522da1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kylian Mbappe, Mohamed Salah, Erling Haaland vying to usurp Lionel ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/22/03/1600x900/skysports-messi-neymar-ronaldo_5695805.png?20220305194643' alt='Kylian Mbappe, Mohamed Salah, Erling Haaland vying to usurp Lionel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/22/03/1600x900/skysports-messi-neymar-ronaldo_5695805.png?20220305194643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Famous Football Superstar Ronaldo, Messi, Neymar And Mbape Set of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/0e/27/1f0e271f2a59bd426062578485a71b39.jpg' alt='Famous Football Superstar Ronaldo, Messi, Neymar And Mbape Set of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/0e/27/1f0e271f2a59bd426062578485a71b39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Ronaldo Neymar Mbappe Background Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/messi-ronaldo-neymar-mbappe-3840x2160.jpg' alt='Messi Ronaldo Neymar Mbappe Background Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/messi-ronaldo-neymar-mbappe-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Messi Neymar Mbappe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpaperaccess.com/full/1717830.jpg' alt='Ronaldo Messi Neymar Mbappe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://wallpaperaccess.com/full/1717830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About: Ronaldo Vs Messi Vs Neymar Vs Mbappe: Wallpapers (Google ...">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/MLK-STL_8tP7-xRdyAieS6uAOmwXAnqpvYPjF9FnlVVG8qDB5MQduUcrBxhPyhJ3HgI' alt='About: Ronaldo Vs Messi Vs Neymar Vs Mbappe: Wallpapers (Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apptopia" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/MLK-STL_8tP7-xRdyAieS6uAOmwXAnqpvYPjF9FnlVVG8qDB5MQduUcrBxhPyhJ3HgI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neymar messi mbappe wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/406/405/HD-wallpaper-psg-stars-fu%C3%9Fball-sports-uniform-neymar-soccer-messi-mbappe-thumbnail.jpg' alt='HD neymar messi mbappe wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/406/405/HD-wallpaper-psg-stars-fu%C3%9Fball-sports-uniform-neymar-soccer-messi-mbappe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers Neymar Mbappe Ronaldo and Messi | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7283532889730370848&location=0&aid=1988' alt='Live Wallpapers Neymar Mbappe Ronaldo and Messi | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7283532889730370848&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ronaldo Messi Neymar Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ronaldo-messi-neymar-1scna4uvivka9cxe.jpg' alt='100+] Ronaldo Messi Neymar Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ronaldo-messi-neymar-1scna4uvivka9cxe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A3 Messi Mbappe Neymar PSG by PosterArtyst on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f692e9a-0732-42b4-aaa2-d8181d574d6a/dfavfd0-e0ad27b9-2473-4e9e-a6ed-54babb6ee7b4.jpg/v1/fill/w_752,h_1063,q_70,strp/a3_messi_mbappe_neymar_psg_by_posterartyst_dfavfd0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmNjkyZTlhLTA3MzItNDJiNC1hYWEyLWQ4MTgxZDU3NGQ2YVwvZGZhdmZkMC1lMGFkMjdiOS0yNDczLTRlOWUtYTZlZC01NGJhYmI2ZWU3YjQuanBnIiwiaGVpZ2h0IjoiPD0yNzE2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvMmY2OTJlOWEtMDczMi00MmI0LWFhYTItZDgxODFkNTc0ZDZhXC9wb3N0ZXJhcnR5c3QtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.fHBgMnN8M-HpuH3RI7tAq3EJ2MwhBUzv2cjG2pHEpUI' alt='A3 Messi Mbappe Neymar PSG by PosterArtyst on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f692e9a-0732-42b4-aaa2-d8181d574d6a/dfavfd0-e0ad27b9-2473-4e9e-a6ed-54babb6ee7b4.jpg/v1/fill/w_752,h_1063,q_70,strp/a3_messi_mbappe_neymar_psg_by_posterartyst_dfavfd0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmNjkyZTlhLTA3MzItNDJiNC1hYWEyLWQ4MTgxZDU3NGQ2YVwvZGZhdmZkMC1lMGFkMjdiOS0yNDczLTRlOWUtYTZlZC01NGJhYmI2ZWU3YjQuanBnIiwiaGVpZ2h0IjoiPD0yNzE2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvMmY2OTJlOWEtMDczMi00MmI0LWFhYTItZDgxODFkNTc0ZDZhXC9wb3N0ZXJhcnR5c3QtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.fHBgMnN8M-HpuH3RI7tAq3EJ2MwhBUzv2cjG2pHEpUI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

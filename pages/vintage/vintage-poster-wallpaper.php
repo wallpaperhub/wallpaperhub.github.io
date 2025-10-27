@@ -1,0 +1,129 @@
+<title>Vintage Poster Wallpaper: Timeless Charm for Your Space</title>
+                    <meta name="description" content="Explore our stunning collection of vintage poster wallpaper, perfect for adding a touch of nostalgia and style to your home. Discover unique designs that enhance your décor while evoking a sense of history and charm. Transform your walls today with our curated selection!">
+                    <meta name="keywords" content="vintage poster wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-poster-wallpaper">
+                            <span itemprop="name">vintage poster wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Poster Wallpaper: Timeless Charm for Your Space</h1>
+                <p>Vintage poster wallpaper brings a nostalgic charm to any room, transforming your space with timeless designs and vibrant colors. These artistic pieces can be used as focal points or accent walls, offering a unique blend of history and style. Perfect for lovers of retro aesthetics, they add character to modern interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Mural Posters Wallpaper & Aesthetic Vintage Collage Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/32241f/3693157439/il_fullxfull.3693157439_6gdb.jpg' alt='Vintage Mural Posters Wallpaper & Aesthetic Vintage Collage Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2126">
+                                <meta itemprop="height" content="1585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/32241f/3693157439/il_fullxfull.3693157439_6gdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Poster Wallpaper Vintage Wall Mural Pop Art Vintage Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17284209/r/il/b70c0e/5099893605/il_570xN.5099893605_7wgq.jpg' alt='Retro Poster Wallpaper Vintage Wall Mural Pop Art Vintage Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17284209/r/il/b70c0e/5099893605/il_570xN.5099893605_7wgq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Retro Travel Poster Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1716566094/articles/FE0009MU01W_interior1.jpg' alt='Vintage Retro Travel Poster Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1200,h_630/v1716566094/articles/FE0009MU01W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/05/4c/99054cb4d8941892ec3029cf99456b43.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/05/4c/99054cb4d8941892ec3029cf99456b43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Canyon Vintage Poster">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/A/L/ALJOEAND116280_1.jpg' alt='Grand Canyon Vintage Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/A/L/ALJOEAND116280_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wall Decor, Vintage Posters Peel and Stick Wallpaper, Removable  Wallpaper Old Posters, W48">
+                                <img itemprop="contentUrl url" src='https://shopyland.us/wp-content/uploads/2022/04/1-1.jpg' alt='Retro Wall Decor, Vintage Posters Peel and Stick Wallpaper, Removable  Wallpaper Old Posters, W48'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopyLand" />
+                                </span>
+                                <a href='https://shopyland.us/wp-content/uploads/2022/04/1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Retro Travel Poster Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/cd/6e/8dcd6e1c8c725695aca5b333784f7561.jpg' alt='Vintage Retro Travel Poster Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/cd/6e/8dcd6e1c8c725695aca5b333784f7561.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Vintage Poster Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1583225214464-9296029427aa?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmludGFnZSUyMHBvc3RlcnxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Vintage Poster Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1583225214464-9296029427aa?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmludGFnZSUyMHBvc3RlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pop Art Original Poster Wallpaper Peel and Stick & Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/2b531d/3991813376/il_fullxfull.3991813376_81f1.jpg' alt='Retro Pop Art Original Poster Wallpaper Peel and Stick & Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/2b531d/3991813376/il_fullxfull.3991813376_81f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Retro Travel Poster Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715867098/articles/FE0009MU01W_product.jpg' alt='Vintage Retro Travel Poster Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715867098/articles/FE0009MU01W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

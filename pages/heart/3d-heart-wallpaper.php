@@ -1,0 +1,129 @@
+<title>Stunning 3D Heart Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a captivating collection of 3D heart wallpapers that add depth and beauty to your screens. Perfect for expressing love and creativity, these dynamic designs enhance your digital experience. Download your favorites today and showcase your unique style!">
+                    <meta name="keywords" content="3d heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/3d-heart-wallpaper">
+                            <span itemprop="name">3d heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Heart Wallpapers for Your Devices</h1>
+                <p>Transform your digital space with stunning 3D heart wallpapers that breathe life into your devices. Featuring intricate designs, vibrant colors, and a realistic touch, these wallpapers bring an artistic flair to your screens. Whether for romantic moments or a symbol of love, discover a collection that resonates with your heart.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 3d Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/3d-heart-829nlap2dl0krqrr.jpg' alt='100+] 3d Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/3d-heart-829nlap2dl0krqrr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Heart Wallpaper 3d Materials Fluid Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2316096531/display_1500/stock-photo--d-heart-wallpaper-d-and-materials-fluid-art-colorful-2316096531.jpg' alt='3d Heart Wallpaper 3d Materials Fluid Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2316096531/display_1500/stock-photo--d-heart-wallpaper-d-and-materials-fluid-art-colorful-2316096531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Multicolored Heart background. Valentine Wallpaper with Pink, Red ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/12/64/33/1000_F_412643315_LQeaXmnCQ0sDMzhJCUqCZjYurLQQpwt0.jpg' alt='Multicolored Heart background. Valentine Wallpaper with Pink, Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/12/64/33/1000_F_412643315_LQeaXmnCQ0sDMzhJCUqCZjYurLQQpwt0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love heart Wallpaper 4K, 3D background, Pink, Illusio">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/love-heart-3d-background-pink-illusio-2048x2048-6473.jpg' alt='Love heart Wallpaper 4K, 3D background, Pink, Illusio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/love-heart-3d-background-pink-illusio-2048x2048-6473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Heart Wallpaper Happy Valentines Day Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2329762261/display_1500/stock-photo--d-heart-wallpaper-happy-valentine-s-day-wallpaper-d-and-materials-fluid-art-colorful-2329762261.jpg' alt='3d Heart Wallpaper Happy Valentines Day Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2329762261/display_1500/stock-photo--d-heart-wallpaper-happy-valentine-s-day-wallpaper-d-and-materials-fluid-art-colorful-2329762261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Hd Wallpaper Heart Shaped 3d Wallpapers Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230428/0be4be8460f009d7bd305faf6b97643a.jpg!w700wp' alt='Beautiful Hd Wallpaper Heart Shaped 3d Wallpapers Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230428/0be4be8460f009d7bd305faf6b97643a.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Heart, abstract, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/103/635/HD-wallpaper-3d-heart-abstract.jpg' alt='3D Heart, abstract, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/103/635/HD-wallpaper-3d-heart-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,039 3d Love Heart Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/crystal-heart-scene-valentine-s-day-celebration-beautiful-d-heart-background-love-passion-crystal-heart-scene-348493877.jpg' alt='11,039 3d Love Heart Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/crystal-heart-scene-valentine-s-day-celebration-beautiful-d-heart-background-love-passion-crystal-heart-scene-348493877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Heart Wallpapers for Phone | Download Free images | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/3817feae7b8d3c189697c55b95bf022c/d41570f00589efd5cbb03140fc08a415.jpg?q=70&w=500' alt='3D Heart Wallpapers for Phone | Download Free images | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/3817feae7b8d3c189697c55b95bf022c/d41570f00589efd5cbb03140fc08a415.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet 3d Red Heart Of Love Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sweet-3d-red-heart-of-love-0rqdbsp5f6bmajmh.jpg' alt='Sweet 3d Red Heart Of Love Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sweet-3d-red-heart-of-love-0rqdbsp5f6bmajmh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

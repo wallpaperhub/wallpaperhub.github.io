@@ -1,0 +1,129 @@
+<title>New Year iPhone Wallpapers: Refresh Your Home Screen</title>
+                    <meta name="description" content="Discover beautiful New Year wallpapers for your iPhone! Celebrate the arrival of 2024 with vibrant designs that uplift your spirit. Explore our curated collection and find the perfect backdrop for your device. Download now and ring in the New Year with style and inspiration!">
+                    <meta name="keywords" content="new year wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/new-year-wallpaper-iphone">
+                            <span itemprop="name">new year wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>New Year iPhone Wallpapers: Refresh Your Home Screen</h1>
+                <p>Start the New Year with a fresh look for your iPhone! Our collection of stunning New Year wallpapers will inspire you every time you unlock your device. From festive designs to serene landscapes, find the perfect wallpaper that reflects your aspirations for the year ahead. Download your favorite today and embrace 2024 in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Years IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/16/5c/72165ccabb9d3cd4948c4630bc9f841e.jpg' alt='New Years IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/16/5c/72165ccabb9d3cd4948c4630bc9f841e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year's Eve iPhone wallpaper pack">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/12/new-years-eve-iphone-wallpaper-idownloadblog-stp_com-crop.jpg' alt='New Year's Eve iPhone wallpaper pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/12/new-years-eve-iphone-wallpaper-idownloadblog-stp_com-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New Year Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-year-iphone-s2lacuzv2x8s06pt.jpg' alt='100+] New Year Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-year-iphone-s2lacuzv2x8s06pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Years Wallpaper iPhone Backgrounds Inspiration Aesthetic">
+                                <img itemprop="contentUrl url" src='https://shaundanecole.com/wp-content/uploads/2020/12/20.jpg' alt='Happy New Years Wallpaper iPhone Backgrounds Inspiration Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shaunda Necole" />
+                                </span>
+                                <a href='https://shaundanecole.com/wp-content/uploads/2020/12/20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy new year new year wishes new year wallpaper hd wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/5c/49/555c49a3f0a6d0b9f010b76edb1faa06.jpg' alt='Happy new year new year wishes new year wallpaper hd wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/5c/49/555c49a3f0a6d0b9f010b76edb1faa06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New year iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/47/e5/2247e532fcaf22f51f819c29ed1b5574.jpg' alt='New year iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/47/e5/2247e532fcaf22f51f819c29ed1b5574.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Happy New Year tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/73/61/57736147d5032e3a09779f6cd3872601.jpg' alt='iPhone Wallpaper - Happy New Year tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/73/61/57736147d5032e3a09779f6cd3872601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Welcome the New Year with style! Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-new-year-iphone-gto70aweizyuv97z.jpg' alt='Download Welcome the New Year with style! Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-new-year-iphone-gto70aweizyuv97z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Years Aesthetic iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8222422.jpg' alt='New Years Aesthetic iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8222422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMTBfZmlyZXdvcmtzX2JhY2tncm91bmRfX2hpbnRfb2ZfcHJlY2lzaW9uaXNtX2luZl8yYzlhOTc2OS0yMjJhLTRmNzQtYjYzZS00OTc3NmQ5ZGIyNTNfMS5qcGc.jpg' alt='New Year Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMTBfZmlyZXdvcmtzX2JhY2tncm91bmRfX2hpbnRfb2ZfcHJlY2lzaW9uaXNtX2luZl8yYzlhOTc2OS0yMjJhLTRmNzQtYjYzZS00OTc3NmQ5ZGIyNTNfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

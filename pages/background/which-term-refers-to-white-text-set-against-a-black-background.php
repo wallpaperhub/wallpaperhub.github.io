@@ -1,0 +1,129 @@
+<title>Understanding Inverse Colors: White Text on Black Background</title>
+                    <meta name="description" content="Discover the concept of inverse colors, where white text contrasts sharply against a black background. Explore its uses in design, coding, and digital interfaces for improved readability and aesthetic appeal. Perfect for those interested in graphic design and interface optimization!">
+                    <meta name="keywords" content="which term refers to white text set against a black background?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-term-refers-to-white-text-set-against-a-black-background">
+                            <span itemprop="name">which term refers to white text set against a black background?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Inverse Colors: White Text on Black Background</h1>
+                <p>The term that refers to white text set against a black background is "inverse colors" or "negative colors." This design technique enhances readability and creates a striking visual contrast, making it popular in various digital platforms, especially in coding environments and dark mode settings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When to Use White Text on a Dark Background">
+                                <img itemprop="contentUrl url" src='http://uxmovement.com/wp-content/uploads/2011/04/light-absorb-reflect-text.png' alt='When to Use White Text on a Dark Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Movement" />
+                                </span>
+                                <a href='http://uxmovement.com/wp-content/uploads/2011/04/light-absorb-reflect-text.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is reversed type?">
+                                <img itemprop="contentUrl url" src='https://www.greenerprinter.com/support/wp-content/uploads/2024/03/Reversed_Type-1024x512.png' alt='What is reversed type?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GreenerPrinter" />
+                                </span>
+                                <a href='https://www.greenerprinter.com/support/wp-content/uploads/2024/03/Reversed_Type-1024x512.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="interaction design - What's the difference between white words ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/ExaPg.jpg' alt='interaction design - What's the difference between white words ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/ExaPg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why You Should Never Use Pure Black for Text or Backgrounds">
+                                <img itemprop="contentUrl url" src='http://uxmovement.com/wp-content/uploads/2018/05/pure_black-dark_gray-background.png' alt='Why You Should Never Use Pure Black for Text or Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Movement" />
+                                </span>
+                                <a href='http://uxmovement.com/wp-content/uploads/2018/05/pure_black-dark_gray-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why White on Black is a Poor Choice For Reading Text | by Russell ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*jYoAnYVLRUxOyX56' alt='Why White on Black is a Poor Choice For Reading Text | by Russell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*jYoAnYVLRUxOyX56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the best font color for text on a grey background screen ...">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-d584bce05502d3cc2f866651b6392063-pjlq' alt='What is the best font color for text on a grey background screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-d584bce05502d3cc2f866651b6392063-pjlq' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When to Use White Text on a Dark Background">
+                                <img itemprop="contentUrl url" src='http://uxmovement.com/wp-content/uploads/2011/04/white-text-headings.png' alt='When to Use White Text on a Dark Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Movement" />
+                                </span>
+                                <a href='http://uxmovement.com/wp-content/uploads/2011/04/white-text-headings.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SwiftUI Tutorial: Contrasting Text over Background Color | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*tP66j_N66KOo7S0Al5qBvQ.jpeg' alt='SwiftUI Tutorial: Contrasting Text over Background Color | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dallin Jared - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*tP66j_N66KOo7S0Al5qBvQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Mode In CSS Guide | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/06/bkg-3.png?resize=1137%2C1374&ssl=1' alt='Dark Mode In CSS Guide | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1137">
+                                <meta itemprop="height" content="1374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/06/bkg-3.png?resize=1137%2C1374&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Typography 1 Chapter 1 Flashcards | Quizlet">
+                                <img itemprop="contentUrl url" src='https://o.quizlet.com/bs4ZwfNEVY3UqXgtMDtEBQ.png' alt='Typography 1 Chapter 1 Flashcards | Quizlet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quizlet" />
+                                </span>
+                                <a href='https://o.quizlet.com/bs4ZwfNEVY3UqXgtMDtEBQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

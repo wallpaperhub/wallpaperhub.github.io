@@ -1,0 +1,129 @@
+<title>Epic Naruto vs Goku GIF Wallpapers for Anime Lovers</title>
+                    <meta name="description" content="Explore vibrant Naruto vs Goku wallpaper GIFs, showcasing thrilling battles and iconic moments. Perfect for anime enthusiasts, these visuals will transform your device’s background. Download now to celebrate your favorite characters in style!">
+                    <meta name="keywords" content="naruto vs goku wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/naruto-vs-goku-wallpaper-gif">
+                            <span itemprop="name">naruto vs goku wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Naruto vs Goku GIF Wallpapers for Anime Lovers</h1>
+                <p>Discover the ultimate showdown between Naruto and Goku with stunning wallpaper GIFs! Experience dynamic battles, iconic moves, and vivid animations featuring these two legendary characters. Perfect for fans of anime and manga, these wallpapers bring your screen to life and showcase the epic rivalry. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Vs Naruto GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/WUfMVrOoggYAAAAM/naruto-is-weak-fight.gif' alt='Goku Vs Naruto GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/WUfMVrOoggYAAAAM/naruto-is-weak-fight.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto And Son Goku GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/D4ZZ8EVlhqsAAAAM/naruto-goku.gif' alt='Naruto And Son Goku GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/D4ZZ8EVlhqsAAAAM/naruto-goku.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: :: Naruto VS Goku">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/991240521122216682/F1B2B35F2B392FC4595B8BC1B18DAF1FC042A8E7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Community :: :: Naruto VS Goku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/991240521122216682/F1B2B35F2B392FC4595B8BC1B18DAF1FC042A8E7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto,Goku & Luffy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6c/47/68/6c4768b475d504dbd24de6a2f68a69de.gif' alt='Naruto,Goku & Luffy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6c/47/68/6c4768b475d504dbd24de6a2f68a69de.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Vs Naruto GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/PG7m_BVD8XcAAAAM/naruto-goku.gif' alt='Goku Vs Naruto GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/PG7m_BVD8XcAAAAM/naruto-goku.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Vs Narutogif GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/bTwGpxB55nsAAAAM/piola.gif' alt='Goku Vs Narutogif GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/bTwGpxB55nsAAAAM/piola.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto, Goku, Luffy, sleeping, gif, funny, crossover, Dragonball Z ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ed/8b/b8/ed8bb84f466e033a6d4e7c283fe0e00d.gif' alt='Naruto, Goku, Luffy, sleeping, gif, funny, crossover, Dragonball Z ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ed/8b/b8/ed8bb84f466e033a6d4e7c283fe0e00d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images tagged with goku, naruto, goku vs naruto – @animoyale on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b21be534f62fbb740694a9f283729d1a/tumblr_p3odpegs9t1wz33z1o1_400.gif' alt='Images tagged with goku, naruto, goku vs naruto – @animoyale on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b21be534f62fbb740694a9f283729d1a/tumblr_p3odpegs9t1wz33z1o1_400.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="http://k30.kn3.net/0/2/2/0/9/9/AA0.gif">
+                                <img itemprop="contentUrl url" src='http://k30.kn3.net/0/2/2/0/9/9/AA0.gif' alt='http://k30.kn3.net/0/2/2/0/9/9/AA0.gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='http://k30.kn3.net/0/2/2/0/9/9/AA0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku vs Naruto on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/5-24-2015/jkICR0.gif' alt='Goku vs Naruto on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/5-24-2015/jkICR0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

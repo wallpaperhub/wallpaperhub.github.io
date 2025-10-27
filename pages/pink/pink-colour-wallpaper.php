@@ -1,0 +1,129 @@
+<title>Elegant Pink Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Explore the beauty of pink color wallpaper! Transform your space with soothing pastels or bold pinks to create a stylish, cozy atmosphere. Ideal for any room, discover tips and ideas for using pink wallpaper effectively in your home decor. Find the perfect shade to elevate your interiors today!">
+                    <meta name="keywords" content="pink colour wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-colour-wallpaper">
+                            <span itemprop="name">pink colour wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Wallpaper Ideas for Your Home</h1>
+                <p>Pink color wallpaper adds a charming touch to any room, creating a warm and inviting atmosphere. From soft pastels to vibrant fuchsias, it enhances decor while promoting feelings of tranquility and happiness. Perfect for bedrooms, nurseries, or accent walls, pink wallpaper complements various styles, making it a versatile choice for your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Pink Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' alt='640x1136 Pink Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/5a/99/b05a99f42969768befb8debac1bcff7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Solid Color Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-solid-color-2048-x-1536-9vicuu6h6haoreb8.jpg' alt='100+] Pink Solid Color Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-solid-color-2048-x-1536-9vicuu6h6haoreb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Color HD Wallpaper Image Picture For Your iPhone 5 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/b6/a1/d4b6a1a60ff99c056afc2018d42e2b1d.jpg' alt='Cute Pink Color HD Wallpaper Image Picture For Your iPhone 5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/b6/a1/d4b6a1a60ff99c056afc2018d42e2b1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27000+ HD Pink Wallpaper Photos for Free Download on Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-beautiful-abstract-mobile-wallpaper-in-pink-color-picture-image_1433465.jpg' alt='27000+ HD Pink Wallpaper Photos for Free Download on Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-beautiful-abstract-mobile-wallpaper-in-pink-color-picture-image_1433465.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD colour pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/363/163/HD-wallpaper-pink-glitter-colour-pink-glitter-colour-thumbnail.jpg' alt='HD colour pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/363/163/HD-wallpaper-pink-glitter-colour-pink-glitter-colour-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQ4n2kD64/1/0/900w/canva-watercolor-pink-feather-minimal-phone-wallpaper-cLnpcc_xfoM.jpg' alt='Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQ4n2kD64/1/0/900w/canva-watercolor-pink-feather-minimal-phone-wallpaper-cLnpcc_xfoM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Stunning Pink Wallpaper Backgrounds For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f6/08/42/f608424cf377a7f33edf9004a9d2a9ba.jpg' alt='50+ Stunning Pink Wallpaper Backgrounds For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f6/08/42/f608424cf377a7f33edf9004a9d2a9ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle Wallpaper in Blush Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-Belle_BlushPink_ILW50037_Roomset_WEB.webp?crop=center&height=1024&v=1705593188&width=1024' alt='Belle Wallpaper in Blush Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-Belle_BlushPink_ILW50037_Roomset_WEB.webp?crop=center&height=1024&v=1705593188&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHyWNDgTk/1/0/900w/canva-beige-and-pink-minimalist-watercolor-phone-wallpaper-ekYZtsnj5oQ.jpg' alt='Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHyWNDgTk/1/0/900w/canva-beige-and-pink-minimalist-watercolor-phone-wallpaper-ekYZtsnj5oQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper Aesthetic Girl Background (1051) - Photo #102751 ...">
+                                <img itemprop="contentUrl url" src='https://picture.lk/files/preview/800x1427/11733568564bbfcuqe3z1rqhnzts2lwvtxajvwt58zvoykoekhgxeesusxmitmmhpjndquk2pat0mlbpzw8vn0qwuqv02ubs77sfnude86g8hr9.jpg' alt='Pink Wallpaper Aesthetic Girl Background (1051) - Photo #102751 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picture.lk" />
+                                </span>
+                                <a href='https://picture.lk/files/preview/800x1427/11733568564bbfcuqe3z1rqhnzts2lwvtxajvwt58zvoykoekhgxeesusxmitmmhpjndquk2pat0mlbpzw8vn0qwuqv02ubs77sfnude86g8hr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

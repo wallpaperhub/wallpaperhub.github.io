@@ -1,0 +1,129 @@
+<title>Tranquil Phone Wallpapers for Instant Relaxation</title>
+                    <meta name="description" content="Discover a collection of calming wallpapers for your phone, designed to bring peace and tranquility to your daily routine. With serene landscapes and soft designs, transform your device into a source of relaxation and mindfulness. Perfect for anyone seeking a moment of calm on the go.">
+                    <meta name="keywords" content="relaxing wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/relaxing-wallpaper-phone">
+                            <span itemprop="name">relaxing wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tranquil Phone Wallpapers for Instant Relaxation</h1>
+                <p>Enhance your phone's aesthetics and serenity with relaxing wallpapers. Choose from soothing landscapes, calming ocean views, or gentle abstract designs to create a peaceful escape right in your pocket. Enjoy the tranquility they bring, making every glance at your phone a moment of relaxation and mindfulness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 30 Calming iPhone Wallpaper To Relax Your Mind">
+                                <img itemprop="contentUrl url" src='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' alt='Top 30 Calming iPhone Wallpaper To Relax Your Mind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calm Sage" />
+                                </span>
+                                <a href='https://www.calmsage.com/wp-content/uploads/2020/04/Cool-Blue-Waters-With-Sun-Shining-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD relax wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/612/756/HD-wallpaper-relax-nature-thumbnail.jpg' alt='HD relax wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/612/756/HD-wallpaper-relax-nature-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Calm Wallpapers ideas | calm, breathe in the air, iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/29/e1/d1/29e1d151888262ba517be2894b6e4f10.jpg' alt='170 Calm Wallpapers ideas | calm, breathe in the air, iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/29/e1/d1/29e1d151888262ba517be2894b6e4f10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Relaxing Wallpapers for iPhone on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/0b/5d/0a0b5ddd78a57d6798092dbc34a2b78d.jpg' alt='   Relaxing Wallpapers for iPhone on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/0b/5d/0a0b5ddd78a57d6798092dbc34a2b78d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Calming Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/calming-iphone-4c21z47vjd5ruu0v.jpg' alt='100+] Calming Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/calming-iphone-4c21z47vjd5ruu0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calm, pastel, colours, relax, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/132/767/HD-wallpaper-calm-pastel-colours-relax.jpg' alt='Calm, pastel, colours, relax, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/132/767/HD-wallpaper-calm-pastel-colours-relax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Relaxing Nature Mobile Wallpapers | by Qingshi Zhang | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1360/0*EPp2fxQn7OVyXIZP.jpg' alt='10 Relaxing Nature Mobile Wallpapers | by Qingshi Zhang | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1360/0*EPp2fxQn7OVyXIZP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Relaxing Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/relaxing-iphone-rgviuwpcsgq7mkss.jpg' alt='100+] Relaxing Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/relaxing-iphone-rgviuwpcsgq7mkss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul F Verhoeven on X: "Behold my stupidly relaxing phone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/B852OvqCEAEr1Gl.jpg' alt='Paul F Verhoeven on X: "Behold my stupidly relaxing phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/B852OvqCEAEr1Gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13185999.jpg' alt='Relaxing Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13185999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

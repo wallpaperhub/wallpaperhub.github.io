@@ -1,0 +1,129 @@
+<title>Building a Strong Professional Background</title>
+                    <meta name="description" content="Explore the essentials of crafting a solid professional background. Learn strategies for showcasing your experience, skills, and achievements effectively and boosting your career prospects. Ideal for job seekers and professionals looking to enhance their marketability.">
+                    <meta name="keywords" content="professional background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/professional-background">
+                            <span itemprop="name">professional background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Building a Strong Professional Background</h1>
+                <p>My professional background encompasses over a decade of experience in the marketing and communications sector. I specialize in digital marketing strategies, brand development, and content creation. My journey includes roles at reputable firms, where I honed my skills in project management and team leadership, driving successful campaigns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg' alt='Professional Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/551/394/small_2x/basic-rgbfuturistic-geometric-modern-blue-professional-background-free-vector.jpg' alt='Professional Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/551/394/small_2x/basic-rgbfuturistic-geometric-modern-blue-professional-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Muslin Abstract Texture Background for Professional Portrait DHP-594">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/DHP-5941359434498.jpg?v=1622269923' alt='Modern Muslin Abstract Texture Background for Professional Portrait DHP-594'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/DHP-5941359434498.jpg?v=1622269923' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/735/331/small/abstract-background-with-modern-style-free-vector.jpg' alt='Professional Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/735/331/small/abstract-background-with-modern-style-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-fluid-neon-color-3d-effect-business-background-banner-design-multipurpose_1340-16790.jpg' alt='Professional Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-fluid-neon-color-3d-effect-business-background-banner-design-multipurpose_1340-16790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract digital technology background Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1346141988/video/4k-abstract-digital-technology-background.jpg?s=640x640&k=20&c=bZ7wn-CPsbC2fp3oHm7dCZPEX2gyu_SiFqEolLBRYJk=' alt='Abstract digital technology background Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1346141988/video/4k-abstract-digital-technology-background.jpg?s=640x640&k=20&c=bZ7wn-CPsbC2fp3oHm7dCZPEX2gyu_SiFqEolLBRYJk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Backgrounds Images – Browse 8,921,298 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/20/15/99/360_F_420159938_x5w5gy5VPU4vJzI37Pv36aeVgW3F1ifp.jpg' alt='Professional Backgrounds Images – Browse 8,921,298 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/20/15/99/360_F_420159938_x5w5gy5VPU4vJzI37Pv36aeVgW3F1ifp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple & Professional background for your Online Meetings">
+                                <img itemprop="contentUrl url" src='https://virtual-bg.com/wp-content/uploads/2020/06/professional-2-background-for-zoom-or-teams-unsplash.jpg' alt='Simple & Professional background for your Online Meetings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual backgrounds for your online Zoom or Teams meeting" />
+                                </span>
+                                <a href='https://virtual-bg.com/wp-content/uploads/2020/06/professional-2-background-for-zoom-or-teams-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-background_53876-115958.jpg' alt='Professional Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-background_53876-115958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Background Images – Browse 8,474,462 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/82/15/70/360_F_982157019_lrZL66ydo2gWEdTkVlo3OE0ACpCOXDWx.jpg' alt='Professional Background Images – Browse 8,474,462 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/82/15/70/360_F_982157019_lrZL66ydo2gWEdTkVlo3OE0ACpCOXDWx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

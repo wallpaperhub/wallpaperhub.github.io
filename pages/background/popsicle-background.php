@@ -1,0 +1,129 @@
+<title>"Popsicle Paradise: Explore the World of Frozen Treats"</title>
+                    <meta name="description" content=""Discover the sweet and colorful history of popsicles! From their accidental invention to becoming a summertime favorite, learn all about this icy delight that keeps us cool and refreshed."">
+                    <meta name="keywords" content="popsicle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/popsicle-background">
+                            <span itemprop="name">popsicle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Popsicle Paradise: Explore the World of Frozen Treats"</h1>
+                <p>Popsicles have a vibrant history dating back to the early 20th century when Frank Epperson accidentally created the frozen treat by leaving his flavored drink outside overnight. Today, these colorful frozen treats come in various flavors, shapes, and sizes, appealing to all age groups and bringing joy during hot summer days.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,500+ Summer Popsicle Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1311561034/vector/seamless-pattern-with-popsicles-for-banners-cards-flyers-social-media-wallpapers-etc.jpg?s=612x612&w=0&k=20&c=_PyC-9lt0gv2XpnB2hf1en4EicRm9rZD2rebs1OY33g=' alt='16,500+ Summer Popsicle Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1311561034/vector/seamless-pattern-with-popsicles-for-banners-cards-flyers-social-media-wallpapers-etc.jpg?s=612x612&w=0&k=20&c=_PyC-9lt0gv2XpnB2hf1en4EicRm9rZD2rebs1OY33g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Background Images – Browse 145,294 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/08/64/48/360_F_108644892_Bycs0UT7hdg0a8uian8TPJGC8FFwAG5C.jpg' alt='Popsicle Background Images – Browse 145,294 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/08/64/48/360_F_108644892_Bycs0UT7hdg0a8uian8TPJGC8FFwAG5C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Background Images – Browse 145,294 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/42/09/52/360_F_442095289_lnb0dxLPa7Cetjrn1mJaVHlFhwaQ6Xuu.jpg' alt='Popsicle Background Images – Browse 145,294 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/42/09/52/360_F_442095289_lnb0dxLPa7Cetjrn1mJaVHlFhwaQ6Xuu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,000+ Blue Popsicle Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1205073760/photo/ice-cream-stick-popsicle-minimal-summer-concept-isometric-view.jpg?s=612x612&w=0&k=20&c=3_u12kdDtgXhQaHbCntCvyo0yC4Jgs_QwF2C_y2KAms=' alt='12,000+ Blue Popsicle Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1205073760/photo/ice-cream-stick-popsicle-minimal-summer-concept-isometric-view.jpg?s=612x612&w=0&k=20&c=3_u12kdDtgXhQaHbCntCvyo0yC4Jgs_QwF2C_y2KAms=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/589/689/non_2x/patriotic-popsicles-seamless-background-pattern-vector.png' alt='Popsicle Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/589/689/non_2x/patriotic-popsicles-seamless-background-pattern-vector.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Pattern - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/download/201727/Popsicle-Pattern.svg' alt='Popsicle Pattern - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/download/201727/Popsicle-Pattern.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-ice-cream-sticks-with-flavor_23-2148539367.jpg' alt='Popsicle Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-ice-cream-sticks-with-flavor_23-2148539367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pattern Popsicle Background: Over 4,259 Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/popsicle-seamless-pattern-vector-illustration-260nw-656908327.jpg' alt='Pink Pattern Popsicle Background: Over 4,259 Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/popsicle-seamless-pattern-vector-illustration-260nw-656908327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Wallpaper Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-vector-pattern-sweet-popsicles-260nw-1409731607.jpg' alt='Popsicle Wallpaper Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-vector-pattern-sweet-popsicles-260nw-1409731607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="POPSICLE WALLPAPER download Upstate Fancy">
+                                <img itemprop="contentUrl url" src='http://blog.upstatefancy.com/wp-content/uploads/2009/06/1280x1024.jpg' alt='POPSICLE WALLPAPER download Upstate Fancy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Upstate Fancy" />
+                                </span>
+                                <a href='http://blog.upstatefancy.com/wp-content/uploads/2009/06/1280x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

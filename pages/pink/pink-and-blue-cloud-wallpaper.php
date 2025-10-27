@@ -1,0 +1,129 @@
+<title>Dreamy Pink and Blue Cloud Wallpaper for Stylish Decor</title>
+                    <meta name="description" content="Explore our chic pink and blue cloud wallpaper, perfect for adding a whimsical touch to any room. Ideal for nurseries and bedrooms, this easy-to-apply design brings tranquility and style. Refresh your space effortlessly—shop now for a dreamy atmosphere!">
+                    <meta name="keywords" content="pink and blue cloud wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-blue-cloud-wallpaper">
+                            <span itemprop="name">pink and blue cloud wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dreamy Pink and Blue Cloud Wallpaper for Stylish Decor</h1>
+                <p>Transform your space with enchanting pink and blue cloud wallpaper! Perfect for creating a dreamy atmosphere in nurseries, bedrooms, or playrooms, this stunning wallpaper features soft pastel hues that evoke a sense of calm and comfort. Easy to apply and remove, it’s ideal for quick decor updates or making a statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Aesthetic Cloud Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-and-blue-aesthetic-cloud-hr3zlppmnxtehtu3.jpg' alt='Pink And Blue Aesthetic Cloud Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-and-blue-aesthetic-cloud-hr3zlppmnxtehtu3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Clouds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/fantasy-pink-blue-sky-spiritual-nature-background_360074-55346.jpg?semt=ais_hybrid' alt='Pink Blue Clouds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/fantasy-pink-blue-sky-spiritual-nature-background_360074-55346.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Pink Blue Sky Cloud Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_72befc24-8c1c-4916-99f1-5af6acecdf0f.jpg?v=1657604150' alt='Serene Pink Blue Sky Cloud Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_72befc24-8c1c-4916-99f1-5af6acecdf0f.jpg?v=1657604150' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouds wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/99/27/9299275c663db170fbe7ef15b26bd418.jpg' alt='Clouds wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/99/27/9299275c663db170fbe7ef15b26bd418.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Blue Clouds Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-blue-clouds-fyb133p4tnssxp1e.jpg' alt='100+] Pink And Blue Clouds Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-blue-clouds-fyb133p4tnssxp1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Clouds Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Pink-Clouds-Wall-Mural_038d2c6f-8b17-427d-b6a6-dc38f227a6f0.jpg?v=1628794152' alt='Pink Clouds Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Pink-Clouds-Wall-Mural_038d2c6f-8b17-427d-b6a6-dc38f227a6f0.jpg?v=1628794152' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Pink Fluffy Thick Clouds Against Blue Sky. Color Toning ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/blue-pink-fluffy-thick-clouds-against-sky-color-toning-duaton-natural-background-wallpaper-horizontal-frame-concept-copy-space-151039289.jpg' alt='Blue and Pink Fluffy Thick Clouds Against Blue Sky. Color Toning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/blue-pink-fluffy-thick-clouds-against-sky-color-toning-duaton-natural-background-wallpaper-horizontal-frame-concept-copy-space-151039289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Pink And Blue Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1516694898594-6bee63c70a04?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGFuZCUyMGJsdWUlMjBza3l8ZW58MHx8MHx8fDA%3D' alt='30,000+ Pink And Blue Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1516694898594-6bee63c70a04?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGFuZCUyMGJsdWUlMjBza3l8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Purple Clouds in the Light Blue Sky Wallpaper, Ocean for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/69e83a/1511494673/il_fullxfull.1511494673_oo8c.jpg' alt='Pink and Purple Clouds in the Light Blue Sky Wallpaper, Ocean for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1527">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/69e83a/1511494673/il_fullxfull.1511494673_oo8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Clouds Glitter Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zM193YWxscGFwZXJfb2ZfY2xvdWRzX2dyYWRpZW50X2dsaXR0ZXJfb25fc2ltcF9iNTllNTFjOS05MGJkLTQ5M2UtYTQxNy1kYjM0YTVhYTRmYWFfMS5qcGc.jpg' alt='Pink Clouds Glitter Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zM193YWxscGFwZXJfb2ZfY2xvdWRzX2dyYWRpZW50X2dsaXR0ZXJfb25fc2ltcF9iNTllNTFjOS05MGJkLTQ5M2UtYTQxNy1kYjM0YTVhYTRmYWFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

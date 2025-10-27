@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^/]+)(?:/([^/]+))?$ index.php?category=$1&post_slug=$2 [QSA,L]

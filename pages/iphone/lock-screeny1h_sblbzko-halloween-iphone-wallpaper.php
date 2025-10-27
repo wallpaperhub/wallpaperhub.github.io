@@ -1,0 +1,129 @@
+<title>Spooky Halloween iPhone Wallpapers for Your Lock Screen</title>
+                    <meta name="description" content="Discover amazing Halloween iPhone lock screen wallpapers! Get ready to elevate your phone with spooky themes and festive designs that capture the essence of Halloween. Perfect for anyone looking to add a touch of frightful fun to their device!">
+                    <meta name="keywords" content="lock screen:y1h_sblbzko= halloween iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screeny1h_sblbzko-halloween-iphone-wallpaper">
+                            <span itemprop="name">lock screen:y1h_sblbzko= halloween iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween iPhone Wallpapers for Your Lock Screen</h1>
+                <p>Get into the spooky spirit this Halloween with our collection of themed iPhone lock screen wallpapers! From haunting ghosts to playful pumpkins, transform your device into a festive celebration. Discover the perfect wallpaper that captures the essence of the season while keeping your screen stylishly spooky!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iphone Lock Screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/89/cc/38/89cc38332be366bff58cb8eb81adc472.jpg' alt='Halloween iphone Lock Screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/89/cc/38/89cc38332be366bff58cb8eb81adc472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Halloween lock screen ideas | fall wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dc/7e/04/dc7e04c285fc3d040591aa356b044761.jpg' alt='8 Best Halloween lock screen ideas | fall wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dc/7e/04/dc7e04c285fc3d040591aa356b044761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' alt='Download Scary Halloween Iphone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scary-halloween-iphone-vzhsu0te902jmp37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Halloween lock screen ideas | fall wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f3/2c/71/f32c71503606bcf526d98adbb2f5df16.jpg' alt='8 Best Halloween lock screen ideas | fall wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f3/2c/71/f32c71503606bcf526d98adbb2f5df16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen Halloween">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/d4/6b/1ad46b1008b60e49827dcdf84ac0aa30.jpg' alt='Lock screen Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/d4/6b/1ad46b1008b60e49827dcdf84ac0aa30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 16 Halloween Lockscreen : r/halloween">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wk0jj5rby3o91.jpg' alt='IOS 16 Halloween Lockscreen : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wk0jj5rby3o91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween 48 Phone Wallpapers Collection, Haunted House ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43448371/r/il/1be2b1/5361441600/il_570xN.5361441600_nhck.jpg' alt='Halloween 48 Phone Wallpapers Collection, Haunted House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43448371/r/il/1be2b1/5361441600/il_570xN.5361441600_nhck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Halloween iPhone Wallpaper ideas in 2025 | halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7e/45/47/7e454717ea79ddead538ef7549485dc3.jpg' alt='900+ Halloween iPhone Wallpaper ideas in 2025 | halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7e/45/47/7e454717ea79ddead538ef7549485dc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Halloween Lockscreen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-pumpkinand-bats-lockscreen-fyvxqhlzkzk9qvfn.jpg' alt='100+] Halloween Lockscreen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-pumpkinand-bats-lockscreen-fyvxqhlzkzk9qvfn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Halloween wallpaper        ideas | halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/17/2e/bc/172ebc86c9f89ce20a66688fac5bbe58.jpg' alt='170 Halloween wallpaper        ideas | halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/17/2e/bc/172ebc86c9f89ce20a66688fac5bbe58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

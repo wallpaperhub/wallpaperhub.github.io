@@ -1,0 +1,129 @@
+<title>Explore the Ancient Roots of Yoga</title>
+                    <meta name="description" content="Delve into the rich history of yoga, tracing its origins from ancient India to modern practice. Discover how yoga evolved over 5,000 years and its influence on culture and health worldwide. Perfect for enthusiasts and beginners alike!">
+                    <meta name="keywords" content="history of yoga">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-yoga">
+                            <span itemprop="name">history of yoga</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Ancient Roots of Yoga</h1>
+                <p>Yoga dates back over 5,000 years, originating in ancient India as a spiritual practice. Early texts, such as the Vedas and Upanishads, outline yoga's philosophical roots. By the time of Patanjali's Yoga Sutras, its principles were codified, influencing various schools. Today, yoga blends physical exercise with mental well-being globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoga History">
+                                <img itemprop="contentUrl url" src='https://yoga.ayush.gov.in/Yoga-History/images/15.jpg' alt='Yoga History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yoga Ayush Portal" />
+                                </span>
+                                <a href='https://yoga.ayush.gov.in/Yoga-History/images/15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Yoga & Its Origin | Ancient Roots & Evolution">
+                                <img itemprop="contentUrl url" src='https://hariomyogavidyaschool.com/wp-content/uploads/2024/06/History-Of-Yoga.webp' alt='History of Yoga & Its Origin | Ancient Roots & Evolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hari Om Yoga Vidya School" />
+                                </span>
+                                <a href='https://hariomyogavidyaschool.com/wp-content/uploads/2024/06/History-Of-Yoga.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Yoga: From its Tantric Roots to the Modern Yoga Studio  See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91tCNR5RVqL._UF1000,1000_QL80_.jpg' alt='A Brief History of Yoga: From its Tantric Roots to the Modern Yoga Studio  See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91tCNR5RVqL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Yoga Full Film English">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JoRwXMLsVis/maxresdefault.jpg' alt='History of Yoga Full Film English'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JoRwXMLsVis/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Yoga | Body Balance Studio VA">
+                                <img itemprop="contentUrl url" src='https://www.bodybalancewilliamsburg.com/wp-content/uploads/2015/11/The-Five-Periods-of-Yoga-1.jpg' alt='A Brief History of Yoga | Body Balance Studio VA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Body Balance Yoga & Fitness" />
+                                </span>
+                                <a href='https://www.bodybalancewilliamsburg.com/wp-content/uploads/2015/11/The-Five-Periods-of-Yoga-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoga History">
+                                <img itemprop="contentUrl url" src='https://yoga.ayush.gov.in/Yoga-History/images/banner.jpg' alt='Yoga History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yoga Ayush Portal" />
+                                </span>
+                                <a href='https://yoga.ayush.gov.in/Yoga-History/images/banner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring Yoga History: From Ancient Origins to Global Evolution">
+                                <img itemprop="contentUrl url" src='https://nepalyogahome.com/wp-content/uploads/2024/03/Yoga-History.jpg' alt='Exploring Yoga History: From Ancient Origins to Global Evolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1073">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nepal Yoga Home" />
+                                </span>
+                                <a href='https://nepalyogahome.com/wp-content/uploads/2024/03/Yoga-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Yoga">
+                                <img itemprop="contentUrl url" src='https://www.drishtiias.com/images/blogs/A-Brief-History-of-Yoga.png' alt='A Brief History of Yoga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1130">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drishti IAS" />
+                                </span>
+                                <a href='https://www.drishtiias.com/images/blogs/A-Brief-History-of-Yoga.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Yoga | Ancient Roots of Yoga">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/67691f03eb5bfa3289b3dae7/67691f03eb5bfa3289b3dd9f_%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%95%E0%A4%BE-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8-History-of-yoga-in-hindi.jpeg' alt='History of Yoga | Ancient Roots of Yoga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shvasa" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/67691f03eb5bfa3289b3dae7/67691f03eb5bfa3289b3dd9f_%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%95%E0%A4%BE-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8-History-of-yoga-in-hindi.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Yoga">
+                                <img itemprop="contentUrl url" src='https://yogkulam.com/storage/app/public/mobile_size/mob_666a9fbd967bb.jpg' alt='The History of Yoga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YogKulam.com" />
+                                </span>
+                                <a href='https://yogkulam.com/storage/app/public/mobile_size/mob_666a9fbd967bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

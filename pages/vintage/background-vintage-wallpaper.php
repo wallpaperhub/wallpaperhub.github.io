@@ -1,0 +1,129 @@
+<title>Vintage Wallpaper: Timeless Charm for Your Walls</title>
+                    <meta name="description" content="Explore the allure of background vintage wallpaper! Transform your space with unique designs that reflect nostalgia and character. Ideal for adding a warm, artistic touch to any room, our selection of vintage wallpaper is perfect for home decor enthusiasts and designers alike.">
+                    <meta name="keywords" content="background vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/background-vintage-wallpaper">
+                            <span itemprop="name">background vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Wallpaper: Timeless Charm for Your Walls</h1>
+                <p>Background vintage wallpaper adds a timeless charm to any space, evoking nostalgia with intricate patterns and faded colors. Ideal for those seeking a unique touch, these wallpapers can transform walls into art pieces. Embrace the beauty of vintage design as it brings warmth and character, perfect for homes and creative spaces alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-yellowish-vintage-wallpaper-phone-picture-image_1400229.jpg' alt='Vintage Wallpaper Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-yellowish-vintage-wallpaper-phone-picture-image_1400229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 VINTAGE WALLPAPERS FOR RETRO LOOK.... - Godfather Style">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/db/24/86db242b0197c7d03d1166090f33cb9f.jpg' alt='20 VINTAGE WALLPAPERS FOR RETRO LOOK.... - Godfather Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/db/24/86db242b0197c7d03d1166090f33cb9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDQtYmctMDRkLWwxMnY3eWI4LmpwZw.jpg' alt='Vintage Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDQtYmctMDRkLWwxMnY3eWI4LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage wallpaper background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn3.vectorstock.com/i/1000x1000/62/72/vintage-wallpaper-background-vector-946272.jpg' alt='Vintage wallpaper background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn3.vectorstock.com/i/1000x1000/62/72/vintage-wallpaper-background-vector-946272.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Brown Vintage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/brown-vintage-6szvaowrsvtsunyp.jpg' alt='100+] Brown Vintage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/brown-vintage-6szvaowrsvtsunyp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photography Backdrop Vintage Wallpaper – SoSo Creative">
+                                <img itemprop="contentUrl url" src='http://www.sosocreative.com/cdn/shop/products/Pat-Vintage-Wallpaper-2_1024x1024.jpg?v=1549768240' alt='Photography Backdrop Vintage Wallpaper – SoSo Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoSo Creative" />
+                                </span>
+                                <a href='http://www.sosocreative.com/cdn/shop/products/Pat-Vintage-Wallpaper-2_1024x1024.jpg?v=1549768240' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral vintage wallpaper stock photo. Image of background - 3948186">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/floral-vintage-wallpaper-3948186.jpg' alt='Floral vintage wallpaper stock photo. Image of background - 3948186'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/floral-vintage-wallpaper-3948186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Vintage Wallpaper For Desktop And Mobile">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/80/b2/3380b2d23e6efcf76904098b08c58442.jpg' alt='47 Vintage Wallpaper For Desktop And Mobile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/80/b2/3380b2d23e6efcf76904098b08c58442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Vintage Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667668224582-84f16f7dedd0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmludGFnZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' alt='900+ Vintage Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667668224582-84f16f7dedd0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmludGFnZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_7222_a9c11905-cdd5-4fc2-8f9a-dee3796b3d8a.jpg?v=1454939931' alt='1960s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_7222_a9c11905-cdd5-4fc2-8f9a-dee3796b3d8a.jpg?v=1454939931' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

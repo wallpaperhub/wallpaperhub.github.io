@@ -1,0 +1,129 @@
+<title>Inspiring God Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore our collection of divine god wallpapers for your phone. Elevate your device's look with inspiring and serene images that resonate with your spirituality. Perfect for daily motivation and connection to the divine, find the ideal wallpaper to suit your style today!">
+                    <meta name="keywords" content="god wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/god-wallpaper-for-phone">
+                            <span itemprop="name">god wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring God Wallpapers for Your Phone</h1>
+                <p>Discover stunning god wallpapers for your phone, designed to inspire and uplift your spirit. Our curated collection features divine images and serene artwork, perfect for enhancing your device's aesthetic. Transform your screen with breathtaking visuals that connect you to the divine every time you check your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lord shiva god of knowledge hd phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/90/f4/6190f4520d41e8c2dc28ad68ea5973ae.jpg' alt='lord shiva god of knowledge hd phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/90/f4/6190f4520d41e8c2dc28ad68ea5973ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Mobile Ganesh Green Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/god-mobile-ganesh-green-theme-xkzu9g2v1h5zrdyu.jpg' alt='God Mobile Ganesh Green Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/god-mobile-ganesh-green-theme-xkzu9g2v1h5zrdyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Love Wallpaper - Sarah Titus">
+                                <img itemprop="contentUrl url" src='https://www.sarahtitus.com/wp-content/uploads/2022/05/God-is-Love-Wallpaper-Phone-438x900.jpg' alt='God is Love Wallpaper - Sarah Titus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Titus" />
+                                </span>
+                                <a href='https://www.sarahtitus.com/wp-content/uploads/2022/05/God-is-Love-Wallpaper-Phone-438x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download God Mobile Krishna Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/god-mobile-krishna-8zkcu9np2hlivyi6.jpg' alt='Download God Mobile Krishna Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/god-mobile-krishna-8zkcu9np2hlivyi6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 3,487+ {HD God Images} Hindu God Wallpapers for Mobile Phones">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/92/87/789287ed58d4d9c246dddb53aa91d95c.jpg' alt='Best 3,487+ {HD God Images} Hindu God Wallpapers for Mobile Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/92/87/789287ed58d4d9c246dddb53aa91d95c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian Phone Wallpapers – By Faith">
+                                <img itemprop="contentUrl url" src='https://byfaith.org/wp-content/uploads/2022/03/Phone-Wallpapers_9.jpg' alt='Free Christian Phone Wallpapers – By Faith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="By Faith" />
+                                </span>
+                                <a href='https://byfaith.org/wp-content/uploads/2022/03/Phone-Wallpapers_9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Divine Gold Ganesha Figure For Mobile Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/divine-gold-ganesha-figure-for-mobile-background-rdp37u73vcmwvxoi.jpg' alt='Divine Gold Ganesha Figure For Mobile Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/divine-gold-ganesha-figure-for-mobile-background-rdp37u73vcmwvxoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Christian Wallpapers for Phones and Mobile Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.swncdn.com/media/500w/via/7648-god-so-loved-the-world.png' alt='100+ Christian Wallpapers for Phones and Mobile Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://i.swncdn.com/media/500w/via/7648-god-so-loved-the-world.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hindu God Sri Krishna Black background 10K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lord-krishna-1440x2560-16906.png' alt='Hindu God Sri Krishna Black background 10K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lord-krishna-1440x2560-16906.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download God Mobile Ganesha Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/god-mobile-ganesha-nsvww7ewwwtwfr7y.jpg' alt='Download God Mobile Ganesha Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/god-mobile-ganesha-nsvww7ewwwtwfr7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

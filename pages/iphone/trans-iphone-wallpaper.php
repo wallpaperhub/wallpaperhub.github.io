@@ -1,0 +1,129 @@
+<title>Vibrant Trans iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore our unique collection of trans iPhone wallpapers designed to celebrate diversity. Perfectly sized for mobile, these vibrant backgrounds will personalize your device while showcasing your pride. Download now to transform your iPhone with colorful expressions of identity!">
+                    <meta name="keywords" content="trans iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/trans-iphone-wallpaper">
+                            <span itemprop="name">trans iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Trans iPhone Wallpapers for Every Style</h1>
+                <p>Transform your iPhone with stunning trans wallpapers that celebrate diversity and inclusivity. Our collection features vibrant designs that uplift and inspire. Perfect for expressing your true self, these wallpapers can add a splash of color to your device. Download your favorite today and make your iPhone reflect who you are!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Transgender Phone Wallpapers, Transgender iPhone ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ef/d1/77/efd177174c654d7a52300af0e5204e85.jpg' alt='120 Transgender Phone Wallpapers, Transgender iPhone ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ef/d1/77/efd177174c654d7a52300af0e5204e85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Transgender Phone Wallpapers, Transgender iPhone ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/58/4c/f5584c034bb6d1182f2f2eb0fa2ac70d.jpg' alt='120 Transgender Phone Wallpapers, Transgender iPhone ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/58/4c/f5584c034bb6d1182f2f2eb0fa2ac70d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trans Flag Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trans-flag-602-x-1025-9ivusjkog4p68oa8.jpg' alt='100+] Trans Flag Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trans-flag-602-x-1025-9ivusjkog4p68oa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trans Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/trans-phone-2o96vxhbbgtkp3ps.jpg' alt='100+] Trans Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="579">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/trans-phone-2o96vxhbbgtkp3ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Hidden trans wallpapers ideas | trans art, trans, lgbt pride art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/7a/72/397a721d62120c01d59cf1c73fbdfc8a.jpg' alt='12 Hidden trans wallpapers ideas | trans art, trans, lgbt pride art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/7a/72/397a721d62120c01d59cf1c73fbdfc8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trans Phone Wallpaper : r/SubtleLGBTbackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2jh0rkytd4961.jpg' alt='Trans Phone Wallpaper : r/SubtleLGBTbackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2jh0rkytd4961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transgender Pride, aesthetic, dead, lgbtq, trans, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/811/599/HD-wallpaper-transgender-pride-aesthetic-dead-lgbtq-trans.jpg' alt='Transgender Pride, aesthetic, dead, lgbtq, trans, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/811/599/HD-wallpaper-transgender-pride-aesthetic-dead-lgbtq-trans.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transgender HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/transgender-male-female-symbol-9ospasyvnlkuvfq1.jpg' alt='Transgender HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1232">
+                                <meta itemprop="height" content="1859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/transgender-male-female-symbol-9ospasyvnlkuvfq1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Transgender Pride Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13454301/r/il/55a4e2/3875775057/il_fullxfull.3875775057_j9pq.jpg' alt='Subtle Transgender Pride Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13454301/r/il/55a4e2/3875775057/il_fullxfull.3875775057_j9pq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trans Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trans-phone-jmb1z69pvep57p5r.jpg' alt='100+] Trans Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trans-phone-jmb1z69pvep57p5r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

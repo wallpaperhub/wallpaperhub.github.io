@@ -1,0 +1,129 @@
+<title>Discover Jeremiah Fisher: Visionary Artist and Innovator</title>
+                    <meta name="description" content="Explore the world of Jeremiah Fisher, a talented artist known for his innovative approach and compelling storytelling. Delve into his creative projects and discover how he is shaping contemporary art and culture. Join us in celebrating his unique vision and impactful contributions to the artistic community.">
+                    <meta name="keywords" content="jeremiah fisher">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jeremiah-fisher">
+                            <span itemprop="name">jeremiah fisher</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Jeremiah Fisher: Visionary Artist and Innovator</h1>
+                <p>Jeremiah Fisher is a prominent figure known for his creative pursuits and impactful work in various artistic realms. With a unique blend of talent and vision, he engages audiences through compelling narratives and striking visuals. His endeavors reflect a commitment to authenticity and innovation, making him a noteworthy presence in contemporary culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher | The Summer I Turned Pretty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thesummeriturnedprettytrilogy/images/0/04/TSITP_Jeremiah_Portrait2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220710054441' alt='Jeremiah Fisher | The Summer I Turned Pretty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Summer I Turned Pretty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thesummeriturnedprettytrilogy/images/0/04/TSITP_Jeremiah_Portrait2.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220710054441' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why I'm Team Jeremiah After Watching The Summer I Turned Pretty">
+                                <img itemprop="contentUrl url" src='https://images.bauerhosting.com/celebrity/sites/3/2023/08/Jeremiah-Fisher-The-Summer-I-Turned-Pretty.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80' alt='Why I'm Team Jeremiah After Watching The Summer I Turned Pretty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grazia Daily" />
+                                </span>
+                                <a href='https://images.bauerhosting.com/celebrity/sites/3/2023/08/Jeremiah-Fisher-The-Summer-I-Turned-Pretty.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JEREMIAH FISHER Y'ALL : r/jellyshippers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jeremiah-fisher-yall-v0-6kk1yfgwr3wc1.jpeg?width=640&crop=smart&auto=webp&s=6585b07f72e38dd6d4fa93ebb81133fe31858817' alt='JEREMIAH FISHER Y'ALL : r/jellyshippers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jeremiah-fisher-yall-v0-6kk1yfgwr3wc1.jpeg?width=640&crop=smart&auto=webp&s=6585b07f72e38dd6d4fa93ebb81133fe31858817' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gavin Casalegno Jeremiah Fisher">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/0c/f9/ee0cf9eca8475942e0b412db97628b2b.jpg' alt='Gavin Casalegno Jeremiah Fisher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/0c/f9/ee0cf9eca8475942e0b412db97628b2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My friend group can't decide. Which brother is hotter: Jeremiah or ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-friend-group-cant-decide-which-brother-is-hotter-v0-x8nyhptpc2kb1.jpg?width=317&format=pjpg&auto=webp&s=d19f5f8093853b52b34810c9da4eb68d281c5226' alt='My friend group can't decide. Which brother is hotter: Jeremiah or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-friend-group-cant-decide-which-brother-is-hotter-v0-x8nyhptpc2kb1.jpg?width=317&format=pjpg&auto=webp&s=d19f5f8093853b52b34810c9da4eb68d281c5226' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher Icon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/d3/fd/45d3fdbfb85b5613f24a8bb5aa08e238.jpg' alt='Jeremiah Fisher Icon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/d3/fd/45d3fdbfb85b5613f24a8bb5aa08e238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher | LGBT Characters Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/lgbt-characters/images/5/57/TSITP_Jeremiah_S1_Portrait_%281%29.webp/revision/latest/thumbnail/width/360/height/450?cb=20220620215618' alt='Jeremiah Fisher | LGBT Characters Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LGBT Characters Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/lgbt-characters/images/5/57/TSITP_Jeremiah_S1_Portrait_%281%29.webp/revision/latest/thumbnail/width/360/height/450?cb=20220620215618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher | Dopple.ai">
+                                <img itemprop="contentUrl url" src='https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/7075fb53-363e-4c78-dd0d-381a611ff100/banner' alt='Jeremiah Fisher | Dopple.ai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1832">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dopple.ai" />
+                                </span>
+                                <a href='https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/7075fb53-363e-4c78-dd0d-381a611ff100/banner' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher | Bi Characters | Bi.org">
+                                <img itemprop="contentUrl url" src='https://ucarecdn.com/ac30d1cf-f63f-494b-9035-867e6d35ca29/-/crop/469x470/0,5/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' alt='Jeremiah Fisher | Bi Characters | Bi.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bi.org" />
+                                </span>
+                                <a href='https://ucarecdn.com/ac30d1cf-f63f-494b-9035-867e6d35ca29/-/crop/469x470/0,5/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah Fisher soft boy appreciation    Episode 4 now streaming  #TheSummerITurnedPretty #JeremiahFisher #tsitpedit #tsitp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7258156560243789058&location=0&aid=1988' alt='Jeremiah Fisher soft boy appreciation    Episode 4 now streaming  #TheSummerITurnedPretty #JeremiahFisher #tsitpedit #tsitp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7258156560243789058&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Jalen Hurts Phone Wallpapers: Download Epic Designs!</title>
+                    <meta name="description" content="Explore a collection of Jalen Hurts phone wallpapers to showcase your Eagles pride! Download high-quality images that inspire and motivate, perfect for fans looking to personalize their devices. Keep Jalen's energy and determination at your fingertips with stunning designs!">
+                    <meta name="keywords" content="jalen hurts phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/jalen-hurts-phone-wallpaper">
+                            <span itemprop="name">jalen hurts phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jalen Hurts Phone Wallpapers: Download Epic Designs!</h1>
+                <p>Jalen Hurts phone wallpaper brings style and inspiration to your device. Show support for the Eagles' star quarterback with stunning images capturing his athleticism and charisma. From dynamic action shots to motivational quotes, these wallpapers are perfect for fans who want to keep Jalen close, no matter where they go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts Wallpaper, Philadelphia Eagles Wallpaper, NFL Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/40/6b/9e406bf0d63b236efd0a057b5cbc6d10.jpg' alt='Jalen Hurts Wallpaper, Philadelphia Eagles Wallpaper, NFL Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/40/6b/9e406bf0d63b236efd0a057b5cbc6d10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts Iphone Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/hurts-9_63835166901246.8.jpg' alt='Jalen Hurts Iphone Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1379">
+                                <meta itemprop="height" content="1724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/hurts-9_63835166901246.8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeff Skversky on X: "   The Wallpaper background on Jalen Hurts ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F2X56UlXYAA7FeF.jpg' alt='Jeff Skversky on X: "   The Wallpaper background on Jalen Hurts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F2X56UlXYAA7FeF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Hurts-3_63835165964095.5.jpg' alt='Jalen Hurts HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Hurts-3_63835165964095.5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/29/5e/2e295eee6b838253b9fce043e8d0daa0.jpg' alt='Jalen Hurts Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/29/5e/2e295eee6b838253b9fce043e8d0daa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts Won't Change Phone Wallpaper After 2025 Super Bowl Win ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2025/02/Jalen-Hurts-Won-t-Change-Phone-Wallpaper-From-2023-Super-Bowl-Loss-After-2025-Win-Humble-Reminder-216.jpg?quality=40&strip=all' alt='Jalen Hurts Won't Change Phone Wallpaper After 2025 Super Bowl Win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2025/02/Jalen-Hurts-Won-t-Change-Phone-Wallpaper-From-2023-Super-Bowl-Loss-After-2025-Win-Humble-Reminder-216.jpg?quality=40&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jalen Hurts HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/hurts-2_63835163295849.3.jpg' alt='Jalen Hurts HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/hurts-2_63835163295849.3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EAGLESFan$$ (@eaglesfan048)’s videos with PISTOL PACCIN - NLE Choppa &  BigXthaPlug | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311893189181459758&location=0&aid=1988' alt='EAGLESFan$$ (@eaglesfan048)’s videos with PISTOL PACCIN - NLE Choppa &  BigXthaPlug | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311893189181459758&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/88/87/b6888716ef693d43a4d70415086a5ea3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/88/87/b6888716ef693d43a4d70415086a5ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpapers - British & Irish Eagles">
+                                <img itemprop="contentUrl url" src='https://british-eagles.co.uk/wp-content/uploads/2022/06/1656434274104.png?6bfec1&6bfec1' alt='Mobile Wallpapers - British & Irish Eagles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British & Irish Eagles" />
+                                </span>
+                                <a href='https://british-eagles.co.uk/wp-content/uploads/2022/06/1656434274104.png?6bfec1&6bfec1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

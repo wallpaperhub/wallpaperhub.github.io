@@ -1,0 +1,129 @@
+<title>Dollar Tree Logo: Affordable Shopping Icon</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dollar tree logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dollar-tree-logo">
+                            <span itemprop="name">dollar tree logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dollar Tree Logo: Affordable Shopping Icon</h1>
+                <p>The Dollar Tree logo features a distinctive green and white color scheme, symbolizing affordability and accessibility. The playful font and iconic dollar symbol encapsulate the essence of the brand, which offers a wide variety of products for just one dollar. This logo is recognizable and effectively communicates the store's commitment to budget-friendly shopping.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/04/Dollar-Tree-logo.png' alt='Dollar Tree logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/04/Dollar-Tree-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Dollar Tree logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dollar_Tree_logo.svg/2560px-Dollar_Tree_logo.svg.png' alt='File:Dollar Tree logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dollar_Tree_logo.svg/2560px-Dollar_Tree_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/12/Dollar-Tree-Emblem.png' alt='Dollar Tree Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/12/Dollar-Tree-Emblem.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree Logo - Dollar Tree Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180703/lug/aaxlztp9i.webp' alt='Dollar Tree Logo - Dollar Tree Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180703/lug/aaxlztp9i.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dollar Tree Logo in SVG Vector or PNG File Format - Logo.wine">
+                                <img itemprop="contentUrl url" src='https://download.logo.wine/logo/Dollar_Tree/Dollar_Tree-Logo.wine.png' alt='Download Dollar Tree Logo in SVG Vector or PNG File Format - Logo.wine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo.wine" />
+                                </span>
+                                <a href='https://download.logo.wine/logo/Dollar_Tree/Dollar_Tree-Logo.wine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree logo and their history | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2022/02/dollar-tree-logo-histroy.jpg' alt='Dollar Tree logo and their history | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2022/02/dollar-tree-logo-histroy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/b/b6/Dollar_Tree.svg/revision/latest/scale-to-width-down/300?cb=20200212051302' alt='Dollar Tree | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/b/b6/Dollar_Tree.svg/revision/latest/scale-to-width-down/300?cb=20200212051302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2023/04/Dollar-Tree-Logo-history.png' alt='Dollar Tree logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2023/04/Dollar-Tree-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOLLAR TREE - Updated March 2025 - 6285 Commerce Blvd, Rohnert ...">
+                                <img itemprop="contentUrl url" src='https://s3-media0.fl.yelpcdn.com/bphoto/HYeBIcgubgU95ewXV4eY7Q/348s.jpg' alt='DOLLAR TREE - Updated March 2025 - 6285 Commerce Blvd, Rohnert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yelp" />
+                                </span>
+                                <a href='https://s3-media0.fl.yelpcdn.com/bphoto/HYeBIcgubgU95ewXV4eY7Q/348s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dollar Tree Logo - Dollar Tree Store Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180202/oce/av2l552zp.webp' alt='Dollar Tree Logo - Dollar Tree Store Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180202/oce/av2l552zp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

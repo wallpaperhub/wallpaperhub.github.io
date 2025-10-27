@@ -1,0 +1,129 @@
+<title>Exploring Wentworth Miller: Actor, Advocate, & Icon</title>
+                    <meta name="description" content="Discover the life and achievements of Wentworth Miller, renowned actor from "Prison Break." Learn about his roles, advocacy for mental health and LGBTQ+ rights, and his impact on the entertainment industry in this concise overview.">
+                    <meta name="keywords" content="wentworth miller">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wentworth-miller">
+                            <span itemprop="name">wentworth miller</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Wentworth Miller: Actor, Advocate, & Icon</h1>
+                <p>Wentworth Miller is a talented actor and screenwriter, best known for his role as Michael Scofield in the hit TV series "Prison Break." Born on June 2, 1972, in Chipping Norton, England, he gained fame for his compelling performances. Miller is also an advocate for mental health awareness and LGBTQ+ rights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wentworth_Miller_by_Gage_Skidmore.jpg/1200px-Wentworth_Miller_by_Gage_Skidmore.jpg' alt='Wentworth Miller - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wentworth_Miller_by_Gage_Skidmore.jpg/1200px-Wentworth_Miller_by_Gage_Skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNTM3ODkxODI4Ml5BMl5BanBnXkFtZTYwNjY3NDM0._V1_.jpg' alt='Wentworth Miller - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNTM3ODkxODI4Ml5BMl5BanBnXkFtZTYwNjY3NDM0._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/190587_v9_bb.jpg' alt='Wentworth Miller | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/190587_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller | Ghost Whisperer Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ghostwhisperer/images/9/92/Actors-wentworth-miller.jpg/revision/latest/scale-to-width-down/1200?cb=20200520135447' alt='Wentworth Miller | Ghost Whisperer Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ghost Whisperer Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ghostwhisperer/images/9/92/Actors-wentworth-miller.jpg/revision/latest/scale-to-width-down/1200?cb=20200520135447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wentworth_by_Andrew_Horovitz.JPG/220px-Wentworth_by_Andrew_Horovitz.JPG' alt='Wentworth Miller - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wentworth_by_Andrew_Horovitz.JPG/220px-Wentworth_by_Andrew_Horovitz.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Wentworth Miller's partner Luke MacFarlane? | The US Sun">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2020/11/Screen-Shot-2020-11-10-at-11.46.15-AM.png?strip=all&quality=100&w=1920&h=1440&crop=1' alt='Who is Wentworth Miller's partner Luke MacFarlane? | The US Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2020/11/Screen-Shot-2020-11-10-at-11.46.15-AM.png?strip=all&quality=100&w=1920&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller | Etopia Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/etopia/images/9/94/Wentworth-miller-gt.jpg/revision/latest?cb=20171203074604' alt='Wentworth Miller | Etopia Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="297">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etopia Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/etopia/images/9/94/Wentworth-miller-gt.jpg/revision/latest?cb=20171203074604' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actor Wentworth Miller Reveals Hs Autism Diagnosis — American ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e04f2158c0a456f278aac8b/1628086789643-QKRI1N5EBAE0LHM14RW9/prison.jpg' alt='Actor Wentworth Miller Reveals Hs Autism Diagnosis — American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Autism Association" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e04f2158c0a456f278aac8b/1628086789643-QKRI1N5EBAE0LHM14RW9/prison.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller reveals autism diagnosis in moving Instagram post">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2021/07/wentworth-miller-has-autism-340.jpg?quality=75&strip=all&w=1024' alt='Wentworth Miller reveals autism diagnosis in moving Instagram post'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2021/07/wentworth-miller-has-autism-340.jpg?quality=75&strip=all&w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wentworth Miller ⭐ Transformation From 1 To 52 Years Old">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tBu4x-rIMpk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkcKoLrCuX-jaM75qHMNrCzAJ-cA' alt='Wentworth Miller ⭐ Transformation From 1 To 52 Years Old'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tBu4x-rIMpk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkcKoLrCuX-jaM75qHMNrCzAJ-cA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

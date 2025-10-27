@@ -1,0 +1,129 @@
+<title>Martin Luther King: A Legacy of Peace and Justice</title>
+                    <meta name="description" content="Explore the life and legacy of Martin Luther King Jr., a leader in the civil rights movement. Discover how his commitment to nonviolence and equality shaped history and inspired generations in the fight for justice and racial harmony.">
+                    <meta name="keywords" content="martin luther king">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/martin-luther-king">
+                            <span itemprop="name">martin luther king</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Martin Luther King: A Legacy of Peace and Justice</h1>
+                <p>Martin Luther King Jr. was a pivotal figure in the American civil rights movement. Known for his powerful speeches and dedication to nonviolent protest, he fought for racial equality, inspired millions, and led historic marches, including the famous 1963 March on Washington. His legacy continues to influence social justice efforts today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg' alt='Martin Luther King Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King, Jr. | Biography, Speeches, Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/1918-159-3DCB8E81/Martin-Luther-King-Jr.jpg' alt='Martin Luther King, Jr. | Biography, Speeches, Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/1918-159-3DCB8E81/Martin-Luther-King-Jr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of Dr. Martin Luther King, Jr. | National Endowment for ...">
+                                <img itemprop="contentUrl url" src='https://www.arts.gov/sites/default/files/styles/large/public/images/UnseenHistories-MLKOption1-smallerversion_1.jpg?itok=8NECE2mH' alt='The Art of Dr. Martin Luther King, Jr. | National Endowment for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Arts" />
+                                </span>
+                                <a href='https://www.arts.gov/sites/default/files/styles/large/public/images/UnseenHistories-MLKOption1-smallerversion_1.jpg?itok=8NECE2mH' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transcript of Martin Luther King's 'I Have a Dream' speech : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2017/01/15/king-speech_custom-4fabdf1a0c3778d1b25750c1593f10a6ac7ed391.jpg?s=1100&c=50&f=jpeg' alt='Transcript of Martin Luther King's 'I Have a Dream' speech : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2017/01/15/king-speech_custom-4fabdf1a0c3778d1b25750c1593f10a6ac7ed391.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. ‑ Biography, Quotes & Legacy | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/hero-crop-gettyimages-459534214.jpg' alt='Martin Luther King Jr. ‑ Biography, Quotes & Legacy | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3370">
+                                <meta itemprop="height" content="1895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/hero-crop-gettyimages-459534214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Dr. Martin Luther King Jr. - UNCSA">
+                                <img itemprop="contentUrl url" src='https://www.uncsa.edu/chancellor/communications/img/martin-luther-king-jr.jpg' alt='Honoring Dr. Martin Luther King Jr. - UNCSA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNCSA" />
+                                </span>
+                                <a href='https://www.uncsa.edu/chancellor/communications/img/martin-luther-king-jr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. (1929–1968) | National Portrait Gallery">
+                                <img itemprop="contentUrl url" src='https://npg.si.edu/sites/default/files/teacher_resources_mlk.jpg' alt='Martin Luther King Jr. (1929–1968) | National Portrait Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Portrait Gallery - Smithsonian Institution" />
+                                </span>
+                                <a href='https://npg.si.edu/sites/default/files/teacher_resources_mlk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - Martin Luther King, Jr. - Research Guides at Broward College">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Martin_Luther_King_Jr_NYWTS.jpg/396px-Martin_Luther_King_Jr_NYWTS.jpg' alt='Home - Martin Luther King, Jr. - Research Guides at Broward College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="396">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Research Guides - Broward College" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Martin_Luther_King_Jr_NYWTS.jpg/396px-Martin_Luther_King_Jr_NYWTS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King – Yousuf Karsh">
+                                <img itemprop="contentUrl url" src='https://karsh.org/wp-content/uploads/2016/10/Yousuf-Karsh-Martin-Luther-King-1962-1574x1960.jpg' alt='Martin Luther King – Yousuf Karsh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1574">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yousuf Karsh" />
+                                </span>
+                                <a href='https://karsh.org/wp-content/uploads/2016/10/Yousuf-Karsh-Martin-Luther-King-1962-1574x1960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50th Anniversary of March on Washington & "I Have a Dream" Speech ...">
+                                <img itemprop="contentUrl url" src='https://cz.usembassy.gov/wp-content/uploads/sites/22/2015/10/mlk-the-march750.jpg' alt='50th Anniversary of March on Washington & "I Have a Dream" Speech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Embassy Prague" />
+                                </span>
+                                <a href='https://cz.usembassy.gov/wp-content/uploads/sites/22/2015/10/mlk-the-march750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

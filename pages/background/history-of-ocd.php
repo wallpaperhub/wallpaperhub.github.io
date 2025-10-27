@@ -1,0 +1,129 @@
+<title>Understanding the History of OCD: From Mysticism to Modern Science</title>
+                    <meta name="description" content="Explore the intriguing history of OCD, from its early misconceptions to modern scientific understanding. Discover how perceptions of this complex disorder have evolved and the breakthroughs in treatment over time.">
+                    <meta name="keywords" content="history of ocd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-ocd">
+                            <span itemprop="name">history of ocd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the History of OCD: From Mysticism to Modern Science</h1>
+                <p>Obsessive-Compulsive Disorder (OCD) has been recognized for centuries, with historical texts tracing its symptoms back to the Middle Ages. Initially linked to religious or moral failings, it wasn't until the late 19th century that OCD began to be understood as a mental health condition. Today, advances in psychology and neuroscience have provided deeper insights into its causes, symptoms, and effective treatments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of OCD | OCD-UK">
+                                <img itemprop="contentUrl url" src='https://www.ocduk.org/wp-content/uploads/2018/05/howard_hughes-ocd.jpg' alt='The history of OCD | OCD-UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCD-UK" />
+                                </span>
+                                <a href='https://www.ocduk.org/wp-content/uploads/2018/05/howard_hughes-ocd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles TMS Therapy and Depression Treatment | OCD History">
+                                <img itemprop="contentUrl url" src='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-05-1280x1201.png' alt='Los Angeles TMS Therapy and Depression Treatment | OCD History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pulse TMS" />
+                                </span>
+                                <a href='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-05-1280x1201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of OCD | OCD-UK">
+                                <img itemprop="contentUrl url" src='https://www.ocduk.org/wp-content/uploads/2018/05/Pierre_Janet_OCD.jpg' alt='The history of OCD | OCD-UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCD-UK" />
+                                </span>
+                                <a href='https://www.ocduk.org/wp-content/uploads/2018/05/Pierre_Janet_OCD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles TMS Therapy and Depression Treatment | OCD History">
+                                <img itemprop="contentUrl url" src='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-01.png?_t=1561735845' alt='Los Angeles TMS Therapy and Depression Treatment | OCD History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1009">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pulse TMS" />
+                                </span>
+                                <a href='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-01.png?_t=1561735845' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of OCD | OCD-UK">
+                                <img itemprop="contentUrl url" src='https://www.ocduk.org/wp-content/uploads/2018/05/Richard_Baxter_OCD.jpg' alt='The history of OCD | OCD-UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCD-UK" />
+                                </span>
+                                <a href='https://www.ocduk.org/wp-content/uploads/2018/05/Richard_Baxter_OCD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of OCD | OCD-UK">
+                                <img itemprop="contentUrl url" src='https://www.ocduk.org/wp-content/uploads/2018/05/Jean-Pierre_Falret-ocduk.jpg' alt='The history of OCD | OCD-UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCD-UK" />
+                                </span>
+                                <a href='https://www.ocduk.org/wp-content/uploads/2018/05/Jean-Pierre_Falret-ocduk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles TMS Therapy and Depression Treatment | OCD History">
+                                <img itemprop="contentUrl url" src='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-06-1280x961.png' alt='Los Angeles TMS Therapy and Depression Treatment | OCD History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pulse TMS" />
+                                </span>
+                                <a href='https://pulsetms.com/wp-content/uploads/2019/06/ocd-history-guide-graphics-06-1280x961.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OCD: Brief History and Timeline. History is all about how society ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1224/0*cDOa5DMXCzCIRz0u' alt='OCD: Brief History and Timeline. History is all about how society ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1224/0*cDOa5DMXCzCIRz0u' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of OCD | OCD-UK">
+                                <img itemprop="contentUrl url" src='https://www.ocduk.org/wp-content/uploads/2018/05/Sigmund_Freud_OCD.jpg' alt='The history of OCD | OCD-UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1647">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCD-UK" />
+                                </span>
+                                <a href='https://www.ocduk.org/wp-content/uploads/2018/05/Sigmund_Freud_OCD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OCD: A Neurodivergent History of Obsessive Compulsive Disorder">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RGxFOb-YdH0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjatAROrXvlNIrQa9d-vak5aGc9w' alt='OCD: A Neurodivergent History of Obsessive Compulsive Disorder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RGxFOb-YdH0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjatAROrXvlNIrQa9d-vak5aGc9w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

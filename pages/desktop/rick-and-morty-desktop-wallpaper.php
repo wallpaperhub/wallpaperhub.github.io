@@ -1,0 +1,129 @@
+<title>Stunning Rick and Morty Desktop Wallpapers for Fans</title>
+                    <meta name="description" content="Explore our collection of Rick and Morty desktop wallpapers! Perfect for fans seeking vibrant, high-quality images that bring the show's unique style to life. Discover your favorite characters and scenes to customize your screen, ensuring a fun and engaging desktop experience. Download your favorites today!">
+                    <meta name="keywords" content="rick and morty desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/rick-and-morty-desktop-wallpaper">
+                            <span itemprop="name">rick and morty desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rick and Morty Desktop Wallpapers for Fans</h1>
+                <p>Bring the multiverse to your desktop with stunning Rick and Morty wallpapers! From vibrant cosmic scenes to iconic character moments, transform your screen with the zany art style that fans adore. Whether you love sci-fi shenanigans or heartwarming adventures, there's a perfect wallpaper to capture your fandom. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Wallpapers (72 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/f/5/46701-3840x2160-desktop-4k-rick-and-morty-background-image.jpg' alt='Rick and Morty Wallpapers (72 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/f/5/46701-3840x2160-desktop-4k-rick-and-morty-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Space Adventure HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/876/876589.jpg' alt='Rick and Morty Space Adventure HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/876/876589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Desktop Wallpaper (1366x768) : r/rickandmorty">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ep77fc6dceey.jpg' alt='Rick and Morty Desktop Wallpaper (1366x768) : r/rickandmorty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ep77fc6dceey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any cool Rick and Morty wallpapers? : r/rickandmorty">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wx9mj52s8kly.jpg' alt='Any cool Rick and Morty wallpapers? : r/rickandmorty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wx9mj52s8kly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Smith Family HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/796/thumb-1920-796108.jpg' alt='Rick and Morty Smith Family HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/796/thumb-1920-796108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rick And Morty Cool Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-cool-t3ynu5ly9m7jq6e2.jpg' alt='100+] Rick And Morty Cool Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-cool-t3ynu5ly9m7jq6e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and morty 4k 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-pc-4k-ks9x4010rl0fycrb.jpg' alt='Rick and morty 4k 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-pc-4k-ks9x4010rl0fycrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rick-and-morty-fan-art 4K Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/rick-and-morty-fan-art-chromebook-wallpaper.jpg' alt='rick-and-morty-fan-art 4K Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/rick-and-morty-fan-art-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Ultra High Res Wallpaper : r/rickandmorty">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-4-aNWj_J38SstFp3Lvt_mCK-Cn9lQLD-1gm8yfPcs8.png?width=640&crop=smart&auto=webp&s=d78a189f25c7e0a6d8f1c85d96dbca06506e0c30' alt='Rick and Morty Ultra High Res Wallpaper : r/rickandmorty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-4-aNWj_J38SstFp3Lvt_mCK-Cn9lQLD-1gm8yfPcs8.png?width=640&crop=smart&auto=webp&s=d78a189f25c7e0a6d8f1c85d96dbca06506e0c30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="460+] Rick And Morty Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/9d/5a/169d5a6735cb18381a99df9c425354f8.jpg' alt='460+] Rick And Morty Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/9d/5a/169d5a6735cb18381a99df9c425354f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Death Battles: Create Exciting Showdowns!</title>
+                    <meta name="description" content="Discover the ultimate death battle template for thrilling character matchups. Engage fans with detailed backgrounds, abilities, and styles to analyze epic confrontations. Perfect for enthusiasts wanting to spark debates on who would win!">
+                    <meta name="keywords" content="death battle template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/death-battle-template">
+                            <span itemprop="name">death battle template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Death Battles: Create Exciting Showdowns!</h1>
+                <p>A death battle template serves as a structured guide for creating thrilling hypothetical matchups between iconic characters from various universes. It outlines essential details such as combatants' backgrounds, abilities, and fighting styles, allowing fans to engage in intense discussions and analyses about potential outcomes in epic confrontations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/deathbattlefanon/images/8/8f/Mega_Chad_DB_Template.png/revision/latest/scale-to-width-down/1200?cb=20200604174428' alt='User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Death Battle Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/deathbattlefanon/images/8/8f/Mega_Chad_DB_Template.png/revision/latest/scale-to-width-down/1200?cb=20200604174428' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Battle! Red and Gray Template (Render) by lolma67 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/661465dc-bb42-47e8-bd3e-506e5f9e3cb9/dfl1b91-699f3897-c888-4313-9b8e-86a0b2761304.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2MTQ2NWRjLWJiNDItNDdlOC1iZDNlLTUwNmU1ZjllM2NiOVwvZGZsMWI5MS02OTlmMzg5Ny1jODg4LTQzMTMtOWI4ZS04NmEwYjI3NjEzMDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o-BW87EtrN9s53LImoa4ktR44BZ-QUSd9J-jiopcnGY' alt='Death Battle! Red and Gray Template (Render) by lolma67 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/661465dc-bb42-47e8-bd3e-506e5f9e3cb9/dfl1b91-699f3897-c888-4313-9b8e-86a0b2761304.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2MTQ2NWRjLWJiNDItNDdlOC1iZDNlLTUwNmU1ZjllM2NiOVwvZGZsMWI5MS02OTlmMzg5Ny1jODg4LTQzMTMtOWI4ZS04NmEwYjI3NjEzMDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o-BW87EtrN9s53LImoa4ktR44BZ-QUSd9J-jiopcnGY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death battle template category list thing. : r/DeathBattleMatchups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/death-battle-template-category-list-thing-v0-mrbiqz9b4k6c1.jpg?width=1051&format=pjpg&auto=webp&s=636bbf2c28e8ed06501d505c79fe44c3c0668f45' alt='Death battle template category list thing. : r/DeathBattleMatchups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/death-battle-template-category-list-thing-v0-mrbiqz9b4k6c1.jpg?width=1051&format=pjpg&auto=webp&s=636bbf2c28e8ed06501d505c79fe44c3c0668f45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composite DEATH BATTLE Template by ShrekUltimate on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34264dad-e5ff-4f07-8300-796352b8dd2b/dhvld0l-619f6b83-b1b4-4346-8f60-43fb89511730.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0MjY0ZGFkLWU1ZmYtNGYwNy04MzAwLTc5NjM1MmI4ZGQyYlwvZGh2bGQwbC02MTlmNmI4My1iMWI0LTQzNDYtOGY2MC00M2ZiODk1MTE3MzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ef77-f-g6fbkDaFj221zKgZIJh9InuaNJlDiLw2Mu1w' alt='Composite DEATH BATTLE Template by ShrekUltimate on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34264dad-e5ff-4f07-8300-796352b8dd2b/dhvld0l-619f6b83-b1b4-4346-8f60-43fb89511730.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0MjY0ZGFkLWU1ZmYtNGYwNy04MzAwLTc5NjM1MmI4ZGQyYlwvZGh2bGQwbC02MTlmNmI4My1iMWI0LTQzNDYtOGY2MC00M2ZiODk1MTE3MzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ef77-f-g6fbkDaFj221zKgZIJh9InuaNJlDiLw2Mu1w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/deathbattlefanon/images/e/e6/DBS4_horizontal.png/revision/latest/scale-to-width-down/250?cb=20200411195850' alt='User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Death Battle Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/deathbattlefanon/images/e/e6/DBS4_horizontal.png/revision/latest/scale-to-width-down/250?cb=20200411195850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="death battle Design Template | Pixiz">
+                                <img itemprop="contentUrl url" src='https://data.pixiz.com/output/user/frame/preview/api/big/4/0/7/8/2818704_580bf.jpg' alt='death battle Design Template | Pixiz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixiz" />
+                                </span>
+                                <a href='https://data.pixiz.com/output/user/frame/preview/api/big/4/0/7/8/2818704_580bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Death Battle season 1 template.webp - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/11/Death_Battle_season_1_template.webp' alt='File:Death Battle season 1 template.webp - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/11/Death_Battle_season_1_template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Death Battle template for User vs User matchups a while ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/panvpoy1r4s91.png' alt='I made a Death Battle template for User vs User matchups a while ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/panvpoy1r4s91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Battle Template Black by Bluelightning733 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f83fe5ba-b2be-402d-bf7f-6f9ffc0f2e42/dcb0boq-631aa462-801f-4f0e-9ca3-85c15e945cd4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4M2ZlNWJhLWIyYmUtNDAyZC1iZjdmLTZmOWZmYzBmMmU0MlwvZGNiMGJvcS02MzFhYTQ2Mi04MDFmLTRmMGUtOWNhMy04NWMxNWU5NDVjZDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FiqoBNgJZWv_wFxd8kX0Q3CqpHLRj-BcNmRUnch2Ejc' alt='Death Battle Template Black by Bluelightning733 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="962">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f83fe5ba-b2be-402d-bf7f-6f9ffc0f2e42/dcb0boq-631aa462-801f-4f0e-9ca3-85c15e945cd4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4M2ZlNWJhLWIyYmUtNDAyZC1iZjdmLTZmOWZmYzBmMmU0MlwvZGNiMGJvcS02MzFhYTQ2Mi04MDFmLTRmMGUtOWNhMy04NWMxNWU5NDVjZDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FiqoBNgJZWv_wFxd8kX0Q3CqpHLRj-BcNmRUnch2Ejc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/deathbattlefanon/images/3/3b/3_Template_Argentinian_Deadpool_S4.png/revision/latest/scale-to-width-down/250?cb=20241029023823' alt='User blog:Sharaku Jr./The Ultimate Template Blog for all of your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Death Battle Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/deathbattlefanon/images/3/3b/3_Template_Argentinian_Deadpool_S4.png/revision/latest/scale-to-width-down/250?cb=20241029023823' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

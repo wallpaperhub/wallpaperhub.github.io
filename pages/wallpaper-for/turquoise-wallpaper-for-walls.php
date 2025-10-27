@@ -1,0 +1,129 @@
+<title>Vibrant Turquoise Wallpaper: Refresh Your Walls</title>
+                    <meta name="description" content="Discover the beauty of turquoise wallpaper for your home! Enhance your space with this vibrant color that brings energy and tranquility. Perfect for any room, our collection includes various designs to fit your style. Explore ideas on how to use turquoise to transform your walls today!">
+                    <meta name="keywords" content="turquoise wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/turquoise-wallpaper-for-walls">
+                            <span itemprop="name">turquoise wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Turquoise Wallpaper: Refresh Your Walls</h1>
+                <p>Transform your space with stunning turquoise wallpaper, perfect for adding a pop of color to any room. Its vibrant hue complements both modern and traditional decor styles, creating a refreshing atmosphere. Ideal for bedrooms, living rooms, or accent walls, turquoise wallpaper exudes tranquility while enhancing the overall aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Turquoise stone mosaic 3d abstract marbled golden  veins lines Wall Mural Modern Contact Paper Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71uDQX4RjhL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Turquoise stone mosaic 3d abstract marbled golden  veins lines Wall Mural Modern Contact Paper Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71uDQX4RjhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Teal Turquoise Solid Outside Texture Blue Green Color Wall  Emerald Peel and Stick Wallpaper Removable Self-Adhesive Large Wallpaper  Roll ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RjXM72gJL.jpg' alt='Amazon.com: Teal Turquoise Solid Outside Texture Blue Green Color Wall  Emerald Peel and Stick Wallpaper Removable Self-Adhesive Large Wallpaper  Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RjXM72gJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Teal Blue Turquoise Wallpaper Peel and Stick Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/f99c51/5290388131/il_570xN.5290388131_7wrq.jpg' alt='Wall Mural Teal Blue Turquoise Wallpaper Peel and Stick Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/f99c51/5290388131/il_570xN.5290388131_7wrq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birch - Turquoise">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/44946/landscape/wallpaper/room43.jpg?w=2000&q=80' alt='Birch - Turquoise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/44946/landscape/wallpaper/room43.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Abstract Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor -C936">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C936_02SQUARE_03.png?v=1734707094&width=1946' alt='Turquoise Abstract Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor -C936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C936_02SQUARE_03.png?v=1734707094&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Abstract Wallpaper, Turquoise Marble With Gold, Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25404343/r/il/31a8be/3689638561/il_570xN.3689638561_4qwt.jpg' alt='Luxurious Abstract Wallpaper, Turquoise Marble With Gold, Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25404343/r/il/31a8be/3689638561/il_570xN.3689638561_4qwt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turquoise Blue Autumn Leaves">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/174556/pr22/1/1280/turquoise-blue-autumn-leaves-leaf-wallpaper.jpg' alt='Turquoise Blue Autumn Leaves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/174556/pr22/1/1280/turquoise-blue-autumn-leaves-leaf-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAGMA Designer Wallpaper Turquoise World - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/123945/role/image/size/1500x2240/type/ws-osmr-wiz1/eef0ca69a315070ecc4886f241cf9b7c.webp' alt='MAGMA Designer Wallpaper Turquoise World - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/123945/role/image/size/1500x2240/type/ws-osmr-wiz1/eef0ca69a315070ecc4886f241cf9b7c.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Turquoise and Gold Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='http://maughons.com/cdn/shop/products/abstract-turquoise-and-gold-wallpaper-mural-custom-sizes-available-wall-murals-maughons-294150_600x600.jpg?v=1663756095' alt='Abstract Turquoise and Gold Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='http://maughons.com/cdn/shop/products/abstract-turquoise-and-gold-wallpaper-mural-custom-sizes-available-wall-murals-maughons-294150_600x600.jpg?v=1663756095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHIHUT 17.7"x100" Teal Peel and Stick Wallpaper Self Adhesive Removable  Teal Blue Wallpaper Modern Turquoise Wallpaper Blue Contact Paper  Decorative ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/0a8fa7b0-f103-41e9-9e0b-ca0784b45704.8cbadcceac531510050173f3ac81233a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='CHIHUT 17.7"x100" Teal Peel and Stick Wallpaper Self Adhesive Removable  Teal Blue Wallpaper Modern Turquoise Wallpaper Blue Contact Paper  Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/0a8fa7b0-f103-41e9-9e0b-ca0784b45704.8cbadcceac531510050173f3ac81233a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

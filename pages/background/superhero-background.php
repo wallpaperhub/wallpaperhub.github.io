@@ -1,0 +1,129 @@
+<title>Unmasking the Origins: The Background of Superheroes</title>
+                    <meta name="description" content="Explore the fascinating backgrounds of superheroes! Discover how their origins, tragic events, and unique abilities shape their identities and missions. This insightful dive into superhero lore reveals the compelling stories that make them iconic and relatable. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="superhero background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/superhero-background">
+                            <span itemprop="name">superhero background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unmasking the Origins: The Background of Superheroes</h1>
+                <p>Every superhero has a unique background that shapes their identity. Often stemming from tragic events, extraordinary abilities, or a strong desire for justice, these stories give depth to their characters. From orphaned children who rise to greatness to those gifted with superhuman powers, their origins fuel their missions to protect the world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superhero Background Images – Browse 194,547 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/88/68/34/360_F_488683482_iblhGrGuWT5sDcawyMKcKax2KRnrxF3k.jpg' alt='Superhero Background Images – Browse 194,547 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/88/68/34/360_F_488683482_iblhGrGuWT5sDcawyMKcKax2KRnrxF3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superhero Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/408/305/non_2x/comic-superhero-style-background-with-halftone-and-sunburst-effect-free-vector.jpg' alt='Superhero Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1635">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/408/305/non_2x/comic-superhero-style-background-with-halftone-and-sunburst-effect-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,100+ Superhero Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1134933683/vector/comic-page-bright-concept.jpg?s=612x612&w=0&k=20&c=9VDUQYrp0Ed-oI_T92OigcUY76XbxZYT96-gyTZ3U5s=' alt='16,100+ Superhero Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1134933683/vector/comic-page-bright-concept.jpg?s=612x612&w=0&k=20&c=9VDUQYrp0Ed-oI_T92OigcUY76XbxZYT96-gyTZ3U5s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Blue comic book background flash vintage pop art superhero ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/796/591/small/blue-comic-book-background-vintage-pop-art-superhero-background-for-comics-vector.jpg' alt='New Blue comic book background flash vintage pop art superhero ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/796/591/small/blue-comic-book-background-vintage-pop-art-superhero-background-for-comics-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Superhero Stock Illustrations – 54,768 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pop-art-retro-comic-yellow-blue-background-superhero-lightning-blast-halftone-dots-cartoon-vs-vector-201566628.jpg' alt='Background Superhero Stock Illustrations – 54,768 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pop-art-retro-comic-yellow-blue-background-superhero-lightning-blast-halftone-dots-cartoon-vs-vector-201566628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420+ Superhero Background City Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/826515614/vector/colorful-bright-comic-template.jpg?s=612x612&w=0&k=20&c=Qoqz-EK0ySD3X0E8rgWMXJxJtujwb0nmAvAI1BR08ME=' alt='420+ Superhero Background City Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/826515614/vector/colorful-bright-comic-template.jpg?s=612x612&w=0&k=20&c=Qoqz-EK0ySD3X0E8rgWMXJxJtujwb0nmAvAI1BR08ME=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superhero Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/comic-style-wallpaper_79603-1248.jpg' alt='Superhero Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/comic-style-wallpaper_79603-1248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Yeele 10x8ft Cartoon Comic City Super Hero Photography  Backdrop Vinyl Humor Abstract Superhero Baby Shower Photo Background For  Girl Kid ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51IZ4D8Zk3L.jpg' alt='Amazon.com : Yeele 10x8ft Cartoon Comic City Super Hero Photography  Backdrop Vinyl Humor Abstract Superhero Baby Shower Photo Background For  Girl Kid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51IZ4D8Zk3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Hero Background Images – Browse 212,473 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/33/08/21/360_F_233082194_MxlEKbiLYTwZuEIAehOmh5LgHQ0eaRum.jpg' alt='Super Hero Background Images – Browse 212,473 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/33/08/21/360_F_233082194_MxlEKbiLYTwZuEIAehOmh5LgHQ0eaRum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Background Superhero Stock Illustrations – 11,173 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/comic-book-explosion-superhero-pop-art-style-radial-lines-background-manga-anime-speed-frame-78153186.jpg' alt='Explosion Background Superhero Stock Illustrations – 11,173 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/comic-book-explosion-superhero-pop-art-style-radial-lines-background-manga-anime-speed-frame-78153186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

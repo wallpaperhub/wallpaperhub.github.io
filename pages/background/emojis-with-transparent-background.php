@@ -1,0 +1,129 @@
+<title>Emojis with Transparent Backgrounds: Enhance Your Designs</title>
+                    <meta name="description" content="Discover the power of emojis with transparent backgrounds to elevate your design projects. Perfect for social media and websites, these versatile emojis allow for seamless integration and enhanced visual appeal. Express yourself creatively while maintaining a sleek, clean look in all your digital communications.">
+                    <meta name="keywords" content="emojis with transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emojis-with-transparent-background">
+                            <span itemprop="name">emojis with transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Emojis with Transparent Backgrounds: Enhance Your Designs</h1>
+                <p>Emojis with transparent backgrounds offer versatility for design projects, making them easy to overlay on various surfaces without any unsightly borders. They're perfect for social media, websites, and digital communications. Users can express emotions or ideas seamlessly, enhancing visuals while maintaining a clean aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Emoji Faces, Emoji Pictures [Download PNG] | Emoji Island">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1061/1924/files/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_large.png?15202324258887420558' alt='Apple Emoji Faces, Emoji Pictures [Download PNG] | Emoji Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emoji Island" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1061/1924/files/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_large.png?15202324258887420558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji Transparent Background Stock Illustrations – 4,164 Emoji ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/set-emoji-transparent-background-emoticon-icon-173448680.jpg' alt='Emoji Transparent Background Stock Illustrations – 4,164 Emoji ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/set-emoji-transparent-background-emoticon-icon-173448680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Emoji PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210731/ourmid/pngtree-cute-cartoon-learning-full-score-happy-emoji-emoji-png-image_3762943.jpg' alt='Happy Emoji PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210731/ourmid/pngtree-cute-cartoon-learning-full-score-happy-emoji-emoji-png-image_3762943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji PNG, Emoji Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/emoji-png/heart-emoji-png-2.png' alt='Emoji PNG, Emoji Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/emoji-png/heart-emoji-png-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji Png Transparent Emojipng Images Pluspng - Cool Emoji Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/82/2c/19822c18e912ad0ffb2ad2faed8a61af.jpg' alt='Emoji Png Transparent Emojipng Images Pluspng - Cool Emoji Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/82/2c/19822c18e912ad0ffb2ad2faed8a61af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji Transparent png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/639/396/png-clipart-emoji-transparency-emoji-love-heart-thumbnail.png' alt='Emoji Transparent png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/639/396/png-clipart-emoji-transparency-emoji-love-heart-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Emoji [Download IOS Emojis]">
+                                <img itemprop="contentUrl url" src='https://emojiisland.com/cdn/shop/products/Emoji_Icon_-_Cowboy_emoji_large.png?v=1571606089' alt='Cowboy Emoji [Download IOS Emojis]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emoji Island" />
+                                </span>
+                                <a href='https://emojiisland.com/cdn/shop/products/Emoji_Icon_-_Cowboy_emoji_large.png?v=1571606089' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240323/taz/transparent-smile-emoji-happy-excited-emoticon-with-tongue-out65fe622c114eb8.85655367.webp' alt='Emoji PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240323/taz/transparent-smile-emoji-happy-excited-emoticon-with-tongue-out65fe622c114eb8.85655367.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kiss Face Emoji Transparent Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3Y0ODItbWludHktYXVtLTQxLWVtb2ppY29uLWxoMDdmcWRsLnBuZw.png' alt='Kiss Face Emoji Transparent Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3Y0ODItbWludHktYXVtLTQxLWVtb2ppY29uLWxoMDdmcWRsLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoticon Thumb Up transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c4c4.png' alt='Emoticon Thumb Up transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c4c4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

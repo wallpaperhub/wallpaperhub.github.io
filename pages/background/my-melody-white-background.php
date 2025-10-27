@@ -1,0 +1,129 @@
+<title>My Melody: The Perfect White Background Aesthetic</title>
+                    <meta name="description" content="Discover the adorable charm of My Melody with a clean white background that enhances her delightful features. Perfect for fans of kawaii culture looking for a bright, minimalist aesthetic that captures joy and innocence. Elevate your space with My Melody's playful spirit today!">
+                    <meta name="keywords" content="my melody white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/my-melody-white-background">
+                            <span itemprop="name">my melody white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>My Melody: The Perfect White Background Aesthetic</h1>
+                <p>My Melody, the adorable Sanrio character, shines against a pristine white background, highlighting her playful spirit and charm. This minimalist backdrop enhances her pastel hues and kawaii features, making her stand out. Perfect for fans who appreciate a clean, bright aesthetic, it embodies innocence and joy in every glance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ios ꙳⋆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/f8/d5/56f8d528c6cbb762e1b3815a3e8899e5.jpg' alt='ios ꙳⋆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/f8/d5/56f8d528c6cbb762e1b3815a3e8899e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/0c/17/a0/0c17a085f561482db4465421f640bf8f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/0c/17/a0/0c17a085f561482db4465421f640bf8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest My Melody Sanrio Bunny Transparent PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/cutest-my-melody-sanrio-bunny-transparent-png-735811696611754afklpcjtil.png' alt='Cutest My Melody Sanrio Bunny Transparent PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/cutest-my-melody-sanrio-bunny-transparent-png-735811696611754afklpcjtil.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody | Hello yoshi Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hello-yoshi/images/9/9f/Mymelodyfront2D.png/revision/latest?cb=20191021195635' alt='My Melody | Hello yoshi Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Yoshi Wiki Hello yoshi Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hello-yoshi/images/9/9f/Mymelodyfront2D.png/revision/latest?cb=20191021195635' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Cutest Sanrio Character Transparent PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/my-melody-cutest-sanrio-character-transparent-png-735811696611645kygewdqrim.png' alt='My Melody Cutest Sanrio Character Transparent PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/my-melody-cutest-sanrio-character-transparent-png-735811696611645kygewdqrim.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Trends International Gallery Pops Sanrio My Melody - My Melody  Character Portrait Wall Art Wall Poster, 12.00" x 12.00", White Frame ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61E9zh0yQbL.jpg' alt='Amazon.com: Trends International Gallery Pops Sanrio My Melody - My Melody  Character Portrait Wall Art Wall Poster, 12.00" x 12.00", White Frame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61E9zh0yQbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melody, white, pink, flower, bunny, hat, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/388/652/HD-wallpaper-melody-white-pink-flower-bunny-hat.jpg' alt='Melody, white, pink, flower, bunny, hat, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/388/652/HD-wallpaper-melody-white-pink-flower-bunny-hat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Backgrounds & Wallpapers - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/my-melody-438x329.jpg' alt='My Melody Backgrounds & Wallpapers - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/my-melody-438x329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody by Iamlemon1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56d77c30-43ce-4b7e-832a-a7b3189fd7a9/dgiu5pi-eaed7646-7aef-4d66-9d9a-c632a1378108.jpg/v1/fill/w_360,h_360,q_75,strp/my_melody_by_iamlemon1_dgiu5pi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzYwIiwicGF0aCI6IlwvZlwvNTZkNzdjMzAtNDNjZS00YjdlLTgzMmEtYTdiMzE4OWZkN2E5XC9kZ2l1NXBpLWVhZWQ3NjQ2LTdhZWYtNGQ2Ni05ZDlhLWM2MzJhMTM3ODEwOC5qcGciLCJ3aWR0aCI6Ijw9MzYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UzwKmZHKMmUABtBdZHve5RFe5RBhz3otirA261CHfQE' alt='My Melody by Iamlemon1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56d77c30-43ce-4b7e-832a-a7b3189fd7a9/dgiu5pi-eaed7646-7aef-4d66-9d9a-c632a1378108.jpg/v1/fill/w_360,h_360,q_75,strp/my_melody_by_iamlemon1_dgiu5pi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzYwIiwicGF0aCI6IlwvZlwvNTZkNzdjMzAtNDNjZS00YjdlLTgzMmEtYTdiMzE4OWZkN2E5XC9kZ2l1NXBpLWVhZWQ3NjQ2LTdhZWYtNGQ2Ni05ZDlhLWM2MzJhMTM3ODEwOC5qcGciLCJ3aWR0aCI6Ijw9MzYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UzwKmZHKMmUABtBdZHve5RFe5RBhz3otirA261CHfQE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio My Melody Backside Logo Sticker">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/sanrio-my-melody-backside-logo-deanq-safan-transparent.png' alt='Sanrio My Melody Backside Logo Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/sanrio-my-melody-backside-logo-deanq-safan-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

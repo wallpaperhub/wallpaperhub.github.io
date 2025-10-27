@@ -1,0 +1,129 @@
+<title>Stunning Dabi Phone Wallpapers for Anime Fans</title>
+                    <meta name="description" content="Discover amazing Dabi phone wallpapers that bring the My Hero Academia villain to life! Browse a collection of high-quality images perfect for personalizing your device. Download now and show off your favorite character in style!">
+                    <meta name="keywords" content="dabi phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dabi-phone-wallpaper">
+                            <span itemprop="name">dabi phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dabi Phone Wallpapers for Anime Fans</h1>
+                <p>Dabi, a fan-favorite character from My Hero Academia, has captivated many with his striking appearance and complex backstory. If you're looking to personalize your device, Dabi phone wallpapers are a perfect choice. These wallpapers feature his iconic blue flames and dark aesthetic, allowing fans to showcase their love for this enigmatic villain. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dabi From My Hero Academia Phone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dabi-from-my-hero-academia-phone-otji4ws1bf5tdibq.jpg' alt='Download Dabi From My Hero Academia Phone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dabi-from-my-hero-academia-phone-otji4ws1bf5tdibq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Dabi Phone Wallpaper Anime Fanart BNHA My Hero Academia - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/51498081/r/il/4cc8f1/5947477123/il_1080xN.5947477123_opj9.jpg' alt='Anime Dabi Phone Wallpaper Anime Fanart BNHA My Hero Academia - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/51498081/r/il/4cc8f1/5947477123/il_1080xN.5947477123_opj9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dabi wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/258/381/HD-wallpaper-dabi-allmight-anime-bnha-bokunoheroacademia-izukumidoriya-leagueofvillains-mha-myheroacademia-todorokishouto.jpg' alt='HD dabi wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/258/381/HD-wallpaper-dabi-allmight-anime-bnha-bokunoheroacademia-izukumidoriya-leagueofvillains-mha-myheroacademia-todorokishouto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dabi Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dabi-phone-cumabrmsaa2w1re4.jpg' alt='100+] Dabi Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dabi-phone-cumabrmsaa2w1re4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dabi IPhone wallpaper - made it for myself, thought maybe some of ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/yE_ArTc7ysKpbgnOQPB6ddlTHpQSkvtZjtTzieFexMc.jpg?auto=webp&s=0464c412f29b8aa8625c43f24ff79de612c3a67a' alt='Dabi IPhone wallpaper - made it for myself, thought maybe some of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/yE_ArTc7ysKpbgnOQPB6ddlTHpQSkvtZjtTzieFexMc.jpg?auto=webp&s=0464c412f29b8aa8625c43f24ff79de612c3a67a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dabi wallpaper by Reiishikatsu - Download on ZEDGE™ | 8f67">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/88/58/4c/88584c9ad78c5336362a766bbee9ccfb.jpg' alt='Dabi wallpaper by Reiishikatsu - Download on ZEDGE™ | 8f67'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/88/58/4c/88584c9ad78c5336362a766bbee9ccfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY HERO ACADEMIA] Dabi Phone wallpaper by PistiMcBacon on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0659e59-3535-4d3c-b696-678413705ca0/defc5td-1fff1783-1e39-4d66-abef-d94d2dfe54ec.jpg/v1/fill/w_1280,h_2276,q_75,strp/_my_hero_academia__dabi_phone_wallpaper_by_pistimcbacon_defc5td-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcL2IwNjU5ZTU5LTM1MzUtNGQzYy1iNjk2LTY3ODQxMzcwNWNhMFwvZGVmYzV0ZC0xZmZmMTc4My0xZTM5LTRkNjYtYWJlZi1kOTRkMmRmZTU0ZWMuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Dejf0KygelGdg3Lm2zTig2VEJRc0pGdlGh3jfkTh13U' alt='MY HERO ACADEMIA] Dabi Phone wallpaper by PistiMcBacon on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0659e59-3535-4d3c-b696-678413705ca0/defc5td-1fff1783-1e39-4d66-abef-d94d2dfe54ec.jpg/v1/fill/w_1280,h_2276,q_75,strp/_my_hero_academia__dabi_phone_wallpaper_by_pistimcbacon_defc5td-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcL2IwNjU5ZTU5LTM1MzUtNGQzYy1iNjk2LTY3ODQxMzcwNWNhMFwvZGVmYzV0ZC0xZmZmMTc4My0xZTM5LTRkNjYtYWJlZi1kOTRkMmRmZTU0ZWMuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Dejf0KygelGdg3Lm2zTig2VEJRc0pGdlGh3jfkTh13U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dabi wallpaper wallpaper by venokuart - Download on ZEDGE™ | 87b9">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/f6/5c/5ef65ceceeae5cd71832c5b9ebf41bbd.jpg' alt='dabi wallpaper wallpaper by venokuart - Download on ZEDGE™ | 87b9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/f6/5c/5ef65ceceeae5cd71832c5b9ebf41bbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Dabi wallpaper (not my own art) : r/MyHeroAcadamia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-dabi-wallpaper-not-my-own-art-v0-sueoy5qf6whd1.jpg?width=750&format=pjpg&auto=webp&s=8f8fad2e07fe1faa5a7c4a1303e29953f209f1ca' alt='My Dabi wallpaper (not my own art) : r/MyHeroAcadamia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-dabi-wallpaper-not-my-own-art-v0-sueoy5qf6whd1.jpg?width=750&format=pjpg&auto=webp&s=8f8fad2e07fe1faa5a7c4a1303e29953f209f1ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mha dabi, my hero, my hero a, toya, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/453/14/HD-wallpaper-mha-dabi-my-hero-my-hero-a-toya.jpg' alt='Mha dabi, my hero, my hero a, toya, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/453/14/HD-wallpaper-mha-dabi-my-hero-my-hero-a-toya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

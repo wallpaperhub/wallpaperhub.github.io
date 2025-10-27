@@ -1,0 +1,129 @@
+<title>Minimalist iPhone Wallpapers: Simplify Your Screen</title>
+                    <meta name="description" content="Discover a collection of minimalist iPhone wallpapers designed to provide a clean and stylish look. Perfectly tailored for modern tastes, these wallpapers enhance your device without overwhelming your home screen. Explore simplicity and elegance that matches your lifestyle today!">
+                    <meta name="keywords" content="minimalist:3ztx2qe0v5c= iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/minimalist3ztx2qe0v5c-iphone-wallpaper">
+                            <span itemprop="name">minimalist:3ztx2qe0v5c= iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist iPhone Wallpapers: Simplify Your Screen</h1>
+                <p>Elevate your iPhone aesthetics with minimalist wallpapers that blend simplicity and elegance. These designs emphasize clean lines, muted colors, and understated patterns, creating a serene visual experience. Perfect for those who appreciate modern design, our collection helps you declutter your screen while expressing your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Minimalist iPhone Wallpaper, Red, Blue, Geometric Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/264381/4377853690/il_fullxfull.4377853690_glt3.jpg' alt='3 Minimalist iPhone Wallpaper, Red, Blue, Geometric Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/264381/4377853690/il_fullxfull.4377853690_glt3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal iPhone Wallpaper Pack | Flower Neutral Phone Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23573055/r/il/af6457/3652523535/il_fullxfull.3652523535_hsml.jpg' alt='Minimal iPhone Wallpaper Pack | Flower Neutral Phone Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23573055/r/il/af6457/3652523535/il_fullxfull.3652523535_hsml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Autumn Brown, Minimalist iPhone Wallpaper, Abstract and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/08bd81/4949176797/il_fullxfull.4949176797_dh32.jpg' alt='5 Autumn Brown, Minimalist iPhone Wallpaper, Abstract and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/08bd81/4949176797/il_fullxfull.4949176797_dh32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful minimalist iphone . ize iPhone . Minimalist, Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/579/185/HD-wallpaper-beautiful-minimalist-iphone-ize-iphone-minimalist-minimalist-iphone-minimalist-flat.jpg' alt='Beautiful minimalist iphone . ize iPhone . Minimalist, Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/579/185/HD-wallpaper-beautiful-minimalist-iphone-ize-iphone-minimalist-minimalist-iphone-minimalist-flat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist iPhone Wallpaper Pack, Boho Phone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/99/a3/f7/99a3f7265b27d60b49e0db16f4e41598.jpg' alt='Minimalist iPhone Wallpaper Pack, Boho Phone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/99/a3/f7/99a3f7265b27d60b49e0db16f4e41598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Aesthetic Geometric Modern Phone Wallpaper, Abstract iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/fcd9f8/4436542163/il_fullxfull.4436542163_3ncs.jpg' alt='3 Aesthetic Geometric Modern Phone Wallpaper, Abstract iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/fcd9f8/4436542163/il_fullxfull.4436542163_3ncs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 in 1 Black and White, iPhone Wallpaper, Minimalist Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/0429d5/5169831781/il_fullxfull.5169831781_6l6c.jpg' alt='3 in 1 Black and White, iPhone Wallpaper, Minimalist Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/0429d5/5169831781/il_fullxfull.5169831781_6l6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Free Minimalist Neutral iPhone Wallpapers (2023) — minimalgoods">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64e552632c5e18cbf28c973d/64e552642c5e18cbf28cb0bd_wallpaper11.jpg' alt='28 Free Minimalist Neutral iPhone Wallpapers (2023) — minimalgoods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="minimalgoods" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64e552632c5e18cbf28c973d/64e552642c5e18cbf28cb0bd_wallpaper11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Minimalist Phone Wallpapers iPhone Android - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19882166/r/il/65130e/3233265797/il_570xN.3233265797_s5a2.jpg' alt='15 Minimalist Phone Wallpapers iPhone Android - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19882166/r/il/65130e/3233265797/il_570xN.3233265797_s5a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GORGEOUS Minimalist Neutral iPhone ( ) - malvelina, Neutral ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/262/370/HD-wallpaper-gorgeous-minimalist-neutral-iphone-malvelina-neutral-abstract.jpg' alt='GORGEOUS Minimalist Neutral iPhone ( ) - malvelina, Neutral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/262/370/HD-wallpaper-gorgeous-minimalist-neutral-iphone-malvelina-neutral-abstract.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spooky Halloween Castle Backgrounds for Eerie Decor</title>
+                    <meta name="description" content="Discover the thrilling allure of Halloween castle backgrounds! Perfect for adding a spooky touch to your decorations or events, these eerie backdrops transform any space into a haunted realm filled with mystery. Ideal for parties, photos, and more, unleash your creativity and embrace the Halloween spirit!">
+                    <meta name="keywords" content="halloween castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-castle-background">
+                            <span itemprop="name">halloween castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Castle Backgrounds for Eerie Decor</h1>
+                <p>Step into a spine-chilling realm this Halloween with a haunting castle background that sets the perfect eerie tone. Picture towering spires, ghostly silhouettes, and a full moon casting shadows over ancient stone walls. This captivating backdrop infuses your Halloween décor with a sense of spooky grandeur, inviting all things mysterious!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Night Gate Castle Photography Backdrop D909">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/D909-fang-1.jpg?v=1661411455&width=850' alt='Halloween Night Gate Castle Photography Backdrop D909'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/D909-fang-1.jpg?v=1661411455&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,000+ Spooky Castle Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155382004/photo/old-castle.jpg?s=612x612&w=0&k=20&c=bPwnSxbhHhF1q_OwfZAe_75rSDTlObvUA5pZpb3guuE=' alt='25,000+ Spooky Castle Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155382004/photo/old-castle.jpg?s=612x612&w=0&k=20&c=bPwnSxbhHhF1q_OwfZAe_75rSDTlObvUA5pZpb3guuE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9x6ft Halloween Night Castle Backdrop Horrible Thunderbolt Haunted House  Wandering Ghost Wicked Pumpkin Lantern Photography Background for Holloween  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610J2iPayLL._AC_UF894,1000_QL80_.jpg' alt='9x6ft Halloween Night Castle Backdrop Horrible Thunderbolt Haunted House  Wandering Ghost Wicked Pumpkin Lantern Photography Background for Holloween  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610J2iPayLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Halloween Night Backdrop Castle Designed by Chain Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/kate_Halloween_photo_backdrop_5x3ft_BH1029473E.jpg?v=1627890552' alt='Kate Halloween Night Backdrop Castle Designed by Chain Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/kate_Halloween_photo_backdrop_5x3ft_BH1029473E.jpg?v=1627890552' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Midnight Castle Moonlight Backdrop D912">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/D912-1.jpg?v=1661411623' alt='Halloween Midnight Castle Moonlight Backdrop D912'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/D912-1.jpg?v=1661411623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background with Scary Pumpkins and Full Moon with a ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/halloween-background-scary-pumpkins-full-moon-castle-background-halloween-background-scary-pumpkins-candles-288740229.jpg' alt='Halloween Background with Scary Pumpkins and Full Moon with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/halloween-background-scary-pumpkins-full-moon-castle-background-halloween-background-scary-pumpkins-candles-288740229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween night background with castle Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/73/69/halloween-night-background-with-castle-vector-18227369.jpg' alt='Halloween night background with castle Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/73/69/halloween-night-background-with-castle-vector-18227369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge Dark Castle - Halloween Castle - & Background, Spooky Castle ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/997/525/HD-wallpaper-huge-dark-castle-halloween-castle-background-spooky-castle.jpg' alt='Huge Dark Castle - Halloween Castle - & Background, Spooky Castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/997/525/HD-wallpaper-huge-dark-castle-halloween-castle-background-spooky-castle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laeacco Halloween Theme Backdrop 10x10ft Moonlight Foggy Wood Creepy River  Haunted Castle Photography Background Ghastly Tree Cobweb Horror Night ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61H1snrn6mL._AC_UF894,1000_QL80_.jpg' alt='Laeacco Halloween Theme Backdrop 10x10ft Moonlight Foggy Wood Creepy River  Haunted Castle Photography Background Ghastly Tree Cobweb Horror Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61H1snrn6mL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Night Decorative Bat Moon Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1107291853/thumb/1.jpg?ip=x480' alt='Halloween Night Decorative Bat Moon Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1107291853/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

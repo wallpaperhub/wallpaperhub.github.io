@@ -1,0 +1,129 @@
+<title>Stunning Pink Fall Backgrounds for Your Seasonal Decor</title>
+                    <meta name="description" content="Discover captivating pink fall backgrounds that bring warmth and charm to your autumn decor. Perfect for seasonal projects, these vibrant visuals combine rich foliage with soft hues, creating an inviting atmosphere for any setting. Explore the beauty of autumn with a pink twist!">
+                    <meta name="keywords" content="pink fall background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-fall-background">
+                            <span itemprop="name">pink fall background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Fall Backgrounds for Your Seasonal Decor</h1>
+                <p>Embrace the beauty of a pink fall background, where the vibrant hues of autumn foliage blend harmoniously with soft pastels. This enchanting sight creates a warm and inviting atmosphere, perfect for cozy gatherings or peaceful reflections. Capture the magic of the season as pink leaves and golden sunlight dance together in a whimsical landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-autumn-background_52683-42944.jpg' alt='Pink Fall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-autumn-background_52683-42944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enchanting Shades of Pink Fall Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-fall-ti57aa9fkf68qtj2.jpg' alt='Download Enchanting Shades of Pink Fall Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-fall-ti57aa9fkf68qtj2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Fall Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-fall-89kl3s85cidaxpyr.jpg' alt='100+] Pink Fall Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-fall-89kl3s85cidaxpyr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fall Images – Browse 776,679 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/29/53/72/360_F_1029537294_26nYQOHvkS2MKsqgjaX1qWe9qMT6kwSq.jpg' alt='Pink Fall Images – Browse 776,679 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/29/53/72/360_F_1029537294_26nYQOHvkS2MKsqgjaX1qWe9qMT6kwSq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink fall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/f2/d0/e7f2d0a83159122e23ecf5892938d0d7.jpg' alt='Pink fall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/f2/d0/e7f2d0a83159122e23ecf5892938d0d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,900+ Pink Autumn Leaves Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1018982240/photo/multicolored-maple-leaves-on-a-pink-background-blue-purple-and-pink-shades-creative-natural.jpg?s=612x612&w=0&k=20&c=uHCk6T_cbZP9lstyzmawWI9TGtYXsYp1r6JA-BCPBEU=' alt='13,900+ Pink Autumn Leaves Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1018982240/photo/multicolored-maple-leaves-on-a-pink-background-blue-purple-and-pink-shades-creative-natural.jpg?s=612x612&w=0&k=20&c=uHCk6T_cbZP9lstyzmawWI9TGtYXsYp1r6JA-BCPBEU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fall Leaves Images – Browse 261,499 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/44/49/43/360_F_644494306_yEHICzuXwKS5vWLqTjejYM5eYS9Kdgjt.jpg' alt='Pink Fall Leaves Images – Browse 261,499 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/44/49/43/360_F_644494306_yEHICzuXwKS5vWLqTjejYM5eYS9Kdgjt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Autumn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/7a/ab/7a7aab028fbb8b2af8c84d61c1b46387.jpg' alt='Pink Autumn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/7a/ab/7a7aab028fbb8b2af8c84d61c1b46387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-beautiful-nature-concept-with-copy-space_23-2148663464.jpg' alt='Pink Fall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-beautiful-nature-concept-with-copy-space_23-2148663464.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="704,797 Autumn Background Pink Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/autumn-creative-composition-beautiful-dried-600nw-1471098977.jpg' alt='704,797 Autumn Background Pink Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/autumn-creative-composition-beautiful-dried-600nw-1471098977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

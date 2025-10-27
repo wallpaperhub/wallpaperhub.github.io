@@ -1,0 +1,129 @@
+<title>Galaxy Trippy Skull Wallpaper: Cosmic Art for Your Space</title>
+                    <meta name="description" content="Elevate your decor with our galaxy trippy skull wallpaper. Ideal for art enthusiasts, this vibrant design combines cosmic elements with edgy styles, creating a unique atmosphere in any room. Discover the perfect backdrop to express your individuality today!">
+                    <meta name="keywords" content="galaxy trippy skull wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-trippy-skull-wallpaper">
+                            <span itemprop="name">galaxy trippy skull wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galaxy Trippy Skull Wallpaper: Cosmic Art for Your Space</h1>
+                <p>Transform your space with our galaxy trippy skull wallpaper! Featuring vibrant colors and mesmerizing patterns, this unique design brings a cosmic vibe to any room. Perfect for those who love art that blends fantasy and the unknown, the wallpaper will captivate and inspire. Dive into a celestial experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Skull Phone Wallpaper 8 Digital Download Backgrounds Psychedelic  iPhone Backgrounds Skull Android Background Trippy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/SkullsWallpaper_1_ybvti0.jpg' alt='Trippy Skull Phone Wallpaper 8 Digital Download Backgrounds Psychedelic  iPhone Backgrounds Skull Android Background Trippy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/SkullsWallpaper_1_ybvti0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Delve into the stellar mystery of the Galaxy Skull ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-skull-rdmdaykenpb2ha08.jpg' alt='Download Delve into the stellar mystery of the Galaxy Skull ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-skull-rdmdaykenpb2ha08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galactic skull wallpaper by Yergdawg - Download on ZEDGE™ | c7bc">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/15/64/1a156425b8ac596bfa33ef4349ff1c48.jpg' alt='Galactic skull wallpaper by Yergdawg - Download on ZEDGE™ | c7bc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/15/64/1a156425b8ac596bfa33ef4349ff1c48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hipster Skulls Galaxy, made by me #purple #sparkly #wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/52/16/c4521676e945f52a53a6fa6ca44d5ad2.jpg' alt='Hipster Skulls Galaxy, made by me #purple #sparkly #wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/52/16/c4521676e945f52a53a6fa6ca44d5ad2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD trippy skull wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/568/707/HD-wallpaper-tripp-skull-colourful-trippy.jpg' alt='HD trippy skull wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/568/707/HD-wallpaper-tripp-skull-colourful-trippy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A galaxy of endless possibility, illustrated by an awe ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-skull-5n56sg4bw91g0eri.jpg' alt='Download A galaxy of endless possibility, illustrated by an awe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-skull-5n56sg4bw91g0eri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Skull Wallpaper - Abstract HD Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.net/previews/psychedelic-skull-981.jpg' alt='Psychedelic Skull Wallpaper - Abstract HD Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.net/previews/psychedelic-skull-981.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Amonercvita Blacklight Skull Tapestry Trippy Skeleton ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61aUijxyG-L.jpg' alt='Amazon.com: Amonercvita Blacklight Skull Tapestry Trippy Skeleton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61aUijxyG-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Skull">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/2b/8d/d22b8d030ba794556f0ad1a55977c2f6.jpg' alt='Galaxy Skull'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/2b/8d/d22b8d030ba794556f0ad1a55977c2f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Skull Trippy Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/trippy-aesthetic-skull-and-snake-4qymmpyqxa0wrysa.webp' alt='Red Skull Trippy Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/trippy-aesthetic-skull-and-snake-4qymmpyqxa0wrysa.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

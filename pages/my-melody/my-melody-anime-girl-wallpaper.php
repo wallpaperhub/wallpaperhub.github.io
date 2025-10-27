@@ -1,0 +1,129 @@
+<title>My Melody Anime Girl Wallpaper: Adorable Backgrounds</title>
+                    <meta name="description" content="Discover a delightful collection of My Melody anime girl wallpapers! Perfect for fans seeking cute and vibrant backgrounds for their devices. Browse and find your favorite designs that capture the charm of this beloved character, ensuring your screen is always filled with joy and personality.">
+                    <meta name="keywords" content="my melody anime girl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/my-melody-anime-girl-wallpaper">
+                            <span itemprop="name">my melody anime girl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>My Melody Anime Girl Wallpaper: Adorable Backgrounds</h1>
+                <p>Explore the enchanting world of My Melody with captivating anime girl wallpapers! Perfect for fans of this adorable Sanrio character, these vibrant wallpapers bring charm and whimsy to your devices. Whether you adore pastel colors or cute expressions, find the perfect backdrop that reflects your style and personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody, anime, pink, sanrio, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/754/861/HD-wallpaper-my-melody-anime-pink-sanrio.jpg' alt='My melody, anime, pink, sanrio, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/754/861/HD-wallpaper-my-melody-anime-pink-sanrio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download My Melody (Onegai My Melody) Anime Onegai My Melody HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/119/1197443.jpg' alt='Download My Melody (Onegai My Melody) Anime Onegai My Melody HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2996">
+                                <meta itemprop="height" content="2314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/119/1197443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/c4/30/d6c430b77da5b8a18aae61d17a967551.jpg' alt='My Melody   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/c4/30/d6c430b77da5b8a18aae61d17a967551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆*:.｡. purikura.｡.:*☆✨  , my melody & kuromi have this as their phone  wallpapers hehe, i wanted to try lineart again & also try a low contrast  style of shading, since I’m so drawn to flat colors but I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2693837354205233545' alt='☆*:.｡. purikura.｡.:*☆✨  , my melody & kuromi have this as their phone  wallpapers hehe, i wanted to try lineart again & also try a low contrast  style of shading, since I’m so drawn to flat colors but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2693837354205233545' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute melody">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/dc/b1/80dcb199a37e42553fe9fcf50fe2cc26.jpg' alt='Cute melody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/dc/b1/80dcb199a37e42553fe9fcf50fe2cc26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My melody as a anime girl by BloodyValentine9 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d4d9e4d-ce9f-4a1a-a5d6-c1d23b975a4e/dgae11b-9050a286-440a-4f72-b351-18fb3a922bd8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkNGQ5ZTRkLWNlOWYtNGExYS1hNWQ2LWMxZDIzYjk3NWE0ZVwvZGdhZTExYi05MDUwYTI4Ni00NDBhLTRmNzItYjM1MS0xOGZiM2E5MjJiZDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uIDytRCFmhPKc6BPwqLkxCT5oM7s3Q7diBjHBn9WTJo' alt='My melody as a anime girl by BloodyValentine9 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d4d9e4d-ce9f-4a1a-a5d6-c1d23b975a4e/dgae11b-9050a286-440a-4f72-b351-18fb3a922bd8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkNGQ5ZTRkLWNlOWYtNGExYS1hNWQ2LWMxZDIzYjk3NWE0ZVwvZGdhZTExYi05MDUwYTI4Ni00NDBhLTRmNzItYjM1MS0xOGZiM2E5MjJiZDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uIDytRCFmhPKc6BPwqLkxCT5oM7s3Q7diBjHBn9WTJo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen To My Melody - Other & Anime Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2050/2050658-bigthumbnail.jpg' alt='Listen To My Melody - Other & Anime Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2050/2050658-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi (Onegai My Melody) Anime Onegai My Melody HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/119/1197457.jpg' alt='Download Kuromi (Onegai My Melody) Anime Onegai My Melody HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/119/1197457.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody (Cosplay) - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://s1.zerochan.net/VOCALOID.600.4079302.jpg' alt='My Melody (Cosplay) - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://s1.zerochan.net/VOCALOID.600.4079302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my melody ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/cd/e4/6fcde445b43f9777552124b7ec5be229.jpg' alt='my melody ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest.ca" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/cd/e4/6fcde445b43f9777552124b7ec5be229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Floral Rose Wallpaper for Chic Home Decor</title>
+                    <meta name="description" content="Discover stunning floral rose wallpaper that enhances any room with elegance. Choose from various designs to suit your style, perfect for creating a warm and inviting atmosphere in your home. Elevate your decor with beautiful floral patterns today!">
+                    <meta name="keywords" content="floral rose wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-rose-wallpaper">
+                            <span itemprop="name">floral rose wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Floral Rose Wallpaper for Chic Home Decor</h1>
+                <p>Transform your space with elegant floral rose wallpaper that adds a touch of romance and charm. Perfect for bedrooms or living areas, these wallpapers create a serene atmosphere while showcasing the beauty of nature. Available in various patterns and colors, find the perfect design to express your unique style and elevate your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Governors Rose • Gorgeously Dramatic Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-GovernorsRose-FC-1.jpg' alt='Governors Rose • Gorgeously Dramatic Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-GovernorsRose-FC-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' alt='ROSES FLORAL WALLPAPER RED & PINK NEW FLOWERS LEAVES MODERN WALLPAPER  5415058063160 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/8DsAAOSw~VFgtlBr/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Vintage Floral Roses Wallpaper Boho Peel and Stick Wallpaper for  Walls Black/Pink Rose Retro Floral Wallpapers Removable Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/915uA9fGceL.jpg' alt='Wallercity Vintage Floral Roses Wallpaper Boho Peel and Stick Wallpaper for  Walls Black/Pink Rose Retro Floral Wallpapers Removable Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/915uA9fGceL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE 17.7" x118.1" Vintage Peel and Stick Wallpaper Floral Self-Adhesive  Removable Pink Red Rose Floral Wallpaper Vinyl Decorative Leaf Floral ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/VEELIKE-17-7-x118-1-Vintage-Peel-Stick-Wallpaper-Floral-Self-Adhesive-Removable-Pink-Red-Rose-Vinyl-Decorative-Leaf-Contact-Paper-Bedroom-Walls-Cabin_e37f97eb-19a0-4681-89b8-120479c6bbb8.716bc1283de00d2b540e578681363ef6.jpeg' alt='VEELIKE 17.7" x118.1" Vintage Peel and Stick Wallpaper Floral Self-Adhesive  Removable Pink Red Rose Floral Wallpaper Vinyl Decorative Leaf Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/VEELIKE-17-7-x118-1-Vintage-Peel-Stick-Wallpaper-Floral-Self-Adhesive-Removable-Pink-Red-Rose-Vinyl-Decorative-Leaf-Contact-Paper-Bedroom-Walls-Cabin_e37f97eb-19a0-4681-89b8-120479c6bbb8.716bc1283de00d2b540e578681363ef6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Flower Wallpaper - Removable Wallpaper - Vintage Red Roses ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12312441/r/il/d01178/1114308900/il_570xN.1114308900_i639.jpg' alt='Rose Flower Wallpaper - Removable Wallpaper - Vintage Red Roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12312441/r/il/d01178/1114308900/il_570xN.1114308900_i639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cora - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0103_1s_Cora-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718080' alt='Cora - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0103_1s_Cora-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734718080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallercity Pink Roses Floral Wallpaper Peel and Stick Peony Wallpapers for  Cabinets Self Adhesive Removable Rose Contact Paper for Kitchen Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aR7fxwgdL.jpg' alt='Wallercity Pink Roses Floral Wallpaper Peel and Stick Peony Wallpapers for  Cabinets Self Adhesive Removable Rose Contact Paper for Kitchen Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aR7fxwgdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aveline Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/aveline-rose-wallpaper-511579.jpg?v=1654325619' alt='Aveline Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/aveline-rose-wallpaper-511579.jpg?v=1654325619' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Photographic Roses Wallpaper R6841">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/os3008.jpg?v=1589378389&width=1024' alt='Pink Photographic Roses Wallpaper R6841'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/os3008.jpg?v=1589378389&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shabby Pink Rose Floral Wallpaper, Girl Nursery Feature Wall, Victorian  Garden Flower, Country Cottage Bathroom - 12"x9" Sample CH22531so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/6117ef/2328731300/il_570xN.2328731300_9nmo.jpg' alt='Shabby Pink Rose Floral Wallpaper, Girl Nursery Feature Wall, Victorian  Garden Flower, Country Cottage Bathroom - 12"x9" Sample CH22531so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/6117ef/2328731300/il_570xN.2328731300_9nmo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

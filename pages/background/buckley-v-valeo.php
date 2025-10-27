@@ -1,0 +1,129 @@
+<title>Buckley v. Valeo: A Landmark Case on Campaign Finance</title>
+                    <meta name="description" content="Explore the significance of Buckley v. Valeo, a pivotal Supreme Court case that shaped campaign finance laws, balancing political contributions and free speech rights. Discover how this ruling continues to influence elections in the U.S.">
+                    <meta name="keywords" content="buckley v valeo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/buckley-v-valeo">
+                            <span itemprop="name">buckley v valeo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Buckley v. Valeo: A Landmark Case on Campaign Finance</h1>
+                <p>Buckley v. Valeo is a landmark Supreme Court case from 1976 that addressed campaign finance laws. The Court held that limitations on individual contributions to political campaigns are constitutional, but restrictions on independent expenditures are unconstitutional, citing free speech protections. This decision significantly impacted campaign financing in the U.S.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Introduction to Constitutional Law » Buckley v. Valeo">
+                                <img itemprop="contentUrl url" src='https://conlaw.us/wp-content/uploads/2019/08/1976-Buckley-v-Valeo-Buckley-Ad-651x1024.jpg?v=1568585394' alt='An Introduction to Constitutional Law » Buckley v. Valeo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="An Introduction to Constitutional Law" />
+                                </span>
+                                <a href='https://conlaw.us/wp-content/uploads/2019/08/1976-Buckley-v-Valeo-Buckley-Ad-651x1024.jpg?v=1568585394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo (1976) | The First Amendment Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_750321048_0.jpg' alt='Buckley v. Valeo (1976) | The First Amendment Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_750321048_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A World Without Buckley v. Valeo - Institute For Free Speech">
+                                <img itemprop="contentUrl url" src='https://www.ifs.org/wp-content/uploads/2017/07/a-world-without-buckley-v-valeo.png' alt='A World Without Buckley v. Valeo - Institute For Free Speech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Institute For Free Speech" />
+                                </span>
+                                <a href='https://www.ifs.org/wp-content/uploads/2017/07/a-world-without-buckley-v-valeo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo [SCOTUSbrief]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iXnpowc6y0c/mqdefault.jpg' alt='Buckley v. Valeo [SCOTUSbrief]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Federalist Society" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iXnpowc6y0c/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo Summary | quimbee.com">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NQLXwvLquJI/maxresdefault.jpg' alt='Buckley v. Valeo Summary | quimbee.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NQLXwvLquJI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 30: Buckley v. Valeo Supreme Court decision">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D12AQHPUgyShVDsOg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520160470660?e=2147483647&v=beta&t=NIsmr2egXC7Cr-HccZZElmlF3E0ilciW9v6niGnmYFU' alt='January 30: Buckley v. Valeo Supreme Court decision'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D12AQHPUgyShVDsOg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520160470660?e=2147483647&v=beta&t=NIsmr2egXC7Cr-HccZZElmlF3E0ilciW9v6niGnmYFU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo (1976) | An Introduction to Constitutional Law">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HwPt0opBYhA/maxresdefault.jpg' alt='Buckley v. Valeo (1976) | An Introduction to Constitutional Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HwPt0opBYhA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 30, 1976: Buckley v. Valeo Decided">
+                                <img itemprop="contentUrl url" src='https://www.abajournal.com/images/mag_images/01PREC.jpg' alt='January 30, 1976: Buckley v. Valeo Decided'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABA Journal" />
+                                </span>
+                                <a href='https://www.abajournal.com/images/mag_images/01PREC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo | Teaching American History">
+                                <img itemprop="contentUrl url" src='https://teachingamericanhistory.org/content/uploads/2021/09/Buckley-v.-Valeo.jpg' alt='Buckley v. Valeo | Teaching American History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teaching American History" />
+                                </span>
+                                <a href='https://teachingamericanhistory.org/content/uploads/2021/09/Buckley-v.-Valeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckley v. Valeo: Supreme Court Case, Arguments, Impact">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/GMTlwC0uSVO3sk0smHBufcIbBNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1140589713-ee0e93b29da042f69d42d6f2b65bdbdd.jpg' alt='Buckley v. Valeo: Supreme Court Case, Arguments, Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/GMTlwC0uSVO3sk0smHBufcIbBNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1140589713-ee0e93b29da042f69d42d6f2b65bdbdd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

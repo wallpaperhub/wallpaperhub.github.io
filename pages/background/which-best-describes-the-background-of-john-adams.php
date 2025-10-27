@@ -1,0 +1,129 @@
+<title>Unveiling the Background of John Adams: Founding Father</title>
+                    <meta name="description" content="Discover the rich background of John Adams, a pivotal Founding Father. Explore his early life, education, and significant role in shaping the American Revolution and government. Learn how his upbringing influenced his dedication to independence and leadership. Perfect for history enthusiasts!">
+                    <meta name="keywords" content="which best describes the background of john adams">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-best-describes-the-background-of-john-adams">
+                            <span itemprop="name">which best describes the background of john adams</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Background of John Adams: Founding Father</h1>
+                <p>John Adams was born on October 30, 1735, in Braintree, Massachusetts. His background as a farmer's son shaped his values. He pursued education vigorously, attending Harvard College, which led to his role as a lawyer. A key figure in the American Revolution, he championed independence and laid foundations for the U.S. government.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/07/John_Adams_A18236.jpg' alt='John Adams - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6811">
+                                <meta itemprop="height" content="8259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/07/John_Adams_A18236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | Biography, Political Party, Children, Presidency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/00/254700-049-8C37671F/John-Adams-2nd-president-of-the-United-States-US-1797-1801-Federalist-Party-Infogram-interactive.jpg' alt='John Adams | Biography, Political Party, Children, Presidency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/00/254700-049-8C37671F/John-Adams-2nd-president-of-the-United-States-US-1797-1801-Federalist-Party-Infogram-interactive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Founding Father, Patriot, Diplomat | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/175515-050-AE01DDDC/John-Adams-oil-wood-Gilbert-Stuart-Washington-1821.jpg' alt='John Adams - Founding Father, Patriot, Diplomat | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/175515-050-AE01DDDC/John-Adams-oil-wood-Gilbert-Stuart-Washington-1821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Presidency, Political Party & Children">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/john-adams-gettyimages-3246312.jpg' alt='John Adams - Presidency, Political Party & Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2159">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/john-adams-gettyimages-3246312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams ‑ Presidency, Facts & Children">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/john-adams-gettyimages-72385390.jpg' alt='John Adams ‑ Presidency, Facts & Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/john-adams-gettyimages-72385390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | Biography, Political Party, Children, Presidency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/97/172697-138-8F13DC4D/overview-John-Adams.jpg?w=800&h=450&c=crop' alt='John Adams | Biography, Political Party, Children, Presidency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/97/172697-138-8F13DC4D/overview-John-Adams.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/squarish/public/thumbnails/image/John%20Adams.jpg?h=c573f940&itok=nPfiP2HQ' alt='John Adams | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/squarish/public/thumbnails/image/John%20Adams.jpg?h=c573f940&itok=nPfiP2HQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams: America's Original Conservative | The Heritage Foundation">
+                                <img itemprop="contentUrl url" src='https://www.heritage.org/sites/default/files/inline-images/MAPT19_TextBox.gif' alt='John Adams: America's Original Conservative | The Heritage Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Heritage Foundation" />
+                                </span>
+                                <a href='https://www.heritage.org/sites/default/files/inline-images/MAPT19_TextBox.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/social_media/public/thumbnails/image/John%2520Adams%2520Social%2520Card.png?h=0680f1f7&itok=Z9IX_3JZ' alt='John Adams | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/social_media/public/thumbnails/image/John%2520Adams%2520Social%2520Card.png?h=0680f1f7&itok=Z9IX_3JZ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams Accomplishments">
+                                <img itemprop="contentUrl url" src='https://www.bostonteapartyship.com/wp-content/uploads/2019/09/john-adams-portrait-3.jpg' alt='John Adams Accomplishments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1473">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston Tea Party Ships & Museum" />
+                                </span>
+                                <a href='https://www.bostonteapartyship.com/wp-content/uploads/2019/09/john-adams-portrait-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

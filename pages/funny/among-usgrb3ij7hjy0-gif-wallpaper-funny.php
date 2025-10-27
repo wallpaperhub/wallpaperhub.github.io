@@ -1,0 +1,129 @@
+<title>Funny Among Us GIF Wallpapers: Perfect for Your Device</title>
+                    <meta name="description" content="Explore a fun selection of Among Us GIF wallpapers that will make you laugh! These amusing designs are perfect for gamers looking to add a splash of humor to their devices. Enjoy the comical moments from the game and personalize your screen with creativity and joy!">
+                    <meta name="keywords" content="among us:grb3ij7hjy0= gif wallpaper funny">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/among-usgrb3ij7hjy0-gif-wallpaper-funny">
+                            <span itemprop="name">among us:grb3ij7hjy0= gif wallpaper funny</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Among Us GIF Wallpapers: Perfect for Your Device</h1>
+                <p>Discover the hilarity of "Among Us" with our collection of funny GIF wallpapers! Perfect for fans of the game, these amusing designs add a touch of whimsy to your devices. From comically sus characters to playful in-game moments, these GIFs can transform your wallpaper into a lively canvas of laughter and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIF - Among Us Meme - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/21/d7/a021d7d1c9c83486f22fb3579ff07780.gif' alt='Among Us GIF - Among Us Meme - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/21/d7/a021d7d1c9c83486f22fb3579ff07780.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Among Us GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/EY0wd8hyFAWddGzF8r/200w.gif?cid=6c09b952rncxu12uska3sqmpftrer2ol8mzdxxjaubewrfm8&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Funny Among Us GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/EY0wd8hyFAWddGzF8r/200w.gif?cid=6c09b952rncxu12uska3sqmpftrer2ol8mzdxxjaubewrfm8&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/gQV5VzHLWQIAAAAM/among-us-sus.gif' alt='Among Us GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/gQV5VzHLWQIAAAAM/among-us-sus.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/TE7tAeVLczFLH4BMDh/200w.gif?cid=6c09b952cbznu9tje4cxjvrap7prs7q82chz3qk3p1g1g54y&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Among Us Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/TE7tAeVLczFLH4BMDh/200w.gif?cid=6c09b952cbznu9tje4cxjvrap7prs7q82chz3qk3p1g1g54y&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2021/10/icegif-1563.gif' alt='Among Us Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2021/10/icegif-1563.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/H1IlKlmG2VBhaYNnxI/200.gif' alt='Among Us GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/H1IlKlmG2VBhaYNnxI/200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/among-us-crewmate-dance-ybhew9fqrdc4drhh.gif' alt='Among Us GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/among-us-crewmate-dance-ybhew9fqrdc4drhh.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/featured/among-us-u8fste8nhdv38svd.gif' alt='Among Us GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/featured/among-us-u8fste8nhdv38svd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMONG US">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/43/fe/14/43fe14a9d59d2a389e0a10faab847b26.gif' alt='AMONG US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/43/fe/14/43fe14a9d59d2a389e0a10faab847b26.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/v8RAtS4FC7Ul8uXZMN/giphy.gif?cid=6c09b952cbznu9tje4cxjvrap7prs7q82chz3qk3p1g1g54y&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Among Us Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/v8RAtS4FC7Ul8uXZMN/giphy.gif?cid=6c09b952cbznu9tje4cxjvrap7prs7q82chz3qk3p1g1g54y&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

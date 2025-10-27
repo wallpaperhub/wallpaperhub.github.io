@@ -1,0 +1,129 @@
+<title>Vibrant Blue Paint Splatter on Black Background</title>
+                    <meta name="description" content="Discover the striking beauty of blue paint splatters on a black background. Perfect for modern decor, this bold art style adds energy and character to any space. Elevate your interiors with this unique color combination that offers depth and creativity. Explore ideas and inspiration for your walls today!">
+                    <meta name="keywords" content="blue paint splatter black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-paint-splatter-black-background">
+                            <span itemprop="name">blue paint splatter black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue Paint Splatter on Black Background</h1>
+                <p>Transform your space with the captivating contrast of blue paint splatters against a sleek black background. This vibrant art style brings energy and creativity to any room, making it a bold choice for modern decor. Explore how the dynamic interplay of colors can add depth and character to your walls, elevating your environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Paint Splatter Seamless Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/b76034/3940659876/il_fullxfull.3940659876_di7c.jpg' alt='Blue Neon Paint Splatter Seamless Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/b76034/3940659876/il_fullxfull.3940659876_di7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background With Black Splash Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/high-angle-view-blue-holi-powder-black-background_23-2148054068.jpg' alt='Blue Background With Black Splash Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/high-angle-view-blue-holi-powder-black-background_23-2148054068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Blue paint splash isolated on black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blue-paint-splash-isolated-black-background_44314-3387.jpg' alt='Premium Photo | Blue paint splash isolated on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blue-paint-splash-isolated-black-background_44314-3387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue On Black 3d Paint Splash Stock Illustration 1145094992 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/blue-on-black-3d-paint-600w-1145094992.jpg' alt='Blue On Black 3d Paint Splash Stock Illustration 1145094992 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/blue-on-black-3d-paint-600w-1145094992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 14 | Blue Paint Splatter Background Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-blue-brush-ink-splatter-background_1409-1438.jpg' alt='Page 14 | Blue Paint Splatter Background Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-blue-brush-ink-splatter-background_1409-1438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon blue random round paint splashes on black background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RKM1T3/neon-blue-random-round-paint-splashes-on-black-background-abstract-colorful-texture-for-design-and-decoration-RKM1T3.jpg' alt='Neon blue random round paint splashes on black background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RKM1T3/neon-blue-random-round-paint-splashes-on-black-background-abstract-colorful-texture-for-design-and-decoration-RKM1T3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Paint Splatter Black Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1632172797/vector/blue-spray-paint-background.jpg?s=612x612&w=0&k=20&c=kqC4h6XolvhouYfJZvPwpJpYaOMIo3hJo6OrruTC3IA=' alt='1,100+ Paint Splatter Black Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1632172797/vector/blue-spray-paint-background.jpg?s=612x612&w=0&k=20&c=kqC4h6XolvhouYfJZvPwpJpYaOMIo3hJo6OrruTC3IA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="splashing blue paint in slow motion, isolated on black (FULL HD)">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/splashing-blue-paint-slow-motion-footage-036569045_iconl.jpeg' alt='splashing blue paint in slow motion, isolated on black (FULL HD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/splashing-blue-paint-slow-motion-footage-036569045_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Paint Splatter Blue Black | Splash Frame | Splatter Background |  Printable Artwork I Digital File | Sublimation PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11371075/r/il/75f222/6648012943/il_570xN.6648012943_qaf9.jpg' alt='Background Paint Splatter Blue Black | Splash Frame | Splatter Background |  Printable Artwork I Digital File | Sublimation PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11371075/r/il/75f222/6648012943/il_570xN.6648012943_qaf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue paint splashes on black background. Grunge texture. Stock ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/26/35/29/1000_F_126352936_JHF7MSRD2sN0NtnSE0ervHEAe9TBqF7z.jpg' alt='Blue paint splashes on black background. Grunge texture. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/26/35/29/1000_F_126352936_JHF7MSRD2sN0NtnSE0ervHEAe9TBqF7z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

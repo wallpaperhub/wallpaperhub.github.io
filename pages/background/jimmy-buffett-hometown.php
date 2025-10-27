@@ -1,0 +1,129 @@
+<title>Explore Jimmy Buffett's Hometown: A Musical Journey</title>
+                    <meta name="description" content="Discover the coastal roots of Jimmy Buffett in Pascagoula and Mobile. Learn how these vibrant towns influenced his music and laid-back lifestyle, embodying the spirit of his beloved beach life and tropical adventures.">
+                    <meta name="keywords" content="jimmy buffett hometown">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jimmy-buffett-hometown">
+                            <span itemprop="name">jimmy buffett hometown</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Jimmy Buffett's Hometown: A Musical Journey</h1>
+                <p>Jimmy Buffett was born in Pascagoula, Mississippi, and spent part of his childhood in Mobile, Alabama. These coastal towns shaped his love for the sea and music. The laid-back lifestyle and vibrant culture of both locations inspired his famous songs about tropical escapades and beach life, helping him create a unique, carefree persona.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Buffett - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dd/Jimmy_Buffett_%281980_Promo_Photo%29.jpg' alt='Jimmy Buffett - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dd/Jimmy_Buffett_%281980_Promo_Photo%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers and notes are left outside the childhood home of musician ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RP69EF/flowers-and-notes-are-left-outside-the-childhood-home-of-musician-jimmy-buffett-in-pascagoula-mississippi-on-sunday-sept-3-2023-buffett-passed-away-on-sept-1-hannah-ruhoffsun-herald-via-ap-2RP69EF.jpg' alt='Flowers and notes are left outside the childhood home of musician ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RP69EF/flowers-and-notes-are-left-outside-the-childhood-home-of-musician-jimmy-buffett-in-pascagoula-mississippi-on-sunday-sept-3-2023-buffett-passed-away-on-sept-1-hannah-ruhoffsun-herald-via-ap-2RP69EF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokens of affection pile up at Jimmy Buffett landmarks in Pascagoula">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/gray/L7ASVVQQF5HLFPWMXWKQEJGFCI.jpg' alt='Tokens of affection pile up at Jimmy Buffett landmarks in Pascagoula'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2082">
+                                <meta itemprop="height" content="1179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WLOX" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/gray/L7ASVVQQF5HLFPWMXWKQEJGFCI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Buffett Historical Marker">
+                                <img itemprop="contentUrl url" src='https://www.hmdb.org/Photos6/662/Photo662115.jpg?618202212800PM' alt='Jimmy Buffett Historical Marker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Historical Marker Database" />
+                                </span>
+                                <a href='https://www.hmdb.org/Photos6/662/Photo662115.jpg?618202212800PM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Buffett mementos remain after singer's death">
+                                <img itemprop="contentUrl url" src='https://www.hattiesburgamerican.com/gcdn/authoring/authoring-images/2023/10/13/PHAT/71168598007-1000034342.jpg?width=700&height=525&fit=crop&format=pjpg&auto=webp' alt='Jimmy Buffett mementos remain after singer's death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hattiesburg American" />
+                                </span>
+                                <a href='https://www.hattiesburgamerican.com/gcdn/authoring/authoring-images/2023/10/13/PHAT/71168598007-1000034342.jpg?width=700&height=525&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy buffett birthplace hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RP8M4T/jimmy-buffetts-childhood-home-is-pictured-sept-2-2023-in-pascagoula-mississippi-fans-have-been-leaving-flowers-since-his-death-on-sept-1-2023-2RP8M4T.jpg' alt='Jimmy buffett birthplace hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RP8M4T/jimmy-buffetts-childhood-home-is-pictured-sept-2-2023-in-pascagoula-mississippi-fans-have-been-leaving-flowers-since-his-death-on-sept-1-2023-2RP8M4T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy buffett birthplace hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2FWNB98/a-sign-along-highway-90-designates-the-city-of-pascagoula-as-the-birthplace-of-singer-and-songwriter-jimmy-buffett-in-pascagoula-mississippi-2FWNB98.jpg' alt='Jimmy buffett birthplace hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2FWNB98/a-sign-along-highway-90-designates-the-city-of-pascagoula-as-the-birthplace-of-singer-and-songwriter-jimmy-buffett-in-pascagoula-mississippi-2FWNB98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering Jimmy Buffett (1946 – 2023) | Now See Hear!">
+                                <img itemprop="contentUrl url" src='https://blogs.loc.gov/now-see-hear/files/2023/09/jimmy.jpg' alt='Remembering Jimmy Buffett (1946 – 2023) | Now See Hear!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress Blogs" />
+                                </span>
+                                <a href='https://blogs.loc.gov/now-see-hear/files/2023/09/jimmy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where was Jimmy Buffett from? Birthplace, college, hometown, and ...">
+                                <img itemprop="contentUrl url" src='https://staticg.sportskeeda.com/editor/2023/09/e2b5a-16936897643258-1920.jpg?w=640' alt='Where was Jimmy Buffett from? Birthplace, college, hometown, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://staticg.sportskeeda.com/editor/2023/09/e2b5a-16936897643258-1920.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Buffett - Iconic Cocktail Rock Singer | uDiscover">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2020/06/Jimmy-Buffet-GettyImages-991867772-1000x600.jpg' alt='Jimmy Buffett - Iconic Cocktail Rock Singer | uDiscover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscover Music" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2020/06/Jimmy-Buffet-GettyImages-991867772-1000x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Doja Cat iPhone Wallpapers: Unique & Vibrant Designs</title>
+                    <meta name="description" content="Discover the best Doja Cat wallpapers for your iPhone! Browse a collection of vibrant and unique designs that capture her distinctive style. Refresh your device with stunning backgrounds and express your fandom in a chic way. Perfect for every Doja Cat fan looking to personalize their device!">
+                    <meta name="keywords" content="doja cat wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/doja-cat-wallpaper-iphone">
+                            <span itemprop="name">doja cat wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Doja Cat iPhone Wallpapers: Unique & Vibrant Designs</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Doja Cat wallpapers! From vibrant concert visuals to chic artistic designs, find the perfect wallpaper that showcases your love for this multifaceted artist. Express yourself with these unique backgrounds that reflect Doja's bold style and creativity. Customize your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOJA CAT WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/91/9f/ab919fcbd27bf72a81a548dc8d9fe5e2.jpg' alt='DOJA CAT WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/91/9f/ab919fcbd27bf72a81a548dc8d9fe5e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/b/b/69393-1152x2048-phone-hd-doja-cat-wallpaper-photo.jpg' alt='Doja Cat Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/b/b/69393-1152x2048-phone-hd-doja-cat-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOJA CAT IPHONE WALLPAPER MUSIC VIDEO">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/63/c8/d8/63c8d8c364b0739f0f6198e2ceb73c52.jpg' alt='DOJA CAT IPHONE WALLPAPER MUSIC VIDEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/63/c8/d8/63c8d8c364b0739f0f6198e2ceb73c52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja cat, girl, music, rap, singer, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/724/372/HD-wallpaper-doja-cat-girl-music-rap-singer.jpg' alt='Doja cat, girl, music, rap, singer, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/724/372/HD-wallpaper-doja-cat-girl-music-rap-singer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1e/34/66/1e34661f3410cf7402e58860243658cf.jpg' alt='Doja Cat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1e/34/66/1e34661f3410cf7402e58860243658cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpaper 4K, Hot Pink, American rapper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/doja-cat-hot-pink-1080x1920-9898.jpg' alt='Doja Cat Wallpaper 4K, Hot Pink, American rapper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/doja-cat-hot-pink-1080x1920-9898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Her” By Doja Cat wallpaper for iphone and android! : r/DojaCat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x3j03guqw5c91.jpg?width=640&crop=smart&auto=webp&s=79ce7be7d4b4e32630b790988223541521f3d45a' alt='Planet Her” By Doja Cat wallpaper for iphone and android! : r/DojaCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x3j03guqw5c91.jpg?width=640&crop=smart&auto=webp&s=79ce7be7d4b4e32630b790988223541521f3d45a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja cat, hollywood, singer, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/276/680/HD-wallpaper-doja-cat-hollywood-singer.jpg' alt='Doja cat, hollywood, singer, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/276/680/HD-wallpaper-doja-cat-hollywood-singer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpaper 4K, Pink, American rapper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/doja-cat-american-1440x2560-9942.jpeg' alt='Doja Cat Wallpaper 4K, Pink, American rapper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/doja-cat-american-1440x2560-9942.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Retro Doja Cat Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-doja-cat-dfoso0rz0gt9hri0.jpg' alt='Download Retro Doja Cat Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-doja-cat-dfoso0rz0gt9hri0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

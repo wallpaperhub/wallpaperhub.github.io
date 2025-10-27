@@ -1,0 +1,129 @@
+<title>Understanding Kubernetes: The Essential Guide</title>
+                    <meta name="description" content="Discover Kubernetes, the leading platform for automating the deployment and management of containerized applications. Learn how it streamlines operations, enhances scalability, and improves application performance in cloud environments. Perfect for developers and IT professionals looking to optimize their workflows.">
+                    <meta name="keywords" content="what is kubernetes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-kubernetes">
+                            <span itemprop="name">what is kubernetes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Kubernetes: The Essential Guide</h1>
+                <p>Kubernetes is an open-source platform designed for automating the deployment, scaling, and management of containerized applications. It orchestrates containers across a cluster of machines, providing tools for load balancing, rolling updates, and service discovery. Ideal for microservices architecture, Kubernetes enhances the efficiency and reliability of cloud-native applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes and How It Works - Quobyte">
+                                <img itemprop="contentUrl url" src='https://www.quobyte.com/wp-content/uploads/2022/09/k8s-cluster.png' alt='What is Kubernetes and How It Works - Quobyte'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quobyte" />
+                                </span>
+                                <a href='https://www.quobyte.com/wp-content/uploads/2022/09/k8s-cluster.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kubernetes Explained in 6 Minutes | k8s Architecture">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TlHvYWVUZyc/maxresdefault.jpg' alt='Kubernetes Explained in 6 Minutes | k8s Architecture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TlHvYWVUZyc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sensu | How Kubernetes works">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/w1bd7cq683kz/5Ex6830HzBPU5h8Ou8xQAB/2c948105fc10094348203bec6c1eab04/Kubernetes_20architecture_20diagram.png' alt='Sensu | How Kubernetes works'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1101">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sensu" />
+                                </span>
+                                <a href='https://images.ctfassets.net/w1bd7cq683kz/5Ex6830HzBPU5h8Ou8xQAB/2c948105fc10094348203bec6c1eab04/Kubernetes_20architecture_20diagram.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overview | Kubernetes">
+                                <img itemprop="contentUrl url" src='https://kubernetes.io/images/docs/Container_Evolution.svg' alt='Overview | Kubernetes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kubernetes" />
+                                </span>
+                                <a href='https://kubernetes.io/images/docs/Container_Evolution.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes? | dockerlabs">
+                                <img itemprop="contentUrl url" src='https://raw.githubusercontent.com/collabnix/dockerlabs/master/kubernetes/beginners/what-is-kubernetes/k8s-architecture.png' alt='What is Kubernetes? | dockerlabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Docker Labs - Collabnix" />
+                                </span>
+                                <a href='https://raw.githubusercontent.com/collabnix/dockerlabs/master/kubernetes/beginners/what-is-kubernetes/k8s-architecture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes and Why is it the Future of Cloud Computing ...">
+                                <img itemprop="contentUrl url" src='https://rgw.cloudpoint.tcpro.cz/swift/v1/KEY_0efe203c42c0402f9402a570302dc066/blog_new/What-is-Kubernetes-and-Why-is-it-the-Future-of-Cloud-Computing/What-is-Kubernetes-and-Why-is-it-the-Future-of-Cloud-Computing-04.webp' alt='What is Kubernetes and Why is it the Future of Cloud Computing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="taikun.cloud" />
+                                </span>
+                                <a href='https://rgw.cloudpoint.tcpro.cz/swift/v1/KEY_0efe203c42c0402f9402a570302dc066/blog_new/What-is-Kubernetes-and-Why-is-it-the-Future-of-Cloud-Computing/What-is-Kubernetes-and-Why-is-it-the-Future-of-Cloud-Computing-04.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Kubernetes? What You Need To Know As A Developer - Qovery">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/qovery/65ae828738f662e9dd212473_unnamed-7-.png?auto=format,compress' alt='What Is Kubernetes? What You Need To Know As A Developer - Qovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Qovery" />
+                                </span>
+                                <a href='https://images.prismic.io/qovery/65ae828738f662e9dd212473_unnamed-7-.png?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes (K8s)?">
+                                <img itemprop="contentUrl url" src='https://enix.io/en/blog/kubernetes-k8s/kubernetes-control-plane.webp' alt='What is Kubernetes (K8s)?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enix.io" />
+                                </span>
+                                <a href='https://enix.io/en/blog/kubernetes-k8s/kubernetes-control-plane.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes & how it works | BotPenguin">
+                                <img itemprop="contentUrl url" src='https://cdn.botpenguin.com/assets/website/Kubernetes_041dafbf55.webp' alt='What is Kubernetes & how it works | BotPenguin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BotPenguin" />
+                                </span>
+                                <a href='https://cdn.botpenguin.com/assets/website/Kubernetes_041dafbf55.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Kubernetes? | Microsoft Azure">
+                                <img itemprop="contentUrl url" src='https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/what-is-kubernetes_kubernetes-community?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1062&hei=620&qlt=100&fit=constrain' alt='What is Kubernetes? | Microsoft Azure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Azure" />
+                                </span>
+                                <a href='https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/what-is-kubernetes_kubernetes-community?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1062&hei=620&qlt=100&fit=constrain' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Trending Kuromi Phone Wallpapers: Cute & Edgy Designs</title>
+                    <meta name="description" content="Discover the ultimate collection of Kuromi phone wallpapers! Show off your love for this iconic Sanrio character with a variety of cute and edgy designs. Perfect for personalization, find your favorite style today!">
+                    <meta name="keywords" content="kuromi phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/kuromi-phone-wallpaper">
+                            <span itemprop="name">kuromi phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trending Kuromi Phone Wallpapers: Cute & Edgy Designs</h1>
+                <p>Looking for the perfect Kuromi phone wallpaper? Dive into a collection of vibrant designs featuring the sassy Sanrio character! From cute pastel hues to edgy graphics, elevate your phone's aesthetic and express your love for Kuromi. Perfect for fans and anyone wanting a unique look. Customize your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kuromi Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-iphone-9oqmwdrcw2kv226b.jpg' alt='100+] Kuromi Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-iphone-9oqmwdrcw2kv226b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi sanrio | Hello kitty iphone wallpaper, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/a8/36/fca8366a480258a5e02ed6e26246588f.jpg' alt='Kuromi sanrio | Hello kitty iphone wallpaper, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/a8/36/fca8366a480258a5e02ed6e26246588f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Kuromi Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' alt='Sanrio Kuromi Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12273520.jpg' alt='Kuromi Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12273520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/0f/26/c30f26f30e9fbaec196d0774302da32b.jpg' alt='Kuromi Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/0f/26/c30f26f30e9fbaec196d0774302da32b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Okay I've narrowed it down to 3 Kuromi wallpapers. Which one do ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/okay-ive-narrowed-it-down-to-3-kuromi-wallpapers-which-one-v0-1er98t431afd1.jpg?width=736&format=pjpg&auto=webp&s=db6bdcd55823cfde917edf850b3c34ce8ec70d0b' alt='Okay I've narrowed it down to 3 Kuromi wallpapers. Which one do ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/okay-ive-narrowed-it-down-to-3-kuromi-wallpapers-which-one-v0-1er98t431afd1.jpg?width=736&format=pjpg&auto=webp&s=db6bdcd55823cfde917edf850b3c34ce8ec70d0b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi, rockstar, themes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/18/617/HD-wallpaper-kuromi-rockstar-themes.jpg' alt='Kuromi, rockstar, themes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/18/617/HD-wallpaper-kuromi-rockstar-themes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kuromi Kawaii Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-kawaii-1153-x-2048-wallpaper-6ob44t9wui96sgg8.jpg' alt='100+] Kuromi Kawaii Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-kawaii-1153-x-2048-wallpaper-6ob44t9wui96sgg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Phone Wallpaper by kimberlyerese525 - Raket.PH">
+                                <img itemprop="contentUrl url" src='https://raketcontent.com/Kuromi_Phone_Wallpaper_Kim_Erese_e96acec773.png' alt='Kuromi Phone Wallpaper by kimberlyerese525 - Raket.PH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.raket.ph" />
+                                </span>
+                                <a href='https://raketcontent.com/Kuromi_Phone_Wallpaper_Kim_Erese_e96acec773.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/bc/d8/09bcd80a294a2e8eba90cb5e81363abb.jpg' alt='Kuromi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/bc/d8/09bcd80a294a2e8eba90cb5e81363abb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

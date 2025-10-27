@@ -1,0 +1,129 @@
+<title>Groovy & Cute Wallpaper Ideas for Every Room</title>
+                    <meta name="description" content="Discover vibrant and playful cute groovy wallpaper designs perfect for any room. Transform your space with retro patterns and colors that bring joy and personality to your walls. Explore creative options to refresh your home decor effortlessly!">
+                    <meta name="keywords" content="cute groovy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-groovy-wallpaper">
+                            <span itemprop="name">cute groovy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy & Cute Wallpaper Ideas for Every Room</h1>
+                <p>Transform your space with cute groovy wallpaper that adds a touch of fun and whimsy to any room. These vibrant patterns feature retro designs and playful colors, making them perfect for bedrooms, living rooms, or creative spaces. Unleash your inner artist and infuse personality into your walls with this charming decor choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Mushrooms Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35396/groovy-mushrooms-wallpaper-2x.jpg?q=1726175235' alt='Groovy Mushrooms Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35396/groovy-mushrooms-wallpaper-2x.jpg?q=1726175235' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute hippie and groovy square background with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-hippie-groovy-square-background-with-daisy-flowers-distorted-waves-checkered-patter_119217-4517.jpg' alt='Premium Vector | Cute hippie and groovy square background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-hippie-groovy-square-background-with-daisy-flowers-distorted-waves-checkered-patter_119217-4517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro groovy seamless pattern with smiling flowers on a pastel ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/239/160/non_2x/retro-groovy-seamless-pattern-with-smiling-flowers-on-a-pastel-background-cute-colorful-trendy-illustration-in-style-60s-70s-vector.jpg' alt='Retro groovy seamless pattern with smiling flowers on a pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/239/160/non_2x/retro-groovy-seamless-pattern-with-smiling-flowers-on-a-pastel-background-cute-colorful-trendy-illustration-in-style-60s-70s-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2e/e8/f0/2ee8f0bfe0ccaf1e879a663ba61a3188.jpg' alt='Groovy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2e/e8/f0/2ee8f0bfe0ccaf1e879a663ba61a3188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Background Images – Browse 270,553 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/66/83/99/360_F_466839927_BjB5dThxISe4OcdAluKQCPLp4U48FFK3.jpg' alt='Groovy Background Images – Browse 270,553 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/66/83/99/360_F_466839927_BjB5dThxISe4OcdAluKQCPLp4U48FFK3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Groovy Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/groovy-background-6sb6uiw2uv4ieqnc.jpg' alt='100+] Groovy Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/groovy-background-6sb6uiw2uv4ieqnc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Baby Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12204899/p/f/m/p9QzR9wczqF4ToY9SNHDRAEfi036RxeGK9joeelDfuT3J6ovTSR5T75OUg/Groovy%2C%20Flowers%2C%20Boho%20Pattern.jpg' alt='Groovy Baby Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12204899/p/f/m/p9QzR9wczqF4ToY9SNHDRAEfi036RxeGK9joeelDfuT3J6ovTSR5T75OUg/Groovy%2C%20Flowers%2C%20Boho%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby groovy background with retro vintage car, minivan, roller ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/167/893/non_2x/baby-groovy-background-with-retro-vintage-car-minivan-roller-skates-smiling-flowers-daisy-rainbow-peace-symbol-design-70s-cute-wallpaper-for-kids-in-pastel-pink-color-free-vector.jpg' alt='Baby groovy background with retro vintage car, minivan, roller ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/167/893/non_2x/baby-groovy-background-with-retro-vintage-car-minivan-roller-skates-smiling-flowers-daisy-rainbow-peace-symbol-design-70s-cute-wallpaper-for-kids-in-pastel-pink-color-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-distorted-groovy-background_23-2148850187.jpg' alt='Groovy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-distorted-groovy-background_23-2148850187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Groovy Aesthetic Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' alt='Retro Groovy Aesthetic Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/c5/c8/d2c5c894a20d1630aa9d8ab5a1d961de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

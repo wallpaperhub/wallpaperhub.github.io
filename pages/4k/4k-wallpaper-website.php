@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="4k wallpaper website">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-wallpaper-website">
+                            <span itemprop="name">4k wallpaper website</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Your Device</h1>
+                <p>Discover a stunning collection of 4K wallpapers that elevate your device's aesthetic. Our website offers high-resolution images across various categories, including nature, abstract, and urban landscapes. Enjoy seamless navigation and download your favorite wallpapers effortlessly to transform your screen into a visual masterpiece!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4k Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-blue-minimalist-deer-5fc2dalaakntatt7.jpg' alt='Download 4k Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-blue-minimalist-deer-5fc2dalaakntatt7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpapers for PC, Desktop & Mobile Phones">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs_2t/5630.jpg' alt='4K Wallpapers for PC, Desktop & Mobile Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4kwallpapers.com" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs_2t/5630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1685793804465-b12bbd8b7281?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8NGslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='4K Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1685793804465-b12bbd8b7281?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8NGslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Website 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg' alt='Website 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper Images – Browse 650,652 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/17/21/94/360_F_317219421_P8SmLPcqLYQERb3bcctIQD9grBU5wbYC.jpg' alt='4K Wallpaper Images – Browse 650,652 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/17/21/94/360_F_317219421_P8SmLPcqLYQERb3bcctIQD9grBU5wbYC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Photos, Download The BEST Free 4k Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1392732820/photo/usa-in-a-row-pattern-spotted-particle.jpg?b=1&s=612x612&w=0&k=20&c=1SdK0cmLdi-WLL91VA7_GHlL1FLit-SErRPnTp26y1c=' alt='4k Wallpaper Photos, Download The BEST Free 4k Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1392732820/photo/usa-in-a-row-pattern-spotted-particle.jpg?b=1&s=612x612&w=0&k=20&c=1SdK0cmLdi-WLL91VA7_GHlL1FLit-SErRPnTp26y1c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,300+ Wallpaper 4k Ultra Hd Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1658902051/vector/4k-landing-page-template-abstract-dynamic-modern-futuristic-multi-colored-simple-for-website.jpg?s=612x612&w=0&k=20&c=ByNUrKnXOWzhEepoFLc7odXh1dBGnXQ1NIL7ZqIqBjc=' alt='6,300+ Wallpaper 4k Ultra Hd Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1658902051/vector/4k-landing-page-template-abstract-dynamic-modern-futuristic-multi-colored-simple-for-website.jpg?s=612x612&w=0&k=20&c=ByNUrKnXOWzhEepoFLc7odXh1dBGnXQ1NIL7ZqIqBjc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Website Background Images · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg' alt='100,000+ Best Website Background Images · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper For Pc Website Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/00/4e/c4004e7f1b6e0c9dde1751456e504791.jpg' alt='4K Wallpaper For Pc Website Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/00/4e/c4004e7f1b6e0c9dde1751456e504791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Technology Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg' alt='4k Technology Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

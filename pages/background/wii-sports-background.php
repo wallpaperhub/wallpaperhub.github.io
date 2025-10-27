@@ -1,0 +1,129 @@
+<title>Discover the Vibrant World of Wii Sports</title>
+                    <meta name="description" content="Explore the engaging universe of Wii Sports! Dive into fun, family-friendly sports that transformed gaming with motion controls. Perfect for social play, discover why this iconic title remains a favorite in homes everywhere.">
+                    <meta name="keywords" content="wii sports background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wii-sports-background">
+                            <span itemprop="name">wii sports background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Vibrant World of Wii Sports</h1>
+                <p>Wii Sports, released in 2006 alongside the Nintendo Wii, transformed gaming by introducing motion-sensing controls. It features five distinct sports: tennis, baseball, bowling, golf, and boxing. The game's iconic backdrop sets a vibrant, family-friendly atmosphere, encouraging social play and competition among friends and family, making it a staple in many households.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wuhu Island from Wii Sports Resort- desktop wallpaper : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t8idiopbpe381.png' alt='Wuhu Island from Wii Sports Resort- desktop wallpaper : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t8idiopbpe381.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wii Sports Resort Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wii-sports-resort-game-intro-ek6zjrxwtukl3v9p.jpg' alt='100+] Wii Sports Resort Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wii-sports-resort-game-intro-ek6zjrxwtukl3v9p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii - Wii Sports - Title Screen Background - The Spriters Resource">
+                                <img itemprop="contentUrl url" src='https://www.spriters-resource.com/resources/sheets/65/68492.png?updated=1460965535' alt='Wii - Wii Sports - Title Screen Background - The Spriters Resource'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1027">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spriters Resource" />
+                                </span>
+                                <a href='https://www.spriters-resource.com/resources/sheets/65/68492.png?updated=1460965535' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii Sports Resort', The Funniest Sports Game Of Its Generation ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/blogs-images/mattgardner1/files/2019/07/Wii-Sports-Resort-1200x600.jpg?format=jpg&height=600&width=1200&fit=bounds' alt='Wii Sports Resort', The Funniest Sports Game Of Its Generation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/blogs-images/mattgardner1/files/2019/07/Wii-Sports-Resort-1200x600.jpg?format=jpg&height=600&width=1200&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii Sports Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2Jizee_q2u8/maxresdefault.jpg' alt='Wii Sports Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2Jizee_q2u8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Wii Sports Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wii-sports-video-game-official-banner-ty9tkzko4g7a624s.jpg' alt='100+] Wii Sports Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wii-sports-video-game-official-banner-ty9tkzko4g7a624s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::The best Wii wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2379657840009271419/0438F7678C3AB5532B747311637028A1688FED2C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::The best Wii wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2379657840009271419/0438F7678C3AB5532B747311637028A1688FED2C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii Sports - Complete Soundtrack (Full OST) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zJnLi4f_6vs/hqdefault.jpg' alt='Wii Sports - Complete Soundtrack (Full OST) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zJnLi4f_6vs/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii Sports Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4164185.jpg' alt='Wii Sports Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4164185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wii Sports Resort (Game Only) - Nintendo Wii | Nintendo | GameStop">
+                                <img itemprop="contentUrl url" src='https://media.gamestop.com/i/gamestop/10076050_SCR02/Wii-Sports-Resort-Game-Only---Nintendo-Wii?$screen$' alt='Wii Sports Resort (Game Only) - Nintendo Wii | Nintendo | GameStop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameStop" />
+                                </span>
+                                <a href='https://media.gamestop.com/i/gamestop/10076050_SCR02/Wii-Sports-Resort-Game-Only---Nintendo-Wii?$screen$' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enchanted Backgrounds: Create Magic in Your Space</title>
+                    <meta name="description" content="Discover the allure of enchanted backgrounds that elevate your environment. Transform your space with captivating scenery, perfect for art, storytelling, or relaxation. Explore magical themes and let your imagination thrive with stunning visuals that inspire creativity.">
+                    <meta name="keywords" content="enchanted background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/enchanted-background">
+                            <span itemprop="name">enchanted background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanted Backgrounds: Create Magic in Your Space</h1>
+                <p>An enchanted background can transform any space into a magical realm. Picture lush forests with glowing fairy lights, mystical mountains shrouded in mist, or shimmering waters reflecting a twilight sky. These captivating scenes evoke wonder and inspire creativity, making them ideal for storytelling, art, or relaxing atmospheres.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Forest Background Images – Browse 1,008,828 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/05/72/43/360_F_505724304_Ezh1XyejL3iN7op0zqH2vprzSGFBGEuy.jpg' alt='Enchanted Forest Background Images – Browse 1,008,828 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/05/72/43/360_F_505724304_Ezh1XyejL3iN7op0zqH2vprzSGFBGEuy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Alltten 7x5ft Enchanted Forest Backdrop Fancy Fairyland Magic  Big Tree Photo Backdrop Fairy Tale Wonderland Adventure Nature Scenery ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/715TJ+s1XTL.jpg' alt='Amazon.com : Alltten 7x5ft Enchanted Forest Backdrop Fancy Fairyland Magic  Big Tree Photo Backdrop Fairy Tale Wonderland Adventure Nature Scenery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/715TJ+s1XTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Enchanted Forest Backdrop Fairy Tale Mushroom Garden  Wonderland Magic Spring Green Forest Photography Background Princess Girl  Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tAB66WrFL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Enchanted Forest Backdrop Fairy Tale Mushroom Garden  Wonderland Magic Spring Green Forest Photography Background Princess Girl  Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tAB66WrFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Background Stock Illustrations – 53,534 Enchanted ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/archway-enchanted-garden-landscape-big-old-trees-beautiful-dreamy-can-be-used-as-background-wallpaper-141316960.jpg' alt='Enchanted Background Stock Illustrations – 53,534 Enchanted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/archway-enchanted-garden-landscape-big-old-trees-beautiful-dreamy-can-be-used-as-background-wallpaper-141316960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Forest Background Images – Browse 1,008,828 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/36/27/80/360_F_136278007_lNBL5I9F7RAYJb3dFY4kxkXzNHQzfFnH.jpg' alt='Enchanted Forest Background Images – Browse 1,008,828 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/36/27/80/360_F_136278007_lNBL5I9F7RAYJb3dFY4kxkXzNHQzfFnH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Enchanted Forest Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/magical-nighttime-landscape-with-sparkly-lights_23-2150203061.jpg' alt='Magical Enchanted Forest Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/magical-nighttime-landscape-with-sparkly-lights_23-2150203061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Forest Backdrop | Enchanted Garden Backdrop Cake Smash ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/fad0eb/3899132713/il_570xN.3899132713_e79w.jpg' alt='Enchanted Forest Backdrop | Enchanted Garden Backdrop Cake Smash ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/fad0eb/3899132713/il_570xN.3899132713_e79w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Background Stock Illustrations – 53,534 Enchanted ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fairy-garden-bridge-d-rendered-image-43845951.jpg' alt='Enchanted Background Stock Illustrations – 53,534 Enchanted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fairy-garden-bridge-d-rendered-image-43845951.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZTHMOE 7x5ft Polyester Spring Enchanted Forest Backdrop Fairy Garden  Wonderland Butterfly Woodland Photography Background for Princess Banner ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rHVAoDxbL._AC_UF894,1000_QL80_.jpg' alt='ZTHMOE 7x5ft Polyester Spring Enchanted Forest Backdrop Fairy Garden  Wonderland Butterfly Woodland Photography Background for Princess Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rHVAoDxbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Forest Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/712/809/small/a-beautiful-fairytale-enchanted-forest-at-night-made-of-glittering-crystals-with-trees-and-colorful-vegetation-generate-ai-free-photo.jpg' alt='Enchanted Forest Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/712/809/small/a-beautiful-fairytale-enchanted-forest-at-night-made-of-glittering-crystals-with-trees-and-colorful-vegetation-generate-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

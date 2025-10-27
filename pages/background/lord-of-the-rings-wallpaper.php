@@ -1,0 +1,129 @@
+<title>Epic Lord of the Rings Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lord of the rings wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lord-of-the-rings-wallpaper">
+                            <span itemprop="name">lord of the rings wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Lord of the Rings Wallpapers for Fans</h1>
+                <p>Transform your space with stunning Lord of the Rings wallpapers! Whether you love the lush landscapes of Middle-earth or iconic characters like Frodo and Gandalf, these wallpapers elevate your environment. Perfect for fans, these designs capture the magic and adventure of the beloved saga. Unleash your inner hobbit today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Lord of The Rings Wallpapers, collected over the past year. : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/vlWH8jisieHKBvjK4Pv5xrgfqfHiigyfeN6eJnZs1r4.jpg?auto=webp&s=3b8339aec30e54aed0a5bea0994c8c6430f13faa' alt='My Lord of The Rings Wallpapers, collected over the past year. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/vlWH8jisieHKBvjK4Pv5xrgfqfHiigyfeN6eJnZs1r4.jpg?auto=webp&s=3b8339aec30e54aed0a5bea0994c8c6430f13faa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord Of The Rings Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44306227/r/il/c664a8/5031895909/il_570xN.5031895909_elv1.jpg' alt='Lord Of The Rings Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44306227/r/il/c664a8/5031895909/il_570xN.5031895909_elv1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is your Lord of the Rings phone background currently? : r/lotr">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/im1zvb0l50c31.jpg' alt='What is your Lord of the Rings phone background currently? : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/im1zvb0l50c31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lord of the Rings Wallpapers (96 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/6/0/34209-3065x1909-desktop-hd-the-lord-of-the-rings-background-image.jpg' alt='The Lord of the Rings Wallpapers (96 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3065">
+                                <meta itemprop="height" content="1909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/6/0/34209-3065x1909-desktop-hd-the-lord-of-the-rings-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K The Lord of the Rings Wallpapers (Horizontal & Vertical) : r/lotr">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4k-the-lord-of-the-rings-wallpapers-horizontal-vertical-v0-bh7kpm50qv2e1.png?width=3840&format=png&auto=webp&s=ad28c8917b7185b4dac1b5bd8315fe3756e0b86b' alt='4K The Lord of the Rings Wallpapers (Horizontal & Vertical) : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4k-the-lord-of-the-rings-wallpapers-horizontal-vertical-v0-bh7kpm50qv2e1.png?width=3840&format=png&auto=webp&s=ad28c8917b7185b4dac1b5bd8315fe3756e0b86b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new post! lord of the rings minimalist">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/ac/14/9bac144fd0cb3dad5e1d7eb7f716f83d.jpg' alt='new post! lord of the rings minimalist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/ac/14/9bac144fd0cb3dad5e1d7eb7f716f83d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lord of the Rings Wallpapers (96 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/7/a/137052-3840x2160-desktop-4k-the-lord-of-the-rings-wallpaper.jpg' alt='The Lord of the Rings Wallpapers (96 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/7/a/137052-3840x2160-desktop-4k-the-lord-of-the-rings-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lotr Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lord-of-the-rings-lotr-tricolor-2do7amla4uqxkwwi.jpg' alt='Lotr Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lord-of-the-rings-lotr-tricolor-2do7amla4uqxkwwi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imgur">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/5b/43/0e5b43597e45fa4a09e8fab1c4a3bb48.jpg' alt='Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/5b/43/0e5b43597e45fa4a09e8fab1c4a3bb48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K The Lord of the Rings Wallpapers (Horizontal & Vertical) : r/lotr">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4k-the-lord-of-the-rings-wallpapers-horizontal-vertical-v0-92lgt543qv2e1.png?width=2160&format=png&auto=webp&s=b284f1a41e9858a511cf929621c4b3b306d1e028' alt='4K The Lord of the Rings Wallpapers (Horizontal & Vertical) : r/lotr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4k-the-lord-of-the-rings-wallpapers-horizontal-vertical-v0-92lgt543qv2e1.png?width=2160&format=png&auto=webp&s=b284f1a41e9858a511cf929621c4b3b306d1e028' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Fresh Prince of Bel-Air: A Cultural Classic</title>
+                    <meta name="description" content="Discover the iconic sitcom "Fresh Prince of Bel-Air" featuring Will Smith. Explore its blend of humor and heart, tackling family dynamics and cultural issues that resonate to this day. Perfect for fans and new viewers alike, this show remains a beloved staple in 90's television.">
+                    <meta name="keywords" content="fresh prince of bel air">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fresh-prince-of-bel-air">
+                            <span itemprop="name">fresh prince of bel air</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh Prince of Bel-Air: A Cultural Classic</h1>
+                <p>The "Fresh Prince of Bel-Air" is a classic sitcom that follows Will Smith, a street-smart teenager from West Philadelphia, who is sent to live with his wealthy relatives in a luxurious Bel-Air mansion. The show brilliantly blends humor with heartfelt moments, exploring themes of family, identity, and cultural clashes while launching Smith's acting career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fresh Prince of Bel-Air (TV Series 1990–1996) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYzhlMDVmNTgtZjkwOS00NGYwLTllMWEtYjY2OWNkMDliMTAyXkEyXkFqcGc@._V1_.jpg' alt='The Fresh Prince of Bel-Air (TV Series 1990–1996) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYzhlMDVmNTgtZjkwOS00NGYwLTllMWEtYjY2OWNkMDliMTAyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh Prince of Bel-Air' 1990 Review: First Episode">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2014/09/fresh_prince_of_bel_air_a_l.jpg?w=1440&h=810&crop=1' alt='Fresh Prince of Bel-Air' 1990 Review: First Episode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2014/09/fresh_prince_of_bel_air_a_l.jpg?w=1440&h=810&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Fresh Prince of Bel-Air: The Complete Series [DVD] :  Various: Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81rHaJP+yIL.jpg' alt='Amazon.com: The Fresh Prince of Bel-Air: The Complete Series [DVD] :  Various: Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="2393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81rHaJP+yIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 reasons why we love 'The Fresh Prince of Bel-Air' 25 years later ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/977594_091015-cc-Fresh-Prince-Thumb.jpg' alt='7 reasons why we love 'The Fresh Prince of Bel-Air' 25 years later ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/977594_091015-cc-Fresh-Prince-Thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fresh Prince of Bel Air, The: The Complete First Season  (Repackaged/DVD) : Andy Borowitz, Susan Borowitz, Quincy Jones, Kevin  Wendle, Will ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qOonedlcL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Fresh Prince of Bel Air, The: The Complete First Season  (Repackaged/DVD) : Andy Borowitz, Susan Borowitz, Quincy Jones, Kevin  Wendle, Will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qOonedlcL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fresh Prince of Bel-Air season 2 Be My Baby Tonight Reviews ...">
+                                <img itemprop="contentUrl url" src='https://www.metacritic.com/a/img/resize/746f4c2a2dbace35898437857c43bee11775da9f/catalog/provider/2/13/2-541aea3603b1053e7e2fc34bcde7a501.jpg?auto=webp&fit=crop&height=675&width=1200' alt='The Fresh Prince of Bel-Air season 2 Be My Baby Tonight Reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metacritic" />
+                                </span>
+                                <a href='https://www.metacritic.com/a/img/resize/746f4c2a2dbace35898437857c43bee11775da9f/catalog/provider/2/13/2-541aea3603b1053e7e2fc34bcde7a501.jpg?auto=webp&fit=crop&height=675&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Smith (The Fresh Prince of Bel-Air) | Great Characters Wiki ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/great-characters/images/8/8b/Will_Smith_.jpg/revision/latest/scale-to-width-down/405?cb=20210812164057' alt='Will Smith (The Fresh Prince of Bel-Air) | Great Characters Wiki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Characters Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/great-characters/images/8/8b/Will_Smith_.jpg/revision/latest/scale-to-width-down/405?cb=20210812164057' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fresh Prince of Bel-Air was radical â?" because it was so ordinary">
+                                <img itemprop="contentUrl url" src='https://dl6pgk4f88hky.cloudfront.net/2021/06/rehost_2f2016_2f9_2f13_2f1b5cb41f-6c9f-4862-ae3a-107fd32008ab_1_.jpg' alt='The Fresh Prince of Bel-Air was radical â?" because it was so ordinary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Statesman" />
+                                </span>
+                                <a href='https://dl6pgk4f88hky.cloudfront.net/2021/06/rehost_2f2016_2f9_2f13_2f1b5cb41f-6c9f-4862-ae3a-107fd32008ab_1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now this is a story… How The Fresh Prince of Bel-Air redefined the ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/13/fresh-prince-of-bel-air.jpg?width=1200&height=1200&fit=crop' alt='Now this is a story… How The Fresh Prince of Bel-Air redefined the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/13/fresh-prince-of-bel-air.jpg?width=1200&height=1200&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Trailer">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjIyMmU5MDktZWM0Ni00NWNhLTk0OWMtNjA1ODkxYTNhNzllXkEyXkFqcGdeQWFybm8@._V1_.jpg' alt='Official Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjIyMmU5MDktZWM0Ni00NWNhLTk0OWMtNjA1ODkxYTNhNzllXkEyXkFqcGdeQWFybm8@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

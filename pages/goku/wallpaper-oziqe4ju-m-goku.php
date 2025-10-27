@@ -1,0 +1,129 @@
+<title>Epic Goku Wallpapers for Your Devices</title>
+                    <meta name="description" content="Transform your device with captivating Goku wallpapers! Explore a collection of vibrant, high-resolution images featuring Goku in action. Perfect for fans of Dragon Ball Z, these wallpapers will elevate your screen and celebrate your love for anime. Download and enjoy now!">
+                    <meta name="keywords" content="wallpaper:-oziqe4ju-m= goku">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/wallpaper-oziqe4ju-m-goku">
+                            <span itemprop="name">wallpaper:-oziqe4ju-m= goku</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Wallpapers for Your Devices</h1>
+                <p>Discover stunning Goku wallpapers that bring the beloved character to life! Perfect for your phone or computer, these high-quality images capture Goku in various epic poses. Whether you're a fan of Dragon Ball Z or just love anime art, these wallpapers will energize your screen and showcase your passion for the series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Goku Wallpapers in High Resolution | myphonewalls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/5e/9b/5e5e9b4a3ac2a3c49aab1754eeebd771.jpg' alt='18 Goku Wallpapers in High Resolution | myphonewalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/5e/9b/5e5e9b4a3ac2a3c49aab1754eeebd771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c3/60/0a/c3600ac1a685d6b78a8534fe6ddb3a46.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c3/60/0a/c3600ac1a685d6b78a8534fe6ddb3a46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, matrix, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/938/454/HD-wallpaper-goku-matrix-purple.jpg' alt='Goku, matrix, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/938/454/HD-wallpaper-goku-matrix-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku June 2024 Playmat - Limited Series">
+                                <img itemprop="contentUrl url" src='https://limitedseriescustom.com/wp-content/uploads/2024/06/2024-June-OzzyOzDaVyrus-Goku62-1Player-Sample-Blank.jpg' alt='Goku June 2024 Playmat - Limited Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1217">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limited Series" />
+                                </span>
+                                <a href='https://limitedseriescustom.com/wp-content/uploads/2024/06/2024-June-OzzyOzDaVyrus-Goku62-1Player-Sample-Blank.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Goku Wallpaper Explore more Akira Toriyama, Dragon Ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/9b/ac/bf9baccddb979a59e5b3c1add6c3be0f.jpg' alt='HD Goku Wallpaper Explore more Akira Toriyama, Dragon Ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/9b/ac/bf9baccddb979a59e5b3c1add6c3be0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DBZ Kaioken Goku Wallpaper by ZenoHazel on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bed1ca11-bf28-4c51-a656-5190b5c0aa49/dhu50kq-6061632c-cab4-467d-a4bc-9d2e8c9dc59d.png/v1/fill/w_1210,h_660,q_70,strp/dbz_kaioken_goku_wallpaper_by_zenohazel_dhu50kq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0OCIsInBhdGgiOiJcL2ZcL2JlZDFjYTExLWJmMjgtNGM1MS1hNjU2LTUxOTBiNWMwYWE0OVwvZGh1NTBrcS02MDYxNjMyYy1jYWI0LTQ2N2QtYTRiYy05ZDJlOGM5ZGM1OWQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ypjclSjYQ-kOsO3JsEA7pOIhuugeYOBzG_fQ-2XI6Kg' alt='DBZ Kaioken Goku Wallpaper by ZenoHazel on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1210">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bed1ca11-bf28-4c51-a656-5190b5c0aa49/dhu50kq-6061632c-cab4-467d-a4bc-9d2e8c9dc59d.png/v1/fill/w_1210,h_660,q_70,strp/dbz_kaioken_goku_wallpaper_by_zenohazel_dhu50kq-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0OCIsInBhdGgiOiJcL2ZcL2JlZDFjYTExLWJmMjgtNGM1MS1hNjU2LTUxOTBiNWMwYWE0OVwvZGh1NTBrcS02MDYxNjMyYy1jYWI0LTQ2N2QtYTRiYy05ZDJlOGM5ZGM1OWQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ypjclSjYQ-kOsO3JsEA7pOIhuugeYOBzG_fQ-2XI6Kg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Mastered Ultra Instinct Ultra HD Wallpaper for 4K UHD TV ...">
+                                <img itemprop="contentUrl url" src='https://wallpaperswide.com/download/goku_mastered_ultra_instinct-wallpaper-1920x1080.jpg' alt='Goku Mastered Ultra Instinct Ultra HD Wallpaper for 4K UHD TV ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://wallpaperswide.com/download/goku_mastered_ultra_instinct-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Dragon Ball Z Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/f5/0b/37f50bd4bc978f799e2c78bcefa6f2d0.jpg' alt='Goku Dragon Ball Z Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/f5/0b/37f50bd4bc978f799e2c78bcefa6f2d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Goku Halloween Moonlight Wallpapers - Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/10/super-saiyan-goku-halloween-moonlight-wallpaper.jpg' alt='Super Saiyan Goku Halloween Moonlight Wallpapers - Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/10/super-saiyan-goku-halloween-moonlight-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Goku wallpaper by wxlf20 - Download on ZEDGE™ | b04a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/98/61/bf9861ee01db6e04b40beea41af79fe1.jpg' alt='Modern Goku wallpaper by wxlf20 - Download on ZEDGE™ | b04a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/98/61/bf9861ee01db6e04b40beea41af79fe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

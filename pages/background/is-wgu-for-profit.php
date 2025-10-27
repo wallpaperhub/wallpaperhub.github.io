@@ -1,0 +1,129 @@
+<title>Is WGU a Nonprofit University? Key Insights</title>
+                    <meta name="description" content="Discover whether Western Governors University is a nonprofit institution. Learn how this model benefits students and enhances learning opportunities at WGU, focusing on accessibility and affordability in higher education.">
+                    <meta name="keywords" content="is wgu for profit">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-wgu-for-profit">
+                            <span itemprop="name">is wgu for profit</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is WGU a Nonprofit University? Key Insights</h1>
+                <p>Western Governors University (WGU) operates as a nonprofit institution, which means its primary goal is education rather than profit. This model allows WGU to reinvest tuition fees into programs, technology, and student support, making higher education more accessible and affordable for its students. WGU focuses on competency-based learning to enhance student outcomes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comparing WGU to for-profit colleges">
+                                <img itemprop="contentUrl url" src='https://images.wral.com/asset/marketplace/spotlight/2021/04/13/19624929/WGU_alumni-DMID1-5qijxll9e-1280x720.jpg?w=1280&h=720' alt='Comparing WGU to for-profit colleges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRAL.com" />
+                                </span>
+                                <a href='https://images.wral.com/asset/marketplace/spotlight/2021/04/13/19624929/WGU_alumni-DMID1-5qijxll9e-1280x720.jpg?w=1280&h=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WGU – Online. Nonprofit. Accredited. Surprisingly Affordable ...">
+                                <img itemprop="contentUrl url" src='https://hrprofessionalsmagazine.com/wp-content/uploads/2022/05/1-WGU-Online-Nonprofit-Accredited-788x1024.jpg' alt='WGU – Online. Nonprofit. Accredited. Surprisingly Affordable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HR Professionals Magazine" />
+                                </span>
+                                <a href='https://hrprofessionalsmagazine.com/wp-content/uploads/2022/05/1-WGU-Online-Nonprofit-Accredited-788x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WGU's Story">
+                                <img itemprop="contentUrl url" src='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-3/image_603266347.coreimg.85.800.jpeg/1730781622856/25-year-6.jpeg' alt='WGU's Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Governors University" />
+                                </span>
+                                <a href='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-3/image_603266347.coreimg.85.800.jpeg/1730781622856/25-year-6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Governors University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Seal_of_WGU.svg/800px-Seal_of_WGU.svg.png' alt='Western Governors University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Seal_of_WGU.svg/800px-Seal_of_WGU.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WGU's Story">
+                                <img itemprop="contentUrl url" src='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-4/image_225114819.coreimg.85.800.jpeg/1730781611911/25-year-8.jpeg' alt='WGU's Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Governors University" />
+                                </span>
+                                <a href='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-4/image_225114819.coreimg.85.800.jpeg/1730781611911/25-year-8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Governors University: The Best-Kept Secret In Online Colleges">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/blogs-images/dianahembree/files/2017/08/WGU-graduation-ceremony-1200x801.jpg?format=jpg&height=600&width=1200&fit=bounds' alt='Western Governors University: The Best-Kept Secret In Online Colleges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/blogs-images/dianahembree/files/2017/08/WGU-graduation-ceremony-1200x801.jpg?format=jpg&height=600&width=1200&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Colleges - Are They Accredited, Recognized, and Worth It?">
+                                <img itemprop="contentUrl url" src='https://www.wgu.edu/online-colleges-faq/_jcr_content/root/container_1488401946_555019425/container_331133843_/container_1194914320/image.coreimg.85.800.png/1672940831664/cost-comparision-graphs.png' alt='Online Colleges - Are They Accredited, Recognized, and Worth It?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Governors University" />
+                                </span>
+                                <a href='https://www.wgu.edu/online-colleges-faq/_jcr_content/root/container_1488401946_555019425/container_331133843_/container_1194914320/image.coreimg.85.800.png/1672940831664/cost-comparision-graphs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WGU's Story">
+                                <img itemprop="contentUrl url" src='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-2/image.coreimg.85.800.jpeg/1730781614365/25-year-4.jpeg' alt='WGU's Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Governors University" />
+                                </span>
+                                <a href='https://www.wgu.edu/about/story/_jcr_content/root/container_367846700/columncontrol/column-2/image.coreimg.85.800.jpeg/1730781614365/25-year-4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does A Nonprofit University Benefit You?">
+                                <img itemprop="contentUrl url" src='https://www.wgu.edu/blog/2017/12/how-does-a-non-profit-university-benefit-you/_jcr_content/root/container/imageandtext_copy.coreimg.85.800.jpeg/1699491955866/group-of-woman-graduates.jpeg' alt='How Does A Nonprofit University Benefit You?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Western Governors University" />
+                                </span>
+                                <a href='https://www.wgu.edu/blog/2017/12/how-does-a-non-profit-university-benefit-you/_jcr_content/root/container/imageandtext_copy.coreimg.85.800.jpeg/1699491955866/group-of-woman-graduates.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State of Ohio Partners with Western Governors University to ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/276234/western_governors_university_Logo.jpg?p=facebook' alt='State of Ohio Partners with Western Governors University to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/276234/western_governors_university_Logo.jpg?p=facebook' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

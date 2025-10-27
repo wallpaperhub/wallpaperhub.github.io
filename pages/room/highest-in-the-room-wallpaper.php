@@ -1,0 +1,129 @@
+<title>Highest in the Room Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the "Highest in the Room" wallpaper, a stylish decor choice for modern spaces. Inspired by Travis Scott, this wallpaper features bold colors and patterns that instantly elevate your environment. Perfect for fans and design enthusiasts alike. Transform your walls today!">
+                    <meta name="keywords" content="highest in the room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/highest-in-the-room-wallpaper">
+                            <span itemprop="name">highest in the room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Highest in the Room Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with the "Highest in the Room" wallpaper, inspired by the iconic artistry of Travis Scott. This unique design infuses your walls with vibrant colors and bold patterns, creating a dynamic atmosphere. Perfect for fans of the artist and anyone looking to add a touch of modern style to their home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD highest in the room wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/540/890/HD-wallpaper-highest-in-the-room-cactus-jack-travis-scott.jpg' alt='HD highest in the room wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/540/890/HD-wallpaper-highest-in-the-room-cactus-jack-travis-scott.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travis Scott "Highest In The Room" Desktop Wallpaper (4K ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5br86efyhc951.png' alt='Travis Scott "Highest In The Room" Desktop Wallpaper (4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5br86efyhc951.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/2e/fd/7b2efd2598313cbd640ed3c8bb954b98.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/2e/fd/7b2efd2598313cbd640ed3c8bb954b98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="highest in the room wallpaper i made the sky a lil darker : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i98v0u7plsv41.jpg' alt='highest in the room wallpaper i made the sky a lil darker : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="1746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i98v0u7plsv41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD highest in the room wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/990/53/HD-wallpaper-travis-scott-cactus-jack-highest-in-the-room.jpg' alt='HD highest in the room wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/990/53/HD-wallpaper-travis-scott-cactus-jack-highest-in-the-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travis Scott Album Cover extended Highest in The Room">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/f1/de/57f1de2b14170be6f5fc3a3a0fb952de.jpg' alt='Travis Scott Album Cover extended Highest in The Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/f1/de/57f1de2b14170be6f5fc3a3a0fb952de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travis Scott - HIGHEST IN THE ROOM - Single">
+                                <img itemprop="contentUrl url" src='https://linkstorage.linkfire.com/medialinks/images/1cc8bb7b-ce32-4d78-b291-601909702986/artwork-440x220.jpg' alt='Travis Scott - HIGHEST IN THE ROOM - Single'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Linkfire" />
+                                </span>
+                                <a href='https://linkstorage.linkfire.com/medialinks/images/1cc8bb7b-ce32-4d78-b291-601909702986/artwork-440x220.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Travisscott, highest in the room, scott, travis, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/383/791/HD-wallpaper-travisscott-highest-in-the-room-scott-travis.jpg' alt='Travisscott, highest in the room, scott, travis, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/383/791/HD-wallpaper-travisscott-highest-in-the-room-scott-travis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highest in the room 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/48/bc/35/48bc35bdf85fe3e97819a2f6b59caa2e.jpg' alt='Highest in the room 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/48/bc/35/48bc35bdf85fe3e97819a2f6b59caa2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highest In The Room Travis Scott Print Wall Art Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/WS4AAOSwVoxjEFaT/s-l1200.jpg' alt='Highest In The Room Travis Scott Print Wall Art Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/WS4AAOSwVoxjEFaT/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

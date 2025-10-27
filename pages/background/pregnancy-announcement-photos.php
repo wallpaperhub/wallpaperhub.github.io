@@ -1,0 +1,129 @@
+<title>Creative Pregnancy Announcement Photo Ideas</title>
+                    <meta name="description" content="Discover creative ideas for pregnancy announcement photos that capture the joy of expecting a baby. Explore unique themes, props, and poses to make your special moment unforgettable. Share your love story visually and inspire others with beautiful, memorable images of your growing family.">
+                    <meta name="keywords" content="pregnancy announcement photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pregnancy-announcement-photos">
+                            <span itemprop="name">pregnancy announcement photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Pregnancy Announcement Photo Ideas</h1>
+                <p>Pregnancy announcement photos are a delightful way to share your exciting news with family and friends. Whether it's a creative shoot featuring baby shoes, personalized signs, or adorable pets, these images capture the joy of impending parenthood. From playful to heartfelt, make your announcement memorable and uniquely yours.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Announcement Photoshoot | Dallas Maternity Photographer">
+                                <img itemprop="contentUrl url" src='https://lindseyduttonphotography.com/wp-content/uploads/sites/9057/2024/01/Dallas-Newborn-Photographer-Lindsey-Dutton-Photography_3512.jpg' alt='Baby Announcement Photoshoot | Dallas Maternity Photographer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lindsey Dutton Photography" />
+                                </span>
+                                <a href='https://lindseyduttonphotography.com/wp-content/uploads/sites/9057/2024/01/Dallas-Newborn-Photographer-Lindsey-Dutton-Photography_3512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Photos by Benfield Photography">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/benfieldphotography.com/wp-content/uploads/2023/03/allen-family-2023-03-0004-1024x683.jpg?resize=960%2C640&ssl=1' alt='Pregnancy Announcement Photos by Benfield Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Benfield Photography" />
+                                </span>
+                                <a href='https://i0.wp.com/benfieldphotography.com/wp-content/uploads/2023/03/allen-family-2023-03-0004-1024x683.jpg?resize=960%2C640&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Photographer | Moira + Tom ...">
+                                <img itemprop="contentUrl url" src='https://carolinewinnphotography.com/wp-content/uploads/sites/19057/2021/03/Pregnancy_Announcement_Photography-2.jpg' alt='Pregnancy Announcement Photographer | Moira + Tom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caroline Winn Photography" />
+                                </span>
+                                <a href='https://carolinewinnphotography.com/wp-content/uploads/sites/19057/2021/03/Pregnancy_Announcement_Photography-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Baby Announcement Digital Reveal For Social Media, Gender ...">
+                                <img itemprop="contentUrl url" src='https://www.cafelattedesigns.com/cdn/shop/products/baby-announcement-digital-reveal-for-social-media-gender-neutral-pregnancy-announcement-digital-image-hexagon-letter-board-knit-outfit-expecting-baby-2.jpg?v=1678812394' alt='Boho Baby Announcement Digital Reveal For Social Media, Gender ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2517">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Café Latte Designs" />
+                                </span>
+                                <a href='https://www.cafelattedesigns.com/cdn/shop/products/baby-announcement-digital-reveal-for-social-media-gender-neutral-pregnancy-announcement-digital-image-hexagon-letter-board-knit-outfit-expecting-baby-2.jpg?v=1678812394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Sweet Pregnancy Announcement and Family Session | Rougemont ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/536c7966e4b06a137909c882/1538502182095-GEBCJRS43NQP6UOZ39CB/Durham-Family-Photographer-Cassell1-7.jpg' alt='A Sweet Pregnancy Announcement and Family Session | Rougemont ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="G. Lin Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/536c7966e4b06a137909c882/1538502182095-GEBCJRS43NQP6UOZ39CB/Durham-Family-Photographer-Cassell1-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KAYLA + JUSTIN // FALL PREGNANCY ANNOUNCEMENT SESSION — rosie nary">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/556609a3e4b02cc991291580/1612198965256-V960ZW2ZIQUN2KWWAK10/pregnancy+announcement+session+boise+idaho2.jpg' alt='KAYLA + JUSTIN // FALL PREGNANCY ANNOUNCEMENT SESSION — rosie nary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie Nary Photography" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/556609a3e4b02cc991291580/1612198965256-V960ZW2ZIQUN2KWWAK10/pregnancy+announcement+session+boise+idaho2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Adorable Pregnancy Announcement | Murfreesboro Photographer ...">
+                                <img itemprop="contentUrl url" src='https://evielynnstudio.com/wp-content/uploads/2022/02/9.jpeg' alt='Most Adorable Pregnancy Announcement | Murfreesboro Photographer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evie Lynn Photography" />
+                                </span>
+                                <a href='https://evielynnstudio.com/wp-content/uploads/2022/02/9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Ideas for Beach Photoshoot in Tampa ...">
+                                <img itemprop="contentUrl url" src='https://chloemariephotography.com/wp-content/uploads/sites/28674/2022/10/SaraJeremy-2ndAnni-96_websize.jpg' alt='Pregnancy Announcement Ideas for Beach Photoshoot in Tampa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chloe Marie Photography" />
+                                </span>
+                                <a href='https://chloemariephotography.com/wp-content/uploads/sites/28674/2022/10/SaraJeremy-2ndAnni-96_websize.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Pregnancy Announcement - Baby Announcement - We've Been ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15782215/r/il/b0d410/4333454544/il_570xN.4333454544_9llw.jpg' alt='Digital Pregnancy Announcement - Baby Announcement - We've Been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15782215/r/il/b0d410/4333454544/il_570xN.4333454544_9llw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patterson Park Pregnancy Announcement Portraits | Jenna & Franco">
+                                <img itemprop="contentUrl url" src='https://meghanelizabethphotography.me/wp-content/uploads/2020/04/Patterson-Park-Pregnancy-Announcement-Portraits_1797-686x1024.jpg' alt='Patterson Park Pregnancy Announcement Portraits | Jenna & Franco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meghan Elizabeth Photography" />
+                                </span>
+                                <a href='https://meghanelizabethphotography.me/wp-content/uploads/2020/04/Patterson-Park-Pregnancy-Announcement-Portraits_1797-686x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Camera Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a beautiful collection of camera aesthetic wallpapers that elevate your device's aesthetic. Perfect for photography lovers, these wallpapers feature unique designs that inspire creativity and style. Make your screen shine with artistic brilliance today!">
+                    <meta name="keywords" content="camera aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/camera-aesthetic-wallpaper">
+                            <span itemprop="name">camera aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Camera Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device's look with captivating camera aesthetic wallpapers! These stunning images blend art and photography, perfect for showcasing your love for visual storytelling. Choose from a wide variety of styles, from vintage vibes to modern minimalism, and set the mood for creativity every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Camera Photos, Download The BEST Free Vintage Camera Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1804169/pexels-photo-1804169.jpeg?cs=srgb&dl=pexels-athena-1804169.jpg&fm=jpg' alt='Vintage Camera Photos, Download The BEST Free Vintage Camera Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1804169/pexels-photo-1804169.jpeg?cs=srgb&dl=pexels-athena-1804169.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/f7/6a/0bf76a2b20341981f438dfab643b2ce4.jpg' alt='Camera Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/f7/6a/0bf76a2b20341981f438dfab643b2ce4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dslr Camera Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dslr-camera-b1vchgvhwzk33x7v.jpg' alt='100+] Dslr Camera Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dslr-camera-b1vchgvhwzk33x7v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera Aesthetic Book Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/camera-aesthetic-book-desktop-h1nll65r96opp176.jpg' alt='Camera Aesthetic Book Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1282">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/camera-aesthetic-book-desktop-h1nll65r96opp176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Film camera aesthetic phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/cd/c3/35/cdc3354097bf80d15c2816081f8e6d38.jpg' alt='Download premium image of Film camera aesthetic phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/cd/c3/35/cdc3354097bf80d15c2816081f8e6d38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic camera wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/448/277/HD-wallpaper-aesthetic-camera-retro-uvu-uwu-thumbnail.jpg' alt='HD aesthetic camera wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/448/277/HD-wallpaper-aesthetic-camera-retro-uvu-uwu-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Camera Photos, Download The BEST Free Vintage Camera Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3691227/pexels-photo-3691227.jpeg?cs=srgb&dl=pexels-israelzin-3691227.jpg&fm=jpg' alt='Vintage Camera Photos, Download The BEST Free Vintage Camera Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3691227/pexels-photo-3691227.jpeg?cs=srgb&dl=pexels-israelzin-3691227.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera Wallpaper" Images – Browse 46 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/02/53/07/360_F_402530758_vNnPrE4IUcRU6JPeEjfjRefbDmSfQ8hC.jpg' alt='Camera Wallpaper" Images – Browse 46 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/02/53/07/360_F_402530758_vNnPrE4IUcRU6JPeEjfjRefbDmSfQ8hC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera Vintage Aesthetic Pc Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/photographs-vintage-aesthetic-pc-71ib5t2la8v2ip24.webp' alt='Camera Vintage Aesthetic Pc Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/photographs-vintage-aesthetic-pc-71ib5t2la8v2ip24.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Camera Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8129427.jpg' alt='Aesthetic Camera Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8129427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

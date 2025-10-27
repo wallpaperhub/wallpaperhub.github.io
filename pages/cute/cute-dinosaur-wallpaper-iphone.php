@@ -1,0 +1,129 @@
+<title>Adorable Dinosaur Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the cutest dinosaur wallpaper for your iPhone! Perfect for dino enthusiasts, these vibrant and charming designs will bring a smile to your face every time you unlock your device. Explore our collection and find the perfect dino wallpaper that matches your personality!">
+                    <meta name="keywords" content="cute dinosaur wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-dinosaur-wallpaper-iphone">
+                            <span itemprop="name">cute dinosaur wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dinosaur Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with adorable cute dinosaur wallpaper! Whether you're a fan of T-rexes or playful baby dino designs, our selection adds a fun touch to your screen. Perfect for dino lovers of all ages, these wallpapers bring joy and a splash of color to your device. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f5/2a/d1/f52ad1f53907396cba6b8c16694bfee9.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f5/2a/d1/f52ad1f53907396cba6b8c16694bfee9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/60/a8/bd60a843ae8d03e16e6f00899d7cb2ae.jpg' alt='iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/60/a8/bd60a843ae8d03e16e6f00899d7cb2ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dino Kawaii Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tea-rex-dino-kawaii-iphone-81765ffrp35qrfll.jpg' alt='100+] Dino Kawaii Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tea-rex-dino-kawaii-iphone-81765ffrp35qrfll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Green Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/two-green-dino-kawaii-iphone-37w5l3k206l7xwu0.jpg' alt='Two Green Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/two-green-dino-kawaii-iphone-37w5l3k206l7xwu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/ab/d6/f4abd627b1c3bfefa551f3b959f1894f.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/ab/d6/f4abd627b1c3bfefa551f3b959f1894f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Green And Red Dino Kawaii Iphone Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vibrant-green-and-red-dino-kawaii-iphone-wallpaper-hqrm4jf11hz26j5q.jpg' alt='Vibrant Green And Red Dino Kawaii Iphone Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vibrant-green-and-red-dino-kawaii-iphone-wallpaper-hqrm4jf11hz26j5q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/45/cd/3b/45cd3bf56ad402d469399265525287d0.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/45/cd/3b/45cd3bf56ad402d469399265525287d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Dinosaur Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-dinosaur-iphone-fcp4mbi35lw8wluw.jpg' alt='100+] Cute Dinosaur Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-dinosaur-iphone-fcp4mbi35lw8wluw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dino Kawaii Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/four-small-colorful-dino-kawaii-iphone-9c4oj2bbhyg9v26r.jpg' alt='Dino Kawaii Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/four-small-colorful-dino-kawaii-iphone-9c4oj2bbhyg9v26r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Dinosaur Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-dinosaur-phone-dino-eating-cake-iacm71vnynrnne5x.jpg' alt='100+] Cute Dinosaur Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-dinosaur-phone-dino-eating-cake-iacm71vnynrnne5x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

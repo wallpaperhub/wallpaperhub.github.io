@@ -1,0 +1,129 @@
+<title>Trendy Cartoon Lockscreen Aesthetic Wallpapers</title>
+                    <meta name="description" content="Explore stylish cartoon lockscreen aesthetic wallpapers that brighten up your device! Choose from cute designs and vibrant colors that reflect your personality, making your phone stand out. Perfect for those who love fun, unique aesthetics at their fingertips!">
+                    <meta name="keywords" content="lockscreen aesthetic wallpaper cartoon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/lockscreen-aesthetic-wallpaper-cartoon">
+                            <span itemprop="name">lockscreen aesthetic wallpaper cartoon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Cartoon Lockscreen Aesthetic Wallpapers</h1>
+                <p>Elevate your phone's style with captivating lockscreen aesthetic wallpapers featuring cute cartoons! Discover vibrant designs that reflect your personality, from dreamy pastel hues to colorful characters. Perfect for adding a playful touch to your device, these wallpapers are a fun way to showcase your unique vibe every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen #9765">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/49/37/f8/4937f8ed07da4590cefbbf8f93e519b9.jpg' alt='Lockscreen #9765'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/49/37/f8/4937f8ed07da4590cefbbf8f93e519b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleep time wallpaper time wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/d4/91/cdd49127770f8455424616834ffa8861.jpg' alt='Sleep time wallpaper time wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/d4/91/cdd49127770f8455424616834ffa8861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c7/46/ee/c746ee0fd875a03ed9dce0a709935954.jpg' alt='Lock screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c7/46/ee/c746ee0fd875a03ed9dce0a709935954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Aesthetic Cartoon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-cartoon-we-bare-bears-stacked-together-1fvumh24849odbxb.jpg' alt='200+] Aesthetic Cartoon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-cartoon-we-bare-bears-stacked-together-1fvumh24849odbxb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen wallpaper | Girly art illustrations, Cute drawings ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/6f/2a/646f2a7e6148e0ad945ef5df4095a50b.jpg' alt='Lock screen wallpaper | Girly art illustrations, Cute drawings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/6f/2a/646f2a7e6148e0ad945ef5df4095a50b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOCKSCREENS, bears, Brown Bear Cartoon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/157/409/HD-wallpaper-lockscreens-bears-brown-bear-cartoon.jpg' alt='LOCKSCREENS, bears, Brown Bear Cartoon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/157/409/HD-wallpaper-lockscreens-bears-brown-bear-cartoon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/16/4a/d4164a43519a3166b8a5d7e363c06a27.jpg' alt='Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/16/4a/d4164a43519a3166b8a5d7e363c06a27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cartoon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFmK5MqJ9U/1/0/900w/canva-dark-blue-cartoon-girl-lazy-phone-wallpaper--YokEsw6EdM.jpg' alt='Free and customizable cartoon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFmK5MqJ9U/1/0/900w/canva-dark-blue-cartoon-girl-lazy-phone-wallpaper--YokEsw6EdM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stitch Hearts Aesthetic Cartoon Disney Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/stitch-hearts-aesthetic-cartoon-disney-wcvw6jx6zzlq7q7w.webp' alt='Stitch Hearts Aesthetic Cartoon Disney Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/stitch-hearts-aesthetic-cartoon-disney-wcvw6jx6zzlq7q7w.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Lockscreen Wallpaper Ideas | Art">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/67a88225a20d71001d838c92.png' alt='50+ Lockscreen Wallpaper Ideas | Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/67a88225a20d71001d838c92.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

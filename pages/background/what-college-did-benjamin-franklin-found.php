@@ -1,0 +1,129 @@
+<title>What College Did Benjamin Franklin Establish? Discover the University of Pennsylvania</title>
+                    <meta name="description" content="Learn about the University of Pennsylvania, the prestigious institution founded by Benjamin Franklin in 1740. Explore its unique blend of practical and liberal arts education that set it apart as a pioneer in American higher education.">
+                    <meta name="keywords" content="what college did benjamin franklin found">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-college-did-benjamin-franklin-found">
+                            <span itemprop="name">what college did benjamin franklin found</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What College Did Benjamin Franklin Establish? Discover the University of Pennsylvania</h1>
+                <p>Benjamin Franklin founded the University of Pennsylvania in 1740. Initially established as a charity school, it evolved into one of the first institutions of higher education in the United States. Franklin envisioned a school that would blend practical education with liberal arts, promoting a well-rounded knowledge base for students.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Pennsylvania – Benjamin Franklin Historical Society">
+                                <img itemprop="contentUrl url" src='http://www.benjamin-franklin-history.org/wp-content/uploads/2016/02/Publik-Academy-of-Philadelphia-Benjamin-Franklin.jpg' alt='University of Pennsylvania – Benjamin Franklin Historical Society'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Benjamin Franklin Historical Society" />
+                                </span>
+                                <a href='http://www.benjamin-franklin-history.org/wp-content/uploads/2016/02/Publik-Academy-of-Philadelphia-Benjamin-Franklin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_University_-_School_of_Accountancy.JPG' alt='Benjamin Franklin University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_University_-_School_of_Accountancy.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg' alt='Benjamin Franklin - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6396">
+                                <meta itemprop="height" content="7801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome | Benjamin Franklin College">
+                                <img itemprop="contentUrl url" src='https://benjaminfranklin.yalecollege.yale.edu/sites/default/files/images/Franklin%20Cropped.jpg' alt='Welcome | Benjamin Franklin College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale University" />
+                                </span>
+                                <a href='https://benjaminfranklin.yalecollege.yale.edu/sites/default/files/images/Franklin%20Cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Franklin, Murray colleges open - Commencement 2020">
+                                <img itemprop="contentUrl url" src='https://yaledailynews.com/commencement2020/files/2020/05/Murray_ZoeBerg-scaled.jpg' alt='Franklin, Murray colleges open - Commencement 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale Daily News" />
+                                </span>
+                                <a href='https://yaledailynews.com/commencement2020/files/2020/05/Murray_ZoeBerg-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pauli Murray College and Benjamin Franklin College in New Haven ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x5nsxa40ros41.jpg' alt='Pauli Murray College and Benjamin Franklin College in New Haven ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4016">
+                                <meta itemprop="height" content="3028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x5nsxa40ros41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Penn's History | University of Pennsylvania">
+                                <img itemprop="contentUrl url" src='https://www.upenn.edu/sites/default/files/2020-12/surgeons-hall-500px.jpg' alt='Penn's History | University of Pennsylvania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Pennsylvania" />
+                                </span>
+                                <a href='https://www.upenn.edu/sites/default/files/2020-12/surgeons-hall-500px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin ‑ Biography, Inventions & Facts | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/benjamin-franklin-credit-fineart-alamy-stock.jpg?width=768' alt='Benjamin Franklin ‑ Biography, Inventions & Facts | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/benjamin-franklin-credit-fineart-alamy-stock.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benjamin Franklin | University of Pennsylvania Facilities and Real ...">
+                                <img itemprop="contentUrl url" src='https://facilities.upenn.edu/sites/default/files/styles/custom_crop_1090_wide/public/images/art008.jpg?h=68228acc&itok=XFkQoSD4' alt='Benjamin Franklin | University of Pennsylvania Facilities and Real ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UPenn Facilities - University of Pennsylvania" />
+                                </span>
+                                <a href='https://facilities.upenn.edu/sites/default/files/styles/custom_crop_1090_wide/public/images/art008.jpg?h=68228acc&itok=XFkQoSD4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Pauli Murray and Benjamin Franklin colleges | Yale News">
+                                <img itemprop="contentUrl url" src='https://news.yale.edu/sites/default/files/styles/large_horizontal_topper_image/public/dsc_7035.jpg?h=9dad0a6b&itok=qAZbCaz6' alt='Inside Pauli Murray and Benjamin Franklin colleges | Yale News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yale News - Yale University" />
+                                </span>
+                                <a href='https://news.yale.edu/sites/default/files/styles/large_horizontal_topper_image/public/dsc_7035.jpg?h=9dad0a6b&itok=qAZbCaz6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

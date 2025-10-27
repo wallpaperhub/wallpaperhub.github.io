@@ -1,0 +1,129 @@
+<title>Transform Your Space with Red Victorian Wallpaper</title>
+                    <meta name="description" content="Discover the allure of red Victorian wallpaper, perfect for adding a warm, vintage charm to any room. Enhance your decor with its intricate designs, creating a stunning focal point in your home. Explore our selection for a timeless and elegant upgrade to your living space.">
+                    <meta name="keywords" content="red victorian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-victorian-wallpaper">
+                            <span itemprop="name">red victorian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Red Victorian Wallpaper</h1>
+                <p>Red Victorian wallpaper adds a touch of elegance and sophistication to any space. Its intricate patterns and rich hue evoke a sense of nostalgia, perfect for both classic and modern decor. Ideal for creating a warm, inviting atmosphere, this wallpaper enhances your interior with timeless beauty and charm, making every room feel special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Damask Wallpaper Removable Vintage Peel and Stick Victorian Gold Design  Digital Vinyl - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1Jh2Ad9sJL.jpg' alt='Red Damask Wallpaper Removable Vintage Peel and Stick Victorian Gold Design  Digital Vinyl - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1Jh2Ad9sJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Gold Damask on Bright Red Wallpaper, Bold Vintage Focal Wall,  Elegant Floral Scroll Victorian Trellis 12x9 Sample Md29434so - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/6031b5/2520360420/il_1080xN.2520360420_63iu.jpg' alt='Traditional Gold Damask on Bright Red Wallpaper, Bold Vintage Focal Wall,  Elegant Floral Scroll Victorian Trellis 12x9 Sample Md29434so - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/6031b5/2520360420/il_1080xN.2520360420_63iu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flocked Velvet Wallpaper - Red on Red Stripe – Designer ...">
+                                <img itemprop="contentUrl url" src='https://www.designerwallcoverings.com/cdn/shop/products/c842035a205d5cfc8811e12a5649c43b_600x600.jpg?v=1572308907' alt='Victorian Flocked Velvet Wallpaper - Red on Red Stripe – Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Wallcoverings" />
+                                </span>
+                                <a href='https://www.designerwallcoverings.com/cdn/shop/products/c842035a205d5cfc8811e12a5649c43b_600x600.jpg?v=1572308907' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,100+ Red Victorian Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1143167982/vector/royal-vintage-gothic-background-in-dark-red-and-black.jpg?s=612x612&w=0&k=20&c=7GPtRZTZqmIvKCopepLpDrzUvJyByW2YcK0gbc1aLuk=' alt='5,100+ Red Victorian Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1143167982/vector/royal-vintage-gothic-background-in-dark-red-and-black.jpg?s=612x612&w=0&k=20&c=7GPtRZTZqmIvKCopepLpDrzUvJyByW2YcK0gbc1aLuk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dramatic Red Gold Damask Wallpaper - Elegant Old Victorian Dining ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/a495f6/1763764819/il_570xN.1763764819_hq61.jpg' alt='Dramatic Red Gold Damask Wallpaper - Elegant Old Victorian Dining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/a495f6/1763764819/il_570xN.1763764819_hq61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Gothic Sconce and Red Damask Photography Backdrop">
+                                <img itemprop="contentUrl url" src='https://dennymfg.com/cdn/shop/files/CP8623-Victorian-Gothic-Sconce-and-Red-Damask-Backdrop-10x10_400x.jpg?v=1727966735' alt='Victorian Gothic Sconce and Red Damask Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='https://dennymfg.com/cdn/shop/files/CP8623-Victorian-Gothic-Sconce-and-Red-Damask-Backdrop-10x10_400x.jpg?v=1727966735' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,072 Red Victorian Wallpaper Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/red-damask-wallpaper-background-vector-260nw-2322874907.jpg' alt='21,072 Red Victorian Wallpaper Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/red-damask-wallpaper-background-vector-260nw-2322874907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="classic wallpaper with Victorian ornament, red and gold Zip Pouch">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/classic-wallpaper-with-victorian-ornament-red-and-gold-julien.jpg' alt='classic wallpaper with Victorian ornament, red and gold Zip Pouch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/classic-wallpaper-with-victorian-ornament-red-and-gold-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Victorian Wallpaper Images – Browse 22,459 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/85/35/52/360_F_785355286_sTYwope1qpWULYsXGWM9nwJbjjrTd4ha.jpg' alt='Red Victorian Wallpaper Images – Browse 22,459 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/85/35/52/360_F_785355286_sTYwope1qpWULYsXGWM9nwJbjjrTd4ha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,100+ Red Victorian Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1343778073/vector/red-victorian-damask-luxury-decorative-fabric-pattern.jpg?s=612x612&w=0&k=20&c=MD9r8YQnr-k14AGj2iDEb6lQBdKaVrZZjnKumFyVtHQ=' alt='5,100+ Red Victorian Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1343778073/vector/red-victorian-damask-luxury-decorative-fabric-pattern.jpg?s=612x612&w=0&k=20&c=MD9r8YQnr-k14AGj2iDEb6lQBdKaVrZZjnKumFyVtHQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

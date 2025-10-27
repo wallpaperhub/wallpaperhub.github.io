@@ -1,0 +1,129 @@
+<title>Satisfying Visuals: A Collection of Pleasing Pictures</title>
+                    <meta name="description" content="Explore a captivating collection of satisfying pictures that bring joy and visual tranquility. Discover the beauty in everyday moments, from perfectly arranged foods to mesmerizing patterns. Dive into a world of imagery designed to soothe and uplift your spirit.">
+                    <meta name="keywords" content="satisfying pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/satisfying-pictures">
+                            <span itemprop="name">satisfying pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Satisfying Visuals: A Collection of Pleasing Pictures</h1>
+                <p>In a world of chaos, satisfying pictures provide a sense of calm and joy. From perfectly stacked objects to mesmerizing patterns, these images captivate our minds and offer visual relief. Whether it’s a smoothly poured latte or a mesmerizing time-lapse of nature, satisfying pictures spark delight and bring smiles to our faces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Perfect Pics That Will Satisfy Every Perfectionist's Soul (Part 3)">
+                                <img itemprop="contentUrl url" src='https://static.boredpanda.com/blog/wp-content/uploads/2016/10/oddly-satisfying-photos-perfection-129-580dbc52ae1c5__605.jpg' alt='95 Perfect Pics That Will Satisfy Every Perfectionist's Soul (Part 3)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://static.boredpanda.com/blog/wp-content/uploads/2016/10/oddly-satisfying-photos-perfection-129-580dbc52ae1c5__605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Finding What's 'Oddly Satisfying' on the Internet - The ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/02/24/opinion/sunday/24matchar/24matchar-articleLarge.gif?quality=75&auto=webp&disable=upscale' alt='Opinion | Finding What's 'Oddly Satisfying' on the Internet - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/02/24/opinion/sunday/24matchar/24matchar-articleLarge.gif?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Oddly Satisfying Things You Probably Won't Stop Looking At ...">
+                                <img itemprop="contentUrl url" src='https://static.demilked.com/wp-content/uploads/2022/02/oddly-satisfying-photos-1.jpeg' alt='30 Oddly Satisfying Things You Probably Won't Stop Looking At ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeMilked" />
+                                </span>
+                                <a href='https://static.demilked.com/wp-content/uploads/2022/02/oddly-satisfying-photos-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Are Oddly Satisfying Videos So ... Satisfying? | Discover Magazine">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/cnu0m8re1exe/25IMog6Llo0dMNXZX07FkD/883e035e7f820f45681d13938e631ee7/satisfying-1.gif?w=660&h=433&fit=fill' alt='Why Are Oddly Satisfying Videos So ... Satisfying? | Discover Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discover Magazine" />
+                                </span>
+                                <a href='https://images.ctfassets.net/cnu0m8re1exe/25IMog6Llo0dMNXZX07FkD/883e035e7f820f45681d13938e631ee7/satisfying-1.gif?w=660&h=433&fit=fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oddly Satisfying - Dusky's Wonders">
+                                <img itemprop="contentUrl url" src='http://www.duskyswondersite.com/wp-content/uploads/2023/10/BP-The-Lighting-Under-This-Bridge-That-Makes-It-Look-Like-A-Crescent-Moon-In-The-Water.jpg' alt='Oddly Satisfying - Dusky's Wonders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dusky's Wonders" />
+                                </span>
+                                <a href='http://www.duskyswondersite.com/wp-content/uploads/2023/10/BP-The-Lighting-Under-This-Bridge-That-Makes-It-Look-Like-A-Crescent-Moon-In-The-Water.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Flawless And Oddly Satisfying Pics For Foodie Souls | DeMilked">
+                                <img itemprop="contentUrl url" src='https://static.demilked.com/wp-content/uploads/2023/12/oddly-satisfying-pics-food-2.jpg' alt='35 Flawless And Oddly Satisfying Pics For Foodie Souls | DeMilked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeMilked" />
+                                </span>
+                                <a href='https://static.demilked.com/wp-content/uploads/2023/12/oddly-satisfying-pics-food-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Images That Are Going To Amuse You">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/54/40/1d54402a5d04182ee021cb6da5506ea9.jpg' alt='24 Images That Are Going To Amuse You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/54/40/1d54402a5d04182ee021cb6da5506ea9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Very satisfying phone wallpaper : r/oddlysatisfying">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ibkf0dbpdi851.jpg' alt='Very satisfying phone wallpaper : r/oddlysatisfying'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ibkf0dbpdi851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="169 Oddly Satisfying Food Photos That We Can't Stop Looking At">
+                                <img itemprop="contentUrl url" src='https://static.boredpanda.com/blog/wp-content/uploads/2018/01/oddly-satisfying-photos-food-perfection-symmetry-fb5__700-png.jpg' alt='169 Oddly Satisfying Food Photos That We Can't Stop Looking At'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://static.boredpanda.com/blog/wp-content/uploads/2018/01/oddly-satisfying-photos-food-perfection-symmetry-fb5__700-png.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD satisfying wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/158/533/HD-wallpaper-satisfying-drops-green-pink-purple-water.jpg' alt='HD satisfying wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/158/533/HD-wallpaper-satisfying-drops-green-pink-purple-water.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

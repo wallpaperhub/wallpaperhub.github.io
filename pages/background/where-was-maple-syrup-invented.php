@@ -1,0 +1,129 @@
+<title>Maple Syrup Origins: The Sweet History</title>
+                    <meta name="description" content="Discover the fascinating history of maple syrup's origins, tracing back to Indigenous peoples in North America. Learn how they transformed sap from sugar maple trees into the delicious syrup we know today. Explore its cultural significance and delicious versatility!">
+                    <meta name="keywords" content="where was maple syrup invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-was-maple-syrup-invented">
+                            <span itemprop="name">where was maple syrup invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maple Syrup Origins: The Sweet History</h1>
+                <p>Maple syrup was first produced by Indigenous peoples in North America, particularly in the northeastern regions, such as present-day Canada and parts of the United States. These early settlers utilized techniques passed down through generations, tapping sugar maple trees to harvest sap, which they would then boil down into the sweet syrup we enjoy today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Maple Syrup - Maple Valley Cooperative">
+                                <img itemprop="contentUrl url" src='https://maplevalleysyrup.coop/wp-content/uploads/2017/12/early-method.jpg' alt='The History of Maple Syrup - Maple Valley Cooperative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maple Valley Cooperative" />
+                                </span>
+                                <a href='https://maplevalleysyrup.coop/wp-content/uploads/2017/12/early-method.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Maple of Canadian Maple Syrup - Maple from Canada">
+                                <img itemprop="contentUrl url" src='https://www.maplefromcanada.co.uk/uploads/2018/12/chronologie_histoire_erable_EN_CMYK_300dpi-880x600.jpg' alt='History of Maple of Canadian Maple Syrup - Maple from Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maple from Canada UK" />
+                                </span>
+                                <a href='https://www.maplefromcanada.co.uk/uploads/2018/12/chronologie_histoire_erable_EN_CMYK_300dpi-880x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Maple Syrup - Maine Maple Producers Association">
+                                <img itemprop="contentUrl url" src='https://mainemapleproducers.com/wp-content/uploads/Sugar_Making_in_Canada_1852._By_Cornelius_Krieghoff_1815-1872.jpg' alt='History of Maple Syrup - Maine Maple Producers Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine Maple Producers Association" />
+                                </span>
+                                <a href='https://mainemapleproducers.com/wp-content/uploads/Sugar_Making_in_Canada_1852._By_Cornelius_Krieghoff_1815-1872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maple syrup | Origins, Production, Uses, & Nutrition | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/01/10101-004-FDFC6884/maple-trees-syrup-Vermont.jpg' alt='Maple syrup | Origins, Production, Uses, & Nutrition | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/01/10101-004-FDFC6884/maple-trees-syrup-Vermont.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Maple Syrup | Best Maple Syrup | Maple Sugar Candy - Ben's ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0745/5593/files/history_of_Maple_Sugaring_in_NH.jpg?14267528627847987514' alt='Real Maple Syrup | Best Maple Syrup | Maple Sugar Candy - Ben's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="281">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bens Maple Syrup" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0745/5593/files/history_of_Maple_Sugaring_in_NH.jpg?14267528627847987514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Indigenous Origins of Maple Syrup | NMAI Magazine">
+                                <img itemprop="contentUrl url" src='https://www.americanindianmagazine.org/sites/default/files/styles/max_1300x1300/public/2022-12/gallery_basket.jpg?itok=y3AXrbv_' alt='The Indigenous Origins of Maple Syrup | NMAI Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Indian Magazine" />
+                                </span>
+                                <a href='https://www.americanindianmagazine.org/sites/default/files/styles/max_1300x1300/public/2022-12/gallery_basket.jpg?itok=y3AXrbv_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Maple Syrup - Maine Maple Producers Association">
+                                <img itemprop="contentUrl url" src='https://mainemapleproducers.com/wp-content/uploads/maple-1089824.jpg' alt='History of Maple Syrup - Maine Maple Producers Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maine Maple Producers Association" />
+                                </span>
+                                <a href='https://mainemapleproducers.com/wp-content/uploads/maple-1089824.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Maple Syrup | Kids | Maple from Canada">
+                                <img itemprop="contentUrl url" src='https://kids.maplefromcanada.ca/uploads/sites/2/2021/02/histoire_1-1920x920.jpg' alt='The History of Maple Syrup | Kids | Maple from Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maple syrup - Maple from Canada" />
+                                </span>
+                                <a href='https://kids.maplefromcanada.ca/uploads/sites/2/2021/02/histoire_1-1920x920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Maple Syrup is Made - Vermont Maple Sugar Makers">
+                                <img itemprop="contentUrl url" src='https://vermontmaple.org/assets/components/phpthumbof/cache/Grade%20Card%20edited.48e50db69c7db775d46ccb2e5bc3ad94.png' alt='How Maple Syrup is Made - Vermont Maple Sugar Makers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vermont Maple Sugar Makers' Association" />
+                                </span>
+                                <a href='https://vermontmaple.org/assets/components/phpthumbof/cache/Grade%20Card%20edited.48e50db69c7db775d46ccb2e5bc3ad94.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Maple | Maple from Canada">
+                                <img itemprop="contentUrl url" src='https://erableduquebec.ca/uploads/2018/09/cropped-Amerindiens-histoire-erable-1.jpg' alt='The Story of Maple | Maple from Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maple from Canada" />
+                                </span>
+                                <a href='https://erableduquebec.ca/uploads/2018/09/cropped-Amerindiens-histoire-erable-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

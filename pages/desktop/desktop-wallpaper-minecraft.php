@@ -1,0 +1,129 @@
+<title>Stunning Minecraft Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the best Minecraft desktop wallpapers to enhance your screen with vibrant designs! Perfect for gamers who love the blocky world, our collection brings iconic scenes and characters to life. Upgrade your desktop aesthetic with the ultimate Minecraft backgrounds and show off your passion in style!">
+                    <meta name="keywords" content="desktop wallpaper minecraft">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktop-wallpaper-minecraft">
+                            <span itemprop="name">desktop wallpaper minecraft</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Minecraft Desktop Wallpapers for Gamers</h1>
+                <p>Transform your screen with stunning Minecraft desktop wallpapers! Explore vibrant landscapes, iconic characters, and breathtaking biomes from the beloved game. Perfect for any Minecraft fan, these wallpapers bring the blocky world to your computer, making your workspace more exciting. Choose your favorite design and elevate your desktop style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-are-some-wallpapaer-i-made-fell-free-to-share-ideas-of-v0-7buzb5xztqhb1.png?width=640&crop=smart&auto=webp&s=58a2f1d72fb5cd016d68e74bcb6b2c35b95bb000' alt='Minecraft Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-are-some-wallpapaer-i-made-fell-free-to-share-ideas-of-v0-7buzb5xztqhb1.png?width=640&crop=smart&auto=webp&s=58a2f1d72fb5cd016d68e74bcb6b2c35b95bb000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a3y6dp1ylgr81.png' alt='Minecraft Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a3y6dp1ylgr81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?auto=webp&s=f3d006f55fa800888962ac1338c32e7df2e3f7a3' alt='Minecraft Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-piece-of-nature-from-my-survival-world-v0-ulm4cu7ftxde1.png?auto=webp&s=f3d006f55fa800888962ac1338c32e7df2e3f7a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/here-are-some-wallpapaer-i-made-fell-free-to-share-ideas-of-v0-j4b6mhrutqhb1.png?width=640&crop=smart&auto=webp&s=3295022b56c0e5bb79e6a7a1526d3f5db9686297' alt='Minecraft Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/here-are-some-wallpapaer-i-made-fell-free-to-share-ideas-of-v0-j4b6mhrutqhb1.png?width=640&crop=smart&auto=webp&s=3295022b56c0e5bb79e6a7a1526d3f5db9686297' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Castle at Sunset - HD Wallpaper by skrufor">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/286/thumb-1920-286264.jpg' alt='Minecraft Castle at Sunset - HD Wallpaper by skrufor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/286/thumb-1920-286264.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Minecraft-PS4-Wallpapers-15.jpg' alt='Minecraft Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Minecraft-PS4-Wallpapers-15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A wallpaper... or something! : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=640&crop=smart&auto=webp&s=acf7253d86daaa396d65fc20d2dabd90ee4d1658' alt='A wallpaper... or something! : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=640&crop=smart&auto=webp&s=acf7253d86daaa396d65fc20d2dabd90ee4d1658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft – The Best Desktop Wallpapers To Use | Videogame Guides">
+                                <img itemprop="contentUrl url" src='https://videogameguidesdotcom.wordpress.com/wp-content/uploads/2020/11/screenshot-2020-11-07-at-4.58.07-pm-e1604764715240.png' alt='Minecraft – The Best Desktop Wallpapers To Use | Videogame Guides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videogame Guides - WordPress.com" />
+                                </span>
+                                <a href='https://videogameguidesdotcom.wordpress.com/wp-content/uploads/2020/11/screenshot-2020-11-07-at-4.58.07-pm-e1604764715240.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/p88dciey8in91.jpg?width=640&crop=smart&auto=webp&s=69c30f26b35749068a5c545c5250d648d5e4537c' alt='Minecraft Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/p88dciey8in91.jpg?width=640&crop=smart&auto=webp&s=69c30f26b35749068a5c545c5250d648d5e4537c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Minecraft Soothing Scenes">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Minecraft Soothing Scenes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

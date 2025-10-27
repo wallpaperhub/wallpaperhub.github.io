@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="georgia tech logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/georgia-tech-logo">
+                            <span itemprop="name">georgia tech logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logos | Brand Guide">
+                                <img itemprop="contentUrl url" src='https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png' alt='Logos | Brand Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Tech | Brand Guide" />
+                                </span>
+                                <a href='https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Georgia Tech Yellow Jackets logo.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/2560px-Georgia_Tech_Yellow_Jackets_logo.svg.png' alt='File:Georgia Tech Yellow Jackets logo.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/2560px-Georgia_Tech_Yellow_Jackets_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logos | Brand Guide">
+                                <img itemprop="contentUrl url" src='https://brand.gatech.edu/sites/default/files/inline-images/gt-seal_0.png' alt='Logos | Brand Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Tech | Brand Guide" />
+                                </span>
+                                <a href='https://brand.gatech.edu/sites/default/files/inline-images/gt-seal_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brand Identity">
+                                <img itemprop="contentUrl url" src='x-raw-image:///f231b4780174e0be91c3ef4672c67f7fce7f5edb4dcbe113648edc49f2ba335f' alt='Brand Identity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Tech | Brand Guide" />
+                                </span>
+                                <a href='x-raw-image:///f231b4780174e0be91c3ef4672c67f7fce7f5edb4dcbe113648edc49f2ba335f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Tech Yellow Jackets Logo and symbol, meaning, history, PNG ...">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2021/06/Georgia-Tech-Yellow-Jackets-logo.png' alt='Georgia Tech Yellow Jackets Logo and symbol, meaning, history, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2021/06/Georgia-Tech-Yellow-Jackets-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Tech Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/52/2/georgia-tech-yellow-jackets-logo-png_seeklogo-527918.png' alt='Georgia Tech Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/52/2/georgia-tech-yellow-jackets-logo-png_seeklogo-527918.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logos | Brand Guide">
+                                <img itemprop="contentUrl url" src='https://brand.gatech.edu/sites/default/files/inline-images/clearspace-extended.png' alt='Logos | Brand Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Tech | Brand Guide" />
+                                </span>
+                                <a href='https://brand.gatech.edu/sites/default/files/inline-images/clearspace-extended.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Tech Rebrand — Mark Ziemer • Design and Art Direction">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/530175eae4b02368396cb720/1641424247213-14OM17ZJHUKL1DD6ESN0/gt_logo-02.png' alt='Georgia Tech Rebrand — Mark Ziemer • Design and Art Direction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2251">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mark Ziemer" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/530175eae4b02368396cb720/1641424247213-14OM17ZJHUKL1DD6ESN0/gt_logo-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Tech Yellow Jackets Logo - Secondary Logo - NCAA Division ...">
+                                <img itemprop="contentUrl url" src='https://content.sportslogos.net/logos/31/690/full/georgia_tech_yellow_jackets_logo_secondary_19854075.png' alt='Georgia Tech Yellow Jackets Logo - Secondary Logo - NCAA Division ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="823">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SportsLogos.Net" />
+                                </span>
+                                <a href='https://content.sportslogos.net/logos/31/690/full/georgia_tech_yellow_jackets_logo_secondary_19854075.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Tech Yellow Jackets Cutout Sign">
+                                <img itemprop="contentUrl url" src='https://ramblinwreckstore.com/cdn/shop/products/GTYJNV504000.jpg?v=1624994047' alt='Georgia Tech Yellow Jackets Cutout Sign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Georgia Tech Team Store" />
+                                </span>
+                                <a href='https://ramblinwreckstore.com/cdn/shop/products/GTYJNV504000.jpg?v=1624994047' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>WWE SmackDown: The Ultimate Wrestling Showdown</title>
+                    <meta name="description" content="Explore the thrilling world of WWE SmackDown, where fierce rivalries and jaw-dropping matches come to life. Discover the latest news, superstar highlights, and unforgettable moments from one of professional wrestling's most iconic brands. Join the excitement today!">
+                    <meta name="keywords" content="smackdown background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/smackdown-background">
+                            <span itemprop="name">smackdown background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WWE SmackDown: The Ultimate Wrestling Showdown</h1>
+                <p>SmackDown, a key brand in WWE since its inception in 1999, has redefined professional wrestling with its electrifying matches and compelling storylines. Launched as a weekly television show, it showcases superstars in action-packed events, featuring rivalries and championship bouts, making it a fan-favorite around the globe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmackDown Background Preview V3 by WWECUSTOMGRAPHICS on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8c7d60c-0f46-4cb3-9faf-036c565371f4/dfgziu0-579ae403-c146-4ebb-b601-bf58aa1c938a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YzdkNjBjLTBmNDYtNGNiMy05ZmFmLTAzNmM1NjUzNzFmNFwvZGZneml1MC01NzlhZTQwMy1jMTQ2LTRlYmItYjYwMS1iZjU4YWExYzkzOGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sBtuP33rntPz1ZX1jFfsHnv0lxxBcwqoOjBshlagSbU' alt='SmackDown Background Preview V3 by WWECUSTOMGRAPHICS on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8c7d60c-0f46-4cb3-9faf-036c565371f4/dfgziu0-579ae403-c146-4ebb-b601-bf58aa1c938a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YzdkNjBjLTBmNDYtNGNiMy05ZmFmLTAzNmM1NjUzNzFmNFwvZGZneml1MC01NzlhZTQwMy1jMTQ2LTRlYmItYjYwMS1iZjU4YWExYzkzOGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sBtuP33rntPz1ZX1jFfsHnv0lxxBcwqoOjBshlagSbU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Smackdown custom background by RomanCurry63 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0630710e-5f6b-4dd7-910c-cb548a8fe219/ded1dx5-bac25beb-bd5a-44b0-b3ce-1d3a356a2a1b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MzA3MTBlLTVmNmItNGRkNy05MTBjLWNiNTQ4YThmZTIxOVwvZGVkMWR4NS1iYWMyNWJlYi1iZDVhLTQ0YjAtYjNjZS0xZDNhMzU2YTJhMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sBBMQRBCw6Y6vJ1MVh-Y8JCPCE7TGxMjimvhj3iKaIM' alt='Friday Night Smackdown custom background by RomanCurry63 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0630710e-5f6b-4dd7-910c-cb548a8fe219/ded1dx5-bac25beb-bd5a-44b0-b3ce-1d3a356a2a1b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MzA3MTBlLTVmNmItNGRkNy05MTBjLWNiNTQ4YThmZTIxOVwvZGVkMWR4NS1iYWMyNWJlYi1iZDVhLTQ0YjAtYjNjZS0xZDNhMzU2YTJhMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sBBMQRBCw6Y6vJ1MVh-Y8JCPCE7TGxMjimvhj3iKaIM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New WWE Money in the Bank, Raw, SmackDown and NXT backdrops for ...">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/gallery_img_ml/public/all/2020/04/WWEBackdrops_SDrev--eb5a9531565a08f16c261d118855a274.jpg' alt='New WWE Money in the Bank, Raw, SmackDown and NXT backdrops for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/gallery_img_ml/public/all/2020/04/WWEBackdrops_SDrev--eb5a9531565a08f16c261d118855a274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smackdown Match Card Background 2019-2021 by MackDanger1000000000 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6bed05fb-8ffb-4996-8575-1b9c179251cf/dfayvla-c0dc380b-3acb-4761-a73a-696e095f0464.png/v1/fill/w_1280,h_720,q_80,strp/smackdown_match_card_background_2019_2021_by_mackdanger1000000000_dfayvla-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNmJlZDA1ZmItOGZmYi00OTk2LTg1NzUtMWI5YzE3OTI1MWNmXC9kZmF5dmxhLWMwZGMzODBiLTNhY2ItNDc2MS1hNzNhLTY5NmUwOTVmMDQ2NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kZHK2AFp88T5Ol9JorNQeJmcQ7L2xiUJHVSjF4bRUKI' alt='Smackdown Match Card Background 2019-2021 by MackDanger1000000000 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6bed05fb-8ffb-4996-8575-1b9c179251cf/dfayvla-c0dc380b-3acb-4761-a73a-696e095f0464.png/v1/fill/w_1280,h_720,q_80,strp/smackdown_match_card_background_2019_2021_by_mackdanger1000000000_dfayvla-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNmJlZDA1ZmItOGZmYi00OTk2LTg1NzUtMWI5YzE3OTI1MWNmXC9kZmF5dmxhLWMwZGMzODBiLTNhY2ItNDc2MS1hNzNhLTY5NmUwOTVmMDQ2NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kZHK2AFp88T5Ol9JorNQeJmcQ7L2xiUJHVSjF4bRUKI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE SmackDown Gets Major Upgrade for 2025">
+                                <img itemprop="contentUrl url" src='https://www.vice.com/wp-content/uploads/sites/2/2024/12/wwe-smackdown-logo.jpeg' alt='WWE SmackDown Gets Major Upgrade for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICE" />
+                                </span>
+                                <a href='https://www.vice.com/wp-content/uploads/sites/2/2024/12/wwe-smackdown-logo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wwe Smackdown Logo On A Blue Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/smackdown-7ymsfhvwgu3p5nux.jpg' alt='Download Wwe Smackdown Logo On A Blue Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/smackdown-7ymsfhvwgu3p5nux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmackDown 1 by MackDanger1000000000 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6bed05fb-8ffb-4996-8575-1b9c179251cf/df76pka-004aeff9-e0e0-4139-b9b9-3db4a440f205.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiZWQwNWZiLThmZmItNDk5Ni04NTc1LTFiOWMxNzkyNTFjZlwvZGY3NnBrYS0wMDRhZWZmOS1lMGUwLTQxMzktYjliOS0zZGI0YTQ0MGYyMDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dsLGNtw1couiXkcuTFeT_4TiPxiuTAXey6M2sxP0B7k' alt='SmackDown 1 by MackDanger1000000000 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6bed05fb-8ffb-4996-8575-1b9c179251cf/df76pka-004aeff9-e0e0-4139-b9b9-3db4a440f205.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiZWQwNWZiLThmZmItNDk5Ni04NTc1LTFiOWMxNzkyNTFjZlwvZGY3NnBrYS0wMDRhZWZmOS1lMGUwLTQxMzktYjliOS0zZGI0YTQ0MGYyMDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dsLGNtw1couiXkcuTFeT_4TiPxiuTAXey6M2sxP0B7k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night SmackDown Results, News, Video & Photos | WWE">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/shows_header_xl/public/all/2024/09/20240913_SD_GlobalHeader_(1)--dfff4bb0b98849ec51973605414563b4.jpg' alt='Friday Night SmackDown Results, News, Video & Photos | WWE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/shows_header_xl/public/all/2024/09/20240913_SD_GlobalHeader_(1)--dfff4bb0b98849ec51973605414563b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Last brand of my Universe Mode. Smackdown hits again on fridays ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cdq0pp6ipsq81.jpg?width=1000&format=pjpg&auto=webp&s=0728a61b88f6990c8d138ef23034730fb04b9fa4' alt='Last brand of my Universe Mode. Smackdown hits again on fridays ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cdq0pp6ipsq81.jpg?width=1000&format=pjpg&auto=webp&s=0728a61b88f6990c8d138ef23034730fb04b9fa4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmackDown Live 2018 Background by ThePhenomenalSeth on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3524829-42a4-4aea-b2d6-6aea06a6c1b8/dcnf1il-64ccc9fa-9ced-490d-9bc2-de362d35a86d.png/v1/fill/w_1024,h_576,q_80,strp/smackdown_live_2018_background_by_thephenomenalseth_dcnf1il-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYjM1MjQ4MjktNDJhNC00YWVhLWIyZDYtNmFlYTA2YTZjMWI4XC9kY25mMWlsLTY0Y2NjOWZhLTljZWQtNDkwZC05YmMyLWRlMzYyZDM1YTg2ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.My0jSCKUXl2bfwtqgkYLdS6BLom8PkSz1iFY0tKqiQQ' alt='SmackDown Live 2018 Background by ThePhenomenalSeth on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3524829-42a4-4aea-b2d6-6aea06a6c1b8/dcnf1il-64ccc9fa-9ced-490d-9bc2-de362d35a86d.png/v1/fill/w_1024,h_576,q_80,strp/smackdown_live_2018_background_by_thephenomenalseth_dcnf1il-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYjM1MjQ4MjktNDJhNC00YWVhLWIyZDYtNmFlYTA2YTZjMWI4XC9kY25mMWlsLTY0Y2NjOWZhLTljZWQtNDkwZC05YmMyLWRlMzYyZDM1YTg2ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.My0jSCKUXl2bfwtqgkYLdS6BLom8PkSz1iFY0tKqiQQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

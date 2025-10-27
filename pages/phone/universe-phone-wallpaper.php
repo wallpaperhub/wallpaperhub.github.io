@@ -1,0 +1,129 @@
+<title>Vibrant Universe Phone Wallpapers for Cosmic Dreamers</title>
+                    <meta name="description" content="Discover a stunning collection of universe phone wallpapers featuring galaxies, stars, and cosmic wonders. Perfect for adding a touch of celestial beauty to your device, these wallpapers inspire awe and imagination. Elevate your smartphone experience with vibrant and high-quality cosmic imagery today!">
+                    <meta name="keywords" content="universe phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/universe-phone-wallpaper">
+                            <span itemprop="name">universe phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Universe Phone Wallpapers for Cosmic Dreamers</h1>
+                <p>Transform your device with stunning universe phone wallpapers! Explore captivating images of galaxies, stars, and cosmic wonders that will inspire your imagination and bring a piece of the universe to your screen. Perfect for stargazers and dreamers alike, these high-quality wallpapers will add a celestial touch to your daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Colored Space Nebula iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/be/fa/a5befa6d9244f0687fe32db5f0da8c5b.jpg' alt='Beautiful Colored Space Nebula iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/be/fa/a5befa6d9244f0687fe32db5f0da8c5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Phone Wallpapers | Free HD Images, Vectors and PSDs- rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BkMzYtMS1nc2ZjXzIwMTcxMjA4X2FyY2hpdmVfZTAwMTY1MS0xLmpwZw.jpg' alt='Space Phone Wallpapers | Free HD Images, Vectors and PSDs- rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BkMzYtMS1nc2ZjXzIwMTcxMjA4X2FyY2hpdmVfZTAwMTY1MS0xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 397+ Space Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF0Nhv2EL8/1/0/900w/canva-a-new-era-of-me-galaxy-phone-wallpaper-dD87nw0Lv3w.jpg' alt='Customize 397+ Space Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF0Nhv2EL8/1/0/900w/canva-a-new-era-of-me-galaxy-phone-wallpaper-dD87nw0Lv3w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?width=1080&crop=smart&auto=webp&s=60960dcde01f12e3d50ca1b3b17c311385b92d9c' alt='I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?width=1080&crop=smart&auto=webp&s=60960dcde01f12e3d50ca1b3b17c311385b92d9c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Galaxy, cosmos, space, stars, galaxy, galaxy, night, sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/391/411/HD-wallpaper-night-galaxy-cosmos-espacio-estrellas-galaxia-galaxy-night-sky-space-stars-universe.jpg' alt='Night Galaxy, cosmos, space, stars, galaxy, galaxy, night, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/391/411/HD-wallpaper-night-galaxy-cosmos-espacio-estrellas-galaxia-galaxy-night-sky-space-stars-universe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Space Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-phone-background-y4j2wi52qlj8udnw.jpg' alt='100+] Space Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-phone-background-y4j2wi52qlj8udnw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Phone Wallpapers | Free HD Images, Vectors and PSDs- rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYWtlLTAwMS5qcGc.jpg' alt='Space Phone Wallpapers | Free HD Images, Vectors and PSDs- rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYWtlLTAwMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In The Cosmos: A Universe Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/26/bf/e326bfdcc2b7ecef17644867b9e5038c.jpg' alt='Lost In The Cosmos: A Universe Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/26/bf/e326bfdcc2b7ecef17644867b9e5038c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universe Wallpapers (48 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/4/0/2104862-1536x2560-iphone-hd-universe-background.jpg' alt='Universe Wallpapers (48 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/4/0/2104862-1536x2560-iphone-hd-universe-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Universe Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/universe-iphone-i7aut70xd7t8vnfw.jpg' alt='100+] Universe Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/universe-iphone-i7aut70xd7t8vnfw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

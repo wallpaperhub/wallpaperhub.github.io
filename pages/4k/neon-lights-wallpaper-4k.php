@@ -1,0 +1,129 @@
+<title>Vibrant 4K Neon Lights Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover amazing 4K neon lights wallpaper to elevate your decor. Perfect for homes, offices, or gaming spaces, these vivid designs bring energy and style to any room. Explore our collection and find the ideal neon aesthetic to transform your environment and make a bold statement!">
+                    <meta name="keywords" content="neon lights wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/neon-lights-wallpaper-4k">
+                            <span itemprop="name">neon lights wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Neon Lights Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning neon lights wallpaper in 4K resolution. Ideal for creating an electrifying atmosphere, these vibrant designs are perfect for home decor, gaming setups, or events. Experience the vivid glow and energetic vibes that neon lights bring to your walls and elevate your environment with a modern flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Wallpaper HD / Neon Background 4K">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71meY6dAvjL.jpg' alt='Neon Wallpaper HD / Neon Background 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71meY6dAvjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+] Neon Lights Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-lights-jabvk7ta2tu43041.jpg' alt='900+] Neon Lights Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-lights-jabvk7ta2tu43041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Photos, Download The BEST Free Neon Lights Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1080953/pexels-photo-1080953.jpeg?cs=srgb&dl=pexels-falling4utah-1080953.jpg&fm=jpg' alt='Neon Lights Photos, Download The BEST Free Neon Lights Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1080953/pexels-photo-1080953.jpeg?cs=srgb&dl=pexels-falling4utah-1080953.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dreams: Pink Neon 4K Ultra HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/138/1381646.png' alt='Neon Dreams: Pink Neon 4K Ultra HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4072">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/138/1381646.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Background 4k Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-neon-lights-background_23-2150710764.jpg' alt='Neon Background 4k Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-neon-lights-background_23-2150710764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cycled 3d Animation Abstract Background Ascending">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1099012349/thumb/1.jpg?ip=x480' alt='Cycled 3d Animation Abstract Background Ascending'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1099012349/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Neon Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-neon-iphone-circle-reflection-nma4va9h1spyheji.jpg' alt='4k Neon Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-neon-iphone-circle-reflection-nma4va9h1spyheji.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer Wallpaper 4K, Neon Lights, Colorful">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/razer-neon-lights-colorful-dark-background-1920x1200-4453.jpg' alt='Razer Wallpaper 4K, Neon Lights, Colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/razer-neon-lights-colorful-dark-background-1920x1200-4453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Neon Iphone Blue Lights In Wall Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/4k-neon-iphone-light-cubes-qmgeowrrj946t1n2.webp' alt='4k Neon Iphone Blue Lights In Wall Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/4k-neon-iphone-light-cubes-qmgeowrrj946t1n2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cycled 3d Animation Abstract Minimalist Geometric">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1108763897/thumb/11.jpg?ip=x480' alt='Cycled 3d Animation Abstract Minimalist Geometric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1108763897/thumb/11.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Checkered Wallpaper</title>
+                    <meta name="description" content="Add a splash of joy to your home with yellow checkered wallpaper. This delightful design not only enhances your decor but also creates a lively atmosphere. Ideal for kitchens and children’s rooms, it’s a perfect blend of style and warmth. Transform your space effortlessly!">
+                    <meta name="keywords" content="yellow checkered wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-checkered-wallpaper">
+                            <span itemprop="name">yellow checkered wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Checkered Wallpaper</h1>
+                <p>Yellow checkered wallpaper brings a cheerful, vibrant touch to any space. Its playful pattern can brighten up a room, providing a retro or farmhouse aesthetic. Perfect for kitchens, dining areas, or playrooms, this wallpaper creates a warm and inviting atmosphere. Enhance your decor with this charming design and enjoy its timeless appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Willa Check Yellow Wallpaper | Samples">
+                                <img itemprop="contentUrl url" src='https://images.ladesignconcepts.com/schumacher/5012363.jpg' alt='Schumacher Willa Check Yellow Wallpaper | Samples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://images.ladesignconcepts.com/schumacher/5012363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow checkered wallpaper I made!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/14/c2/f414c279e8287a2426af4baac9035c64.jpg' alt='Yellow checkered wallpaper I made!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/14/c2/f414c279e8287a2426af4baac9035c64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Sofia Plaid' Wallpaper by Wallshoppe - Yellow">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Sofia_Plaid_forweb_yellow_A_981e30ab-726e-49e0-8605-0853f8509a74_720x.jpg?v=1633378309' alt=''Sofia Plaid' Wallpaper by Wallshoppe - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Sofia_Plaid_forweb_yellow_A_981e30ab-726e-49e0-8605-0853f8509a74_720x.jpg?v=1633378309' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Retro Groovy Checkered Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/46901/yellow_retro_groovy_checkered_masked.jpg' alt='Yellow Retro Groovy Checkered Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/46901/yellow_retro_groovy_checkered_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buttercup Yellow Buffalo Check Wallpaper WW2226">
+                                <img itemprop="contentUrl url" src='https://wallabywalls.com/cdn/shop/files/il_fullxfull.3825727432_q975_28e70034-b66a-4afe-b267-4bd4929644b0_1500x.jpg?v=1734037572' alt='Buttercup Yellow Buffalo Check Wallpaper WW2226'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallaby Walls" />
+                                </span>
+                                <a href='https://wallabywalls.com/cdn/shop/files/il_fullxfull.3825727432_q975_28e70034-b66a-4afe-b267-4bd4929644b0_1500x.jpg?v=1734037572' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow gingham">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/yellow-gingham-pattern-repeat-removable-wallpaper-design.jpg' alt='Yellow gingham'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/yellow-gingham-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Retro Checkerboard Checkered ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51u6429PvgL.jpg' alt='Peel & Stick Wallpaper Swatch - Retro Checkerboard Checkered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51u6429PvgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute yellow checkerboard checkered gingham plaid ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-yellow-checkerboard-checkered-gingham-plaid-tartan-pattern-background-perfect-wallpaper_565280-417.jpg' alt='Premium Vector | Cute yellow checkerboard checkered gingham plaid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-yellow-checkerboard-checkered-gingham-plaid-tartan-pattern-background-perfect-wallpaper_565280-417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Yellow Wallpaper Sample">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/files/dekornik_wallpaper_check_yellow.jpg?v=1728212915' alt='Check Yellow Wallpaper Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/files/dekornik_wallpaper_check_yellow.jpg?v=1728212915' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Check Pattern Wallpaper Image | ILLUSTLIVE">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/159.png' alt='Yellow Check Pattern Wallpaper Image | ILLUSTLIVE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/159.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

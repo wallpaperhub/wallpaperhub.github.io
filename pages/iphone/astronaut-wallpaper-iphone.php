@@ -1,0 +1,129 @@
+<title>Stunning Astronaut Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover captivating astronaut wallpapers for your iPhone! Explore vibrant, high-quality images that bring the beauty of space to your device. Perfect for space lovers, our collection will transform your home screen and inspire your adventures among the stars. Download now to elevate your smartphone experience!">
+                    <meta name="keywords" content="astronaut wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/astronaut-wallpaper-iphone">
+                            <span itemprop="name">astronaut wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Astronaut Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning astronaut wallpapers that spark awe and inspiration. Explore the cosmos right from your home screen! Featuring vibrant images of astronauts in stunning space settings, these wallpapers are perfect for space enthusiasts. Download your favorite and let your adventures in outer space begin!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Astronaut Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/astronaut-iphone-zsllht9gja1bd2dq.jpg' alt='100+] Astronaut Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/astronaut-iphone-zsllht9gja1bd2dq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ea/d0/a6/ead0a66d39e73f5ea058a13b372f04a8.jpg' alt='Astronaut wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ea/d0/a6/ead0a66d39e73f5ea058a13b372f04a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist Mobile Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/53/c3/0053c336fc0a81a847649065edfc0fdc.jpg' alt='50+ Minimalist Mobile Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/53/c3/0053c336fc0a81a847649065edfc0fdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/astronaut-iphone-yoa0klj7fvnqp0ou.jpg' alt='Astronaut wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/astronaut-iphone-yoa0klj7fvnqp0ou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Explorer - Astronaut In Dark Iphone Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/space-explorer-astronaut-in-dark-iphone-wallpaper-4wjwsf1jo5fxp57h.webp' alt='Space Explorer - Astronaut In Dark Iphone Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/space-explorer-astronaut-in-dark-iphone-wallpaper-4wjwsf1jo5fxp57h.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Astronaut Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/astronaut-iphone-k6s2mbp05g1h0k3v.jpg' alt='100+] Astronaut Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/astronaut-iphone-k6s2mbp05g1h0k3v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut, apple, black, iphone, minimal, oled, space, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/952/925/HD-wallpaper-astronaut-apple-black-iphone-minimal-oled-space.jpg' alt='Astronaut, apple, black, iphone, minimal, oled, space, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/952/925/HD-wallpaper-astronaut-apple-black-iphone-minimal-oled-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insomniac Wallpaper Dump">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/b6/c7/23b6c7a2f0ca130dc36fb31478511392.jpg' alt='Insomniac Wallpaper Dump'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/b6/c7/23b6c7a2f0ca130dc36fb31478511392.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.mindffatigue.ca/cdn/shop/files/iPhone-15_Science-Wallpaper_8b3a5683-c20e-4946-ad41-6ed222e1115d.jpg?v=1722790637&width=1179' alt='Astronaut Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mind F Fatigue Clothing Brand" />
+                                </span>
+                                <a href='https://www.mindffatigue.ca/cdn/shop/files/iPhone-15_Science-Wallpaper_8b3a5683-c20e-4946-ad41-6ed222e1115d.jpg?v=1722790637&width=1179' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traveling space astronaut wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2024/08/Sitting-on-a-planet-astronaut-rajjaryaa.jpeg' alt='Traveling space astronaut wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2315">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2024/08/Sitting-on-a-planet-astronaut-rajjaryaa.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

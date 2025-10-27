@@ -1,0 +1,129 @@
+<title>Stunning Butterfly Nebula Wallpaper for Cosmic Decor</title>
+                    <meta name="description" content="Discover breathtaking butterfly nebula wallpaper that adds a cosmic touch to your home. Ideal for creating an inspiring atmosphere, this vibrant decor choice enhances any room with the captivating beauty of the universe. Explore our collection for your perfect celestial design today!">
+                    <meta name="keywords" content="butterfly nebula wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/butterfly-nebula-wallpaper">
+                            <span itemprop="name">butterfly nebula wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Butterfly Nebula Wallpaper for Cosmic Decor</h1>
+                <p>Transform your space with stunning butterfly nebula wallpaper! Capture the celestial beauty of this vibrant cosmic phenomenon, featuring mesmerizing colors and intricate patterns. Perfect for any room, these wallpapers bring the wonders of the universe right into your home, inspiring awe and creativity while adding a unique touch to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NGC 6302 | ESA/Hubble">
+                                <img itemprop="contentUrl url" src='https://cdn.esahubble.org/archives/images/wallpaper5/heic2011b.jpg' alt='NGC 6302 | ESA/Hubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESA/Hubble" />
+                                </span>
+                                <a href='https://cdn.esahubble.org/archives/images/wallpaper5/heic2011b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Butterfly Nebula - NASA">
+                                <img itemprop="contentUrl url" src='https://www.nasa.gov/wp-content/uploads/2023/03/754349main_butterfly_nebula_full_full.jpg?w=1041' alt='The Butterfly Nebula - NASA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1041">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA" />
+                                </span>
+                                <a href='https://www.nasa.gov/wp-content/uploads/2023/03/754349main_butterfly_nebula_full_full.jpg?w=1041' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Nebula" Images – Browse 72 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/08/85/17/360_F_408851774_Am1cuklZKhCMOP0iQg6YIfbwisovJ2lJ.jpg' alt='Butterfly Nebula" Images – Browse 72 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/08/85/17/360_F_408851774_Am1cuklZKhCMOP0iQg6YIfbwisovJ2lJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Nebula">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/857x1200/displate/2021-06-28/863bafa943684c42e2a8c7480d6612b5_22aa5a92b53c406f9b1a5cda24011d4a.jpg' alt='Butterfly Nebula'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/857x1200/displate/2021-06-28/863bafa943684c42e2a8c7480d6612b5_22aa5a92b53c406f9b1a5cda24011d4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NGC 6302: The "Butterfly Nebula" | HubbleSite">
+                                <img itemprop="contentUrl url" src='https://stsci-opo.org/STScI-01EVSTBKCN79P23SD62DH80SKK.png' alt='NGC 6302: The "Butterfly Nebula" | HubbleSite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubbleSite" />
+                                </span>
+                                <a href='https://stsci-opo.org/STScI-01EVSTBKCN79P23SD62DH80SKK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW N2 BLUE BUTTERFLY NEBULA HUBBLE SPACE PHOTO HOME ART PRINT PREMIUM  POSTER">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/WxMAAOSwceNZQK6L/s-l1200.jpg' alt='NEW N2 BLUE BUTTERFLY NEBULA HUBBLE SPACE PHOTO HOME ART PRINT PREMIUM  POSTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/WxMAAOSwceNZQK6L/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My latest painting of the Butterfly Nebula (in acrylics) : r/Art">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/vRD6K.jpg' alt='My latest painting of the Butterfly Nebula (in acrylics) : r/Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2841">
+                                <meta itemprop="height" content="2136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/vRD6K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Nebula 1600x1200 - Stars & Space Background Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1481/1481587-bigthumbnail.jpg' alt='Butterfly Nebula 1600x1200 - Stars & Space Background Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1481/1481587-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NGC 6302 Planetary Nebula (more popularly called the Bug Nebula or the  Butterfly Nebula) in Space. Elements of this Video furnished by NASA.">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/78/42/76/360_F_578427628_bSz7MwnwT0fQHTsOAw9FoZ72iCYAUmA8.jpg' alt='NGC 6302 Planetary Nebula (more popularly called the Bug Nebula or the  Butterfly Nebula) in Space. Elements of this Video furnished by NASA.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/78/42/76/360_F_578427628_bSz7MwnwT0fQHTsOAw9FoZ72iCYAUmA8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solve NGC 6302, Cosmic Wings jigsaw puzzle online with 54 pieces">
+                                <img itemprop="contentUrl url" src='https://cdn1.jigidi.com/thumbs/YUPLKQPE/l' alt='Solve NGC 6302, Cosmic Wings jigsaw puzzle online with 54 pieces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="238">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jigidi" />
+                                </span>
+                                <a href='https://cdn1.jigidi.com/thumbs/YUPLKQPE/l' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

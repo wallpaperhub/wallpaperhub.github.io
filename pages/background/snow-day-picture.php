@@ -1,0 +1,129 @@
+<title>Perfect Snow Day: Capture the Magic</title>
+                    <meta name="description" content="Discover the magic of a snow day! Capture beautiful moments of winter fun with kids playing in the snow, building snowmen, and enjoying the season. Uncover tips for taking the perfect snow day picture and make lasting memories today!">
+                    <meta name="keywords" content="snow day picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/snow-day-picture">
+                            <span itemprop="name">snow day picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Snow Day: Capture the Magic</h1>
+                <p>On a snow day, the world transforms into a picturesque winter wonderland. Fluffy white snow blankets the ground, covering trees and rooftops, creating a serene landscape. Kids bundle up, laughing as they build snowmen, have snowball fights, and slide down hills on sleds. Capture these joyful moments—each photo tells a story of winter fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Day Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1589218112660-81ef972e89e3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25vdyUyMGRheXxlbnwwfHwwfHx8MA%3D%3D' alt='Snow Day Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1589218112660-81ef972e89e3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25vdyUyMGRheXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Save Snow Days! - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/05/06/opinion/06goldberg-lead/06goldberg-lead-superJumbo-v2.jpg' alt='Opinion | Save Snow Days! - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/05/06/opinion/06goldberg-lead/06goldberg-lead-superJumbo-v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Day, 2/25/22 | Hemlock Public School District">
+                                <img itemprop="contentUrl url" src='https://core-docs.s3.us-east-1.amazonaws.com/hemlock_public_schools_ar/article/image/large_fbe66be6-7869-434e-b2f6-4ac7021af2a4.jpg' alt='Snow Day, 2/25/22 | Hemlock Public School District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hemlock Public School District" />
+                                </span>
+                                <a href='https://core-docs.s3.us-east-1.amazonaws.com/hemlock_public_schools_ar/article/image/large_fbe66be6-7869-434e-b2f6-4ac7021af2a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace snow days | Women AdvaNCe">
+                                <img itemprop="contentUrl url" src='https://www.womenadvancenc.org/wp-content/uploads/2018/12/snow-day.jpg' alt='Embrace snow days | Women AdvaNCe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women AdvaNCe" />
+                                </span>
+                                <a href='https://www.womenadvancenc.org/wp-content/uploads/2018/12/snow-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Day Reflections">
+                                <img itemprop="contentUrl url" src='https://typewriter.imgix.net/u/8613a773-1642-4779-be31-19fdaa4a90b5/p/85396/snow_day.jpg?ixlib=rails-4.3.1&w=1000&fit=crop&auto=format%2Ccompress&crop=faces' alt='Snow Day Reflections'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elmwood Day Camp" />
+                                </span>
+                                <a href='https://typewriter.imgix.net/u/8613a773-1642-4779-be31-19fdaa4a90b5/p/85396/snow_day.jpg?ixlib=rails-4.3.1&w=1000&fit=crop&auto=format%2Ccompress&crop=faces' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Snow Day Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/480196309/photo/us-capitol-snow-sled.jpg?s=612x612&w=0&k=20&c=y3VPGboGyDPzAWLIKF1Qt5Ps3UB-wTEGRjJZPPkj58s=' alt='1,100+ Snow Day Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/480196309/photo/us-capitol-snow-sled.jpg?s=612x612&w=0&k=20&c=y3VPGboGyDPzAWLIKF1Qt5Ps3UB-wTEGRjJZPPkj58s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo gallery: Snow day in Michigan">
+                                <img itemprop="contentUrl url" src='https://ewscripps.brightspotcdn.com/dims4/default/f6e6f06/2147483647/strip/true/crop/1440x1080+0+0/resize/1440x1080!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2Fa5%2F3b6e3a8f4606859d37c23454a761%2Fpic-22.jpeg' alt='Photo gallery: Snow day in Michigan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WXYZ" />
+                                </span>
+                                <a href='https://ewscripps.brightspotcdn.com/dims4/default/f6e6f06/2147483647/strip/true/crop/1440x1080+0+0/resize/1440x1080!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2Fa5%2F3b6e3a8f4606859d37c23454a761%2Fpic-22.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why snow days are good for you — and how science is on your side">
+                                <img itemprop="contentUrl url" src='https://www.columbiatribune.com/gcdn/presto/2022/02/03/NCDT/224f5258-5204-4c57-9389-4cd2fe8e6c3c-20220202_243A_Snowstorm_Wednesday_ds.jpg?crop=1943,1458,x0,y0' alt='Why snow days are good for you — and how science is on your side'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1943">
+                                <meta itemprop="height" content="1458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Columbia Daily Tribune" />
+                                </span>
+                                <a href='https://www.columbiatribune.com/gcdn/presto/2022/02/03/NCDT/224f5258-5204-4c57-9389-4cd2fe8e6c3c-20220202_243A_Snowstorm_Wednesday_ds.jpg?crop=1943,1458,x0,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="395,343 Snowy Day Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/snowy-trees-city-park-sunny-day-white-background-132778541.jpg' alt='395,343 Snowy Day Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/snowy-trees-city-park-sunny-day-white-background-132778541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven Rituals to Try When You Want a Snow Day">
+                                <img itemprop="contentUrl url" src='https://grandpashorters.com/wp-content/uploads/2022/01/GettyImages-1277114647-1024x683.jpg' alt='Seven Rituals to Try When You Want a Snow Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grandpa Shorter's" />
+                                </span>
+                                <a href='https://grandpashorters.com/wp-content/uploads/2022/01/GettyImages-1277114647-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

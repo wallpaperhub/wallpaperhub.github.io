@@ -1,0 +1,129 @@
+<title>Unlock Your Potential with GroupOne</title>
+                    <meta name="description" content="Discover GroupOne, where collaboration meets innovation. Join a vibrant community dedicated to teamwork, creativity, and personal growth. Engage in projects that challenge and inspire you, and unlock your full potential today!">
+                    <meta name="keywords" content="groupone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groupone">
+                            <span itemprop="name">groupone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Your Potential with GroupOne</h1>
+                <p>GroupOne is an innovative collective that embodies teamwork and collaboration. By bringing together diverse talents and perspectives, GroupOne fosters creativity, drives success, and promotes a supportive environment. Members can participate in various projects and activities, enhancing personal growth and collective achievement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - GroupOne Insurance">
+                                <img itemprop="contentUrl url" src='https://grouponeis.com/wp-content/uploads/Groupone-logo.svg' alt='Home - GroupOne Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="grouponeis.com" />
+                                </span>
+                                <a href='https://grouponeis.com/wp-content/uploads/Groupone-logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GroupOne Background Screening Services | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E0BAQFoE-zfw7ktDA/company-logo_200_200/company-logo_200_200/0/1630603513287/groupone_services_logo?e=2147483647&v=beta&t=9SsiV_r26nUqjsnIdyEpCYMz0854dYOCByvTWAnEfgE' alt='GroupOne Background Screening Services | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E0BAQFoE-zfw7ktDA/company-logo_200_200/company-logo_200_200/0/1630603513287/groupone_services_logo?e=2147483647&v=beta&t=9SsiV_r26nUqjsnIdyEpCYMz0854dYOCByvTWAnEfgE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GroupOne LLC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E0BAQFEAmWYzRT6fw/company-logo_200_200/company-logo_200_200/0/1724190532250/groupone_llc_logo?e=2147483647&v=beta&t=n9HAPbWLijxWHAnPhmuqtN_r_B7o39qTx8N_vwTsZtI' alt='GroupOne LLC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E0BAQFEAmWYzRT6fw/company-logo_200_200/company-logo_200_200/0/1724190532250/groupone_llc_logo?e=2147483647&v=beta&t=n9HAPbWLijxWHAnPhmuqtN_r_B7o39qTx8N_vwTsZtI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Group One Underwriters - All-Risks">
+                                <img itemprop="contentUrl url" src='https://all-risks.com/wp-content/uploads/2019/05/Groupone-2019.jpg' alt='Group One Underwriters - All-Risks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All-Risks" />
+                                </span>
+                                <a href='https://all-risks.com/wp-content/uploads/2019/05/Groupone-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GroupOne | Background Checks | Employment Verifications">
+                                <img itemprop="contentUrl url" src='https://gp1.com/wp-content/uploads/2021/05/gp1-logo-300x89-1.png' alt='GroupOne | Background Checks | Employment Verifications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="89">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gp1.com" />
+                                </span>
+                                <a href='https://gp1.com/wp-content/uploads/2021/05/gp1-logo-300x89-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for GroupOne Consulting, Inc.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100049284981021' alt='Profile for GroupOne Consulting, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="204">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100049284981021' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Tier IT Services & Solutions | GroupOne IT">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3bUvUlcnPzI/maxresdefault.jpg' alt='Top Tier IT Services & Solutions | GroupOne IT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="grouponeit.com" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3bUvUlcnPzI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Health And Life Insurance - Group One USA Insurance">
+                                <img itemprop="contentUrl url" src='https://grouponeusa.com/wp-content/uploads/2024/03/2024_Original-Logo-00000002.webp' alt='Health And Life Insurance - Group One USA Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="grouponeusa.com" />
+                                </span>
+                                <a href='https://grouponeusa.com/wp-content/uploads/2024/03/2024_Original-Logo-00000002.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="group.one Acquires BackWPup, Adminimize, and Search & Replace ...">
+                                <img itemprop="contentUrl url" src='https://wptavern.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-16-at-11.04.58-PM.png' alt='group.one Acquires BackWPup, Adminimize, and Search & Replace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1834">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WP Tavern" />
+                                </span>
+                                <a href='https://wptavern.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-16-at-11.04.58-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Group One Trading">
+                                <img itemprop="contentUrl url" src='https://group1.com/wp-content/uploads/2017/09/G1NewLogoWhite.jpg' alt='Group One Trading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="group1.com" />
+                                </span>
+                                <a href='https://group1.com/wp-content/uploads/2017/09/G1NewLogoWhite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Embrace Elegance: Minimal Floral Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of minimal floral backgrounds. Perfectly balanced with delicate designs and soft colors, these backgrounds add a touch of elegance to any project. Ideal for invitations, social media, or personal use, they enhance visual appeal while keeping a serene vibe. Explore our collection today!">
+                    <meta name="keywords" content="minimal floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minimal-floral-background">
+                            <span itemprop="name">minimal floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Elegance: Minimal Floral Backgrounds</h1>
+                <p>A minimal floral background combines elegance and simplicity, offering a subtle yet refreshing aesthetic appeal. Featuring delicate blossoms and soft hues, it creates an inviting atmosphere perfect for various applications, from invitations to social media graphics. The understated design allows for versatility while maintaining a serene ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Minimalist Floral Prints Wallpaper R7973">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/PinkMinimalistFloralPrintsWallpaperR7973.jpg?v=1736261246&width=1200' alt='Pink Minimalist Floral Prints Wallpaper R7973'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/PinkMinimalistFloralPrintsWallpaperR7973.jpg?v=1736261246&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Flower Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-minimalist-background_23-2150301351.jpg' alt='Minimalist Flower Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-minimalist-background_23-2150301351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-background-with-plants-lineart-style_53876-93541.jpg' alt='Minimalist Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-background-with-plants-lineart-style_53876-93541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Flower Background Images – Browse 1,203,658 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/85/61/29/360_F_485612922_L0Xy5byNgo5MeyhuoyeypgM0NkLs9nqE.jpg' alt='Minimal Flower Background Images – Browse 1,203,658 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/85/61/29/360_F_485612922_L0Xy5byNgo5MeyhuoyeypgM0NkLs9nqE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨Aesthetic minimalist flower neutral wallpaper✨ in 2022 | Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/1e/ec/5c1eecc49a57ae12e05f84c8270483d8.jpg' alt='✨Aesthetic minimalist flower neutral wallpaper✨ in 2022 | Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/1e/ec/5c1eecc49a57ae12e05f84c8270483d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/minimal-floral-peel-and-stick-wallpaper-934096.jpg?v=1687626684' alt='Minimal Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/minimal-floral-peel-and-stick-wallpaper-934096.jpg?v=1687626684' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 10 | Minimal Flower Background Vectors & Illustrations for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_23-2150744306.jpg' alt='Page 10 | Minimal Flower Background Vectors & Illustrations for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_23-2150744306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Botany - Subtle Floral Wallpaper Mural in Minimalist Colour ...">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/products/Subtle-Botany_Artwork.jpg?v=1740501207' alt='Subtle Botany - Subtle Floral Wallpaper Mural in Minimalist Colour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2832">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/products/Subtle-Botany_Artwork.jpg?v=1740501207' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Classic Minimalist Floral Wallpaper R9304">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreyClassicMinimalistFloralWallpaperR9304.jpg?v=1736259185&width=1200' alt='Grey Classic Minimalist Floral Wallpaper R9304'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreyClassicMinimalistFloralWallpaperR9304.jpg?v=1736259185&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Flower Design Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/19/49/02/1000_F_519490248_qyCA1oyPsZQAPA1CJOdW4haV0tvgMSUw.jpg' alt='Minimal Flower Design Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/19/49/02/1000_F_519490248_qyCA1oyPsZQAPA1CJOdW4haV0tvgMSUw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

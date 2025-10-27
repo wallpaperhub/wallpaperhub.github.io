@@ -1,0 +1,129 @@
+<title>Vibrant Background of SpongeBob SquarePants: Explore Bikini Bottom</title>
+                    <meta name="description" content="Discover the charming background of SpongeBob SquarePants, set in the lively underwater city of Bikini Bottom. Explore its colorful characters, iconic locations, and whimsical art that make this beloved show a timeless classic for fans of all ages.">
+                    <meta name="keywords" content="spongebob background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spongebob-background">
+                            <span itemprop="name">spongebob background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Background of SpongeBob SquarePants: Explore Bikini Bottom</h1>
+                <p>SpongeBob SquarePants is set in the vibrant underwater city of Bikini Bottom, which is filled with quirky residents like Patrick, Squidward, and Mr. Krabs. The show's background art features colorful coral reefs, whimsical buildings, and the iconic Krusty Krab, creating a lively and imaginative world that captivates audiences of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/986/756/small_2x/cartoon-bottom-of-ocean-landscape-free-vector.jpg' alt='Spongebob Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/986/756/small_2x/cartoon-bottom-of-ocean-landscape-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wich one is better wallpaper? : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wich-one-is-better-wallpaper-v0-cwsyd8txr0yd1.jpg?width=640&crop=smart&auto=webp&s=03aaca8756e1c2d6b9da3fdb20bafc6ef466ca6d' alt='Wich one is better wallpaper? : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wich-one-is-better-wallpaper-v0-cwsyd8txr0yd1.jpg?width=640&crop=smart&auto=webp&s=03aaca8756e1c2d6b9da3fdb20bafc6ef466ca6d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spongebob Aesthetic Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spongebob-aesthetic-desktop-660cfrc9uothqqq4.jpg' alt='100+] Spongebob Aesthetic Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spongebob-aesthetic-desktop-660cfrc9uothqqq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Background Images in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/88719/free-spongebob-background-images-77l07.jpg' alt='Spongebob Background Images in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/88719/free-spongebob-background-images-77l07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Blue Ocean Background 7x5 Spongebob Birthday Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61T5Ftu9BsL.jpg' alt='Cartoon Blue Ocean Background 7x5 Spongebob Birthday Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61T5Ftu9BsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/990/990/non_2x/city-and-house-under-the-sea-background-free-vector.jpg' alt='Spongebob Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/990/990/non_2x/city-and-house-under-the-sea-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessa Otero - SpongeBob Underwater Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/006/852/210/medium/jessa-otero-spongebob-background-jessaotero-the-grey-sanctuary.jpg?1501719712' alt='Jessa Otero - SpongeBob Underwater Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jessa Otero" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/006/852/210/medium/jessa-otero-spongebob-background-jessaotero-the-grey-sanctuary.jpg?1501719712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob (simple wallpaper designs by me d=(´▽｀)=b)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/bb/10/4ebb107fb330875aa5ab4896f9c69998.jpg' alt='Spongebob (simple wallpaper designs by me d=(´▽｀)=b)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/bb/10/4ebb107fb330875aa5ab4896f9c69998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Stephen Hillenburg's Background in Marine Biology Helped ...">
+                                <img itemprop="contentUrl url" src='https://dotandline.net/wp-content/uploads/2019/10/spongebob-marine-1024x576.png' alt='How Stephen Hillenburg's Background in Marine Biology Helped ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dot and Line" />
+                                </span>
+                                <a href='https://dotandline.net/wp-content/uploads/2019/10/spongebob-marine-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SpongeBob background by DracoAwesomeness on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dfz2yxf-eebb42df-8438-48a9-b3a1-3af2011ba510.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGZ6Mnl4Zi1lZWJiNDJkZi04NDM4LTQ4YTktYjNhMS0zYWYyMDExYmE1MTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T2BKrcStPX1aSRFLuAcOVfJKanu_4zyijoG4RK1CB30' alt='SpongeBob background by DracoAwesomeness on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dfz2yxf-eebb42df-8438-48a9-b3a1-3af2011ba510.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGZ6Mnl4Zi1lZWJiNDJkZi04NDM4LTQ4YTktYjNhMS0zYWYyMDExYmE1MTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T2BKrcStPX1aSRFLuAcOVfJKanu_4zyijoG4RK1CB30' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

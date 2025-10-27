@@ -1,0 +1,129 @@
+<title>Transform Your Space with Black and White Striped Wallpaper</title>
+                    <meta name="description" content="Discover the chic allure of black and white striped wallpaper. Perfect for adding depth and style to any room, this classic design is versatile for various decor themes. Elevate your interiors with bold contrasts and timeless elegance for a stunning makeover.">
+                    <meta name="keywords" content="black white striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-white-striped-wallpaper">
+                            <span itemprop="name">black white striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Black and White Striped Wallpaper</h1>
+                <p>Black and white striped wallpaper offers a timeless and stylish addition to any room. The bold contrast creates a striking visual impact, making it perfect for accent walls or entire spaces. Ideal for modern, classic, or eclectic interiors, this wallpaper can enhance depth and dimension, bringing elegance and a touch of drama to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe • Bold & Elegant Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' alt='Black & White Stripe • Bold & Elegant Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Stripes - Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982.png?v=1619804054' alt='Black and White Stripes - Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-black-and-white-removable-wallpaper-black-and-white-stripes-12394549968982.png?v=1619804054' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17.3”x400” Black and White Striped Wallpaper Self-Adhesive Wallpaper Modern  DIY Wallpaper for Bedroom Livingroom Cabinets Decor Vinyl Roll">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Rg2OnTnAL._AC_UF894,1000_QL80_.jpg' alt='17.3”x400” Black and White Striped Wallpaper Self-Adhesive Wallpaper Modern  DIY Wallpaper for Bedroom Livingroom Cabinets Decor Vinyl Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Rg2OnTnAL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Horizontal Striped Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/stripes_and_plaid_77364920_03_01-sw_grande.jpg?v=1614120890' alt='Black & White Horizontal Striped Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/stripes_and_plaid_77364920_03_01-sw_grande.jpg?v=1614120890' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repeel Black and White Stripe Vinyl Peel and Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/d9e2bfd3-6251-4abc-97bf-3dfc86bde3be/svn/repeel-wallpaper-rolls-rp436-31_600.jpg' alt='Repeel Black and White Stripe Vinyl Peel and Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/d9e2bfd3-6251-4abc-97bf-3dfc86bde3be/svn/repeel-wallpaper-rolls-rp436-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe • Bold & Elegant Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-3-1100x1318.jpg.optimal.jpg' alt='Black & White Stripe • Bold & Elegant Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-3-1100x1318.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Smart Stripes 2 Small Stripe Wallpaper in Black and White G67539">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a64d5e44-9cca-46f3-a8de-28a340d503f0/svn/wallpaper-rolls-g67539-64_600.jpg' alt='Unbranded Smart Stripes 2 Small Stripe Wallpaper in Black and White G67539'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a64d5e44-9cca-46f3-a8de-28a340d503f0/svn/wallpaper-rolls-g67539-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bold Black and White 12" Stripe Wallpaper || Peel 'n Stick or Prepasted •  Vinyl-Free • Non-toxic">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9696664/r/il/11e028/1926647738/il_570xN.1926647738_6xs4.jpg' alt='Bold Black and White 12" Stripe Wallpaper || Peel 'n Stick or Prepasted •  Vinyl-Free • Non-toxic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9696664/r/il/11e028/1926647738/il_570xN.1926647738_6xs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Lines Wallpaper Modern Striped Wallpaper Peel and Stick and  Traditional Wallpaper - D762">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5545396990_d7if.jpg?v=1722445044&width=1946' alt='Black and White Lines Wallpaper Modern Striped Wallpaper Peel and Stick and  Traditional Wallpaper - D762'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5545396990_d7if.jpg?v=1722445044&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Stripe Black and White Peel and Stick Wallpaper Self-Adhesive  Wallpaper 118"x17.7" Removable Contact Paper Waterproof Wall Paper  Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817aE37oHqL.jpg' alt='Guvana Stripe Black and White Peel and Stick Wallpaper Self-Adhesive  Wallpaper 118"x17.7" Removable Contact Paper Waterproof Wall Paper  Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2522">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817aE37oHqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

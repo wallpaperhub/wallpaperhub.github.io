@@ -1,0 +1,129 @@
+<title>Beachy Aesthetic Wallpaper: Coastal Vibes for Your Home</title>
+                    <meta name="description" content="Discover our beachy aesthetic wallpaper collection, bringing the calm of the coast to your space. With soothing colors and nautical themes, elevate your home decor effortlessly. Perfect for relaxing environments, these wallpapers create a serene atmosphere. Shop now for a touch of seaside charm!">
+                    <meta name="keywords" content="beachy aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/beachy-aesthetic-wallpaper">
+                            <span itemprop="name">beachy aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beachy Aesthetic Wallpaper: Coastal Vibes for Your Home</h1>
+                <p>Transform your space with beachy aesthetic wallpaper that evokes the tranquility of coastal living. Featuring soft sandy tones, gentle waves, and sun-kissed hues, these designs bring a refreshing breeze into your home. Perfect for a serene bedroom or a vibrant living area, this wallpaper is a daily reminder of summer bliss.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/b4/03/2bb4030ccf4148fa26f94a551d1fabd1.jpg' alt='Beach Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/b4/03/2bb4030ccf4148fa26f94a551d1fabd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Beaches aesthetic ideas | beach aesthetic, beach wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/02/22/f4/0222f495f6d37107a2db43b345ea6c5d.jpg' alt='100 Beaches aesthetic ideas | beach aesthetic, beach wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/02/22/f4/0222f495f6d37107a2db43b345ea6c5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach aesthetic 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-beach-with-fine-white-sands-dn9cdv9hm57frykl.jpg' alt='Beach aesthetic 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-beach-with-fine-white-sands-dn9cdv9hm57frykl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Aesthetic Beach Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-beach-pictures-rdzxl72kvzcs5ri3.jpg' alt='200+] Aesthetic Beach Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-beach-pictures-rdzxl72kvzcs5ri3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Beach Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-beach-aesthetic-4ev6lmclhi6g56ms.jpg' alt='100+] Pink Beach Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-beach-aesthetic-4ev6lmclhi6g56ms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable beach phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFn3Z-XqRM/1/0/900w/canva-blue-beige-minimalist-aesthetic-photo-collage-beach-phone-wallpaper--d0F1xIYSEY.jpg' alt='Free customizable beach phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFn3Z-XqRM/1/0/900w/canva-blue-beige-minimalist-aesthetic-photo-collage-beach-phone-wallpaper--d0F1xIYSEY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Aesthetic Beach Vibe Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/summer-aesthetic-beach-vibe-collage-f94bwsksnq6naqc5.jpg' alt='Summer Aesthetic Beach Vibe Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/summer-aesthetic-beach-vibe-collage-f94bwsksnq6naqc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Aesthetic Beach Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/2a/c2/b92ac2e274bcb9dd2425701ec54bf934.jpg' alt='20+ Aesthetic Beach Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/2a/c2/b92ac2e274bcb9dd2425701ec54bf934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable beach desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEraNedzGM/1/0/1600w/canva-it%27s-time-to-relax-desktop-wallpaper-ZOeDiB-u6ZQ.jpg' alt='Free and customizable beach desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEraNedzGM/1/0/1600w/canva-it%27s-time-to-relax-desktop-wallpaper-ZOeDiB-u6ZQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Aesthetic Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2hpcHBvdW5pY29ybl9hZXN0aGV0aWNfYmVhY2hfcGFsbV90cmVlc19vbl90aGVfc3Vubnlfc2FuZHlfYmVhY18yMmI4N2EyMy0yYjdlLTQxZjgtODQyNi0zZjcwMzgxZjc2MDBfMS5qcGc.jpg' alt='Beach Aesthetic Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2hpcHBvdW5pY29ybl9hZXN0aGV0aWNfYmVhY2hfcGFsbV90cmVlc19vbl90aGVfc3Vubnlfc2FuZHlfYmVhY18yMmI4N2EyMy0yYjdlLTQxZjgtODQyNi0zZjcwMzgxZjc2MDBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

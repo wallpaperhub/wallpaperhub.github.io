@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="property brothers peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/property-brothers-peel-and-stick-wallpaper">
+                            <span itemprop="name">property brothers peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living Illusion Peel & Stick Wallpaper - Silver">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/scott-living-peel-and-stick-wallpaper-book_1_42ecf898-26e2-4ebd-902e-5be8ffeae983.jpg?v=1649784887&width=1445' alt='Scott Living Illusion Peel & Stick Wallpaper - Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/scott-living-peel-and-stick-wallpaper-book_1_42ecf898-26e2-4ebd-902e-5be8ffeae983.jpg?v=1649784887&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Property Brothers Launch Scott Living Peel-and-Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/scott-living-the-property-brothers-peel-and-stick-wallpaper-1565885030.jpg' alt='The Property Brothers Launch Scott Living Peel-and-Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/scott-living-the-property-brothers-peel-and-stick-wallpaper-1565885030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living Kenter Sisal Wallpaper - Teal">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/4034-72120.jpg?v=1693586696' alt='Scott Living Kenter Sisal Wallpaper - Teal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/4034-72120.jpg?v=1693586696' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Property Brothers Just Released Self-Adhesive Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2019/8/26/rx_lowes_charcoal-vinyl-plaid-wallpaper.jpeg.rend.hgtvcom.1280.1280.85.suffix/1566793324931.webp' alt='The Property Brothers Just Released Self-Adhesive Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HGTV" />
+                                </span>
+                                <a href='https://hgtvhome.sndimg.com/content/dam/images/hgtv/products/2019/8/26/rx_lowes_charcoal-vinyl-plaid-wallpaper.jpeg.rend.hgtvcom.1280.1280.85.suffix/1566793324931.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living Peel-and-Stick Wallpaper | Apartment Therapy">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/v1566052057/at/news-culture/2019-08/property-brothers-wallpaper.jpg' alt='Scott Living Peel-and-Stick Wallpaper | Apartment Therapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/v1566052057/at/news-culture/2019-08/property-brothers-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living Peel-and-Stick Wallpaper | Apartment Therapy">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/at%2Fnews-culture%2F2019-08%2Fproperty-brothers-wallpaper' alt='Scott Living Peel-and-Stick Wallpaper | Apartment Therapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/at%2Fnews-culture%2F2019-08%2Fproperty-brothers-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living 30.75-sq ft Natural Vinyl Textured Abstract 3D Self-Adhesive  Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/ba07e168-4218-437b-b16d-ac6195b9c5c6/11434222.jpg' alt='Scott Living 30.75-sq ft Natural Vinyl Textured Abstract 3D Self-Adhesive  Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/ba07e168-4218-437b-b16d-ac6195b9c5c6/11434222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply Peel and Stick Wallpaper - Drew & Jonathan">
+                                <img itemprop="contentUrl url" src='https://www.drewandjonathan.com/wp-content/uploads/2023/10/Drew-Jonathan-how-to-apply-peel-and-stick-wallpaper.jpg' alt='How to Apply Peel and Stick Wallpaper - Drew & Jonathan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drew & Jonathan" />
+                                </span>
+                                <a href='https://www.drewandjonathan.com/wp-content/uploads/2023/10/Drew-Jonathan-how-to-apply-peel-and-stick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living Peel-and-Stick Wallpaper | Apartment Therapy">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fnews-culture%2F2019-08%2Fproperty-brothers-wallpaper' alt='Scott Living Peel-and-Stick Wallpaper | Apartment Therapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fnews-culture%2F2019-08%2Fproperty-brothers-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living 30.75-sq ft Indigo Vinyl Textured Abstract 3D Self-Adhesive  Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/8c27af30-59ea-48d0-9ee4-cc122175430b/11434195.jpg' alt='Scott Living 30.75-sq ft Indigo Vinyl Textured Abstract 3D Self-Adhesive  Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/8c27af30-59ea-48d0-9ee4-cc122175430b/11434195.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

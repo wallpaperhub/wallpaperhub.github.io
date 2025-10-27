@@ -1,0 +1,129 @@
+<title>Día de los Muertos 4K Wallpapers: Vibrant & Colorful</title>
+                    <meta name="description" content="Discover vivid Día de los Muertos wallpapers in stunning 4K resolution. Enhance your device with beautiful imagery that celebrates this cherished Mexican tradition, perfect for honoring the memories of loved ones. Download now for a colorful and cultural addition to your screens!">
+                    <meta name="keywords" content="dia de los muertos wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/dia-de-los-muertos-wallpaper-4k">
+                            <span itemprop="name">dia de los muertos wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Día de los Muertos 4K Wallpapers: Vibrant & Colorful</h1>
+                <p>Celebrate the vibrant spirit of Día de los Muertos with stunning 4K wallpapers that honor this rich tradition. These high-resolution images beautifully depict intricate sugar skulls, colorful marigolds, and celebratory altars, bringing life and culture to your screens. Perfect for personalizing your devices while paying tribute to loved ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia De Los Muertos Photos, Download The BEST Free Dia De Los ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg' alt='Dia De Los Muertos Photos, Download The BEST Free Dia De Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2850">
+                                <meta itemprop="height" content="3563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dia de muertos iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/7b/07/a17b078f93c90b8ea0094eb8a5092f3e.jpg' alt='dia de muertos iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/7b/07/a17b078f93c90b8ea0094eb8a5092f3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate Dia De Los Muertos in Style | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dia-de-los-muertos-2560-x-1440-background-cnq1331spkann5tf.jpg' alt='Download Celebrate Dia De Los Muertos in Style | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dia-de-los-muertos-2560-x-1440-background-cnq1331spkann5tf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dia De Los Muertos Woman Roses Skull Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dia-de-los-muertos-woman-roses-skull-xukktiqbbxvot69t.jpg' alt='Download Dia De Los Muertos Woman Roses Skull Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dia-de-los-muertos-woman-roses-skull-xukktiqbbxvot69t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia De Muertos Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1603855873822-0931a843ee3a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlhJTIwZGUlMjBtdWVydG9zfGVufDB8fDB8fHww' alt='Dia De Muertos Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1603855873822-0931a843ee3a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlhJTIwZGUlMjBtdWVydG9zfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia de muertos, bone, bones, death, flowers, graffiti, sKulls ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/937/189/HD-wallpaper-dia-de-muertos-bone-bones-death-flowers-graffiti-skulls-skull-strange-wall-weird.jpg' alt='Dia de muertos, bone, bones, death, flowers, graffiti, sKulls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/937/189/HD-wallpaper-dia-de-muertos-bone-bones-death-flowers-graffiti-skulls-skull-strange-wall-weird.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia De Los Muertos Images – Browse 311,523 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/26/81/85/360_F_926818536_3zF163MrNBpFvzEwePbZfSirPHDAIhva.jpg' alt='Dia De Los Muertos Images – Browse 311,523 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/26/81/85/360_F_926818536_3zF163MrNBpFvzEwePbZfSirPHDAIhva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Dia De Los Muertos Skeleton 4k PSD, High Quality Free PSD ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/skull-flowers-are-red-background_1297446-1359.jpg?semt=ais_hybrid' alt='Page 3 | Dia De Los Muertos Skeleton 4k PSD, High Quality Free PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/skull-flowers-are-red-background_1297446-1359.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dia De Los Muertos Facepaint Gray Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dia-de-los-muertos-facepaint-gray-background-1ik4lis4pwkljpig.jpg' alt='Download Dia De Los Muertos Facepaint Gray Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dia-de-los-muertos-facepaint-gray-background-1ik4lis4pwkljpig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day of the dead, holiday, bird, mexican, dia de los muertos, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/312/269/HD-wallpaper-day-of-the-dead-holiday-bird-mexican-dia-de-los-muertos.jpg' alt='Day of the dead, holiday, bird, mexican, dia de los muertos, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/312/269/HD-wallpaper-day-of-the-dead-holiday-bird-mexican-dia-de-los-muertos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

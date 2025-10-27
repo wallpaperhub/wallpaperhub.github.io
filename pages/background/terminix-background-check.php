@@ -1,0 +1,129 @@
+<title>Understanding the Terminix Background Check Process</title>
+                    <meta name="description" content="Discover how Terminix conducts comprehensive background checks to ensure safety in pest control services. From criminal history to employment verification, learn about the vetting process that guarantees trust and reliability in your pest management solutions.">
+                    <meta name="keywords" content="terminix background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/terminix-background-check">
+                            <span itemprop="name">terminix background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Terminix Background Check Process</h1>
+                <p>Terminix conducts background checks to ensure safety and security for both clients and employees. This process typically includes criminal history, employment verification, and drug testing. By vetting their staff thoroughly, Terminix aims to maintain a high standard of trust and reliability in pest control services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Expect — Terminix Careers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/582089a3d1758e9703072e7f/1481059458794-UWLDALOTYQ46L9MVOU1M/Terminix_7739.png' alt='What to Expect — Terminix Careers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2438">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Terminix Careers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/582089a3d1758e9703072e7f/1481059458794-UWLDALOTYQ46L9MVOU1M/Terminix_7739.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Expect — Terminix Careers">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/582089a3d1758e9703072e7f/47e7b548-8f79-42be-9883-56c927681cc0/1200_630_social_share.jpg' alt='What to Expect — Terminix Careers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Terminix Careers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/582089a3d1758e9703072e7f/47e7b548-8f79-42be-9883-56c927681cc0/1200_630_social_share.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terminix Careers and Employment | Indeed.com">
+                                <img itemprop="contentUrl url" src='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ce9726ebaa127c752c841e027928e925' alt='Terminix Careers and Employment | Indeed.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ce9726ebaa127c752c841e027928e925' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terminix Pest Report - Fill and Sign Printable Template Online">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/56/284/56284007.png' alt='Terminix Pest Report - Fill and Sign Printable Template Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/56/284/56284007.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="am hiring in the Katy Area for Terminix. will need to pass a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1788556248621047' alt='am hiring in the Katy Area for Terminix. will need to pass a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1788556248621047' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terminix - Albuquerque -Termite & Pest Control Reviews ...">
+                                <img itemprop="contentUrl url" src='https://media-content.angi.com/626045b1-0da4-40cb-af82-ad96ea6f01a6.jpg?imwidth=640' alt='Terminix - Albuquerque -Termite & Pest Control Reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angie's List" />
+                                </span>
+                                <a href='https://media-content.angi.com/626045b1-0da4-40cb-af82-ad96ea6f01a6.jpg?imwidth=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Terminix drug test or do a background check? - Terminix ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/terminix/questions/i-364/does-terminix-drug-test-or-do-a-background-check' alt='Does Terminix drug test or do a background check? - Terminix ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/terminix/questions/i-364/does-terminix-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terminix - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ANiFUeZ6ojK90ntrDA_1L52eSAUplrifc7ZNfLBxpiiHRQ3A9xhg0g_pyogUl7XWXTLShFHGfg=s900-c-k-c0x00ffffff-no-rj' alt='Terminix - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ANiFUeZ6ojK90ntrDA_1L52eSAUplrifc7ZNfLBxpiiHRQ3A9xhg0g_pyogUl7XWXTLShFHGfg=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roy Higgins - Branch Manager - Rentokil Terminix | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E16AQGSDTF0LyjAjA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695669863530?e=2147483647&v=beta&t=VvsdvqCwF-1NSonFdXxKCMKTx3F9lQBUU_b5R9P97qA' alt='Roy Higgins - Branch Manager - Rentokil Terminix | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E16AQGSDTF0LyjAjA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695669863530?e=2147483647&v=beta&t=VvsdvqCwF-1NSonFdXxKCMKTx3F9lQBUU_b5R9P97qA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="At Terminix, we’re committed to making a difference in the communities we  serve. Our teammates contribute to causes like United Way, Habitat for  Humanity, and local food banks by donating time, ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3510061239725213915' alt='At Terminix, we’re committed to making a difference in the communities we  serve. Our teammates contribute to causes like United Way, Habitat for  Humanity, and local food banks by donating time, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3510061239725213915' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

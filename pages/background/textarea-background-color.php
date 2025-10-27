@@ -1,0 +1,129 @@
+<title>Enhance Your Textarea Background Color for Better UX</title>
+                    <meta name="description" content="Discover how to effectively customize the textarea background color on your website. Improve user experience and aesthetics with color choices that enhance readability and accessibility. Learn valuable tips for creating inviting and functional text areas!">
+                    <meta name="keywords" content="textarea background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/textarea-background-color">
+                            <span itemprop="name">textarea background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Textarea Background Color for Better UX</h1>
+                <p>When designing a webpage, customizing the textarea background color can enhance user experience and overall aesthetics. A well-chosen color can improve readability, draw attention, or fit seamlessly into the site's design. Always ensure contrast with text for accessibility. Experiment with colors to see what resonates best!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the text area background color | TinyMCE">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/s600jj41gsex/7B5FDnhfY7sTgvrvockz6l/505e89ba3d22a509d530f348243a4b1b/img-backgroundColor-2.gif?h=650' alt='How to change the text area background color | TinyMCE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TinyMCE" />
+                                </span>
+                                <a href='https://images.ctfassets.net/s600jj41gsex/7B5FDnhfY7sTgvrvockz6l/505e89ba3d22a509d530f348243a4b1b/img-backgroundColor-2.gif?h=650' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Styling textarea - Using Streamlit - Streamlit">
+                                <img itemprop="contentUrl url" src='https://global.discourse-cdn.com/streamlit/original/3X/a/f/af4541164d4b7b13be3de18228d187fb0740581a.gif' alt='Styling textarea - Using Streamlit - Streamlit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="discuss.streamlit.io" />
+                                </span>
+                                <a href='https://global.discourse-cdn.com/streamlit/original/3X/a/f/af4541164d4b7b13be3de18228d187fb0740581a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - Change backgroundcolor of text in textarea - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/2YgJU.png' alt='javascript - Change backgroundcolor of text in textarea - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/2YgJU.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the text area background color | TinyMCE">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/s600jj41gsex/4ulkqUZjTfUCxos8yhBOoa/52e33a2bf746f26a999e91ab1bc3fcc0/text_area_back.png?w=768&q=80&fit=scale' alt='How to change the text area background color | TinyMCE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TinyMCE" />
+                                </span>
+                                <a href='https://images.ctfassets.net/s600jj41gsex/4ulkqUZjTfUCxos8yhBOoa/52e33a2bf746f26a999e91ab1bc3fcc0/text_area_back.png?w=768&q=80&fit=scale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - Set background color of textArea in Summernote ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/CACjz.png' alt='javascript - Set background color of textArea in Summernote ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/CACjz.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Color of Text Area - DataPages - Caspio ...">
+                                <img itemprop="contentUrl url" src='https://media.invisioncic.com/r269793/monthly_2023_04/image.png.75706ec98b5a2a4385269c24951aadbc.png' alt='Change Background Color of Text Area - DataPages - Caspio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caspio Community Forums" />
+                                </span>
+                                <a href='https://media.invisioncic.com/r269793/monthly_2023_04/image.png.75706ec98b5a2a4385269c24951aadbc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="java - Textarea javaFx Color - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/iMSrC.png' alt='java - Textarea javaFx Color - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/iMSrC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javafx - I'm trying to change the background color of textarea in ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/jkwby.png' alt='javafx - I'm trying to change the background color of textarea in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1413">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/jkwby.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="java - How to Set the Background Color of a Text Area Inside of a ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/zLT1c.jpg' alt='java - How to Set the Background Color of a Text Area Inside of a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/zLT1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Color for TextArea control - Add-Ons - Xojo Programming ...">
+                                <img itemprop="contentUrl url" src='https://forum.xojo.com/uploads/default/original/2X/9/91c36fd8e773468dab58379d1c6becef6b7112d5.jpeg' alt='Background Color for TextArea control - Add-Ons - Xojo Programming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1562">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xojo Forum" />
+                                </span>
+                                <a href='https://forum.xojo.com/uploads/default/original/2X/9/91c36fd8e773468dab58379d1c6becef6b7112d5.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

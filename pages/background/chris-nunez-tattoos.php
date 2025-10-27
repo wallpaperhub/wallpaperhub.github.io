@@ -1,0 +1,129 @@
+<title>Chris Nunez Tattoos: Artistry Unveiled</title>
+                    <meta name="description" content="Explore the captivating world of Chris Nunez tattoos, where artistry meets personal expression. Discover his unique styles and iconic designs that have influenced countless tattoo enthusiasts and artists. Dive into the artistry that defines Nunez's work and get inspired by his creative journey.">
+                    <meta name="keywords" content="chris nunez tattoos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chris-nunez-tattoos">
+                            <span itemprop="name">chris nunez tattoos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chris Nunez Tattoos: Artistry Unveiled</h1>
+                <p>Chris Nunez, renowned for his tattoo artistry and television presence, has a distinct style that combines bold lines and intricate details. He showcases a wide range of designs, from traditional to contemporary, often infused with personal meaning. Nunez's work is an inspiration for aspiring tattoo artists and enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I couldn't take Chris Nunez seriously as a judge after I saw this ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zlp3u5hcq2a71.png' alt='I couldn't take Chris Nunez seriously as a judge after I saw this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1521">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zlp3u5hcq2a71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Judge me like you're Chris Nunez : r/Inkmaster">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/judge-me-like-youre-chris-nunez-v0-20wcedl3lyic1.jpeg?auto=webp&s=7518148e6984940cdf9242c303d62723719014e4' alt='Judge me like you're Chris Nunez : r/Inkmaster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2248">
+                                <meta itemprop="height" content="2410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/judge-me-like-youre-chris-nunez-v0-20wcedl3lyic1.jpeg?auto=webp&s=7518148e6984940cdf9242c303d62723719014e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now booking the months of May and June in Miami Fl only. Taking on ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3356290990895739184' alt='Now booking the months of May and June in Miami Fl only. Taking on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1406">
+                                <meta itemprop="height" content="1757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3356290990895739184' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Master - Chris Nunez called Juan Salgado Art's tattoo one of ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1613715015374660' alt='Ink Master - Chris Nunez called Juan Salgado Art's tattoo one of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1613715015374660' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Start to a fun tiger. Old stuff not mine. Full back piece on the way!">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3379659794741518636' alt='Start to a fun tiger. Old stuff not mine. Full back piece on the way!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3379659794741518636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Nuñez • Tattoo Artist • Tattoodo">
+                                <img itemprop="contentUrl url" src='https://d1kq2dqeox7x40.cloudfront.net/images/posts/ScreenShot2018-03-14at145449_ZiDMjJWiLc.png' alt='Chris Nuñez • Tattoo Artist • Tattoodo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoodo" />
+                                </span>
+                                <a href='https://d1kq2dqeox7x40.cloudfront.net/images/posts/ScreenShot2018-03-14at145449_ZiDMjJWiLc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chris Nunez TattooNOW">
+                                <img itemprop="contentUrl url" src='https://www.tattoos.gallery/hcfltattoo.com/images/gallery/medium/10860085_538981659537841_759381018_n.jpg' alt='Chris Nunez TattooNOW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TattooNOW" />
+                                </span>
+                                <a href='https://www.tattoos.gallery/hcfltattoo.com/images/gallery/medium/10860085_538981659537841_759381018_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 11 Chris Nunez's Tattoos and Their Meaning!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/25/30/e325306fae9e0aac3ce5528ed901b387.jpg' alt='Top 11 Chris Nunez's Tattoos and Their Meaning!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/25/30/e325306fae9e0aac3ce5528ed901b387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My dads finished back piece. Mask done by Chris Núñez. Sides and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/augh4ej9rfg41.jpg' alt='My dads finished back piece. Mask done by Chris Núñez. Sides and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/augh4ej9rfg41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Master - When your Japanese tattoo gets only... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2348023625277125' alt='Ink Master - When your Japanese tattoo gets only... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2348023625277125' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

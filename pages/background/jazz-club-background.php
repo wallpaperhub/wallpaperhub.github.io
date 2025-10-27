@@ -1,0 +1,129 @@
+<title>Experience the Magic of Jazz Clubs</title>
+                    <meta name="description" content="Discover the enchanting world of jazz clubs, where live performances and a vibrant atmosphere come together. Explore the sounds, history, and culture of jazz music in these iconic venues. Perfect for music lovers seeking a unique night out filled with rhythm and soul!">
+                    <meta name="keywords" content="jazz club background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jazz-club-background">
+                            <span itemprop="name">jazz club background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Magic of Jazz Clubs</h1>
+                <p>Jazz clubs have a rich history, evolving from speakeasies of the Prohibition era to sophisticated venues showcasing live music. These intimate settings foster a unique atmosphere, where jazz enthusiasts can enjoy performances by talented musicians. With dim lighting, vibrant decor, and a lively crowd, jazz clubs remain a cornerstone of cultural nightlife.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Club Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/070/611/non_2x/inside-a-dimly-lit-jazz-club-the-smooth-sounds-of-saxophones-and-pianos-fill-the-room-as-singers-croon-on-stage-the-intimate-setting-creates-a-cozy-and-classy-atmospher-photo.jpg' alt='Jazz Club Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/070/611/non_2x/inside-a-dimly-lit-jazz-club-the-smooth-sounds-of-saxophones-and-pianos-fill-the-room-as-singers-croon-on-stage-the-intimate-setting-creates-a-cozy-and-classy-atmospher-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 15x10ft Fabric Modern Jazz Bar Backdrop for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fB9YjupmL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : BELECO 15x10ft Fabric Modern Jazz Bar Backdrop for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fB9YjupmL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Jazz Club Images – Browse 20,542 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/50/83/76/360_F_850837626_DpFbCTiOQDza8yGgjX8pzgOIGTnOSRuZ.jpg' alt='Vintage Jazz Club Images – Browse 20,542 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/50/83/76/360_F_850837626_DpFbCTiOQDza8yGgjX8pzgOIGTnOSRuZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BELECO 7x5ft Music Club Backdrop Fabric Modern Jazz ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71kKrFjQf0L.jpg' alt='Amazon.com: BELECO 7x5ft Music Club Backdrop Fabric Modern Jazz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71kKrFjQf0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Modern Jazz Bar Backdrop for Photography  Music Club Backdrop Pub Bar Cafe Interior Piano Cello Rock Roll Jazz Blues  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wMc9UERfL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Modern Jazz Bar Backdrop for Photography  Music Club Backdrop Pub Bar Cafe Interior Piano Cello Rock Roll Jazz Blues  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wMc9UERfL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Jazz Club - Blue Underground">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/056/693/482/large/mitchell-dell-levelsequence1-0005.jpg?1669868282' alt='ArtStation - Jazz Club - Blue Underground'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/056/693/482/large/mitchell-dell-levelsequence1-0005.jpg?1669868282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop EX022B-SS Jazz Club Street B">
+                                <img itemprop="contentUrl url" src='http://www.backdropsfantastic.com/backdrop_images/300's/EX-022B-SS-Jazz-Club-Street-B.jpg' alt='Backdrop EX022B-SS Jazz Club Street B'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic" />
+                                </span>
+                                <a href='http://www.backdropsfantastic.com/backdrop_images/300's/EX-022B-SS-Jazz-Club-Street-B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Bar Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1574096079513-d8259312b785?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amF6eiUyMGJhcnxlbnwwfHwwfHx8MA%3D%3D' alt='Jazz Bar Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1574096079513-d8259312b785?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amF6eiUyMGJhcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jazz Club Background: Over 22,989 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/night-club-stage-pub-counter-260nw-2344563053.jpg' alt='Jazz Club Background: Over 22,989 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1070">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/night-club-stage-pub-counter-260nw-2344563053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Owl Jazz Cafe Ambience with Relaxing Jazz Music & Rain Sounds">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VhbID9DZns8/maxresdefault.jpg' alt='Night Owl Jazz Cafe Ambience with Relaxing Jazz Music & Rain Sounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VhbID9DZns8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

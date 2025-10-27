@@ -1,0 +1,129 @@
+<title>Pikachu Gifs: Adorable Animations for Every Mood</title>
+                    <meta name="description" content="Discover the cutest Pikachu gifs to elevate your chats and social media posts. Perfect for sharing emotions and spreading joy, these charming animations are a must-have for any Pokémon lover. Get ready to brighten your day with Pikachu's infectious energy and cuteness!">
+                    <meta name="keywords" content="pikachu gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pikachu-gif">
+                            <span itemprop="name">pikachu gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pikachu Gifs: Adorable Animations for Every Mood</h1>
+                <p>Pikachu gifs are a fun and adorable way to express emotions and share excitement online! Whether you're a Pokémon fan or just love cute animations, these gifs capture Pikachu's charm perfectly. Use them in messages, social media, or anywhere you want to spread joy and cuteness. Pikachu is always ready to brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Pikachu GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/tZVpbfTIjNMAAAAM/pikachu.gif' alt='Happy Pikachu GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/tZVpbfTIjNMAAAAM/pikachu.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thunderbolt Pikachu GIF - Thunderbolt Pikachu Pokemon - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8a/81/ec/8a81ecd8fdd266b3221da325875c0ea8.gif' alt='Thunderbolt Pikachu GIF - Thunderbolt Pikachu Pokemon - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8a/81/ec/8a81ecd8fdd266b3221da325875c0ea8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/Td9n.gif' alt='Pikachu GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/Td9n.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A collection of the cutest Pikachu GIFs to make your day better ...">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14808952/tumblr_lmwsamrrxT1qagx30.0.0.1488208493.gif?quality=90&strip=all&crop=0,4.2124542124542,100,91.575091575092' alt='A collection of the cutest Pikachu GIFs to make your day better ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14808952/tumblr_lmwsamrrxT1qagx30.0.0.1488208493.gif?quality=90&strip=all&crop=0,4.2124542124542,100,91.575091575092' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu Dance GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/lOa0tPKiMLdqVdFiS8/200w.gif?cid=6c09b952snvq18g0gnkey4flmr3jo56jtjwo0e7lrzlc7r1q&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Pikachu Dance GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/lOa0tPKiMLdqVdFiS8/200w.gif?cid=6c09b952snvq18g0gnkey4flmr3jo56jtjwo0e7lrzlc7r1q&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ihqN6a3iiYEAAAAM/pikachu-shocked-face-stunned.gif' alt='Pikachu GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ihqN6a3iiYEAAAAM/pikachu-shocked-face-stunned.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu Funny GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/U2nN0ridM4lXy/giphy.gif?cid=6c09b952lwpvu1mhidp9f8y1uzii8jykk19ahlxngncps19z&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Pikachu Funny GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/U2nN0ridM4lXy/giphy.gif?cid=6c09b952lwpvu1mhidp9f8y1uzii8jykk19ahlxngncps19z&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Pikachu GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/nLIiW6wj9WnSM/200w.gif?cid=6c09b9523vls7slhduakgtdsxfi82z842p9p6vgcf5nayto7&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Sad Pikachu GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/nLIiW6wj9WnSM/200w.gif?cid=6c09b9523vls7slhduakgtdsxfi82z842p9p6vgcf5nayto7&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu gif by isaacrulez1234akamew on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc22c427-a4a9-4423-b0db-c142273f183e/di8etgl-99198d12-9af8-4c34-a0f5-4c9ba4b50013.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjJjNDI3LWE0YTktNDQyMy1iMGRiLWMxNDIyNzNmMTgzZVwvZGk4ZXRnbC05OTE5OGQxMi05YWY4LTRjMzQtYTBmNS00YzliYTRiNTAwMTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D-GvVKOJpLVMevKqpEf6G-vV9hVs3IIn1NyaXddgSD0' alt='Pikachu gif by isaacrulez1234akamew on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc22c427-a4a9-4423-b0db-c142273f183e/di8etgl-99198d12-9af8-4c34-a0f5-4c9ba4b50013.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjJjNDI3LWE0YTktNDQyMy1iMGRiLWMxNDIyNzNmMTgzZVwvZGk4ZXRnbC05OTE5OGQxMi05YWY4LTRjMzQtYTBmNS00YzliYTRiNTAwMTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D-GvVKOJpLVMevKqpEf6G-vV9hVs3IIn1NyaXddgSD0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pikachu Happy Sticker - Pikachu Happy Cute - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dc/35/fa/dc35faebb3d69c42d81fe341183a5b64.gif' alt='Pikachu Happy Sticker - Pikachu Happy Cute - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dc/35/fa/dc35faebb3d69c42d81fe341183a5b64.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

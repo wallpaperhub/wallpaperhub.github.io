@@ -1,0 +1,129 @@
+<title>Epic Frat Party Vibes: Your Guide to College Life</title>
+                    <meta name="description" content="Explore the vibrant world of frat parties, where college students gather for unforgettable nights filled with fun, games, and friendship. Discover tips for hosting, attending, and making the most out of these lively social events!">
+                    <meta name="keywords" content="frat party background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frat-party-background">
+                            <span itemprop="name">frat party background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Frat Party Vibes: Your Guide to College Life</h1>
+                <p>Frat parties are a quintessential part of college life, often characterized by lively music, colorful decorations, and a casual atmosphere filled with laughter and camaraderie. Typically hosted by fraternity members, these gatherings serve as social hubs where students engage in games, dancing, and mingling, creating lasting memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="850+ Frat Party Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1001405834/photo/young-multi-ethnic-friends-relaxing-at-home-and-eating-fast-food.jpg?s=612x612&w=0&k=20&c=GjLfKgiyPykpeHAXCXePz04s70HO2Ws0pXLQrwPfBkU=' alt='850+ Frat Party Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1001405834/photo/young-multi-ethnic-friends-relaxing-at-home-and-eating-fast-food.jpg?s=612x612&w=0&k=20&c=GjLfKgiyPykpeHAXCXePz04s70HO2Ws0pXLQrwPfBkU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frat Party Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1586105449897-20b5efeb3233?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJhdCUyMHBhcnR5fGVufDB8fDB8fHww' alt='Frat Party Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1586105449897-20b5efeb3233?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJhdCUyMHBhcnR5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 College Frat Party Themes and Ideas - The Bash">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/a5130a27-5265-4da2-9e2d-1bc62cbf7ac8' alt='20 College Frat Party Themes and Ideas - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/a5130a27-5265-4da2-9e2d-1bc62cbf7ac8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sooooo college">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/4f/d4/594fd43d1527b41360426f19e974324d.jpg' alt='sooooo college'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/4f/d4/594fd43d1527b41360426f19e974324d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frat Party Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1517457373958-b7bdd4587205?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZyYXQlMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D' alt='Frat Party Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1517457373958-b7bdd4587205?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZyYXQlMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College frat party hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/K38EXX/old-school-will-ferrell-centre-subject-frat-party-college-students-K38EXX.jpg' alt='College frat party hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/K38EXX/old-school-will-ferrell-centre-subject-frat-party-college-students-K38EXX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frat Party Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1545128485-c400e7702796?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJhdCUyMHBhcnR5fGVufDB8fDB8fHww' alt='Frat Party Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1545128485-c400e7702796?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJhdCUyMHBhcnR5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frat party hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/AC46EB/frat-party-drinking-boozing-partying-AC46EB.jpg' alt='Frat party hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/AC46EB/frat-party-drinking-boozing-partying-AC46EB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The hottest new frat party theme: 'The police are coming — we're ...">
+                                <img itemprop="contentUrl url" src='https://stanforddaily.com/wp-content/uploads/2021/11/1600px-Party_all_night-Defne-Genc.jpg' alt='The hottest new frat party theme: 'The police are coming — we're ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Stanford Daily" />
+                                </span>
+                                <a href='https://stanforddaily.com/wp-content/uploads/2021/11/1600px-Party_all_night-Defne-Genc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College Kids at University of Connecticut Frat House Party Video Footage">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/636169024/video/college-kids-at-university-of-connecticut-frat-house-party.jpg?s=640x640&k=20&c=olxEytxlTU3bumHVXmWI3cMZpPAPOcEie-VZKSA1oLo=' alt='College Kids at University of Connecticut Frat House Party Video Footage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/636169024/video/college-kids-at-university-of-connecticut-frat-house-party.jpg?s=640x640&k=20&c=olxEytxlTU3bumHVXmWI3cMZpPAPOcEie-VZKSA1oLo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

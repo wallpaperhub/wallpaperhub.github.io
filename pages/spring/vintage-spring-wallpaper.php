@@ -1,0 +1,129 @@
+<title>Charming Vintage Spring Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Discover the charm of vintage spring wallpaper. Perfect for a fresh, timeless look, it features delicate floral designs and soft colors to brighten your space. Ideal for any room, this wallpaper brings a nostalgic atmosphere that celebrates the beauty of spring. Elevate your home with vintage elegance!">
+                    <meta name="keywords" content="vintage spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/vintage-spring-wallpaper">
+                            <span itemprop="name">vintage spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Spring Wallpaper for Timeless Decor</h1>
+                <p>Vintage spring wallpaper brings timeless charm and a touch of nostalgia to your space. With delicate floral patterns and soft pastel colors, it creates a refreshing atmosphere ideal for springtime. Enhance your home's aesthetic with this elegant decor choice, perfect for accent walls or entire rooms. Embrace the beauty of vintage designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farrich Vintage Spring Floral Peel and Stick Wallpaper Bouquet Botanical  Contact Paper Removable Wallpaper for Bedroom Nursery Decorations Vinyl  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Bih-G2VAL.jpg' alt='Farrich Vintage Spring Floral Peel and Stick Wallpaper Bouquet Botanical  Contact Paper Removable Wallpaper for Bedroom Nursery Decorations Vinyl  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Bih-G2VAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest MV81501 Vintage Floral Trail Spring Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/202770.jpg' alt='Wallquest MV81501 Vintage Floral Trail Spring Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/202770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Season, Vintage">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1672829818/articles/R19218_interior1.jpg' alt='Spring Season, Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1672829818/articles/R19218_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Color Vintage Floral Design Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/2_SOFTCOLORVINTAGEFLORAL.jpg?v=1659619670' alt='Soft Color Vintage Floral Design Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/2_SOFTCOLORVINTAGEFLORAL.jpg?v=1659619670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vintage Spring Aesthetic Flowers Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-spring-aesthetic-flowers-r1itlrsg1z51ycxp.jpg' alt='Download Vintage Spring Aesthetic Flowers Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-spring-aesthetic-flowers-r1itlrsg1z51ycxp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bagatelle">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715869808/articles/FL0090MU04W_product.jpg' alt='Bagatelle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715869808/articles/FL0090MU04W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Garden Yellow">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/VintageGarden-VintageGarden-BAS00910050-Yellow-10.jpg?v=1699363317' alt='Vintage Garden Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/VintageGarden-VintageGarden-BAS00910050-Yellow-10.jpg?v=1699363317' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/vintage-floral-wallpaper-66/_1000xAUTO_cover_center-center_line/Vintage-Floral-Wallpaper-3.jpeg' alt='Vintage Floral Wallpaper | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/vintage-floral-wallpaper-66/_1000xAUTO_cover_center-center_line/Vintage-Floral-Wallpaper-3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_1153.jpg?v=1510003352' alt='1950s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_1153.jpg?v=1510003352' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and Clean">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fgmu+GFvL._AC_UF894,1000_QL80_.jpg' alt='Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and Clean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fgmu+GFvL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

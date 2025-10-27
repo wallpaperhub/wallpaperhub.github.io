@@ -1,0 +1,129 @@
+<title>Awesome Batmobile Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover amazing Batmobile wallpapers for your iPhone! Transform your device with high-quality images featuring the legendary vehicle. Perfect for fans looking to personalize their screens with iconic designs. Download now and showcase your love for Batman in style!">
+                    <meta name="keywords" content="batmobile wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/batmobile-wallpaper-iphone">
+                            <span itemprop="name">batmobile wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Batmobile Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Batmobile wallpapers! From classic designs to modern interpretations, there's a Batmobile wallpaper for every fan. Enjoy vibrant colors and dynamic compositions that pay homage to the iconic vehicle in style. Perfect for bringing a touch of Gotham to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batmobile 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/50/1c/90501c50838dc149174d02829ed04a8e.jpg' alt='Batmobile 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/50/1c/90501c50838dc149174d02829ed04a8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Wallpapers | Batman Wallpapers For iPhone | iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/58/f1/3658f1a0e4b16a5df756bc5c31028b79.jpg' alt='Batman Wallpapers | Batman Wallpapers For iPhone | iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/58/f1/3658f1a0e4b16a5df756bc5c31028b79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman iPhone Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/26/54/932654defcd01b51fa9405fc7e41fc8a.jpg' alt='Batman iPhone Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/26/54/932654defcd01b51fa9405fc7e41fc8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batmobile Of Batman Arkham Knight Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/batmobile-of-batman-arkham-knight-iphone-p7h964ml6szmf9v5.jpg' alt='Batmobile Of Batman Arkham Knight Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/batmobile-of-batman-arkham-knight-iphone-p7h964ml6szmf9v5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman iPhone Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/ea/2c/c3ea2c375d5a8b3fd682de4f4870f415.jpg' alt='Batman iPhone Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/ea/2c/c3ea2c375d5a8b3fd682de4f4870f415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="batman new batmobile iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/6e/41/3f6e4189e7dd5039fe9a05327604935e.jpg' alt='batman new batmobile iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/6e/41/3f6e4189e7dd5039fe9a05327604935e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a brilliant Batman wallpaper on Pinterest. : r/DC_Cinematic">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/scvcx0nq3tx81.jpg?auto=webp&s=7285bee4d7cca25b33c76a45ce50411c43f0cd0a' alt='Found a brilliant Batman wallpaper on Pinterest. : r/DC_Cinematic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/scvcx0nq3tx81.jpg?auto=webp&s=7285bee4d7cca25b33c76a45ce50411c43f0cd0a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Batmobile Wallpaper 4K HD PC #720h">
+                                <img itemprop="contentUrl url" src='https://image-0.uhdpaper.com/wallpaper/batman-batmobile-phone-wallpaper-4k-uhdpaper.com-72@0@h.jpg' alt='Batman Batmobile Wallpaper 4K HD PC #720h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-0.uhdpaper.com/wallpaper/batman-batmobile-phone-wallpaper-4k-uhdpaper.com-72@0@h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batmobile iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13452189.jpg' alt='Batmobile iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13452189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batmobile, alperenpeltek, ap, batman, car, designs, nights, red ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/265/HD-wallpaper-batmobile-alperenpeltek-ap-batman-car-designs-nights-red.jpg' alt='Batmobile, alperenpeltek, ap, batman, car, designs, nights, red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/265/HD-wallpaper-batmobile-alperenpeltek-ap-batman-car-designs-nights-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

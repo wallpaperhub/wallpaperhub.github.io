@@ -1,0 +1,129 @@
+<title>How a Misdemeanor Affects Employment Opportunities</title>
+                    <meta name="description" content="Discover how a misdemeanor might influence your job prospects. Understand employer perspectives, the significance of the offense, and learn about potential opportunities that focus on skills and experience. Get the insights you need to navigate the job market confidently.">
+                    <meta name="keywords" content="will a misdemeanor affect employment">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-a-misdemeanor-affect-employment">
+                            <span itemprop="name">will a misdemeanor affect employment</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How a Misdemeanor Affects Employment Opportunities</h1>
+                <p>A misdemeanor can potentially impact employment opportunities, especially in fields requiring background checks. Employers may view misdemeanors unfavorably, depending on the nature of the offense and the job's requirements. However, many companies consider the applicant's skills, experience, and overall character too, offering a chance for rehabilitation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Misdemeanor Affect Employment With The Government? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nkr_uW98lbc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJCYOgK7kM6cvwBT36vjEXCf--OQ' alt='Will A Misdemeanor Affect Employment With The Government? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nkr_uW98lbc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJCYOgK7kM6cvwBT36vjEXCf--OQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Criminal Charges Affect Employment | Get the Facts">
+                                <img itemprop="contentUrl url" src='https://www.rosenblumlawlv.com/wp-content/uploads/2024/08/How-Criminal-Charges-Affect-Employment.jpg' alt='How Criminal Charges Affect Employment | Get the Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Rosenblum Allen Law Firm" />
+                                </span>
+                                <a href='https://www.rosenblumlawlv.com/wp-content/uploads/2024/08/How-Criminal-Charges-Affect-Employment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Misdemeanor DUI Affect Employment? - Rubinstein Law Offices">
+                                <img itemprop="contentUrl url" src='https://rubinsteinlawoffices.com/wp-content/uploads/2024/11/misdemeanor-DUI-1024x536.jpg' alt='Will a Misdemeanor DUI Affect Employment? - Rubinstein Law Offices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mark S. Rubinstein, P.C." />
+                                </span>
+                                <a href='https://rubinsteinlawoffices.com/wp-content/uploads/2024/11/misdemeanor-DUI-1024x536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misdemeanors That Prevent Employment - What Are They?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/e0AC6iAn21Y/maxresdefault.jpg' alt='Misdemeanors That Prevent Employment - What Are They?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shouse Law Group" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/e0AC6iAn21Y/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How serious does the crime have to be to affect employment?">
+                                <img itemprop="contentUrl url" src='https://travischarlessmith.com/wp-content/uploads/2018/05/box1_12.jpg' alt='How serious does the crime have to be to affect employment?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travis Charles Smith" />
+                                </span>
+                                <a href='https://travischarlessmith.com/wp-content/uploads/2018/05/box1_12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Misdemeanor Affect Employment? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Y2XdjlfpJnI/hqdefault.jpg' alt='Will Misdemeanor Affect Employment? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Y2XdjlfpJnI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Misdemeanor DUI Impact Employment? | LA DUI Lawyer">
+                                <img itemprop="contentUrl url" src='https://cdn.powa.com/www.losangelesduiattorney.com/images/wp-content/uploads/2024/07/will-a-misdemeanor-dui-affect-employment-300x200-300-critical-mobile.jpg.webp' alt='Does a Misdemeanor DUI Impact Employment? | LA DUI Lawyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles DUI Lawyer" />
+                                </span>
+                                <a href='https://cdn.powa.com/www.losangelesduiattorney.com/images/wp-content/uploads/2024/07/will-a-misdemeanor-dui-affect-employment-300x200-300-critical-mobile.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Misdemeanor Affect Employment? Yes & No (Check This List)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Will-A-Misdemeanor-Affect-Employment.png' alt='Will a Misdemeanor Affect Employment? Yes & No (Check This List)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Will-A-Misdemeanor-Affect-Employment.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misdemeanors That Prevent Employment in 2025">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2024/09/5-misdemeanors-that-prevents-employment-1024x576.webp' alt='Misdemeanors That Prevent Employment in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2024/09/5-misdemeanors-that-prevents-employment-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misdemeanors That Prevent Employment in 2025">
+                                <img itemprop="contentUrl url" src='https://erasethecase.com/wp-content/uploads/2024/09/Will-the-current-employer-know-if-I-am-convicted-of-a-misdemeanor-1024x576.webp' alt='Misdemeanors That Prevent Employment in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erase The Case" />
+                                </span>
+                                <a href='https://erasethecase.com/wp-content/uploads/2024/09/Will-the-current-employer-know-if-I-am-convicted-of-a-misdemeanor-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

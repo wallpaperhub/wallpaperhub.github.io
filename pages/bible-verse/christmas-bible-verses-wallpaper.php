@@ -1,0 +1,129 @@
+<title>Inspirational Christmas Bible Verses Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover uplifting Christmas Bible verses wallpaper to celebrate the season! Download beautiful designs featuring inspiring scriptures that remind you of faith, love, and joy. Perfect for desktop or mobile, these wallpapers are a wonderful way to keep the Christmas spirit alive all year round!">
+                    <meta name="keywords" content="christmas bible verses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/christmas-bible-verses-wallpaper">
+                            <span itemprop="name">christmas bible verses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspirational Christmas Bible Verses Wallpaper for Your Device</h1>
+                <p>Enhance your holiday spirit with beautiful Christmas Bible verses wallpaper! These uplifting designs feature timeless scriptures, encouraging messages, and festive imagery to brighten your desktop or mobile device. Perfect for reminding you of the true meaning of Christmas, celebrate the season with faith and joy in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Scripture Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' alt='100+] Christmas Scripture Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Presents Acts 20:35 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' alt='Christmas Presents Acts 20:35 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Christmas Bible Verse Desktop Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/49/7f/b5497f6cbcabd20558b963fd617e19b9.jpg' alt='Download Christmas Bible Verse Desktop Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/49/7f/b5497f6cbcabd20558b963fd617e19b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/30/37/033037e32cc10a2ee1b0df0ee0f1478c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/30/37/033037e32cc10a2ee1b0df0ee0f1478c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The true meaning of Christmas can be found in the Bible ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' alt='Download The true meaning of Christmas can be found in the Bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas bible new arrivals verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' alt='Christmas bible new arrivals verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bvcr.edu.in" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Christmas Images – Browse 1,976 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/40/23/99/360_F_540239949_FEfyOBl7GrQPm96lJUHzXlaQiV06a43H.jpg' alt='Bible Verse Christmas Images – Browse 1,976 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/40/23/99/360_F_540239949_FEfyOBl7GrQPm96lJUHzXlaQiV06a43H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glory to God Luke 2:14 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/GlorytoGodLuke2-14-1.jpg' alt='Glory to God Luke 2:14 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/GlorytoGodLuke2-14-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matthew 1:23 Christmas Wallpapers | Matthew 1:23 Christmas Images">
+                                <img itemprop="contentUrl url" src='https://top-bibleverses.com/wp-content/uploads/2021/10/Christmas-wallpaper-Matthew-1-23-Behold-a-virgin-shall-be-with-child-and-shall-bring-forth-a-son-2.jpg' alt='Matthew 1:23 Christmas Wallpapers | Matthew 1:23 Christmas Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://top-bibleverses.com/wp-content/uploads/2021/10/Christmas-wallpaper-Matthew-1-23-Behold-a-virgin-shall-be-with-child-and-shall-bring-forth-a-son-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Christmas Scripture Christmas Tree Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-t60otec0lm4i9mli.jpg' alt='Download Christmas Scripture Christmas Tree Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-t60otec0lm4i9mli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

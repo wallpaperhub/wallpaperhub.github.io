@@ -1,0 +1,129 @@
+<title>Sage Green Marble Wallpaper: Elegant & Tranquil Decor</title>
+                    <meta name="description" content="Discover the beauty of sage green marble wallpaper! Perfect for adding elegance and tranquility to your home or office. Transform any space with this stylish decor choice that complements both modern and traditional interiors. Upgrade your walls effortlessly!">
+                    <meta name="keywords" content="sage green marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sage-green-marble-wallpaper">
+                            <span itemprop="name">sage green marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sage Green Marble Wallpaper: Elegant & Tranquil Decor</h1>
+                <p>Transform your space with sage green marble wallpaper, a perfect blend of elegance and tranquility. Ideal for both modern and traditional decor, this wallpaper adds a sophisticated touch to any room. The soft, earthy tones evoke a calming atmosphere, making it suitable for living rooms, bedrooms, or offices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Sage Green Marble Wall Mural Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/cd1710/4050527748/il_570xN.4050527748_b00q.jpg' alt='Abstract Sage Green Marble Wall Mural Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/cd1710/4050527748/il_570xN.4050527748_b00q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/07/cf/3407cffef8813b8dfbe720efee6a9dc7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/07/cf/3407cffef8813b8dfbe720efee6a9dc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Marble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/sage-green-marble-4wvy969r45xi4xsi.jpg' alt='Sage Green Marble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/sage-green-marble-4wvy969r45xi4xsi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Wallpaper in Soft Jade">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e2/18/b6/e218b6d02b860509720311b1803cb279.jpg' alt='Marble Wallpaper in Soft Jade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e2/18/b6/e218b6d02b860509720311b1803cb279.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f8/44/7f/f8447f0c516dca3a6e820bce1aee3d68.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f8/44/7f/f8447f0c516dca3a6e820bce1aee3d68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Marble Wallpaper, Abstract Stone Wall Mural [peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/0671f6/5855738528/il_fullxfull.5855738528_ou9j.jpg' alt='Light Green Marble Wallpaper, Abstract Stone Wall Mural [peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/0671f6/5855738528/il_fullxfull.5855738528_ou9j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Marble Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35830/abstract-marble-wallpaper-2x.jpg?q=1701881473' alt='Abstract Marble Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35830/abstract-marble-wallpaper-2x.jpg?q=1701881473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | White and sage green liquid marble wave background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/white-sage-green-liquid-marble-wave-background_671039-900.jpg' alt='Premium Vector | White and sage green liquid marble wave background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/white-sage-green-liquid-marble-wave-background_671039-900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic marble green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/40/55/b7/4055b70695f24426c1a5e7f1912437f5.jpg' alt='aesthetic marble green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/40/55/b7/4055b70695f24426c1a5e7f1912437f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Liquid marble background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/b4/96/61b496be39e60fb6d438fa090cc4baec.jpg' alt='Premium Vector | Liquid marble background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/b4/96/61b496be39e60fb6d438fa090cc4baec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

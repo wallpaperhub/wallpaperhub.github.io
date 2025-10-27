@@ -1,0 +1,129 @@
+<title>Epic Goku Wallpaper: Dragon Ball Fans Unite!</title>
+                    <meta name="description" content="Elevate your device with our stunning Goku wallpaper! Perfect for Dragon Ball enthusiasts, this vibrant design showcases Goku in action. Get ready to energize your screen with iconic moments from the series. Download now and embrace the power of the Saiyan warrior!">
+                    <meta name="keywords" content="drip:kaznzfty9wy= goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/dripkaznzfty9wy-goku-wallpaper">
+                            <span itemprop="name">drip:kaznzfty9wy= goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Wallpaper: Dragon Ball Fans Unite!</h1>
+                <p>Discover the ultimate Goku wallpaper that captures the essence of Dragon Ball’s legendary hero. Perfect for enthusiasts, this wallpaper brings vibrant colors and dynamic poses to any device. Whether you're looking for epic battles or serene moments, elevate your screen's aesthetic with this stunning Goku wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip Goku wallpaper by namanop77 - Download on ZEDGE™ | 218a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/d8/b9/ffd8b9f2b78f1b44d3ab5978560093da.jpg' alt='Drip Goku wallpaper by namanop77 - Download on ZEDGE™ | 218a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/d8/b9/ffd8b9f2b78f1b44d3ab5978560093da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku drip mui, dbz, super, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/50/727/HD-wallpaper-goku-mui-ball-dragon.jpg' alt='Goku drip mui, dbz, super, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/50/727/HD-wallpaper-goku-mui-ball-dragon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Drip Son Goku Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-drip-son-goku-3dtp5mlifjxtzmxa.jpg' alt='Cool Drip Son Goku Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-drip-son-goku-3dtp5mlifjxtzmxa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip Goku Ui by Gaviantunes on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d91c0d64-0074-45a6-bed8-d9ef2dc584fa/dfr7h8n-7750ae1a-5f13-424c-827b-607adc5f1f62.jpg/v1/fill/w_735,h_742,q_75,strp/drip_goku_ui_by_gaviantunes_dfr7h8n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQyIiwicGF0aCI6IlwvZlwvZDkxYzBkNjQtMDA3NC00NWE2LWJlZDgtZDllZjJkYzU4NGZhXC9kZnI3aDhuLTc3NTBhZTFhLTVmMTMtNDI0Yy04MjdiLTYwN2FkYzVmMWY2Mi5qcGciLCJ3aWR0aCI6Ijw9NzM1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fLuwUSDNouf2gvszVwk8aKgr9WccX2AmH8dPGJegMDc' alt='Drip Goku Ui by Gaviantunes on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d91c0d64-0074-45a6-bed8-d9ef2dc584fa/dfr7h8n-7750ae1a-5f13-424c-827b-607adc5f1f62.jpg/v1/fill/w_735,h_742,q_75,strp/drip_goku_ui_by_gaviantunes_dfr7h8n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQyIiwicGF0aCI6IlwvZlwvZDkxYzBkNjQtMDA3NC00NWE2LWJlZDgtZDllZjJkYzU4NGZhXC9kZnI3aDhuLTc3NTBhZTFhLTVmMTMtNDI0Yy04MjdiLTYwN2FkYzVmMWY2Mi5qcGciLCJ3aWR0aCI6Ijw9NzM1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fLuwUSDNouf2gvszVwk8aKgr9WccX2AmH8dPGJegMDc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip goku, son goku, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/857/273/HD-wallpaper-drip-goku-son-goku.jpg' alt='Drip goku, son goku, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/857/273/HD-wallpaper-drip-goku-son-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Drip!! by Mangrow46 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99e85f5f-105b-4831-b668-8dce393bfaf4/decu24c-b8979581-7ffa-4cba-9a88-56fe608f5dc5.jpg/v1/fill/w_894,h_894,q_70,strp/goku_drip___by_mangrow46_decu24c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzk5ZTg1ZjVmLTEwNWItNDgzMS1iNjY4LThkY2UzOTNiZmFmNFwvZGVjdTI0Yy1iODk3OTU4MS03ZmZhLTRjYmEtOWE4OC01NmZlNjA4ZjVkYzUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.C5PM3TcUwMX4pyzslNiSUvnfIfNU_QsrmmSx87v2o9Q' alt='Goku Drip!! by Mangrow46 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99e85f5f-105b-4831-b668-8dce393bfaf4/decu24c-b8979581-7ffa-4cba-9a88-56fe608f5dc5.jpg/v1/fill/w_894,h_894,q_70,strp/goku_drip___by_mangrow46_decu24c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzk5ZTg1ZjVmLTEwNWItNDgzMS1iNjY4LThkY2UzOTNiZmFmNFwvZGVjdTI0Yy1iODk3OTU4MS03ZmZhLTRjYmEtOWE4OC01NmZlNjA4ZjVkYzUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.C5PM3TcUwMX4pyzslNiSUvnfIfNU_QsrmmSx87v2o9Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip Goku Wallpapers - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/fe/1b/a1fe1bdc9c925cc49bd5aa5f25a28626.jpg' alt='Drip Goku Wallpapers - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/fe/1b/a1fe1bdc9c925cc49bd5aa5f25a28626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drip Goku wallpaper by RX78w - Download on ZEDGE™ | e0e9">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=_oanoaUJ1p4J_jv2llbQLaMqviOWHV9wzLldZGIOzbxxy3MI4S9CeKw13JVuLbgRaksehC6NIbkC5oV-uq6-6mbsBcXYgDXKYcw5c2jAhpUooi9sVyNezRxKaQfn95rwLgNlFnzLp6eMLdds31qQHezLDQve2lwHEo4vidaQq8cQFBqXtUGSaay6s81p-AsNcECpGqSYkpajTJqPfOca8vWHgihPvsbQFTUBFPoZLfPDpAwsF5sCWFJemug' alt='Drip Goku wallpaper by RX78w - Download on ZEDGE™ | e0e9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=_oanoaUJ1p4J_jv2llbQLaMqviOWHV9wzLldZGIOzbxxy3MI4S9CeKw13JVuLbgRaksehC6NIbkC5oV-uq6-6mbsBcXYgDXKYcw5c2jAhpUooi9sVyNezRxKaQfn95rwLgNlFnzLp6eMLdds31qQHezLDQve2lwHEo4vidaQq8cQFBqXtUGSaay6s81p-AsNcECpGqSYkpajTJqPfOca8vWHgihPvsbQFTUBFPoZLfPDpAwsF5sCWFJemug' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku drip UI wallpaper by Myuler_zzz - Download on ZEDGE™ | 1770">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/f1/f8/67f1f8bee5d9959ce9fa37e747486c21.jpg' alt='Goku drip UI wallpaper by Myuler_zzz - Download on ZEDGE™ | 1770'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/f1/f8/67f1f8bee5d9959ce9fa37e747486c21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="drip blue goku by Shadow8546 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdf566d8-2f26-4da2-859d-2308aa15d7df/dhzrndn-89066b3e-c199-4aff-b7d7-fbea83623395.png/v1/fill/w_640,h_750,q_80,strp/drip_blue_goku__by_shadow8546_dhzrndn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6IlwvZlwvYmRmNTY2ZDgtMmYyNi00ZGEyLTg1OWQtMjMwOGFhMTVkN2RmXC9kaHpybmRuLTg5MDY2YjNlLWMxOTktNGFmZi1iN2Q3LWZiZWE4MzYyMzM5NS5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Me5Vg4xUexeTbG2xj4YkdN72RjJxImb0dZpNy6Ql98A' alt='drip blue goku by Shadow8546 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdf566d8-2f26-4da2-859d-2308aa15d7df/dhzrndn-89066b3e-c199-4aff-b7d7-fbea83623395.png/v1/fill/w_640,h_750,q_80,strp/drip_blue_goku__by_shadow8546_dhzrndn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUwIiwicGF0aCI6IlwvZlwvYmRmNTY2ZDgtMmYyNi00ZGEyLTg1OWQtMjMwOGFhMTVkN2RmXC9kaHpybmRuLTg5MDY2YjNlLWMxOTktNGFmZi1iN2Q3LWZiZWE4MzYyMzM5NS5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Me5Vg4xUexeTbG2xj4YkdN72RjJxImb0dZpNy6Ql98A' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

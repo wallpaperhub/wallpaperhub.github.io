@@ -1,0 +1,129 @@
+<title>Transform Your Space with Reactive Wallpaper</title>
+                    <meta name="description" content="Explore the beauty of reactive wallpaper, an interactive décor choice that changes with sound and motion. Perfect for adding a unique touch to your home, this modern solution brings walls to life, enhancing your living space with vibrant colors and patterns. Discover the future of interior design today!">
+                    <meta name="keywords" content="reactive wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reactive-wallpaper">
+                            <span itemprop="name">reactive wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Reactive Wallpaper</h1>
+                <p>Reactive wallpaper is an innovative home décor solution that responds to sound, motion, or touch, transforming ordinary walls into interactive canvases. These wallpapers use advanced technology to change colors or patterns, creating a dynamic atmosphere in any space. Perfect for modern living, reactive wallpaper elevates your interior design to a whole new level.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Reactive Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/reactive-7f87yygyeqk2qh5h.jpg' alt='100+] Reactive Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/reactive-7f87yygyeqk2qh5h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::4k 2k HD Audio Responsive">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1695028324681238450/62D6EC4C5856699ECCCBC9EFF27322A399BA5B7E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::4k 2k HD Audio Responsive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1695028324681238450/62D6EC4C5856699ECCCBC9EFF27322A399BA5B7E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unity/Wallpaper Engine - Journey to the Singularity (Live Audio-Reactive  Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Twdtsza0CMc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH0gLih_MA8=&rs=AOn4CLA93I3o67mSKmjLWpemKakYoYN7og' alt='Unity/Wallpaper Engine - Journey to the Singularity (Live Audio-Reactive  Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Twdtsza0CMc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH0gLih_MA8=&rs=AOn4CLA93I3o67mSKmjLWpemKakYoYN7og' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Various Reactive Paints Psychedelic Swirl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/various-reactive-paints-psychedelic-swirl-ti38dh9gcpybbv73.jpg' alt='Various Reactive Paints Psychedelic Swirl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/various-reactive-paints-psychedelic-swirl-ti38dh9gcpybbv73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harnessing The Power Of Reactive Programming Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/colorful-light-burst-background-kwcece3pk6pwoozx.webp' alt='Harnessing The Power Of Reactive Programming Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/colorful-light-burst-background-kwcece3pk6pwoozx.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Could someone make this an audio reactive wallpaper? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8gho3dvgz3p51.jpg?auto=webp&s=02c8848e4fc56820d7069372bca33fd574ca89a4' alt='Could someone make this an audio reactive wallpaper? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8gho3dvgz3p51.jpg?auto=webp&s=02c8848e4fc56820d7069372bca33fd574ca89a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reactive Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/adapt-respond-and-react-lvs4m25ovg6vl2vj.jpg' alt='Reactive Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/adapt-respond-and-react-lvs4m25ovg6vl2vj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer Logo Reactive Rgb Colors Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/razer-logo-reactive-rgb-colors-0qc5c5ha722i9z5w.jpg' alt='Razer Logo Reactive Rgb Colors Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/razer-logo-reactive-rgb-colors-0qc5c5ha722i9z5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fortnite - Pc - Pc - Pc - Pc - Pc - P Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/high/reactive-w9m4irfxyed6xlmf.jpg' alt='Download Fortnite - Pc - Pc - Pc - Pc - Pc - P Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/high/reactive-w9m4irfxyed6xlmf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD blacklight reactive wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/941/731/HD-wallpaper-swirly-painting-2-blacklight-galaxy-magic-neon-pour-painting-space-stars-uv-reactive.jpg' alt='HD blacklight reactive wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/941/731/HD-wallpaper-swirly-painting-2-blacklight-galaxy-magic-neon-pour-painting-space-stars-uv-reactive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

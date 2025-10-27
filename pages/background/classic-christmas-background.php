@@ -1,0 +1,129 @@
+<title>Classic Christmas Backgrounds: Timeless Holiday Decor</title>
+                    <meta name="description" content="Discover the charm of classic Christmas backgrounds that bring warmth and nostalgia to your holiday celebrations. Perfect for decorating your home or enhancing festive photos, these timeless scenes are sure to evoke the spirit of the season. Find your perfect holiday backdrop today!">
+                    <meta name="keywords" content="classic christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/classic-christmas-background">
+                            <span itemprop="name">classic christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Christmas Backgrounds: Timeless Holiday Decor</h1>
+                <p>Classic Christmas backgrounds evoke a warm, nostalgic ambiance, perfect for the holiday season. Imagine cozy living rooms adorned with twinkling lights, vintage ornaments, and snowy scenes outside the window. These timeless images capture the spirit of Christmas, inviting joy and togetherness for family gatherings and festive celebrations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Christmas" Images – Browse 13,938 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/76/11/02/360_F_976110277_W6g7LV35cMRTFIEGez9HhYKv64cKISKJ.jpg' alt='Classic Christmas" Images – Browse 13,938 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/76/11/02/360_F_976110277_W6g7LV35cMRTFIEGez9HhYKv64cKISKJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic christmas background with chimney | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/classic-christmas-background-with-chimney_974629-82701.jpg' alt='Classic christmas background with chimney | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/classic-christmas-background-with-chimney_974629-82701.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Christmas Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-christmas-ornament-border-with-pine-branches-berries_926058-20077.jpg' alt='Classic Christmas Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-christmas-ornament-border-with-pine-branches-berries_926058-20077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Hours of Classic Christmas Songs with Fireplace and Beautiful Christmas  Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/r3HapkXa-s4/maxresdefault.jpg' alt='2 Hours of Classic Christmas Songs with Fireplace and Beautiful Christmas  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/r3HapkXa-s4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Christmas background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/58/17/97/1000_F_58179701_fV0LYtVDh2psFhm6cv9Hi3rnAgzZbih6.jpg' alt='Traditional Christmas background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/58/17/97/1000_F_58179701_fV0LYtVDh2psFhm6cv9Hi3rnAgzZbih6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional Christmas Background Stock Illustration - Download ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/892550244/vector/traditional-christmas-background.jpg?s=612x612&w=0&k=20&c=QEi_xZ60huhbIue9v_y0znMe_OiFyRGiFfHOEK1uThU=' alt='Traditional Christmas Background Stock Illustration - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/892550244/vector/traditional-christmas-background.jpg?s=612x612&w=0&k=20&c=QEi_xZ60huhbIue9v_y0znMe_OiFyRGiFfHOEK1uThU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Christmas" Images – Browse 13,938 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/17/49/40/360_F_1017494006_c2EA92XYV57oCVMJft00KFqnkPgsnTyG.jpg' alt='Classic Christmas" Images – Browse 13,938 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/17/49/40/360_F_1017494006_c2EA92XYV57oCVMJft00KFqnkPgsnTyG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Classic Christmas Background Stock Illustrations – 40,733 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-classic-christmas-background-21698659.jpg' alt='Elegant Classic Christmas Background Stock Illustrations – 40,733 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-classic-christmas-background-21698659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/900/072/non_2x/festive-christmas-border-on-vintage-green-background-photo.jpg' alt='Vintage Christmas Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/900/072/non_2x/festive-christmas-border-on-vintage-green-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Christmas Background Branches Of Christmas Fir With Decor ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/847108038/photo/classic-christmas-background-branches-of-christmas-fir-with-decor-gingerbread-and-gifts.jpg?s=1024x1024&w=is&k=20&c=RqIa_gD0ca83IlXx81hAeuE1s-XjSRAXxi281AEsQCw=' alt='Classic Christmas Background Branches Of Christmas Fir With Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/847108038/photo/classic-christmas-background-branches-of-christmas-fir-with-decor-gingerbread-and-gifts.jpg?s=1024x1024&w=is&k=20&c=RqIa_gD0ca83IlXx81hAeuE1s-XjSRAXxi281AEsQCw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

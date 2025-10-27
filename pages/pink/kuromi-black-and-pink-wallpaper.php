@@ -1,0 +1,129 @@
+<title>Stylish Kuromi Black and Pink Wallpaper for Trendy Spaces</title>
+                    <meta name="description" content="Add a pop of personality to your room with our kuromi black and pink wallpaper. Perfect for any kuromi lover, this wallpaper combines fun and flair, making it an ideal choice for eclectic decor. Explore your creativity and revamp your space effortlessly with this eye-catching design!">
+                    <meta name="keywords" content="kuromi black and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/kuromi-black-and-pink-wallpaper">
+                            <span itemprop="name">kuromi black and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Kuromi Black and Pink Wallpaper for Trendy Spaces</h1>
+                <p>Transform your space with vibrant kuromi black and pink wallpaper, perfect for fans of cute and quirky aesthetics. This stylish wallpaper features kuromi's playful character, set against a bold black backdrop accented with striking pink elements. Ideal for bedrooms, game rooms, or any personal space that craves a unique touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black and pink kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/d8/d9/b8d8d9b587ebeec66b6c04618195bb57.jpg' alt='black and pink kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/d8/d9/b8d8d9b587ebeec66b6c04618195bb57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi pink and black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/44/30/a0443025c6d0825e936f9ef40f7db2d7.jpg' alt='Kuromi pink and black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/44/30/a0443025c6d0825e936f9ef40f7db2d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi black and pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b5/5b/2a/b55b2ad54167f9054ac25453bad059cd.jpg' alt='kuromi black and pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b5/5b/2a/b55b2ad54167f9054ac25453bad059cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi On A Pink Cherry Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/kuromi-on-a-pink-cherry-6h0cf6uxfqebt59p.jpg' alt='Kuromi On A Pink Cherry Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="482">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/kuromi-on-a-pink-cherry-6h0cf6uxfqebt59p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kuromi Black And Pink Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kuromi-black-and-pink-pattern-ligh23r2t5001a79.jpg' alt='Download Cute Kuromi Black And Pink Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kuromi-black-and-pink-pattern-ligh23r2t5001a79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi, my melody, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1007/893/HD-wallpaper-kuromi-my-melody.jpg' alt='Kuromi, my melody, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1007/893/HD-wallpaper-kuromi-my-melody.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kuromi Pink Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kuromi-pink-pattern-h2co0nuvuk8mhnt8.jpg' alt='Download Cute Kuromi Pink Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kuromi-pink-pattern-h2co0nuvuk8mhnt8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a0/30/fe/a030fe3e96dbf8f8149d30a65ad865c9.jpg' alt='kuromi   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a0/30/fe/a030fe3e96dbf8f8149d30a65ad865c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi And Her Black Book Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/kuromi-and-her-black-book-lngeewjotxwducot.jpg' alt='Kuromi And Her Black Book Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/kuromi-and-her-black-book-lngeewjotxwducot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Pink Wallpaper |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/46/b5/0046b5f468d3c4a093b9b0b8b97ce9b0.jpg' alt='Black and Pink Wallpaper |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/46/b5/0046b5f468d3c4a093b9b0b8b97ce9b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

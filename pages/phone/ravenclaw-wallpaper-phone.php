@@ -1,0 +1,129 @@
+<title>Ravenclaw Phone Wallpapers: Elevate Your Style</title>
+                    <meta name="description" content="Discover the best Ravenclaw wallpapers for your phone! Perfect for fans who appreciate intelligence and creativity, these stunning backgrounds will showcase your house pride. Download now and personalize your mobile device with beautiful Ravenclaw designs!">
+                    <meta name="keywords" content="ravenclaw wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/ravenclaw-wallpaper-phone">
+                            <span itemprop="name">ravenclaw wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ravenclaw Phone Wallpapers: Elevate Your Style</h1>
+                <p>Transform your phone with stunning Ravenclaw wallpaper! Show your house pride with beautiful designs featuring the iconic blue and bronze colors, the majestic eagle, and inspiring quotes from the "Harry Potter" series. Perfect for fans who want to elevate their mobile experience while embracing their inner wisdom and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravenclaw - Phone Wallpaper by request from u/DK_SpaceHero : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dgdjnuk64yz61.jpg' alt='Ravenclaw - Phone Wallpaper by request from u/DK_SpaceHero : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dgdjnuk64yz61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Ravenclaw Wallpaper Aesthetic Options For Your iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/b8/fe/efb8fe3bfeda092433575f52582e3d90.jpg' alt='30+ Ravenclaw Wallpaper Aesthetic Options For Your iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/b8/fe/efb8fe3bfeda092433575f52582e3d90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravenclaw Wallpapers (14 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/7/5/249006-1920x2773-samsung-hd-ravenclaw-wallpaper-image.jpg' alt='Ravenclaw Wallpapers (14 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/7/5/249006-1920x2773-samsung-hd-ravenclaw-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravenclaw, harry potter, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/740/566/HD-wallpaper-ravenclaw-harry-potter.jpg' alt='Ravenclaw, harry potter, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/740/566/HD-wallpaper-ravenclaw-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Ravenclaw Wallpaper Aesthetic Options For Your iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/dd/c9/61ddc96f6f0e9a559835154f82ac2c80.jpg' alt='30+ Ravenclaw Wallpaper Aesthetic Options For Your iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/dd/c9/61ddc96f6f0e9a559835154f82ac2c80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Harry Potter Ravenclaw Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-harry-potter-ravenclaw-galaxy-diq3moljwd3byhvj.jpg' alt='Cute Harry Potter Ravenclaw Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-harry-potter-ravenclaw-galaxy-diq3moljwd3byhvj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter - Ravenclaw Phone Wallpaper by Seymonster on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcr-396b7480-1643-404d-8fb2-47c0226efd07.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjci0zOTZiNzQ4MC0xNjQzLTQwNGQtOGZiMi00N2MwMjI2ZWZkMDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.elt-YpoPfGe6O9rq7tvEAO9MRI4YGg4BJN029svBLBw' alt='Harry Potter - Ravenclaw Phone Wallpaper by Seymonster on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcr-396b7480-1643-404d-8fb2-47c0226efd07.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjci0zOTZiNzQ4MC0xNjQzLTQwNGQtOGZiMi00N2MwMjI2ZWZkMDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.elt-YpoPfGe6O9rq7tvEAO9MRI4YGg4BJN029svBLBw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravenclaw, harry potter, ravenclaw, blue, always, lumos, magic, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/729/988/HD-wallpaper-ravenclaw-harry-potter-ravenclaw-blue-always-lumos-magic.jpg' alt='Ravenclaw, harry potter, ravenclaw, blue, always, lumos, magic, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/729/988/HD-wallpaper-ravenclaw-harry-potter-ravenclaw-blue-always-lumos-magic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ravenclaw wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/36/f6/f9/36f6f927373e1c0fea512d123f150945.jpg' alt='ravenclaw wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/36/f6/f9/36f6f927373e1c0fea512d123f150945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravenclaw iPhone 4/4s Lockscreen Wallpaper by briely on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4572e099-2153-4d1a-a8c1-6a100b770750/d563hzt-41101595-93a8-4e30-aa0c-cc6584f3df2c.png/v1/fill/w_640,h_960,q_80,strp/ravenclaw_iphone_4_4s_lockscreen_wallpaper_by_briely_d563hzt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNDU3MmUwOTktMjE1My00ZDFhLWE4YzEtNmExMDBiNzcwNzUwXC9kNTYzaHp0LTQxMTAxNTk1LTkzYTgtNGUzMC1hYTBjLWNjNjU4NGYzZGYyYy5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.gFyyGfubxOtObtURdJaPoXJ6FY17sJxYH_gJqAZdA7c' alt='Ravenclaw iPhone 4/4s Lockscreen Wallpaper by briely on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4572e099-2153-4d1a-a8c1-6a100b770750/d563hzt-41101595-93a8-4e30-aa0c-cc6584f3df2c.png/v1/fill/w_640,h_960,q_80,strp/ravenclaw_iphone_4_4s_lockscreen_wallpaper_by_briely_d563hzt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvNDU3MmUwOTktMjE1My00ZDFhLWE4YzEtNmExMDBiNzcwNzUwXC9kNTYzaHp0LTQxMTAxNTk1LTkzYTgtNGUzMC1hYTBjLWNjNjU4NGYzZGYyYy5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.gFyyGfubxOtObtURdJaPoXJ6FY17sJxYH_gJqAZdA7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

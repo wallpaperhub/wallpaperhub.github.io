@@ -1,0 +1,129 @@
+<title>Stunning Moving Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="moving wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moving-wallpapers">
+                            <span itemprop="name">moving wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moving Wallpapers for Your Device</h1>
+                <p>Moving wallpapers are dynamic backgrounds that bring life to your device's home screen. They enhance aesthetics and can reflect your personality or mood. From nature scenes to animated patterns, these wallpapers create an engaging visual experience. With various options available, customizing your screen has never been more exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="https://i.pinimg.com/originals/66/31/e1 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/15/64/5c1564b2b48622494d5a828405fa677d.gif' alt='https://i.pinimg.com/originals/66/31/e1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/15/64/5c1564b2b48622494d5a828405fa677d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D rendering of futuristic sci-fi or neon tunnel corridors. Abstract  seamless vj video loop live wallpaper moving background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/161/423/large/3d-rendering-of-futuristic-sci-fi-or-neon-tunnel-corridors-abstract-seamless-vj-loop-live-wallpaper-moving-background-video.jpg' alt='3D rendering of futuristic sci-fi or neon tunnel corridors. Abstract  seamless vj video loop live wallpaper moving background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/161/423/large/3d-rendering-of-futuristic-sci-fi-or-neon-tunnel-corridors-abstract-seamless-vj-loop-live-wallpaper-moving-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset, Palm Trees, Road">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' alt='Sunset, Palm Trees, Road'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Moving Optical Illusion Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-moving-optical-illusion-desktop-t7ts9bfe1rfi6owt.jpg' alt='4k Moving Optical Illusion Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-moving-optical-illusion-desktop-t7ts9bfe1rfi6owt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' alt='6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="motionbgs.com" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool moving 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/3c/2f/5e3c2fa73f239d212389d03c0305a1b8.jpg' alt='Cool moving 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/3c/2f/5e3c2fa73f239d212389d03c0305a1b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Moving Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' alt='Cool Moving Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving backgrounds for 2025 pc">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/live-jl2nsh524axnqy5y.jpg' alt='Moving backgrounds for 2025 pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/live-jl2nsh524axnqy5y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep On Moving Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/keep-on-moving-g00u8loctybgo5bl.jpg' alt='Keep On Moving Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/keep-on-moving-g00u8loctybgo5bl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

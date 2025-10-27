@@ -1,0 +1,129 @@
+<title>Ink Demon Wallpaper: Dark Aesthetic Designs for Your Device</title>
+                    <meta name="description" content="Discover the best Ink Demon wallpaper for a unique touch to your device. These captivating designs immerse you in a world of dark creativity, perfect for fans. Download now and elevate your screen with stunning visuals!">
+                    <meta name="keywords" content="ink demon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/ink-demon-wallpaper">
+                            <span itemprop="name">ink demon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ink Demon Wallpaper: Dark Aesthetic Designs for Your Device</h1>
+                <p>Transform your device with captivating Ink Demon wallpaper that brings the essence of darkness and creativity to life. Perfect for fans of edgy aesthetics and animated horror. These wallpapers feature unique designs inspired by the Ink Demon universe, ensuring your screen stands out with a blend of intrigue and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Demon Desktop Wallpaper | BADTR by CO3NO on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d848e89d-e0e7-4470-b1fd-de37b8a31d38/dfmsgmx-cab84e48-4cd2-4721-816c-cfd8efbc8423.png/v1/fill/w_1920,h_1080,q_80,strp/ink_demon_desktop_wallpaper___badtr_by_co3no_dfmsgmx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Q4NDhlODlkLWUwZTctNDQ3MC1iMWZkLWRlMzdiOGEzMWQzOFwvZGZtc2dteC1jYWI4NGU0OC00Y2QyLTQ3MjEtODE2Yy1jZmQ4ZWZiYzg0MjMucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cXRCcLWoyn79nBEGONnHJcrwfRDIVcL4O2saQxiRmRE' alt='Ink Demon Desktop Wallpaper | BADTR by CO3NO on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d848e89d-e0e7-4470-b1fd-de37b8a31d38/dfmsgmx-cab84e48-4cd2-4721-816c-cfd8efbc8423.png/v1/fill/w_1920,h_1080,q_80,strp/ink_demon_desktop_wallpaper___badtr_by_co3no_dfmsgmx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Q4NDhlODlkLWUwZTctNDQ3MC1iMWZkLWRlMzdiOGEzMWQzOFwvZGZtc2dteC1jYWI4NGU0OC00Y2QyLTQ3MjEtODE2Yy1jZmQ4ZWZiYzg0MjMucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cXRCcLWoyn79nBEGONnHJcrwfRDIVcL4O2saQxiRmRE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download this Bendy the Ink Demon Wallpaper! by Draw With Rydi ...">
+                                <img itemprop="contentUrl url" src='https://ar.toneden.io/7569775/tracks/0.9110412668746298?cache=1493223481353' alt='Download this Bendy the Ink Demon Wallpaper! by Draw With Rydi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ToneDen" />
+                                </span>
+                                <a href='https://ar.toneden.io/7569775/tracks/0.9110412668746298?cache=1493223481353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Demon Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7339330.jpg' alt='Ink Demon Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7339330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ink Demon Is Coming. Hide. : r/BendyAndTheInkMachine">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vd4pcep9682a1.png' alt='The Ink Demon Is Coming. Hide. : r/BendyAndTheInkMachine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vd4pcep9682a1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="INK DEMON wallpaper by madness8 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ca893e3-6a4e-41ea-969e-60b2e6bc4315/dfuraa8-60fb6226-1c90-44a4-8a3c-527d53374f11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljYTg5M2UzLTZhNGUtNDFlYS05NjllLTYwYjJlNmJjNDMxNVwvZGZ1cmFhOC02MGZiNjIyNi0xYzkwLTQ0YTQtOGEzYy01MjdkNTMzNzRmMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fViWsKx8ZARAVBNZmsnoDCsAsAB38tBu31d2YbPA940' alt='INK DEMON wallpaper by madness8 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ca893e3-6a4e-41ea-969e-60b2e6bc4315/dfuraa8-60fb6226-1c90-44a4-8a3c-527d53374f11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljYTg5M2UzLTZhNGUtNDFlYS05NjllLTYwYjJlNmJjNDMxNVwvZGZ1cmFhOC02MGZiNjIyNi0xYzkwLTQ0YTQtOGEzYy01MjdkNTMzNzRmMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fViWsKx8ZARAVBNZmsnoDCsAsAB38tBu31d2YbPA940' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ink Demon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/48/34/f048343c896bbdb43a51cba8afc21cab.jpg' alt='The Ink Demon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/48/34/f048343c896bbdb43a51cba8afc21cab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ink demon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/905/511/HD-wallpaper-the-ink-demon-batim-gameplay-ink-ink-demon.jpg' alt='HD ink demon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/905/511/HD-wallpaper-the-ink-demon-batim-gameplay-ink-ink-demon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bendy And The Ink Demon by MarcosCastilloSilva on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd8e72ff-a44e-4487-a138-e9abcc5ca803/di961aw-022a90ee-7209-4391-b524-63c4638215a8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkOGU3MmZmLWE0NGUtNDQ4Ny1hMTM4LWU5YWJjYzVjYTgwM1wvZGk5NjFhdy0wMjJhOTBlZS03MjA5LTQzOTEtYjUyNC02M2M0NjM4MjE1YTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRGX2jtpXpUHXtw4SvjxGUsdDTSQazhrOWarh2YKIR8' alt='Bendy And The Ink Demon by MarcosCastilloSilva on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd8e72ff-a44e-4487-a138-e9abcc5ca803/di961aw-022a90ee-7209-4391-b524-63c4638215a8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkOGU3MmZmLWE0NGUtNDQ4Ny1hMTM4LWU5YWJjYzVjYTgwM1wvZGk5NjFhdy0wMjJhOTBlZS03MjA5LTQzOTEtYjUyNC02M2M0NjM4MjE1YTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRGX2jtpXpUHXtw4SvjxGUsdDTSQazhrOWarh2YKIR8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ink Demon is coming. Hide] : r/BendyAndTheInkMachine">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-ink-demon-is-coming-hide-v0-u98ggrhga0ya1.png?width=1080&crop=smart&auto=webp&s=51b476aba8ea7342714c21b7cdacfaba2be8f4fb' alt='The Ink Demon is coming. Hide] : r/BendyAndTheInkMachine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-ink-demon-is-coming-hide-v0-u98ggrhga0ya1.png?width=1080&crop=smart&auto=webp&s=51b476aba8ea7342714c21b7cdacfaba2be8f4fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wissam Alaili on X: "The ink demon needs a big print too    #BENDY ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FuMM6kLXoAYjFll.jpg:large' alt='Wissam Alaili on X: "The ink demon needs a big print too    #BENDY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FuMM6kLXoAYjFll.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

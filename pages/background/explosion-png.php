@@ -1,0 +1,129 @@
+<title>High-Quality Explosion PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover premium explosion PNG images perfect for enhancing your designs. With transparent backgrounds and stunning effects, these graphics are ideal for games, ads, and illustrations. Elevate your visuals effortlessly! Explore our collection now.">
+                    <meta name="keywords" content="explosion png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/explosion-png">
+                            <span itemprop="name">explosion png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Explosion PNG Images for Your Projects</h1>
+                <p>Explosion PNG images are versatile graphics ideal for various design projects, including video games, advertisements, and illustrations. Their transparent background allows for easy integration into any scene, enhancing visual appeal. Use explosion PNGs to add dynamic effects and emphasize action in your projects with stunning realism.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/fiery-explosion-dramatic-visual-combustion-destruction_632498-25442.jpg' alt='Explosion Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/fiery-explosion-dramatic-visual-combustion-destruction_632498-25442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion PNG Images, Download 8400+ Explosion PNG Resources with ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230917/original/pngtree-flame-burning-sparks-splash-broken-bomb-explosion-realistic-photography-decorative-pattern-png-image_12297991.png' alt='Explosion PNG Images, Download 8400+ Explosion PNG Resources with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230917/original/pngtree-flame-burning-sparks-splash-broken-bomb-explosion-realistic-photography-decorative-pattern-png-image_12297991.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Bright Fire Spark Explosion PNG Image - PurePNG | Free ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/31508450897i16jy6i5lbbzst8d3bxn5ky07mvrv8wqejwgtwufkbt0pi1lqej7boqhuiikp5ervvg8pfpsg3gukxzudeigp3qsak8vy6vybq6t.png' alt='Big Bright Fire Spark Explosion PNG Image - PurePNG | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/31508450897i16jy6i5lbbzst8d3bxn5ky07mvrv8wqejwgtwufkbt0pi1lqej7boqhuiikp5ervvg8pfpsg3gukxzudeigp3qsak8vy6vybq6t.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/png-fiery-explosion-with-flying-debris_53876-606764.jpg' alt='Explosion Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/png-fiery-explosion-with-flying-debris_53876-606764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Explosion PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/037/625/small/explosion-fire-transparent-background-png.png' alt='Fire Explosion PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="266">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/037/625/small/explosion-fire-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion Png Images – Browse 265,038 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/32/48/66/360_F_632486628_ji80bZcQLU7V2egQs70NlfrWwLo12j5N.jpg' alt='Explosion Png Images – Browse 265,038 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/32/48/66/360_F_632486628_ji80bZcQLU7V2egQs70NlfrWwLo12j5N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion PNG transparent image download, size: 900x600px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/explosion_PNG15349.png' alt='Explosion PNG transparent image download, size: 900x600px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/explosion_PNG15349.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion PNG transparent image download, size: 2200x2316px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/explosion_PNG15367.png' alt='Explosion PNG transparent image download, size: 2200x2316px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/explosion_PNG15367.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/159/636/png-clipart-explosion-explosion.png' alt='Explosion png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/159/636/png-clipart-explosion-explosion.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explosion PNG - Download Free & Premium Transparent Explosion PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.creativefabrica.com/products/previews/2023/10/27/KrK8KFB7R/2XLyAimahCUrya5WmtT0F3itr4A-mobile.jpg' alt='Explosion PNG - Download Free & Premium Transparent Explosion PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://images.creativefabrica.com/products/previews/2023/10/27/KrK8KFB7R/2XLyAimahCUrya5WmtT0F3itr4A-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

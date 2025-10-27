@@ -1,0 +1,129 @@
+<title>Stunning Gojo Wallpaper: Hollow Purple Design</title>
+                    <meta name="description" content="Discover eye-catching Gojo wallpaper with a hollow purple theme, ideal for Jujutsu Kaisen enthusiasts. Enjoy high-quality images that bring the powerful aesthetic of Gojo Satoru to your devices. Download now for an impressive backdrop!">
+                    <meta name="keywords" content="gojo wallpaper hollow purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/gojo-wallpaper-hollow-purple">
+                            <span itemprop="name">gojo wallpaper hollow purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gojo Wallpaper: Hollow Purple Design</h1>
+                <p>Explore stunning Gojo Satoru wallpaper featuring the iconic hollow purple effect. Perfect for fans of Jujutsu Kaisen, these high-resolution images capture Gojo's powerful presence and striking visuals. Enhance your device's aesthetic with these wallpapers that showcase his captivating energy and unique design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Hollow Purple Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' alt='Gojo Hollow Purple Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo- Purple - by me : r/JuJutsuKaisen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xi1fnvu655k61.jpg' alt='Satoru Gojo- Purple - by me : r/JuJutsuKaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xi1fnvu655k61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7pLV-hCZF3s/maxresdefault.jpg' alt='Gojo Satoru Hollow Purple 4K Live Wallpaper | Jujutsu Kaisen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7pLV-hCZF3s/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Gojo Hollow Technique Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/jujutsu-kaisen-gojo-hollow-technique-sx02pbp91noojt9k.jpg' alt='Jujutsu Kaisen Gojo Hollow Technique Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/jujutsu-kaisen-gojo-hollow-technique-sx02pbp91noojt9k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gojo satoru hollow purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/77/a7/bb77a7934fe03260af8380f63ae3f6fe.jpg' alt='gojo satoru hollow purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/77/a7/bb77a7934fe03260af8380f63ae3f6fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Hollow Purple Technique Jujutsu Kaisen Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/satoru-hollow-purple-technique-jujutsu-kaisen-phone-f7rvysbb4nagaf6u.jpg' alt='Satoru Hollow Purple Technique Jujutsu Kaisen Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1358">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/satoru-hollow-purple-technique-jujutsu-kaisen-phone-f7rvysbb4nagaf6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo satoru wallpaper by Yagami_light___kira - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/90/76/93/907693a603427fde44a44d76417d26a5.jpg' alt='Gojo satoru wallpaper by Yagami_light___kira - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/90/76/93/907693a603427fde44a44d76417d26a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Satoru Gojo Hollow Purple (Jujutsu Kaisen)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1IrQKCDRjI4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-HYAC8BCKAgwIABABGGUgWShOMA8=&rs=AOn4CLAh0a2ABX9zgcZoOHrMXQFSIp2VLw' alt='Live Wallpaper 4K Satoru Gojo Hollow Purple (Jujutsu Kaisen)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1IrQKCDRjI4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-HYAC8BCKAgwIABABGGUgWShOMA8=&rs=AOn4CLAh0a2ABX9zgcZoOHrMXQFSIp2VLw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/93/8a/5c938a747476d17f5ccd379fd5517b1e.jpg' alt='Gojo Satoru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/93/8a/5c938a747476d17f5ccd379fd5517b1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Jujutsu Kaisen: Gojo Satoru Hollow Purple Theme">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1838038745029363532/61BB51B2C5310C84B814BF0F26727AC258E66E87/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Jujutsu Kaisen: Gojo Satoru Hollow Purple Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1838038745029363532/61BB51B2C5310C84B814BF0F26727AC258E66E87/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

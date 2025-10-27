@@ -1,0 +1,129 @@
+<title>Efficient Task Management with Expo</title>
+                    <meta name="description" content="Discover the Expo Task Manager, your ultimate solution for efficient task organization. Prioritize, assign, and track tasks seamlessly with our intuitive interface. Boost productivity and ensure deadlines are met with our user-friendly features designed for collaboration and efficiency.">
+                    <meta name="keywords" content="expo task manager">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/expo-task-manager">
+                            <span itemprop="name">expo task manager</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Efficient Task Management with Expo</h1>
+                <p>An Expo Task Manager is an essential tool for organizing and managing tasks in a streamlined manner. It allows users to prioritize, assign, and track tasks with ease. With intuitive design and real-time collaboration features, the Expo Task Manager boosts productivity and ensures projects are completed on time, every time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TaskManager - Expo Documentation">
+                                <img itemprop="contentUrl url" src='https://og.expo.dev/?theme=docs&title=TaskManager&description=A%20library%20that%20provides%20support%20for%20tasks%20that%20can%20run%20in%20the%20background.' alt='TaskManager - Expo Documentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expo Documentation" />
+                                </span>
+                                <a href='https://og.expo.dev/?theme=docs&title=TaskManager&description=A%20library%20that%20provides%20support%20for%20tasks%20that%20can%20run%20in%20the%20background.' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TypeError: undefined is not a function (near '...TaskManager ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/3200647/163783644-7b3e0c1a-f20c-45ad-8d06-f6b088c3034c.png' alt='TypeError: undefined is not a function (near '...TaskManager ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/3200647/163783644-7b3e0c1a-f20c-45ad-8d06-f6b088c3034c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BackgroundFetch - Expo Documentation">
+                                <img itemprop="contentUrl url" src='https://docs.expo.dev/static/images/simulate-background-fetch-instruments.png' alt='BackgroundFetch - Expo Documentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1788">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expo Documentation" />
+                                </span>
+                                <a href='https://docs.expo.dev/static/images/simulate-background-fetch-instruments.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="docs] Expo TaskManager's defineTask documentation is unclear ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/18f756dd82eca6934449ef17394947257001bb3b3064d2344fde9382721f1d5d/expo/expo/issues/20210' alt='docs] Expo TaskManager's defineTask documentation is unclear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/18f756dd82eca6934449ef17394947257001bb3b3064d2344fde9382721f1d5d/expo/expo/issues/20210' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TypeError: undefined is not a function (near '...TaskManager ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/3200647/163783662-9a67231a-02c8-4ab3-b7fd-36b26df39dcc.png' alt='TypeError: undefined is not a function (near '...TaskManager ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/3200647/163783662-9a67231a-02c8-4ab3-b7fd-36b26df39dcc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is there a way to execute a function in Expo Task Manager? · Issue ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/8309d2e6463aaa1dcf643052d1f2802d263728afb40b8ca6149af625415e115f/expo/expo/issues/9578' alt='Is there a way to execute a function in Expo Task Manager? · Issue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/8309d2e6463aaa1dcf643052d1f2802d263728afb40b8ca6149af625415e115f/expo/expo/issues/9578' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expo Background Location with TaskManager in 6 minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2NUUN0dX4kE/hqdefault.jpg' alt='Expo Background Location with TaskManager in 6 minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2NUUN0dX4kE/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="expo-task-manager stopped working after expo upgraded from expo ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/33193eb627c2ab60eaa7ee5d960bd5dcfba46c03782aac51f19b9d11a289f08d/expo/expo/issues/29558' alt='expo-task-manager stopped working after expo upgraded from expo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/33193eb627c2ab60eaa7ee5d960bd5dcfba46c03782aac51f19b9d11a289f08d/expo/expo/issues/29558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Task Manager: Expo App - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/JekME9ciTVer6HJRjE6zwR747K0mYPo7cziQUUG6ixkUFiMfzzOkAh9ICWe6cZrhST4' alt='Task Manager: Expo App - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/JekME9ciTVer6HJRjE6zwR747K0mYPo7cziQUUG6ixkUFiMfzzOkAh9ICWe6cZrhST4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="expo-task-manager not working properly on background [android ...">
+                                <img itemprop="contentUrl url" src='https://opengraph.githubassets.com/c95081779b9304c3bd157475ca6323030342a84a60651b7c681c30d0e8a86fda/expo/expo/issues/23559' alt='expo-task-manager not working properly on background [android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://opengraph.githubassets.com/c95081779b9304c3bd157475ca6323030342a84a60651b7c681c30d0e8a86fda/expo/expo/issues/23559' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Instacart's Background Check Process</title>
+                    <meta name="description" content="Discover how Instacart's background check process ensures safe and reliable grocery delivery. Learn about the screenings involved and how they protect shoppers and customers alike, fostering trust within the community.">
+                    <meta name="keywords" content="instacart background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/instacart-background-check">
+                            <span itemprop="name">instacart background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Instacart's Background Check Process</h1>
+                <p>Instacart conducts background checks to ensure the safety and reliability of its shoppers. These checks typically include criminal history screenings, driving records, and identity verification. This process helps maintain trust and security for both customers and shoppers, allowing a dependable grocery delivery experience for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="updated background? : r/InstacartShoppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/updated-background-v0-d06iboeg08b91.jpg?auto=webp&s=ee56134b3728442ae4dafb8522a96b740f032355' alt='updated background? : r/InstacartShoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/updated-background-v0-d06iboeg08b91.jpg?auto=webp&s=ee56134b3728442ae4dafb8522a96b740f032355' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wait, what? Did anyone else receive this today? : r/InstacartShoppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nkohv354tgb91.jpg?auto=webp&s=0301faa558746aae63d8ab6ed4120e4156bf7784' alt='Wait, what? Did anyone else receive this today? : r/InstacartShoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nkohv354tgb91.jpg?auto=webp&s=0301faa558746aae63d8ab6ed4120e4156bf7784' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone had a 2nd background check done? : r/InstacartShoppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anyone-had-a-2nd-background-check-done-v0-ahmppgndcfhc1.jpeg?auto=webp&s=91a547c272dec90389ed48c0cea08771a1fc9002' alt='Anyone had a 2nd background check done? : r/InstacartShoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anyone-had-a-2nd-background-check-done-v0-ahmppgndcfhc1.jpeg?auto=webp&s=91a547c272dec90389ed48c0cea08771a1fc9002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual background check : r/InstacartShoppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/annual-background-check-v0-xqasfo5lqyya1.jpg?auto=webp&s=3b2e68d8f1164a4a015a894f58f1a9d6b1b77bf6' alt='Annual background check : r/InstacartShoppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/annual-background-check-v0-xqasfo5lqyya1.jpg?auto=webp&s=3b2e68d8f1164a4a015a894f58f1a9d6b1b77bf6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AFTER 4 YEARS OF SHOPPING…UNBELIEVABLE ‼️ Random background check ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/after-4-years-of-shopping-unbelievable-random-background-v0-q3fu2npg9fia1.jpg?width=1080&crop=smart&auto=webp&s=83e5e7dd2ec2fa195c03639ff2cb818eefba696e' alt='AFTER 4 YEARS OF SHOPPING…UNBELIEVABLE ‼️ Random background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/after-4-years-of-shopping-unbelievable-random-background-v0-q3fu2npg9fia1.jpg?width=1080&crop=smart&auto=webp&s=83e5e7dd2ec2fa195c03639ff2cb818eefba696e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instacart Shopper FAQs - Sterling, a First Advantage company">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2022/06/Instacart-Logo.png' alt='Instacart Shopper FAQs - Sterling, a First Advantage company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2022/06/Instacart-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check question for new person : r/instacart">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-question-for-new-person-v0-41z1ngxbp85e1.jpeg?width=1290&format=pjpg&auto=webp&s=d70e4ebbddbe0f1a123a0ee617b750953ced98f2' alt='Background check question for new person : r/instacart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-question-for-new-person-v0-41z1ngxbp85e1.jpeg?width=1290&format=pjpg&auto=webp&s=d70e4ebbddbe0f1a123a0ee617b750953ced98f2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I'm suddenly not allowed to shop due to my background check ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y33uapvnfp581.png' alt='So I'm suddenly not allowed to shop due to my background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y33uapvnfp581.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deactivated for background check, 3 months later? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/deactivated-for-background-check-3-months-later-v0-37qmag3rtrcd1.jpeg?auto=webp&s=011da2f068b8a24a5108f2ce2f925f1cb93bc300' alt='Deactivated for background check, 3 months later? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/deactivated-for-background-check-3-months-later-v0-37qmag3rtrcd1.jpeg?auto=webp&s=011da2f068b8a24a5108f2ce2f925f1cb93bc300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Annual/random background check? Been on IC for 2 years and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/80xajxpdl8la1.jpg' alt='Annual/random background check? Been on IC for 2 years and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/80xajxpdl8la1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

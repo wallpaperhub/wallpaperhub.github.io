@@ -1,0 +1,129 @@
+<title>Download Free Investigation Background Music for Your Projects</title>
+                    <meta name="description" content="Explore a curated collection of free investigation background music to elevate your creative projects. Perfect for videos, podcasts, and more, our royalty-free tracks add intrigue and suspense effortlessly. Download now and enhance your storytelling with the perfect soundtrack!">
+                    <meta name="keywords" content="investigation background music free download">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/investigation-background-music-free-download">
+                            <span itemprop="name">investigation background music free download</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Free Investigation Background Music for Your Projects</h1>
+                <p>Discover a variety of free downloadable investigation background music tracks to enhance your projects. Perfect for podcasts, videos, or presentations, these royalty-free tunes set the right mood for intrigue and suspense. Find your ideal soundtrack today and elevate your storytelling effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Conclusion | Detective Investigation Crime Background Music ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-vXpb7PSeb2CjEcWd-I2MN5g-t500x500.jpg' alt='Stream Conclusion | Detective Investigation Crime Background Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-vXpb7PSeb2CjEcWd-I2MN5g-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigation Music Background | Suspenseful Tension Criminal Background  Music Royalty Free">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_vbM9Xtv0y8/maxresdefault.jpg' alt='Investigation Music Background | Suspenseful Tension Criminal Background  Music Royalty Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_vbM9Xtv0y8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suspenseful Investigation Background Music | Crime Tension Piano Royalty  Free">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vWs1G1iaWz8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAt5v418s5Mbb22VBvC0VYNOk_GBA' alt='Suspenseful Investigation Background Music | Crime Tension Piano Royalty  Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vWs1G1iaWz8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAt5v418s5Mbb22VBvC0VYNOk_GBA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detective Background Music | Crime Scene, Spy, Investigation | Royalty Free">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b0bRw1faiws/maxresdefault.jpg' alt='Detective Background Music | Crime Scene, Spy, Investigation | Royalty Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b0bRw1faiws/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Escape | Investigation True Crime Background Music ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000434165268-chhho0-t500x500.jpg' alt='Listen to Escape | Investigation True Crime Background Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000434165268-chhho0-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigation Music | No Copyright Song & MP3 Free Downloads - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/audio/2022/10/31/16-15-42-598_200x200.png' alt='Investigation Music | No Copyright Song & MP3 Free Downloads - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/audio/2022/10/31/16-15-42-598_200x200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crime Investigation Background Music for Videos & Trailers">
+                                <img itemprop="contentUrl url" src='https://scottholmesmusic.com/wp-content/uploads/2021/02/crime-740x600.jpg' alt='Crime Investigation Background Music for Videos & Trailers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott Holmes Music" />
+                                </span>
+                                <a href='https://scottholmesmusic.com/wp-content/uploads/2021/02/crime-740x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigation / royalty free background music for Investigation /  Investigation music no copyright">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/s63PAa_9TwQ/maxresdefault.jpg' alt='Investigation / royalty free background music for Investigation /  Investigation music no copyright'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/s63PAa_9TwQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty Free Suspenseful Background Music Downloads | FStudios">
+                                <img itemprop="contentUrl url" src='https://www.fesliyanstudios.com/tagpictures/25.jpg' alt='Royalty Free Suspenseful Background Music Downloads | FStudios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fesliyan Studios" />
+                                </span>
+                                <a href='https://www.fesliyanstudios.com/tagpictures/25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigation Background Photos and Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2238349149/display_1500/stock-photo-magnifier-fingerprint-blood-drops-microscope-map-and-police-form-vintage-background-on-the-2238349149.jpg' alt='Investigation Background Photos and Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2238349149/display_1500/stock-photo-magnifier-fingerprint-blood-drops-microscope-map-and-police-form-vintage-background-on-the-2238349149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

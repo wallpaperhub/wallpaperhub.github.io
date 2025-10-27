@@ -1,0 +1,129 @@
+<title>Elmo's World: Exploring Curiosity with Fun!</title>
+                    <meta name="description" content="Discover the vibrant world of Elmo! Explore fun topics in Elmo's World from Sesame Street. Perfect for engaging young minds through creativity and learning. Dive into a colorful experience that sparks curiosity and fosters growth! Join Elmo's adventures today!">
+                    <meta name="keywords" content="elmo's world background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elmos-world-background">
+                            <span itemprop="name">elmo's world background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elmo's World: Exploring Curiosity with Fun!</h1>
+                <p>Elmo's World is a beloved segment from Sesame Street, featuring Elmo, a bright red monster with an infectious curiosity. Set in vibrant, colorful environments, each episode dives into various topics like animals, music, and feelings. Its engaging visuals and simple animations captivate young audiences while promoting learning and exploration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World Background 2010-2016 V2 by corlandinos on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79c1cc7d-8117-40ec-a1f4-954b399b81ab/dfinpjn-f8a0e53d-a11f-4941-8b55-775b1ac0dde6.jpg/v1/fill/w_1280,h_969,q_75,strp/elmo_s_world_background_2010_2016_v2_by_corlandinos_dfinpjn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY5IiwicGF0aCI6IlwvZlwvNzljMWNjN2QtODExNy00MGVjLWExZjQtOTU0YjM5OWI4MWFiXC9kZmlucGpuLWY4YTBlNTNkLWExMWYtNDk0MS04YjU1LTc3NWIxYWMwZGRlNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MZUyRRoyfWSOBldg_njOVHQuiOFqpSWsgnul5ML4BrU' alt='Elmo's World Background 2010-2016 V2 by corlandinos on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79c1cc7d-8117-40ec-a1f4-954b399b81ab/dfinpjn-f8a0e53d-a11f-4941-8b55-775b1ac0dde6.jpg/v1/fill/w_1280,h_969,q_75,strp/elmo_s_world_background_2010_2016_v2_by_corlandinos_dfinpjn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY5IiwicGF0aCI6IlwvZlwvNzljMWNjN2QtODExNy00MGVjLWExZjQtOTU0YjM5OWI4MWFiXC9kZmlucGpuLWY4YTBlNTNkLWExMWYtNDk0MS04YjU1LTc3NWIxYWMwZGRlNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MZUyRRoyfWSOBldg_njOVHQuiOFqpSWsgnul5ML4BrU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World Birthday Party Backdrop - Digital File">
+                                <img itemprop="contentUrl url" src='http://jollyowldesigns.com/cdn/shop/products/Elmo_1_1200x1200.jpg?v=1594465457' alt='Elmo's World Birthday Party Backdrop - Digital File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jolly Owl Designs" />
+                                </span>
+                                <a href='http://jollyowldesigns.com/cdn/shop/products/Elmo_1_1200x1200.jpg?v=1594465457' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World Background Season 5 by denisew54 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50c66f57-c975-4d40-a32c-8470392dc07b/dg3wpai-0647aa8f-0806-4c71-a009-27df08bfa236.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYzY2ZjU3LWM5NzUtNGQ0MC1hMzJjLTg0NzAzOTJkYzA3YlwvZGczd3BhaS0wNjQ3YWE4Zi0wODA2LTRjNzEtYTAwOS0yN2RmMDhiZmEyMzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2sCf54kmtOldVsTcINLURaH-zN5jDuby4KW2wBAq368' alt='Elmo's World Background Season 5 by denisew54 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1770">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50c66f57-c975-4d40-a32c-8470392dc07b/dg3wpai-0647aa8f-0806-4c71-a009-27df08bfa236.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYzY2ZjU3LWM5NzUtNGQ0MC1hMzJjLTg0NzAzOTJkYzA3YlwvZGczd3BhaS0wNjQ3YWE4Zi0wODA2LTRjNzEtYTAwOS0yN2RmMDhiZmEyMzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2sCf54kmtOldVsTcINLURaH-zN5jDuby4KW2wBAq368' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World: Photo Backdrop | Shipwrecked on Fabulous Island">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZC19vw5lYLIY12FabucO8CuKFq5q49K1z10e1qa140epaHIyu01pcorNZQ196ywSmhZ6NY7p1GaHxGQrFvq1islKoqoJ_rxMjdMl480iu-tCHAI7hWtGIDgYcxOD3gU21sSbbKIxq6ek/s1600/images.jpg' alt='Elmo's World: Photo Backdrop | Shipwrecked on Fabulous Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="258">
+                                <meta itemprop="height" content="196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shipwrecked on Fabulous Island" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZC19vw5lYLIY12FabucO8CuKFq5q49K1z10e1qa140epaHIyu01pcorNZQ196ywSmhZ6NY7p1GaHxGQrFvq1islKoqoJ_rxMjdMl480iu-tCHAI7hWtGIDgYcxOD3gU21sSbbKIxq6ek/s1600/images.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Elmo's World Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/elmo-s-world-background-p12hiayikqhu6ief.jpg' alt='100+] Elmo's World Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/elmo-s-world-background-p12hiayikqhu6ief.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World — Sarah Rebar">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5208f2f8e4b0f3bf53b73293/1487111883835-8GJ0WZUY7Y9BJHP9Q4DB/09_EWW_color-testing-background-01.png?format=1500w' alt='Elmo's World — Sarah Rebar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Rebar" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5208f2f8e4b0f3bf53b73293/1487111883835-8GJ0WZUY7Y9BJHP9Q4DB/09_EWW_color-testing-background-01.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World My Way Background 7 by Jjmunden on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdabf980-8171-402b-9974-257fff37b0e6/ddhep3o-58fa077a-2baa-498b-be18-d5d7b6b7b027.png/v1/fill/w_600,h_460,q_80,strp/elmo_s_world_my_way_background_7_by_jjmunden_ddhep3o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDYwIiwicGF0aCI6IlwvZlwvY2RhYmY5ODAtODE3MS00MDJiLTk5NzQtMjU3ZmZmMzdiMGU2XC9kZGhlcDNvLTU4ZmEwNzdhLTJiYWEtNDk4Yi1iZTE4LWQ1ZDdiNmI3YjAyNy5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mj_K98BDGR5YKoh2Xuh85DVCO5vpj3AyWJwQBT6Db7o' alt='Elmo's World My Way Background 7 by Jjmunden on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdabf980-8171-402b-9974-257fff37b0e6/ddhep3o-58fa077a-2baa-498b-be18-d5d7b6b7b027.png/v1/fill/w_600,h_460,q_80,strp/elmo_s_world_my_way_background_7_by_jjmunden_ddhep3o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDYwIiwicGF0aCI6IlwvZlwvY2RhYmY5ODAtODE3MS00MDJiLTk5NzQtMjU3ZmZmMzdiMGU2XC9kZGhlcDNvLTU4ZmEwNzdhLTJiYWEtNDk4Yi1iZTE4LWQ1ZDdiNmI3YjAyNy5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mj_K98BDGR5YKoh2Xuh85DVCO5vpj3AyWJwQBT6Db7o' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo's World | Muppet Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/muppet/images/0/02/ElmosWorld47.png/revision/latest?cb=20170107223430' alt='Elmo's World | Muppet Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muppet Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/muppet/images/0/02/ElmosWorld47.png/revision/latest?cb=20170107223430' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Elmo & Friends">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/bbb143.jpg?v=1591791449' alt='Sesame Street Elmo & Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/bbb143.jpg?v=1591791449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street: Create & Draw in Elmo's World - The Cutting Room Floor">
+                                <img itemprop="contentUrl url" src='https://tcrf.net/images/d/d6/ElmosWorldPlay_KTOOL1.png' alt='Sesame Street: Create & Draw in Elmo's World - The Cutting Room Floor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cutting Room Floor" />
+                                </span>
+                                <a href='https://tcrf.net/images/d/d6/ElmosWorldPlay_KTOOL1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

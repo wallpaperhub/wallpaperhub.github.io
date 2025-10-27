@@ -1,0 +1,129 @@
+<title>Pastel Aesthetic Cross Wallpaper for a Dreamy Space</title>
+                    <meta name="description" content="Add a touch of serenity to your home with pastel aesthetic cross wallpaper. Ideal for creating a calm atmosphere, these designs feature gentle hues and elegant patterns. Perfect for any room, this wallpaper enhances decor while providing a soothing ambiance. Discover your pastel paradise today!">
+                    <meta name="keywords" content="pastel aesthetic cross wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastel-aesthetic-cross-wallpaper">
+                            <span itemprop="name">pastel aesthetic cross wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Aesthetic Cross Wallpaper for a Dreamy Space</h1>
+                <p>Transform your space with pastel aesthetic cross wallpaper that brings a soft, calming vibe to any room. Perfect for bedrooms, nurseries, or creative spaces, these delicate designs feature soothing shades and intricate cross patterns, creating a serene backdrop. Embrace the charm and tranquility of pastels with these stylish wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wow bright">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/ff/fb/02fffba5d118fdc26eae766c724b3e2f.jpg' alt='Wow bright'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/ff/fb/02fffba5d118fdc26eae766c724b3e2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Connecting faith and beauty with Aesthetic Cross ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-cross-gj5pg2k19g2janlz.jpg' alt='Download Connecting faith and beauty with Aesthetic Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-cross-gj5pg2k19g2janlz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cross wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/46/52/7d4652f62857916bf88f609c5fb17945.jpg' alt='Pink Cross wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/46/52/7d4652f62857916bf88f609c5fb17945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Adorable Pink Cross in Glittering Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-cross-qs8n0a7k4hooflhu.jpg' alt='Download Adorable Pink Cross in Glittering Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-cross-qs8n0a7k4hooflhu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/95/2e/24952e85585ebb992093e44770be8383.jpg' alt='Cross Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/95/2e/24952e85585ebb992093e44770be8383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTIzLWJhY2tncm91bmQtMDMtYi5qcGc.jpg' alt='Free Vectors, PNGs, Mockups & Backgrounds | rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTIzLWJhY2tncm91bmQtMDMtYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Girly Cross Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-girly-cross-x7eipmoxphlzrrnt.jpg' alt='100+] Cute Girly Cross Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-girly-cross-x7eipmoxphlzrrnt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✝god✝ light pastel rainbow smuged backround with white border cross">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/b1/6b/57b16b59af64d1e67bb4469c963ed090.jpg' alt='✝god✝ light pastel rainbow smuged backround with white border cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/b1/6b/57b16b59af64d1e67bb4469c963ed090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Iphone Glowing Cross Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cross-on-clouds-christian-iphone-ru6i7h51tut98gzh.webp' alt='Christian Iphone Glowing Cross Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cross-on-clouds-christian-iphone-ru6i7h51tut98gzh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTIzLWJhY2tncm91bmQtMDNmLWwyNW40ancwLmpwZw.jpg' alt='Free Vectors, PNGs, Mockups & Backgrounds | rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTIzLWJhY2tncm91bmQtMDNmLWwyNW40ancwLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

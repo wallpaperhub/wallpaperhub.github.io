@@ -1,0 +1,129 @@
+<title>Explore Enchanting Jungle Tattoos: Nature-Inspired Ink</title>
+                    <meta name="description" content="Discover the allure of jungle tattoos, perfect for nature lovers and adventure seekers. Explore vibrant designs featuring exotic animals and lush foliage that symbolize freedom and strength. Get inspired for your next ink choice with our collection of stunning jungle tattoo ideas!">
+                    <meta name="keywords" content="jungle tattoos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jungle-tattoos">
+                            <span itemprop="name">jungle tattoos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Enchanting Jungle Tattoos: Nature-Inspired Ink</h1>
+                <p>Jungle tattoos are a vibrant way to express one's love for nature and adventure. These designs often feature elements like exotic animals, lush foliage, and tribal patterns, symbolizing strength, freedom, and wild beauty. Whether you're drawn to intricate designs or bold silhouettes, jungle tattoos create a connection to the untamed wilderness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My jungle themed sleeve. Done by Norbert at Tattoo Rosies, Sydney ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-jungle-themed-sleeve-done-by-norbert-at-tattoo-rosies-v0-n1yjqplxlo7c1.jpeg?auto=webp&s=2bbf1d79ce3aa0304be9e34c50e9e3f97e06be8e' alt='My jungle themed sleeve. Done by Norbert at Tattoo Rosies, Sydney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-jungle-themed-sleeve-done-by-norbert-at-tattoo-rosies-v0-n1yjqplxlo7c1.jpeg?auto=webp&s=2bbf1d79ce3aa0304be9e34c50e9e3f97e06be8e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle theme tattoos">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/15/f7/1015f7b7f34caff45eb6761caa078cfc.jpg' alt='Jungle theme tattoos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/15/f7/1015f7b7f34caff45eb6761caa078cfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle sleeve I worked on ❤️‍   2 day sesh, she came in not ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3114439224203795685' alt='Jungle sleeve I worked on ❤️‍   2 day sesh, she came in not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3114439224203795685' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon Jungle Sleeve">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/c6/24/57c624f0d5a81b726c48cff1a0827b5c.jpg' alt='Amazon Jungle Sleeve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/c6/24/57c624f0d5a81b726c48cff1a0827b5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle themed sleeve part one     ... - Obsidian by Luke Vella ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=839079178218576' alt='Jungle themed sleeve part one     ... - Obsidian by Luke Vella ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=839079178218576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Jungle themed    in progress. Done @skindesigntattoos Soho NYC ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3226583753672113715' alt='  Jungle themed    in progress. Done @skindesigntattoos Soho NYC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3226583753672113715' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unleashing Your Wild Side: Exploring the Allure of Jungle Tattoos ...">
+                                <img itemprop="contentUrl url" src='https://d2eekvzwkg3g8b.cloudfront.net/wp-content/uploads/2024/07/jungle16.jpg' alt='Unleashing Your Wild Side: Exploring the Allure of Jungle Tattoos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="inktat2.com" />
+                                </span>
+                                <a href='https://d2eekvzwkg3g8b.cloudfront.net/wp-content/uploads/2024/07/jungle16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kookie Tattoo - The mighty jungle     Comment below which ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1073339154217422' alt='Kookie Tattoo - The mighty jungle     Comment below which ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1073339154217422' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle leaves by Chill.Works at no regrets studios - Bristol, UK ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jungle-leaves-by-chill-works-at-no-regrets-studios-bristol-v0-KP3yeUjO9EChrtRCXM_3eiR_gTEanUDCg-LBbScUABg.jpg?auto=webp&s=0e3b62c7d631e384314b7a1159492606adf34d67' alt='Jungle leaves by Chill.Works at no regrets studios - Bristol, UK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="4080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jungle-leaves-by-chill-works-at-no-regrets-studios-bristol-v0-KP3yeUjO9EChrtRCXM_3eiR_gTEanUDCg-LBbScUABg.jpg?auto=webp&s=0e3b62c7d631e384314b7a1159492606adf34d67' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today's #jungle half #sleeve #tattoo.... Thanks Asaf for t… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/8852/28337053901_ee23da0cf2_z.jpg' alt='Today's #jungle half #sleeve #tattoo.... Thanks Asaf for t… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/8852/28337053901_ee23da0cf2_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

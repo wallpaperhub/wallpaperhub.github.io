@@ -1,0 +1,129 @@
+<title>Captivating Skating Images: A Visual Journey</title>
+                    <meta name="description" content="Explore the vibrant world of skating through stunning images that capture the thrill and artistry of the sport. From ice skating to skateboarding, each photo showcases skill, passion, and creativity, making it a perfect visual escape for enthusiasts and newcomers alike.">
+                    <meta name="keywords" content="skating image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skating-image">
+                            <span itemprop="name">skating image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Skating Images: A Visual Journey</h1>
+                <p>Skating evokes a sense of freedom and thrill, captured beautifully in striking images. Whether it's a graceful pirouette on ice or an adventurous skateboarding trick, each photo tells a unique story. Skateboarding culture thrives on creativity, making every shot a vibrant testament to skill and passion. Join us in celebrating this stunning art form!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Roller Skating Found Its Groove Again">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1242207312-1-1669396085.jpg?crop=0.370xw:0.555xh;0.330xw,0.178xh&resize=1200:*' alt='How Roller Skating Found Its Groove Again'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1242207312-1-1669396085.jpg?crop=0.370xw:0.555xh;0.330xw,0.178xh&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Quarantine Helped a Former Figure Skater Rediscover Her ...">
+                                <img itemprop="contentUrl url" src='https://www.shape.com/thmb/faSAJkM5vjRfC3elLmAfAM4EIjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roller-skating-quarantine-a5fdd37e78a5491fb24efd773dd1cce7.jpg' alt='How Quarantine Helped a Former Figure Skater Rediscover Her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shape" />
+                                </span>
+                                <a href='https://www.shape.com/thmb/faSAJkM5vjRfC3elLmAfAM4EIjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roller-skating-quarantine-a5fdd37e78a5491fb24efd773dd1cce7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Roller Skate Jump Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/465376046/photo/a-silhouette-of-a-man-roller-skating.jpg?s=612x612&w=0&k=20&c=YEmz2QdlttL7JbLyUFohGvj_XvUz--8-2VfnUJqUaig=' alt='1,700+ Roller Skate Jump Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/465376046/photo/a-silhouette-of-a-man-roller-skating.jpg?s=612x612&w=0&k=20&c=YEmz2QdlttL7JbLyUFohGvj_XvUz--8-2VfnUJqUaig=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roller-skating | Benefits, Techniques & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/65/132165-050-EF2D11F2/roller-skater.jpg' alt='Roller-skating | Benefits, Techniques & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/65/132165-050-EF2D11F2/roller-skater.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Skate Mind Project brings psychological first aid to the ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4320x2430+0+176/resize/4320x2430!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2F47%2Fe4fec3b847248b434c8f216bbed3%2Fsean1567-enhanced-nr.JPEG' alt='The Skate Mind Project brings psychological first aid to the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="2430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4320x2430+0+176/resize/4320x2430!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2F47%2Fe4fec3b847248b434c8f216bbed3%2Fsean1567-enhanced-nr.JPEG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Reasons Why Skating Is Good for Your Child - EuroSchool">
+                                <img itemprop="contentUrl url" src='https://www.euroschoolindia.com/wp-content/uploads/2023/12/reasons-why-skating-is-good-jpg.webp' alt='Top Reasons Why Skating Is Good for Your Child - EuroSchool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EuroSchool" />
+                                </span>
+                                <a href='https://www.euroschoolindia.com/wp-content/uploads/2023/12/reasons-why-skating-is-good-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skating Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1602348452204-8cd7736bcbc0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2thdGluZ3xlbnwwfHwwfHx8MA%3D%3D' alt='Skating Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1602348452204-8cd7736bcbc0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2thdGluZ3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250,500+ Skating Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1209988354/photo/young-man-skateboarding-in-los-angeles.jpg?s=612x612&w=0&k=20&c=8s3Uwce5kW_WPn6xSdYv6Asbtm3eMEizBTneznuYbu4=' alt='250,500+ Skating Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1209988354/photo/young-man-skateboarding-in-los-angeles.jpg?s=612x612&w=0&k=20&c=8s3Uwce5kW_WPn6xSdYv6Asbtm3eMEizBTneznuYbu4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="roller skating - Kids | Britannica Kids | Homework Help">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/95244-004-710744CC.jpg' alt='roller skating - Kids | Britannica Kids | Homework Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica Kids" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/95244-004-710744CC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="At what age can children start skating? All you need to know about ...">
+                                <img itemprop="contentUrl url" src='https://www.inercia.com/blog/wp-content/uploads/2023/03/edad-minima-para-empezar-a-patinar_portada-819x1024.jpg' alt='At what age can children start skating? All you need to know about ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inercia.com" />
+                                </span>
+                                <a href='https://www.inercia.com/blog/wp-content/uploads/2023/03/edad-minima-para-empezar-a-patinar_portada-819x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

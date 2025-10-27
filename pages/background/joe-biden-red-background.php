@@ -1,0 +1,129 @@
+<title>Joe Biden: Power and Patriotism in Red</title>
+                    <meta name="description" content="Explore the striking visuals of Joe Biden against a red background, symbolizing power and unity. Discover how this imagery enhances his messages and resonates with audiences. Stay updated on Biden's impactful moments and the meanings behind his striking color choices. Perfect for every political enthusiast!">
+                    <meta name="keywords" content="joe biden red background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joe-biden-red-background">
+                            <span itemprop="name">joe biden red background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joe Biden: Power and Patriotism in Red</h1>
+                <p>Joe Biden, the 46th President of the United States, has often been portrayed against a striking red background, symbolizing the power and patriotism associated with his administration. This visual choice amplifies his messages on unity, resilience, and American pride, resonating with audiences during speeches and public appearances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Biden Sends Republicans Into Outrage Mode By Telling The Truth ...">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/631221fc7a579438d77c8c80/1:1/w_5504,h_5504,c_limit/1242872812' alt='Joe Biden Sends Republicans Into Outrage Mode By Telling The Truth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5504">
+                                <meta itemprop="height" content="5504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/631221fc7a579438d77c8c80/1:1/w_5504,h_5504,c_limit/1242872812' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Biden's This-Is-Not-Normal Speech on the Rising Danger of MAGA ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/631208ecd450737c3a8e5589/1:1/w_1707,h_1707,c_limit/Glasser-Biden-Address.jpg' alt='Joe Biden's This-Is-Not-Normal Speech on the Rising Danger of MAGA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/631208ecd450737c3a8e5589/1:1/w_1707,h_1707,c_limit/Glasser-Biden-Address.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden's picturesque setting with a dark twist">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3594/production/_126561731_gettyimages-1420019466.jpg.webp' alt='Biden's picturesque setting with a dark twist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3594/production/_126561731_gettyimages-1420019466.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="By targeting “MAGA Republicans” in his speech, President Biden ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23991014/1420018789.jpg?quality=90&strip=all&crop=0.0044216483905188,0,99.991156703219,100' alt='By targeting “MAGA Republicans” in his speech, President Biden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5597">
+                                <meta itemprop="height" content="3769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23991014/1420018789.jpg?quality=90&strip=all&crop=0.0044216483905188,0,99.991156703219,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Analysis: Biden's use of Marines during Philadelphia speech adds ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/220901202229-04-joe-biden-pa-speech-090122.jpg?c=original' alt='Analysis: Biden's use of Marines during Philadelphia speech adds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/220901202229-04-joe-biden-pa-speech-090122.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JOE BIDEN PHILADELPHIA Speech Glossy Poster Picture Photo Print ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21348027/r/il/e69d66/4134219524/il_340x270.4134219524_kh4c.jpg' alt='JOE BIDEN PHILADELPHIA Speech Glossy Poster Picture Photo Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21348027/r/il/e69d66/4134219524/il_340x270.4134219524_kh4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: ConversationPrints JOE BIDEN PHILADELPHIA SPEECH ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/51XxDU4SESL._AC_UL210_SR210,210_.jpg' alt='Amazon.com: ConversationPrints JOE BIDEN PHILADELPHIA SPEECH ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com: ConversationPrints JOE BIDEN PHILADELPHIA SPEECH ..." />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/51XxDU4SESL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Speech No President Should Have to Give - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/4zZpVJ7ZOGhRmW4Hpppel5LezT0=/0x947:6446x4304/1200x625/filters:watermark(https://cdn.theatlantic.com/media/files/badge_2x.png,-20,20,0,33)/media/img/mt/2022/09/GettyImages_1242872809/original.jpg' alt='The Speech No President Should Have to Give - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/4zZpVJ7ZOGhRmW4Hpppel5LezT0=/0x947:6446x4304/1200x625/filters:watermark(https://cdn.theatlantic.com/media/files/badge_2x.png,-20,20,0,33)/media/img/mt/2022/09/GettyImages_1242872809/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ConversationPrints JOE BIDEN PHILADELPHIA SPEECH GLOSSY POSTER PICTURE  PHOTO PRINT BANNER red us">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51XxDU4SESL._AC_SY200_QL15_.jpg' alt='ConversationPrints JOE BIDEN PHILADELPHIA SPEECH GLOSSY POSTER PICTURE  PHOTO PRINT BANNER red us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="145">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com: ConversationPrints JOE BIDEN PHILADELPHIA SPEECH ..." />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51XxDU4SESL._AC_SY200_QL15_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden shocks viewers with 'hellish red background' for polarizing ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/1024/512/BIDEN-PA-SPEECH.jpg?ve=1&tl=1' alt='Biden shocks viewers with 'hellish red background' for polarizing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/1024/512/BIDEN-PA-SPEECH.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

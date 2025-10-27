@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Discord Grey Color Code</title>
+                    <meta name="description" content="Discover the essential grey color code for Discord! Learn how to effectively use the #2C2F33 color to enhance your server’s aesthetics and create a pleasing user experience. Dive in for tips and tricks to elevate your Discord design today!">
+                    <meta name="keywords" content="discord grey color code">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-grey-color-code">
+                            <span itemprop="name">discord grey color code</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Discord Grey Color Code</h1>
+                <p>Discord's grey color code is an essential aspect of its aesthetic, often used in text and backgrounds. The primary grey color code for Discord is #2C2F33, providing a sleek, modern vibe. Understanding this color can enhance your server's design, making it visually appealing and user-friendly, creating a better experience for all members.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Grays Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/45285.png' alt='Discord Grays Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/45285.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord 2023 colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/discord-2023-230433-colorswall.png' alt='Discord 2023 colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/discord-2023-230433-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Embed Color | Hex code: #2f3136 colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/discord-embed-color-hex-code-2f3136-200396-colorswall.png' alt='Discord Embed Color | Hex code: #2f3136 colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/discord-embed-color-hex-code-2f3136-200396-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Colors Palette - Blue, Black, White">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/58/4a/5d584a89e165345f070f5193a266d518.jpg' alt='Discord Colors Palette - Blue, Black, White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/58/4a/5d584a89e165345f070f5193a266d518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Color Palette | HEX, RGB & HSL">
+                                <img itemprop="contentUrl url" src='https://www.onlinepalette.com/wp-content/uploads/2019/12/discord-source.png' alt='Discord Color Palette | HEX, RGB & HSL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Palette" />
+                                </span>
+                                <a href='https://www.onlinepalette.com/wp-content/uploads/2019/12/discord-source.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gray discord Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/97450.png' alt='gray discord Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/97450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3a3845 Hex Color (Shades & Complementary Colors)">
+                                <img itemprop="contentUrl url" src='https://preview.colorkit.co/color/3a3845.png?size=social&type=opengraph' alt='3a3845 Hex Color (Shades & Complementary Colors)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorKit" />
+                                </span>
+                                <a href='https://preview.colorkit.co/color/3a3845.png?size=social&type=opengraph' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord's background color changed with an update. How can I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/discords-background-color-changed-with-an-update-how-can-i-v0-hl2075qds6va1.png?width=640&crop=smart&auto=webp&s=991592eb0642d99b9e48df50f7b6e33c061bcd86' alt='Discord's background color changed with an update. How can I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/discords-background-color-changed-with-an-update-how-can-i-v0-hl2075qds6va1.png?width=640&crop=smart&auto=webp&s=991592eb0642d99b9e48df50f7b6e33c061bcd86' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/28549.png' alt='Discord Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/28549.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wakfu thème discord colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/wakfu-theme-discord-183171-colorswall.png' alt='Wakfu thème discord colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/wakfu-theme-discord-183171-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

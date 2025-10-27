@@ -1,0 +1,129 @@
+<title>Discovering the Secrets of Cave Walls</title>
+                    <meta name="description" content="Explore the fascinating world of cave walls, where history, art, and nature intersect. Uncover ancient carvings and formations that unveil the stories of our ancestors in this concise guide. Perfect for adventurers and history buffs alike!">
+                    <meta name="keywords" content="cave wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cave-wall">
+                            <span itemprop="name">cave wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Secrets of Cave Walls</h1>
+                <p>Cave walls tell stories of ancient civilizations through their intricate carvings and paintings. Found in many parts of the world, these natural canvases have preserved the history and culture of our ancestors. Explorations of cave interiors reveal stunning formations, providing insights into both geology and prehistoric life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave Wall Images – Browse 513,494 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/18/64/42/360_F_218644252_CaLlIVbkISiBlySSN3U8Nfy8QoV0vrsy.jpg' alt='Cave Wall Images – Browse 513,494 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/18/64/42/360_F_218644252_CaLlIVbkISiBlySSN3U8Nfy8QoV0vrsy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Ancient Cave Art Passed Survival Information Across 130 Human ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/M-9VLddnW8C1DZlU9NPvBrBKObE=/1000x750/filters:no_upscale():focal(1440x960:1441x961)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/78/1e783a01-fe61-4bb9-86be-e62fe2cf4f42/cave-art-in-patagonia-1.jpg' alt='This Ancient Cave Art Passed Survival Information Across 130 Human ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/M-9VLddnW8C1DZlU9NPvBrBKObE=/1000x750/filters:no_upscale():focal(1440x960:1441x961)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/78/1e783a01-fe61-4bb9-86be-e62fe2cf4f42/cave-art-in-patagonia-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The writing on the wall | MIT News | Massachusetts Institute of ...">
+                                <img itemprop="contentUrl url" src='https://news.mit.edu/sites/default/files/images/201802/MIT-Cave-Art-Language.jpg' alt='The writing on the wall | MIT News | Massachusetts Institute of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="948">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MIT News" />
+                                </span>
+                                <a href='https://news.mit.edu/sites/default/files/images/201802/MIT-Cave-Art-Language.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,200+ Cave Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/178066611/photo/stone-stucco-wall.jpg?s=612x612&w=0&k=20&c=kEGJLTVtVELi6z8gnqMx_HTS-vFsjX1gA1lZIK8zEHQ=' alt='31,200+ Cave Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/178066611/photo/stone-stucco-wall.jpg?s=612x612&w=0&k=20&c=kEGJLTVtVELi6z8gnqMx_HTS-vFsjX1gA1lZIK8zEHQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31,200+ Cave Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1319206600/photo/black-white-grunge-background-rock-texture-with-cracks-stone-wall-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=f94jl9c226nWB7WIbj-5PBvpMkM-usoWS0bXucTDbJo=' alt='31,200+ Cave Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1319206600/photo/black-white-grunge-background-rock-texture-with-cracks-stone-wall-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=f94jl9c226nWB7WIbj-5PBvpMkM-usoWS0bXucTDbJo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This animal on a cave wall in Borneo is the oldest known ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/48dc08a/2147483647/strip/true/crop/974x548+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2Fc9%2F9f727812e9b0352ec0bdeb75c350%2Fla-1541488531-qb1b1fgcl8-snap-image' alt='This animal on a cave wall in Borneo is the oldest known ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/48dc08a/2147483647/strip/true/crop/974x548+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2Fc9%2F9f727812e9b0352ec0bdeb75c350%2Fla-1541488531-qb1b1fgcl8-snap-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave Walls | U.S. Geological Survey">
+                                <img itemprop="contentUrl url" src='https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/DSC00902.JPG?itok=-Fo_2dvZ' alt='Cave Walls | U.S. Geological Survey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USGS.gov" />
+                                </span>
+                                <a href='https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/DSC00902.JPG?itok=-Fo_2dvZ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolostone cave wall (Prairie du Chien Group, Ordovician; u… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3792/18321882913_c177498973_b.jpg' alt='Dolostone cave wall (Prairie du Chien Group, Ordovician; u… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3792/18321882913_c177498973_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave of Archers. The painted wall of the cave showing figures of ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/309463268/figure/fig3/AS:422974969913346@1477856499994/Cave-of-Archers-The-painted-wall-of-the-cave-showing-figures-of-domestic-cattle-and.png' alt='Cave of Archers. The painted wall of the cave showing figures of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/309463268/figure/fig3/AS:422974969913346@1477856499994/Cave-of-Archers-The-painted-wall-of-the-cave-showing-figures-of-domestic-cattle-and.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interior Sumbay Cave Walls Covered By Stock Photo 1659809221 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/interior-sumbay-cave-walls-covered-260nw-1659809221.jpg' alt='Interior Sumbay Cave Walls Covered By Stock Photo 1659809221 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="527">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/interior-sumbay-cave-walls-covered-260nw-1659809221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

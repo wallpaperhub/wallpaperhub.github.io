@@ -1,0 +1,129 @@
+<title>Dynamic Football Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant moving football wallpapers that capture the excitement of the game. Perfectly designed for fans, these wallpapers will bring your screen to life and showcase your passion for football. Update your device with an animated touch today!">
+                    <meta name="keywords" content="football wallpaper moving">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-wallpaper-moving">
+                            <span itemprop="name">football wallpaper moving</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Football Wallpapers for Fans</h1>
+                <p>Elevate your device's aesthetics with stunning moving football wallpapers! Enjoy dynamic images of your favorite teams and players that bring the thrill of the game right to your screen. Perfect for fans who want to showcase their passion for football, these wallpapers add life and excitement to your digital background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHO WANTS MORE OF THIS STYLE!? can even save it your phone as a live  wallpaper #ceedeelamb #ceedee #Wallpaper #88 #trending #football #nfl #dc4l  #dallascowboys #americasteam #livewallpaper #gocowboys ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7127350979242036526&location=0&aid=1988' alt='WHO WANTS MORE OF THIS STYLE!? can even save it your phone as a live  wallpaper #ceedeelamb #ceedee #Wallpaper #88 #trending #football #nfl #dc4l  #dallascowboys #americasteam #livewallpaper #gocowboys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7127350979242036526&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#CapCut ##animals #justinjefferson #wallpaper #football #justinjefersonedit  #livewallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7227543262309993733&location=0&aid=1988' alt='#CapCut ##animals #justinjefferson #wallpaper #football #justinjefersonedit  #livewallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7227543262309993733&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@NFL's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E9WmQ3jVUAoZPVn.jpg:large' alt='@NFL's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E9WmQ3jVUAoZPVn.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Live Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/04/1e/43041ecc915e6af8b821e6487c8cc01a.jpg' alt='Football Live Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/04/1e/43041ecc915e6af8b821e6487c8cc01a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation American Football Player Holding Ball">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1086942380/thumb/12.jpg?ip=x480' alt='Animation American Football Player Holding Ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1086942380/thumb/12.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Come talk Cowboys vs. Vikings at Battle Red Blog! - Battle Red Blog">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/qa5nY2qUmHO8BvObBgNp83iGFCk=/0x0:3878x2470/1200x800/filters:focal(1812x435:2432x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/70072397/1288136727.0.jpg' alt='Come talk Cowboys vs. Vikings at Battle Red Blog! - Battle Red Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Battle Red Blog" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/qa5nY2qUmHO8BvObBgNp83iGFCk=/0x0:3878x2470/1200x800/filters:focal(1812x435:2432x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/70072397/1288136727.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GIF football ucf mobile - animated GIF on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/Mrsj.gif' alt='GIF football ucf mobile - animated GIF on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/Mrsj.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos In Motion: Gifs of Michigan's Football Season So Far ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/HZHh4_86pUDfHGNgcAzEM-MEbcc=/0x0:5760x3840/1400x1050/filters:focal(2420x1460:3340x2380):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/50877237/Michigan_51__UCF_14-2.0.0.jpg' alt='Photos In Motion: Gifs of Michigan's Football Season So Far ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maize n Brew" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/HZHh4_86pUDfHGNgcAzEM-MEbcc=/0x0:5760x3840/1400x1050/filters:focal(2420x1460:3340x2380):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/50877237/Michigan_51__UCF_14-2.0.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seattle Seahawks HD Wallpaper: We Are 12 Edition">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/594/594273.jpg' alt='Seattle Seahawks HD Wallpaper: We Are 12 Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/594/594273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Odell Beckham Jr. Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6862732944956574981&location=0&aid=1988' alt='Odell Beckham Jr. Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6862732944956574981&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

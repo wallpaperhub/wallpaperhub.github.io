@@ -1,0 +1,129 @@
+<title>Mozart: The Genius of Classical Music</title>
+                    <meta name="description" content="Discover the brilliance of Mozart, a master composer of the Classical era. Explore his timeless works, including operas and symphonies that continue to enchant listeners today. Uncover the life and legacy of this musical genius in a captivating journey through his extraordinary contributions to music.">
+                    <meta name="keywords" content="mozart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mozart">
+                            <span itemprop="name">mozart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mozart: The Genius of Classical Music</h1>
+                <p>Wolfgang Amadeus Mozart, born in 1756, was a prolific and influential composer of the Classical era. Renowned for his operas, symphonies, and chamber music, he created masterpieces like "The Magic Flute" and "Symphony No. 40." His genius transcends time, leaving a lasting legacy that continues to inspire musicians and audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Amadeus Mozart | Biography, Music, The Magic Flute ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/35/74835-050-F0B71060/canvas-oil-Wolfgang-Amadeus-Mozart-Barbara-Krafft-1819.jpg' alt='Wolfgang Amadeus Mozart | Biography, Music, The Magic Flute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/35/74835-050-F0B71060/canvas-oil-Wolfgang-Amadeus-Mozart-Barbara-Krafft-1819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Amadeus Mozart - Dallas Symphony Orchestra">
+                                <img itemprop="contentUrl url" src='https://www.dallassymphony.org/wp-content/uploads/2022/04/Wolfgang-Amadeus-Mozart.jpg' alt='Wolfgang Amadeus Mozart - Dallas Symphony Orchestra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dallas Symphony Orchestra" />
+                                </span>
+                                <a href='https://www.dallassymphony.org/wp-content/uploads/2022/04/Wolfgang-Amadeus-Mozart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Mozart - Requiem, Facts & Death">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/wolfgang-mozart-gettyimages-56464959.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*' alt='Wolfgang Mozart - Requiem, Facts & Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/wolfgang-mozart-gettyimages-56464959.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Amadeus Mozart - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mozart_Portrait_Croce.jpg/1200px-Mozart_Portrait_Croce.jpg' alt='Wolfgang Amadeus Mozart - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mozart_Portrait_Croce.jpg/1200px-Mozart_Portrait_Croce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mozart – his life, his music, and my struggles as a piano student ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/zweb-s3.assets/wp-content/uploads/2020/01/Mozart-with-score-in-background-Jan20-1024x683.jpg' alt='Mozart – his life, his music, and my struggles as a piano student ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Classical FM" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/zweb-s3.assets/wp-content/uploads/2020/01/Mozart-with-score-in-background-Jan20-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: wall26 Canvas Print Wall Art Portrait of Wolfgang ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71YVDwHcXxL.jpg' alt='Amazon.com: wall26 Canvas Print Wall Art Portrait of Wolfgang ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71YVDwHcXxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Images of Mozart…. By Bradley Bambarger <2006> | by bradley ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:951/1*8AW5HNmaYRyWe8xtyyrbFg.png' alt='True Images of Mozart…. By Bradley Bambarger <2006> | by bradley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="951">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bradley bambarger - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:951/1*8AW5HNmaYRyWe8xtyyrbFg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mozart Biography - Opera Philadelphia">
+                                <img itemprop="contentUrl url" src='https://www.operaphila.org/media/2499/mozart_web.jpg?width=1100&height=600&mode=crop&upscale=false' alt='Mozart Biography - Opera Philadelphia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opera Philadelphia" />
+                                </span>
+                                <a href='https://www.operaphila.org/media/2499/mozart_web.jpg?width=1100&height=600&mode=crop&upscale=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait of Wolfgang Amadeus Mozart, 1819 by Barbara Krafft">
+                                <img itemprop="contentUrl url" src='https://cdn.topofart.com/images/artists/Barbara_Krafft/paintings-wm/krafft001.jpg' alt='Portrait of Wolfgang Amadeus Mozart, 1819 by Barbara Krafft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="311">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TOPofART" />
+                                </span>
+                                <a href='https://cdn.topofart.com/images/artists/Barbara_Krafft/paintings-wm/krafft001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfgang Amadeus Mozart (1756–1791) | Composer | Biography, music ...">
+                                <img itemprop="contentUrl url" src='https://assets.classicfm.com/2012/31/mozart-1343837321-editorial-long-form-1.jpg' alt='Wolfgang Amadeus Mozart (1756–1791) | Composer | Biography, music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classic FM" />
+                                </span>
+                                <a href='https://assets.classicfm.com/2012/31/mozart-1343837321-editorial-long-form-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

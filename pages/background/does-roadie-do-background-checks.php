@@ -1,0 +1,129 @@
+<title>Do Roadie Drivers Undergo Background Checks?</title>
+                    <meta name="description" content="Discover whether Roadie performs background checks on their drivers. Learn how this process ensures safe and reliable delivery services, fostering trust between users and drivers alike. Find out what you need to know about Roadie's commitment to safety and quality in the gig economy!">
+                    <meta name="keywords" content="does roadie do background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-roadie-do-background-checks">
+                            <span itemprop="name">does roadie do background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Roadie Drivers Undergo Background Checks?</h1>
+                <p>Yes, Roadie conducts background checks as part of their driver onboarding process. They ensure the safety and reliability of their delivery services by vetting drivers for any criminal history and driving records. This commitment to safety helps build trust between Roadie and its users, ensuring smooth and secure deliveries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So roadie stopped doing background checks ? : r/Roadie">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/so-roadie-stopped-doing-background-checks-v0-4t0os190l22e1.jpeg?width=1290&format=pjpg&auto=webp&s=9b9d631381be79f61b2caf38d66c57de5089647c' alt='So roadie stopped doing background checks ? : r/Roadie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/so-roadie-stopped-doing-background-checks-v0-4t0os190l22e1.jpeg?width=1290&format=pjpg&auto=webp&s=9b9d631381be79f61b2caf38d66c57de5089647c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' alt='So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on Your Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' alt='What Shows Up on Your Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essential Tips for Passing a Background Check Successfully">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311407233114541358&location=0&aid=1988' alt='Essential Tips for Passing a Background Check Successfully'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311407233114541358&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Average Time Frame for Police Background Investigation Process">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7109173995047554347&location=0&aid=1988' alt='Average Time Frame for Police Background Investigation Process'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7109173995047554347&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="change it! #roadie #ups #delivery #gigapp #driver #doordash #doordashdriver  #instacart #instacartshopper #ubereats #frayt #gig #foryou #fyp #walmart  #homedepot #viral #viralvideo">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7299960195868904747&location=0&aid=1988' alt='change it! #roadie #ups #delivery #gigapp #driver #doordash #doordashdriver  #instacart #instacartshopper #ubereats #frayt #gig #foryou #fyp #walmart  #homedepot #viral #viralvideo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7299960195868904747&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roadie Review: Is It Legit & Worth It? (Pros & Cons)">
+                                <img itemprop="contentUrl url" src='https://sidehustles.com/wp-content/uploads/roadie-app-559x285.jpg' alt='Roadie Review: Is It Legit & Worth It? (Pros & Cons)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SideHustles.com" />
+                                </span>
+                                <a href='https://sidehustles.com/wp-content/uploads/roadie-app-559x285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roadie Review: Is It Legit & Worth It? (Pros & Cons)">
+                                <img itemprop="contentUrl url" src='https://sidehustles.com/wp-content/uploads/roadie-review-is-it-worth-it-640x420.jpg' alt='Roadie Review: Is It Legit & Worth It? (Pros & Cons)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SideHustles.com" />
+                                </span>
+                                <a href='https://sidehustles.com/wp-content/uploads/roadie-review-is-it-worth-it-640x420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is criminal. Roadie gotta go for real! : r/Roadieapp">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-criminal-roadie-gotta-go-for-real-v0-gi3khw1dbe0a1.jpg?auto=webp&s=79a00e7494ebf32f8f1ccb66b60e583bff73214a' alt='This is criminal. Roadie gotta go for real! : r/Roadieapp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-criminal-roadie-gotta-go-for-real-v0-gi3khw1dbe0a1.jpg?auto=webp&s=79a00e7494ebf32f8f1ccb66b60e583bff73214a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common Issues Of DEACTIVATED Drivers From Background Checks">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2Bdc86DSbns/mqdefault.jpg' alt='Common Issues Of DEACTIVATED Drivers From Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2Bdc86DSbns/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

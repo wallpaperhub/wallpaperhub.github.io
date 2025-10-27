@@ -1,0 +1,129 @@
+<title>Vibrant Citrus Peel and Stick Wallpaper: Easy Decor Solutions</title>
+                    <meta name="description" content="Transform your space with our citrus peel and stick wallpaper! Bright, fun designs make it easy to enhance your home decor without hassle. Perfect for any room in need of a fresh pop of color. Easy application and removal mean you can update your look anytime. Explore vibrant styles today!">
+                    <meta name="keywords" content="citrus peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/citrus-peel-and-stick-wallpaper">
+                            <span itemprop="name">citrus peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Citrus Peel and Stick Wallpaper: Easy Decor Solutions</h1>
+                <p>Citrus peel and stick wallpaper is a vibrant home decor solution that brings a splash of color to any room. Easy to install and remove, it features playful citrus patterns that can brighten up spaces like kitchens, dining areas, or accent walls. Enjoy the refreshing ambiance without the permanence of traditional wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Sunrise - Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-botanical-bliss-peel-and-stick-wallpaper-citrus-sunrise-28198823690326.jpg?v=1633002998' alt='Citrus Sunrise - Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-botanical-bliss-peel-and-stick-wallpaper-citrus-sunrise-28198823690326.jpg?v=1633002998' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK11254RL_20.5.jpg?v=1640719470' alt='Citrus Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK11254RL_20.5.jpg?v=1640719470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CITRUS WALLPAPER, Exotic FRUIT, Watercolor Wallpaper, Customizable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17396300/r/il/b84e8b/3061986489/il_fullxfull.3061986489_gck4.jpg' alt='CITRUS WALLPAPER, Exotic FRUIT, Watercolor Wallpaper, Customizable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1802">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17396300/r/il/b84e8b/3061986489/il_fullxfull.3061986489_gck4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Citrus Grove Peel & Stick Wallpaper - Yellow & Green">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1479RL_9a9b41be-246e-451f-b975-a73d66219354.jpg?v=1666626762' alt='Rifle Paper Co. Citrus Grove Peel & Stick Wallpaper - Yellow & Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1479RL_9a9b41be-246e-451f-b975-a73d66219354.jpg?v=1666626762' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat Art Oranges Pattern Illustration Wallpaper, Lively Green ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/007-13.jpg' alt='Flat Art Oranges Pattern Illustration Wallpaper, Lively Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/007-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/1_a5f55755-69bb-4bc5-8be1-8986d3d4f33d.jpg?v=1717014290&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/1_a5f55755-69bb-4bc5-8be1-8986d3d4f33d.jpg?v=1717014290&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Sample Citrus Grove Black Peel & Stick Wallpaper by York ...">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/PSW1482RL_0faf469f-23e7-4b85-b3f3-4a31e6c54f8b_1080x.jpg?v=1666887223' alt='Shop Sample Citrus Grove Black Peel & Stick Wallpaper by York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/PSW1482RL_0faf469f-23e7-4b85-b3f3-4a31e6c54f8b_1080x.jpg?v=1666887223' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/Beautifulseamlesspatternwithwatercolorhanddrawncitrusorangelemongrapefruitfruits2.jpg?v=1739231977&width=1500' alt='Sample: 17''W x 11''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/Beautifulseamlesspatternwithwatercolorhanddrawncitrusorangelemongrapefruitfruits2.jpg?v=1739231977&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Citrus and Leaves Removable Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-245938.png?v=1718902434' alt='Orange Citrus and Leaves Removable Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1562">
+                                <meta itemprop="height" content="1562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/orange-citrus-and-leaves-removable-peel-and-stick-wallpaper-245938.png?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHIHUT Orange Fruit Peel and Stick Wallpaper for Pantry Watercolor Lemon  Orange Print Self Adhesive Fun Wallpaper Removable Decorative Floral Leaf  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81as3gxrfTL.jpg' alt='CHIHUT Orange Fruit Peel and Stick Wallpaper for Pantry Watercolor Lemon  Orange Print Self Adhesive Fun Wallpaper Removable Decorative Floral Leaf  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81as3gxrfTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

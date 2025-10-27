@@ -1,0 +1,129 @@
+<title>Stylish Aesthetic Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover stunning aesthetic wallpaper that enhances any space! Explore a variety of designs, from elegant florals to chic modern patterns. Perfect for creating a personalized and inviting atmosphere in your home. Elevate your decor effortlessly with our curated selections. Shop now!">
+                    <meta name="keywords" content="wallpaper aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-aesthetic-wallpaper">
+                            <span itemprop="name">wallpaper aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Aesthetic Wallpaper for Every Room</h1>
+                <p>Transform your space with aesthetic wallpaper that reflects your style! From dreamy florals to minimalist patterns, choose designs that elevate your home decor. Enhance any room with colors and textures that inspire creativity and comfort. Let your walls tell a story, providing a perfect backdrop for your life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFI5fB2QGI/1/0/900w/canva-beige-blush-pink-watercolor-motivational-phone-wallpaper-8bDHUTXkPNQ.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFI5fB2QGI/1/0/900w/canva-beige-blush-pink-watercolor-motivational-phone-wallpaper-8bDHUTXkPNQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Aesthetic, Screensaver for Iphone, Phones- 1">
+                                <img itemprop="contentUrl url" src='https://www.itakeyou.co.uk/wp-content/uploads/2024/04/preppy-wallpaper-32.jpg' alt='Wallpaper Aesthetic, Screensaver for Iphone, Phones- 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Itakeyou" />
+                                </span>
+                                <a href='https://www.itakeyou.co.uk/wp-content/uploads/2024/04/preppy-wallpaper-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODYtYmctMDA0Yy14LmpwZw.jpg' alt='Aesthetic Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODYtYmctMDA0Yy14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' alt='IPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Positive Aesthetic IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41304148/r/il/c13ac1/5600352167/il_570xN.5600352167_r9js.jpg' alt='Stay Positive Aesthetic IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41304148/r/il/c13ac1/5600352167/il_570xN.5600352167_r9js.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yN19hX2dyb3VwX29mX2ZsdWZmeV9wYXN0ZWxfeHh4eF9rYXdhaWlfYWVzdGhldF80YjU2YTlkYy05M2U1LTQ2NzYtYmMyZS1jOTgwZjJjNWU1M2RfMS5qcGc.jpg' alt='Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yN19hX2dyb3VwX29mX2ZsdWZmeV9wYXN0ZWxfeHh4eF9rYXdhaWlfYWVzdGhldF80YjU2YTlkYy05M2U1LTQ2NzYtYmMyZS1jOTgwZjJjNWU1M2RfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Aesthetic wallpaper ideas in 2025 | aesthetic wallpapers, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/f3/3f/5ff33f23b9397ac506867aad4c1f72ea.jpg' alt='120 Aesthetic wallpaper ideas in 2025 | aesthetic wallpapers, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/f3/3f/5ff33f23b9397ac506867aad4c1f72ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Photos, Download The BEST Free Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2088170/pexels-photo-2088170.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Aesthetic Wallpaper Photos, Download The BEST Free Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2088170/pexels-photo-2088170.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic phone 2025 backgrounds">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFWgDw-TW4/1/0/900w/canva-pink-and-purple-aesthetic-watercolor-flower-phone-wallpaper-UhSfVWq4ROM.jpg' alt='Aesthetic phone 2025 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFWgDw-TW4/1/0/900w/canva-pink-and-purple-aesthetic-watercolor-flower-phone-wallpaper-UhSfVWq4ROM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

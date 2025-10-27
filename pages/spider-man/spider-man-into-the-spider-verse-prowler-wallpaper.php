@@ -1,0 +1,129 @@
+<title>Spider-Man: Into the Spider-Verse Prowler Wallpapers</title>
+                    <meta name="description" content="Discover a collection of "Spider-Man: Into the Spider-Verse Prowler" wallpapers to elevate your device. Perfect for fans, these eye-catching backgrounds showcase the dynamic style and energy of the Prowler. Download now and transform your screen with vivid art inspired by the beloved animated film!">
+                    <meta name="keywords" content="spider man into the spider verse prowler wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-into-the-spider-verse-prowler-wallpaper">
+                            <span itemprop="name">spider man into the spider verse prowler wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spider-Man: Into the Spider-Verse Prowler Wallpapers</h1>
+                <p>Transform your device with stunning "Spider-Man: Into the Spider-Verse Prowler" wallpapers! Featuring the sleek design and vibrant colors of this fan-favorite character, these wallpapers help bring your screen to life. Perfect for any fan, these visuals capture the essence of the multiverse adventure in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - The Prowler - Into the Spider-verse">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/054/241/000/large/yaashiniy-prowler.jpg?1664096833' alt='ArtStation - The Prowler - Into the Spider-verse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/054/241/000/large/yaashiniy-prowler.jpg?1664096833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prowler">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/11/84/c1/1184c11942faafe881c02cb47f9fb299.jpg' alt='Prowler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/11/84/c1/1184c11942faafe881c02cb47f9fb299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider man into the spider verse(2018) the prowler. Can someone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/b69o79csfw9b1.jpg' alt='Spider man into the spider verse(2018) the prowler. Can someone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/b69o79csfw9b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prowler | Sony Pictures Entertaiment Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sony-pictures-entertaiment/images/2/27/3608838.jpg/revision/latest?cb=20230416185051' alt='Prowler | Sony Pictures Entertaiment Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sony Pictures Entertaiment Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sony-pictures-entertaiment/images/2/27/3608838.jpg/revision/latest?cb=20230416185051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Spider-Man Across the Spider-Verse | Earth-42 Prowler">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/066/099/459/large/caden-mccoy-atsv-earth-42-prowler-min.jpg?1692043297' alt='ArtStation - Spider-Man Across the Spider-Verse | Earth-42 Prowler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/066/099/459/large/caden-mccoy-atsv-earth-42-prowler-min.jpg?1692043297' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If The Prowler from Spiderman Into the Spider Verse was in the MHA ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g3ykcxo1zi781.jpg' alt='If The Prowler from Spiderman Into the Spider Verse was in the MHA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g3ykcxo1zi781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prowler Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/a7/2f/b4a72f0fce4482fcd6ce3efbb430cf47.jpg' alt='Prowler Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/a7/2f/b4a72f0fce4482fcd6ce3efbb430cf47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prowler (Spider-Man: Into the Spider-Verse) | Villains Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/villains/images/6/68/Prowler.png/revision/latest?cb=20220806153424' alt='Prowler (Spider-Man: Into the Spider-Verse) | Villains Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2312">
+                                <meta itemprop="height" content="1724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villains Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/villains/images/6/68/Prowler.png/revision/latest?cb=20220806153424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prowler">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/06/83/6f0683dedf8d8ffd429a8029b24fd86b.jpg' alt='Prowler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/06/83/6f0683dedf8d8ffd429a8029b24fd86b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahnad Dunlap - The Prowler">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/029/542/423/large/ahnx-dunlap-prowler-2.jpg?1597873345' alt='Ahnad Dunlap - The Prowler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ahnad Dunlap" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/029/542/423/large/ahnx-dunlap-prowler-2.jpg?1597873345' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

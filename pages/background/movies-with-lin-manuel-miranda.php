@@ -1,0 +1,129 @@
+<title>Movies Starring Lin-Manuel Miranda: A Cinematic Journey</title>
+                    <meta name="description" content="Explore the films featuring Lin-Manuel Miranda, from his unforgettable songs in "Moana" to his captivating role in "In the Heights." Discover how this Broadway legend has made a mark in Hollywood, enriching movies with his unique style and storytelling. Perfect for fans of musical cinema!">
+                    <meta name="keywords" content="movies with lin manuel miranda">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movies-with-lin-manuel-miranda">
+                            <span itemprop="name">movies with lin manuel miranda</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Movies Starring Lin-Manuel Miranda: A Cinematic Journey</h1>
+                <p>Lin-Manuel Miranda, renowned for his groundbreaking musical "Hamilton," has also graced the big screen in several films. His performances in "Moana," where he penned the catchy songs, and "In the Heights," showcasing his love for storytelling, highlight his versatility. Discover how Miranda’s talent brings fresh energy to modern cinema!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/554497_v9_bc.jpg' alt='Lin-Manuel Miranda | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/554497_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda's 10 Best Film and TV Roles, According To IMDb">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/05/lin-manuel-miranda-best-roles.jpg' alt='Lin-Manuel Miranda's 10 Best Film and TV Roles, According To IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/05/lin-manuel-miranda-best-roles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Lin-Manuel Miranda Movie Musical Ranked, Worst To Best">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/Lin-Manuel-Miranda-Musicals-Ranked.jpg' alt='Every Lin-Manuel Miranda Movie Musical Ranked, Worst To Best'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/Lin-Manuel-Miranda-Musicals-Ranked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda Movies, Musicals: Where to See His Work">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/rKtMTa7Q53pNbpwZ46SKeJBOAVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lin-manuel-miranda-2-1-2000-9bab18a8d4a94f34b4478759fc29f485.jpg' alt='Lin-Manuel Miranda Movies, Musicals: Where to See His Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/rKtMTa7Q53pNbpwZ46SKeJBOAVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lin-manuel-miranda-2-1-2000-9bab18a8d4a94f34b4478759fc29f485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTNjYTY2YjctZjk0NS00NTE5LTliNjctYWNlMDRlYjI1Mzk5XkEyXkFqcGc@._V1_.jpg' alt='Lin-Manuel Miranda - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTNjYTY2YjctZjk0NS00NTE5LTliNjctYWNlMDRlYjI1Mzk5XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda's 2021 Films, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Lin-Manuel-Miranda.jpg' alt='Lin-Manuel Miranda's 2021 Films, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/02/Lin-Manuel-Miranda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lin-Manuel_Miranda_%26_James_McAvoy_%2848383681926%29_%28cropped%29.jpg/640px-Lin-Manuel_Miranda_%26_James_McAvoy_%2848383681926%29_%28cropped%29.jpg' alt='Lin-Manuel Miranda - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lin-Manuel_Miranda_%26_James_McAvoy_%2848383681926%29_%28cropped%29.jpg/640px-Lin-Manuel_Miranda_%26_James_McAvoy_%2848383681926%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w500/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg' alt='Lin-Manuel Miranda — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w500/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda's Musical Movie 'Vivo' Moves to Netflix">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2020/12/Lin-Manuel-Miranda-Reflects-on-2020.jpg' alt='Lin-Manuel Miranda's Musical Movie 'Vivo' Moves to Netflix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2020/12/Lin-Manuel-Miranda-Reflects-on-2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lin-Manuel Miranda on Encanto’s Oscar Nominations & How Stephen Sondheim  Inspired His Next Thing">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/Lin-Manuel-Miranda---Encanto.jpg' alt='Lin-Manuel Miranda on Encanto’s Oscar Nominations & How Stephen Sondheim  Inspired His Next Thing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/Lin-Manuel-Miranda---Encanto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

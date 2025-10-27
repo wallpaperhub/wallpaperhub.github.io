@@ -1,0 +1,129 @@
+<title>Furry Backgrounds: Adding Warmth and Charm</title>
+                    <meta name="description" content="Discover the beauty of furry backgrounds! Perfect for photography or design, these soft and colorful textures add warmth to any project. Explore how to enhance your visuals with playful, inviting furry elements for a cozy touch. Ideal for creative minds seeking a unique aesthetic!">
+                    <meta name="keywords" content="furry background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/furry-background">
+                            <span itemprop="name">furry background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Furry Backgrounds: Adding Warmth and Charm</h1>
+                <p>Furry backgrounds bring a unique charm and warmth to any setting. Their soft textures and vibrant colors create an inviting atmosphere. Often used in photography and design, these backgrounds can enhance visual appeal, offering a playful or cozy vibe. Incorporate furry elements for a touch of whimsy in your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Furry Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/furry-h9b4k9t4frqjnqot.jpg' alt='100+] Furry Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/furry-h9b4k9t4frqjnqot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furry Female Fox Space Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/furry-female-fox-space-background-nbv1bemcc84kkarl.jpg' alt='Furry Female Fox Space Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/furry-female-fox-space-background-nbv1bemcc84kkarl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furry Wallpaper by ShifterFoxx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37833980-c7c2-4304-b35f-bfc1fe03d907/df9gruy-e27b6faf-2ced-43b7-99a9-7fd75b03351a.png/v1/fill/w_1280,h_720,q_80,strp/furry_wallpaper_by_shifterfoxx_df9gruy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzc4MzM5ODAtYzdjMi00MzA0LWIzNWYtYmZjMWZlMDNkOTA3XC9kZjlncnV5LWUyN2I2ZmFmLTJjZWQtNDNiNy05OWE5LTdmZDc1YjAzMzUxYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.clcz3y8mm6t2jD_5GqNgGfE5F6fNoM2b4qanjXhM1uQ' alt='Furry Wallpaper by ShifterFoxx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37833980-c7c2-4304-b35f-bfc1fe03d907/df9gruy-e27b6faf-2ced-43b7-99a9-7fd75b03351a.png/v1/fill/w_1280,h_720,q_80,strp/furry_wallpaper_by_shifterfoxx_df9gruy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzc4MzM5ODAtYzdjMi00MzA0LWIzNWYtYmZjMWZlMDNkOTA3XC9kZjlncnV5LWUyN2I2ZmFmLTJjZWQtNDNiNy05OWE5LTdmZDc1YjAzMzUxYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.clcz3y8mm6t2jD_5GqNgGfE5F6fNoM2b4qanjXhM1uQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furry backround wallpaper by DutchFurryJones -- Fur Affinity [dot] net">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/dutchfurryjones/1508982165/1508982165.dutchfurryjones_backroundnoglow.jpg' alt='Furry backround wallpaper by DutchFurryJones -- Fur Affinity [dot] net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/dutchfurryjones/1508982165/1508982165.dutchfurryjones_backroundnoglow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone background art trade, doing bust comms like these for 20 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/43vu1i443y541.jpg' alt='Phone background art trade, doing bust comms like these for 20 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/43vu1i443y541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furry 5, art, cute, furry fandom, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/772/790/HD-wallpaper-furry-5-art-cute-furry-fandom.jpg' alt='Furry 5, art, cute, furry fandom, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/772/790/HD-wallpaper-furry-5-art-cute-furry-fandom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clean furry wallpapers — My current laptop wallpaper, absolutely ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/oyKHPXS.jpg' alt='Clean furry wallpapers — My current laptop wallpaper, absolutely ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clean furry wallpapers - Tumblr" />
+                                </span>
+                                <a href='http://i.imgur.com/oyKHPXS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furry Background wallpaper PHONE VERSION by DutchFurryJones -- Fur ...">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/dutchfurryjones/1508982306/1508982306.dutchfurryjones_phonebackround.jpg' alt='Furry Background wallpaper PHONE VERSION by DutchFurryJones -- Fur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/dutchfurryjones/1508982306/1508982306.dutchfurryjones_phonebackround.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Fox HD Wallpaper: Enchanted Melodies Under the Moon by ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/665/665166.png' alt='Fantasy Fox HD Wallpaper: Enchanted Melodies Under the Moon by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/665/665166.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Furry Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/furry-pictures-yfatl67sqr7y0vqg.jpg' alt='200+] Furry Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/furry-pictures-yfatl67sqr7y0vqg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

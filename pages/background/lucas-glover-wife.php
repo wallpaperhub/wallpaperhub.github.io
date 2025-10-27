@@ -1,0 +1,129 @@
+<title>Who is Lucas Glover's Wife? All About Krista Glover</title>
+                    <meta name="description" content="Discover everything about Lucas Glover's wife, Krista Glover. Learn about their relationship, family life, and how she supports his golfing career. Stay updated with insights into their life together as they navigate the challenges of the golf world.">
+                    <meta name="keywords" content="lucas glover wife">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lucas-glover-wife">
+                            <span itemprop="name">lucas glover wife</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who is Lucas Glover's Wife? All About Krista Glover</h1>
+                <p>Lucas Glover is a celebrated golfer, and his wife, Krista Glover, has been a significant part of his journey. Together since 2008, they share a strong bond and support each other through the ups and downs of the golf world. Krista is not only a loving partner but also a mother to their two children, bringing balance to Glover's competitive career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Lucas Glover's Wife? All About Krista Glover">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/XxTyJYxukj9F-Dwaaf3WVHiaH-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(990x570:992x572)/lucas-glover-krista-glover-1-1e5f4a8776ab49fb935161077c949f4a.jpg' alt='Who Is Lucas Glover's Wife? All About Krista Glover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/XxTyJYxukj9F-Dwaaf3WVHiaH-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(990x570:992x572)/lucas-glover-krista-glover-1-1e5f4a8776ab49fb935161077c949f4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Lucas Glover's Wife? All About Krista Glover">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/XLWeQ1iaYUR9z_IwBf_t3PcN3Bc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-family-67b275be152e49d3a7919a362283897b.jpg' alt='Who Is Lucas Glover's Wife? All About Krista Glover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/XLWeQ1iaYUR9z_IwBf_t3PcN3Bc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-family-67b275be152e49d3a7919a362283897b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucas Glover embraces wife Krista after back-to-back PGA Tour ...">
+                                <img itemprop="contentUrl url" src='https://phantom-marca.unidadeditorial.es/edd0e359847ef4b4184413f47b59acd0/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/14/16919796993401.jpg' alt='Lucas Glover embraces wife Krista after back-to-back PGA Tour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marca.com" />
+                                </span>
+                                <a href='https://phantom-marca.unidadeditorial.es/edd0e359847ef4b4184413f47b59acd0/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/14/16919796993401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Housewives of the PGA Tour starring Krista Glover | New ...">
+                                <img itemprop="contentUrl url" src='http://newengland.golf/wp-content/uploads/2018/05/Lucas-Glover-wife-Krista-Glover-picture.jpg' alt='Real Housewives of the PGA Tour starring Krista Glover | New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New England dot Golf" />
+                                </span>
+                                <a href='http://newengland.golf/wp-content/uploads/2018/05/Lucas-Glover-wife-Krista-Glover-picture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Lucas Glover's Wife? All About Krista Glover">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/CzsO5vFCqUsTWuRQPfFEzWPkZqM=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-krista-glover-5-4662a4b5563e473badae7283bbedc75a.jpg' alt='Who Is Lucas Glover's Wife? All About Krista Glover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/CzsO5vFCqUsTWuRQPfFEzWPkZqM=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-krista-glover-5-4662a4b5563e473badae7283bbedc75a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Lucas Glover's wife? Meet fashion expert Krista Glover ...">
+                                <img itemprop="contentUrl url" src='https://cdn.golfmagic.com/field/image/Collage%20Maker-06-Aug-2023-03-14-PM-1455.jpg?width=1280' alt='Who is Lucas Glover's wife? Meet fashion expert Krista Glover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golfmagic" />
+                                </span>
+                                <a href='https://cdn.golfmagic.com/field/image/Collage%20Maker-06-Aug-2023-03-14-PM-1455.jpg?width=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Lucas Glover's Wife? All About Krista Glover">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/FkI4aZA945eN-cMQJWXgnZ--l9k=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-krista-glover-3-43dc58917b644e7b83ee42574c2fc986.jpg' alt='Who Is Lucas Glover's Wife? All About Krista Glover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/FkI4aZA945eN-cMQJWXgnZ--l9k=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/lucas-glover-krista-glover-3-43dc58917b644e7b83ee42574c2fc986.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Lucas Glover still married? Exploring the PGA Tour star's ...">
+                                <img itemprop="contentUrl url" src='https://staticg.sportskeeda.com/editor/2023/08/677ed-16913303797770-1920.jpg' alt='Is Lucas Glover still married? Exploring the PGA Tour star's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://staticg.sportskeeda.com/editor/2023/08/677ed-16913303797770-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poor Lucas Glover - Page 3 - Tour Talk - The Sand Trap .com">
+                                <img itemprop="contentUrl url" src='https://thesandtrap.com/uploads/monthly_2018_05/4C48E3D000000578-5732587-image-a-59_1526406439358.jpg.d3230a30475e9559ab98f29f24696d6b.jpg' alt='Poor Lucas Glover - Page 3 - Tour Talk - The Sand Trap .com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sand Trap .com" />
+                                </span>
+                                <a href='https://thesandtrap.com/uploads/monthly_2018_05/4C48E3D000000578-5732587-image-a-59_1526406439358.jpg.d3230a30475e9559ab98f29f24696d6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lucas Glover Residence">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/staticg.sportskeeda.com/editor/2023/08/1e2ee-16913304592451-1920.jpg' alt='Lucas Glover Residence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tunxis.commnet.edu" />
+                                </span>
+                                <a href='https://i2.wp.com/staticg.sportskeeda.com/editor/2023/08/1e2ee-16913304592451-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

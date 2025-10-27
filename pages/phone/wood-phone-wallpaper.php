@@ -1,0 +1,129 @@
+<title>Stunning Wood Phone Wallpapers: Enhance Your Device Aesthetic</title>
+                    <meta name="description" content="Discover beautiful wood phone wallpapers that add a touch of nature and elegance to your device. Explore various styles, from rustic to modern, and customize your phone's look effortlessly. Perfect for nature lovers and design enthusiasts alike!">
+                    <meta name="keywords" content="wood phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wood-phone-wallpaper">
+                            <span itemprop="name">wood phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wood Phone Wallpapers: Enhance Your Device Aesthetic</h1>
+                <p>Transform your phone's aesthetic with stunning wood phone wallpapers! These natural textures bring warmth and sophistication to your device, making it stand out. Choose from a variety of designs, including rustic, modern, and minimalist styles, to match your personal taste. Elevate your phone's look with a touch of nature!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Phone Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1551364827-375ede57f397?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29vZCUyMHBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Wood Phone Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1551364827-375ede57f397?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29vZCUyMHBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Moto G Wood iPhone Plus Wallpaper on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/43/b9/3743b930f814fd28c474df3872133ea3.jpg' alt='   Free download Moto G Wood iPhone Plus Wallpaper on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/43/b9/3743b930f814fd28c474df3872133ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Best Wooden ideas | wood wallpaper, wallpaper, wooden">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/90/e4/19/90e419f2758ee3eed09eed17e5c7c579.jpg' alt='110 Best Wooden ideas | wood wallpaper, wallpaper, wooden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/90/e4/19/90e419f2758ee3eed09eed17e5c7c579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hard Wood Samsung Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/hard-wood.png' alt='Hard Wood Samsung Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/hard-wood.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/assorted-plant-leaves-table_23-2147931783.jpg' alt='Wood Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/assorted-plant-leaves-table_23-2147931783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Wood Phone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/natural-wood.png' alt='Natural Wood Phone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/natural-wood.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 Best Wooden ideas | wood wallpaper, wallpaper, wooden">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/be/68/93be686448b5171ce76e2511e80d94e6.jpg' alt='110 Best Wooden ideas | wood wallpaper, wallpaper, wooden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/be/68/93be686448b5171ce76e2511e80d94e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bois Veiné. Wood, , Wood background, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/954/785/HD-wallpaper-bois-veine-wood-wood-background.jpg' alt='Bois Veiné. Wood, , Wood background, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/954/785/HD-wallpaper-bois-veine-wood-wood-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic wood, board, weather, wooden, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/188/909/HD-wallpaper-rustic-wood-board-weather-wooden.jpg' alt='Rustic wood, board, weather, wooden, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/188/909/HD-wallpaper-rustic-wood-board-weather-wooden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark wood wallpapers that are perfect for your iphone x ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/dark-wood-wallpapers-that-are-perfect-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-wallpapers-dark-wood-wallpaper-dark-wood-wallpaper-dark-wood_808410-45.jpg' alt='Dark wood wallpapers that are perfect for your iphone x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/dark-wood-wallpapers-that-are-perfect-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-wallpapers-dark-wood-wallpaper-dark-wood-wallpaper-dark-wood_808410-45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

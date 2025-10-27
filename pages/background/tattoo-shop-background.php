@@ -1,0 +1,129 @@
+<title>Discover the Best Tattoo Shop Near You</title>
+                    <meta name="description" content="Explore our tattoo shop, where creativity meets artistry. We offer unique designs, a vibrant atmosphere, and expert tattoo artists ready to bring your vision to life. Visit us for a personalized tattoo experience you'll treasure forever.">
+                    <meta name="keywords" content="tattoo shop background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tattoo-shop-background">
+                            <span itemprop="name">tattoo shop background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Best Tattoo Shop Near You</h1>
+                <p>Tattoo shops have evolved into unique spaces filled with artistry and culture. From vintage designs to modern styles, each shop reflects the personality of its artists. A welcoming atmosphere, creative decor, and skilled professionals contribute to an inspiring environment for anyone considering body art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Shop Background Images – Browse 34,081 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/94/25/59/360_F_194255915_V1iYMppe2vZBX7C79F9zfjO8SpPUMSei.jpg' alt='Tattoo Shop Background Images – Browse 34,081 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/94/25/59/360_F_194255915_V1iYMppe2vZBX7C79F9zfjO8SpPUMSei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad to the Bone Tattoo Parlor">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/VD2418x5Valentine_sBackdropforBoys_1800x1800.jpg?v=1672945174' alt='Bad to the Bone Tattoo Parlor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/VD2418x5Valentine_sBackdropforBoys_1800x1800.jpg?v=1672945174' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Shop Background Images – Browse 34,081 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/64/80/63/360_F_664806390_BZz3oC5X2GM0epBWLwSxhdfpYXWMJ3Kg.jpg' alt='Tattoo Shop Background Images – Browse 34,081 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/64/80/63/360_F_664806390_BZz3oC5X2GM0epBWLwSxhdfpYXWMJ3Kg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Shop Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/555/880/small/luxury-interior-with-chandelier-with-black-background-free-photo.jpg' alt='Tattoo Shop Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="198">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/555/880/small/luxury-interior-with-chandelier-with-black-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Shop Images – Browse 99,993 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/96/13/20/360_F_396132081_xflK56tTXDgn0qe6hDGfEdgQRF0t9xfw.jpg' alt='Tattoo Shop Images – Browse 99,993 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/96/13/20/360_F_396132081_xflK56tTXDgn0qe6hDGfEdgQRF0t9xfw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Shop Background Images – Browse 34,081 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/01/05/24/360_F_101052491_D8WlkJsZclF5kO8LsA7AstXI9Ir4iuFl.jpg' alt='Tattoo Shop Background Images – Browse 34,081 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/01/05/24/360_F_101052491_D8WlkJsZclF5kO8LsA7AstXI9Ir4iuFl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tattoo Parlor Background | by Jenny Smith | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/0*hoeebeIGpuJ2C56G.jpg' alt='Tattoo Parlor Background | by Jenny Smith | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/0*hoeebeIGpuJ2C56G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design tattoo studio">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/8c/b1/778cb1fa3a3adc07fcd3ab7cef1201cf.jpg' alt='Design tattoo studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/8c/b1/778cb1fa3a3adc07fcd3ab7cef1201cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Avoid when Looking for a Tattoo Shop - Tormented Souls ...">
+                                <img itemprop="contentUrl url" src='https://www.tormentedsoulstattoo.com/blog/wp-content/uploads/2015/03/DSC_2767.jpg' alt='What to Avoid when Looking for a Tattoo Shop - Tormented Souls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Long Island Tattoo Shop - Tormented Souls" />
+                                </span>
+                                <a href='https://www.tormentedsoulstattoo.com/blog/wp-content/uploads/2015/03/DSC_2767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320+ Interior Of Empty Tattoo Parlor Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1183435962/photo/tattoo-black-and-red-one.jpg?s=612x612&w=0&k=20&c=DK3mmySw1nbZynQbNHW1Z-zhtFuVNQ4JJCC7J68keZA=' alt='320+ Interior Of Empty Tattoo Parlor Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1183435962/photo/tattoo-black-and-red-one.jpg?s=612x612&w=0&k=20&c=DK3mmySw1nbZynQbNHW1Z-zhtFuVNQ4JJCC7J68keZA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

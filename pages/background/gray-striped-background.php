@@ -1,0 +1,129 @@
+<title>Elegant Gray Striped Background for Modern Designs</title>
+                    <meta name="description" content="Discover the allure of a gray striped background! This sophisticated design element enhances modern aesthetics, perfect for any project. Elevate your visuals with subtle stripes that add depth and professionalism. Ideal for websites, presentations, and promotional materials.">
+                    <meta name="keywords" content="gray striped background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gray-striped-background">
+                            <span itemprop="name">gray striped background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gray Striped Background for Modern Designs</h1>
+                <p>A gray striped background adds depth and sophistication to designs, creating a stylish canvas ideal for both digital and print media. The subtle interplay of light and dark stripes enhances visuals without overwhelming them, making it perfect for presentations, websites, or promotional materials. Use it to evoke professionalism and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey White Stripes Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/seamless-pattern-with-gray-stripes-watercolor-hand-drawn-white-gray-background-wallpaper-wrapping-textile-fabric_454883-67.jpg?semt=ais_hybrid' alt='Grey White Stripes Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/seamless-pattern-with-gray-stripes-watercolor-hand-drawn-white-gray-background-wallpaper-wrapping-textile-fabric_454883-67.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Abstract gray stripes background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-gray-stripes-background_1035-19089.jpg' alt='Free Vector | Abstract gray stripes background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-gray-stripes-background_1035-19089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray and White Stripes - Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-gray-and-white-stripes-peel-and-stick-wallpaper-gray-and-white-stripes-12394594861142.png?v=1619799781' alt='Gray and White Stripes - Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-gray-and-white-stripes-peel-and-stick-wallpaper-gray-and-white-stripes-12394594861142.png?v=1619799781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Stripes Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/simple-gray-striped-seamless-background-design-resource-vector_53876-136682.jpg' alt='Grey Stripes Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/simple-gray-striped-seamless-background-design-resource-vector_53876-136682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern stripe seamless gray and white. Diagonal stripe abstract ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/01/57/22/1000_F_201572202_JFo0FRZq5oep0GC7E73SV7XOFJtn1UoA.jpg' alt='Pattern stripe seamless gray and white. Diagonal stripe abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/01/57/22/1000_F_201572202_JFo0FRZq5oep0GC7E73SV7XOFJtn1UoA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Striped Background Of Diagonal Grey Lines Over White ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/dvarg/dvarg1404/dvarg140400194/27239973-abstract-striped-background-of-diagonal-grey-lines-over-white.jpg' alt='Abstract Striped Background Of Diagonal Grey Lines Over White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/dvarg/dvarg1404/dvarg140400194/27239973-abstract-striped-background-of-diagonal-grey-lines-over-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray background in small stripes Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/56/51/gray-background-in-small-stripes-vector-9005651.jpg' alt='Gray background in small stripes Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/56/51/gray-background-in-small-stripes-vector-9005651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Stripe Background Images – Browse 810,904 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/12/68/53/44/360_F_1268534471_vbcuAYQE3fWb5DTxNIEb4Bi94CmDnz6z.jpg' alt='Gray Stripe Background Images – Browse 810,904 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/12/68/53/44/360_F_1268534471_vbcuAYQE3fWb5DTxNIEb4Bi94CmDnz6z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripes Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTUtMTAyN2EteC5qcGc.jpg' alt='Stripes Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTUtMTAyN2EteC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | gray striped background">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/79/7929a0a1977a554941934408fc4b6668_t.jpeg' alt='Free Vectors | gray striped background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/79/7929a0a1977a554941934408fc4b6668_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

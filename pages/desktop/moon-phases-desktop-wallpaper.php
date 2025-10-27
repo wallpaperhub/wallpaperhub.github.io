@@ -1,0 +1,129 @@
+<title>Stunning Moon Phases Desktop Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover the perfect moon phases desktop wallpaper to enhance your workspace. From new moon to full moon, these captivating designs inspire tranquility and beauty, making your screen a daily reminder of the universe's wonders. Download your favorite and elevate your desktop today!">
+                    <meta name="keywords" content="moon phases desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/moon-phases-desktop-wallpaper">
+                            <span itemprop="name">moon phases desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moon Phases Desktop Wallpapers for Your Screen</h1>
+                <p>Transform your desktop with stunning moon phases wallpapers that bring the beauty of the night sky to your screen. Each phase showcases the moon’s transition from a new moon to a full moon, offering a calming and inspirational vibe. Ideal for astronomy lovers and anyone seeking a touch of serenity in their daily workspace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phase desktop and phone wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/moonphase_widescreen.jpg?v=1647737356' alt='Moon phase desktop and phone wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/moonphase_widescreen.jpg?v=1647737356' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phases of the Moon Wallpapers [+67 Free Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/35/phases-of-the-full-moon-1920x1200.jpg' alt='Phases of the Moon Wallpapers [+67 Free Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/35/phases-of-the-full-moon-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moon Phases Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/eight-moon-phases-in-smoky-galaxy-backdrop-gpt7vbtqs8dgrs70.jpg' alt='100+] Moon Phases Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/eight-moon-phases-in-smoky-galaxy-backdrop-gpt7vbtqs8dgrs70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a 4k desktop wallpaper of my latest lunar phases composite ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heres-a-4k-desktop-wallpaper-of-my-latest-lunar-phases-v0-6nt8z1n7cead1.jpeg?auto=webp&s=5406512314c0975c39529984f66cbb6d6ae29a84' alt='Here's a 4k desktop wallpaper of my latest lunar phases composite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heres-a-4k-desktop-wallpaper-of-my-latest-lunar-phases-v0-6nt8z1n7cead1.jpeg?auto=webp&s=5406512314c0975c39529984f66cbb6d6ae29a84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Captivating Moon Phases as Seen from Earth | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/moon-phases-2560-x-1600-picture-9hm8hyqsd2yny80c.jpg' alt='Download Captivating Moon Phases as Seen from Earth | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/moon-phases-2560-x-1600-picture-9hm8hyqsd2yny80c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phases in Nature - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/634/6340.jpg' alt='Moon Phases in Nature - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/634/6340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phases" Images – Browse 66,010 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/63/65/46/360_F_463654660_dLvbDDatSyB7wWethzqW3i6chkoY7hxp.jpg' alt='Moon Phases" Images – Browse 66,010 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/63/65/46/360_F_463654660_dLvbDDatSyB7wWethzqW3i6chkoY7hxp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Moon Phase 4K Space Wallpaper, HD Artist 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/the-moon-phase-4k-space_bmdmam6UmZqaraWkpJRnbmZnrWZraGc.jpg' alt='The Moon Phase 4K Space Wallpaper, HD Artist 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/the-moon-phase-4k-space_bmdmam6UmZqaraWkpJRnbmZnrWZraGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Moon Phases Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533294455009-a77b7557d2d1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9vbiUyMHBoYXNlc3xlbnwwfHwwfHx8MA%3D%3D' alt='500+ Moon Phases Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533294455009-a77b7557d2d1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9vbiUyMHBoYXNlc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phase desktop and phone wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/moonphase_macbookair4_mockup.jpg' alt='Moon phase desktop and phone wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2251">
+                                <meta itemprop="height" content="1358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/moonphase_macbookair4_mockup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

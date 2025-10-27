@@ -1,0 +1,129 @@
+<title>Enhance Your Web Design: Master HTML Text Color</title>
+                    <meta name="description" content="Learn how to effectively use HTML text color to improve your web design. Discover color formats, best practices, and tips to enhance readability and visual appeal for an engaging user experience. Optimize your content with vibrant colors using simple coding techniques!">
+                    <meta name="keywords" content="html text color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/html-text-color">
+                            <span itemprop="name">html text color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Web Design: Master HTML Text Color</h1>
+                <p>HTML text color is defined using the 'color' property in CSS. Colors can be specified in various formats, including named colors (like "red"), HEX codes (like "#FF0000"), RGB (like "rgb(255,0,0)"), and RGBA for transparency. Color enhances readability and adds visual appeal to web content, improving user experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easily Ways to Change Text Color using HTML and CSS">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/4/47/157292-11-1.jpg/v4-460px-157292-11-1.jpg' alt='Easily Ways to Change Text Color using HTML and CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/4/47/157292-11-1.jpg/v4-460px-157292-11-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ways to Use Font Color Tags in HTML - wikiHow">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/3/33/122247-13-1.jpg/v4-460px-122247-13-1.jpg' alt='3 Ways to Use Font Color Tags in HTML - wikiHow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/3/33/122247-13-1.jpg/v4-460px-122247-13-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Text Color in HTML CSS | 3 Ways to Change Text Color">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3ajGwEW22hE/maxresdefault.jpg' alt='How to Change Text Color in HTML CSS | 3 Ways to Change Text Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3ajGwEW22hE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Text Color in HTML">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KYY5zp06jH0/maxresdefault.jpg' alt='How to Change Text Color in HTML'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KYY5zp06jH0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Text Color in HTML – Font Style Tutorial">
+                                <img itemprop="contentUrl url" src='https://www.freecodecamp.org/news/content/images/2022/09/cover-template--6-.png' alt='How to Change Text Color in HTML – Font Style Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freeCodeCamp" />
+                                </span>
+                                <a href='https://www.freecodecamp.org/news/content/images/2022/09/cover-template--6-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Color, Font, and Size of a Text in HTML">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nIxeAiEsi0k/maxresdefault.jpg' alt='How to Change Color, Font, and Size of a Text in HTML'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nIxeAiEsi0k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add color in HTML without CSS? | by Brajagopal Tripathi ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*uqwZSvzRk6F1yWJ_' alt='How to add color in HTML without CSS? | by Brajagopal Tripathi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*uqwZSvzRk6F1yWJ_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easily Ways to Change Text Color using HTML and CSS">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/0/08/157292-8-1.jpg/v4-460px-157292-8-1.jpg' alt='Easily Ways to Change Text Color using HTML and CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/0/08/157292-8-1.jpg/v4-460px-157292-8-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Font Color in HTML | How to Change Font Color in HTML? - Scaler Topics">
+                                <img itemprop="contentUrl url" src='https://scaler.com/topics/images/color-with-hsl-and-rgb-values.webp' alt='Font Color in HTML | How to Change Font Color in HTML? - Scaler Topics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3401">
+                                <meta itemprop="height" content="3483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scaler" />
+                                </span>
+                                <a href='https://scaler.com/topics/images/color-with-hsl-and-rgb-values.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to change text color in HTML - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MlyG3_jqvwk/maxresdefault.jpg' alt='how to change text color in HTML - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MlyG3_jqvwk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

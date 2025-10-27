@@ -1,0 +1,129 @@
+<title>Boeing History: A Journey Through Aviation Innovation</title>
+                    <meta name="description" content="Explore Boeing's evolution from its 1916 inception to becoming a leader in aviation. Discover key milestones, innovations, and its impact on global travel and aerospace technology. Stay informed and inspired by Boeing's rich legacy in shaping the skies.">
+                    <meta name="keywords" content="boeing history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boeing-history">
+                            <span itemprop="name">boeing history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boeing History: A Journey Through Aviation Innovation</h1>
+                <p>Boeing, founded in 1916 by William Boeing in Seattle, originally produced seaplanes. It became a major player in aviation after its military contracts during World War II. The 707 commercial jet revolutionized air travel in the 1950s, solidifying Boeing's status. Today, it’s a leader in aerospace, focusing on innovation and sustainability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History">
+                                <img itemprop="contentUrl url" src='https://www.boeing.com/content/theboeingcompany/us/en/history/_jcr_content/root/container/container_1327364113/hero_teaser.coreimg.jpeg/1702249682132/products-1500x630.jpeg' alt='History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Boeing Company" />
+                                </span>
+                                <a href='https://www.boeing.com/content/theboeingcompany/us/en/history/_jcr_content/root/container/container_1327364113/hero_teaser.coreimg.jpeg/1702249682132/products-1500x630.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boeing's history reveals connections and disconnections in the ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.hcn.org/wp-content/uploads/2020/02/boeingrwhthumb.jpg?fit=1200%2C800&ssl=1' alt='Boeing's history reveals connections and disconnections in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="High Country News" />
+                                </span>
+                                <a href='https://i0.wp.com/www.hcn.org/wp-content/uploads/2020/02/boeingrwhthumb.jpg?fit=1200%2C800&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Boeing - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boeing-Whichata_B-29_Assembly_Line_-_1944.jpg/220px-Boeing-Whichata_B-29_Assembly_Line_-_1944.jpg' alt='History of Boeing - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boeing-Whichata_B-29_Assembly_Line_-_1944.jpg/220px-Boeing-Whichata_B-29_Assembly_Line_-_1944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Boeing Aviation : r/airplanes">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-history-of-boeing-aviation-v0-qbf8n6b497ga1.png?auto=webp&s=a6f74aed31be3832944581e5013cd0aa7da84dfe' alt='The History of Boeing Aviation : r/airplanes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-history-of-boeing-aviation-v0-qbf8n6b497ga1.png?auto=webp&s=a6f74aed31be3832944581e5013cd0aa7da84dfe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying high">
+                                <img itemprop="contentUrl url" src='http://projects.seattletimes.com/2016/boeing-timeline/assets/images/2-AfterGreatWar.jpg' alt='Flying high'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='http://projects.seattletimes.com/2016/boeing-timeline/assets/images/2-AfterGreatWar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boeing Story | The National WWII Museum | New Orleans">
+                                <img itemprop="contentUrl url" src='https://www.nationalww2museum.org/sites/default/files/styles/wide_large/public/2017-06/bi236522-1024x759.jpg?h=bd5a9935' alt='The Boeing Story | The National WWII Museum | New Orleans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National WWII Museum" />
+                                </span>
+                                <a href='https://www.nationalww2museum.org/sites/default/files/styles/wide_large/public/2017-06/bi236522-1024x759.jpg?h=bd5a9935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boeing turns 100: A look back at aviation history | Mashable">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/articles/04pSZqM4Wc6FXU1WPskoc3T/hero-image.fill.size_1200x1200.v1611610765.jpg' alt='Boeing turns 100: A look back at aviation history | Mashable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/articles/04pSZqM4Wc6FXU1WPskoc3T/hero-image.fill.size_1200x1200.v1611610765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Boeing - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/43/Alaska_Airlines_Boeing_737-900_in_flight_100_years.jpg' alt='History of Boeing - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/43/Alaska_Airlines_Boeing_737-900_in_flight_100_years.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying high">
+                                <img itemprop="contentUrl url" src='https://projects.seattletimes.com/2016/boeing-timeline/assets/images/1-EarlyYears.jpg' alt='Flying high'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://projects.seattletimes.com/2016/boeing-timeline/assets/images/1-EarlyYears.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boeing Company | Description, History, & Aircraft | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/74/183374-050-E56D88D9/Boeing-707.jpg' alt='Boeing Company | Description, History, & Aircraft | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/74/183374-050-E56D88D9/Boeing-707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

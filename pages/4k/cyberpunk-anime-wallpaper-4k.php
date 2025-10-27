@@ -1,0 +1,129 @@
+<title>Stunning 4K Cyberpunk Anime Wallpapers</title>
+                    <meta name="description" content="Discover breathtaking 4K cyberpunk anime wallpapers to elevate your device's aesthetics. Immerse yourself in neon-lit landscapes and striking characters that define the cyberpunk genre. Ideal for fans seeking high-quality visuals to personalize their screens.">
+                    <meta name="keywords" content="cyberpunk anime wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/cyberpunk-anime-wallpaper-4k">
+                            <span itemprop="name">cyberpunk anime wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Cyberpunk Anime Wallpapers</h1>
+                <p>Explore an immersive collection of stunning 4K cyberpunk anime wallpapers that ignite your imagination. Dive into futuristic cityscapes, vibrant neon lights, and captivating characters that embody the thrilling essence of cyberpunk aesthetics. Perfect for enhancing your device's look and feel with a stylish, edgy vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl Cyberpunk Ride 4K Wallpaper by OmegaHD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88fc6ac7-9ac8-4b2d-b12f-3ad0ac6ee468/ded4lz7-9a6d4120-2fd5-4d22-9ed1-d9c7c748208c.jpg/v1/fill/w_1280,h_720,q_75,strp/anime_girl_cyberpunk_ride_4k_wallpaper_by_omegahd_ded4lz7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODhmYzZhYzctOWFjOC00YjJkLWIxMmYtM2FkMGFjNmVlNDY4XC9kZWQ0bHo3LTlhNmQ0MTIwLTJmZDUtNGQyMi05ZWQxLWQ5YzdjNzQ4MjA4Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-j6pHnkZsp8-Am90NPAmmQ89ClYhJ4e1UwHa0lnxIpk' alt='Anime Girl Cyberpunk Ride 4K Wallpaper by OmegaHD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88fc6ac7-9ac8-4b2d-b12f-3ad0ac6ee468/ded4lz7-9a6d4120-2fd5-4d22-9ed1-d9c7c748208c.jpg/v1/fill/w_1280,h_720,q_75,strp/anime_girl_cyberpunk_ride_4k_wallpaper_by_omegahd_ded4lz7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODhmYzZhYzctOWFjOC00YjJkLWIxMmYtM2FkMGFjNmVlNDY4XC9kZWQ0bHo3LTlhNmQ0MTIwLTJmZDUtNGQyMi05ZWQxLWQ5YzdjNzQ4MjA4Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-j6pHnkZsp8-Am90NPAmmQ89ClYhJ4e1UwHa0lnxIpk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime cyberpunk wallpaper HD para PC | 3840x2160 wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/4e/f0/c64ef04ca587ea0ab800b7112dfac6ee.jpg' alt='Anime cyberpunk wallpaper HD para PC | 3840x2160 wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/4e/f0/c64ef04ca587ea0ab800b7112dfac6ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cyberpunk: Edgerunners Moon Space 4k Ultra HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/127/1275363.jpg' alt='Download Cyberpunk: Edgerunners Moon Space 4k Ultra HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3641">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/127/1275363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk: Edgerunners Lucy and David 4K HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/127/1272824.png' alt='Cyberpunk: Edgerunners Lucy and David 4K HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/127/1272824.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saw a post of this pic and people were asking if there was a 4k ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pyy31mw44nr91.jpg' alt='Saw a post of this pic and people were asking if there was a 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pyy31mw44nr91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Tanjiro Cyberpunk Anime Wallpaper 4K - Animated">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1648846471856459783/E32BBE8A1EDF5FD3467AB2D8250DD23A591AFB41/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Tanjiro Cyberpunk Anime Wallpaper 4K - Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1648846471856459783/E32BBE8A1EDF5FD3467AB2D8250DD23A591AFB41/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CYBERPUNK: EDGERUNNERS 1080P, 2K, 4K, 5K HD wallpapers free download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/f7/74/dcf774b17773434a34193160811b9f5a.jpg' alt='CYBERPUNK: EDGERUNNERS 1080P, 2K, 4K, 5K HD wallpapers free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/f7/74/dcf774b17773434a34193160811b9f5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Anime Girl Cat Sci-Fi City 4K Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/cyberpunk-anime-girl-cat-sci-fi-city-164@3@a' alt='Cyberpunk Anime Girl Cat Sci-Fi City 4K Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="919">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/cyberpunk-anime-girl-cat-sci-fi-city-164@3@a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Anime 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5982189.jpg' alt='Cyberpunk Anime 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5982189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Cyberpunk Girl - 4K HDR Animated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1648846667619893479/11A32C8DE3F8C9CACBD74FBAF750073943E9867F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Cyberpunk Girl - 4K HDR Animated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1648846667619893479/11A32C8DE3F8C9CACBD74FBAF750073943E9867F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

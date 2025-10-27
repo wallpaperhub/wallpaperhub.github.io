@@ -1,0 +1,129 @@
+<title>Anthony Kiedis: Rock Icon and Frontman of Red Hot Chili Peppers</title>
+                    <meta name="description" content="Explore the life and career of Anthony Kiedis, the dynamic lead singer of the Red Hot Chili Peppers. Discover his influence on music, notable achievements, and personal journey in this concise overview of a rock legend.">
+                    <meta name="keywords" content="anthony kiedis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anthony-kiedis">
+                            <span itemprop="name">anthony kiedis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anthony Kiedis: Rock Icon and Frontman of Red Hot Chili Peppers</h1>
+                <p>Anthony Kiedis is the charismatic frontman of the Red Hot Chili Peppers, a band renowned for blending rock, funk, and punk. Born on November 1, 1962, in Grand Rapids, Michigan, Kiedis's energetic performances and poignant lyrics have shaped the music landscape. His life, marked by creativity and challenges, inspires millions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Anthony_Kiedis_2022.jpg/640px-Anthony_Kiedis_2022.jpg' alt='Anthony Kiedis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Anthony_Kiedis_2022.jpg/640px-Anthony_Kiedis_2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chili Peppers' Anthony Kiedis Doesn't Consider Himself a Musician">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/366/files/2023/06/attachment-anthony_kiedis_chili_peppers_live_2021.jpg?w=780&q=75' alt='Chili Peppers' Anthony Kiedis Doesn't Consider Himself a Musician'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WRRV" />
+                                </span>
+                                <a href='https://townsquare.media/site/366/files/2023/06/attachment-anthony_kiedis_chili_peppers_live_2021.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjAxNDgwNzcwMF5BMl5BanBnXkFtZTcwNTYzNDUwMw@@._V1_FMjpg_UX1000_.jpg' alt='Anthony Kiedis - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjAxNDgwNzcwMF5BMl5BanBnXkFtZTcwNTYzNDUwMw@@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis and Flea - The Red Hot Chili Peppers, 1986">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2446986577004558490' alt='Anthony Kiedis and Flea - The Red Hot Chili Peppers, 1986'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2446986577004558490' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis | Booking Agent | Talent Roster | MN2S">
+                                <img itemprop="contentUrl url" src='https://mn2s.com/wp-content/uploads/2021/03/Anthony-Kiedis.png' alt='Anthony Kiedis | Booking Agent | Talent Roster | MN2S'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MN2S" />
+                                </span>
+                                <a href='https://mn2s.com/wp-content/uploads/2021/03/Anthony-Kiedis.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis Movie: Biopic Of Red Hot Chili Peppers Frontman In ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2024/01/anthony-kiedis.jpg' alt='Anthony Kiedis Movie: Biopic Of Red Hot Chili Peppers Frontman In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2024/01/anthony-kiedis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis Says This Band Shaped His Life: 'Became A Lifestyle ...">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/re/new_assets/6388ce13f0db6ed6e87f6dc8?ops=contain(1480,0)' alt='Anthony Kiedis Says This Band Shaped His Life: 'Became A Lifestyle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/re/new_assets/6388ce13f0db6ed6e87f6dc8?ops=contain(1480,0)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hot Chili Peppers cancel gigs after Anthony Kiedis ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15194/production/_89702468_anthonykiedisreuters.jpg' alt='Red Hot Chili Peppers cancel gigs after Anthony Kiedis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15194/production/_89702468_anthonykiedisreuters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anthony Kiedis | Red Hot Chili Peppers Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/redhotchilipeppers/images/8/8e/AnthonyKiedis2016.jpeg/revision/latest?cb=20160710151441' alt='Anthony Kiedis | Red Hot Chili Peppers Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Hot Chili Peppers Wiki Red Hot Chili Peppers Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/redhotchilipeppers/images/8/8e/AnthonyKiedis2016.jpeg/revision/latest?cb=20160710151441' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We See It Too Late - Anthony Kiedis' Profound Philosophy On Life ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NjU-uILwCL8/hqdefault.jpg' alt='We See It Too Late - Anthony Kiedis' Profound Philosophy On Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NjU-uILwCL8/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

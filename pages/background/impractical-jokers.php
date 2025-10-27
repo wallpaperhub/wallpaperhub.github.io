@@ -1,0 +1,129 @@
+<title>Epic Pranks & Laughs: Impractical Jokers Unleashed</title>
+                    <meta name="description" content="Discover the hilarious world of "Impractical Jokers"! Join Joe, Sal, Murr, and Q as they pull off outrageous public pranks, leading to laugh-out-loud moments and unforgettable fun. Don’t miss the antics of these lifelong friends in this must-see hidden camera comedy show!">
+                    <meta name="keywords" content="impractical jokers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/impractical-jokers">
+                            <span itemprop="name">impractical jokers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Pranks & Laughs: Impractical Jokers Unleashed</h1>
+                <p>"Impractical Jokers" is a hilarious hidden camera show featuring four lifelong friends—Joe, Sal, Murr, and Q—who challenge each other to perform outrageous pranks in public. Their antics, ranging from awkward conversations to outrageous dares, create uncontrollable laughter and unforgettable moments. The chemistry between them makes each episode a must-watch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impractical Jokers (TV Series 2011– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Impractical Jokers (TV Series 2011– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impractical Jokers' is Among the Most Important Shows on ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/awardsradar.com/wp-content/uploads/2022/06/https___i.cdn_.trutv_.com_assets_tru_prod_images_2022_02_ImpracticalJokers-1920x1080-1.jpg?fit=1920%2C1080&ssl=1' alt='Impractical Jokers' is Among the Most Important Shows on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Awards Radar" />
+                                </span>
+                                <a href='https://i0.wp.com/awardsradar.com/wp-content/uploads/2022/06/https___i.cdn_.trutv_.com_assets_tru_prod_images_2022_02_ImpracticalJokers-1920x1080-1.jpg?fit=1920%2C1080&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impractical Jokers: Inside Jokes (TV Series 2016– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNmZhMjk2NTQtYTBjYi00MzE1LWIwZmItNmRhMDUyMWRmODBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Impractical Jokers: Inside Jokes (TV Series 2016– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNmZhMjk2NTQtYTBjYi00MzE1LWIwZmItNmRhMDUyMWRmODBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TruTV Expands 'Impractical Jokers' Franchise; Renews 'The Misery ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2020/08/impractical-jokers-photo-credit_-trutv_justin-stephens.jpg?w=1000' alt='TruTV Expands 'Impractical Jokers' Franchise; Renews 'The Misery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2020/08/impractical-jokers-photo-credit_-trutv_justin-stephens.jpg?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From friendship to international cruises: How Impractical Jokers ...">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/kp5gbqlFF34lMQ0VQwL-B8BuCUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/impractical-jokers-2-2000-4d79dd5012904a18af2b65aedc1e40e0.jpg' alt='From friendship to international cruises: How Impractical Jokers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/kp5gbqlFF34lMQ0VQwL-B8BuCUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/impractical-jokers-2-2000-4d79dd5012904a18af2b65aedc1e40e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Q from 'Impractical Jokers' promises no sense of maturity on ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/ajc/L7GVHO5HLNB33HRXMDBDIG5XUU.jpg' alt='Q from 'Impractical Jokers' promises no sense of maturity on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlanta Journal-Constitution" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/ajc/L7GVHO5HLNB33HRXMDBDIG5XUU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impractical Jokers' tour takeaways: Tortured Jokers Department, more">
+                                <img itemprop="contentUrl url" src='https://www.cincinnati.com/gcdn/presto/2022/10/18/PGRB/85492af0-8593-46f2-b2f0-70c41d4c9f6b-Impractical_Jokers.jpg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Impractical Jokers' tour takeaways: Tortured Jokers Department, more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cincinnati Enquirer" />
+                                </span>
+                                <a href='https://www.cincinnati.com/gcdn/presto/2022/10/18/PGRB/85492af0-8593-46f2-b2f0-70c41d4c9f6b-Impractical_Jokers.jpg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impractical Jokers | truTV.com">
+                                <img itemprop="contentUrl url" src='https://images.trutv.com/tru/w_416/https%3A%2F%2Fi.cdn.trutv.com%2Fassets%2Ftru%2Fprod%2Fimages%2F2021%2F04%2FIJ-AprilFools-1600x900.jpg' alt='Impractical Jokers | truTV.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tru TV" />
+                                </span>
+                                <a href='https://images.trutv.com/tru/w_416/https%3A%2F%2Fi.cdn.trutv.com%2Fassets%2Ftru%2Fprod%2Fimages%2F2021%2F04%2FIJ-AprilFools-1600x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Impractical Joker is coming to West Virginia">
+                                <img itemprop="contentUrl url" src='https://www.wboy.com/wp-content/uploads/sites/43/2022/09/AP20050046290842.jpg?w=2560&h=1440&crop=1' alt='An Impractical Joker is coming to West Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WBOY.com" />
+                                </span>
+                                <a href='https://www.wboy.com/wp-content/uploads/sites/43/2022/09/AP20050046290842.jpg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Gatto - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joe_Gatto_12_7_2024_%282%29.jpg/230px-Joe_Gatto_12_7_2024_%282%29.jpg' alt='Joe Gatto - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joe_Gatto_12_7_2024_%282%29.jpg/230px-Joe_Gatto_12_7_2024_%282%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

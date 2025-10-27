@@ -1,0 +1,129 @@
+<title>Cozy Winter Aesthetic Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover the perfect cozy winter aesthetic lock screen wallpapers to transform your device. Immerse yourself in warm hues, snowflakes, and festive designs that evoke the charm of the season. Elevate your smartphone with wallpapers that inspire comfort and serenity throughout winter.">
+                    <meta name="keywords" content="lock screen cozy winter aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/lock-screen-cozy-winter-aesthetic-wallpaper">
+                            <span itemprop="name">lock screen cozy winter aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Winter Aesthetic Lock Screen Wallpapers</h1>
+                <p>Embrace the cozy vibes of winter with a lock screen wallpaper that captures the essence of the season. Picture soft snowflakes gently falling on a quaint cabin, warm hues of hot cocoa, and shimmering lights. Transform your device into a cozy haven that inspires warmth and tranquility, perfect for the chilly days ahead.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/ef/86/70ef867056e40ef5ccac4e50f3e9209a.jpg' alt='Winter Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/ef/86/70ef867056e40ef5ccac4e50f3e9209a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Exclusive Winter Wallpapers for a Frosty, Aesthetic Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d2/7b/0b/d27b0b82672cb98f2fc11c8778b72650.jpg' alt='200+ Exclusive Winter Wallpapers for a Frosty, Aesthetic Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d2/7b/0b/d27b0b82672cb98f2fc11c8778b72650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Gorgeous Free Winter Wallpapers For IPhone (2024)">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2022/12/Winter-wallpapers-for-iPhones-Cozy-Time.jpg' alt='50+ Gorgeous Free Winter Wallpapers For IPhone (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2022/12/Winter-wallpapers-for-iPhones-Cozy-Time.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas aesthetic lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/4d/aa/254daab9e39f703f889195a3573a762e.jpg' alt='christmas aesthetic lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/4d/aa/254daab9e39f703f889195a3573a762e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/42/69/33/42693367ff0a8ca38324870cc5215f36.jpg' alt='50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/42/69/33/42693367ff0a8ca38324870cc5215f36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="820 ⛄️winter lock screens ideas in 2025 | christmas wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/19/95/07/199507d9a16f6213b236382e6adf88bb.jpg' alt='820 ⛄️winter lock screens ideas in 2025 | christmas wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="419">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/19/95/07/199507d9a16f6213b236382e6adf88bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Cozy Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/wp-content/uploads/2024/09/cozy-fireplace-winter-iphone-wallpaper.jpg' alt='Winter Cozy Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/wp-content/uploads/2024/09/cozy-fireplace-winter-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Wallpaper - Etsy Israel">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32159506/r/il/0030a9/4425622546/il_570xN.4425622546_leb4.jpg' alt='Winter Wallpaper - Etsy Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32159506/r/il/0030a9/4425622546/il_570xN.4425622546_leb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Warm And Cozy Winter Drink Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' alt='Download free Warm And Cozy Winter Drink Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Gorgeous Free Winter Wallpapers For IPhone (2024)">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2022/12/Winter-wallpapers-for-iPhones-Snowy-Path-In-The-Woods.jpg' alt='50+ Gorgeous Free Winter Wallpapers For IPhone (2024)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2022/12/Winter-wallpapers-for-iPhones-Snowy-Path-In-The-Woods.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Magic of Hayao Miyazaki</title>
+                    <meta name="description" content="Explore the enchanting world of Hayao Miyazaki, the legendary animator behind Studio Ghibli's captivating films. Discover his storytelling magic in classics like "Spirited Away" and "My Neighbor Totoro," and immerse yourself in themes of nature, friendship, and environmentalism.">
+                    <meta name="keywords" content="hayao miyazaki">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hayao-miyazaki">
+                            <span itemprop="name">hayao miyazaki</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Hayao Miyazaki</h1>
+                <p>Hayao Miyazaki is a legendary Japanese animator and director known for his enchanting films that blend fantasy with deep themes. As co-founder of Studio Ghibli, he crafted masterpieces like "Spirited Away" and "My Neighbor Totoro," captivating audiences worldwide with stunning visuals and poignant storytelling. His works celebrate nature, friendship, and the importance of preserving the environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e2/Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg' alt='Hayao Miyazaki - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2420">
+                                <meta itemprop="height" content="3012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e2/Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miyazaki Hayao | Biography, Movies, Films, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/201115-050-9CCC50F9/Miyazaki-Hayao-2008.jpg' alt='Miyazaki Hayao | Biography, Movies, Films, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/201115-050-9CCC50F9/Miyazaki-Hayao-2008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The art of Hayao Miyazaki. Let me tell you something. I love… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1152/1*KgWcIXCwhYI6oE8qM_A8cA.jpeg' alt='The art of Hayao Miyazaki. Let me tell you something. I love… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1152/1*KgWcIXCwhYI6oE8qM_A8cA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legacy of Hayao Miyazaki (So Far) - The Asian Cut">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/theasiancut.com/wp-content/uploads/2024/01/Miyazaki.jpg?fit=1920%2C1080&ssl=1' alt='The Legacy of Hayao Miyazaki (So Far) - The Asian Cut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Asian Cut" />
+                                </span>
+                                <a href='https://i0.wp.com/theasiancut.com/wp-content/uploads/2024/01/Miyazaki.jpg?fit=1920%2C1080&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/156932_v9_ba.jpg' alt='Hayao Miyazaki | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/156932_v9_ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki, photographed by Hiroji Kubota in his studio in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hayao-miyazaki-photographed-by-hiroji-kubota-in-his-studio-v0-lebht5s9t0ld1.jpeg?width=640&crop=smart&auto=webp&s=d9892fdd2b125520205ba0f88e1902103c645b43' alt='Hayao Miyazaki, photographed by Hiroji Kubota in his studio in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hayao-miyazaki-photographed-by-hiroji-kubota-in-his-studio-v0-lebht5s9t0ld1.jpeg?width=640&crop=smart&auto=webp&s=d9892fdd2b125520205ba0f88e1902103c645b43' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It took me over thirty years to appreciate the creative genius of ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*vLT7pmG7AZw91pVrzL5Esg.jpeg' alt='It took me over thirty years to appreciate the creative genius of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*vLT7pmG7AZw91pVrzL5Esg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki: The Maestro of Animated Dreams - Asian Itinerary">
+                                <img itemprop="contentUrl url" src='https://asianitinerary.com/wp-content/uploads/2024/01/miyazakibio.jpeg' alt='Hayao Miyazaki: The Maestro of Animated Dreams - Asian Itinerary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- Asian Itinerary" />
+                                </span>
+                                <a href='https://asianitinerary.com/wp-content/uploads/2024/01/miyazakibio.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy 84th Birthday Hayao Miyazaki!! Thank You for all the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122137639850468822' alt='Happy 84th Birthday Hayao Miyazaki!! Thank You for all the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122137639850468822' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The legacy of Hayao Miyazaki | HS Insider">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2016/11/hayao-miyazaki.jpg?fit=1920%2C1241&ssl=1' alt='The legacy of Hayao Miyazaki | HS Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HS Insider" />
+                                </span>
+                                <a href='https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2016/11/hayao-miyazaki.jpg?fit=1920%2C1241&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Blue & White Preppy Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of blue and white preppy wallpaper. Perfect for creating a stylish ambiance, this chic design complements various decor styles while ensuring a refreshing and inviting feel. Ideal for any room, it's the perfect way to update your home decor with a timeless look. Shop now!">
+                    <meta name="keywords" content="blue and white preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/blue-and-white-preppy-wallpaper">
+                            <span itemprop="name">blue and white preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Blue & White Preppy Wallpaper</h1>
+                <p>Transform your space with blue and white preppy wallpaper! This timeless design adds a classic touch to any room, pairing perfectly with both modern and traditional decor. The soothing color combination creates a serene atmosphere, making it ideal for bedrooms, living areas, or offices. Elevate your interior aesthetic effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Blue Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/a0/2b/53a02b348d6e5b3189b23f1e51c26525.jpg' alt='Preppy Blue Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/a0/2b/53a02b348d6e5b3189b23f1e51c26525.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Preppy Wallpaper - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/aa/ef/e9/aaefe912df83e7a6ea3dbed482e12b34.jpg' alt='Blue Preppy Wallpaper - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/aa/ef/e9/aaefe912df83e7a6ea3dbed482e12b34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e1/70/a0/e170a0fdf09d7847e0096bb2a03275c6.jpg' alt='Preppy Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e1/70/a0/e170a0fdf09d7847e0096bb2a03275c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Blue Preppy Wallpapers ideas | preppy wallpaper, blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9e/25/c2/9e25c27ec2309bade32ebd526e346274.jpg' alt='21 Blue Preppy Wallpapers ideas | preppy wallpaper, blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9e/25/c2/9e25c27ec2309bade32ebd526e346274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper in 2022 | Retro wallpaper iphone, Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/85/e9/19/85e919ac8dd09f1272220b14f9a2e714.jpg' alt='Preppy wallpaper in 2022 | Retro wallpaper iphone, Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/85/e9/19/85e919ac8dd09f1272220b14f9a2e714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Preppy Wallpaper Ideas To Elevate Your Screen Style : Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/90/66/d090669701cf18f30b152cb5a9e007cc.jpg' alt='50 Preppy Wallpaper Ideas To Elevate Your Screen Style : Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/90/66/d090669701cf18f30b152cb5a9e007cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy #blue #blueaesthetic #rollerrabbit #stoneyclover #flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/31/e1/d531e1240c6158568b2fb4eae26e2fb7.jpg' alt='preppy #blue #blueaesthetic #rollerrabbit #stoneyclover #flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/31/e1/d531e1240c6158568b2fb4eae26e2fb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Blue Preppy Monogram Desktop Wallpaper Collage - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/a7fe4f/5864761641/il_570xN.5864761641_51f3.jpg' alt='Custom Blue Preppy Monogram Desktop Wallpaper Collage - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/a7fe4f/5864761641/il_570xN.5864761641_51f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Blue Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-preppy-aflrhvunfgxrde7a.jpg' alt='100+] Light Blue Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-preppy-aflrhvunfgxrde7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue preppy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/e8/e2/fbe8e2bc977dd6ee8b0a388ea4962c4f.jpg' alt='Blue preppy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/e8/e2/fbe8e2bc977dd6ee8b0a388ea4962c4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

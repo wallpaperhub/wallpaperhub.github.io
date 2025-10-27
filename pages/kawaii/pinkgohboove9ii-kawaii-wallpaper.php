@@ -1,0 +1,129 @@
+<title>Adorable Pink Kawaii Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest pink kawaii wallpapers to personalize your device! Our collection features charming designs that add a playful touch to your screens. Perfect for kawaii lovers looking for a fun aesthetic. Explore and download now for a vibrant look!">
+                    <meta name="keywords" content="pink:gohboove9ii= kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/pinkgohboove9ii-kawaii-wallpaper">
+                            <span itemprop="name">pink:gohboove9ii= kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pink Kawaii Wallpapers for Your Device</h1>
+                <p>Transform your device with the cutest kawaii wallpaper! Our selection of pink-themed designs features adorable characters and dreamy aesthetics that are sure to brighten your screen. Perfect for fans of all things cute, these wallpapers will make your device uniquely yours. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Ghost And Speech Bubble Pink Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-ghost-and-speech-bubble-pink-background-2zsk83c9azuphfkb.jpg' alt='Download Cute Ghost And Speech Bubble Pink Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-ghost-and-speech-bubble-pink-background-2zsk83c9azuphfkb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best Pink wallpaper kawaii ideas | pink wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/71/cf/de/71cfde43b19b8c8d609a2bafcb8852ac.jpg' alt='100 Best Pink wallpaper kawaii ideas | pink wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/71/cf/de/71cfde43b19b8c8d609a2bafcb8852ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/64/48/8a64485e14d104c3f1daebd98ac4ff88.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/64/48/8a64485e14d104c3f1daebd98ac4ff88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 Kawaii pink ideas | kawaii wallpaper, wallpaper iphone cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ff/f8/11/fff81128fb4791c5245819fb1fe525c2.jpg' alt='65 Kawaii pink ideas | kawaii wallpaper, wallpaper iphone cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ff/f8/11/fff81128fb4791c5245819fb1fe525c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best Pink wallpaper kawaii ideas | pink wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/06/9f/63069fac0575753a63214688f2e3a8e2.jpg' alt='100 Best Pink wallpaper kawaii ideas | pink wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/06/9f/63069fac0575753a63214688f2e3a8e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Pink Kawaii Popoco Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-pink-kawaii-wallpaper-4vjz4s1mvprj9652.jpg' alt='Download Aesthetic Pink Kawaii Popoco Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-pink-kawaii-wallpaper-4vjz4s1mvprj9652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out TreeGoblin80's Shuffles #pink #kawaii #wallpaper #cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/93/35/12/933512eac46049a234408ebdd27fe3a8.jpg' alt='Check out TreeGoblin80's Shuffles #pink #kawaii #wallpaper #cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/93/35/12/933512eac46049a234408ebdd27fe3a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pastel . Kawaii, Goth, Pink easter, Cute Pink and Blue ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/786/670/HD-wallpaper-kawaii-pastel-kawaii-goth-pink-easter-cute-pink-and-blue-kawaii.jpg' alt='Kawaii Pastel . Kawaii, Goth, Pink easter, Cute Pink and Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/786/670/HD-wallpaper-kawaii-pastel-kawaii-goth-pink-easter-cute-pink-and-blue-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 Kawaii pink ideas | kawaii wallpaper, wallpaper iphone cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/26/4a/45/264a45b8179ee55c4295b82fedffed60.jpg' alt='65 Kawaii pink ideas | kawaii wallpaper, wallpaper iphone cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/26/4a/45/264a45b8179ee55c4295b82fedffed60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Kawaii, Cute Pink and Blue Kawaii, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1001/964/HD-wallpaper-pink-kawaii-cute-pink-and-blue-kawaii.jpg' alt='Pink Kawaii, Cute Pink and Blue Kawaii, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1001/964/HD-wallpaper-pink-kawaii-cute-pink-and-blue-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

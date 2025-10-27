@@ -1,0 +1,129 @@
+<title>Cheerful iPhone Wallpaper: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover vibrant and uplifting cheer wallpaper for your iPhone! Personalize your screen with joyful designs that inspire positivity and happiness. Perfect for anyone looking to add a dose of color and motivation to their device. Explore now and refresh your iPhone's look!">
+                    <meta name="keywords" content="cheer wallpaper for iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cheer-wallpaper-for-iphone">
+                            <span itemprop="name">cheer wallpaper for iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful iPhone Wallpaper: Brighten Your Screen!</h1>
+                <p>Brighten up your iPhone with cheerful wallpaper designs! Whether you love vibrant colors, uplifting quotes, or whimsical patterns, there's a perfect cheer wallpaper for every mood. Transform your device into a source of joy and inspiration with custom wallpapers that reflect your personality. Explore and find your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by avery on cheer | Cheers aesthetic wallpaper, Cheerleading ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/38/d9/b238d9e6d9e5e2634de2b5a0932df56a.jpg' alt='Pin by avery on cheer | Cheers aesthetic wallpaper, Cheerleading ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/38/d9/b238d9e6d9e5e2634de2b5a0932df56a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentatonix "Cheerleader" iPhone wallpaper by MC.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/53/d1/a1/53d1a1bc7d26d998432ba8f871e1ff72.jpg' alt='Pentatonix "Cheerleader" iPhone wallpaper by MC.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/53/d1/a1/53d1a1bc7d26d998432ba8f871e1ff72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cheer Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cheer-aesthetic-hobleynmnnx7eedf.jpg' alt='100+] Cheer Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cheer-aesthetic-hobleynmnnx7eedf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/86/f6/70/86f670cbff96ec3446e2c329cb7fb120.jpg' alt='13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/86/f6/70/86f670cbff96ec3446e2c329cb7fb120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LITWPhoto on X: "#iPhone #wallpaper #cheer #cheerleader #heroes ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CsfzSxAWIAAZp0v.jpg' alt='LITWPhoto on X: "#iPhone #wallpaper #cheer #cheerleader #heroes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CsfzSxAWIAAZp0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/cc/38/d3cc381ca4b23b504de650f36b40af66.jpg' alt='13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/cc/38/d3cc381ca4b23b504de650f36b40af66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cheer athletics abs iphone wallpaper @abbieeconlin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6f/8a/25/6f8a2557a548f6891514399331c61306.jpg' alt='cheer athletics abs iphone wallpaper @abbieeconlin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6f/8a/25/6f8a2557a548f6891514399331c61306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheerleading Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5463542.jpg' alt='Cheerleading Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5463542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheerleader">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/76/fa/8376fa98d6dba62ddb83e3021db96d8c.jpg' alt='Cheerleader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/76/fa/8376fa98d6dba62ddb83e3021db96d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @makenziemiller40 Cheer wallpapers for YOU | TikTok">
+                                <img itemprop="contentUrl url" src='https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/f7a97afd699141b98ffc1453adbebcae_1704848368~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741172400&x-signature=JIk1T7T4sXzqxpNcVptUvGhptmg%3D&shp=b59d6b55&shcp=-' alt='Replying to @makenziemiller40 Cheer wallpapers for YOU | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/f7a97afd699141b98ffc1453adbebcae_1704848368~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1741172400&x-signature=JIk1T7T4sXzqxpNcVptUvGhptmg%3D&shp=b59d6b55&shcp=-' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

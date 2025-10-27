@@ -1,0 +1,129 @@
+<title>Discover Burger King's Exciting Spider-Man Wallpaper</title>
+                    <meta name="description" content="Explore Burger King’s unique Spider-Man wallpaper! Perfect for fans, the colorful design enhances your dining experience, making every visit a fun adventure. Enjoy tasty meals surrounded by your favorite superhero motifs. Join us today to experience the fusion of fast food and excitement!">
+                    <meta name="keywords" content="burger king spider-man wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/burger-king-spider-man-wallpaper">
+                            <span itemprop="name">burger king spider-man wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Burger King's Exciting Spider-Man Wallpaper</h1>
+                <p>Elevate your dining experience with Burger King's exclusive Spider-Man wallpaper! Designed for fans of all ages, this vibrant décor adds a playful twist to your meal. Perfect for superhero enthusiasts, the wallpaper features iconic Spider-Man graphics alongside Burger King's classic imagery, creating an exciting atmosphere. Enjoy your favorites while being surrounded by the web-slinger!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Ate Burger King's Red 'Spider-Verse' Burger">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/442/files/2023/05/attachment-spider-verse-burger-king.jpg?w=780&q=75' alt='I Ate Burger King's Red 'Spider-Verse' Burger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScreenCrush" />
+                                </span>
+                                <a href='https://townsquare.media/site/442/files/2023/05/attachment-spider-verse-burger-king.jpg?w=780&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ️Get immersed in the Spider-Verse at @Burger King! Now through 6/21, the  Spider-Verse Whopper and Spider-Verse Sundae are available nationwide.  Select restaurants in New York City, France, United ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7233539708469644590&location=0&aid=1988' alt='  ️Get immersed in the Spider-Verse at @Burger King! Now through 6/21, the  Spider-Verse Whopper and Spider-Verse Sundae are available nationwide.  Select restaurants in New York City, France, United ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7233539708469644590&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burger King to promote Spider-Man movie with red Whopper | MEAT+ ...">
+                                <img itemprop="contentUrl url" src='https://www.meatpoultry.com/ext/resources/2023/05/11/BK_Spider-verse.png?height=667&t=1683826214&width=1080' alt='Burger King to promote Spider-Man movie with red Whopper | MEAT+ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MEAT+POULTRY" />
+                                </span>
+                                <a href='https://www.meatpoultry.com/ext/resources/2023/05/11/BK_Spider-verse.png?height=667&t=1683826214&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman burger king photocall hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/G9WHTA/stuntman-steen-young-dressed-as-spiderman-serves-jo-dyson-a-dark-whopper-G9WHTA.jpg' alt='Spiderman burger king photocall hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/G9WHTA/stuntman-steen-young-dressed-as-spiderman-serves-jo-dyson-a-dark-whopper-G9WHTA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burger King Spider-Man 3 Tee Design Remake by me . #spiderman ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3443190996751491818' alt='Burger King Spider-Man 3 Tee Design Remake by me . #spiderman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3443190996751491818' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burger King Offers New 'Spider-Man: Across The Spider-Verse ...">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt68dafedb2101dbf0/64d3ea6597bdd285f3bcbdd4/Spiderman_Burger_King.png' alt='Burger King Offers New 'Spider-Man: Across The Spider-Verse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="License Global" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt68dafedb2101dbf0/64d3ea6597bdd285f3bcbdd4/Spiderman_Burger_King.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Verse Burger King Theme   ️  ️ #spiderman #spiderverse  #spidermanacrossthespiderverse #milesmorales #milesmoralesedit  #spidermanedits #spidermanedit #gwenstacy #peterbparker #spiderman2099 ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7236552972149263659&location=0&aid=1988' alt='Spider-Verse Burger King Theme   ️  ️ #spiderman #spiderverse  #spidermanacrossthespiderverse #milesmorales #milesmoralesedit  #spidermanedits #spidermanedit #gwenstacy #peterbparker #spiderman2099 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7236552972149263659&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burger King goes Hollywood with launch of 'Spider-Verse' Whopper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.informaconnect.com/platform/files/public/2023-05/background/400x600/Burger%20King.png?VersionId=UgzGLoQx5tJP_S3Mp408eA.QiJ1FUZbb' alt='Burger King goes Hollywood with launch of 'Spider-Verse' Whopper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Restaurant Business" />
+                                </span>
+                                <a href='https://cdn.informaconnect.com/platform/files/public/2023-05/background/400x600/Burger%20King.png?VersionId=UgzGLoQx5tJP_S3Mp408eA.QiJ1FUZbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burger King on X: "¡El SPIDER-VERSE ha llegado a Burger King ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FvsbuPYaEAkQCPJ.jpg:large' alt='Burger King on X: "¡El SPIDER-VERSE ha llegado a Burger King ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FvsbuPYaEAkQCPJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man Burger King: Marvel's Miles Morales has taken over ...">
+                                <img itemprop="contentUrl url" src='https://media.thepopverse.com/media/dscn1002-grdojv3sph3f1mjmh0eohbrdnm.jpg' alt='Spider-Man Burger King: Marvel's Miles Morales has taken over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popverse" />
+                                </span>
+                                <a href='https://media.thepopverse.com/media/dscn1002-grdojv3sph3f1mjmh0eohbrdnm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

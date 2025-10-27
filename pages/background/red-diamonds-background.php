@@ -1,0 +1,129 @@
+<title>Discover the Allure of Red Diamonds: Rarity and Beauty</title>
+                    <meta name="description" content="Explore the fascinating world of red diamonds! Learn about their rarity, striking beauty, and the science behind their unique color. Uncover what makes these gems a symbol of wealth and prestige, and why they are sought after by collectors worldwide.">
+                    <meta name="keywords" content="red diamonds background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-diamonds-background">
+                            <span itemprop="name">red diamonds background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Red Diamonds: Rarity and Beauty</h1>
+                <p>Red diamonds, among the rarest gemstones, possess a mysterious allure that intrigues gem enthusiasts and collectors alike. Their striking color originates from unique lattice defects in the crystal structure, leading to a captivating and vivid hue. Often associated with luxury, these precious stones are deeply coveted and symbolize wealth and power.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crushed Red Diamonds Seamless Background Texture - Luxurious Shiny ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/e06ae5/4526488517/il_fullxfull.4526488517_5w6o.jpg' alt='Crushed Red Diamonds Seamless Background Texture - Luxurious Shiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/e06ae5/4526488517/il_fullxfull.4526488517_5w6o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,600+ Red Diamond Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/160513229/photo/diamonds.jpg?s=612x612&w=0&k=20&c=VGcErBTR8JU1uSPyl-_fB81MJ3cLlqqhiJyDbbaNgpg=' alt='60,600+ Red Diamond Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/160513229/photo/diamonds.jpg?s=612x612&w=0&k=20&c=VGcErBTR8JU1uSPyl-_fB81MJ3cLlqqhiJyDbbaNgpg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Diamond Crystal Close-up Texture Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/red-diamond-crystal-closeup-texture-260nw-480819697.jpg' alt='Red Diamond Crystal Close-up Texture Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/red-diamond-crystal-closeup-texture-260nw-480819697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Spinel dispersion footage. Fancy color diamond animated background  stock video 1030266678">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1030266678/video/red-spinel-dispersion-footage-fancy-color-diamond-animated-background.jpg?s=640x640&k=20&c=EjXrZsF5ReQefJ6Dy-A58b4K4RBTntKv3gfnP3TKJjA=' alt='Red Spinel dispersion footage. Fancy color diamond animated background  stock video 1030266678'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1030266678/video/red-spinel-dispersion-footage-fancy-color-diamond-animated-background.jpg?s=640x640&k=20&c=EjXrZsF5ReQefJ6Dy-A58b4K4RBTntKv3gfnP3TKJjA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Diamonds : Geology, Formation, Deposits » Geology Science">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Red-diamonds-1024x768.webp?resize=640%2C480&ssl=1' alt='Red Diamonds : Geology, Formation, Deposits » Geology Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geology Science" />
+                                </span>
+                                <a href='https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Red-diamonds-1024x768.webp?resize=640%2C480&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Diamond" Images – Browse 6,086 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/40/64/98/360_F_940649896_MftzA7rtuVKFA8DZzDlEsY2W31JJox2s.jpg' alt='Red Diamond" Images – Browse 6,086 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/40/64/98/360_F_940649896_MftzA7rtuVKFA8DZzDlEsY2W31JJox2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Diamonds Background Spinning Flares Hd">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1141231/thumb/1.jpg' alt='Red Diamonds Background Spinning Flares Hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1141231/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond on red background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/59/40/diamond-on-red-background-vector-1345940.jpg' alt='Diamond on red background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/59/40/diamond-on-red-background-vector-1345940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crushed Red Diamonds Seamless Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/63b2128b5232d656fe82e71d/1700028087458/Red+Diamonds+Seamless+Thumbnail+WM.jpg?format=1500w' alt='Crushed Red Diamonds Seamless Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/609701bc21f2ee5734517421/60970285376c3c778d0d2e8b/63b2128b5232d656fe82e71d/1700028087458/Red+Diamonds+Seamless+Thumbnail+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Aesthetic Wallpaper with Diamonds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/b0/8b/49b08b09252d7059ad41fbed56b44c7b.jpg' alt='Red Aesthetic Wallpaper with Diamonds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/b0/8b/49b08b09252d7059ad41fbed56b44c7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

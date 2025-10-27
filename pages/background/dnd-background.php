@@ -1,0 +1,129 @@
+<title>Diving Into D&D Backgrounds: Enhance Your Character</title>
+                    <meta name="description" content="Unlock your character's potential in Dungeons & Dragons with rich backgrounds. From nobility to outcasts, dive deeper into your role with unique traits and proficiencies. Explore how a compelling background can enhance your gameplay and storytelling experience!">
+                    <meta name="keywords" content="dnd background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-background">
+                            <span itemprop="name">dnd background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Diving Into D&D Backgrounds: Enhance Your Character</h1>
+                <p>In Dungeons & Dragons, a character's background shapes their story, personality, and skills. Whether you're a noble, a soldier, or an outcast, backgrounds add depth to your character, influencing their motivations and choices. They provide unique traits and proficiencies, enriching role-playing and enhancing the overall gameplay experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | D&D 5e Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest?cb=20221129073406' alt='Backgrounds | D&D 5e Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D 5e Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest?cb=20221129073406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Great DnD backgrounds 5e 2023 - LitRPG Reads">
+                                <img itemprop="contentUrl url" src='https://litrpgreads.com/wp-content/uploads/2023/11/dnd-background-5e-2023-best.jpg' alt='8 Great DnD backgrounds 5e 2023 - LitRPG Reads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2198">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LitRPG Reads" />
+                                </span>
+                                <a href='https://litrpgreads.com/wp-content/uploads/2023/11/dnd-background-5e-2023-best.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D: Every Character Background In The 2024 Player's Handbook">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/d-d-farmer-background.jpg' alt='D&D: Every Character Background In The 2024 Player's Handbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/d-d-farmer-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did a quick background for my most recent DND campaign, next up to ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/d7tsqui8stp51.png?auto=webp&s=f4bb401a9c0bfdadd9553f3357e61d28fb2ec7e9' alt='Did a quick background for my most recent DND campaign, next up to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/d7tsqui8stp51.png?auto=webp&s=f4bb401a9c0bfdadd9553f3357e61d28fb2ec7e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Your D&D 5e Background Can Help You With Roleplaying - Nerds ...">
+                                <img itemprop="contentUrl url" src='https://nerdsonearth.com/wp-content/uploads/2019/12/dndmobile-br-1559158957902.jpg' alt='How Your D&D 5e Background Can Help You With Roleplaying - Nerds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerds on Earth" />
+                                </span>
+                                <a href='https://nerdsonearth.com/wp-content/uploads/2019/12/dndmobile-br-1559158957902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD 5e: Dragonlance's New Backgrounds, Explained">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/11/Shadow-of-the-Dragon-Queen-Dragonlance.jpg' alt='DnD 5e: Dragonlance's New Backgrounds, Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/11/Shadow-of-the-Dragon-Queen-Dragonlance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds in Dungeons and Dragons – Zoar Game Geek">
+                                <img itemprop="contentUrl url" src='https://zoargamegeek.com/wp-content/uploads/2020/05/Backgrounds-3-1024x640.jpg' alt='Backgrounds in Dungeons and Dragons – Zoar Game Geek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zoar Game Geek" />
+                                </span>
+                                <a href='https://zoargamegeek.com/wp-content/uploads/2020/05/Backgrounds-3-1024x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What D&D Backgrounds Are Best For Which Classes (& How To Choose)">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Dungeons-and-Dragons-backgrounds.jpg' alt='What D&D Backgrounds Are Best For Which Classes (& How To Choose)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Dungeons-and-Dragons-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper & Media Gallery | Dungeons & Dragons">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/swt2dsco9mfe/2Ps2HmzTiotrjEilWWHZLP/ec2bc2f7a66a293fcf76c5deb77384b1/1280x960-terrain-wa.jpg?w=411&h=231&fit=thumb&q=70' alt='Wallpaper & Media Gallery | Dungeons & Dragons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="411">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond - Wizards of the Coast" />
+                                </span>
+                                <a href='https://images.ctfassets.net/swt2dsco9mfe/2Ps2HmzTiotrjEilWWHZLP/ec2bc2f7a66a293fcf76c5deb77384b1/1280x960-terrain-wa.jpg?w=411&h=231&fit=thumb&q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e Backgrounds for Dungeons and Dragons — SkullSplitter Dice">
+                                <img itemprop="contentUrl url" src='https://www.skullsplitterdice.com/cdn/shop/articles/backgrounds_compressed_1200x1247.jpg?v=1590088985' alt='5e Backgrounds for Dungeons and Dragons — SkullSplitter Dice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkullSplitter Dice" />
+                                </span>
+                                <a href='https://www.skullsplitterdice.com/cdn/shop/articles/backgrounds_compressed_1200x1247.jpg?v=1590088985' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

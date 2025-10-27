@@ -1,0 +1,129 @@
+<title>Explore the World of Aj Shabeel: Humor & Insight</title>
+                    <meta name="description" content="Dive into the vibrant world of Aj Shabeel, where humor meets insightful social commentary. Discover entertaining videos that resonate with everyday experiences and connect with a diverse audience. Join the fun and be part of the conversation!">
+                    <meta name="keywords" content="aj shabeel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aj-shabeel">
+                            <span itemprop="name">aj shabeel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Aj Shabeel: Humor & Insight</h1>
+                <p>Aj Shabeel is a popular content creator known for his engaging videos that blend humor and social commentary. With a charismatic personality, he captures the attention of his audience by addressing everyday situations in a relatable manner. His ability to entertain while delivering thoughtful messages sets him apart in the digital landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aj Shabeel | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab676161000051749bafe469798e4bce69202348' alt='Aj Shabeel | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab676161000051749bafe469798e4bce69202348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AJ Shabeel - Age, Family, Bio | Famous Birthdays">
+                                <img itemprop="contentUrl url" src='https://www.famousbirthdays.com/headshots/aj-shabeel-2.jpg' alt='AJ Shabeel - Age, Family, Bio | Famous Birthdays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Birthdays" />
+                                </span>
+                                <a href='https://www.famousbirthdays.com/headshots/aj-shabeel-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aj Shabeel - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_k8vrKrXPP3zWQ9S369rtsoJm9u4aYrCEINL-BifiCpVqM=s900-c-k-c0x00ffffff-no-rj' alt='Aj Shabeel - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_k8vrKrXPP3zWQ9S369rtsoJm9u4aYrCEINL-BifiCpVqM=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AJ Shabeel — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://media.themoviedb.org/t/p/w235_and_h235_face/1oWpDQNy4icp7biREqASslg14UW.jpg' alt='AJ Shabeel — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://media.themoviedb.org/t/p/w235_and_h235_face/1oWpDQNy4icp7biREqASslg14UW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AJ Shabeel: The Secret TikTok Star Revealed">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7281966397280783648&location=0&aid=1988' alt='AJ Shabeel: The Secret TikTok Star Revealed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7281966397280783648&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Aj Shabeel? - Favikon">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5fdb2fcbe8cb905cd95d758f/6728cc02479849ee88da9488_Aj%20Shabeel.png' alt='Who is Aj Shabeel? - Favikon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Favikon" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5fdb2fcbe8cb905cd95d758f/6728cc02479849ee88da9488_Aj%20Shabeel.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aj shabeel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/ec/9d/39ec9d1059b018615c31b8dffd9d61dd.jpg' alt='aj shabeel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/ec/9d/39ec9d1059b018615c31b8dffd9d61dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aj on X: "I left beta squad lol" / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1566525141491884032/NYxJ2r74_400x400.jpg' alt='Aj on X: "I left beta squad lol" / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1566525141491884032/NYxJ2r74_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AJ Shabeel Bio, Age, Net Worth, Relationship, Nationality">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/62/6d/4d/626d4d73fd2a8d086fe786b6ef1f4559.jpg' alt='AJ Shabeel Bio, Age, Net Worth, Relationship, Nationality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/62/6d/4d/626d4d73fd2a8d086fe786b6ef1f4559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aj Shabeel - character AI - Botify AI">
+                                <img itemprop="contentUrl url" src='https://ugc-idle.s3-us-west-2.amazonaws.com/11e09bccb76f0aa59803c0bf06f8ce8e.jpg' alt='Aj Shabeel - character AI - Botify AI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Botify AI" />
+                                </span>
+                                <a href='https://ugc-idle.s3-us-west-2.amazonaws.com/11e09bccb76f0aa59803c0bf06f8ce8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

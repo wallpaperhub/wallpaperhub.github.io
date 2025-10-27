@@ -1,0 +1,129 @@
+<title>Discover the Wonders of Guatemala: Culture, Nature & Adventure</title>
+                    <meta name="description" content="Explore Guatemala's breathtaking landscapes, rich culture, and ancient Mayan ruins. From vibrant markets to lush jungles, uncover the adventure and history waiting for you in this Central American gem. Ideal for travelers and culture enthusiasts alike!">
+                    <meta name="keywords" content="guatemala">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/guatemala">
+                            <span itemprop="name">guatemala</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Wonders of Guatemala: Culture, Nature & Adventure</h1>
+                <p>Guatemala, a captivating Central American country, is known for its vibrant culture, stunning landscapes, and rich Mayan heritage. Explore its picturesque cities, lush rainforests, and ancient ruins like Tikal. With warm hospitality and delicious cuisine, Guatemala offers a unique experience for travelers seeking adventure and cultural immersion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guatemala - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg' alt='Guatemala - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guatemala | History, Map, Flag, Population, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/55/183655-050-451BF183/World-Data-Locator-Map-Guatemala.jpg' alt='Guatemala | History, Map, Flag, Population, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/55/183655-050-451BF183/World-Data-Locator-Map-Guatemala.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antigua Guatemala - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/61/Santa_Catalina_Arch_-_Antigua_Guatemala_Feb_2020.jpg' alt='Antigua Guatemala - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6993">
+                                <meta itemprop="height" content="4664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/61/Santa_Catalina_Arch_-_Antigua_Guatemala_Feb_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guatemala Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/b562b47b-e919-4570-a983-82b161be1436/Guatemala-Map.jpg' alt='Guatemala Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/b562b47b-e919-4570-a983-82b161be1436/Guatemala-Map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guatemala City Travel Guide | Guatemala City Tourism - KAYAK">
+                                <img itemprop="contentUrl url" src='https://content.r9cdn.net/rimg/dimg/6f/d5/a11de2dc-city-43889-162df482d9d.jpg?width=1366&height=768&xhint=1422&yhint=2033&crop=true' alt='Guatemala City Travel Guide | Guatemala City Tourism - KAYAK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kayak" />
+                                </span>
+                                <a href='https://content.r9cdn.net/rimg/dimg/6f/d5/a11de2dc-city-43889-162df482d9d.jpg?width=1366&height=768&xhint=1422&yhint=2033&crop=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country information Guatemala, Central America ⋅ Natucate">
+                                <img itemprop="contentUrl url" src='https://imgproxy.natucate.com/UhE49KgbWohwl2CQ6nrqqWeNNzo35LvRv9aivwkZuXs/rs:fill/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlemllbGUvZ3VhdGVtYWxhLzM2OThlNjgxNDEtMTcxMzg1MzI1OC9uYXR1Y2F0ZS1sYWVuZGVyaW5mby1ndWF0ZW1hbGEtYnVjaHQtYXRpbGFuLWhlYWRlci5qcGVn' alt='Country information Guatemala, Central America ⋅ Natucate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Natucate" />
+                                </span>
+                                <a href='https://imgproxy.natucate.com/UhE49KgbWohwl2CQ6nrqqWeNNzo35LvRv9aivwkZuXs/rs:fill/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlemllbGUvZ3VhdGVtYWxhLzM2OThlNjgxNDEtMTcxMzg1MzI1OC9uYXR1Y2F0ZS1sYWVuZGVyaW5mby1ndWF0ZW1hbGEtYnVjaHQtYXRpbGFuLWhlYWRlci5qcGVn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn about Religious Influences in Guatemala">
+                                <img itemprop="contentUrl url" src='https://www.anywhere.com/img-b/homepage/anywhere-guatemala.jpg?q=95&w=500&type=auto' alt='Learn about Religious Influences in Guatemala'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anywhere" />
+                                </span>
+                                <a href='https://www.anywhere.com/img-b/homepage/anywhere-guatemala.jpg?q=95&w=500&type=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : High Supply 3x5 Foot Guatemala Flag with Double Stitched  Edges, Two Brass Grommets, and 100% Polyester Fabric, Guatemalan Flag 3x5  Flag ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CNJjYz-yL.jpg' alt='Amazon.com : High Supply 3x5 Foot Guatemala Flag with Double Stitched  Edges, Two Brass Grommets, and 100% Polyester Fabric, Guatemalan Flag 3x5  Flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2409">
+                                <meta itemprop="height" content="1805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CNJjYz-yL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guatemala country profile - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/183C2/production/_128366299_bbcmp_guatemala.png.webp' alt='Guatemala country profile - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/183C2/production/_128366299_bbcmp_guatemala.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Guatemala, the megadiverse country with 37 volcanoes ...">
+                                <img itemprop="contentUrl url" src='https://static.euronews.com/articles/stories/06/44/52/98/1200x675_cmsv2_2473f2e7-6f61-56c4-9cd3-c0e437945066-6445298.jpg' alt='Explore Guatemala, the megadiverse country with 37 volcanoes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Euronews.com" />
+                                </span>
+                                <a href='https://static.euronews.com/articles/stories/06/44/52/98/1200x675_cmsv2_2473f2e7-6f61-56c4-9cd3-c0e437945066-6445298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

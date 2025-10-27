@@ -1,0 +1,129 @@
+<title>Karlach iPhone Wallpapers: Unique Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover vibrant Karlach iPhone wallpapers that add style and personality to your device. Perfect for fans and those seeking stunning visuals, these unique backgrounds ensure your screen stands out. Explore our collection and give your iPhone a fresh look today!">
+                    <meta name="keywords" content="karlach iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/karlach-iphone-wallpaper">
+                            <span itemprop="name">karlach iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Karlach iPhone Wallpapers: Unique Backgrounds for Your Device</h1>
+                <p>Elevate your iPhone's aesthetic with stunning Karlach wallpapers! Featuring vibrant illustrations and dynamic designs, these wallpapers capture the essence of Karlach's character, bringing style and personality to your screen. Perfect for fans and anyone looking for unique backgrounds that stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3, Karlach wallpaper (by Aleksandra Skiba ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/baldurs-gate-3-karlach-wallpaper-by-aleksandra-skiba-v0-yzys8xmdajpd1.jpeg?auto=webp&s=a9505ae51f9915c43e434116a7f764253cd57402' alt='Baldur's Gate 3, Karlach wallpaper (by Aleksandra Skiba ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/baldurs-gate-3-karlach-wallpaper-by-aleksandra-skiba-v0-yzys8xmdajpd1.jpeg?auto=webp&s=a9505ae51f9915c43e434116a7f764253cd57402' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karlach Phone Wallpaper : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/karlach-phone-wallpaper-v0-hgd0oxbeczde1.png?auto=webp&s=39408147eb269655d485797faacd92ca692c70ac' alt='Karlach Phone Wallpaper : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/karlach-phone-wallpaper-v0-hgd0oxbeczde1.png?auto=webp&s=39408147eb269655d485797faacd92ca692c70ac' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sorry for the repost BUT PEOPLE DEMANDED to have it without the sticker  comment! Happy? #bg3fam   #bg3 #baldursgate3 #fyp #livewallpaper #karlach  #karlachbg3 #karlachbaldursgate3">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7314860513312165152&location=0&aid=1988' alt='Sorry for the repost BUT PEOPLE DEMANDED to have it without the sticker  comment! Happy? #bg3fam   #bg3 #baldursgate3 #fyp #livewallpaper #karlach  #karlachbg3 #karlachbaldursgate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7314860513312165152&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karlach live wallpaper (requested)! Tell me if you like it!    I tried to  make that other scene but couldn’t get it again    #bg3fam   #bg3  #baldursgate3 #fyp #fypシ #baldursgate3clip #dnd #bg3character ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7314840435355176224&location=0&aid=1988' alt='Karlach live wallpaper (requested)! Tell me if you like it!    I tried to  make that other scene but couldn’t get it again    #bg3fam   #bg3  #baldursgate3 #fyp #fypシ #baldursgate3clip #dnd #bg3character ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7314840435355176224&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Karlach Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/karlach-imewhvexj4c0akyu.jpg' alt='100+] Karlach Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="991">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/karlach-imewhvexj4c0akyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karlach Wallpaper 4K, Baldur's Gate 3, 2023 Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/karlach-baldurs-1080x2160-12817.jpg' alt='Karlach Wallpaper 4K, Baldur's Gate 3, 2023 Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/karlach-baldurs-1080x2160-12817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karlach Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13196519.jpg' alt='Karlach Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13196519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Karlach ♡ ideas | baldur's gate, gate, dungeons and dragons">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/df/ab/99/dfab99236616c75c7815ad0ac867c5d5.jpg' alt='140 Karlach ♡ ideas | baldur's gate, gate, dungeons and dragons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/df/ab/99/dfab99236616c75c7815ad0ac867c5d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Karlach Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13412368.jpg' alt='Karlach Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13412368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @officialbannn of the two expressions she gives, her soft look  is stunning #bg3edit #baldursgate3 #bg3 #karlach #karlachbg3  #karlachromance #baldursgate3karlach #bg3karlach #bg3romance ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7282090736030387487&location=0&aid=1988' alt='Replying to @officialbannn of the two expressions she gives, her soft look  is stunning #bg3edit #baldursgate3 #bg3 #karlach #karlachbg3  #karlachromance #baldursgate3karlach #bg3karlach #bg3romance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7282090736030387487&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

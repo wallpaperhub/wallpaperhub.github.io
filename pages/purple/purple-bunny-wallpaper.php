@@ -1,0 +1,129 @@
+<title>Charming Purple Bunny Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover our charming purple bunny wallpaper collection! Perfect for adding a whimsical touch to your devices, these designs are vibrant and fun. Download now to personalize your screens with adorable bunnies that bring joy and color to your digital experience!">
+                    <meta name="keywords" content="purple bunny wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-bunny-wallpaper">
+                            <span itemprop="name">purple bunny wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Purple Bunny Wallpaper for Your Devices</h1>
+                <p>Your search for delightful purple bunny wallpaper ends here! Our collection features adorable purple bunnies in whimsical designs, perfect for adding a touch of charm to your digital devices. Whether you love pastel shades or vibrant hues, these wallpapers will brighten your day and showcase your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bunny Design Wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/cute-purple-bunny-wallpaper-3.webp' alt='Purple Bunny Design Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/cute-purple-bunny-wallpaper-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Light Purple Rabbit Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-light-purple-9sf5t18irfuejzj0.jpg' alt='Download Cute Light Purple Rabbit Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-light-purple-9sf5t18irfuejzj0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer bunny - Phone wallpaper ( purple aesthetic)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22306352/r/il/d60871/3229966531/il_fullxfull.3229966531_exz1.jpg' alt='Gamer bunny - Phone wallpaper ( purple aesthetic)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="2360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22306352/r/il/d60871/3229966531/il_fullxfull.3229966531_exz1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple    bunny   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/ec/92/77ec927f3fc010c0cc72ebdc88460938.jpg' alt='purple    bunny   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/ec/92/77ec927f3fc010c0cc72ebdc88460938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/c5/06/6fc506ba45aebb5d1833760fcd34a5bc.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/c5/06/6fc506ba45aebb5d1833760fcd34a5bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bunny Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11817219.jpg' alt='Purple Bunny Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11817219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii mad goth bunny wallpaper digital download- cute purple bunny  wallpaper-Minimal cute iPhone Wallpaper- purple goth bunny digital phone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23420194/r/il/b7827b/5032299411/il_570xN.5032299411_cv68.jpg' alt='Kawaii mad goth bunny wallpaper digital download- cute purple bunny  wallpaper-Minimal cute iPhone Wallpaper- purple goth bunny digital phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23420194/r/il/b7827b/5032299411/il_570xN.5032299411_cv68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bear And Rabbit Purple Lovely Wallpaper Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/85/37/978537eaf15de8583fa449eaa6dbd499.jpg' alt='Bear And Rabbit Purple Lovely Wallpaper Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/85/37/978537eaf15de8583fa449eaa6dbd499.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Cute Motivational Bunny">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2124067777384548611/35CB4801513839D0D71DB9A4CBB527191E10E02A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Cute Motivational Bunny'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2124067777384548611/35CB4801513839D0D71DB9A4CBB527191E10E02A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bunny Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-pattern-cartoon-bunnies-kids-260nw-2129064407.jpg' alt='Purple Bunny Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-pattern-cartoon-bunnies-kids-260nw-2129064407.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

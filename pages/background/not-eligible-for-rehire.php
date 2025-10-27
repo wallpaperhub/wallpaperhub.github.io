@@ -1,0 +1,129 @@
+<title>Understanding "Not Eligible for Rehire" Status</title>
+                    <meta name="description" content="Explore the implications of being "not eligible for rehire." Learn about the reasons behind this status and its impact on job prospects. Understand the importance of employer decisions in maintaining workplace standards. Get insights to navigate your career effectively.">
+                    <meta name="keywords" content="not eligible for rehire">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/not-eligible-for-rehire">
+                            <span itemprop="name">not eligible for rehire</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding "Not Eligible for Rehire" Status</h1>
+                <p>Not eligible for rehire means that a former employee is prohibited from being reemployed by the organization. This status usually follows termination or resignation due to performance issues, misconduct, policy violations, or other serious concerns. Employers often declare this status to protect their workplace culture and maintain standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Not Eligible For Rehire: a cruise ship story eBook ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81sNWNh7PRL._UF1000,1000_QL80_.jpg' alt='Amazon.com: Not Eligible For Rehire: a cruise ship story eBook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81sNWNh7PRL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unfairly on Not Eligible for Rehire List - Career Advice: Ask ...">
+                                <img itemprop="contentUrl url" src='https://files.allnurses.com/allnurses/uploads/filesallnurses/monthly_2024_02/nurse-get-off-ineligible-rehire-list.jpg.31f6a118498147fe96f2e0bc9fcec451.jpg' alt='Unfairly on Not Eligible for Rehire List - Career Advice: Ask ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Nurses" />
+                                </span>
+                                <a href='https://files.allnurses.com/allnurses/uploads/filesallnurses/monthly_2024_02/nurse-get-off-ineligible-rehire-list.jpg.31f6a118498147fe96f2e0bc9fcec451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does this mean I've pretty much been “black listed”/put on the do ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-this-mean-ive-pretty-much-been-black-listed-put-on-the-v0-gt8glca8xjg91.jpg?width=640&crop=smart&auto=webp&s=bdf5cc298395e919a40e1f3e84ef41e56a11e193' alt='Does this mean I've pretty much been “black listed”/put on the do ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-this-mean-ive-pretty-much-been-black-listed-put-on-the-v0-gt8glca8xjg91.jpg?width=640&crop=smart&auto=webp&s=bdf5cc298395e919a40e1f3e84ef41e56a11e193' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not rehirable? : r/AmazonFC">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/not-rehirable-v0-2v0t5z6rpz3d1.jpeg?auto=webp&s=4c181b48d66dd6330379d0b07e8d734a31b99149' alt='Not rehirable? : r/AmazonFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/not-rehirable-v0-2v0t5z6rpz3d1.jpeg?auto=webp&s=4c181b48d66dd6330379d0b07e8d734a31b99149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does this mean I can't get rehired? : r/AmazonFC">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/46zglpelycvd1.jpeg' alt='Does this mean I can't get rehired? : r/AmazonFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/46zglpelycvd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone know what's this am in their do not hire list : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anyone-know-whats-this-am-in-their-do-not-hire-list-v0-bnm5my6dw0wd1.jpeg?width=640&crop=smart&auto=webp&s=d1dcd98e32600aecfb971d0aaaf967eece269b0c' alt='Anyone know what's this am in their do not hire list : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anyone-know-whats-this-am-in-their-do-not-hire-list-v0-bnm5my6dw0wd1.jpeg?width=640&crop=smart&auto=webp&s=d1dcd98e32600aecfb971d0aaaf967eece269b0c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not Eligible For Rehire Template | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/426/285/426285313.png' alt='Not Eligible For Rehire Template | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/426/285/426285313.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not Eligible For Rehire Template | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/422/231/422231697.png' alt='Not Eligible For Rehire Template | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/422/231/422231697.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Re-hire List : r/walmart">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/yL9gauI.jpg' alt='No Re-hire List : r/walmart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/yL9gauI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not Eligible For Rehire Template | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/504/103/504103350.png' alt='Not Eligible For Rehire Template | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/504/103/504103350.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

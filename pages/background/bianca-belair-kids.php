@@ -1,0 +1,129 @@
+<title>Bianca Belair: A Champion Mom to Her Kids</title>
+                    <meta name="description" content="Explore the inspiring journey of Bianca Belair as she juggles her WWE career and motherhood. Discover how she raises her kids with strength and love, making her not only a champion in the ring but also at home. Join us as we dive into her parenting experiences and family life.">
+                    <meta name="keywords" content="bianca belair kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bianca-belair-kids">
+                            <span itemprop="name">bianca belair kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bianca Belair: A Champion Mom to Her Kids</h1>
+                <p>Bianca Belair, the powerhouse of WWE, is admired not only for her athletic prowess but also for her role as a loving mother. She balances her time between training and raising her kids, instilling in them values of strength and determination. Bianca’s parenting journey is a testament to her commitment both inside and outside the ring.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Lovers - Bianca Belair with her family! | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=610831168269758' alt='WWE Lovers - Bianca Belair with her family! | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=610831168269758' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Superstars Bianca Belair and Montez Ford marriage and kids ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZT8I69edBGc/sddefault.jpg' alt='WWE Superstars Bianca Belair and Montez Ford marriage and kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZT8I69edBGc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bianca Belair Family | Parents, Brothers and Sisters and Husband.">
+                                <img itemprop="contentUrl url" src='https://statico.sportskeeda.com/editor/2024/04/74fac-17131730281164-1920.jpg' alt='Bianca Belair Family | Parents, Brothers and Sisters and Husband.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://statico.sportskeeda.com/editor/2024/04/74fac-17131730281164-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bianca Belair on X: "Happy Father's Day!!! @MontezFordWWE You ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/D9NswJVWwAUISU7.jpg:large' alt='Bianca Belair on X: "Happy Father's Day!!! @MontezFordWWE You ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1619">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/D9NswJVWwAUISU7.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Divas Fans - Bianca Belair with her beautiful family❤ #WWE ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=165813326221342' alt='WWE Divas Fans - Bianca Belair with her beautiful family❤ #WWE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=165813326221342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Female Locker Room on X: "Bianca Belair said on “After The Bell ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FUWRj5SXsAAVzjr.jpg' alt='Female Locker Room on X: "Bianca Belair said on “After The Bell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FUWRj5SXsAAVzjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Bianca Belair a mom?   , #WWE #BiancaBelair #MontezFord #Wrestling  #Supermom #Family">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3459170124680008473' alt='Is Bianca Belair a mom?   , #WWE #BiancaBelair #MontezFord #Wrestling  #Supermom #Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3459170124680008473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wrestling Dhamaka - Bianca Belair and Montez Ford with their kids ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=857795443142602' alt='Wrestling Dhamaka - Bianca Belair and Montez Ford with their kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=857795443142602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bianca Belair Kids">
+                                <img itemprop="contentUrl url" src='https://statico.sportskeeda.com/editor/2025/02/79f26-17387844929048-1920.jpg' alt='Bianca Belair Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://statico.sportskeeda.com/editor/2025/02/79f26-17387844929048-1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Family is EVERYTHING. The whole family dressed up! My niece was so ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3073622185947697474' alt='Family is EVERYTHING. The whole family dressed up! My niece was so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3073622185947697474' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

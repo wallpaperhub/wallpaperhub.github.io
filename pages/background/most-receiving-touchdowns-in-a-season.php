@@ -1,0 +1,129 @@
+<title>Record-Breaking Most Receiving Touchdowns in a Season</title>
+                    <meta name="description" content="Explore the record for the most receiving touchdowns in a season, highlighting legendary performances, key players, and the impressive milestones they've achieved. Discover the significance of these records in the NFL and how they shape the history of the game.">
+                    <meta name="keywords" content="most receiving touchdowns in a season">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/most-receiving-touchdowns-in-a-season">
+                            <span itemprop="name">most receiving touchdowns in a season</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Record-Breaking Most Receiving Touchdowns in a Season</h1>
+                <p>The record for the most receiving touchdowns in a single NFL season is held by various players, with the frontrunner being Jerry Rice, who caught 22 touchdowns in 1987. This remarkable achievement showcases the skill and impact of a wide receiver and remains a pinnacle of excellence in professional football history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Has the Most Receptions in an NFL Season? | Opta Analyst">
+                                <img itemprop="contentUrl url" src='https://theanalyst.com/wp-content/uploads/2023/09/top-five-seasons-for-total-nfl-receptions-1024x1024.png' alt='Who Has the Most Receptions in an NFL Season? | Opta Analyst'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opta Analyst" />
+                                </span>
+                                <a href='https://theanalyst.com/wp-content/uploads/2023/09/top-five-seasons-for-total-nfl-receptions-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FOX College Football on X: "✌️ @USC_FB's Jordan Addison leads ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FULIG6lXoAMQFg6.jpg:large' alt='FOX College Football on X: "✌️ @USC_FB's Jordan Addison leads ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FULIG6lXoAMQFg6.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of NFL annual receiving touchdowns leaders - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Randy-Moss_8-28-09_Patriots-vs-Redskins.jpg/1200px-Randy-Moss_8-28-09_Patriots-vs-Redskins.jpg' alt='List of NFL annual receiving touchdowns leaders - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Randy-Moss_8-28-09_Patriots-vs-Redskins.jpg/1200px-Randy-Moss_8-28-09_Patriots-vs-Redskins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Has the Most Receiving Yards in a Season by a Tight End ...">
+                                <img itemprop="contentUrl url" src='https://theanalyst.com/wp-content/uploads/2023/10/top-five-most-receiving-yards-by-a-te-season-1024x1024.png' alt='Who Has the Most Receiving Yards in a Season by a Tight End ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opta Analyst" />
+                                </span>
+                                <a href='https://theanalyst.com/wp-content/uploads/2023/10/top-five-most-receiving-yards-by-a-te-season-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seahawks PR on X: ".@Seahawks WR @dkm14 needs one touchdown to ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FISkbEyVEAMvJOg.jpg:large' alt='Seahawks PR on X: ".@Seahawks WR @dkm14 needs one touchdown to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FISkbEyVEAMvJOg.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Has the Most Receptions in an NFL Season? | Opta Analyst">
+                                <img itemprop="contentUrl url" src='https://theanalyst.com/wp-content/uploads/2023/09/julio-jones-yards-per-catch-1024x1024.png' alt='Who Has the Most Receptions in an NFL Season? | Opta Analyst'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opta Analyst" />
+                                </span>
+                                <a href='https://theanalyst.com/wp-content/uploads/2023/09/julio-jones-yards-per-catch-1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The top 10 Most Receiving Touchdowns in a Single Season in NFL ...">
+                                <img itemprop="contentUrl url" src='https://fanarch.com/cdn/shop/articles/FOR_ARTICLES_32_ea958cb6-ac5f-48de-a5dd-c86e8e54da5d_1100x.png?v=1721645969' alt='The top 10 Most Receiving Touchdowns in a Single Season in NFL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fan Arch" />
+                                </span>
+                                <a href='https://fanarch.com/cdn/shop/articles/FOR_ARTICLES_32_ea958cb6-ac5f-48de-a5dd-c86e8e54da5d_1100x.png?v=1721645969' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Players With the Most Receiving Touchdowns in a Season">
+                                <img itemprop="contentUrl url" src='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/09/randy-moss-new-england-patriots-wr-2007.jpg' alt='NFL Players With the Most Receiving Touchdowns in a Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GiveMeSport" />
+                                </span>
+                                <a href='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/09/randy-moss-new-england-patriots-wr-2007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL All-Time Receiving Touchdown Leaders (1930-2020)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eym9buPPE5Q/maxresdefault.jpg' alt='NFL All-Time Receiving Touchdown Leaders (1930-2020)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eym9buPPE5Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Touchdowns in NFL History">
+                                <img itemprop="contentUrl url" src='https://theanalyst.com/wp-content/uploads/2022/10/the-analyst-top-5-ranking-2-columns-de171cfc-f311-4ee2-a6c3-037dcf740e80-1024x576.png' alt='The Most Touchdowns in NFL History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opta Analyst" />
+                                </span>
+                                <a href='https://theanalyst.com/wp-content/uploads/2022/10/the-analyst-top-5-ranking-2-columns-de171cfc-f311-4ee2-a6c3-037dcf740e80-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

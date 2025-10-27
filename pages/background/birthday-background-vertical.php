@@ -1,0 +1,129 @@
+<title>Vibrant Vertical Birthday Backgrounds for Every Celebration</title>
+                    <meta name="description" content="Discover the perfect vertical birthday backgrounds to elevate your celebration! Choose from colorful designs that add joy and style to your party setup. Ideal for photos, invitations, or decorations, our backgrounds will make your birthday truly unforgettable. Get inspired and celebrate in style!">
+                    <meta name="keywords" content="birthday background vertical">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-background-vertical">
+                            <span itemprop="name">birthday background vertical</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Vertical Birthday Backgrounds for Every Celebration</h1>
+                <p>Celebrate your special day with a stunning birthday background! Ideal for vertical displays, these vibrant designs set the perfect atmosphere for your party. Whether you choose balloons, cakes, or festive colors, create a joyous backdrop that enhances your photos and brings life to your celebrations. Make your birthday memorable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Happy Birthday Background Vertical Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1173332089/vector/happy-holiday-birthday.jpg?s=612x612&w=0&k=20&c=D-nBFvJHAFh-z6uTH1hJ7JUWTJhXoGA5cnF1ILqyHS0=' alt='10,200+ Happy Birthday Background Vertical Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1173332089/vector/happy-holiday-birthday.jpg?s=612x612&w=0&k=20&c=D-nBFvJHAFh-z6uTH1hJ7JUWTJhXoGA5cnF1ILqyHS0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Background Vertical Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/668/742/non_2x/festive-assortment-of-pink-and-white-balloons-with-golden-confetti-on-a-bright-pink-background-photo.jpeg' alt='Birthday Background Vertical Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/668/742/non_2x/festive-assortment-of-pink-and-white-balloons-with-golden-confetti-on-a-bright-pink-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Happy Birthday Background Vertical Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2155310808/vector/greeting-card-with-3d-blue-balloons-and-confetti-with-blank-space-for-text-or-invitation.jpg?s=612x612&w=0&k=20&c=UczMy_gVwBDQoigPYKdzmg8ywdUDVXLUW92Jyab1Rdw=' alt='10,200+ Happy Birthday Background Vertical Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2155310808/vector/greeting-card-with-3d-blue-balloons-and-confetti-with-blank-space-for-text-or-invitation.jpg?s=612x612&w=0&k=20&c=UczMy_gVwBDQoigPYKdzmg8ywdUDVXLUW92Jyab1Rdw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Background Vertical Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/birthday-vertical-sales-blank-banner_23-2150990623.jpg' alt='Birthday Background Vertical Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/birthday-vertical-sales-blank-banner_23-2150990623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birthday Background Stock Photos, Pictures, All Royalty-Free - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/71/39/42/20/67/v1_E10/E10BEARG.jpg?w=500&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=c27e8401e48526251a3bc23d4013659d6e5323a2d4694b861f690ac947eae997' alt='Birthday Background Stock Photos, Pictures, All Royalty-Free - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/71/39/42/20/67/v1_E10/E10BEARG.jpg?w=500&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=c27e8401e48526251a3bc23d4013659d6e5323a2d4694b861f690ac947eae997' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27,300+ Happy Birthday Vertical Cards Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1246636419/vector/birthday-decorations-on-blue-background-with-balloons.jpg?s=612x612&w=0&k=20&c=cRD2iTGCW3EeOR0oN-tKr2H3yHRgYwzph3e4kW0yxk4=' alt='27,300+ Happy Birthday Vertical Cards Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1246636419/vector/birthday-decorations-on-blue-background-with-balloons.jpg?s=612x612&w=0&k=20&c=cRD2iTGCW3EeOR0oN-tKr2H3yHRgYwzph3e4kW0yxk4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free PSD | Birthday vertical blank banner">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/birthday-vertical-blank-banner_23-2150453075.jpg' alt='Free PSD | Birthday vertical blank banner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/birthday-vertical-blank-banner_23-2150453075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="541 Happy Birthday Background Vertical High Res Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1430709815/vector/party-balloon.jpg?s=612x612&w=gi&k=20&c=WntfqbqhY3OEsaSFr5Y1lX6uAfBvkyU1huCmKrmyILw=' alt='541 Happy Birthday Background Vertical High Res Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1430709815/vector/party-balloon.jpg?s=612x612&w=gi&k=20&c=WntfqbqhY3OEsaSFr5Y1lX6uAfBvkyU1huCmKrmyILw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Birthday Background Stock Illustrations – 445,477 Festive ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/festive-birthday-background-balloons-confetti-turquoise-vertical-356387853.jpg' alt='Festive Birthday Background Stock Illustrations – 445,477 Festive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/festive-birthday-background-balloons-confetti-turquoise-vertical-356387853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive happy birthday cake and colorful balloons celebration atmosphere  background. Vertical.">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/02/95/41/360_F_1002954190_ThTRIjRUGDhj3eKPQ2h0B9L4CURq7Eif.jpg' alt='Festive happy birthday cake and colorful balloons celebration atmosphere  background. Vertical.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/02/95/41/360_F_1002954190_ThTRIjRUGDhj3eKPQ2h0B9L4CURq7Eif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

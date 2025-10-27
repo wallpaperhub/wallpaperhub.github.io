@@ -1,0 +1,129 @@
+<title>What to Do If You Forgot a Job on Your Background Check</title>
+                    <meta name="description" content="Learn how to handle the situation if you've accidentally omitted a job during your background check. Discover the best practices for addressing this oversight and maintaining your integrity with potential employers. Stay informed and prepared to navigate your job application process effectively.">
+                    <meta name="keywords" content="accidentally forgot job on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accidentally-forgot-job-on-background-check">
+                            <span itemprop="name">accidentally forgot job on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What to Do If You Forgot a Job on Your Background Check</h1>
+                <p>Accidentally forgetting a job during a background check can happen to anyone, but it’s crucial to address it. Employers value honesty; if this oversight arises, be proactive. Inform the hiring manager, clarify the situation, and provide details about the omitted job. Transparency can help maintain your integrity in the hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I fail a background check if I didn't know the... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/can-i-fail-a-background-check-if-i-didnt-know-the-exact-dates-of-employment-or-if-i-forgot-to-add-a-company-that-i-worked-for.png' alt='Can I fail a background check if I didn't know the... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/can-i-fail-a-background-check-if-i-didnt-know-the-exact-dates-of-employment-or-if-i-forgot-to-add-a-company-that-i-worked-for.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Check: How to Inform a Job Candidate">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' alt='Failed Background Check: How to Inform a Job Candidate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2020/08/failed-background-check-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've made a date error on my background check whic... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/ive-made-a-date-error-on-my-background-check-which-was-done-by-hireright-when-i-worked-on-an-internship-from-jun-2020-to-aug-1.png' alt='I've made a date error on my background check whic... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/ive-made-a-date-error-on-my-background-check-which-was-done-by-hireright-when-i-worked-on-an-internship-from-jun-2020-to-aug-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Did I Fail My Background Check? - Private Eyes Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/Four-Signs-Job-Candidate-Will-Fail-the-Background-Check1.png' alt='Why Did I Fail My Background Check? - Private Eyes Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Private Eyes Background Checks" />
+                                </span>
+                                <a href='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/Four-Signs-Job-Candidate-Will-Fail-the-Background-Check1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Omitted Jobs Show up on Background Check? 6 Rules To Know">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Do-Omitted-Jobs-Show-Up-On-Background-Check-Featured-Image.png' alt='Do Omitted Jobs Show up on Background Check? 6 Rules To Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/07/Do-Omitted-Jobs-Show-Up-On-Background-Check-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Handle Background Check Errors When A Job Is At Stake">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' alt='How To Handle Background Check Errors When A Job Is At Stake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2021/10/Background-Check-Errors-Free-Case-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' alt='Failed Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='http://a-us.storyblok.com/f/1014904/602ec66d92/checkr-web-article-candidate-failed-bgc.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost Your Job Due to a First Advantage Background Check Error? Get ...">
+                                <img itemprop="contentUrl url" src='https://www.sanderslaw.group/wp-content/uploads/2024/09/First-Advantage-Blog-13-Banner.png' alt='Lost Your Job Due to a First Advantage Background Check Error? Get ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanders Law Group" />
+                                </span>
+                                <a href='https://www.sanderslaw.group/wp-content/uploads/2024/09/First-Advantage-Blog-13-Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do When a Candidate Fails a Background Check">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' alt='What to Do When a Candidate Fails a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Candidate%20Fails%202.png?width=650&height=357&name=Candidate%20Fails%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worst onboarding/background check experience ever! Not only did I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0w5gsfzg0ro81.jpg' alt='Worst onboarding/background check experience ever! Not only did I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0w5gsfzg0ro81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

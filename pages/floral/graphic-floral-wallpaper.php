@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Graphic Floral Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of graphic floral wallpaper, a stylish choice that enhances any room. With vibrant patterns and elegant designs, transform your home into a floral oasis. Perfect for accent walls or full-room makeovers, our wallpaper offers a captivating way to bring nature's elegance indoors. Shop now!">
+                    <meta name="keywords" content="graphic floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/graphic-floral-wallpaper">
+                            <span itemprop="name">graphic floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Graphic Floral Wallpaper</h1>
+                <p>Graphic floral wallpaper brings nature indoors with striking designs that transform any space. From bold colors to delicate patterns, this trendy decor choice complements modern and classic interiors. Ideal for accent walls or full-room makeovers, it creates an inviting atmosphere that celebrates the beauty of flowers in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Graphic Flower' Wallpaper by Tea Collection - Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Pink_detail_720x.jpg?v=1633380674' alt=''Graphic Flower' Wallpaper by Tea Collection - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Pink_detail_720x.jpg?v=1633380674' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/953/669/non_2x/hand-drawn-floral-background-free-vector.jpg' alt='Flower Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/953/669/non_2x/hand-drawn-floral-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holla-Graphic Floral Peel and Stick Wallpaper by She She">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/FH9117-Hollographic-White-Holla-Graphic-Floral-Peel-And-Stick-Wallpaper-Table-Flowers.jpg?v=1724364619' alt='Holla-Graphic Floral Peel and Stick Wallpaper by She She'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/FH9117-Hollographic-White-Holla-Graphic-Floral-Peel-And-Stick-Wallpaper-Table-Flowers.jpg?v=1724364619' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Graphic Flower' Wallpaper by Tea Collection - Lavender">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Lavender_design.jpg?v=1615485011' alt=''Graphic Flower' Wallpaper by Tea Collection - Lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Lavender_design.jpg?v=1615485011' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Ellie Graphic Floral Gold Shimmer & Ebony ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW51505_1.jpg?quality=100?width=900' alt='NextWall Peel & Stick Ellie Graphic Floral Gold Shimmer & Ebony ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW51505_1.jpg?quality=100?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Floral Wallpaper Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/35957596/resize-h755-w755%5Ecompr-r85/1927/192736836/Graphic+Floral+Wallpaper+Peel+%26+Stick+Floral+Roll.jpg' alt='Graphic Floral Wallpaper Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/35957596/resize-h755-w755%5Ecompr-r85/1927/192736836/Graphic+Floral+Wallpaper+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Floral Desktop Wallpaper Art Desktop Wallpapers Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42410412/r/il/b43436/5870154293/il_570xN.5870154293_guhr.jpg' alt='Graphic Floral Desktop Wallpaper Art Desktop Wallpapers Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42410412/r/il/b43436/5870154293/il_570xN.5870154293_guhr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Graphic Flower' Wallpaper by Tea Collection - Coral">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Coral_detail_720x.jpg?v=1633380676' alt=''Graphic Flower' Wallpaper by Tea Collection - Coral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/GraphicFlower_Coral_detail_720x.jpg?v=1633380676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Flower Wallpaper Seamless Pattern Delicate Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/summer-flower-wallpaper-seamless-pattern-260nw-618687248.jpg' alt='Summer Flower Wallpaper Seamless Pattern Delicate Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/summer-flower-wallpaper-seamless-pattern-260nw-618687248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

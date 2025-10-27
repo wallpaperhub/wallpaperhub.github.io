@@ -1,0 +1,129 @@
+<title>Lil Durk iPhone Wallpaper: Download Stunning Designs</title>
+                    <meta name="description" content="Discover an array of eye-catching Lil Durk wallpapers for your iPhone. Personalize your device with vibrant images showcasing the rapper's unique style. Perfect for fans who want to express their love for his music. Download now and elevate your phone's aesthetic!">
+                    <meta name="keywords" content="lil durk wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lil-durk-wallpaper-iphone">
+                            <span itemprop="name">lil durk wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lil Durk iPhone Wallpaper: Download Stunning Designs</h1>
+                <p>Transform your iPhone with stunning Lil Durk wallpapers! From vibrant concert shots to stylish portraits, these wallpapers capture the essence of the rapper's artistry. Perfect for fans looking to personalize their devices, each image embodies his unique style and energy. Download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil durk wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/f6/2a/d5f62a0dd500160e94971bc883b28303.jpg' alt='Lil durk wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/f6/2a/d5f62a0dd500160e94971bc883b28303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk, rap, 300, music, 600, lildurk, , oft, iphone, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/216/851/HD-wallpaper-lil-durk-rap-300-music-600-lildurk-oft-iphone.jpg' alt='Lil Durk, rap, 300, music, 600, lildurk, , oft, iphone, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/216/851/HD-wallpaper-lil-durk-rap-300-music-600-lildurk-oft-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/5/6/2273178-1080x1920-iphone-full-hd-lil-durk-wallpaper.jpg' alt='Lil Durk Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/5/6/2273178-1080x1920-iphone-full-hd-lil-durk-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Lil Durk Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/f5/6b/fff56bf423419ed4ef69c298416d6c85.jpg' alt='4K Lil Durk Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/f5/6b/fff56bf423419ed4ef69c298416d6c85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk, iPhone, otf, rap, music, lildurk, onlythefamily, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/909/34/HD-wallpaper-lil-durk-iphone-otf-rap-music-lildurk-onlythefamily.jpg' alt='Lil Durk, iPhone, otf, rap, music, lildurk, onlythefamily, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/909/34/HD-wallpaper-lil-durk-iphone-otf-rap-music-lildurk-onlythefamily.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk Wallpaper wallpaper by Durkio_Krazy - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=5hr6sfsioJpbGNNCBA9NaAa7rYeh9H7TRRMfpdlpN870isNvv-woD4IPg9oZb4DhFW_ALAvLwYRFh1ny4x2mmnfzAvhqV5H5SfJNB55kVc_F1pz6rLw4Bdre_aUAWd_PnN80CDGgHqGJ5mHYdzKpoUJFjjHGmk7D9aU363WmB_wn_uj96CTA8uYTeqNa3cHVwQEhdpgw1JiPOtNfX0SFlNc3FY3Epx3t3t49rfncvM18doojbcmuLPeh11M' alt='Lil Durk Wallpaper wallpaper by Durkio_Krazy - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=5hr6sfsioJpbGNNCBA9NaAa7rYeh9H7TRRMfpdlpN870isNvv-woD4IPg9oZb4DhFW_ALAvLwYRFh1ny4x2mmnfzAvhqV5H5SfJNB55kVc_F1pz6rLw4Bdre_aUAWd_PnN80CDGgHqGJ5mHYdzKpoUJFjjHGmk7D9aU363WmB_wn_uj96CTA8uYTeqNa3cHVwQEhdpgw1JiPOtNfX0SFlNc3FY3Epx3t3t49rfncvM18doojbcmuLPeh11M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk Wallpaper 11 | Lil durk, Rapper art, Rapper wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/dc/ed/76dced6d2030f9e5f7982010d677fdb6.jpg' alt='Lil Durk Wallpaper 11 | Lil durk, Rapper art, Rapper wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/dc/ed/76dced6d2030f9e5f7982010d677fdb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King Von And Lil Durk Greyscale Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/king-von-and-lil-durk-greyscale-collage-vplbud138detdzo4.webp' alt='King Von And Lil Durk Greyscale Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/king-von-and-lil-durk-greyscale-collage-vplbud138detdzo4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Durk iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11220136.jpg' alt='Lil Durk iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11220136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tag someone who is a durk fan #durkio #fan #wallpaper #fypシ #viral | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7225873805263129898&location=0&aid=1988' alt='Tag someone who is a durk fan #durkio #fan #wallpaper #fypシ #viral | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7225873805263129898&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

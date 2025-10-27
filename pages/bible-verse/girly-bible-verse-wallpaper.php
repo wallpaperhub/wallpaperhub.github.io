@@ -1,0 +1,129 @@
+<title>Girly Bible Verse Wallpaper: Uplift Your Spirit</title>
+                    <meta name="description" content="Explore our stunning collection of girly Bible verse wallpapers, designed to inspire and motivate. Perfect for personal devices, each piece combines scripture with delicate designs, infusing your daily routine with positivity and faith. Transform your screens with encouragement and style!">
+                    <meta name="keywords" content="girly bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/girly-bible-verse-wallpaper">
+                            <span itemprop="name">girly bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Girly Bible Verse Wallpaper: Uplift Your Spirit</h1>
+                <p>Discover the perfect girly Bible verse wallpaper to inspire and uplift your spirit! These beautifully designed wallpapers combine whimsical aesthetics with meaningful scripture, creating a daily reminder of faith and positivity. Ideal for your phone or laptop, these designs will encourage you while adding a touch of femininity to your devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Bible Verse Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/1a/92/2f1a92889c15c1e26f8b584958248e24.jpg' alt='Coquette Bible Verse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/1a/92/2f1a92889c15c1e26f8b584958248e24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Christian girl wallpaper ideas | christian quotes wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c7/63/6d/c7636d425e7edfe8e3e73d47fabb0d78.png' alt='42 Christian girl wallpaper ideas | christian quotes wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c7/63/6d/c7636d425e7edfe8e3e73d47fabb0d78.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK FLORAL BIBLE VERSE WALLPAPER : ROMANS 15:13 ✞ ✞">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/17/55/f717553d71fc88799d371321d705b5d0.jpg' alt='PINK FLORAL BIBLE VERSE WALLPAPER : ROMANS 15:13 ✞ ✞'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/17/55/f717553d71fc88799d371321d705b5d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Unfussy Girly Bible Verse Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/girly-bible-verse-1242-x-2208-497agvhu9brv04um.jpg' alt='Download Unfussy Girly Bible Verse Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/girly-bible-verse-1242-x-2208-497agvhu9brv04um.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' alt='Cute Aesthetic Christian \bible Verse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-christian-bible-verse-qksfmc86oavcnwww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Jesus'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' alt='Love Jesus''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone/Android Bible Verse A Joyful Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26214184/r/il/ce8677/2705114128/il_570xN.2705114128_8bpn.jpg' alt='iPhone/Android Bible Verse A Joyful Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26214184/r/il/ce8677/2705114128/il_570xN.2705114128_8bpn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Bible Verse Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-bible-verse-nnnhg8jk6lsc44ku.jpg' alt='100+] Pink Bible Verse Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-bible-verse-nnnhg8jk6lsc44ku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse, aesthetic, christian, girls, inspirational, inspiring ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/185/405/HD-wallpaper-bible-verse-aesthetic-christian-girls-inspirational-inspiring-scripture-women.jpg' alt='Bible Verse, aesthetic, christian, girls, inspirational, inspiring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/185/405/HD-wallpaper-bible-verse-aesthetic-christian-girls-inspirational-inspiring-scripture-women.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b5/90/a6/b590a62ff0fb35b097378a699536b98a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b5/90/a6/b590a62ff0fb35b097378a699536b98a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Blue and White Bird Wallpaper for Stunning Home Decor</title>
+                    <meta name="description" content="Discover exquisite blue and white bird wallpaper to elevate your home decor. Perfect for creating a serene ambiance, this stunning wallpaper blends nature's beauty with elegant design. Ideal for any room, it adds a refreshing touch, making your space inviting and stylish. Explore now!">
+                    <meta name="keywords" content="blue and white bird wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-bird-wallpaper">
+                            <span itemprop="name">blue and white bird wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Blue and White Bird Wallpaper for Stunning Home Decor</h1>
+                <p>Transform your space with stunning blue and white bird wallpaper. Ideal for adding a refreshing touch to any room, this wallpaper brings nature indoors with its vibrant colors and elegant designs. Perfect for accent walls or complete makeovers, it creates a tranquil atmosphere that invites serenity and style into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird And Blossom Chinoserie Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/kt2171ex_340bc0e2-311d-4b8b-b485-e99aab829183.jpg?v=1703780632&width=1024' alt='Bird And Blossom Chinoserie Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/kt2171ex_340bc0e2-311d-4b8b-b485-e99aab829183.jpg?v=1703780632&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Birds Peel and Stick Removable Wallpaper 4739">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/fb18a93b0cb13a89b309170a35ab313e_grande.jpg?v=1723296060' alt='Blue Birds Peel and Stick Removable Wallpaper 4739'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/fb18a93b0cb13a89b309170a35ab313e_grande.jpg?v=1723296060' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Blue & White Coastal Birds FLying South Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/baby-blue-white-coastal-birds-flying-so-jgqa-l.jpg' alt='Baby Blue & White Coastal Birds FLying South Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/baby-blue-white-coastal-birds-flying-so-jgqa-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safiyya Blue and White Wallpaper 393"x17.3" Floral Birds Peel and Stick  Wallpaper Removable Contact Paper Peel and Stick Wallpaper White Contact  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71UxD+18ugL.jpg' alt='Safiyya Blue and White Wallpaper 393"x17.3" Floral Birds Peel and Stick  Wallpaper Removable Contact Paper Peel and Stick Wallpaper White Contact  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71UxD+18ugL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper with Birds and Branches - Best Bird Wallpapers">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hbu.h-cdn.co/assets/cm/15/04/480x552/54c0b49447c60_-_01-hbx-schumacher-blue-and-white-bird-wallpaper-0413-xln.jpg?resize=640:*' alt='Wallpaper with Birds and Branches - Best Bird Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hbu.h-cdn.co/assets/cm/15/04/480x552/54c0b49447c60_-_01-hbx-schumacher-blue-and-white-bird-wallpaper-0413-xln.jpg?resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Navy Blue Coastal Birds FLying South Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-navy-blue-coastal-birds-flying-so-amhk-l.jpg' alt='White & Navy Blue Coastal Birds FLying South Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-navy-blue-coastal-birds-flying-so-amhk-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Birds Peel and Stick Removable Wallpaper 4739">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/animal_1430344739_05_grande.jpg?v=1618445768' alt='Blue Birds Peel and Stick Removable Wallpaper 4739'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/animal_1430344739_05_grande.jpg?v=1618445768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belize Blue Porcelain Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.wellappointedhouse.com/cdn/shop/files/Belize_Blue_Porcelain_Wallpaper_The_Well_Appointed_House_1.png?v=1716225903' alt='Belize Blue Porcelain Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Well Appointed House" />
+                                </span>
+                                <a href='http://www.wellappointedhouse.com/cdn/shop/files/Belize_Blue_Porcelain_Wallpaper_The_Well_Appointed_House_1.png?v=1716225903' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Birds - Small Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://musewallstudio.com/cdn/shop/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-blue-birds-28167541030998_1080x.jpg?v=1619721762' alt='Blue Birds - Small Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://musewallstudio.com/cdn/shop/products/muse-wall-studio-dusty-blue-floral-removable-wallpaper-blue-birds-28167541030998_1080x.jpg?v=1619721762' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G78489 Classic Bird Trail Blue White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250388.jpg' alt='Galerie G78489 Classic Bird Trail Blue White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

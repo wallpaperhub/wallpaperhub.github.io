@@ -1,0 +1,129 @@
+<title>Stunning Blue Wallpaper Borders for Your Bathroom</title>
+                    <meta name="description" content="Explore a range of stunning blue wallpaper borders to elevate your bathroom decor. Perfect for adding a serene touch, these designs are easy to apply and maintain, making your space both stylish and inviting. Discover the perfect border for a refreshed bathroom look today!">
+                    <meta name="keywords" content="blue wallpaper borders bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/blue-wallpaper-borders-bathroom">
+                            <span itemprop="name">blue wallpaper borders bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Wallpaper Borders for Your Bathroom</h1>
+                <p>Transform your bathroom with beautiful blue wallpaper borders that add a touch of elegance and serenity. Whether you prefer a nautical theme or delicate florals, blue borders can create a refreshing ambiance. Easy to install and maintain, these designs make a stylish statement while enhancing your space's overall decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Country Bath Blue Rustic Blue Wallpaper Border 3119-63104B">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6a2f4224-44ba-4b03-8432-e5cf5e07f361/svn/chesapeake-wallpaper-borders-3119-63104b-c3_600.jpg' alt='Chesapeake Country Bath Blue Rustic Blue Wallpaper Border 3119-63104B'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6a2f4224-44ba-4b03-8432-e5cf5e07f361/svn/chesapeake-wallpaper-borders-3119-63104b-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Country Bath Blue Rustic Blue Wallpaper Border 3119-63104B - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8d56ac46-002e-45f2-ba4b-6233ed5fcb43/svn/chesapeake-wallpaper-borders-3119-63104b-64_1000.jpg' alt='Chesapeake Country Bath Blue Rustic Blue Wallpaper Border 3119-63104B - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8d56ac46-002e-45f2-ba4b-6233ed5fcb43/svn/chesapeake-wallpaper-borders-3119-63104b-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="878785 Martha Country Bath Wallpaper Border Blue CTR63101b">
+                                <img itemprop="contentUrl url" src='https://s.turbifycdn.com/aah/yhst-128752093515347/878785-martha-country-bath-wallpaper-border-blue-ctr63101b-71.png' alt='878785 Martha Country Bath Wallpaper Border Blue CTR63101b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JustBorders.com Discount Wallpaper Border Superstore" />
+                                </span>
+                                <a href='https://s.turbifycdn.com/aah/yhst-128752093515347/878785-martha-country-bath-wallpaper-border-blue-ctr63101b-71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive 3D Blue Flower Waterproof Wallpaper Border Peel and Stick for  Bathroom Kitchen Counter Top Tiles Sticker 10CM by 5M (Blue)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vkGBSoFlL._AC_UF894,1000_QL80_.jpg' alt='Self Adhesive 3D Blue Flower Waterproof Wallpaper Border Peel and Stick for  Bathroom Kitchen Counter Top Tiles Sticker 10CM by 5M (Blue)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vkGBSoFlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Blue Wallpaper Border Peel and Stick Border Bow-Knot ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61NZ9McE6VL._AC_UF350,350_QL50_.jpg' alt='Livelynine Blue Wallpaper Border Peel and Stick Border Bow-Knot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61NZ9McE6VL._AC_UF350,350_QL50_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YENHOME Self Adhesive Wallpaper Border Peel and Stick Wall Border 4" X  32.8" White Lace Transparent Floral Border Wallpaper Peel and Stick Mirror  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71J7Tkj9Z8L.jpg' alt='YENHOME Self Adhesive Wallpaper Border Peel and Stick Wall Border 4" X  32.8" White Lace Transparent Floral Border Wallpaper Peel and Stick Mirror  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71J7Tkj9Z8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoyi Sky Blue Wallpaper Border 196.8" x 4.7" Peel and Stick Borders Wall  Decor for Bedroom Living Room Garden DIY - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71RVbGLSWwS._AC_UF894,1000_QL80_.jpg' alt='Emoyi Sky Blue Wallpaper Border 196.8" x 4.7" Peel and Stick Borders Wall  Decor for Bedroom Living Room Garden DIY - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71RVbGLSWwS._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake 6-in Blue Prepasted Wallpaper Border 3123-63101 at ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/85a693bd-0f02-4a13-ab39-77670346585d/45446547.jpg' alt='Chesapeake 6-in Blue Prepasted Wallpaper Border 3123-63101 at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/85a693bd-0f02-4a13-ab39-77670346585d/45446547.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Royal Blue Wallpaper Border Peel and Stick Removable Wall Border  Trim Self Adhesive Glitter Wallpaper Borders for Bathroom Bedroom Classroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1+41bgZ-jL.jpg' alt='FunStick Royal Blue Wallpaper Border Peel and Stick Removable Wall Border  Trim Self Adhesive Glitter Wallpaper Borders for Bathroom Bedroom Classroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1932">
+                                <meta itemprop="height" content="1932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1+41bgZ-jL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Blue Wallpaper Trim Wall Borders Frame for Bathroom Mirror Stick on  Peel and Stick Mirrors Border Stickers Decorative molding ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Gl6Vm91CL._AC_UF894,1000_QL80_.jpg' alt='Glowing Blue Wallpaper Trim Wall Borders Frame for Bathroom Mirror Stick on  Peel and Stick Mirrors Border Stickers Decorative molding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Gl6Vm91CL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

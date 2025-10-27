@@ -1,0 +1,129 @@
+<title>Last Day of Summer: Capturing Moments</title>
+                    <meta name="description" content="Discover stunning visuals of the last day of summer! Explore enchanting sunsets, beach vibes, and joyful outdoor gatherings that mark the season's farewell. Capture memories with our vibrant image collection and relive those beautiful summer moments. Perfect for sharing and reminiscing!">
+                    <meta name="keywords" content="last day of summer images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/last-day-of-summer-images">
+                            <span itemprop="name">last day of summer images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Last Day of Summer: Capturing Moments</h1>
+                <p>As summer comes to a close, capture the essence of the last day with radiant images of sunsets, beach walks, and vibrant outdoor gatherings. These snapshots evoke nostalgia, showcasing fleeting moments of warmth, laughter, and natural beauty. Celebrate the season's end with memories that linger long after the sun sets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487044812/photo/text-bye-bye-summer-in-a-chalkboard-on-the-beach.jpg?s=612x612&w=0&k=20&c=8Zpo5d03_e4P2c-M9cfXKqUiiUGFyCHnHyR-UDVs8cI=' alt='14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487044812/photo/text-bye-bye-summer-in-a-chalkboard-on-the-beach.jpg?s=612x612&w=0&k=20&c=8Zpo5d03_e4P2c-M9cfXKqUiiUGFyCHnHyR-UDVs8cI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Last-Day-of-Summer (A Legendary Alston Boys Adventure): Giles,  Lamar, Adeola, Dapo: 9781328460837: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710lZGSil5L.jpg' alt='The Last Last-Day-of-Summer (A Legendary Alston Boys Adventure): Giles,  Lamar, Adeola, Dapo: 9781328460837: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1055">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710lZGSil5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1515987560/vector/end-of-summer-vector-banner-illustration.jpg?s=612x612&w=0&k=20&c=X71lK_RFnMpp4or0ZB1xtd5HSmiKYhauF0QYXMgHRrM=' alt='14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1515987560/vector/end-of-summer-vector-banner-illustration.jpg?s=612x612&w=0&k=20&c=X71lK_RFnMpp4or0ZB1xtd5HSmiKYhauF0QYXMgHRrM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last Day of Summer">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61orejLQhML._AC_UF894,1000_QL80_.jpg' alt='The Last Day of Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61orejLQhML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FOX 5 Atlanta - Today is the last day of summer. How did you spend ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10154921340975823' alt='FOX 5 Atlanta - Today is the last day of summer. How did you spend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10154921340975823' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Last Day of Summer!">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/mylandscapecoach.com/wp-content/uploads/2018/09/IMG_9922.png?resize=781%2C781' alt='Last Day of Summer!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Landscape Coach" />
+                                </span>
+                                <a href='https://i1.wp.com/mylandscapecoach.com/wp-content/uploads/2018/09/IMG_9922.png?resize=781%2C781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Date Marks the Last Day of Summer? | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*E4gjuQmrSHc4t7DqEjtivg.png' alt='What Date Marks the Last Day of Summer? | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Early Chirp" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*E4gjuQmrSHc4t7DqEjtivg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Happy Last Day Hello Summer Banner Summer Party Decorations End  of School Year Party Decorations Schools Out for Summer Decorations Last ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Jh-kx8XGL.jpg' alt='Amazon.com: Happy Last Day Hello Summer Banner Summer Party Decorations End  of School Year Party Decorations Schools Out for Summer Decorations Last ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Jh-kx8XGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep calm and enjoy the last day of summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/d3/3a/bed33aea61314e57874bc3b316f4ae13.jpg' alt='Keep calm and enjoy the last day of summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/d3/3a/bed33aea61314e57874bc3b316f4ae13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Last Day of Summer by Shari Low | Goodreads">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654319770i/61221774.jpg' alt='One Last Day of Summer by Shari Low | Goodreads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1524">
+                                <meta itemprop="height" content="2339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654319770i/61221774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

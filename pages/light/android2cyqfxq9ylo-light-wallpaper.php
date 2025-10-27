@@ -1,0 +1,129 @@
+<title>Stunning Light Wallpapers for Your Android Device</title>
+                    <meta name="description" content="Discover a collection of beautiful light wallpapers designed for your Android phone! Enhance your device's aesthetic with vibrant and elegant designs that bring joy to your screen. Perfect for anyone looking to personalize their mobile experience effortlessly.">
+                    <meta name="keywords" content="android:2cyqfxq9ylo= light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/android2cyqfxq9ylo-light-wallpaper">
+                            <span itemprop="name">android:2cyqfxq9ylo= light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Wallpapers for Your Android Device</h1>
+                <p>Transform your device's look with stunning light wallpapers! Perfect for adding a touch of elegance and brightness, these wallpapers enhance your Android experience. Choose from vibrant colors or subtle gradients to create a serene backdrop. Personalize your home screen and make every glance a delightful experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Android Night Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-android-night-lights-zu2htm5ofjfvzfl9.jpg' alt='4k Android Night Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-android-night-lights-zu2htm5ofjfvzfl9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights, fog, light, traffic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/52/249/HD-wallpaper-lights-fog-light-traffic.jpg' alt='Lights, fog, light, traffic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/52/249/HD-wallpaper-lights-fog-light-traffic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View Tech style floor and wall accentuated by neon light in 3D ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/view-tech-style-floor-wall-accentuated-by-neon-light-3d-vertical-mobile-wallpaper_896558-58764.jpg' alt='View Tech style floor and wall accentuated by neon light in 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/view-tech-style-floor-wall-accentuated-by-neon-light-3d-vertical-mobile-wallpaper_896558-58764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon lights wallpapers for iphone and android. | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/neon-lights-wallpapers-iphone-android_739292-16430.jpg' alt='Neon lights wallpapers for iphone and android. | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/neon-lights-wallpapers-iphone-android_739292-16430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light live wallpaper for Android. Light free download for tablet ...">
+                                <img itemprop="contentUrl url" src='https://mobimg.b-cdn.net/lwallpaper_img/light/real/1_light.jpg' alt='Light live wallpaper for Android. Light free download for tablet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://mobimg.b-cdn.net/lwallpaper_img/light/real/1_light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Wallpaper Photos, Download The BEST Free Light Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1910236/pexels-photo-1910236.jpeg?cs=srgb&dl=pexels-bruthethe-1910236.jpg&fm=jpg' alt='Light Wallpaper Photos, Download The BEST Free Light Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1910236/pexels-photo-1910236.jpeg?cs=srgb&dl=pexels-bruthethe-1910236.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light live wallpaper for Android. Light free download for tablet ...">
+                                <img itemprop="contentUrl url" src='https://mobimg.b-cdn.net/lwallpaper_img/light/real/3_light.jpg' alt='Light live wallpaper for Android. Light free download for tablet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://mobimg.b-cdn.net/lwallpaper_img/light/real/3_light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Android Light Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5203139.jpg' alt='Android Light Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5203139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light band for phone wallpaper in hight quality (I think) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/light-band-for-phone-wallpaper-in-hight-quality-i-think-v0-gzja1y43kotc1.jpg?width=1290&format=pjpg&auto=webp&s=e1b66c63483e5bd9e7d190475f7fd6236d727b12' alt='Light band for phone wallpaper in hight quality (I think) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/light-band-for-phone-wallpaper-in-hight-quality-i-think-v0-gzja1y43kotc1.jpg?width=1290&format=pjpg&auto=webp&s=e1b66c63483e5bd9e7d190475f7fd6236d727b12' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD light blue android wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/631/292/HD-wallpaper-material-design-929-android-blue-flat-google-light-theme.jpg' alt='HD light blue android wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/631/292/HD-wallpaper-material-design-929-android-blue-flat-google-light-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

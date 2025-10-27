@@ -1,0 +1,129 @@
+<title>Navy Floral Peel and Stick Wallpaper: Effortless Style Update</title>
+                    <meta name="description" content="Transform your space effortlessly with navy floral peel and stick wallpaper. Ideal for renters and DIY fans, it’s easy to apply and remove, making home decor updates a breeze. Add a touch of sophistication and nature to any room without the mess! Perfect for any modern home aesthetic.">
+                    <meta name="keywords" content="navy floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/navy-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">navy floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Floral Peel and Stick Wallpaper: Effortless Style Update</h1>
+                <p>Navy floral peel and stick wallpaper is a stylish and versatile choice for home decor. Ideal for creating an accent wall or adding a touch of nature to any room, it combines elegance with practicality. Easy to apply and remove, this wallpaper allows you to refresh your space without commitment, perfect for renters or DIY enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Vintage Floral Peel and Stick Wallpaper (Navy Blue) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8111J9jtftL.jpg' alt='NextWall Vintage Floral Peel and Stick Wallpaper (Navy Blue) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8111J9jtftL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Navy Blue Floral Peel and Stick Wallpaper Boho Wallpaper 118" x  17.3" Dark Blooming Flower Wildflowers Self Adhesive Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nL81YHB-L._AC_UF894,1000_QL80_.jpg' alt='Simon&Siff Navy Blue Floral Peel and Stick Wallpaper Boho Wallpaper 118" x  17.3" Dark Blooming Flower Wildflowers Self Adhesive Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nL81YHB-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' alt='Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/f1e739cb-b560-49b0-a66f-7d90624bf0bc/svn/nextwall-wallpaper-rolls-nw45702-1f_600.jpg' alt='NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/f1e739cb-b560-49b0-a66f-7d90624bf0bc/svn/nextwall-wallpaper-rolls-nw45702-1f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSW1516RL Erin & Ben Co. Heirloom Floral Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/PSW1516RL-Heirloom-Floral.jpg?v=1678141042&width=1445' alt='PSW1516RL Erin & Ben Co. Heirloom Floral Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/PSW1516RL-Heirloom-Floral.jpg?v=1678141042&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Floral and Leaf Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C692">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C692_03.png?v=1734117724&width=1946' alt='Navy Floral and Leaf Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - C692'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C692_03.png?v=1734117724&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Midnight Blue Meadow Floral Peel and Stick Wallpaper Wildflowers  Floral Wallpaper 17.7x118'' Dark Blue Contact Paper for Cabinets Shelves ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UUYFqwJQL.jpg' alt='VEELIKE Midnight Blue Meadow Floral Peel and Stick Wallpaper Wildflowers  Floral Wallpaper 17.7x118'' Dark Blue Contact Paper for Cabinets Shelves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UUYFqwJQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy White Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2166">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470585840_6aqq.jpg' alt='Navy White Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2166'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3470585840_6aqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wildflowers Wallpaper - Navy Blue">
+                                <img itemprop="contentUrl url" src='http://ayarahome.com/cdn/shop/files/CottagecoreWildFlowersDark.jpg?v=1724951098' alt='Cottagecore Wildflowers Wallpaper - Navy Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='http://ayarahome.com/cdn/shop/files/CottagecoreWildFlowersDark.jpg?v=1724951098' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara Jean April Showers Navy Peel & Stick">
+                                <img itemprop="contentUrl url" src='http://chelsealaneco.com/cdn/shop/products/RMK11466RLex.jpg?v=1588274025' alt='Clara Jean April Showers Navy Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsea Lane" />
+                                </span>
+                                <a href='http://chelsealaneco.com/cdn/shop/products/RMK11466RLex.jpg?v=1588274025' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Football Cowboys Wallpaper: Showcase Your Team Spirit</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="football cowboys wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-cowboys-wallpaper">
+                            <span itemprop="name">football cowboys wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football Cowboys Wallpaper: Showcase Your Team Spirit</h1>
+                <p>Transform your space with stunning football cowboys wallpaper that showcases your passion for the game. Perfect for any fan, these designs come in various styles and colors, making it easy to find the right fit for your home or office. Show off your team spirit with high-quality, vivid prints that inspire excitement and motivation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2022 Dallas Cowboys Wallpaper : r/cowboys">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/299z6xqf8de91.jpg' alt='2022 Dallas Cowboys Wallpaper : r/cowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/299z6xqf8de91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Wallpapers (32 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/7/c/244653-1920x1200-desktop-hd-dallas-cowboys-background-image.jpg' alt='Dallas Cowboys Wallpapers (32 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/7/c/244653-1920x1200-desktop-hd-dallas-cowboys-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/3c/e5/b93ce5af2ccb53ab92db3f0f199b3582.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/3c/e5/b93ce5af2ccb53ab92db3f0f199b3582.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Wallpapers (32 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/c/b/244795-1920x1080-desktop-full-hd-dallas-cowboys-wallpaper-photo.jpg' alt='Dallas Cowboys Wallpapers (32 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/c/b/244795-1920x1080-desktop-full-hd-dallas-cowboys-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="370 Dallas cowboys wallpaper ideas in 2025 | dallas cowboys ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d3/37/92/d337925644766d5d69ca876c3705f437.jpg' alt='370 Dallas cowboys wallpaper ideas in 2025 | dallas cowboys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d3/37/92/d337925644766d5d69ca876c3705f437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys, afc, dallas cowboys, football, jerry jones, nfc ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/972/418/HD-wallpaper-dallas-cowboys-afc-dallas-cowboys-football-jerry-jones-nfc-nfl-prescott-texas.jpg' alt='Dallas Cowboys, afc, dallas cowboys, football, jerry jones, nfc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/972/418/HD-wallpaper-dallas-cowboys-afc-dallas-cowboys-football-jerry-jones-nfc-nfl-prescott-texas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dallas Cowboys Players Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dallas-cowboys-players-jcwgp36qczgb9zge.jpg' alt='100+] Dallas Cowboys Players Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dallas-cowboys-players-jcwgp36qczgb9zge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys HD Wallpaper - Iconic Sports Team Design">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/152/152820.jpg' alt='Dallas Cowboys HD Wallpaper - Iconic Sports Team Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/152/152820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I like making Cowboys wallpapers    : r/cowboys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b8f8ljgs54r61.jpg?width=640&crop=smart&auto=webp&s=3046c727a254ffd87f8623b885b153d02b7235e1' alt='I like making Cowboys wallpapers    : r/cowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b8f8ljgs54r61.jpg?width=640&crop=smart&auto=webp&s=3046c727a254ffd87f8623b885b153d02b7235e1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Wallpapers (32 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/0/8/244791-2160x3840-iphone-4k-dallas-cowboys-background-photo.jpg' alt='Dallas Cowboys Wallpapers (32 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/0/8/244791-2160x3840-iphone-4k-dallas-cowboys-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Black and White Dotted Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover stylish black and white dotted wallpaper that elevates your decor. Perfect for any room, this elegant pattern adds a modern yet classic flair. Easily transform your space with easy-to-apply wallpaper that enhances light and style. Explore our collection now!">
+                    <meta name="keywords" content="black and white dotted wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-dotted-wallpaper">
+                            <span itemprop="name">black and white dotted wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black and White Dotted Wallpaper for Your Home</h1>
+                <p>Black and white dotted wallpaper adds a timeless elegance to any space. Its playful yet sophisticated pattern complements modern decor styles while providing a classic touch. Perfect for accent walls or entire rooms, this wallpaper enhances light and creates visual interest. Transform your home with chic black and white dots!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeweluck Peel and Stick Wallpaper Polka Dot Contact Paper Black and White  Wallpaper 17.7” x 118.1” Polka Dots Wallpaper Stick and Peel Black Dot ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719AcKxJCNL._AC_UF894,1000_QL80_.jpg' alt='Jeweluck Peel and Stick Wallpaper Polka Dot Contact Paper Black and White  Wallpaper 17.7” x 118.1” Polka Dots Wallpaper Stick and Peel Black Dot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719AcKxJCNL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Polka Dot' Wallpaper by Sugar Paper - Black On White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' alt=''Polka Dot' Wallpaper by Sugar Paper - Black On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/PolkaDot_black-on-white_A_for_web_12caa700-447d-44cb-870d-7e51dc153147.jpg?v=1615485572' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huddy's Dots • Luxurious Spotted Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Republic-HuddysDots-Muddy-1-1100x1318.jpg.optimal.jpg' alt='Huddy's Dots • Luxurious Spotted Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Republic-HuddysDots-Muddy-1-1100x1318.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polka Dot Black and White Spots PEEL & STICK Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_1080xN.2263498324_k6t2.jpg' alt='Polka Dot Black and White Spots PEEL & STICK Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7315499/r/il/359bba/2263498324/il_1080xN.2263498324_k6t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speckled Dot Peel & Stick Wallpaper Black - Opalhouse™: Removable,  Repositionable, Stain-Resistant, Vinyl, 27.5 Sq Ft">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_eb528c0e-d474-4019-bfee-091792f30b8a' alt='Speckled Dot Peel & Stick Wallpaper Black - Opalhouse™: Removable,  Repositionable, Stain-Resistant, Vinyl, 27.5 Sq Ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_eb528c0e-d474-4019-bfee-091792f30b8a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white dot background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cf/b4/23/cfb42308b7af14c771713b0d4bc9b7c2.jpg' alt='Black and white dot background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cf/b4/23/cfb42308b7af14c771713b0d4bc9b7c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Dots Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-background-vector-with-black-dot-patterns_53876-128362.jpg' alt='Black White Dots Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-background-vector-with-black-dot-patterns_53876-128362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="polka dot seamless vector pattern black background. White and ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/74/36/69/1000_F_274366984_xOqgePYs1OJyD68IG5PWHK2Hd6bbSmbG.jpg' alt='polka dot seamless vector pattern black background. White and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/74/36/69/1000_F_274366984_xOqgePYs1OJyD68IG5PWHK2Hd6bbSmbG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Background White Dots Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/falling-snow-black-background_78370-4263.jpg' alt='Black Background White Dots Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/falling-snow-black-background_78370-4263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Polka Dots Images – Browse 96,086 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/23/02/23/360_F_223022310_LtF7yGPHFdxsQFECSNMZrYel7w7ybzXm.jpg' alt='Black And White Polka Dots Images – Browse 96,086 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/23/02/23/360_F_223022310_LtF7yGPHFdxsQFECSNMZrYel7w7ybzXm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

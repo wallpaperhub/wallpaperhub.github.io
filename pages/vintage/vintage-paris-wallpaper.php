@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Paris Wallpaper</title>
+                    <meta name="description" content="Discover the allure of vintage Paris wallpaper, featuring iconic designs that bring timeless elegance to your home. Perfect for creating a chic ambiance, our selection enhances any room with a touch of nostalgia. Elevate your decor today and immerse yourself in the romance of Paris.">
+                    <meta name="keywords" content="vintage paris wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-paris-wallpaper">
+                            <span itemprop="name">vintage paris wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Paris Wallpaper</h1>
+                <p>Vintage Paris wallpaper transports you to the romantic streets of France, offering charm and nostalgia to any space. Featuring iconic landmarks, delicate florals, and classic motifs, these wallpapers create an enchanting ambiance. Perfect for accent walls or entire rooms, they invite timeless elegance and rustic sophistication into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paris Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Vintage-Paris-Wall-Mural_ceaafef6-f911-4191-b6e5-7a1ebc24061e.jpg?v=1628786074' alt='Vintage Paris Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Vintage-Paris-Wall-Mural_ceaafef6-f911-4191-b6e5-7a1ebc24061e.jpg?v=1628786074' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eiffel Tower Vintage Paris Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-46697_WP.jpg' alt='Eiffel Tower Vintage Paris Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-46697_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paris Wallpaper Mural by MagicMurals.com">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/F/O/FOT-0008410465_1_1.jpg' alt='Vintage Paris Wallpaper Mural by MagicMurals.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/F/O/FOT-0008410465_1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paris View Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237923/Vintage-Paris-View-Wallpaper-Mural.jpg?v=638164840635670000' alt='Vintage Paris View Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2133">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237923/Vintage-Paris-View-Wallpaper-Mural.jpg?v=638164840635670000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paris Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7746505/i/l/pdA3KXcDMiNtP852UjFMkpAPm3p3S3C3QFCCA37ltPVqsRYR7RUl/7746505-vintage-paris-by-andrea_haase_design.jpg' alt='Vintage Paris Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7746505/i/l/pdA3KXcDMiNtP852UjFMkpAPm3p3S3C3QFCCA37ltPVqsRYR7RUl/7746505-vintage-paris-by-andrea_haase_design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Vintage Paris Script Eiffel Tower French Wallpaper Rose Garden  Botanical Moth Butterfly Acrylic Print">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/acrylic-print/6.5/8/hangingwire/break/images/artworkimages/medium/3/modern-vintage-paris-script-eiffel-tower-french-wallpaper-rose-garden-botanical-moth-butterfly-audrey-jeanne-roberts.jpg' alt='Modern Vintage Paris Script Eiffel Tower French Wallpaper Rose Garden  Botanical Moth Butterfly Acrylic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/acrylic-print/6.5/8/hangingwire/break/images/artworkimages/medium/3/modern-vintage-paris-script-eiffel-tower-french-wallpaper-rose-garden-botanical-moth-butterfly-audrey-jeanne-roberts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Retro Paris Tower Wall paper Wallpaper Wall Decals Wall Art Print Mural  Home Decor Indoor Bussiness Office Deco">
+                                <img itemprop="contentUrl url" src='https://www.idecoroom.com/cdn/shop/products/New1506_1024x1024.jpg?v=1456622370' alt='3D Retro Paris Tower Wall paper Wallpaper Wall Decals Wall Art Print Mural  Home Decor Indoor Bussiness Office Deco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IDecoRoom" />
+                                </span>
+                                <a href='https://www.idecoroom.com/cdn/shop/products/New1506_1024x1024.jpg?v=1456622370' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Eiffel Tower Vintage Paris Full Wall Mural Photo Wallpaper Printed Home  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/0qIAAOSwHjNWBiTU/s-l1200.jpg' alt='3D Eiffel Tower Vintage Paris Full Wall Mural Photo Wallpaper Printed Home  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/0qIAAOSwHjNWBiTU/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paris Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/232841/Vintage-Paris-Wall-Mural.jpg?v=638164509344300000' alt='Vintage Paris Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/232841/Vintage-Paris-Wall-Mural.jpg?v=638164509344300000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paris Wallpaper, Paris Mural, Paris Wall Mural, Eifel Tower Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22370788/r/il/2ca220/2702408197/il_fullxfull.2702408197_3hdn.jpg' alt='Paris Wallpaper, Paris Mural, Paris Wall Mural, Eifel Tower Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22370788/r/il/2ca220/2702408197/il_fullxfull.2702408197_3hdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

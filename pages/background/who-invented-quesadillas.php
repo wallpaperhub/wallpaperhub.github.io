@@ -1,0 +1,129 @@
+<title>Who Really Invented Quesadillas?</title>
+                    <meta name="description" content="Explore the fascinating history of quesadillas, the iconic Mexican dish. Uncover the origins of this delicious culinary creation and learn how it evolved over time. Discover what makes quesadillas a favorite for many and their significance in Mexican cuisine.">
+                    <meta name="keywords" content="who invented quesadillas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-invented-quesadillas">
+                            <span itemprop="name">who invented quesadillas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Really Invented Quesadillas?</h1>
+                <p>Quesadillas, a beloved Mexican dish, likely trace their origins to the indigenous peoples of Mesoamerica, who filled tortillas with various ingredients. The exact individual who invented quesadillas remains unknown, but they became popularized in the 16th century. Today, they feature diverse fillings and are enjoyed worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Do Quesadillas Come From? - Nacho Hippo">
+                                <img itemprop="contentUrl url" src='https://nachohippo.com/wp-content/uploads/sites/4/2020/06/eTSfFfyA.jpeg' alt='Where Do Quesadillas Come From? - Nacho Hippo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nacho Hippo" />
+                                </span>
+                                <a href='https://nachohippo.com/wp-content/uploads/sites/4/2020/06/eTSfFfyA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Quesadilla — Julee Ho Media">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57da005459cc6819438b6261/1582266413600-HOUEMNGDWX3FHHLJ6GC1/Regal-33.jpg' alt='History of Quesadilla — Julee Ho Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julee Ho Media" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57da005459cc6819438b6261/1582266413600-HOUEMNGDWX3FHHLJ6GC1/Regal-33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Quesadilla: How Did This Famous Mexican Pastry ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/nsplsh_963e074fc4f24aa6b7615147988ef8b8~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/nsplsh_963e074fc4f24aa6b7615147988ef8b8~mv2.jpg' alt='The History of the Quesadilla: How Did This Famous Mexican Pastry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nachos Mexican Grill" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/nsplsh_963e074fc4f24aa6b7615147988ef8b8~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/nsplsh_963e074fc4f24aa6b7615147988ef8b8~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Did the Quesadilla Originate? | History of the Quesadilla">
+                                <img itemprop="contentUrl url" src='https://backyardtaco.com/wp-content/uploads/2021/06/BackyardTaco_History-Quesadilla_Cheese.jpg' alt='Where Did the Quesadilla Originate? | History of the Quesadilla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backyard Taco" />
+                                </span>
+                                <a href='https://backyardtaco.com/wp-content/uploads/2021/06/BackyardTaco_History-Quesadilla_Cheese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quesadilla - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/01_Blue_Corn_Quesadillas.jpg/220px-01_Blue_Corn_Quesadillas.jpg' alt='Quesadilla - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/01_Blue_Corn_Quesadillas.jpg/220px-01_Blue_Corn_Quesadillas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quesadilla - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/48/Chicken_Quesadilla_dish_at_Latin_Bistro_restaurant_Summit_NJ.JPG' alt='Quesadilla - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/48/Chicken_Quesadilla_dish_at_Latin_Bistro_restaurant_Summit_NJ.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quesadillas: A History and Look into Its Politics – Food Lovers ...">
+                                <img itemprop="contentUrl url" src='https://datcwoissantsfoodies.food.blog/wp-content/uploads/2020/03/p07b1cl0.jpg?w=624' alt='Quesadillas: A History and Look into Its Politics – Food Lovers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food Lovers Home Page" />
+                                </span>
+                                <a href='https://datcwoissantsfoodies.food.blog/wp-content/uploads/2020/03/p07b1cl0.jpg?w=624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quesadilla">
+                                <img itemprop="contentUrl url" src='https://www.196flavors.com/wp-content/uploads/2018/10/quesadilla-7-FP.jpg' alt='Quesadilla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="196 flavors" />
+                                </span>
+                                <a href='https://www.196flavors.com/wp-content/uploads/2018/10/quesadilla-7-FP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Did the Quesadilla Originate? | History of the Quesadilla">
+                                <img itemprop="contentUrl url" src='https://backyardtaco.com/wp-content/uploads/2021/06/BackyardTaco_History-Quesadilla_Bean-Cheese.jpg' alt='Where Did the Quesadilla Originate? | History of the Quesadilla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backyard Taco" />
+                                </span>
+                                <a href='https://backyardtaco.com/wp-content/uploads/2021/06/BackyardTaco_History-Quesadilla_Bean-Cheese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Quesadilla — Julee Ho Media">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/57da005459cc6819438b6261/5e4f47ad21f7203f1225ea2d/5e4f515863a04157918c0dee/1592878459669/food+history+quesadilla.jpg?format=1500w' alt='History of Quesadilla — Julee Ho Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Julee Ho Media" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/57da005459cc6819438b6261/5e4f47ad21f7203f1225ea2d/5e4f515863a04157918c0dee/1592878459669/food+history+quesadilla.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

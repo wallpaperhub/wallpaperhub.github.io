@@ -1,0 +1,129 @@
+<title>Stunning 3D Crysis 3 Backgrounds for Gamers</title>
+                    <meta name="description" content="Explore high-quality 3D Crysis 3 backgrounds that elevate your gaming experience. Ideal for desktops and mobile devices, our collection showcases the game's stunning visuals and vibrant environments. Perfect for fans to bring a piece of the action to their screens!">
+                    <meta name="keywords" content="3d crysis 3 backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-crysis-3-backgrounds">
+                            <span itemprop="name">3d crysis 3 backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Crysis 3 Backgrounds for Gamers</h1>
+                <p>Discover stunning 3D Crysis 3 backgrounds that immerse you in the game's breathtaking environments. From lush jungles to futuristic cityscapes, these high-resolution images capture the essence of advanced graphics and dynamic gameplay. Perfect for fans and gamers looking to enhance their desktop or mobile devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Crysis 3 Environment Art">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/000/038/065/large/c3_02.jpg?1400222623' alt='ArtStation - Crysis 3 Environment Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/000/038/065/large/c3_02.jpg?1400222623' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 3d Gaming Crysis 3 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/best-3d-gaming-crysis-3-ql16451gwuh9c544.jpg' alt='Best 3d Gaming Crysis 3 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/best-3d-gaming-crysis-3-ql16451gwuh9c544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Crysis 3 Environment Art">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/000/038/066/large/c3_01.jpg?1400222627' alt='ArtStation - Crysis 3 Environment Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/000/038/066/large/c3_01.jpg?1400222627' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crysis 3 Remastered Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/c3e23c7e-89ed-4a42-af5a-ee73a0cf9bcc.jpg' alt='Crysis 3 Remastered Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/c3e23c7e-89ed-4a42-af5a-ee73a0cf9bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Crysis 3 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/crysis-3-0gbu4xhh40pbfite.jpg' alt='100+] Crysis 3 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/crysis-3-0gbu4xhh40pbfite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crysis 3 Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/33d03587-d106-4312-9eb8-1e939d9d902c.jpg' alt='Crysis 3 Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/33d03587-d106-4312-9eb8-1e939d9d902c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crysis 3 Prophet In Smoke Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/crysis-3-prophet-in-smoke-qmpb65zni4ybhde7.jpg' alt='Crysis 3 Prophet In Smoke Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/crysis-3-prophet-in-smoke-qmpb65zni4ybhde7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Crysis 3 Environment Art">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/000/038/063/large/c3_04.jpg?1400222615' alt='ArtStation - Crysis 3 Environment Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/000/038/063/large/c3_04.jpg?1400222615' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crysis 3 Ultimate Nanosuit ScreenSaver for Windows by jetmir8992 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d4cb224-f8dd-436a-bcc7-13f83f45b010/d5hwc5g-99ae4be4-79f7-4cb2-80ad-59bb86d439a9.jpg' alt='Crysis 3 Ultimate Nanosuit ScreenSaver for Windows by jetmir8992 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d4cb224-f8dd-436a-bcc7-13f83f45b010/d5hwc5g-99ae4be4-79f7-4cb2-80ad-59bb86d439a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Crysis 3 Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/crysis-3-background-tivu6n2heiz21h0v.jpg' alt='Download Crysis 3 Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/crysis-3-background-tivu6n2heiz21h0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

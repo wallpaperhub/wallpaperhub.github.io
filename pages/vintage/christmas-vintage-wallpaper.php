@@ -1,0 +1,129 @@
+<title>Charming Christmas Vintage Wallpaper for Holiday Decor</title>
+                    <meta name="description" content="Add a nostalgic touch to your holiday decor with Christmas vintage wallpaper. Perfect for creating a cozy festive atmosphere, our classic designs are ideal for any room. Shop now to transform your space with timeless elegance this season!">
+                    <meta name="keywords" content="christmas vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/christmas-vintage-wallpaper">
+                            <span itemprop="name">christmas vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Christmas Vintage Wallpaper for Holiday Decor</h1>
+                <p>Transform your space this holiday season with charming Christmas vintage wallpaper. Featuring classic designs like Santa Claus, Christmas trees, and snowflakes, these wallpapers evoke nostalgia and warmth. Ideal for creating a festive atmosphere, they're perfect for living rooms, kids' rooms, or holiday gatherings. Embrace the season with timeless elegance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage christmas 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/354/625/HD-wallpaper-vintage-christmas-christmas-room-painting-vintage.jpg' alt='Vintage christmas 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/354/625/HD-wallpaper-vintage-christmas-christmas-room-painting-vintage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Free Vintage Christmas Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c9/88/da/c988da0ab85214342f7c9a66e3580331.jpg' alt='35+ Free Vintage Christmas Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c9/88/da/c988da0ab85214342f7c9a66e3580331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Vintage Christmas Wallpaper for a Retro Holiday Vibe   ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/01/80/d70180976be78e7169ac8b6377f9fc77.jpg' alt='   Vintage Christmas Wallpaper for a Retro Holiday Vibe   ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/01/80/d70180976be78e7169ac8b6377f9fc77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Merry Christmas Wrapping Wallpaper Santas Digital Image Printable  Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9009356/r/il/b8a9b3/5578191449/il_570xN.5578191449_beq6.jpg' alt='Vintage Merry Christmas Wrapping Wallpaper Santas Digital Image Printable  Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9009356/r/il/b8a9b3/5578191449/il_570xN.5578191449_beq6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vintage Christmas Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-christmas-1280-x-1000-picture-vmgr5nnad14et42h.jpg' alt='100+] Vintage Christmas Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-christmas-1280-x-1000-picture-vmgr5nnad14et42h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Free Vintage Christmas Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/94/ee/ac/94eeacabdd63c1b070596448a556b38c.jpg' alt='35+ Free Vintage Christmas Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/94/ee/ac/94eeacabdd63c1b070596448a556b38c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanted Christmas Village Market - 4k Vintage Holiday Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yygsMCWwcCg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAT9zqU2jD6oS4uNLbLjs-HoP--wQ' alt='Enchanted Christmas Village Market - 4k Vintage Holiday Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yygsMCWwcCg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAT9zqU2jD6oS4uNLbLjs-HoP--wQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Wallpapers And Background">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81oVKv8c4hL.png' alt='Vintage Christmas Wallpapers And Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81oVKv8c4hL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Christmas Vintage ideas | vintage christmas, retro christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3e/25/62/3e25620e6bf566685012ca06e6839dc6.jpg' alt='900+ Christmas Vintage ideas | vintage christmas, retro christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3e/25/62/3e25620e6bf566685012ca06e6839dc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper New Year, Christmas, christmas, vintage, balls, merry ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/31/christmas-xmas-rozhdestvo-balls-fir-tree-merry-christmas-nov.webp' alt='Wallpaper New Year, Christmas, christmas, vintage, balls, merry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/31/christmas-xmas-rozhdestvo-balls-fir-tree-merry-christmas-nov.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

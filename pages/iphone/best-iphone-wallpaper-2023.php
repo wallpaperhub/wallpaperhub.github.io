@@ -1,0 +1,129 @@
+<title>Top iPhone Wallpapers of 2023: Fresh Designs for Your Device</title>
+                    <meta name="description" content="Explore the top iPhone wallpapers of 2023! Discover unique designs that elevate your phone's look. From breathtaking landscapes to eye-catching abstracts, find the perfect wallpaper to express your style. Download now and give your iPhone a fresh new look!">
+                    <meta name="keywords" content="best iphone wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/best-iphone-wallpaper-2023">
+                            <span itemprop="name">best iphone wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top iPhone Wallpapers of 2023: Fresh Designs for Your Device</h1>
+                <p>Discover the best iPhone wallpapers of 2023, featuring stunning designs that enhance your device's aesthetic. From minimalist patterns to vibrant landscapes, our curated collection caters to every style. Update your home screen with these high-resolution wallpapers to bring fresh energy to your iPhone. Explore now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The BEST iPhone Wallpapers [2023] - How To Get Them !? - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/i1XxAPE1Z_c/sddefault.jpg' alt='The BEST iPhone Wallpapers [2023] - How To Get Them !? - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/i1XxAPE1Z_c/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Top 10 iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/11/MacBook-Pro-M3-wallpaper-mod-ar72014-idownloadblog-mockup.jpg' alt='2023 Top 10 iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/11/MacBook-Pro-M3-wallpaper-mod-ar72014-idownloadblog-mockup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="APPLE EVENT 2023 WALLPAPER IPHONE - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2TJ7RpMLBgIn-9s-ZLwp764HFoJrYmSh_JwHF8-o2lhfGdulUjYwzH5EFelpW_71nMQpmy_V3GZNtDvOsW6ckt3USH0Ns_H8KsZXCQR920r_W7OADA6tVtpl9Flvp3yESC2TAjCQlWZ6UUN5rIXqZgq-Oah-yCfUz9YRVRHzR9waiYhiQ3Dsq8SN8qc/s2900/APPLE-EVENT-SEP-2023-WALLPAPER-mod1.jpg' alt='APPLE EVENT 2023 WALLPAPER IPHONE - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="2900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2TJ7RpMLBgIn-9s-ZLwp764HFoJrYmSh_JwHF8-o2lhfGdulUjYwzH5EFelpW_71nMQpmy_V3GZNtDvOsW6ckt3USH0Ns_H8KsZXCQR920r_W7OADA6tVtpl9Flvp3yESC2TAjCQlWZ6UUN5rIXqZgq-Oah-yCfUz9YRVRHzR9waiYhiQ3Dsq8SN8qc/s2900/APPLE-EVENT-SEP-2023-WALLPAPER-mod1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your favorite iPhone wallpapers of 2022">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/12/F1-HDR-iPhone-wallpaper.png' alt='Your favorite iPhone wallpapers of 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1639">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/12/F1-HDR-iPhone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Top 10 iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/12/iDownloadBlog-top-10-wallpapers-of-2023-mockup.png' alt='2023 Top 10 iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/12/iDownloadBlog-top-10-wallpapers-of-2023-mockup.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k iPhone 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12242675.jpg' alt='4k iPhone 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12242675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commander 2023 Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/ispazio-10.jpg' alt='Commander 2023 Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/ispazio-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Wallpapers of 2023 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/best-wallpapers-of-2023-v0-5maw5sjyde9c1.jpg?width=640&crop=smart&auto=webp&s=e162dbd8931162994bf0d9dca4583ca1a3f91c32' alt='Best Wallpapers of 2023 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/best-wallpapers-of-2023-v0-5maw5sjyde9c1.jpg?width=640&crop=smart&auto=webp&s=e162dbd8931162994bf0d9dca4583ca1a3f91c32' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your favorite iPhone wallpapers of 2022">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/12/Rainbow-shrooms-iPhone-wallpaper.png' alt='Your favorite iPhone wallpapers of 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/12/Rainbow-shrooms-iPhone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The BEST iPhone Wallpapers [2023]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dBb5-tROq_c/maxresdefault.jpg' alt='The BEST iPhone Wallpapers [2023]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dBb5-tROq_c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

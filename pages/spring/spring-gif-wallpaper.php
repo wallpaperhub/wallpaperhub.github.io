@@ -1,0 +1,129 @@
+<title>Vibrant Spring GIF Wallpapers for Your Device</title>
+                    <meta name="description" content="Spruce up your screens with our stunning collection of spring GIF wallpapers! Featuring colorful animations of flowers and nature, these lively designs bring the spirit of spring right to your device. Perfect for a fresh, seasonal look that inspires joy every day! Download now and enjoy the beauty of spring!">
+                    <meta name="keywords" content="spring gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/spring-gif-wallpaper">
+                            <span itemprop="name">spring gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Spring GIF Wallpapers for Your Device</h1>
+                <p>Transform your device this season with vibrant spring GIF wallpapers! Bursting with color and life, these animated designs feature blooming flowers, fluttering butterflies, and lush greenery, evoking the beauty of spring. Perfect for adding a touch of freshness and joy to your screens, our collection of spring GIF wallpapers will brighten your day every time you unlock your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fa/79/13/fa791319a9a83aa38c158f306d156f44.gif' alt='spring GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fa/79/13/fa791319a9a83aa38c158f306d156f44.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Landscape Blossoms Ai - Free GIF on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/animation/2023/02/15/10/12/10-12-39-589_512.gif' alt='Spring Landscape Blossoms Ai - Free GIF on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/animation/2023/02/15/10/12/10-12-39-589_512.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpaper - Beautiful Scenery Photography">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/91/6c/e7/916ce78c8b60a547a459404221986d91.gif' alt='Spring Wallpaper - Beautiful Scenery Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/91/6c/e7/916ce78c8b60a547a459404221986d91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Spring & Flower animated GIFs and Stickers - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/animation/2023/01/22/12/01/12-01-10-410_512.gif' alt='50+ Free Spring & Flower animated GIFs and Stickers - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/animation/2023/01/22/12/01/12-01-10-410_512.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring April GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/08/4d/13/084d130766dd801e4f72d90e57baf49c.gif' alt='Spring April GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/08/4d/13/084d130766dd801e4f72d90e57baf49c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Animated Background©Esme4eva2021, spring , sparkle , fond ...">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/stamp/normal/8/7/4/5/1875478_303ee.gif' alt='Spring Animated Background©Esme4eva2021, spring , sparkle , fond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/stamp/normal/8/7/4/5/1875478_303ee.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Springs GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/3c2.gif' alt='Springs GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/3c2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring pixel gif, webcore , background , cherry , blossom , sakura ...">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/stamp/normal/8/5/6/9/2339658_61cb9.gif' alt='spring pixel gif, webcore , background , cherry , blossom , sakura ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/stamp/normal/8/5/6/9/2339658_61cb9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring GIFs: Add Some Attention-Grabbing Fun to Your Emails | AWeber">
+                                <img itemprop="contentUrl url" src='https://blog.aweber.com/wp-content/uploads/2023/03/2023-spring-gifs_blog-feature.gif' alt='Spring GIFs: Add Some Attention-Grabbing Fun to Your Emails | AWeber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AWeber blog" />
+                                </span>
+                                <a href='https://blog.aweber.com/wp-content/uploads/2023/03/2023-spring-gifs_blog-feature.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temperate Seasons Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/04/icegif-1668.gif' alt='Temperate Seasons Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/04/icegif-1668.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

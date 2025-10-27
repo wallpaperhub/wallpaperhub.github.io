@@ -1,0 +1,129 @@
+<title>Stunning Dream SMP Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover a vibrant collection of Dream SMP wallpapers perfect for any fan. Our selection features iconic characters and thrilling moments, ensuring your screens reflect your passion for the hit Minecraft server. Browse, download, and personalize your devices today!">
+                    <meta name="keywords" content="dream smp wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dream-smp-wallpaper">
+                            <span itemprop="name">dream smp wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dream SMP Wallpapers for Every Fan</h1>
+                <p>Transform your screens with stunning Dream SMP wallpapers that capture the essence of your favorite characters and moments from the popular Minecraft server. Whether you prefer epic battles or cozy builds, our collection has something for every fan. Download your favorites today and elevate your digital experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dream Smp Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dream-smp-5w8t48cufykky5ax.jpg' alt='200+] Dream Smp Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dream-smp-5w8t48cufykky5ax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream smp wallpapers! | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/4b8480d9-3f33-4512-8f66-ff093752cff3' alt='Dream smp wallpapers! | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dream Team Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/4b8480d9-3f33-4512-8f66-ff093752cff3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Dream Smp Minecraft Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/full-dream-smp-minecraft-i5vosc4oebfmb7z7.jpg' alt='Full Dream Smp Minecraft Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/full-dream-smp-minecraft-i5vosc4oebfmb7z7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Dream SMP 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/120/1208404.png' alt='Download Video Game Dream SMP 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/120/1208404.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream SMP war, dream, smp, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/395/111/HD-wallpaper-dream-smp-war-dream-smp.jpg' alt='Dream SMP war, dream, smp, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/395/111/HD-wallpaper-dream-smp-war-dream-smp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Smp Dream Chess Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dream-smp-dream-chess-npzm8f7jv5quqtz0.jpg' alt='Dream Smp Dream Chess Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dream-smp-dream-chess-npzm8f7jv5quqtz0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I had this wallpaper for about 1-2 months and I HAVE STILL NO IDEA ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5lfhr61ckk371.jpg?width=1080&crop=smart&auto=webp&s=2a3ae83bdd245515c63c1552ef458fee8d8de016' alt='I had this wallpaper for about 1-2 months and I HAVE STILL NO IDEA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5lfhr61ckk371.jpg?width=1080&crop=smart&auto=webp&s=2a3ae83bdd245515c63c1552ef458fee8d8de016' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Dream SMP 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/120/1208403.jpg' alt='Download Video Game Dream SMP 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/120/1208403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream smp wallpaper wallpaper by https_lxs3r - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=XSn7SOSMLaJB0IOhGX-uRObv6E_zDrJmQk9GWNhwBv6cfnf51fqGDpQE92yo6OO8kL-6Cag6SuIfopviKpIHSj_7sCtTQh4sbGfn-TjnosxmqtzvXSOqTQo7iOyKrpf0A7MARiHhsiewny2qU3QAiTgDFxpTYEt1PiFgVJgSeNrMtu4slCSNAiiKYyne9oxEXHxOpYar1If4Izxb7SA3nF_G8QUddG4CN1TEEQ' alt='Dream smp wallpaper wallpaper by https_lxs3r - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=XSn7SOSMLaJB0IOhGX-uRObv6E_zDrJmQk9GWNhwBv6cfnf51fqGDpQE92yo6OO8kL-6Cag6SuIfopviKpIHSj_7sCtTQh4sbGfn-TjnosxmqtzvXSOqTQo7iOyKrpf0A7MARiHhsiewny2qU3QAiTgDFxpTYEt1PiFgVJgSeNrMtu4slCSNAiiKYyne9oxEXHxOpYar1If4Izxb7SA3nF_G8QUddG4CN1TEEQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new wallpaper : r/dreamsmp">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i2p7d4n5e6n61.jpg?auto=webp&s=a015bdc18b299553d27c8ba13184291250c09ac7' alt='My new wallpaper : r/dreamsmp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i2p7d4n5e6n61.jpg?auto=webp&s=a015bdc18b299553d27c8ba13184291250c09ac7' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

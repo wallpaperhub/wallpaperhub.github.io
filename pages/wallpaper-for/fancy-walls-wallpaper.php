@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Fancy Walls Wallpaper</title>
+                    <meta name="description" content="Discover the art of interior elegance with our fancy walls wallpaper. Explore a range of stunning designs that add personality and charm to any room. Perfect for renters and homeowners alike, our easy-to-apply wallpaper provides a quick, stylish update to your decor. Redefine your walls today!">
+                    <meta name="keywords" content="fancy walls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/fancy-walls-wallpaper">
+                            <span itemprop="name">fancy walls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Fancy Walls Wallpaper</h1>
+                <p>Transform your space with fancy walls wallpaper, featuring luxurious designs and vibrant colors. From intricate patterns to modern graphics, our collection elevates any room's aesthetic. Easy to apply and remove, it's perfect for renters and DIY enthusiasts. Revitalize your home with stunning wallpaper that reflects your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/dark-green-art-deco-peel-and-stick-wallpaper-fancywalls-1024x683.jpg' alt='Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fancywalls.eu" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/dark-green-art-deco-peel-and-stick-wallpaper-fancywalls-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HeartSplash">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/heartsplash-peel-and-stick-wallpaper-fancy-walls-scaled.jpg' alt='HeartSplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/heartsplash-peel-and-stick-wallpaper-fancy-walls-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/shop-by-pattern-pink-leopard-wallpaper-fancywalls-non-pasted-540x540.jpg' alt='Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fancywalls.eu" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/shop-by-pattern-pink-leopard-wallpaper-fancywalls-non-pasted-540x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/groovy-continuous-semi-circles-removable-wallpaper-in-scandinavian-style-living-room-2-540x540.jpg' alt='Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fancywalls.eu" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/groovy-continuous-semi-circles-removable-wallpaper-in-scandinavian-style-living-room-2-540x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel and Stick Wallpaper for Any Room">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/shop-by-style-dark-teal-art-deco-aesthetic-fancywalls-peel-and-stick-540x540.jpg' alt='Removable Peel and Stick Wallpaper for Any Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/shop-by-style-dark-teal-art-deco-aesthetic-fancywalls-peel-and-stick-540x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mystic Powder Room">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-mystic-swirl-self-adhesive-wallpaper.jpg' alt='Mystic Powder Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-mystic-swirl-self-adhesive-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel and Stick Wallpaper for Any Room">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-fun-non-pasted-wallpaper-1.jpg-1-683x1024.jpg' alt='Removable Peel and Stick Wallpaper for Any Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-fun-non-pasted-wallpaper-1.jpg-1-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/shop-by-room-bright-blue-paisley-wallpaper-fancywalls-non-pasted-aesthetic-1-540x540.jpg' alt='Fancy Walls Wallpaper & Wall Murals - Peel & Stick or Non-Pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fancywalls.eu" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/shop-by-room-bright-blue-paisley-wallpaper-fancywalls-non-pasted-aesthetic-1-540x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Fancy seamless vector floral wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/64/43/22/95/700_FO64432295_43dfb720b80eace7cdee707f3d2d045f.jpg,590,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,370,650,jpg)/wall-murals-fancy-seamless-vector-floral-wallpaper.jpg.jpg' alt='Wall Mural Fancy seamless vector floral wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/64/43/22/95/700_FO64432295_43dfb720b80eace7cdee707f3d2d045f.jpg,590,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,370,650,jpg)/wall-murals-fancy-seamless-vector-floral-wallpaper.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich Green Geometric Elegance">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/art-deco-green-self-adhesive-wallpaper.jpg-scaled.jpg' alt='Rich Green Geometric Elegance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/art-deco-green-self-adhesive-wallpaper.jpg-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

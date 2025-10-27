@@ -1,0 +1,129 @@
+<title>Stunning Blade Runner 2049 Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an array of stunning Blade Runner 2049 phone wallpapers. Elevate your device's look with beautiful designs inspired by the film's iconic visuals and ethereal landscapes. Perfect for fans wanting to showcase their love for this sci-fi classic. Download yours today!">
+                    <meta name="keywords" content="blade runner 2049 phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/blade-runner-2049-phone-wallpaper">
+                            <span itemprop="name">blade runner 2049 phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blade Runner 2049 Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Blade Runner 2049 phone wallpapers! Immerse yourself in the captivating visuals of this sci-fi masterpiece. Each wallpaper celebrates the film's unique aesthetic, featuring vibrant colors, iconic characters, and dystopian landscapes that will keep you inspired every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="their not good but here's a couple phone wallpapers I made of 2049 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/their-not-good-but-heres-a-couple-phone-wallpapers-i-made-v0-fdz8ww3mom0a1.jpg?width=1065&format=pjpg&auto=webp&s=aad5662e2dcefac5969f6cdb32b92ebeadc0c6dd' alt='their not good but here's a couple phone wallpapers I made of 2049 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/their-not-good-but-heres-a-couple-phone-wallpapers-i-made-v0-fdz8ww3mom0a1.jpg?width=1065&format=pjpg&auto=webp&s=aad5662e2dcefac5969f6cdb32b92ebeadc0c6dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 Phone Wallpaper (x-post r/outrun) : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r8st4sulel8z.jpg' alt='Blade Runner 2049 Phone Wallpaper (x-post r/outrun) : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r8st4sulel8z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="their not good but here's a couple phone wallpapers I made of 2049 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/their-not-good-but-heres-a-couple-phone-wallpapers-i-made-v0-gzpu4u3mom0a1.jpg?width=3000&format=pjpg&auto=webp&s=cbade53649e153104e0c5d2e7ef0a026eda6ff2f' alt='their not good but here's a couple phone wallpapers I made of 2049 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/their-not-good-but-heres-a-couple-phone-wallpapers-i-made-v0-gzpu4u3mom0a1.jpg?width=3000&format=pjpg&auto=webp&s=cbade53649e153104e0c5d2e7ef0a026eda6ff2f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 IPhone Wallpaper: Futuristic Vibes For Your Device">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/8e/85/2d8e852b1fff2c660870b9f5372c1d81.jpg' alt='Blade Runner 2049 IPhone Wallpaper: Futuristic Vibes For Your Device'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/8e/85/2d8e852b1fff2c660870b9f5372c1d81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 phone wallpaper [1125x2436] - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNdu8uVsgfRs-tuHDyhFH0AAm6v-HiFqpIzv-iZUHB22H8WOfxO6FOyVJ8ajPOsOu87JJjy_7JbrGEKdga5mOQE5o8sA34dznhmf7zgnT7QaVJsukSn5nslmHNyZedKdGZrz2_N3k1NSxZ/w1600/AMOLED-CYBERPUNK-IPHONE-WALLPAPER-HEROSCREEN.png' alt='Blade Runner 2049 phone wallpaper [1125x2436] - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNdu8uVsgfRs-tuHDyhFH0AAm6v-HiFqpIzv-iZUHB22H8WOfxO6FOyVJ8ajPOsOu87JJjy_7JbrGEKdga5mOQE5o8sA34dznhmf7zgnT7QaVJsukSn5nslmHNyZedKdGZrz2_N3k1NSxZ/w1600/AMOLED-CYBERPUNK-IPHONE-WALLPAPER-HEROSCREEN.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 wallpaper I made on my phone. Thought you guys ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ffkb4k6208qz.jpg?width=640&crop=smart&auto=webp&s=387b03308c3677910952d49c0616955bc3fa9795' alt='Blade Runner 2049 wallpaper I made on my phone. Thought you guys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ffkb4k6208qz.jpg?width=640&crop=smart&auto=webp&s=387b03308c3677910952d49c0616955bc3fa9795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blade runner 2049 love story 4k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/c4/02/45c402f0b7899917ad9861c7b8f8c8ab.jpg' alt='blade runner 2049 love story 4k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/c4/02/45c402f0b7899917ad9861c7b8f8c8ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade runner 2049, alone, romantic, men, sad, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/314/697/HD-wallpaper-blade-runner-2049-alone-romantic-men-sad.jpg' alt='Blade runner 2049, alone, romantic, men, sad, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/314/697/HD-wallpaper-blade-runner-2049-alone-romantic-men-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A dope 2049 iPhone wallpaper : r/bladerunner">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l01gne5jhvp41.jpg' alt='A dope 2049 iPhone wallpaper : r/bladerunner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l01gne5jhvp41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade runner, 2049, blade runner 2049, furious, guerra, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1003/178/HD-wallpaper-blade-runner-2049-blade-runner-2049-furious-war.jpg' alt='Blade runner, 2049, blade runner 2049, furious, guerra, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1003/178/HD-wallpaper-blade-runner-2049-blade-runner-2049-furious-war.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

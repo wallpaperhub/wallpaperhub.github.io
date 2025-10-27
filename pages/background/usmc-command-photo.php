@@ -1,0 +1,129 @@
+<title>USMC Command Photos: Leadership in Action</title>
+                    <meta name="description" content="Explore striking USMC command photos that showcase Marine Corps leadership and camaraderie. Discover the dedication and teamwork that define the Marines, captured in powerful images of commanding officers in action. Perfect for military enthusiasts and those interested in military history.">
+                    <meta name="keywords" content="usmc command photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usmc-command-photo">
+                            <span itemprop="name">usmc command photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>USMC Command Photos: Leadership in Action</h1>
+                <p>USMC command photos capture the essence of leadership and camaraderie within the United States Marine Corps. These images depict commanding officers in action, emphasizing the commitment, discipline, and valor that the Corps embodies. Each photo serves as a testament to the unwavering dedication of Marines, reflecting their mission and teamwork.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Command Board Photo">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2023/Feb/09/2003159482/-1/-1/0/230209-M-CX588-010.JPG' alt='Command Board Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marine Corps Base Camp Pendleton" />
+                                </span>
+                                <a href='https://media.defense.gov/2023/Feb/09/2003159482/-1/-1/0/230209-M-CX588-010.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DVIDS - Images - USMC Command Board Photos [Image 31 of 33]">
+                                <img itemprop="contentUrl url" src='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1503/1825820/1000w_q95.jpg' alt='DVIDS - Images - USMC Command Board Photos [Image 31 of 33]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVIDS" />
+                                </span>
+                                <a href='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1503/1825820/1000w_q95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Command Photo">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2020/Jun/18/2002318043/-1/-1/0/200618-M-ZZ999-0001.JPG' alt='Command Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Marine Expeditionary Force" />
+                                </span>
+                                <a href='https://media.defense.gov/2020/Jun/18/2002318043/-1/-1/0/200618-M-ZZ999-0001.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DVIDS - Images - USMC Command Board Photos [Image 2 of 5]">
+                                <img itemprop="contentUrl url" src='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1502/1754785/1000w_q95.jpg' alt='DVIDS - Images - USMC Command Board Photos [Image 2 of 5]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVIDS" />
+                                </span>
+                                <a href='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1502/1754785/1000w_q95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see those command photos : r/USMC">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-those-command-photos-v0-znpxkpjjchbc1.jpeg?width=1170&format=pjpg&auto=webp&s=1689a3a9273ae9d5cdb7abadf88e60743523b5b4' alt='Let's see those command photos : r/USMC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-those-command-photos-v0-znpxkpjjchbc1.jpeg?width=1170&format=pjpg&auto=webp&s=1689a3a9273ae9d5cdb7abadf88e60743523b5b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Marine Corps (USMC) Colonel (COL) Stephen Pomeroy (foreground ...">
+                                <img itemprop="contentUrl url" src='https://cache.getarchive.net/Prod/thumb/cdn10/L3Bob3RvLzIwMDQvMDcvMjMvdXMtbWFyaW5lLWNvcnBzLXVzbWMtY29sb25lbC1jb2wtc3RlcGhlbi1wb21lcm95LWZvcmVncm91bmQtcHJlcGFyZXMtdG8tcmVsaW5xdWlzaC02ZTJmYzItMTAyNC5qcGc%3D/320/487/jpg' alt='US Marine Corps (USMC) Colonel (COL) Stephen Pomeroy (foreground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NARA & DVIDS Public Domain Archive - GetArchive" />
+                                </span>
+                                <a href='https://cache.getarchive.net/Prod/thumb/cdn10/L3Bob3RvLzIwMDQvMDcvMjMvdXMtbWFyaW5lLWNvcnBzLXVzbWMtY29sb25lbC1jb2wtc3RlcGhlbi1wb21lcm95LWZvcmVncm91bmQtcHJlcGFyZXMtdG8tcmVsaW5xdWlzaC02ZTJmYzItMTAyNC5qcGc%3D/320/487/jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37th CMC Official Photo">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2015/Sep/29/2001295374/-1/-1/0/150929-M-ZZ999-001.JPG' alt='37th CMC Official Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Department of Defense" />
+                                </span>
+                                <a href='https://media.defense.gov/2015/Sep/29/2001295374/-1/-1/0/150929-M-ZZ999-001.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Command Photo">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2015/Sep/30/2001295707/-1/-1/0/150930-M-ZF592-001.JPG' alt='Command Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marines.mil" />
+                                </span>
+                                <a href='https://media.defense.gov/2015/Sep/30/2001295707/-1/-1/0/150930-M-ZF592-001.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A command board photograph of U.S. Marine Corps Col. - PICRYL ...">
+                                <img itemprop="contentUrl url" src='https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMTUvMDEvMzAvYS1jb21tYW5kLWJvYXJkLXBob3RvZ3JhcGgtb2YtdXMtbWFyaW5lLWNvcnBzLWNvbC05ZjA5ZDctMTAyNC5qcGc%3D/320/400/jpg' alt='A command board photograph of U.S. Marine Corps Col. - PICRYL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PICRYL" />
+                                </span>
+                                <a href='https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMTUvMDEvMzAvYS1jb21tYW5kLWJvYXJkLXBob3RvZ3JhcGgtb2YtdXMtbWFyaW5lLWNvcnBzLWNvbC05ZjA5ZDctMTAyNC5qcGc%3D/320/400/jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see those command photos : r/USMC">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-those-command-photos-v0-s1nrisjcchbc1.jpeg?width=750&format=pjpg&auto=webp&s=4e741bd1577e1612b8d52a3e7ae95aa31fcb9c2b' alt='Let's see those command photos : r/USMC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-those-command-photos-v0-s1nrisjcchbc1.jpeg?width=750&format=pjpg&auto=webp&s=4e741bd1577e1612b8d52a3e7ae95aa31fcb9c2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

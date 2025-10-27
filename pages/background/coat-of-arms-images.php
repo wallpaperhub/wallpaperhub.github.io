@@ -1,0 +1,129 @@
+<title>Explore Stunning Coat of Arms Imagery</title>
+                    <meta name="description" content="Discover the captivating world of coat of arms images—unique symbols of heritage and pride. Perfect for family history enthusiasts and art lovers alike, explore designs that tell rich stories of ancestry and culture. Uncover your roots today!">
+                    <meta name="keywords" content="coat of arms images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coat-of-arms-images">
+                            <span itemprop="name">coat of arms images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Coat of Arms Imagery</h1>
+                <p>Coat of arms images represent family heritage, history, and values. These symbols often include shields, emblems, and animals, showcasing unique designs passed down through generations. Perfect for genealogical research, art projects, or personal connections, coat of arms images are rich in storytelling and cultural significance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of arms | Definition, History, Symbols, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/01/1201-050-41522EB1/components-part-arms-cipher-England-bearings-Royal-1837.jpg' alt='Coat of arms | Definition, History, Symbols, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/01/1201-050-41522EB1/components-part-arms-cipher-England-bearings-Royal-1837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of arms | Definition, History, Symbols, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/00/1200-004-09BFBF91/Ordinaries-tincture-variety-tinctures-combination-ermines-furs.jpg' alt='Coat of arms | Definition, History, Symbols, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/00/1200-004-09BFBF91/Ordinaries-tincture-variety-tinctures-combination-ermines-furs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fleur-de-lis Designs: Parts of a Coat of Arms">
+                                <img itemprop="contentUrl url" src='https://www.fleurdelis.com/images/hardouin1.png' alt='Fleur-de-lis Designs: Parts of a Coat of Arms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fleur-de-lis Designs" />
+                                </span>
+                                <a href='https://www.fleurdelis.com/images/hardouin1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of Arms Meaning And Symbols Explained">
+                                <img itemprop="contentUrl url" src='https://images.elearncollege.com/wp-content/uploads/2024/04/lion_with_crown_heraldry-600x600.webp' alt='Coat of Arms Meaning And Symbols Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elearn College" />
+                                </span>
+                                <a href='https://images.elearncollege.com/wp-content/uploads/2024/04/lion_with_crown_heraldry-600x600.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Heraldry Color Meanings and 15 Coat of Arms Symbols | Color ...">
+                                <img itemprop="contentUrl url" src='https://www.color-meanings.com/wp-content/uploads/heraldic-shield-crown-wings.jpeg' alt='12 Heraldry Color Meanings and 15 Coat of Arms Symbols | Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Meanings" />
+                                </span>
+                                <a href='https://www.color-meanings.com/wp-content/uploads/heraldic-shield-crown-wings.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of arms - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coat_of_arms_of_Ioannes_Paulus_II.svg/200px-Coat_of_arms_of_Ioannes_Paulus_II.svg.png' alt='Coat of arms - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coat_of_arms_of_Ioannes_Paulus_II.svg/200px-Coat_of_arms_of_Ioannes_Paulus_II.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Coat of Arms or Family Crest | My Lineage">
+                                <img itemprop="contentUrl url" src='https://www.mylineage.com/wp-content/uploads/2024/10/coa-6.jpg' alt='What is a Coat of Arms or Family Crest | My Lineage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Lineage" />
+                                </span>
+                                <a href='https://www.mylineage.com/wp-content/uploads/2024/10/coa-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of Arms Symbols and Meanings: A Guide to Heraldic Meanings ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0352/6570/8077/files/ARMS_OF_CHARLES_H.ATHILL_ESQ._F.S.A._RICHMOND_HERALD_showing_collar_of_SS._1.jpg?v=1711054386' alt='Coat of Arms Symbols and Meanings: A Guide to Heraldic Meanings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celtic Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0352/6570/8077/files/ARMS_OF_CHARLES_H.ATHILL_ESQ._F.S.A._RICHMOND_HERALD_showing_collar_of_SS._1.jpg?v=1711054386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Coat of Arms? | Wonderopolis">
+                                <img itemprop="contentUrl url" src='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2016/05/thumb_280_186_Coat_Of_Arms_Featured_xl_61022161_(Custom)_1.jpg' alt='What Is a Coat of Arms? | Wonderopolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wonderopolis" />
+                                </span>
+                                <a href='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2016/05/thumb_280_186_Coat_Of_Arms_Featured_xl_61022161_(Custom)_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coat of arms - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Liptov_coatofarms.jpg/200px-Liptov_coatofarms.jpg' alt='Coat of arms - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Liptov_coatofarms.jpg/200px-Liptov_coatofarms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

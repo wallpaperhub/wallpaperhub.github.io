@@ -1,0 +1,129 @@
+<title>Colorful Confetti Background: Add Festive Flair!</title>
+                    <meta name="description" content="Elevate your designs with a colorful confetti background! Perfect for events and celebrations, this vibrant backdrop enhances your digital creations, making them more engaging and joyful. Ideal for social media, invitations, and marketing materials—stand out with colorful confetti today!">
+                    <meta name="keywords" content="colorful confetti background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-confetti-background">
+                            <span itemprop="name">colorful confetti background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Confetti Background: Add Festive Flair!</h1>
+                <p>Bright and vibrant, a colorful confetti background adds a festive flair to any design. Perfect for parties, celebrations, or digital invitations, it captivates the eye with splashes of color that evoke joy and excitement. Whether used for social media posts or websites, this playful backdrop enhances any creative project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="132,500+ Colorful Confetti Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1312429048/photo/close-up-of-confetti.jpg?s=612x612&w=0&k=20&c=UcZVZeg8troPei3COcHOvDnXpMHYiEobBgq45SDZB5M=' alt='132,500+ Colorful Confetti Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1312429048/photo/close-up-of-confetti.jpg?s=612x612&w=0&k=20&c=UcZVZeg8troPei3COcHOvDnXpMHYiEobBgq45SDZB5M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Colorful confetti background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-confetti-background_23-2147509763.jpg' alt='Free Vector | Colorful confetti background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-confetti-background_23-2147509763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Confetti Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/038/331/non_2x/ai-generated-colorful-confetti-on-bokeh-background-photo.jpg' alt='Colorful Confetti Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/038/331/non_2x/ai-generated-colorful-confetti-on-bokeh-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Abstract Colorful Confetti Background Stylized Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/747910462/display_1500/stock-vector-universal-abstract-colorful-confetti-background-stylized-rainbow-confetti-texture-747910462.jpg' alt='Universal Abstract Colorful Confetti Background Stylized Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/747910462/display_1500/stock-vector-universal-abstract-colorful-confetti-background-stylized-rainbow-confetti-texture-747910462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Colorful confetti on pink background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/colorful-confetti-pink-background_47570-19.jpg' alt='Premium Vector | Colorful confetti on pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/colorful-confetti-pink-background_47570-19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Of Colorful Confetti. Birthday Party Concept Stock ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/dmitryzimin/dmitryzimin1802/dmitryzimin180200018/96051764-background-of-colorful-confetti-birthday-party-concept.jpg' alt='Background Of Colorful Confetti. Birthday Party Concept Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/dmitryzimin/dmitryzimin1802/dmitryzimin180200018/96051764-background-of-colorful-confetti-birthday-party-concept.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Confetti Colorful Background Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/257904/raw/9068c7323e760dc0c3e44fb20d89f1f2-party-confetti-colorful-background-design.jpg' alt='Party Confetti Colorful Background Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/257904/raw/9068c7323e760dc0c3e44fb20d89f1f2-party-confetti-colorful-background-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colourful confetti background 209727 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/209/727/non_2x/colourful-confetti-background-vector.jpg' alt='Colourful confetti background 209727 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/209/727/non_2x/colourful-confetti-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Confetti Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1683121447942-a62eb0aef48e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29uZmV0dGl8ZW58MHx8MHx8fDA%3D' alt='Best 500+ Confetti Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1683121447942-a62eb0aef48e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29uZmV0dGl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti Background Birthday Stock Illustrations – 233,925 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-confetti-isolated-transparent-square-background-christmas-birthday-anniversary-party-concept-confetti-explosion-72463355.jpg' alt='Confetti Background Birthday Stock Illustrations – 233,925 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-confetti-isolated-transparent-square-background-christmas-birthday-anniversary-party-concept-confetti-explosion-72463355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

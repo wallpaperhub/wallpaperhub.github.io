@@ -1,0 +1,129 @@
+<title>Background Checks for Guns in North Carolina: What You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of background checks for gun purchases in North Carolina. Learn how the NICS process works to ensure responsible gun ownership in the state. Stay informed and safe with our concise guide to firearms regulations.">
+                    <meta name="keywords" content="is there a background check on gins on north carolina">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-there-a-background-check-on-gins-on-north-carolina">
+                            <span itemprop="name">is there a background check on gins on north carolina</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Checks for Guns in North Carolina: What You Need to Know</h1>
+                <p>In North Carolina, background checks for gun purchases are mandated. This process is conducted through the National Instant Criminal Background Check System (NICS) to ensure that buyers do not have criminal records or a history of mental illness. It's a critical measure to promote responsible firearm ownership.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does it take to buy a gun in North Carolina?">
+                                <img itemprop="contentUrl url" src='https://wlos.com/resources/media2/16x9/full/1015/center/80/be87b348-507a-48a5-813c-6701e13c3cb9-large16x9_2Guns_final.mp4frame5706.png' alt='What does it take to buy a gun in North Carolina?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WLOS" />
+                                </span>
+                                <a href='https://wlos.com/resources/media2/16x9/full/1015/center/80/be87b348-507a-48a5-813c-6701e13c3cb9-large16x9_2Guns_final.mp4frame5706.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which States Require a Background Check? | USCCA">
+                                <img itemprop="contentUrl url" src='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' alt='Which States Require a Background Check? | USCCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uscca" />
+                                </span>
+                                <a href='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NC firearm background checks jump 19% from 2022 to 2023 ...">
+                                <img itemprop="contentUrl url" src='https://www.charlotteobserver.com/latest-news/yco5bs/picture248648800/alternates/LANDSCAPE_1140/CLT_gunpermits_303.JPG' alt='NC firearm background checks jump 19% from 2022 to 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charlotte Observer" />
+                                </span>
+                                <a href='https://www.charlotteobserver.com/latest-news/yco5bs/picture248648800/alternates/LANDSCAPE_1140/CLT_gunpermits_303.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 months after NC pistol permit repeal, firearm background checks ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/13348230_gunsalesupimg.png' alt='2 months after NC pistol permit repeal, firearm background checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC11" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/13348230_gunsalesupimg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firearm Background Checks - RocketFFL">
+                                <img itemprop="contentUrl url" src='https://rocketffl.com/wp-content/uploads/2021/03/Firearm-Background-Checks.jpg' alt='Firearm Background Checks - RocketFFL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="697">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocket FFL" />
+                                </span>
+                                <a href='https://rocketffl.com/wp-content/uploads/2021/03/Firearm-Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Gun Background Checks">
+                                <img itemprop="contentUrl url" src='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' alt='The History of Gun Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEE.org" />
+                                </span>
+                                <a href='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Carolina Background Checks Online - GovernmentRegistry">
+                                <img itemprop="contentUrl url" src='https://www.governmentregistry.org/img/maps_names/nc.png' alt='North Carolina Background Checks Online - GovernmentRegistry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Government Registry" />
+                                </span>
+                                <a href='https://www.governmentregistry.org/img/maps_names/nc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Madness Fuels Record Q1 For Firearm Background Checks In The ...">
+                                <img itemprop="contentUrl url" src='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map-1200x901.png' alt='March Madness Fuels Record Q1 For Firearm Background Checks In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biometrica Systems" />
+                                </span>
+                                <a href='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map-1200x901.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NRA-ILA | Background Checks | NICS">
+                                <img itemprop="contentUrl url" src='https://www.nraila.org/media/1619/criminal-background-checks.jpg?preset=article' alt='NRA-ILA | Background Checks | NICS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NRA-ILA" />
+                                </span>
+                                <a href='https://www.nraila.org/media/1619/criminal-background-checks.jpg?preset=article' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NICS Exemption: Skip A Background Check When Buying a Gun #guns #atf #rules">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aqFYDO3Jjas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCtGn4P7hrUs1O5wcdfodbZ2bH_zg' alt='NICS Exemption: Skip A Background Check When Buying a Gun #guns #atf #rules'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aqFYDO3Jjas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCtGn4P7hrUs1O5wcdfodbZ2bH_zg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

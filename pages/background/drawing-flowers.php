@@ -1,0 +1,129 @@
+<title>Mastering Flower Drawing: Tips and Techniques</title>
+                    <meta name="description" content="Discover the art of drawing flowers with our simple guide! Learn essential tips and techniques to create beautiful floral illustrations, perfect for all skill levels. Unleash your creativity and bring the beauty of nature to life through your drawings. Start your artistic journey today!">
+                    <meta name="keywords" content="drawing flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/drawing-flowers">
+                            <span itemprop="name">drawing flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Flower Drawing: Tips and Techniques</h1>
+                <p>Drawing flowers allows artists to explore natural beauty and enhance their creativity. With various techniques, from pencil sketches to vibrant watercolors, artists can capture the delicate details of petals and leaves. Whether you’re a beginner or advanced, drawing flowers is a rewarding experience that fosters both skill and appreciation for nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw flowers easy step by step with pencil || Flower drawing tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nBcNq8a1xTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCYMK6cwimGaJRKNzSUTpxaP5yTKQ' alt='How to draw flowers easy step by step with pencil || Flower drawing tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nBcNq8a1xTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCYMK6cwimGaJRKNzSUTpxaP5yTKQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Drawing: Draw an easy flower step-by-step tutorial - Feature">
+                                <img itemprop="contentUrl url" src='https://www.howjoyful.com/wp-content/uploads/2020/12/drawing-cosmo-flowers-1.jpeg.webp' alt='Flower Drawing: Draw an easy flower step-by-step tutorial - Feature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HowJoyful" />
+                                </span>
+                                <a href='https://www.howjoyful.com/wp-content/uploads/2020/12/drawing-cosmo-flowers-1.jpeg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Flower Drawing {5 Easy Steps}! - The Graphics Fairy">
+                                <img itemprop="contentUrl url" src='https://thegraphicsfairy.com/wp-content/uploads/2023/01/Flower-Drawing-Lesson-Color-GraphicsFairy.jpeg' alt='How to Make a Flower Drawing {5 Easy Steps}! - The Graphics Fairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Graphics Fairy" />
+                                </span>
+                                <a href='https://thegraphicsfairy.com/wp-content/uploads/2023/01/Flower-Drawing-Lesson-Color-GraphicsFairy.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Simple Flowers Step by Step For Beginner Drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/n9FFfX9U-cY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLArwHd-EjGg-WIeI-tR7q3E4eTPhQ' alt='How To Draw Simple Flowers Step by Step For Beginner Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/n9FFfX9U-cY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLArwHd-EjGg-WIeI-tR7q3E4eTPhQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540760553004-K8W1RRW6VLMH2JPAUY5R/Flower+drawings+of+cosmos+flowers+by+Katrina+of+Blushed+Design.++This+blog+post+reveals+a+collection+of+botanical+illustrations+and+flower+drawings+from+the+annual+inktober+challenge.+%23inktober+%23flowerdrawings+%23botnaicalillustrations+%23blushedbotanicals+www.blusheddesign.com' alt='Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katrina Crouch Art" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540760553004-K8W1RRW6VLMH2JPAUY5R/Flower+drawings+of+cosmos+flowers+by+Katrina+of+Blushed+Design.++This+blog+post+reveals+a+collection+of+botanical+illustrations+and+flower+drawings+from+the+annual+inktober+challenge.+%23inktober+%23flowerdrawings+%23botnaicalillustrations+%23blushedbotanicals+www.blusheddesign.com' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Flower: Step by Step In 10 Minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l5kBJo7aKVM/maxresdefault.jpg' alt='How To Draw A Flower: Step by Step In 10 Minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l5kBJo7aKVM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Easy Flower Drawing Ideas • Mina Drawing">
+                                <img itemprop="contentUrl url" src='https://minadrawing.com/wp-content/uploads/2024/02/easy-flower-drawing-ideas-cover.jpg' alt='15 Easy Flower Drawing Ideas • Mina Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mina Drawing" />
+                                </span>
+                                <a href='https://minadrawing.com/wp-content/uploads/2024/02/easy-flower-drawing-ideas-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Single Flower Drawing Images – Browse 504,498 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/72/68/74/360_F_572687498_PooHSUlOfzlyPCYgt4ddW5pOnklS94iD.jpg' alt='Single Flower Drawing Images – Browse 504,498 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/72/68/74/360_F_572687498_PooHSUlOfzlyPCYgt4ddW5pOnklS94iD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw 5 Cute Flower Doodles Easy & Fast - Drawism Studio">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/drawism.com/wp-content/uploads/2024/02/Tulip-Pen-Doodle-Easy.jpg?resize=640%2C750&ssl=1' alt='How to Draw 5 Cute Flower Doodles Easy & Fast - Drawism Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drawism" />
+                                </span>
+                                <a href='https://i0.wp.com/drawism.com/wp-content/uploads/2024/02/Tulip-Pen-Doodle-Easy.jpg?resize=640%2C750&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Flower: A Beginner's Guide - Full Bloom Club">
+                                <img itemprop="contentUrl url" src='https://fullbloomclub.net/wp-content/uploads/2023/06/Step_2_how_to_draw_flower.png' alt='How to Draw a Flower: A Beginner's Guide - Full Bloom Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Full Bloom Club" />
+                                </span>
+                                <a href='https://fullbloomclub.net/wp-content/uploads/2023/06/Step_2_how_to_draw_flower.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

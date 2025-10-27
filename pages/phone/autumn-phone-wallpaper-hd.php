@@ -1,0 +1,129 @@
+<title>Stunning HD Autumn Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover our collection of HD autumn phone wallpapers that bring the beauty of fall to your screen. Featuring vibrant colors and stunning designs, these wallpapers are perfect for anyone looking to celebrate the season. Download now and give your phone a refreshing seasonal look!">
+                    <meta name="keywords" content="autumn phone wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/autumn-phone-wallpaper-hd">
+                            <span itemprop="name">autumn phone wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD Autumn Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning autumn phone wallpapers in HD! Explore vibrant hues of orange, gold, and red leaves that capture the essence of fall. Whether you love cozy landscapes or artistic designs, our collection has something for everyone. Refresh your screen this season and embrace the beauty of autumn!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Autumn Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/maple-leaves-in-autumn-phone-updlmw6zht0sjohn.jpg' alt='100+] Autumn Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/maple-leaves-in-autumn-phone-updlmw6zht0sjohn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Best Autumn phone wallpaper ideas | autumn phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/d8/d2/19/d8d219f7a9320cd9cd8a172630a07a6a.jpg' alt='47 Best Autumn phone wallpaper ideas | autumn phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/d8/d2/19/d8d219f7a9320cd9cd8a172630a07a6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="31 Fall Phone Wallpapers Pretty And Cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/e9/44/7ce9443b7d5241989ed0174d17ab973b.jpg' alt='31 Fall Phone Wallpapers Pretty And Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/e9/44/7ce9443b7d5241989ed0174d17ab973b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/f/3/158133-1440x2560-phone-hd-autumn-background-photo.jpg' alt='Autumn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/f/3/158133-1440x2560-phone-hd-autumn-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1008335.jpg' alt='Fall phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1008335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Autumn" wallpapers for mobile phone, free "Autumn" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/02/029a97c5d8d64eebf9f3a7cdb9f8e5f2.jpeg' alt='Download "Autumn" wallpapers for mobile phone, free "Autumn" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/02/029a97c5d8d64eebf9f3a7cdb9f8e5f2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' alt='Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/d9/fb/2fd9fb4a2e6b2eee1d63097c7dea91c7.jpg' alt='Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/d9/fb/2fd9fb4a2e6b2eee1d63097c7dea91c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5457530.jpg' alt='Fall Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5457530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

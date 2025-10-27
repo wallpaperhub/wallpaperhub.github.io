@@ -1,0 +1,129 @@
+<title>Stunning New MacBook Wallpapers: Elevate Your Workspace</title>
+                    <meta name="description" content="Explore a curated collection of new MacBook wallpapers to enhance your digital experience. From sleek designs to inspiring landscapes, find the perfect backdrop that matches your style. Refresh your screen and boost your productivity with our handpicked selections. Download high-resolution wallpapers today!">
+                    <meta name="keywords" content="new macbook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook">
+                            <span itemprop="name">Macbook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook/new-macbook-wallpaper">
+                            <span itemprop="name">new macbook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning New MacBook Wallpapers: Elevate Your Workspace</h1>
+                <p>Discover stunning new MacBook wallpapers that elevate your workspace! Whether you love minimalist designs, breathtaking landscapes, or vibrant abstract art, there's a wallpaper for every taste. Transform your screen into a source of inspiration and creativity with high-resolution options that reflect your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new M3 MacBook Pro 2023 wallpaper in 8K">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/10/New-2023-M3-MacBook-Pro.jpg' alt='Download the new M3 MacBook Pro 2023 wallpaper in 8K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/10/New-2023-M3-MacBook-Pro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple M4 MacBook Pro Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/7f990c0b-d6b2-4d4a-ba9e-58a50a856dda/M4MacBookPro1x1.png' alt='Apple M4 MacBook Pro Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/7f990c0b-d6b2-4d4a-ba9e-58a50a856dda/M4MacBookPro1x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new M3 MacBook Pro 2023 wallpaper in 8K">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/10/M3-MacBook-Pro-Wallpaper-8K.png' alt='Download the new M3 MacBook Pro 2023 wallpaper in 8K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7164">
+                                <meta itemprop="height" content="4628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/10/M3-MacBook-Pro-Wallpaper-8K.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new 2023 MacBook Pro wallpapers right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/?attachment_id=858957' alt='Download the new 2023 MacBook Pro wallpapers right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/?attachment_id=858957' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the New 2023 M3 MacBook Pro Wallpaper Here - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/91914/440181/440181.jpg' alt='Download the New 2023 M3 MacBook Pro Wallpaper Here - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/91914/440181/440181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the M2/M3 MacBook Air wallpapers right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/?attachment_id=813998' alt='Download the M2/M3 MacBook Air wallpapers right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/?attachment_id=813998' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get the New M2 MacBook Pro Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2023/01/2023-M2-MacBook-Pro-wallpaper-3.jpg' alt='Get the New M2 MacBook Pro Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2023/01/2023-M2-MacBook-Pro-wallpaper-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New 2021 MacBook Pro (Chroma-Blu Dark) Stock Wallpaper in Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/10/ispazio-45-1280x2770.jpg' alt='New 2021 MacBook Pro (Chroma-Blu Dark) Stock Wallpaper in Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/10/ispazio-45-1280x2770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new 2023 MacBook Pro wallpapers right here">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/?attachment_id=858956' alt='Download the new 2023 MacBook Pro wallpapers right here'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/?attachment_id=858956' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Default Mac Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/mac/apple-m3-macbook-pro-default-modified-11-10-2024-1728714492-hd-wallpaper.webp' alt='Most Popular Default Mac Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/mac/apple-m3-macbook-pro-default-modified-11-10-2024-1728714492-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

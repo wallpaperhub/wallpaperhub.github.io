@@ -1,0 +1,129 @@
+<title>Xolo Maridueña: Rising Star in Hollywood</title>
+                    <meta name="description" content="Explore the journey of Xolo Maridueña, the talented actor from "Cobra Kai." Discover his early life, career milestones, and impact on the entertainment industry. Follow his rise to stardom and connect with the young icon shaping the future of Hollywood!">
+                    <meta name="keywords" content="xolo mariduea">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/xolo-mariduea">
+                            <span itemprop="name">xolo mariduea</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Xolo Maridueña: Rising Star in Hollywood</h1>
+                <p>Xolo Maridueña is an American actor best known for his role as Miguel Diaz in the hit Netflix series "Cobra Kai." Born on June 9, 2001, in Los Angeles, California, Xolo showcased his talent at an early age, making appearances in various TV shows and films. His charismatic presence and dedication have won over fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Xolo_Mariduena_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg' alt='Xolo Maridueña - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d0/Xolo_Mariduena_Photo_Op_GalaxyCon_Raleigh_2024_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYmQxYWI2MDgtMWNjMC00OWM3LWJlMmEtYTRkOTAxOWU0MDk1XkEyXkFqcGc@._V1_.jpg' alt='Xolo Maridueña - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3405">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYmQxYWI2MDgtMWNjMC00OWM3LWJlMmEtYTRkOTAxOWU0MDk1XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/678648_v9_bb.jpg' alt='Xolo Maridueña | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/678648_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña Reflects On End Of 'Cobra Kai', Career-Defining ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/66931638456e70389bc5e988/CinemaCon-2023---Warner-Bros--Pictures-Presentation/960x0.jpg?format=jpg&width=960' alt='Xolo Maridueña Reflects On End Of 'Cobra Kai', Career-Defining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/66931638456e70389bc5e988/CinemaCon-2023---Warner-Bros--Pictures-Presentation/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña (Creator) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/xolo_mariduena.jpg' alt='Xolo Maridueña (Creator) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/xolo_mariduena.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña "Excited" About Reprising 'Blue Beetle' Role In ...">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2024/11/xolo-mariduena-blue-beetle.jpg' alt='Xolo Maridueña "Excited" About Reprising 'Blue Beetle' Role In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2024/11/xolo-mariduena-blue-beetle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña | Smurfs Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/smurfs/images/5/51/Xolo_Maridue%C3%B1a.jpg/revision/latest?cb=20240502194625' alt='Xolo Maridueña | Smurfs Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smurfs Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/smurfs/images/5/51/Xolo_Maridue%C3%B1a.jpg/revision/latest?cb=20240502194625' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cobra_Kai_61109191319_%2849133106448%29.jpg/170px-Cobra_Kai_61109191319_%2849133106448%29.jpg' alt='Xolo Maridueña - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cobra_Kai_61109191319_%2849133106448%29.jpg/170px-Cobra_Kai_61109191319_%2849133106448%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xolo Maridueña - Actor">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/678648_v9_bc.jpg' alt='Xolo Maridueña - Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/678648_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Last pictures of me with long hair. Now it's back to short hair ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2479354054150204163' alt='Last pictures of me with long hair. Now it's back to short hair ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2479354054150204163' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

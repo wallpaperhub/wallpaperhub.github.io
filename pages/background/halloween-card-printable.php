@@ -1,0 +1,129 @@
+<title>Printable Halloween Cards for Spooky Greetings</title>
+                    <meta name="description" content="Discover our collection of Halloween card printables! Easily download and print unique designs to send festive greetings this spooky season. Perfect for sharing with friends and family, our cards are sure to delight. Get creative and add a personal touch to your Halloween wishes!">
+                    <meta name="keywords" content="halloween card printable">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-card-printable">
+                            <span itemprop="name">halloween card printable</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Printable Halloween Cards for Spooky Greetings</h1>
+                <p>Get ready for Halloween with our fun and spooky printable cards! Perfect for sending shivers down the spine or sharing a laugh, these cards come in various designs to suit all tastes. Just download, print, and add your personal touch. Share the Halloween spirit with friends and family effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Halloween Cards — Gathering Beauty">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54005a0ce4b0bbe0fce8fac5/d8691ae4-8698-4ad4-9600-be4cd8f8fdf7/Free+Printable+Halloween+Cards.png' alt='Free Printable Halloween Cards — Gathering Beauty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gathering Beauty" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54005a0ce4b0bbe0fce8fac5/d8691ae4-8698-4ad4-9600-be4cd8f8fdf7/Free+Printable+Halloween+Cards.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Card PRINTABLE - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28621241/r/il/80c932/6368005110/il_570xN.6368005110_3fc8.jpg' alt='Happy Halloween Card PRINTABLE - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28621241/r/il/80c932/6368005110/il_570xN.6368005110_3fc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free, Printable Halloween Greeting Cards">
+                                <img itemprop="contentUrl url" src='https://www.thesprucecrafts.com/thmb/FNvTWIR59QmG6GIZAtcCbFxCep4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Frankentine-597ef2c5278b4a1884a57cdcb8105c4c.jpg' alt='Free, Printable Halloween Greeting Cards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Crafts" />
+                                </span>
+                                <a href='https://www.thesprucecrafts.com/thmb/FNvTWIR59QmG6GIZAtcCbFxCep4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Frankentine-597ef2c5278b4a1884a57cdcb8105c4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Spook-tacular Halloween Cards - Juju Sprinkles">
+                                <img itemprop="contentUrl url" src='http://jujusprinkles.com/wp-content/uploads/2017/10/Juju-Sprinkles-Halloween-Printable-Bundle-Free-Greeting-Cards5.jpg' alt='FREE Spook-tacular Halloween Cards - Juju Sprinkles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juju Sprinkles" />
+                                </span>
+                                <a href='http://jujusprinkles.com/wp-content/uploads/2017/10/Juju-Sprinkles-Halloween-Printable-Bundle-Free-Greeting-Cards5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surprise Printable Halloween Card Craft">
+                                <img itemprop="contentUrl url" src='https://messylittlemonstershop.com/cdn/shop/files/surprise-printable-halloween-card-craft_1_grande.png?v=1696595014' alt='Surprise Printable Halloween Card Craft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Messy Little Monster Shop" />
+                                </span>
+                                <a href='https://messylittlemonstershop.com/cdn/shop/files/surprise-printable-halloween-card-craft_1_grande.png?v=1696595014' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Free Printable Halloween Cards | Printabulls">
+                                <img itemprop="contentUrl url" src='https://www.printabulls.com/wp-content/uploads/2020/09/Printable-Halloween-Cards-Trick-Or-Treat-Page-2-791x1024.jpg' alt='40+ Free Printable Halloween Cards | Printabulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printabulls" />
+                                </span>
+                                <a href='https://www.printabulls.com/wp-content/uploads/2020/09/Printable-Halloween-Cards-Trick-Or-Treat-Page-2-791x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Halloween Birthday Card, Happy Boo-day Ghost ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23374820/r/il/bd795f/3750422675/il_fullxfull.3750422675_ermf.jpg' alt='Printable Halloween Birthday Card, Happy Boo-day Ghost ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2454">
+                                <meta itemprop="height" content="2020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23374820/r/il/bd795f/3750422675/il_fullxfull.3750422675_ermf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Pop Up Card">
+                                <img itemprop="contentUrl url" src='https://mr-mintz.com/cdn/shop/files/Screenshot_1_da8aca07-8713-44f6-875d-8b6739f8c890_600x600.png?v=1687200136' alt='Happy Halloween Pop Up Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr. Mintz Crafts" />
+                                </span>
+                                <a href='https://mr-mintz.com/cdn/shop/files/Screenshot_1_da8aca07-8713-44f6-875d-8b6739f8c890_600x600.png?v=1687200136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Card">
+                                <img itemprop="contentUrl url" src='https://www.loblollycreative.com/cdn/shop/products/loblolly-creative-digital-template-happy-halloween-card-18978274771094.jpg?v=1601931802&width=1946' alt='Happy Halloween Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loblolly Creative, LLC" />
+                                </span>
+                                <a href='https://www.loblollycreative.com/cdn/shop/products/loblolly-creative-digital-template-happy-halloween-card-18978274771094.jpg?v=1601931802&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Halloween Card - Halloween Cards - Pineapple Paper Co.">
+                                <img itemprop="contentUrl url" src='https://pineapplepaperco.com/wp-content/uploads/2019/10/free-printable-halloween-card.jpg' alt='Free Printable Halloween Card - Halloween Cards - Pineapple Paper Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1114">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pineapple Paper Co." />
+                                </span>
+                                <a href='https://pineapplepaperco.com/wp-content/uploads/2019/10/free-printable-halloween-card.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Beachy Wallpaper: Bring the Ocean Home</title>
+                    <meta name="description" content="Discover the perfect aesthetic beachy wallpaper to elevate your décor. Featuring calming ocean designs and pastel tones, our collection brings a slice of coastal paradise to your home. Ideal for creating a serene ambiance in any space. Explore now for the ultimate beach-inspired refresh!">
+                    <meta name="keywords" content="aesthetic beachy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-beachy-wallpaper">
+                            <span itemprop="name">aesthetic beachy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Beachy Wallpaper: Bring the Ocean Home</h1>
+                <p>Transform your space with aesthetic beachy wallpaper that captures the essence of coastal serenity. Featuring soft pastel hues and vibrant ocean scenes, this wallpaper is perfect for creating a tranquil environment reminiscent of endless summers. Enjoy relaxing vibes and seaside inspiration in every room of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic beachy 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-beach-with-fine-white-sands-dn9cdv9hm57frykl.jpg' alt='Aesthetic beachy 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-beach-with-fine-white-sands-dn9cdv9hm57frykl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic beachy 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-beach-pictures-rdzxl72kvzcs5ri3.jpg' alt='Aesthetic beachy 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-beach-pictures-rdzxl72kvzcs5ri3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/16/b9/c716b92ce239a4fc55890274a0355d0b.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/16/b9/c716b92ce239a4fc55890274a0355d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/b4/03/2bb4030ccf4148fa26f94a551d1fabd1.jpg' alt='Beach Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/b4/03/2bb4030ccf4148fa26f94a551d1fabd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+ Beachy Aesthetic Photo Wall Collage (digital Download) - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26685079/r/il/a09714/3031591740/il_fullxfull.3031591740_qvcd.jpg' alt='80+ Beachy Aesthetic Photo Wall Collage (digital Download) - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26685079/r/il/a09714/3031591740/il_fullxfull.3031591740_qvcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable beach phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFn3Z-XqRM/1/0/900w/canva-blue-beige-minimalist-aesthetic-photo-collage-beach-phone-wallpaper--d0F1xIYSEY.jpg' alt='Free customizable beach phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFn3Z-XqRM/1/0/900w/canva-blue-beige-minimalist-aesthetic-photo-collage-beach-phone-wallpaper--d0F1xIYSEY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/f7/55/30f755fd0516cdd046794315d9b38b2d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/f7/55/30f755fd0516cdd046794315d9b38b2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic cheap beachy wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/03/summer-collage-19.jpg' alt='Aesthetic cheap beachy wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.portf.net" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/03/summer-collage-19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic cheap beachy wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tropical-aesthetic-xq9axykja8uzjzrk.jpg' alt='Aesthetic cheap beachy wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.portf.net" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tropical-aesthetic-xq9axykja8uzjzrk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/94/14/ff941466e3ef1e1bfd9c834b4faa8c8b.jpg' alt='Backgrounds!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/94/14/ff941466e3ef1e1bfd9c834b4faa8c8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

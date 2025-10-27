@@ -1,0 +1,129 @@
+<title>Stunning 4K Lock Screen Wallpapers for Windows 11</title>
+                    <meta name="description" content="Explore a curated collection of 4K wallpapers for your Windows 11 lock screen. Transform your device with high-quality images that suit your style, making each unlock a visual delight. Perfect for those seeking a unique digital aesthetic! Discover the best wallpapers now.">
+                    <meta name="keywords" content="windows 11 lock screen wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/windows-11-lock-screen-wallpaper-4k">
+                            <span itemprop="name">windows 11 lock screen wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Lock Screen Wallpapers for Windows 11</h1>
+                <p>Enhance your Windows 11 experience with stunning 4K lock screen wallpapers. From serene landscapes to vibrant abstract designs, discover a variety of high-resolution images that enrich your device's aesthetics. Set the perfect tone every time you unlock your screen and enjoy breathtaking visuals daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/windows-11-lock-screen-fwt8ijeqe8n8qmai.jpg' alt='100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/windows-11-lock-screen-fwt8ijeqe8n8qmai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Blue, Stock, Official">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-blue-stock-official-2560x1440-5656.jpg' alt='Windows 11 Wallpaper 4K, Blue, Stock, Official'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-blue-stock-official-2560x1440-5656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows11-lock-screen-abstract-waves-rqg63khjl4pxca3t.jpg' alt='100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows11-lock-screen-abstract-waves-rqg63khjl4pxca3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k lock screen wallpaper windows 11">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/72/e5/b972e5dc8c09c933884533183ce148ee.jpg' alt='4k lock screen wallpaper windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/72/e5/b972e5dc8c09c933884533183ce148ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Windows 11 Wallpapers [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5bwxtq07ny571.jpg?width=3840&format=pjpg&auto=webp&s=4f87b4c29ef7f23cc3149484b34bfa5ef8ada617' alt='All Windows 11 Wallpapers [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5bwxtq07ny571.jpg?width=3840&format=pjpg&auto=webp&s=4f87b4c29ef7f23cc3149484b34bfa5ef8ada617' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 ways to change the Windows 11 Lock Screen wallpapers - Digital ...">
+                                <img itemprop="contentUrl url" src='https://www.digitalcitizen.life/wp-content/uploads/2016/08/lock_screen.png' alt='6 ways to change the Windows 11 Lock Screen wallpapers - Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Citizen" />
+                                </span>
+                                <a href='https://www.digitalcitizen.life/wp-content/uploads/2016/08/lock_screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Find Windows 11 Default Wallpapers">
+                                <img itemprop="contentUrl url" src='https://winaero.com/blog/wp-content/uploads/2021/11/Windows-11-default-wallpaper.jpg' alt='How to Find Windows 11 Default Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Winaero" />
+                                </span>
+                                <a href='https://winaero.com/blog/wp-content/uploads/2021/11/Windows-11-default-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Lock Screen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10363806.jpg' alt='Windows 11 Lock Screen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10363806.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Find Windows 11 Default Wallpapers">
+                                <img itemprop="contentUrl url" src='https://winaero.com/blog/wp-content/uploads/2021/11/Windows-11-lock-screen-backgrounds.jpg' alt='How to Find Windows 11 Default Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Winaero" />
+                                </span>
+                                <a href='https://winaero.com/blog/wp-content/uploads/2021/11/Windows-11-lock-screen-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows11-default-wallpaper-t0lowpw8c7d967vb.jpg' alt='100+] Windows 11 Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows11-default-wallpaper-t0lowpw8c7d967vb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

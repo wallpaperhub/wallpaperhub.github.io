@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover an extensive collection of gorgeous 4K wallpapers for your phone. Perfectly optimized for mobile display, each wallpaper delivers rich colors and sharp details to elevate your device's look. Revamp your phone's background effortlessly and enjoy stunning visuals every day!">
+                    <meta name="keywords" content="wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/wallpaper-4k-phone">
+                            <span itemprop="name">wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Your Phone</h1>
+                <p>Transform your phone’s appearance with stunning 4K wallpapers. From breathtaking landscapes to vibrant abstract designs, 4K wallpapers enhance your device’s visual experience, making it feel fresh and personalized. Download your favorites and enjoy high-resolution graphics that pop on your screen. Elevate your mobile aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Mobile Wallpapers: 4k Background Phone">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HFZxArQUL.jpg' alt='4k Mobile Wallpapers: 4k Background Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HFZxArQUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1 - Grungy Style's Ko-fi ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1 - Grungy Style's Ko-fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="s2 spoilers] +50 4K Phone Wallpapers : r/arcane">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/s2-spoilers-50-4k-phone-wallpapers-v0-jskttir4y63e1.png?width=2160&format=png&auto=webp&s=12438af107f6606fde871a2ace81dd467911dac5' alt='s2 spoilers] +50 4K Phone Wallpapers : r/arcane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/s2-spoilers-50-4k-phone-wallpapers-v0-jskttir4y63e1.png?width=2160&format=png&auto=webp&s=12438af107f6606fde871a2ace81dd467911dac5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Phone Wallpapers (All 4K, No watermarks)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/ec/24/87ec24b0cfe72729031eba92dc8b178c.jpg' alt='50 Phone Wallpapers (All 4K, No watermarks)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/ec/24/87ec24b0cfe72729031eba92dc8b178c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for phone 2025 4k">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/300/911/HD-wallpaper-dark-vertical-black.jpg' alt='Wallpaper for phone 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/300/911/HD-wallpaper-dark-vertical-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Environment Phone Wallpaper 4K - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjXRmfkb7OmoL6VcYVhXLpbuaElB_iL9fY-RUs2gnY0JRJqiDHVBEffYavlSDjSnvKoOAfyQbnqshATp9r3XnsZK3tkoZ1xIy2LCSp_pZoDR5eIXmJ5apHOpOWZhVmC8_pzWczl-wF6aSfeMGOD7v5hiE8c7rlg7aoFwPyAUSHwKo5CT23CQJ1Xl8cA/d/ANIME-ENVIROMENT-WALLPAPER-4K.jpg' alt='Anime Environment Phone Wallpaper 4K - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="5064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjXRmfkb7OmoL6VcYVhXLpbuaElB_iL9fY-RUs2gnY0JRJqiDHVBEffYavlSDjSnvKoOAfyQbnqshATp9r3XnsZK3tkoZ1xIy2LCSp_pZoDR5eIXmJ5apHOpOWZhVmC8_pzWczl-wF6aSfeMGOD7v5hiE8c7rlg7aoFwPyAUSHwKo5CT23CQJ1Xl8cA/d/ANIME-ENVIROMENT-WALLPAPER-4K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper - Soaring">
+                                <img itemprop="contentUrl url" src='https://serhiifett.com/wp-content/uploads/2024/11/Soaring.jpg' alt='4K Wallpaper - Soaring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serhii Fett" />
+                                </span>
+                                <a href='https://serhiifett.com/wp-content/uploads/2024/11/Soaring.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Phone Background Clouds Near Moon And Earth Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/4k-phone-background-clouds-near-moon-and-earth-neqgesii5zrsqfb7.jpg' alt='4k Phone Background Clouds Near Moon And Earth Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/4k-phone-background-clouds-near-moon-and-earth-neqgesii5zrsqfb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Android Wallpaper (Digital art, Textures) #262">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/android-1080x1920-4k-5k-wallpaper-hd-samsung-cubes-background-262.jpg' alt='Android Wallpaper (Digital art, Textures) #262'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/android-1080x1920-4k-5k-wallpaper-hd-samsung-cubes-background-262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper phone 4k - Japanese style neon shallows">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/0d/91/c90d91426ae3384073474a42ab38f695.jpg' alt='Wallpaper phone 4k - Japanese style neon shallows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/0d/91/c90d91426ae3384073474a42ab38f695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Make Picture Background Transparent in Google Slides</title>
+                    <meta name="description" content="Learn how to easily make a picture's background transparent in Google Slides with our step-by-step guide. Enhance your presentations by keeping only the main subject visible, creating a sleek and professional look. Perfect for students, educators, and professionals!">
+                    <meta name="keywords" content="how to make the background of a picture transparent in google slides">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-make-the-background-of-a-picture-transparent-in-google-slides">
+                            <span itemprop="name">how to make the background of a picture transparent in google slides</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Make Picture Background Transparent in Google Slides</h1>
+                <p>To make a picture's background transparent in Google Slides, first select the image. Right-click and choose "Format Options." Under "Adjustments," find the "Transparency" slider. Move it to increase transparency, making the background clear while keeping the main subject visible. Click outside to see the changes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Background Transparent in Google Slides – remove.bg Blog">
+                                <img itemprop="contentUrl url" src='https://sb.kaleidousercontent.com/67418/512x277/e473345e93/unnamed-86.png' alt='How to Make a Background Transparent in Google Slides – remove.bg Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Background" />
+                                </span>
+                                <a href='https://sb.kaleidousercontent.com/67418/512x277/e473345e93/unnamed-86.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make an Image Transparent in Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/uQ22yShOheAEc4oeUUXFcGwhYHE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Transparencyslider-fd603dcef00a477f9867757b08302b99.jpg' alt='How to Make an Image Transparent in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/uQ22yShOheAEc4oeUUXFcGwhYHE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Transparencyslider-fd603dcef00a477f9867757b08302b99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make an Image Transparent in Google Slides - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LvMHc-Ief3o/sddefault.jpg' alt='How to Make an Image Transparent in Google Slides - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LvMHc-Ief3o/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make an Image Transparent in Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/03_adjusting-transparency-for-images-in-google-slides.png' alt='How to Make an Image Transparent in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/03_adjusting-transparency-for-images-in-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Background Transparent in Google Slides – remove.bg Blog">
+                                <img itemprop="contentUrl url" src='https://sb.kaleidousercontent.com/67418/512x280/72e5f34ecf/unnamed-89.png' alt='How to Make a Background Transparent in Google Slides – remove.bg Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Background" />
+                                </span>
+                                <a href='https://sb.kaleidousercontent.com/67418/512x280/72e5f34ecf/unnamed-89.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Method to Make an Image Transparent in Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.wondershare.com/pdfelement/google-slides/transparency.jpg' alt='Method to Make an Image Transparent in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare PDFelement" />
+                                </span>
+                                <a href='https://images.wondershare.com/pdfelement/google-slides/transparency.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make an image transparent in Google Slides">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/20626071/EN-paso-2-en-GG.gif' alt='How to make an image transparent in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1834">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/20626071/EN-paso-2-en-GG.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make an Image Transparent in Google Slides - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4IRzgLhJVPk/sddefault.jpg' alt='How to Make an Image Transparent in Google Slides - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4IRzgLhJVPk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Background Transparent in Google Slides – remove.bg Blog">
+                                <img itemprop="contentUrl url" src='https://sb.kaleidousercontent.com/67418/512x276/bde721f9c6/unnamed-98.png' alt='How to Make a Background Transparent in Google Slides – remove.bg Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Background" />
+                                </span>
+                                <a href='https://sb.kaleidousercontent.com/67418/512x276/bde721f9c6/unnamed-98.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make an Image Transparent in Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidemodel.com/wp-content/uploads/02_finding-format-options-in-google-slides.png' alt='How to Make an Image Transparent in Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideModel" />
+                                </span>
+                                <a href='https://slidemodel.com/wp-content/uploads/02_finding-format-options-in-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

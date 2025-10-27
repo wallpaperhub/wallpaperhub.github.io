@@ -1,0 +1,129 @@
+<title>Elegant Light Purple Wallpaper Ideas for Every Room</title>
+                    <meta name="description" content="Add a calming touch to your home with our collection of light purple wallpaper. Perfect for any room, these designs blend elegance and tranquility, enhancing your interior decor effortlessly. Explore various patterns and textures to find the perfect match for your style today!">
+                    <meta name="keywords" content="wallpaper light purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/wallpaper-light-purple">
+                            <span itemprop="name">wallpaper light purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Light Purple Wallpaper Ideas for Every Room</h1>
+                <p>Transform your space with light purple wallpaper, offering a soothing and elegant vibe. Ideal for bedrooms, living rooms, or nurseries, this color creates a serene atmosphere. Whether you prefer floral patterns, geometric designs, or solid tones, light purple wallpaper adds a touch of creativity and charm to any room decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Lavender On Light Purple Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/english-lavender-on-light-purple-background-0ejk4r6kloeue35q.jpg' alt='English Lavender On Light Purple Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/english-lavender-on-light-purple-background-0ejk4r6kloeue35q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glittery Crystals Light Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glittery-crystals-light-purple-iphone-uc2aiay9zfxlcn6g.jpg' alt='Glittery Crystals Light Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glittery-crystals-light-purple-iphone-uc2aiay9zfxlcn6g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Card Creator - Light Purple Plain Background - CUP528880_1519">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1b/d7/8d/1bd78daab0bd76b6352dcefceb72c6ca.jpg' alt='Card Creator - Light Purple Plain Background - CUP528880_1519'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1b/d7/8d/1bd78daab0bd76b6352dcefceb72c6ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Purple Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-purple-aesthetic-rw2vix1r99tji173.jpg' alt='100+] Light Purple Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-purple-aesthetic-rw2vix1r99tji173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Wallpaper Photos, Download The BEST Free Light Purple ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3527796/pexels-photo-3527796.jpeg?cs=srgb&dl=pexels-didsss-3527796.jpg&fm=jpg' alt='Light Purple Wallpaper Photos, Download The BEST Free Light Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3527796/pexels-photo-3527796.jpeg?cs=srgb&dl=pexels-didsss-3527796.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Solid Light Purple Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/solid-light-purple-pddepgu0c1xcrr8x.jpg' alt='Download A Solid Light Purple Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/solid-light-purple-pddepgu0c1xcrr8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple lavander light purple aesthetic wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' alt='Pastel Purple lavander light purple aesthetic wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some cute purple wallpapers for you!    : r/FrutigerAero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-cute-purple-wallpapers-for-you-v0-0w75e4wvph7a1.jpg?width=640&crop=smart&auto=webp&s=ad274b6834167d0f96b3e5684b557d6dbe0714b3' alt='Some cute purple wallpapers for you!    : r/FrutigerAero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-cute-purple-wallpapers-for-you-v0-0w75e4wvph7a1.jpg?width=640&crop=smart&auto=webp&s=ad274b6834167d0f96b3e5684b557d6dbe0714b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80M19taW5pbWFsX2lsbHVzdHJhdGlvbl9vZl9wYXN0ZWxfYnV0dGVyZmx5X3BhdF9hYjUzNjFmMi1mMTI1LTRlOGYtOTMwMC05ZjM3ZjY0Yzk5NGNfMS5qcGc.jpg' alt='Purple Wallpaper Iphone Wallpaper Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV80M19taW5pbWFsX2lsbHVzdHJhdGlvbl9vZl9wYXN0ZWxfYnV0dGVyZmx5X3BhdF9hYjUzNjFmMi1mMTI1LTRlOGYtOTMwMC05ZjM3ZjY0Yzk5NGNfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Aesthetic Ipad Wallpaper Purple Vectors & Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-paper-cut-shape-wave-background_474888-4513.jpg' alt='Page 2 | Aesthetic Ipad Wallpaper Purple Vectors & Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-paper-cut-shape-wave-background_474888-4513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

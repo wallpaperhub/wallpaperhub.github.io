@@ -1,0 +1,129 @@
+<title>Friday Night Lights: The Heart of Texas Football</title>
+                    <meta name="description" content="Discover the compelling story behind Friday Night Lights, a drama that captures the passion of high school football in Texas. Delve into the lives of players, coaches, and their community as they navigate triumphs and challenges on and off the field. Experience the heart of a town united by its love for the game.">
+                    <meta name="keywords" content="friday night lights background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/friday-night-lights-background">
+                            <span itemprop="name">friday night lights background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Friday Night Lights: The Heart of Texas Football</h1>
+                <p>Friday Night Lights is a captivating drama based on the true story of a high school football team in Texas. The series explores the challenges faced by the players, coaches, and community in a town where football reigns supreme. It highlights themes of ambition, teamwork, and the struggle for identity beyond the field.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-0070315830.jpg' alt='Friday Night Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/f/o/fot-0070315830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights">
+                                <img itemprop="contentUrl url" src='https://babydreambackdrops.com/cdn/shop/products/FridayNightLights-60x80web.jpg?v=1737044486' alt='Friday Night Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Dream Backdrops" />
+                                </span>
+                                <a href='https://babydreambackdrops.com/cdn/shop/products/FridayNightLights-60x80web.jpg?v=1737044486' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights Images – Browse 26,074 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/92/59/83/360_F_292598317_65z6eusxZz3dS3GPEUqD6EssrvHuOzsL.jpg' alt='Friday Night Lights Images – Browse 26,074 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/92/59/83/360_F_292598317_65z6eusxZz3dS3GPEUqD6EssrvHuOzsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/917/185/small/illuminated-american-football-stadium-with-projectors-3d-illustration-vector.jpg' alt='Friday Night Lights Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/917/185/small/illuminated-american-football-stadium-with-projectors-3d-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights (2004)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTM1MTM1Njk0M15BMl5BanBnXkFtZTcwNjE2MTYyMw@@._V1_.jpg' alt='Friday Night Lights (2004)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Friday Night Lights (2004)" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTM1MTM1Njk0M15BMl5BanBnXkFtZTcwNjE2MTYyMw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Friday Night Football Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/485607312/photo/stadium-night.jpg?s=612x612&w=0&k=20&c=V32QDqK2TqGPsV3ne-SGK-xV2wTgdLhTcncN-l1pm7M=' alt='2,400+ Friday Night Football Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/485607312/photo/stadium-night.jpg?s=612x612&w=0&k=20&c=V32QDqK2TqGPsV3ne-SGK-xV2wTgdLhTcncN-l1pm7M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Background Bundle*football Team Photo*digital Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13644400/r/il/9a45d1/1997105556/il_fullxfull.1997105556_soeq.jpg' alt='Football Background Bundle*football Team Photo*digital Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13644400/r/il/9a45d1/1997105556/il_fullxfull.1997105556_soeq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,600+ American Football Night Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/160197981/photo/fifty-yard-line-of-football-field-at-night.jpg?s=612x612&w=0&k=20&c=BQIIOSGxTxsvGRFw1N0yZ0N8Ge6bhFZZXLEf5OT7AT8=' alt='3,600+ American Football Night Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/160197981/photo/fifty-yard-line-of-football-field-at-night.jpg?s=612x612&w=0&k=20&c=BQIIOSGxTxsvGRFw1N0yZ0N8Ge6bhFZZXLEf5OT7AT8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights (2004) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_.jpg' alt='Friday Night Lights (2004) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Lights Review S4E13 Thanksgiving - Mountain West ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/m0-MtkQoIh3Lz-QhUbWwJCGdXEg=/0x0:600x398/1200x800/filters:focal(252x151:348x247)/cdn.vox-cdn.com/uploads/chorus_image/image/73526006/LIGHTS.0.jpg' alt='Friday Night Lights Review S4E13 Thanksgiving - Mountain West ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mountain West Connection" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/m0-MtkQoIh3Lz-QhUbWwJCGdXEg=/0x0:600x398/1200x800/filters:focal(252x151:348x247)/cdn.vox-cdn.com/uploads/chorus_image/image/73526006/LIGHTS.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

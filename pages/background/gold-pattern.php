@@ -1,0 +1,129 @@
+<title>Stunning Gold Patterns: Elevate Your Style</title>
+                    <meta name="description" content="Discover the beauty of gold patterns, enhancing jewelry, fashion, and decor. Explore how these luxurious designs add a touch of sophistication and style to your life. Perfect for those who appreciate elegance and want to stand out! Explore now!">
+                    <meta name="keywords" content="gold pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-pattern">
+                            <span itemprop="name">gold pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gold Patterns: Elevate Your Style</h1>
+                <p>Gold patterns are enchanting designs that reflect the opulence and allure of gold. Often seen in jewelry, textiles, and art, these patterns can range from intricate motifs to modern geometric shapes, making them versatile in style. They capture light beautifully, adding a touch of luxury to any object.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern gold golden - Free digitally-made illustrations on ...">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/digital-illustrations/1642861/pattern-gold-golden-illustration-original.jpeg' alt='Pattern gold golden - Free digitally-made illustrations on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4961">
+                                <meta itemprop="height" content="3508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/digital-illustrations/1642861/pattern-gold-golden-illustration-original.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-gold-abstract-line-landscape_204950-372.jpg' alt='Gold Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-gold-abstract-line-landscape_204950-372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Background Pattern Images – Browse 5,714,061 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/13/07/60/360_F_513076021_tTL9CVMxUmWl6GXcbOXXA4SxNjejlyZb.jpg' alt='Gold Background Pattern Images – Browse 5,714,061 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/13/07/60/360_F_513076021_tTL9CVMxUmWl6GXcbOXXA4SxNjejlyZb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Pattern Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1671398225914-9eb5b8b62338?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZCUyMHBhdHRlcm58ZW58MHx8MHx8fDA%3D' alt='Gold Pattern Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1671398225914-9eb5b8b62338?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZCUyMHBhdHRlcm58ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Pattern Images – Browse 6,865,127 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/23/01/16/360_F_223011669_vZnkWATGJxmLTDlXIvLyuaY3jf8wZBVL.jpg' alt='Gold Pattern Images – Browse 6,865,127 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/23/01/16/360_F_223011669_vZnkWATGJxmLTDlXIvLyuaY3jf8wZBVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Premium Golden Geometric Pattern Background Art">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/premium-golden-geometric-pattern-background-art_1027691-1362.jpg' alt='Premium Vector | Premium Golden Geometric Pattern Background Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/premium-golden-geometric-pattern-background-art_1027691-1362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Pattern PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/021/011/460/small_2x/gold-splashes-texture-grunge-golden-background-pattern-of-cracks-scuffs-chips-stains-ink-spots-lines-on-transparent-background-file-png.png' alt='Gold Pattern PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/021/011/460/small_2x/gold-splashes-texture-grunge-golden-background-pattern-of-cracks-scuffs-chips-stains-ink-spots-lines-on-transparent-background-file-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Shimmer Essence Pattern - Pattern Vinyl and HTV – Crafter's ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1754/4549/products/crafter-s-vinyl-supply-cut-vinyl-orajet-3651-12-x-12-material-gold-pattern-vinyl-and-htv-crafters-vinyl-supply-1943680319520.jpg?v=1566789679' alt='Golden Shimmer Essence Pattern - Pattern Vinyl and HTV – Crafter's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crafter's Vinyl Supply" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1754/4549/products/crafter-s-vinyl-supply-cut-vinyl-orajet-3651-12-x-12-material-gold-pattern-vinyl-and-htv-crafters-vinyl-supply-1943680319520.jpg?v=1566789679' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Pattern Texture Lustrous Metallic Gold On A Yellow Golden ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/metal-pattern-texture-lustrous-metallic-gold-on-a-yellow-golden-textured-background_9940145.jpg!w700wp' alt='Metal Pattern Texture Lustrous Metallic Gold On A Yellow Golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/metal-pattern-texture-lustrous-metallic-gold-on-a-yellow-golden-textured-background_9940145.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Pattern Stock Illustrations – 129,954 Metallic Gold ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gold-texture-seamless-pattern-light-realistic-shiny-metallic-empty-golden-gradient-template-abs-gold-texture-seamless-pattern-118516089.jpg' alt='Metallic Gold Pattern Stock Illustrations – 129,954 Metallic Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gold-texture-seamless-pattern-light-realistic-shiny-metallic-empty-golden-gradient-template-abs-gold-texture-seamless-pattern-118516089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

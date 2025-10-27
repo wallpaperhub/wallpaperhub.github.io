@@ -1,0 +1,129 @@
+<title>"Elegant Crown Against a Black Backdrop"</title>
+                    <meta name="description" content="Discover the captivating beauty of a crown set against a black background. This striking contrast emphasizes the crown's regal details, making it a perfect symbol of elegance and strength. Ideal for designs and visuals that demand attention and a touch of majesty.">
+                    <meta name="keywords" content="crown with black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crown-with-black-background">
+                            <span itemprop="name">crown with black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Elegant Crown Against a Black Backdrop"</h1>
+                <p>A crown on a black background exudes elegance and power. The contrast highlights the intricate details of the crown, showcasing its beauty and significance as a symbol of royalty. This striking imagery captures the essence of majesty, making it an ideal choice for designs that seek to convey strength and sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Crown Black Background Stock Illustrations – 14,485 Gold ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/crown-gold-symbol-icon-black-background-vector-illustration-86647652.jpg' alt='Gold Crown Black Background Stock Illustrations – 14,485 Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/crown-gold-symbol-icon-black-background-vector-illustration-86647652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Gold Crown On Black Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307519945/photo/the-crown-on-a-black-background-is-illuminated-by-a-golden-beam-low-key-image-of-a-beautiful.jpg?s=612x612&w=0&k=20&c=zuPJ2CyP0An1boJOpDWO6_UvAN5a7OQwMEm4X7gc-CI=' alt='1,000+ Gold Crown On Black Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307519945/photo/the-crown-on-a-black-background-is-illuminated-by-a-golden-beam-low-key-image-of-a-beautiful.jpg?s=612x612&w=0&k=20&c=zuPJ2CyP0An1boJOpDWO6_UvAN5a7OQwMEm4X7gc-CI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown on black background for graphic and web Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/75/69/crown-on-black-background-for-graphic-and-web-vector-22957569.jpg' alt='Crown on black background for graphic and web Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/75/69/crown-on-black-background-for-graphic-and-web-vector-22957569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,241 Golden Crown Black Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-golden-crown-black-background-fantasy-item-beautiful-golden-crown-black-background-fantasy-item-204216503.jpg' alt='3,241 Golden Crown Black Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-golden-crown-black-background-fantasy-item-beautiful-golden-crown-black-background-fantasy-item-204216503.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Line Icon On Black Background. Black Flat Style Vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/64dab26e3ac74bacb9c66bc5ec6a9213/2c43be8.jpg' alt='Crown Line Icon On Black Background. Black Flat Style Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/64dab26e3ac74bacb9c66bc5ec6a9213/2c43be8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Golden Crown On A Black Background Stock Photo - Download Image ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/103959125/photo/a-golden-crown-on-a-black-background.jpg?s=612x612&w=0&k=20&c=Gcljy5fmLImtVHzV4GKqGG_t5tBbLKxgkT63vrGkzJM=' alt='A Golden Crown On A Black Background Stock Photo - Download Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/103959125/photo/a-golden-crown-on-a-black-background.jpg?s=612x612&w=0&k=20&c=Gcljy5fmLImtVHzV4GKqGG_t5tBbLKxgkT63vrGkzJM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden crown isolated black background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/05/83/golden-crown-isolated-black-background-vector-25460583.jpg' alt='Golden crown isolated black background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/05/83/golden-crown-isolated-black-background-vector-25460583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Crown    Exclusive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/10/0e/e4100e4d1761d8911c29a4e59e6b990b.jpg' alt='Black Crown    Exclusive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/10/0e/e4100e4d1761d8911c29a4e59e6b990b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Royal King Crown On Black">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1071344863/thumb/1.jpg' alt='Gold Royal King Crown On Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1071344863/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Queen crown isolated on black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/queen-crown-isolated-black-background_379858-13088.jpg' alt='Premium Photo | Queen crown isolated on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/queen-crown-isolated-black-background_379858-13088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

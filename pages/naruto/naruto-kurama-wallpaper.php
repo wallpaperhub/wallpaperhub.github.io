@@ -1,0 +1,129 @@
+<title>Stunning Naruto Kurama Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover amazing Naruto Kurama wallpapers that breathe life into your mobile screen. Enjoy high-quality images featuring Kurama, the iconic Nine-Tails, crafted for true fans. Transform your background today!">
+                    <meta name="keywords" content="naruto kurama wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/naruto-kurama-wallpaper">
+                            <span itemprop="name">naruto kurama wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Naruto Kurama Wallpapers for Your Device</h1>
+                <p>Naruto Kurama wallpaper captures the essence of the legendary Nine-Tails. Featuring stunning art, this wallpaper brings the fierce spirit and powerful presence of Kurama right to your screen. Perfect for fans of Naruto, it adds a dynamic touch to your device, showcasing vivid colors and intricate details that enhance any background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="naruto kurama mode Wallpaper android and iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/fb/1a/5afb1ab540d4ea6c62709afe8bdc0a95.jpg' alt='naruto kurama mode Wallpaper android and iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/fb/1a/5afb1ab540d4ea6c62709afe8bdc0a95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Naruto Kurama Mode Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-naruto-kurama-mode-x0m5ih7ia0tw7d8v-3.jpg' alt='Cool Naruto Kurama Mode Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-naruto-kurama-mode-x0m5ih7ia0tw7d8v-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Naruto Kurama Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-uzumaki-hugging-naruto-kurama-586cggcy07vtucb5.jpg' alt='100+] Naruto Kurama Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-uzumaki-hugging-naruto-kurama-586cggcy07vtucb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Kurama wallpaper by FadedLilly06 - Download on ZEDGE™ | eba0">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/49/4c/41494c7431d2608e352bac91f115efc2.jpg' alt='Naruto Kurama wallpaper by FadedLilly06 - Download on ZEDGE™ | eba0'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/49/4c/41494c7431d2608e352bac91f115efc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto, anime, kurama, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/364/374/HD-wallpaper-naruto-anime-kurama.jpg' alt='Naruto, anime, kurama, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/364/374/HD-wallpaper-naruto-anime-kurama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Kurama And Uzumaki Friendship Artwork Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/uzumaki-protecting-naruto-kurama-wttvf3syylwjj8n1.webp' alt='Naruto Kurama And Uzumaki Friendship Artwork Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/uzumaki-protecting-naruto-kurama-wttvf3syylwjj8n1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto and Kurama HD Wallpaper by X7Rust">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/614/thumb-1920-614743.png' alt='Naruto and Kurama HD Wallpaper by X7Rust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1586">
+                                <meta itemprop="height" content="1169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/614/thumb-1920-614743.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto (Kurama Mode) Wallpaper 3 [Naruto Mobile] by Maxiuchiha22 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/de8em7r-9ee6e28a-1e16-41ef-9e04-4c3d8f3dfd4e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGU4ZW03ci05ZWU2ZTI4YS0xZTE2LTQxZWYtOWUwNC00YzNkOGYzZGZkNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.l2w4z7EKTp-_AuizLZ8zp6kam3yTxxV0WtIewLRbp0E' alt='Naruto (Kurama Mode) Wallpaper 3 [Naruto Mobile] by Maxiuchiha22 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1730">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/de8em7r-9ee6e28a-1e16-41ef-9e04-4c3d8f3dfd4e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGU4ZW03ci05ZWU2ZTI4YS0xZTE2LTQxZWYtOWUwNC00YzNkOGYzZGZkNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.l2w4z7EKTp-_AuizLZ8zp6kam3yTxxV0WtIewLRbp0E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto X Kurama wallpaper by xariis_f - Download on ZEDGE™ | 826e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/53/47/c55347f9f63fffdd98ff2ead4d94ff1e.jpg' alt='Naruto X Kurama wallpaper by xariis_f - Download on ZEDGE™ | 826e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/53/47/c55347f9f63fffdd98ff2ead4d94ff1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop-wallpaper-naruto-kurama-poster-by-onepiece by clu4u2ury49 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57c369b6-2558-4edc-82db-2b94ec9d8c89/dg341g1-cee1eb51-3beb-439c-8d48-e48334c75a56.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3YzM2OWI2LTI1NTgtNGVkYy04MmRiLTJiOTRlYzlkOGM4OVwvZGczNDFnMS1jZWUxZWI1MS0zYmViLTQzOWMtOGQ0OC1lNDgzMzRjNzVhNTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KU-eE1LrrPALe13z2FV468dycY7qQOxZrkFq_elKbM4' alt='Desktop-wallpaper-naruto-kurama-poster-by-onepiece by clu4u2ury49 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57c369b6-2558-4edc-82db-2b94ec9d8c89/dg341g1-cee1eb51-3beb-439c-8d48-e48334c75a56.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3YzM2OWI2LTI1NTgtNGVkYy04MmRiLTJiOTRlYzlkOGM4OVwvZGczNDFnMS1jZWUxZWI1MS0zYmViLTQzOWMtOGQ0OC1lNDgzMzRjNzVhNTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KU-eE1LrrPALe13z2FV468dycY7qQOxZrkFq_elKbM4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Death Stranding Wallpapers: Eerie & Captivating</title>
+                    <meta name="description" content="Explore stunning "Dark Death Stranding" wallpapers that evoke the game's mysterious ambiance. Perfect for fans seeking to enhance their devices with atmospheric visuals. Download now for a unique touch that reflects your love for this iconic game!">
+                    <meta name="keywords" content="dark death stranding wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-death-stranding-wallpaper">
+                            <span itemprop="name">dark death stranding wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Death Stranding Wallpapers: Eerie & Captivating</h1>
+                <p>Discover the haunting beauty of "Dark Death Stranding" wallpapers. Immerse yourself in the game's surreal landscapes and enigmatic characters, captured in striking high-resolution imagery. Perfect for fans who love the eerie atmosphere, these wallpapers provide a captivating glimpse into the game's shadowy world, ideal for personalizing your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Land Of Tar Death Stranding Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/death-stranding-minimal-art-iphone-b48083ibw2ejlwpi.webp' alt='Dark Land Of Tar Death Stranding Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/death-stranding-minimal-art-iphone-b48083ibw2ejlwpi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Stranding Wallpapers (67 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/0/254779-3840x2160-desktop-4k-death-stranding-background.jpg' alt='Death Stranding Wallpapers (67 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/0/254779-3840x2160-desktop-4k-death-stranding-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Death Stranding HD Dark Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/death-stranding-hd-wy4s84h22zhhrgln.jpg' alt='Download Death Stranding HD Dark Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/death-stranding-hd-wy4s84h22zhhrgln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This sketch I made after seeing the recent trailer. So hyped! (4k ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xo610gku0f301.jpg' alt='This sketch I made after seeing the recent trailer. So hyped! (4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xo610gku0f301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Death Stranding Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/death-stranding-background-98by3hdau2djijof.jpg' alt='200+] Death Stranding Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/death-stranding-background-98by3hdau2djijof.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Stranding Wallpapers (67 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/d/0/254802-3840x2160-desktop-4k-death-stranding-wallpaper-photo.jpg' alt='Death Stranding Wallpapers (67 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/d/0/254802-3840x2160-desktop-4k-death-stranding-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Few more wallpapers : r/DeathStranding">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/di2fhsjmjq871.jpg?width=640&crop=smart&auto=webp&s=b0de61e646a089e05dc7315c834a75d7ca595410' alt='Few more wallpapers : r/DeathStranding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/di2fhsjmjq871.jpg?width=640&crop=smart&auto=webp&s=b0de61e646a089e05dc7315c834a75d7ca595410' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Timefall, bring, bringmethehorizon, death, deathstranding ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/803/108/HD-wallpaper-black-timefall-bring-bringmethehorizon-death-deathstranding-horizon-ludens-me-stranding-the.jpg' alt='Black Timefall, bring, bringmethehorizon, death, deathstranding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/803/108/HD-wallpaper-black-timefall-bring-bringmethehorizon-death-deathstranding-horizon-ludens-me-stranding-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Stranding Wallpaper 4K, PlayStation 4, PC Games, Dark">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/death-stranding-playstation-4-pc-games-dark-5120x2880-4210.jpg' alt='Death Stranding Wallpaper 4K, PlayStation 4, PC Games, Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/death-stranding-playstation-4-pc-games-dark-5120x2880-4210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Death Stranding HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/135/1350944.jpg' alt='Download Death Stranding HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/135/1350944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

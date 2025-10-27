@@ -1,0 +1,129 @@
+<title>Revive Your Space with Mid-Century Floral Wallpaper</title>
+                    <meta name="description" content="Discover the charm of mid-century floral wallpaper, perfect for retro-inspired homes. Elevate your decor with vibrant colors and bold designs that breathe life into any space. Explore styles that blend nostalgia with modern flair for a truly unique ambiance!">
+                    <meta name="keywords" content="mid century floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/mid-century-floral-wallpaper">
+                            <span itemprop="name">mid century floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive Your Space with Mid-Century Floral Wallpaper</h1>
+                <p>Mid-century floral wallpaper encapsulates the timeless style of the 1950s and 60s, featuring bold colors and abstract botanical designs. This retro decor choice adds a vibrant touch to any room, making it a favorite among interior designers and vintage enthusiasts. Perfect for accent walls or entire rooms, it revives nostalgic elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/c4f89d/3739481346/il_fullxfull.3739481346_glid.jpg' alt='Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/c4f89d/3739481346/il_fullxfull.3739481346_glid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Tropical Flowers Botanical Retro Mid  Century Large Scale Floral Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/166731380609952.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Tropical Flowers Botanical Retro Mid  Century Large Scale Floral Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/166731380609952.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/4ebaa5/3586415397/il_570xN.3586415397_3cmq.jpg' alt='Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/4ebaa5/3586415397/il_570xN.3586415397_3cmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827">
+                                <img itemprop="contentUrl url" src='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' alt='Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3291696329_ivwm_51505c81-1261-4d52-ba04-32f5ff4e0250.jpg?v=1644721582&width=1082' alt='Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3291696329_ivwm_51505c81-1261-4d52-ba04-32f5ff4e0250.jpg?v=1644721582&width=1082' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Mod, Retro Scandinavian Flower, Green, Brown, Beige, Yellow, Teal  Floral, Mid Century Modern, MCM Peel And Stick Wall Paper Murals -  7512964989083">
+                                <img itemprop="contentUrl url" src='https://midcenturymoderngal.com/cdn/shop/products/mid-mod-retro-scandinavian-flower-green-brown-beige-yellow-teal-floral-mid-century-modern-mcm-peel-and-stick-wall-paper-35397360025755.jpg?v=1679597132&width=1500' alt='Mid Mod, Retro Scandinavian Flower, Green, Brown, Beige, Yellow, Teal  Floral, Mid Century Modern, MCM Peel And Stick Wall Paper Murals -  7512964989083'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='https://midcenturymoderngal.com/cdn/shop/products/mid-mod-retro-scandinavian-flower-green-brown-beige-yellow-teal-floral-mid-century-modern-mcm-peel-and-stick-wall-paper-35397360025755.jpg?v=1679597132&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly William Morris Peel and Stick Wallpaper, Mid Century Modern Floral  Wallpaper for Walls Murals, Vintage Green/Yellow Contact Paper Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91EQ7zGYJ5L.jpg' alt='Abyssaly William Morris Peel and Stick Wallpaper, Mid Century Modern Floral  Wallpaper for Walls Murals, Vintage Green/Yellow Contact Paper Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91EQ7zGYJ5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Garden Floral Blooms - Pink Wallpaper | Shutterfly">
+                                <img itemprop="contentUrl url" src='https://c3.staticsfly.com/asset/fetch/cs/FI-F61-D9595317-RL-3FT_FRONT/thumbnail.preview/v2' alt='Mid Century Garden Floral Blooms - Pink Wallpaper | Shutterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterfly" />
+                                </span>
+                                <a href='https://c3.staticsfly.com/asset/fetch/cs/FI-F61-D9595317-RL-3FT_FRONT/thumbnail.preview/v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/383ad8/3538788190/il_570xN.3538788190_bc0s.jpg' alt='Retro Wallpaper, Mid Century Wallpaper, Vintage Wallpaper, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/383ad8/3538788190/il_570xN.3538788190_bc0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evelyn Close Retro Floral Wallpaper – Pickwick and Elm">
+                                <img itemprop="contentUrl url" src='https://pickwickandelm.com/cdn/shop/files/il_fullxfull.3453517078_trf2_1024x1024@2x.jpg?v=1724084483' alt='Evelyn Close Retro Floral Wallpaper – Pickwick and Elm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1498">
+                                <meta itemprop="height" content="1498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pickwick and Elm" />
+                                </span>
+                                <a href='https://pickwickandelm.com/cdn/shop/files/il_fullxfull.3453517078_trf2_1024x1024@2x.jpg?v=1724084483' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

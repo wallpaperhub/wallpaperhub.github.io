@@ -1,0 +1,129 @@
+<title>Discover the Rich Culture of El Salvador</title>
+                    <meta name="description" content="Explore the vibrant culture of El Salvador, where indigenous heritage meets Spanish influences. Experience lively festivals, traditional food like pupusas, and the warmth of Salvadoran hospitality. Dive into the art, music, and unique traditions that define this beautiful Central American country.">
+                    <meta name="keywords" content="el salvador culture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/el-salvador-culture">
+                            <span itemprop="name">el salvador culture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Culture of El Salvador</h1>
+                <p>El Salvador boasts a vibrant culture shaped by its rich history, blending indigenous traditions with Spanish influences. From the lively art scene showcasing talented artisans to the enchanting sounds of cumbia and salsa, its cultural identity thrives. Festivals, delicious pupusas, and warm hospitality highlight the essence of Salvadoran life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Culture Of El Salvador - WorldAtlas">
+                                <img itemprop="contentUrl url" src='https://www.worldatlas.com/r/w1200/upload/f6/7d/65/el-salvador-culture-parade.jpg' alt='The Culture Of El Salvador - WorldAtlas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Atlas" />
+                                </span>
+                                <a href='https://www.worldatlas.com/r/w1200/upload/f6/7d/65/el-salvador-culture-parade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador Culture and Traditions: What to know | Goway">
+                                <img itemprop="contentUrl url" src='https://images.goway.com/production/hero/iStock-2151720547.jpg?VersionId=GlwRXE4lgSExYvQZk_OTWznxArYDizSc' alt='El Salvador Culture and Traditions: What to know | Goway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goway Travel" />
+                                </span>
+                                <a href='https://images.goway.com/production/hero/iStock-2151720547.jpg?VersionId=GlwRXE4lgSExYvQZk_OTWznxArYDizSc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top El Salvador Traditions">
+                                <img itemprop="contentUrl url" src='https://blog.compassion.com/wp-content/uploads/2021/07/costumed-dancers-in-dancing-in-an-outside-courtyard-1024x768.jpg' alt='Top El Salvador Traditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compassion International Blog" />
+                                </span>
+                                <a href='https://blog.compassion.com/wp-content/uploads/2021/07/costumed-dancers-in-dancing-in-an-outside-courtyard-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Culture - El Salvador">
+                                <img itemprop="contentUrl url" src='http://caldejelsalvador.weebly.com/uploads/4/5/2/0/45208367/header_images/1421250594.jpg' alt='Culture - El Salvador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="El Salvador - Weebly" />
+                                </span>
+                                <a href='http://caldejelsalvador.weebly.com/uploads/4/5/2/0/45208367/header_images/1421250594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top El Salvador Traditions">
+                                <img itemprop="contentUrl url" src='https://blog.compassion.com/wp-content/uploads/2024/05/children_during_carnival_de_san_miguel-1024x681.jpg' alt='Top El Salvador Traditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compassion International Blog" />
+                                </span>
+                                <a href='https://blog.compassion.com/wp-content/uploads/2024/05/children_during_carnival_de_san_miguel-1024x681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador Culture. Full of vibrant customs and traditions">
+                                <img itemprop="contentUrl url" src='https://elsalvadorinfo.net/wp-content/uploads/2023/10/El-Salvador-Culture.jpg' alt='El Salvador Culture. Full of vibrant customs and traditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="El Salvador INFO" />
+                                </span>
+                                <a href='https://elsalvadorinfo.net/wp-content/uploads/2023/10/El-Salvador-Culture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Historiantes of El Salvador – Second Face">
+                                <img itemprop="contentUrl url" src='https://www.maskmuseum.org/wp-content/uploads/El-Salvador-2018-Apastepeque-Historiantes-176.jpg' alt='The Historiantes of El Salvador – Second Face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mask Museum" />
+                                </span>
+                                <a href='https://www.maskmuseum.org/wp-content/uploads/El-Salvador-2018-Apastepeque-Historiantes-176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Salvador | We Are Worcester">
+                                <img itemprop="contentUrl url" src='https://www.weareworcester.org/sites/default/files/styles/half/public/marionettes/DSC_9613.jpeg?itok=GfMD846r' alt='El Salvador | We Are Worcester'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Are Worcester" />
+                                </span>
+                                <a href='https://www.weareworcester.org/sites/default/files/styles/half/public/marionettes/DSC_9613.jpeg?itok=GfMD846r' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Culture of El Salvador - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Colorido_Nacional.jpg/220px-Colorido_Nacional.jpg' alt='Culture of El Salvador - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Colorido_Nacional.jpg/220px-Colorido_Nacional.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Historiantes of El Salvador – Second Face">
+                                <img itemprop="contentUrl url" src='https://www.maskmuseum.org/wp-content/uploads/El-Salvador-2018-Apastepeque-Historiantes-086a-1500x577.jpg' alt='The Historiantes of El Salvador – Second Face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mask Museum" />
+                                </span>
+                                <a href='https://www.maskmuseum.org/wp-content/uploads/El-Salvador-2018-Apastepeque-Historiantes-086a-1500x577.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

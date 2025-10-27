@@ -1,0 +1,129 @@
+<title>Unveiling the Charisma of John Stamos</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="john stamos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/john-stamos">
+                            <span itemprop="name">john stamos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling the Charisma of John Stamos</h1>
+                <p>John Stamos is a beloved American actor, producer, and musician, best known for his role as Jesse Katsopolis on the hit TV series "Full House." With his charming smile and undeniable talent, he has captivated audiences since the 1980s. Beyond acting, Stamos has ventured into music, showcasing his versatility as an entertainer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_Stamos_at_PaleyFest_2013.jpg/640px-John_Stamos_at_PaleyFest_2013.jpg' alt='John Stamos - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_Stamos_at_PaleyFest_2013.jpg/640px-John_Stamos_at_PaleyFest_2013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTI4ODA5OTY2M15BMl5BanBnXkFtZTYwMDIwMTgy._V1_.jpg' alt='John Stamos - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTI4ODA5OTY2M15BMl5BanBnXkFtZTYwMDIwMTgy._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best of John Stamos' Hair">
+                                <img itemprop="contentUrl url" src='https://www.sheknows.com/wp-content/uploads/2018/08/en5pmeeu5frmxleyxyyd.jpeg?w=2203' alt='The Best of John Stamos' Hair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2203">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SheKnows" />
+                                </span>
+                                <a href='https://www.sheknows.com/wp-content/uploads/2018/08/en5pmeeu5frmxleyxyyd.jpeg?w=2203' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos: Biography, Actor, 'Full House'">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/john-stamos-on-tuesday-april-4-2023-news-photo-1693349585.jpg?crop=0.653xw:0.980xh;0.211xw,0.0204xh&resize=640:*' alt='John Stamos: Biography, Actor, 'Full House''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/john-stamos-on-tuesday-april-4-2023-news-photo-1693349585.jpg?crop=0.653xw:0.980xh;0.211xw,0.0204xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos - #tgif | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=381305773352699' alt='John Stamos - #tgif | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="803">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=381305773352699' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We played Ask Me Anything with John Stamos backstage at 'GMA'">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/02375fa0-9644-4595-bcda-6410661ee20d/john-stamos-gty-jt-231018_1697656438136_hpMain.jpg?w=992' alt='We played Ask Me Anything with John Stamos backstage at 'GMA''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Morning America" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/02375fa0-9644-4595-bcda-6410661ee20d/john-stamos-gty-jt-231018_1697656438136_hpMain.jpg?w=992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos Young: Why We Love the 'Full House' Hunk | First For Women">
+                                <img itemprop="contentUrl url" src='https://www.firstforwomen.com/wp-content/uploads/sites/2/2024/09/john-stamos-1.png?w=1200&h=630&crop=1&quality=86&strip=all' alt='John Stamos Young: Why We Love the 'Full House' Hunk | First For Women'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First For Women" />
+                                </span>
+                                <a href='https://www.firstforwomen.com/wp-content/uploads/sites/2/2024/09/john-stamos-1.png?w=1200&h=630&crop=1&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos | Galavant Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/galavant/images/0/06/John_Stamos.jpg/revision/latest?cb=20141124045015' alt='John Stamos | Galavant Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1648">
+                                <meta itemprop="height" content="2464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Galavant Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/galavant/images/0/06/John_Stamos.jpg/revision/latest?cb=20141124045015' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Stamos' wife jokes he 'went through everyone else' before he ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/john-stamos-with-wife-caitlin.jpg?ve=1&tl=1' alt='John Stamos' wife jokes he 'went through everyone else' before he ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/john-stamos-with-wife-caitlin.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why John Stamos dropped the weights to get lean for 'Grandfathered ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/0f451d5/2147483647/strip/true/crop/2048x1537+0+0/resize/1200x901!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2Fb7%2F6ddee6e382ce63441b8ee452167b%2Fla-apphoto-tv-full-house-jpg-20151231' alt='Why John Stamos dropped the weights to get lean for 'Grandfathered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/0f451d5/2147483647/strip/true/crop/2048x1537+0+0/resize/1200x901!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2Fb7%2F6ddee6e382ce63441b8ee452167b%2Fla-apphoto-tv-full-house-jpg-20151231' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

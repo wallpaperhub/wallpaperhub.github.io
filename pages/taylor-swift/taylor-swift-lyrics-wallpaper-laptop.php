@@ -1,0 +1,129 @@
+<title>Stylish Taylor Swift Lyrics Wallpapers for Your Laptop</title>
+                    <meta name="description" content="Discover a collection of beautiful Taylor Swift lyrics wallpapers for your laptop. Perfect for fans, these designs bring your favorite quotes to life, allowing you to showcase your passion for her music. Easy to download, customize your laptop with inspiration from Swift's heartfelt lyrics!">
+                    <meta name="keywords" content="taylor swift lyrics wallpaper laptop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-lyrics-wallpaper-laptop">
+                            <span itemprop="name">taylor swift lyrics wallpaper laptop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Taylor Swift Lyrics Wallpapers for Your Laptop</h1>
+                <p>Transform your laptop with stunning Taylor Swift lyrics wallpaper! Celebrate your love for her music and style by customizing your device. From iconic quotes to vivid imagery, these wallpapers capture the essence of her songs, inspiring you every time you open your laptop. Make a statement with your favorite lyrics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift quotes desktop wallpaper - you're on your on kid">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/0a/6d/9f0a6d7fb6f72c0071f03f5647f661c5.jpg' alt='taylor swift quotes desktop wallpaper - you're on your on kid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/0a/6d/9f0a6d7fb6f72c0071f03f5647f661c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Taylor Swift Lyric Desktop Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/3f/eb/433febd482b2ec490a91a9d4ab59a9bc.jpg' alt='Awesome Taylor Swift Lyric Desktop Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/3f/eb/433febd482b2ec490a91a9d4ab59a9bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lyric Wallpaper by MysGirl88 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/479caea1-f165-4c25-8254-8cf36f755f3a/d9gpb47-1b15fea4-5aab-4460-a6ac-3bd2c9cb5a6d.jpg/v1/fill/w_1024,h_642,q_75,strp/taylor_swift_lyric_wallpaper_by_mysgirl88_d9gpb47-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQyIiwicGF0aCI6IlwvZlwvNDc5Y2FlYTEtZjE2NS00YzI1LTgyNTQtOGNmMzZmNzU1ZjNhXC9kOWdwYjQ3LTFiMTVmZWE0LTVhYWItNDQ2MC1hNmFjLTNiZDJjOWNiNWE2ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5jb_gE2bs6HGHQhPhN1uhRw0SKDEfwbB5ltesxB4eC4' alt='Taylor Swift Lyric Wallpaper by MysGirl88 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/479caea1-f165-4c25-8254-8cf36f755f3a/d9gpb47-1b15fea4-5aab-4460-a6ac-3bd2c9cb5a6d.jpg/v1/fill/w_1024,h_642,q_75,strp/taylor_swift_lyric_wallpaper_by_mysgirl88_d9gpb47-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQyIiwicGF0aCI6IlwvZlwvNDc5Y2FlYTEtZjE2NS00YzI1LTgyNTQtOGNmMzZmNzU1ZjNhXC9kOWdwYjQ3LTFiMTVmZWE0LTVhYWItNDQ2MC1hNmFjLTNiZDJjOWNiNWE2ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5jb_gE2bs6HGHQhPhN1uhRw0SKDEfwbB5ltesxB4eC4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/70/9d/13709d8414345aa83eade26f37936233.jpg' alt='Taylor Swift Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/70/9d/13709d8414345aa83eade26f37936233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'll stand by you forever. — He's passing by, rare as the glimmer ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c6833518026e6950a2cbff87fa72c406/5fe50c6511448f0d-b6/s1280x1920/d5ffebe1f932e7c290db554208ff6f564639eace.png' alt='I'll stand by you forever. — He's passing by, rare as the glimmer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@verlaneswiftie13 on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c6833518026e6950a2cbff87fa72c406/5fe50c6511448f0d-b6/s1280x1920/d5ffebe1f932e7c290db554208ff6f564639eace.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/46/d9/1c46d924a84b549eaf8a4101d9609a67.jpg' alt='sage green laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/46/d9/1c46d924a84b549eaf8a4101d9609a67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi guys i'm making this kind of lyrics wallpapers i hope you like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mqig5wvnyiy71.jpg?width=640&crop=smart&auto=webp&s=9c0dd8e9d59a41d01df3ffe005f6d653d90aa1f2' alt='Hi guys i'm making this kind of lyrics wallpapers i hope you like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mqig5wvnyiy71.jpg?width=640&crop=smart&auto=webp&s=9c0dd8e9d59a41d01df3ffe005f6d653d90aa1f2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift wallpaper – @favoritemadness on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/3aed6d87b4e13eb27e4b0fd133b8ca34/194a59a67418b038-3a/s2048x1055/b4fd2b9a12e6c644ee66620435782db743dec8a4.png' alt='taylor swift wallpaper – @favoritemadness on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/3aed6d87b4e13eb27e4b0fd133b8ca34/194a59a67418b038-3a/s2048x1055/b4fd2b9a12e6c644ee66620435782db743dec8a4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some taylor laptop wallpapers! Feel free to use! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m33zqv1o6qe61.png' alt='I made some taylor laptop wallpapers! Feel free to use! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m33zqv1o6qe61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lyrics Laptop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13442410.png' alt='Taylor Swift Lyrics Laptop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13442410.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

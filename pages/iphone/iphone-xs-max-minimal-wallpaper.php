@@ -1,0 +1,129 @@
+<title>Stunning iPhone XS Max Minimal Wallpapers</title>
+                    <meta name="description" content="Explore a curated collection of minimal wallpapers for your iPhone XS Max. With sleek designs and calming colors, these wallpapers enhance your device's look while keeping it clutter-free. Perfect for those who value elegance and simplicity in their digital space. Download your favorites today!">
+                    <meta name="keywords" content="iphone xs max minimal wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-xs-max-minimal-wallpaper">
+                            <span itemprop="name">iphone xs max minimal wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone XS Max Minimal Wallpapers</h1>
+                <p>Discover the beauty of simplicity with iPhone XS Max minimal wallpapers. These elegant designs enhance your screen’s aesthetic without overpowering the icons. Choose from an array of calming colors and patterns that emphasize the sleekness of your device while providing a serene backdrop for your daily activities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone XS Max wallpaper pack">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-XS-Max-wallpaper-splash-idownloadblog.jpg' alt='iPhone XS Max wallpaper pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-XS-Max-wallpaper-splash-idownloadblog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Xs Minimal Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-xs-minimal-background-t132i62pdwg3ix79.jpg' alt='100+] Iphone Xs Minimal Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-xs-minimal-background-t132i62pdwg3ix79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350 IPhone XS Max ideas | phone wallpaper, wallpaper backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b3/2b/8e/b32b8e4d474023a8158eb51191d015ab.jpg' alt='350 IPhone XS Max ideas | phone wallpaper, wallpaper backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b3/2b/8e/b32b8e4d474023a8158eb51191d015ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1242x2688 Resolution Cool Landscape Night Minimal Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/48/ea/e348eae981eef52ec04a0951fc9936c7.jpg' alt='1242x2688 Resolution Cool Landscape Night Minimal Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/48/ea/e348eae981eef52ec04a0951fc9936c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalistic New Iphone X Design Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/minimalistic-new-iphone-x-design-ik156oh3n64r7qk1.jpg' alt='Minimalistic New Iphone X Design Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/minimalistic-new-iphone-x-design-ik156oh3n64r7qk1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Xs Minimal Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-minimal-background-x6fqcs4n8zd99222.jpg' alt='100+] Iphone Xs Minimal Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-minimal-background-x6fqcs4n8zd99222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1242x2688 Minimalism Wallpapers for IPhone XS Max [Super Retina HD]">
+                                <img itemprop="contentUrl url" src='https://img1.wallspic.com/previews/1/8/9/8/6/168981/168981-minimalism-slope-erg-art-cloud-360x780.jpg' alt='1242x2688 Minimalism Wallpapers for IPhone XS Max [Super Retina HD]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img1.wallspic.com/previews/1/8/9/8/6/168981/168981-minimalism-slope-erg-art-cloud-360x780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD minimalist iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/844/108/HD-wallpaper-minimalist-ideas-iphone-xr-minimalist-thumbnail.jpg' alt='HD minimalist iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/844/108/HD-wallpaper-minimalist-ideas-iphone-xr-minimalist-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-14.jpg' alt='50+ Minimalist iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Man of Many" />
+                                </span>
+                                <a href='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD minimalist iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/816/666/HD-wallpaper-minimalist-iphone-xr-minimalist-thumbnail.jpg' alt='HD minimalist iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/816/666/HD-wallpaper-minimalist-iphone-xr-minimalist-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

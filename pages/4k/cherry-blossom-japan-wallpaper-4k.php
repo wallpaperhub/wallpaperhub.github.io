@@ -1,0 +1,129 @@
+<title>Stunning 4K Cherry Blossom Wallpapers for Your Device</title>
+                    <meta name="description" content="Elevate your screen with breathtaking 4K cherry blossom wallpapers! Explore our stunning collection of sakura images perfect for any device. Ideal for anyone who cherishes the beauty of Japan's springtime blooms. Download now for a refreshing look that brings tranquility and elegance to your everyday view!">
+                    <meta name="keywords" content="cherry blossom japan wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/cherry-blossom-japan-wallpaper-4k">
+                            <span itemprop="name">cherry blossom japan wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Cherry Blossom Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning cherry blossom Japan wallpaper in 4K! Experience the breathtaking beauty of sakura blooms that symbolize renewal and hope. Perfect for spring lovers, our vibrant wallpapers will add a touch of tranquility to your screen. Enchant your views with nature’s pure elegance, any time of the year!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry blossom outlet wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/136/529/120/artistic-japanese-cherry-blossom-pagoda-sakura-hd-wallpaper-preview.jpg' alt='Cherry blossom outlet wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Road To Glenlough" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/136/529/120/artistic-japanese-cherry-blossom-pagoda-sakura-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Wallpaper (Cherry blossom, Bridge) #6473">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/japan-3840x2160-5k-4k-wallpaper-blossom-cherry-bridge-river-dove-6473.jpg' alt='Japan Wallpaper (Cherry blossom, Bridge) #6473'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/japan-3840x2160-5k-4k-wallpaper-blossom-cherry-bridge-river-dove-6473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Japan Cherry Blossom Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/japan-cherry-blossom-rbofhm6ztuoe9ti5.jpg' alt='100+] Japan Cherry Blossom Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/japan-cherry-blossom-rbofhm6ztuoe9ti5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms in Japan. [1920x1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/dsqOT0oBF-XEnc4Pqdhb-ijEzfrbkgs4xFX-hu-8KaQ.jpg?width=1080&crop=smart&auto=webp&s=1066786c8a77096476e5d8de5939d4034aa570b7' alt='Cherry Blossoms in Japan. [1920x1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/dsqOT0oBF-XEnc4Pqdhb-ijEzfrbkgs4xFX-hu-8KaQ.jpg?width=1080&crop=smart&auto=webp&s=1066786c8a77096476e5d8de5939d4034aa570b7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Japan 4k Fuji Cherry Blossoms Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/japan-4k-fuji-cherry-blossoms-qbc6mlnwowjbszld.jpg' alt='Download Japan 4k Fuji Cherry Blossoms Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/japan-4k-fuji-cherry-blossoms-qbc6mlnwowjbszld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Cherry Blossom Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/73/06/b8730692c5b49e2e4c5a378d21a65274.jpg' alt='500+] Cherry Blossom Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/73/06/b8730692c5b49e2e4c5a378d21a65274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Reflection Castle Blossom Sakura Japan Spring Man Made ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/114/1143967.jpg' alt='Download Reflection Castle Blossom Sakura Japan Spring Man Made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/114/1143967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661878091370-4ccb8763756a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlcnJ5JTIwYmxvc3NvbSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Cherry Blossom Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661878091370-4ccb8763756a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlcnJ5JTIwYmxvc3NvbSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mount Fuji Cherry Blossoms HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/874/thumb-1920-874982.jpg' alt='Mount Fuji Cherry Blossoms HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/874/thumb-1920-874982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Cherry Blossom Wallpaper 4k Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/japan-fantasy-landscape_23-2151870138.jpg' alt='Japan Cherry Blossom Wallpaper 4k Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/japan-fantasy-landscape_23-2151870138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

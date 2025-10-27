@@ -1,0 +1,129 @@
+<title>Bright and Beautiful Stars Clipart for Every Project</title>
+                    <meta name="description" content="Discover a stunning collection of stars clipart to enhance your creative projects! Perfect for invitations, scrapbooking, and more, our vibrant star graphics bring a whimsical touch to your designs. Explore the charm of stars and elevate your artistic endeavors with ease!">
+                    <meta name="keywords" content="stars clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stars-clipart">
+                            <span itemprop="name">stars clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright and Beautiful Stars Clipart for Every Project</h1>
+                <p>Stars clipart is a versatile collection of vivid and charming star graphics perfect for various creative projects. Whether you're designing invitations, scrapbooking, or enhancing educational materials, these graphics can elevate your work. With various styles and colors, stars clipart adds a whimsical touch to your designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Cute Star Clipart | FREE Download | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2024/04/FREE-Cute-Star-Clipart-with-outline-WM.png?fit=1000%2C1000&ssl=1' alt='FREE Cute Star Clipart | FREE Download | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2024/04/FREE-Cute-Star-Clipart-with-outline-WM.png?fit=1000%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,300+ Shining Star Clipart Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418212645/vector/print.jpg?s=612x612&w=0&k=20&c=TZLzjfayC2NpCM8dX4WkesAE5ijBdXiBEksYuosQ1Zk=' alt='20,300+ Shining Star Clipart Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418212645/vector/print.jpg?s=612x612&w=0&k=20&c=TZLzjfayC2NpCM8dX4WkesAE5ijBdXiBEksYuosQ1Zk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Clipart Images – Browse 293,659 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/17/36/89/360_F_117368948_7SSFiyV66VsnfjESsKTh3CN4edoFasxX.jpg' alt='Star Clipart Images – Browse 293,659 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/17/36/89/360_F_117368948_7SSFiyV66VsnfjESsKTh3CN4edoFasxX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Stars Clipart Transparent Background, Star Icon In Trendy ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190924/original/pngtree-star-icon-in-trendy-style-isolated-background-png-image_4823723.jpg' alt='Trendy Stars Clipart Transparent Background, Star Icon In Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190924/original/pngtree-star-icon-in-trendy-style-isolated-background-png-image_4823723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Clipart Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/star-illustration_757131-11511.jpg' alt='Star Clipart Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/star-illustration_757131-11511.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/7769957/stars-clipart-xl.png' alt='Star - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/7769957/stars-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Star Clipart PNG to Customize and Download">
+                                <img itemprop="contentUrl url" src='https://images.template.net/434341/Glitter-Star-Clipart-edit-online.png' alt='Free Star Clipart PNG to Customize and Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/434341/Glitter-Star-Clipart-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Clipart Images – Browse 293,659 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/28/57/68/360_F_528576877_j0xSafTg6D4YJutgdmx7B1cGnVflpjxS.jpg' alt='Star Clipart Images – Browse 293,659 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/28/57/68/360_F_528576877_j0xSafTg6D4YJutgdmx7B1cGnVflpjxS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Clip Art Set, PNG, SVG, VECTOR, Black, Gold, Silver, Star ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6686269/r/il/5961b2/2005517070/il_570xN.2005517070_t5dt.jpg' alt='Stars Clip Art Set, PNG, SVG, VECTOR, Black, Gold, Silver, Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6686269/r/il/5961b2/2005517070/il_570xN.2005517070_t5dt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Star Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230122/original/pngtree-golden-star-clipart-in-transparent-background-png-image_8925920.png' alt='Gold Star Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230122/original/pngtree-golden-star-clipart-in-transparent-background-png-image_8925920.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Aesthetic Squiggle Wallpaper</title>
+                    <meta name="description" content="Discover the charm of aesthetic squiggle wallpaper! Transform your interior with colorful, playful designs that add a unique flair. Perfect for creating an artistic vibe in any room, explore various patterns that suit your style and bring your walls to life!">
+                    <meta name="keywords" content="aesthetic squiggle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-squiggle-wallpaper">
+                            <span itemprop="name">aesthetic squiggle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Aesthetic Squiggle Wallpaper</h1>
+                <p>Aesthetic squiggle wallpaper adds a playful and artistic touch to any room. With vibrant colors and unique designs, it enhances the beauty of your space while creating a whimsical atmosphere. Perfect for accent walls or feature rooms, this stylish wallpaper can transform your home decor into a modern art gallery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="squiggle wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/39/cc/7f/39cc7f0e94c0899a00f653e82529ea77.jpg' alt='squiggle wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/39/cc/7f/39cc7f0e94c0899a00f653e82529ea77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Squiggle Wallpaper | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/Element-Green_654x545_crop_center.jpg?v=1736182953' alt='Abstract Squiggle Wallpaper | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/Element-Green_654x545_crop_center.jpg?v=1736182953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral minimal abstract squiggle wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/bc/29/64/bc29640d99815dac934354a97774d355.jpg' alt='Neutral minimal abstract squiggle wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/bc/29/64/bc29640d99815dac934354a97774d355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green abstract minimal squiggle wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/ff/53/8bff53a79fec015953f7edb30b99e072.jpg' alt='Green abstract minimal squiggle wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/ff/53/8bff53a79fec015953f7edb30b99e072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibe Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1718624354/articles/RP5088GR04R_product.jpg' alt='Vibe Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_500,h_500/v1718624354/articles/RP5088GR04R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/3e/26/1b3e26b702540d9d9b5ea9726069dd72.jpg' alt='Squiggle art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/3e/26/1b3e26b702540d9d9b5ea9726069dd72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle Wallpaper in White and Beige">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Squiggle-WhiteandBeige_ILW50384_Thumbnail_WEB_b7f4898b-15a2-472a-93dd-8dbc4c2908b0.webp?v=1705932731' alt='Squiggle Wallpaper in White and Beige'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Squiggle-WhiteandBeige_ILW50384_Thumbnail_WEB_b7f4898b-15a2-472a-93dd-8dbc4c2908b0.webp?v=1705932731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green squiggles">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/27/69/f9/2769f9a7246e69efe2ed54a757a90671.jpg' alt='green squiggles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/27/69/f9/2769f9a7246e69efe2ed54a757a90671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggles | Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.astekhome.com/cdn/shop/files/PSAV160-1_squiggles_YELLOW_400x400.jpg?v=1731444498' alt='Squiggles | Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Home" />
+                                </span>
+                                <a href='https://www.astekhome.com/cdn/shop/files/PSAV160-1_squiggles_YELLOW_400x400.jpg?v=1731444498' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset squiggle wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/67/9e/75679eb39aae619c865558bf4e609f6e.jpg' alt='Sunset squiggle wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/67/9e/75679eb39aae619c865558bf4e609f6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

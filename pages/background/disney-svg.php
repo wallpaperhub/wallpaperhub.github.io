@@ -1,0 +1,129 @@
+<title>Discover Magical Disney SVG Files for Crafting</title>
+                    <meta name="description" content="Explore a collection of high-quality Disney SVG files perfect for all your crafting needs. Ideal for t-shirts, decals, and more. Easy to use and scalable, unleash your creativity today!">
+                    <meta name="keywords" content="disney svg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/disney-svg">
+                            <span itemprop="name">disney svg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Magical Disney SVG Files for Crafting</h1>
+                <p>Disney SVG files bring the magic of Disney to your crafting projects! Perfect for t-shirts, stickers, and home decor, these scalable vector graphics ensure your designs are crisp and vibrant. Whether you're celebrating a birthday or just a Disney fan, these SVGs are versatile and easy to use. Unleash your creativity and spread the Disney joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DisneyBundle Svg Png Files for Cricut MickeyMouse Bundle DisneySVG  WinnieThePooh Printable DisneyClipart exclusive bundle files">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26981083/r/il/fd4fcd/2822669435/il_fullxfull.2822669435_teqz.jpg' alt='DisneyBundle Svg Png Files for Cricut MickeyMouse Bundle DisneySVG  WinnieThePooh Printable DisneyClipart exclusive bundle files'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2622">
+                                <meta itemprop="height" content="2440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26981083/r/il/fd4fcd/2822669435/il_fullxfull.2822669435_teqz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Castle Svg, Disney svg, Disney Castle svg, Mickey minnie svg, Disney  magic svg, Disney svg file for cricut">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1689646318_mickey.png&width=600&height=600&quality=90&format=auto&fit=pad' alt='Disney Castle Svg, Disney svg, Disney Castle svg, Mickey minnie svg, Disney  magic svg, Disney svg file for cricut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1689646318_mickey.png&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Disney SVG for Cricut: Mickey, Disney Princesses & More ...">
+                                <img itemprop="contentUrl url" src='https://www.freesvgdownload.com/wp-content/uploads/2024/10/mickey-hand-768x512.webp' alt='Free Disney SVG for Cricut: Mickey, Disney Princesses & More ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free SVG" />
+                                </span>
+                                <a href='https://www.freesvgdownload.com/wp-content/uploads/2024/10/mickey-hand-768x512.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Characters SVG - Payhip">
+                                <img itemprop="contentUrl url" src='https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1h0o29vu01081aqk1f1617iqa518.png' alt='Disney Characters SVG - Payhip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Payhip" />
+                                </span>
+                                <a href='https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1h0o29vu01081aqk1f1617iqa518.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Trip Dad Svg, Mickey & Minnie Mouse Svg, Family Vacation ...">
+                                <img itemprop="contentUrl url" src='https://ovalerysvg.com/wp-content/uploads/2023/03/Disney-Trip-Dad-preview-1.jpg' alt='Disney Trip Dad Svg, Mickey & Minnie Mouse Svg, Family Vacation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ovalery SVG" />
+                                </span>
+                                <a href='https://ovalerysvg.com/wp-content/uploads/2023/03/Disney-Trip-Dad-preview-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney SVG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/90/04/019004577e0b7aeb4cd66f84919be5f5.jpg' alt='Disney SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/90/04/019004577e0b7aeb4cd66f84919be5f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey and Friend Outline Svg, Family Trip Svg, Disney Svg, Png Pdf Digital  File">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1687795933_Danbamstore-Mickey-And-Friends2.jpeg&width=600&height=600&quality=90&format=auto&fit=pad' alt='Mickey and Friend Outline Svg, Family Trip Svg, Disney Svg, Png Pdf Digital  File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1687795933_Danbamstore-Mickey-And-Friends2.jpeg&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney With My Bestie SVG, Disney SVG, SVG Files for Cricut ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39071769/r/il/6096b9/4543764730/il_570xN.4543764730_3a3l.jpg' alt='Disney With My Bestie SVG, Disney SVG, SVG Files for Cricut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39071769/r/il/6096b9/4543764730/il_570xN.4543764730_3a3l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Princess SVG Disneyland Mickey Ears Cutting File - Oladino">
+                                <img itemprop="contentUrl url" src='https://oladino.com/wp-content/uploads/2022/08/MR-oladinocom-svg250822b006-268202295447-1-600x600.jpeg' alt='Disney Princess SVG Disneyland Mickey Ears Cutting File - Oladino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oladino" />
+                                </span>
+                                <a href='https://oladino.com/wp-content/uploads/2022/08/MR-oladinocom-svg250822b006-268202295447-1-600x600.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stitch SVG, Disney SVG, Mickey SVG">
+                                <img itemprop="contentUrl url" src='http://svgmilo.com/cdn/shop/products/Stitch-SVG-Disney_1200x1200.gif?v=1636020884' alt='Stitch SVG, Disney SVG, Mickey SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG milo" />
+                                </span>
+                                <a href='http://svgmilo.com/cdn/shop/products/Stitch-SVG-Disney_1200x1200.gif?v=1636020884' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

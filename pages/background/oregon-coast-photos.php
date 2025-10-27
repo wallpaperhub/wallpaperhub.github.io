@@ -1,0 +1,129 @@
+<title>Stunning Oregon Coast Photos: Explore Nature's Beauty</title>
+                    <meta name="description" content="Discover the breathtaking beauty of the Oregon Coast through stunning photos. From dramatic cliffs to serene beaches, experience the charm of this coastal paradise and ignite your wanderlust!">
+                    <meta name="keywords" content="oregon coast photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oregon-coast-photos">
+                            <span itemprop="name">oregon coast photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Oregon Coast Photos: Explore Nature's Beauty</h1>
+                <p>Capture the stunning beauty of the Oregon Coast with breathtaking photos that showcase its dramatic cliffs, serene beaches, and colorful sunsets. Explore iconic landmarks like Haystack Rock and the charming coastal towns of Cannon Beach and Astoria. Perfect for adventurers and photographers alike, these images inspire wanderlust and appreciation for nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventures in Seaside and Cannon Beach | The Official Guide to ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1682020269/www.travelportland.com/mktg-fr-20210627-oregon-coast-ecola-state-park-01_99432bf516/mktg-fr-20210627-oregon-coast-ecola-state-park-01_99432bf516.jpg' alt='Adventures in Seaside and Cannon Beach | The Official Guide to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Portland" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1682020269/www.travelportland.com/mktg-fr-20210627-oregon-coast-ecola-state-park-01_99432bf516/mktg-fr-20210627-oregon-coast-ecola-state-park-01_99432bf516.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Reasons to Love the Oregon Coast - Channel House">
+                                <img itemprop="contentUrl url" src='https://www.channelhouse.com/wp-content/uploads/sites/31/2020/05/reasons-to-love-the-Oregon-Coast-1536x1024-1.jpeg' alt='6 Reasons to Love the Oregon Coast - Channel House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Channel House" />
+                                </span>
+                                <a href='https://www.channelhouse.com/wp-content/uploads/sites/31/2020/05/reasons-to-love-the-Oregon-Coast-1536x1024-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Coast - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a2/OregonCoastEcola_Edit.jpg' alt='Oregon Coast - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2882">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a2/OregonCoastEcola_Edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Oregon Coast: Part Two : Michael Frye Photography">
+                                <img itemprop="contentUrl url" src='https://www.michaelfrye.com/wp-content/uploads/2019/08/0219-13671-Edit.jpg' alt='Exploring the Oregon Coast: Part Two : Michael Frye Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michael Frye Photography" />
+                                </span>
+                                <a href='https://www.michaelfrye.com/wp-content/uploads/2019/08/0219-13671-Edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Coast: All You Must Know Before You Go (2025) - Tripadvisor">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/8c/29/picture-is-worth-a-1000.jpg?w=1400&h=1400&s=1' alt='Oregon Coast: All You Must Know Before You Go (2025) - Tripadvisor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/8c/29/picture-is-worth-a-1000.jpg?w=1400&h=1400&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Coast travel - Lonely Planet | Oregon, USA, North America">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2021-02/GettyRF_533946197.jpg' alt='Oregon Coast travel - Lonely Planet | Oregon, USA, North America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3710">
+                                <meta itemprop="height" content="2484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2021-02/GettyRF_533946197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Guide: Oregon Coast spots you don't want to miss this summer">
+                                <img itemprop="contentUrl url" src='https://katu.com/resources/media2/16x9/full/1015/center/80/fcba79df-cfe8-4428-bee9-c6464519b74d-large16x9_18879780_425045021214547_6751535284749336576_n.jpg' alt='Summer Guide: Oregon Coast spots you don't want to miss this summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KATU" />
+                                </span>
+                                <a href='https://katu.com/resources/media2/16x9/full/1015/center/80/fcba79df-cfe8-4428-bee9-c6464519b74d-large16x9_18879780_425045021214547_6751535284749336576_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Road Trip Guide: Must-See Sights Along Oregon's Coast">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/travel/trips/2020/08/1140-road-trip-map-oregon-coast.jpg' alt='Road Trip Guide: Must-See Sights Along Oregon's Coast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1129">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/travel/trips/2020/08/1140-road-trip-map-oregon-coast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Incredible Things To See & Do Along The Oregon Coast">
+                                <img itemprop="contentUrl url" src='https://funlifecrisis.com/wp-content/uploads/2021/01/Things-to-do-Oregon-Coast.jpg' alt='30 Incredible Things To See & Do Along The Oregon Coast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fun Life Crisis" />
+                                </span>
+                                <a href='https://funlifecrisis.com/wp-content/uploads/2021/01/Things-to-do-Oregon-Coast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oregon Coast | The Official Guide to Portland">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dragonspell/images/w_480,h_600,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_600/v1719279355/www.travelportland.com/oregon-coast-scaled-aspect-ratio-4-5/oregon-coast-scaled-aspect-ratio-4-5.jpg' alt='Oregon Coast | The Official Guide to Portland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Portland" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dragonspell/images/w_480,h_600,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_600/v1719279355/www.travelportland.com/oregon-coast-scaled-aspect-ratio-4-5/oregon-coast-scaled-aspect-ratio-4-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

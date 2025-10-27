@@ -1,0 +1,129 @@
+<title>Stunning Space Backgrounds - Capture the Cosmos</title>
+                    <meta name="description" content="Explore mesmerizing vertical space backgrounds, perfect for your digital projects. Elevate your screens with vibrant cosmic imagery featuring stars, galaxies, and nebulae. Ideal for wallpapers or art inspiration, these visuals bring the beauty of the universe right to your device. Discover the cosmos today!">
+                    <meta name="keywords" content="space background vertical">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/space-background-vertical">
+                            <span itemprop="name">space background vertical</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Backgrounds - Capture the Cosmos</h1>
+                <p>Discover the beauty of space with our stunning vertical backgrounds. Perfect for wallpapers, screensavers, or artistic projects, these cosmic images capture the vastness of the universe, showcasing stars, galaxies, and nebulae in vibrant colors. Transform your digital environment and inspire creativity with these awe-inspiring visuals that highlight the wonders of outer space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,927,500+ Vertical Space Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1176001906/photo/milky-way-rising-over-the-earths-horizon.jpg?s=612x612&w=0&k=20&c=ib9IdvQEVBsfkhv_QBSufEaNaDQyqkisiXSxBJbu4yo=' alt='3,927,500+ Vertical Space Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1176001906/photo/milky-way-rising-over-the-earths-horizon.jpg?s=612x612&w=0&k=20&c=ib9IdvQEVBsfkhv_QBSufEaNaDQyqkisiXSxBJbu4yo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep space travel to far away galaxies stock video 1515210353">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1515210353/video/deep-space-travel-to-far-away-galaxies.jpg?s=640x640&k=20&c=IXei6bCJ09YQg_jfrG-D-NZkvAeAndYkEp82wiUBf2E=' alt='Deep space travel to far away galaxies stock video 1515210353'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1515210353/video/deep-space-travel-to-far-away-galaxies.jpg?s=640x640&k=20&c=IXei6bCJ09YQg_jfrG-D-NZkvAeAndYkEp82wiUBf2E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Blue Space Wallpaper for iPhone 6+ : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/fdhKyseeen801x9wr1LJlLXb3KYKSrxQf9BUGikfFzo.jpg?auto=webp&s=f4b755d11757c1321f19f81f3fb50d3fa75e41ce' alt='Deep Blue Space Wallpaper for iPhone 6+ : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/fdhKyseeen801x9wr1LJlLXb3KYKSrxQf9BUGikfFzo.jpg?auto=webp&s=f4b755d11757c1321f19f81f3fb50d3fa75e41ce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Space Background Vertical Nebula | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-space-background-1080-x-1920-cvnxsk3ml8jdyzfa.jpg' alt='Download Galaxy Space Background Vertical Nebula | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-space-background-1080-x-1920-cvnxsk3ml8jdyzfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: space, galaxy, vertical, portrait display, night ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/c9/b4/0cc9b4acd303bf26f5f9f8c9d83b3e63.jpg' alt='HD wallpaper: space, galaxy, vertical, portrait display, night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/c9/b4/0cc9b4acd303bf26f5f9f8c9d83b3e63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical Outer Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vertical-outer-space-2zwgell1rn5edyul-3.jpg' alt='Vertical Outer Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vertical-outer-space-2zwgell1rn5edyul-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,927,500+ Vertical Space Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/473372886/photo/earth-at-night.jpg?s=612x612&w=0&k=20&c=qYGheEBxOHDT97quyAOxSOWLADWxvfiQnCWzXFlvCEc=' alt='3,927,500+ Vertical Space Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/473372886/photo/earth-at-night.jpg?s=612x612&w=0&k=20&c=qYGheEBxOHDT97quyAOxSOWLADWxvfiQnCWzXFlvCEc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space background in vertical format, flight through space.">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/space-background-vertical-format-flight-footage-251029779_iconl.jpeg' alt='Space background in vertical format, flight through space.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/space-background-vertical-format-flight-footage-251029779_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: space, vertical, night, star - space, astronomy, sky ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/2e/55/b92e55d005c95c22ac6f34e7297ef8a8.jpg' alt='HD wallpaper: space, vertical, night, star - space, astronomy, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/2e/55/b92e55d005c95c22ac6f34e7297ef8a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical Night Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vertical-night-sky-3c38e2irmokctrj1-3.jpg' alt='Vertical Night Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vertical-night-sky-3c38e2irmokctrj1-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

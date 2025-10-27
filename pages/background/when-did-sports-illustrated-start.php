@@ -1,0 +1,129 @@
+<title>When Did Sports Illustrated Start? A Brief History</title>
+                    <meta name="description" content="Discover the origins of Sports Illustrated, established in 1954 as a pioneering sports magazine. Learn how it transformed sports journalism with captivating stories and imagery, becoming a staple in sports culture. Explore its journey through the decades!">
+                    <meta name="keywords" content="when did sports illustrated start">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-sports-illustrated-start">
+                            <span itemprop="name">when did sports illustrated start</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did Sports Illustrated Start? A Brief History</h1>
+                <p>Sports Illustrated, a leading sports magazine in the United States, was founded in 1954. It was established by Henry Luce, who aimed to combine engaging storytelling with stunning photography focused on various sports. Over the years, the magazine has become iconic, providing in-depth coverage and features on athletes and events, and is now part of the fabric of sports culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Sportsillustrated_firstissue.jpg/220px-Sportsillustrated_firstissue.jpg' alt='Sports Illustrated - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Sportsillustrated_firstissue.jpg/220px-Sportsillustrated_firstissue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated | History, Ownership, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/132668-050-8E35A7DB/Brett-Favre-cover-Sports-Illustrated-2007.jpg' alt='Sports Illustrated | History, Ownership, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/132668-050-8E35A7DB/Brett-Favre-cover-Sports-Illustrated-2007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First Sports Illustrated Cover Remains an Iconic Image ...">
+                                <img itemprop="contentUrl url" src='https://discover.sportsengineplay.com/sites/default/files/images/1stSIcoverBravesonline.jpg' alt='The First Sports Illustrated Cover Remains an Iconic Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SportsEngine - SportsEngine Play" />
+                                </span>
+                                <a href='https://discover.sportsengineplay.com/sites/default/files/images/1stSIcoverBravesonline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated Swimsuit Issue - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/a0/First_SI_Swimsuit_Issue.jpg' alt='Sports Illustrated Swimsuit Issue - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="277">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/a0/First_SI_Swimsuit_Issue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Issue of Sports Illustrated Sold for Thousands of Dollars">
+                                <img itemprop="contentUrl url" src='https://blog.justcollect.com/hubfs/HeritageAuctions.jpeg' alt='First Issue of Sports Illustrated Sold for Thousands of Dollars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Just Collect Blog" />
+                                </span>
+                                <a href='https://blog.justcollect.com/hubfs/HeritageAuctions.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated 50th Anniversary 1954, Not A Bad Year To Sports ...">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/sports-illustrated-50th-anniversary-1954-not-a-bad-year-to-july-14-2003-sports-illustrated-cover.jpg' alt='Sports Illustrated 50th Anniversary 1954, Not A Bad Year To Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated Covers" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/sports-illustrated-50th-anniversary-1954-not-a-bad-year-to-july-14-2003-sports-illustrated-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated: 10 things you didn't know about our first ...">
+                                <img itemprop="contentUrl url" src='https://vault.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY5MDk4NDY3OTE1NjcxMDAz/aug-16-cover4jpg.jpg' alt='Sports Illustrated: 10 things you didn't know about our first ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated Vault" />
+                                </span>
+                                <a href='https://vault.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY5MDk4NDY3OTE1NjcxMDAz/aug-16-cover4jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated | History, Ownership, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/58/136158-050-9801D5A3/New-York-Yankees-Derek-Jeter-Sports-Illustrated-2009.jpg' alt='Sports Illustrated | History, Ownership, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/58/136158-050-9801D5A3/New-York-Yankees-Derek-Jeter-Sports-Illustrated-2009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Illustrated | Modern US Culture Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/usmodernculture/images/9/9d/Sportsillustrated_firstissue.jpg/revision/latest?cb=20080317171104' alt='Sports Illustrated | Modern US Culture Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern US Culture Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/usmodernculture/images/9/9d/Sportsillustrated_firstissue.jpg/revision/latest?cb=20080317171104' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things You Didn't Know About The First Issue Of Sports ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/c_fill,w_1200,ar_16:9,f_auto,q_auto,g_auto/MTkyMDExMzc4MDkxODk0MjE1/image-1.jpg' alt='10 Things You Didn't Know About The First Issue Of Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/c_fill,w_1200,ar_16:9,f_auto,q_auto,g_auto/MTkyMDExMzc4MDkxODk0MjE1/image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kobe Bryant Wallpaper for PC: Capture the Legend!</title>
+                    <meta name="description" content="Discover amazing Kobe Bryant wallpapers for your PC! Enhance your desktop with striking images that honor the legacy of this basketball icon. Perfect for fans looking to personalize their workspace, these wallpapers offer inspiration and motivation every day. Download your favorite designs now!">
+                    <meta name="keywords" content="kobe bryant wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/kobe-bryant-wallpaper-pc">
+                            <span itemprop="name">kobe bryant wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kobe Bryant Wallpaper for PC: Capture the Legend!</h1>
+                <p>Transform your PC's look with stunning Kobe Bryant wallpapers! Celebrate the legacy of this basketball legend with vibrant, high-resolution images that capture his iconic moments on the court. Perfect for fans, these wallpapers bring inspiration and motivation to your daily routine. Customize your desktop and pay homage to greatness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Desktop 4k Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kobe-44_63869980827109.8.jpg' alt='Kobe Bryant Desktop 4k Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kobe-44_63869980827109.8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Quotes Wallpapers - Top Free Kobe Bryant Quotes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/71/f0/3871f05941796308c4fbcfa1d3420e76.jpg' alt='Kobe Bryant Quotes Wallpapers - Top Free Kobe Bryant Quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/71/f0/3871f05941796308c4fbcfa1d3420e76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kobe Bryant 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-bryant-cool-confetti-1i4q40k8428z0k6i.jpg' alt='100+] Kobe Bryant 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-bryant-cool-confetti-1i4q40k8428z0k6i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kobe Bryant HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/136/1362034.jpeg' alt='Download Kobe Bryant HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/136/1362034.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA 2K21 Kobe "24" Bryant Wallpaper in 4K : r/NBA2k">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/h4icwmx1wh851.png?auto=webp&s=59f386aaa4a2318fae26d3e5205f650fb493cc75' alt='NBA 2K21 Kobe "24" Bryant Wallpaper in 4K : r/NBA2k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/h4icwmx1wh851.png?auto=webp&s=59f386aaa4a2318fae26d3e5205f650fb493cc75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant HD Basketball Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/776/thumb-1920-776032.png' alt='Kobe Bryant HD Basketball Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/776/thumb-1920-776032.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpapers (32 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/6/0/7117-3840x2160-desktop-4k-kobe-bryant-background-photo.jpg' alt='Kobe Bryant Wallpapers (32 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/6/0/7117-3840x2160-desktop-4k-kobe-bryant-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/kobe-bryant-chromebook-wallpaper.jpg' alt='Kobe Bryant Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/kobe-bryant-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper The ball, Basketball, Los Angeles, NBA, Lakers, Kobe ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2560x1440/9/8e/kobe-bryant-kobi-brayant-los-3877.jpg' alt='Wallpaper The ball, Basketball, Los Angeles, NBA, Lakers, Kobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2560x1440/9/8e/kobe-bryant-kobi-brayant-los-3877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA 2K21 Kobe "8" Bryant Wallpaper in 4K : r/NBA2k">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/71b7sur5wh851.png?auto=webp&s=331e726871861521fe78deb3e61a31a8e34f54a9' alt='NBA 2K21 Kobe "8" Bryant Wallpaper in 4K : r/NBA2k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/71b7sur5wh851.png?auto=webp&s=331e726871861521fe78deb3e61a31a8e34f54a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

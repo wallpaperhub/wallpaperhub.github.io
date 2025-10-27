@@ -1,0 +1,129 @@
+<title>Explore the Fascinating History of Salem</title>
+                    <meta name="description" content="Discover Salem's rich history, from the infamous witch trials of 1692 to its thriving maritime trade. Uncover the stories behind its historic sites and enjoy the vibrant culture that makes Salem a unique destination today.">
+                    <meta name="keywords" content="salem history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/salem-history">
+                            <span itemprop="name">salem history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Fascinating History of Salem</h1>
+                <p>Salem, a historic city in Massachusetts, is known for its infamous witch trials of 1692, where fear led to the persecution of innocent people. Founded in 1626, Salem was a significant maritime center in colonial America, thriving on trade and commerce. Today, it celebrates its rich history with museums, festivals, and preserved sites.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Salem, MA | Salem Historical Timeline">
+                                <img itemprop="contentUrl url" src='https://www.salem.org/wp-content/uploads/2023/12/Salem-Old-North-Bridge-Leslie-Retreat-800x800.jpg' alt='History Of Salem, MA | Salem Historical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Salem" />
+                                </span>
+                                <a href='https://www.salem.org/wp-content/uploads/2023/12/Salem-Old-North-Bridge-Leslie-Retreat-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salem Witch Trials ‑ Events, Facts & Victims | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2011/11/salem-witch-trials-gettyimages-51246068.jpg' alt='Salem Witch Trials ‑ Events, Facts & Victims | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2600">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2011/11/salem-witch-trials-gettyimages-51246068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Salem, MA | Salem Historical Timeline">
+                                <img itemprop="contentUrl url" src='https://www.salem.org/wp-content/uploads/2023/12/47534469902_269cb9f123_k-1-800x800.jpg' alt='History Of Salem, MA | Salem Historical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Salem" />
+                                </span>
+                                <a href='https://www.salem.org/wp-content/uploads/2023/12/47534469902_269cb9f123_k-1-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Salem Witch Trials 1692 | Haunted Happenings">
+                                <img itemprop="contentUrl url" src='https://www.hauntedhappenings.org/wp-content/uploads/2022/08/Witchcraft-at-Salem-Village-by-unattributed-William-A.-Crafts-1876-Pioneers-in-the-settlement-of-America-from-Florida-in-1510-to-California-in-1849-1024x712-1-2000x1125.jpg' alt='The Salem Witch Trials 1692 | Haunted Happenings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Salem Haunted Happenings" />
+                                </span>
+                                <a href='https://www.hauntedhappenings.org/wp-content/uploads/2022/08/Witchcraft-at-Salem-Village-by-unattributed-William-A.-Crafts-1876-Pioneers-in-the-settlement-of-America-from-Florida-in-1510-to-California-in-1849-1024x712-1-2000x1125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salem witch trials - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Salem_witch2.jpg' alt='Salem witch trials - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10027">
+                                <meta itemprop="height" content="6587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f9/Salem_witch2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of the Salem Witch Trials | Smithsonian">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/28o2Jb6ePZHSS1SprymWTC308zM=/1000x750/filters:no_upscale():focal(1280x914:1281x915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/e6/40e69d4a-6016-4815-ba7a-01fce1bb2e5d/examination_of_a_witch_-_tompkins_matteson.jpeg' alt='A Brief History of the Salem Witch Trials | Smithsonian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/28o2Jb6ePZHSS1SprymWTC308zM=/1000x750/filters:no_upscale():focal(1280x914:1281x915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/e6/40e69d4a-6016-4815-ba7a-01fce1bb2e5d/examination_of_a_witch_-_tompkins_matteson.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Salem, MA | Salem Historical Timeline">
+                                <img itemprop="contentUrl url" src='https://www.salem.org/wp-content/uploads/2017/03/first-muster-800x800.png' alt='History Of Salem, MA | Salem Historical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Salem" />
+                                </span>
+                                <a href='https://www.salem.org/wp-content/uploads/2017/03/first-muster-800x800.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TAMUC History Professor Busts Myths About The Salem Witch Trials ...">
+                                <img itemprop="contentUrl url" src='https://www.tamuc.edu/wp-content/uploads/2023/10/Bridget-Bishop-Drawing-by-Beale.jpeg' alt='TAMUC History Professor Busts Myths About The Salem Witch Trials ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas A&M University-Commerce" />
+                                </span>
+                                <a href='https://www.tamuc.edu/wp-content/uploads/2023/10/Bridget-Bishop-Drawing-by-Beale.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Salem, MA | Salem Historical Timeline">
+                                <img itemprop="contentUrl url" src='https://www.salem.org/wp-content/uploads/2023/12/1280px-Professor_Bell_in_Lyceum_Hall_Salem_addressing_a_party_of_scientific_men_in_Boston_-_From_sketches_by_E.R._Morse._LCCN2014645960-800x800.jpg' alt='History Of Salem, MA | Salem Historical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Destination Salem" />
+                                </span>
+                                <a href='https://www.salem.org/wp-content/uploads/2023/12/1280px-Professor_Bell_in_Lyceum_Hall_Salem_addressing_a_party_of_scientific_men_in_Boston_-_From_sketches_by_E.R._Morse._LCCN2014645960-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn some history': Mayor of Salem, Mass., blasts Trump over ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2019_44/3077111/191030-salem-witch-trial-lithograph-ac-622p.jpg' alt='Learn some history': Mayor of Salem, Mass., blasts Trump over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="869">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2019_44/3077111/191030-salem-witch-trial-lithograph-ac-622p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

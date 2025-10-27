@@ -1,0 +1,129 @@
+<title>Stunning Messi Ballon d'Or 2023 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best Messi Ballon d'Or 2023 wallpapers to enhance your device. Immerse yourself in high-quality images that celebrate the football icon's incredible career and achievements. Perfect for fans and enthusiasts looking to showcase their love for Messi in style!">
+                    <meta name="keywords" content="messi ballon d'or 2023 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-ballon-dor-2023-wallpaper">
+                            <span itemprop="name">messi ballon d'or 2023 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Messi Ballon d'Or 2023 Wallpapers for Your Device</h1>
+                <p>Celebrate Lionel Messi's remarkable achievement with stunning wallpapers featuring his 2023 Ballon d'Or victory! These high-resolution images capture the essence of this football legend, showcasing his passion and brilliance on the field. Perfect for fans looking to adorn their devices with Messi's iconic moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi 2023 ballon d'or wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/bc/64/3cbc64590d29b812775826f205310f4b.jpg' alt='Messi 2023 ballon d'or wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/bc/64/3cbc64590d29b812775826f205310f4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballon d'Or 2023: Lionel Messi scripts history with eighth win ...">
+                                <img itemprop="contentUrl url" src='https://sm.mashable.com/mashable_me/seo/default/untitled-design-2023-10-31t110310761_kyc1.png' alt='Ballon d'Or 2023: Lionel Messi scripts history with eighth win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable ME" />
+                                </span>
+                                <a href='https://sm.mashable.com/mashable_me/seo/default/untitled-design-2023-10-31t110310761_kyc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nawaz (@Naawaazz) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F9uEkqmagAA2DnR?format=jpg&name=large' alt='Nawaz (@Naawaazz) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F9uEkqmagAA2DnR?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballon d'Or 2023 results - Messi wins eighth award, Bellingham and ...">
+                                <img itemprop="contentUrl url" src='https://i2-prod.football.london/incoming/article28013897.ece/ALTERNATES/s1200b/0_GettyImages-1754429776.jpg' alt='Ballon d'Or 2023 results - Messi wins eighth award, Bellingham and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Football London" />
+                                </span>
+                                <a href='https://i2-prod.football.london/incoming/article28013897.ece/ALTERNATES/s1200b/0_GettyImages-1754429776.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD ballon dor wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/4/821/HD-wallpaper-messi-with-ballon-dor-messi-ballon-dor-sports-footballer-goat.jpg' alt='HD ballon dor wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/4/821/HD-wallpaper-messi-with-ballon-dor-messi-ballon-dor-sports-footballer-goat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Ballon Dor Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/57/52/fe/5752fe85104689f7d0e9e2b309d3df52.jpg' alt='Messi Ballon Dor Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/57/52/fe/5752fe85104689f7d0e9e2b309d3df52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,305 Lionel Messi Ballon D Or Stock Photos, High-Res Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1765724698/photo/paris-france-lionel-messi-attends-the-67th-ballon-dor-ceremony-at-theatre-du-chatelet-on.jpg?s=612x612&w=gi&k=20&c=BaafcHHzaQBGpPNj8LQ3nFAsDnIV9tBf_kFSBj0NSQ8=' alt='2,305 Lionel Messi Ballon D Or Stock Photos, High-Res Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1765724698/photo/paris-france-lionel-messi-attends-the-67th-ballon-dor-ceremony-at-theatre-du-chatelet-on.jpg?s=612x612&w=gi&k=20&c=BaafcHHzaQBGpPNj8LQ3nFAsDnIV9tBf_kFSBj0NSQ8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAM on X: "• 4k #Wallpapers •   Ballon D'Or •   Lionel Messi ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F44_Hr2WMAAKOFS?format=jpg&name=4096x4096' alt='SAM on X: "• 4k #Wallpapers •   Ballon D'Or •   Lionel Messi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1875">
+                                <meta itemprop="height" content="4062">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F44_Hr2WMAAKOFS?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Lionel Messi Ballon D'Or 2023">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/b8/13/e5b8130bf193dc5a57ffce9abc16916b.jpg' alt='4k Wallpaper Lionel Messi Ballon D'Or 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/b8/13/e5b8130bf193dc5a57ffce9abc16916b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballon d'Or 2023 live updates: Lionel Messi wins men's award for ...">
+                                <img itemprop="contentUrl url" src='https://cdn-media.theathletic.com/cdn-cgi/image/width=1200,height=1200,fit=cover/V946EQBmSmh8_R9tWITz5oIUv_1440x960.jpg' alt='Ballon d'Or 2023 live updates: Lionel Messi wins men's award for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://cdn-media.theathletic.com/cdn-cgi/image/width=1200,height=1200,fit=cover/V946EQBmSmh8_R9tWITz5oIUv_1440x960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

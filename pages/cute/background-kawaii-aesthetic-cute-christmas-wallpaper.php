@@ -1,0 +1,129 @@
+<title>Cute Kawaii Christmas Wallpaper for Your Festive Vibe</title>
+                    <meta name="description" content="Discover the cutest kawaii Christmas wallpapers! Perfect for adding a festive touch to your devices, these delightful backgrounds feature charming designs that spread joy and cheer during the holiday season. Enhance your aesthetic and celebrate with style by downloading now!">
+                    <meta name="keywords" content="background kawaii aesthetic cute christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/background-kawaii-aesthetic-cute-christmas-wallpaper">
+                            <span itemprop="name">background kawaii aesthetic cute christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Kawaii Christmas Wallpaper for Your Festive Vibe</h1>
+                <p>Celebrate the festive season with adorable kawaii aesthetic Christmas wallpapers! Featuring cute characters, whimsical designs, and vibrant colors, these wallpapers bring joy and cheer to your device. Perfect for creating a cozy holiday atmosphere, each background adds a touch of love and happiness to your screen. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15708469/p/f/m/GszeVYDdaVwtlDcDABaOBKd9qYp-s_uDdCaMytp2iRAKX0PmPwb2ERwAGA/Cute%20kawaii%20Christmas%20%2Cpastel%20christmas%20purple%20WB23%20small%20scale.jpg' alt='Kawaii Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15708469/p/f/m/GszeVYDdaVwtlDcDABaOBKd9qYp-s_uDdCaMytp2iRAKX0PmPwb2ERwAGA/Cute%20kawaii%20Christmas%20%2Cpastel%20christmas%20purple%20WB23%20small%20scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Christmas Kawaii Wallpapers - Crafty Cici Joy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/9d/eb/839deb4cb6793378571a6633e56fa47c.jpg' alt='50 Christmas Kawaii Wallpapers - Crafty Cici Joy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/9d/eb/839deb4cb6793378571a6633e56fa47c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Kawaii Wallpapers [36+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/432/kawaii-christmas-wallpaper-laptop-2048x1468.jpg' alt='Christmas Kawaii Wallpapers [36+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/432/kawaii-christmas-wallpaper-laptop-2048x1468.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Christmas Kawaii Wallpapers - Crafty Cici Joy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/e2/17/35e217f86ef5db73e990f4f84773a944.jpg' alt='50 Christmas Kawaii Wallpapers - Crafty Cici Joy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/e2/17/35e217f86ef5db73e990f4f84773a944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-christmas-socks-wpp8xo5s04lq2rq6.jpg' alt='100+] Kawaii Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-christmas-socks-wpp8xo5s04lq2rq6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peach & Goma Christmas Reindeer Sleigh Ride Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/12/peach-goma-christmas-riendeer-desktop-wallpaper-kawaii-hoshi.jpg' alt='Peach & Goma Christmas Reindeer Sleigh Ride Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/12/peach-goma-christmas-riendeer-desktop-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Kawaii Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7868771.jpg' alt='Aesthetic Christmas Kawaii Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7868771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-christmas-molang-0nrseup2492se8kb.jpg' alt='100+] Kawaii Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-christmas-molang-0nrseup2492se8kb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Kawaii Wallpapers [36+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/432/kawaii-christmas-phone-wallpaper-720x1280.jpg' alt='Christmas Kawaii Wallpapers [36+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/432/kawaii-christmas-phone-wallpaper-720x1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Christmas Kawaii Wallpapers 51 | Kawaii wallpaper, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/1e/27/591e276d36f97c3de674a9872a5e0f91.jpg' alt='50 Christmas Kawaii Wallpapers 51 | Kawaii wallpaper, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/1e/27/591e276d36f97c3de674a9872a5e0f91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

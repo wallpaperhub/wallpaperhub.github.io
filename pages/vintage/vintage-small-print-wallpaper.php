@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Small Print Wallpaper</title>
+                    <meta name="description" content="Explore the beauty of vintage small print wallpaper. Perfect for adding character and a cozy feel to your home, these timeless designs are ideal for any decor. Revitalize your space with unique patterns that blend history and style. Find your perfect match today!">
+                    <meta name="keywords" content="vintage small print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-small-print-wallpaper">
+                            <span itemprop="name">vintage small print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Small Print Wallpaper</h1>
+                <p>Vintage small print wallpaper adds a touch of nostalgia and charm to any room. With intricate designs and a variety of patterns, these wallpapers evoke timeless elegance. Perfect for accent walls or cozy nooks, they transform spaces into inviting retreats. Discover how vintage styles can enhance your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Small Pattern Floral… | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/vintage-small-pattern-floral-wallpaper-1/_1000xAUTO_cover_center-center_line/Vintage-Small-Pattern-Floral-Wallpaper2.jpeg' alt='Vintage Small Pattern Floral… | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/vintage-small-pattern-floral-wallpaper-1/_1000xAUTO_cover_center-center_line/Vintage-Small-Pattern-Floral-Wallpaper2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Gridded Pattern of Small Crosses - Antique Wallpaper Remnant">
+                                <img itemprop="contentUrl url" src='https://bollingco.com/cdn/shop/products/WQ-10265-MF.jpg?v=1498260603' alt='Fine Gridded Pattern of Small Crosses - Antique Wallpaper Remnant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bolling & Company" />
+                                </span>
+                                <a href='https://bollingco.com/cdn/shop/products/WQ-10265-MF.jpg?v=1498260603' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Botanical Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_8849_1.jpg?v=1548189166' alt='1970s Botanical Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures Vintage Wallpaper" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_8849_1.jpg?v=1548189166' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Vintage Wallpaper Small Blue Flowers Vinyl - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3076/13640/vintage-wallpaper-84__91328.1676737109.jpg?c=2' alt='1970s Vintage Wallpaper Small Blue Flowers Vinyl - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3076/13640/vintage-wallpaper-84__91328.1676737109.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Small Prints Wallpapers Online – DecoratorsBest">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6840979324974_f6e9c0be-ad87-48eb-b07c-cfd78cf248b3_2048x.jpg?v=1671075278' alt='Buy Small Prints Wallpapers Online – DecoratorsBest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6840979324974_f6e9c0be-ad87-48eb-b07c-cfd78cf248b3_2048x.jpg?v=1671075278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Pink Floral Wallpaper, Antique Victorian Rose Vine, Shabby Chic  Cottage Farmhouse, Old Country English Garden -By The Yard MD29401so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/597cbb/2185701627/il_fullxfull.2185701627_oeom.jpg' alt='Small Pink Floral Wallpaper, Antique Victorian Rose Vine, Shabby Chic  Cottage Farmhouse, Old Country English Garden -By The Yard MD29401so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1331">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/597cbb/2185701627/il_fullxfull.2185701627_oeom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Rolls Ginger Tree Designs Small Print MCM Atomic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6958190/r/il/7cd8b0/2641766832/il_570xN.2641766832_4h79.jpg' alt='Vintage Wallpaper Rolls Ginger Tree Designs Small Print MCM Atomic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6958190/r/il/7cd8b0/2641766832/il_570xN.2641766832_4h79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Tiny Block Print' Wallpaper by Sugar Paper - French Blue On White">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Small_block_print_blue-on-white_D_detail_1024x1024_4b36aa10-df99-473d-b2f4-6a4b169ac746_1080x.jpg?v=1633378193' alt=''Tiny Block Print' Wallpaper by Sugar Paper - French Blue On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Small_block_print_blue-on-white_D_detail_1024x1024_4b36aa10-df99-473d-b2f4-6a4b169ac746_1080x.jpg?v=1633378193' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Geometric Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_5295_1.jpg?v=1422990556' alt='1950s Geometric Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_5295_1.jpg?v=1422990556' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Vintage Wallpaper Small Flowers on Mauve">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3083/15007/vintage-wallpaper-67__62364.1714466789.jpg?c=2' alt='1940s Vintage Wallpaper Small Flowers on Mauve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3083/15007/vintage-wallpaper-67__62364.1714466789.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

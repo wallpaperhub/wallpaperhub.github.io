@@ -1,0 +1,129 @@
+<title>Charming Santa Aesthetic Wallpaper for Your Festive Home</title>
+                    <meta name="description" content="Discover enchanting Santa aesthetic wallpaper to elevate your holiday decor! Perfect for creating a cheerful atmosphere, these designs feature Santa and festive elements that capture the essence of Christmas. Ideal for homes, offices, or holiday events!">
+                    <meta name="keywords" content="santa aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/santa-aesthetic-wallpaper">
+                            <span itemprop="name">santa aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Santa Aesthetic Wallpaper for Your Festive Home</h1>
+                <p>Embrace the festive spirit with Santa aesthetic wallpaper that transforms your space into a winter wonderland! Featuring whimsical designs of Santa Claus, snowflakes, and cozy holiday elements, these wallpapers bring warmth and charm to your home. Perfect for creating a magical ambiance for the holidays!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Aesthetic Phone Wallpapers: 100 Backgrounds - Crafty Cici Joy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/e3/d1/dbe3d18578386df4575dd57b9d3b2ffe.jpg' alt='Santa Aesthetic Phone Wallpapers: 100 Backgrounds - Crafty Cici Joy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/e3/d1/dbe3d18578386df4575dd57b9d3b2ffe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus Aesthetic Christmas Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/santa-claus-aesthetic-christmas-iphone-krbqdzpnez0ezyhm.jpg' alt='Santa Claus Aesthetic Christmas Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/santa-claus-aesthetic-christmas-iphone-krbqdzpnez0ezyhm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas WallpaperWinter seasonChristmas mobile wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/f4/69/82f4690b084f7b1db099777810d19029.jpg' alt='Christmas WallpaperWinter seasonChristmas mobile wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/f4/69/82f4690b084f7b1db099777810d19029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Santa Claus Simple Aesthetic Cute Christmas Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/santa-claus-simple-aesthetic-cute-christmas-f5irpdpykoucbpww.jpg' alt='Download Santa Claus Simple Aesthetic Cute Christmas Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/santa-claus-simple-aesthetic-cute-christmas-f5irpdpykoucbpww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpapers for a Magical Holiday Phone, Santa ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/aa/96/5aaa9656ed798740f5a5bbf7031c5b9d.jpg' alt='Aesthetic Christmas Wallpapers for a Magical Holiday Phone, Santa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/aa/96/5aaa9656ed798740f5a5bbf7031c5b9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Santa Claus Simple Christmas Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-santa-claus-simple-christmas-tosl52v45am36ndw.jpg' alt='Cute Santa Claus Simple Christmas Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-santa-claus-simple-christmas-tosl52v45am36ndw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Santa Claus Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/77/21/d97721afac036591fc5bc01fe4c869be.jpg' alt='Cute Santa Claus Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/77/21/d97721afac036591fc5bc01fe4c869be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus and His Puppy: A Christmas 4K Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7445026741468351774&location=0&aid=1988' alt='Santa Claus and His Puppy: A Christmas 4K Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7445026741468351774&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Cute Santa Illustrations To Make You Say Awwww">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/d5/6e/88d56ea4e486407c926121d0bd6f3b71.jpg' alt='40 Cute Santa Illustrations To Make You Say Awwww'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/d5/6e/88d56ea4e486407c926121d0bd6f3b71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Santa Claus Jazz Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-christmas-santa-claus-jazz-5g3jwf26llgziwvk-3.jpg' alt='Cute Christmas Santa Claus Jazz Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="1715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-christmas-santa-claus-jazz-5g3jwf26llgziwvk-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

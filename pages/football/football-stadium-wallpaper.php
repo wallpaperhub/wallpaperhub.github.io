@@ -1,0 +1,129 @@
+<title>Football Stadium Wallpaper - Ignite Your Passion for the Game</title>
+                    <meta name="description" content="Explore our collection of football stadium wallpaper to bring the excitement of the game into your home! Perfect for avid fans, these stunning designs enhance any room with vibrant energy while showcasing your love for football. Discover your perfect match today!">
+                    <meta name="keywords" content="football stadium wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-stadium-wallpaper">
+                            <span itemprop="name">football stadium wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football Stadium Wallpaper - Ignite Your Passion for the Game</h1>
+                <p>Transform your space with stunning football stadium wallpaper! Perfect for any fan, this wallpaper captures the electrifying atmosphere of your favorite games. Whether it's a vibrant stadium packed with cheering fans or a serene night view, these designs energize your room and celebrate your passion for the sport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Stadium Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' alt='Football Stadium Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240981/Football-Stadium-Wallpaper-Mural.jpg?v=638164439006100000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1502846052/photo/textured-soccer-game-field-with-neon-fog-center-midfield.jpg?s=612x612&w=0&k=20&c=LPSo6ps1NfZ_xviL0tmhnnrcLjjFXAQhsYr3qAOfviY=' alt='83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1502846052/photo/textured-soccer-game-field-with-neon-fog-center-midfield.jpg?s=612x612&w=0&k=20&c=LPSo6ps1NfZ_xviL0tmhnnrcLjjFXAQhsYr3qAOfviY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Night Sky Sports Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/1_7958be68-26da-4c05-903c-120a0ced29c2.jpg?v=1655886094' alt='Stadium Night Sky Sports Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/1_7958be68-26da-4c05-903c-120a0ced29c2.jpg?v=1655886094' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Stadium Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/240933/American-Football-Stadium-Wallpaper-Mural.jpg?v=638164819119970000' alt='American Football Stadium Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2286">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/240933/American-Football-Stadium-Wallpaper-Mural.jpg?v=638164819119970000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/512735894/photo/stadium.jpg?s=612x612&w=0&k=20&c=8j_rhs6apjSL-JnyJWhOpYKuBSbanKwSJGnzNS627zo=' alt='83,600+ Football Stadium Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/512735894/photo/stadium.jpg?s=612x612&w=0&k=20&c=8j_rhs6apjSL-JnyJWhOpYKuBSbanKwSJGnzNS627zo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Background American Images – Browse 153,518 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/97/44/57/360_F_97445702_faYBL0ObQgGxnUOahUiIzY1w2mnJ2g4Y.jpg' alt='Football Background American Images – Browse 153,518 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/97/44/57/360_F_97445702_faYBL0ObQgGxnUOahUiIzY1w2mnJ2g4Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Stadium Mural Wall Art & Wallpaper Modern Football Soccer ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/de6ea4/4768683924/il_fullxfull.4768683924_6b1b.jpg' alt='Football Stadium Mural Wall Art & Wallpaper Modern Football Soccer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/de6ea4/4768683924/il_fullxfull.4768683924_6b1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD football stadium wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/299/703/HD-wallpaper-football-field-abstract-art-football-stadium-soccer-stadium-football-stands.jpg' alt='HD football stadium wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/299/703/HD-wallpaper-football-field-abstract-art-football-stadium-soccer-stadium-football-stands.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Mural - Football Stadium - Photo Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/b/e/behang-met-een-voetbalstadion_6.jpg' alt='Wallpaper Mural - Football Stadium - Photo Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/296967dd00486cb8867f6b6fbb192224/b/e/behang-met-een-voetbalstadion_6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,697 American Football Field Background Images, Stock Photos, 3D ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/packed-american-football-stadium-night-600nw-2483497829.jpg' alt='47,697 American Football Field Background Images, Stock Photos, 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/packed-american-football-stadium-night-600nw-2483497829.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

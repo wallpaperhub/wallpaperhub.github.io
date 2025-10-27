@@ -1,0 +1,129 @@
+<title>Richie Rich Comics: Adventures of the Wealthy Whiz Kid</title>
+                    <meta name="description" content="Discover the whimsical world of Richie Rich comics! Follow the adventures of the world's richest boy as he navigates life, friendship, and fun with his trusty dog, Dollar. Perfect for fans of humor and heartwarming stories, these comics captivate readers young and old! Dive into a treasure trove of laughter and adventure now.">
+                    <meta name="keywords" content="richie rich comics">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/richie-rich-comics">
+                            <span itemprop="name">richie rich comics</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Richie Rich Comics: Adventures of the Wealthy Whiz Kid</h1>
+                <p>Richie Rich comics have charmed readers for decades, featuring the adventures of the wealthiest boy in the world. With his endless fortune, Richie embarks on whimsical escapades alongside his friends and his loyal dog, Dollar. These comics balance humor and heart, showcasing themes of friendship, generosity, and the joys of childhood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/18/Richie_Rich_comic_No_254.jpg' alt='Richie Rich (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="255">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/18/Richie_Rich_comic_No_254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich: The Poor Little Rich Boy (Harvey Comics Classics, Vol. 2 )">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91E6ChgxKpL._AC_UF1000,1000_QL80_.jpg' alt='Richie Rich: The Poor Little Rich Boy (Harvey Comics Classics, Vol. 2 )'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91E6ChgxKpL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich | Harvey Comics Database Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/harveycomicsdatabase/images/3/3c/Richie_Rich_comic_No_1.jpg/revision/latest?cb=20120116045728' alt='Richie Rich | Harvey Comics Database Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="395">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvey Comics Database Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/harveycomicsdatabase/images/3/3c/Richie_Rich_comic_No_1.jpg/revision/latest?cb=20120116045728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich (1960 1st Series) comic books">
+                                <img itemprop="contentUrl url" src='https://media.mycomicshop.com/n_iv/600/763661.jpg' alt='Richie Rich (1960 1st Series) comic books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyComicShop" />
+                                </span>
+                                <a href='https://media.mycomicshop.com/n_iv/600/763661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich">
+                                <img itemprop="contentUrl url" src='https://www.uky.edu/Projects/Chemcomics/assets/images/rrgs_1_c.jpg' alt='Richie Rich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.uky.edu" />
+                                </span>
+                                <a href='https://www.uky.edu/Projects/Chemcomics/assets/images/rrgs_1_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Richie Rich Big Bucks #2 FN ; Harvey comic book ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Vve0jEhSL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Richie Rich Big Bucks #2 FN ; Harvey comic book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Vve0jEhSL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich #43 1967 - Harvey -G - Comic Book">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/LPEAAOSwj2FjBSxd/s-l1200.jpg' alt='Richie Rich #43 1967 - Harvey -G - Comic Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/LPEAAOSwj2FjBSxd/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvey Comics Classics Volume 2: Richie Rich TPB :: Profile ...">
+                                <img itemprop="contentUrl url" src='https://d2lzb5v10mb0lj.cloudfront.net/covers/300/14/14340.jpg' alt='Harvey Comics Classics Volume 2: Richie Rich TPB :: Profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dark Horse Comics" />
+                                </span>
+                                <a href='https://d2lzb5v10mb0lj.cloudfront.net/covers/300/14/14340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie RIch Collector Comics #11 – Comic Kingdom Creative">
+                                <img itemprop="contentUrl url" src='https://comickingdomcreative.com/cdn/shop/products/1655748259439-d863b534-26ad-4388-89ef-3b8624797754_1024x1024.jpg?v=1655752863' alt='Richie RIch Collector Comics #11 – Comic Kingdom Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comic Kingdom Creative" />
+                                </span>
+                                <a href='https://comickingdomcreative.com/cdn/shop/products/1655748259439-d863b534-26ad-4388-89ef-3b8624797754_1024x1024.jpg?v=1655752863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superichie 10 Richie Rich Comic">
+                                <img itemprop="contentUrl url" src='https://bazaar-bucket-production.s3.amazonaws.com/993ee3df-1217-4938-a580-0ac41f7a25c9.jpg' alt='Superichie 10 Richie Rich Comic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1532">
+                                <meta itemprop="height" content="2353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="District.net" />
+                                </span>
+                                <a href='https://bazaar-bucket-production.s3.amazonaws.com/993ee3df-1217-4938-a580-0ac41f7a25c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

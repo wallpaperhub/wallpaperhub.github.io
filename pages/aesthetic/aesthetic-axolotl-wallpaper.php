@@ -1,0 +1,129 @@
+<title>Aesthetic Axolotl Wallpapers - Unique Designs for Your Screens</title>
+                    <meta name="description" content="Discover vibrant and unique aesthetic axolotl wallpapers that bring joy to your screens. Perfect for showcasing your love for these adorable amphibians, our collection features enchanting designs that add a whimsical touch to your digital devices. Explore now and transform your aesthetic!">
+                    <meta name="keywords" content="aesthetic axolotl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-axolotl-wallpaper">
+                            <span itemprop="name">aesthetic axolotl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Axolotl Wallpapers - Unique Designs for Your Screens</h1>
+                <p>Aesthetic axolotl wallpaper combines vibrant colors and charming designs to create a visually stunning backdrop for your digital devices. Perfect for anyone who loves these unique creatures, these wallpapers evoke a sense of whimsy and playfulness. Transform your screens into a serene underwater paradise with delightful axolotl aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute axolotl artwork : r/axolotls">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cute-axolotl-artwork-v0-z1mi8ivzyr7e1.png?width=640&crop=smart&auto=webp&s=f3fd8ad8338dfc11fe8d514e3cfb8fb6b44f703f' alt='Cute axolotl artwork : r/axolotls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cute-axolotl-artwork-v0-z1mi8ivzyr7e1.png?width=640&crop=smart&auto=webp&s=f3fd8ad8338dfc11fe8d514e3cfb8fb6b44f703f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Wallpaper Aesthetic: Exploring the Delightful World of ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/6f/ff/9d6fff7a35bb186257624520a33f7570.jpg' alt='Axolotl Wallpaper Aesthetic: Exploring the Delightful World of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/6f/ff/9d6fff7a35bb186257624520a33f7570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute wallpaper <3 : r/axolotls">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5p1ynxre0al71.jpg' alt='cute wallpaper <3 : r/axolotls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5p1ynxre0al71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Wallpaper, Kawaii Digital Wallpaper, Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34805595/r/il/0c46b4/4655582948/il_fullxfull.4655582948_9yav.jpg' alt='Axolotl Wallpaper, Kawaii Digital Wallpaper, Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34805595/r/il/0c46b4/4655582948/il_fullxfull.4655582948_9yav.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Axolotl - Wallpapers. on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6a/80/d9/6a80d964-985e-e87d-22e1-1882f131fd1b/d9516328-baa1-481f-bf9b-a31d4cb174af_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2022-06-03_at_11.49.40.png/300x0w.jpg' alt='Cute Axolotl - Wallpapers. on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6a/80/d9/6a80d964-985e-e87d-22e1-1882f131fd1b/d9516328-baa1-481f-bf9b-a31d4cb174af_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2022-06-03_at_11.49.40.png/300x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Axolotl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-axolotl-in-astronaut-suit-digital-painting-jmea90d2gze84skk.jpg' alt='100+] Cute Axolotl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-axolotl-in-astronaut-suit-digital-painting-jmea90d2gze84skk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy axolotl by pikaole on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99f56b87-b792-4bdb-aa39-afad37493ec4/dfeumr5-991c2354-03e2-468f-bd8a-2cee82bda17d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5ZjU2Yjg3LWI3OTItNGJkYi1hYTM5LWFmYWQzNzQ5M2VjNFwvZGZldW1yNS05OTFjMjM1NC0wM2UyLTQ2OGYtYmQ4YS0yY2VlODJiZGExN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EAy73j1sZdo8TtB_KzUy5jklHbgR3A6dmv1sbEHkWxw' alt='Happy axolotl by pikaole on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99f56b87-b792-4bdb-aa39-afad37493ec4/dfeumr5-991c2354-03e2-468f-bd8a-2cee82bda17d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5ZjU2Yjg3LWI3OTItNGJkYi1hYTM5LWFmYWQzNzQ5M2VjNFwvZGZldW1yNS05OTFjMjM1NC0wM2UyLTQ2OGYtYmQ4YS0yY2VlODJiZGExN2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EAy73j1sZdo8TtB_KzUy5jklHbgR3A6dmv1sbEHkWxw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Axolotl Wallpaper Wptunnel on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/e0/42/47e04245af6c3e27c7e5c15e40caa494.jpg' alt='   Free download Axolotl Wallpaper Wptunnel on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/e0/42/47e04245af6c3e27c7e5c15e40caa494.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Backgrounds: 4 Cute Axolots Backgrounds for Your Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45561235/r/il/4b456d/6087355094/il_fullxfull.6087355094_f5sl.jpg' alt='Phone Backgrounds: 4 Cute Axolots Backgrounds for Your Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="1958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45561235/r/il/4b456d/6087355094/il_fullxfull.6087355094_f5sl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Pc Axolotl Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-pc-axolotl-pattern-4u11bplx990ur3d8.jpg' alt='Cute Aesthetic Pc Axolotl Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-pc-axolotl-pattern-4u11bplx990ur3d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

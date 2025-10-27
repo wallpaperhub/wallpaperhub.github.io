@@ -1,0 +1,129 @@
+<title>"Exploring Graveyard Backgrounds: Captivating Scenes of Memory"</title>
+                    <meta name="description" content="Discover the beauty and serenity of graveyard backgrounds, featuring historical tombstones and tranquil landscapes. Perfect for creating a reflective atmosphere, these settings remind us of the past and the stories they hold. Ideal for artistic inspiration or atmospheric settings in your projects.">
+                    <meta name="keywords" content="graveyard background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/graveyard-background">
+                            <span itemprop="name">graveyard background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring Graveyard Backgrounds: Captivating Scenes of Memory"</h1>
+                <p>A graveyard background evokes a sense of peace and reflection, often characterized by old tombstones, intricate statues, and sprawling trees. These serene environments celebrate life and memory, offering both history and tranquility. They serve as a reminder of the passage of time and the stories held within each resting place.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1171833307/photo/zombie-rising-out-of-a-graveyard-cemetery-in-spooky-dark-night.jpg?s=612x612&w=0&k=20&c=9aEQc64cgnaFBX8nJncoi7fVDrXU2fI4fbQy_fR83lY=' alt='105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1171833307/photo/zombie-rising-out-of-a-graveyard-cemetery-in-spooky-dark-night.jpg?s=612x612&w=0&k=20&c=9aEQc64cgnaFBX8nJncoi7fVDrXU2fI4fbQy_fR83lY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic scary skull with graveyard in the night, Halloween concept,  animation looping video animated background">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/16/55/84/360_F_916558491_6mQbKPvQU3gq7opyd5hMID4SWTtSoaEU.jpg' alt='Realistic scary skull with graveyard in the night, Halloween concept,  animation looping video animated background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/16/55/84/360_F_916558491_6mQbKPvQU3gq7opyd5hMID4SWTtSoaEU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sensfun Halloween Theme Graveyard Backdrop Creepy Moon Night Scary Vampire  Zombie Cemetery Photography Background Adult Halloween Eve Terrorist Party  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6125Zu5kr4L._AC_UF894,1000_QL80_.jpg' alt='Sensfun Halloween Theme Graveyard Backdrop Creepy Moon Night Scary Vampire  Zombie Cemetery Photography Background Adult Halloween Eve Terrorist Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6125Zu5kr4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,000+ Dark Cemetery Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1303416924/vector/trees-in-the-dark-scary-woods.jpg?s=612x612&w=0&k=20&c=hpJwzGSpltI2OrySfvImmBMhG26AadnuAK_ggi2-2y4=' alt='12,000+ Dark Cemetery Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1303416924/vector/trees-in-the-dark-scary-woods.jpg?s=612x612&w=0&k=20&c=hpJwzGSpltI2OrySfvImmBMhG26AadnuAK_ggi2-2y4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Leyiyi 10x6.5ft Gothic Happy Halloween Backdrop Grunge Misty  Graveyard Grave Stone Cross Crows Foggy Forest Full Moon Bats Photography  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61eoefatsnL.jpg' alt='Amazon.com : Leyiyi 10x6.5ft Gothic Happy Halloween Backdrop Grunge Misty  Graveyard Grave Stone Cross Crows Foggy Forest Full Moon Bats Photography  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61eoefatsnL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon Graveyard Images – Browse 125,381 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/03/61/75/360_F_1203617596_E47xrr8h0GndP45d0OeOOB0Za0vUuhRf.jpg' alt='Full Moon Graveyard Images – Browse 125,381 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/03/61/75/360_F_1203617596_E47xrr8h0GndP45d0OeOOB0Za0vUuhRf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2D Fantasy Graveyard Background | GameDev Market">
+                                <img itemprop="contentUrl url" src='https://cdn.gamedevmarket.net/wp-content/uploads/20191203171458/cd1599f7db124557ab0eda5b9a59519c.png' alt='2D Fantasy Graveyard Background | GameDev Market'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameDev Market" />
+                                </span>
+                                <a href='https://cdn.gamedevmarket.net/wp-content/uploads/20191203171458/cd1599f7db124557ab0eda5b9a59519c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cemetery Gate Ghostly Figure Spooky Graveyard Vulture Man Zoom In. Creepy  ghost vulture figure standing on a haunted cemetery Entrance at night under  full moon. Zoom in">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/33/40/26/360_F_933402695_wec9PhIEC9rXwk0Ba2FAO8m0jJmX6wAP.jpg' alt='Cemetery Gate Ghostly Figure Spooky Graveyard Vulture Man Zoom In. Creepy  ghost vulture figure standing on a haunted cemetery Entrance at night under  full moon. Zoom in'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/33/40/26/360_F_933402695_wec9PhIEC9rXwk0Ba2FAO8m0jJmX6wAP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27,500+ Graveyard Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1345876096/vector/halloween-night-background-scary-cemetery-and-full-moon-vector-banner.jpg?s=612x612&w=0&k=20&c=F9dCbuHEzjn1u6_ZBGlFmGqR6c-62NluzQttFASClmc=' alt='27,500+ Graveyard Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1345876096/vector/halloween-night-background-scary-cemetery-and-full-moon-vector-banner.jpg?s=612x612&w=0&k=20&c=F9dCbuHEzjn1u6_ZBGlFmGqR6c-62NluzQttFASClmc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Graveyard Digital Backdrop / Background.">
+                                <img itemprop="contentUrl url" src='https://cdn.filtergrade.com/wp-content/uploads/2021/05/02213301/z1-46.jpg' alt='The Graveyard Digital Backdrop / Background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://cdn.filtergrade.com/wp-content/uploads/2021/05/02213301/z1-46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

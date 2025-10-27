@@ -1,0 +1,129 @@
+<title>Donnie Darko iPhone Wallpapers: Dive into Surreal Aesthetics</title>
+                    <meta name="description" content="Discover unique Donnie Darko iPhone wallpapers that bring the classic film’s haunting visuals to your screen. Perfect for fans who appreciate cinematic art, our collection offers a variety of stunning designs to showcase on your device. Download your favorite now for a stylish, eerie vibe!">
+                    <meta name="keywords" content="donnie darko iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/donnie-darko-iphone-wallpaper">
+                            <span itemprop="name">donnie darko iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Donnie Darko iPhone Wallpapers: Dive into Surreal Aesthetics</h1>
+                <p>Looking to enhance your iPhone with a touch of eerie nostalgia? Explore our collection of Donnie Darko wallpapers that perfectly capture the film's dark, surreal atmosphere. Featuring iconic imagery, these wallpapers will make your device stand out. Download your favorite now and bring a piece of cinematic history to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper I made, please feel free to use and share! Sized ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gvez9za1fv161.jpg' alt='iPhone wallpaper I made, please feel free to use and share! Sized ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gvez9za1fv161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="probably the best wallpaper ever. its been mine for 7 months now ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5y0t309w2bx11.jpg' alt='probably the best wallpaper ever. its been mine for 7 months now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5y0t309w2bx11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10150576.jpg' alt='Donnie Darko iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10150576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko Scene Jena Jake Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/donnie-darko-scene-jena-jake-flidougykpguvxa4.jpg' alt='Donnie Darko Scene Jena Jake Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/donnie-darko-scene-jena-jake-flidougykpguvxa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko 2001, 2001, donnie darko, movie, poster, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/450/903/HD-wallpaper-donnie-darko-2001-2001-donnie-darko-movie-poster.jpg' alt='Donnie Darko 2001, 2001, donnie darko, movie, poster, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/450/903/HD-wallpaper-donnie-darko-2001-2001-donnie-darko-movie-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/77/cf/1b77cf653f518eb84bd7d0d0cb527d4b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/77/cf/1b77cf653f518eb84bd7d0d0cb527d4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/b4/e7/d8b4e700f325867601501a390d162f1e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/b4/e7/d8b4e700f325867601501a390d162f1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko Wallpaper for iPhone 5 – @iphone-5-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/45bd6f8bcd16a80bf6a2b658a8bc1dc6/tumblr_o19mkr6WTI1svr2o6o1_1280.jpg' alt='Donnie Darko Wallpaper for iPhone 5 – @iphone-5-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/45bd6f8bcd16a80bf6a2b658a8bc1dc6/tumblr_o19mkr6WTI1svr2o6o1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.37095575.7778/raf,360x360,075,t,fafafa:ca443f4786.u4.jpg' alt='Donnie Darko | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.37095575.7778/raf,360x360,075,t,fafafa:ca443f4786.u4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donnie Darko, 929, black, blue, cool, new, poster, skull, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/324/469/HD-wallpaper-donnie-darko-929-black-blue-cool-new-poster-skull.jpg' alt='Donnie Darko, 929, black, blue, cool, new, poster, skull, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/324/469/HD-wallpaper-donnie-darko-929-black-blue-cool-new-poster-skull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

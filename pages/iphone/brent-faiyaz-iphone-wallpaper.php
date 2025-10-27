@@ -1,0 +1,129 @@
+<title>Brent Faiyaz iPhone Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Discover breathtaking Brent Faiyaz iPhone wallpapers to enhance your device. Explore a variety of striking images that reflect his distinctive style and artistry. Perfect for fans looking to personalize their screens with the essence of Brent Faiyaz. Download now for an instant upgrade!">
+                    <meta name="keywords" content="brent faiyaz iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/brent-faiyaz-iphone-wallpaper">
+                            <span itemprop="name">brent faiyaz iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brent Faiyaz iPhone Wallpapers: Elevate Your Screen</h1>
+                <p>Transform your iPhone with stunning Brent Faiyaz wallpapers! Dive into a collection of high-quality images featuring the talented artist. Perfect for fans, these wallpapers capture the essence of his music and style. Brighten your device's screen and showcase your love for Brent Faiyaz in a unique way!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent faiyaz">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/05/8b/e0/058be0017557bcdc3d1269412adb3952.jpg' alt='Brent faiyaz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/05/8b/e0/058be0017557bcdc3d1269412adb3952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/b1/ad/33b1ad6d06463880e9781f167ccf846b.jpg' alt='Brent Faiyaz Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/b1/ad/33b1ad6d06463880e9781f167ccf846b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/greyscale-brent-faiyaz-sunglasses-and-afro-qtand7hwfb5uzabs.jpg' alt='Brent Faiyaz Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/greyscale-brent-faiyaz-sunglasses-and-afro-qtand7hwfb5uzabs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/d9/c0/4fd9c090c87c4dea9fdc8403f2943473.jpg' alt='Brent Faiyaz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/d9/c0/4fd9c090c87c4dea9fdc8403f2943473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/6a/65/3c6a65387033f223e8f35e381f93a124.jpg' alt='Brent Faiyaz Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/6a/65/3c6a65387033f223e8f35e381f93a124.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz Letterman Jacket Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brent-faiyaz-letterman-jacket-rfixlif5afje4qxv.jpg' alt='Brent Faiyaz Letterman Jacket Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1272">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brent-faiyaz-letterman-jacket-rfixlif5afje4qxv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BRENT FAIYAZ WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/fc/a3/5dfca3d2ee1ca8e0d821c63b01c91094.jpg' alt='BRENT FAIYAZ WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/fc/a3/5dfca3d2ee1ca8e0d821c63b01c91094.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Brent Faiyaz Wallpapers ideas | brent, brent faiyaz album cover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b7/c4/d7/b7c4d71dce17334cf26217595cf10562.jpg' alt='12 Brent Faiyaz Wallpapers ideas | brent, brent faiyaz album cover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b7/c4/d7/b7c4d71dce17334cf26217595cf10562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brent Faiyaz Peace Sign And Afro Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/brent-faiyaz-peace-sign-and-afro-2ww6u6l21r1m9o8y.jpg' alt='Brent Faiyaz Peace Sign And Afro Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/brent-faiyaz-peace-sign-and-afro-2ww6u6l21r1m9o8y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Brent wallpaper    : r/BrentFaiyaz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h1al7qcyjxr51.jpg' alt='Made this Brent wallpaper    : r/BrentFaiyaz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="802">
+                                <meta itemprop="height" content="1764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h1al7qcyjxr51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

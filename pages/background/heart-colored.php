@@ -1,0 +1,129 @@
+<title>Heart Colored: Embrace Love in Every Hue</title>
+                    <meta name="description" content="Discover the beauty of heart-colored items! Explore how shades of red and pink symbolize love and affection. Perfect for decor and personal styles, these lovely hues can spread joy and warmth in your life. Embrace heart colors today to enhance your emotional connections!">
+                    <meta name="keywords" content="heart colored">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heart-colored">
+                            <span itemprop="name">heart colored</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Colored: Embrace Love in Every Hue</h1>
+                <p>Heart-colored items capture the essence of love and affection, evoking deep emotional connections. From vibrant red hearts that symbolize passion to softer pink shades representing tenderness, these colors can enhance decor, fashion, and personal items. Embrace heart colors to spread joy and warmth in your life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomical heart art print - Colored">
+                                <img itemprop="contentUrl url" src='https://codexanatomy.com/cdn/shop/products/CA173_800x.jpg?v=1621666869' alt='Anatomical heart art print - Colored'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codex Anatomicus" />
+                                </span>
+                                <a href='https://codexanatomy.com/cdn/shop/products/CA173_800x.jpg?v=1621666869' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the Aorta and Pulmonary Artery in the heart really red and blue ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ltdn680ryshb1.jpg' alt='Is the Aorta and Pulmonary Artery in the heart really red and blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2136">
+                                <meta itemprop="height" content="1871">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ltdn680ryshb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anatomical Heart - Color Heart | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2495770227.8229/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Anatomical Heart - Color Heart | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2495770227.8229/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Human heart flat in color">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/human-heart-flat-color_653593-273.jpg?w=360' alt='Premium Vector | Human heart flat in color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/human-heart-flat-color_653593-273.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Anatomy Color Outline Vector Illustration Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/266029472/display_1500/stock-vector-heart-anatomy-color-outline-vector-illustration-266029472.jpg' alt='Heart Anatomy Color Outline Vector Illustration Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/266029472/display_1500/stock-vector-heart-anatomy-color-outline-vector-illustration-266029472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Diagrams for Labeling and Coloring, With Reference Chart and Summary">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Heart-Diagrams-for-Labeling-and-Coloring-With-Reference-Chart-and-Summary-2421098-1740490808/original-2421098-1.jpg' alt='Heart Diagrams for Labeling and Coloring, With Reference Chart and Summary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Heart-Diagrams-for-Labeling-and-Coloring-With-Reference-Chart-and-Summary-2421098-1740490808/original-2421098-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Anatomy | Coloring Pages Mimi Panda">
+                                <img itemprop="contentUrl url" src='https://mimi-panda.com/wp-content/uploads/2023/06/heart-anatomy-coloring-page-2.jpeg' alt='Heart Anatomy | Coloring Pages Mimi Panda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mimi Panda" />
+                                </span>
+                                <a href='https://mimi-panda.com/wp-content/uploads/2023/06/heart-anatomy-coloring-page-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Heart - colored by wolfgirlhello on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/90/60/8990604a400a6c58ecba06969a42d1bf.jpg' alt='Realistic Heart - colored by wolfgirlhello on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/90/60/8990604a400a6c58ecba06969a42d1bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart-diagram - Whitehorse Veterinary Hospital">
+                                <img itemprop="contentUrl url" src='https://whitehorsevet.com.au/wp-content/uploads/2018/02/heart-diagram.jpg' alt='heart-diagram - Whitehorse Veterinary Hospital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whitehorse Veterinary Hospital" />
+                                </span>
+                                <a href='https://whitehorsevet.com.au/wp-content/uploads/2018/02/heart-diagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Emoji Meanings - When To Use Each Color And Type Of Emoji">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/screen-shot-2021-02-02-at-2-23-24-pm-1612293828.png' alt='Heart Emoji Meanings - When To Use Each Color And Type Of Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/screen-shot-2021-02-02-at-2-23-24-pm-1612293828.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

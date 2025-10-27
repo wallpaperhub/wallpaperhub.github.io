@@ -1,0 +1,129 @@
+<title>Vintage Green Wallpaper: Nostalgic Decor for Timeless Spaces</title>
+                    <meta name="description" content="Discover the charm of vintage green wallpaper! Perfect for adding a retro touch to your home, it effortlessly blends nostalgia with modern decor. Explore a wide range of stylish designs that enhance any room, creating an inviting, eco-friendly atmosphere. Elevate your interior with timeless elegance today!">
+                    <meta name="keywords" content="green wallpaper vintage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/green-wallpaper-vintage">
+                            <span itemprop="name">green wallpaper vintage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Green Wallpaper: Nostalgic Decor for Timeless Spaces</h1>
+                <p>Green wallpaper vintage brings a refreshing touch to any room, evoking nostalgia with its classic patterns and hues. Perfect for creating a cozy atmosphere, this timeless decor enhances both modern and traditional interiors. Whether used in small accents or as a statement wall, vintage green wallpaper adds charm and sophistication. Explore the world of retro designs and elevate your space with this eco-friendly choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' alt='Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Green Tandrils Boho Home Decor Sold per Full ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37069088/r/il/867c3d/4287425231/il_570xN.4287425231_nv47.jpg' alt='Vintage Wallpaper Green Tandrils Boho Home Decor Sold per Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37069088/r/il/867c3d/4287425231/il_570xN.4287425231_nv47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8102-04 paper Vintage Damask Victorian Floral Green textured">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/s-l1600_6_cad036ba-3cda-4ac1-9217-c5ed07b70915.jpg?v=1565349614' alt='8102-04 paper Vintage Damask Victorian Floral Green textured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/s-l1600_6_cad036ba-3cda-4ac1-9217-c5ed07b70915.jpg?v=1565349614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Green Damask - Rosie's Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3641/13370/vintage-wallpaper-57__45585.1658347669.jpg?c=2' alt='1960s Vintage Wallpaper Green Damask - Rosie's Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3641/13370/vintage-wallpaper-57__45585.1658347669.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flora Green - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1669803208/articles/R19238_product.jpg' alt='Vintage Flora Green - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1669803208/articles/R19238_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered Green Harlequin Open Damask Wallpaper - Regal Distressed Gold  Floral Bloom, Large Scale Vintage Medallion - 12x9" Sample CH22568so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/05e420/1656495432/il_570xN.1656495432_ksvv.jpg' alt='Weathered Green Harlequin Open Damask Wallpaper - Regal Distressed Gold  Floral Bloom, Large Scale Vintage Medallion - 12x9" Sample CH22568so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/05e420/1656495432/il_570xN.1656495432_ksvv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MEADOW WALLPAPER">
+                                <img itemprop="contentUrl url" src='http://greenlyliving.co/cdn/shop/files/Western_Meadow_Sage_Sample_1600x2000_86cc2574-8804-4fc9-bd04-018f190b0e4a.jpg?v=1720356203&width=2048' alt='MEADOW WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="greenly living" />
+                                </span>
+                                <a href='http://greenlyliving.co/cdn/shop/files/Western_Meadow_Sage_Sample_1600x2000_86cc2574-8804-4fc9-bd04-018f190b0e4a.jpg?v=1720356203&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forgotten Beauty - Dark Green">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65122/forgotten-beauty-dark-green.jpg?h=699&q=85' alt='Forgotten Beauty - Dark Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65122/forgotten-beauty-dark-green.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral by Albany - Green - Wallpaper - 13550">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/209582/tiled/albany-vintage-floral-green-wallpaper-tiled-209582.jpg?v=1690375126' alt='Vintage Floral by Albany - Green - Wallpaper - 13550'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/209582/tiled/albany-vintage-floral-green-wallpaper-tiled-209582.jpg?v=1690375126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Textured Vintage Damasks Floral Pattern Wallpaper  Wallcoverings for Walls, 57 Square ft/Roll (Green(Stripes))">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BUsDNZuLL._AC_UF894,1000_QL80_.jpg' alt='Blooming Wall Textured Vintage Damasks Floral Pattern Wallpaper  Wallcoverings for Walls, 57 Square ft/Roll (Green(Stripes))'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BUsDNZuLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Resident Evil 4 Wallpapers for Ultimate Fan Experience</title>
+                    <meta name="description" content="Discover amazing Resident Evil 4 wallpapers to personalize your devices! Choose from iconic scenes and characters that capture the essence of this legendary game. Perfect for any fan looking to enhance their digital space with striking visuals.">
+                    <meta name="keywords" content="resident evil 4 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/resident-evil-4-wallpaper">
+                            <span itemprop="name">resident evil 4 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Resident Evil 4 Wallpapers for Ultimate Fan Experience</h1>
+                <p>Transform your screen with stunning Resident Evil 4 wallpapers! These captivating designs feature iconic characters, intense scenes, and haunting atmospheres that bring the game’s eerie charm to life. Perfect for fans looking to celebrate the survival horror classic, our wallpapers will elevate your desktop or mobile experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 4 Remake - Textless Gameinformer Wallpapers by me ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/V-08n_jxf2yyIb8GE5QfYpFJlGKPOwsp2ljshv9O-Iw.jpg?auto=webp&s=24c401a463f4f52decaea77cf72d1af232d63ae4' alt='Resident Evil 4 Remake - Textless Gameinformer Wallpapers by me ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4908">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/V-08n_jxf2yyIb8GE5QfYpFJlGKPOwsp2ljshv9O-Iw.jpg?auto=webp&s=24c401a463f4f52decaea77cf72d1af232d63ae4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biohazard 4 Wallpapers (made by me) : r/residentevil">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/biohazard-4-wallpapers-made-by-me-v0-fs9mi5e83vjd1.png?width=1920&format=png&auto=webp&s=34a2b2a0b311393ba33217f7e85ced6051c035c0' alt='Biohazard 4 Wallpapers (made by me) : r/residentevil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/biohazard-4-wallpapers-made-by-me-v0-fs9mi5e83vjd1.png?width=1920&format=png&auto=webp&s=34a2b2a0b311393ba33217f7e85ced6051c035c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 4 (2023) - Stunning 8K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/130/1306926.jpeg' alt='Resident Evil 4 (2023) - Stunning 8K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="9600">
+                                <meta itemprop="height" content="5400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/130/1306926.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 4 HD Wallpaper: Leon S. Kennedy">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/394/394056.jpg' alt='Resident Evil 4 HD Wallpaper: Leon S. Kennedy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2954">
+                                <meta itemprop="height" content="2215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/394/394056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Resident Evil 4 Remake Wallpapers edited by Me. follow me on ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/new-resident-evil-4-remake-wallpapers-edited-by-me-follow-v0-n1r06w3ldgfa1.png?width=3340&format=png&auto=webp&s=5794d1f98375d791bdc28ff71acb54bb87486061' alt='New Resident Evil 4 Remake Wallpapers edited by Me. follow me on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3340">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/new-resident-evil-4-remake-wallpapers-edited-by-me-follow-v0-n1r06w3ldgfa1.png?width=3340&format=png&auto=webp&s=5794d1f98375d791bdc28ff71acb54bb87486061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper resident evil, resident evil 4, biohazard 4, resident ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/2/f3/resident-evil-4-resident-evil-4-remaker-resident-evil-4-wall.jpg' alt='Wallpaper resident evil, resident evil 4, biohazard 4, resident ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/2/f3/resident-evil-4-resident-evil-4-remaker-resident-evil-4-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 4 2022 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_resident_evil_4_2022_02_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Resident Evil 4 2022 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_resident_evil_4_2022_02_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="resident evil 4 remake">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/22/f5/e122f5c70b59e86ed6b275d7e4fff58f.jpg' alt='resident evil 4 remake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/22/f5/e122f5c70b59e86ed6b275d7e4fff58f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resident Evil 4 Remake Wallpaper by Sharinzo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77e91a96-03b0-4776-8514-a573a5a94e63/dfq6qwb-45d6d17c-7165-432a-bb57-4eb72bdbd5fb.jpg/v1/fill/w_1280,h_720,q_75,strp/resident_evil_4_remake_wallpaper_by_sharinzo_dfq6qwb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNzdlOTFhOTYtMDNiMC00Nzc2LTg1MTQtYTU3M2E1YTk0ZTYzXC9kZnE2cXdiLTQ1ZDZkMTdjLTcxNjUtNDMyYS1iYjU3LTRlYjcyYmRiZDVmYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FqgMimVkp1czXdpqqFhSVsbQmqgYMWnOEiDYrFr8BrQ' alt='Resident Evil 4 Remake Wallpaper by Sharinzo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77e91a96-03b0-4776-8514-a573a5a94e63/dfq6qwb-45d6d17c-7165-432a-bb57-4eb72bdbd5fb.jpg/v1/fill/w_1280,h_720,q_75,strp/resident_evil_4_remake_wallpaper_by_sharinzo_dfq6qwb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNzdlOTFhOTYtMDNiMC00Nzc2LTg1MTQtYTU3M2E1YTk0ZTYzXC9kZnE2cXdiLTQ1ZDZkMTdjLTcxNjUtNDMyYS1iYjU3LTRlYjcyYmRiZDVmYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FqgMimVkp1czXdpqqFhSVsbQmqgYMWnOEiDYrFr8BrQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RE4 wallpaper 4k at Resident Evil 4 (2023) - Nexus mods and community">
+                                <img itemprop="contentUrl url" src='https://staticdelivery.nexusmods.com/images/5195/53786296-1702327520.jpg' alt='RE4 wallpaper 4k at Resident Evil 4 (2023) - Nexus mods and community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nexus Mods" />
+                                </span>
+                                <a href='https://staticdelivery.nexusmods.com/images/5195/53786296-1702327520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

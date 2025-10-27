@@ -1,0 +1,129 @@
+<title>AT&T: A Century-Long Journey in Telecommunications</title>
+                    <meta name="description" content="Explore the rich history of AT&T, from its founding by Alexander Graham Bell in 1885 to its evolution as a telecommunications powerhouse. Learn about its pivotal role in connecting the world through innovative mobile and internet services.">
+                    <meta name="keywords" content="at&t history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/att-history">
+                            <span itemprop="name">at&t history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AT&T: A Century-Long Journey in Telecommunications</h1>
+                <p>AT&T's history dates back to 1885 when Alexander Graham Bell founded the American Telephone and Telegraph Company. Initially focused on telephone service, it expanded through acquisitions, becoming a telecommunications giant. In the late 20th century, AT&T underwent major restructuring and diversification, also playing a pivotal role in mobile technology and internet services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of AT&T Technology | AT&T">
+                                <img itemprop="contentUrl url" src='https://about.att.com/ecms/dam/innovationblog/2016/August%202016/first_motion_picture_projector_500x500.jpg' alt='The History of AT&T Technology | AT&T'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AT&T Newsroom" />
+                                </span>
+                                <a href='https://about.att.com/ecms/dam/innovationblog/2016/August%202016/first_motion_picture_projector_500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AT&T: A History — Cool Infographics">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5bfc8dbab40b9d7dd9054f41/1556670731747-I2JHSVFRV7Y4I1IT0U3J/att_history.jpg' alt='AT&T: A History — Cool Infographics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Infographics" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5bfc8dbab40b9d7dd9054f41/1556670731747-I2JHSVFRV7Y4I1IT0U3J/att_history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline History of AT&T: Major Breakthroughs and Breakups">
+                                <img itemprop="contentUrl url" src='https://www.infoclutch.com/blog/wp-content/uploads/2024/10/att-history-timeline-infogrsphic.webp' alt='Timeline History of AT&T: Major Breakthroughs and Breakups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="3562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InfoClutch" />
+                                </span>
+                                <a href='https://www.infoclutch.com/blog/wp-content/uploads/2024/10/att-history-timeline-infogrsphic.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AT&T's History of Invention and Breakups - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2016/02/14/business/14att-timeline1892/14att-timeline1892-superJumbo.jpg' alt='AT&T's History of Invention and Breakups - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2016/02/14/business/14att-timeline1892/14att-timeline1892-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Evolution of the AT&T Logo - Famous Company Logos">
+                                <img itemprop="contentUrl url" src='https://companylogos.org/wp-content/uploads/2024/11/ATT-logo-history-1-1.jpg' alt='The History and Evolution of the AT&T Logo - Famous Company Logos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Company Logos" />
+                                </span>
+                                <a href='https://companylogos.org/wp-content/uploads/2024/11/ATT-logo-history-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of AT&T - Online Safety Trainer">
+                                <img itemprop="contentUrl url" src='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/02/all_att_logos_over_the_years.jpg' alt='The Story of AT&T - Online Safety Trainer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Safety Trainer" />
+                                </span>
+                                <a href='https://www.onlinesafetytrainer.com/wp-content/uploads/2023/02/all_att_logos_over_the_years.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AT&T Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2016/10/ATT-Logo-history.png' alt='AT&T Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2016/10/ATT-Logo-history.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Years Ago, AT&T Launched Commercial Cellular Service">
+                                <img itemprop="contentUrl url" src='https://about.att.com/ecms/dam/snr/2023/october/in-story/40th-anniversary-in-story-timeline-768x475.png' alt='40 Years Ago, AT&T Launched Commercial Cellular Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="about.att.com" />
+                                </span>
+                                <a href='https://about.att.com/ecms/dam/snr/2023/october/in-story/40th-anniversary-in-story-timeline-768x475.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AT&T Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/01/ATT-Logo-History.jpg' alt='AT&T Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="4731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/01/ATT-Logo-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of AT&T - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lines_and_Metallic_Circuit_Connections%2C_American_Telephone_and_Telegraph_Co%2C_March_1%2C_1891_edit.jpg/300px-Lines_and_Metallic_Circuit_Connections%2C_American_Telephone_and_Telegraph_Co%2C_March_1%2C_1891_edit.jpg' alt='History of AT&T - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lines_and_Metallic_Circuit_Connections%2C_American_Telephone_and_Telegraph_Co%2C_March_1%2C_1891_edit.jpg/300px-Lines_and_Metallic_Circuit_Connections%2C_American_Telephone_and_Telegraph_Co%2C_March_1%2C_1891_edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

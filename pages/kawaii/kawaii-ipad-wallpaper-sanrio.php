@@ -1,0 +1,129 @@
+<title>Adorable Kawaii iPad Wallpapers: Sanrio Collection</title>
+                    <meta name="description" content="Discover the cutest Sanrio kawaii iPad wallpapers! Personalize your device with delightful designs featuring popular characters like Hello Kitty. Perfect for fans who love colorful and cheerful backgrounds, these wallpapers will bring a smile to your face every time you use your iPad. Download now for instant cuteness!">
+                    <meta name="keywords" content="kawaii ipad wallpaper sanrio">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-ipad-wallpaper-sanrio">
+                            <span itemprop="name">kawaii ipad wallpaper sanrio</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii iPad Wallpapers: Sanrio Collection</h1>
+                <p>Transform your iPad with adorable kawaii Sanrio wallpapers! Dive into a world of cuteness featuring beloved characters like Hello Kitty, My Melody, and Cinnamoroll. Perfect for adding a cheerful touch to your device, these colorful designs will bring joy to your daily tasks. Embrace the sweet aesthetic and brighten up your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Ipad Sanrio">
+                                <img itemprop="contentUrl url" src='https://www.sanrio.com.tw/wp-content/uploads/2021/05/202106-MX-01.jpg' alt='Wallpaper Ipad Sanrio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4001">
+                                <meta itemprop="height" content="2251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://www.sanrio.com.tw/wp-content/uploads/2021/05/202106-MX-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Cinnamoroll Wallpaper By 아코(AKo) - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/xas2ko-cinamoroll-wallpaper.jpg' alt='Watercolor Cinnamoroll Wallpaper By 아코(AKo) - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/xas2ko-cinamoroll-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio arcade">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/8e/f6/ea8ef69836f6160a6875a885cbd338e1.jpg' alt='Sanrio arcade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/8e/f6/ea8ef69836f6160a6875a885cbd338e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Strawberry News May 2022 Cute Pastel Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/08/sanrio-strawberry-news-may-2022-wallpaper-kawaii-hoshi.jpg' alt='Sanrio Strawberry News May 2022 Cute Pastel Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/08/sanrio-strawberry-news-may-2022-wallpaper-kawaii-hoshi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/c9/65/c5c9652d7836db742b44e6f4ff9df5da.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/c9/65/c5c9652d7836db742b44e6f4ff9df5da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Sanrio Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sanrio-331hlwc7krb0764k.jpg' alt='100+] Cute Sanrio Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sanrio-331hlwc7krb0764k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody Virtual Background By 아코(AKo) - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/xas2ko-my-melody-wallpaper.jpg' alt='My Melody Virtual Background By 아코(AKo) - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/xas2ko-my-melody-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Sanrio Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-sanrio-y88x4mratmrdxuq3.jpg' alt='100+] Cute Sanrio Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-sanrio-y88x4mratmrdxuq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute sanrio ipad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/3d/fe/1c/3dfe1c260051578936dcb9effb6ae083.jpg' alt='cute sanrio ipad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/3d/fe/1c/3dfe1c260051578936dcb9effb6ae083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View All Character Goodies">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/110624_HK50th_WALLPAPER_FutureInOurEyes_1500x2000_1e68af8f-08ba-463b-9292-a3115f691a5f.png?v=1730930695' alt='View All Character Goodies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0416/8083/0620/files/110624_HK50th_WALLPAPER_FutureInOurEyes_1500x2000_1e68af8f-08ba-463b-9292-a3115f691a5f.png?v=1730930695' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

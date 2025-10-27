@@ -1,0 +1,129 @@
+<title>Cheerful Pink Smiley Faces Wallpaper for Your Device!</title>
+                    <meta name="description" content="Discover delightful pink smiley faces wallpaper that adds joy to your device's screen! Perfect for all ages, these vibrant designs create a fun and uplifting atmosphere. Download now to transform your background into a source of positivity and cheer! Enjoy a burst of happiness every time you use your device!">
+                    <meta name="keywords" content="pink smiley faces wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-smiley-faces-wallpaper">
+                            <span itemprop="name">pink smiley faces wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Pink Smiley Faces Wallpaper for Your Device!</h1>
+                <p>Brighten your day with charming pink smiley faces wallpaper! Perfect for adding a playful touch to your devices, this wallpaper collection showcases cheerful designs that bring positivity to your screen. Ideal for kids and adults alike, these vibrant backgrounds are sure to make you smile every time you unlock your phone or tablet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,300+ Pink Smiley Face Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1418757910/vector/checkered-hot-pink-retro-flowers-and-happy-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=rI7bySBVDVus-0CLFDTauNB2m7LocO7TPn7iWplO9iY=' alt='6,300+ Pink Smiley Face Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1418757910/vector/checkered-hot-pink-retro-flowers-and-happy-faces-seamless-pattern.jpg?s=612x612&w=0&k=20&c=rI7bySBVDVus-0CLFDTauNB2m7LocO7TPn7iWplO9iY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Preppy Pink Smiley Face Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-preppy-pink-smiley-face-vq7eaawtk3nlm5ac.jpg' alt='Download Minimalist Preppy Pink Smiley Face Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-preppy-pink-smiley-face-vq7eaawtk3nlm5ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/79/97/5979974ae4758405e05febfbcf53f289.jpg' alt='Pink Smiley Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/79/97/5979974ae4758405e05febfbcf53f289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy pink layered smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/15/7b/e7/157be76a63ae9fdf8778c0fb7f881362.jpg' alt='Trendy pink layered smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/15/7b/e7/157be76a63ae9fdf8778c0fb7f881362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-smiley-face-hbna2v98vjgsd7wp.jpg' alt='100+] Pink Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-smiley-face-hbna2v98vjgsd7wp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21612829/r/il/affd36/4441499131/il_1080xN.4441499131_g5zb.jpg' alt='Pink Smiley Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21612829/r/il/affd36/4441499131/il_1080xN.4441499131_g5zb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Smiley Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11497725/p/f/l/MpwDwaTSQE3GDIUzMWLKAnycKvGKbjUJtw6QfBZDTu5vcca0cnmdRYy99A/Smiley%20Daisy%20Flowers%20on%20Pink.jpg' alt='Pink Smiley Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11497725/p/f/l/MpwDwaTSQE3GDIUzMWLKAnycKvGKbjUJtw6QfBZDTu5vcca0cnmdRYy99A/Smiley%20Daisy%20Flowers%20on%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/15/9e/2f159ec1c2f654eb30b6cabf2543fb69.jpg' alt='Smiley Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/15/9e/2f159ec1c2f654eb30b6cabf2543fb69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Pink Smiley Pattern Wallpapers - Vintage Light Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/09/retro-pink-smiley-pattern-wallpaper.jpg' alt='Retro Pink Smiley Pattern Wallpapers - Vintage Light Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/09/retro-pink-smiley-pattern-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Leopard Print Smiley Faces 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/pinkleopardprintsmilies_grande.jpg?v=1670889056' alt='Pink Leopard Print Smiley Faces 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/pinkleopardprintsmilies_grande.jpg?v=1670889056' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

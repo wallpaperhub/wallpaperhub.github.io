@@ -1,0 +1,129 @@
+<title>Pride Flag Wallpapers for iPhone: Celebrate Love & Diversity</title>
+                    <meta name="description" content="Discover vibrant pride flag wallpapers for your iPhone! Perfect for showcasing your support for love and diversity, our collection offers stunning designs to brighten your screen. Download now and express your identity in style! Ideal for all pride supporters!">
+                    <meta name="keywords" content="pride flag wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pride-flag-wallpaper-iphone">
+                            <span itemprop="name">pride flag wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pride Flag Wallpapers for iPhone: Celebrate Love & Diversity</h1>
+                <p>Looking to show your pride on your iPhone? Check out our stunning pride flag wallpapers that will brighten your screen while celebrating diversity and inclusion. Easily download these vibrant designs to express your identity. Perfect for all who support love, pride, and equality! Customize your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Progress Pride Flag Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/eb/c0/09ebc073a27d2c9faed8870013e78873.jpg' alt='Progress Pride Flag Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/eb/c0/09ebc073a27d2c9faed8870013e78873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I changed the Apple retro wallpaper to the Pride-Flag rainbow. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/15vfoi1r0v741.jpg' alt='I changed the Apple retro wallpaper to the Pride-Flag rainbow. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2524">
+                                <meta itemprop="height" content="2524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/15vfoi1r0v741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Pride 2021 - Full Screen Rainbow - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/de/25/7fde259fc3f123191d290e450685b1d5.jpg' alt='Apple Pride 2021 - Full Screen Rainbow - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/de/25/7fde259fc3f123191d290e450685b1d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Pride Flag With Inspiring Word Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pride-flag-words-034ehea0zp8t9q7w.webp' alt='Vibrant Pride Flag With Inspiring Word Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pride-flag-words-034ehea0zp8t9q7w.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Pride (Dark) V2 - iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37807868/r/il/d9b56f/6048921256/il_570xN.6048921256_67ia.jpg' alt='Rainbow Pride (Dark) V2 - iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37807868/r/il/d9b56f/6048921256/il_570xN.6048921256_67ia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Flag On Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pride-flag-on-black-892shqmgkyqsuqxn.jpg' alt='Pride Flag On Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pride-flag-on-black-892shqmgkyqsuqxn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk1OS1hdW0tbnN0YWdyYW1zdG9yeS0wMy1rbHE2eWlnby5qcGc.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk1OS1hdW0tbnN0YWdyYW1zdG9yeS0wMy1rbHE2eWlnby5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Pride Wallpapers - Knol Aust">
+                                <img itemprop="contentUrl url" src='https://knolaust.com/?attachment_id=3644' alt='iPhone Pride Wallpapers - Knol Aust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1243">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Knol Aust" />
+                                </span>
+                                <a href='https://knolaust.com/?attachment_id=3644' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Representation of Pride - The LGBT Flag Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lgbt-flag-4evkt4bldhhamozh.jpg' alt='Download Vibrant Representation of Pride - The LGBT Flag Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lgbt-flag-4evkt4bldhhamozh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

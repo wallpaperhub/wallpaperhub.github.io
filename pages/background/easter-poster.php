@@ -1,0 +1,129 @@
+<title>Easter Joy: Celebrate Spring with Colorful Posters</title>
+                    <meta name="description" content="Explore our eye-catching Easter poster designs to brighten your spring celebrations. Perfect for events, home decor, and more! Embrace the joy of Easter with vibrant colors and festive themes. Get inspired and make your Easter unforgettable!">
+                    <meta name="keywords" content="easter poster">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/easter-poster">
+                            <span itemprop="name">easter poster</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easter Joy: Celebrate Spring with Colorful Posters</h1>
+                <p>Celebrate Easter with a vibrant and whimsical poster design that captures the joy of the season. From colorful eggs and cheerful bunnies to blooming flowers, an Easter poster can bring a festive spirit to any space. Perfect for community events, family gatherings, or simply to welcome spring! Get creative and spread joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable, printable Easter poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFdaunn2yc/1/0/1131w/canva-pastel-whimsical-illustrated-easter-egg-hunt-event-poster-wxhB-9GpUIc.jpg' alt='Free customizable, printable Easter poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFdaunn2yc/1/0/1131w/canva-pastel-whimsical-illustrated-easter-egg-hunt-event-poster-wxhB-9GpUIc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Easter Poster">
+                                <img itemprop="contentUrl url" src='https://img.posterstore.com/zoom/ps52930-8happyeaster50x70.jpg' alt='Happy Easter Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poster Store" />
+                                </span>
+                                <a href='https://img.posterstore.com/zoom/ps52930-8happyeaster50x70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter Poster Images – Browse 445,973 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/29/47/82/360_F_329478280_A4ZSAI6WrCUkxbgGOcFbEAmWMg5eJOVJ.jpg' alt='Easter Poster Images – Browse 445,973 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/29/47/82/360_F_329478280_A4ZSAI6WrCUkxbgGOcFbEAmWMg5eJOVJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Easter poster and banner template with Fower, carrots and  Easter eggs in the nest on table, 60x22.5 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/29/12/65/1000_F_329126554_249jqv5GXgbtpwKONvnZcW7x1u0fapgT.jpg' alt='Poster, Print Easter poster and banner template with Fower, carrots and  Easter eggs in the nest on table, 60x22.5 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/29/12/65/1000_F_329126554_249jqv5GXgbtpwKONvnZcW7x1u0fapgT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter Poster - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/03/large-60-600x848.jpg' alt='Easter Poster - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/03/large-60-600x848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 - Free customizable, printable Easter poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE2CpUmzaA/1/0/1131w/canva-happy-easter-%28poster%29-y7S6dm6ojXA.jpg' alt='Page 4 - Free customizable, printable Easter poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE2CpUmzaA/1/0/1131w/canva-happy-easter-%28poster%29-y7S6dm6ojXA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter Poster Design With Eggs In Basket Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/922066806/vector/easter-poster-design-with-eggs-in-basket.jpg?s=1024x1024&w=is&k=20&c=j4x2f5HFzg2kWcnwyOZNtTSy2sEyrpJa1s6zInOii88=' alt='Easter Poster Design With Eggs In Basket Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/922066806/vector/easter-poster-design-with-eggs-in-basket.jpg?s=1024x1024&w=is&k=20&c=j4x2f5HFzg2kWcnwyOZNtTSy2sEyrpJa1s6zInOii88=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Copy of Church Easter Sunday Flyer Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2e/2a/cf/2e2acfd0059da218986d4239f9a0217b.jpg' alt='Copy of Church Easter Sunday Flyer Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2e/2a/cf/2e2acfd0059da218986d4239f9a0217b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45.3K+ Free Easter Poster Templates | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/easter-party-invitation-design-template-e381b082f10ed2c9943146c7cf58d643_screen.jpg?ts=1700628403' alt='45.3K+ Free Easter Poster Templates | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/easter-party-invitation-design-template-e381b082f10ed2c9943146c7cf58d643_screen.jpg?ts=1700628403' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Easter poster and banner template with Easter eggs in the  nest on light blue background, 50x22.5 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/29/52/89/1000_F_329528958_KxP0sIEDmmYDqVEMhqeW8PTJjxNZkvSu.jpg' alt='Poster, Print Easter poster and banner template with Easter eggs in the  nest on light blue background, 50x22.5 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/29/52/89/1000_F_329528958_KxP0sIEDmmYDqVEMhqeW8PTJjxNZkvSu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

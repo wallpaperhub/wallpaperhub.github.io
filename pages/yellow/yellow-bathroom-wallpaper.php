@@ -1,0 +1,129 @@
+<title>Brighten Up Your Bathroom with Stunning Yellow Wallpaper</title>
+                    <meta name="description" content="Discover the charm of yellow bathroom wallpaper! Enhance your space with bright, cheerful patterns that add warmth and style. Perfect for creating a relaxing atmosphere, yellow wallpaper is an ideal choice for any bathroom design. Explore various textures and shades to find your perfect match!">
+                    <meta name="keywords" content="yellow bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-bathroom-wallpaper">
+                            <span itemprop="name">yellow bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Up Your Bathroom with Stunning Yellow Wallpaper</h1>
+                <p>Transform your bathroom into a sunny oasis with yellow wallpaper. This vibrant shade not only brightens up the space but also adds warmth and a cheerful ambiance. From soft pastels to bold mustard shades, yellow wallpaper can compliment various styles—making your bathroom a delightful retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Large Print Peel and Stick Wallpaper, Yellow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/69d11f/4964595701/il_fullxfull.4964595701_ha0s.jpg' alt='Floral Large Print Peel and Stick Wallpaper, Yellow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/69d11f/4964595701/il_fullxfull.4964595701_ha0s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budget-Friendly Yellow Wallpapered Bathroom - Wallpaper Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/v1619807761/at/home-projects/2021-04/Kelly_Bryant_After_1_tagged.png' alt='Budget-Friendly Yellow Wallpapered Bathroom - Wallpaper Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/v1619807761/at/home-projects/2021-04/Kelly_Bryant_After_1_tagged.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7c/27/d0/7c27d06891709af8ce0099188747be9a.jpg' alt='Golden Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7c/27/d0/7c27d06891709af8ce0099188747be9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Bright Yellow Bathroom Wallpaper - Paste The Wall - 219016 Washable  Vinyl">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/0r4AAOSwfKFg7ptE/s-l1200.jpg' alt='Plain Bright Yellow Bathroom Wallpaper - Paste The Wall - 219016 Washable  Vinyl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/0r4AAOSwfKFg7ptE/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Yellow Bathroom Ideas to Brighten Your Home">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/E9paWhUii6N1OoNeCICpDkq6WUA=/1440x0/filters:no_upscale():max_bytes(150000):strip_icc()/314924746_1553321858424774_8957813083666255208_n-1acab9dc0cf44ab0baccda885238d70a-a985b8baee4a4e1c84f922bc73b626e9.jpg' alt='22 Yellow Bathroom Ideas to Brighten Your Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/E9paWhUii6N1OoNeCICpDkq6WUA=/1440x0/filters:no_upscale():max_bytes(150000):strip_icc()/314924746_1553321858424774_8957813083666255208_n-1acab9dc0cf44ab0baccda885238d70a-a985b8baee4a4e1c84f922bc73b626e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Budget-Friendly Yellow Wallpapered Bathroom - Wallpaper Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/v1619807759/at/home-projects/2021-04/Kelly_Bryant_After_3_tagged.png' alt='Budget-Friendly Yellow Wallpapered Bathroom - Wallpaper Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apartment Therapy" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/v1619807759/at/home-projects/2021-04/Kelly_Bryant_After_3_tagged.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow the sun, Yellow Bathroom Design Inspiration - down2earth ...">
+                                <img itemprop="contentUrl url" src='https://down2earthinteriordesign.com/wp-content/uploads/2019/11/YellowBathroomDesignInspirationCover.jpg' alt='Follow the sun, Yellow Bathroom Design Inspiration - down2earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="down2earth Interior Design" />
+                                </span>
+                                <a href='https://down2earthinteriordesign.com/wp-content/uploads/2019/11/YellowBathroomDesignInspirationCover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Wallpaper Options I Love for the Yellow Bathroom (Including the ...">
+                                <img itemprop="contentUrl url" src='https://media.witanddelight.com/content/uploads/2021/02/21155215/WD-Kids-Bathroom-1200x1600.jpeg' alt='8 Wallpaper Options I Love for the Yellow Bathroom (Including the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wit & Delight" />
+                                </span>
+                                <a href='https://media.witanddelight.com/content/uploads/2021/02/21155215/WD-Kids-Bathroom-1200x1600.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="57 Sunny Yellow Bathroom Design Ideas - DigsDigs">
+                                <img itemprop="contentUrl url" src='https://i.digsdigs.com/2012/08/a-vintage-bathroom-with-yellow-floral-wallpaper-white-paneling-white-appliances-a-woven-pouf-and-potted-greenery.jpg' alt='57 Sunny Yellow Bathroom Design Ideas - DigsDigs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DigsDigs" />
+                                </span>
+                                <a href='https://i.digsdigs.com/2012/08/a-vintage-bathroom-with-yellow-floral-wallpaper-white-paneling-white-appliances-a-woven-pouf-and-potted-greenery.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Yellow Bathroom I Actually Love (Rental Bathroom Reveal)">
+                                <img itemprop="contentUrl url" src='https://www.papernstitchblog.com/wp-content/uploads/2020/09/yellow-stripe-wallpapered-bathroom-corner1.jpg' alt='A Yellow Bathroom I Actually Love (Rental Bathroom Reveal)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper and Stitch" />
+                                </span>
+                                <a href='https://www.papernstitchblog.com/wp-content/uploads/2020/09/yellow-stripe-wallpapered-bathroom-corner1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

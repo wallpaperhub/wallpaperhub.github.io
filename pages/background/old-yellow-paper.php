@@ -1,0 +1,129 @@
+<title>Discover the Charm of Old Yellow Paper</title>
+                    <meta name="description" content="Explore the fascinating world of old yellow paper. This unique find brings a touch of nostalgia, perfect for artists and collectors. Uncover stories of the past and learn how to preserve and appreciate these fragile relics of history.">
+                    <meta name="keywords" content="old yellow paper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-yellow-paper">
+                            <span itemprop="name">old yellow paper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of Old Yellow Paper</h1>
+                <p>Old yellow paper, often found in attics or antique shops, holds stories of the past. Its aged appearance can evoke nostalgia, reminding us of letters, books, or important documents. The unique texture and fragile quality make it a fascinating medium for artists and collectors alike, capturing the essence of bygone eras.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83,900+ Old Yellow Paper Texture Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/612833834/photo/old-paper-texture.jpg?s=612x612&w=0&k=20&c=jqJdnc8ITgpP5SlTku5UitHXwvl7NghFeQzsv_vY8ac=' alt='83,900+ Old Yellow Paper Texture Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/612833834/photo/old-paper-texture.jpg?s=612x612&w=0&k=20&c=jqJdnc8ITgpP5SlTku5UitHXwvl7NghFeQzsv_vY8ac=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Yellow Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/old-paper-texture_1160-558.jpg' alt='Old Yellow Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/old-paper-texture_1160-558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Old yellow paper texture background by Ake ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/93/16/79931631c91e34a66b56fc7286f999ff.jpg' alt='Download free image of Old yellow paper texture background by Ake ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/93/16/79931631c91e34a66b56fc7286f999ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old paper texture abstract background. old vintage paper texture ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/74/01/81/1000_F_374018184_vwHIDJAgVBwYR4abRKyc97JQXcl4wrQi.jpg' alt='Old paper texture abstract background. old vintage paper texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/74/01/81/1000_F_374018184_vwHIDJAgVBwYR4abRKyc97JQXcl4wrQi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Paper Texture Yellow Background Backgrounds | JPG Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/old-vintage-paper-texture-yellow-background_9980600.jpg!w700wp' alt='Old Vintage Paper Texture Yellow Background Backgrounds | JPG Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/old-vintage-paper-texture-yellow-background_9980600.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Grunge Texture - The Old Design Shop">
+                                <img itemprop="contentUrl url" src='https://olddesignshop.com/wp-content/uploads/2016/09/OldDesignShop_TextureGrungePage1-scaled.jpg' alt='Free Vintage Grunge Texture - The Old Design Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Old Design Shop" />
+                                </span>
+                                <a href='https://olddesignshop.com/wp-content/uploads/2016/09/OldDesignShop_TextureGrungePage1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Yellow Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/paperboard-yellow-texture_95678-83.jpg' alt='Old Yellow Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/paperboard-yellow-texture_95678-83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colored Vintage Paper: Texture Pack - WebFX">
+                                <img itemprop="contentUrl url" src='https://www.webfx.com/archive/blog/images/cdn.designinstruct.com/files/234-colored_vintage_paper_textures/colored_vintage_paper_texture_20_yellow.jpg' alt='Colored Vintage Paper: Texture Pack - WebFX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WebFX" />
+                                </span>
+                                <a href='https://www.webfx.com/archive/blog/images/cdn.designinstruct.com/files/234-colored_vintage_paper_textures/colored_vintage_paper_texture_20_yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old yellow paper texture — Stock Photo © spaxiax #23559305">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1000350/2355/i/950/depositphotos_23559305-stock-photo-old-yellow-paper-texture.jpg' alt='Old yellow paper texture — Stock Photo © spaxiax #23559305'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1000350/2355/i/950/depositphotos_23559305-stock-photo-old-yellow-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Very Old Yellow Paper Texture Stock Photo, Picture and Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/ccat82/ccat821202/ccat82120200001/12204184-very-old-yellow-paper-texture.jpg' alt='Very Old Yellow Paper Texture Stock Photo, Picture and Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/ccat82/ccat821202/ccat82120200001/12204184-very-old-yellow-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

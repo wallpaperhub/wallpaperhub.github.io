@@ -1,0 +1,129 @@
+<title>Stunning Turkey Hunting Pictures: Capture the Adventure</title>
+                    <meta name="description" content="Explore breathtaking turkey hunting pictures that showcase thrilling moments in the wild! From stunning landscapes to vibrant turkeys in action, these images celebrate the spirit of hunting and the beauty of nature, perfect for enthusiasts and novice hunters alike.">
+                    <meta name="keywords" content="turkey hunting pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/turkey-hunting-pictures">
+                            <span itemprop="name">turkey hunting pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Turkey Hunting Pictures: Capture the Adventure</h1>
+                <p>Turkey hunting pictures capture the thrill of the hunt and the beauty of nature. From the vivid colors of wild turkeys in their habitat to the camaraderie shared among hunters, these images tell stories of patience, skill, and respect for wildlife. Join the adventure, celebrate the outdoors, and relive memorable moments through stunning visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Trifecta: A Spring for the Ages! - Bowhunter">
+                                <img itemprop="contentUrl url" src='https://content.osgnetworks.tv/bowhuntingmag/content/photos/Casper-Turkey-Trifecta-lead-1200x800.jpg' alt='Turkey Trifecta: A Spring for the Ages! - Bowhunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bowhunter" />
+                                </span>
+                                <a href='https://content.osgnetworks.tv/bowhuntingmag/content/photos/Casper-Turkey-Trifecta-lead-1200x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay safe during turkey hunting season - Grice Connect">
+                                <img itemprop="contentUrl url" src='https://www.vmcdn.ca/f/files/griceconnect/images/sports/turkey-hunt.jpeg;w=960' alt='Stay safe during turkey hunting season - Grice Connect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grice Connect" />
+                                </span>
+                                <a href='https://www.vmcdn.ca/f/files/griceconnect/images/sports/turkey-hunt.jpeg;w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change My Mind: Turkey Hunting Is the Best Way to Introduce New ...">
+                                <img itemprop="contentUrl url" src='https://www.outdoorlife.com/wp-content/uploads/2022/04/04/cliff_cadet_turkey_hunting.jpeg?quality=85' alt='Change My Mind: Turkey Hunting Is the Best Way to Introduce New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1783">
+                                <meta itemprop="height" content="1337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outdoor Life" />
+                                </span>
+                                <a href='https://www.outdoorlife.com/wp-content/uploads/2022/04/04/cliff_cadet_turkey_hunting.jpeg?quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Hunting 101 - The National Wild Turkey Federation">
+                                <img itemprop="contentUrl url" src='https://live-wp.nwtf.org/wp-content/uploads/2021/11/Eastern-JimQuinn-FullDisplay-1024x683.jpg' alt='Turkey Hunting 101 - The National Wild Turkey Federation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Wild Turkey Federation" />
+                                </span>
+                                <a href='https://live-wp.nwtf.org/wp-content/uploads/2021/11/Eastern-JimQuinn-FullDisplay-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Her First Turkey Hunt: Reaching Out to New Hunters - Harvesting Nature">
+                                <img itemprop="contentUrl url" src='https://harvestingnature.com/wp-content/uploads/2017/06/IMG_2066.jpg' alt='Her First Turkey Hunt: Reaching Out to New Hunters - Harvesting Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvesting Nature" />
+                                </span>
+                                <a href='https://harvestingnature.com/wp-content/uploads/2017/06/IMG_2066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Turkey Hunting Can Benefit You as a Deer Hunter | WhitetailDNA">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5709a8e559827e091dde0b6d/1649968439359-HGKR5DHA9FYEIQLV7H4A/215A9751.jpg?format=1500w' alt='How Turkey Hunting Can Benefit You as a Deer Hunter | WhitetailDNA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhitetailDNA" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5709a8e559827e091dde0b6d/1649968439359-HGKR5DHA9FYEIQLV7H4A/215A9751.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Ensure Kids Have a Great Experience Turkey Hunting ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/pujs1b1v0165/6zr4JRAiimzSXUirkEooOc/2f2a80c7cb87459cd5bda7ae263fc246/YouthTurkey3.jpeg' alt='How to Ensure Kids Have a Great Experience Turkey Hunting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MeatEater" />
+                                </span>
+                                <a href='https://images.ctfassets.net/pujs1b1v0165/6zr4JRAiimzSXUirkEooOc/2f2a80c7cb87459cd5bda7ae263fc246/YouthTurkey3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hunters Encouraged to Participate in Avid Turkey Hunter Survey ...">
+                                <img itemprop="contentUrl url" src='https://www.outdooralabama.com/sites/default/files/Avid%20Turkey%20Survey%20News%20Photo.jpg' alt='Hunters Encouraged to Participate in Avid Turkey Hunter Survey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Outdoor Alabama" />
+                                </span>
+                                <a href='https://www.outdooralabama.com/sites/default/files/Avid%20Turkey%20Survey%20News%20Photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Hunting &mdash; Traditional Style - Bowhunter">
+                                <img itemprop="contentUrl url" src='http://www.bowhunter.com/files/2016/04/Fred-eichler-traditional-turkey.jpg' alt='Turkey Hunting &mdash; Traditional Style - Bowhunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bowhunter" />
+                                </span>
+                                <a href='http://www.bowhunter.com/files/2016/04/Fred-eichler-traditional-turkey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vermont begins its second half century of regulated turkey hunting ...">
+                                <img itemprop="contentUrl url" src='https://vermontbiz.com/sites/default/files/inline-images/Matthew%20and%20Dylan%20Greer.jpg' alt='Vermont begins its second half century of regulated turkey hunting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vermont Business Magazine" />
+                                </span>
+                                <a href='https://vermontbiz.com/sites/default/files/inline-images/Matthew%20and%20Dylan%20Greer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

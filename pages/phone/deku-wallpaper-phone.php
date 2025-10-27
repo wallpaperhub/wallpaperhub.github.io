@@ -1,0 +1,129 @@
+<title>Top Deku Wallpapers for Your Phone: My Hero Academia Style</title>
+                    <meta name="description" content="Discover the best Deku wallpapers for your phone! Enhance your screen with iconic images of Izuku Midoriya and show off your My Hero Academia fandom. Find the perfect designs to fit your style and personality today!">
+                    <meta name="keywords" content="deku wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/deku-wallpaper-phone">
+                            <span itemprop="name">deku wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Deku Wallpapers for Your Phone: My Hero Academia Style</h1>
+                <p>Transform your phone screen with stunning Deku wallpapers! Dive into the world of My Hero Academia and showcase your love for Izuku Midoriya with high-quality images. From epic battle scenes to adorable chibi versions, there’s a perfect wallpaper for every fan. Customize your device and celebrate your favorite hero in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Deku wallpaper for mobile : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oq9zq084xe741.png' alt='I made a Deku wallpaper for mobile : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oq9zq084xe741.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have these Deku wallpapers made by me! : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/uybkhyb2flm61.jpg?width=640&crop=smart&auto=webp&s=4b6b34fc0d84a0d5e3ffa6600c3bb0e9218694da' alt='Have these Deku wallpapers made by me! : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/uybkhyb2flm61.jpg?width=640&crop=smart&auto=webp&s=4b6b34fc0d84a0d5e3ffa6600c3bb0e9218694da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="be The Hero, Deku" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-green-deku-ykforztdlyqmjchr.webp' alt='be The Hero, Deku" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-green-deku-ykforztdlyqmjchr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DEKU PHONE WALLPAPER ⚡️ : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4t0vbh2f7ju11.jpg' alt='DEKU PHONE WALLPAPER ⚡️ : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="3465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4t0vbh2f7ju11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deku-izuku midoriya, ofa, oneforall, super, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/690/260/HD-wallpaper-deku-izuku-midoriya-ofa-oneforall-super.jpg' alt='Deku-izuku midoriya, ofa, oneforall, super, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/690/260/HD-wallpaper-deku-izuku-midoriya-ofa-oneforall-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Izuku Silhouette My Hero Academia Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/izuku-silhouette-my-hero-academia-phone-t7xxupxe0dasmgbc.jpg' alt='Izuku Silhouette My Hero Academia Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/izuku-silhouette-my-hero-academia-phone-t7xxupxe0dasmgbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midoriya izuku wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/77/63/be776375e9ad0154d9268a11d0702a8f.jpg' alt='Midoriya izuku wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/77/63/be776375e9ad0154d9268a11d0702a8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deku, Boku no Hero, Héroe, Izuku Midoriya, Green, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/882/935/HD-wallpaper-deku-boku-no-hero-heroe-izuku-midoriya-green.jpg' alt='Deku, Boku no Hero, Héroe, Izuku Midoriya, Green, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/882/935/HD-wallpaper-deku-boku-no-hero-heroe-izuku-midoriya-green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DEKU PHONE WALLPAPER⚡️ pt 2 : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jbrpikkbzzv11.jpg?width=640&crop=smart&auto=webp&s=283105407529317436dbc17788984d2f03c90a5f' alt='DEKU PHONE WALLPAPER⚡️ pt 2 : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jbrpikkbzzv11.jpg?width=640&crop=smart&auto=webp&s=283105407529317436dbc17788984d2f03c90a5f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Deku Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-deku-ani6ntqp8uofyko4.jpg' alt='100+] Aesthetic Deku Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-deku-ani6ntqp8uofyko4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

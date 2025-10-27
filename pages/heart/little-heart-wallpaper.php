@@ -1,0 +1,129 @@
+<title>Little Heart Wallpaper: Adorable Designs for Every Space</title>
+                    <meta name="description" content="Explore our charming little heart wallpaper collection! Perfect for nurseries and bedrooms, these lovely designs add warmth and personality to any space. Find the perfect patterns to express love and style, all while creating a cozy atmosphere. Perfect for any room makeover, shop now!">
+                    <meta name="keywords" content="little heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/little-heart-wallpaper">
+                            <span itemprop="name">little heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Little Heart Wallpaper: Adorable Designs for Every Space</h1>
+                <p>Transform your space with adorable little heart wallpapers! Perfect for adding a touch of love to any room, these charming designs come in a variety of colors and patterns. From soft pastels to vibrant hues, they create a warm atmosphere. Ideal for nurseries, bedrooms, or accent walls, little heart wallpapers are a delightful choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1198784356/vector/hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=e3-l81cXybtbsqzF5zDTlMG1_6g0I2y758qxuutcYx0=' alt='14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1198784356/vector/hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=e3-l81cXybtbsqzF5zDTlMG1_6g0I2y758qxuutcYx0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Simple Pink Little Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-pink-m3fomk822tlhns2v.jpg' alt='Download Simple Pink Little Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-pink-m3fomk822tlhns2v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Hearts Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/heart-background-falling-hearts-hand-drawn-illustration_532537-1089.jpg?semt=ais_hybrid' alt='Little Hearts Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/heart-background-falling-hearts-hand-drawn-illustration_532537-1089.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE2BOsWHb8/1/0/900w/canva-colorful-minimalist-little-hearts-love-phone-wallpaper-_NveIwKyX-w.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE2BOsWHb8/1/0/900w/canva-colorful-minimalist-little-hearts-love-phone-wallpaper-_NveIwKyX-w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Black And White Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/small-black-and-white-heart-7yntv0y51q4mveeb.jpg' alt='Small Black And White Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/small-black-and-white-heart-7yntv0y51q4mveeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twinkling Little Heart｜Wallpaper Theme +HOME(PlusHome)">
+                                <img itemprop="contentUrl url" src='https://res.atm-plushome.com/uploads/thumbnails/2280/ss_home_xhdpi_medium_ja.webp' alt='Twinkling Little Heart｜Wallpaper Theme +HOME(PlusHome)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="359">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Theme｜+" />
+                                </span>
+                                <a href='https://res.atm-plushome.com/uploads/thumbnails/2280/ss_home_xhdpi_medium_ja.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/4a/c0/ff4ac028aee43a99f1b22cc7b7fc34ec.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/4a/c0/ff4ac028aee43a99f1b22cc7b7fc34ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Cute Valentines Small Heart Pattern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/cute-valentines-small-heart-pattern-xp1xrcpejdj2qlf8.jpg' alt='Download free Cute Valentines Small Heart Pattern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/cute-valentines-small-heart-pattern-xp1xrcpejdj2qlf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little hearts, crush, cute, heart, in love, love, valentine ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/338/654/HD-wallpaper-little-hearts-crush-cute-heart-in-love-love-valentine-valentine-s-day.jpg' alt='Little hearts, crush, cute, heart, in love, love, valentine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/338/654/HD-wallpaper-little-hearts-crush-cute-heart-in-love-love-valentine-valentine-s-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Tiny hearts wallpapers ideas | heart wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/fd/41/34fd41487f63e784760160035b15c97e.jpg' alt='12 Tiny hearts wallpapers ideas | heart wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/fd/41/34fd41487f63e784760160035b15c97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

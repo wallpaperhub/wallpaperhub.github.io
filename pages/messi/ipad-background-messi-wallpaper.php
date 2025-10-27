@@ -1,0 +1,129 @@
+<title>Stunning Messi Wallpapers for Your iPad</title>
+                    <meta name="description" content="Discover the best Messi wallpapers for your iPad! Enjoy vibrant, high-resolution images that bring the magic of football to your screen. Perfect for fans who want to showcase their passion and style. Download now and elevate your iPad experience!">
+                    <meta name="keywords" content="ipad background messi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/ipad-background-messi-wallpaper">
+                            <span itemprop="name">ipad background messi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Messi Wallpapers for Your iPad</h1>
+                <p>Upgrade your iPad with stunning Messi wallpapers! Celebrate your love for football and the legendary player by choosing from a wide array of vibrant and high-resolution wallpapers. Whether you prefer action shots, artistic designs, or iconic moments, there's a Messi wallpaper that will make your iPad screen look amazing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi - Top messi, Messi - 24, FC Barcelona Messi, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/585/26/HD-wallpaper-messi-top-messi-messi-24-fc-barcelona-messi.jpg' alt='Messi - Top messi, Messi - 24, FC Barcelona Messi, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/585/26/HD-wallpaper-messi-top-messi-messi-24-fc-barcelona-messi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                             ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/1f/79/061f798c1e7e40452e71c34ab4aa39aa.jpg' alt='                             '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/1f/79/061f798c1e7e40452e71c34ab4aa39aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Football King iPhone Wallpaper HD | Lionel messi wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/2b/cf/bd2bcf787bb897d5e7011ab6b1673651.jpg' alt='Messi Football King iPhone Wallpaper HD | Lionel messi wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/2b/cf/bd2bcf787bb897d5e7011ab6b1673651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer, Lionel Messi, PSG, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/341/47/HD-wallpaper-soccer-lionel-messi-psg.jpg' alt='Soccer, Lionel Messi, PSG, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/341/47/HD-wallpaper-soccer-lionel-messi-psg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24+ Lionel Messi HD Wallpapers in Ipad Air, 2048x2048 Resolution ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/wl-lionel-messi-copa-america-2024-4k_92960.jpg' alt='24+ Lionel Messi HD Wallpapers in Ipad Air, 2048x2048 Resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/wl-lionel-messi-copa-america-2024-4k_92960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Wallpaper 4K, FCB, Soccer Player, FC Barcelona">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lionel-messi-fcb-3840x2160-13180.jpg' alt='Lionel Messi Wallpaper 4K, FCB, Soccer Player, FC Barcelona'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lionel-messi-fcb-3840x2160-13180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="messi ipad wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/0d/78/cd0d78dc5db1489dcf61a33d147059e6.jpg' alt='messi ipad wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/0d/78/cd0d78dc5db1489dcf61a33d147059e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi, FC Barcelona, Argentine footballer, La Liga, Spain ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/79/110/HD-wallpaper-lionel-messi-fc-barcelona-argentine-footballer-la-liga-spain-catalonia-football-burgundy-stone-background.jpg' alt='Lionel Messi, FC Barcelona, Argentine footballer, La Liga, Spain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/79/110/HD-wallpaper-lionel-messi-fc-barcelona-argentine-footballer-la-liga-spain-catalonia-football-burgundy-stone-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi iPhone, Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/622/917/HD-wallpaper-messi-iphone-messi-world-cup.jpg' alt='Messi iPhone, Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/622/917/HD-wallpaper-messi-iphone-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi 2022 iPad Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11447891.jpg' alt='Messi 2022 iPad Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11447891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

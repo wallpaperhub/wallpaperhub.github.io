@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Wavy Lines</title>
+                    <meta name="description" content="Explore the captivating world of wavy lines! Learn how these curvy shapes enhance design and art, adding depth and energy. Perfect for artists and designers seeking inspiration or new techniques to elevate their work. Dive in and discover the dynamic beauty of wavy lines today!">
+                    <meta name="keywords" content="wavy line">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wavy-line">
+                            <span itemprop="name">wavy line</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Wavy Lines</h1>
+                <p>Wavy lines bring a unique dynamism to art and design, captivating the eye with their fluid motion. From elegant calligraphy to modern graphics, these curvy shapes can evoke feelings of tranquility and energy. Their versatility allows for creative expression, whether in fashion, architecture, or digital art, adding depth and intrigue.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Lines Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3JtNTU5LWVsZW1lbnQtMTItdi5qcGc.jpg' alt='Wavy Lines Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3JtNTU5LWVsZW1lbnQtMTItdi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Line Icons - Free SVG & PNG Wavy Line Images - Noun Project">
+                                <img itemprop="contentUrl url" src='https://static.thenounproject.com/png/924527-200.png' alt='Wavy Line Icons - Free SVG & PNG Wavy Line Images - Noun Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Noun Project" />
+                                </span>
+                                <a href='https://static.thenounproject.com/png/924527-200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Lines Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3JtNTU5LWVsZW1lbnQtMTItcC5wbmc.png' alt='Wavy Lines Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA3L3JtNTU5LWVsZW1lbnQtMTItcC5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Wavy Lines Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2291823589/display_1500/stock-vector-wavy-lines-seamless-pattern-background-2291823589.jpg' alt='Seamless Wavy Lines Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2291823589/display_1500/stock-vector-wavy-lines-seamless-pattern-background-2291823589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Draw wavy lines - General - Xojo Programming Forum">
+                                <img itemprop="contentUrl url" src='http://clipart-library.com/images/8i65jKBXT.gif' alt='Draw wavy lines - General - Xojo Programming Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xojo Forum" />
+                                </span>
+                                <a href='http://clipart-library.com/images/8i65jKBXT.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61,600+ Wavy Lines Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1447845524/vector/wave-zigzag-line-simple-thin-to-thick-element-decor-design-vector-or-single-ripple-curve-zig.jpg?s=612x612&w=0&k=20&c=bsWZWpBp7UEkKBnBa2oAXu3TMhjSHAPeE4-b5pT8oz8=' alt='61,600+ Wavy Lines Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1447845524/vector/wave-zigzag-line-simple-thin-to-thick-element-decor-design-vector-or-single-ripple-curve-zig.jpg?s=612x612&w=0&k=20&c=bsWZWpBp7UEkKBnBa2oAXu3TMhjSHAPeE4-b5pT8oz8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Wavy Lines Images – Browse 59,932 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/19/86/79/360_F_419867937_P5wKV4YPWHPyF2VkgS0JGNCdKSW5Dw8T.jpg' alt='Thin Wavy Lines Images – Browse 59,932 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/19/86/79/360_F_419867937_P5wKV4YPWHPyF2VkgS0JGNCdKSW5Dw8T.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | omission wavy line">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/4c/4c1c7776bb480213739074ea441d23d5_t.jpeg' alt='Free Vectors | omission wavy line'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1807">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/4c/4c1c7776bb480213739074ea441d23d5_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wavy Line Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-curly-divider-lines_78370-2211.jpg' alt='Wavy Line Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-curly-divider-lines_78370-2211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Abstract wavy thin line, 90x22.5 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/62/74/63/1000_F_562746322_T8Tz6wFNnZWw7KR8QXfhACktv5RNlQTR.jpg' alt='Poster, Print Abstract wavy thin line, 90x22.5 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/62/74/63/1000_F_562746322_T8Tz6wFNnZWw7KR8QXfhACktv5RNlQTR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

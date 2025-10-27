@@ -1,0 +1,129 @@
+<title>Discover What's Inside Walmart: Your Ultimate Shopping Guide</title>
+                    <meta name="description" content="Uncover the inside of Walmart, where convenience meets variety. From groceries to gadgets, explore the store's extensive offerings designed to make shopping easy and affordable. Join us as we dive into the unique shopping experience at Walmart!">
+                    <meta name="keywords" content="inside walmart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/inside-walmart">
+                            <span itemprop="name">inside walmart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover What's Inside Walmart: Your Ultimate Shopping Guide</h1>
+                <p>Inside Walmart, shoppers can explore a massive selection of products ranging from groceries to electronics. The store is designed for convenience, featuring wide aisles and organized sections. From seasonal items to everyday essentials, Walmart strives to offer value and accessibility. Experience affordability and variety all under one roof!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See what's new inside Walmart stores">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/200930115708-01-walmart-new-design.jpg?q=w_2400,h_1600,x_0,y_0,c_fill' alt='See what's new inside Walmart stores'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/200930115708-01-walmart-new-design.jpg?q=w_2400,h_1600,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="254 Walmart Aisle Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/614264138/photo/walmart-department-store-aisle.jpg?s=612x612&w=gi&k=20&c=cb6iL2yiuJQTlKR3FWjWD7yLIOQ8MtrV5lOUFFcC_fQ=' alt='254 Walmart Aisle Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/614264138/photo/walmart-department-store-aisle.jpg?s=612x612&w=gi&k=20&c=cb6iL2yiuJQTlKR3FWjWD7yLIOQ8MtrV5lOUFFcC_fQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Walmart's Secret 'Kepler' Store for Testing Tech — The ...">
+                                <img itemprop="contentUrl url" src='https://tii.imgix.net/production/articles/3184/23c1583e-fe05-490f-90c4-ecef56a20b07.jpg?auto=compress&fit=crop&auto=format' alt='Inside Walmart's Secret 'Kepler' Store for Testing Tech — The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1860">
+                                <meta itemprop="height" content="1045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Information" />
+                                </span>
+                                <a href='https://tii.imgix.net/production/articles/3184/23c1583e-fe05-490f-90c4-ecef56a20b07.jpg?auto=compress&fit=crop&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What I'm Buying At Walmart (From A Target Snob) | Classic Casual Home">
+                                <img itemprop="contentUrl url" src='https://classiccasualhome.com/wp-content/uploads/2023/02/Walmart-aisle.jpg' alt='What I'm Buying At Walmart (From A Target Snob) | Classic Casual Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classic Casual Home" />
+                                </span>
+                                <a href='https://classiccasualhome.com/wp-content/uploads/2023/02/Walmart-aisle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the store: How a reimagined Walmart supercenter is ...">
+                                <img itemprop="contentUrl url" src='https://imgproxy.divecdn.com/ACpNQMNzLgpvOPQgDprSexhWRhxbzjHsivh6SsA4lQM/g:nowe:0:603/c:3264:1844/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTMwMi5KUEc=.webp' alt='Inside the store: How a reimagined Walmart supercenter is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grocery Dive" />
+                                </span>
+                                <a href='https://imgproxy.divecdn.com/ACpNQMNzLgpvOPQgDprSexhWRhxbzjHsivh6SsA4lQM/g:nowe:0:603/c:3264:1844/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTMwMi5KUEc=.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why You Can No Longer Sip A McCafé While You Shop At Walmart">
+                                <img itemprop="contentUrl url" src='https://www.chowhound.com/img/gallery/why-you-can-no-longer-sip-a-mccaf-while-you-shop-at-walmart/l-intro-1735922671.jpg' alt='Why You Can No Longer Sip A McCafé While You Shop At Walmart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chowhound" />
+                                </span>
+                                <a href='https://www.chowhound.com/img/gallery/why-you-can-no-longer-sip-a-mccaf-while-you-shop-at-walmart/l-intro-1735922671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside a Walmart store editorial stock image. Image of store ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/inside-walmart-store-park-city-ut-empty-isle-136448969.jpg' alt='Inside a Walmart store editorial stock image. Image of store ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1292">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/inside-walmart-store-park-city-ut-empty-isle-136448969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="291 Walmart Interior Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1519961181/photo/miami-florida-hallandale-beach-walmart-store-cashier-and-check-out-counter.jpg?s=612x612&w=gi&k=20&c=cKwOCK6u0ngH2Pw1mTk91zZrO0AKdBDH3jvzMNHs7w4=' alt='291 Walmart Interior Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1519961181/photo/miami-florida-hallandale-beach-walmart-store-cashier-and-check-out-counter.jpg?s=612x612&w=gi&k=20&c=cKwOCK6u0ngH2Pw1mTk91zZrO0AKdBDH3jvzMNHs7w4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shopping Inside Walmart - Fort Myers Beach, Florida">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KhRnvflBs-U/maxresdefault.jpg' alt='Shopping Inside Walmart - Fort Myers Beach, Florida'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KhRnvflBs-U/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walmart store interior hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/BWYXH9/interior-of-a-walmart-supercenter-haines-city-central-florida-usa-BWYXH9.jpg' alt='Walmart store interior hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/BWYXH9/interior-of-a-walmart-supercenter-haines-city-central-florida-usa-BWYXH9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

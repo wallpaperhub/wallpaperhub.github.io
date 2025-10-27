@@ -1,0 +1,129 @@
+<title>Discover the Colorful World of Rayman: A Gaming Icon</title>
+                    <meta name="description" content="Explore the enchanting universe of Rayman, the beloved video game character from Ubisoft. Dive into vibrant worlds filled with adventures, imaginative gameplay, and unforgettable moments. Join Rayman on his journey and discover why this franchise continues to captivate gamers of all ages!">
+                    <meta name="keywords" content="rayman background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rayman-background">
+                            <span itemprop="name">rayman background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Colorful World of Rayman: A Gaming Icon</h1>
+                <p>Rayman is a popular video game franchise created by Ubisoft, debuting in 1995. The series follows a limbless hero named Rayman as he embarks on various adventures in fantastical worlds. Known for its vibrant graphics and imaginative gameplay, Rayman has captivated players with its engaging level design and memorable characters, becoming a beloved icon in gaming.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayman Legends Background Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/5a/f1/ac5af1058fb5c8875132bd723a281e58.jpg' alt='Rayman Legends Background Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/5a/f1/ac5af1058fb5c8875132bd723a281e58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Engine Background - I came across this beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jas049f4azi81.png' alt='4k Wallpaper Engine Background - I came across this beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jas049f4azi81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Rayman ideas | rayman legends, rayman origins, game art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/48/dc/63/48dc631a2c69694f8724766735e70d81.jpg' alt='160 Rayman ideas | rayman legends, rayman origins, game art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/48/dc/63/48dc631a2c69694f8724766735e70d81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayman Legends BG Art [1920x1200] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cv0Bz91XCTn9oaMV1Nts6W-dCe2UVaDaaPkLvKlhHe0.jpg?width=1080&crop=smart&auto=webp&s=b0e53c765dd139b2eb6a7db7189b66f5fda5bfdb' alt='Rayman Legends BG Art [1920x1200] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cv0Bz91XCTn9oaMV1Nts6W-dCe2UVaDaaPkLvKlhHe0.jpg?width=1080&crop=smart&auto=webp&s=b0e53c765dd139b2eb6a7db7189b66f5fda5bfdb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayman Legends wallpaper 05 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_rayman_legends_05_1920x1080.jpg' alt='Rayman Legends wallpaper 05 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_rayman_legends_05_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayman Legends Characters HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/793/793280.jpg' alt='Rayman Legends Characters HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/793/793280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rayman Legends Concept Art by Aymeric Kevin | Concept Art World">
+                                <img itemprop="contentUrl url" src='https://conceptartworld.com/wp-content/uploads/2013/11/Rayman_Legends_Concept_Art_AK_01.jpg' alt='Rayman Legends Concept Art by Aymeric Kevin | Concept Art World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1598">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Concept Art World" />
+                                </span>
+                                <a href='https://conceptartworld.com/wp-content/uploads/2013/11/Rayman_Legends_Concept_Art_AK_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Rayman Origins HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/682/682421.jpg' alt='Download Video Game Rayman Origins HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/682/682421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper using game assets (instead of finishing my ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1844t9stfiyb1.png' alt='Made a wallpaper using game assets (instead of finishing my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1844t9stfiyb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secrets Design in Rayman Legends | Stanislav Costiuc">
+                                <img itemprop="contentUrl url" src='https://stanislavcostiuc.com/wp-content/uploads/2016/04/rl2.jpg?w=604&h=340' alt='Secrets Design in Rayman Legends | Stanislav Costiuc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanislav Costiuc | Game Designer" />
+                                </span>
+                                <a href='https://stanislavcostiuc.com/wp-content/uploads/2016/04/rl2.jpg?w=604&h=340' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

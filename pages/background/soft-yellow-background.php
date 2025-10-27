@@ -1,0 +1,129 @@
+<title>Cheerful Soft Yellow Backgrounds: Brighten Your Design</title>
+                    <meta name="description" content="Discover the beauty of soft yellow backgrounds! Perfect for adding warmth and vibrancy to your designs. Ideal for home decor, graphics, and more, these cheerful hues inspire positivity and creativity. Explore how this gentle color can transform your projects today!">
+                    <meta name="keywords" content="soft yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soft-yellow-background">
+                            <span itemprop="name">soft yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Soft Yellow Backgrounds: Brighten Your Design</h1>
+                <p>Soft yellow backgrounds evoke warmth and cheerfulness, perfect for creating an inviting atmosphere. Ideal for design projects or social media graphics, this gentle hue enhances visuals without overwhelming. Whether used in home decor or branding, a soft yellow backdrop resonates positivity and creativity, making it a versatile choice for various applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Yellow Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/modern-soft-yellow-watercolor-texture-beautiful-background_1055-13479.jpg?semt=ais_hybrid' alt='Soft Yellow Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/modern-soft-yellow-watercolor-texture-beautiful-background_1055-13479.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light-yellow-background-pale-yellow-clouds-texture-light-yellow ...">
+                                <img itemprop="contentUrl url" src='https://lab-can.com/wp-content/uploads/2018/07/light-yellow-background-pale-yellow-clouds-texture-light-yellow-and-green-background-design.jpg' alt='light-yellow-background-pale-yellow-clouds-texture-light-yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laboratory for Clinical Affective Neuroscience" />
+                                </span>
+                                <a href='https://lab-can.com/wp-content/uploads/2018/07/light-yellow-background-pale-yellow-clouds-texture-light-yellow-and-green-background-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yellow Background Images – Browse 8,851,281 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/28/90/32/360_F_128903228_vhiMaXZ8qOacZEAfKS8QdLKjdwiqfKaQ.jpg' alt='Light Yellow Background Images – Browse 8,851,281 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/28/90/32/360_F_128903228_vhiMaXZ8qOacZEAfKS8QdLKjdwiqfKaQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-watercolor-brush-stroke-design-soft-yellow-background_1055-17657.jpg?semt=ais_hybrid' alt='Pale Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-watercolor-brush-stroke-design-soft-yellow-background_1055-17657.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light-yellow-background-pale-yellow-clouds-texture-light-yellow ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lab-can.com/wp-content/uploads/2018/07/light-yellow-background-pale-yellow-clouds-texture-light-yellow-and-green-background-design.jpg?fit=300%2C141&ssl=1' alt='light-yellow-background-pale-yellow-clouds-texture-light-yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laboratory for Clinical Affective Neuroscience" />
+                                </span>
+                                <a href='https://i0.wp.com/lab-can.com/wp-content/uploads/2018/07/light-yellow-background-pale-yellow-clouds-texture-light-yellow-and-green-background-design.jpg?fit=300%2C141&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Light yellow background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/a0/71/f9a071bd610c4b1bff6c65a4b6e7ed3f.jpg' alt='Premium Photo | Light yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/a0/71/f9a071bd610c4b1bff6c65a4b6e7ed3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Yellow Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/002/902/non_2x/abstract-background-the-studio-space-is-empty-with-a-soft-and-soft-yellow-color-free-vector.jpg' alt='Plain Yellow Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/002/902/non_2x/abstract-background-the-studio-space-is-empty-with-a-soft-and-soft-yellow-color-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,900+ Pale Yellow Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1489037652/vector/abstract-background-of-the-image-of-wave-lines-flowing-in-the-shining-sky_yellow.jpg?s=612x612&w=0&k=20&c=q144mbEfu2A_eM1rM_KEbUUQKyJnKU8DqUIWAENBM9I=' alt='4,900+ Pale Yellow Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1489037652/vector/abstract-background-of-the-image-of-wave-lines-flowing-in-the-shining-sky_yellow.jpg?s=612x612&w=0&k=20&c=q144mbEfu2A_eM1rM_KEbUUQKyJnKU8DqUIWAENBM9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Images – Browse 1,733,489 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/04/20/13/360_F_404201353_qwIMY3xr3mNbUUdQoLY11aJHhsUHgqCN.jpg' alt='Pastel Yellow Images – Browse 1,733,489 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/04/20/13/360_F_404201353_qwIMY3xr3mNbUUdQoLY11aJHhsUHgqCN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft yellow background | PSDgraphics">
+                                <img itemprop="contentUrl url" src='https://www.psdgraphics.com/wp-content/uploads/2009/10/yellow-lights.jpg' alt='Soft yellow background | PSDgraphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSDgraphics" />
+                                </span>
+                                <a href='https://www.psdgraphics.com/wp-content/uploads/2009/10/yellow-lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

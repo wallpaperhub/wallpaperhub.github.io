@@ -1,0 +1,129 @@
+<title>Boho Aesthetic Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover stunning boho aesthetic wallpaper to elevate your home decor. Perfect for creating a cozy and vibrant atmosphere, our collection features natural textures and earthy tones. Transform any room into a stylish sanctuary that reflects your unique personality. Shop now for the perfect boho vibe!">
+                    <meta name="keywords" content="wallpaper boho aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-boho-aesthetic">
+                            <span itemprop="name">wallpaper boho aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Aesthetic Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with boho aesthetic wallpaper that brings warmth and personality to any room. Embrace natural textures, earthy colors, and artistic patterns to create a cozy atmosphere. Perfect for accent walls or entire rooms, boho wallpaper complements eclectic decor and invites creativity, making your home uniquely inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free boho desktop wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFST6uS1MY/1/0/1600w/canva-brown-bohemian-abstract-shape-and-leaf-desktop-wallpaper-YnK5d81hjdM.jpg' alt='Free boho desktop wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFST6uS1MY/1/0/1600w/canva-brown-bohemian-abstract-shape-and-leaf-desktop-wallpaper-YnK5d81hjdM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Flower Garden Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/boho-aesthetic-flower-garden-to0no1q4uneo4c7a.jpg' alt='Boho Aesthetic Flower Garden Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/boho-aesthetic-flower-garden-to0no1q4uneo4c7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/03/1a/83031a3c7a1c1f41a0da33d43878132f.jpg' alt='Boho Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/03/1a/83031a3c7a1c1f41a0da33d43878132f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' alt='Boho iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/7b/2e/8e7b2e50cf682cd6831b2c5c2cf1c9fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic White Outlined Sun Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/boho-aesthetic-white-outlined-sun-zjvnw0oiiukjtms6.jpg' alt='Boho Aesthetic White Outlined Sun Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/boho-aesthetic-white-outlined-sun-zjvnw0oiiukjtms6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Boho Aesthetic Wallpapers - Aesthetic Boho Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/06/flowers-boho-aesthetic-wallpaper-scaled.jpg' alt='Flowers Boho Aesthetic Wallpapers - Aesthetic Boho Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/06/flowers-boho-aesthetic-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic boho wallpaper design. home decoration for interior ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/310/714/non_2x/aesthetic-boho-wallpaper-design-home-decoration-for-interior-design-vector.jpg' alt='aesthetic boho wallpaper design. home decoration for interior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/310/714/non_2x/aesthetic-boho-wallpaper-design-home-decoration-for-interior-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-boho-background_23-2149051176.jpg' alt='Boho Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-boho-background_23-2149051176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free boho desktop wallpaper templates to personalize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFnSII2R7Y/1/0/1600w/canva-beige-neutral-aesthetic-photo-collage-desktop-wallpaper-oU0FWVwdSYg.jpg' alt='Free boho desktop wallpaper templates to personalize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFnSII2R7Y/1/0/1600w/canva-beige-neutral-aesthetic-photo-collage-desktop-wallpaper-oU0FWVwdSYg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The easiest way to find the perfect outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/8d33dbab-8945-49fd-9f9f-a36612506cb6.jpeg' alt='The easiest way to find the perfect outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The easiest way to find the perfect outfit | ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/8d33dbab-8945-49fd-9f9f-a36612506cb6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

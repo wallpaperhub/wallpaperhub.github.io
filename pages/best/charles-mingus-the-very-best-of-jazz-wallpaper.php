@@ -1,0 +1,129 @@
+<title>Charles Mingus: The Best Jazz Wallpaper Collection</title>
+                    <meta name="description" content="Discover stunning Charles Mingus jazz wallpapers that bring the vibrant energy of his music to your space. Perfect for jazz lovers, these designs celebrate the artistry of one of the genre's legends. Transform your environment with our exclusive collection today!">
+                    <meta name="keywords" content="charles mingus the very best of jazz wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/charles-mingus-the-very-best-of-jazz-wallpaper">
+                            <span itemprop="name">charles mingus the very best of jazz wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charles Mingus: The Best Jazz Wallpaper Collection</h1>
+                <p>Explore the world of jazz with our captivating Charles Mingus wallpaper collection. Immerse yourself in the vibrant rhythms and bold melodies that define his music. Perfect for jazz enthusiasts, each design reflects the essence of Mingus's genius, making your space resonate with creativity and passion. Elevate your environment today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Charles Mingus-inspired wallpaper for my Galaxy S10 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wvfs3c0tfm931.jpg' alt='I made a Charles Mingus-inspired wallpaper for my Galaxy S10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wvfs3c0tfm931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mingus Gallery — CHARLES MINGUS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d0943cc1685450001db8e42/1567634206185-66MYB7LUJQZYVW1QFE49/mingusmed.jpg?format=1000w' alt='Mingus Gallery — CHARLES MINGUS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charles Mingus" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d0943cc1685450001db8e42/1567634206185-66MYB7LUJQZYVW1QFE49/mingusmed.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VERY BEST OF CHARLES MINGUS CD">
+                                <img itemprop="contentUrl url" src='https://img.merchbar.com/product/cdified/upc/88/081227998820.jpg?q=40&fit=crop&crop=faces,entropy&w=1600&h=900' alt='VERY BEST OF CHARLES MINGUS CD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Merchbar" />
+                                </span>
+                                <a href='https://img.merchbar.com/product/cdified/upc/88/081227998820.jpg?q=40&fit=crop&crop=faces,entropy&w=1600&h=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jazz Legend Charles Mingus Mastering the Bass Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/charles-mingus-virtuoso-bass-player-akv97rd5szu5yos9.jpg' alt='Download Jazz Legend Charles Mingus Mastering the Bass Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/charles-mingus-virtuoso-bass-player-akv97rd5szu5yos9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Legendary Jazz Musician Charles Mingus Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/legendary-jazz-musician-charles-mingus-2wxpc4ju8zffyrn8.jpg' alt='Download free Legendary Jazz Musician Charles Mingus Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/legendary-jazz-musician-charles-mingus-2wxpc4ju8zffyrn8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18"x24" Charles Mingus Poster Jazz Bassist">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26111469/r/il/f96741/3628146499/il_570xN.3628146499_7zqr.jpg' alt='18"x24" Charles Mingus Poster Jazz Bassist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26111469/r/il/f96741/3628146499/il_570xN.3628146499_7zqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Art Poster Charles Mingus Jazz Upright Bassist Black And White  Canvas Wall Art (2) Canvas Painting Posters And Prints Wall Art Pictures ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HztvuBHDL._AC_UF350,350_QL80_.jpg' alt='Amazon.com: Art Poster Charles Mingus Jazz Upright Bassist Black And White  Canvas Wall Art (2) Canvas Painting Posters And Prints Wall Art Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HztvuBHDL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Charles Mingus wallpaper with an AI. : r/Jazz">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-this-charles-mingus-wallpaper-with-an-ai-v0-3pdiy2zwtszb1.jpg?width=1080&crop=smart&auto=webp&s=2591f3ff88a920ae4c98abccecac6a774b3206cd' alt='Made this Charles Mingus wallpaper with an AI. : r/Jazz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-this-charles-mingus-wallpaper-with-an-ai-v0-3pdiy2zwtszb1.jpg?width=1080&crop=smart&auto=webp&s=2591f3ff88a920ae4c98abccecac6a774b3206cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this Charles Mingus wallpaper with an AI. : r/Jazz">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-this-charles-mingus-wallpaper-with-an-ai-v0-0ho0i3zwtszb1.jpg?width=640&crop=smart&auto=webp&s=fca7bcaabe313b510bc1ba71d877647b8a515c49' alt='Made this Charles Mingus wallpaper with an AI. : r/Jazz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-this-charles-mingus-wallpaper-with-an-ai-v0-0ho0i3zwtszb1.jpg?width=640&crop=smart&auto=webp&s=fca7bcaabe313b510bc1ba71d877647b8a515c49' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charles Mingus” by Uploader Unknown - Jazz Photo">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/allaboutjazz/media/large/2/0/1/06313e3331b2e4e222fed4dde514d.jpg' alt='Charles Mingus” by Uploader Unknown - Jazz Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Jazz" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/allaboutjazz/media/large/2/0/1/06313e3331b2e4e222fed4dde514d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

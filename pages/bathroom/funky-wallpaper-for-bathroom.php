@@ -1,0 +1,129 @@
+<title>Funky Bathroom Wallpaper Ideas for a Bold Update</title>
+                    <meta name="description" content="Explore funky wallpaper options for your bathroom that bring energy and character into your space. Discover unique designs and vibrant patterns perfect for a stylish, refreshing makeover. Ideal for any bathroom, these wallpapers create a lively ambiance you'll love every day.">
+                    <meta name="keywords" content="funky wallpaper for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/funky-wallpaper-for-bathroom">
+                            <span itemprop="name">funky wallpaper for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funky Bathroom Wallpaper Ideas for a Bold Update</h1>
+                <p>Transform your bathroom into a vibrant retreat with funky wallpaper! From bold patterns to playful colors, funky designs can add personality and style. Whether you prefer tropical themes, geometric shapes, or whimsical prints, there's a perfect option for your space. Make every visit to your bathroom a fun experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAVANA">
+                                <img itemprop="contentUrl url" src='https://funkypaperco.com/cdn/shop/products/il_fullxfull.4916121744_s9l6_560x.jpg?v=1694551580' alt='HAVANA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funky Paper Co" />
+                                </span>
+                                <a href='https://funkypaperco.com/cdn/shop/products/il_fullxfull.4916121744_s9l6_560x.jpg?v=1694551580' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallink Funky Black Lips Hearts Wallpaper Peel and Stick for Bedroom  Bathroom Wallpaper 17.5×120 Inch Self Adhesive Removable Modern Vinyl  Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91W7gosiV4L._AC_UF350,350_QL80_.jpg' alt='Wallink Funky Black Lips Hearts Wallpaper Peel and Stick for Bedroom  Bathroom Wallpaper 17.5×120 Inch Self Adhesive Removable Modern Vinyl  Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91W7gosiV4L._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Bathroom Wallpaper Ideas That Will Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.southernliving.com/thmb/P1USN6X6__XgQ8tBiaS1bqZ6V4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27378_Kay_ChattanoogaLookOutMtn__0537-2ec258ab9f20406b810762a879b4b7da.jpg' alt='32 Bathroom Wallpaper Ideas That Will Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Living" />
+                                </span>
+                                <a href='https://www.southernliving.com/thmb/P1USN6X6__XgQ8tBiaS1bqZ6V4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27378_Kay_ChattanoogaLookOutMtn__0537-2ec258ab9f20406b810762a879b4b7da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Teal Koi Fish Wallpaper, Bathroom Golden Wall Paper With ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14270900/r/il/f1204d/5479404728/il_fullxfull.5479404728_b9a9.jpg' alt='Vintage Teal Koi Fish Wallpaper, Bathroom Golden Wall Paper With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2302">
+                                <meta itemprop="height" content="2781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14270900/r/il/f1204d/5479404728/il_fullxfull.5479404728_b9a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Bathroom Wallpaper Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/lWFU6XmXLVyX5wk1E38wF55OSII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/p-7b2f66f399b04edf8dc89e3f21c6aec6.jpeg' alt='39 Bathroom Wallpaper Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/lWFU6XmXLVyX5wk1E38wF55OSII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/p-7b2f66f399b04edf8dc89e3f21c6aec6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper | Spoonflower – Shop Fun & Unique Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://www.spoonflower.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fh7rzi1jc8dw4%2F7hQK01eHlcaFUbG7Q4neDm%2Fdcaeee49e2a8633504aca043c0988a84%2F6.jpg%3Ffit%3Dfill&w=3456&q=80' alt='Bathroom Wallpaper | Spoonflower – Shop Fun & Unique Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://www.spoonflower.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fh7rzi1jc8dw4%2F7hQK01eHlcaFUbG7Q4neDm%2Fdcaeee49e2a8633504aca043c0988a84%2F6.jpg%3Ffit%3Dfill&w=3456&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Bathroom Wallpaper Ideas That Bring Personality to Any Space">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c1/e0/9b/c1e09bb1d70fdc5fdf88ec4f265937fd.jpg' alt='15 Bathroom Wallpaper Ideas That Bring Personality to Any Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c1/e0/9b/c1e09bb1d70fdc5fdf88ec4f265937fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/JrAfOrGAaK2EdKDscdpGw_6rCak=/3633x0/filters:no_upscale():strip_icc()/102255670_preview1-0ff95cc6a4b644229c751fe2a0f47238.jpg' alt='37 Bathroom Wallpaper Ideas to Add Updated Pattern and Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3633">
+                                <meta itemprop="height" content="5449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/JrAfOrGAaK2EdKDscdpGw_6rCak=/3633x0/filters:no_upscale():strip_icc()/102255670_preview1-0ff95cc6a4b644229c751fe2a0f47238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Bathroom Wallpaper Ideas for 2025">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bathroom-wallpaper-ideas-hbx060119winfrey-006-1643312212.jpg' alt='35 Bathroom Wallpaper Ideas for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bathroom-wallpaper-ideas-hbx060119winfrey-006-1643312212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Victorian Hippie Wallpaper, 60s & 70s Neo-victorian ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38094285/r/il/4ad282/6479728459/il_570xN.6479728459_940u.jpg' alt='Vintage Victorian Hippie Wallpaper, 60s & 70s Neo-victorian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38094285/r/il/4ad282/6479728459/il_570xN.6479728459_940u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

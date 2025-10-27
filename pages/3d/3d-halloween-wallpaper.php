@@ -1,0 +1,129 @@
+<title>Spooktacular 3D Halloween Wallpapers for Your Home</title>
+                    <meta name="description" content="Discover the magic of 3D Halloween wallpapers! Enhance your festive decor with vibrant designs that transform your home into a haunted haven. Perfect for creating an eerie atmosphere, our wallpapers are easy to apply and will captivate your guests all season long. Get ready for a spine-chilling celebration!">
+                    <meta name="keywords" content="3d halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-halloween-wallpaper">
+                            <span itemprop="name">3d halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular 3D Halloween Wallpapers for Your Home</h1>
+                <p>Transform your space this Halloween with stunning 3D Halloween wallpapers! Immerse yourself in spooky visuals featuring haunted houses, glowing pumpkins, and mysterious creatures. Perfect for setting a festive mood, these wallpapers bring the spirit of Halloween to life, making your home an enchanting and thrilling experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Animated Wallpaper Halloween">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/d3/f0/c6d3f045acc5d1e8d43d399b027e3e62.jpg' alt='3D Animated Wallpaper Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/d3/f0/c6d3f045acc5d1e8d43d399b027e3e62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 3d Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/3d-halloween-dicvp65b21vjlu0j.jpg' alt='100+] 3d Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/3d-halloween-dicvp65b21vjlu0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Halloween 3d Pictures Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1423005421/photo/spooky-halloween-background-with-pumpkin-in-dark.jpg?s=612x612&w=0&k=20&c=1ETKFTXSfCt_Wt3MTO1Z5nOT93UQSgDCJlq8fi_gcVI=' alt='3,900+ Halloween 3d Pictures Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1423005421/photo/spooky-halloween-background-with-pumpkin-in-dark.jpg?s=612x612&w=0&k=20&c=1ETKFTXSfCt_Wt3MTO1Z5nOT93UQSgDCJlq8fi_gcVI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340,000+ 3D Halloween Images | 3D Halloween Stock Design Images ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20250206/halloween-3d-assets-theme-for-banner-white-cute-ghost_11499899.jpg!w700wp' alt='340,000+ 3D Halloween Images | 3D Halloween Stock Design Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20250206/halloween-3d-assets-theme-for-banner-white-cute-ghost_11499899.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Halloween Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' alt='3d Halloween Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween background with skeleton sitting in the chair. 3D ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/469/413/large_2x/halloween-background-with-skeleton-sitting-in-the-chair-3d-rendering-ai-generated-photo.jpg' alt='Halloween background with skeleton sitting in the chair. 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3392">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/469/413/large_2x/halloween-background-with-skeleton-sitting-in-the-chair-3d-rendering-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Dozen Super Cute iPhone Wallpapers for Halloween Days">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/d7/22/92d722c59d00d299085aead6f1a39378.jpg' alt='A Dozen Super Cute iPhone Wallpapers for Halloween Days'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/d7/22/92d722c59d00d299085aead6f1a39378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wall Decor 3d Ghost Hand Floor Wall Ceiling Stickers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71LvuRkyFvS.jpg' alt='Halloween Wall Decor 3d Ghost Hand Floor Wall Ceiling Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1660">
+                                <meta itemprop="height" content="1660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ae" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71LvuRkyFvS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Desktop 3D Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4718298.jpg' alt='Halloween Desktop 3D Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4718298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Halloween 2 wallpaper by societys2cent - Download on ZEDGE™ | 887a">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/38/d8/ea38d815423a28aaef1e31057a512183.jpg' alt='HD Halloween 2 wallpaper by societys2cent - Download on ZEDGE™ | 887a'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/38/d8/ea38d815423a28aaef1e31057a512183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

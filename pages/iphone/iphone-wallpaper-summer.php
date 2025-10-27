@@ -1,0 +1,129 @@
+<title>Stunning Summer iPhone Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover the perfect summer iPhone wallpapers that bring the essence of the season to your device. Our collection features beautiful designs that delight the eyes and enhance your phone's look. Enjoy the vibrant hues and cheerful scenes that make your device feel like summer all year round!">
+                    <meta name="keywords" content="iphone wallpaper summer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-summer">
+                            <span itemprop="name">iphone wallpaper summer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Summer iPhone Wallpapers for a Fresh Look</h1>
+                <p>Transform your iPhone with vibrant summer wallpapers that evoke the warmth and joy of the season! From sunny beaches and lush green landscapes to colorful sunsets, our curated collection of summer-themed wallpapers adds a refreshing touch to your device. Embrace the spirit of summer every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/c1/e6/1cc1e65502ae3216f735b81394f54f18.jpg' alt='10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/c1/e6/1cc1e65502ae3216f735b81394f54f18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Free Beautiful Summer Wallpapers For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/7c/a0/d97ca01102138cc4b4d626065b6f6dea.jpg' alt='25 Free Beautiful Summer Wallpapers For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/7c/a0/d97ca01102138cc4b4d626065b6f6dea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Summer Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/summer-iphone-background-l0yx5un4d31em5x6.jpg' alt='200+] Summer Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/summer-iphone-background-l0yx5un4d31em5x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Vibes Sunset Summer Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/summer-vibes-sunset-summer-iphone-838z865o70w7m9xc.jpg' alt='Summer Vibes Sunset Summer Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/summer-vibes-sunset-summer-iphone-838z865o70w7m9xc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer inspired phone wallpapers - Milk Bubble Tea">
+                                <img itemprop="contentUrl url" src='http://www.milkbubbletea.com/wp-content/uploads/2016/05/iphone-summer-wallpapers-900x864.jpg' alt='Summer inspired phone wallpapers - Milk Bubble Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milk Bubble Tea" />
+                                </span>
+                                <a href='http://www.milkbubbletea.com/wp-content/uploads/2016/05/iphone-summer-wallpapers-900x864.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer iPhone Wallpapers | High Resolution Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV80OV9hX3Bob3RvX29mX3N1bW1lcl93YWxscGFwZXJfX2JlYWNoX190YWtlbl93aV84ODdlZjhlZC00Y2YwLTRmZWYtOGU4My1hNDY4ZThjZjQ4NDlfMS5qcGc.jpg' alt='Summer iPhone Wallpapers | High Resolution Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV80OV9hX3Bob3RvX29mX3N1bW1lcl93YWxscGFwZXJfX2JlYWNoX190YWtlbl93aV84ODdlZjhlZC00Y2YwLTRmZWYtOGU4My1hNDY4ZThjZjQ4NDlfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sand-path.png?resize=471%2C1024&ssl=1' alt='Summer iPhone Wallpaper - Insider Mama | Mom Lifestyle Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insider Mama" />
+                                </span>
+                                <a href='https://i0.wp.com/insidermama.com/wp-content/uploads/2024/04/wallpaper-sand-path.png?resize=471%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e1/d7/4e/e1d74ecca2119c5ad9dc09bdb30a57ee.jpg' alt='100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e1/d7/4e/e1d74ecca2119c5ad9dc09bdb30a57ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

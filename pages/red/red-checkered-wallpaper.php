@@ -1,0 +1,129 @@
+<title>Stunning Red Checkered Wallpaper for Cozy Interiors</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="red checkered wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-checkered-wallpaper">
+                            <span itemprop="name">red checkered wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Checkered Wallpaper for Cozy Interiors</h1>
+                <p>Red checkered wallpaper adds a classic touch to any room, combining elegance with a cozy feel. Perfect for kitchens, dining areas, or retro-themed spaces, it creates a vibrant atmosphere. The bold design can be paired with solid colors for balance, making it a versatile option for home decor. Transform your space effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Plaid Peel and Stick Removable Wallpaper 6879">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/stripes_and_plaid_71036879_01_46ec1b69-a937-4215-973a-7eabd9df546e-sw_1200x1200.jpg?v=1614634611' alt='Red and White Plaid Peel and Stick Removable Wallpaper 6879'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/stripes_and_plaid_71036879_01_46ec1b69-a937-4215-973a-7eabd9df546e-sw_1200x1200.jpg?v=1614634611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checkered Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-red-buffalo-plaid-background_78370-5461.jpg' alt='Red Checkered Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-red-buffalo-plaid-background_78370-5461.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checked Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' alt='Red Checked Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/e/4/798389-1080x1920-mobile-full-hd-red-checked-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Red And Black Checkered Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-checkered-mi620t4c6nsnr7fn.jpg' alt='Download A Red And Black Checkered Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1167">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-checkered-mi620t4c6nsnr7fn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Checkered Background Images – Browse 171,275 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/50/71/99/360_F_450719990_Ir7jbdGWKDuU8l0IGS98jBQrIFHrUf6l.jpg' alt='Red And White Checkered Background Images – Browse 171,275 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/50/71/99/360_F_450719990_Ir7jbdGWKDuU8l0IGS98jBQrIFHrUf6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfruit Checkered Pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/00/59/640059441cf1c6f445ef558cda8b96bc.jpg' alt='Starfruit Checkered Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/00/59/640059441cf1c6f445ef558cda8b96bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Checkered Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-red-checkerboard-checkered-gingham-plaid-tartan-pattern-background-perfect-wallpaper_565280-415.jpg?semt=ais_hybrid' alt='Red White Checkered Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-red-checkerboard-checkered-gingham-plaid-tartan-pattern-background-perfect-wallpaper_565280-415.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered Wallpaper Stock Illustrations – 94,957 Checkered ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-red-white-checkered-wallpaper-tablecloth-design-stunning-visual-feast-dining-kitchen-decor-captivating-349672112.jpg' alt='Checkered Wallpaper Stock Illustrations – 94,957 Checkered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-red-white-checkered-wallpaper-tablecloth-design-stunning-visual-feast-dining-kitchen-decor-captivating-349672112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD checkered pattern - red wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/712/376/HD-wallpaper-buffalo-plaid-pattern-adoxali-christmas-scottish-black-check-checkered-cloth-coat-fabric-festive-flannel-fleece-gingham-holiday-illustration-jack-kilt-lumber-lumberjack-male-red.jpg' alt='HD checkered pattern - red wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/712/376/HD-wallpaper-buffalo-plaid-pattern-adoxali-christmas-scottish-black-check-checkered-cloth-coat-fabric-festive-flannel-fleece-gingham-holiday-illustration-jack-kilt-lumber-lumberjack-male-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Plaid Wallpaper | Free Images at Clker.com - vector clip art ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/5/a/b/6/15137739031282196272red-plaid-wallpaper.med.png' alt='Red Plaid Wallpaper | Free Images at Clker.com - vector clip art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/5/a/b/6/15137739031282196272red-plaid-wallpaper.med.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

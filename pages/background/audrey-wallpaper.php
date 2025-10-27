@@ -1,0 +1,129 @@
+<title>Audrey Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Discover the charm of Audrey wallpaper, featuring elegant designs inspired by the iconic Audrey Hepburn. Perfect for adding a touch of sophistication to your home decor. Explore our collection and find the ideal wallpaper to transform your space into a stylish haven.">
+                    <meta name="keywords" content="audrey wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/audrey-wallpaper">
+                            <span itemprop="name">audrey wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Audrey Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Transform your space with stunning Audrey wallpaper! Whether you're a fan of classic cinema or modern design, our collection brings elegance and inspiration to any room. Each design showcases Audrey Hepburn's timeless beauty, making it perfect for bedrooms, living areas, or creative spaces. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey Images – Browse 689 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/14/16/67/360_F_414166789_GfPiVnOBOhjwvJKaKhCmB9qoyY7VIpcP.jpg' alt='Audrey Images – Browse 689 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/14/16/67/360_F_414166789_GfPiVnOBOhjwvJKaKhCmB9qoyY7VIpcP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Audrey Hepburn Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/audrey-hepburn-d4v14ztdub3up18s.jpg' alt='100+] Audrey Hepburn Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1279">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/audrey-hepburn-d4v14ztdub3up18s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey with names, female names, Audrey name, purple neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/658/639/HD-wallpaper-audrey-with-names-female-names-audrey-name-purple-neon-lights-horizontal-text-with-audrey-name.jpg' alt='Audrey with names, female names, Audrey name, purple neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/658/639/HD-wallpaper-audrey-with-names-female-names-audrey-name-purple-neon-lights-horizontal-text-with-audrey-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey Hepburn in Breakfast at Tiffanys">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/59077/audrey-hepburn-in-breakfast-at-tiffanys.jpg?h=699&q=85' alt='Audrey Hepburn in Breakfast at Tiffanys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/59077/audrey-hepburn-in-breakfast-at-tiffanys.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | hn97-audrey-hepburn-bw-film-dark">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-hn97-audrey-hepburn-bw-film-dark-8-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | hn97-audrey-hepburn-bw-film-dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-hn97-audrey-hepburn-bw-film-dark-8-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birtay Audrey pink neon lights, Audrey name, creative ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/385/803/HD-wallpaper-happy-birtay-audrey-pink-neon-lights-audrey-name-creative-audrey-happy-birtay-audrey-birtay-popular-american-female-names-with-audrey-name-audrey.jpg' alt='Happy Birtay Audrey pink neon lights, Audrey name, creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/385/803/HD-wallpaper-happy-birtay-audrey-pink-neon-lights-audrey-name-creative-audrey-happy-birtay-audrey-birtay-popular-american-female-names-with-audrey-name-audrey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey Hepburn Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/b/c/380388-3840x2160-desktop-4k-audrey-hepburn-background-image.jpg' alt='Audrey Hepburn Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/b/c/380388-3840x2160-desktop-4k-audrey-hepburn-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey, calligraphy, name, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/918/484/HD-wallpaper-audrey-calligraphy-name.jpg' alt='Audrey, calligraphy, name, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/918/484/HD-wallpaper-audrey-calligraphy-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey Hepburn wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ebUAFvVtL.png' alt='Audrey Hepburn wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audrey Hepburn wallpaper - App on Amazon Appstore" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ebUAFvVtL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Audrey Hepburn">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58905/audrey-hepburn.jpg?h=699&q=85' alt='Audrey Hepburn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58905/audrey-hepburn.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

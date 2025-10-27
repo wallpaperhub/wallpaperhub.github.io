@@ -1,0 +1,129 @@
+<title>Stunning 3D Africa Images: A Visual Journey</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="3d africa image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-africa-image">
+                            <span itemprop="name">3d africa image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Africa Images: A Visual Journey</h1>
+                <p>Explore the captivating beauty of a 3D Africa image that reveals the continent's diverse landscapes, from lush rainforests to sprawling deserts. This stunning representation offers a unique perspective on Africa's rich natural heritage and vibrant cultures, showcasing iconic landmarks and wildlife. Dive into the essence of Africa today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Africa Continent 3d Render Topographic Map Neutral High-Res Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1341640380/photo/africa-continent-3d-render-topographic-map-neutral.jpg?s=1024x1024&w=gi&k=20&c=Yz4d2-FDX17aWf-x1-uIztCgLlVb6xm-WBQb5sutXSk=' alt='Africa Continent 3d Render Topographic Map Neutral High-Res Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1341640380/photo/africa-continent-3d-render-topographic-map-neutral.jpg?s=1024x1024&w=gi&k=20&c=Yz4d2-FDX17aWf-x1-uIztCgLlVb6xm-WBQb5sutXSk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,836 Africa Map 3d Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/3d-map-africa-contries-borders-600nw-2456430961.jpg' alt='100,836 Africa Map 3d Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/3d-map-africa-contries-borders-600nw-2456430961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Africa, 3D artwork - Stock Image - C015/6573 - Science Photo Library">
+                                <img itemprop="contentUrl url" src='https://media.sciencephoto.com/c0/15/65/73/c0156573-800px-wm.jpg' alt='Africa, 3D artwork - Stock Image - C015/6573 - Science Photo Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Library" />
+                                </span>
+                                <a href='https://media.sciencephoto.com/c0/15/65/73/c0156573-800px-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,600+ Africa Map 3d Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1341640420/photo/africa-continent-3d-render-topographic-map-color.jpg?s=612x612&w=0&k=20&c=DbsjfHntx88JzLQ_GBPYPXJs7eTER5hlBKAA6zKYFyI=' alt='19,600+ Africa Map 3d Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1341640420/photo/africa-continent-3d-render-topographic-map-color.jpg?s=612x612&w=0&k=20&c=DbsjfHntx88JzLQ_GBPYPXJs7eTER5hlBKAA6zKYFyI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A shaded relief map of Africa rendered from 3d data and satellite ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7sjqa9srj05a1.jpg' alt='A shaded relief map of Africa rendered from 3d data and satellite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3750">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7sjqa9srj05a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium PSD | Isometric map of Africa with flag in 3d render">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/isometric-map-africa-with-flag-3d-render_363450-2804.jpg' alt='Premium PSD | Isometric map of Africa with flag in 3d render'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/isometric-map-africa-with-flag-3d-render_363450-2804.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Africa Map 3D Model">
+                                <img itemprop="contentUrl url" src='https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_1-min-e1684569013187.jpg' alt='Africa Map 3D Model'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="3D Models and 3D Maps" />
+                                </span>
+                                <a href='https://shustrik-maps.com/wp-content/uploads/2023/05/Africa-1_1-min-e1684569013187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Africa 3d Stock Illustration 18352648 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/africa-3d-260nw-18352648.jpg' alt='Africa 3d Stock Illustration 18352648 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/africa-3d-260nw-18352648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Africa Continent 3D Render Topographic Map Color Jigsaw Puzzle by ...">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/africa-continent-3d-render-topographic-map-color-frank-ramspott.jpg?&targetx=0&targety=-125&imagewidth=1000&imageheight=1000&modelwidth=1000&modelheight=750&backgroundcolor=E8E09F&orientation=0&producttype=puzzle-18-24&brightness=476&v=6' alt='Africa Continent 3D Render Topographic Map Color Jigsaw Puzzle by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/africa-continent-3d-render-topographic-map-color-frank-ramspott.jpg?&targetx=0&targety=-125&imagewidth=1000&imageheight=1000&modelwidth=1000&modelheight=750&backgroundcolor=E8E09F&orientation=0&producttype=puzzle-18-24&brightness=476&v=6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The continent of Africa. A highly detailed 3D rendering of a ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RW2XTJ/the-continent-of-africa-a-highly-detailed-3d-rendering-of-a-shaded-relief-map-with-rivers-and-lakes-colored-by-elevation-pure-white-background-2RW2XTJ.jpg' alt='The continent of Africa. A highly detailed 3D rendering of a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RW2XTJ/the-continent-of-africa-a-highly-detailed-3d-rendering-of-a-shaded-relief-map-with-rivers-and-lakes-colored-by-elevation-pure-white-background-2RW2XTJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

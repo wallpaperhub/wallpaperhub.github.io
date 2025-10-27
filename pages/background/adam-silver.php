@@ -1,0 +1,129 @@
+<title>Adam Silver: The Visionary Behind the NBA's Success</title>
+                    <meta name="description" content="Explore the achievements of Adam Silver, NBA Commissioner. Discover how his leadership has transformed the league, enhanced player wellness, and expanded its global influence while addressing social issues and innovating the game.">
+                    <meta name="keywords" content="adam silver">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adam-silver">
+                            <span itemprop="name">adam silver</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adam Silver: The Visionary Behind the NBA's Success</h1>
+                <p>Adam Silver is the Commissioner of the NBA, known for his progressive leadership and commitment to enhancing the league's global presence. He has spearheaded initiatives focusing on player health, social justice, and innovation in the game. Under his tenure, the NBA has seen significant growth in fan engagement and international reach.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/78/Adam_Silver.jpg' alt='Adam Silver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2280">
+                                <meta itemprop="height" content="2910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/78/Adam_Silver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver finalizing extension to remain NBA commissioner - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/2f6a9ed/2147483647/strip/true/crop/3819x2546+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2Fcd%2F796ea6b6458f84390b9623e8f61c%2Foklahoma-city-new-arena-53419.jpg' alt='Adam Silver finalizing extension to remain NBA commissioner - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/2f6a9ed/2147483647/strip/true/crop/3819x2546+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2Fcd%2F796ea6b6458f84390b9623e8f61c%2Foklahoma-city-new-arena-53419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.B.A. Commissioner Adam Silver misses Game 6 of the finals after ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2022/06/16/sports/16nba-finals-blog-g6-adam-silver-covid1/16nba-finals-blog-g6-adam-silver-covid1-videoSixteenByNine3000.jpg?year=2022&h=1688&w=3000&s=84929960ca15704530d8829b6b1c9c03a321a35f971d1acbc23c4a3c4cc585d7&k=ZQJBKqZ0VN&tw=1' alt='N.B.A. Commissioner Adam Silver misses Game 6 of the finals after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2022/06/16/sports/16nba-finals-blog-g6-adam-silver-covid1/16nba-finals-blog-g6-adam-silver-covid1-videoSixteenByNine3000.jpg?year=2022&h=1688&w=3000&s=84929960ca15704530d8829b6b1c9c03a321a35f971d1acbc23c4a3c4cc585d7&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjI0NTY1NTEwNF5BMl5BanBnXkFtZTgwODAyMjE4NTM@._V1_.jpg' alt='Adam Silver - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1362">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjI0NTY1NTEwNF5BMl5BanBnXkFtZTgwODAyMjE4NTM@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA commissioner Adam Silver says he doesn't believe Kyrie Irving ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/221111005636-01-nba-commissioner-adam-silver.jpg?c=original' alt='NBA commissioner Adam Silver says he doesn't believe Kyrie Irving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/221111005636-01-nba-commissioner-adam-silver.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver was surprised about the Doncic-Davis trade, urges ...">
+                                <img itemprop="contentUrl url" src='https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/B3KLC47EVEHCVA4CFZPBR7VFY4.jpg?auth=aad3ca485224125cdfbee5a3808bf8354af37a3e5023a3d0c18b22c5e36fd91c&width=980&height=653&smart=true' alt='Adam Silver was surprised about the Doncic-Davis trade, urges ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KBTX" />
+                                </span>
+                                <a href='https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/B3KLC47EVEHCVA4CFZPBR7VFY4.jpg?auth=aad3ca485224125cdfbee5a3808bf8354af37a3e5023a3d0c18b22c5e36fd91c&width=980&height=653&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report: NBA commissioner Adam Silver finalizing contract extension ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSJH5MZ435IG5I22FUBS2AYZBI.jpg' alt='Report: NBA commissioner Adam Silver finalizing contract extension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8001">
+                                <meta itemprop="height" content="5334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSJH5MZ435IG5I22FUBS2AYZBI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA commissioner Adam Silver seeking answers, which are in short ...">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/manage/2020/10/adam-silver-iso-2-784x523.jpg' alt='NBA commissioner Adam Silver seeking answers, which are in short ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/manage/2020/10/adam-silver-iso-2-784x523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver was surprised about the Doncic-Davis trade, urges ...">
+                                <img itemprop="contentUrl url" src='https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/MUEBQJMTUVO2KRUG6CUTLJ7OEA.jpg?auth=20d6726b4ae7de37b547fccb751dd2bbf79f80f8c41bbb33641648c9b5ed901d&width=800&height=450&smart=true' alt='Adam Silver was surprised about the Doncic-Davis trade, urges ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KBTX" />
+                                </span>
+                                <a href='https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/MUEBQJMTUVO2KRUG6CUTLJ7OEA.jpg?auth=20d6726b4ae7de37b547fccb751dd2bbf79f80f8c41bbb33641648c9b5ed901d&width=800&height=450&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Silver is not done trying to make the NBA better">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/378154681c16877e8a637950d9e9632ef8a2d092/c=0-63-2266-2329/local/-/media/2015/02/08/USATODAY/USATODAY/635590325590451036-USATSI-8183758.jpg' alt='Adam Silver is not done trying to make the NBA better'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2266">
+                                <meta itemprop="height" content="2266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/378154681c16877e8a637950d9e9632ef8a2d092/c=0-63-2266-2329/local/-/media/2015/02/08/USATODAY/USATODAY/635590325590451036-USATSI-8183758.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Girly Winter Wallpapers for a Cozy Vibe</title>
+                    <meta name="description" content="Discover the perfect girly winter wallpapers to brighten your space this season. Embrace soft colors and playful designs that add warmth and charm to any room. Explore a variety of styles to create your dream winter wonderland! Ideal for those looking to enhance their decor effortlessly.">
+                    <meta name="keywords" content="girly winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/girly-winter-wallpaper">
+                            <span itemprop="name">girly winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Girly Winter Wallpapers for a Cozy Vibe</h1>
+                <p>Transform your space with girly winter wallpapers that blend charm and warmth! Soft pastels, intricate snowflakes, and whimsical designs create a cozy atmosphere perfect for the chilly season. Whether you prefer delicate florals or playful patterns, these wallpapers will add a touch of femininity to your winter decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Winter Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-winter-iphone-quwikf7wi1v06es4.jpg' alt='100+] Cute Winter Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-winter-iphone-quwikf7wi1v06es4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Winter Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3f/66/b9/3f66b9d1eab1b2dc81adae8342393436.jpg' alt='Girly Winter Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3f/66/b9/3f66b9d1eab1b2dc81adae8342393436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Winter iPhone Wallpaper Ideas - Winter Backgrounds for iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/cc/03/6ecc033cb9c0880411f5b26dcf841961.jpg' alt='50+ Winter iPhone Wallpaper Ideas - Winter Backgrounds for iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/cc/03/6ecc033cb9c0880411f5b26dcf841961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Winter Aesthetic 900 X 1636 Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-winter-aesthetic-900-x-1636-wallpaper-swmlhzoz4q0c5yl7.webp' alt='Cute Winter Aesthetic 900 X 1636 Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-winter-aesthetic-900-x-1636-wallpaper-swmlhzoz4q0c5yl7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Minimalist Hello Winter Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-minimalist-hello-winter-phone-g1xd88k9jigrj4t3.jpg' alt='Cute Minimalist Hello Winter Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-minimalist-hello-winter-phone-g1xd88k9jigrj4t3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://anastasiablogger.com/wp-content/uploads/2018/11/a50e6a51c7c0be9a1955ca9188343e80.jpg' alt='Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anastasia Blogger" />
+                                </span>
+                                <a href='https://anastasiablogger.com/wp-content/uploads/2018/11/a50e6a51c7c0be9a1955ca9188343e80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Winter Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-winter-background-2kguzlfoxnhhu3pb.jpg' alt='100+] Cute Winter Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-winter-background-2kguzlfoxnhhu3pb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cute & Girly Winter Phone Wallpapers - Love Catherine ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/99/de/7799de5b4a0e6c418eab2b181aebc098.jpg' alt='Free Cute & Girly Winter Phone Wallpapers - Love Catherine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/99/de/7799de5b4a0e6c418eab2b181aebc098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Winter Forest in Pink Mural">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/ROOM9copy.jpg?v=1674061928&width=1080' alt='Girly Winter Forest in Pink Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/ROOM9copy.jpg?v=1674061928&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Your Phone This Winter with Snowflake Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' alt='Transform Your Phone This Winter with Snowflake Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

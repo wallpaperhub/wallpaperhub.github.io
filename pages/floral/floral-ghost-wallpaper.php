@@ -1,0 +1,129 @@
+<title>Enchanting Floral Ghost Wallpaper for Unique Decor</title>
+                    <meta name="description" content="Transform your space with our floral ghost wallpaper, combining vibrant floral designs with an ethereal touch. Perfect for creating a mystical ambiance in any room, this wallpaper is a unique choice for those looking to stand out. Discover the beauty of floral ghosts today!">
+                    <meta name="keywords" content="floral ghost wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-ghost-wallpaper">
+                            <span itemprop="name">floral ghost wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Floral Ghost Wallpaper for Unique Decor</h1>
+                <p>Floral ghost wallpaper elevates your decor with a hauntingly beautiful blend of floral patterns and ethereal elements. Perfect for creating a mystical ambiance, this wallpaper combines vivid blooms with subtle ghostly motifs, making any room a captivating space. Ideal for those who love unique and enchanting designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Flowers Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13688506/p/f/m/bAX4yvyh8ZELiO04WDqU1O7xYz4LblY8zTiDR_qXHi6aSC9X7p75G9E/Groovy%20Ghosts.jpg' alt='Ghost Flowers Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13688506/p/f/m/bAX4yvyh8ZELiO04WDqU1O7xYz4LblY8zTiDR_qXHi6aSC9X7p75G9E/Groovy%20Ghosts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Themed Floral Ghost Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/3d/b1/d63db172ddc349420a33266a88f9b8e8.jpg' alt='Halloween Themed Floral Ghost Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/3d/b1/d63db172ddc349420a33266a88f9b8e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho ghosts floral seamless file pattern for fabrics and wallpaper,  halloween floral digital file, Halloween floral wallpaper design">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/1e19bb/5015510779/il_fullxfull.5015510779_h8sk.jpg' alt='Boho ghosts floral seamless file pattern for fabrics and wallpaper,  halloween floral digital file, Halloween floral wallpaper design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/1e19bb/5015510779/il_fullxfull.5015510779_h8sk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Flowers Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13124363/p/f/m/2Ijy-sKN-IKpDcRZPhNPrJRhfXzZGO0DqDhkUEH87FAK0_2yE08oJBc/Floral%20Halloween%20Ghosts.jpg' alt='Ghost Flowers Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13124363/p/f/m/2Ijy-sKN-IKpDcRZPhNPrJRhfXzZGO0DqDhkUEH87FAK0_2yE08oJBc/Floral%20Halloween%20Ghosts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cute Ghost Phone Wallpapers    Floral Purple Halloween Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/77/cf/2077cfd578faa486d2100507e29a157f.jpg' alt='50 Cute Ghost Phone Wallpapers    Floral Purple Halloween Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/77/cf/2077cfd578faa486d2100507e29a157f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="floral ghosties | Halloween wallpaper iphone backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/38/cc/7e38ccfaf9d0337aa7411aed353623b3.jpg' alt='floral ghosties | Halloween wallpaper iphone backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/38/cc/7e38ccfaf9d0337aa7411aed353623b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of Eight Floral Ghost Desktop Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28723542/r/il/6d3ff3/5259763390/il_fullxfull.5259763390_2jo6.jpg' alt='Set of Eight Floral Ghost Desktop Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28723542/r/il/6d3ff3/5259763390/il_fullxfull.5259763390_2jo6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral ghost. | Canvas Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5262825440.8666/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Floral ghost. | Canvas Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5262825440.8666/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spoopy Cute Ghost. Halloween Decor. Cute Ghost Dia De Los Muertos ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/49/25/be/4925be3b4b7070ff2c7d354e3df5082e.jpg' alt='Spoopy Cute Ghost. Halloween Decor. Cute Ghost Dia De Los Muertos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/49/25/be/4925be3b4b7070ff2c7d354e3df5082e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Halloween Ghost Floral Design Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-halloween-ghost-floral-design-thlc13uau9195tse.jpg' alt='Download Pink Halloween Ghost Floral Design Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-halloween-ghost-floral-design-thlc13uau9195tse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

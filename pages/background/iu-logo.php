@@ -1,0 +1,129 @@
+<title>IU Logo: Significance and Design Explained</title>
+                    <meta name="description" content="Discover the significance and design of the IU logo, a powerful emblem of Indiana University. Learn how this iconic logo represents unity, tradition, and pride among students and alumni. Explore its history and impact on the university's identity in a concise overview.">
+                    <meta name="keywords" content="iu logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iu-logo">
+                            <span itemprop="name">iu logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>IU Logo: Significance and Design Explained</h1>
+                <p>The IU logo, representing Indiana University, features a bold, crimson "I" entwined with a "U," symbolizing unity and tradition. This iconic design reflects the school's pride and heritage, commonly associated with its athletic teams and academic excellence. Recognizable and meaningful, the IU logo stands as a beacon for students and alumni alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Indiana Hoosiers logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/380px-Indiana_Hoosiers_logo.svg.png' alt='File:Indiana Hoosiers logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/380px-Indiana_Hoosiers_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU Logo Sticker">
+                                <img itemprop="contentUrl url" src='http://theshopindy.com/cdn/shop/files/iu_logo_sticker.png?v=1726596666' alt='IU Logo Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Shop Indy" />
+                                </span>
+                                <a href='http://theshopindy.com/cdn/shop/files/iu_logo_sticker.png?v=1726596666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo and Marks: Design: IU Brand: Indiana University">
+                                <img itemprop="contentUrl url" src='https://www.iu.edu/images/brand/brand-expression/trident-tab-promo.jpg' alt='Logo and Marks: Design: IU Brand: Indiana University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana University" />
+                                </span>
+                                <a href='https://www.iu.edu/images/brand/brand-expression/trident-tab-promo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2022/02/Indiana-University-Logo.png' alt='Indiana University Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2022/02/Indiana-University-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iu Logo - IU Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180515/vpe/avrolrdw7.webp' alt='Iu Logo - IU Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180515/vpe/avrolrdw7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The IU Seal: Logo and Marks: Design: IU Brand: Indiana University">
+                                <img itemprop="contentUrl url" src='https://www.iu.edu/images/brand/brand-expression/official-iu-seal.jpg' alt='The IU Seal: Logo and Marks: Design: IU Brand: Indiana University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana University" />
+                                </span>
+                                <a href='https://www.iu.edu/images/brand/brand-expression/official-iu-seal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IU INDIANA Hoosiers Extra-Large 17.5" Logo Decal">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71YsFijn5KL._AC_UF894,1000_QL80_.jpg' alt='IU INDIANA Hoosiers Extra-Large 17.5" Logo Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71YsFijn5KL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indiana University Logo Poster Print - Item # VARTIARP2087">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3229572/6215935/TIARP2087__61751.1709701125.jpg?c=2' alt='Indiana University Logo Poster Print - Item # VARTIARP2087'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterazzi" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3229572/6215935/TIARP2087__61751.1709701125.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Iu Logo - Red IU University Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180602/wra/kisspng-indiana-university-bloomington-indiana-hoosiers-fo-iu-5b126efd3e3d15.1881582415279347172549.jpg' alt='Red Iu Logo - Red IU University Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180602/wra/kisspng-indiana-university-bloomington-indiana-hoosiers-fo-iu-5b126efd3e3d15.1881582415279347172549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Were You When the IU Logo Flew? | WREF The REF">
+                                <img itemprop="contentUrl url" src='https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2338/files/2021/06/altius-e1630438900210.jpg' alt='Where Were You When the IU Logo Flew? | WREF The REF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN 97.7FM" />
+                                </span>
+                                <a href='https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2338/files/2021/06/altius-e1630438900210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

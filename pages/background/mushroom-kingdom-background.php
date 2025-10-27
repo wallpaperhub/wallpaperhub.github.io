@@ -1,0 +1,129 @@
+<title>Explore the Whimsical Mushroom Kingdom: A Mario Adventure</title>
+                    <meta name="description" content="Dive into the enchanting Mushroom Kingdom, the heart of Mario's adventures! Discover its colorful landscapes, unique characters, and thrilling challenges that keep fans entertained. Join Mario, Luigi, and friends as they navigate this magical realm filled with fun and surprises!">
+                    <meta name="keywords" content="mushroom kingdom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mushroom-kingdom-background">
+                            <span itemprop="name">mushroom kingdom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Whimsical Mushroom Kingdom: A Mario Adventure</h1>
+                <p>The Mushroom Kingdom is a vibrant and whimsical realm brimming with colorful landscapes, from lush green hills to towering castles. It serves as the primary setting for many adventures of Mario and his friends, often facing off against the notorious Bowser. This enchanting world is home to a variety of unique characters and species, each contributing to its rich lore and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mushroom Kingdom is shown in the background, hinting that it ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-mushroom-kingdom-is-shown-in-the-background-hinting-v0-ehpo47j8py9b1.jpg?width=2360&format=pjpg&auto=webp&s=26fd880a73053a4f491e53e244644b080337c599' alt='The Mushroom Kingdom is shown in the background, hinting that it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2360">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-mushroom-kingdom-is-shown-in-the-background-hinting-v0-ehpo47j8py9b1.jpg?width=2360&format=pjpg&auto=webp&s=26fd880a73053a4f491e53e244644b080337c599' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Kingdom | The Super Mario Bros Movie Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/supermariobrosfilm/images/7/76/Mushroomkingdombirdseyeview.png/revision/latest/thumbnail/width/360/height/360?cb=20230320004743' alt='Mushroom Kingdom | The Super Mario Bros Movie Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Super Mario Bros Movie Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/supermariobrosfilm/images/7/76/Mushroomkingdombirdseyeview.png/revision/latest/thumbnail/width/360/height/360?cb=20230320004743' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mushroom kingdom | VoVatia">
+                                <img itemprop="contentUrl url" src='https://mario.wiki.gallery/images/6/64/BackgroundSMBWcastle.jpg' alt='mushroom kingdom | VoVatia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VoVatia - WordPress.com" />
+                                </span>
+                                <a href='https://mario.wiki.gallery/images/6/64/BackgroundSMBWcastle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Kingdom by Crazed-Doodler on Newgrounds">
+                                <img itemprop="contentUrl url" src='https://art.ngfiles.com/images/3095000/3095504_crazed-doodler_mushroom-kingdom.jpg?f1678721129' alt='Mushroom Kingdom by Crazed-Doodler on Newgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3508">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newgrounds.com" />
+                                </span>
+                                <a href='https://art.ngfiles.com/images/3095000/3095504_crazed-doodler_mushroom-kingdom.jpg?f1678721129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mushroom Kingdom Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mushroom-kingdom-udzjnufpvq88uw38.jpg' alt='100+] Mushroom Kingdom Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mushroom-kingdom-udzjnufpvq88uw38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Kingdom | Wiki | Mario Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6161/d4337e148c29f2169818dcda380501c173b5f0c7_00.jpg' alt='Mushroom Kingdom | Wiki | Mario Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6161/d4337e148c29f2169818dcda380501c173b5f0c7_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Da Dude on X: "@MarioRabbids Mushroom Kingdom looks way better in ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fd1oq3pakAEdUGQ.jpg:large' alt='Da Dude on X: "@MarioRabbids Mushroom Kingdom looks way better in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1908">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fd1oq3pakAEdUGQ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mushroom Kingdom | Omniversal Battlefield Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/omniversal-battlefield/images/d/d1/The_Mushroom_Kingdom.jpg/revision/latest?cb=20190627054449' alt='The Mushroom Kingdom | Omniversal Battlefield Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Omniversal Battlefield Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/omniversal-battlefield/images/d/d1/The_Mushroom_Kingdom.jpg/revision/latest?cb=20190627054449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leader of the pack - Play Nintendo">
+                                <img itemprop="contentUrl url" src='https://play.nintendo.com/images/PLAY-6596-MushroomKingdom-Leader-PQ_2x1-Q1_v01.0290fa98.jpg' alt='Leader of the pack - Play Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play Nintendo" />
+                                </span>
+                                <a href='https://play.nintendo.com/images/PLAY-6596-MushroomKingdom-Leader-PQ_2x1-Q1_v01.0290fa98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sylvain Sarrailh Portfolio - The Super Mario Bros. Movie ...">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/073/766/538/4k/sylvain-sarrailh-mario-movie-umeshu-0007-calque-9.jpg?1710423648' alt='Sylvain Sarrailh Portfolio - The Super Mario Bros. Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sylvain Sarrailh" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/073/766/538/4k/sylvain-sarrailh-mario-movie-umeshu-0007-calque-9.jpg?1710423648' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

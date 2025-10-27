@@ -1,0 +1,129 @@
+<title>Vibrant Floral Spring Wallpaper for a Fresh Look</title>
+                    <meta name="description" content="Discover stunning floral spring wallpaper to brighten your home! Explore a variety of designs that celebrate the season's beauty. Perfect for creating a cheerful atmosphere, our wallpapers are easy to apply and will transform any space effortlessly. Shop now for the best selection!">
+                    <meta name="keywords" content="floral spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/floral-spring-wallpaper">
+                            <span itemprop="name">floral spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Spring Wallpaper for a Fresh Look</h1>
+                <p>Transform your space this spring with vibrant floral wallpaper that brings the beauty of nature indoors. Choose from a variety of designs featuring blooming flowers, lush greenery, and vivid colors. Perfect for creating a fresh, inviting atmosphere in any room, floral wallpaper is a delightful way to celebrate the season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Spring">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/71877/floral-spring.jpg?h=699&q=85' alt='Floral Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/71877/floral-spring.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Spring Blossom Collection Botanical Floral Mix Yellow Matte  Finish Non-Pasted Non-Woven Paper Wallpaper Roll 1901-3">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9ddeda45-c07c-4905-81ca-6f5efc0dcb93/svn/wallpaper-rolls-1901-3-64_600.jpg' alt='Unbranded Spring Blossom Collection Botanical Floral Mix Yellow Matte  Finish Non-Pasted Non-Woven Paper Wallpaper Roll 1901-3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9ddeda45-c07c-4905-81ca-6f5efc0dcb93/svn/wallpaper-rolls-1901-3-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Floral Wallpaper Removable Wallpaper Peel and Stick Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22845678/r/il/8dbff4/2547486048/il_570xN.2547486048_tcg8.jpg' alt='Spring Floral Wallpaper Removable Wallpaper Peel and Stick Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22845678/r/il/8dbff4/2547486048/il_570xN.2547486048_tcg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Floral Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' alt='Wildflowers Floral Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Spring Floral Multi Paste the Paper Wallpaper 908006">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6fcaf860-7173-451c-9afd-97ab6ab38717/svn/arthouse-wallpaper-rolls-908006-64_600.jpg' alt='Arthouse Spring Floral Multi Paste the Paper Wallpaper 908006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6fcaf860-7173-451c-9afd-97ab6ab38717/svn/arthouse-wallpaper-rolls-908006-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Spring Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://shop.projectnursery.com/cdn/shop/products/Contemporary.jpg?v=1660930933' alt='Contemporary Spring Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Nursery" />
+                                </span>
+                                <a href='http://shop.projectnursery.com/cdn/shop/products/Contemporary.jpg?v=1660930933' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juncaceae - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0320_1s_Bright-Floral-Design-Wallpaper-for-Walls-Juncaceae_Repeating-Pattern-Sample-1.jpg?v=1734717375' alt='Juncaceae - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0320_1s_Bright-Floral-Design-Wallpaper-for-Walls-Juncaceae_Repeating-Pattern-Sample-1.jpg?v=1734717375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Classic Minimalist Floral Wallpaper R9302">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' alt='Black Classic Minimalist Floral Wallpaper R9302'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Flowers Pastel Watercolour Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9214223/r/il/bc8e2b/1213950532/il_570xN.1213950532_ffwo.jpg' alt='Spring Flowers Pastel Watercolour Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9214223/r/il/bc8e2b/1213950532/il_570xN.1213950532_ffwo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Spring floral background, texture, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/01/99/09/91/1000_F_199099182_N2B1rOdNKtzMgQIcSAhAbmac8FtlvqZ8.jpg' alt='Photo & Art Print Spring floral background, texture, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/01/99/09/91/1000_F_199099182_N2B1rOdNKtzMgQIcSAhAbmac8FtlvqZ8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

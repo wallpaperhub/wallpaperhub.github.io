@@ -1,0 +1,129 @@
+<title>Legendary Pokémon Wallpapers: Capture the Power!</title>
+                    <meta name="description" content="Discover unique legendary Pokémon wallpapers with captivating Pokéball designs. Perfect for fans and collectors, these wallpapers enhance your device while showcasing the awe-inspiring world of Pokémon. Transform your screen today with vibrant, high-quality designs!">
+                    <meta name="keywords" content="legendary pokemon wallpaper pokeball">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/legendary-pokemon-wallpaper-pokeball">
+                            <span itemprop="name">legendary pokemon wallpaper pokeball</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Legendary Pokémon Wallpapers: Capture the Power!</h1>
+                <p>Elevate your device's look with stunning legendary Pokémon wallpapers featuring iconic Pokéballs. Discover a variety of designs that showcase your favorite legendary Pokémon, bringing vibrant colors and dynamic artistry to your screen. Perfect for fans looking to personalize their wallpapers while celebrating the Pokémon universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arceus the legendary Pokemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9d/25/41/9d25412382ee0d53a2c2120fbf39131c.jpg' alt='Arceus the legendary Pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9d/25/41/9d25412382ee0d53a2c2120fbf39131c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pokeball Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pokeball-wc1lqfgrss10b94g.jpg' alt='200+] Pokeball Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pokeball-wc1lqfgrss10b94g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome All Pokemon Balls 4K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/e9/42/bee9421ef67cb866e78dc04e3a507746.jpg' alt='Awesome All Pokemon Balls 4K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/e9/42/bee9421ef67cb866e78dc04e3a507746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legendary Pokeball Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/legendary-pokeball-3d4t4we8vtp5dgr9.jpg' alt='Legendary Pokeball Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/legendary-pokeball-3d4t4we8vtp5dgr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Caption: Legendary Zapdos Captured in Transparent ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/zapdos-in-transparent-pokeball-5t309x720s3240q1.jpg' alt='Download Caption: Legendary Zapdos Captured in Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/zapdos-in-transparent-pokeball-5t309x720s3240q1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokéball Wallpapers! | Pokémon Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6030/2ad30dc8546652aaf8b476491875ac56907b0237_00.jpg' alt='Pokéball Wallpapers! | Pokémon Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6030/2ad30dc8546652aaf8b476491875ac56907b0237_00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mewtwo in a pokeball, Pokemon, Mewtwo, Pokeball, Pkmn, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/952/504/HD-wallpaper-mewtwo-in-a-pokeball-pokemon-mewtwo-pokeball-pkmn.jpg' alt='Mewtwo in a pokeball, Pokemon, Mewtwo, Pokeball, Pkmn, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/952/504/HD-wallpaper-mewtwo-in-a-pokeball-pokemon-mewtwo-pokeball-pkmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lugia Pokéball HD Wallpaper by 2012 wazzy88">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/304/thumb-1920-304333.jpg' alt='Lugia Pokéball HD Wallpaper by 2012 wazzy88'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/304/thumb-1920-304333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pokeball of Dialga by wazzy88 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/5e/9e/af5e9eda8f3f7734ad508ea173368385.jpg' alt='The Pokeball of Dialga by wazzy88 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/5e/9e/af5e9eda8f3f7734ad508ea173368385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pokeball Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920-x-1080-gaming-dragonair-in-a-poke-ball-06u3t2jekar74z1q.jpg' alt='200+] Pokeball Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920-x-1080-gaming-dragonair-in-a-poke-ball-06u3t2jekar74z1q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

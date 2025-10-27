@@ -1,0 +1,129 @@
+<title>Stunning Tree iPhone Wallpapers - Nature's Beauty</title>
+                    <meta name="description" content="Elevate your iPhone with beautiful tree wallpapers! Explore a range of nature-inspired designs that showcase the elegance of trees. Perfect for variety and personalization, these wallpapers are optimized for a stunning mobile experience. Download now to bring a touch of nature to your device!">
+                    <meta name="keywords" content="tree iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/tree-iphone-wallpaper">
+                            <span itemprop="name">tree iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tree iPhone Wallpapers - Nature's Beauty</h1>
+                <p>Transform your iPhone’s look with stunning tree wallpapers! Choose from a variety of serene landscapes featuring majestic trees, vibrant autumn foliage, or peaceful forests. These wallpapers not only beautify your device but also bring a touch of nature into your daily life. Download your favorite tree wallpaper for iPhone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conifer Tree Abstract Wallpaper - iPhone 16 All Models (& Older) - Instant  Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14984957/r/il/fe6f2d/2670972217/il_570xN.2670972217_d1g5.jpg' alt='Conifer Tree Abstract Wallpaper - iPhone 16 All Models (& Older) - Instant  Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14984957/r/il/fe6f2d/2670972217/il_570xN.2670972217_d1g5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trees - Iphone 12,13 & 12,13pro Wallpaper, Minimalist iPhone Wallpaper,  Phone background, iPhone Background, Instant Download Active">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35157272/r/il/98f6a7/3899560675/il_fullxfull.3899560675_1r2p.jpg' alt='Trees - Iphone 12,13 & 12,13pro Wallpaper, Minimalist iPhone Wallpaper,  Phone background, iPhone Background, Instant Download Active'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1662">
+                                <meta itemprop="height" content="2954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35157272/r/il/98f6a7/3899560675/il_fullxfull.3899560675_1r2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green forest with pine trees iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/6a/ed/486aeda879f96262a1e5531098e8c366.jpg' alt='green forest with pine trees iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/6a/ed/486aeda879f96262a1e5531098e8c366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Trees Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trees-iphone-lah5f5vmksga1iuq.jpg' alt='100+] Trees Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trees-iphone-lah5f5vmksga1iuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Wallpapers (113 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/2/a/13521-1080x1920-mobile-1080p-tree-background-image.jpg' alt='Tree Wallpapers (113 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/2/a/13521-1080x1920-mobile-1080p-tree-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Wallpapers (113 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/6/c/111406-1125x2436-mobile-hd-tree-wallpaper-image.jpg' alt='Tree Wallpapers (113 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/6/c/111406-1125x2436-mobile-hd-tree-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Wallpapers With Awesome Trees for the iPhone 6! - post">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/c8/80/b8c880329d1e0ad1b4bf7677f76713ad.jpg' alt='10 Wallpapers With Awesome Trees for the iPhone 6! - post'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/c8/80/b8c880329d1e0ad1b4bf7677f76713ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD green tree iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/707/703/HD-wallpaper-green-tree-iphone-iphone-iphone-nature-green-tree.jpg' alt='HD green tree iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/707/703/HD-wallpaper-green-tree-iphone-iphone-iphone-nature-green-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree of Life iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/84/a7/e184a76bf0e4aa27e3f566d77d0de43a.jpg' alt='Tree of Life iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/84/a7/e184a76bf0e4aa27e3f566d77d0de43a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About the Trees iPhone 13 Pro Max Wall Paper iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35157272/r/il/467603/3832504139/il_fullxfull.3832504139_55ai.jpg' alt='All About the Trees iPhone 13 Pro Max Wall Paper iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35157272/r/il/467603/3832504139/il_fullxfull.3832504139_55ai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

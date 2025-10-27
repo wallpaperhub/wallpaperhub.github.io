@@ -1,0 +1,129 @@
+<title>Vibrant Gumball and Darwin Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover colorful Gumball and Darwin wallpapers for your iPhone! Perfectly designed for fans, our collection features various styles to personalize your device. Download now and showcase your favorite characters from The Amazing World of Gumball while making your screen pop!">
+                    <meta name="keywords" content="gumball and darwin wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gumball-and-darwin-wallpaper-iphone">
+                            <span itemprop="name">gumball and darwin wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gumball and Darwin Wallpapers for iPhone</h1>
+                <p>Looking for the perfect iPhone wallpaper featuring Gumball and Darwin? Celebrate your love for The Amazing World of Gumball with vibrant designs that bring your favorite characters to life. Choose from various fun and creative styles that will brighten up your screen and express your personality. Download your favorite wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Iphone Gumball and Darwin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4a/b0/43/4ab043ca07ea63b79083f586c9fdf13e.jpg' alt='Wallpaper Iphone Gumball and Darwin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4a/b0/43/4ab043ca07ea63b79083f586c9fdf13e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the amazing world of gumball iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/64/e4/7964e4ec04f1e0401766aba3e049ba92.jpg' alt='the amazing world of gumball iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/64/e4/7964e4ec04f1e0401766aba3e049ba92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                                      ♥︎">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/9e/7c/93/9e7c93e92ad5fe8468c6e956618027ab.jpg' alt='                                                      ♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/9e/7c/93/9e7c93e92ad5fe8468c6e956618027ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gumball And Darwin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gumball-and-darwin-1080-x-1883-wallpaper-547oij18nywjmdf8.jpg' alt='100+] Gumball And Darwin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gumball-and-darwin-1080-x-1883-wallpaper-547oij18nywjmdf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gumball And Darwin wallpaper by Semih_09 - Download on ZEDGE™ | bd12">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/81/c9/b6/81c9b61c3dca3d623a333ec8c6b3c7d6.jpg' alt='Gumball And Darwin wallpaper by Semih_09 - Download on ZEDGE™ | bd12'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/81/c9/b6/81c9b61c3dca3d623a333ec8c6b3c7d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gumball and darwin wallpaper by cozyhomeinc - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=gszbei5iyOQve2ddaHfJW8nmykGYMrjvAV2nrQw-eq33KRb7xXRQO1dWXEeGnEjZ-YHb5QrPyl-_wEP1OtW61G7143dyB5F6CG_pdnE0tAHjuaa0QpnpPIFRqhmFAU7kQwXELZEAxYFl_ENENqvNjWgvC2huua5swSObxcpBnBrdy4p18lTpVxYZIp-Cm7FVhIYjkwBlVD5ASRgRYAB1hytW320Vf3aXw7I1mamb7apodUfBPu52PWmba-A' alt='gumball and darwin wallpaper by cozyhomeinc - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=gszbei5iyOQve2ddaHfJW8nmykGYMrjvAV2nrQw-eq33KRb7xXRQO1dWXEeGnEjZ-YHb5QrPyl-_wEP1OtW61G7143dyB5F6CG_pdnE0tAHjuaa0QpnpPIFRqhmFAU7kQwXELZEAxYFl_ENENqvNjWgvC2huua5swSObxcpBnBrdy4p18lTpVxYZIp-Cm7FVhIYjkwBlVD5ASRgRYAB1hytW320Vf3aXw7I1mamb7apodUfBPu52PWmba-A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gumball & Darwin, amazing world of gumball, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/983/496/HD-wallpaper-gumball-darwin-amazing-world-of-gumball.jpg' alt='Gumball & Darwin, amazing world of gumball, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/983/496/HD-wallpaper-gumball-darwin-amazing-world-of-gumball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darwin Gumball Wallpaper - iXpap | Niedliche hintergrundbilder ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/7a/2a/57/7a2a572a40b66c257033ff5d00f6101d.jpg' alt='Darwin Gumball Wallpaper - iXpap | Niedliche hintergrundbilder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/7a/2a/57/7a2a572a40b66c257033ff5d00f6101d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Gumball And Darwin Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/gumball-fun-jump-w3i4h2xddc3hw0qt.webp' alt='Cute Gumball And Darwin Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/gumball-fun-jump-w3i4h2xddc3hw0qt.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gumball Darwin Bffs Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gumball-aesthetic-ri6as08q3i00eata.jpg' alt='Download Gumball Darwin Bffs Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gumball-aesthetic-ri6as08q3i00eata.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

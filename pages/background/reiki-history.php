@@ -1,0 +1,129 @@
+<title>Explore the Origins of Reiki: A Brief History</title>
+                    <meta name="description" content="Discover the fascinating history of Reiki, from its roots in early 20th century Japan to global recognition. Learn how Mikao Usui's teachings shaped this healing practice, promoting wellness and energy balance in today's world. Ideal for wellness enthusiasts seeking to understand Reiki's journey.">
+                    <meta name="keywords" content="reiki history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/reiki-history">
+                            <span itemprop="name">reiki history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Origins of Reiki: A Brief History</h1>
+                <p>Reiki originated in early 20th century Japan, founded by Mikao Usui. It combines spiritual practices with healing techniques, emphasizing energy balance and relaxation. After Usui's teachings, the practice spread worldwide, adapting various styles and philosophies. Today, Reiki is widely recognized for promoting wellness and reducing stress.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Usui Reiki | Reiki Mindfulness | London">
+                                <img itemprop="contentUrl url" src='https://www.reikimindfulness.co.uk/wp-content/uploads/2021/05/Reiki-Founders.jpg' alt='A Brief History of Usui Reiki | Reiki Mindfulness | London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reiki Mindfulness" />
+                                </span>
+                                <a href='https://www.reikimindfulness.co.uk/wp-content/uploads/2021/05/Reiki-Founders.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mikao Usui & The History of Reiki">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/03_FwQihq_Y/maxresdefault.jpg' alt='Mikao Usui & The History of Reiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/03_FwQihq_Y/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reiki | Healing, Japan, Origin, Techniques, & Skepticism | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/01/262701-050-66636EB2/Image-of-the-founder-of-reiki-Mikao-Usui-Reiki-is-a-form-of-energy-healing-a-type-of-alternative-medicine-originating-in-Japan-Reiki-treatment-Laying-of-hands.jpg' alt='Reiki | Healing, Japan, Origin, Techniques, & Skepticism | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/01/262701-050-66636EB2/Image-of-the-founder-of-reiki-Mikao-Usui-Reiki-is-a-form-of-energy-healing-a-type-of-alternative-medicine-originating-in-Japan-Reiki-treatment-Laying-of-hands.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Reiki: Read about the Origin and Traditions of Reiki">
+                                <img itemprop="contentUrl url" src='https://iarp.org/wp-content/uploads/2014/04/history-of-reiki-2.jpg' alt='History of Reiki: Read about the Origin and Traditions of Reiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Association of Reiki Professionals" />
+                                </span>
+                                <a href='https://iarp.org/wp-content/uploads/2014/04/history-of-reiki-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the History of Reiki? | Reiki">
+                                <img itemprop="contentUrl url" src='https://www.reiki.org/sites/default/files/Usui_0.jpg' alt='What is the History of Reiki? | Reiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reiki.org" />
+                                </span>
+                                <a href='https://www.reiki.org/sites/default/files/Usui_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reiki History - A Close Look About Its Founder, Origins, and ...">
+                                <img itemprop="contentUrl url" src='https://www.freereikicourse.com/static/d49b82f2812bc9c5bd458c32fc12f866/6b411/dr.-mikao-usui.png' alt='Reiki History - A Close Look About Its Founder, Origins, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Reiki Course" />
+                                </span>
+                                <a href='https://www.freereikicourse.com/static/d49b82f2812bc9c5bd458c32fc12f866/6b411/dr.-mikao-usui.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Reiki History: Real Reiki® from Japan to the Western World:  9780933267206: Shay, Shoshana: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JD4NFwxNL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Reiki History: Real Reiki® from Japan to the Western World:  9780933267206: Shay, Shoshana: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JD4NFwxNL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history and evolution of Reiki - Gifted Hands Reiki">
+                                <img itemprop="contentUrl url" src='https://giftedhandsreiki.co.uk/wp-content/uploads/2022/11/dr-mikau-usui.jpeg' alt='The history and evolution of Reiki - Gifted Hands Reiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifted Hands Reiki" />
+                                </span>
+                                <a href='https://giftedhandsreiki.co.uk/wp-content/uploads/2022/11/dr-mikau-usui.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the History of Reiki? | Reiki">
+                                <img itemprop="contentUrl url" src='https://www.reiki.org/sites/default/files/MatijiKawakami.jpg' alt='What is the History of Reiki? | Reiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reiki.org" />
+                                </span>
+                                <a href='https://www.reiki.org/sites/default/files/MatijiKawakami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Reiki? History and Reiki Gokai (Five Principles)">
+                                <img itemprop="contentUrl url" src='https://www.reikibyyuko.com/images/reiki-history.jpg' alt='What is Reiki? History and Reiki Gokai (Five Principles)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Reiki with a Japanese Usui Reiki Master in Tokyo, Japan" />
+                                </span>
+                                <a href='https://www.reikibyyuko.com/images/reiki-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

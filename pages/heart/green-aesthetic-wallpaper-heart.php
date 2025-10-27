@@ -1,0 +1,129 @@
+<title>Heartfelt Green Aesthetic Wallpaper: Nature-Inspired Decor</title>
+                    <meta name="description" content="Discover charming green aesthetic wallpaper adorned with heart designs. Perfect for adding a touch of nature and tranquility to any room. Elevate your home decor with this stylish and soothing option, ideal for creating cozy spaces that inspire relaxation and joy.">
+                    <meta name="keywords" content="green aesthetic wallpaper heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/green-aesthetic-wallpaper-heart">
+                            <span itemprop="name">green aesthetic wallpaper heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartfelt Green Aesthetic Wallpaper: Nature-Inspired Decor</h1>
+                <p>Transform your space with enchanting green aesthetic wallpaper featuring heart motifs. This design not only breathes life into any room but also creates a calming atmosphere. Perfect for bedrooms or cozy nooks, it blends nature's tranquility with personal style, making it an ideal backdrop for your daily inspirations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Purpule Heart | Hippie Wallpaper, Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/6b/bb/d66bbb79d437290a516e0aff8943a8a7.jpg' alt='Indie Purpule Heart | Hippie Wallpaper, Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/6b/bb/d66bbb79d437290a516e0aff8943a8a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aesthetic heart wallpaper for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/93/40/a0/9340a0538ea536483a870b61da3110dc.jpg' alt='green aesthetic heart wallpaper for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/93/40/a0/9340a0538ea536483a870b61da3110dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/green-heart-aesthetic-zx7bmqklnnqczztk.jpg' alt='Green Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/green-heart-aesthetic-zx7bmqklnnqczztk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green aesthetic heart background – The Aesthetic Shop | Sage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/a3/f5/29a3f5a77ad3c9f2a3f4776863bf8a18.jpg' alt='Sage green aesthetic heart background – The Aesthetic Shop | Sage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/a3/f5/29a3f5a77ad3c9f2a3f4776863bf8a18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Heart | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3235809503.1667/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Sage Green Aesthetic Heart | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3235809503.1667/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Heart Cool Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' alt='Green Heart Cool Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/green-hearts-abstract-bfhajlv6q718tuwq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic or cute wallpaper Ideas | Gallery posted by *+ ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-sg1.lemon8-app.com/seo/image?item_id=7205114205224108545&index=2&sign=8a35201cfe4e24ea1200df4101450b66' alt='Green aesthetic or cute wallpaper Ideas | Gallery posted by *+ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-sg1.lemon8-app.com/seo/image?item_id=7205114205224108545&index=2&sign=8a35201cfe4e24ea1200df4101450b66' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Cute Sage Green Heart Drawing Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/cute-sage-green-heart-drawing-hiywpxs1mukcznck.jpg' alt='Download free Cute Sage Green Heart Drawing Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="517">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/cute-sage-green-heart-drawing-hiywpxs1mukcznck.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Show your love with these romantic mint green hearts ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mint-green-hearts-i9gmvxla1jiyd35p.jpg' alt='Download Show your love with these romantic mint green hearts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mint-green-hearts-i9gmvxla1jiyd35p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green heart desktop background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/75/7e/9f757e384bb5d14bf946631a0af034ac.jpg' alt='Green heart desktop background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/75/7e/9f757e384bb5d14bf946631a0af034ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

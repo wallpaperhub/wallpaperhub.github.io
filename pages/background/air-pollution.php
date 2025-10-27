@@ -1,0 +1,129 @@
+<title>Combatting Air Pollution: A Global Challenge</title>
+                    <meta name="description" content="Discover the impacts of air pollution on health and the environment. Learn about its causes and how we can take collective action to reduce emissions and foster cleaner air for future generations. Join the fight against pollution to promote sustainability and well-being.">
+                    <meta name="keywords" content="air pollution">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/air-pollution">
+                            <span itemprop="name">air pollution</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Combatting Air Pollution: A Global Challenge</h1>
+                <p>Air pollution is a pressing global issue, affecting health, ecosystems, and the climate. It is caused by emissions from vehicles, industries, and biomass burning, leading to respiratory diseases and environmental degradation. Addressing air pollution requires immediate action and collective efforts to adopt cleaner technologies and promote sustainable practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Pollution Facts, Causes and the Effects of Pollutants in the Air">
+                                <img itemprop="contentUrl url" src='https://www.nrdc.org/sites/default/files/styles/social_sharing_1200x630/public/media-uploads/health4_26_airpollguide_istock_2796602_2400.jpg?h=c3635fa2&itok=HMTXSAJe' alt='Air Pollution Facts, Causes and the Effects of Pollutants in the Air'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NRDC" />
+                                </span>
+                                <a href='https://www.nrdc.org/sites/default/files/styles/social_sharing_1200x630/public/media-uploads/health4_26_airpollguide_istock_2796602_2400.jpg?h=c3635fa2&itok=HMTXSAJe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Does Air Pollution Come From? - Air (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/subjects/air/images/Sources_Graphic_Huge.jpg' alt='Where Does Air Pollution Come From? - Air (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3159">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/subjects/air/images/Sources_Graphic_Huge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The main sources of air pollution - Breeze Technologies">
+                                <img itemprop="contentUrl url" src='https://www.breeze-technologies.de/wp-content/uploads/2021/06/chris-leboutillier-TUJud0AWAPI-unsplash-1620x1080.jpg' alt='The main sources of air pollution - Breeze Technologies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Breeze Technologies" />
+                                </span>
+                                <a href='https://www.breeze-technologies.de/wp-content/uploads/2021/06/chris-leboutillier-TUJud0AWAPI-unsplash-1620x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Pollution and Your Health | National Institute of ...">
+                                <img itemprop="contentUrl url" src='https://www.niehs.nih.gov/sites/default/files/health/assets/images/air_pollution_og.jpg' alt='Air Pollution and Your Health | National Institute of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute of Environmental Health Sciences" />
+                                </span>
+                                <a href='https://www.niehs.nih.gov/sites/default/files/health/assets/images/air_pollution_og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air pollution, facts and information">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/84765010-db5a-4c1e-b783-7b2b440a32e4/177.jpg' alt='Air pollution, facts and information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/84765010-db5a-4c1e-b783-7b2b440a32e4/177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Pollution Increases COPD Risk, Speeds Aging Process | RT">
+                                <img itemprop="contentUrl url" src='https://respiratory-therapy.com/wp-content/uploads/2019/05/air-pollution-smog-1500-1200x675.jpg' alt='Air Pollution Increases COPD Risk, Speeds Aging Process | RT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Respiratory Therapy" />
+                                </span>
+                                <a href='https://respiratory-therapy.com/wp-content/uploads/2019/05/air-pollution-smog-1500-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How megacities are tackling air pollution – DW – 01/11/2024">
+                                <img itemprop="contentUrl url" src='https://static.dw.com/image/67704225_605.jpg' alt='How megacities are tackling air pollution – DW – 01/11/2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DW" />
+                                </span>
+                                <a href='https://static.dw.com/image/67704225_605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Communities of Color Across the US Suffer A Growing Burden from ...">
+                                <img itemprop="contentUrl url" src='https://publichealth.gwu.edu/sites/g/files/zaxdzs4586/files/2024-03/pollution.png' alt='Communities of Color Across the US Suffer A Growing Burden from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milken Institute School of Public Health - The George Washington ..." />
+                                </span>
+                                <a href='https://publichealth.gwu.edu/sites/g/files/zaxdzs4586/files/2024-03/pollution.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Pollution: Causes, Effects, Solutions, and More">
+                                <img itemprop="contentUrl url" src='https://www.actenviro.com/wp-content/uploads/2024/08/air-pollution3.jpg' alt='Air Pollution: Causes, Effects, Solutions, and More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ACTenviro" />
+                                </span>
+                                <a href='https://www.actenviro.com/wp-content/uploads/2024/08/air-pollution3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Pollution in Cities – Sources, Effects, & Solutions | Smart City">
+                                <img itemprop="contentUrl url" src='https://www.smartcity.co.nz/wp-content/uploads/2021/03/Air-pollution-city.jpg' alt='Air Pollution in Cities – Sources, Effects, & Solutions | Smart City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart City" />
+                                </span>
+                                <a href='https://www.smartcity.co.nz/wp-content/uploads/2021/03/Air-pollution-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

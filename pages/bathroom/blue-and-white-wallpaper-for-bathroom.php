@@ -1,0 +1,129 @@
+<title>Refresh Your Bath: Blue and White Wallpaper Ideas</title>
+                    <meta name="description" content="Discover the elegance of blue and white wallpaper for your bathroom. Explore stunning designs that enhance your space while providing a tranquil ambiance. Perfect for any decor style, these wallpapers make your bathroom a stylish retreat. Elevate your home's charm effortlessly!">
+                    <meta name="keywords" content="blue and white wallpaper for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/blue-and-white-wallpaper-for-bathroom">
+                            <span itemprop="name">blue and white wallpaper for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your Bath: Blue and White Wallpaper Ideas</h1>
+                <p>Transform your bathroom into a serene retreat with blue and white wallpaper. These classic colors create a fresh, airy vibe, perfect for any style. Whether you prefer nautical patterns or elegant florals, blue and white wallpaper adds depth and sophistication to your space. Elevate your decor and enjoy a calming atmosphere!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' alt='Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decotalk Peel and Stick Wallpaper Blue 17.7x200 Inch Boho Wallpaper for  Accent Wall Bedroom Decor Blue and White Boho Wallpaper Removable Chevron  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91CFeKpBsOL.jpg' alt='Decotalk Peel and Stick Wallpaper Blue 17.7x200 Inch Boho Wallpaper for  Accent Wall Bedroom Decor Blue and White Boho Wallpaper Removable Chevron  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91CFeKpBsOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' alt='67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling">
+                                <img itemprop="contentUrl url" src='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' alt='MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Darling" />
+                                </span>
+                                <a href='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in×39ft Blue White Wallpaper Peel and Stick Boho Floral  Contact Paper for Cabinets Drawers Walls Bohemian Removable Wallpaper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91AuluBukeL._AC_UF350,350_QL80_.jpg' alt='ReWallpaper 17.5in×39ft Blue White Wallpaper Peel and Stick Boho Floral  Contact Paper for Cabinets Drawers Walls Bohemian Removable Wallpaper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91AuluBukeL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper MADE IN USA Peel & Stick Self Adhesive Temporary Blue  and white Painted Designer wall paper Powder Room Bath Hexagon">
+                                <img itemprop="contentUrl url" src='https://jllhomestore.com/cdn/shop/products/il_fullxfull.1072700780_39f4_800x.jpg?v=1575932112' alt='Removable Wallpaper MADE IN USA Peel & Stick Self Adhesive Temporary Blue  and white Painted Designer wall paper Powder Room Bath Hexagon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JLL HOME" />
+                                </span>
+                                <a href='https://jllhomestore.com/cdn/shop/products/il_fullxfull.1072700780_39f4_800x.jpg?v=1575932112' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique French Wallpaper, Vintage Blue Flowers and Birds Victorian ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/20d5f3/3422592326/il_fullxfull.3422592326_6yra.jpg' alt='Antique French Wallpaper, Vintage Blue Flowers and Birds Victorian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/20d5f3/3422592326/il_fullxfull.3422592326_6yra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Blue Floral Vintage Cream Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 466">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322935110_hi6j.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Blue Floral Vintage Cream Removable  Wallpaper Wall Decor Home Decor Wall Art Room Decor 466'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4322935110_hi6j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Blue">
+                                <img itemprop="contentUrl url" src='https://pepper-home.com/cdn/shop/files/Frida-Blue-Wallpaper2_b8358a21-afef-4e8b-a0a4-f8cadd59859a.jpg?v=1696979401&width=1500' alt='Frida Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pepper Home" />
+                                </span>
+                                <a href='https://pepper-home.com/cdn/shop/files/Frida-Blue-Wallpaper2_b8358a21-afef-4e8b-a0a4-f8cadd59859a.jpg?v=1696979401&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

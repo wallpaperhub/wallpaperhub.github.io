@@ -1,0 +1,129 @@
+<title>Cool Fortnite Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover the ultimate collection of cool Fortnite wallpapers! Perfect for gamers looking to upgrade their space with vibrant visuals and iconic characters. Find your favorite designs easily and bring your Fortnite passion to life on your device!">
+                    <meta name="keywords" content="wallpaper cool fortnite">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/wallpaper-cool-fortnite">
+                            <span itemprop="name">wallpaper cool fortnite</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Fortnite Wallpapers for Gamers</h1>
+                <p>Transform your gaming space with cool Fortnite wallpapers! Explore vibrant designs featuring your favorite characters and stunning landscapes from the battle royale. Whether you want a bold wallpaper of your hero or an immersive scene from the game, there's a perfect match for every player. Level up your room's vibe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Fortnite, Fortnite Battle Royale, Black Knight Fortnite ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/b/10/black-knight-red-neon-lights-2020-games-fortnite-battle-roya.webp' alt='Wallpaper Fortnite, Fortnite Battle Royale, Black Knight Fortnite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/b/10/black-knight-red-neon-lights-2020-games-fortnite-battle-roya.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Skin Wallpapers : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dc46xwxmnu811.jpg?width=1080&format=pjpg&auto=webp&s=bff87ec3438a9652de889640b8070b48583669e0' alt='Fortnite Skin Wallpapers : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dc46xwxmnu811.jpg?width=1080&format=pjpg&auto=webp&s=bff87ec3438a9652de889640b8070b48583669e0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Fortnite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-fortnite-kitted-drift-background-habsg6w8yyjcme2p.jpg' alt='100+] Cool Fortnite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-fortnite-kitted-drift-background-habsg6w8yyjcme2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/e/e/88374-3840x2160-desktop-4k-fortnite-background.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/e/e/88374-3840x2160-desktop-4k-fortnite-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Cool Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-cool-pictures-1500-x-1000-awswvhfgn4nezmut.jpg' alt='100+] Fortnite Cool Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-cool-pictures-1500-x-1000-awswvhfgn4nezmut.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite cool 2025 backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/08/78/e6/0878e65de4d28c85aeaad5cdfff0d0e9.png' alt='Fortnite cool 2025 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/08/78/e6/0878e65de4d28c85aeaad5cdfff0d0e9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Skin Wallpapers : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0pqlk7ofmu811.jpg?width=1920&format=pjpg&auto=webp&s=fa7ac87053b7e3e624c5326c1665318cd8496e2e' alt='Fortnite Skin Wallpapers : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0pqlk7ofmu811.jpg?width=1920&format=pjpg&auto=webp&s=fa7ac87053b7e3e624c5326c1665318cd8496e2e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD fortnite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/124/622/HD-wallpaper-fortnite-focus-skin-fortnite-main-characters-blue-stone-background-focus-fortnite-skins-focus-skin-focus-fortnite-fortnite-characters-thumbnail.jpg' alt='HD fortnite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/124/622/HD-wallpaper-fortnite-focus-skin-fortnite-main-characters-blue-stone-background-focus-fortnite-skins-focus-skin-focus-fortnite-fortnite-characters-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Fortnite Wallpapers » Hupages » Download Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/82/27/0f/82270fc8b81fe9cef335d6dd28c1794b.jpg' alt='Cool Fortnite Wallpapers » Hupages » Download Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/82/27/0f/82270fc8b81fe9cef335d6dd28c1794b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

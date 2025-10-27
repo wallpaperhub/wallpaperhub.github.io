@@ -1,0 +1,129 @@
+<title>Sour Patch Kids Logo: A Sweet & Sour Icon</title>
+                    <meta name="description" content="Discover the vibrant and playful Sour Patch Kids logo, a perfect blend of fun and flavor. Learn how this iconic design captures the essence of sweetness and mischievousness, appealing to candy lovers everywhere. Dive into the visual identity of your favorite candy brand today!">
+                    <meta name="keywords" content="sour patch kids logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sour-patch-kids-logo">
+                            <span itemprop="name">sour patch kids logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sour Patch Kids Logo: A Sweet & Sour Icon</h1>
+                <p>The Sour Patch Kids logo is a vibrant and playful representation of the beloved candy brand. Featuring bold colors and a cheeky font, it captures the essence of the sweet and sour flavors that fans adore. The logo instantly draws attention, reflecting the fun and mischievous nature of the candies, appealing to both kids and adults.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/601592dc5cc23e000407ba22.png' alt='Sour Patch Kids logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="304">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/601592dc5cc23e000407ba22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Candy Logo by Arlyj Conly">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sour-patch-kids-candy-logo-arlyj-conly.jpg' alt='Sour Patch Kids Candy Logo by Arlyj Conly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sour-patch-kids-candy-logo-arlyj-conly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Logo | Stitchpatches.com">
+                                <img itemprop="contentUrl url" src='https://stitchpatches.com/wp-content/uploads/2024/04/9c9052bbb2b6a3baf062d28beeccb3fe-removebg-preview.png' alt='Sour Patch Logo | Stitchpatches.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stitch Patches" />
+                                </span>
+                                <a href='https://stitchpatches.com/wp-content/uploads/2024/04/9c9052bbb2b6a3baf062d28beeccb3fe-removebg-preview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids | Candy Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/candyeat/images/b/bd/Sour_Patch_Kids.png/revision/latest?cb=20231128002631' alt='Sour Patch Kids | Candy Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/candyeat/images/b/bd/Sour_Patch_Kids.png/revision/latest?cb=20231128002631' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Sour Patch Kids Box, 3.5-Ounce Boxes (Pack of 12 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gjxPs2e+L.jpg' alt='Amazon.com : Sour Patch Kids Box, 3.5-Ounce Boxes (Pack of 12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1386">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gjxPs2e+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://images.seeklogo.com/logo-png/51/2/sour-patch-kids-candy-logo-png_seeklogo-519815.png' alt='Sour Patch Kids Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://images.seeklogo.com/logo-png/51/2/sour-patch-kids-candy-logo-png_seeklogo-519815.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids - Walmart.com">
+                                <img itemprop="contentUrl url" src='https://advertising.walmart.com/thunder/assets/media-service/wcnp-prod/images/23986edd-ca73-42e5-ad20-082d365573ab/cdf844a3-628b-453a-837b-d2b79d82197a.jpeg' alt='Sour Patch Kids - Walmart.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://advertising.walmart.com/thunder/assets/media-service/wcnp-prod/images/23986edd-ca73-42e5-ad20-082d365573ab/cdf844a3-628b-453a-837b-d2b79d82197a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Candy Tropical Logo Greeting Card by Joelp Sunai">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/sour-patch-kids-candy-tropical-logo-joelp-sunai-transparent.png?&targetx=0&targety=-150&imagewidth=700&imageheight=800&modelwidth=700&modelheight=500&backgroundcolor=666765&orientation=0' alt='Sour Patch Kids Candy Tropical Logo Greeting Card by Joelp Sunai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/3/sour-patch-kids-candy-tropical-logo-joelp-sunai-transparent.png?&targetx=0&targety=-150&imagewidth=700&imageheight=800&modelwidth=700&modelheight=500&backgroundcolor=666765&orientation=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sour patch kids logo - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c7/37/7d/c7377da838a5dc1166bb7cd663f02045.jpg' alt='sour patch kids logo - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c7/37/7d/c7377da838a5dc1166bb7cd663f02045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Sour Patch Kids">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064742826089' alt='Profile for Sour Patch Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064742826089' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

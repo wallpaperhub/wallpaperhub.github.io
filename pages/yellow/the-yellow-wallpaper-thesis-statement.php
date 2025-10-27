@@ -1,0 +1,129 @@
+<title>Unlocking the Madness: A Thesis on "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Explore the themes of oppression and mental health in "The Yellow Wallpaper." This thesis delves into how Gilman's work reflects 19th-century gender roles and advocates for women's rights, providing insights that resonate in today's discussions on autonomy and mental well-being.">
+                    <meta name="keywords" content="the yellow wallpaper thesis statement">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-thesis-statement">
+                            <span itemprop="name">the yellow wallpaper thesis statement</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlocking the Madness: A Thesis on "The Yellow Wallpaper"</h1>
+                <p>In "The Yellow Wallpaper," Charlotte Perkins Gilman critiques the oppressive nature of 19th-century gender roles and mental health treatment. The protagonist's descent into madness mirrors the confinement women faced, highlighting how patriarchal control stifles creativity and autonomy, ultimately advocating for women's rights and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Allie Harris on Prezi">
+                                <img itemprop="contentUrl url" src='https://0701.static.prezi.com/preview/v2/ijb6n5jk2vmnz2l3tdnx552hzx6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='The Yellow Wallpaper by Allie Harris on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0701.static.prezi.com/preview/v2/ijb6n5jk2vmnz2l3tdnx552hzx6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Connection between the Narrator & the Paper ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' alt='The Yellow Wallpaper: Connection between the Narrator & the Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/827/8276/the-yellow-wallpaper-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thesis Statement For The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='x-raw-image:///2b2fc6617ff0f14ccb81aefdd058c6be260fb25c2e028d0d9630681ad16eff71' alt='Thesis Statement For The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="widowprod.rccc.edu" />
+                                </span>
+                                <a href='x-raw-image:///2b2fc6617ff0f14ccb81aefdd058c6be260fb25c2e028d0d9630681ad16eff71' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) The yellow wallpaper-essay">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/43193764/mini_magick20190216-13687-1ujxkcn.png?1550346302' alt='DOC) The yellow wallpaper-essay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/43193764/mini_magick20190216-13687-1ujxkcn.png?1550346302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2/5/20161 III. Revising the Thesis As Pat reads more about her ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/30/9508050/slides/slide_8.jpg' alt='2/5/20161 III. Revising the Thesis As Pat reads more about her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/30/9508050/slides/slide_8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...">
+                                <img itemprop="contentUrl url" src='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' alt='The Yellow Wallpaper Summary, Plot Infographic, & The Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom-Writing.org" />
+                                </span>
+                                <a href='https://custom-writing.org/blog/wp-content/uploads/2021/02/yellow_wallpaper_summary-878x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thesis Statement For The Yellow Wallpaper and The Story of An Hour ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-1-f.scribdassets.com/img/document/710128341/original/a440fcb36a/1?v=1' alt='Thesis Statement For The Yellow Wallpaper and The Story of An Hour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-1-f.scribdassets.com/img/document/710128341/original/a440fcb36a/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English 12 “The Boat” “The Yellow wallpaper” “Am I Blue?” - ppt ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/5795064/19/images/5/Quotes+%E2%80%93+The+Yellow+Wallpaper.jpg' alt='English 12 “The Boat” “The Yellow wallpaper” “Am I Blue?” - ppt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/5795064/19/images/5/Quotes+%E2%80%93+The+Yellow+Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Critical Analysis Essay on “The Yellow Wallpaper” | HowToWrite by ...">
+                                <img itemprop="contentUrl url" src='https://www.customwritings.com/howtowrite/wp-content/uploads/2020/04/Critical-Analysis-Essay-1024x371.jpg' alt='Critical Analysis Essay on “The Yellow Wallpaper” | HowToWrite by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Writing Service" />
+                                </span>
+                                <a href='https://www.customwritings.com/howtowrite/wp-content/uploads/2020/04/Critical-Analysis-Essay-1024x371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman ( ) and “The Yellow Wallpaper” - ppt ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/slide/5147824/16/images/15/Thesis+statement%3A.jpg' alt='Charlotte Perkins Gilman ( ) and “The Yellow Wallpaper” - ppt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/slide/5147824/16/images/15/Thesis+statement%3A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

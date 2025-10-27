@@ -1,0 +1,129 @@
+<title>Grey Floral Peel and Stick Wallpaper: Easy Elegance for Your Walls</title>
+                    <meta name="description" content="Discover trendy grey floral peel and stick wallpaper for an effortless home makeover. Perfect for renters, our easy-to-apply designs offer style without the hassle. Refresh your walls with elegance and beauty today!">
+                    <meta name="keywords" content="grey floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/grey-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">grey floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Grey Floral Peel and Stick Wallpaper: Easy Elegance for Your Walls</h1>
+                <p>Transform your space with our grey floral peel and stick wallpaper, ideal for adding a touch of elegance to any room. Easy to apply and removable, this wallpaper is perfect for renters or those looking to refresh their décor without the commitment. Enhance your walls with chic floral patterns today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8181IrfoAHL._AC_UF894,1000_QL80_.jpg' alt='Froluya Gray Peel and Stick Wallpaper Gray Floral Wallpaper 17.7  inch×118.1inch Floral Contact Paper Flower Self Adhesive Removable  Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8181IrfoAHL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' alt='Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dviolet Floral Peel and Stick Wallpaper Grey Floral Contact Paper Removable  Wallpaper Decorative Self Adhesive Wallpaper Wall Paper 17.7" x 118.1" - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914cf-EXU9L.jpg' alt='Dviolet Floral Peel and Stick Wallpaper Grey Floral Contact Paper Removable  Wallpaper Decorative Self Adhesive Wallpaper Wall Paper 17.7" x 118.1" - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914cf-EXU9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketched Floral Peel & Stick Wallpaper in Grey">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/NW55708-A_720x.jpg?v=1708028939' alt='Sketched Floral Peel & Stick Wallpaper in Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/NW55708-A_720x.jpg?v=1708028939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Lotus Grey Floral Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW33108">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/524b80ed-1aeb-40d5-a8e5-2adb25039379/svn/nextwall-wallpaper-rolls-nw33108-31_600.jpg' alt='NextWall Lotus Grey Floral Vinyl Peel & Stick Wallpaper Roll (Covers 30.75  Sq. Ft.) NW33108'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/524b80ed-1aeb-40d5-a8e5-2adb25039379/svn/nextwall-wallpaper-rolls-nw33108-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Floral Wallpaper, Peel and Stick Wall Mural, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/8e749f/1834019605/il_570xN.1834019605_idfq.jpg' alt='Grey Floral Wallpaper, Peel and Stick Wall Mural, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/8e749f/1834019605/il_570xN.1834019605_idfq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_big.jpg' alt='Grey Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1519">
+                                <meta itemprop="height" content="1519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_big.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Alloy Grey Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43908">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/cf8f0f2b-c8e9-4d7f-9af2-740d19acc493/svn/nextwall-wallpaper-rolls-nw43908-64_600.jpg' alt='NextWall 30.75 sq. ft. Alloy Grey Stenciled Floral Vinyl Peel and Stick  Wallpaper Roll NW43908'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/cf8f0f2b-c8e9-4d7f-9af2-740d19acc493/svn/nextwall-wallpaper-rolls-nw43908-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allen + roth 30.75-sq ft Grey Vinyl Floral Self-adhesive Peel and Stick  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/2082413a-230d-4158-81f2-eb1f69aa5e24/66389107.jpeg?size=pdhz' alt='allen + roth 30.75-sq ft Grey Vinyl Floral Self-adhesive Peel and Stick  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/2082413a-230d-4158-81f2-eb1f69aa5e24/66389107.jpeg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Vintage Floral Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_web.jpg' alt='Grey Vintage Floral Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

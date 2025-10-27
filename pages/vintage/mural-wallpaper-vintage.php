@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Mural Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of vintage mural wallpaper, this captivating decor option adds a touch of nostalgia to any room. Ideal for creating stunning feature walls, our curated collection brings elegance and charm to your home. Elevate your interior design with vintage-inspired murals that tell a story.">
+                    <meta name="keywords" content="mural wallpaper vintage">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/mural-wallpaper-vintage">
+                            <span itemprop="name">mural wallpaper vintage</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Mural Wallpaper</h1>
+                <p>The charm of mural wallpaper vintage lies in its ability to transform any space into a nostalgic haven. With intricate designs reminiscent of bygone eras, these wallpapers add character and warmth to any room. Perfect for creating a statement wall or enhancing a cozy nook, vintage murals invite timeless elegance into modern homes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Landscape Wall Mural, Peel and Stick Wall Mural, Etching Wallpaper  by Moucheron, Self Adhesive Removable Wallpaper #240 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/2991bd/4404316036/il_1080xN.4404316036_hvsz.jpg' alt='Vintage Landscape Wall Mural, Peel and Stick Wall Mural, Etching Wallpaper  by Moucheron, Self Adhesive Removable Wallpaper #240 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/2991bd/4404316036/il_1080xN.4404316036_hvsz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique landscape - Wallpaper mural">
+                                <img itemprop="contentUrl url" src='https://www.papiersdeparis.com/en/upload/papier-peint-paysage-antique-2.jpg' alt='Antique landscape - Wallpaper mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papiers de Paris" />
+                                </span>
+                                <a href='https://www.papiersdeparis.com/en/upload/papier-peint-paysage-antique-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Landscape Wall Mural, Vintage Wallpaper, Hand-painted ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10833868/r/il/0b30b2/3872035387/il_570xN.3872035387_7eev.jpg' alt='Vintage Landscape Wall Mural, Vintage Wallpaper, Hand-painted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10833868/r/il/0b30b2/3872035387/il_570xN.3872035387_7eev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scenic Wall Mural - KIINOO">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/kiinoodecor.com/wp-content/uploads/2022/10/142_Vintage-Landscape_1.jpg?fit=1035%2C1035&ssl=1' alt='Vintage Scenic Wall Mural - KIINOO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1035">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIINOO" />
+                                </span>
+                                <a href='https://i0.wp.com/kiinoodecor.com/wp-content/uploads/2022/10/142_Vintage-Landscape_1.jpg?fit=1035%2C1035&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Black and White Landscape Wall Murals Wallpaper, Landscape Plants  Living Room Arge Wall Paper Wall Murals, Waterproof Panoramic Mural for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81NAp4SVIQL._AC_UF350,350_QL80_.jpg' alt='Vintage Black and White Landscape Wall Murals Wallpaper, Landscape Plants  Living Room Arge Wall Paper Wall Murals, Waterproof Panoramic Mural for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81NAp4SVIQL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Vintage trees u80030">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/1000/1628/u80030pig18mr_1200.webp' alt='Wall Mural Photo Wallpaper Vintage trees u80030'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/1000/1628/u80030pig18mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aged Fresco Mural - Antique Scenic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/11111002_Front_Interior_Scenecopy.jpg?v=1672845503&width=1080' alt='Aged Fresco Mural - Antique Scenic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/11111002_Front_Interior_Scenecopy.jpg?v=1672845503&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Rural Landscape with Village Folk Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/r/a/raw328686_3_.jpg' alt='Vintage Rural Landscape with Village Folk Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/r/a/raw328686_3_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Landscape Wall Mural (Peel & Stick)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/vintage-landscape-wall-mural-peel-stick-904803.png?v=1718320102' alt='Vintage Landscape Wall Mural (Peel & Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/vintage-landscape-wall-mural-peel-stick-904803.png?v=1718320102' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Jungle Paintings Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.foresthomesstore.com/cdn/shop/files/Vintage-Jungle-Paintings-Mural-Wallpaper-3_1080x.jpg?v=1690921052' alt='Vintage Jungle Paintings Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='https://www.foresthomesstore.com/cdn/shop/files/Vintage-Jungle-Paintings-Mural-Wallpaper-3_1080x.jpg?v=1690921052' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

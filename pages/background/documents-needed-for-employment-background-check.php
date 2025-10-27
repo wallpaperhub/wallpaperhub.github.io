@@ -1,0 +1,129 @@
+<title>Essential Documents for Employment Background Checks</title>
+                    <meta name="description" content="Discover the crucial documents required for an employment background check. From ID to employment history, ensure you have everything ready to secure your job smoothly. Stay prepared and knowledgeable about the process!">
+                    <meta name="keywords" content="documents needed for employment background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/documents-needed-for-employment-background-check">
+                            <span itemprop="name">documents needed for employment background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Documents for Employment Background Checks</h1>
+                <p>When undergoing an employment background check, you'll typically need to provide several key documents. These may include a valid government-issued ID, proof of address, social security number, employment history with references, and educational qualifications. Prepare these in advance to streamline the process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Free Background Check Authorization Forms ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-01.jpg' alt='47 Free Background Check Authorization Forms ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Free Background Check Authorization Forms ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-03.jpg' alt='47 Free Background Check Authorization Forms ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2020/03/background-check-form-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Check Authorization Forms - WordLayouts">
+                                <img itemprop="contentUrl url" src='https://image.wordlayouts.com/wp-content/uploads/2024/05/background-check-authorization-and-disclosure-form-02-86enpmku0-01.png' alt='Free Background Check Authorization Forms - WordLayouts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WordLayouts" />
+                                </span>
+                                <a href='https://image.wordlayouts.com/wp-content/uploads/2024/05/background-check-authorization-and-disclosure-form-02-86enpmku0-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Authorization Form - Fill Online, Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/100/362/100362603/large.png' alt='Background Check Authorization Form - Fill Online, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/100/362/100362603/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Check Authorization Forms - PDF – eForms">
+                                <img itemprop="contentUrl url" src='https://eforms.com/images/2016/07/Background-Check-Authorization-Form.png' alt='Free Background Check Authorization Forms - PDF – eForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eForms" />
+                                </span>
+                                <a href='https://eforms.com/images/2016/07/Background-Check-Authorization-Form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Consent Form | LawDistrict">
+                                <img itemprop="contentUrl url" src='https://www.lawdistrict.com/static/350aa2abb102dfdee7bd6e488800495a/ca7b4/background-authorization-form-sample.png' alt='Background Check Consent Form | LawDistrict'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LawDistrict" />
+                                </span>
+                                <a href='https://www.lawdistrict.com/static/350aa2abb102dfdee7bd6e488800495a/ca7b4/background-authorization-form-sample.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Instances To Repeat a Background Check">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2019/12/ProfessionalScreeningInformation-seotool-21262-InstancestoRepeat-infographic1.jpg' alt='10 Instances To Repeat a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2019/12/ProfessionalScreeningInformation-seotool-21262-InstancestoRepeat-infographic1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Form - 9+ Examples, Format, Pdf">
+                                <img itemprop="contentUrl url" src='https://images.examples.com/wp-content/uploads/2018/04/Background-Check-Form-Example.jpg' alt='Background Check Form - 9+ Examples, Format, Pdf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Examples.com" />
+                                </span>
+                                <a href='https://images.examples.com/wp-content/uploads/2018/04/Background-Check-Form-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Check Template - SimplyCast">
+                                <img itemprop="contentUrl url" src='https://www.simplycast.com/webp/form-templates/employee-background-check-template.webp' alt='Employee Background Check Template - SimplyCast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyCast" />
+                                </span>
+                                <a href='https://www.simplycast.com/webp/form-templates/employee-background-check-template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

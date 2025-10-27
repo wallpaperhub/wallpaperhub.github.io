@@ -1,0 +1,129 @@
+<title>Discovering 20th Century Fox: Film Legacy Unveiled</title>
+                    <meta name="description" content="Explore the rich history of 20th Century Fox, a leading film studio that revolutionized cinema with timeless classics and groundbreaking technology. Uncover its impact on film and culture in this concise overview.">
+                    <meta name="keywords" content="20th century fox background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/20th-century-fox-background">
+                            <span itemprop="name">20th century fox background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering 20th Century Fox: Film Legacy Unveiled</h1>
+                <p>20th Century Fox, founded in 1935, is a renowned American film studio known for producing iconic films and series. As a pioneer in cinema, it introduced innovative technology and storytelling, creating blockbusters like "Star Wars," "Avatar," and "The Sound of Music." The studio's legacy shapes modern entertainment culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox 1994 Sky Background V5 by TCDLonDeviantArt on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40965629-e974-4fe4-b318-0af0fed59ccb/deg5666-28cb7e7f-4e03-42cf-a285-7b5ac0dfbf83.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOTY1NjI5LWU5NzQtNGZlNC1iMzE4LTBhZjBmZWQ1OWNjYlwvZGVnNTY2Ni0yOGNiN2U3Zi00ZTAzLTQyY2YtYTI4NS03YjVhYzBkZmJmODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3nsdhh9ECgHhffZ5MoilAprMqP4b0tLBq62t8CXhNI4' alt='20th Century Fox 1994 Sky Background V5 by TCDLonDeviantArt on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40965629-e974-4fe4-b318-0af0fed59ccb/deg5666-28cb7e7f-4e03-42cf-a285-7b5ac0dfbf83.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOTY1NjI5LWU5NzQtNGZlNC1iMzE4LTBhZjBmZWQ1OWNjYlwvZGVnNTY2Ni0yOGNiN2U3Zi00ZTAzLTQyY2YtYTI4NS03YjVhYzBkZmJmODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3nsdhh9ECgHhffZ5MoilAprMqP4b0tLBq62t8CXhNI4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox 2009-present Sky Background by LogoManSeva on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5bcded6-f42a-4503-afd4-692db216e412/dazr7ll-0df346e6-272f-4611-ac52-3606c6fd74c7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1YmNkZWQ2LWY0MmEtNDUwMy1hZmQ0LTY5MmRiMjE2ZTQxMlwvZGF6cjdsbC0wZGYzNDZlNi0yNzJmLTQ2MTEtYWM1Mi0zNjA2YzZmZDc0YzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PDQzcdMXq9QAusA94vDr9yPEaXhBfD19Jwe-Eq-P4ks' alt='20th Century Fox 2009-present Sky Background by LogoManSeva on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1302">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5bcded6-f42a-4503-afd4-692db216e412/dazr7ll-0df346e6-272f-4611-ac52-3606c6fd74c7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1YmNkZWQ2LWY0MmEtNDUwMy1hZmQ0LTY5MmRiMjE2ZTQxMlwvZGF6cjdsbC0wZGYzNDZlNi0yNzJmLTQ2MTEtYWM1Mi0zNjA2YzZmZDc0YzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PDQzcdMXq9QAusA94vDr9yPEaXhBfD19Jwe-Eq-P4ks' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox logo (2009-2020) Sky Background by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0da5bdc-8ec8-41f3-8b63-35935218a075/dig5oow-619ad99e-52db-4c47-aef4-1cf6b4247652.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwZGE1YmRjLThlYzgtNDFmMy04YjYzLTM1OTM1MjE4YTA3NVwvZGlnNW9vdy02MTlhZDk5ZS01MmRiLTRjNDctYWVmNC0xY2Y2YjQyNDc2NTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9AQw_gqrCOubqXnEbfrplPtIiQ6MERx4EuVm1F0gw2Q' alt='20th Century Fox logo (2009-2020) Sky Background by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0da5bdc-8ec8-41f3-8b63-35935218a075/dig5oow-619ad99e-52db-4c47-aef4-1cf6b4247652.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwZGE1YmRjLThlYzgtNDFmMy04YjYzLTM1OTM1MjE4YTA3NVwvZGlnNW9vdy02MTlhZDk5ZS01MmRiLTRjNDctYWVmNC0xY2Y2YjQyNDc2NTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9AQw_gqrCOubqXnEbfrplPtIiQ6MERx4EuVm1F0gw2Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic 20th Century Fox 1994 Background P3D by PuCCaFL on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/904c4bb2-4330-4391-b216-be4c78c72f73/ddsu8mg-c2f6ec79-a85e-406d-a0ee-7eeb56641613.png/v1/fill/w_1280,h_800,q_80,strp/realistic_20th_century_fox_1994_background_p3d_by_puccafl_ddsu8mg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvOTA0YzRiYjItNDMzMC00MzkxLWIyMTYtYmU0Yzc4YzcyZjczXC9kZHN1OG1nLWMyZjZlYzc5LWE4NWUtNDA2ZC1hMGVlLTdlZWI1NjY0MTYxMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JoWJ15uC-ezwAb1q2l4P9F9Ajb2sQz8C5NnZC6XpxnI' alt='Realistic 20th Century Fox 1994 Background P3D by PuCCaFL on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/904c4bb2-4330-4391-b216-be4c78c72f73/ddsu8mg-c2f6ec79-a85e-406d-a0ee-7eeb56641613.png/v1/fill/w_1280,h_800,q_80,strp/realistic_20th_century_fox_1994_background_p3d_by_puccafl_ddsu8mg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvOTA0YzRiYjItNDMzMC00MzkxLWIyMTYtYmU0Yzc4YzcyZjczXC9kZHN1OG1nLWMyZjZlYzc5LWE4NWUtNDA2ZC1hMGVlLTdlZWI1NjY0MTYxMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JoWJ15uC-ezwAb1q2l4P9F9Ajb2sQz8C5NnZC6XpxnI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox (WSVHS) sky background by TCDLonDeviantArt on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40965629-e974-4fe4-b318-0af0fed59ccb/dep4vau-bd53f82c-45ff-4015-aaad-3c436c5aad59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOTY1NjI5LWU5NzQtNGZlNC1iMzE4LTBhZjBmZWQ1OWNjYlwvZGVwNHZhdS1iZDUzZjgyYy00NWZmLTQwMTUtYWFhZC0zYzQzNmM1YWFkNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xP20d94TLfmhYlHeRz_SKrumOLJ6s5-rLXM-A2g8Prg' alt='20th Century Fox (WSVHS) sky background by TCDLonDeviantArt on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40965629-e974-4fe4-b318-0af0fed59ccb/dep4vau-bd53f82c-45ff-4015-aaad-3c436c5aad59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOTY1NjI5LWU5NzQtNGZlNC1iMzE4LTBhZjBmZWQ1OWNjYlwvZGVwNHZhdS1iZDUzZjgyYy00NWZmLTQwMTUtYWFhZC0zYzQzNmM1YWFkNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xP20d94TLfmhYlHeRz_SKrumOLJ6s5-rLXM-A2g8Prg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Studios/On Screen-Logos | Closing Logo Group | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/b/ba/20th_Century_Fox_2009-2013_logo.png/revision/latest?cb=20210406175630' alt='20th Century Studios/On Screen-Logos | Closing Logo Group | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Closing Logo Group - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/b/ba/20th_Century_Fox_2009-2013_logo.png/revision/latest?cb=20210406175630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Studios (2021-) sky background v2 by AmazingCleos on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af720ba8-8609-4e86-a004-dfc7cc69a490/dgdvbbl-9855531d-537f-438d-8086-44de738d1753.jpg/v1/fill/w_1148,h_598,q_75,strp/20th_century_studios__2021___sky_background_v2_by_amazingcleos_dgdvbbl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk4IiwicGF0aCI6IlwvZlwvYWY3MjBiYTgtODYwOS00ZTg2LWEwMDQtZGZjN2NjNjlhNDkwXC9kZ2R2YmJsLTk4NTU1MzFkLTUzN2YtNDM4ZC04MDg2LTQ0ZGU3MzhkMTc1My5qcGciLCJ3aWR0aCI6Ijw9MTE0OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XsNpBZV36uJiqCNLFfKl0OhIznoJNF1iAYWVdYmqfwk' alt='20th Century Studios (2021-) sky background v2 by AmazingCleos on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af720ba8-8609-4e86-a004-dfc7cc69a490/dgdvbbl-9855531d-537f-438d-8086-44de738d1753.jpg/v1/fill/w_1148,h_598,q_75,strp/20th_century_studios__2021___sky_background_v2_by_amazingcleos_dgdvbbl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk4IiwicGF0aCI6IlwvZlwvYWY3MjBiYTgtODYwOS00ZTg2LWEwMDQtZGZjN2NjNjlhNDkwXC9kZ2R2YmJsLTk4NTU1MzFkLTUzN2YtNDM4ZC04MDg2LTQ0ZGU3MzhkMTc1My5qcGciLCJ3aWR0aCI6Ijw9MTE0OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XsNpBZV36uJiqCNLFfKl0OhIznoJNF1iAYWVdYmqfwk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox by Wazup159 Sky Background by AmazingCleos on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af720ba8-8609-4e86-a004-dfc7cc69a490/dggvdyv-c01e2ba8-1b8a-4527-bc63-6a22e031f041.png/v1/fill/w_1280,h_511,q_80,strp/20th_century_fox_by_wazup159_sky_background_by_amazingcleos_dggvdyv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTExIiwicGF0aCI6IlwvZlwvYWY3MjBiYTgtODYwOS00ZTg2LWEwMDQtZGZjN2NjNjlhNDkwXC9kZ2d2ZHl2LWMwMWUyYmE4LTFiOGEtNDUyNy1iYzYzLTZhMjJlMDMxZjA0MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UGtkFwq49lMx_ByNIQ_TIc1fBmcuKQp2KaR3BkaSkog' alt='20th Century Fox by Wazup159 Sky Background by AmazingCleos on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af720ba8-8609-4e86-a004-dfc7cc69a490/dggvdyv-c01e2ba8-1b8a-4527-bc63-6a22e031f041.png/v1/fill/w_1280,h_511,q_80,strp/20th_century_fox_by_wazup159_sky_background_by_amazingcleos_dggvdyv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTExIiwicGF0aCI6IlwvZlwvYWY3MjBiYTgtODYwOS00ZTg2LWEwMDQtZGZjN2NjNjlhNDkwXC9kZ2d2ZHl2LWMwMWUyYmE4LTFiOGEtNDUyNy1iYzYzLTZhMjJlMDMxZjA0MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UGtkFwq49lMx_ByNIQ_TIc1fBmcuKQp2KaR3BkaSkog' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20th Century Fox Dre4mw4lker Sky Background by Lincoln2012 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4765734-b5f1-406e-b210-003bdc9e13c5/dfk2p6y-4106438b-718f-4183-87d5-25bf815c3555.jpg/v1/fill/w_1280,h_905,q_75,strp/20th_century_fox_dre4mw4lker_sky_background_by_lincoln2012_dfk2p6y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvYjQ3NjU3MzQtYjVmMS00MDZlLWIyMTAtMDAzYmRjOWUxM2M1XC9kZmsycDZ5LTQxMDY0MzhiLTcxOGYtNDE4My04N2Q1LTI1YmY4MTVjMzU1NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.S8LdZAq1ng8bRLspktAWhXr8NQd4Jg-R0--qXrCnoCw' alt='20th Century Fox Dre4mw4lker Sky Background by Lincoln2012 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4765734-b5f1-406e-b210-003bdc9e13c5/dfk2p6y-4106438b-718f-4183-87d5-25bf815c3555.jpg/v1/fill/w_1280,h_905,q_75,strp/20th_century_fox_dre4mw4lker_sky_background_by_lincoln2012_dfk2p6y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvYjQ3NjU3MzQtYjVmMS00MDZlLWIyMTAtMDAzYmRjOWUxM2M1XC9kZmsycDZ5LTQxMDY0MzhiLTcxOGYtNDE4My04N2Q1LTI1YmY4MTVjMzU1NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.S8LdZAq1ng8bRLspktAWhXr8NQd4Jg-R0--qXrCnoCw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper engine as 20th century fox">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ULkQeIcB_PpTSmhvw9LoyxYTZHIsxNsTfY7QX7WS_tc.png?format=pjpg&auto=webp&s=a754aa0b7bff96e0ac9efbaa0bac1917bd7ee283' alt='Wallpaper engine as 20th century fox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ULkQeIcB_PpTSmhvw9LoyxYTZHIsxNsTfY7QX7WS_tc.png?format=pjpg&auto=webp&s=a754aa0b7bff96e0ac9efbaa0bac1917bd7ee283' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

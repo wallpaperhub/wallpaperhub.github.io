@@ -1,0 +1,129 @@
+<title>Spring Wallpapers for Your Tumblr Aesthetic</title>
+                    <meta name="description" content="Discover vibrant Tumblr spring wallpapers that bring the beauty of the season to your screen. Refresh your device with stunning floral designs and pastel colors, perfect for any spring enthusiast. Embrace the joy of springtime with wallpapers that inspire and uplift!">
+                    <meta name="keywords" content="tumblr spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/tumblr-spring-wallpaper">
+                            <span itemprop="name">tumblr spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Wallpapers for Your Tumblr Aesthetic</h1>
+                <p>Tumblr spring wallpaper captures the essence of renewal and vibrancy as nature awakens. Featuring pastel hues, blooming flowers, and lush greenery, these wallpapers breathe life into screens. Ideal for those wanting to refresh their device aesthetics, they evoke feelings of warmth and happiness, making every glance a reminder of spring's beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e2/94/43/e29443832c37cf20ae15d467784f9de7.jpg' alt='spring | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e2/94/43/e29443832c37cf20ae15d467784f9de7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tumblr-Spring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/da/4d/55/da4d55a4063511a424e0eec514fc381c.jpg' alt='tumblr-Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/da/4d/55/da4d55a4063511a424e0eec514fc381c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Like or reblog if you save, sweetheart x – @ehlockscreens on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/acb94659f2e5e718dbe02c119ebbaa0f/tumblr_p683ev2Cq31vr4hkto3_1280.pnj' alt='Like or reblog if you save, sweetheart x – @ehlockscreens on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/acb94659f2e5e718dbe02c119ebbaa0f/tumblr_p683ev2Cq31vr4hkto3_1280.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPERS PRIMAVERA/ SPRING | DÊ LIKE! – @fire-miracle on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/aa6f5159ffa0f142d584b775c32101a4/tumblr_poj7j8oMkL1upcvga_640.jpg' alt='WALLPAPERS PRIMAVERA/ SPRING | DÊ LIKE! – @fire-miracle on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/aa6f5159ffa0f142d584b775c32101a4/tumblr_poj7j8oMkL1upcvga_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Stunning Spring Wallpapers For iPhone Lock Screens">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/ab/68/0aab688a39d0d4a970376efb492b5253.jpg' alt='50+ Stunning Spring Wallpapers For iPhone Lock Screens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/ab/68/0aab688a39d0d4a970376efb492b5253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Like or reblog if you save, sweetheart x – @ehlockscreens on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8ed247879ba65a12ea53093deb2dd962/tumblr_p683ev2Cq31vr4hkto1_1280.pnj' alt='Like or reblog if you save, sweetheart x – @ehlockscreens on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8ed247879ba65a12ea53093deb2dd962/tumblr_p683ev2Cq31vr4hkto1_1280.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Aesthetic Colorful Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/april-spring-aesthetic-q110nymfvrpon2sl.webp' alt='Spring Aesthetic Colorful Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/april-spring-aesthetic-q110nymfvrpon2sl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-spring-rmc6smy2g5eysi7j.jpg' alt='100+] Aesthetic Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-spring-rmc6smy2g5eysi7j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Aesthetic    – @some-aesthetic-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d0654684cf537b7ca78dac6615864e20/tumblr_p6i9wd0vjC1xnych8o1_640.jpg' alt='Spring Aesthetic    – @some-aesthetic-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d0654684cf537b7ca78dac6615864e20/tumblr_p6i9wd0vjC1xnych8o1_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy the beauty of spring with Aesthetic Spring ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-spring-t76cylorkouyzhxw.jpg' alt='Download Enjoy the beauty of spring with Aesthetic Spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-spring-t76cylorkouyzhxw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

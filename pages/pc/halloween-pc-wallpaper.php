@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween PC Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover the perfect Halloween PC wallpapers to transform your desktop! Choose from a variety of spooky and festive designs that capture the spirit of the season. With our collection, you can bring the haunting atmosphere to your screen while celebrating Halloween in style!">
+                    <meta name="keywords" content="halloween pc wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/halloween-pc-wallpaper">
+                            <span itemprop="name">halloween pc wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween PC Wallpapers for Your Desktop</h1>
+                <p>Enhance your Halloween spirit with stunning PC wallpapers! From spooky pumpkins to eerie haunted houses, our collection offers a variety of eye-catching designs perfect for celebrating the season. Transform your workspace into a Halloween haven with vibrant colors and themes that encapsulate the spooky essence of this festive time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easily my favorite Halloween wallpaper. : r/halloween">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/uGYZK_3zdoYDqubzr-8C9yq47RR-E3mhoCH7pb2hXLQ.jpg?auto=webp&s=f037d02bce1ebab48bd1df63955342138d13fa7e' alt='Easily my favorite Halloween wallpaper. : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/uGYZK_3zdoYDqubzr-8C9yq47RR-E3mhoCH7pb2hXLQ.jpg?auto=webp&s=f037d02bce1ebab48bd1df63955342138d13fa7e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is in my opinion the best Halloween wallpaper that exists ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-in-my-opinion-the-best-halloween-wallpaper-that-v0-l3dez8uvldqb1.jpg?auto=webp&s=91824a4af93c6ef346c99a58d4fa8e593646eff5' alt='This is in my opinion the best Halloween wallpaper that exists ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-in-my-opinion-the-best-halloween-wallpaper-that-v0-l3dez8uvldqb1.jpg?auto=webp&s=91824a4af93c6ef346c99a58d4fa8e593646eff5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpapers To Make Your Phone Spooky - Page 1 of 4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/37/07/1937076824034848bc809e7d90f4fff4.jpg' alt='Halloween Wallpapers To Make Your Phone Spooky - Page 1 of 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/37/07/1937076824034848bc809e7d90f4fff4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted Halloween Vibes: High-quality Desktop Wallpaper Instant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42876221/r/il/55b904/5090144994/il_fullxfull.5090144994_lzuw.jpg' alt='Haunted Halloween Vibes: High-quality Desktop Wallpaper Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42876221/r/il/55b904/5090144994/il_fullxfull.5090144994_lzuw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Desktop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/91/a5/1791a54e65b3b2e26d57c726d2851aaf.jpg' alt='Cute Halloween Desktop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/91/a5/1791a54e65b3b2e26d57c726d2851aaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanting Halloween Night HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/186/thumb-1920-186301.jpg' alt='Enchanting Halloween Night HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/186/thumb-1920-186301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Cute Pumpkin Halloween Wallpaper FULL HD 1920×1080 For PC ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/9d/ea/8d9deada03e06375e635937f47c7db9c.jpg' alt='10 Top Cute Pumpkin Halloween Wallpaper FULL HD 1920×1080 For PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/9d/ea/8d9deada03e06375e635937f47c7db9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween themed wallpaper pumpkins bats moons and spider webs for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/halloween-themed-wallpaper-pumpkins-bats-moons-spider-webs-spooky-vibe_1131585-5623.jpg' alt='Halloween themed wallpaper pumpkins bats moons and spider webs for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/halloween-themed-wallpaper-pumpkins-bats-moons-spider-webs-spooky-vibe_1131585-5623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Halloween Aesthetic Pc Scary Pumpkins Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-aesthetic-pc-el0hs2yn8jbp6glm.jpg' alt='Download Halloween Aesthetic Pc Scary Pumpkins Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-aesthetic-pc-el0hs2yn8jbp6glm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

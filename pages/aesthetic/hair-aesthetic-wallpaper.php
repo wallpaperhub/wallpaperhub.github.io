@@ -1,0 +1,129 @@
+<title>Stunning Hair Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover unique hair aesthetic wallpaper that enhances your decor! Perfect for salons or personal spaces, our vibrant designs celebrate hairstyles and colors, inspiring creativity. Revamp your environment with stylish wallpapers that reflect your personality and love for beauty!">
+                    <meta name="keywords" content="hair aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/hair-aesthetic-wallpaper">
+                            <span itemprop="name">hair aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hair Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with hair aesthetic wallpaper that breathes life into any room! Featuring vibrant colors and intricate designs, these wallpapers showcase various hairstyles, hair colors, and textures. Perfect for a beauty salon or a stylish home, they add a personal touch and inspire creativity and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman With Flower Hair Aesthetic Sketches Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/woman-with-flower-hair-aesthetic-sketches-4xoji3sjjfsg0mvp.jpg' alt='Woman With Flower Hair Aesthetic Sketches Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/woman-with-flower-hair-aesthetic-sketches-4xoji3sjjfsg0mvp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Floral braids mobile wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/d3/2e/d1d32e90e68c29196a3c2d6208da2e9e.jpg' alt='Download premium vector of Floral braids mobile wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/d3/2e/d1d32e90e68c29196a3c2d6208da2e9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Girl Tying Hair Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-girl-tying-hair-khtpu5lj9argj8et.jpg' alt='Aesthetic Girl Tying Hair Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-girl-tying-hair-khtpu5lj9argj8et.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Hair aesthetic wallpapers ideas | salon wallpaper, hair salon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e4/41/99/e441991428090f8b62308d4db8b04c1f.jpg' alt='7 Hair aesthetic wallpapers ideas | salon wallpaper, hair salon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e4/41/99/e441991428090f8b62308d4db8b04c1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Drawing Curly Haired Girl Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-drawing-curly-haired-girl-syfde7t3ttj4nc00.jpg' alt='Download Aesthetic Drawing Curly Haired Girl Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-drawing-curly-haired-girl-syfde7t3ttj4nc00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Aesthetic Woman With Curly Hair Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/yellow-aesthetic-woman-with-curly-hair-jt8mecite50384f7.jpg' alt='Yellow Aesthetic Woman With Curly Hair Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/yellow-aesthetic-woman-with-curly-hair-jt8mecite50384f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avyna Hairstylist wallpaper | Hair keratin logo, Hair salon logos ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/05/a0/b205a007bd97e5ce378e77ba525a8de4.jpg' alt='Avyna Hairstylist wallpaper | Hair keratin logo, Hair salon logos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/05/a0/b205a007bd97e5ce378e77ba525a8de4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MENTAHAN COVER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/31/3b/ea313b0b6783c75861336557828c807e.jpg' alt='MENTAHAN COVER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/31/3b/ea313b0b6783c75861336557828c807e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, blonde, hair, people, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/623/383/HD-wallpaper-aesthetic-blonde-hair-people.jpg' alt='Aesthetic, blonde, hair, people, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/623/383/HD-wallpaper-aesthetic-blonde-hair-people.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Aesthetic floral background, feminine braids ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/aesthetic-floral-background-feminine-braids-hairstyle-vector_53876-157735.jpg' alt='Free Vector | Aesthetic floral background, feminine braids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/aesthetic-floral-background-feminine-braids-hairstyle-vector_53876-157735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning WVU iPhone Wallpapers for Every Mountaineer</title>
+                    <meta name="description" content="Discover the best WVU iPhone wallpapers to show your Mountaineer pride! Easy to download and perfect for any WVU fan, our vibrant designs will elevate your phone's aesthetic. Explore now for unique wallpapers that celebrate your love for West Virginia University!">
+                    <meta name="keywords" content="wvu iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wvu-iphone-wallpaper">
+                            <span itemprop="name">wvu iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning WVU iPhone Wallpapers for Every Mountaineer</h1>
+                <p>Transform your iPhone with stunning West Virginia University (WVU) wallpapers! Showcase your love for the Mountaineers with vibrant designs featuring the iconic school colors and logos. Perfect for any student or alumni, these wallpapers will bring a touch of WVU spirit to your everyday life. Explore a world of creativity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - West Virginia Athletics">
+                                <img itemprop="contentUrl url" src='http://66.118.64.36/content/images/Wallpaper/FB2016phone.jpg' alt='Wallpaper - West Virginia Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="West Virginia University Mountaineers - WVUsports.com" />
+                                </span>
+                                <a href='http://66.118.64.36/content/images/Wallpaper/FB2016phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/00/39/e70039cbb035ed2e7a320a0ed01b0968.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/00/39/e70039cbb035ed2e7a320a0ed01b0968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 West Virginia Phone Wallpapers ideas | west virginia, virginia ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/63/04/63/630463f3bbd9324acff6e506c7cca4ee.jpg' alt='36 West Virginia Phone Wallpapers ideas | west virginia, virginia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/63/04/63/630463f3bbd9324acff6e506c7cca4ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia Football on X: "Wallpaper Wednesday      Black ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FdLxauwWYAAn8bY.jpg:large' alt='West Virginia Football on X: "Wallpaper Wednesday      Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FdLxauwWYAAn8bY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WVU Wallpaper | mountaineers, west virginia university, wvu … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/8359/8296552499_2ca5689ca7_b.jpg' alt='WVU Wallpaper | mountaineers, west virginia university, wvu … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/8359/8296552499_2ca5689ca7_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mountaineers roar with WVU Pride Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/west-virginia-football-68x6f3s11bq4pla2.jpg' alt='Download Mountaineers roar with WVU Pride Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/west-virginia-football-68x6f3s11bq4pla2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia, football, mountaineers, ncaa, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/930/421/HD-wallpaper-west-virginia-football-mountaineers-ncaa.jpg' alt='West Virginia, football, mountaineers, ncaa, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/930/421/HD-wallpaper-west-virginia-football-mountaineers-ncaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WVU Wallpaper | mountaineers, west virginia university, wvu … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/8503/8297606160_6d6ecd338b_b.jpg' alt='WVU Wallpaper | mountaineers, west virginia university, wvu … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/8503/8297606160_6d6ecd338b_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virginia">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/c8/ca/6fc8ca1f452aaf7e87b54aa4279545fd.jpg' alt='West Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/c8/ca/6fc8ca1f452aaf7e87b54aa4279545fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="West Virgina Camo, mountaineers, wvu, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/99/1004/HD-wallpaper-west-virgina-camo-mountaineers-wvu.jpg' alt='West Virgina Camo, mountaineers, wvu, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/99/1004/HD-wallpaper-west-virgina-camo-mountaineers-wvu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

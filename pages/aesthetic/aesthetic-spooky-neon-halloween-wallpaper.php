@@ -1,0 +1,129 @@
+<title>Vibrant Spooky Neon Halloween Wallpaper for a Stylish Haunted Vibe</title>
+                    <meta name="description" content="Discover our spooky neon Halloween wallpaper that elevates your decor with bold colors and eerie designs. Perfect for creating a festive atmosphere, this wallpaper is ideal for Halloween parties or year-round haunted vibes. Style your space with a touch of fun and fear this season!">
+                    <meta name="keywords" content="aesthetic spooky neon halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-spooky-neon-halloween-wallpaper">
+                            <span itemprop="name">aesthetic spooky neon halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Spooky Neon Halloween Wallpaper for a Stylish Haunted Vibe</h1>
+                <p>Transform your space with our aesthetic spooky neon Halloween wallpaper. Featuring vibrant colors and haunting designs, these wallpapers add a unique twist to your spooky season decor. Perfect for parties or simply embracing the Halloween spirit, each pattern captures the essence of the season while staying stylish and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boo Neon Halloween Spooky Season Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/18/76/07/187607d79d3c5c31edee323635ef1a27.jpg' alt='Boo Neon Halloween Spooky Season Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/18/76/07/187607d79d3c5c31edee323635ef1a27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-halloween-mfdm7fg9nlami0tf.jpg' alt='100+] Neon Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-halloween-mfdm7fg9nlami0tf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Halloween Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/halloween-pumpkin-illustration_23-2151838945.jpg?semt=ais_hybrid' alt='Neon Halloween Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/halloween-pumpkin-illustration_23-2151838945.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/43/d8/96/43d896cbd9dd01724cefa5a4702c20e9.jpg' alt='Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/43/d8/96/43d896cbd9dd01724cefa5a4702c20e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Neon Images – Browse 122,841 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/95/26/69/360_F_295266911_GbhxE6j2nfsYnbhWZ61QAMSPfCBBmAmt.jpg' alt='Halloween Neon Images – Browse 122,841 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/95/26/69/360_F_295266911_GbhxE6j2nfsYnbhWZ61QAMSPfCBBmAmt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Preppy Halloween Wallpaper Ideas : Ghosts & Stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/60/ed/de60ed2fc41e342013573eb4c2eb2441.jpg' alt='20+ Preppy Halloween Wallpaper Ideas : Ghosts & Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/60/ed/de60ed2fc41e342013573eb4c2eb2441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate Halloween in Neon Style Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-halloween-dj3r4luum1ctvbam.jpg' alt='Download Celebrate Halloween in Neon Style Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-halloween-dj3r4luum1ctvbam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Halloween Wallpaper | Halloween wallpaper iphone, Cute fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9e/ed/05/9eed0509cb6632cba7226d45e6a7506e.jpg' alt='Neon Halloween Wallpaper | Halloween wallpaper iphone, Cute fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9e/ed/05/9eed0509cb6632cba7226d45e6a7506e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Neon Images – Browse 122,841 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/25/06/86/360_F_325068670_zmqmXGrPPvgppMIDBxoVBN3hUdR9tbfj.jpg' alt='Halloween Neon Images – Browse 122,841 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/25/06/86/360_F_325068670_zmqmXGrPPvgppMIDBxoVBN3hUdR9tbfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Halloween Party Sign Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-halloween-0zic0krgsiiwv2wk.jpg' alt='Download Neon Halloween Party Sign Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-halloween-0zic0krgsiiwv2wk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

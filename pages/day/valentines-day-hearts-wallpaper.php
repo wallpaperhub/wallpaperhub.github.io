@@ -1,0 +1,129 @@
+<title>Valentine's Day Hearts Wallpaper: Perfect Love Backgrounds</title>
+                    <meta name="description" content="Discover the perfect Valentine's Day hearts wallpaper to express your love! Explore a variety of romantic designs that will elevate your device's look. Perfect for setting the mood and sharing love this season. Download now for an instant heartwarming touch!">
+                    <meta name="keywords" content="valentines day hearts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/valentines-day-hearts-wallpaper">
+                            <span itemprop="name">valentines day hearts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Valentine's Day Hearts Wallpaper: Perfect Love Backgrounds</h1>
+                <p>Celebrate love this Valentine's Day with our stunning hearts wallpaper! Transform your device's background into a romantic haven adorned with beautiful heart designs. Whether you prefer vibrant colors, delicate patterns, or a minimalist look, find the perfect wallpaper to express your feelings. Spread love and joy with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Wallpaper Download | Club Crafted">
+                                <img itemprop="contentUrl url" src='https://www.clubcrafted.com/wp-content/uploads/2020/02/pink-red-conversation-hearts-wallpaper.jpg' alt='Valentine's Day Wallpaper Download | Club Crafted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Club Crafted" />
+                                </span>
+                                <a href='https://www.clubcrafted.com/wp-content/uploads/2020/02/pink-red-conversation-hearts-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View source image">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/15/e2/0015e2cf62f6e8f4106141e413a7b626.jpg' alt='View source image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/15/e2/0015e2cf62f6e8f4106141e413a7b626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Backdrops | Phoenix lifestyle | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2015/03/valentines-day-phone-wallpaper-background-heart-rows.png' alt='Valentine's Day Backdrops | Phoenix lifestyle | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2015/03/valentines-day-phone-wallpaper-background-heart-rows.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable valentine wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' alt='Free and customizable valentine wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine Wallpaper" Images – Browse 4,605 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/24/71/31/360_F_624713131_UF2AIZ8XUpSo4HP6LX3fyrbgwKv6oy99.jpg' alt='Valentine Wallpaper" Images – Browse 4,605 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/24/71/31/360_F_624713131_UF2AIZ8XUpSo4HP6LX3fyrbgwKv6oy99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Beautiful Valentines Day Wallpapers for your desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/5d/c2/a15dc2f4096d0b09181d40c3be1830e3.jpg' alt='30 Beautiful Valentines Day Wallpapers for your desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/5d/c2/a15dc2f4096d0b09181d40c3be1830e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable valentine wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEUf1ZOyzE/1/0/1600w/canva-pink-and-red-powerful-femme-personal-pattern-valentine%27s-day-desktop-wallpaper-vyLmDobNXOc.jpg' alt='Free and customizable valentine wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEUf1ZOyzE/1/0/1600w/canva-pink-and-red-powerful-femme-personal-pattern-valentine%27s-day-desktop-wallpaper-vyLmDobNXOc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentines day wallpaper with red romantic hearts | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/valentines-day-wallpaper-with-red-romantic-hearts_636537-154578.jpg' alt='Valentines day wallpaper with red romantic hearts | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/valentines-day-wallpaper-with-red-romantic-hearts_636537-154578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts Pattern For Valentine's Day Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/red-hearts-pattern-for-valentine-s-day-ki9yan36jxaecwq8.jpg' alt='Red Hearts Pattern For Valentine's Day Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/red-hearts-pattern-for-valentine-s-day-ki9yan36jxaecwq8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Valentine's Day Wallpaper Digital Download Sparkling Red Hearts,  Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31650537/r/il/be9ff2/5694946687/il_570xN.5694946687_2pel.jpg' alt='IPhone Valentine's Day Wallpaper Digital Download Sparkling Red Hearts,  Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31650537/r/il/be9ff2/5694946687/il_570xN.5694946687_2pel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

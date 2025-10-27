@@ -1,0 +1,129 @@
+<title>Exploring The Incredibles' World: A Superhero Family Saga</title>
+                    <meta name="description" content="Discover the fascinating background of The Incredibles, Pixar's iconic superhero family. Explore the themes of identity, heroism, and family dynamics in a vibrant world filled with unique characters. Learn how this animated classic redefined the superhero genre for audiences around the globe.">
+                    <meta name="keywords" content="incredibles background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/incredibles-background">
+                            <span itemprop="name">incredibles background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring The Incredibles' World: A Superhero Family Saga</h1>
+                <p>The Incredibles, produced by Pixar Animation Studios, features a world where superheroes strive for normalcy amidst societal challenges. Set in the fictional Metroville, the film explores themes of family, identity, and heroism. Each character, from Mr. Incredible to Elastigirl, navigates their unique powers and responsibilities while grappling with what it means to be extraordinary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Incredibles 2 Photo Backdrop">
+                                <img itemprop="contentUrl url" src='https://albabackgrounds.com/cdn/shop/files/the-incredibles-2-photo-backdrop-animated-cartoon-photo-booth-prop-birthday-costume-party-event-dance-halloween-decor-be-a-super-hero-pro-10ft-w-x-8ft-h-w-o-floor-31799572398271_d60f9b2f-7c33-431f-b6b3-0fd0da9f7d63.jpg?v=1738773399&width=1445' alt='The Incredibles 2 Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alba Backgrounds" />
+                                </span>
+                                <a href='https://albabackgrounds.com/cdn/shop/files/the-incredibles-2-photo-backdrop-animated-cartoon-photo-booth-prop-birthday-costume-party-event-dance-halloween-decor-be-a-super-hero-pro-10ft-w-x-8ft-h-w-o-floor-31799572398271_d60f9b2f-7c33-431f-b6b3-0fd0da9f7d63.jpg?v=1738773399&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Incredibles Wallpapers (28 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/4/4/166403-2560x1440-desktop-hd-the-incredibles-background-image.jpg' alt='The Incredibles Wallpapers (28 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/4/4/166403-2560x1440-desktop-hd-the-incredibles-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Violet Parr Mr. Incredible Jack Jack Parr Helen Parr ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/112/1123642.jpg' alt='Download Violet Parr Mr. Incredible Jack Jack Parr Helen Parr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/112/1123642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixar Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/a5/b2/6da5b2f31dd1a09b3f0165539e4da65f.jpg' alt='Pixar Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/a5/b2/6da5b2f31dd1a09b3f0165539e4da65f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Incredibles 2 Superpower Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-incredibles-2-superpower-9jw7hj8f7rpbdiob.jpg' alt='The Incredibles 2 Superpower Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-incredibles-2-superpower-9jw7hj8f7rpbdiob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Graphic Art of Incredibles 2 — Josh Holtsclaw">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57d4cbcb9f7456b185ce057b/1541709405280-1Z92GDMLS9BM5KN3B945/2.jpg' alt='The Graphic Art of Incredibles 2 — Josh Holtsclaw'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2374">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Josh Holtsclaw" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57d4cbcb9f7456b185ce057b/1541709405280-1Z92GDMLS9BM5KN3B945/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Incredibles Backdrop Birthday Party Photo Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71+57ja0IjL.jpg' alt='Amazon.com : Incredibles Backdrop Birthday Party Photo Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71+57ja0IjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Logo Pixar Movie The Incredibles HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/119/1197050.jpg' alt='Download Logo Pixar Movie The Incredibles HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/119/1197050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Incredibles 2 | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Incredibles-2-Deluxe-Living-area-5.jpg' alt='Incredibles 2 | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Incredibles-2-Deluxe-Living-area-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Incredibles Birthday Party Backdrop Photo Background 7x5 High City ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71zs7i03a2L.jpg' alt='Incredibles Birthday Party Backdrop Photo Background 7x5 High City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71zs7i03a2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

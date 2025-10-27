@@ -1,0 +1,129 @@
+<title>Vibrant Purple Swirl Wallpaper: Style Your Space</title>
+                    <meta name="description" content="Add a touch of elegance to your interiors with our purple swirl wallpaper. Its striking design brings a unique flair to any room, perfect for creating a stunning focal point or a complete makeover. Easy to apply and versatile, this wallpaper is ideal for anyone looking to elevate their home decor effortlessly.">
+                    <meta name="keywords" content="purple swirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-swirl-wallpaper">
+                            <span itemprop="name">purple swirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Swirl Wallpaper: Style Your Space</h1>
+                <p>Transform your space with purple swirl wallpaper, a perfect blend of elegance and creativity. The vibrant hues and dynamic patterns add a sense of movement, making it ideal for modern or eclectic environments. Perfect for feature walls or entire rooms, this wallpaper enhances any decor, offering a stylish backdrop for your interior design dreams.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Swirl Images – Browse 820,199 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/39/96/25/360_F_639962510_4I1y8oDFSaqJ6JDGAAFuhA2u2uZwbeF8.jpg' alt='Purple Swirl Images – Browse 820,199 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/39/96/25/360_F_639962510_4I1y8oDFSaqJ6JDGAAFuhA2u2uZwbeF8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Swirl Images – Browse 820,199 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/67/71/16/360_F_867711650_5kRcn9shpa3ICFU6fQuxggXF2CWK1xCe.jpg' alt='Purple Swirl Images – Browse 820,199 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/67/71/16/360_F_867711650_5kRcn9shpa3ICFU6fQuxggXF2CWK1xCe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Swirl Background Image, Wallpaper or Texture free for any ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/38/a8/e838a8ebea968b2a72a1d3549308b73e.jpg' alt='Purple Swirl Background Image, Wallpaper or Texture free for any ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/38/a8/e838a8ebea968b2a72a1d3549308b73e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Gradient purple swirl background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-purple-swirl-background_23-2149939324.jpg' alt='Free Vector | Gradient purple swirl background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-purple-swirl-background_23-2149939324.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Purple Swirls Aesthetic Decor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/2b/97/f52b97d1a44389c0b444603aaf1ca154.jpg' alt='Magic Purple Swirls Aesthetic Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/2b/97/f52b97d1a44389c0b444603aaf1ca154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Swirl by TNT10128">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/125/1254590.jpg' alt='Purple Swirl by TNT10128'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/125/1254590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Swirl Background Stock Illustrations – 105,903 Purple Swirl ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/purple-swirl-background-wallpaper-abstract-43137125.jpg' alt='Purple Swirl Background Stock Illustrations – 105,903 Purple Swirl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/purple-swirl-background-wallpaper-abstract-43137125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Purple swirl background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/purple-swirl-background_23-2149902490.jpg' alt='Free Vector | Purple swirl background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/purple-swirl-background_23-2149902490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Swirl Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-purple-swirl-iphone-015epe27x4ht29p9.jpg' alt='Plain Purple Swirl Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-purple-swirl-iphone-015epe27x4ht29p9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple swirl wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/194/12/HD-wallpaper-purple-haze-colours-swirl.jpg' alt='HD purple swirl wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/194/12/HD-wallpaper-purple-haze-colours-swirl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

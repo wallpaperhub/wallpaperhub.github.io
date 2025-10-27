@@ -1,0 +1,129 @@
+<title>Stunning God Lock Screen Wallpapers for Divine Inspiration</title>
+                    <meta name="description" content="Explore our collection of captivating God lock screen wallpapers that bring a sense of peace and inspiration to your device. Perfect for spirituality enthusiasts, these images are designed to uplift your spirits and create a serene atmosphere. Transform your lock screen today!">
+                    <meta name="keywords" content="god lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/god-lock-screen-wallpaper">
+                            <span itemprop="name">god lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning God Lock Screen Wallpapers for Divine Inspiration</h1>
+                <p>God lock screen wallpapers infuse your device with a divine touch. These stunning images capture the essence of spirituality, from serene landscapes to powerful deities. Whether you seek inspiration or tranquility, a god lock screen wallpaper can transform your device into a haven of peace and reflection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens - YMI">
+                                <img itemprop="contentUrl url" src='https://ymi.today/wp-content/uploads/2022/01/02-Feb-22-Lockscreen.jpg' alt='Lockscreens - YMI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YMI" />
+                                </span>
+                                <a href='https://ymi.today/wp-content/uploads/2022/01/02-Feb-22-Lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Lock Screen Wallpapers - Freebie Friday - Ashley Eddleman ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/02/EC4F34B8-A6F9-47F5-B908-D8C9F2B702A2.png?resize=828%2C1792&ssl=1' alt='Love Lock Screen Wallpapers - Freebie Friday - Ashley Eddleman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashley Eddleman" />
+                                </span>
+                                <a href='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/02/EC4F34B8-A6F9-47F5-B908-D8C9F2B702A2.png?resize=828%2C1792&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone lock screen Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2015/10/In-all-things-trust-God-mobile.png' alt='iphone lock screen Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2015/10/In-all-things-trust-God-mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper!!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/91/ef/2d91ef3cf0cb081625433747f456a215.jpg' alt='Wallpaper!!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/91/ef/2d91ef3cf0cb081625433747f456a215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone lock screen wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2015/01/Forever-faithful.png' alt='iphone lock screen wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2015/01/Forever-faithful.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screens | Hosanna Revival">
+                                <img itemprop="contentUrl url" src='https://hosannarevival.com/cdn/shop/articles/Eternity-in-Our-Hearts-Hosanna-Revival-Lock-Screen--04_1080x.png?v=1692898356' alt='Lock Screens | Hosanna Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://hosannarevival.com/cdn/shop/articles/Eternity-in-Our-Hearts-Hosanna-Revival-Lock-Screen--04_1080x.png?v=1692898356' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/97/ba/f897ba3901882687a814b9fde62d8f8d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/97/ba/f897ba3901882687a814b9fde62d8f8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screens | Hosanna Revival">
+                                <img itemprop="contentUrl url" src='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_1080x.png?v=1674237937' alt='Lock Screens | Hosanna Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_1080x.png?v=1674237937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love the Lord Lock Screen (4/16)">
+                                <img itemprop="contentUrl url" src='http://www.krystalwhitten.com/cdn/shop/products/4-LovetheLord-lockscreen-iphoneicon-02_600x.jpg?v=1605242081' alt='Love the Lord Lock Screen (4/16)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Krystal Whitten Studio" />
+                                </span>
+                                <a href='http://www.krystalwhitten.com/cdn/shop/products/4-LovetheLord-lockscreen-iphoneicon-02_600x.jpg?v=1605242081' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

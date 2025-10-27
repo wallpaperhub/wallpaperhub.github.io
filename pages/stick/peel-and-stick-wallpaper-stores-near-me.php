@@ -1,0 +1,129 @@
+<title>Find Peel and Stick Wallpaper Stores Near You</title>
+                    <meta name="description" content="Explore your local peel and stick wallpaper stores for trendy, easy-to-install decor options. Transform your space effortlessly with a variety of styles, patterns, and textures, perfect for any room. Visit today and elevate your home with hassle-free wallpaper solutions!">
+                    <meta name="keywords" content="peel and stick wallpaper stores near me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-stores-near-me">
+                            <span itemprop="name">peel and stick wallpaper stores near me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Peel and Stick Wallpaper Stores Near You</h1>
+                <p>Your search for "peel and stick wallpaper stores near me" can open up exciting possibilities for your home decor! Discover local shops that offer a wide variety of stylish designs, from bold patterns to subtle textures. Enjoy the convenience of easy installation and the ability to refresh your space without the commitment of traditional wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper at Lowes.com">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/6ff95525-2af5-4265-9709-d7b8c0f1cbbe/67141888.jpeg?size=xl' alt='Peel and Stick Wallpaper at Lowes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/6ff95525-2af5-4265-9709-d7b8c0f1cbbe/67141888.jpeg?size=xl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper : Removable Peel & Stick Wallpaper : Target">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/032920_Wallpaper_4_FS_4211043-200306_1583507039887?wid=668&qlt=60&fmt=pjpeg' alt='Wallpaper : Removable Peel & Stick Wallpaper : Target'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/032920_Wallpaper_4_FS_4211043-200306_1583507039887?wid=668&qlt=60&fmt=pjpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' alt='Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Paradise Palm Coastal Blue Botanical Vinyl Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8f2b9c59-33e9-40bb-bd7b-599bbbdb5d02/svn/nextwall-wallpaper-rolls-nw33002-31_600.jpg' alt='NextWall Paradise Palm Coastal Blue Botanical Vinyl Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8f2b9c59-33e9-40bb-bd7b-599bbbdb5d02/svn/nextwall-wallpaper-rolls-nw33002-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Breezy Green Peel and Stick Wallpaper NU4371 - The ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c47891c3-245c-4fc4-8634-4d5e008c8548/svn/nuwallpaper-wallpaper-rolls-nu4371-31_600.jpg' alt='NuWallpaper Breezy Green Peel and Stick Wallpaper NU4371 - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c47891c3-245c-4fc4-8634-4d5e008c8548/svn/nuwallpaper-wallpaper-rolls-nu4371-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper at Lowes.com">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/29b36d2c-fed1-47c8-b1c3-67373b987d24/63755449.jpg?size=xl' alt='Peel and Stick Wallpaper at Lowes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/29b36d2c-fed1-47c8-b1c3-67373b987d24/63755449.jpg?size=xl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Company Store Little Bunny Pink Peel and Stick Wallpaper Panel (covers  26 sq. ft.) TCRM12-137">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/33c1da5b-602f-45f4-b747-5e12f8567106/svn/the-company-store-wallpaper-rolls-tcrm12-137-64_600.jpg' alt='The Company Store Little Bunny Pink Peel and Stick Wallpaper Panel (covers  26 sq. ft.) TCRM12-137'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/33c1da5b-602f-45f4-b747-5e12f8567106/svn/the-company-store-wallpaper-rolls-tcrm12-137-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper 30.75-sq ft Multicolor Vinyl Ivy/Vines Self-adhesive ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/aa78772b-6f4b-488e-96ea-14fa5f5519a1/16080866.jpg?size=pdhz' alt='NuWallpaper 30.75-sq ft Multicolor Vinyl Ivy/Vines Self-adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/aa78772b-6f4b-488e-96ea-14fa5f5519a1/16080866.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' alt='Unicorn Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Modern Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D343">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5218921621_69jq.jpg?v=1719931030&width=1946' alt='Whimsical Modern Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D343'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5218921621_69jq.jpg?v=1719931030&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

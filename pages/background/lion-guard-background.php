@@ -1,0 +1,129 @@
+<title>Discover the World of The Lion Guard: Adventures in the Pride Lands</title>
+                    <meta name="description" content="Explore the thrilling tales of The Lion Guard, an animated series from Disney. Join Kion and his friends as they safeguard the Pride Lands, promoting teamwork and environmental awareness. Perfect for fans of adventure and The Lion King legacy!">
+                    <meta name="keywords" content="lion guard background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lion-guard-background">
+                            <span itemprop="name">lion guard background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the World of The Lion Guard: Adventures in the Pride Lands</h1>
+                <p>The Lion Guard is a Disney animated series inspired by "The Lion King." It follows Kion, the lion prince, who leads a team of animals to protect the Pride Lands from threats. With themes of teamwork, bravery, and responsibility, the show showcases exciting adventures and the importance of nature conservation, resonating with young audiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion guard background by weazelgutz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a610964-2cac-44fd-82a3-17b311eba020/decdkp3-0e610bef-3373-42e8-99df-89c019b2f4d2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVhNjEwOTY0LTJjYWMtNDRmZC04MmEzLTE3YjMxMWViYTAyMFwvZGVjZGtwMy0wZTYxMGJlZi0zMzczLTQyZTgtOTlkZi04OWMwMTliMmY0ZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hXGxrvQUHXYMMh-CU7WyA25Y67t67FqyHjHGZvFZhek' alt='Lion guard background by weazelgutz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a610964-2cac-44fd-82a3-17b311eba020/decdkp3-0e610bef-3373-42e8-99df-89c019b2f4d2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVhNjEwOTY0LTJjYWMtNDRmZC04MmEzLTE3YjMxMWViYTAyMFwvZGVjZGtwMy0wZTYxMGJlZi0zMzczLTQyZTgtOTlkZi04OWMwMTliMmY0ZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hXGxrvQUHXYMMh-CU7WyA25Y67t67FqyHjHGZvFZhek' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lion Guard - With Background by KingSimba on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa600852-001d-4ea5-9bc9-ee9a3f8d154e/d96ubl4-8b2aa4ab-7c8e-4a3d-8166-f4d602b0a087.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhNjAwODUyLTAwMWQtNGVhNS05YmM5LWVlOWEzZjhkMTU0ZVwvZDk2dWJsNC04YjJhYTRhYi03YzhlLTRhM2QtODE2Ni1mNGQ2MDJiMGEwODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zpkMgrfTzZ5jJYMm5K9H6XBehc-qzhFm_3AiwmJUbaI' alt='The Lion Guard - With Background by KingSimba on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa600852-001d-4ea5-9bc9-ee9a3f8d154e/d96ubl4-8b2aa4ab-7c8e-4a3d-8166-f4d602b0a087.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhNjAwODUyLTAwMWQtNGVhNS05YmM5LWVlOWEzZjhkMTU0ZVwvZDk2dWJsNC04YjJhYTRhYi03YzhlLTRhM2QtODE2Ni1mNGQ2MDJiMGEwODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zpkMgrfTzZ5jJYMm5K9H6XBehc-qzhFm_3AiwmJUbaI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/1a/3d/1c1a3d9a9420f8ee959511a330394659.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/1a/3d/1c1a3d9a9420f8ee959511a330394659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lion Guard Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lion-guard-k9ulsw9wvz5i00xf.jpg' alt='100+] Lion Guard Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lion-guard-k9ulsw9wvz5i00xf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocky Plains | The Lion Guard Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/lionguard/images/6/6c/Rocky-plains.png/revision/latest/thumbnail/width/360/height/360?cb=20160828152413' alt='Rocky Plains | The Lion Guard Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lion Guard Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/lionguard/images/6/6c/Rocky-plains.png/revision/latest/thumbnail/width/360/height/360?cb=20160828152413' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Guard Lair BG 1 by LionGuardKujenga on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acd0af54-9009-4fff-ae56-95d7b397ef79/dec1ahj-620e5be7-6c97-4265-b03f-9e260e521850.png/v1/fill/w_1192,h_670,q_70,strp/lion_guard_lair_bg_1_by_lionguardkujenga_dec1ahj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FjZDBhZjU0LTkwMDktNGZmZi1hZTU2LTk1ZDdiMzk3ZWY3OVwvZGVjMWFoai02MjBlNWJlNy02Yzk3LTQyNjUtYjAzZi05ZTI2MGU1MjE4NTAucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sSHbE-RD48pV8LAy8qykWvI6H0u3lOJV2hL0jVn9Pg4' alt='Lion Guard Lair BG 1 by LionGuardKujenga on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/acd0af54-9009-4fff-ae56-95d7b397ef79/dec1ahj-620e5be7-6c97-4265-b03f-9e260e521850.png/v1/fill/w_1192,h_670,q_70,strp/lion_guard_lair_bg_1_by_lionguardkujenga_dec1ahj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FjZDBhZjU0LTkwMDktNGZmZi1hZTU2LTk1ZDdiMzk3ZWY3OVwvZGVjMWFoai02MjBlNWJlNy02Yzk3LTQyNjUtYjAzZi05ZTI2MGU1MjE4NTAucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sSHbE-RD48pV8LAy8qykWvI6H0u3lOJV2hL0jVn9Pg4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/ed/05/0fed055ee5e4c1c03aafa3ae1b3f328e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/ed/05/0fed055ee5e4c1c03aafa3ae1b3f328e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simba - The Lion King">
+                                <img itemprop="contentUrl url" src='http://s-tlk.org/news/tlg_background1.jpg' alt='Simba - The Lion King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simba - The Lion King" />
+                                </span>
+                                <a href='http://s-tlk.org/news/tlg_background1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lion King / Lion Guard Savannah Background by AshWolf-Forever ...">
+                                <img itemprop="contentUrl url" src='https://t.furaffinity.net/45953722@600-1644827982.jpg' alt='The Lion King / Lion Guard Savannah Background by AshWolf-Forever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://t.furaffinity.net/45953722@600-1644827982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back Lands | The Lion Guard Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/lionguard/images/8/8e/Backlands-img.png/revision/latest?cb=20180113014513' alt='Back Lands | The Lion Guard Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lion Guard Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/lionguard/images/8/8e/Backlands-img.png/revision/latest?cb=20180113014513' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

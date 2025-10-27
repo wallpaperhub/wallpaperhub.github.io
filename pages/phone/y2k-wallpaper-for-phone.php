@@ -1,0 +1,129 @@
+<title>Y2K Wallpaper for Phone: Nostalgic Vibes</title>
+                    <meta name="description" content="Discover the perfect Y2K wallpaper for your phone! Embrace nostalgia with our collection of vibrant, retro designs that bring the early 2000s back to life. Customize your device and showcase your style with these eye-catching wallpapers made for modern screens.">
+                    <meta name="keywords" content="y2k wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/y2k-wallpaper-for-phone">
+                            <span itemprop="name">y2k wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Y2K Wallpaper for Phone: Nostalgic Vibes</h1>
+                <p>Transform your phone's aesthetic with Y2K wallpaper, featuring vibrant colors, nostalgic graphics, and retro patterns that evoke the early 2000s vibe. These wallpapers are perfect for anyone looking to add a fun, quirky touch to their device. Dive into a world of nostalgic design and personalize your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/cc/1a/51cc1a395fd4382e0d2be331dc4a4598.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/cc/1a/51cc1a395fd4382e0d2be331dc4a4598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty For Y2k Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-for-y2k-lw64s2nhjaky00da.jpg' alt='Download Hello Kitty For Y2k Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="689">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-for-y2k-lw64s2nhjaky00da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/b6/0f/3ab60f300b0f6651ef01a9de61c8bf48.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/b6/0f/3ab60f300b0f6651ef01a9de61c8bf48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/76/5e/49765e49b53b3f052ebd6b6c9acefae7.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/76/5e/49765e49b53b3f052ebd6b6c9acefae7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Lv With Butterflies Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/y2k-lv-with-butterflies-ji6nx5a2ybdf69s4.jpg' alt='Y2k Lv With Butterflies Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/y2k-lv-with-butterflies-ji6nx5a2ybdf69s4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Y2K Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7315279887294680351&location=0&aid=1988' alt='Hello Kitty Y2K Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7315279887294680351&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/3d/33/473d330913fd1a0fb997c410a4e7f3fa.jpg' alt='Y2K wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/3d/33/473d330913fd1a0fb997c410a4e7f3fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bear Cartoon On Y2k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bear-cartoon-on-y2k-6ik1yziljdru6dyw.jpg' alt='Bear Cartoon On Y2k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bear-cartoon-on-y2k-6ik1yziljdru6dyw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k wallpaper wallpaper by Hazy1234 - Download on ZEDGE™ | 82a3">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=jR8VCtcXf-taYhdg9b3s1GwYUsB2iU5cTvyc12ZDAbUQqSL_9Ugno-W29-CeYA9s_p_uFdxQCPJqCZOxNcrqDVYK4N-VBxvNVZvmz8v1nnNIOi9u-00oD0uf4eKvd3ftsQndna8XhzVCb7fRFM8LI20HFQ7-6VvapYZ6PJxaH4n0qkfonk76uFf9Wpgp9uVLYyq6rlDSWRjggZhJ87GlcLRUJVQexZwwaFeYvg' alt='Y2k wallpaper wallpaper by Hazy1234 - Download on ZEDGE™ | 82a3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=jR8VCtcXf-taYhdg9b3s1GwYUsB2iU5cTvyc12ZDAbUQqSL_9Ugno-W29-CeYA9s_p_uFdxQCPJqCZOxNcrqDVYK4N-VBxvNVZvmz8v1nnNIOi9u-00oD0uf4eKvd3ftsQndna8XhzVCb7fRFM8LI20HFQ7-6VvapYZ6PJxaH4n0qkfonk76uFf9Wpgp9uVLYyq6rlDSWRjggZhJ87GlcLRUJVQexZwwaFeYvg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 - Free and customizable y2k aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2UQxGdcc/1/0/900w/canva-pink-cute-y2k-ios-home-screen-Xwqh7gC76PA.jpg' alt='Page 7 - Free and customizable y2k aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2UQxGdcc/1/0/900w/canva-pink-cute-y2k-ios-home-screen-Xwqh7gC76PA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

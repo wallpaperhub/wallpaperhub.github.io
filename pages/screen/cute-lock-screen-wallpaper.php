@@ -1,0 +1,129 @@
+<title>Adorable Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a collection of cute lock screen wallpapers that enhance your phone's style. Perfect for showcasing your personality, these charming designs are easy to download and will make unlocking your device a joy! Elevate your phone experience with our delightful wallpapers today!">
+                    <meta name="keywords" content="cute lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/cute-lock-screen-wallpaper">
+                            <span itemprop="name">cute lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Lock Screen Wallpapers for Your Phone</h1>
+                <p>Transform your device with adorable lock screen wallpapers that brighten your day! From cute animals to whimsical patterns, these wallpapers add a touch of charm to your screen. Plus, they’ll make unlocking your phone a delight. Choose your favorite design and showcase your personality with every swipe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Coke Cute Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cherry-coke-cute-iphone-lock-screen-vpvdlyots2p52gp7.jpg' alt='Cherry Coke Cute Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cherry-coke-cute-iphone-lock-screen-vpvdlyots2p52gp7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' alt='Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd wallpaper for lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/cc/79/2fcc795e7856da0266f199fda4bf927c.jpg' alt='Hd wallpaper for lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/cc/79/2fcc795e7856da0266f199fda4bf927c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' alt='100+] Cute Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arrow Heart Cute Iphone Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/arrow-heart-cute-iphone-lock-screen-9rvovv9u31c0mlr3.jpg' alt='Arrow Heart Cute Iphone Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/arrow-heart-cute-iphone-lock-screen-9rvovv9u31c0mlr3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute lock screen 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1004/21/HD-wallpaper-stitch-lockscreen-cutw-fun.jpg' alt='Cute lock screen 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1004/21/HD-wallpaper-stitch-lockscreen-cutw-fun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pretty Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pretty-lock-screen-dc9xp09hlrm8dwtn.jpg' alt='100+] Pretty Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pretty-lock-screen-dc9xp09hlrm8dwtn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute lock screen 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0061/4295/1514/files/long-blog-be-mine-phone-wallpaper-lock-screen_mini.jpg' alt='Cute lock screen 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0061/4295/1514/files/long-blog-be-mine-phone-wallpaper-lock-screen_mini.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful lock hotsell screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/com.tgif.girly.lock.screen.wallpaper.with.quotes-screenshots-0.png?x-img=v1/resize,h_600,lossless_false/optimize' alt='Beautiful lock hotsell screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cala Restaurante" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/com.tgif.girly.lock.screen.wallpaper.with.quotes-screenshots-0.png?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/67/dd/8d/67dd8d77c1b446b9f9a644249bd898c8.jpg' alt='22 Lock screen wallpapers for girls ideas | screen wallpaper, lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/67/dd/8d/67dd8d77c1b446b9f9a644249bd898c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

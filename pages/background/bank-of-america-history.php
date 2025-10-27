@@ -1,0 +1,129 @@
+<title>Bank of America: A Legacy of Innovation and Service</title>
+                    <meta name="description" content="Discover the rich history of Bank of America, from its origins as the Bank of Italy to its evolution into one of the largest financial institutions in the U.S. Explore its innovative contributions to banking, including credit services and digital banking advancements.">
+                    <meta name="keywords" content="bank of america history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bank-of-america-history">
+                            <span itemprop="name">bank of america history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bank of America: A Legacy of Innovation and Service</h1>
+                <p>Bank of America, founded in 1904 as the Bank of Italy, aimed to serve immigrants in California. In 1930, it became Bank of America, expanding rapidly. The bank played a crucial role in the development of credit services, reaching nationwide prominence through innovations like ATMs and online banking, solidifying its status as a leading financial institution.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America: The Humble Beginnings of a Large Bank | OCC">
+                                <img itemprop="contentUrl url" src='https://www.occ.treas.gov/images/history/img-giannini-sanfrancisco-earthquake-600px.jpg' alt='Bank of America: The Humble Beginnings of a Large Bank | OCC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCC.gov" />
+                                </span>
+                                <a href='https://www.occ.treas.gov/images/history/img-giannini-sanfrancisco-earthquake-600px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America Success Story: History & Success Factors">
+                                <img itemprop="contentUrl url" src='https://thebrandhopper.com/wp-content/uploads/2023/08/Bank-of-America-History.jpg' alt='Bank of America Success Story: History & Success Factors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brand Hopper" />
+                                </span>
+                                <a href='https://thebrandhopper.com/wp-content/uploads/2023/08/Bank-of-America-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America Logo: From Monogram to American Flag | ZenBusiness">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-the-1st-logo-17.jpg' alt='Bank of America Logo: From Monogram to American Flag | ZenBusiness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZenBusiness" />
+                                </span>
+                                <a href='https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-the-1st-logo-17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America: The Humble Beginnings of a Large Bank | OCC">
+                                <img itemprop="contentUrl url" src='https://www.occ.treas.gov/images/history/img-ap-giannini-600px.jpg' alt='Bank of America: The Humble Beginnings of a Large Bank | OCC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OCC.gov" />
+                                </span>
+                                <a href='https://www.occ.treas.gov/images/history/img-ap-giannini-600px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daytonian in Manhattan: The Lost 1888 Bank of America Bldg -- No ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIZL-8X2WMXkfpJ0CIvE6vR7wfhQoe0G9JVO4eWxdb9opSF1ZnfRsuvG0Fo0doXeXxhPMlX2uY8wrVfLTqrZB8SLLjQYhxEj1uVbmH3u3aND8hIFRFOm0g3010gi451rc0Rxb6lEfQdaQ/s640/bank+of+america+1888.jpg' alt='Daytonian in Manhattan: The Lost 1888 Bank of America Bldg -- No ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daytonian in Manhattan" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIZL-8X2WMXkfpJ0CIvE6vR7wfhQoe0G9JVO4eWxdb9opSF1ZnfRsuvG0Fo0doXeXxhPMlX2uY8wrVfLTqrZB8SLLjQYhxEj1uVbmH3u3aND8hIFRFOm0g3010gi451rc0Rxb6lEfQdaQ/s640/bank+of+america+1888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America - Company Overview, History, Products">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20240824112252/Bank-of-America---Company-Overview-History-Products.webp' alt='Bank of America - Company Overview, History, Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20240824112252/Bank-of-America---Company-Overview-History-Products.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America: The second-largest US banking operation">
+                                <img itemprop="contentUrl url" src='https://media.marketanalyst.us/brand-img/UglxyKPxA/0x0/uploads/2015/01/Final-graphic1.jpg' alt='Bank of America: The second-largest US banking operation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Market Realist" />
+                                </span>
+                                <a href='https://media.marketanalyst.us/brand-img/UglxyKPxA/0x0/uploads/2015/01/Final-graphic1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America: A History of Growth And Influence in American Finance">
+                                <img itemprop="contentUrl url" src='https://thebrandhopper.com/wp-content/uploads/2023/04/bank-of-america-founder.jpg' alt='Bank of America: A History of Growth And Influence in American Finance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brand Hopper" />
+                                </span>
+                                <a href='https://thebrandhopper.com/wp-content/uploads/2023/04/bank-of-america-founder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank of America Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/01/Bank-of-America-Logo-History.jpg' alt='Bank of America Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/01/Bank-of-America-Logo-History.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of. Bank of America is one of the largest… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*1JC2gJPgufW0qkWP2fCIyA.jpeg' alt='The History of. Bank of America is one of the largest… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*1JC2gJPgufW0qkWP2fCIyA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

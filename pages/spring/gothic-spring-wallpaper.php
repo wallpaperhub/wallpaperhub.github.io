@@ -1,0 +1,129 @@
+<title>Gothic Spring Wallpaper: Dark Elegance for Your Home</title>
+                    <meta name="description" content="Explore our gothic spring wallpaper collection that combines dark elegance with springtime beauty. Enhance your home with unique designs that feature floral motifs and gothic elements. Perfect for a stylish refresh this season. Shop now to transform your living space!">
+                    <meta name="keywords" content="gothic spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/gothic-spring-wallpaper">
+                            <span itemprop="name">gothic spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Spring Wallpaper: Dark Elegance for Your Home</h1>
+                <p>Transform your space with gothic spring wallpaper, merging dark elegance with vibrant blooms. Perfect for adding a touch of mystique to your spring décor, these designs showcase intricate patterns featuring skulls, roses, and medieval motifs. Ideal for those who appreciate the beauty of gothic aesthetics, embrace the season with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Raven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://deccoprint.com/cdn/shop/files/Gothic_Raven_Wallpaper_-_DeccoPrint-4137002_c368e5bf-51f1-4017-90a6-e5ecbe7fe006_2048x.jpg?v=1734706284' alt='Gothic Raven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeccoPrint" />
+                                </span>
+                                <a href='https://deccoprint.com/cdn/shop/files/Gothic_Raven_Wallpaper_-_DeccoPrint-4137002_c368e5bf-51f1-4017-90a6-e5ecbe7fe006_2048x.jpg?v=1734706284' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spring gothic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/538/6/HD-wallpaper-roses-and-arches-red-roses-grecian-firefox-persona-spring-sky-goth-moon-gothic-summer-flowers-blues.jpg' alt='HD spring gothic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/538/6/HD-wallpaper-roses-and-arches-red-roses-grecian-firefox-persona-spring-sky-goth-moon-gothic-summer-flowers-blues.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Spring Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528188/p/f/m/glTajKhylrglGaO2Dr8vZb5noRY3wka1ZsjSzT6UzODVcKB6j2ot1A/10%22%20%20Nostalgic%20Dark%20Black%20Moody%20Antique%20Butterflies%20in%20Victorian%20Spring%20Flower%20Garden%3A%20Botany%20Farmhouse%20Vintage%20Heritage%20Antique%20Butterfly%20Romanticism%20Goth%20Mystic%20-%20Dramatic%20Glamour%20black.jpg' alt='Gothic Spring Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528188/p/f/m/glTajKhylrglGaO2Dr8vZb5noRY3wka1ZsjSzT6UzODVcKB6j2ot1A/10%22%20%20Nostalgic%20Dark%20Black%20Moody%20Antique%20Butterflies%20in%20Victorian%20Spring%20Flower%20Garden%3A%20Botany%20Farmhouse%20Vintage%20Heritage%20Antique%20Butterfly%20Romanticism%20Goth%20Mystic%20-%20Dramatic%20Glamour%20black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spring gothic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/516/659/HD-wallpaper-%E2%9C%B0brilliant-butterfly-dragonfly%E2%9C%B0-pretty-grass-clouds-sweet-sparkle-flutter-butterfly-splendor-gothic-love-bright-flowers-butterfly-designs-wings-lovely-creative-pre-made-sky.jpg' alt='HD spring gothic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/516/659/HD-wallpaper-%E2%9C%B0brilliant-butterfly-dragonfly%E2%9C%B0-pretty-grass-clouds-sweet-sparkle-flutter-butterfly-splendor-gothic-love-bright-flowers-butterfly-designs-wings-lovely-creative-pre-made-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Spring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12189947.jpg' alt='Gothic Spring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12189947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Spring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12189948.jpg' alt='Gothic Spring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12189948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Gothic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/0e/c6/de0ec63fb1ce8381604d319c9218364e.jpg' alt='Elegant Gothic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/0e/c6/de0ec63fb1ce8381604d319c9218364e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Embrace Your Dark Side Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-zl7g924k99r4hzzg.jpg' alt='Download Embrace Your Dark Side Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-zl7g924k99r4hzzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art painting wallpaper gothic] hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2PTDRCD/gothic-floral-seamless-pattern-with-watercolor-black-and-purple-velvet-flowers-textile-and-design-print-in-victorian-luxury-style-2PTDRCD.jpg' alt='Art painting wallpaper gothic] hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2PTDRCD/gothic-floral-seamless-pattern-with-watercolor-black-and-purple-velvet-flowers-textile-and-design-print-in-victorian-luxury-style-2PTDRCD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsigoth Tablet Wallpaper Gothic Bat Butterfly Garden Spring ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32035131/r/il/c98206/5814981056/il_340x270.5814981056_b7q4.jpg' alt='Whimsigoth Tablet Wallpaper Gothic Bat Butterfly Garden Spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32035131/r/il/c98206/5814981056/il_340x270.5814981056_b7q4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

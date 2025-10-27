@@ -1,0 +1,129 @@
+<title>Modern Floral Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the charm of modern floral wallpaper that enhances any room with vibrant designs. Perfect for creating a stylish atmosphere, our collection combines contemporary art with nature, bringing a refreshing touch to your interiors. Ideal for both homes and offices, explore timeless elegance today!">
+                    <meta name="keywords" content="modern floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/modern-floral-wallpaper">
+                            <span itemprop="name">modern floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Modern Floral Wallpaper: Elevate Your Space</h1>
+                <p>Modern floral wallpaper merges timeless elegance with contemporary design. Featuring vibrant patterns, abstract motifs, and innovative color palettes, it transforms spaces, making them feel fresh and inviting. Ideal for homes and offices alike, this wallpaper adds a touch of nature indoors, striking a perfect balance between sophistication and cheerfulness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Abstract Floral Wallpaper Modern Wallpaper Peel and Stick and  Traditional Wallpaper - D710">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5406258021_rgsd.jpg?v=1719864475&width=1946' alt='Purple Abstract Floral Wallpaper Modern Wallpaper Peel and Stick and  Traditional Wallpaper - D710'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5406258021_rgsd.jpg?v=1719864475&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c.jpg' alt='Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' alt='Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Amazing Modern Floral Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1709807220/articles/R19891_interior1.jpg' alt='40 Amazing Modern Floral Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1709807220/articles/R19891_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inked Blossom Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/1_ca64f5df-d6ab-4a61-872c-9248c8db588f.jpg?v=1720045198&width=2048' alt='Inked Blossom Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/1_ca64f5df-d6ab-4a61-872c-9248c8db588f.jpg?v=1720045198&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' alt='Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' alt='Friday Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Bold Floral Blossoms R8125">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/OrangeBoldFloralBlossomsR8125.jpg?v=1736261029&width=1200' alt='Orange Bold Floral Blossoms R8125'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/OrangeBoldFloralBlossomsR8125.jpg?v=1736261029&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' alt='Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' alt='Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

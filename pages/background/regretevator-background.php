@@ -1,0 +1,129 @@
+<title>Understanding Regretevator: The Emotional Landscape of Regret</title>
+                    <meta name="description" content="Explore the concept of regretevator and its emotional layers. Discover how regret shapes decisions and influences personal growth. Learn to navigate feelings of regret for a healthier mindset and better relationships.">
+                    <meta name="keywords" content="regretevator background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/regretevator-background">
+                            <span itemprop="name">regretevator background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Regretevator: The Emotional Landscape of Regret</h1>
+                <p>Regretevator background explores the intricate layers of emotional regret, focusing on its psychological impacts and societal perceptions. It delves into how regret influences decision-making, relationships, and personal growth, providing a comprehensive understanding of its role in shaping our lives and choices. Recognizing and addressing regret can foster a positive path forward.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elevator | Regretevator Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/regretevator/images/f/ff/Elevator.jpg/revision/latest/scale-to-width-down/1200?cb=20240113033332' alt='Elevator | Regretevator Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regretevator Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/regretevator/images/f/ff/Elevator.jpg/revision/latest/scale-to-width-down/1200?cb=20240113033332' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ken on X: "FANMADE REGRETEVATOR BANNER/THUMBNAIL I MADE!! ( i ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5aLCyZaEAAkYbP.jpg:large' alt='ken on X: "FANMADE REGRETEVATOR BANNER/THUMBNAIL I MADE!! ( i ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5aLCyZaEAAkYbP.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hotel Floor | Regretevator Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/regretevator/images/9/9e/HotelFloor.png/revision/latest?cb=20240205152353' alt='Hotel Floor | Regretevator Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="964">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regretevator Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/regretevator/images/9/9e/HotelFloor.png/revision/latest?cb=20240205152353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elevator x5 | Regretevator Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/regretevator/images/4/47/Gen1.PNG/revision/latest?cb=20231218054144' alt='Elevator x5 | Regretevator Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regretevator Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/regretevator/images/4/47/Gen1.PNG/revision/latest?cb=20231218054144' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regretevator (Video Game) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/image_2023_09_02_215346115.png' alt='Regretevator (Video Game) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/image_2023_09_02_215346115.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Regretevator wallpaper by AnIkeaEmployee on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/177eea3b-fe8a-49a5-8fa6-6e7e692ca356/dgxadhf-6948e9d7-196c-4e0e-9ef0-3b6cc94b1046.png/v1/fill/w_1280,h_924,q_80,strp/regretevator_wallpaper__by_anikeaemployee_dgxadhf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTI0IiwicGF0aCI6IlwvZlwvMTc3ZWVhM2ItZmU4YS00OWE1LThmYTYtNmU3ZTY5MmNhMzU2XC9kZ3hhZGhmLTY5NDhlOWQ3LTE5NmMtNGUwZS05ZWYwLTNiNmNjOTRiMTA0Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NTZMEuSI7IJMa2Hx8-B3QPe7MQQwki4gF0v2jVk2ht8' alt='Regretevator wallpaper by AnIkeaEmployee on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/177eea3b-fe8a-49a5-8fa6-6e7e692ca356/dgxadhf-6948e9d7-196c-4e0e-9ef0-3b6cc94b1046.png/v1/fill/w_1280,h_924,q_80,strp/regretevator_wallpaper__by_anikeaemployee_dgxadhf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTI0IiwicGF0aCI6IlwvZlwvMTc3ZWVhM2ItZmU4YS00OWE1LThmYTYtNmU3ZTY5MmNhMzU2XC9kZ3hhZGhmLTY5NDhlOWQ3LTE5NmMtNGUwZS05ZWYwLTNiNmNjOTRiMTA0Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NTZMEuSI7IJMa2Hx8-B3QPe7MQQwki4gF0v2jVk2ht8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You fellas like my wallpaper? : r/regretevator">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/you-fellas-like-my-wallpaper-v0-kdweg9pxjc9d1.png?width=640&crop=smart&auto=webp&s=c6d50f9f2092ac52d32613d71bb6edcb6701f1fa' alt='You fellas like my wallpaper? : r/regretevator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/you-fellas-like-my-wallpaper-v0-kdweg9pxjc9d1.png?width=640&crop=smart&auto=webp&s=c6d50f9f2092ac52d32613d71bb6edcb6701f1fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gregoriah regretevator wallpaper!! :3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/d1/48/21d148b9be054041464c8e918ecc2c93.jpg' alt='gregoriah regretevator wallpaper!! :3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/d1/48/21d148b9be054041464c8e918ecc2c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a background for my phone : r/regretevator">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jtgfpnzgnofd1.jpeg' alt='I made a background for my phone : r/regretevator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1145">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jtgfpnzgnofd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHEEL OF | Regretevator Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/regretevator/images/6/68/Floor_Thumbnail_-_WHEEL_OF.png/revision/latest?cb=20240523144316' alt='WHEEL OF | Regretevator Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regretevator Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/regretevator/images/6/68/Floor_Thumbnail_-_WHEEL_OF.png/revision/latest?cb=20240523144316' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>SpongeBob Phone Wallpapers: Brighten Your Device!</title>
+                    <meta name="description" content="Discover vibrant SpongeBob phone wallpapers that bring joy to your screen! Perfect for fans of all ages, these colorful designs feature your favorite characters and scenes from Bikini Bottom. Unlock the fun every day with unique wallpapers that reflect your love for SpongeBob SquarePants!">
+                    <meta name="keywords" content="spongebob phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/spongebob-phone-wallpaper">
+                            <span itemprop="name">spongebob phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SpongeBob Phone Wallpapers: Brighten Your Device!</h1>
+                <p>SpongeBob phone wallpapers are a fun way to express your love for the beloved cartoon character. Choose from a range of designs, including classic images of SpongeBob, Patrick, and the entire Bikini Bottom gang. These vibrant wallpapers add personality to your device while bringing a smile to your face every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spongebob Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spongebob-iphone-oj0h9e7f8qesfgb7.jpg' alt='100+] Spongebob Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spongebob-iphone-oj0h9e7f8qesfgb7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best phone wallpaper ever <3 : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/71qw7mkogwac1.jpeg' alt='Best phone wallpaper ever <3 : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/71qw7mkogwac1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help Wanted phone wallpapers! : r/spongebob">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-wanted-phone-wallpapers-v0-3ad6eo6cd7zc1.jpg?width=1080&crop=smart&auto=webp&s=e73d40cc61089431d8b974d1358748644d65b37e' alt='Help Wanted phone wallpapers! : r/spongebob'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-wanted-phone-wallpapers-v0-3ad6eo6cd7zc1.jpg?width=1080&crop=smart&auto=webp&s=e73d40cc61089431d8b974d1358748644d65b37e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Best Spongebob Wallpaper ideas | spongebob wallpaper, spongebob ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8a/c3/0b/8ac30bf6b07352685925ddc81d06f108.jpg' alt='35 Best Spongebob Wallpaper ideas | spongebob wallpaper, spongebob ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8a/c3/0b/8ac30bf6b07352685925ddc81d06f108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spongebob iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/599/180/HD-wallpaper-iphone-14-pro-max-dynamic-island-spongebob-squarepants-thumbnail.jpg' alt='HD spongebob iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/599/180/HD-wallpaper-iphone-14-pro-max-dynamic-island-spongebob-squarepants-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob, bob, sponge, yellow, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/976/353/HD-wallpaper-spongebob-bob-sponge-yellow.jpg' alt='Spongebob, bob, sponge, yellow, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/976/353/HD-wallpaper-spongebob-bob-sponge-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Squarepants Plain Yellow Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spongebob-squarepants-plain-yellow-phone-r7u6rqp7fxh0eh0d.jpg' alt='Spongebob Squarepants Plain Yellow Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spongebob-squarepants-plain-yellow-phone-r7u6rqp7fxh0eh0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spongebob Squarepants Phone Wallpaper #2 by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debl78u-0faf2ee2-54c4-4606-9662-d620f7622a9d.png/v1/fill/w_632,h_1264,q_70,strp/spongebob_squarepants_phone_wallpaper__2_by_jpninja426_debl78u-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVibDc4dS0wZmFmMmVlMi01NGM0LTQ2MDYtOTY2Mi1kNjIwZjc2MjJhOWQucG5nIiwid2lkdGgiOiI8PTcyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rPA5uwy5TQ65O61kQRW1y7qZZv1FGs5yVEvRVeW0184' alt='Spongebob Squarepants Phone Wallpaper #2 by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debl78u-0faf2ee2-54c4-4606-9662-d620f7622a9d.png/v1/fill/w_632,h_1264,q_70,strp/spongebob_squarepants_phone_wallpaper__2_by_jpninja426_debl78u-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVibDc4dS0wZmFmMmVlMi01NGM0LTQ2MDYtOTY2Mi1kNjIwZjc2MjJhOWQucG5nIiwid2lkdGgiOiI8PTcyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rPA5uwy5TQ65O61kQRW1y7qZZv1FGs5yVEvRVeW0184' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The SpongeBob Movie: Sponge on the Run Wallpapers (40 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/d/a/1995705-2160x3840-mobile-4k-the-spongebob-movie-sponge-on-the-run-background.jpg' alt='The SpongeBob Movie: Sponge on the Run Wallpapers (40 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/d/a/1995705-2160x3840-mobile-4k-the-spongebob-movie-sponge-on-the-run-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new lock screen. I attached the blank wallpaper along with a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wbmuggyeoc271.jpg?width=405&format=pjpg&auto=webp&s=b60af45c438756d9d350b41e84f983d6b158cdbb' alt='My new lock screen. I attached the blank wallpaper along with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wbmuggyeoc271.jpg?width=405&format=pjpg&auto=webp&s=b60af45c438756d9d350b41e84f983d6b158cdbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

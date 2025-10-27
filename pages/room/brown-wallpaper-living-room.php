@@ -1,0 +1,129 @@
+<title>Transform Your Living Room with Elegant Brown Wallpaper</title>
+                    <meta name="description" content="Discover the charm of brown wallpaper for your living room. This timeless choice adds warmth and sophistication, creating a cozy atmosphere. Explore design tips to pair it with furniture and decor, ensuring a chic and inviting space for gatherings and relaxation. Elevate your interior with rich, earthy tones today!">
+                    <meta name="keywords" content="brown wallpaper living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/brown-wallpaper-living-room">
+                            <span itemprop="name">brown wallpaper living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Living Room with Elegant Brown Wallpaper</h1>
+                <p>Brown wallpaper can transform your living room into a cozy retreat with its warm tones and earthy elegance. Ideal for various décor styles, from rustic to modern, brown wallpaper adds depth and sophistication. Pair it with lighter furnishings and vibrant accents for a balanced look. Create an inviting atmosphere perfect for relaxation and gatherings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Sketch wall mural | brown wall mural - belarteSTUDIO.">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/ModernTradition-AbstractSketch-BAS01506070-Brown-2_1080x.jpg?v=1699364281' alt='Abstract Sketch wall mural | brown wall mural - belarteSTUDIO.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/ModernTradition-AbstractSketch-BAS01506070-Brown-2_1080x.jpg?v=1699364281' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Elegant Brown Wallpapers for 2025 | Sandberg Wallpaper">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1710237453/articles/S10553_interior1.jpg' alt='10 Elegant Brown Wallpapers for 2025 | Sandberg Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandberg Wallpaper" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1710237453/articles/S10553_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Wood Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/463.jpg' alt='Brown Wood Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Sitting Room Wallpaper - Paste The Wall - Thick Durable Vinyl 51145308">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wRMAAOSwpRZj7043/s-l1200.jpg' alt='Brown Sitting Room Wallpaper - Paste The Wall - Thick Durable Vinyl 51145308'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wRMAAOSwpRZj7043/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Marble Wallpaper Peel and Stick Wallpaper Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30983923/r/il/cbfb93/3945580200/il_570xN.3945580200_r5sm.jpg' alt='Brown Marble Wallpaper Peel and Stick Wallpaper Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30983923/r/il/cbfb93/3945580200/il_570xN.3945580200_r5sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/RaeWallpaperBrownGemotricwithWhite_2.png?v=1714431206&width=2048' alt='Brown Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/RaeWallpaperBrownGemotricwithWhite_2.png?v=1714431206&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Triaste - Brown">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/73807/landscape/wallpaper/room87.jpg?w=2000&q=80' alt='Vintage Triaste - Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/73807/landscape/wallpaper/room87.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Wallpaper, Dark Stone Surface Mural [self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/62a279/4111899990/il_fullxfull.4111899990_3jop.jpg' alt='Dark Brown Wallpaper, Dark Stone Surface Mural [self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/62a279/4111899990/il_fullxfull.4111899990_3jop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Design Brown Wallpaper for the wall - BelarteSTUDIO ...">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/files/ASoftEmbrace-GeometricDeco-BAS05104070-Brown-3_1080x.jpg?v=1712303598' alt='Modern Design Brown Wallpaper for the wall - BelarteSTUDIO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/files/ASoftEmbrace-GeometricDeco-BAS05104070-Brown-3_1080x.jpg?v=1712303598' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige & Brown Wallpaper | 100+ Neutral Tone Designs | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1718700328-montpellierlscat.jpg?auto=format&dpr=0.23&w=2200' alt='Beige & Brown Wallpaper | 100+ Neutral Tone Designs | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1718700328-montpellierlscat.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

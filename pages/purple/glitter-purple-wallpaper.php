@@ -1,0 +1,129 @@
+<title>Sparkle with Glitter Purple Wallpaper - Glam Up Your Walls!</title>
+                    <meta name="description" content="Discover the beauty of glitter purple wallpaper, perfect for adding a luxurious touch to your home. Easy to install and remove, it’s ideal for creating stunning feature walls. Elevate your interior decor with this eye-catching, shimmering style that reflects your personality beautifully!">
+                    <meta name="keywords" content="glitter purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/glitter-purple-wallpaper">
+                            <span itemprop="name">glitter purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sparkle with Glitter Purple Wallpaper - Glam Up Your Walls!</h1>
+                <p>Transform your space with stunning glitter purple wallpaper! This stylish option adds a touch of elegance and whimsy to any room. Perfect for bedrooms, living rooms, or accent walls, the shimmering effect creates an inviting ambiance. Easy to apply and remove, it’s a chic way to express your personality and elevate your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/d3/2c/9fd32cc926823e1db42a972e81dcc75a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/d3/2c/9fd32cc926823e1db42a972e81dcc75a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Sparkle Galaxy Purple Butterflies Shimmer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/67/2e/f3/672ef32c4a350abe838c278e24b00e49.jpg' alt='Glitter Sparkle Galaxy Purple Butterflies Shimmer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/67/2e/f3/672ef32c4a350abe838c278e24b00e49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Purple Glitter Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-purple-glitter-background-wapuji4d7mpe7yuj.jpg' alt='100+] Light Purple Glitter Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1371">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-purple-glitter-background-wapuji4d7mpe7yuj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Purple Chunky Glitter Wallpaper Peel and Stick Decorative Glitter  Contact Paper for Cabinets Removable Self Adhesive Sparkle Sequin Purple ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91dyTMXmLlL.jpg' alt='VaryPaper Purple Chunky Glitter Wallpaper Peel and Stick Decorative Glitter  Contact Paper for Cabinets Removable Self Adhesive Sparkle Sequin Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91dyTMXmLlL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1555048428-44cf321ba886?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwZ2xpdHRlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Purple Glitter Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1555048428-44cf321ba886?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwZ2xpdHRlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/485673/pr22/1/1280/purple-glitter-purple-glitter-wallpaper.jpg' alt='Purple Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/485673/pr22/1/1280/purple-glitter-purple-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple sparkles">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/1a/f5/ba1af5ec088c9a0cc7bea4bb90c9adeb.jpg' alt='Purple sparkles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/1a/f5/ba1af5ec088c9a0cc7bea4bb90c9adeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Background Images – Browse 645,355 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/79/83/36/360_F_179833652_RGv6AQWSKxmS3xIOIfy9n9FOsC330sPH.jpg' alt='Purple Glitter Background Images – Browse 645,355 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/79/83/36/360_F_179833652_RGv6AQWSKxmS3xIOIfy9n9FOsC330sPH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-stars-purple-background_588675-6196.jpg?semt=ais_hybrid' alt='Purple Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-stars-purple-background_588675-6196.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Glitter Digital Paper Background Texture - Modern Glitter ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/d3fd7f/3924391559/il_570xN.3924391559_42vd.jpg' alt='Purple Glitter Digital Paper Background Texture - Modern Glitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/d3fd7f/3924391559/il_570xN.3924391559_42vd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enhance Your iPhone with Stunning Sharingan Live Wallpapers</title>
+                    <meta name="description" content="Discover captivating Sharingan live wallpapers for your iPhone! Perfect for anime lovers, our vibrant designs add a dynamic, personalized touch to your device. Transform your home screen and show off your passion for Naruto while enjoying eye-catching animations on every unlock. Explore now!">
+                    <meta name="keywords" content="sharingan live wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sharingan-live-wallpaper-iphone">
+                            <span itemprop="name">sharingan live wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your iPhone with Stunning Sharingan Live Wallpapers</h1>
+                <p>Transform your iPhone with mesmerizing Sharingan live wallpapers that bring your favorite anime moments to life! Immerse yourself in the captivating designs inspired by the iconic Uchiha clan, complete with dynamic effects and vibrant colors. Stand out with a unique, animated backdrop that showcases your love for Naruto.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan Live Wallpaper 4k #Wallpaper#4k#обоинателефон | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7224908827446004993&location=0&aid=1988' alt='Sharingan Live Wallpaper 4k #Wallpaper#4k#обоинателефон | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7224908827446004993&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get A Sharingan Live Wallpaper for iPhone   | Naruto Live Wallpapers  for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cgqNCPkh-j4/maxresdefault.jpg' alt='How To Get A Sharingan Live Wallpaper for iPhone   | Naruto Live Wallpapers  for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cgqNCPkh-j4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/3a/08/d3/3a08d397b7c86f0384bac94c64655a72.0000000.jpg' alt='Sharingan Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/3a/08/d3/3a08d397b7c86f0384bac94c64655a72.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sharingan Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sharingan-live-fx05mfep90ce48hf.jpg' alt='100+] Sharingan Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sharingan-live-fx05mfep90ce48hf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/EA7dlMsuTMUtrHGIjSWurmY7RBWZ4mDb-efwfHfuTHOXUfyRIaK1xo1rbQR9Xyv05A=w526-h296-rw' alt='Sharingan Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/EA7dlMsuTMUtrHGIjSWurmY7RBWZ4mDb-efwfHfuTHOXUfyRIaK1xo1rbQR9Xyv05A=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sharingan Live Obito Uchiha Fire Effect Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sharingan-live-obito-uchiha-fire-effect-rw1wk5d5qq9uv7jp.jpg' alt='Download Sharingan Live Obito Uchiha Fire Effect Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sharingan-live-obito-uchiha-fire-effect-rw1wk5d5qq9uv7jp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan GIF - Sharingan - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif' alt='Sharingan GIF - Sharingan - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/3G3zC2VbvX8AAAAM/sasuke.gif' alt='Sharingan Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/3G3zC2VbvX8AAAAM/sasuke.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan 4K Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7164201851443776774&location=0&aid=1988' alt='Sharingan 4K Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7164201851443776774&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sharingan Live Wallpaper with video - APK Download for Android ...">
+                                <img itemprop="contentUrl url" src='https://cdn6.aptoide.com/imgs/d/3/0/d3058a4c73e22ed5bcc9fc246b7a9da1_icon.png' alt='Sharingan Live Wallpaper with video - APK Download for Android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aptoide" />
+                                </span>
+                                <a href='https://cdn6.aptoide.com/imgs/d/3/0/d3058a4c73e22ed5bcc9fc246b7a9da1_icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discovering Crunchyroll: Your Ultimate Anime Streaming Destination</title>
+                    <meta name="description" content="Explore Crunchyroll, the premier platform for anime and manga lovers. Stream thousands of titles, enjoy exclusive content, and dive into the vibrant world of anime culture—all in one place. Join today and embark on your animation journey! Perfect for mobile viewing!">
+                    <meta name="keywords" content="crunchyroll background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crunchyroll-background">
+                            <span itemprop="name">crunchyroll background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Crunchyroll: Your Ultimate Anime Streaming Destination</h1>
+                <p>Crunchyroll is a leading streaming platform specializing in anime, manga, and Asian dramas. Founded in 2006, it has grown significantly, offering thousands of titles to a global audience. Crunchyroll not only provides dubbed and subtitled content but also promotes anime culture through events, merchandise, and engagement with fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let Hime Spice Up Your Virtual Backgrounds with Some Free ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x360/75687bd95f/72070a39882bafeff2fcbc47787051eb1588861853_full.png/m/640x360' alt='Let Hime Spice Up Your Virtual Backgrounds with Some Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x360/75687bd95f/72070a39882bafeff2fcbc47787051eb1588861853_full.png/m/640x360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let Hime Spice Up Your Virtual Backgrounds with Some Free ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x360/3c9b86271e/25c8220c8ab6894f4c76425cb2e30dc61588861724_full.png/m/640x360' alt='Let Hime Spice Up Your Virtual Backgrounds with Some Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x360/3c9b86271e/25c8220c8ab6894f4c76425cb2e30dc61588861724_full.png/m/640x360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let Hime Spice Up Your Virtual Backgrounds with Some Free ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x360/fc69a3df9f/5b30e1484ff72658f9567468be931a8a1588861875_full.png/m/640x360' alt='Let Hime Spice Up Your Virtual Backgrounds with Some Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x360/fc69a3df9f/5b30e1484ff72658f9567468be931a8a1588861875_full.png/m/640x360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prepare for the Anime Awards with Free Hime Zoom Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/1600x900/1af1fa966d/76182fc6effe3a671d6d8fb2733b3c8e1612902064_main.png/m/filters:quality(95)format(webp)' alt='Prepare for the Anime Awards with Free Hime Zoom Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/1600x900/1af1fa966d/76182fc6effe3a671d6d8fb2733b3c8e1612902064_main.png/m/filters:quality(95)format(webp)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let Hime Spice Up Your Virtual Backgrounds with Some Free ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x360/a883d224b1/0cec6181e4382e63e61f2cd6022720d81589330993_full.png/m/640x360' alt='Let Hime Spice Up Your Virtual Backgrounds with Some Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x360/a883d224b1/0cec6181e4382e63e61f2cd6022720d81589330993_full.png/m/640x360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crunchyroll wallpaper 3840 x 2160 : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/crunchyroll-wallpaper-3840-x-2160-v0-qrg0qh0b1chd1.png?auto=webp&s=d9911b7a09c5b62df6a0bffba455eabfb2b3219e' alt='Crunchyroll wallpaper 3840 x 2160 : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/crunchyroll-wallpaper-3840-x-2160-v0-qrg0qh0b1chd1.png?auto=webp&s=d9911b7a09c5b62df6a0bffba455eabfb2b3219e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Anime HD Wallpaper - Crunchyroll Collection">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/137/thumb-1920-1378548.jpg' alt='Vibrant Anime HD Wallpaper - Crunchyroll Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/137/thumb-1920-1378548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="crunchyroll News, Reviews and Information | Engadget">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/uu/api/res/1.2/VrfskCfp3BHxgqUjjTgr9Q--~B/Zmk9ZmlsbDtoPTQ2ODtweW9mZj0wO3c9ODMyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-05/1a1e7120-0860-11ef-bde6-79a1e7ed93e5.cf.jpg' alt='crunchyroll News, Reviews and Information | Engadget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="832">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Engadget" />
+                                </span>
+                                <a href='https://s.yimg.com/uu/api/res/1.2/VrfskCfp3BHxgqUjjTgr9Q--~B/Zmk9ZmlsbDtoPTQ2ODtweW9mZj0wO3c9ODMyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-05/1a1e7120-0860-11ef-bde6-79a1e7ed93e5.cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/a7/e8/faa7e80c57c1c7c0b70c24f4ba6efcc1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/a7/e8/faa7e80c57c1c7c0b70c24f4ba6efcc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prepare For Your Climb with These Tower of God Virtual Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/640x360/1749fa66cc/3330e9593b3eb5f5e09d9baede74a8fd1588897564_full.png/m/640x360' alt='Prepare For Your Climb with These Tower of God Virtual Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/640x360/1749fa66cc/3330e9593b3eb5f5e09d9baede74a8fd1588897564_full.png/m/640x360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

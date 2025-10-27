@@ -1,0 +1,129 @@
+<title>Geometric Green Abstract Background for Creative Designs</title>
+                    <meta name="description" content="Explore a stunning geometric green abstract background that elevates your creative projects. This unique design offers versatility and elegance, perfect for websites, presentations, or personal artwork. Capture the essence of creativity with a modern touch through inviting shapes and soothing green tones.">
+                    <meta name="keywords" content="geometric green abstract background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/geometric-green-abstract-background">
+                            <span itemprop="name">geometric green abstract background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Geometric Green Abstract Background for Creative Designs</h1>
+                <p>Discover the beauty of a geometric green abstract background, where vivid shapes and soft hues blend harmoniously. This design evokes a sense of calmness and creativity, making it ideal for various applications, from web design to artwork. Let the intertwining patterns inspire your next project with a refreshing touch of nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Geometric Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/modern-green-geometric-background_1035-8808.jpg' alt='Green Geometric Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/modern-green-geometric-background_1035-8808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Green abstract geometric background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-abstract-geometric-background_23-2148366726.jpg' alt='Free Vector | Green abstract geometric background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-abstract-geometric-background_23-2148366726.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Abstract Background PNG, Vector, PSD, and Clipart With ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220306/original/pngtree-green-abstract-transparent-background-geometric-triangel-png-image_7416050.png' alt='Green Abstract Background PNG, Vector, PSD, and Clipart With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220306/original/pngtree-green-abstract-transparent-background-geometric-triangel-png-image_7416050.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Illustration Of Green Abstract Geometric Background Royalty ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/timurock/timurock1507/timurock150700011/43125186-vector-illustration-of-green-abstract-geometric-background.jpg' alt='Vector Illustration Of Green Abstract Geometric Background Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/timurock/timurock1507/timurock150700011/43125186-vector-illustration-of-green-abstract-geometric-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRESH GREEN ABSTRACT BACKGROUND LINE GEOMETRIC FLAT DESIGN ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/805/832/non_2x/fresh-green-abstract-background-line-geometric-flat-design-free-png.png' alt='FRESH GREEN ABSTRACT BACKGROUND LINE GEOMETRIC FLAT DESIGN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1386">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/805/832/non_2x/fresh-green-abstract-background-line-geometric-flat-design-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Geometric Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/256/789/small/K55.jpg' alt='Green Geometric Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/256/789/small/K55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Green Gradient Abstract Background, Staggered, Line ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-geometric-green-gradient-abstract-background-picture-image_1375358.jpg' alt='Geometric Green Gradient Abstract Background, Staggered, Line ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-geometric-green-gradient-abstract-background-picture-image_1375358.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Modern Geometric Abstract Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/09/ac/8209ac1bc867f920e546ae63a299ddc6.jpg' alt='Green Modern Geometric Abstract Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/09/ac/8209ac1bc867f920e546ae63a299ddc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Geometric Background Green Abstract | PSD Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210206/bg/b0b548b078b99.jpg!sw800' alt='Gradient Geometric Background Green Abstract | PSD Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210206/bg/b0b548b078b99.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Geometric green abstract background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-green-abstract-background_1017-544.jpg' alt='Free Vector | Geometric green abstract background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-green-abstract-background_1017-544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

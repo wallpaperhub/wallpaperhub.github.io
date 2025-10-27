@@ -1,0 +1,129 @@
+<title>The Inspiring Background of TED Talks</title>
+                    <meta name="description" content="Discover the captivating history of TED Talks, a platform for spreading innovative ideas and inspiration. Learn how this influential conference started as a fusion of technology, entertainment, and design, evolving into a global phenomenon that empowers voices and fosters creativity in every corner of the world.">
+                    <meta name="keywords" content="ted talks background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ted-talks-background">
+                            <span itemprop="name">ted talks background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Inspiring Background of TED Talks</h1>
+                <p>TED Talks revolutionized public speaking and communication by showcasing diverse ideas from various fields. Founded in 1984 as a conference about Technology, Entertainment, and Design, TED has evolved into a global platform where thought leaders share inspiration through powerful storytelling. Each talk aims to inspire and educate viewers worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our faculty take the stage at TED 2022 | Keller Center at ...">
+                                <img itemprop="contentUrl url" src='https://kellercenter.princeton.edu/sites/default/files/styles/facebook/public/images/TED%20copy.png?itok=NC7SYr1V' alt='Our faculty take the stage at TED 2022 | Keller Center at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Keller Center at Princeton University" />
+                                </span>
+                                <a href='https://kellercenter.princeton.edu/sites/default/files/styles/facebook/public/images/TED%20copy.png?itok=NC7SYr1V' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ted Talk Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ted-talk-background-fwzln5zj0vb1skb5.jpg' alt='100+] Ted Talk Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ted-talk-background-fwzln5zj0vb1skb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ten Must-See TED Talks for Financial Advisors">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt064c0b4c0ce2e91c/672b245bf3526da5de663a26/ted-talks-promo.jpg' alt='Ten Must-See TED Talks for Financial Advisors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wealth Management" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt064c0b4c0ce2e91c/672b245bf3526da5de663a26/ted-talks-promo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ted Talk Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ted-talk-background-kly203znsh7q9qvt.jpg' alt='100+] Ted Talk Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ted-talk-background-kly203znsh7q9qvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How TEDx started. Technology, entertainment, and design">
+                                <img itemprop="contentUrl url" src='https://tedxwinterpark.com/wp-content/uploads/2021/02/tedx.jpg' alt='How TEDx started. Technology, entertainment, and design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TEDxWinterPark" />
+                                </span>
+                                <a href='https://tedxwinterpark.com/wp-content/uploads/2021/02/tedx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What It's Like to Attend the TED Talks - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5cb9fa8a2730ca08a3377820?width=1200&format=jpeg' alt='What It's Like to Attend the TED Talks - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5cb9fa8a2730ca08a3377820?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Lessons on Effective Communication - The Executive Centre">
+                                <img itemprop="contentUrl url" src='https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTT_Image_blog.jpg&w=3840&q=75' alt='3 Lessons on Effective Communication - The Executive Centre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Executive Centre" />
+                                </span>
+                                <a href='https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTT_Image_blog.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Makes a Powerful TED Talk? - Claire Doole Communications">
+                                <img itemprop="contentUrl url" src='https://www.doolecommunications.com/wp-content/uploads/2018/11/ted-talks-logo.jpg' alt='What Makes a Powerful TED Talk? - Claire Doole Communications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Claire Doole Communications" />
+                                </span>
+                                <a href='https://www.doolecommunications.com/wp-content/uploads/2018/11/ted-talks-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amid Dire Visions of the Future, Glimmers of Hope at TED | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/5932704d5c4fbd732b552977/master/pass/ted-anxiety-ft.jpg' alt='Amid Dire Visions of the Future, Glimmers of Hope at TED | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/5932704d5c4fbd732b552977/master/pass/ted-anxiety-ft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ted Talk Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ted-talk-background-ia1w37yooomnh9hb.jpg' alt='100+] Ted Talk Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ted-talk-background-ia1w37yooomnh9hb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

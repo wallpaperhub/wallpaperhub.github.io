@@ -1,0 +1,129 @@
+<title>Stunning Purple Bubbles Wallpaper for Your Device</title>
+                    <meta name="description" content="Elevate your screen with our stunning purple bubbles wallpaper! Featuring a captivating design of colorful bubbles in shades of purple, this wallpaper is perfect for anyone looking to add a touch of whimsy and style to their device. Download now and enjoy a fresh look every day!">
+                    <meta name="keywords" content="purple bubbles wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-bubbles-wallpaper">
+                            <span itemprop="name">purple bubbles wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Bubbles Wallpaper for Your Device</h1>
+                <p>Transform your device with our enchanting purple bubbles wallpaper! This vibrant design features playful bubbles in varying shades of purple, creating a whimsical and eye-catching backdrop. Perfect for adding personality to your phone or tablet, this wallpaper offers a blend of creativity and color that will captivate anyone who sees it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple bubbles on liquid photo – Free Purple Image on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1516491575772-bab9f75948c0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Purple bubbles on liquid photo – Free Purple Image on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1516491575772-bab9f75948c0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubbles Wallpaper 4K, Bokeh, Purple background, Blurred">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/bubbles-bokeh-purple-background-blurred-pattern-750x1334-4624.png' alt='Bubbles Wallpaper 4K, Bokeh, Purple background, Blurred'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/bubbles-bokeh-purple-background-blurred-pattern-750x1334-4624.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/7b/51/747b51ab5a17456e20de5529c58391bc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/7b/51/747b51ab5a17456e20de5529c58391bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Bubble Images – Browse 464,875 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/28/62/30/360_F_1028623062_GJrp2lB5PvdjkKZYvmbpdfwvQFwml32Q.jpg' alt='Purple Bubble Images – Browse 464,875 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/28/62/30/360_F_1028623062_GJrp2lB5PvdjkKZYvmbpdfwvQFwml32Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58,900+ Purple Bubbles Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1290956423/photo/beautiful-transparent-purple-bubbles-background.jpg?s=612x612&w=0&k=20&c=p7NlzBJavpXL_UeIMIAJ45O85Zy_8tam0r0v54jNcYY=' alt='58,900+ Purple Bubbles Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1290956423/photo/beautiful-transparent-purple-bubbles-background.jpg?s=612x612&w=0&k=20&c=p7NlzBJavpXL_UeIMIAJ45O85Zy_8tam0r0v54jNcYY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubbles on Purple Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/6543897/pexels-photo-6543897.jpeg' alt='Bubbles on Purple Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3917">
+                                <meta itemprop="height" content="5875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/6543897/pexels-photo-6543897.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Abstract Bubble Abstract Purple HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/782/782017.jpg' alt='Download Purple Abstract Bubble Abstract Purple HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/782/782017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A close up of water bubbles on a purple background photo – Clean ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1693239619212-404502112127?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A close up of water bubbles on a purple background photo – Clean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1693239619212-404502112127?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5b/be/ea/5bbeea0218991c4886417b9db3b0cb50.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5b/be/ea/5bbeea0218991c4886417b9db3b0cb50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58,900+ Purple Bubbles Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1016078682/photo/water-splashing-on-a-floating-ball.jpg?s=612x612&w=0&k=20&c=MeuvY9keDOd_yBf9nM0HCg8IGUAuSh8cRyVHgLWecLI=' alt='58,900+ Purple Bubbles Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1016078682/photo/water-splashing-on-a-floating-ball.jpg?s=612x612&w=0&k=20&c=MeuvY9keDOd_yBf9nM0HCg8IGUAuSh8cRyVHgLWecLI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

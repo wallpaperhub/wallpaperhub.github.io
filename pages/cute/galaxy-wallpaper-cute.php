@@ -1,0 +1,129 @@
+<title>Adorable Galaxy Wallpaper: A Cosmic Touch for Your Space</title>
+                    <meta name="description" content="Discover charming galaxy wallpaper that brightens any room! Our cute designs feature colorful stars and dreamy patterns, perfect for kids or those wanting a whimsical vibe. Transform your walls into a celestial wonderland with easy-to-apply and stylish options!">
+                    <meta name="keywords" content="galaxy wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/galaxy-wallpaper-cute">
+                            <span itemprop="name">galaxy wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Galaxy Wallpaper: A Cosmic Touch for Your Space</h1>
+                <p>Transform your space with cute galaxy wallpaper that adds a whimsical touch to any room. Featuring vibrant colors and dreamy patterns, these wallpapers create a starry atmosphere perfect for kids’ rooms or anyone looking to add a little magic to their decor. Explore a universe of styles and bring the cosmos home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Galaxy Wallpapers - Wallpaper Cave DC3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c3/24/2c/c3242ccf14b94df2f4f0ca13659680df.jpg' alt='Cute Galaxy Wallpapers - Wallpaper Cave DC3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c3/24/2c/c3242ccf14b94df2f4f0ca13659680df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Galaxy Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-galaxy-pictures-4ro3qah4l7k750cq.jpg' alt='100+] Cute Galaxy Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-galaxy-pictures-4ro3qah4l7k750cq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Galaxy - Top 20 Best Cute Galaxy, Cute Purple Galaxy, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/720/385/HD-wallpaper-cute-galaxy-top-20-best-cute-galaxy-cute-purple-galaxy.jpg' alt='Cute Galaxy - Top 20 Best Cute Galaxy, Cute Purple Galaxy, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/720/385/HD-wallpaper-cute-galaxy-top-20-best-cute-galaxy-cute-purple-galaxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Moon In Cute Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-moon-in-cute-galaxy-ephs95h0sx82w0li.jpg' alt='Aesthetic Moon In Cute Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-moon-in-cute-galaxy-ephs95h0sx82w0li.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the wonders of the universe with Kawaii Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-galaxy-1080-x-1920-wallpaper-zgaiy37f1f9c6n68.jpg' alt='Download Explore the wonders of the universe with Kawaii Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-galaxy-1080-x-1920-wallpaper-zgaiy37f1f9c6n68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Galaxy Bear       ideas | iphone wallpaper kawaii, cute galaxy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/4e/10/b34e10f8efb0379330acab46c376be6d.jpg' alt='10 Galaxy Bear       ideas | iphone wallpaper kawaii, cute galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/4e/10/b34e10f8efb0379330acab46c376be6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Galaxy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-pastel-constellations-mobile-wallpaper_23-2149097882.jpg' alt='Cute Galaxy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-pastel-constellations-mobile-wallpaper_23-2149097882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Galaxy Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7613984.jpg' alt='Cute Galaxy Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7613984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=120326596147666' alt='Cute Kawaii Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=120326596147666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pretty galaxy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/508/823/HD-wallpaper-universe-unicorn-galaxy-girly-glitter-pink-pretty-sparkle-thumbnail.jpg' alt='HD pretty galaxy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/508/823/HD-wallpaper-universe-unicorn-galaxy-girly-glitter-pink-pretty-sparkle-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

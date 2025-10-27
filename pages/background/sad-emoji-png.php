@@ -1,0 +1,129 @@
+<title>Download Sad Emoji PNGs - Express Your Feelings</title>
+                    <meta name="description" content="Discover a variety of sad emoji PNG images to enhance your digital conversations. Perfect for texting, designing, or social media, these transparent-background emoticons help convey your feelings effortlessly. Download now to express yourself better!">
+                    <meta name="keywords" content="sad emoji png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sad-emoji-png">
+                            <span itemprop="name">sad emoji png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Sad Emoji PNGs - Express Your Feelings</h1>
+                <p>Sad emoji PNG images are perfect for conveying emotions in digital communication. Whether you’re expressing sorrow in a chat, designing a project, or creating social media content, these transparent-background graphics enhance your messaging. Available in various styles, they add a relatable touch to your visuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crying Sad Emoji PNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/66/15/af6615fbd138feb2fdbd8cfa8388699d.jpg' alt='Crying Sad Emoji PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/66/15/af6615fbd138feb2fdbd8cfa8388699d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Face Emoji">
+                                <img itemprop="contentUrl url" src='https://emojiisland.com/cdn/shop/products/Sad_Face_Emoji_large.png?v=1571606037' alt='Sad Face Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emoji Island" />
+                                </span>
+                                <a href='https://emojiisland.com/cdn/shop/products/Sad_Face_Emoji_large.png?v=1571606037' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20221110/ourmid/pngtree-yellow-sad-emoji-design-with-big-glassy-eyes-png-image_6432751.png' alt='Sad Emoji PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20221110/ourmid/pngtree-yellow-sad-emoji-design-with-big-glassy-eyes-png-image_6432751.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Emoji Sadness Smiley Emoticon PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/95/e6/a695e63577caa067f6995bd645799602.jpg' alt='IPhone Emoji Sadness Smiley Emoticon PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/95/e6/a695e63577caa067f6995bd645799602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoticon Emoji Sad PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/134551/isolated/svg/1fb74455a668b00b9ec2ab7d3092008b.svg' alt='Emoticon Emoji Sad PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/134551/isolated/svg/1fb74455a668b00b9ec2ab7d3092008b.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Sad Emoji Illustration, Sad Emoji Illustration, Gradient ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20241015/original/pngtree-gradient-sad-emoji-illustration-png-image_16324312.png' alt='Gradient Sad Emoji Illustration, Sad Emoji Illustration, Gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20241015/original/pngtree-gradient-sad-emoji-illustration-png-image_16324312.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji faces, sad emoji, png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/986/295/png-clipart-emojis-sad-emoji-thumbnail.png' alt='Emoji faces, sad emoji, png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/986/295/png-clipart-emojis-sad-emoji-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji Face - Sad Yellow Emoji Face Illustration - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180424/qdq/avetv4i66.webp' alt='Sad Emoji Face - Sad Yellow Emoji Face Illustration - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180424/qdq/avetv4i66.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Images (Transparent HD Photo Clipart)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/91/63/03916357a59f430fd2d07d121f7e8471.jpg' alt='Sad Emoji PNG Images (Transparent HD Photo Clipart)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/91/63/03916357a59f430fd2d07d121f7e8471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/866/54/png-clipart-emoji-sadness-emoticon-smiley-sad-emoji-crying-imoji-face-sticker-thumbnail.png' alt='Sad Emoji png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/866/54/png-clipart-emoji-sadness-emoticon-smiley-sad-emoji-crying-imoji-face-sticker-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

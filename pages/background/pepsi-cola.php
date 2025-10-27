@@ -1,0 +1,129 @@
+<title>Discover the Refreshing World of Pepsi Cola</title>
+                    <meta name="description" content="Explore the iconic Pepsi Cola, a soft drink loved for its bold flavor and dynamic marketing. Learn about its history, brand ethos, and role in pop culture. Stay refreshed with Pepsi and join the millions who enjoy this timeless beverage. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="pepsi cola">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pepsi-cola">
+                            <span itemprop="name">pepsi cola</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Refreshing World of Pepsi Cola</h1>
+                <p>Pepsi Cola is a globally recognized soft drink brand that has been refreshing consumers since its creation in 1893. Known for its vibrant flavor, vibrant marketing campaigns, and innovative products, Pepsi has a unique identity in the beverage industry. The brand supports various music and sports initiatives, ensuring it remains culturally relevant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Real Sugar Soda, 12 Fl oz Cans, (12 Pack), Cola, Soda Pop (Packaging  May Vary)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71WLJqvsNiL.jpg' alt='Pepsi Real Sugar Soda, 12 Fl oz Cans, (12 Pack), Cola, Soda Pop (Packaging  May Vary)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71WLJqvsNiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Made with Real Sugar Cola 12 fl oz, 12 Pack Cans">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/d526adce-be72-44f5-ad1c-26882eff8ebf.c51e195c76385d36994397de9860db59.jpeg' alt='Pepsi Made with Real Sugar Cola 12 fl oz, 12 Pack Cans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/d526adce-be72-44f5-ad1c-26882eff8ebf.c51e195c76385d36994397de9860db59.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Cola Soda, 12 Fl Oz Cans (Pack of 12)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/910VWObSENL.jpg' alt='Pepsi Cola Soda, 12 Fl Oz Cans (Pack of 12)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/910VWObSENL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Cola Soda - 24-12 Fl. Oz. - randalls">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/108010057-ECOM?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' alt='Pepsi Cola Soda - 24-12 Fl. Oz. - randalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Randalls" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/108010057-ECOM?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Soda Cola 20 Fl Oz - The Fresh Grocer">
+                                <img itemprop="contentUrl url" src='https://images.cdn.shoprite.com/detail/00012000001291_1' alt='Pepsi Soda Cola 20 Fl Oz - The Fresh Grocer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fresh Grocer" />
+                                </span>
+                                <a href='https://images.cdn.shoprite.com/detail/00012000001291_1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Cola® Soda Can, 12 fl oz - Dillons Food Stores">
+                                <img itemprop="contentUrl url" src='https://www.kroger.com/product/images/large/front/0001200000013' alt='Pepsi Cola® Soda Can, 12 fl oz - Dillons Food Stores'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dillons" />
+                                </span>
+                                <a href='https://www.kroger.com/product/images/large/front/0001200000013' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Cola Same-Day Delivery or Pickup | Food 4 Less">
+                                <img itemprop="contentUrl url" src='https://www.instacart.com/assets/domains/product-image/file/large_033d11f1-23fe-4387-a164-b3cbf2d847b9.png' alt='Pepsi Cola Same-Day Delivery or Pickup | Food 4 Less'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food 4 Less" />
+                                </span>
+                                <a href='https://www.instacart.com/assets/domains/product-image/file/large_033d11f1-23fe-4387-a164-b3cbf2d847b9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg' alt='Pepsi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi Cola 2.1 Qt">
+                                <img itemprop="contentUrl url" src='https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012000002304/5ae994903c29acd282f9463c15da9e6f_large.png&width=512&type=webp&quality=90' alt='Pepsi Cola 2.1 Qt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Family Fare" />
+                                </span>
+                                <a href='https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012000002304/5ae994903c29acd282f9463c15da9e6f_large.png&width=512&type=webp&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pepsi-Cola® Made With Real Sugar Cola 7.5 fl oz. Can">
+                                <img itemprop="contentUrl url" src='https://images.freshop.com/00012000130601/c917e99a2355bdb0a88db227635cfef8_large.png' alt='Pepsi-Cola® Made With Real Sugar Cola 7.5 fl oz. Can'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Price Less Foods" />
+                                </span>
+                                <a href='https://images.freshop.com/00012000130601/c917e99a2355bdb0a88db227635cfef8_large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

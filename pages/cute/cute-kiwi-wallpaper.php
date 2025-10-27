@@ -1,0 +1,129 @@
+<title>Adorable Cute Kiwi Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest kiwi wallpapers to refresh your devices! Our collection offers vibrant and playful designs that are perfect for lovers of all things cute. Download your favorite kiwi wallpaper today and give your screens a cheerful makeover! Perfect for all ages and styles!">
+                    <meta name="keywords" content="cute kiwi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-kiwi-wallpaper">
+                            <span itemprop="name">cute kiwi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Kiwi Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable cute kiwi wallpapers! Featuring vibrant colors and charming designs, these wallpapers are perfect for bringing a playful touch to your screens. Whether you're a fan of these delightful fruits or just love cute designs, our collection will brighten your day. Download now for a fresh look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kiwi Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/kiwi-pattern-background_1432-27.jpg' alt='Cute Kiwi Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/kiwi-pattern-background_1432-27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Cute Kiwi Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/kiwi-seamless-watercolor-pattern_79020-215.jpg' alt='Page 2 | Cute Kiwi Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/kiwi-seamless-watercolor-pattern_79020-215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kiwi Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210731/pngtree-cute-kiwi-mobile-wallpaper-image_755742.jpg' alt='Cute Kiwi Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210731/pngtree-cute-kiwi-mobile-wallpaper-image_755742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kiwi Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vector-seamless-kiwi-pattern-pastel-background_53876-115586.jpg' alt='Cute Kiwi Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vector-seamless-kiwi-pattern-pastel-background_53876-115586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Kiwi wallpaper ideas | kiwi, wallpaper, fruit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8d/2f/e3/8d2fe37977669cd7d20e981fcf3db4f5.jpg' alt='13 Kiwi wallpaper ideas | kiwi, wallpaper, fruit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8d/2f/e3/8d2fe37977669cd7d20e981fcf3db4f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute lovely cartoon summer seamless vector pattern background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TA39M4/cute-lovely-cartoon-summer-seamless-vector-pattern-background-illustration-with-hand-drawn-kiwi-and-flowers-TA39M4.jpg' alt='cute lovely cartoon summer seamless vector pattern background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TA39M4/cute-lovely-cartoon-summer-seamless-vector-pattern-background-illustration-with-hand-drawn-kiwi-and-flowers-TA39M4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Kiwi ideas | kiwi, fruit photography, fruit wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/56/e4/7356e4734c109fd1346b8349516d156c.jpg' alt='80 Kiwi ideas | kiwi, fruit photography, fruit wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/56/e4/7356e4734c109fd1346b8349516d156c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute seamless summer kiwi pattern on a white background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2G49XFF/cute-seamless-summer-kiwi-pattern-on-a-white-background-2G49XFF.jpg' alt='Cute seamless summer kiwi pattern on a white background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2G49XFF/cute-seamless-summer-kiwi-pattern-on-a-white-background-2G49XFF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kiwi Green Background Wallpaper Phone Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1779923471/display_1500/stock-vector-cute-kiwi-green-background-wallpaper-for-phone-1779923471.jpg' alt='Cute Kiwi Green Background Wallpaper Phone Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1779923471/display_1500/stock-vector-cute-kiwi-green-background-wallpaper-for-phone-1779923471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Kiwis Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pastel-kiwis-w9x4t8s66n3mts3m.jpg' alt='Cute Pastel Kiwis Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pastel-kiwis-w9x4t8s66n3mts3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discovering Your Irish Heritage: A Journey Through Culture</title>
+                    <meta name="description" content="Explore the fascinating world of Irish background, from its rich history and culture to the unique traditions that define its identity. Uncover the roots of your heritage and connect with the vibrant spirit of Ireland, celebrated worldwide.">
+                    <meta name="keywords" content="irish background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/irish-background">
+                            <span itemprop="name">irish background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Your Irish Heritage: A Journey Through Culture</h1>
+                <p>Irish background encompasses a rich tapestry of history, culture, and heritage. From ancient Celtic traditions to the influence of English rule, Ireland's past shapes its identity. Traditional music, dance, and folklore continue to thrive, while the Irish diaspora has spread their culture globally, making it vibrant and diverse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/465636907/vector/st-patricks-day-background-with-shamrocks.jpg?s=612x612&w=0&k=20&c=weWx3P9OKzzAP1zVvUNzlAgWqiSYOd0Eki1CgpN03Os=' alt='34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/465636907/vector/st-patricks-day-background-with-shamrocks.jpg?s=612x612&w=0&k=20&c=weWx3P9OKzzAP1zVvUNzlAgWqiSYOd0Eki1CgpN03Os=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Background Images – Browse 478,069 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/39/26/24/360_F_139262421_XrIIIGzGWtYSj6u7bOLk07WEudt7YKfv.jpg' alt='Irish Background Images – Browse 478,069 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/39/26/24/360_F_139262421_XrIIIGzGWtYSj6u7bOLk07WEudt7YKfv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/508703520/vector/green-clover-background-for-st-patricks-day.jpg?s=612x612&w=0&k=20&c=Ra5FzCn60M1E36RaiiDnhI2V0qPVYPl9YwobuSKkaGY=' alt='34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/508703520/vector/green-clover-background-for-st-patricks-day.jpg?s=612x612&w=0&k=20&c=Ra5FzCn60M1E36RaiiDnhI2V0qPVYPl9YwobuSKkaGY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,618 Irish Background High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/908037936/vector/st-patricks-day-background.jpg?s=612x612&w=gi&k=20&c=4vx0n6d_31VbIm5lR1YePE0ssclJhv0YxA1VJQ4reCE=' alt='1,618 Irish Background High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/908037936/vector/st-patricks-day-background.jpg?s=612x612&w=gi&k=20&c=4vx0n6d_31VbIm5lR1YePE0ssclJhv0YxA1VJQ4reCE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/978/672/small/clover-leaf-background-free-vector.jpg' alt='Irish Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/978/672/small/clover-leaf-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Background Images – Browse 478,069 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/92/18/58/360_F_192185845_WHBbOkzkqN7e78KVPCIiskYmLmSBou3A.jpg' alt='Irish Background Images – Browse 478,069 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/92/18/58/360_F_192185845_WHBbOkzkqN7e78KVPCIiskYmLmSBou3A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Irish Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-background-st-patrick-s-day-celebration_23-2151198402.jpg' alt='Background Irish Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-background-st-patrick-s-day-celebration_23-2151198402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/926023350/vector/st-patricks-glowing-abstract-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=43sNnlfsvbmXOaNYKOpWNb-zdBG__0JnkrTWKPpqUXc=' alt='34,500+ Irish Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/926023350/vector/st-patricks-glowing-abstract-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=43sNnlfsvbmXOaNYKOpWNb-zdBG__0JnkrTWKPpqUXc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Wallpaper Images – Browse 76,554 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/06/98/98/360_F_306989859_3qsREwacr8Pfb50VcClfvdFYzoNq6JQz.jpg' alt='Irish Wallpaper Images – Browse 76,554 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/06/98/98/360_F_306989859_3qsREwacr8Pfb50VcClfvdFYzoNq6JQz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/953/599/small/saint-patrick-s-day-clover-shamrock-background-free-vector.jpg' alt='Irish Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/953/599/small/saint-patrick-s-day-clover-shamrock-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

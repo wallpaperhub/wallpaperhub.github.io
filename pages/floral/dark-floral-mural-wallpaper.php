@@ -1,0 +1,129 @@
+<title>Transform Your Space with Dark Floral Mural Wallpaper</title>
+                    <meta name="description" content="Discover the enchanting allure of dark floral mural wallpaper. Perfect for adding depth and sophistication to any room, this wallpaper features exquisite floral patterns on rich hues. Ideal for those seeking a dramatic yet elegant interior, it’s the perfect way to make your walls truly standout.">
+                    <meta name="keywords" content="dark floral mural wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/dark-floral-mural-wallpaper">
+                            <span itemprop="name">dark floral mural wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Dark Floral Mural Wallpaper</h1>
+                <p>Elevate your space with dark floral mural wallpaper, a stunning choice that combines elegance and drama. Richly detailed blooms on a deep background create a striking focal point, perfect for living rooms or bedrooms. Embrace the beauty of nature indoors and transform your walls into a captivating work of art with this bold design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eAsa6oAOL.jpg' alt='Dark Floral Wall Mural Peel and Stick 148" W x 98" H Large Flower Wallpaper  Self Adhesive for Bedroom Living Room TV Background Decor Paintings Art -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eAsa6oAOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 183"x120"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 183"x120"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Bouquet Mural in Pink and Red – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/WM0182-Dark-Floral-Bouquet_Roomset_WEB.webp?crop=center&height=1024&v=1708337634&width=1024' alt='Dark Floral Bouquet Mural in Pink and Red – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/WM0182-Dark-Floral-Bouquet_Roomset_WEB.webp?crop=center&height=1024&v=1708337634&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral - 9419W Mural">
+                                <img itemprop="contentUrl url" src='http://www.scandinavianwallpaper.com/cdn/shop/products/DarkFloral-3_Image_Roomshot_Item_9419w.jpg?v=1680728300' alt='Dark Floral - 9419W Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1471">
+                                <meta itemprop="height" content="1971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandinavian Wallpaper" />
+                                </span>
+                                <a href='http://www.scandinavianwallpaper.com/cdn/shop/products/DarkFloral-3_Image_Roomshot_Item_9419w.jpg?v=1680728300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Still Life Flowers Wall Mural, Vintage Dark Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10833868/r/il/70a782/3695934812/il_570xN.3695934812_aley.jpg' alt='Still Life Flowers Wall Mural, Vintage Dark Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10833868/r/il/70a782/3695934812/il_570xN.3695934812_aley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper | Anewall Mural Wallpapers">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/dark_floral_wall_mural_300x300.jpg?v=1598565017' alt='Dark Floral Wallpaper | Anewall Mural Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="243">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/dark_floral_wall_mural_300x300.jpg?v=1598565017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Nouveau Dark Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000093-1mag.jpg' alt='Art Nouveau Dark Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000093-1mag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpapers for Home Decor | Flower Wall Murals">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/1155_67573e87-1919-42d5-9bde-d8f7aaa8cffe.jpg?v=1732536193&width=533' alt='Dark Floral Wallpapers for Home Decor | Flower Wall Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/1155_67573e87-1919-42d5-9bde-d8f7aaa8cffe.jpg?v=1732536193&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/dark-floral-mural-wallpaper-4.jpg?v=1598565017' alt='Dark Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/dark-floral-mural-wallpaper-4.jpg?v=1598565017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dutch Dark Flowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000059-1.jpg' alt='Dutch Dark Flowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/f/ofd000059-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

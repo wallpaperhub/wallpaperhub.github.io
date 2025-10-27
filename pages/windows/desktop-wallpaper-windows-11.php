@@ -1,0 +1,129 @@
+<title>Stunning Windows 11 Desktop Wallpapers: Personalize Your Space</title>
+                    <meta name="description" content="Explore a collection of beautiful desktop wallpapers for Windows 11. Find the perfect high-resolution images that suit your style and transform your workspace into a visually inspiring environment. Optimize your screen's appeal with stunning designs!">
+                    <meta name="keywords" content="desktop wallpaper windows 11">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/desktop-wallpaper-windows-11">
+                            <span itemprop="name">desktop wallpaper windows 11</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Windows 11 Desktop Wallpapers: Personalize Your Space</h1>
+                <p>Discover the best desktop wallpapers for Windows 11 to personalize your workspace. From stunning landscapes to minimalist designs, elevate your screen's aesthetic with high-resolution images that reflect your style. Browse through vibrant colors and themes that motivate and inspire you throughout your day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 by Microsoft | Wallpapers | WallpaperHub">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperhub.app/cloudcache/d/3/f/7/c/1/d3f7c1ad909ba31f0fc4d79cced6aa6346fb41fa.jpg' alt='Windows 11 by Microsoft | Wallpapers | WallpaperHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperHub" />
+                                </span>
+                                <a href='https://cdn.wallpaperhub.app/cloudcache/d/3/f/7/c/1/d3f7c1ad909ba31f0fc4d79cced6aa6346fb41fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Technology 4K Ultra HD Wallpaper by John Xionidis">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/130/1305211.png' alt='Windows 11 Technology 4K Ultra HD Wallpaper by John Xionidis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/130/1305211.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Windows 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-11-blue-flower-pattern-9dprha0cs52xeeok.jpg' alt='200+] Windows 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-11-blue-flower-pattern-9dprha0cs52xeeok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 brings four new collections of desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.bleepstatic.com/content/hl-images/2021/06/15/Windows--11.jpg' alt='Windows 11 brings four new collections of desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeping Computer" />
+                                </span>
+                                <a href='https://www.bleepstatic.com/content/hl-images/2021/06/15/Windows--11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Blue Abstract Dark Mode 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-3840x2160-5630.jpg' alt='Windows 11 Blue Abstract Dark Mode 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-3840x2160-5630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where are the desktop wallpapers located in Windows 11? - gHacks ...">
+                                <img itemprop="contentUrl url" src='https://www.ghacks.net/wp-content/uploads/2021/11/Windows-11-desktop-wallpaper.jpg' alt='Where are the desktop wallpapers located in Windows 11? - gHacks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gHacks" />
+                                </span>
+                                <a href='https://www.ghacks.net/wp-content/uploads/2021/11/Windows-11-desktop-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Windows 11 Wallpaper">
+                                <img itemprop="contentUrl url" src='http://ms.codes/cdn/shop/articles/windows-11-windows-10-minimalism-hd-wallpaper-preview.jpg?v=1709251200' alt='Best Windows 11 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MS.Codes" />
+                                </span>
+                                <a href='http://ms.codes/cdn/shop/articles/windows-11-windows-10-minimalism-hd-wallpaper-preview.jpg?v=1709251200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper Filming Location : r/Windows11">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/j4q5xgmdjq081.jpg?width=1920&format=pjpg&auto=webp&s=4d18cea78c54ca3ec2f683ed61ad66930a5b1ec7' alt='Windows 11 Wallpaper Filming Location : r/Windows11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/j4q5xgmdjq081.jpg?width=1920&format=pjpg&auto=webp&s=4d18cea78c54ca3ec2f683ed61ad66930a5b1ec7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Windows 11 Wallpapers to your Desktop (32 Wallpapers) – Tech & ALL">
+                                <img itemprop="contentUrl url" src='https://techandall.com/wp-content/uploads/2021/06/Windows-11-wallpapers-1-scaled.jpg' alt='Add Windows 11 Wallpapers to your Desktop (32 Wallpapers) – Tech & ALL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech" />
+                                </span>
+                                <a href='https://techandall.com/wp-content/uploads/2021/06/Windows-11-wallpapers-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Windows 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-blue-windows-11-6i4cptgnvpehsgct.jpg' alt='200+] Windows 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-blue-windows-11-6i4cptgnvpehsgct.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

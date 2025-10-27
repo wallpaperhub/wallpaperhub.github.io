@@ -1,0 +1,129 @@
+<title>Usher's Tiny Desk: The Magic of Backup Singers</title>
+                    <meta name="description" content="Explore Usher's unforgettable Tiny Desk performance, highlighting the vital role of backup singers. Discover how their harmonies enrich the music and elevate live shows, offering a unique glimpse into the artistry that supports Usher's incredible sound.">
+                    <meta name="keywords" content="usher tiny desk backup singers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/usher-tiny-desk-backup-singers">
+                            <span itemprop="name">usher tiny desk backup singers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Usher's Tiny Desk: The Magic of Backup Singers</h1>
+                <p>Usher's Tiny Desk performance featured exceptional backup singers who brought his hits to life. Their harmonies added depth to the intimate setting, showcasing the artistry behind Usher's music. The blend of voices elevated the entire experience, proving the importance of backup singers in live performances. This event was a true celebration of talent.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Desk Concert and Something in the Water Festival w/ Usher & Vedo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DPsk11ezZSo/maxresdefault.jpg' alt='Tiny Desk Concert and Something in the Water Festival w/ Usher & Vedo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DPsk11ezZSo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher Serenades NPR On His First 'Tiny Desk' Concert - Okayplayer">
+                                <img itemprop="contentUrl url" src='https://www.okayplayer.com/media-library/fvit2fwxwaabary.jpg?id=33161926&width=1245&height=700&quality=90&coordinates=0%2C0%2C0%2C126' alt='Usher Serenades NPR On His First 'Tiny Desk' Concert - Okayplayer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Okayplayer" />
+                                </span>
+                                <a href='https://www.okayplayer.com/media-library/fvit2fwxwaabary.jpg?id=33161926&width=1245&height=700&quality=90&coordinates=0%2C0%2C0%2C126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher Performs “Tiny Desk Concert” for NPR: Watch | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/62bdb2a80d2ae3844284586b/16:9/w_4992,h_2808,c_limit/Usher-Tiny-Desk-NPR-2022.jpg' alt='Usher Performs “Tiny Desk Concert” for NPR: Watch | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4992">
+                                <meta itemprop="height" content="2808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/62bdb2a80d2ae3844284586b/16:9/w_4992,h_2808,c_limit/Usher-Tiny-Desk-NPR-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher's NPR 'Tiny Desk' Concert: Watch">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/06/Usher-Tiny-Desk-Concert-billboard-1548.jpg?w=1024' alt='Usher's NPR 'Tiny Desk' Concert: Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/06/Usher-Tiny-Desk-Concert-billboard-1548.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheRnBHub على X: "Usher will be performing for Tiny Desk with Eric ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FV29f4tWYAEEDBS?format=jpg&name=large' alt='TheRnBHub على X: "Usher will be performing for Tiny Desk with Eric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FV29f4tWYAEEDBS?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Babyface, Tank, Charlie Wilson NPR Tiny Desks Black Music Month ...">
+                                <img itemprop="contentUrl url" src='https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8f757eb77a289a71b63331a741fdf50e.png' alt='Babyface, Tank, Charlie Wilson NPR Tiny Desks Black Music Month ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Root" />
+                                </span>
+                                <a href='https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8f757eb77a289a71b63331a741fdf50e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher Celebrates Black Music Month and 25 Years of "My Way" with ...">
+                                <img itemprop="contentUrl url" src='https://stupiddope.com/wp-content/uploads/2022/07/Usher-My-Way-NPR-Tiny-Desk-1.jpg' alt='Usher Celebrates Black Music Month and 25 Years of "My Way" with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1526">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="stupidDOPE" />
+                                </span>
+                                <a href='https://stupiddope.com/wp-content/uploads/2022/07/Usher-My-Way-NPR-Tiny-Desk-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher delivers amazing "Tiny Desk" concert for Black Music Month">
+                                <img itemprop="contentUrl url" src='https://www.revolt.tv/article/2022-06-30/177605/media_16b489cddb15be7e26bd54b71903005663185b59b.jpeg?width=1200&format=pjpg&optimize=medium' alt='Usher delivers amazing "Tiny Desk" concert for Black Music Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Revolt TV" />
+                                </span>
+                                <a href='https://www.revolt.tv/article/2022-06-30/177605/media_16b489cddb15be7e26bd54b71903005663185b59b.jpeg?width=1200&format=pjpg&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher pulls up to Tiny Desk to remind people">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUUr9GUUf2JBuQhoSgh4qYnu0o4IJk9qzu_cAeZXKUGmMl7AhfBz7ML27hXyx26GN1ysSYq1k08BFf62V4qpTazEl-1SFx7zbtZapZJrNc_eiefiWX1BK9cYtGR7mEGH6CwjkyOg92VN9pVx-MsxCY1iawymOHvO3B-pyDTfG01pgFR66JIewCHTW-Q/s16000/20220703%20Random%20J%20Pop%20(Performance)%20Usher%20-%20Tiny%20Desk%20%233.png' alt='Usher pulls up to Tiny Desk to remind people'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Random J Pop" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUUr9GUUf2JBuQhoSgh4qYnu0o4IJk9qzu_cAeZXKUGmMl7AhfBz7ML27hXyx26GN1ysSYq1k08BFf62V4qpTazEl-1SFx7zbtZapZJrNc_eiefiWX1BK9cYtGR7mEGH6CwjkyOg92VN9pVx-MsxCY1iawymOHvO3B-pyDTfG01pgFR66JIewCHTW-Q/s16000/20220703%20Random%20J%20Pop%20(Performance)%20Usher%20-%20Tiny%20Desk%20%233.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usher: Tiny Desk Concert">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/up8ODGFWgFg/sddefault.jpg?v=62bcc32c' alt='Usher: Tiny Desk Concert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/up8ODGFWgFg/sddefault.jpg?v=62bcc32c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

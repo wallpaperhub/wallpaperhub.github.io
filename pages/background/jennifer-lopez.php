@@ -1,0 +1,129 @@
+<title>Jennifer Lopez: The Icon of Music, Film, and Fashion</title>
+                    <meta name="description" content="Explore the extraordinary journey of Jennifer Lopez, a legendary figure in music and film. Discover her chart-topping songs, award-winning performances, and iconic fashion moments that have defined pop culture for decades. Dive into the world of J.Lo today!">
+                    <meta name="keywords" content="jennifer lopez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jennifer-lopez">
+                            <span itemprop="name">jennifer lopez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jennifer Lopez: The Icon of Music, Film, and Fashion</h1>
+                <p>Jennifer Lopez, also known as J.Lo, is an iconic multi-talented American singer, actress, dancer, and producer. Rising to fame in the late 1990s, she has captivated audiences with her powerful vocals and dynamic performances. With numerous chart-topping hits, acclaimed films, and an influential fashion sense, J.Lo remains a global pop culture phenomenon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez Glows in Gold Tom Ford Dress at CAA's Pre-Oscars Party">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2025/03/Jennifer-Lopez-gold-Tom-Ford-Dress-1.jpeg?crop=0px%2C55px%2C1998px%2C1119px&resize=1000%2C563' alt='Jennifer Lopez Glows in Gold Tom Ford Dress at CAA's Pre-Oscars Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2025/03/Jennifer-Lopez-gold-Tom-Ford-Dress-1.jpeg?crop=0px%2C55px%2C1998px%2C1119px&resize=1000%2C563' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY0OTY3ODA3OV5BMl5BanBnXkFtZTcwMzMyMzQ1NQ@@._V1_.jpg' alt='Jennifer Lopez - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1797">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY0OTY3ODA3OV5BMl5BanBnXkFtZTcwMzMyMzQ1NQ@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2025_01_26_Sundance_Film_Festival-26_Full_%28cropped_3%29.jpg/220px-2025_01_26_Sundance_Film_Festival-26_Full_%28cropped_3%29.jpg' alt='Jennifer Lopez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2025_01_26_Sundance_Film_Festival-26_Full_%28cropped_3%29.jpg/220px-2025_01_26_Sundance_Film_Festival-26_Full_%28cropped_3%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez Toasts the 2025 Oscars in a Champagne Tom Ford Gown ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/Zisiku4jZ4Uz_rh3n3l0Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://media.zenfs.com/en/marie_claire_us_340/11115da34a0e953b7590d453d4998b5d' alt='Jennifer Lopez Toasts the 2025 Oscars in a Champagne Tom Ford Gown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/Zisiku4jZ4Uz_rh3n3l0Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://media.zenfs.com/en/marie_claire_us_340/11115da34a0e953b7590d453d4998b5d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez pours curves into metallic gown for stunning ...">
+                                <img itemprop="contentUrl url" src='https://images.hellomagazine.com/horizon/landscape/14bc1c698e21-jennifer-lopez-wows-gold-dress.jpg?tx=c_limit,w_640' alt='Jennifer Lopez pours curves into metallic gown for stunning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HELLO! Magazine" />
+                                </span>
+                                <a href='https://images.hellomagazine.com/horizon/landscape/14bc1c698e21-jennifer-lopez-wows-gold-dress.jpg?tx=c_limit,w_640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez (@jlo) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3517261925011009433' alt='Jennifer Lopez (@jlo) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3517261925011009433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5ed65800570be80006474843/0x0.jpg?format=jpg&crop=656,655,x154,y0,safe&height=416&width=416&fit=bounds' alt='Jennifer Lopez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5ed65800570be80006474843/0x0.jpg?format=jpg&crop=656,655,x154,y0,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Jennifer Lopez">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044362032719' alt='Profile for Jennifer Lopez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044362032719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez files for divorce from Ben Affleck after 2 years of ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/893ce5e2-714a-4774-a3fb-f7189c8faec1/jennifer-lopez-ap-gmh-240820_1724196608282_hpMain_4x3t.jpg' alt='Jennifer Lopez files for divorce from Ben Affleck after 2 years of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/893ce5e2-714a-4774-a3fb-f7189c8faec1/jennifer-lopez-ap-gmh-240820_1724196608282_hpMain_4x3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jennifer Lopez looks gorgeous in gold gown at pre-Oscars party ...">
+                                <img itemprop="contentUrl url" src='https://www.hola.com/us/horizon/original_aspect_ratio/b5c957b1c4bf-los-angeles-california-jennifer-lopez-attends-the-caa-pre-oscar-party-at-the-liv.jpg' alt='Jennifer Lopez looks gorgeous in gold gown at pre-Oscars party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HOLA" />
+                                </span>
+                                <a href='https://www.hola.com/us/horizon/original_aspect_ratio/b5c957b1c4bf-los-angeles-california-jennifer-lopez-attends-the-caa-pre-oscar-party-at-the-liv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Toys "R" Us Closure: Key Dates and Insights</title>
+                    <meta name="description" content="Discover the timeline of Toys "R" Us closure, including its bankruptcy announcement in 2017 and final store shutdown in 2018. Learn about the factors that led to the demise of this iconic toy retailer and its impact on the industry.">
+                    <meta name="keywords" content="when did toys r us close">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-toys-r-us-close">
+                            <span itemprop="name">when did toys r us close</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Toys "R" Us Closure: Key Dates and Insights</h1>
+                <p>Toys "R" Us officially closed its doors in 2018 after declaring bankruptcy in 2017. The company struggled to compete with online retailers and shifting consumer preferences, leading to the shutdown of its stores. While Toys "R" Us once dominated the toy industry, its decline marked a significant change in retail landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="That time when Toys R Us closed down near me. Sad day. (12/2018 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/that-time-when-toys-r-us-closed-down-near-me-sad-day-12-2018-v0-1839r3ql9ira1.jpg?width=1080&crop=smart&auto=webp&s=e4f1044e06e18e85ccbe37ed51f5b26b907d70ee' alt='That time when Toys R Us closed down near me. Sad day. (12/2018 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/that-time-when-toys-r-us-closed-down-near-me-sad-day-12-2018-v0-1839r3ql9ira1.jpg?width=1080&crop=smart&auto=webp&s=e4f1044e06e18e85ccbe37ed51f5b26b907d70ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys R Us, Game Over: Chain Closing All U.S. Stores : The Two-Way ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2018/03/13/gettyimages-920652130-4bca69ea0a49af2253dbe45e98ff9f935e10bd4a.jpg' alt='Toys R Us, Game Over: Chain Closing All U.S. Stores : The Two-Way ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5590">
+                                <meta itemprop="height" content="4192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2018/03/13/gettyimages-920652130-4bca69ea0a49af2253dbe45e98ff9f935e10bd4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys 'R' Us has closed all its stores – again | CNN Business">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210131094609-restricted-file-toys-r-us-new-jersey-2019.jpg?q=w_3121,h_2080,x_0,y_0,c_fill' alt='Toys 'R' Us has closed all its stores – again | CNN Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3121">
+                                <meta itemprop="height" content="2080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210131094609-restricted-file-toys-r-us-new-jersey-2019.jpg?q=w_3121,h_2080,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Amazon Took Down Toys"R"Us and What It Means for Your Benefit Plan">
+                                <img itemprop="contentUrl url" src='https://www.dcwgrp.com/hubfs/Toys%20R%20Us%20Store%20Closed.png' alt='How Amazon Took Down Toys"R"Us and What It Means for Your Benefit Plan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCW Group" />
+                                </span>
+                                <a href='https://www.dcwgrp.com/hubfs/Toys%20R%20Us%20Store%20Closed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farewell to Toys 'R' Us, and an era of play - The Press Democrat">
+                                <img itemprop="contentUrl url" src='https://imengine.prod.srp.navigacloud.com/?uuid=1D725A7F-7C30-4188-AFD1-A736A4698682&type=primary&q=75&width=1600' alt='Farewell to Toys 'R' Us, and an era of play - The Press Democrat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Press Democrat" />
+                                </span>
+                                <a href='https://imengine.prod.srp.navigacloud.com/?uuid=1D725A7F-7C30-4188-AFD1-A736A4698682&type=primary&q=75&width=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report: Toys R Us is planning a comeback in time for the holidays">
+                                <img itemprop="contentUrl url" src='https://www.freep.com/gcdn/-mm-/eb02378331d18b3f1d9cddd635c9fc3e45c7e0bf/c=0-338-3169-2128/local/-/media/2018/04/22/DetroitFreeP/DetroitFreePress/636600229517824871-IMG-20180422-185015.jpg' alt='Report: Toys R Us is planning a comeback in time for the holidays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3169">
+                                <meta itemprop="height" content="1790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Detroit Free Press" />
+                                </span>
+                                <a href='https://www.freep.com/gcdn/-mm-/eb02378331d18b3f1d9cddd635c9fc3e45c7e0bf/c=0-338-3169-2128/local/-/media/2018/04/22/DetroitFreeP/DetroitFreePress/636600229517824871-IMG-20180422-185015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When Does Toys R Us Officially Close? - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/5b311c141ae6621e008b53a1?width=910&format=jpeg' alt='When Does Toys R Us Officially Close? - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/5b311c141ae6621e008b53a1?width=910&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys R Us Is Closing 182 Locations Across the U.S.">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/goodhousekeeping/assets/18/04/1516812375-toys-r-us-store-closing-list.jpg' alt='Toys R Us Is Closing 182 Locations Across the U.S.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Housekeeping" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/goodhousekeeping/assets/18/04/1516812375-toys-r-us-store-closing-list.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intalytics Commentary: Toys “R” Us Shuts Down… Again | Intalytics">
+                                <img itemprop="contentUrl url" src='https://intalytics.com/wp-content/uploads/2021/02/toys-r-us-closing-scaled.jpg' alt='Intalytics Commentary: Toys “R” Us Shuts Down… Again | Intalytics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intalytics" />
+                                </span>
+                                <a href='https://intalytics.com/wp-content/uploads/2021/02/toys-r-us-closing-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toys R Us' last two stores in the U.S. are closed for good">
+                                <img itemprop="contentUrl url" src='https://image.cnbcfm.com/api/v1/image/106268380-1574865296918storefront_086_new.jpg?v=1611952713' alt='Toys R Us' last two stores in the U.S. are closed for good'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3830">
+                                <meta itemprop="height" content="2554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNBC" />
+                                </span>
+                                <a href='https://image.cnbcfm.com/api/v1/image/106268380-1574865296918storefront_086_new.jpg?v=1611952713' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

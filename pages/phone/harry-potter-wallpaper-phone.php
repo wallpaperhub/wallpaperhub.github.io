@@ -1,0 +1,129 @@
+<title>Stunning Harry Potter Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover enchanting Harry Potter phone wallpapers that bring the magic of the wizarding world to your screen. Perfect for every fan, our collection features beloved characters and iconic scenes. Download now to personalize your phone with a touch of Hogwarts magic!">
+                    <meta name="keywords" content="harry potter wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/harry-potter-wallpaper-phone">
+                            <span itemprop="name">harry potter wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Harry Potter Phone Wallpapers for Every Fan</h1>
+                <p>Transform your phone with captivating Harry Potter wallpapers! Explore a magical collection featuring iconic characters, breathtaking landscapes, and spellbinding scenes. Perfect for fans, these wallpapers will enchant your device, bringing a piece of the wizarding world right to your pocket. Download now for a touch of magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kn4oosuklzj91.jpg' alt='Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kn4oosuklzj91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2024/10/vintage-harry-potter-1.jpg' alt='30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2024/10/vintage-harry-potter-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpapers (68 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/4/33753-1080x1920-mobile-1080p-harry-potter-wallpaper.jpg' alt='Harry Potter Wallpapers (68 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/4/33753-1080x1920-mobile-1080p-harry-potter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD harry potter wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/135/982/HD-wallpaper-hogwarts-legacy-harry-harry-potter-potter.jpg' alt='HD harry potter wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/135/982/HD-wallpaper-hogwarts-legacy-harry-harry-potter-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter Gryffindor iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/dd/39/35dd3911ce29b1f06a48880b9d08360a.jpg' alt='Awesome Harry Potter Gryffindor iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/dd/39/35dd3911ce29b1f06a48880b9d08360a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter, lock screen, funny, harry potter, muggle, harry ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/563/584/HD-wallpaper-harry-potter-lock-screen-funny-harry-potter-muggle-harry-potter-lock-screen-harry-potter.jpg' alt='Harry Potter, lock screen, funny, harry potter, muggle, harry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/563/584/HD-wallpaper-harry-potter-lock-screen-funny-harry-potter-muggle-harry-potter-lock-screen-harry-potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this Harry Potter wallpaper for my phone. : r/Illustration">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/kXJ7frAtHCeQ1_EQV-YGbwr3NqeUJfY0IN87p4wbqnU.jpg?auto=webp&s=ff942d7424813054ee5a5a9f84a934e9a05b24f6' alt='I made this Harry Potter wallpaper for my phone. : r/Illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/kXJ7frAtHCeQ1_EQV-YGbwr3NqeUJfY0IN87p4wbqnU.jpg?auto=webp&s=ff942d7424813054ee5a5a9f84a934e9a05b24f6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Harry Potter iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/10/iphone-wallpaper-harry-potter-and-the-deathly-hallows-symbol-wallpaper.jpeg' alt='Minimal Harry Potter iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/10/iphone-wallpaper-harry-potter-and-the-deathly-hallows-symbol-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deathly Hallows Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/deathly-hallows-harry-potter-hogwarts-iphone-rwiz7jxgkogbwsla.jpg' alt='Deathly Hallows Harry Potter Hogwarts Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/deathly-hallows-harry-potter-hogwarts-iphone-rwiz7jxgkogbwsla.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Harry Potter Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/harry-potter-iphone-ybz7039g17wek9d8.jpg' alt='100+] Harry Potter Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1174">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/harry-potter-iphone-ybz7039g17wek9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

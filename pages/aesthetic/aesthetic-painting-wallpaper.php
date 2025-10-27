@@ -1,0 +1,129 @@
+<title>Aesthetic Painting Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Explore our aesthetic painting wallpaper collection to enhance your home decor. Discover unique designs that bring art and style into your living spaces. Perfect for adding character and creativity, our wallpapers create an inviting ambiance that reflects your personal taste. Upgrade your walls today!">
+                    <meta name="keywords" content="aesthetic painting wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-painting-wallpaper">
+                            <span itemprop="name">aesthetic painting wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Painting Wallpaper: Transform Your Space</h1>
+                <p>Aesthetic painting wallpaper transforms your living space by infusing it with artful vibrancy and emotion. Perfect for creating a serene atmosphere, these wallpapers feature beautiful designs ranging from abstract patterns to nature-inspired scenes. Elevate your decor and express your personality with stunning visual elements that inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreens">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/53/22/e953223c727b729268d23d6ca18341c9.jpg' alt='lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/53/22/e953223c727b729268d23d6ca18341c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Aesthetic Phone Wallpaper Background Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dc/77/55/dc775585466f0aedea6fd0d771ddd7ec.jpg' alt='25 Aesthetic Phone Wallpaper Background Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dc/77/55/dc775585466f0aedea6fd0d771ddd7ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Aesthetic Art Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-art-39mydncrinbm5fvq.jpg' alt='300+] Aesthetic Art Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-art-39mydncrinbm5fvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic painting wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/938/1015/HD-wallpaper-academique-morbide-painting-aesthetic-painting-scenery-classical-paintings-thumbnail.jpg' alt='HD aesthetic painting wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/938/1015/HD-wallpaper-academique-morbide-painting-aesthetic-painting-scenery-classical-paintings-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpapers ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/b9/42/2eb942e48ce2b06b4fcd0af39e51ef49.jpg' alt='wallpapers ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/b9/42/2eb942e48ce2b06b4fcd0af39e51ef49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper oil painting | Scenery wallpaper, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/5b/ff/475bff88d16ea860ee313f0e6ecae4e7.jpg' alt='Aesthetic Wallpaper oil painting | Scenery wallpaper, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/5b/ff/475bff88d16ea860ee313f0e6ecae4e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Sun And Moon Painting Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-sun-and-moon-painting-ck6h7qbjljbs5ncf.jpg' alt='Download Aesthetic Sun And Moon Painting Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-sun-and-moon-painting-ck6h7qbjljbs5ncf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Painting Aesthetic Art Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/abstract-painting-aesthetic-art-desktop-7kg8s0y971t53pyv.jpg' alt='Abstract Painting Aesthetic Art Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/abstract-painting-aesthetic-art-desktop-7kg8s0y971t53pyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="art-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/fdc0816cfc06bc95deeec175f8b695f6/8bf0213bb2e1245e-d2/s2048x3072_c0,2904,100000,97017/85240f7bbaae391a36b4916e83be55a7054f462e.jpg' alt='art-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2130">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/fdc0816cfc06bc95deeec175f8b695f6/8bf0213bb2e1245e-d2/s2048x3072_c0,2904,100000,97017/85240f7bbaae391a36b4916e83be55a7054f462e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Volcano on X: "anime aesthetic | Art wallpaper, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Eplkb08WMAYZY6E.jpg:large' alt='Art Volcano on X: "anime aesthetic | Art wallpaper, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Eplkb08WMAYZY6E.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

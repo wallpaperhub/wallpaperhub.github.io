@@ -1,0 +1,129 @@
+<title>The Dazzling Neon Bugatti: A Fusion of Luxury and Speed</title>
+                    <meta name="description" content="Discover the captivating world of the neon Bugatti, where luxury meets performance. Explore its striking design and unmatched speed, setting new standards in the automotive industry. Perfect for enthusiasts and dreamers alike, this stunning vehicle shines bright on any road.">
+                    <meta name="keywords" content="neon bugatti">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-bugatti">
+                            <span itemprop="name">neon bugatti</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Dazzling Neon Bugatti: A Fusion of Luxury and Speed</h1>
+                <p>Experience the electrifying allure of the neon Bugatti, a masterpiece of automotive design that fuses performance with stunning visuals. With its vibrant neon lights and aerodynamic curves, this luxury sports car not only commands attention on the road but also redefines the boundaries of speed and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Torque: Bugatti Zenith 2024">
+                                <img itemprop="contentUrl url" src='https://creator.nightcafe.studio/jobs/dk2RUkTwXUN54v1NMTIN/dk2RUkTwXUN54v1NMTIN-7paOX-adjusted.jpg' alt='Neon Torque: Bugatti Zenith 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NightCafe" />
+                                </span>
+                                <a href='https://creator.nightcafe.studio/jobs/dk2RUkTwXUN54v1NMTIN/dk2RUkTwXUN54v1NMTIN-7paOX-adjusted.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2006 Bugatti Veyron in Electrified Neon Lights 20210715 Greeting Card">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/2006-bugatti-veyron-in-electrified-neon-lights-20210715-wingsdomain-art-and-photography.jpg' alt='2006 Bugatti Veyron in Electrified Neon Lights 20210715 Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/2006-bugatti-veyron-in-electrified-neon-lights-20210715-wingsdomain-art-and-photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugatti Bolide Hyper Sports Cars 2021 by Marietta Beatty">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bugatti-bolide-hyper-sports-cars-2021-marietta-beatty.jpg' alt='Bugatti Bolide Hyper Sports Cars 2021 by Marietta Beatty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bugatti-bolide-hyper-sports-cars-2021-marietta-beatty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Bugatti Inspired Wall Art">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46050293/r/il/408e9d/5367562037/il_fullxfull.5367562037_eww4.jpg' alt='Neon Bugatti Inspired Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46050293/r/il/408e9d/5367562037/il_fullxfull.5367562037_eww4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Bugatti Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-bugatti-l9290z2yk0qtwqmh.jpg' alt='100+] Neon Bugatti Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-bugatti-l9290z2yk0qtwqmh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Experience Thrill Like Never Before With Light Kit For Bugatti ...">
+                                <img itemprop="contentUrl url" src='http://www.lightailing.com/cdn/shop/articles/hhfjdhj_1024x.jpg?v=1558603618' alt='Experience Thrill Like Never Before With Light Kit For Bugatti ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lightailing" />
+                                </span>
+                                <a href='http://www.lightailing.com/cdn/shop/articles/hhfjdhj_1024x.jpg?v=1558603618' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Bugatti Veyron Super Car Stock Illustration 2347102677 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2347102677/display_1500/stock-photo-neon-bugatti-veyron-super-car-2347102677.jpg' alt='Neon Bugatti Veyron Super Car Stock Illustration 2347102677 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2347102677/display_1500/stock-photo-neon-bugatti-veyron-super-car-2347102677.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car Neon Sign Bugatti">
+                                <img itemprop="contentUrl url" src='https://www.neonsignsdepot.com/wp-content/uploads/2020/10/CAR-SIGNS-Bugatti-16x30-WS-B.jpg' alt='Car Neon Sign Bugatti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Neon Signs Depot" />
+                                </span>
+                                <a href='https://www.neonsignsdepot.com/wp-content/uploads/2020/10/CAR-SIGNS-Bugatti-16x30-WS-B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supercar Bugatti Bolide #3 Jigsaw Puzzle by Clark Leffler - Fine ...">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/3-supercar-bugatti-bolide-clark-leffler.jpg?&targetx=0&targety=-30&imagewidth=750&imageheight=1060&modelwidth=750&modelheight=1000&backgroundcolor=3247BB&orientation=1&producttype=puzzle-18-24&brightness=11&v=6' alt='Supercar Bugatti Bolide #3 Jigsaw Puzzle by Clark Leffler - Fine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/3-supercar-bugatti-bolide-clark-leffler.jpg?&targetx=0&targety=-30&imagewidth=750&imageheight=1060&modelwidth=750&modelheight=1000&backgroundcolor=3247BB&orientation=1&producttype=puzzle-18-24&brightness=11&v=6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugatti Veyron in blue light splashes | Metal Poster Price Slash ...">
+                                <img itemprop="contentUrl url" src='https://www.wallartgalore.com/media/catalog/product/cache/db139d3a3c2cd533aa7d33d02d47df04/1/_/1_58081.png' alt='Bugatti Veyron in blue light splashes | Metal Poster Price Slash ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Art Galore" />
+                                </span>
+                                <a href='https://www.wallartgalore.com/media/catalog/product/cache/db139d3a3c2cd533aa7d33d02d47df04/1/_/1_58081.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Red and White Plaid Background for Every Occasion</title>
+                    <meta name="description" content="Discover the charm of a red and white plaid background! Ideal for seasonal decor or stylish design projects, this timeless pattern combines warmth with versatility, making it the perfect choice for any aesthetic. Enhance your visuals today with this classic yet trendy checkered style!">
+                    <meta name="keywords" content="red and white plaid background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-and-white-plaid-background">
+                            <span itemprop="name">red and white plaid background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red and White Plaid Background for Every Occasion</h1>
+                <p>A red and white plaid background adds a classic touch to any design, infusing it with warmth and nostalgia. Perfect for seasonal themes like Christmas or a cozy rustic vibe, the checkered pattern evokes comfort and familiarity. Use it to enhance textiles, wallpapers, or graphics, bringing a timeless appeal to your projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,800+ Red And White Checkered Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/866510130/vector/gingham-tablecloth-seamless-pattern-in-red-and-white.jpg?s=612x612&w=0&k=20&c=6Rzgz60jnY-XbiWa907bfmLGlCy2IOYhr4ojAWiPe0w=' alt='10,800+ Red And White Checkered Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/866510130/vector/gingham-tablecloth-seamless-pattern-in-red-and-white.jpg?s=612x612&w=0&k=20&c=6Rzgz60jnY-XbiWa907bfmLGlCy2IOYhr4ojAWiPe0w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Plaid Peel and Stick Removable Wallpaper 6879">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/stripes_and_plaid_71036879_01_46ec1b69-a937-4215-973a-7eabd9df546e-sw_1200x1200.jpg?v=1614634611' alt='Red and White Plaid Peel and Stick Removable Wallpaper 6879'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/stripes_and_plaid_71036879_01_46ec1b69-a937-4215-973a-7eabd9df546e-sw_1200x1200.jpg?v=1614634611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Checkered Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-white-checkered-pattern-squares_588675-6755.jpg?semt=ais_hybrid' alt='Red White Checkered Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-white-checkered-pattern-squares_588675-6755.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Tartan Plaid pattern. Traditional Scottish check ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/67/93/79/1000_F_267937993_0e4OB0NP9uqZnHqsUhN7JFhEDnLLwdFm.jpg' alt='Red and White Tartan Plaid pattern. Traditional Scottish check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/67/93/79/1000_F_267937993_0e4OB0NP9uqZnHqsUhN7JFhEDnLLwdFm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,800+ Red And White Checkered Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1404577967/vector/red-tablecloth-pattern-background-classic-tartan-plaid-fabric-texture-food-and-drink-concept.jpg?s=612x612&w=0&k=20&c=tMrFWZIpnP0X1T6VrzTJKEW3tN3ArQ5N-FfPOlglMIg=' alt='10,800+ Red And White Checkered Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1404577967/vector/red-tablecloth-pattern-background-classic-tartan-plaid-fabric-texture-food-and-drink-concept.jpg?s=612x612&w=0&k=20&c=tMrFWZIpnP0X1T6VrzTJKEW3tN3ArQ5N-FfPOlglMIg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Checkered Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/490/918/small_2x/gingham-pattern-seamless-plaid-repeat-in-red-and-white-design-for-print-tartan-gift-wrap-textiles-checkered-background-for-tablecloth-vector.jpg' alt='Red Checkered Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/490/918/small_2x/gingham-pattern-seamless-plaid-repeat-in-red-and-white-design-for-print-tartan-gift-wrap-textiles-checkered-background-for-tablecloth-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A red, white and blue checkered pattern. Plaid red white ...">
+                                <img itemprop="contentUrl url" src='https://cdn12.picryl.com/photo/2016/12/31/plaid-red-white-backgrounds-textures-b404b1-1024.jpg' alt='A red, white and blue checkered pattern. Plaid red white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PICRYL" />
+                                </span>
+                                <a href='https://cdn12.picryl.com/photo/2016/12/31/plaid-red-white-backgrounds-textures-b404b1-1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Red and white plaid seamless pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-white-plaid-seamless-pattern_197792-219.jpg' alt='Premium Vector | Red and white plaid seamless pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-white-plaid-seamless-pattern_197792-219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red white and blue Plaid Seamless file, Patriotic Gingham Plaid Seamless  Pattern, Red white and blue Gingham fabric design, Non exclusive">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23136514/r/il/a89bee/4084585203/il_570xN.4084585203_ob8h.jpg' alt='Red white and blue Plaid Seamless file, Patriotic Gingham Plaid Seamless  Pattern, Red white and blue Gingham fabric design, Non exclusive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23136514/r/il/a89bee/4084585203/il_570xN.4084585203_ob8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Checkered Images – Browse 245,346 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/75/53/59/360_F_75535924_ll6u9TIV9FYubwCjHYbD9cTpljiWekPG.jpg' alt='Red White Checkered Images – Browse 245,346 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/75/53/59/360_F_75535924_ll6u9TIV9FYubwCjHYbD9cTpljiWekPG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Map Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the beauty of 4K map wallpaper! Perfect for adding a unique touch to any room, our high-resolution designs offer intricate details and customizable options. Transform your walls with vibrant colors and patterns that inspire adventure and exploration. Shop now for the perfect fit!">
+                    <meta name="keywords" content="map wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/map-wallpaper-4k">
+                            <span itemprop="name">map wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Map Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning map wallpaper in 4K resolution! These vibrant designs feature intricate details of continents, cities, and geographical patterns, perfect for any room. Elevate your home or office with high-quality, customizable options that reflect your personality and adventures. Explore the world from your walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global Map Wallpapers (24 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/e/1/257456-3840x2160-desktop-4k-global-map-wallpaper-photo.jpg' alt='Global Map Wallpapers (24 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/e/1/257456-3840x2160-desktop-4k-global-map-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning World Map - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/681/681662.jpg' alt='Stunning World Map - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/681/681662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning 4K Ultra HD World Map Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/665/665825.jpg' alt='Stunning 4K Ultra HD World Map Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6462">
+                                <meta itemprop="height" content="4648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/665/665825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Photos, Download The BEST Free World Map Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/592753/pexels-photo-592753.jpeg' alt='World Map Photos, Download The BEST Free World Map Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4719">
+                                <meta itemprop="height" content="2303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/592753/pexels-photo-592753.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] World Map Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/1c/e9/b81ce9617363f6175e6a41870a2318a1.jpg' alt='300+] World Map Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/1c/e9/b81ce9617363f6175e6a41870a2318a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World map Wallpaper 4K, Design">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/world-map-design-2732x2732-16644.jpg' alt='World map Wallpaper 4K, Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/world-map-design-2732x2732-16644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Vintage World Map UHD 4K Wallpaper - Pixelz.cc">
+                                <img itemprop="contentUrl url" src='https://pixelz.cc/wp-content/uploads/2018/05/american-vintage-world-map-uhd-4k-wallpaper.jpg' alt='American Vintage World Map UHD 4K Wallpaper - Pixelz.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixelz.cc" />
+                                </span>
+                                <a href='https://pixelz.cc/wp-content/uploads/2018/05/american-vintage-world-map-uhd-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map 4k With Landmarks Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/world-map-4k-brown-and-black-tyoh02smvbdyuugk.webp' alt='World Map 4k With Landmarks Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/world-map-4k-brown-and-black-tyoh02smvbdyuugk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] World Map Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-world-map-jxx5yrifoiq0t3u6.jpg' alt='300+] World Map Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-world-map-jxx5yrifoiq0t3u6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City map cell phone wallpaper : r/kansascity">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6j279sgt8bn01.png' alt='Kansas City map cell phone wallpaper : r/kansascity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6j279sgt8bn01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

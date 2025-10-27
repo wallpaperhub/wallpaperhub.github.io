@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Roses Wallpaper for Elegant Spaces</title>
+                    <meta name="description" content="Add a touch of elegance to your home with our yellow roses wallpaper. Perfect for brightening up any room, this cheerful design combines beauty and charm. Ideal for those seeking a fresh, floral aesthetic that brings warmth and cheer to any interior. Shop now for a stunning transformation!">
+                    <meta name="keywords" content="wallpaper yellow roses">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/wallpaper-yellow-roses">
+                            <span itemprop="name">wallpaper yellow roses</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Roses Wallpaper for Elegant Spaces</h1>
+                <p>Transform your space with beautiful wallpaper featuring yellow roses. This vibrant design brings warmth and cheer to any room, making it ideal for living areas, bedrooms, or nurseries. The soft hues of yellow paired with delicate rose patterns create a fresh, inviting atmosphere. Embrace nature's beauty indoors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Roses Photos, Download The BEST Free Yellow Roses Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2013699/pexels-photo-2013699.jpeg?cs=srgb&dl=pexels-mccutcheon-2013699.jpg&fm=jpg' alt='Yellow Roses Photos, Download The BEST Free Yellow Roses Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3744">
+                                <meta itemprop="height" content="5616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2013699/pexels-photo-2013699.jpeg?cs=srgb&dl=pexels-mccutcheon-2013699.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ Yellow Rose Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1602755656801-8b88180f7b4c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVsbG93JTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' alt='350+ Yellow Rose Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1602755656801-8b88180f7b4c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVsbG93JTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190+ Dozen Yellow Roses Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/175217633/photo/yellow-roses.jpg?s=612x612&w=0&k=20&c=64sc-yiS0BsUZGChO0tzjGO715Sc0v_CZTV7rXiDb4Y=' alt='190+ Dozen Yellow Roses Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/175217633/photo/yellow-roses.jpg?s=612x612&w=0&k=20&c=64sc-yiS0BsUZGChO0tzjGO715Sc0v_CZTV7rXiDb4Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Roses Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1527534393395-1eef3b67da0d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHllbGxvdyUyMHJvc2VzfGVufDB8fDB8fHww' alt='Yellow Roses Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1527534393395-1eef3b67da0d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHllbGxvdyUyMHJvc2VzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Rose wallpaper by PameMuriel - Download on ZEDGE™ | bb1f">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a9/bc/06/a9bc06a77212433915ae203bef0fe12d.jpg' alt='Yellow Rose wallpaper by PameMuriel - Download on ZEDGE™ | bb1f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a9/bc/06/a9bc06a77212433915ae203bef0fe12d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Desktop Wallpapers - Flowers - 20472 2560x1600">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/60/d1/5760d1fcdae3133704e6fac7df9de8b9.jpg' alt='Free Desktop Wallpapers - Flowers - 20472 2560x1600'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/60/d1/5760d1fcdae3133704e6fac7df9de8b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Rose Photos, Download The BEST Free Yellow Rose Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3755309/pexels-photo-3755309.jpeg?cs=srgb&dl=pexels-suzyhazelwood-3755309.jpg&fm=jpg' alt='Yellow Rose Photos, Download The BEST Free Yellow Rose Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3331">
+                                <meta itemprop="height" content="5458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3755309/pexels-photo-3755309.jpeg?cs=srgb&dl=pexels-suzyhazelwood-3755309.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Flower Yellow Rose Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-aesthetic-flower-yellow-rose-j2up75dn313qzcpz.jpg' alt='Cute Aesthetic Flower Yellow Rose Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-aesthetic-flower-yellow-rose-j2up75dn313qzcpz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Yellow Rose Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-watercolor-yellow-rose-background-picture-image_1345795.jpg' alt='Watercolor Yellow Rose Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-watercolor-yellow-rose-background-picture-image_1345795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="303,048 Yellow Rose Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/yellow-rose-buds-close-up-76054202.jpg' alt='303,048 Yellow Rose Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/yellow-rose-buds-close-up-76054202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

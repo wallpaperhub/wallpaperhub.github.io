@@ -1,0 +1,129 @@
+<title>Stunning Pixel Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pixel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-wallpaper">
+                            <span itemprop="name">pixel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pixel Wallpapers for Your Device</h1>
+                <p>Pixel wallpaper transforms your device's screen with stunning, high-resolution images made up of colorful squares. Ideal for personalizing your digital space, these wallpapers come in various designs, from abstract patterns to vibrant landscapes. Elevate your aesthetic with pixel art that reflects your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City view (Pixel art poster/wallpaper) – The Coffee Noir">
+                                <img itemprop="contentUrl url" src='https://www.thecoffeenoir.com/cdn/shop/files/City_View_8x_891a9ab7-9a3a-44a0-887f-8377352d2599.png?v=1715070748&width=1946' alt='City view (Pixel art poster/wallpaper) – The Coffee Noir'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Coffee Noir" />
+                                </span>
+                                <a href='https://www.thecoffeenoir.com/cdn/shop/files/City_View_8x_891a9ab7-9a3a-44a0-887f-8377352d2599.png?v=1715070748&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpaper [gallery] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redditmedia.com/AUXwGcVgSh0v6POuTDYvWH1kEzBQvK1EWb777KbSp4w.jpg?s=7417d7fcca26778f6d2b0f43196cc18e' alt='Pixel Art Wallpaper [gallery] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redditmedia.com/AUXwGcVgSh0v6POuTDYvWH1kEzBQvK1EWb777KbSp4w.jpg?s=7417d7fcca26778f6d2b0f43196cc18e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T-Shirts by 8BitShop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/88/fd/67/88fd6764077d4c6a5d985c02110c24c4.jpg' alt='T-Shirts by 8BitShop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/88/fd/67/88fd6764077d4c6a5d985c02110c24c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper pixel 2025 art">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/122/1224149.png' alt='Wallpaper pixel 2025 art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/122/1224149.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Summer Night - Pixel Art Wallpaper by SubtleRealityShift ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e918a90b-daa4-4f5d-8e95-fb8771592c4d/dhoxmhj-a0594662-883d-4f90-b6f4-5795234eda19.png/v1/fill/w_1280,h_2284,q_80,strp/pixel_art_summer_night___pixel_art_wallpaper_by_subtlerealityshift_dhoxmhj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4NCIsInBhdGgiOiJcL2ZcL2U5MThhOTBiLWRhYTQtNGY1ZC04ZTk1LWZiODc3MTU5MmM0ZFwvZGhveG1oai1hMDU5NDY2Mi04ODNkLTRmOTAtYjZmNC01Nzk1MjM0ZWRhMTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ieSRSD91wbiy0MeHVcrQ-ghKNLrjz2cyuI0CM3wzolM' alt='Pixel Art Summer Night - Pixel Art Wallpaper by SubtleRealityShift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e918a90b-daa4-4f5d-8e95-fb8771592c4d/dhoxmhj-a0594662-883d-4f90-b6f4-5795234eda19.png/v1/fill/w_1280,h_2284,q_80,strp/pixel_art_summer_night___pixel_art_wallpaper_by_subtlerealityshift_dhoxmhj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4NCIsInBhdGgiOiJcL2ZcL2U5MThhOTBiLWRhYTQtNGY1ZC04ZTk1LWZiODc3MTU5MmM0ZFwvZGhveG1oai1hMDU5NDY2Mi04ODNkLTRmOTAtYjZmNC01Nzk1MjM0ZWRhMTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ieSRSD91wbiy0MeHVcrQ-ghKNLrjz2cyuI0CM3wzolM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Pixel Art Wallpaper, HD Artist 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Landscape Pixel Art Wallpaper, HD Artist 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51jeuNZnSIL.jpg' alt='Pixel Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51jeuNZnSIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pixel-art-mystical-background_52683-87349.jpg' alt='Pixel Art Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pixel-art-mystical-background_52683-87349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pixel art wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/106/1007/HD-wallpaper-artistic-pixel-art.jpg' alt='HD pixel art wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/106/1007/HD-wallpaper-artistic-pixel-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Pixel Art Town Wallpaper 7">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/6d/0f/6b6d0f0f2ee97f858cda28713bcff920.jpg' alt='Cozy Pixel Art Town Wallpaper 7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/6d/0f/6b6d0f0f2ee97f858cda28713bcff920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Who Was the First Dental Hygienist? Discover Irene Newman!</title>
+                    <meta name="description" content="Learn about Irene Newman, the first dental hygienist, and her groundbreaking contributions to preventive oral care. Discover how she shaped the field of dental hygiene and promoted the importance of regular dental visits. Join us in exploring the legacy of this pioneering figure in dentistry!">
+                    <meta name="keywords" content="who was the first dental hygienist">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-was-the-first-dental-hygienist">
+                            <span itemprop="name">who was the first dental hygienist</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Was the First Dental Hygienist? Discover Irene Newman!</h1>
+                <p>The first dental hygienist was Irene Newman, who began her career in the early 1900s. Trained by Dr. Alfred Fones, a pioneering figure in dentistry, she played a crucial role in establishing dental hygiene as a profession. Newman is credited with promoting preventive oral care and the importance of regular dental check-ups, laying the foundation for modern dental hygiene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look Back at the History of Dental Hygiene">
+                                <img itemprop="contentUrl url" src='https://blog.ultradent.com/hubfs/Sharepoint%20Blog%20Photos%20and%20Images/Photos/2017/09-September/4_Dental-Hygiene-Month-History/3_history-of-dental-hygiene_irene-newman.jpg' alt='A Look Back at the History of Dental Hygiene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="An Ultradent Blog - Ultradent Products" />
+                                </span>
+                                <a href='https://blog.ultradent.com/hubfs/Sharepoint%20Blog%20Photos%20and%20Images/Photos/2017/09-September/4_Dental-Hygiene-Month-History/3_history-of-dental-hygiene_irene-newman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irene Newman was the first dental... - CCD Dental Hygiene | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3749116968502710' alt='Irene Newman was the first dental... - CCD Dental Hygiene | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3749116968502710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who was number... - Florida Dental Hygienists' Association | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162874069115475' alt='Who was number... - Florida Dental Hygienists' Association | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162874069115475' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="McCall Dental - Irene Newman was the world’s first dental...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1140433339685127&get_thumbnail=1' alt='McCall Dental - Irene Newman was the world’s first dental...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1140433339685127&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dental Hygiene: A Century of Progress — Sindecuse Museum">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5c59afe1ca525b1aa6c9eaee/t/6427145b01d8ea15e336ceab/1680282715362/dh-exhibit.jpg?format=1500w' alt='Dental Hygiene: A Century of Progress — Sindecuse Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sindecuse Museum of Dentistry" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5c59afe1ca525b1aa6c9eaee/t/6427145b01d8ea15e336ceab/1680282715362/dh-exhibit.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shoutout to the very first dental hygienist, Irene Newman! In 1905 ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509181590988731347' alt='Shoutout to the very first dental hygienist, Irene Newman! In 1905 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3509181590988731347' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Of Dental Hygiene Objectives Diagram | Quizlet">
+                                <img itemprop="contentUrl url" src='http://o.quizlet.com/Xki2l8NDQTRNrZrz5E6ozQ.jpg' alt='History Of Dental Hygiene Objectives Diagram | Quizlet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="199">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quizlet" />
+                                </span>
+                                <a href='http://o.quizlet.com/Xki2l8NDQTRNrZrz5E6ozQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look Back at the History of Dental Hygiene">
+                                <img itemprop="contentUrl url" src='https://blog.ultradent.com/hubfs/Sharepoint%20Blog%20Photos%20and%20Images/Photos/2017/09-September/4_Dental-Hygiene-Month-History/2_history-of-dental-hygiene_alfred-fones.jpg' alt='A Look Back at the History of Dental Hygiene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="An Ultradent Blog - Ultradent Products" />
+                                </span>
+                                <a href='https://blog.ultradent.com/hubfs/Sharepoint%20Blog%20Photos%20and%20Images/Photos/2017/09-September/4_Dental-Hygiene-Month-History/2_history-of-dental-hygiene_alfred-fones.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Village Smiles Professional Dental Hygiene Care - In 1905 Irene ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3606356766157451' alt='Village Smiles Professional Dental Hygiene Care - In 1905 Irene ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3606356766157451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chapter 1: History Of Dentistry Flashcards | Quizlet">
+                                <img itemprop="contentUrl url" src='https://o.quizlet.com/tD3-EeXkL.nWkuT2je1F5A.jpg' alt='Chapter 1: History Of Dentistry Flashcards | Quizlet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quizlet" />
+                                </span>
+                                <a href='https://o.quizlet.com/tD3-EeXkL.nWkuT2je1F5A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

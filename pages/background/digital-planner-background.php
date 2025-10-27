@@ -1,0 +1,129 @@
+<title>Transform Your Life with a Digital Planner</title>
+                    <meta name="description" content="Explore the benefits of digital planners! Discover how they combine technology and creativity to boost your organization skills, enhance productivity, and simplify goal tracking, all while looking great on your devices. Start planning smarter today!">
+                    <meta name="keywords" content="digital planner background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/digital-planner-background">
+                            <span itemprop="name">digital planner background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Life with a Digital Planner</h1>
+                <p>Digital planners blend traditional planning methods with modern technology, offering users a flexible and visually appealing way to organize their lives. With customizable layouts, digital stickers, and integration with calendars, they simplify goal tracking, task management, and scheduling, enhancing productivity in a visually engaging way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Backgrounds for Your Digital Planner Pages">
+                                <img itemprop="contentUrl url" src='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk8.jpg' alt='How to Create Backgrounds for Your Digital Planner Pages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life is Messy and Brilliant | Bullet Journaling, Hand Lettering ..." />
+                                </span>
+                                <a href='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Planner Backgrounds Collection for Happydownloads Landscape ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8752191/r/il/a7aea6/6155250736/il_570xN.6155250736_fu9y.jpg' alt='Custom Planner Backgrounds Collection for Happydownloads Landscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8752191/r/il/a7aea6/6155250736/il_570xN.6155250736_fu9y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Backgrounds for Your Digital Planner Pages">
+                                <img itemprop="contentUrl url" src='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk15.jpg' alt='How to Create Backgrounds for Your Digital Planner Pages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life is Messy and Brilliant | Bullet Journaling, Hand Lettering ..." />
+                                </span>
+                                <a href='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Backgrounds for Your Digital Planner Pages">
+                                <img itemprop="contentUrl url" src='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk22.jpg' alt='How to Create Backgrounds for Your Digital Planner Pages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life is Messy and Brilliant | Bullet Journaling, Hand Lettering ..." />
+                                </span>
+                                <a href='https://lifeismessyandbrilliant.com/wp-content/uploads/2017/08/Digital-Planner-Mockup-Desk22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Planner Template Design Make Bookmark Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/digital-planner-template-design-make-260nw-1328424962.jpg' alt='Digital Planner Template Design Make Bookmark Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="326">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/digital-planner-template-design-make-260nw-1328424962.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design your own digital planner">
+                                <img itemprop="contentUrl url" src='http://digitallywild.com/images/blog/etsy_first_spread.jpg' alt='Design your own digital planner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1546">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DigitallyWild" />
+                                </span>
+                                <a href='http://digitallywild.com/images/blog/etsy_first_spread.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn How to Design a Digital Planner on Your iPad: Buttons ...">
+                                <img itemprop="contentUrl url" src='https://lizkohlerbrown.com/wp-content/uploads/2019/01/my-planner-cropped.jpg' alt='Learn How to Design a Digital Planner on Your iPad: Buttons ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liz Kohler Brown" />
+                                </span>
+                                <a href='https://lizkohlerbrown.com/wp-content/uploads/2019/01/my-planner-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Planner Creator Make Your Own - Custom Scene">
+                                <img itemprop="contentUrl url" src='https://www.customscene.co/wp-content/uploads/2022/01/Digital_Planner_Notebook_-_Open.jpg' alt='Digital Planner Creator Make Your Own - Custom Scene'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Scene" />
+                                </span>
+                                <a href='https://www.customscene.co/wp-content/uploads/2022/01/Digital_Planner_Notebook_-_Open.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planner Builder - May 2020">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/38/01/2f38019bb72c03676b78ff83c26eb682.jpg' alt='Planner Builder - May 2020'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/38/01/2f38019bb72c03676b78ff83c26eb682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Digital Planner - Make Your Own Digital Planner - World of ...">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/04/blank-planner-1024x679.jpg' alt='Blank Digital Planner - Make Your Own Digital Planner - World of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/04/blank-planner-1024x679.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

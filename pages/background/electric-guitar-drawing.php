@@ -1,0 +1,129 @@
+<title>How to Draw Electric Guitars: A Step-by-Step Guide</title>
+                    <meta name="description" content="Discover the ultimate guide on electric guitar drawing! Learn techniques and tips to create stunning and realistic electric guitar sketches. Perfect for beginners and enthusiasts wanting to enhance their art skills. Get inspired and start your music-inspired art journey today!">
+                    <meta name="keywords" content="electric guitar drawing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/electric-guitar-drawing">
+                            <span itemprop="name">electric guitar drawing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Draw Electric Guitars: A Step-by-Step Guide</h1>
+                <p>Drawing an electric guitar can be a fun and creative process. Start by sketching the body shape, which is often sleek and curved. Focus on details like the pickguard, pickups, and neck. Use vibrant colors to represent your favorite styles. Don’t forget to add strings and tuning pegs for realism, making your art come alive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw an Electric Guitar">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7457n82rrls/maxresdefault.jpg' alt='How to draw an Electric Guitar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7457n82rrls/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw a guitar easy step by step || Electric guitar drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3N3JUYoZAPw/maxresdefault.jpg' alt='How to draw a guitar easy step by step || Electric guitar drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3N3JUYoZAPw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw An Electric Guitar – A Step By Step Guide - I Heart ...">
+                                <img itemprop="contentUrl url" src='https://iheartcraftythings.com/wp-content/uploads/2023/05/4-22.jpg' alt='How To Draw An Electric Guitar – A Step By Step Guide - I Heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Heart Crafty Things" />
+                                </span>
+                                <a href='https://iheartcraftythings.com/wp-content/uploads/2023/05/4-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw An Electric Guitar">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/42gH1vryr40/maxresdefault.jpg' alt='How to Draw An Electric Guitar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/42gH1vryr40/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Guitar Outline Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/276/895/non_2x/electric-guitar-linear-icon-thin-line-illustration-contour-symbol-isolated-outline-drawing-vector.jpg' alt='Electric Guitar Outline Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/276/895/non_2x/electric-guitar-linear-icon-thin-line-illustration-contour-symbol-isolated-outline-drawing-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw an Electric Guitar - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7457n82rrls/sddefault.jpg' alt='How to draw an Electric Guitar - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7457n82rrls/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Guitar Drawing Images – Browse 75,521 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/65/70/71/360_F_365707181_XBbYufMVUsQCEz0eAkQQfdcdm55SlMg8.jpg' alt='Electric Guitar Drawing Images – Browse 75,521 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/65/70/71/360_F_365707181_XBbYufMVUsQCEz0eAkQQfdcdm55SlMg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Guitar Drawing Images – Browse 75,521 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/17/85/54/360_F_517855460_8ElSF65hQWLdQ3vMVIuYc3bmXIACUDHi.jpg' alt='Electric Guitar Drawing Images – Browse 75,521 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/17/85/54/360_F_517855460_8ElSF65hQWLdQ3vMVIuYc3bmXIACUDHi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Electric guitar from multicolored paints colored ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/electric-guitar-from-multicolored-paints-colored-drawing-realistic_537015-2.jpg' alt='Premium Vector | Electric guitar from multicolored paints colored ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/electric-guitar-from-multicolored-paints-colored-drawing-realistic_537015-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw an Electric Guitar (Musical Instruments) Step by Step">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/ce/02/d0ce0205f4035b4249942ac4aa91aca8.jpg' alt='How to Draw an Electric Guitar (Musical Instruments) Step by Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/ce/02/d0ce0205f4035b4249942ac4aa91aca8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

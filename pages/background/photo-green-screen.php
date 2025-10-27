@@ -1,0 +1,129 @@
+<title>Unlock Creative Potential with Photo Green Screen</title>
+                    <meta name="description" content="Discover the magic of photo green screen technology! Transform your photography and videos with customizable backgrounds for stunning visuals. Perfect for social media, creative projects, and professional use, elevate your content and captivate your audience effortlessly!">
+                    <meta name="keywords" content="photo green screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-green-screen">
+                            <span itemprop="name">photo green screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Creative Potential with Photo Green Screen</h1>
+                <p>Photo green screen technology allows for versatile backgrounds in photography and video production. By using a green backdrop, you can easily replace the background digitally with any image or scene. This technique is perfect for creative projects, promotional videos, or exciting social media content, enhancing visual storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Notebook: Chroma Key Digital Masking Video Special Effects  Green Screen Cover Notebook for Office Work & School/College Students -  Video ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41hnS+W5h7L._AC_UF1000,1000_QL80_.jpg' alt='Green Screen Notebook: Chroma Key Digital Masking Video Special Effects  Green Screen Cover Notebook for Office Work & School/College Students -  Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41hnS+W5h7L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Green Screen | mimoLive®">
+                                <img itemprop="contentUrl url" src='https://mimolive.com/wp-content/uploads/2021/08/green-screen-weather-V2-before-768x432.jpg' alt='Understanding Green Screen | mimoLive®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mimoLive" />
+                                </span>
+                                <a href='https://mimolive.com/wp-content/uploads/2021/08/green-screen-weather-V2-before-768x432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE DOWNLOAD] Polaroid Overlay Green Screen">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/620f1db54643ffbb1dd9054e/63e8da8244663b0519feb625_588ed8fcb7db05d00dc45204eb08b44c.jpg' alt='FREE DOWNLOAD] Polaroid Overlay Green Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeVisuals" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/620f1db54643ffbb1dd9054e/63e8da8244663b0519feb625_588ed8fcb7db05d00dc45204eb08b44c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Photography: How To Get Best Results">
+                                <img itemprop="contentUrl url" src='https://media.macphun.com/img/uploads/macphun/blog/2446/1_HowtoUseaGreenScreenforPhotosProTipsandTricks.jpg?q=75&w=1710&h=906&resize=cover' alt='Green Screen Photography: How To Get Best Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skylum" />
+                                </span>
+                                <a href='https://media.macphun.com/img/uploads/macphun/blog/2446/1_HowtoUseaGreenScreenforPhotosProTipsandTricks.jpg?q=75&w=1710&h=906&resize=cover' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Photography for Beginners - iPhotography">
+                                <img itemprop="contentUrl url" src='https://www.iphotography.com/wp-content/uploads/2019/08/green-screen-blog.jpg' alt='Green Screen Photography for Beginners - iPhotography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhotography" />
+                                </span>
+                                <a href='https://www.iphotography.com/wp-content/uploads/2019/08/green-screen-blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X-Drop Pro Wrinkle-Resistant Backdrop - Chroma-Key Green Screen (8' x 8')">
+                                <img itemprop="contentUrl url" src='https://www.fjwestcott.com/cdn/shop/products/879-X-Drop-8x8_6f41b558-a402-44fe-8286-9f65ef2b441c_1800x.jpg?v=1674852827' alt='X-Drop Pro Wrinkle-Resistant Backdrop - Chroma-Key Green Screen (8' x 8')'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Westcott Lighting" />
+                                </span>
+                                <a href='https://www.fjwestcott.com/cdn/shop/products/879-X-Drop-8x8_6f41b558-a402-44fe-8286-9f65ef2b441c_1800x.jpg?v=1674852827' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Chroma Key and Green Screen Footage">
+                                <img itemprop="contentUrl url" src='https://www.premiumbeat.com/blog/wp-content/uploads/2022/04/green-screen-cover.jpg?w=875&h=490&crop=1' alt='Everything You Need to Know About Chroma Key and Green Screen Footage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumBeat" />
+                                </span>
+                                <a href='https://www.premiumbeat.com/blog/wp-content/uploads/2022/04/green-screen-cover.jpg?w=875&h=490&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Green Screen Work- Ideal World vs. Real World">
+                                <img itemprop="contentUrl url" src='https://www.wirecast.io/wp-content/uploads/2023/11/andrew-green-screen.png' alt='Live Green Screen Work- Ideal World vs. Real World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1012">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wirecast" />
+                                </span>
+                                <a href='https://www.wirecast.io/wp-content/uploads/2023/11/andrew-green-screen.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chroma, Green, Screen. Free Stock Video">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/08/13/47049-450995410_tiny.jpg' alt='Chroma, Green, Screen. Free Stock Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/08/13/47049-450995410_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Economy Chromakey Green Screen Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-5v2qks90xv/images/stencil/1280x1280/products/2154/831/ECGRSCRN-2__50198.1514761841.jpg?c=2' alt='Economy Chromakey Green Screen Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owens Originals Backdrops" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-5v2qks90xv/images/stencil/1280x1280/products/2154/831/ECGRSCRN-2__50198.1514761841.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

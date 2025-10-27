@@ -1,0 +1,129 @@
+<title>Stunning 4K America Wallpapers for Your Device</title>
+                    <meta name="description" content="Enhance your device with breathtaking 4K America wallpapers. Explore stunning landscapes and iconic landmarks that capture the essence of the United States. Perfect for desktops and mobiles, our wallpapers offer a vibrant and high-quality experience that showcases America's beauty. Download now!">
+                    <meta name="keywords" content="america wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/america-wallpaper-4k">
+                            <span itemprop="name">america wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K America Wallpapers for Your Device</h1>
+                <p>Discover stunning America wallpaper in 4K resolution, showcasing the breathtaking landscapes and iconic landmarks across the United States. From the majestic Rocky Mountains to the vibrant cityscapes of New York, immerse yourself in high-quality visuals that bring the beauty of America to your screens. Perfect for your desktop or mobile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200,000+ Best America Photos · 100% Free Download · Pexels Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/973049/pexels-photo-973049.jpeg?cs=srgb&dl=pexels-sawyersutton-973049.jpg&fm=jpg' alt='200,000+ Best America Photos · 100% Free Download · Pexels Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/973049/pexels-photo-973049.jpeg?cs=srgb&dl=pexels-sawyersutton-973049.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] America Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/america-iphone-jfntrl7gljt76hta.jpg' alt='100+] America Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/america-iphone-jfntrl7gljt76hta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Usa - Fondos De Pantalla 4k Nike (#575295) - HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/ab/32/c8ab32b9fb6acd2a1698bda95dc78f76.jpg' alt='Usa - Fondos De Pantalla 4k Nike (#575295) - HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/ab/32/c8ab32b9fb6acd2a1698bda95dc78f76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="America Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1733342472314-08972af34d11?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW1lcmljYSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='America Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1733342472314-08972af34d11?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW1lcmljYSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Flag Wallpapers (43 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/8/4/2138879-2160x3840-mobile-4k-american-flag-background-image.jpg' alt='American Flag Wallpapers (43 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/8/4/2138879-2160x3840-mobile-4k-american-flag-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] America Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/america-86f8kdqdjb94i270.jpg' alt='600+] America Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/america-86f8kdqdjb94i270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200,000+ Best America Photos · 100% Free Download · Pexels Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?cs=srgb&dl=pexels-pixabay-290386.jpg&fm=jpg' alt='200,000+ Best America Photos · 100% Free Download · Pexels Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6912">
+                                <meta itemprop="height" content="4160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?cs=srgb&dl=pexels-pixabay-290386.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American (USA) Flag Sunray 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/ee/be/56eebe37e3c6abedfa8e15e75fcc0406.jpg' alt='American (USA) Flag Sunray 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/ee/be/56eebe37e3c6abedfa8e15e75fcc0406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Flag Wallpaper Images – Browse 78,340 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/79/51/32/360_F_679513288_hQwiF7YyvZQqeGqnfwoA4hWspKDPoPiC.jpg' alt='American Flag Wallpaper Images – Browse 78,340 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/79/51/32/360_F_679513288_hQwiF7YyvZQqeGqnfwoA4hWspKDPoPiC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Eagle iPhone Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/ce/5e/18ce5e1270694cd17e43930f557f6ea1.jpg' alt='American Eagle iPhone Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/ce/5e/18ce5e1270694cd17e43930f557f6ea1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

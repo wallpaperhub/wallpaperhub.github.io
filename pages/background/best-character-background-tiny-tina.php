@@ -1,0 +1,129 @@
+<title>Discover the Best Character Background of Tiny Tina</title>
+                    <meta name="description" content="Explore the captivating character background of Tiny Tina from the "Borderlands" series. Uncover her unique traits and how her playful chaos enhances your gaming experience in "Tiny Tina's Wonderlands."">
+                    <meta name="keywords" content="best character background tiny tina">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-character-background-tiny-tina">
+                            <span itemprop="name">best character background tiny tina</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Best Character Background of Tiny Tina</h1>
+                <p>Tiny Tina from the "Borderlands" series is a fan-favorite character known for her quirky personality and explosive humor. As a lovable yet chaotic pre-teen, Tina blends innocence with unpredictability, flaunting her creativity in "Tiny Tina's Wonderlands." Her unique background as a player and Dungeon Master makes her a dynamic presence, offering players both guidance and wild surprises throughout their adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands: Best Character Backgrounds For Your Class ...">
+                                <img itemprop="contentUrl url" src='https://www.denofgeek.com/wp-content/uploads/2022/03/Tiny-Tina-Background.jpg?fit=1914%2C732' alt='Tiny Tina's Wonderlands: Best Character Backgrounds For Your Class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1914">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Den of Geek" />
+                                </span>
+                                <a href='https://www.denofgeek.com/wp-content/uploads/2022/03/Tiny-Tina-Background.jpg?fit=1914%2C732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Character Backgrounds To Pick In Tiny Tina's Wonderlands">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---rogue-alchemist-character-background-in-character-creation-(1).jpg' alt='Best Character Backgrounds To Pick In Tiny Tina's Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---rogue-alchemist-character-background-in-character-creation-(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands Which Character Background Should You Pick">
+                                <img itemprop="contentUrl url" src='https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/05/2-tiny-tina-s-wonderlands-which-character-background-should-you-pick.jpg' alt='Tiny Tina's Wonderlands Which Character Background Should You Pick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/05/2-tiny-tina-s-wonderlands-which-character-background-should-you-pick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands Best Background To Choose - What One should You  Pick For Your Character">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VS3DmgU9lzk/maxresdefault.jpg' alt='Tiny Tina's Wonderlands Best Background To Choose - What One should You  Pick For Your Character'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VS3DmgU9lzk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderland class tips: How to choose the best stats ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/tiny_tina_wonderlands_character_class_11.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' alt='Tiny Tina's Wonderland class tips: How to choose the best stats ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/tiny_tina_wonderlands_character_class_11.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands best class: every class ranked and ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/tiny-tina's-wonderlands-best-class.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Tiny Tina's Wonderlands best class: every class ranked and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/tiny-tina's-wonderlands-best-class.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Character Backgrounds To Pick In Tiny Tina's Wonderlands">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---failed-monk-character-background-in-character-creation.jpg' alt='Best Character Backgrounds To Pick In Tiny Tina's Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---failed-monk-character-background-in-character-creation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Character Backgrounds To Pick In Tiny Tina's Wonderlands">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---spore-warden-class-description-on-left-attunement-stat-description-on-right.jpg' alt='Best Character Backgrounds To Pick In Tiny Tina's Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/03/tiny-tinas-wonderlands---spore-warden-class-description-on-left-attunement-stat-description-on-right.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderland class tips: How to choose the best stats ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/tiny-tinas-wonderlands-class-header.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' alt='Tiny Tina's Wonderland class tips: How to choose the best stats ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/tiny-tinas-wonderlands-class-header.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands: Which Character Background Should You ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7iiLXmnoSPU/hqdefault.jpg' alt='Tiny Tina's Wonderlands: Which Character Background Should You ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7iiLXmnoSPU/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

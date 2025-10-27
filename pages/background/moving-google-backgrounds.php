@@ -1,0 +1,129 @@
+<title>Personalize Your Google Experience: Moving Backgrounds</title>
+                    <meta name="description" content="Discover how to enhance your Google interface with moving backgrounds! Personalize your browsing experience with dynamic images that reflect your style and mood. Learn the best tips and tricks to create a vibrant, inspiring digital workspace, perfect for your needs. Make Google truly yours today!">
+                    <meta name="keywords" content="moving google backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moving-google-backgrounds">
+                            <span itemprop="name">moving google backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Personalize Your Google Experience: Moving Backgrounds</h1>
+                <p>Moving Google backgrounds bring a touch of personalization to your browsing experience. By selecting dynamic images that shift with your mood or season, you can keep your workspace fresh and inspiring. Whether it’s nature scenes, cityscapes, or abstract art, changing backgrounds can enhance creativity and engagement. Explore options to make your Google interface truly yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Background Chrome Themes - ThemeBeta">
+                                <img itemprop="contentUrl url" src='https://www.themebeta.com/thumbnail/400x225/2427616/files/chrome/images/201905/14/9cf72db3cf4cc8ecb3f194e04380f8fc.webp' alt='Animated Background Chrome Themes - ThemeBeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThemeBeta" />
+                                </span>
+                                <a href='https://www.themebeta.com/thumbnail/400x225/2427616/files/chrome/images/201905/14/9cf72db3cf4cc8ecb3f194e04380f8fc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Fluid Texture Swirling Liquid Chrome">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3493097885/thumb/1.jpg?ip=x480' alt='Abstract Fluid Texture Swirling Liquid Chrome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3493097885/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Morphing Shapes Background Chrome Metallic">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1108339467/thumb/1.jpg?ip=x480' alt='Abstract Morphing Shapes Background Chrome Metallic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1108339467/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Your Google Chrome Homepage Background a GIF or Video">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/size/w1200/2020/07/final_5f03a33ce043ad001572c7a7_609853.gif' alt='How to Make Your Google Chrome Homepage Background a GIF or Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/size/w1200/2020/07/final_5f03a33ce043ad001572c7a7_609853.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f4/fe/e2/f4fee2a70c9e8560046aa740a92183a1.gif' alt='wallpaper - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f4/fe/e2/f4fee2a70c9e8560046aa740a92183a1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SearchFX Animated Backgrounds New Tab - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/2G8B4iETlZzOh7WIA_QJKPDdmkYZ91Zl9wa5cKCSIvG0mD_gpUcdYyg8_HAIfl0OQl2oeU-ilxnh0OXNKFaWxQxHkw=s1280-w1280-h800' alt='SearchFX Animated Backgrounds New Tab - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/2G8B4iETlZzOh7WIA_QJKPDdmkYZ91Zl9wa5cKCSIvG0mD_gpUcdYyg8_HAIfl0OQl2oeU-ilxnh0OXNKFaWxQxHkw=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="animated wallpaper for mobile - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5d/0f/96/5d0f961e0dc01a1824ab87564a5711bb.gif' alt='animated wallpaper for mobile - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5d/0f/96/5d0f961e0dc01a1824ab87564a5711bb.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="psychedelic - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/03/54/4703540d00d0507087622c646eba099b.jpg' alt='psychedelic - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/03/54/4703540d00d0507087622c646eba099b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bolb Visual Holographic Colorful Chrome Metallic">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3510887943/thumb/1.jpg?ip=x480' alt='Bolb Visual Holographic Colorful Chrome Metallic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3510887943/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Put A Live Wallpaper On Google Chrome - Wallpapers.com Blog ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/blog/wp-content/uploads/2023/09/Reflective-skyscrapers.jpeg' alt='How To Put A Live Wallpaper On Google Chrome - Wallpapers.com Blog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/blog/wp-content/uploads/2023/09/Reflective-skyscrapers.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>John Adams: The Legacy of America’s Second President</title>
+                    <meta name="description" content="Explore the significant presidency of John Adams, the second President of the United States. Discover his challenges, accomplishments, and lasting impact on American governance, including the Quasi-War and the Alien and Sedition Acts. Learn how his leadership shaped the early nation.">
+                    <meta name="keywords" content="john adams presidency">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/john-adams-presidency">
+                            <span itemprop="name">john adams presidency</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>John Adams: The Legacy of America’s Second President</h1>
+                <p>John Adams served as the second President of the United States from 1797 to 1801. His presidency was marked by significant challenges, including the Quasi-War with France and the passage of the controversial Alien and Sedition Acts. Adams prioritized diplomacy and governance, leaving a lasting impact on the nation's early political framework.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/07/John_Adams_A18236.jpg' alt='John Adams - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6811">
+                                <meta itemprop="height" content="8259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/07/John_Adams_A18236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Presidency of John Adams | American Experience | Official Site ...">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/4c/bc/4cbc0d5a-821c-490b-a699-6a2fa113d731/adams_potus_03.jpg__2000x2442_q85_crop_subsampling-2_upscale.jpg' alt='The Presidency of John Adams | American Experience | Official Site ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/4c/bc/4cbc0d5a-821c-490b-a699-6a2fa113d731/adams_potus_03.jpg__2000x2442_q85_crop_subsampling-2_upscale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - White House Historical Association">
+                                <img itemprop="contentUrl url" src='https://d1y822qhq55g6.cloudfront.net/default/_superImage/John-Adams.jpg' alt='John Adams - White House Historical Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White House Historical Association" />
+                                </span>
+                                <a href='https://d1y822qhq55g6.cloudfront.net/default/_superImage/John-Adams.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | Biography, Political Party, Children, Presidency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/97/172697-138-8F13DC4D/overview-John-Adams.jpg?w=800&h=450&c=crop' alt='John Adams | Biography, Political Party, Children, Presidency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/97/172697-138-8F13DC4D/overview-John-Adams.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Presidency, Political Party & Children">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/john-adams-gettyimages-3246312.jpg' alt='John Adams - Presidency, Political Party & Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2159">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/john-adams-gettyimages-3246312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams | Biography, Political Party, Children, Presidency ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/90/18290-050-7EDEDFD8/United-States-President-John-Adams-painting-1826-Gilbert-Stuart-Smithsonian.jpg' alt='John Adams | Biography, Political Party, Children, Presidency ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1306">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/90/18290-050-7EDEDFD8/United-States-President-John-Adams-painting-1826-Gilbert-Stuart-Smithsonian.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams - Founding Father, Patriot, Diplomat | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/175515-050-AE01DDDC/John-Adams-oil-wood-Gilbert-Stuart-Washington-1821.jpg' alt='John Adams - Founding Father, Patriot, Diplomat | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/175515-050-AE01DDDC/John-Adams-oil-wood-Gilbert-Stuart-Washington-1821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/b57f24ec-f1e1-4843-b404-2fdf257ea90a/john-adams-headshot_3x2.jpg' alt='John Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/b57f24ec-f1e1-4843-b404-2fdf257ea90a/john-adams-headshot_3x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams ‑ Presidency, Facts & Children">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/john-adams-gettyimages-72385390.jpg' alt='John Adams ‑ Presidency, Facts & Children'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/john-adams-gettyimages-72385390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Adams Event Timeline | The American Presidency Project">
+                                <img itemprop="contentUrl url" src='https://www.presidency.ucsb.edu/sites/default/files/styles/doc_img/public/people/john-adams.jpg?itok=e1RFDN83' alt='John Adams Event Timeline | The American Presidency Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The American Presidency Project" />
+                                </span>
+                                <a href='https://www.presidency.ucsb.edu/sites/default/files/styles/doc_img/public/people/john-adams.jpg?itok=e1RFDN83' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

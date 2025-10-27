@@ -1,0 +1,129 @@
+<title>Anakin vs Obi-Wan: Epic 4K Wallpaper</title>
+                    <meta name="description" content="Discover breathtaking 4K wallpapers of the legendary duel between Anakin Skywalker and Obi-Wan Kenobi. Perfectly crafted for Star Wars fans, these stunning visuals will elevate your devices while showcasing the epic clash of light and dark. Download now to ignite your screen!">
+                    <meta name="keywords" content="anakin vs obi wan wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/anakin-vs-obi-wan-wallpaper-4k">
+                            <span itemprop="name">anakin vs obi wan wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anakin vs Obi-Wan: Epic 4K Wallpaper</h1>
+                <p>Anakin vs. Obi-Wan wallpaper in stunning 4K resolution captures the intense rivalry between two iconic Jedi. Featuring dynamic color contrasts and cinematic details, these wallpapers are perfect for fans of the Star Wars saga. Bring your screens to life with epic moments from this legendary duel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin vs Obi-Wan wallpaper (Battle of the Heroes) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anakin-vs-obi-wan-wallpaper-battle-of-the-heroes-v0-tsugipz69o5d1.jpeg?auto=webp&s=b16b0dbfae3a5c308da916605499666b8dfbd7ee' alt='Anakin vs Obi-Wan wallpaper (Battle of the Heroes) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="903">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anakin-vs-obi-wan-wallpaper-battle-of-the-heroes-v0-tsugipz69o5d1.jpeg?auto=webp&s=b16b0dbfae3a5c308da916605499666b8dfbd7ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A wallpaper I made of anakin vs obi wan with some small details to ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xfhwjl1020661.jpg?width=1080&crop=smart&auto=webp&s=94cfc700cb9eccdd50c90b82d1a4803433bc8468' alt='A wallpaper I made of anakin vs obi wan with some small details to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xfhwjl1020661.jpg?width=1080&crop=smart&auto=webp&s=94cfc700cb9eccdd50c90b82d1a4803433bc8468' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin vs. Obi Wan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/70/35/d57035e0a32cc51f74a5c6e1dd5a9849.jpg' alt='Anakin vs. Obi Wan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/70/35/d57035e0a32cc51f74a5c6e1dd5a9849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obi-Wan Kenobi VS Anakin (poster I made) : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c983urdozc051.jpg' alt='Obi-Wan Kenobi VS Anakin (poster I made) : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="903">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c983urdozc051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Vs Obi-wan Star Wars Tablet Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anakin-vs-obi-wan-star-wars-tablet-6vtmizi3a7oer3t0.jpg' alt='Anakin Vs Obi-wan Star Wars Tablet Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anakin-vs-obi-wan-star-wars-tablet-6vtmizi3a7oer3t0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Vs Obi Wan Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6475187.jpg' alt='Anakin Vs Obi Wan Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6475187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin vs Obi Wan, anakin, anakin skywalker, clone wars, darth ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/906/840/HD-wallpaper-anakin-vs-obi-wan-anakin-anakin-skywalker-clone-wars-darth-vader-luke-skywalker-obi-wan-obi-wan-kenobi-skywalker-star-wars-vader.jpg' alt='Anakin vs Obi Wan, anakin, anakin skywalker, clone wars, darth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/906/840/HD-wallpaper-anakin-vs-obi-wan-anakin-anakin-skywalker-clone-wars-darth-vader-luke-skywalker-obi-wan-obi-wan-kenobi-skywalker-star-wars-vader.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpaper Obi-Wan Kenobi Anakin Skywalker Darth Vader">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/51/c6/ed51c667b4c7ef12ace80c07f35806e7.jpg' alt='Star Wars Wallpaper Obi-Wan Kenobi Anakin Skywalker Darth Vader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/51/c6/ed51c667b4c7ef12ace80c07f35806e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Anakin vs Obi-wan Mobile Wallpaper Star Wars">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2116186478055265788/CE522BB54C8BBF6D5BD58AD675B11CD53F007C47/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Anakin vs Obi-wan Mobile Wallpaper Star Wars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2116186478055265788/CE522BB54C8BBF6D5BD58AD675B11CD53F007C47/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obi wan vs anakin, anakin, darth vader, jedi, jedi knight ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/368/HD-wallpaper-obi-wan-vs-anakin-anakin-darth-vader-jedi-jedi-knight-mustafar-obi-wan-sith-sith-lord-star-wars-episode-3-starwars.jpg' alt='Obi wan vs anakin, anakin, darth vader, jedi, jedi knight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/368/HD-wallpaper-obi-wan-vs-anakin-anakin-darth-vader-jedi-jedi-knight-mustafar-obi-wan-sith-sith-lord-star-wars-episode-3-starwars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

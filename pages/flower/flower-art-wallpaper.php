@@ -1,0 +1,129 @@
+<title>Blooming Beauty: Stunning Flower Art Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of flower art wallpaper! Perfect for refreshing your decor, these beautiful designs add a touch of nature's charm to any room. Explore vibrant florals and soothing botanicals that create a serene ambiance. Ideal for every space, bring your walls to life with our stunning floral wallpapers.">
+                    <meta name="keywords" content="flower art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-art-wallpaper">
+                            <span itemprop="name">flower art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blooming Beauty: Stunning Flower Art Wallpaper</h1>
+                <p>Transform your space with stunning flower art wallpaper! Whether you're looking for vibrant floral patterns or subtle botanical designs, these wallpapers bring nature indoors. Perfect for living rooms, bedrooms, or any space, they evoke tranquility and beauty. Explore various styles to enhance your decor and express your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' alt='16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Flowers Wallpaper in Multicoloured">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?crop=center&height=1024&v=1706001850&width=1024' alt='Pretty Flowers Wallpaper in Multicoloured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?crop=center&height=1024&v=1706001850&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_570xN.5906782583_mjfi.jpg' alt='Dark Floral Wallpaper, Moody Roses Digital Download, Gothic Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25091866/r/il/a71707/5906782583/il_570xN.5906782583_mjfi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bell flower desktop, phone and tablet wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/bell-flowers-widescreen-2.jpg?v=1667161442' alt='Bell flower desktop, phone and tablet wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/bell-flowers-widescreen-2.jpg?v=1667161442' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' alt='Dark Floral II Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cornelia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1713946723/articles/AR0045DA03W_product.jpg' alt='Cornelia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1713946723/articles/AR0045DA03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cup of flowers desktop, phone and tablet wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='http://makeandtell.com/cdn/shop/articles/cup-of-flowers-blogpic-2-scaled.jpg?v=1647741507' alt='Cup of flowers desktop, phone and tablet wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1829">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='http://makeandtell.com/cdn/shop/articles/cup-of-flowers-blogpic-2-scaled.jpg?v=1647741507' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloom Flower Mural Wall Art Wallpaper – Simple Shapes">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/8024_BloomFloral_PinkPurple_closeup.jpg?v=1708024305' alt='Bloom Flower Mural Wall Art Wallpaper – Simple Shapes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/8024_BloomFloral_PinkPurple_closeup.jpg?v=1708024305' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Flower Art Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1666976768089-e8a3b92303d1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2VyJTIwYXJ0fGVufDB8fDB8fHww' alt='500+ Flower Art Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1666976768089-e8a3b92303d1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2VyJTIwYXJ0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320 Best Floral Wallpapers ideas in 2025 | floral, flower ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/43/f4/38/43f43846956ef915d9662e32efb23a90.jpg' alt='320 Best Floral Wallpapers ideas in 2025 | floral, flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/43/f4/38/43f43846956ef915d9662e32efb23a90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

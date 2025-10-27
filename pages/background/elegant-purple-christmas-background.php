@@ -1,0 +1,129 @@
+<title>Elegant Purple Christmas Background: Sophisticated Holiday Decor</title>
+                    <meta name="description" content="Discover the beauty of an elegant purple Christmas background, perfect for adding a touch of sophistication to your holiday decor. Ideal for cards, invitations, and festive settings, this stunning backdrop enhances the festive spirit with rich tones and shimmering accents. Celebrate in style!">
+                    <meta name="keywords" content="elegant purple christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elegant-purple-christmas-background">
+                            <span itemprop="name">elegant purple christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Christmas Background: Sophisticated Holiday Decor</h1>
+                <p>Transform your holiday decorations with an elegant purple Christmas background that exudes sophistication and charm. Imagine rich hues of deep plum paired with shimmering gold accents, creating a magical atmosphere for your festive celebrations. Perfect for cards, wrapping, or festive social media posts, this backdrop will elevate your holiday spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/268/078/small/festive-glass-ornament-filled-with-purple-gift-boxes-and-decorations-for-winter-celebrations-free-photo.jpeg' alt='Purple Christmas Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/268/078/small/festive-glass-ornament-filled-with-purple-gift-boxes-and-decorations-for-winter-celebrations-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Christmas Images – Browse 587,494 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/92/66/05/360_F_92660555_mcwcvFf5m6p2FZlIug1r5fyNF5a4ykMb.jpg' alt='Purple Background Christmas Images – Browse 587,494 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/92/66/05/360_F_92660555_mcwcvFf5m6p2FZlIug1r5fyNF5a4ykMb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="83,400+ Purple Christmas Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/522513193/photo/christmas-ball.jpg?s=612x612&w=0&k=20&c=gCjU6bvHlDDpWBZGVxwd8yE8O1dBc-n3qZgPaEvQZGE=' alt='83,400+ Purple Christmas Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/522513193/photo/christmas-ball.jpg?s=612x612&w=0&k=20&c=gCjU6bvHlDDpWBZGVxwd8yE8O1dBc-n3qZgPaEvQZGE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' alt='Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 | Christmas Background Purple Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-background-with-purple-ribbon_1048-4399.jpg' alt='Page 4 | Christmas Background Purple Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-background-with-purple-ribbon_1048-4399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Elegant Purple Background Baubles Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/merry-christmas-elegant-purple-background-260nw-66225145.jpg' alt='Merry Christmas Elegant Purple Background Baubles Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/merry-christmas-elegant-purple-background-260nw-66225145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Purple Christmas and New Year Background with Decorations ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/elegant-purple-christmas-new-year-background-with-decorations_999679-25249.jpg' alt='Elegant Purple Christmas and New Year Background with Decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/elegant-purple-christmas-new-year-background-with-decorations_999679-25249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple christmas background hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HDH5FX/christmas-tree-with-ornaments-baubles-and-lights-violet-purple-holidays-background-2HDH5FX.jpg' alt='Purple christmas background hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HDH5FX/christmas-tree-with-ornaments-baubles-and-lights-violet-purple-holidays-background-2HDH5FX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple christmas decor with background vector #christmaswallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/fe/75/dffe758539efe889a9cc40355af3e20a.jpg' alt='Purple christmas decor with background vector #christmaswallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/fe/75/dffe758539efe889a9cc40355af3e20a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Christmas background with hanging purple baubles 690661 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/690/661/non_2x/elegant-christmas-background-with-hanging-purple-baubles-vector.jpg' alt='Elegant Christmas background with hanging purple baubles 690661 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/690/661/non_2x/elegant-christmas-background-with-hanging-purple-baubles-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

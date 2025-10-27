@@ -1,0 +1,129 @@
+<title>Discovering Naruto: The Journey of a Ninja Legend</title>
+                    <meta name="description" content="Explore the captivating world of Naruto Uzumaki, a young ninja's quest to become Hokage. Delve into his struggles, friendships, and triumphs as he overcomes adversity and grows into a legendary hero. Perfect for fans and new readers alike, discover the inspiring journey that defines him!">
+                    <meta name="keywords" content="background naruto">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-naruto">
+                            <span itemprop="name">background naruto</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Naruto: The Journey of a Ninja Legend</h1>
+                <p>Naruto Uzumaki is a young ninja from the Hidden Leaf Village, known for his unyielding spirit and dream of becoming Hokage, the village leader. Orphaned at birth, he struggled with loneliness and stigma due to the Nine-Tails Fox sealed within him. Throughout his journey, he forges deep bonds, overcomes challenges, and discovers the importance of friendship and perseverance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/3/1/141742-3840x2160-desktop-4k-naruto-wallpaper-photo.jpg' alt='Naruto Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/3/1/141742-3840x2160-desktop-4k-naruto-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Background by diepphatmajehart99 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c745a393-ca2a-4229-911a-9dc58a655096/dfceoeh-56a30172-e557-4b68-aed5-290dcd14fc85.jpg/v1/fill/w_1192,h_670,q_70,strp/naruto_background_by_diepphatmajehart99_dfceoeh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzc0NWEzOTMtY2EyYS00MjI5LTkxMWEtOWRjNThhNjU1MDk2XC9kZmNlb2VoLTU2YTMwMTcyLWU1NTctNGI2OC1hZWQ1LTI5MGRjZDE0ZmM4NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fWBZgKYK1ft8ffRVDRFBVYnliJ62VbI9CmclRULp5yY' alt='Naruto Background by diepphatmajehart99 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c745a393-ca2a-4229-911a-9dc58a655096/dfceoeh-56a30172-e557-4b68-aed5-290dcd14fc85.jpg/v1/fill/w_1192,h_670,q_70,strp/naruto_background_by_diepphatmajehart99_dfceoeh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzc0NWEzOTMtY2EyYS00MjI5LTkxMWEtOWRjNThhNjU1MDk2XC9kZmNlb2VoLTU2YTMwMTcyLWU1NTctNGI2OC1hZWQ1LTI5MGRjZDE0ZmM4NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fWBZgKYK1ft8ffRVDRFBVYnliJ62VbI9CmclRULp5yY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just found this cool wallpaper. Naruto growing. : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/s344mx7dgjv51.jpg' alt='Just found this cool wallpaper. Naruto growing. : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/s344mx7dgjv51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Wallpaper 4K, Digital Art, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/naruto-digital-art-black-background-amoled-2880x1800-5056.png' alt='Naruto Wallpaper 4K, Digital Art, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/naruto-digital-art-black-background-amoled-2880x1800-5056.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1900+] Naruto Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/naruto-r5aa4v805ovp5cv4.jpg' alt='1900+] Naruto Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/naruto-r5aa4v805ovp5cv4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Uzumaki Wallpaper 4K, Japanese, Artwork, Red moon">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-2048x2048-12191.jpg' alt='Naruto Uzumaki Wallpaper 4K, Japanese, Artwork, Red moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/naruto-uzumaki-2048x2048-12191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cool Naruto Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/83/23/1983230036952fa094a87e02125ab8a2.jpg' alt='   Cool Naruto Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/83/23/1983230036952fa094a87e02125ab8a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5300+] Naruto Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/605/thumb-1920-605592.png' alt='5300+] Naruto Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/605/thumb-1920-605592.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Wallpaper by Shikimori23 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18b0a47c-9ff2-4cf7-ae6f-bd183609d020/dxa9ir-becc3c98-0663-4fc4-8f69-d86b6d3e67c0.jpg/v1/fill/w_900,h_704,q_75,strp/naruto_wallpaper_by_shikimori23_dxa9ir-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvMThiMGE0N2MtOWZmMi00Y2Y3LWFlNmYtYmQxODM2MDlkMDIwXC9keGE5aXItYmVjYzNjOTgtMDY2My00ZmM0LThmNjktZDg2YjZkM2U2N2MwLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ubqrtvdCK5eYOF-LFZctg_q_Q-erbE2XkPkwqUy88tk' alt='Naruto Wallpaper by Shikimori23 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18b0a47c-9ff2-4cf7-ae6f-bd183609d020/dxa9ir-becc3c98-0663-4fc4-8f69-d86b6d3e67c0.jpg/v1/fill/w_900,h_704,q_75,strp/naruto_wallpaper_by_shikimori23_dxa9ir-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvMThiMGE0N2MtOWZmMi00Y2Y3LWFlNmYtYmQxODM2MDlkMDIwXC9keGE5aXItYmVjYzNjOTgtMDY2My00ZmM0LThmNjktZDg2YjZkM2U2N2MwLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ubqrtvdCK5eYOF-LFZctg_q_Q-erbE2XkPkwqUy88tk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Aesthetic 4k Wallpapers - Wallpaper Cave 4B">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2e/3c/98/2e3c98f490a59638e7fe64a89a8f5fa4.jpg' alt='Naruto Aesthetic 4k Wallpapers - Wallpaper Cave 4B'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2e/3c/98/2e3c98f490a59638e7fe64a89a8f5fa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

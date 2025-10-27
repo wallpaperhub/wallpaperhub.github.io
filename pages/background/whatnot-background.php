@@ -1,0 +1,129 @@
+<title>Explore Whatnot: The Ultimate Live Auction Marketplace for Collectibles!</title>
+                    <meta name="description" content="Discover Whatnot, the innovative live auction platform perfect for buying and selling collectibles. Join us for exciting real-time auctions, connect with fellow enthusiasts, and elevate your collecting experience today! Ideal for collectors and sellers alike.">
+                    <meta name="keywords" content="whatnot background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/whatnot-background">
+                            <span itemprop="name">whatnot background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Whatnot: The Ultimate Live Auction Marketplace for Collectibles!</h1>
+                <p>Whatnot is a unique platform that revolutionizes the way people buy and sell collectibles. Founded in 2020, it combines live streaming and an auction format, allowing sellers to showcase items in real-time. This engaging approach fosters a community atmosphere, connecting collectors and enthusiasts worldwide, making every auction a thrilling experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report: WhatNot Business Breakdown & Founding Story | Contrary ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/contrary-research/0f74cf7f-8499-4a0a-87c5-00b76af029b2_Whatnot+Square.png?auto=compress%2Cformat&fit=max&w=384' alt='Report: WhatNot Business Breakdown & Founding Story | Contrary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Contrary Research" />
+                                </span>
+                                <a href='https://images.prismic.io/contrary-research/0f74cf7f-8499-4a0a-87c5-00b76af029b2_Whatnot+Square.png?auto=compress%2Cformat&fit=max&w=384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatnot Logo & Brand Assets (SVG, PNG and vector) - Brandfetch">
+                                <img itemprop="contentUrl url" src='https://cdn.brandfetch.io/id2JX7Pu53/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667574970089' alt='Whatnot Logo & Brand Assets (SVG, PNG and vector) - Brandfetch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brandfetch" />
+                                </span>
+                                <a href='https://cdn.brandfetch.io/id2JX7Pu53/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667574970089' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatnot | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/sync/v2/D5627AQHP0s88RcE3Fg/articleshare-shrink_800/articleshare-shrink_800/0/1737664037712?e=2147483647&v=beta&t=Z0fQjoy5TFqwIL-f1AGrZ9w-Eo9TRNV1StNnqBlQyYQ' alt='Whatnot | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/sync/v2/D5627AQHP0s88RcE3Fg/articleshare-shrink_800/articleshare-shrink_800/0/1737664037712?e=2147483647&v=beta&t=Z0fQjoy5TFqwIL-f1AGrZ9w-Eo9TRNV1StNnqBlQyYQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Whatnot and How Can You Sell on It?">
+                                <img itemprop="contentUrl url" src='https://whop.com/blog/content/images/size/w600/2024/09/Whatnot-Review--What-is-Whatnot-and-How-can-you-sell-on-it.webp' alt='What Is Whatnot and How Can You Sell on It?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whop" />
+                                </span>
+                                <a href='https://whop.com/blog/content/images/size/w600/2024/09/Whatnot-Review--What-is-Whatnot-and-How-can-you-sell-on-it.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatnot Raises $150M Series C to Become the Premier Live Shopping ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1627999/wn_Logo.jpg?p=twitter' alt='Whatnot Raises $150M Series C to Become the Premier Live Shopping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="867">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1627999/wn_Logo.jpg?p=twitter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="whatnot Sticker Pack :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/be585c142929515.6270eab01693d.gif' alt='whatnot Sticker Pack :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/be585c142929515.6270eab01693d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatnot Secures $265M to Enhance Seller Tools and Expand Global ...">
+                                <img itemprop="contentUrl url" src='https://thegreatentrepreneurs.com/wp-content/uploads/2025/01/Whatnot-Raises-265M-to-Support-Seller-Growth.png' alt='Whatnot Secures $265M to Enhance Seller Tools and Expand Global ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Entrepreneurs" />
+                                </span>
+                                <a href='https://thegreatentrepreneurs.com/wp-content/uploads/2025/01/Whatnot-Raises-265M-to-Support-Seller-Growth.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starting a WhatNot account - first stream and my two cents about ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/piCKIBASuw4/sddefault.jpg' alt='Starting a WhatNot account - first stream and my two cents about ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/piCKIBASuw4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whatnot Logo PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/23/Whatnot-Logo-PNG-Image.png' alt='Whatnot Logo PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/23/Whatnot-Logo-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WhatNot Addiction? Dangers of Fast-Paced Auction Site - Birches Health">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/sWWVWGgdnbpT3B3IP2AZ1ayjE.jpg' alt='WhatNot Addiction? Dangers of Fast-Paced Auction Site - Birches Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birches Health" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/sWWVWGgdnbpT3B3IP2AZ1ayjE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

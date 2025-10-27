@@ -1,0 +1,129 @@
+<title>Chic Pink Winter Wallpaper for a Cozy Vibe</title>
+                    <meta name="description" content="Discover stunning pink winter wallpaper that adds a cozy elegance to your home. Perfect for the chilly months, this wallpaper features beautiful patterns and soft hues, bringing warmth and style to any room. Ideal for seasonal redecorating! Explore our collection now.">
+                    <meta name="keywords" content="pink winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-winter-wallpaper">
+                            <span itemprop="name">pink winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Winter Wallpaper for a Cozy Vibe</h1>
+                <p>Transform your space with pink winter wallpaper, perfect for adding a warm, cozy feel during the colder months. This chic design brings a touch of elegance and tranquility to your home decor. Choose from various patterns featuring soft pink hues, snowflakes, or winter florals to create a serene atmosphere indoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="78,900+ Pink Snow Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/512690370/photo/winter-landscape-at-sunrise.jpg?s=612x612&w=0&k=20&c=XFM8Z_wX9uACOwCbNdbGgGgAmGDBUx6LCwLcBy6zsEg=' alt='78,900+ Pink Snow Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/512690370/photo/winter-landscape-at-sunrise.jpg?s=612x612&w=0&k=20&c=XFM8Z_wX9uACOwCbNdbGgGgAmGDBUx6LCwLcBy6zsEg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, snowflakes, background, pink, Christmas, pink ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/4272x2848/5/1d/zima-snezhinki-fon-rozovyi-christmas-pink-winter-backgroun-1.jpg' alt='Wallpaper winter, snowflakes, background, pink, Christmas, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4272">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/4272x2848/5/1d/zima-snezhinki-fon-rozovyi-christmas-pink-winter-backgroun-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 Best Pink snow ideas | winter wallpaper, wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/22/76/e4/2276e4ac4d12f66abbaaba68629a0c24.jpg' alt='38 Best Pink snow ideas | winter wallpaper, wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/22/76/e4/2276e4ac4d12f66abbaaba68629a0c24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Winter iPhone Wallpaper Ideas - Winter Backgrounds for iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/cc/03/6ecc033cb9c0880411f5b26dcf841961.jpg' alt='50+ Winter iPhone Wallpaper Ideas - Winter Backgrounds for iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/cc/03/6ecc033cb9c0880411f5b26dcf841961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Winter - Winter & Nature Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2072/2072851-bigthumbnail.jpg' alt='Pink Winter - Winter & Nature Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2072/2072851-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink winter scene wallpaper nature by xRebelYellx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c81bf4c-53df-47dd-bd2d-0015c90567ba/dgnl6fk-5f25741e-34bd-43de-a00f-9eb4c49f554b.jpg/v1/fill/w_900,h_540,q_75,strp/pink_winter_scene_wallpaper_nature_by_xrebelyellx_dgnl6fk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjODFiZjRjLTUzZGYtNDdkZC1iZDJkLTAwMTVjOTA1NjdiYVwvZGdubDZmay01ZjI1NzQxZS0zNGJkLTQzZGUtYTAwZi05ZWI0YzQ5ZjU1NGIuanBnIiwiaGVpZ2h0IjoiPD01NDAiLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzNjODFiZjRjLTUzZGYtNDdkZC1iZDJkLTAwMTVjOTA1NjdiYVwveHJlYmVseWVsbHgtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.GTuwiLxVf44qXOVSr3vGhGfJLypUqTiTCCroNzNMYQg' alt='Pink winter scene wallpaper nature by xRebelYellx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c81bf4c-53df-47dd-bd2d-0015c90567ba/dgnl6fk-5f25741e-34bd-43de-a00f-9eb4c49f554b.jpg/v1/fill/w_900,h_540,q_75,strp/pink_winter_scene_wallpaper_nature_by_xrebelyellx_dgnl6fk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjODFiZjRjLTUzZGYtNDdkZC1iZDJkLTAwMTVjOTA1NjdiYVwvZGdubDZmay01ZjI1NzQxZS0zNGJkLTQzZGUtYTAwZi05ZWI0YzQ5ZjU1NGIuanBnIiwiaGVpZ2h0IjoiPD01NDAiLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzNjODFiZjRjLTUzZGYtNDdkZC1iZDJkLTAwMTVjOTA1NjdiYVwveHJlYmVseWVsbHgtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.GTuwiLxVf44qXOVSr3vGhGfJLypUqTiTCCroNzNMYQg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Winter Wallpapers for Your Phone - Our Happy Corner">
+                                <img itemprop="contentUrl url" src='http://ourhappycorner.com/wp-content/uploads/2024/12/winter-wallpapers-55-485x1024.png' alt='Free Winter Wallpapers for Your Phone - Our Happy Corner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Happy Corner" />
+                                </span>
+                                <a href='http://ourhappycorner.com/wp-content/uploads/2024/12/winter-wallpapers-55-485x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Pink Winter Wonderland Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/december-pink-winter-wonderland-1ep7chp2k5ssjpsy-3.jpg' alt='December Pink Winter Wonderland Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/december-pink-winter-wonderland-1ep7chp2k5ssjpsy-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="198,200+ Pink Winter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1181315370/photo/colorful-sunset.jpg?s=612x612&w=0&k=20&c=eF0AC8UQn7aLgImZyh3VWsg0kyDUmefQQ5jDY6RyAfQ=' alt='198,200+ Pink Winter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1181315370/photo/colorful-sunset.jpg?s=612x612&w=0&k=20&c=eF0AC8UQn7aLgImZyh3VWsg0kyDUmefQQ5jDY6RyAfQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPERS — Winter pink wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/9f/bd/0c9fbdc2000b65689d7ff25143559ca2.jpg' alt='WALLPAPERS — Winter pink wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/9f/bd/0c9fbdc2000b65689d7ff25143559ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

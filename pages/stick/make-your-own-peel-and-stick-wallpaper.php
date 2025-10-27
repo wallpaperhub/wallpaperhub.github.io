@@ -1,0 +1,129 @@
+<title>Create Your Own Peel and Stick Wallpaper: A DIY Guide</title>
+                    <meta name="description" content="Discover the fun of making your own peel and stick wallpaper! This easy DIY project lets you customize your decor with unique designs. Perfect for renters or anyone wanting a quick room refresh. Follow our simple steps to add style and personality to any wall with ease!">
+                    <meta name="keywords" content="make your own peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/make-your-own-peel-and-stick-wallpaper">
+                            <span itemprop="name">make your own peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Your Own Peel and Stick Wallpaper: A DIY Guide</h1>
+                <p>Transform your space with custom peel and stick wallpaper! Start by choosing a design or creating your own with digital tools. Print on adhesive-backed paper for easy application. Prep your walls, then simply peel and stick! It’s a fun DIY project that adds personality to any room without permanent commitment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Your Own Rent Friendly Removable Wallpaper - At ...">
+                                <img itemprop="contentUrl url" src='https://atcharlotteshouse.com/wp-content/uploads/2019/06/Removable-wallpaper-for-renters-13.jpg' alt='How to Make Your Own Rent Friendly Removable Wallpaper - At ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="At Charlotte's House" />
+                                </span>
+                                <a href='https://atcharlotteshouse.com/wp-content/uploads/2019/06/Removable-wallpaper-for-renters-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Regular Wallpaper Removable - Studio DIY">
+                                <img itemprop="contentUrl url" src='https://studiodiy.com/wp-content/uploads/2021/01/How-To-Make-Regular-Wallpaper-Removable.jpg' alt='How To Make Regular Wallpaper Removable - Studio DIY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studio DIY" />
+                                </span>
+                                <a href='https://studiodiy.com/wp-content/uploads/2021/01/How-To-Make-Regular-Wallpaper-Removable.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print Your Own Design on Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' alt='Print Your Own Design on Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' alt='Luxury Peel & Stick Wallpaper in Custom Colors - Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="peelandpaper.com" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/Marissa-header-peel-and-stick-wallpaper-close-up-floral-wallpaper_e3e5f90c-d5d2-42c1-963b-764e2f25a03b.jpg?v=1675177393&width=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Removable Wallpaper | Personalize Your Space | Tempaper ...">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp.jpg?v=1738345312&width=1080' alt='Custom Removable Wallpaper | Personalize Your Space | Tempaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/RTD-custom-recolor-a-design-peel-stick-wallpaper-pdp.jpg?v=1738345312&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Regular Wallpaper Removable - Studio DIY">
+                                <img itemprop="contentUrl url" src='https://studiodiy.com/wp-content/uploads/2021/01/Kids20Closet20Reading20Nook20Makeover3-700x1050.jpg' alt='How To Make Regular Wallpaper Removable - Studio DIY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studio DIY" />
+                                </span>
+                                <a href='https://studiodiy.com/wp-content/uploads/2021/01/Kids20Closet20Reading20Nook20Makeover3-700x1050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper | Removable & Easy To Install">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' alt='Peel and Stick Wallpaper | Removable & Easy To Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1525">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/category/new_2024wedding_banner_desktop_optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY: How To To Make Your Own Removable Wallpaper - BEST Method! Super Easy  & Cheap! Home Makeover   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l-7B8Oe3Znc/maxresdefault.jpg' alt='DIY: How To To Make Your Own Removable Wallpaper - BEST Method! Super Easy  & Cheap! Home Makeover   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l-7B8Oe3Znc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Your Own Wallpaper & Surface Covering - Peel & Stick - Repositionable">
+                                <img itemprop="contentUrl url" src='https://www.youcustomizeit.com/common/MAKE/965833/Design-Your-Own-Wallpaper-Scene.jpg?lm=1562955495' alt='Design Your Own Wallpaper & Surface Covering - Peel & Stick - Repositionable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouCustomizeIt" />
+                                </span>
+                                <a href='https://www.youcustomizeit.com/common/MAKE/965833/Design-Your-Own-Wallpaper-Scene.jpg?lm=1562955495' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Your Own Rent Friendly Removable Wallpaper - At ...">
+                                <img itemprop="contentUrl url" src='https://atcharlotteshouse.com/wp-content/uploads/2019/06/Make-your-own-removable-wallpaper.jpg' alt='How to Make Your Own Rent Friendly Removable Wallpaper - At ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="At Charlotte's House" />
+                                </span>
+                                <a href='https://atcharlotteshouse.com/wp-content/uploads/2019/06/Make-your-own-removable-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

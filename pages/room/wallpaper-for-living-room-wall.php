@@ -1,0 +1,129 @@
+<title>Stunning Living Room Wallpaper Ideas for Every Style</title>
+                    <meta name="description" content="Explore captivating wallpaper options for your living room! Discover designs that elevate your space, from sleek modern patterns to timeless classics, perfect for creating a warm and inviting atmosphere. Transform your living area effortlessly with our expert tips and innovative ideas!">
+                    <meta name="keywords" content="wallpaper for living room wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-for-living-room-wall">
+                            <span itemprop="name">wallpaper for living room wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Living Room Wallpaper Ideas for Every Style</h1>
+                <p>Transform your living room with stunning wallpaper designs that enhance your space and style. Choose from vibrant patterns, textured finishes, or classic designs to create a cozy atmosphere. Whether you prefer modern chic or rustic charm, the right wallpaper can redefine your living room, making it a true reflection of your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' alt='Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Art Wallpaper - Living Room Wall Mural - Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/9ff2bc/4022969282/il_570xN.4022969282_rp6f.jpg' alt='Colorful Art Wallpaper - Living Room Wall Mural - Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/9ff2bc/4022969282/il_570xN.4022969282_rp6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' alt='Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/931/u38720pig1_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/931/u38720pig1_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Murals | Ever Wallpaper US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/collections/living-room-wallpaper-mural_460x460_b4e023b5-83ce-4d3c-833f-63ecaf8b3678.webp?v=1660283229&width=750' alt='Living Room Wallpaper Murals | Ever Wallpaper US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/collections/living-room-wallpaper-mural_460x460_b4e023b5-83ce-4d3c-833f-63ecaf8b3678.webp?v=1660283229&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Murals | Living Room Mural Wallpaper Ideas | Ever Wallpaper ...">
+                                <img itemprop="contentUrl url" src='http://www.fiftyandfab.co.uk/uploads/7/2/8/9/72890261/spring-flower-vintage-mural-wallpaper-living-room_orig.jpg' alt='Wall Murals | Living Room Mural Wallpaper Ideas | Ever Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fifty & Fab" />
+                                </span>
+                                <a href='http://www.fiftyandfab.co.uk/uploads/7/2/8/9/72890261/spring-flower-vintage-mural-wallpaper-living-room_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for living room walls – buy wallpaper living room in USA ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/632/u12150pig1_900.webp' alt='Wallpaper for living room walls – buy wallpaper living room in USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/632/u12150pig1_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper for Lounges | I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ZurichMetallic_Coolgreywithmetallicgold_ILW50207_Roomset_WEB.jpg?crop=center&height=1080&v=1705502163&width=1080' alt='Living Room Wallpaper for Lounges | I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ZurichMetallic_Coolgreywithmetallicgold_ILW50207_Roomset_WEB.jpg?crop=center&height=1080&v=1705502163&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 91"x65"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Best Elegant living room wallpaper ideas | room wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' alt='15 Best Elegant living room wallpaper ideas | room wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b8/b7/06/b8b706e26823cfff8288cd4944869c42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

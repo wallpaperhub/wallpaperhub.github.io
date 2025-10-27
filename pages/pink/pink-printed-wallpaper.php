@@ -1,0 +1,129 @@
+<title>Vibrant & Stylish Pink Printed Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the charm of pink printed wallpaper! Perfect for creating cozy and stylish interiors, our collection features a variety of patterns to suit every taste. Elevate your home decor with vibrant designs that bring warmth and personality to any room. Shop now for a refreshing makeover!">
+                    <meta name="keywords" content="pink printed wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-printed-wallpaper">
+                            <span itemprop="name">pink printed wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant & Stylish Pink Printed Wallpaper for Your Home</h1>
+                <p>Pink printed wallpaper adds a delightful touch to any space, bringing warmth and personality to your interior design. Its versatile patterns range from florals to geometric shapes, making it perfect for both modern and vintage aesthetics. Ideal for living rooms, bedrooms, or accent walls, it transforms environments with charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AST4101 | LoveShackFancy, Everblooming Rosettes Pink Jam Cabbage Rose">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_baad5e22-3d6d-4ec7-b8b1-7edd1a4351fa.jpg?v=1663914030' alt='AST4101 | LoveShackFancy, Everblooming Rosettes Pink Jam Cabbage Rose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_baad5e22-3d6d-4ec7-b8b1-7edd1a4351fa.jpg?v=1663914030' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Alfresco Pink Tropical Palm Pink Wallpaper Sample  2969-26054SAM - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bb954548-68d6-48c3-813c-32d848bf8aa4/svn/a-street-prints-wallpaper-samples-2969-26054sam-64_1000.jpg' alt='A-Street Prints Alfresco Pink Tropical Palm Pink Wallpaper Sample  2969-26054SAM - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bb954548-68d6-48c3-813c-32d848bf8aa4/svn/a-street-prints-wallpaper-samples-2969-26054sam-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Damask Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-MuffinMani_PinkDamask_1.jpg' alt='Pink Damask Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-MuffinMani_PinkDamask_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints AST6086 Dreamy Days Pink Parfait Stripe and Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257433.jpg' alt='A Street Prints AST6086 Dreamy Days Pink Parfait Stripe and Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby's Room Wallpaper: Pink Print | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/baby_116812964_01_9306da72-fa38-4e27-8db4-3dbbc00feb28-sw_grande.jpg?v=1723296594' alt='Baby's Room Wallpaper: Pink Print | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/baby_116812964_01_9306da72-fa38-4e27-8db4-3dbbc00feb28-sw_grande.jpg?v=1723296594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suzy Rose">
+                                <img itemprop="contentUrl url" src='https://pepper-home.com/cdn/shop/files/SuzyRose_b5c40d50-96f4-4e14-918d-a6e9df4baca5.png?v=1682975943&width=1500' alt='Suzy Rose'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pepper Home" />
+                                </span>
+                                <a href='https://pepper-home.com/cdn/shop/files/SuzyRose_b5c40d50-96f4-4e14-918d-a6e9df4baca5.png?v=1682975943&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cicely Pink Leopard Skin Wallpaper from Design Department by Brewster">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/DD139150_1080x.jpg?v=1671722159' alt='Cicely Pink Leopard Skin Wallpaper from Design Department by Brewster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/DD139150_1080x.jpg?v=1671722159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints AST4652 Rosie Arrangements Kiss Pink Bouquet Toss Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/257426.jpg' alt='A Street Prints AST4652 Rosie Arrangements Kiss Pink Bouquet Toss Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/257426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scout Peel + Stick Wallpaper - Ballerina Pink – The Novogratz">
+                                <img itemprop="contentUrl url" src='https://www.shopthenovogratz.com/cdn/shop/products/NG14131-Scout-Ballerina-Pink-Swatch-RGB.jpg?v=1706720712' alt='Scout Peel + Stick Wallpaper - Ballerina Pink – The Novogratz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Novogratz" />
+                                </span>
+                                <a href='https://www.shopthenovogratz.com/cdn/shop/products/NG14131-Scout-Ballerina-Pink-Swatch-RGB.jpg?v=1706720712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sassy Pink Cheetah Print Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.designerwallcoverings.com/cdn/shop/products/9673c4ad707b697ca1530fbc3b178261_800x800.jpg?v=1572309941' alt='Sassy Pink Cheetah Print Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Wallcoverings" />
+                                </span>
+                                <a href='https://www.designerwallcoverings.com/cdn/shop/products/9673c4ad707b697ca1530fbc3b178261_800x800.jpg?v=1572309941' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

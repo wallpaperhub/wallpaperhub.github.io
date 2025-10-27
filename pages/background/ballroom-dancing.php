@@ -1,0 +1,129 @@
+<title>Master the Art of Ballroom Dancing: Elegance Awaits</title>
+                    <meta name="description" content="Discover the beauty of ballroom dancing! From waltz to tango, learn the styles, techniques, and benefits of this enchanting dance form. Ideal for beginners and enthusiasts alike, explore how ballroom can elevate your social experience and fitness journey today!">
+                    <meta name="keywords" content="ballroom dancing">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ballroom-dancing">
+                            <span itemprop="name">ballroom dancing</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Master the Art of Ballroom Dancing: Elegance Awaits</h1>
+                <p>Ballroom dancing is a graceful and elegant form of partner dance that includes various styles like waltz, tango, and foxtrot. It's not just about movement; it's a blend of artistry, rhythm, and connection between partners. Ideal for social events and competitions, ballroom dancing promotes fitness, coordination, and confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Ballroom Dance Is Different From What Everyone Expected ...">
+                                <img itemprop="contentUrl url" src='https://shssharkattack.com/wp-content/uploads/2020/10/ballroom-dancing-citation-free-photo.jpg' alt='How Ballroom Dance Is Different From What Everyone Expected ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1291">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shark Attack" />
+                                </span>
+                                <a href='https://shssharkattack.com/wp-content/uploads/2020/10/ballroom-dancing-citation-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballroom dance - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/75/Michael_Foskett_%26_Nika_Vlasenko_2.JPG' alt='Ballroom dance - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1770">
+                                <meta itemprop="height" content="2844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/75/Michael_Foskett_%26_Nika_Vlasenko_2.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beginner's Guide to Ballroom Dancing Basics | Dance America">
+                                <img itemprop="contentUrl url" src='https://dance-america.com/cdn/shop/articles/shall-we-dance-a-beginners-guide-to-the-basics-of-ballroom-dancing-109153.jpg?v=1733503555&width=1100' alt='Beginner's Guide to Ballroom Dancing Basics | Dance America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance America" />
+                                </span>
+                                <a href='https://dance-america.com/cdn/shop/articles/shall-we-dance-a-beginners-guide-to-the-basics-of-ballroom-dancing-109153.jpg?v=1733503555&width=1100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 8 Ballroom Dance Styles - FloDance">
+                                <img itemprop="contentUrl url" src='https://d2779tscntxxsw.cloudfront.net/59355fc03c52a.jpeg?width=1200&quality=80' alt='The 8 Ballroom Dance Styles - FloDance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FloDance" />
+                                </span>
+                                <a href='https://d2779tscntxxsw.cloudfront.net/59355fc03c52a.jpeg?width=1200&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Ballroom Dancing Originated? – DANCEYM">
+                                <img itemprop="contentUrl url" src='http://danceym.com/cdn/shop/articles/1024px-The_ballroom_at_Eglinton_Castle_grande.JPG?v=1583984703' alt='Where Ballroom Dancing Originated? – DANCEYM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danceym.com" />
+                                </span>
+                                <a href='http://danceym.com/cdn/shop/articles/1024px-The_ballroom_at_Eglinton_Castle_grande.JPG?v=1583984703' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="International Waltz – Victoria Ballroom Dance Society">
+                                <img itemprop="contentUrl url" src='https://vbds.org/wp-content/uploads/2016/07/waltz-1000x1500.jpg' alt='International Waltz – Victoria Ballroom Dance Society'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Victoria Ballroom Dance Society" />
+                                </span>
+                                <a href='https://vbds.org/wp-content/uploads/2016/07/waltz-1000x1500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Things Aspiring Professional Ballroom Dancers Should Know When ...">
+                                <img itemprop="contentUrl url" src='https://dance-teacher.com/wp-content/uploads/2020/12/6-things-aspiring-professional-ballroom-dancers-sh.jpg' alt='6 Things Aspiring Professional Ballroom Dancers Should Know When ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Teacher" />
+                                </span>
+                                <a href='https://dance-teacher.com/wp-content/uploads/2020/12/6-things-aspiring-professional-ballroom-dancers-sh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Types of Ballroom Dances">
+                                <img itemprop="contentUrl url" src='https://www.liveabout.com/thmb/eIZ7je0B25wKN76tZIiGur0Lxw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Viennese-Waltz-5903a4eb3df78c54564f4819.jpg' alt='12 Types of Ballroom Dances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveAbout" />
+                                </span>
+                                <a href='https://www.liveabout.com/thmb/eIZ7je0B25wKN76tZIiGur0Lxw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Viennese-Waltz-5903a4eb3df78c54564f4819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 19 Different Types of Ballroom Dance">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/8733582/21USD_43687_AD-small.png' alt='The 19 Different Types of Ballroom Dance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1824">
+                                <meta itemprop="height" content="1216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Vision Blog" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/8733582/21USD_43687_AD-small.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide to Ballroom and Latin Dance: Techniques, Tips, History ...">
+                                <img itemprop="contentUrl url" src='https://stepbymedancestudios.co.uk/wp-content/uploads/2023/11/AdobeStock_293982750Mobile.jpg.webp' alt='A Guide to Ballroom and Latin Dance: Techniques, Tips, History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Step By Me Dance Studios Dancing Lessons" />
+                                </span>
+                                <a href='https://stepbymedancestudios.co.uk/wp-content/uploads/2023/11/AdobeStock_293982750Mobile.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

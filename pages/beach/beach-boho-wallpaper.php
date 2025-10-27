@@ -1,0 +1,129 @@
+<title>Beach Boho Wallpaper: Coastal Chic for Your Home</title>
+                    <meta name="description" content="Discover beach boho wallpaper that breathes life into your interiors. Ideal for creating a laid-back, coastal ambiance, our designs feature warm shades, nature motifs, and stylish patterns. Perfect for any room, this wallpaper adds a touch of bohemian charm and tranquility to your home. Shop now!">
+                    <meta name="keywords" content="beach boho wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/beach-boho-wallpaper">
+                            <span itemprop="name">beach boho wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beach Boho Wallpaper: Coastal Chic for Your Home</h1>
+                <p>Transform your space with beach boho wallpaper, where vibrant coastal vibes meet relaxed bohemian aesthetics. Elevate your home décor with designs inspired by sandy shores, palm trees, and ocean hues. Perfect for bedrooms or living areas, this wallpaper creates a serene and uplifting atmosphere. Embrace the carefree spirit of beach living!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Palm Beach Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/files/421ch.jpg?v=1691442888' alt='Boho Palm Beach Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/files/421ch.jpg?v=1691442888' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Boho Wallpaper Stick and Peel Beach View Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71JSLnLsipL._AC_UF894,1000_QL80_.jpg' alt='YANFENQI Boho Wallpaper Stick and Peel Beach View Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71JSLnLsipL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beach Aesthetic Wall Collage Digital Download 75 Pieces - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11459707/r/il/e518db/3739556609/il_fullxfull.3739556609_3yyr.jpg' alt='Boho Beach Aesthetic Wall Collage Digital Download 75 Pieces - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11459707/r/il/e518db/3739556609/il_fullxfull.3739556609_3yyr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Collage Kit Photos Boho Beach Vibes Aesthetic VSCO Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24392997/r/il/c9fa12/2442858098/il_570xN.2442858098_qdp8.jpg' alt='90 Collage Kit Photos Boho Beach Vibes Aesthetic VSCO Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24392997/r/il/c9fa12/2442858098/il_570xN.2442858098_qdp8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beach Colors #simplystyledart #beachdecor #coastalfarmhouse ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/5e/7e/b55e7ee6303acad98db144ea409717cb.jpg' alt='Boho Beach Colors #simplystyledart #beachdecor #coastalfarmhouse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/5e/7e/b55e7ee6303acad98db144ea409717cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                  :                           ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/46/6f/57466fde460d0f5c0c75f822d47115c8.jpg' alt='                  :                           '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/46/6f/57466fde460d0f5c0c75f822d47115c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beach Shells Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/files/425lc.jpg?v=1691443086' alt='Boho Beach Shells Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/files/425lc.jpg?v=1691443086' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beach Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/sunset-beach-ai-generated_268835-11222.jpg' alt='Boho Beach Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/sunset-beach-ai-generated_268835-11222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Beach Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11337066.jpg' alt='Boho Beach Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11337066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Sunny Beach - Blue - Up to 250cm High">
+                                <img itemprop="contentUrl url" src='https://misspiedesigns.com.au/cdn/shop/products/bluesurfwallpapermock_1024x1024.jpg?v=1651799924' alt='Boho Sunny Beach - Blue - Up to 250cm High'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Pie Designs" />
+                                </span>
+                                <a href='https://misspiedesigns.com.au/cdn/shop/products/bluesurfwallpapermock_1024x1024.jpg?v=1651799924' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

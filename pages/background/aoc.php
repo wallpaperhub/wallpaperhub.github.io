@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aoc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aoc">
+                            <span itemprop="name">aoc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexandria Ocasio-Cortez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg' alt='Alexandria Ocasio-Cortez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexandria Ocasio-Cortez (@aoc) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/aoc/profile_pic.jpg' alt='Alexandria Ocasio-Cortez (@aoc) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/aoc/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexandria Ocasio-Cortez (@AOC) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_400x400.jpg' alt='Alexandria Ocasio-Cortez (@AOC) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocasio-Cortez Never Steered Money to a Key Arm of Her Party. Until ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2024/04/12/multimedia/12pol-aoc-topart-gqkf/12pol-aoc-topart-gqkf-videoSixteenByNine3000.jpg' alt='Ocasio-Cortez Never Steered Money to a Key Arm of Her Party. Until ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2024/04/12/multimedia/12pol-aoc-topart-gqkf/12pol-aoc-topart-gqkf-videoSixteenByNine3000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="President AOC? Democrats Need Star Power to Win in 2028 | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/67508917a7f7305fb65123a7/master/w_2560%2Cc_limit/Alexandria-Ocasio-Cortez-2028-election.jpg' alt='President AOC? Democrats Need Star Power to Win in 2028 | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/67508917a7f7305fb65123a7/master/w_2560%2Cc_limit/Alexandria-Ocasio-Cortez-2028-election.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOC appears to invoke climate change in appeal to New York voters ...">
+                                <img itemprop="contentUrl url" src='https://kfoxtv.com/resources/media2/16x9/3000/986/0x74/90/d13ddf31-99a8-4765-9957-4e32b1d618a5-GettyImages2046339409.jpg' alt='AOC appears to invoke climate change in appeal to New York voters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KFOX" />
+                                </span>
+                                <a href='https://kfoxtv.com/resources/media2/16x9/3000/986/0x74/90/d13ddf31-99a8-4765-9957-4e32b1d618a5-GettyImages2046339409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotlight On: Alexandria Ocasio-Cortez (AOC) : Blog : MyDefinition ...">
+                                <img itemprop="contentUrl url" src='https://cdn.firespring.com/images/16d1a89c-39e5-4418-b5c7-f0a3b5dcee13.jpg' alt='Spotlight On: Alexandria Ocasio-Cortez (AOC) : Blog : MyDefinition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tubman" />
+                                </span>
+                                <a href='https://cdn.firespring.com/images/16d1a89c-39e5-4418-b5c7-f0a3b5dcee13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexandria Ocasio-Cortez asks what host means when asking about ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89dd07a8-fc83-4d60-bbba-d3d2a1ea6650/d99bfad5-6ef9-4242-99e1-33d6347ab487/1280x720/match/896/500/image.jpg?ve=1&tl=1' alt='Alexandria Ocasio-Cortez asks what host means when asking about ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89dd07a8-fc83-4d60-bbba-d3d2a1ea6650/d99bfad5-6ef9-4242-99e1-33d6347ab487/1280x720/match/896/500/image.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOC may have shifted to the center, but the Democrats aren't ready ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/d8d251d659f5860891793db2739cc7f46b95c1c4/0_0_5088_3053/master/5088.jpg?width=465&dpr=1&s=none&crop=none' alt='AOC may have shifted to the center, but the Democrats aren't ready ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/d8d251d659f5860891793db2739cc7f46b95c1c4/0_0_5088_3053/master/5088.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOC on the Fight for Abortion Rights and Whether She'll Ever Be ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/63178189ab54c3fd191f04b1/master/w_1600%2Cc_limit/GQ1022%2520-%2520Cover%2520-%2520Alexandria%2520Ocasio-Cortez_4x5.jpg' alt='AOC on the Fight for Abortion Rights and Whether She'll Ever Be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/63178189ab54c3fd191f04b1/master/w_1600%2Cc_limit/GQ1022%2520-%2520Cover%2520-%2520Alexandria%2520Ocasio-Cortez_4x5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Festive Candy Cane Stripe Background for Holiday Cheer</title>
+                    <meta name="description" content="Discover how to use a candy cane stripe background to elevate your holiday designs! Perfect for cards, decorations, and digital art, this cheerful pattern brings festive joy. Create a memorable holiday experience with this classic red and white motif that embodies the spirit of the season!">
+                    <meta name="keywords" content="candy cane stripe background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-cane-stripe-background">
+                            <span itemprop="name">candy cane stripe background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Candy Cane Stripe Background for Holiday Cheer</h1>
+                <p>A candy cane stripe background captures the festive spirit of the holiday season with its bold red and white diagonal lines. Perfect for Christmas-themed designs, it adds a cheerful and playful touch to greeting cards, party invitations, and digital wallpaper. This classic pattern evokes nostalgia and joy, making it a seasonal favorite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Candy cane stripe pattern Seamless Christmas ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/candy-cane-stripe-pattern-seamless-christmas-background-vector-illustration_171739-1621.jpg' alt='Premium Vector | Candy cane stripe pattern Seamless Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/candy-cane-stripe-pattern-seamless-christmas-background-vector-illustration_171739-1621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane Pattern Svg, Diagonal Candy Cane Stripes, Ticking Stripes,  Christmas Background. Cut File Cricut, Silhouette, Png Pdf Eps, Vector">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31715137/r/il/1a5fa0/3384623542/il_fullxfull.3384623542_oe7g.jpg' alt='Candy Cane Pattern Svg, Diagonal Candy Cane Stripes, Ticking Stripes,  Christmas Background. Cut File Cricut, Silhouette, Png Pdf Eps, Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2376">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31715137/r/il/1a5fa0/3384623542/il_fullxfull.3384623542_oe7g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,743 Candy Cane Stripe Pattern Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/christmas-seamless-pattern-red-green-600nw-2354529717.jpg' alt='20,743 Candy Cane Stripe Pattern Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/christmas-seamless-pattern-red-green-600nw-2354529717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Candy cane stripe seamless pattern. Christmas ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/candy-cane-stripe-seamless-pattern-christmas-background-vector-illustration_171739-644.jpg' alt='Premium Vector | Candy cane stripe seamless pattern. Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/candy-cane-stripe-seamless-pattern-christmas-background-vector-illustration_171739-644.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane Stripe Images – Browse 98,748 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/23/47/27/360_F_523472710_2IGicAvXsIAKZHmOOnrN2s2CkaqMyO3E.jpg' alt='Candy Cane Stripe Images – Browse 98,748 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/23/47/27/360_F_523472710_2IGicAvXsIAKZHmOOnrN2s2CkaqMyO3E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane Stripe Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/733/162/non_2x/christmas-candy-cane-striped-seamless-pattern-christmas-candycane-background-with-red-stripes-caramel-diagonal-print-xmas-traditional-wrapping-texture-illustration-vector.jpg' alt='Candy Cane Stripe Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/733/162/non_2x/christmas-candy-cane-striped-seamless-pattern-christmas-candycane-background-with-red-stripes-caramel-diagonal-print-xmas-traditional-wrapping-texture-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="178 Candy Cane Stripe Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1178089705/vector/red-green-and-white-diagonal-lines-seamless-pattern-background.jpg?s=170667a&w=gi&k=20&c=ApmbCWyXGbE0u1VUz0_rvXUbUn6_UecwLBre0Zia4ko=' alt='178 Candy Cane Stripe Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1178089705/vector/red-green-and-white-diagonal-lines-seamless-pattern-background.jpg?s=170667a&w=gi&k=20&c=ApmbCWyXGbE0u1VUz0_rvXUbUn6_UecwLBre0Zia4ko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="candy cane stripes - red on white Fabric bylittlearrowdesign">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6625683/p/f/m/e-ZHwsL_TK7_2ZxXusK6NeJokVoOjjiDPBiCrtCRTyjSiUJg_Rb2ha4z/6625683-candy-cane-stripes-red-on-white-by-littlearrowdesign.jpg' alt='candy cane stripes - red on white Fabric bylittlearrowdesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6625683/p/f/m/e-ZHwsL_TK7_2ZxXusK6NeJokVoOjjiDPBiCrtCRTyjSiUJg_Rb2ha4z/6625683-candy-cane-stripes-red-on-white-by-littlearrowdesign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane Stripes PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20221025/ourmid/pngtree-christmas-candy-cane-striped-seamless-pattern-png-image_6360285.png' alt='Candy Cane Stripes PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20221025/ourmid/pngtree-christmas-candy-cane-striped-seamless-pattern-png-image_6360285.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,827 Candy Cane Stripes Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1346796202/vector/christmas-holiday-pattern-layers.jpg?s=612x612&w=gi&k=20&c=L7jEq7dCgx5rIDlbmRcYL_m0LPpJhJafHUVZsx7Pgpw=' alt='1,827 Candy Cane Stripes Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1346796202/vector/christmas-holiday-pattern-layers.jpg?s=612x612&w=gi&k=20&c=L7jEq7dCgx5rIDlbmRcYL_m0LPpJhJafHUVZsx7Pgpw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

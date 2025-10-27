@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Green Wallpapers for Your Space</title>
+                    <meta name="description" content="Explore a collection of aesthetic green wallpapers that elevate your decor. Ideal for creating a calming atmosphere, these designs feature nature-inspired patterns and shades that refresh any room. Perfect for your next home makeover, find your ideal green wallpaper today!">
+                    <meta name="keywords" content="aesthetic wallpaper green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-wallpaper-green">
+                            <span itemprop="name">aesthetic wallpaper green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Green Wallpapers for Your Space</h1>
+                <p>Aesthetic green wallpaper transforms spaces with its calming hues and natural vibe. Perfect for creating a serene atmosphere, it complements various decor styles, from minimalist to bohemian. Whether adorned with lush foliage or simple patterns, green wallpaper adds a refreshing touch, making any room feel more inviting and rejuvenating.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel green aesthetic ✨   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/a1/44/c3a144e171411ea8fde5747e24381f0c.jpg' alt='Pastel green aesthetic ✨   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/a1/44/c3a144e171411ea8fde5747e24381f0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aesthetic computer wallpaper collage">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50049612/r/il/ae8c27/5718033696/il_fullxfull.5718033696_d4pn.jpg' alt='green aesthetic computer wallpaper collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50049612/r/il/ae8c27/5718033696/il_fullxfull.5718033696_d4pn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper green light green , pastel green ,aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/9d/74/789d74b1e1dfd2aa92c5d4e6588f0ed7.jpg' alt='Aesthetic wallpaper green light green , pastel green ,aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/9d/74/789d74b1e1dfd2aa92c5d4e6588f0ed7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sage Green Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30896388/r/il/20c633/3245004147/il_fullxfull.3245004147_lwfj.jpg' alt='Aesthetic Sage Green Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30896388/r/il/20c633/3245004147/il_fullxfull.3245004147_lwfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71AlQzqQORL.png' alt='Green Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71AlQzqQORL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green aesthetic wallpapers | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/d06c08fc-3b43-4f67-8732-6d9fe82eae82/thumbnail' alt='green aesthetic wallpapers | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/d06c08fc-3b43-4f67-8732-6d9fe82eae82/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Light Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pretty-light-green-aesthetic-1c82z2myp59dhqd3.jpg' alt='Pretty Light Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="1916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pretty-light-green-aesthetic-1c82z2myp59dhqd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51CtESs2LML.jpg' alt='Green Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51CtESs2LML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

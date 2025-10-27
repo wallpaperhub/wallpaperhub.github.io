@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Red Brick Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of red brick peel and stick wallpaper! Perfect for an easy home makeover. Enjoy the brick look without the permanence. Ideal for any room, it’s simple to install and remove, making it the perfect choice for renters. Upgrade your decor effortlessly today!">
+                    <meta name="keywords" content="red brick peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-brick-peel-and-stick-wallpaper">
+                            <span itemprop="name">red brick peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Red Brick Peel and Stick Wallpaper</h1>
+                <p>Transform your space instantly with red brick peel and stick wallpaper. Ideal for renters and DIY enthusiasts, this versatile option offers the charm of classic brick without the hassle. Easy to apply and remove, it gives your walls a rustic, industrial touch and can enhance both modern and vintage decor styles seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Cohoo Home Red Brick Wallpaper Peel and Stick Contact Paper for  Walls Faux 3D Brick Self-Adhesive Removable Wallpaper for Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Qh2vx6DoL.jpg' alt='Amazon.com: Cohoo Home Red Brick Wallpaper Peel and Stick Contact Paper for  Walls Faux 3D Brick Self-Adhesive Removable Wallpaper for Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1107">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Qh2vx6DoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Distressed Brick Red Brick Vinyl Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/da34cf16-437b-4e6a-b150-e30441b5d2b1/svn/nextwall-wallpaper-rolls-nw31700-64_600.jpg' alt='NextWall Distressed Brick Red Brick Vinyl Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/da34cf16-437b-4e6a-b150-e30441b5d2b1/svn/nextwall-wallpaper-rolls-nw31700-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Red Brick Wallpaper Peel and Stick Wallpaper 17.7" x 118" 3D  Effect Self Adhesive Removable Vinyl Contact Paper for Bedroom, Living Room  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Abyssaly-3D-Red-Brick-Wallpaper-Peel-Stick-17-7-x-236-Self-Adhesive-Waterproof-Vinyl-Vintage-Kitchen-Wall-Cabinet-Furniture-Christmas-Decoration_4fceb013-83fe-41bd-a8af-559ef7e61b33.65c1af76ed9204db6dbffbf2991dc369.jpeg' alt='Abyssaly Red Brick Wallpaper Peel and Stick Wallpaper 17.7" x 118" 3D  Effect Self Adhesive Removable Vinyl Contact Paper for Bedroom, Living Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Abyssaly-3D-Red-Brick-Wallpaper-Peel-Stick-17-7-x-236-Self-Adhesive-Waterproof-Vinyl-Vintage-Kitchen-Wall-Cabinet-Furniture-Christmas-Decoration_4fceb013-83fe-41bd-a8af-559ef7e61b33.65c1af76ed9204db6dbffbf2991dc369.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_1080xN.3365555145_kzf7.jpg' alt='Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_1080xN.3365555145_kzf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Distressed Faux Brick Peel and Stick Wallpaper (Red) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/B1P--REJQUS.jpg' alt='NextWall Distressed Faux Brick Peel and Stick Wallpaper (Red) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2465">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/B1P--REJQUS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/accent-a-kitchen-with-RMK9035WP-red-brick-peel-and-stick-wallpaper_c0dcd449-a901-44cf-84d3-a5e9c3f9e956.jpg?v=1703781509&width=2400' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/accent-a-kitchen-with-RMK9035WP-red-brick-peel-and-stick-wallpaper_c0dcd449-a901-44cf-84d3-a5e9c3f9e956.jpg?v=1703781509&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Red Brick Wallpaper Peel and Stick Wallpaper 17.7" x 118" 3D  Effect Self Adhesive Removable Vinyl Contact Paper for Bedroom, Living Room  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/6e7a3e75-3ba1-46bf-96b8-f7cf9662e166.3fdacf7ce6f5c346ed11be4406d9228e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Abyssaly Red Brick Wallpaper Peel and Stick Wallpaper 17.7" x 118" 3D  Effect Self Adhesive Removable Vinyl Contact Paper for Bedroom, Living Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/6e7a3e75-3ba1-46bf-96b8-f7cf9662e166.3fdacf7ce6f5c346ed11be4406d9228e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Faux Red Brick Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/il_fullxfull.1777506332_rlg9_1000x1000.jpg?v=1582677234' alt='Distressed Faux Red Brick Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/il_fullxfull.1777506332_rlg9_1000x1000.jpg?v=1582677234' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Peel and Stick Wallpaper, Industrial Removable Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16884357/r/il/0325ed/4653742214/il_570xN.4653742214_3s8m.jpg' alt='Red Brick Peel and Stick Wallpaper, Industrial Removable Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16884357/r/il/0325ed/4653742214/il_570xN.4653742214_3s8m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Living 30.75-sq ft Red Vinyl Brick Self-Adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/5c983b00-73f5-4280-9471-8ee9cfc10e18/10790690.jpg' alt='Scott Living 30.75-sq ft Red Vinyl Brick Self-Adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/5c983b00-73f5-4280-9471-8ee9cfc10e18/10790690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

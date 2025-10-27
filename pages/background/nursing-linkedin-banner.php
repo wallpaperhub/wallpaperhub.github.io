@@ -1,0 +1,129 @@
+<title>Nursing LinkedIn Banner Ideas to Stand Out</title>
+                    <meta name="description" content="Discover creative nursing LinkedIn banner ideas that elevate your profile. Explore designs that highlight your nursing journey, promote your skills, and connect with the healthcare community. Stand out in the professional realm with visually appealing banners that convey your passion for nursing.">
+                    <meta name="keywords" content="nursing linkedin banner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nursing-linkedin-banner">
+                            <span itemprop="name">nursing linkedin banner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nursing LinkedIn Banner Ideas to Stand Out</h1>
+                <p>Enhance your professional presence with a nursing LinkedIn banner that reflects your passion and expertise. Choose designs showcasing healthcare themes, calming colors, and subtle elements like stethoscopes or nursing symbols. A well-crafted banner communicates your dedication and attracts the right connections in the nursing community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NURSE LINKEDIN BANNER Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/nurse-linkedin-banner-design-template-5f8897d93f41f9cf68666f1bb124a99e_screen.jpg?ts=1631936475' alt='NURSE LINKEDIN BANNER Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/nurse-linkedin-banner-design-template-5f8897d93f41f9cf68666f1bb124a99e_screen.jpg?ts=1631936475' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NURSE LINKEDIN BANNER Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/nurse-linkedin-banner-design-template-79f8da1ceaae60b14f3a5900f8eac0da_screen.jpg?ts=1627128658' alt='NURSE LINKEDIN BANNER Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/nurse-linkedin-banner-design-template-79f8da1ceaae60b14f3a5900f8eac0da_screen.jpg?ts=1627128658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Linkedin background ideas | linkedin background, linkedin ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/37/35/48/3735481ab7c60abd7c800a4e150f08c4.jpg' alt='16 Linkedin background ideas | linkedin background, linkedin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/37/35/48/3735481ab7c60abd7c800a4e150f08c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yating Cao - Ambulatory Care Nurse - Banner Health | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5616AQGyCqNCFNNk0A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1661552153314?e=2147483647&v=beta&t=-AS0JjGN-5Ay1eQdUh5__tBg-gRekLEGcOlfbFOtpw0' alt='Yating Cao - Ambulatory Care Nurse - Banner Health | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5616AQGyCqNCFNNk0A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1661552153314?e=2147483647&v=beta&t=-AS0JjGN-5Ay1eQdUh5__tBg-gRekLEGcOlfbFOtpw0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medical Field Linkedin Banner | Healthcare Field | Linkedin Banner ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41776011/r/il/0eeb10/5941621891/il_fullxfull.5941621891_6r5y.jpg' alt='Medical Field Linkedin Banner | Healthcare Field | Linkedin Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41776011/r/il/0eeb10/5941621891/il_fullxfull.5941621891_6r5y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ivette Arias, MPH, MS, RN - Registered Nurse - Banner Health ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5616AQHdcZ9ov2OiqQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1676868928148?e=2147483647&v=beta&t=yzmsEu3L1KwiE9VZGGRfT0d6xGdqIWLuMb0NqI_u_4M' alt='Ivette Arias, MPH, MS, RN - Registered Nurse - Banner Health ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5616AQHdcZ9ov2OiqQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1676868928148?e=2147483647&v=beta&t=yzmsEu3L1KwiE9VZGGRfT0d6xGdqIWLuMb0NqI_u_4M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alicia Paige - Registered Nurse - Banner Health | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4D16AQFZZVwwzQJTkA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1663370068221?e=2147483647&v=beta&t=Hs4hq-oiWCqAS0IU5ZECqbn98Z9gybKZV_G8qF49IFE' alt='Alicia Paige - Registered Nurse - Banner Health | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4D16AQFZZVwwzQJTkA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1663370068221?e=2147483647&v=beta&t=Hs4hq-oiWCqAS0IU5ZECqbn98Z9gybKZV_G8qF49IFE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelle Bullis - Registered Nurse - Banner Health | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5616AQGdOIy2blXmDQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1578408218473?e=2147483647&v=beta&t=otEeCNd7KSJsheMFgY-gppgYASEnG1ah4IGKKFFV9EU' alt='Michelle Bullis - Registered Nurse - Banner Health | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5616AQGdOIy2blXmDQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1578408218473?e=2147483647&v=beta&t=otEeCNd7KSJsheMFgY-gppgYASEnG1ah4IGKKFFV9EU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best LinkedIn background banner ideas | linkedin background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/22/63/d92263959497d93a826ff6860aa4b684.jpg' alt='7 Best LinkedIn background banner ideas | linkedin background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/22/63/d92263959497d93a826ff6860aa4b684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MCN asks what a future nurse will look like - News - Illinois State">
+                                <img itemprop="contentUrl url" src='https://news.illinoisstate.edu/files/2019/02/nurse.jpg' alt='MCN asks what a future nurse will look like - News - Illinois State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1632">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Illinois State University News" />
+                                </span>
+                                <a href='https://news.illinoisstate.edu/files/2019/02/nurse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

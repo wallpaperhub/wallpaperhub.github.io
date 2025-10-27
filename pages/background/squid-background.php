@@ -1,0 +1,129 @@
+<title>Discover the Fascinating World of Squid</title>
+                    <meta name="description" content="Explore the intriguing background of squids, from their unique adaptations to their role in ocean ecosystems. Learn about their behaviors, diet, and importance in marine life, uncovering the secrets of these intelligent cephalopods.">
+                    <meta name="keywords" content="squid background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/squid-background">
+                            <span itemprop="name">squid background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating World of Squid</h1>
+                <p>Squid, fascinating cephalopods, inhabit oceans worldwide, showcasing unique features like their agile bodies and ink defense mechanism. With a diverse diet, they play a vital role in marine food webs. Known for their intelligence and complex behaviors, squids are studied for insights into evolution and marine biology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Hand Drawn Squids Seamless Pattern. Squid Animal Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/tatyvovchek/tatyvovchek1907/tatyvovchek190700022/128401182-cute-hand-drawn-squids-seamless-pattern-squid-animal-cartoon-character-isolated-on-white-background.jpg' alt='Cute Hand Drawn Squids Seamless Pattern. Squid Animal Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/tatyvovchek/tatyvovchek1907/tatyvovchek190700022/128401182-cute-hand-drawn-squids-seamless-pattern-squid-animal-cartoon-character-isolated-on-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Squid Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0566/8877/rrrsquidpattern_shop_thumb.png' alt='Giant Squid Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0566/8877/rrrsquidpattern_shop_thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Squid Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-squid-art-0heezajrgolh4an7.jpg' alt='100+] Squid Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-squid-art-0heezajrgolh4an7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute squid seamless pattern background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/99/75/cute-squid-seamless-pattern-background-vector-26659975.jpg' alt='Cute squid seamless pattern background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/99/75/cute-squid-seamless-pattern-background-vector-26659975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with cartoon doodle squid. Background with sea ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/508/612/non_2x/seamless-pattern-with-cartoon-doodle-squid-background-with-sea-life-in-flat-style-suitable-for-decoration-design-stickers-vector.jpg' alt='Seamless pattern with cartoon doodle squid. Background with sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/508/612/non_2x/seamless-pattern-with-cartoon-doodle-squid-background-with-sea-life-in-flat-style-suitable-for-decoration-design-stickers-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Squid Head Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1022260074/photo/purple-common-octopus-tentacles-rolled-with-other-one-in-background.jpg?s=612x612&w=0&k=20&c=DQVcXVM3Bvl5eTRgs_Ls3zm_uVVmheLokkJplfP9EV4=' alt='1,900+ Squid Head Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1022260074/photo/purple-common-octopus-tentacles-rolled-with-other-one-in-background.jpg?s=612x612&w=0&k=20&c=DQVcXVM3Bvl5eTRgs_Ls3zm_uVVmheLokkJplfP9EV4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,068 Squid Stock Photos, High-Res Pictures, and Images - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/155156786/photo/squid-seafood-isolated-on-white.jpg?s=612x612&w=gi&k=20&c=MKg2fb02RF8lAmHhC5wSZ2KtrI2u_yEyQDFl_ZRMmUs=' alt='24,068 Squid Stock Photos, High-Res Pictures, and Images - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/155156786/photo/squid-seafood-isolated-on-white.jpg?s=612x612&w=gi&k=20&c=MKg2fb02RF8lAmHhC5wSZ2KtrI2u_yEyQDFl_ZRMmUs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with cartoon doodle squid. Background with sea ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/508/609/non_2x/seamless-pattern-with-cartoon-doodle-squid-background-with-sea-life-in-flat-style-suitable-for-decoration-design-stickers-vector.jpg' alt='Seamless pattern with cartoon doodle squid. Background with sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/508/609/non_2x/seamless-pattern-with-cartoon-doodle-squid-background-with-sea-life-in-flat-style-suitable-for-decoration-design-stickers-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long Fin Squid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11255411/p/f/m/iTLAka2iBd_Nm_Zi5am8NWm3jYadMpLT9pzcbP3laYPOR4W8b2mKBhwSOg/Long%20Fin%20Squid.jpg' alt='Long Fin Squid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11255411/p/f/m/iTLAka2iBd_Nm_Zi5am8NWm3jYadMpLT9pzcbP3laYPOR4W8b2mKBhwSOg/Long%20Fin%20Squid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid Color Images – Browse 52,825 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/90/17/23/360_F_90172344_EJACRFWrxbBDmrO0Nrr5sSg3qWKN6bpA.jpg' alt='Squid Color Images – Browse 52,825 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/90/17/23/360_F_90172344_EJACRFWrxbBDmrO0Nrr5sSg3qWKN6bpA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

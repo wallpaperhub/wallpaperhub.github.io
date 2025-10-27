@@ -1,0 +1,129 @@
+<title>Discover Vampirina: A Spooky-Great Adventure for Kids</title>
+                    <meta name="description" content="Explore the enchanting world of Vampirina, the charming young vampire who embraces friendship and family. Join her adventures as she bridges the gap between the spooky and the everyday, all while teaching valuable life lessons to kids. Perfect for little ghouls and witches!">
+                    <meta name="keywords" content="vampirina background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vampirina-background">
+                            <span itemprop="name">vampirina background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Vampirina: A Spooky-Great Adventure for Kids</h1>
+                <p>Vampirina is a beloved animated character from the Disney Junior series, which follows the adventures of a young vampire girl who moves from Transylvania to a small town. Balancing her spooky heritage with her desire to fit in, she navigates friendships, family, and the challenges of growing up in a new culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vampirina Backdrop | For Girl | Birthday | Baby Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71r7FpwoZ2L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Vampirina Backdrop | For Girl | Birthday | Baby Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71r7FpwoZ2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Personalized Birthday Banner for Vampirina Theme Party 24"x 48"  or 42"x84" : Office Products">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811fBxLuNfL.jpg' alt='Amazon.com: Personalized Birthday Banner for Vampirina Theme Party 24"x 48"  or 42"x84" : Office Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811fBxLuNfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Junior's Vampirina - The Tiger Tales | Family | Lifestyle ...">
+                                <img itemprop="contentUrl url" src='https://thetigertales.co.uk/wp-content/uploads/2018/01/VEE2-960x675.jpg' alt='Disney Junior's Vampirina - The Tiger Tales | Family | Lifestyle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tiger Tales" />
+                                </span>
+                                <a href='https://thetigertales.co.uk/wp-content/uploads/2018/01/VEE2-960x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vampirina Backdrop | For Girl | Birthday | Baby Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71-dBjJ22oL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Vampirina Backdrop | For Girl | Birthday | Baby Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71-dBjJ22oL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Backdrop Pink Vampirina Girl Moon Bat Ghost Photography ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Y01lpbkIL.jpg' alt='Halloween Backdrop Pink Vampirina Girl Moon Bat Ghost Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2126">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Y01lpbkIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Vampirina Cartoon Backdrop kids Birthday Party Decoration Background  7x5ft">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/bGkAAOSwm31fM9Jj/s-l1200.jpg' alt='Cute Vampirina Cartoon Backdrop kids Birthday Party Decoration Background  7x5ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/bGkAAOSwm31fM9Jj/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - "Vampirina" / Disney Junior - Backgrounds">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/056/404/854/large/ximena-raya-ep287-sh001-00-clr-v03.jpg?1669159625' alt='ArtStation - "Vampirina" / Disney Junior - Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/056/404/854/large/ximena-raya-ep287-sh001-00-clr-v03.jpg?1669159625' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vampirina Halloween Girl Party Backdrop Cute Fangs Vampire Girl ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/KZcAAOSwT4pkr2RP/s-l400.jpg' alt='Vampirina Halloween Girl Party Backdrop Cute Fangs Vampire Girl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/KZcAAOSwT4pkr2RP/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vampirina (TV Series 2017- ) - Backdrops — The Movie Database (TMDB)">
+                                <img itemprop="contentUrl url" src='https://image.tmdb.org/t/p/original/6vjpTFJxoJ7qnjExxpO0c9bWAyO.jpg' alt='Vampirina (TV Series 2017- ) - Backdrops — The Movie Database (TMDB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMDB" />
+                                </span>
+                                <a href='https://image.tmdb.org/t/p/original/6vjpTFJxoJ7qnjExxpO0c9bWAyO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Vampirina Hauntley Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-vampirina-hauntley-jcf88i1ev02ajkup.jpg' alt='Black And Purple Aesthetic Vampirina Hauntley Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-purple-aesthetic-vampirina-hauntley-jcf88i1ev02ajkup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

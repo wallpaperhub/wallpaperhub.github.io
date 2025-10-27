@@ -1,0 +1,129 @@
+<title>Unlock Your Potential: Georgia Casting Calls</title>
+                    <meta name="description" content="Discover Georgia's thriving casting scene! Join auditions and casting calls for actors and models in a booming entertainment industry. Find your big break and showcase your talent in one of the hottest locations for film and television. Don't miss out on exciting opportunities in Georgia casting!">
+                    <meta name="keywords" content="georgia casting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/georgia-casting">
+                            <span itemprop="name">georgia casting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Your Potential: Georgia Casting Calls</h1>
+                <p>Georgia casting offers aspiring talents a unique opportunity to shine in the entertainment industry. With a vibrant film scene and numerous casting calls, Georgia is a hub for actors, models, and performers. Whether you're seasoned or a newcomer, you'll find ample chances to showcase your skills and land exciting roles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginny And Georgia Cast In Real Life Photos">
+                                <img itemprop="contentUrl url" src='https://img.buzzfeed.com/buzzfeed-static/static/2021-03/9/18/asset/8c86bcedc587/sub-buzz-12786-1615314772-2.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' alt='Ginny And Georgia Cast In Real Life Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BuzzFeed" />
+                                </span>
+                                <a href='https://img.buzzfeed.com/buzzfeed-static/static/2021-03/9/18/asset/8c86bcedc587/sub-buzz-12786-1615314772-2.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sign Up - Central Casting Georgia">
+                                <img itemprop="contentUrl url" src='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/core2020-header-2020-register-la-adults-5.jpg' alt='Sign Up - Central Casting Georgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Casting" />
+                                </span>
+                                <a href='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/core2020-header-2020-register-la-adults-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cast… they did really good for the younger cast. Especially ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cast-they-did-really-good-for-the-younger-cast-especially-v0-salgfecoryaa1.jpg?width=640&crop=smart&auto=webp&s=fa86cc4c05004d896ce5cf7e95bb762a7ef90d1c' alt='Cast… they did really good for the younger cast. Especially ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cast-they-did-really-good-for-the-younger-cast-especially-v0-salgfecoryaa1.jpg?width=640&crop=smart&auto=webp&s=fa86cc4c05004d896ce5cf7e95bb762a7ef90d1c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See Max, Abby and Norah’s Audition Tape for ‘Ginny & Georgia’">
+                                <img itemprop="contentUrl url" src='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQYYhSIwlQHxGzg0_mi1HNH9KDFsO4kj4eBFVzeNqvMRy83br1XcVGF5ia-LlRYLgRxzKWcG5pBYPYq7udh0ILFkVvJOfRfiJVF-jHYQRlbTjdKSEY9sZItUqoWZBkfywudjbJUTUTKjkogrbxh6Hp_1L.jpg?r=d5a' alt='See Max, Abby and Norah’s Audition Tape for ‘Ginny & Georgia’'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix" />
+                                </span>
+                                <a href='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQYYhSIwlQHxGzg0_mi1HNH9KDFsO4kj4eBFVzeNqvMRy83br1XcVGF5ia-LlRYLgRxzKWcG5pBYPYq7udh0ILFkVvJOfRfiJVF-jHYQRlbTjdKSEY9sZItUqoWZBkfywudjbJUTUTKjkogrbxh6Hp_1L.jpg?r=d5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can we talk about how well young and older Georgia / Gil were cast ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/can-we-talk-about-how-well-young-and-older-georgia-gil-were-v0-0u2mb8ps3jaa1.jpg?width=640&crop=smart&auto=webp&s=69a1bfe0a509c5c320bbf03572a7d439d6b4a918' alt='Can we talk about how well young and older Georgia / Gil were cast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/can-we-talk-about-how-well-young-and-older-georgia-gil-were-v0-0u2mb8ps3jaa1.jpg?width=640&crop=smart&auto=webp&s=69a1bfe0a509c5c320bbf03572a7d439d6b4a918' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Central Casting Georgia">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=788036346776155' alt='Profile for Central Casting Georgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=788036346776155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginny & Georgia cast: Where you've seen the actors before - Capital">
+                                <img itemprop="contentUrl url" src='https://assets.capitalfm.com/2021/08/ginny--georgia-cast-where-youve-seen-the-actors-before-1614254930-list-handheld-0.png' alt='Ginny & Georgia cast: Where you've seen the actors before - Capital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capital" />
+                                </span>
+                                <a href='https://assets.capitalfm.com/2021/08/ginny--georgia-cast-where-youve-seen-the-actors-before-1614254930-list-handheld-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ginny & Georgia Season 3: Cast, Photos - Netflix Tudum">
+                                <img itemprop="contentUrl url" src='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQREow9cX9-Lc0G88ngni7NcWvMkW-0VD87TKR_IZtKGYRWVdFCults1mahtSJ3KJvuDBGDYZJTF_B9jv9z_Dzl5bYZeOa_ZkgOWWM91Yyw91a43FcO_7OEd7gq7edld31nLRHSAYFqnPX5yu9FXfWteLBiY.jpg?r=532' alt='Ginny & Georgia Season 3: Cast, Photos - Netflix Tudum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix" />
+                                </span>
+                                <a href='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQREow9cX9-Lc0G88ngni7NcWvMkW-0VD87TKR_IZtKGYRWVdFCults1mahtSJ3KJvuDBGDYZJTF_B9jv9z_Dzl5bYZeOa_ZkgOWWM91Yyw91a43FcO_7OEd7gq7edld31nLRHSAYFqnPX5yu9FXfWteLBiY.jpg?r=532' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can we talk about how well young and older Georgia / Gil were cast ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/can-we-talk-about-how-well-young-and-older-georgia-gil-were-v0-9uu0e7ps3jaa1.jpg?width=291&format=pjpg&auto=webp&s=b6ed7edc3a5293de0249b6c71fcb967151744e3d' alt='Can we talk about how well young and older Georgia / Gil were cast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="291">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/can-we-talk-about-how-well-young-and-older-georgia-gil-were-v0-9uu0e7ps3jaa1.jpg?width=291&format=pjpg&auto=webp&s=b6ed7edc3a5293de0249b6c71fcb967151744e3d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix Orders New YA Series 'Ginny & Georgia', Unveils Main Cast">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2019/08/gentry-howey.jpg?w=681&h=383&crop=1' alt='Netflix Orders New YA Series 'Ginny & Georgia', Unveils Main Cast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2019/08/gentry-howey.jpg?w=681&h=383&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

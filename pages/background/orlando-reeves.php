@@ -1,0 +1,129 @@
+<title>Discover Orlando Reeves: Art, Culture & Community</title>
+                    <meta name="description" content="Explore the life and work of Orlando Reeves, an influential artist celebrated for his meaningful contributions to culture and community. Learn how his unique vision and artistic expressions shape modern narratives and inspire audiences today.">
+                    <meta name="keywords" content="orlando reeves">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orlando-reeves">
+                            <span itemprop="name">orlando reeves</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Orlando Reeves: Art, Culture & Community</h1>
+                <p>Orlando Reeves is a notable figure known for his contributions to the realm of artistic expression and cultural enrichment. His impactful works often intertwine themes of community, identity, and resilience, resonating with audiences across various mediums. Reeves's unique perspective continues to inspire a diverse array of creative projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves Historical Marker">
+                                <img itemprop="contentUrl url" src='https://www.hmdb.org/Photos/22/Photo22455.jpg' alt='Orlando Reeves Historical Marker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Historical Marker Database" />
+                                </span>
+                                <a href='https://www.hmdb.org/Photos/22/Photo22455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves | Staute of Orlando Reeves a soldier from the… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3220/2407041608_8ebcf5a097_b.jpg' alt='Orlando Reeves | Staute of Orlando Reeves a soldier from the… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3220/2407041608_8ebcf5a097_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Theories Of How Orlando Got Its Name">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thefloridaexplorer.com/wp-content/uploads/2019/09/Orlando-Reeves.jpg?resize=400%2C511&ssl=1' alt='5 Theories Of How Orlando Got Its Name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Florida Explorer" />
+                                </span>
+                                <a href='https://i0.wp.com/thefloridaexplorer.com/wp-content/uploads/2019/09/Orlando-Reeves.jpg?resize=400%2C511&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves Fact or Fiction?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aHJhEChsuGQ/maxresdefault.jpg' alt='Orlando Reeves Fact or Fiction?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aHJhEChsuGQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves Historical Marker">
+                                <img itemprop="contentUrl url" src='https://www.hmdb.org/Photos/22/Photo22456.jpg?11252005' alt='Orlando Reeves Historical Marker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Historical Marker Database" />
+                                </span>
+                                <a href='https://www.hmdb.org/Photos/22/Photo22456.jpg?11252005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mosquito County Tours - I have so much fun telling the story of ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=368801647156418' alt='Mosquito County Tours - I have so much fun telling the story of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=368801647156418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves Marker - Clio">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/clio-images/medium_40577.103171.jpg' alt='Orlando Reeves Marker - Clio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clio" />
+                                </span>
+                                <a href='https://storage.googleapis.com/clio-images/medium_40577.103171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves Historical Marker">
+                                <img itemprop="contentUrl url" src='https://www.hmdb.org/Photos1/166/Photo166545.jpg?32201880300AM' alt='Orlando Reeves Historical Marker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Historical Marker Database" />
+                                </span>
+                                <a href='https://www.hmdb.org/Photos1/166/Photo166545.jpg?32201880300AM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did Orlando get its name? - Florida History Blog">
+                                <img itemprop="contentUrl url" src='https://floridahistoryblog.com/wp-content/uploads/2024/01/Orlando_Reeves_Plaque-1024x683.jpg' alt='How did Orlando get its name? - Florida History Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida History Blog" />
+                                </span>
+                                <a href='https://floridahistoryblog.com/wp-content/uploads/2024/01/Orlando_Reeves_Plaque-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orlando Reeves (@OrlandoReeves) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/626686023909543936/DwSdSpEo_400x400.jpg' alt='Orlando Reeves (@OrlandoReeves) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/626686023909543936/DwSdSpEo_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

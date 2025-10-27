@@ -1,0 +1,129 @@
+<title>Pink Y2K Star Wallpaper - Retro Aesthetic Decor</title>
+                    <meta name="description" content="Discover the enchanting pink Y2K star wallpaper that brings nostalgic retro vibes to any room. Perfect for adding a whimsical touch, this cheerful decor choice elevates your space with style and color. Transform your walls with playful pink stars for a trendy, dreamy atmosphere!">
+                    <meta name="keywords" content="pink y2k star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/pink-y2k-star-wallpaper">
+                            <span itemprop="name">pink y2k star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Y2K Star Wallpaper - Retro Aesthetic Decor</h1>
+                <p>Transform your space with soft, vibrant pink Y2K star wallpaper. This playful design blends nostalgia with modern aesthetics, making it perfect for bedrooms, playrooms, or creative spaces. Bring a sense of whimsy and warmth to your walls and enjoy the cheerful vibes! Perfect for those who love retro aesthetics and imaginative decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile pic for @landrie0052">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/77/1e/f2771ebedef2a74eba4395651433460e.jpg' alt='Profile pic for @landrie0052'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/77/1e/f2771ebedef2a74eba4395651433460e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Star Wallpaper Options for a Dazzling Phone Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/81/66/bf/8166bf4d79841d1fb7c3bbc12f47f2e6.jpg' alt='45+ Star Wallpaper Options for a Dazzling Phone Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/81/66/bf/8166bf4d79841d1fb7c3bbc12f47f2e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' alt='Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/a5/95/c2a595ee7a2f70b57aa76f327f3d0001.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/a5/95/c2a595ee7a2f70b57aa76f327f3d0001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K 1 Hour Pink Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lXx1UcKXAII/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKyhiMA8=&rs=AOn4CLBHINrtKRQ8oxg04EKqSJ8PXI5Q6g' alt='4K 1 Hour Pink Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lXx1UcKXAII/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKyhiMA8=&rs=AOn4CLBHINrtKRQ8oxg04EKqSJ8PXI5Q6g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Star 3D Bubble Pattern Y2K Aesthetic | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5008024983.0433/flat,750x1000,075,t.jpg' alt='Pink Star 3D Bubble Pattern Y2K Aesthetic | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5008024983.0433/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Star core ideas | star wallpaper, y2k wallpaper, y2k background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fb/a9/b2/fba9b24b12f5615170d3874af149bea5.jpg' alt='28 Star core ideas | star wallpaper, y2k wallpaper, y2k background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fb/a9/b2/fba9b24b12f5615170d3874af149bea5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Trendy seamless pattern with y2k blurred gradient ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/trendy-seamless-pattern-with-y2k-blurred-gradient-star-pink-background-groovy-color-background_713496-529.jpg' alt='Premium Vector | Trendy seamless pattern with y2k blurred gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/trendy-seamless-pattern-with-y2k-blurred-gradient-star-pink-background-groovy-color-background_713496-529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Michigan Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover breathtaking Michigan wallpapers for your iPhone! From scenic lakes to vibrant fall colors, personalize your screen with beautiful images that capture the essence of Michigan. Perfect for nature lovers and anyone who appreciates stunning visuals on their mobile device!">
+                    <meta name="keywords" content="iphone michigan wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-michigan-wallpaper">
+                            <span itemprop="name">iphone michigan wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Michigan Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's aesthetic with stunning Michigan wallpapers! Featuring breathtaking landscapes, scenic lakes, and vibrant seasons, these wallpapers celebrate the beauty of the Great Lakes State. From the serene shores of Lake Michigan to the colorful fall foliage, transform your screen with a piece of Michigan's charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Mobile Wallpapers - University of Michigan Athletics">
+                                <img itemprop="contentUrl url" src='https://mgoblue.com/images/2020/10/22/Legends_Tunnel_Wallpaper.jpg' alt='Michigan Mobile Wallpapers - University of Michigan Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Athletics" />
+                                </span>
+                                <a href='https://mgoblue.com/images/2020/10/22/Legends_Tunnel_Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Mobile Wallpapers - University of Michigan Athletics">
+                                <img itemprop="contentUrl url" src='https://mgoblue.com/images/2020/6/25/Michigan_10.jpg' alt='Michigan Mobile Wallpapers - University of Michigan Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Athletics" />
+                                </span>
+                                <a href='https://mgoblue.com/images/2020/6/25/Michigan_10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Mobile Wallpapers - University of Michigan Athletics">
+                                <img itemprop="contentUrl url" src='https://mgoblue.com/images/2020/6/25/Block_M.jpg' alt='Michigan Mobile Wallpapers - University of Michigan Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Athletics" />
+                                </span>
+                                <a href='https://mgoblue.com/images/2020/6/25/Block_M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Wallpaper for iPhone 15 Pro : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/michigan-wallpaper-for-iphone-15-pro-v0-bo1p5lb5qf9c1.jpeg?auto=webp&s=c1968a1e8bdab739295c4fa1b3e3e652423eeb17' alt='Michigan Wallpaper for iPhone 15 Pro : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/michigan-wallpaper-for-iphone-15-pro-v0-bo1p5lb5qf9c1.jpeg?auto=webp&s=c1968a1e8bdab739295c4fa1b3e3e652423eeb17' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/6e/8e/b76e8ec53ee934deaf2c0b552596f22e.jpg' alt='Michigan Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/6e/8e/b76e8ec53ee934deaf2c0b552596f22e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Holiday Sweater Wallpaper for iPhone and Apple Watch ...">
+                                <img itemprop="contentUrl url" src='https://mgoblog.com/sites/default/files/users/user139759/Michigan%20iPhone%20Sweater.jpg' alt='Michigan Holiday Sweater Wallpaper for iPhone and Apple Watch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MGoBlog" />
+                                </span>
+                                <a href='https://mgoblog.com/sites/default/files/users/user139759/Michigan%20iPhone%20Sweater.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MICHIGAN WALLPAPER | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1138379777.3877/flat,750x1000,075,t.u2.jpg' alt='MICHIGAN WALLPAPER | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1138379777.3877/flat,750x1000,075,t.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Football on X: "   Got a fresh wallpaper for everyone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5X8mP5XUAE4bQm.jpg:large' alt='Michigan Football on X: "   Got a fresh wallpaper for everyone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5X8mP5XUAE4bQm.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Michigan Wolverines Logo Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/university-of-michigan-9zv0l7qkekc8fa0n.jpg' alt='Download Michigan Wolverines Logo Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/university-of-michigan-9zv0l7qkekc8fa0n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Championship iPhone Background : r/MichiganWolverines">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/championship-iphone-background-v0-gyw5rs7iptbc1.jpeg?width=1133&format=pjpg&auto=webp&s=5d95c048ee07ae8669f96e2d8b142728f37f7a4f' alt='Championship iPhone Background : r/MichiganWolverines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1133">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/championship-iphone-background-v0-gyw5rs7iptbc1.jpeg?width=1133&format=pjpg&auto=webp&s=5d95c048ee07ae8669f96e2d8b142728f37f7a4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

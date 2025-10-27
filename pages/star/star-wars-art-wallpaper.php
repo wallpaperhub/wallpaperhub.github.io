@@ -1,0 +1,129 @@
+<title>Stunning Star Wars Art Wallpaper for Your Space</title>
+                    <meta name="description" content="Elevate your décor with captivating Star Wars art wallpaper. Discover a range of stunning designs featuring your favorite characters and scenes from the galaxy far, far away. Perfect for fans looking to add a touch of adventure and nostalgia to their walls! Enjoy quality and style in every roll.">
+                    <meta name="keywords" content="star wars art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-art-wallpaper">
+                            <span itemprop="name">star wars art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars Art Wallpaper for Your Space</h1>
+                <p>Star Wars art wallpaper brings the galaxy far, far away into your home. Featuring stunning visuals of iconic characters, spacecraft, and epic battles, these wallpapers transform your walls into a mesmerizing canvas. Perfect for fans of all ages, each design captures the essence of the Star Wars universe, making your space truly out of this world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Celebration Art - Phone Wallpaper - 1920 x 1080 - Movie & TV">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/43/30/26/433026a576de0db6e6af65e588de603d.jpg' alt='Star Wars Celebration Art - Phone Wallpaper - 1920 x 1080 - Movie & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/43/30/26/433026a576de0db6e6af65e588de603d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Star Wars Battlefront Wallpapers - Screenshots + Concept art ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/rVlkJQf4wewOcZNlJW45_DpPqzLQEtqB5GwXZXg_OT8.jpg?width=1080&crop=smart&auto=webp&s=e476a669f6cb968f15039a9c884f9ea844f41c04' alt='All Star Wars Battlefront Wallpapers - Screenshots + Concept art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/rVlkJQf4wewOcZNlJW45_DpPqzLQEtqB5GwXZXg_OT8.jpg?width=1080&crop=smart&auto=webp&s=e476a669f6cb968f15039a9c884f9ea844f41c04' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A chilly Hoth wallpaper. : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dke00vgso7e21.jpg' alt='A chilly Hoth wallpaper. : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1150">
+                                <meta itemprop="height" content="1986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dke00vgso7e21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Iphone 6 Plus Paint Artwork Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-wars-iphone-6-plus-paint-artwork-6199izav6jw3n2cb.jpg' alt='Star Wars Iphone 6 Plus Paint Artwork Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-wars-iphone-6-plus-paint-artwork-6199izav6jw3n2cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Minimalism, Star Wars, Star wars, Art, Art, Fiction ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/b/eb/cakes-comics-cakescomics-matt-ferguson-by-matt-ferguson-ar-9.webp' alt='Wallpaper Minimalism, Star Wars, Star wars, Art, Art, Fiction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/b/eb/cakes-comics-cakescomics-matt-ferguson-by-matt-ferguson-ar-9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vedar Star Wars Art Wallpaper, HD Superheroes 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/darth-vedar-star-wars-art_a2xtam6UmZqaraWkpJRnZmVlrWhmbWw.jpg' alt='Darth Vedar Star Wars Art Wallpaper, HD Superheroes 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="3187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/darth-vedar-star-wars-art_a2xtam6UmZqaraWkpJRnZmVlrWhmbWw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Vector Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/star-wars-vector-art-3ip1ah83zq0wgi2k.jpg' alt='Star Wars Vector Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/star-wars-vector-art-3ip1ah83zq0wgi2k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper star wars, art, boba fett, imperial march for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/1/57/boba-fett-star-wars-art.webp' alt='Wallpaper star wars, art, boba fett, imperial march for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/1/57/boba-fett-star-wars-art.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/0/3/33299-3840x2160-desktop-4k-star-wars-wallpaper.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/0/3/33299-3840x2160-desktop-4k-star-wars-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Green and Gold Floral Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of green and gold floral wallpaper, perfect for adding a touch of elegance to your home. This stunning design enhances any room with its rich colors and sophisticated style. Shop now and transform your living space into a stylish sanctuary with ease!">
+                    <meta name="keywords" content="green and gold floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/green-and-gold-floral-wallpaper">
+                            <span itemprop="name">green and gold floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Green and Gold Floral Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning green and gold floral wallpaper, bringing nature's elegance indoors. The rich hues of green harmonize beautifully with shimmering gold accents, creating a luxurious ambiance perfect for any room. Ideal for complementing modern or classic decor, this wallpaper adds a touch of sophistication to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Green Geometric Bird Wallpaper, Gold Metallic Luxury Chinoiserie  Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18670072/r/il/2be497/3527152849/il_1080xN.3527152849_per4.jpg' alt='Floral Green Geometric Bird Wallpaper, Gold Metallic Luxury Chinoiserie  Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18670072/r/il/2be497/3527152849/il_1080xN.3527152849_per4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Gold Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2234">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696885413_te8q.jpg' alt='Green Gold Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Peel and Stick Wallpaper | Wall Paper Peel And Stick | 2234'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3696885413_te8q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Collins Green and Gold Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-the-collins-green-and-gold-floral-peel-and-stick-wallpaper-the-collins-in-green-and-gold-28789864726614.png?v=1668608851' alt='The Collins Green and Gold Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-the-collins-green-and-gold-floral-peel-and-stick-wallpaper-the-collins-in-green-and-gold-28789864726614.png?v=1668608851' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/51504329/r/il/4c43c2/6006903122/il_fullxfull.6006903122_agxz.jpg' alt='Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/51504329/r/il/4c43c2/6006903122/il_fullxfull.6006903122_agxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GloryTik Peel and Stick Wallpaper Gold and Dark Green Wallpaper Vintage  Floral/Leaf/Bird Contact Paper Self Adhesive Wall Paper Removable Wallpaper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xDkgdHmhL.jpg' alt='GloryTik Peel and Stick Wallpaper Gold and Dark Green Wallpaper Vintage  Floral/Leaf/Bird Contact Paper Self Adhesive Wall Paper Removable Wallpaper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2255">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xDkgdHmhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safiyya Peel and Stick Wallpaper Gold and Dark Green Contact Paper Floral  Birds Wallpaper Peel and Stick Removable Wallpaper Flower Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HtLy21z+L.jpg' alt='Safiyya Peel and Stick Wallpaper Gold and Dark Green Contact Paper Floral  Birds Wallpaper Peel and Stick Removable Wallpaper Flower Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HtLy21z+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C828_08.png?v=1734124025&width=1946' alt='Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C828_08.png?v=1734124025&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Green And Gold Leaves 10.4' L x 25" W Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/42243777/resize-h800-w800%5Ecompr-r85/1927/192734631/Green+And+Gold+Leaves+Wallpaper+Floral+Tile.jpg' alt='Red Barrel Studio® Green And Gold Leaves 10.4' L x 25" W Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/42243777/resize-h800-w800%5Ecompr-r85/1927/192734631/Green+And+Gold+Leaves+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and Gold Floral Vintage Wallpaper, Classic and Elegant Home ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53185770/r/il/2cfd24/6695286579/il_fullxfull.6695286579_ryrx.jpg' alt='Green and Gold Floral Vintage Wallpaper, Classic and Elegant Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53185770/r/il/2cfd24/6695286579/il_fullxfull.6695286579_ryrx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral Wallpaper,  Rich Green and Gold Botanical, Beige Roses Wallpaper">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/5-WN050-Vintage-floral-greeen-and-beige-wallpaper.jpg?v=1718551303&width=2500' alt='Dark Green Vintage Botanical Wallpaper, Peel and Stick Floral Wallpaper,  Rich Green and Gold Botanical, Beige Roses Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/5-WN050-Vintage-floral-greeen-and-beige-wallpaper.jpg?v=1718551303&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

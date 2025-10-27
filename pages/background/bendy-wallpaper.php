@@ -1,0 +1,129 @@
+<title>Transform Your Space with Bendy Wallpaper</title>
+                    <meta name="description" content="Discover the versatility of bendy wallpaper for unconventional wall shapes. Perfect for creative decorating, it offers a range of designs to elevate your home’s aesthetics. Explore how this flexible solution can bring uniqueness to any room with ease!">
+                    <meta name="keywords" content="bendy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bendy-wallpaper">
+                            <span itemprop="name">bendy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Bendy Wallpaper</h1>
+                <p>Bendy wallpaper is a unique and innovative wall covering designed to enhance any space with its flexibility and style. Perfect for curvy walls and tricky angles, it adds a playful touch to interiors. Available in various designs, Bendy wallpaper is an ideal choice for both modern and traditional decor, making your home truly distinctive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bendy Wallpapers: Infuse Your Screens with Spooky Art - Best ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/6a/c2/bf6ac213e81c5db5ac268de321e729f1.jpg' alt='Bendy Wallpapers: Infuse Your Screens with Spooky Art - Best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/6a/c2/bf6ac213e81c5db5ac268de321e729f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bendy and the ink machine wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/d0/01/54d001b4c6c40366619f0347129a9251.jpg' alt='bendy and the ink machine wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/d0/01/54d001b4c6c40366619f0347129a9251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bendy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/874/735/HD-wallpaper-bendy-bendy-and-the-ink-machine-thumbnail.jpg' alt='HD bendy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/874/735/HD-wallpaper-bendy-bendy-and-the-ink-machine-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Bendy And The Dark Revival 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/128/1285812.jpg' alt='Download Video Game Bendy And The Dark Revival 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/128/1285812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bendy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bendy-906-x-1920-wallpaper-if0wutp8p7voperz.jpg' alt='100+] Bendy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="906">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bendy-906-x-1920-wallpaper-if0wutp8p7voperz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper for ya :D : r/BendyAndTheInkMachine">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-wallpaper-for-ya-d-v0-44n925zez1jc1.jpeg?auto=webp&s=56d5765126838a0f20ffdad115dbf04d90d59adb' alt='I made a wallpaper for ya :D : r/BendyAndTheInkMachine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1609">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-wallpaper-for-ya-d-v0-44n925zez1jc1.jpeg?auto=webp&s=56d5765126838a0f20ffdad115dbf04d90d59adb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bendy Wallpaper With Sinister Grin Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bendy-wallpaper-with-sinister-grin-dk393qn9xkzwx5ap.jpg' alt='Bendy Wallpaper With Sinister Grin Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bendy-wallpaper-with-sinister-grin-dk393qn9xkzwx5ap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bendy And The Ink Machine Wallpaper [V2] by MattSqquat on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99fdab38-51bf-41d7-a3ad-1400515c4901/db7il56-c8618cf5-18d2-4155-af0d-b0349b3091e3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5ZmRhYjM4LTUxYmYtNDFkNy1hM2FkLTE0MDA1MTVjNDkwMVwvZGI3aWw1Ni1jODYxOGNmNS0xOGQyLTQxNTUtYWYwZC1iMDM0OWIzMDkxZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PJ73trz1fZzJFUDneYGs0OR7Opm6NJxxbEGxnqC4VhM' alt='Bendy And The Ink Machine Wallpaper [V2] by MattSqquat on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99fdab38-51bf-41d7-a3ad-1400515c4901/db7il56-c8618cf5-18d2-4155-af0d-b0349b3091e3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5ZmRhYjM4LTUxYmYtNDFkNy1hM2FkLTE0MDA1MTVjNDkwMVwvZGI3aWw1Ni1jODYxOGNmNS0xOGQyLTQxNTUtYWYwZC1iMDM0OWIzMDkxZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PJ73trz1fZzJFUDneYGs0OR7Opm6NJxxbEGxnqC4VhM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bendy (Bendy And The Ink Machine) Video Game Bendy And ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/127/1275836.jpg' alt='Download Bendy (Bendy And The Ink Machine) Video Game Bendy And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/127/1275836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="theMeatly on X: "RT @e_tveloped: Maybe someone needs this ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FiltmV2XoAA9YWF.jpg:large' alt='theMeatly on X: "RT @e_tveloped: Maybe someone needs this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1090">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FiltmV2XoAA9YWF.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

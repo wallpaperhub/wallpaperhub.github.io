@@ -1,0 +1,129 @@
+<title>Cottagecore Aesthetic Wallpaper: Nature's Charm for Your Walls</title>
+                    <meta name="description" content="Discover the beauty of cottagecore aesthetic wallpaper! Transform your space with charming floral designs and pastoral scenes that bring a rustic touch to your home. Ideal for creating a cozy atmosphere, these wallpapers reflect a whimsical lifestyle. Perfect for any room, they harmonize nature with warmth and beauty.">
+                    <meta name="keywords" content="cottagecore aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cottagecore-aesthetic-wallpaper">
+                            <span itemprop="name">cottagecore aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cottagecore Aesthetic Wallpaper: Nature's Charm for Your Walls</h1>
+                <p>Embrace the charm of nature with cottagecore aesthetic wallpaper. Designed to transform your space, these wallpapers feature rustic florals, pastoral landscapes, and whimsical rural scenes. Perfect for creating a cozy, vintage vibe, they invite warmth and serenity into your home. Elevate your interiors with soft colors and enchanting patterns that evoke a simpler, idyllic lifestyle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Cottagecore ideas | wall collage, cottagecore wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d4/68/1e/d4681e2b68b9be177f520d0db45d9583.jpg' alt='11 Cottagecore ideas | wall collage, cottagecore wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d4/68/1e/d4681e2b68b9be177f520d0db45d9583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' alt='Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cottage-core aesthetic       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' alt='cottage-core aesthetic       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cottagecore Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-cottagecore-collage-h3lnips9rtuqy6fo.jpg' alt='Aesthetic Cottagecore Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-cottagecore-collage-h3lnips9rtuqy6fo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cottagecore Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cottagecore-desktop-gi8t6wvbgcq525cb.jpg' alt='100+] Cottagecore Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cottagecore-desktop-gi8t6wvbgcq525cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Chromebook Cottagecore Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-chromebook-cottagecore-qax7sdb3efaunkh9.jpg' alt='Aesthetic Chromebook Cottagecore Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1316">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-chromebook-cottagecore-qax7sdb3efaunkh9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I be more “cottagecore?” I'm a teen, so I don't live on my ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fecyxqae9uj51.jpg' alt='How do I be more “cottagecore?” I'm a teen, so I don't live on my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fecyxqae9uj51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cottagecore wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/980/894/HD-wallpaper-cottagecore-aesthetic-laptop-cottagecore-aesthetic-iphone-themes-fairy-aesthetic.jpg' alt='HD cottagecore wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/980/894/HD-wallpaper-cottagecore-aesthetic-laptop-cottagecore-aesthetic-iphone-themes-fairy-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful CottageCore Wallpaper Options For Your iPhone (with ...">
+                                <img itemprop="contentUrl url" src='https://amysadlerdesigns.com/wp-content/uploads/33.png' alt='Beautiful CottageCore Wallpaper Options For Your iPhone (with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amy Sadler Designs" />
+                                </span>
+                                <a href='https://amysadlerdesigns.com/wp-content/uploads/33.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made my phone a cottage core vibey wallpaper    : r/cottagecore">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6rz9uszqgdl71.jpg' alt='Made my phone a cottage core vibey wallpaper    : r/cottagecore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="2192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6rz9uszqgdl71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

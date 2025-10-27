@@ -1,0 +1,129 @@
+<title>Fall into Faith: Welcome to Our Church</title>
+                    <meta name="description" content="Join us this fall at our church for a season of faith, community, and celebration. Enjoy vibrant worship, engaging events, and uplifting messages that inspire connection and growth. Experience the warmth of togetherness as we welcome the beauty of autumn together!">
+                    <meta name="keywords" content="welcome to church fall background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-to-church-fall-background">
+                            <span itemprop="name">welcome to church fall background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fall into Faith: Welcome to Our Church</h1>
+                <p>Welcome to our church this fall! As the leaves change and the air turns crisp, we invite you to join us for a season filled with warmth, fellowship, and spiritual growth. Embrace the beauty of autumn with vibrant worship, community events, and heartwarming messages that nurture your faith. Experience the joy of togetherness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall - Welcome To Church - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/dc47421294c904b986a2ad2d984e48f2.jpg' alt='Fall - Welcome To Church - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/dc47421294c904b986a2ad2d984e48f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome To Church Fall Leaves Graphics">
+                                <img itemprop="contentUrl url" src='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2019/10/05205330/WelcomeToChurchFallLeaves_Welcome.png' alt='Welcome To Church Fall Leaves Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Progressive Church Media" />
+                                </span>
+                                <a href='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2019/10/05205330/WelcomeToChurchFallLeaves_Welcome.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Circles Welcome To Church - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/419cb6089740c0733d67db4118a0e938.jpg' alt='Fall Circles Welcome To Church - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/419cb6089740c0733d67db4118a0e938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Focus Welcome – Motion Worship – Video Loops, Countdowns ...">
+                                <img itemprop="contentUrl url" src='https://www.motionworship.com/thumb/Announcements/FallFocusWelcomeHD.jpg' alt='Fall Focus Welcome – Motion Worship – Video Loops, Countdowns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Worship" />
+                                </span>
+                                <a href='https://www.motionworship.com/thumb/Announcements/FallFocusWelcomeHD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Welcome Vol 6 | Still Background">
+                                <img itemprop="contentUrl url" src='https://d20jno9famfelf.cloudfront.net/_800x418_crop_center-center_82_none/Fall-Welcome-Vol-6_HPM-HD.jpg?mtime=1604069033' alt='Fall Welcome Vol 6 | Still Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skit Guys" />
+                                </span>
+                                <a href='https://d20jno9famfelf.cloudfront.net/_800x418_crop_center-center_82_none/Fall-Welcome-Vol-6_HPM-HD.jpg?mtime=1604069033' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Church Welcome Slide For Presentations">
+                                <img itemprop="contentUrl url" src='https://slideuplift.com/wp-content/uploads/2024/08/Fall-Church-Welcome-Slide-0944-scaled.jpg' alt='Fall Church Welcome Slide For Presentations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideUpLift" />
+                                </span>
+                                <a href='https://slideuplift.com/wp-content/uploads/2024/08/Fall-Church-Welcome-Slide-0944-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Church - Welcome - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/987cfafb426051354373cfa3cad18476.jpg' alt='Fall Church - Welcome - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/987cfafb426051354373cfa3cad18476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Leaves Welcome | Church Motion Graphics">
+                                <img itemprop="contentUrl url" src='https://cmgcreate-1.imgix.net/c3616b91-9c73-8cbf-20cf-afebc4cb0e28autumn-leaves-welcome.jpg?auto=format&q=40&w=635&s=b780f465f026e5f11531648e5daee8b1' alt='Autumn Leaves Welcome | Church Motion Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Motion Graphics" />
+                                </span>
+                                <a href='https://cmgcreate-1.imgix.net/c3616b91-9c73-8cbf-20cf-afebc4cb0e28autumn-leaves-welcome.jpg?auto=format&q=40&w=635&s=b780f465f026e5f11531648e5daee8b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome Church Video Fall | Clover Media">
+                                <img itemprop="contentUrl url" src='http://images.sharefaith.com/images/3/1320346346956_402/1320346346956_4022.jpg' alt='Welcome Church Video Fall | Clover Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clover Media" />
+                                </span>
+                                <a href='http://images.sharefaith.com/images/3/1320346346956_402/1320346346956_4022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Motion Background: Vibrant Fall Welcome - SermonCentral.com">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/21967_thumbnail.jpg' alt='Church Motion Background: Vibrant Fall Welcome - SermonCentral.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/21967_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

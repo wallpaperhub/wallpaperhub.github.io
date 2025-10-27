@@ -1,0 +1,129 @@
+<title>Stunning Taylor Swift Wallpapers for 2022</title>
+                    <meta name="description" content="Explore a collection of Taylor Swift wallpapers for 2022! Find vibrant images that reflect her music and style, perfect for enhancing your device’s look. Download now and celebrate your love for Taylor in style!">
+                    <meta name="keywords" content="taylor swift wallpaper 22">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-wallpaper-22">
+                            <span itemprop="name">taylor swift wallpaper 22</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Swift Wallpapers for 2022</h1>
+                <p>Discover the perfect Taylor Swift wallpaper for 2022 that captures her essence! From her iconic album covers to stunning live performance shots, elevate your device’s background with vibrant, high-quality images that showcase her artistry. Embrace your fandom and let her music inspire your daily life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Lindsay_vb2115's Shuffles Taylor Swift 22 Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/0e/77/e3/0e77e30d04abad4fbca26432d7251ded.jpg' alt='Check out Lindsay_vb2115's Shuffles Taylor Swift 22 Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/0e/77/e3/0e77e30d04abad4fbca26432d7251ded.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - 22 - simple wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/fe/b1/87feb1e4338351cbd96152f93b44e931.jpg' alt='Taylor Swift - 22 - simple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/fe/b1/87feb1e4338351cbd96152f93b44e931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 22 Lyrics Wallpaper by syahirsama89 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0016ecf6-18e9-4a0d-9800-7a8fdd1f6876/d69uvwz-3925aa0a-1a51-4a82-a572-8be124e85d18.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMTZlY2Y2LTE4ZTktNGEwZC05ODAwLTdhOGZkZDFmNjg3NlwvZDY5dXZ3ei0zOTI1YWEwYS0xYTUxLTRhODItYTU3Mi04YmUxMjRlODVkMTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RV-WIvnGh7YydXIAx9xBP23lDU0VE7jwcbeYKXkbyfc' alt='Taylor Swift 22 Lyrics Wallpaper by syahirsama89 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0016ecf6-18e9-4a0d-9800-7a8fdd1f6876/d69uvwz-3925aa0a-1a51-4a82-a572-8be124e85d18.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwMTZlY2Y2LTE4ZTktNGEwZC05ODAwLTdhOGZkZDFmNjg3NlwvZDY5dXZ3ei0zOTI1YWEwYS0xYTUxLTRhODItYTU3Mi04YmUxMjRlODVkMTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RV-WIvnGh7YydXIAx9xBP23lDU0VE7jwcbeYKXkbyfc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 22 Music Video Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/f4/f0/f5f4f0a404547e32c28cf631cc3b5bbe.jpg' alt='Taylor Swift 22 Music Video Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/f4/f0/f5f4f0a404547e32c28cf631cc3b5bbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 22 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8842641.jpg' alt='Taylor Swift 22 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3665">
+                                <meta itemprop="height" content="5130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8842641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Made Me Realize I'm Not "22" Anymore - 29Secrets">
+                                <img itemprop="contentUrl url" src='https://29secrets.com/wp-content/uploads/2016/03/Taylor-Swift-celebra-ser-tener-22-en-su-nuevo-video-clip.jpeg' alt='Taylor Swift Made Me Realize I'm Not "22" Anymore - 29Secrets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="29Secrets" />
+                                </span>
+                                <a href='https://29secrets.com/wp-content/uploads/2016/03/Taylor-Swift-celebra-ser-tener-22-en-su-nuevo-video-clip.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red #taylorswift #22 #collage #taylor #music">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/6c/fa/0b6cfaac742d81a663dadc5a60b94c13.jpg' alt='red #taylorswift #22 #collage #taylor #music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/6c/fa/0b6cfaac742d81a663dadc5a60b94c13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lyric Wallpapers <3 : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lyric-wallpapers-3-v0-1aanzq99oota1.jpg?width=564&format=pjpg&auto=webp&s=44cf8bf9733f31e45e802fd63107d246f519c45e' alt='Lyric Wallpapers <3 : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lyric-wallpapers-3-v0-1aanzq99oota1.jpg?width=564&format=pjpg&auto=webp&s=44cf8bf9733f31e45e802fd63107d246f519c45e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift, 22, all lyrics | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5004365968.4693/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='taylor swift, 22, all lyrics | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5004365968.4693/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 22 Wallpapers - Top Free Taylor Swift 22 Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://wallpaperaccess.com/full/6750147.jpg' alt='Taylor Swift 22 Wallpapers - Top Free Taylor Swift 22 Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperAccess" />
+                                </span>
+                                <a href='https://wallpaperaccess.com/full/6750147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

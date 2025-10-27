@@ -1,0 +1,129 @@
+<title>Stunning White Evil Eye Wallpaper for a Chic, Protective Home</title>
+                    <meta name="description" content="Enhance your interiors with our white evil eye wallpaper, offering style and protection in one. Featuring unique designs, it’s perfect for creating a serene atmosphere while warding off negativity. Shop now for a trendy and protective addition to your home decor!">
+                    <meta name="keywords" content="white evil eye wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-evil-eye-wallpaper">
+                            <span itemprop="name">white evil eye wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Evil Eye Wallpaper for a Chic, Protective Home</h1>
+                <p>Transform your space with our captivating white evil eye wallpaper, designed to blend beauty and protection. This stunning wall covering features intricate evil eye patterns set against a crisp white background, elevating any room's aesthetic. Perfect for adding a touch of charm and safeguarding against negativity, this wallpaper is sure to impress.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye Pattern Images – Browse 27,585 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/74/84/25/360_F_374842575_2IWHUDPtdZJLpHX2Rx5mzY1hMBleqBzj.jpg' alt='Evil Eye Pattern Images – Browse 27,585 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/74/84/25/360_F_374842575_2IWHUDPtdZJLpHX2Rx5mzY1hMBleqBzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="evil eye wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c0/0c/af/c00cafaa7a50d3629eb3dca74ebe2abe.jpg' alt='evil eye wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c0/0c/af/c00cafaa7a50d3629eb3dca74ebe2abe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Evil Eye Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/evil-eye-iphone-4ln0ty5b03xwzjkp.jpg' alt='100+] Evil Eye Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/evil-eye-iphone-4ln0ty5b03xwzjkp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640+ Evil Eye Hand Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1226582834/vector/seamless-pattern-with-evil-eyes-and-fatimas-hand-symbols-vector-illustration.jpg?s=612x612&w=0&k=20&c=Or8Y9clbL_Ufst0fXh2Uy2zp3ziVvtaXZOWyDxLFdUc=' alt='640+ Evil Eye Hand Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1226582834/vector/seamless-pattern-with-evil-eyes-and-fatimas-hand-symbols-vector-illustration.jpg?s=612x612&w=0&k=20&c=Or8Y9clbL_Ufst0fXh2Uy2zp3ziVvtaXZOWyDxLFdUc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,200+ Evil Eye Wallpaper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1316659013/vector/greek-evil-eye-seamless-pattern-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=6mOu3wCnSuis_J6KtFdqjjRKw64Z7RPFAzo3TgzG4Ow=' alt='1,200+ Evil Eye Wallpaper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1316659013/vector/greek-evil-eye-seamless-pattern-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=6mOu3wCnSuis_J6KtFdqjjRKw64Z7RPFAzo3TgzG4Ow=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil eye vector seamless pattern. Magic, witchcraft, occult symbol ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/02/00/32/1000_F_402003246_f0SR4x60OudiG8jGNweu7mVkDIyWpPYK.jpg' alt='Evil eye vector seamless pattern. Magic, witchcraft, occult symbol ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/02/00/32/1000_F_402003246_f0SR4x60OudiG8jGNweu7mVkDIyWpPYK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye Diamond Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/evil-eye-diamond-efc3i84ngx215i04.jpg' alt='Evil Eye Diamond Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/evil-eye-diamond-efc3i84ngx215i04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/92/99/e092997cbbe9e71861861138dbb7e349.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/92/99/e092997cbbe9e71861861138dbb7e349.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gold Evil Eye Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-evil-eye-gvp6kltipgzdatdk.jpg' alt='Download Gold Evil Eye Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-evil-eye-gvp6kltipgzdatdk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evil Eye" Poster for Sale by Maris S">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/10/6c/c1/106cc154d09e5d55b80cd7f7125b0e77.jpg' alt='Evil Eye" Poster for Sale by Maris S'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/10/6c/c1/106cc154d09e5d55b80cd7f7125b0e77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

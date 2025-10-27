@@ -1,0 +1,129 @@
+<title>Stylish Pink, Grey & White Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover the beauty of pink, grey, and white wallpaper to elevate your home décor. Ideal for nurseries and bedrooms, this trendy color scheme offers versatility with elegant patterns. Transform any space effortlessly while maintaining a modern, soothing ambiance. Your stylish upgrade awaits!">
+                    <meta name="keywords" content="pink grey and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/pink-grey-and-white-wallpaper">
+                            <span itemprop="name">pink grey and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pink, Grey & White Wallpaper for Every Room</h1>
+                <p>Pink, grey, and white wallpaper combines soft pastels and neutral tones, creating a chic and calming atmosphere in any room. Perfect for nurseries, bedrooms, or living spaces, this color palette enhances décor with elegance. Available in various patterns, it allows for stylish customization, harmonizing comfort with modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_570xN.3330493341_e432.jpg' alt='Pink Gray White Triangles Wallpaper / Geometric Shapes Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29035216/r/il/282172/3330493341/il_570xN.3330493341_e432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' alt='Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Geo by Arthouse - Pink Multi - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/163314_4_orig.jpg' alt='Marble Geo by Arthouse - Pink Multi - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/163314_4_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Watercolor Texture in Light Grey Pink Colors Abstract Sky with  Clouds Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MjWeGx1AL.jpg' alt='Amazon.com: Watercolor Texture in Light Grey Pink Colors Abstract Sky with  Clouds Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MjWeGx1AL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' alt='Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2510">
+                                <meta itemprop="height" content="2510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Shard by Albany - Pink - Wallpaper - 60326">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/215868_1_orig.jpg?v=1715936861' alt='Metallic Shard by Albany - Pink - Wallpaper - 60326'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/215868_1_orig.jpg?v=1715936861' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muriva Rhoda Rose Pink Wallpaper Floral Flowers Grey White ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/nh0AAOSwEkxkNqh8/s-l1200.jpg' alt='Muriva Rhoda Rose Pink Wallpaper Floral Flowers Grey White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/nh0AAOSwEkxkNqh8/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Brush Strokes Pink & Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/watercolor-brush-strokes-pink-grey-wall-drqk-l.jpg' alt='Watercolor Brush Strokes Pink & Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/watercolor-brush-strokes-pink-grey-wall-drqk-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Worsley Woodland Silver & Pink Woodland Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.feathr.com/wp-content/uploads/FE08201-Silver-Pink-Woodland-Wallpaper-Mural-hero-image.jpg' alt='Worsley Woodland Silver & Pink Woodland Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feathr" />
+                                </span>
+                                <a href='https://www.feathr.com/wp-content/uploads/FE08201-Silver-Pink-Woodland-Wallpaper-Mural-hero-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' alt='Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

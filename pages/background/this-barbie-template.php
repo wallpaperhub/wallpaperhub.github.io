@@ -1,0 +1,129 @@
+<title>Fun and Creative Barbie Template for Any Occasion</title>
+                    <meta name="description" content="Discover our vibrant Barbie template, perfect for parties, crafts, and personal projects. This versatile design brings joy to invitations, thank-you cards, and more. Unleash your creativity and celebrate Barbie's magic with this easy-to-use template!">
+                    <meta name="keywords" content="this barbie template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/this-barbie-template">
+                            <span itemprop="name">this barbie template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun and Creative Barbie Template for Any Occasion</h1>
+                <p>This Barbie template is a creative and fun way to express your love for Barbie! Perfect for parties, scrapbooking, or personalized gifts, it showcases vibrant colors and iconic designs. Use this versatile template to create invitations, thank-you cards, or other crafts that celebrate the magic of Barbie. Let your creativity shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="riley) y'know, an artist on X: "I made a shitty blank Barbie movie ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FtDOACVWAAMicl1.jpg' alt='riley) y'know, an artist on X: "I made a shitty blank Barbie movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FtDOACVWAAMicl1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Your Own Barbie Poster: Barbie Selfie Generator Meme ...">
+                                <img itemprop="contentUrl url" src='https://images.summitmedia-digital.com/preview/images/2023/04/06/338994291_3118673155092621_2940668599578463201_n.jpg' alt='How To Make Your Own Barbie Poster: Barbie Selfie Generator Meme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Preview.ph" />
+                                </span>
+                                <a href='https://images.summitmedia-digital.com/preview/images/2023/04/06/338994291_3118673155092621_2940668599578463201_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Barbie movie poster template | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/7b01d6be-1409-4cd5-b7cf-76b51c1418d6/thumbnail' alt='   Barbie movie poster template | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/7b01d6be-1409-4cd5-b7cf-76b51c1418d6/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Movie Poster Selfie Generator Meme — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/templates/barbie-movie-poster-selfie-generator-meme-thumbnail-1ab23d21.webp' alt='Barbie Movie Poster Selfie Generator Meme — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="179">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/templates/barbie-movie-poster-selfie-generator-meme-thumbnail-1ab23d21.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ddeongdinie30 is seeing Jhope on X: "This was a PAIN to edit and I ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fs5rgzJWcAIfGEb.jpg:large' alt='Ddeongdinie30 is seeing Jhope on X: "This was a PAIN to edit and I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fs5rgzJWcAIfGEb.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Barbie is loving this template    - - - #throneofglass ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074354208631034793' alt='This Barbie is loving this template    - - - #throneofglass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074354208631034793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="elizabeth lin   ✨ على X: "✨ created a @figma template for the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fs4cttFXsAA89ZA.jpg' alt='elizabeth lin   ✨ على X: "✨ created a @figma template for the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fs4cttFXsAA89ZA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Barbie is a Graphic Designer        Thanks to @Canva I am Barbie Girl  in Freelancing world    Which Barbie Character are you?       Design  Challenge with @hyne.smm #barbie #barbiegirlchallenge #canva ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7219140300273503493&location=0&aid=1988' alt='This Barbie is a Graphic Designer        Thanks to @Canva I am Barbie Girl  in Freelancing world    Which Barbie Character are you?       Design  Challenge with @hyne.smm #barbie #barbiegirlchallenge #canva ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7219140300273503493&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Selfie Generator">
+                                <img itemprop="contentUrl url" src='https://www.barbieselfie.ai/_nuxt/images/localized/selfie-sample.b86d7b.jpg' alt='Barbie Selfie Generator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.barbieselfie.ai" />
+                                </span>
+                                <a href='https://www.barbieselfie.ai/_nuxt/images/localized/selfie-sample.b86d7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Barbie is template meme">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/50/c2/9950c23e6d996105ae927f303c17df63.jpg' alt='This Barbie is template meme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/50/c2/9950c23e6d996105ae927f303c17df63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

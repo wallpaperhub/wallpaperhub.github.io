@@ -1,0 +1,129 @@
+<title>Enchanted Snowing Video Backgrounds for Cozy Ambiance</title>
+                    <meta name="description" content="Discover enchanting snowing video backgrounds that bring a cozy, winter atmosphere to any setting. Perfect for relaxation, video calls, or enhancing your space during the holidays. Experience the serene beauty of gently falling snowflakes with our collection, designed for a delightful and calming visual experience.">
+                    <meta name="keywords" content="snowing video background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/snowing-video-background">
+                            <span itemprop="name">snowing video background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanted Snowing Video Backgrounds for Cozy Ambiance</h1>
+                <p>Transform your space with a captivating snowing video background. Perfect for adding a cozy, seasonal touch to your home or office, these serene visuals create a relaxing ambiance. Ideal for holiday gatherings or video conferences, a snowing backdrop sets the mood effortlessly. Embrace winter's charm with mesmerizing snowflakes cascading down. Enjoy the warmth of the season all year round!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Falling Motion Effect - Christmas Background Video">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/r6VkCdQQdG0/maxresdefault.jpg' alt='Snow Falling Motion Effect - Christmas Background Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/r6VkCdQQdG0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow falling with snowman Christmas Background video">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/845/056/small_2x/snow-falling-with-snowman-christmas-background-free-video.jpg' alt='Snow falling with snowman Christmas Background video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/845/056/small_2x/snow-falling-with-snowman-christmas-background-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying snow on a blue background. 4K motion graphics. snowfall overlay,  background - winter, effect of slowly falling snow. Abstract particle  background. seamless loop. animation winter weather.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/034/825/433/small_2x/flying-snow-on-a-blue-background-4k-motion-graphics-snowfall-overlay-background-winter-effect-of-slowly-falling-snow-abstract-particle-background-seamless-loop-animation-winter-weather-video.jpg' alt='Flying snow on a blue background. 4K motion graphics. snowfall overlay,  background - winter, effect of slowly falling snow. Abstract particle  background. seamless loop. animation winter weather.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/034/825/433/small_2x/flying-snow-on-a-blue-background-4k-motion-graphics-snowfall-overlay-background-winter-effect-of-slowly-falling-snow-abstract-particle-background-seamless-loop-animation-winter-weather-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Winter Video Snowfall Forest Use">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/17823550/thumb/1.jpg' alt='Background Winter Video Snowfall Forest Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/17823550/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling Snowflakes and White Snow Particles Winter Christmas Holiday 4K  Motion Background for Edits">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eNiOxysP1WE/maxresdefault.jpg' alt='Falling Snowflakes and White Snow Particles Winter Christmas Holiday 4K  Motion Background for Edits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eNiOxysP1WE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fast Falling Snow 1080p Hd Without Music - 4 hours">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/V4Oosy-ZtGY/maxresdefault.jpg' alt='Fast Falling Snow 1080p Hd Without Music - 4 hours'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/V4Oosy-ZtGY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling snow looping animated christmas background stock video 1416022721">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1416022721/video/falling-snow-looping-animated-christmas-background.jpg?s=640x640&k=20&c=9pcJhhdcjDa4_97tK0_LyoKFq3WRweBNeV4EUxR6q_c=' alt='Falling snow looping animated christmas background stock video 1416022721'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1416022721/video/falling-snow-looping-animated-christmas-background.jpg?s=640x640&k=20&c=9pcJhhdcjDa4_97tK0_LyoKFq3WRweBNeV4EUxR6q_c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow, Trees, Cabin, Smoke">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2022/12/18/143408-782363214_tiny.jpg' alt='Snow, Trees, Cabin, Smoke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2022/12/18/143408-782363214_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow loop animation">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/846/777/small_2x/snow-falling-background-seamless-loop-video.jpg' alt='Snow loop animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/846/777/small_2x/snow-falling-background-seamless-loop-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowfall in the Mountain Forest - Loop stock video 1430785053">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430785053/video/snowfall-in-the-mountain-forest-loop.jpg?s=640x640&k=20&c=OLIC5hu8dUtofLC0wQKAxK6TFX7dGb1hClx60sR0cl4=' alt='Snowfall in the Mountain Forest - Loop stock video 1430785053'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430785053/video/snowfall-in-the-mountain-forest-loop.jpg?s=640x640&k=20&c=OLIC5hu8dUtofLC0wQKAxK6TFX7dGb1hClx60sR0cl4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

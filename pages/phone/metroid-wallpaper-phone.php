@@ -1,0 +1,129 @@
+<title>Stylish Metroid Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover a collection of vibrant Metroid wallpapers designed perfectly for your phone. Showcase your passion for this iconic game series with stunning visuals that capture the essence of Samus Aran and her adventures. Transform your device today and express your fandom like never before!">
+                    <meta name="keywords" content="metroid wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/metroid-wallpaper-phone">
+                            <span itemprop="name">metroid wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Metroid Wallpapers for Your Phone</h1>
+                <p>Revitalize your phone's look with stunning Metroid wallpapers. Dive into the immersive world of Samus Aran and iconic creatures from the franchise. Whether you prefer vibrant colors or minimalist designs, our collection has something for every fan. Customize your device and showcase your love for this legendary game series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found this Great Phone Wallpaper, I thought I would show it to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jn639llx67p11.png' alt='I found this Great Phone Wallpaper, I thought I would show it to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jn639llx67p11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designed up a mobile wallpaper from the Game Informer cover ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ns_bNXvne6BZrzmnrwLLPS6kEChzVwXASVhrBJd3FFk.jpg?auto=webp&s=a06039dbdcac55aabd847d8f7b266dde6225245f' alt='Designed up a mobile wallpaper from the Game Informer cover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ns_bNXvne6BZrzmnrwLLPS6kEChzVwXASVhrBJd3FFk.jpg?auto=webp&s=a06039dbdcac55aabd847d8f7b266dde6225245f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] I did this Metroid wallpaper for smartphones! Feel free to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/55ppnpvg4qz41.png' alt='OC] I did this Metroid wallpaper for smartphones! Feel free to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/55ppnpvg4qz41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metroid Prime Image">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1000807.jpg' alt='Download Video Game Metroid Prime Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1000807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid Dread, Samus, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/849/919/HD-wallpaper-metroid-dread-samus.jpg' alt='Metroid Dread, Samus, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/849/919/HD-wallpaper-metroid-dread-samus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Metroid by Kazumasa_yskn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/66/d5/1d66d5467ebf2da1ea0ce62ad31f18ce.jpg' alt='Super Metroid by Kazumasa_yskn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/66/d5/1d66d5467ebf2da1ea0ce62ad31f18ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's an extended and upscaled wallpaper for your mobile phones ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heres-an-extended-and-upscaled-wallpaper-for-your-mobile-v0-w7yrxozrdtnc1.jpeg?auto=webp&s=f1d4edf301c920b29ef34e1490c09debd18201b5' alt='Here's an extended and upscaled wallpaper for your mobile phones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1897">
+                                <meta itemprop="height" content="4215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heres-an-extended-and-upscaled-wallpaper-for-your-mobile-v0-w7yrxozrdtnc1.jpeg?auto=webp&s=f1d4edf301c920b29ef34e1490c09debd18201b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random: Nintendo Shares Gorgeous Metroid Art That's Just Perfect ...">
+                                <img itemprop="contentUrl url" src='https://images.nintendolife.com/fd12c0735f108/metroid.large.jpg' alt='Random: Nintendo Shares Gorgeous Metroid Art That's Just Perfect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nintendo Life" />
+                                </span>
+                                <a href='https://images.nintendolife.com/fd12c0735f108/metroid.large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a phone wallpaper in Illustrator, thought you guys might ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g1na5eo5svwy.jpg' alt='Made a phone wallpaper in Illustrator, thought you guys might ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g1na5eo5svwy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metroid Life">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/f4/fe/f6f4fedf5658a0cd584bd44365e81028.jpg' alt='Metroid Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/f4/fe/f6f4fedf5658a0cd584bd44365e81028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Lemon Demon Wallpaper: Brighten Your Screen</title>
+                    <meta name="description" content="Discover captivating Lemon Demon wallpapers to enhance your device's look. Perfect for fans, these vibrant designs bring whimsy and creativity to your screens. Explore and download unique wallpapers that celebrate the Lemon Demon aesthetic today!">
+                    <meta name="keywords" content="lemon demon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/lemon-demon-wallpaper">
+                            <span itemprop="name">lemon demon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lemon Demon Wallpaper: Brighten Your Screen</h1>
+                <p>Lemon Demon is a beloved character, known for its whimsical charm and quirky designs. A Lemon Demon wallpaper adds a splash of creativity to your digital space, perfect for fans of its unique aesthetic. Enjoy vibrant colors and playful patterns that brighten up your device, showcasing your love for this delightful character!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made 3 wallpapers of Lemon Demon for Desktop, V-M, Spirit Phone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/z6vhi4su2u671.jpg?width=1366&format=pjpg&auto=webp&s=0a2a342abdddd4007ae89b3a89913e2019722501' alt='I made 3 wallpapers of Lemon Demon for Desktop, V-M, Spirit Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/z6vhi4su2u671.jpg?width=1366&format=pjpg&auto=webp&s=0a2a342abdddd4007ae89b3a89913e2019722501' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some lemon demon phone wallpapers : r/lemondemon">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-some-lemon-demon-phone-wallpapers-v0-4zxz2e6b01ya1.png?width=640&crop=smart&auto=webp&s=f0b8e734ea56abf0ee45eec5ae409d0ad774ff72' alt='Made some lemon demon phone wallpapers : r/lemondemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-some-lemon-demon-phone-wallpapers-v0-4zxz2e6b01ya1.png?width=640&crop=smart&auto=webp&s=f0b8e734ea56abf0ee45eec5ae409d0ad774ff72' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="that one spirit phone pc wallpaper but its mobile friendly : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rvi7ucu1e2061.png' alt='that one spirit phone pc wallpaper but its mobile friendly : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rvi7ucu1e2061.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lemondemon #neilcicirega #spiritphone #dinorchastra #cabinetman ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/13/86/1213867d735e62037db2dafedef92a42.jpg' alt='lemondemon #neilcicirega #spiritphone #dinorchastra #cabinetman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/13/86/1213867d735e62037db2dafedef92a42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Demon Vinyl Records & Discography - Vinyl Me, Please">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Lemon-Demon-hero-banner-241123-1645.webp' alt='Lemon Demon Vinyl Records & Discography - Vinyl Me, Please'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vinyl Me, Please" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Lemon-Demon-hero-banner-241123-1645.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon demon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/3d/7d/023d7d69dea9aba7446ded2973e7c857.jpg' alt='Lemon demon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/3d/7d/023d7d69dea9aba7446ded2973e7c857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Demon Wallpaper by SlothSketches on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e711f5cc-2d7f-42d2-aa0f-b84f6c4f83d2/df69mcy-7917de6e-bcaa-4c94-ae25-5b0b1e3f5a42.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3MTFmNWNjLTJkN2YtNDJkMi1hYTBmLWI4NGY2YzRmODNkMlwvZGY2OW1jeS03OTE3ZGU2ZS1iY2FhLTRjOTQtYWUyNS01YjBiMWUzZjVhNDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UvWcQS9bO6d6xjnaxUCZNa9O_GJoZTDuLU2JJqrGuSk' alt='Lemon Demon Wallpaper by SlothSketches on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e711f5cc-2d7f-42d2-aa0f-b84f6c4f83d2/df69mcy-7917de6e-bcaa-4c94-ae25-5b0b1e3f5a42.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3MTFmNWNjLTJkN2YtNDJkMi1hYTBmLWI4NGY2YzRmODNkMlwvZGY2OW1jeS03OTE3ZGU2ZS1iY2FhLTRjOTQtYWUyNS01YjBiMWUzZjVhNDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UvWcQS9bO6d6xjnaxUCZNa9O_GJoZTDuLU2JJqrGuSk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Demon wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/ab/59/29ab5990e5bdc1137adad102d6d0058e.jpg' alt='Lemon Demon wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/ab/59/29ab5990e5bdc1137adad102d6d0058e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lemon Demon F N F Character Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lemon-demon-f-n-f-character-y5xm9y5j17n4an37.jpg' alt='Download Lemon Demon F N F Character Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lemon-demon-f-n-f-character-y5xm9y5j17n4an37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Requests: Closed — Trans and nonbinary Lemon Demon wallpapers for...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9fe23312b6606e6d670202a6803b15b8/d70102e24ee69d9f-89/s1280x1920/cd37e44f8c88446f4d6469c6162eb7444471a1e0.png' alt='Requests: Closed — Trans and nonbinary Lemon Demon wallpapers for...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@aroaesflags on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9fe23312b6606e6d670202a6803b15b8/d70102e24ee69d9f-89/s1280x1920/cd37e44f8c88446f4d6469c6162eb7444471a1e0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Blue Aesthetic Wallpapers for Serene Spaces</title>
+                    <meta name="description" content="Explore our collection of blue aesthetic wallpapers that bring serenity and style to any room. Perfect for creating a relaxing atmosphere, these designs feature dreamy hues and modern patterns, ideal for personalizing your space effortlessly. Refresh your decor today!">
+                    <meta name="keywords" content="aesthetic:-eudnocjhom= blue:hdi1-nehgok= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-eudnocjhom-bluehdi1-nehgok-wallpaper">
+                            <span itemprop="name">aesthetic:-eudnocjhom= blue:hdi1-nehgok= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Aesthetic Wallpapers for Serene Spaces</h1>
+                <p>Transform your space with mesmerizing blue aesthetic wallpapers that evoke calmness and creativity. From dreamy gradients to abstract designs, these wallpapers are perfect for creating a serene backdrop in any room. Elevate your interior with stunning visuals that inspire tranquility and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Indigo Blue Aesthetic Pc Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/neon-indigo-blue-aesthetic-pc-cwvf56jpdl513jqb.jpg' alt='Neon Indigo Blue Aesthetic Pc Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/neon-indigo-blue-aesthetic-pc-cwvf56jpdl513jqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Indigo Aesthetic Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/43/3d/99433d077d381fa054ff7c144c206534.jpg' alt='Awesome Indigo Aesthetic Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/43/3d/99433d077d381fa054ff7c144c206534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/94/ba/9394baffc5dbf0052b109d1eba36c337.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/94/ba/9394baffc5dbf0052b109d1eba36c337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/89/4f/9f894f19938056fce527006792ccd6db.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/89/4f/9f894f19938056fce527006792ccd6db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/2d/f5/8b2df5479451138c3ecaac5fbbd679ad.jpg' alt='Blue aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/2d/f5/8b2df5479451138c3ecaac5fbbd679ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indigo Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ea/cb/a8/eacba883e73f96c3810c38002a05da0f.jpg' alt='Indigo Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ea/cb/a8/eacba883e73f96c3810c38002a05da0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Blue Moon D118 Ceiling Wallpaper Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/d073c4/2038958392/il_fullxfull.2038958392_lojh.jpg' alt='3D Blue Moon D118 Ceiling Wallpaper Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/d073c4/2038958392/il_fullxfull.2038958392_lojh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nebula Aesthetic Dark Blue Hd Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nebula-aesthetic-dark-blue-hd-yz5sqw2fzvrtsh5v.jpg' alt='Download Nebula Aesthetic Dark Blue Hd Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nebula-aesthetic-dark-blue-hd-yz5sqw2fzvrtsh5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark indigo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/768/549/HD-wallpaper-aesthetic-clouds-blue-indigo-moon-samsung-violet-amoled-black-dark-iphone-night-one-plus-sky.jpg' alt='HD dark indigo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/768/549/HD-wallpaper-aesthetic-clouds-blue-indigo-moon-samsung-violet-amoled-black-dark-iphone-night-one-plus-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue aesthetic wallpaper pics">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/79/6a/40796aa6014b778513d70d0dd68d36db.jpg' alt='blue aesthetic wallpaper pics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/79/6a/40796aa6014b778513d70d0dd68d36db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

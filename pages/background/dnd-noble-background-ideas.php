@@ -1,0 +1,129 @@
+<title>D&D Noble Background Ideas for Your Character</title>
+                    <meta name="description" content="Explore unique D&D noble background ideas that add depth and intrigue to your character. From rogue nobles to scandal-ridden heirs, discover how to incorporate rich stories and motives into your gameplay. Craft memorable experiences with these creative twists on noble backgrounds!">
+                    <meta name="keywords" content="dnd noble background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-noble-background-ideas">
+                            <span itemprop="name">dnd noble background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>D&D Noble Background Ideas for Your Character</h1>
+                <p>When creating a D&D noble background, consider diverse traits: perhaps a rogue noble who secretly aids the underprivileged, or a devoted heir torn between duty and personal freedom. You might explore a noble who lost their title due to scandal but seeks redemption, or a scheming courtier weaving webs of intrigue among the elite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expanding 5E D&D Background Characteristics — Noble – Nerdarchy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/06/mtg-kendrith-linden-family-portrait-nobles.jpg?fit=850%2C622&ssl=1' alt='Expanding 5E D&D Background Characteristics — Noble – Nerdarchy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdarchy" />
+                                </span>
+                                <a href='https://i0.wp.com/nerdarchy.com/wp-content/uploads/2021/06/mtg-kendrith-linden-family-portrait-nobles.jpg?fit=850%2C622&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e DnD Noble Background Ideas">
+                                <img itemprop="contentUrl url" src='https://randomtablesrpg.com/wp-content/uploads/2022/10/noble-background-5e-dnd-elf.jpg' alt='5e DnD Noble Background Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1928">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Random Tables RPG" />
+                                </span>
+                                <a href='https://randomtablesrpg.com/wp-content/uploads/2022/10/noble-background-5e-dnd-elf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing for Noble Backgrounds in D&D – The Nerdd">
+                                <img itemprop="contentUrl url" src='https://thenerdd.com/wp-content/uploads/2022/07/2.jpg?w=1200' alt='Writing for Noble Backgrounds in D&D – The Nerdd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nerdd" />
+                                </span>
+                                <a href='https://thenerdd.com/wp-content/uploads/2022/07/2.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Noble - Backgrounds - D&D Beyond">
+                                <img itemprop="contentUrl url" src='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' alt='Noble - Backgrounds - D&D Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D Beyond" />
+                                </span>
+                                <a href='https://www.dndbeyond.com/attachments/0/60/backgrounds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown and Fealty - Personal plot for the Noble background ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/4fb9cd6485ce936ef22e4729078865b5/4f8e9320c733d135-45/s400x600/c2df2c514014b2156d2d3ab99c6a273b1fce6d67.pnj' alt='Crown and Fealty - Personal plot for the Noble background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/4fb9cd6485ce936ef22e4729078865b5/4f8e9320c733d135-45/s400x600/c2df2c514014b2156d2d3ab99c6a273b1fce6d67.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing for Noble Backgrounds in D&D – The Nerdd">
+                                <img itemprop="contentUrl url" src='https://thenerdd.com/wp-content/uploads/2022/07/image-12.png?w=1000' alt='Writing for Noble Backgrounds in D&D – The Nerdd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nerdd" />
+                                </span>
+                                <a href='https://thenerdd.com/wp-content/uploads/2022/07/image-12.png?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Noble Background In D&D 5e - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/09/NobleParty-1.jpg' alt='Exploring the Noble Background In D&D 5e - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/09/NobleParty-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty │A feat for those who believe the Noble background isn't ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/royalty-a-feat-for-those-who-believe-the-noble-background-v0-xg61tylll32a1.png?auto=webp&s=41f3be3ce9c23986f26264ee6c3248724b942767' alt='Royalty │A feat for those who believe the Noble background isn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3212">
+                                <meta itemprop="height" content="1840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/royalty-a-feat-for-those-who-believe-the-noble-background-v0-xg61tylll32a1.png?auto=webp&s=41f3be3ce9c23986f26264ee6c3248724b942767' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Noble Background In D&D 5e - Help Action - D&D Tips ...">
+                                <img itemprop="contentUrl url" src='https://help-action.com/wp-content/uploads/2022/09/the-noble-dnd-1024x715.jpg' alt='Exploring the Noble Background In D&D 5e - Help Action - D&D Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help Action" />
+                                </span>
+                                <a href='https://help-action.com/wp-content/uploads/2022/09/the-noble-dnd-1024x715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D Background: Noble | Nerdologists">
+                                <img itemprop="contentUrl url" src='http://nerdologists.com/wp-content/uploads/2018/01/DD-Sorcerer.png' alt='D&D Background: Noble | Nerdologists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nerdologists" />
+                                </span>
+                                <a href='http://nerdologists.com/wp-content/uploads/2018/01/DD-Sorcerer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring the Enchanting Background of Pinocchio</title>
+                    <meta name="description" content="Discover the fascinating background of Pinocchio, the iconic wooden puppet. Uncover the timeless stories and lessons behind his adventures while exploring themes of truth, growth, and morality in this cherished classic. Join us as we delve into the rich history of Pinocchio's creation and enduring legacy.">
+                    <meta name="keywords" content="pinocchio background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pinocchio-background">
+                            <span itemprop="name">pinocchio background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Enchanting Background of Pinocchio</h1>
+                <p>Pinocchio is a wooden puppet crafted by Geppetto, an old carpenter in Italy. Created in the late 19th century by Carlo Collodi, Pinocchio's tale explores themes of honesty, morality, and the journey of self-discovery. This beloved character’s nose grows when he tells lies, symbolizing the consequences of dishonesty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinocchio Pinocchio and Cleo Color Key/Concept Background Painting ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F1%2F6%2F7%2F2%2F21672650%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='Pinocchio Pinocchio and Cleo Color Key/Concept Background Painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F1%2F6%2F7%2F2%2F21672650%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinocchio background concept art valued at $40,000">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1645/0221/files/tengrenn-pinocchio-disney_410.jpg' alt='Pinocchio background concept art valued at $40,000'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paul Fraser Collectibles" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1645/0221/files/tengrenn-pinocchio-disney_410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Master Set-up of Pinocchio from Pinocchio (1940)">
+                                <img itemprop="contentUrl url" src='https://cdn4.volusion.store/usjmr-vhgfv/v/vspfiles/photos/WDM997-2.jpg?v-cache=1740759782' alt='Original Master Set-up of Pinocchio from Pinocchio (1940)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animation Art Gallery" />
+                                </span>
+                                <a href='https://cdn4.volusion.store/usjmr-vhgfv/v/vspfiles/photos/WDM997-2.jpg?v-cache=1740759782' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background art from Pinocchio : r/CozyPlaces">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nrn9cj4cqwo01.jpg' alt='Background art from Pinocchio : r/CozyPlaces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nrn9cj4cqwo01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud 109: Fleshing Out The Fantasy - The Background Art of ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi79uXvQoC-LB3nVN0tXHVByJTmerwuXrGuWvOmwvppih8njSj9VkqPTBsoeFO29hf3QHwJyJVXdGo4ApvYxJ0VJQsHHR95lZj-P_yKb-8mZq7JX_nKbx8cPJAwqmySUy2DeiQ_ocJ86wo/s1600/img06502z.jpg' alt='Cloud 109: Fleshing Out The Fantasy - The Background Art of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cloud 109" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi79uXvQoC-LB3nVN0tXHVByJTmerwuXrGuWvOmwvppih8njSj9VkqPTBsoeFO29hf3QHwJyJVXdGo4ApvYxJ0VJQsHHR95lZj-P_yKb-8mZq7JX_nKbx8cPJAwqmySUy2DeiQ_ocJ86wo/s1600/img06502z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Lines Library: Pinocchio (1940) - Backgrounds">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMADwlUT9lx44auGOZXFWCPPp6EZmFMhCV-8PG0gvlGyoIod5TDLxtL_uT0FyLq76F8JTik_C6HJ4lOT7_G9msueW3NptQcLTqtKq70dwp33HnqZN7XhAA3PE3-0lZPhjYLQwCBsBy_FA/s320/pinocchio_background_disney_1940_003.png' alt='Living Lines Library: Pinocchio (1940) - Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Living Lines Library" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMADwlUT9lx44auGOZXFWCPPp6EZmFMhCV-8PG0gvlGyoIod5TDLxtL_uT0FyLq76F8JTik_C6HJ4lOT7_G9msueW3NptQcLTqtKq70dwp33HnqZN7XhAA3PE3-0lZPhjYLQwCBsBy_FA/s320/pinocchio_background_disney_1940_003.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinocchio Gustaf Tenggren Walt Disney Production Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8460375/r/il/acc4b5/2124152213/il_fullxfull.2124152213_3y20.jpg' alt='Pinocchio Gustaf Tenggren Walt Disney Production Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1665">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8460375/r/il/acc4b5/2124152213/il_fullxfull.2124152213_3y20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art of Pinocchio (part 2)">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1566491653983-U4OT37IQRK26ISA4MVJO/image-asset.jpeg' alt='Art of Pinocchio (part 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1566491653983-U4OT37IQRK26ISA4MVJO/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonhams : A celluloid of Geppetto, Figaro, and Pinocchio from ...">
+                                <img itemprop="contentUrl url" src='https://img2.bonhams.com/image?src=Images/live/2017-04/17/24134653-181-1.jpg' alt='Bonhams : A celluloid of Geppetto, Figaro, and Pinocchio from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2555">
+                                <meta itemprop="height" content="1862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bonhams" />
+                                </span>
+                                <a href='https://img2.bonhams.com/image?src=Images/live/2017-04/17/24134653-181-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pinocchio Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pinocchio-l72g4adkz4wfdhjm.jpg' alt='100+] Pinocchio Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pinocchio-l72g4adkz4wfdhjm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

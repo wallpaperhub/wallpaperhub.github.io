@@ -1,0 +1,129 @@
+<title>Pumpkin Spice iPhone Wallpaper | Cozy Fall Designs</title>
+                    <meta name="description" content="Discover the perfect pumpkin spice iPhone wallpaper to celebrate fall! Our cozy designs bring warmth and seasonal charm to your device. Download now to embrace the autumn spirit and brighten your screen with pumpkin spice vibes!">
+                    <meta name="keywords" content="pumpkin spice iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pumpkin-spice-iphone-wallpaper">
+                            <span itemprop="name">pumpkin spice iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pumpkin Spice iPhone Wallpaper | Cozy Fall Designs</h1>
+                <p>Transform your iPhone with our cozy pumpkin spice wallpaper! Perfect for fall lovers, this seasonal design features warm autumn hues, inviting textures, and that beloved pumpkin spice aesthetic. Customize your screen to match the cozy vibes of the season. Download now and enjoy the warmth of fall every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice wallpaper by thehatter2 - Download on ZEDGE™ | 29c4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/1c/95/491c951118c6fcdffa84030d52b567bc.jpg' alt='Pumpkin Spice wallpaper by thehatter2 - Download on ZEDGE™ | 29c4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/1c/95/491c951118c6fcdffa84030d52b567bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin spice latte wallpaper by Zenly0429 - Download on ZEDGE™ | e061">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/2e/47/9c2e47334a2215b3b41cb54a3fa9df09.jpg' alt='Pumpkin spice latte wallpaper by Zenly0429 - Download on ZEDGE™ | e061'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/2e/47/9c2e47334a2215b3b41cb54a3fa9df09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fall iPhone Wallpapers Pumpkin Spice Mushroom Leaves (DIGITAL ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36989802/r/il/50a617/4183586887/il_570xN.4183586887_2qlm.jpg' alt='Cute Fall iPhone Wallpapers Pumpkin Spice Mushroom Leaves (DIGITAL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36989802/r/il/50a617/4183586887/il_570xN.4183586887_2qlm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Fall Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/f3/1d/c4f31db66a23c0c421f23776480f6880.jpg' alt='Pumpkin Spice Fall Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/f3/1d/c4f31db66a23c0c421f23776480f6880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free September Desktop & iPhone Wallpaper - Lily & Val Living">
+                                <img itemprop="contentUrl url" src='http://bit.ly/lv916-dwp' alt='Free September Desktop & iPhone Wallpaper - Lily & Val Living'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lily & Val Living" />
+                                </span>
+                                <a href='http://bit.ly/lv916-dwp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Iphone Pumpkin Spice Latte Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/autumn-iphone-pumpkin-spice-latte-xzc9iwrh7mtxmej9.jpg' alt='Autumn Iphone Pumpkin Spice Latte Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/autumn-iphone-pumpkin-spice-latte-xzc9iwrh7mtxmej9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice, autumn, coffee, cute, drinks, fall, halloween ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/726/361/HD-wallpaper-pumpkin-spice-autumn-coffee-cute-drinks-fall-halloween-october-sugar.jpg' alt='Pumpkin Spice, autumn, coffee, cute, drinks, fall, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/726/361/HD-wallpaper-pumpkin-spice-autumn-coffee-cute-drinks-fall-halloween-october-sugar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Latte Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15319269/p/f/m/H5CT51OkThK3SfUSig4nxdMEjMmFd4jRtOxL_0e_VGkMZd6Wrn2jgjE/Boho%20Pumpkin%20Spice%2C%20Fall%20Boots%20and%20Beanie.jpg' alt='Pumpkin Spice Latte Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15319269/p/f/m/H5CT51OkThK3SfUSig4nxdMEjMmFd4jRtOxL_0e_VGkMZd6Wrn2jgjE/Boho%20Pumpkin%20Spice%2C%20Fall%20Boots%20and%20Beanie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice wallpaper by RisingPhoenix84 - Download on ZEDGE™ | 1ff0">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/7e/ff/7c7eff03c85b5ae323e1ca8979456810.jpg' alt='Pumpkin Spice wallpaper by RisingPhoenix84 - Download on ZEDGE™ | 1ff0'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/7e/ff/7c7eff03c85b5ae323e1ca8979456810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fall Aesthetic iPhone Pumpkin Spice Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-aesthetic-iphone-pumpkin-spice-p64nljzcijp72qov.jpg' alt='Download Fall Aesthetic iPhone Pumpkin Spice Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-aesthetic-iphone-pumpkin-spice-p64nljzcijp72qov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

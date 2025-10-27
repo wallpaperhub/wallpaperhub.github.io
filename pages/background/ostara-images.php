@@ -1,0 +1,129 @@
+<title>Stunning Ostara Images for Spring Celebrations</title>
+                    <meta name="description" content="Explore captivating Ostara images that beautifully showcase the essence of spring. From vibrant colors to symbolic decor, these visuals celebrate renewal and the joy of the equinox. Perfect for enhancing your seasonal celebrations or inspiring creativity, discover the magic of Ostara through stunning photography.">
+                    <meta name="keywords" content="ostara images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ostara-images">
+                            <span itemprop="name">ostara images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ostara Images for Spring Celebrations</h1>
+                <p>Ostara images capture the essence of spring's arrival, featuring vibrant flowers, colorful eggs, and symbols of renewal. These visuals celebrate the equinox, representing balance and fertility. From blooming gardens to whimsical decor, Ostara imagery evokes a sense of joy and hope, inviting nature's beauty into our lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mounted print titled "Ostara" by Amanda Clark - fairytale art print, hare  art print, mounted art print, spring wall art, dreamy art print">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5513809/r/il/fc1071/3949806365/il_570xN.3949806365_2rgq.jpg' alt='Mounted print titled "Ostara" by Amanda Clark - fairytale art print, hare  art print, mounted art print, spring wall art, dreamy art print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5513809/r/il/fc1071/3949806365/il_570xN.3949806365_2rgq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'OSTARA - Spring Equinox' by Annie Louvaine">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/ostara-spring-equinox-annie-louvaine.jpg' alt=''OSTARA - Spring Equinox' by Annie Louvaine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Annie Louvaine - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/ostara-spring-equinox-annie-louvaine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara: The Forgotten Goddess of Spring? - Forever Conscious">
+                                <img itemprop="contentUrl url" src='https://foreverconscious.com/wp-content/uploads/2019/04/ostara--810x508.jpg' alt='Ostara: The Forgotten Goddess of Spring? - Forever Conscious'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Conscious" />
+                                </span>
+                                <a href='https://foreverconscious.com/wp-content/uploads/2019/04/ostara--810x508.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ēostre - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/66/Ostara_by_Johannes_Gehrts.jpg' alt='Ēostre - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/66/Ostara_by_Johannes_Gehrts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara and the White Hare">
+                                <img itemprop="contentUrl url" src='https://irp.cdn-website.com/551549df/dms3rep/multi/flat-750x-075-f-pad-750x1000-f8f8f8.jpg' alt='Ostara and the White Hare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Panegyria" />
+                                </span>
+                                <a href='https://irp.cdn-website.com/551549df/dms3rep/multi/flat-750x-075-f-pad-750x1000-f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Ostara: The Goddess & The High Holy Tide    – Wyrd Designs">
+                                <img itemprop="contentUrl url" src='https://wyrddesigns.wordpress.com/wp-content/uploads/2019/02/ostara-nichol_skaggs.jpg' alt='   Ostara: The Goddess & The High Holy Tide    – Wyrd Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wyrd Designs - WordPress.com" />
+                                </span>
+                                <a href='https://wyrddesigns.wordpress.com/wp-content/uploads/2019/02/ostara-nichol_skaggs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara Ramblings 2021">
+                                <img itemprop="contentUrl url" src='https://gingerwitchinnorthumberland.com/wp-content/uploads/2021/03/Luna-Hare.jpg' alt='Ostara Ramblings 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ginger Witch in Northumberland" />
+                                </span>
+                                <a href='https://gingerwitchinnorthumberland.com/wp-content/uploads/2021/03/Luna-Hare.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara | Spring Equinox - White Magick Alchemy">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-91397/images/stencil/645x440/uploaded_images/sabbat-supplies.jpg?t=1615861071' alt='Ostara | Spring Equinox - White Magick Alchemy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White Magick Alchemy" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-91397/images/stencil/645x440/uploaded_images/sabbat-supplies.jpg?t=1615861071' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara, Eastre, Eostre - The Easter Bunny's Ancestral Roots">
+                                <img itemprop="contentUrl url" src='https://dgspeaks.com/wp-content/uploads/2023/03/ostara-helena-nelson-reed.webp' alt='Ostara, Eastre, Eostre - The Easter Bunny's Ancestral Roots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DG Speaks" />
+                                </span>
+                                <a href='https://dgspeaks.com/wp-content/uploads/2023/03/ostara-helena-nelson-reed.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ostara - Spring Equinox Card | Greeting Card">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2208256643.7545/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Ostara - Spring Equinox Card | Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2208256643.7545/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

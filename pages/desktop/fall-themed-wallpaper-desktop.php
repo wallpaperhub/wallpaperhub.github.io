@@ -1,0 +1,129 @@
+<title>Cozy Fall-Themed Desktop Wallpapers for Autumn Vibes</title>
+                    <meta name="description" content="Discover the perfect fall-themed desktop wallpapers to bring autumn's beauty to your screen. Enhance your workspace with vibrant leaves, warm colors, and cozy scenes, creating an inviting atmosphere all season long. Download your favorites and celebrate the splendor of fall every day!">
+                    <meta name="keywords" content="fall themed wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/fall-themed-wallpaper-desktop">
+                            <span itemprop="name">fall themed wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Fall-Themed Desktop Wallpapers for Autumn Vibes</h1>
+                <p>Transform your desktop with charming fall-themed wallpapers that capture the beauty of autumn. From vibrant foliage to cozy harvest scenes, these stunning visuals immerse you in the season's warmth and tranquility. Enjoy the serene colors of fall every time you open your computer, making your workspace a cozy retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXV0dW1uJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Autumn Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXV0dW1uJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable autumn desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGGJ62zN34/1/0/1600w/canva-yellow-orange-illustrative-autumn-quotes-desktop-wallpaper-hrFcX0AnGkw.jpg' alt='Free customizable autumn desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGGJ62zN34/1/0/1600w/canva-yellow-orange-illustrative-autumn-quotes-desktop-wallpaper-hrFcX0AnGkw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable autumn desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvwrMjiRQ/1/0/1600w/canva-orange-cute-autumn-ghost-destop-wallpaper-IdPs-3gOK48.jpg' alt='Free customizable autumn desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvwrMjiRQ/1/0/1600w/canva-orange-cute-autumn-ghost-destop-wallpaper-IdPs-3gOK48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg' alt='Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-autumn-leaves-background_52683-68749.jpg' alt='Fall Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-autumn-leaves-background_52683-68749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable autumn desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrhBZnE5g/1/0/1600w/canva-brown-aesthetic-vision-board-autumn-photo-collage-desktop-wallpaper-J2X3ycuKhJM.jpg' alt='Free customizable autumn desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrhBZnE5g/1/0/1600w/canva-brown-aesthetic-vision-board-autumn-photo-collage-desktop-wallpaper-J2X3ycuKhJM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Following The Road To Adventure In Autumn Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/following-the-road-to-adventure-in-autumn-nbkbgv7d9y9elw90-3.jpg' alt='Following The Road To Adventure In Autumn Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/following-the-road-to-adventure-in-autumn-nbkbgv7d9y9elw90-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88 Best fall desktop backgrounds ideas | fall desktop backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/62/dd/15/62dd1522779dab258f99b751399bdaea.jpg' alt='88 Best fall desktop backgrounds ideas | fall desktop backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/62/dd/15/62dd1522779dab258f99b751399bdaea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/f/3/156515-1920x1200-desktop-hd-autumn-wallpaper-photo.jpg' alt='Autumn Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/f/3/156515-1920x1200-desktop-hd-autumn-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' alt='Autumn Wallpaper Photos, Download The BEST Free Autumn Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?cs=srgb&dl=pexels-daejeung-2734512.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

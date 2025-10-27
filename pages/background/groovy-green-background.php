@@ -1,0 +1,129 @@
+<title>Vibrant Groovy Green Background Ideas</title>
+                    <meta name="description" content="Explore the trendy groovy green background! Perfect for designs seeking a lively twist, this backdrop adds energy to any project. Discover how to incorporate various green shades to refresh your visuals while maintaining a modern flair. Ideal for websites, presentations, and creative artworks. Embrace the vibe today!">
+                    <meta name="keywords" content="groovy green background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-green-background">
+                            <span itemprop="name">groovy green background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Groovy Green Background Ideas</h1>
+                <p>Discover the vibrant charm of a groovy green background, perfect for adding a playful touch to your designs. From lush, grassy hues to striking neon tones, this backdrop can energize your space. Ideal for websites, presentations, or creative projects, a groovy green background invites freshness and liveliness into any visual theme.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Green groovy background Retro background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' alt='Premium Vector | Green groovy background Retro background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Green Distorted Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/groovy-psychedelic-colorful-background_23-2149075813.jpg' alt='Groovy Green Distorted Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/groovy-psychedelic-colorful-background_23-2149075813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Retro Groovy Green Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/48130/liquid_retro_groovy_green_limited.jpg' alt='Liquid Retro Groovy Green Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/48130/liquid_retro_groovy_green_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green groovy">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/green-groovy-pattern-repeat-removable-wallpaper-design.jpg' alt='Green groovy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/green-groovy-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Coloured Abstract Marble Texture Groovy Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/green-coloured-abstract-marble-texture-260nw-1313405195.jpg' alt='Green Coloured Abstract Marble Texture Groovy Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/green-coloured-abstract-marble-texture-260nw-1313405195.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Stripe 2 10 Green 6 Liquid Groovy Background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/stripe-2-10-green-6-liquid-groovy-background-illustration-wallpaper-texture_792836-4991.jpg' alt='Premium Photo | Stripe 2 10 Green 6 Liquid Groovy Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/stripe-2-10-green-6-liquid-groovy-background-illustration-wallpaper-texture_792836-4991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="seamless pattern with vintage vector groovy flowers. modern ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/45/39/23/1000_F_445392327_nW77fZ8BPgVO940Nb3xPpILfCzqY2roU.jpg' alt='seamless pattern with vintage vector groovy flowers. modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/45/39/23/1000_F_445392327_nW77fZ8BPgVO940Nb3xPpILfCzqY2roU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green and Cream Groovy Liquid Zebra Abstract Artwork by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/08/f4/f408f4bbc4dd4f18d67ca7588d508f9a.jpg' alt='Pastel Green and Cream Groovy Liquid Zebra Abstract Artwork by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/08/f4/f408f4bbc4dd4f18d67ca7588d508f9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Distorted Checkerboard Groovy Background. Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/green-distorted-checkerboard-background-retro-psychedelic-checkered-wallpaper-wavy-groovy-chessboard-surface-trippy-twisted-278263400.jpg' alt='Green Distorted Checkerboard Groovy Background. Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/green-distorted-checkerboard-background-retro-psychedelic-checkered-wallpaper-wavy-groovy-chessboard-surface-trippy-twisted-278263400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hand drawn colorful retro style groovy ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hand-drawn-colorful-retro-style-groovy-psychedelic-background_636389-373.jpg' alt='Premium Vector | Hand drawn colorful retro style groovy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hand-drawn-colorful-retro-style-groovy-psychedelic-background_636389-373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

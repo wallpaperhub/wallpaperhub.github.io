@@ -1,0 +1,129 @@
+<title>XXTentacion iPhone Wallpapers: Unique Designs for Your Device</title>
+                    <meta name="description" content="Discover stunning XXTentacion iPhone wallpapers that capture the essence of his music and artistry. Browse through a variety of designs that will transform your phone's look while celebrating the impact of this influential artist. Perfect for fans looking to personalize their devices!">
+                    <meta name="keywords" content="xxxtentacion iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/xxxtentacion-iphone-wallpaper">
+                            <span itemprop="name">xxxtentacion iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>XXTentacion iPhone Wallpapers: Unique Designs for Your Device</h1>
+                <p>Looking for the perfect XXTentacion iPhone wallpaper? Explore a collection of vibrant and emotional designs inspired by the late rapper's unique style and powerful lyrics. Whether you prefer iconic visuals or abstract representations, these wallpapers will elevate your device's aesthetic while honoring XXTentacion's legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper I made - One of my favorite photos of X. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sd6qplexgh591.jpg' alt='iPhone Wallpaper I made - One of my favorite photos of X. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2142">
+                                <meta itemprop="height" content="4635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sd6qplexgh591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made A X iPhone wallpaper again. Hope you like it : r/XXXTENTACION">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vwwma5c7emf91.jpg' alt='Made A X iPhone wallpaper again. Hope you like it : r/XXXTENTACION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vwwma5c7emf91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xxxtentacion Iphone Wallpaper Posted By Alford Hodkiewicz">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/af/df/c2/afdfc2d5cae0760dea1557eb145c14ee.jpg' alt='Xxxtentacion Iphone Wallpaper Posted By Alford Hodkiewicz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/af/df/c2/afdfc2d5cae0760dea1557eb145c14ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] XXXTENTACION IPHONE WALLPAPER : r/XXXTENTACION">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y32x4w1usou11.jpg' alt='Art] XXXTENTACION IPHONE WALLPAPER : r/XXXTENTACION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y32x4w1usou11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 XXXTentacion Wallpapers ideas | rap wallpaper, x picture ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f9/c6/45/f9c6456bf894b38ba5dc7d4770503c36.jpg' alt='65 XXXTentacion Wallpapers ideas | rap wallpaper, x picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f9/c6/45/f9c6456bf894b38ba5dc7d4770503c36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a lock screen wallpaper for my iphone : r/XXXTENTACION">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/1wirsbvVhMzBofO7gwrL65b06hNFmDzVs0GCnIazEiQ.jpg?width=640&crop=smart&auto=webp&s=2b78d53e67f5efbe9034340b4be3c973c41881fe' alt='I made a lock screen wallpaper for my iphone : r/XXXTENTACION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/1wirsbvVhMzBofO7gwrL65b06hNFmDzVs0GCnIazEiQ.jpg?width=640&crop=smart&auto=webp&s=2b78d53e67f5efbe9034340b4be3c973c41881fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXXTENTACION iPhone wallpaper by BleonBerishaGraphic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4c4d9c5c-f093-409d-b5c4-2e5536f28a91/dc8pj2h-dcdc9517-ad27-46db-a1ba-cbfa323582af.png/v1/fill/w_1024,h_1821,q_80,strp/xxxtentacion_iphone_wallpaper_by_bleonberishagraphic_dc8pj2h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzRjNGQ5YzVjLWYwOTMtNDA5ZC1iNWM0LTJlNTUzNmYyOGE5MVwvZGM4cGoyaC1kY2RjOTUxNy1hZDI3LTQ2ZGItYTFiYS1jYmZhMzIzNTgyYWYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.m-SD_NKKqV1X7-LolwfEmVk-c_zeh5myVkxuxstf7JY' alt='XXXTENTACION iPhone wallpaper by BleonBerishaGraphic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4c4d9c5c-f093-409d-b5c4-2e5536f28a91/dc8pj2h-dcdc9517-ad27-46db-a1ba-cbfa323582af.png/v1/fill/w_1024,h_1821,q_80,strp/xxxtentacion_iphone_wallpaper_by_bleonberishagraphic_dc8pj2h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzRjNGQ5YzVjLWYwOTMtNDA5ZC1iNWM0LTJlNTUzNmYyOGE5MVwvZGM4cGoyaC1kY2RjOTUxNy1hZDI3LTQ2ZGItYTFiYS1jYmZhMzIzNTgyYWYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.m-SD_NKKqV1X7-LolwfEmVk-c_zeh5myVkxuxstf7JY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="xxxtentacion wallpaper 3d xxxtentacion wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/f4/6f/b5f46f2caa2b09b68e2049147f3e09dc.jpg' alt='xxxtentacion wallpaper 3d xxxtentacion wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/f4/6f/b5f46f2caa2b09b68e2049147f3e09dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper : r/XXXTENTACION">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/boviqebverr51.jpg?width=828&format=pjpg&auto=webp&s=6cc73abec78c9838e4a2b348c95b1c65fef3d5fc' alt='iPhone Wallpaper : r/XXXTENTACION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/boviqebverr51.jpg?width=828&format=pjpg&auto=webp&s=6cc73abec78c9838e4a2b348c95b1c65fef3d5fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tribute To Xxxtentacion Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tribute-to-xxxtentacion-gtmhxfc13ncgiorb.jpg' alt='Tribute To Xxxtentacion Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tribute-to-xxxtentacion-gtmhxfc13ncgiorb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

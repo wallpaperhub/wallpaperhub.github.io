@@ -1,0 +1,129 @@
+<title>Awesome Akame Wallpapers for iPhone – Download Now!</title>
+                    <meta name="description" content="Explore a collection of vibrant Akame wallpapers designed specifically for your iPhone. Elevate your device's aesthetic with high-quality images of your favorite characters. Perfect for anime enthusiasts looking for a personal touch. Download your stunning wallpaper today and enjoy a fresh look!">
+                    <meta name="keywords" content="akame wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/akame-wallpaper-iphone">
+                            <span itemprop="name">akame wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Akame Wallpapers for iPhone – Download Now!</h1>
+                <p>Transform your iPhone screen with stunning Akame wallpapers! Featuring breathtaking designs and vibrant colors, these wallpapers are perfect for anime lovers and fans of the Akame series. Personalize your device with eye-catching images that bring your favorite characters to life. Download your favorite Akame wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame phone wallpaper : r/AkameGaKILL">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zd14xr1mchfb1.png' alt='Akame phone wallpaper : r/AkameGaKILL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zd14xr1mchfb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame ga Kill Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/a2/9e/52a29e41d9e0624fb5f1ed19327e0acc.jpg' alt='Akame ga Kill Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/a2/9e/52a29e41d9e0624fb5f1ed19327e0acc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/af/dc/7e/afdc7eee11e6b34a4c5b6630007ecd43.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/af/dc/7e/afdc7eee11e6b34a4c5b6630007ecd43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame, hero, anime, akame ga kill, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/978/10/HD-wallpaper-akame-hero-anime-akame-ga-kill.jpg' alt='Akame, hero, anime, akame ga kill, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/978/10/HD-wallpaper-akame-hero-anime-akame-ga-kill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime/Akame Ga Kill! (640x1136) Wallpaper ID: 527012 - Mobile Abyss">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a2/9a/4c/a29a4ce590e39c6d5df2f7dd23a6021f.jpg' alt='Anime/Akame Ga Kill! (640x1136) Wallpaper ID: 527012 - Mobile Abyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a2/9a/4c/a29a4ce590e39c6d5df2f7dd23a6021f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame, akame ga kill, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/646/953/HD-wallpaper-akame-akame-ga-kill.jpg' alt='Akame, akame ga kill, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/646/953/HD-wallpaper-akame-akame-ga-kill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame ga Kill Wallpaper - Anime HD Wallpapers - HDwallpapers.net">
+                                <img itemprop="contentUrl url" src='https://static1.hdwallpapers.net/wallpapers/2015/03/23/499/thumb_akame-ga-kill.jpg' alt='Akame ga Kill Wallpaper - Anime HD Wallpapers - HDwallpapers.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://static1.hdwallpapers.net/wallpapers/2015/03/23/499/thumb_akame-ga-kill.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found these photos the first one is my Lock Screen abs the other 2 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/l6z2wdv6oqw61.jpg?width=640&crop=smart&auto=webp&s=def016df60f81e89d6fa1ca3b02cc279b78079e1' alt='Found these photos the first one is my Lock Screen abs the other 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/l6z2wdv6oqw61.jpg?width=640&crop=smart&auto=webp&s=def016df60f81e89d6fa1ca3b02cc279b78079e1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen/Wallpaper - Akame Akame Ga Kill !">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/78/d7/d078d70747792d8d799d5dac2ef4ef06.jpg' alt='Lockscreen/Wallpaper - Akame Akame Ga Kill !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/78/d7/d078d70747792d8d799d5dac2ef4ef06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akame ga kill, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/171/599/HD-wallpaper-akame-ga-kill-anime.jpg' alt='Akame ga kill, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/171/599/HD-wallpaper-akame-ga-kill-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

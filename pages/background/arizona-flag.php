@@ -1,0 +1,129 @@
+<title>Discover the Iconic Arizona Flag: A Symbol of Heritage</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="arizona flag">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arizona-flag">
+                            <span itemprop="name">arizona flag</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Iconic Arizona Flag: A Symbol of Heritage</h1>
+                <p>The Arizona flag features a bold design with a copper star at the center, representing the state's copper industry. Surrounding the star are red and yellow rays symbolizing the setting sun, reflecting Arizona's vibrant sunsets. The blue field at the bottom embodies the sky. This flag captures the essence of Arizona's landscape and heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of Arizona - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1200px-Flag_of_Arizona.svg.png' alt='Flag of Arizona - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1200px-Flag_of_Arizona.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State of Arizona Flag">
+                                <img itemprop="contentUrl url" src='http://www.custom-windsocks.com/cdn/shop/products/ArizonaFlag_600x.png?v=1702427969' alt='State of Arizona Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Custom Windsock Company" />
+                                </span>
+                                <a href='http://www.custom-windsocks.com/cdn/shop/products/ArizonaFlag_600x.png?v=1702427969' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Flag Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/395/885/small_2x/waving-flag-of-the-arizona-state-illustration-vector.jpg' alt='Arizona Flag Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/395/885/small_2x/waving-flag-of-the-arizona-state-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Flag">
+                                <img itemprop="contentUrl url" src='https://www.flags.com/_external/?url=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-js3pyr%2Fimages%2Fstencil%2F2560w%2Fproducts%2F7588%2F10866%2FArizona-Flag-20035_1__65951.1706892154.jpg%3Fc%3D2&h=KbSItkTQt8YcXndmPm17phBj9hSIRgH9gQyqoGOFAxg=' alt='Arizona Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flags.com" />
+                                </span>
+                                <a href='https://www.flags.com/_external/?url=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-js3pyr%2Fimages%2Fstencil%2F2560w%2Fproducts%2F7588%2F10866%2FArizona-Flag-20035_1__65951.1706892154.jpg%3Fc%3D2&h=KbSItkTQt8YcXndmPm17phBj9hSIRgH9gQyqoGOFAxg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Flag map of Arizona.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_map_of_Arizona.svg/1200px-Flag_map_of_Arizona.svg.png' alt='File:Flag map of Arizona.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_map_of_Arizona.svg/1200px-Flag_map_of_Arizona.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Flag on Wind stock photo. Image of sign, rays - 35501314">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/arizona-flag-wind-state-desert-landscape-near-monuments-valley-az-united-states-35501314.jpg' alt='Arizona Flag on Wind stock photo. Image of sign, rays - 35501314'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/arizona-flag-wind-state-desert-landscape-near-monuments-valley-az-united-states-35501314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Wood Flag">
+                                <img itemprop="contentUrl url" src='https://www.patriotwood.com/cdn/shop/products/Arizona-Wood-Flag-7.jpg?v=1411707936' alt='Arizona Wood Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patriot Wood" />
+                                </span>
+                                <a href='https://www.patriotwood.com/cdn/shop/products/Arizona-Wood-Flag-7.jpg?v=1411707936' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Flag Images – Browse 9,480 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/68/68/88/360_F_268688885_QFnNFdsj7fjj7BypSPfaNwtM8283Fr1W.jpg' alt='Arizona Flag Images – Browse 9,480 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/68/68/88/360_F_268688885_QFnNFdsj7fjj7BypSPfaNwtM8283Fr1W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flag of Arizona - StarSpangledFlags.com">
+                                <img itemprop="contentUrl url" src='https://cdn-emmef.nitrocdn.com/IqjJNajKEsYHtBWHMGqqzRBIAhJYnual/assets/images/optimized/rev-27b17c0/starspangledflags.com/wp-content/uploads/az-stateflag-main.jpg' alt='Flag of Arizona - StarSpangledFlags.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Star Spangled Flags" />
+                                </span>
+                                <a href='https://cdn-emmef.nitrocdn.com/IqjJNajKEsYHtBWHMGqqzRBIAhJYnual/assets/images/optimized/rev-27b17c0/starspangledflags.com/wp-content/uploads/az-stateflag-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Flag">
+                                <img itemprop="contentUrl url" src='https://www.flagsonline.it/uploads/2016-6-6/1200-0/arizona.jpg' alt='Arizona Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flagsonline.it" />
+                                </span>
+                                <a href='https://www.flagsonline.it/uploads/2016-6-6/1200-0/arizona.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

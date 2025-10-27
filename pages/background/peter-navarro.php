@@ -1,0 +1,129 @@
+<title>Peter Navarro: Architect of America’s Trade Policy Shift</title>
+                    <meta name="description" content="Explore Peter Navarro's influential role in shaping U.S. trade policy, his focus on economic nationalism, and his critical stance on China. Discover insights into his background and contributions during the Trump administration that continue to spark debate and discussion in economic circles.">
+                    <meta name="keywords" content="peter navarro">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peter-navarro">
+                            <span itemprop="name">peter navarro</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peter Navarro: Architect of America’s Trade Policy Shift</h1>
+                <p>Peter Navarro is an American economist and political advisor known for his role as Director of the National Trade Council under President Donald Trump. A staunch advocate for economic nationalism, he has been a vocal critic of China’s trade practices. Navarro is also recognized for his writings on trade policy and economic strategy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1a/Peter_Navarro_official_photo.jpg' alt='Peter Navarro - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1a/Peter_Navarro_official_photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ex-Trump adviser Peter Navarro gets roaring RNC reception | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/30eb77b/2147483647/strip/true/crop/4896x2754+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B8%2F7%2C%2F%20-34%2C%2071%2C%20-109%2C%20118%2C%2017%2C%2029%2C%20-39%2C%20-82%2C%2067%2C%2021%2C%20-67%2C%2079%2C%205%2C%2018%2C%2062%2C%2094%2C%20-117%2C%20-15%2C%2078%2C%20126%2C%2095%2C%2073%2C%20-84%2C%2028%2C%20-55%2C%209%2C%20104%5D%2F85635a70d6f94c368f12f82e07e04910' alt='Ex-Trump adviser Peter Navarro gets roaring RNC reception | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/30eb77b/2147483647/strip/true/crop/4896x2754+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B8%2F7%2C%2F%20-34%2C%2071%2C%20-109%2C%20118%2C%2017%2C%2029%2C%20-39%2C%20-82%2C%2067%2C%2021%2C%20-67%2C%2079%2C%205%2C%2018%2C%2062%2C%2094%2C%20-117%2C%20-15%2C%2078%2C%20126%2C%2095%2C%2073%2C%20-84%2C%2028%2C%20-55%2C%209%2C%20104%5D%2F85635a70d6f94c368f12f82e07e04910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro, Trump's Trade Warrior, Has Not Made His Peace With ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/12/24/business/24DC-NAVARRO-01/merlin_162401016_e2934545-79e1-4b26-9136-c2da058b64bc-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Peter Navarro, Trump's Trade Warrior, Has Not Made His Peace With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/12/24/business/24DC-NAVARRO-01/merlin_162401016_e2934545-79e1-4b26-9136-c2da058b64bc-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro: Former Trump adviser sued for emails from his ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/220803132430-peter-navarro-june-17.jpg?c=16x9&q=h_833,w_1480,c_fill' alt='Peter Navarro: Former Trump adviser sued for emails from his ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/220803132430-peter-navarro-june-17.jpg?c=16x9&q=h_833,w_1480,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jan. 6 panel subpoenas former Trump White House trade adviser ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/02/09/ap_22040779922584-3d0d31c152f14dca8e82a10c331bfb1a19665aea.jpg' alt='Jan. 6 panel subpoenas former Trump White House trade adviser ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3824">
+                                <meta itemprop="height" content="2868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/02/09/ap_22040779922584-3d0d31c152f14dca8e82a10c331bfb1a19665aea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trump names UCI business professor Peter Navarro to lead trade ...">
+                                <img itemprop="contentUrl url" src='https://news.uci.edu/files/2016/12/Peter_Navarro_MG_0697.jpg' alt='Trump names UCI business professor Peter Navarro to lead trade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="4368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UC Irvine News" />
+                                </span>
+                                <a href='https://news.uci.edu/files/2016/12/Peter_Navarro_MG_0697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro: White House trade adviser says CDC 'let the country ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/200407004919-peter-navarro-march-27-01.jpg?q=w_2798,h_1979,x_0,y_0,c_fill' alt='Peter Navarro: White House trade adviser says CDC 'let the country ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2798">
+                                <meta itemprop="height" content="1979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/200407004919-peter-navarro-march-27-01.jpg?q=w_2798,h_1979,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro, a Top Trade Skeptic, Is Ascendant - The New York ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2018/02/26/us/26navarro_dc/26navarro_dc-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Peter Navarro, a Top Trade Skeptic, Is Ascendant - The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2018/02/26/us/26navarro_dc/26navarro_dc-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trump taps Peter Navarro as lead trade adviser | Manufacturing Dive">
+                                <img itemprop="contentUrl url" src='https://imgproxy.divecdn.com/AB507gDId0O71yrfWxfztQ9pj9c9rgP4F37_fp4hdL4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTYwMDg0OTAyXzEuanBn.webp' alt='Trump taps Peter Navarro as lead trade adviser | Manufacturing Dive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manufacturing Dive" />
+                                </span>
+                                <a href='https://imgproxy.divecdn.com/AB507gDId0O71yrfWxfztQ9pj9c9rgP4F37_fp4hdL4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTYwMDg0OTAyXzEuanBn.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Navarro Profile - CNBC">
+                                <img itemprop="contentUrl url" src='https://image.cnbcfm.com/api/v1/image/100000011-PeterN.jpg?v=1482853171&w=1920&h=1080' alt='Peter Navarro Profile - CNBC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNBC" />
+                                </span>
+                                <a href='https://image.cnbcfm.com/api/v1/image/100000011-PeterN.jpg?v=1482853171&w=1920&h=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

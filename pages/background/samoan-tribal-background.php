@@ -1,0 +1,129 @@
+<title>Discover the Rich Heritage of Samoan Tribes</title>
+                    <meta name="description" content="Explore the vibrant world of Samoan tribes, their traditions, values, and the deep connections within their communities. Learn about the significance of family ties, cultural ceremonies, and the art of storytelling that shapes their identity. Dive into the essence of Samoan heritage today!">
+                    <meta name="keywords" content="samoan tribal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/samoan-tribal-background">
+                            <span itemprop="name">samoan tribal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Heritage of Samoan Tribes</h1>
+                <p>The Samoan tribal background is rich with heritage, traditions, and community values. Each tribe, or "aiga," plays a crucial role in preserving customs, languages, and art forms. Samoan culture emphasizes familial connections and respects elders, evident in ceremonies and daily life. Through storytelling, dance, and crafts, they celebrate their identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Tribal Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2031368534/display_1500/stock-vector-polynesian-ornament-tattoo-desing-vector-2031368534.jpg' alt='Samoa Tribal Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="911">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2031368534/display_1500/stock-vector-polynesian-ornament-tattoo-desing-vector-2031368534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Tribal Images – Browse 3,412 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/36/38/01/360_F_336380176_RVQFRZJapYLOoIF31owr3gUwGhlVY6Mp.jpg' alt='Samoa Tribal Images – Browse 3,412 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/36/38/01/360_F_336380176_RVQFRZJapYLOoIF31owr3gUwGhlVY6Mp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polynesian Tribal Images – Browse 29,000 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/34/06/70/360_F_334067002_edOi4ucfBVfYhG2I2X4ATdqf2eVeVWw0.jpg' alt='Polynesian Tribal Images – Browse 29,000 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/34/06/70/360_F_334067002_edOi4ucfBVfYhG2I2X4ATdqf2eVeVWw0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Tribal Stock Illustrations – 1,168 Samoa Tribal Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/maori-samoa-style-ornament-ethnic-tribal-ornamet-good-sleeve-ornaments-ethnic-theme-illustration-93784073.jpg' alt='Samoa Tribal Stock Illustrations – 1,168 Samoa Tribal Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/maori-samoa-style-ornament-ethnic-tribal-ornamet-good-sleeve-ornaments-ethnic-theme-illustration-93784073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Design Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/maori-ethnic-style-halfsleeve-tattoo-600w-2225747733.jpg' alt='Samoa Design Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/maori-ethnic-style-halfsleeve-tattoo-600w-2225747733.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polynesian tattoo tribal background design samoan Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/37/27/polynesian-tattoo-tribal-background-design-samoan-vector-52293727.jpg' alt='Polynesian tattoo tribal background design samoan Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/37/27/polynesian-tattoo-tribal-background-design-samoan-vector-52293727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoan - Polynesian - Hawaiian Teal Tribal 1503" Art Board Print ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3612340363.5977/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Samoan - Polynesian - Hawaiian Teal Tribal 1503" Art Board Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3612340363.5977/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa style ornament vector image on VectorStock">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/26/ab/3626ab466eda5ab48b4164d7af2df7a1.jpg' alt='Samoa style ornament vector image on VectorStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/26/ab/3626ab466eda5ab48b4164d7af2df7a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoan Tribal Png - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23885230/r/il/65a52c/5369963745/il_fullxfull.5369963745_flqx.jpg' alt='Samoan Tribal Png - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23885230/r/il/65a52c/5369963745/il_fullxfull.5369963745_flqx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samoa Tribal Stock Illustrations – 1,168 Samoa Tribal Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/samoa-tribal-ornament-style-good-sleeve-tattoo-89884941.jpg' alt='Samoa Tribal Stock Illustrations – 1,168 Samoa Tribal Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/samoa-tribal-ornament-style-good-sleeve-tattoo-89884941.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

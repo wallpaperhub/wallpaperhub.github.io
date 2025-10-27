@@ -1,0 +1,129 @@
+<title>Ultimate Noise Cancelling AirPods: Silence & Sound</title>
+                    <meta name="description" content="Discover the power of noise-cancelling AirPods, designed to enhance your listening experience while blocking out background noise. Perfect for music lovers and busy professionals, they blend comfort with cutting-edge technology for all-day use. Elevate your audio experience today!">
+                    <meta name="keywords" content="noise cancelling airpods">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/noise-cancelling-airpods">
+                            <span itemprop="name">noise cancelling airpods</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Noise Cancelling AirPods: Silence & Sound</h1>
+                <p>Noise-cancelling AirPods offer an immersive audio experience, blocking out distractions and allowing you to enjoy music or podcasts in peace. With advanced technology and a sleek design, they provide comfort and convenience for everyday use. Ideal for travel, work, or relaxation, these AirPods redefine personal listening.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AirPods 4 with Active Noise Cancellation">
+                                <img itemprop="contentUrl url" src='https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-4-anc-select-202409?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1725502639798' alt='AirPods 4 with Active Noise Cancellation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple" />
+                                </span>
+                                <a href='https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-4-anc-select-202409?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1725502639798' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with ...">
+                                <img itemprop="contentUrl url" src='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg' alt='Apple AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2302">
+                                <meta itemprop="height" content="2962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Buy" />
+                                </span>
+                                <a href='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple beefs up the battery and noise cancelling with AirPods Pro 2">
+                                <img itemprop="contentUrl url" src='https://assets.newatlas.com/dims4/default/e823494/2147483647/strip/true/crop/1942x1550+0+0/resize/1942x1550!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1c%2F9c%2Fa76fe7874b57aa157628c9b2b151%2Fscreen-shot-2022-09-08-at-11.09.33%20am.png' alt='Apple beefs up the battery and noise cancelling with AirPods Pro 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1942">
+                                <meta itemprop="height" content="1550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Atlas" />
+                                </span>
+                                <a href='https://assets.newatlas.com/dims4/default/e823494/2147483647/strip/true/crop/1942x1550+0+0/resize/1942x1550!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1c%2F9c%2Fa76fe7874b57aa157628c9b2b151%2Fscreen-shot-2022-09-08-at-11.09.33%20am.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple AirPods 4 with Active Noise Cancellation">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/c3ec9fd2-88b3-4234-a09e-55045cee0ff6.fae819453cfa4c2da3e7c855a7a20764.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Apple AirPods 4 with Active Noise Cancellation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/c3ec9fd2-88b3-4234-a09e-55045cee0ff6.fae819453cfa4c2da3e7c855a7a20764.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Testing Apple AirPods Pro with Active Noise Cancellation and ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/index-17-1572284207.jpg' alt='Testing Apple AirPods Pro with Active Noise Cancellation and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/index-17-1572284207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""AirPods Pro 2: Advanced Noise Canceling, USB-C, Adaptive Sound"">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/qQ4AAOSwoNVl16ro/s-l1200.jpg' alt='"AirPods Pro 2: Advanced Noise Canceling, USB-C, Adaptive Sound"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="837">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/qQ4AAOSwoNVl16ro/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do noise cancelling headphones like Apple Airpods Pro work ...">
+                                <img itemprop="contentUrl url" src='https://images.newscientist.com/wp-content/uploads/1992/12/29115833/airpods.jpg?crop=1:1,smart&width=1200&height=1200&upscale=true' alt='How do noise cancelling headphones like Apple Airpods Pro work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Scientist" />
+                                </span>
+                                <a href='https://images.newscientist.com/wp-content/uploads/1992/12/29115833/airpods.jpg?crop=1:1,smart&width=1200&height=1200&upscale=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple AirPods 4 With Active Noise Cancellation - True Wireless ...">
+                                <img itemprop="contentUrl url" src='https://webobjects2.cdw.com/is/image/CDW/8073845?$product-main$' alt='Apple AirPods 4 With Active Noise Cancellation - True Wireless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDW" />
+                                </span>
+                                <a href='https://webobjects2.cdw.com/is/image/CDW/8073845?$product-main$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AIRPODS 4 WITH ACTIVE NOISE CANCELLATION">
+                                <img itemprop="contentUrl url" src='https://store.tech.rochester.edu/site/product-images/MXP93LL/A_1.png' alt='AIRPODS 4 WITH ACTIVE NOISE CANCELLATION'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Rochester Tech Store" />
+                                </span>
+                                <a href='https://store.tech.rochester.edu/site/product-images/MXP93LL/A_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AirPods Pro Review: Hearing is still believing – Six Colors">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/sixcolors.com/wp-content/uploads/2019/11/airpods-pro-transparency-6c.jpg?ssl=1' alt='AirPods Pro Review: Hearing is still believing – Six Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Six Colors" />
+                                </span>
+                                <a href='https://i0.wp.com/sixcolors.com/wp-content/uploads/2019/11/airpods-pro-transparency-6c.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

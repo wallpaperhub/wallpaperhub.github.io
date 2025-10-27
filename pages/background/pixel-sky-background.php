@@ -1,0 +1,129 @@
+<title>Vibrant Pixel Sky Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Discover stunning pixel sky backgrounds that enhance your creative projects. Perfect for wallpapers, designs, and games, these unique pixelated visuals add a whimsical touch. Transform your artwork with vibrant colors and imaginative scenery that's sure to inspire and captivate your audience.">
+                    <meta name="keywords" content="pixel sky background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-sky-background">
+                            <span itemprop="name">pixel sky background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pixel Sky Backgrounds for Your Creative Projects</h1>
+                <p>Pixel sky backgrounds offer a vibrant and whimsical visual experience, perfect for digital designs, wallpapers, and video games. With their captivating colors and pixelated charm, they create an imaginative atmosphere that sparks creativity. They can transform any project, making it pop with a unique and playful aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8Bit pixel graphic blue sky background with clouds 42818355 Vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/042/818/355/non_2x/8bit-pixel-graphic-blue-sky-background-with-clouds-vector.jpg' alt='8Bit pixel graphic blue sky background with clouds 42818355 Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/042/818/355/non_2x/8bit-pixel-graphic-blue-sky-background-with-clouds-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Sky Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/056/318/small_2x/8bit-pixel-art-night-sky-game-space-landscape-vector.jpg' alt='Pixel Sky Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/056/318/small_2x/8bit-pixel-art-night-sky-game-space-landscape-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Clouds Images – Browse 80,982 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/06/54/49/360_F_606544986_2zeORxAa7x0pnUdfXNlBZof4QOB7qB43.jpg' alt='Pixel Clouds Images – Browse 80,982 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/06/54/49/360_F_606544986_2zeORxAa7x0pnUdfXNlBZof4QOB7qB43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Blue sky background in pixel art style">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/blue-sky-background-pixel-art-style_475147-2665.jpg' alt='Premium Vector | Blue sky background in pixel art style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/blue-sky-background-pixel-art-style_475147-2665.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Ocean and Sky Background | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/4_81.png' alt='Pixel Ocean and Sky Background | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/4_81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Sky Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-pixel-art-cloud-illustration_23-2150209316.jpg' alt='Pixel Sky Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-pixel-art-cloud-illustration_23-2150209316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Pixel Art Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2465768631/display_1500/stock-vector-pixel-art-sky-background-clouds-blue-sky-bit-game-level-vector-2465768631.jpg' alt='Sky Pixel Art Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2465768631/display_1500/stock-vector-pixel-art-sky-background-clouds-blue-sky-bit-game-level-vector-2465768631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Sky Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/877/673/non_2x/pixel-art-sky-background-with-clouds-cloudy-blue-sky-for-8bit-game-on-white-background-vector.jpg' alt='Pixel Sky Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/877/673/non_2x/pixel-art-sky-background-with-clouds-cloudy-blue-sky-for-8bit-game-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sky with Clouds Background Pixel Art Set - CraftPix.net">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2022/10/Free-Sky-with-Clouds-Background-Pixel-Art8.jpg' alt='Free Sky with Clouds Background Pixel Art Set - CraftPix.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2022/10/Free-Sky-with-Clouds-Background-Pixel-Art8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Skies - Pixel art Sky Background pack by Digital Moons">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvMTA2NjgxNy82MTE2NTQ3LnBuZw==/original/7mR14g.png' alt='Pixel Skies - Pixel art Sky Background pack by Digital Moons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Moons - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvMTA2NjgxNy82MTE2NTQ3LnBuZw==/original/7mR14g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

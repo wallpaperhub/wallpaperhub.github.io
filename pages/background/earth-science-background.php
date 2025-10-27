@@ -1,0 +1,129 @@
+<title>Understanding Earth Science: Key Insights</title>
+                    <meta name="description" content="Explore the fundamentals of earth science, including its major disciplines and their significance in understanding our planet's systems. Dive into studies of geology, meteorology, and environmental science, and discover how these fields help address pressing global issues like climate change and resource management.">
+                    <meta name="keywords" content="earth science background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/earth-science-background">
+                            <span itemprop="name">earth science background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Earth Science: Key Insights</h1>
+                <p>Earth science encompasses the study of the Earth's structure, processes, and the interactions within its systems, including the atmosphere, hydrosphere, biosphere, and geosphere. This field investigates phenomena such as weather patterns, climate change, geological formations, and natural resources, playing a crucial role in understanding our planet's past, present, and future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Earth Science Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-science-1600-x-1200-wallpaper-xhw6bntaj6l0f5r4.jpg' alt='100+] Earth Science Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-science-1600-x-1200-wallpaper-xhw6bntaj6l0f5r4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Backgrounds for Educators | MyNASAData">
+                                <img itemprop="contentUrl url" src='https://mynasadata.larc.nasa.gov/sites/default/files/2021-04/My%20NASA%20Data%20Background%201.png' alt='Virtual Backgrounds for Educators | MyNASAData'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My NASA Data - NASA" />
+                                </span>
+                                <a href='https://mynasadata.larc.nasa.gov/sites/default/files/2021-04/My%20NASA%20Data%20Background%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="136,646 Earth Science Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-science-hands-touching-earth-circle-global-network-connection-data-exchanges-worldwide-city-sunset-background-132116924.jpg' alt='136,646 Earth Science Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-science-hands-touching-earth-circle-global-network-connection-data-exchanges-worldwide-city-sunset-background-132116924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prentice Hall Earth Science: Online Textbook Help Course - Online ...">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/course-image/prentice-hall-earth-science-help_131575_large.jpg' alt='Prentice Hall Earth Science: Online Textbook Help Course - Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/course-image/prentice-hall-earth-science-help_131575_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Science Projects Division - NASA">
+                                <img itemprop="contentUrl url" src='https://www.nasa.gov/wp-content/uploads/2023/10/earthbg-original.jpeg?w=1536' alt='Earth Science Projects Division - NASA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA" />
+                                </span>
+                                <a href='https://www.nasa.gov/wp-content/uploads/2023/10/earthbg-original.jpeg?w=1536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Science Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/199/965/small_2x/abstract-glowing-sphere-shape-earth-3d-concept-planet-science-and-technology-background-photo.jpg' alt='Earth Science Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/199/965/small_2x/abstract-glowing-sphere-shape-earth-3d-concept-planet-science-and-technology-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Of Earth Science And Technology">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/50/2b/20502b0508ae56bd6306bb5f673365b8.jpg' alt='Line Of Earth Science And Technology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/50/2b/20502b0508ae56bd6306bb5f673365b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Earth and symbols on blue background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/earth-symbols-blue-background_24908-73896.jpg' alt='Premium Vector | Earth and symbols on blue background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/earth-symbols-blue-background_24908-73896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Business Blue Style Glowing Earth Science And Technology ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20190226/business-blue-style-glowing-earth-science-and-technology-background_1866329.jpg!sw800' alt='Business Blue Style Glowing Earth Science And Technology ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20190226/business-blue-style-glowing-earth-science-and-technology-background_1866329.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Science Images – Browse 1,884,712 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/01/46/76/360_F_201467659_s596TuJmCWHNhcu9ys3MeS6j69hyeT0M.jpg' alt='Earth Science Images – Browse 1,884,712 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/01/46/76/360_F_201467659_s596TuJmCWHNhcu9ys3MeS6j69hyeT0M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

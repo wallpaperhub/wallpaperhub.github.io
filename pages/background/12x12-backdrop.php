@@ -1,0 +1,129 @@
+<title>Stunning 12x12 Backdrops for Any Event</title>
+                    <meta name="description" content="Discover the perfect 12x12 backdrops for your events! Ideal for photography, weddings, and celebrations, our high-quality designs elevate any setting. Choose from fabric, vinyl, or paper options to find your perfect match. Shop now for vibrant backdrops that make memories last!">
+                    <meta name="keywords" content="12x12 backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/12x12-backdrop">
+                            <span itemprop="name">12x12 backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 12x12 Backdrops for Any Event</h1>
+                <p>A 12x12 backdrop is perfect for various events, from parties and weddings to professional photo shoots. Its large size offers ample space for creative designs, allowing for stunning visuals that can transform any setting. Choose from various materials like fabric, vinyl, or paper to suit your theme and elevate your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Panels 12x12 in Round Payette Sequin Wall Party Backdrop">
+                                <img itemprop="contentUrl url" src='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-round-payette-sequin-wall-party-backdrop-bkdp-pan01-rnd-gold-30601097707568_800x800.jpg?v=1664521435' alt='10 Panels 12x12 in Round Payette Sequin Wall Party Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balsa Circle" />
+                                </span>
+                                <a href='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-round-payette-sequin-wall-party-backdrop-bkdp-pan01-rnd-gold-30601097707568_800x800.jpg?v=1664521435' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BalsaCircle 10 Panels Gold 12x12" Square Payette Sequin Wall Backdrop Party  Wedding Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/BalsaCircle-10-Panels-Gold-12x12-Square-Payette-Sequin-Wall-Backdrop-Party-Wedding-Decorations_f32f3167-edc1-402b-b1ad-2b7ed44d3e1c.900d49ece1d70636436daf217d200da4.jpeg' alt='BalsaCircle 10 Panels Gold 12x12" Square Payette Sequin Wall Backdrop Party  Wedding Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/BalsaCircle-10-Panels-Gold-12x12-Square-Payette-Sequin-Wall-Backdrop-Party-Wedding-Decorations_f32f3167-edc1-402b-b1ad-2b7ed44d3e1c.900d49ece1d70636436daf217d200da4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Panels 12x12 in Square Payette Sequin Wall Party Backdrop">
+                                <img itemprop="contentUrl url" src='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-square-payette-sequin-wall-party-backdrop-30692456693808_800x800.jpg?v=1665457266' alt='10 Panels 12x12 in Square Payette Sequin Wall Party Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balsa Circle" />
+                                </span>
+                                <a href='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-square-payette-sequin-wall-party-backdrop-30692456693808_800x800.jpg?v=1665457266' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Savage 12x12 Background Stand : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61kQnxCvzaL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Savage 12x12 Background Stand : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61kQnxCvzaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BalsaCircle 10 Panels Blush 12x12" Square Payette Sequin Wall Backdrop  Party Wedding Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/43b5faf3-7a0a-4e19-aa69-10ad83dd9b45.b85901a6d022207c51cfc4a0494c443e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='BalsaCircle 10 Panels Blush 12x12" Square Payette Sequin Wall Backdrop  Party Wedding Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/43b5faf3-7a0a-4e19-aa69-10ad83dd9b45.b85901a6d022207c51cfc4a0494c443e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Savage 12x12 Background Stand : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media/sc/58a96bb8-3029-4e62-b60c-032952829056.__CR0,0,300,300_PT0_SX300_V1___.jpg' alt='Amazon.com : Savage 12x12 Background Stand : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media/sc/58a96bb8-3029-4e62-b60c-032952829056.__CR0,0,300,300_PT0_SX300_V1___.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Panels 12x12 in Square Payette Sequin Wall Party Backdrop">
+                                <img itemprop="contentUrl url" src='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-square-payette-sequin-wall-party-backdrop-30692459282480_800x800.jpg?v=1665456538' alt='10 Panels 12x12 in Square Payette Sequin Wall Party Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balsa Circle" />
+                                </span>
+                                <a href='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-square-payette-sequin-wall-party-backdrop-30692459282480_800x800.jpg?v=1665456538' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Hot Pink 12"x12" Shimmer Sequins Wall Panels "clear Back" for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23751431/r/il/fa12f8/5643843848/il_570xN.5643843848_lxsw.jpg' alt='36 Hot Pink 12"x12" Shimmer Sequins Wall Panels "clear Back" for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23751431/r/il/fa12f8/5643843848/il_570xN.5643843848_lxsw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Panels 12x12 in Round Payette Sequin Wall Party Backdrop">
+                                <img itemprop="contentUrl url" src='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-round-payette-sequin-wall-party-backdrop-30601106096176_800x800.jpg?v=1664521624' alt='10 Panels 12x12 in Round Payette Sequin Wall Party Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Balsa Circle" />
+                                </span>
+                                <a href='https://balsacircle.com/cdn/shop/products/balsa-circle-wall-panels-10-panels-12x12-in-round-payette-sequin-wall-party-backdrop-30601106096176_800x800.jpg?v=1664521624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8'x12' Step and Repeat Backdrop">
+                                <img itemprop="contentUrl url" src='https://stepandrepeatla.com/wp-content/uploads/2015/07/Product-8x12-Salon-pipe-and-base-backdrop-1.jpg' alt='8'x12' Step and Repeat Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Step and Repeat LA" />
+                                </span>
+                                <a href='https://stepandrepeatla.com/wp-content/uploads/2015/07/Product-8x12-Salon-pipe-and-base-backdrop-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ultimate Pixel 3XL Wallpapers: A Must-Have Collection!</title>
+                    <meta name="description" content="Explore a curated selection of the best Pixel 3XL wallpapers. Discover vibrant, captivating designs to personalize your device effortlessly. Perfect for every style and mood! Download now to refresh your home screen and enjoy a fresh look every day.">
+                    <meta name="keywords" content="pixel 3xl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-3xl-wallpaper">
+                            <span itemprop="name">pixel 3xl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Pixel 3XL Wallpapers: A Must-Have Collection!</h1>
+                <p>Discover stunning Pixel 3XL wallpapers that elevate your phone's appearance. From breathtaking landscapes to vibrant abstract designs, our collection enhances your device's aesthetic appeal. Browse through a variety of options tailored for every mood and style. Refresh your home screen and make a statement with the perfect wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pixel 3 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/219/888/HD-wallpaper-pixel-3-google-pixel-3-pixel-3-xl-sound-wiz-light-blur-pink-thumbnail.jpg' alt='HD pixel 3 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/219/888/HD-wallpaper-pixel-3-google-pixel-3-pixel-3-xl-sound-wiz-light-blur-pink-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pixel 3xl Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3xl-background-1ip65paztitgp95u.jpg' alt='200+] Pixel 3xl Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3xl-background-1ip65paztitgp95u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 3xl minimal, abstract, black and white, google, minimalism ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/868/318/HD-wallpaper-pixel-3xl-minimal-abstract-black-and-white-google-minimalism-monochrome.jpg' alt='Pixel 3xl minimal, abstract, black and white, google, minimalism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/868/318/HD-wallpaper-pixel-3xl-minimal-abstract-black-and-white-google-minimalism-monochrome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 3 and 3 XL Live Wallpapers Available for Download">
+                                <img itemprop="contentUrl url" src='https://www.droid-life.com/wp-content/uploads/2018/09/Download-Pixel-3-Wallpapers-1200x1200-cropped.jpg' alt='Pixel 3 and 3 XL Live Wallpapers Available for Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Droid Life" />
+                                </span>
+                                <a href='https://www.droid-life.com/wp-content/uploads/2018/09/Download-Pixel-3-Wallpapers-1200x1200-cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 3XL Live Wallpaper nostalgia : r/pixel_phones">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pixel-3xl-live-wallpaper-nostalgia-v0-xwgw9cpsab0b1.png?auto=webp&s=d56cc0a01ea0887352c168986cc4f649ec10533c' alt='Pixel 3XL Live Wallpaper nostalgia : r/pixel_phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pixel-3xl-live-wallpaper-nostalgia-v0-xwgw9cpsab0b1.png?auto=webp&s=d56cc0a01ea0887352c168986cc4f649ec10533c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Google Pixel 3xl Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/google-pixel-3xl-leaked-beach-waves-crashing-from-above-13-10-2024-1728852030-hd-wallpaper.png' alt='Most Popular Google Pixel 3xl Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/google-pixel-3xl-leaked-beach-waves-crashing-from-above-13-10-2024-1728852030-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pixel 3 Xl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pixel-3-xl-krilfzlf8we66cnu.jpg' alt='100+] Pixel 3 Xl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pixel-3-xl-krilfzlf8we66cnu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD google pixel 3 xl wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/148/442/HD-wallpaper-pixel-3-xl-edge-glow-google-pixel-3-xl-thumbnail.jpg' alt='HD google pixel 3 xl wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/148/442/HD-wallpaper-pixel-3-xl-edge-glow-google-pixel-3-xl-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pixel 3xl Oled Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3xl-oled-background-oc0k5d0styfn7soq.jpg' alt='100+] Pixel 3xl Oled Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3xl-oled-background-oc0k5d0styfn7soq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 3xl, black and white, google, monochrome, pixel, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/775/971/HD-wallpaper-pixel-3xl-black-and-white-google-monochrome-pixel.jpg' alt='Pixel 3xl, black and white, google, monochrome, pixel, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/775/971/HD-wallpaper-pixel-3xl-black-and-white-google-monochrome-pixel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

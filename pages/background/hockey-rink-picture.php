@@ -1,0 +1,129 @@
+<title>Stunning Hockey Rink Images: Capture the Ice!</title>
+                    <meta name="description" content="Discover captivating hockey rink pictures that showcase the excitement of the sport. Perfect for fans and players alike, these images capture the energy and atmosphere that make hockey unforgettable. Explore the rink and relive the thrill of the game with every snapshot!">
+                    <meta name="keywords" content="hockey rink picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hockey-rink-picture">
+                            <span itemprop="name">hockey rink picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hockey Rink Images: Capture the Ice!</h1>
+                <p>Experience the thrill of the ice with an iconic hockey rink picture! Capture the essence of the game, featuring glistening ice, vibrant team colors, and the enthusiastic energy of fans. Whether you're a player or a spectator, this captivating image embodies the spirit of hockey, evoking memories of unforgettable moments on the rink.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice hockey rink - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dd/HockeyRink-Zones.png' alt='Ice hockey rink - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dd/HockeyRink-Zones.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice hockey rink: why the US rink is smaller than the EU rink">
+                                <img itemprop="contentUrl url" src='https://static.owayo-cdn.com/newhp/img/magazin/hockeyrinks/ice-hockey-rink-670px.jpg' alt='Ice hockey rink: why the US rink is smaller than the EU rink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="owayo" />
+                                </span>
+                                <a href='https://static.owayo-cdn.com/newhp/img/magazin/hockeyrinks/ice-hockey-rink-670px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hobey Baker Memorial Rink - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Inside_the_Hobey_Baker_Memorial_Rink.jpg/640px-Inside_the_Hobey_Baker_Memorial_Rink.jpg' alt='Hobey Baker Memorial Rink - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Inside_the_Hobey_Baker_Memorial_Rink.jpg/640px-Inside_the_Hobey_Baker_Memorial_Rink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laeacco 7x5ft Hockey Stadium Backdrop Vinyl Photography Background Ice Rink  Stage Lights Shiny Haloes Stadium Spotlight School Sports Meeting Event ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61lo8QevtJL._AC_UF894,1000_QL80_.jpg' alt='Laeacco 7x5ft Hockey Stadium Backdrop Vinyl Photography Background Ice Rink  Stage Lights Shiny Haloes Stadium Spotlight School Sports Meeting Event ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61lo8QevtJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hobey Baker Rink Visitor Guide - Princeton University Athletics">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fprinceton.sidearmsports.com%2Fimages%2F2021%2F12%2F29%2F1920_Rink_Level.png&width=480&type=webp' alt='Hobey Baker Rink Visitor Guide - Princeton University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Princeton University Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fprinceton.sidearmsports.com%2Fimages%2F2021%2F12%2F29%2F1920_Rink_Level.png&width=480&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hockey Rink Overhead Stock Illustrations – 42 Hockey Rink Overhead ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ice-hockey-rink-28598095.jpg' alt='Hockey Rink Overhead Stock Illustrations – 42 Hockey Rink Overhead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ice-hockey-rink-28598095.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,342 Nhl Ice Rink Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ice-hockey-rink-illuminated-indoor-600w-1548089816.jpg' alt='2,342 Nhl Ice Rink Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ice-hockey-rink-illuminated-indoor-600w-1548089816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Hockey Rink Glass? | Athletica Sport Systems Inc">
+                                <img itemprop="contentUrl url" src='https://www.athletica.com/wp-content/uploads/2019/06/What-is-Hockey-Rink-Glass.jpg' alt='What is Hockey Rink Glass? | Athletica Sport Systems Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athletica Sport Systems Inc" />
+                                </span>
+                                <a href='https://www.athletica.com/wp-content/uploads/2019/06/What-is-Hockey-Rink-Glass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hockey Rink Dimensions- Everything You Need To Know">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/60ad248662904c73520f0a00/66e068d0a6a45350730abac8_6359848500a76648c67a8cdb_nhl%2520sized%2520ice%2520rink.png' alt='Hockey Rink Dimensions- Everything You Need To Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play Hockey in Europe" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/60ad248662904c73520f0a00/66e068d0a6a45350730abac8_6359848500a76648c67a8cdb_nhl%2520sized%2520ice%2520rink.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hobey Baker Rink - Facilities - Princeton University Athletics">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fprinceton.sidearmsports.com%2Fimages%2F2019%2F1%2F9%2FHobeyBakerRink_7D2_6832.jpg&height=300&type=webp' alt='Hobey Baker Rink - Facilities - Princeton University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Princeton University Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fprinceton.sidearmsports.com%2Fimages%2F2019%2F1%2F9%2FHobeyBakerRink_7D2_6832.jpg&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

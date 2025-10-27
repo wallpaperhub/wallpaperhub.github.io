@@ -1,0 +1,129 @@
+<title>Stylish Philadelphia Phillies Wallpaper for Fans</title>
+                    <meta name="description" content="Discover a variety of Philadelphia Phillies wallpaper designs to showcase your team pride! Perfect for any space, these vibrant patterns will transform your home or office into a baseball haven. Shop now for unique styles that celebrate your love for the Phillies in a fun and decorative way!">
+                    <meta name="keywords" content="phillies wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/phillies-wallpaper">
+                            <span itemprop="name">phillies wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Philadelphia Phillies Wallpaper for Fans</h1>
+                <p>Enhance your space with vibrant Phillies wallpaper! Perfect for fans, these designs feature the iconic team's colors and logos, bringing the spirit of the game into your home. Whether you're decorating a man cave, bedroom, or office, our selection offers something for every true Philadelphia Phillies enthusiast. Enjoy a winning look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper walk-off grand slam mobile wallpaper : r/phillies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3nu4j3957tg31.jpg?width=640&crop=smart&auto=webp&s=955ed1570bad9464d342fdb75e9a72b2db23701d' alt='Bryce Harper walk-off grand slam mobile wallpaper : r/phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3nu4j3957tg31.jpg?width=640&crop=smart&auto=webp&s=955ed1570bad9464d342fdb75e9a72b2db23701d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harper 'Staredown' - made into a mobile wallpaper! Hang it in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/harper-staredown-made-into-a-mobile-wallpaper-hang-it-in-v0-oplz5llfqstb1.jpg?width=640&crop=smart&auto=webp&s=984737717ea059c65e351b31085bacd47f7dcbb6' alt='Harper 'Staredown' - made into a mobile wallpaper! Hang it in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/harper-staredown-made-into-a-mobile-wallpaper-hang-it-in-v0-oplz5llfqstb1.jpg?width=640&crop=smart&auto=webp&s=984737717ea059c65e351b31085bacd47f7dcbb6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a Phillies wallpaper I made if any are interested  ⚾️ : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lu0syaotnc171.jpg' alt='Here's a Phillies wallpaper I made if any are interested  ⚾️ : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lu0syaotnc171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/ae/2b/18ae2bdc7c327708835b62d0d856f36e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/ae/2b/18ae2bdc7c327708835b62d0d856f36e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Harper ⚾ Philadelphia Phillies Wallpaper ♥️   MLB ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/0a/c0/c60ac043f88d72eeeff121aa55361406.jpg' alt='Bryce Harper ⚾ Philadelphia Phillies Wallpaper ♥️   MLB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/0a/c0/c60ac043f88d72eeeff121aa55361406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies Alt Wallpaper [iOS4 Retina Display] | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3350/3536107576_1fd4fe46b7_z.jpg' alt='Philadelphia Phillies Alt Wallpaper [iOS4 Retina Display] | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3350/3536107576_1fd4fe46b7_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted to share my phone wallpaper I created. Fits perfect on an ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/drmmogibzwxc1.jpeg' alt='Wanted to share my phone wallpaper I created. Fits perfect on an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/drmmogibzwxc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies Main Players Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/philadelphia-phillies-main-players-pi4d2gmfpqnvd3og.jpg' alt='Philadelphia Phillies Main Players Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/philadelphia-phillies-main-players-pi4d2gmfpqnvd3og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies updated... - Philadelphia Phillies">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10166616204510492' alt='Philadelphia Phillies updated... - Philadelphia Phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philadelphia Phillies updated... - Philadelphia Phillies" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10166616204510492' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies on X: "Crossing the pond #RingTheBell ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GPWhupvWcAAla3A.jpg:large' alt='Philadelphia Phillies on X: "Crossing the pond #RingTheBell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GPWhupvWcAAla3A.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

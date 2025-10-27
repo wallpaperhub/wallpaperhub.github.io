@@ -1,0 +1,129 @@
+<title>Elegant Gold and White Wallpaper for a Timeless Look</title>
+                    <meta name="description" content="Discover the beauty of gold and white wallpaper, blending elegance and versatility for any space. Perfect for creating a luxurious ambiance in your home, this stunning wallpaper adds a touch of glamour and sophistication. Transform your interiors with our exquisite collection today!">
+                    <meta name="keywords" content="gold and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/gold-and-white-wallpaper">
+                            <span itemprop="name">gold and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold and White Wallpaper for a Timeless Look</h1>
+                <p>Gold and white wallpaper offers a timeless elegance, perfect for enhancing any room's aesthetic. The luxurious tones create a serene atmosphere while adding a touch of glamour. Ideal for living rooms, dining areas, or bedrooms, this wallpaper can seamlessly blend with various decor styles, from modern to classic, making it a versatile choice for homeowners.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manhattan Modern Wallpaper in White & Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' alt='Manhattan Modern Wallpaper in White & Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/3_Manhattan-Modern_white-gold_ILW6505_Roomset_Detail_WEB.jpg?v=1704982500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_570xN.4333326735_g6t4.jpg' alt='Golden Texture Wallpaper White & Gold Geometric Wall Mural Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/53d6ef/4333326735/il_570xN.4333326735_g6t4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8122jyF9V0L._AC_UF894,1000_QL80_.jpg' alt='Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8122jyF9V0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Cream White and Gold Floral Wallpaper Peel and Stick Wallpaper  17.7"x118.1" Vintage Floral Removable Self Adhesive Wall Paper for Bedroom  Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Gold and White Marble Wallpaper Mural, Custom Sizes ...">
+                                <img itemprop="contentUrl url" src='http://maughons.com/cdn/shop/products/beautiful-gold-and-white-marble-wallpaper-mural-custom-sizes-available-wall-murals-maughons-waterproof-canvas-298434_600x600.jpg?v=1662556703' alt='Beautiful Gold and White Marble Wallpaper Mural, Custom Sizes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='http://maughons.com/cdn/shop/products/beautiful-gold-and-white-marble-wallpaper-mural-custom-sizes-available-wall-murals-maughons-waterproof-canvas-298434_600x600.jpg?v=1662556703' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornamenta 2 Off White/Gold Intricate Damask Design Non-Pasted Wallpaper  Roll (Cover 57.75sq. ft.) 95514 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bb6ac03b-08c6-4445-8860-a2b4051ab3e3/svn/wallpaper-rolls-95514-64_1000.jpg' alt='Ornamenta 2 Off White/Gold Intricate Damask Design Non-Pasted Wallpaper  Roll (Cover 57.75sq. ft.) 95514 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bb6ac03b-08c6-4445-8860-a2b4051ab3e3/svn/wallpaper-rolls-95514-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bauhaus Geometric Wallpaper in Cream and Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/3-BauhausGeometric_CreamGold_ILW980211_Roomset_Detail_WEB.webp?crop=center&height=850&v=1705592908&width=850' alt='Bauhaus Geometric Wallpaper in Cream and Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/3-BauhausGeometric_CreamGold_ILW980211_Roomset_Detail_WEB.webp?crop=center&height=850&v=1705592908&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Gold Sharp Geometric Wallpaper R6315">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/90705.jpg?v=1736262369&width=1024' alt='White & Gold Sharp Geometric Wallpaper R6315'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/90705.jpg?v=1736262369&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and White Minimalist Geometric Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/230691/Gold-and-White-Minimalist-Geometric-Wallpaper.jpg?v=638165434745630000' alt='Gold and White Minimalist Geometric Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/230691/Gold-and-White-Minimalist-Geometric-Wallpaper.jpg?v=638165434745630000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux gold geometric design removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Faux-gold-print-wallpaper-interior-2.jpg?v=1595363913' alt='Faux gold geometric design removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Faux-gold-print-wallpaper-interior-2.jpg?v=1595363913' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Black and White Sports Wallpaper for Every Fan</title>
+                    <meta name="description" content="Discover the timeless appeal of black and white sports wallpaper. Perfect for fans and decorators alike, our unique designs showcase the energy of sports while maintaining a sophisticated look. Enhance your space effortlessly with these sleek, eye-catching patterns. Perfect for any room or office!">
+                    <meta name="keywords" content="black and white sports wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-sports-wallpaper">
+                            <span itemprop="name">black and white sports wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black and White Sports Wallpaper for Every Fan</h1>
+                <p>Transform your space with stunning black and white sports wallpaper that adds a classic touch to any room. These striking designs feature iconic moments and dynamic athletes, capturing the essence of sport in monochrome. Perfect for sports enthusiasts or anyone looking to create a stylish atmosphere, these wallpapers combine elegance and passion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player, athlete in helmet with ball on stadium ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/33/10/23/1000_F_233102329_7WHOhl5MWOGQHljxOr5aRp1CxJuIbRcY.jpg' alt='American football player, athlete in helmet with ball on stadium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/33/10/23/1000_F_233102329_7WHOhl5MWOGQHljxOr5aRp1CxJuIbRcY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Team sports Photography art prints For Sale ...">
+                                <img itemprop="contentUrl url" src='https://cdn.artphotolimited.com/images/59888232b0ba742a2efde168/300x300/un-dunk-memorable-par-la-legende-michael-jordan-en-1992.jpg' alt='Black and White Team sports Photography art prints For Sale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtPhotoLimited" />
+                                </span>
+                                <a href='https://cdn.artphotolimited.com/images/59888232b0ba742a2efde168/300x300/un-dunk-memorable-par-la-legende-michael-jordan-en-1992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109,800+ Sports Black And White Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/143920993/photo/dramatic-swing.jpg?s=612x612&w=0&k=20&c=eTfoJLHHmzn5xJzFmzvsgheEYBMu6gAcnu5dPkOeSP4=' alt='109,800+ Sports Black And White Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/143920993/photo/dramatic-swing.jpg?s=612x612&w=0&k=20&c=eTfoJLHHmzn5xJzFmzvsgheEYBMu6gAcnu5dPkOeSP4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Black And White Football Player Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1955420038/photo/american-football-sportsman-player-in-helmet-on-stadium-sport-wallpaper.jpg?s=612x612&w=0&k=20&c=XX6wjEk6cqIZKJ4aSF5AXjsaefw-vJbIYH3TGWLjtaw=' alt='1,100+ Black And White Football Player Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1955420038/photo/american-football-sportsman-player-in-helmet-on-stadium-sport-wallpaper.jpg?s=612x612&w=0&k=20&c=XX6wjEk6cqIZKJ4aSF5AXjsaefw-vJbIYH3TGWLjtaw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper black and white, sport, motivation, workout for mobile ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/3/df/motivaciya-sport-trenirovki.webp' alt='Wallpaper black and white, sport, motivation, workout for mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/3/df/motivaciya-sport-trenirovki.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playing Wallpaper Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/604696115/display_1500/stock-vector-abstract-seamless-pattern-for-boys-football-pattern-sport-urban-pattern-with-ball-sport-604696115.jpg' alt='Playing Wallpaper Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/604696115/display_1500/stock-vector-abstract-seamless-pattern-for-boys-football-pattern-sport-urban-pattern-with-ball-sport-604696115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/66/c0/4a66c084be5359969f92b1be5bb624ae.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/66/c0/4a66c084be5359969f92b1be5bb624ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player, athlete in helmet with ball on stadium ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/33/10/23/1000_F_233102372_H1NvHipEcbvQLwNhDGoREEvdkrI6A0uH.jpg' alt='American football player, athlete in helmet with ball on stadium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/33/10/23/1000_F_233102372_H1NvHipEcbvQLwNhDGoREEvdkrI6A0uH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cathedral of Football">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/85467/cathedral-of-football.jpg?h=699&q=85' alt='Cathedral of Football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/85467/cathedral-of-football.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letterman (Black) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/vintage-sports_Mockup2.jpg?v=1715990898&width=2048' alt='Letterman (Black) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/vintage-sports_Mockup2.jpg?v=1715990898&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

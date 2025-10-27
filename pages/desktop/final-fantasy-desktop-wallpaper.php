@@ -1,0 +1,129 @@
+<title>Stunning Final Fantasy Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an amazing collection of Final Fantasy desktop wallpapers! Level up your gaming experience with high-quality images of your favorite characters and epic scenes. Perfect for fans seeking inspiration and a personal touch on their screens! Download now and transform your desktop today!">
+                    <meta name="keywords" content="final fantasy desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/final-fantasy-desktop-wallpaper">
+                            <span itemprop="name">final fantasy desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Final Fantasy Desktop Wallpapers for Gamers</h1>
+                <p>Explore the enchanting world of Final Fantasy with stunning desktop wallpapers that transport you to epic landscapes and iconic characters. Choose from vibrant artwork featuring heroes like Cloud, Tifa, and Noctis, or immerse yourself in breathtaking scenes from your favorite game. Customize your desktop with high-resolution images that inspire and excite!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free FINAL FANTASY VII REMAKE Zoom backgrounds available to ...">
+                                <img itemprop="contentUrl url" src='https://static.square-enix-games.com/ffviir-backdrops/ffviir-zoom-tifa.jpg' alt='Free FINAL FANTASY VII REMAKE Zoom backgrounds available to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Square Enix" />
+                                </span>
+                                <a href='https://static.square-enix-games.com/ffviir-backdrops/ffviir-zoom-tifa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Posting Random Final Fantasy Wallpaper [Day9] : r/FinalFantasy">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/itrerpjro70a1.png' alt='Posting Random Final Fantasy Wallpaper [Day9] : r/FinalFantasy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/itrerpjro70a1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Crisis Core Final Fantasy VII Reunion Key Art Wallpaper In ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2erk1etovpn91.png?width=1080&crop=smart&auto=webp&s=3e0ae5cec00c27ba4de3f60a0409fb4b59c19f88' alt='4k Crisis Core Final Fantasy VII Reunion Key Art Wallpaper In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2erk1etovpn91.png?width=1080&crop=smart&auto=webp&s=3e0ae5cec00c27ba4de3f60a0409fb4b59c19f88' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Rebirth Key Art 4K Wallpaper (Adobe AI) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zatcono1ky0c1.jpg' alt='Final Fantasy VII Rebirth Key Art 4K Wallpaper (Adobe AI) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zatcono1ky0c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper Final Fantasy Final Fantasy Vii: Crisis Core ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/desktop-wallpaper-final-fantasy-final-fantasy-vii-crisis-core-7pd1807vmn59tbmz.jpg' alt='Desktop Wallpaper Final Fantasy Final Fantasy Vii: Crisis Core ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/desktop-wallpaper-final-fantasy-final-fantasy-vii-crisis-core-7pd1807vmn59tbmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2016/02/Final-Fantasy-XV-1.jpg' alt='Final Fantasy XV Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2016/02/Final-Fantasy-XV-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XVI Epic Heroes HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/133/1337022.jpeg' alt='Final Fantasy XVI Epic Heroes HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/133/1337022.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy 7 Remake Wallpaper - 4K - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2017/03/17-03-10-07-59_0_final_fantasy_7_remake.jpg' alt='Final Fantasy 7 Remake Wallpaper - 4K - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2017/03/17-03-10-07-59_0_final_fantasy_7_remake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Final Fantasy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/final-fantasy-p0ann1lgaeqaebzu.jpg' alt='200+] Final Fantasy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/final-fantasy-p0ann1lgaeqaebzu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy wallpapers for desktop">
+                                <img itemprop="contentUrl url" src='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/final-fantasy-wallpaper-7.jpg' alt='Final Fantasy wallpapers for desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pocket Tactics" />
+                                </span>
+                                <a href='https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/final-fantasy-wallpaper-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Black Minimalist iPhone Wallpapers</title>
+                    <meta name="description" content="Explore our collection of black minimalist wallpapers for iPhones. Perfect for a sleek, modern look, these designs offer simplicity and elegance, enhancing your device's beauty. Ideal for minimalists and style lovers alike. Download your favorite wallpaper now and give your phone a fresh aesthetic!">
+                    <meta name="keywords" content="black minimalist wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/black-minimalist-wallpaper-iphone">
+                            <span itemprop="name">black minimalist wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Minimalist iPhone Wallpapers</h1>
+                <p>Discover the elegance of black minimalist wallpaper for your iPhone. Transform your device with sleek designs that enhance your aesthetic while maintaining a clean and sophisticated look. Perfect for those who appreciate simplicity and style. Browse through a variety of options to elevate your iPhone’s appearance today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black minimalist wallpaper | Fondos de pantalla lol, Ideas de ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/36/dd/e436dd35ffdc0d74c7760ee871d6c748.jpg' alt='Black minimalist wallpaper | Fondos de pantalla lol, Ideas de ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/36/dd/e436dd35ffdc0d74c7760ee871d6c748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Clouds Minimalist Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/artistic-clouds-minimalist-dark-iphone-xwbqy6zbkt3hardd.jpg' alt='Artistic Clouds Minimalist Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/artistic-clouds-minimalist-dark-iphone-xwbqy6zbkt3hardd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Minimalist Waves iPhone Wallpaper / Abstract / Phone Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36437479/r/il/24cddf/4084689228/il_570xN.4084689228_8qdb.jpg' alt='Dark Minimalist Waves iPhone Wallpaper / Abstract / Phone Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36437479/r/il/24cddf/4084689228/il_570xN.4084689228_8qdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark hole black minimal pattern background iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/69/c2/9d69c2f5ba28fa951133181bd8887451.jpg' alt='Dark hole black minimal pattern background iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/69/c2/9d69c2f5ba28fa951133181bd8887451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Moon Minimal Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/orange-moon-minimal-dark-iphone-0jozlszdcy03jpfv.jpg' alt='Orange Moon Minimal Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/orange-moon-minimal-dark-iphone-0jozlszdcy03jpfv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable black wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE0woeCCD0/1/0/900w/canva-black-minimalist-quotes-phone-wallpaper-fDIL7WlWU7k.jpg' alt='Free and customizable black wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE0woeCCD0/1/0/900w/canva-black-minimalist-quotes-phone-wallpaper-fDIL7WlWU7k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black, 929, abstract, dark, minimal, simple, sleek, theme ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/335/544/HD-wallpaper-elegant-black-929-abstract-dark-minimal-simple-sleek-theme.jpg' alt='Elegant Black, 929, abstract, dark, minimal, simple, sleek, theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/335/544/HD-wallpaper-elegant-black-929-abstract-dark-minimal-simple-sleek-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper – iPhone/Android | ONE PIXEL UNLIMITED | Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cf/b9/23/cfb923d4cc5df9733213e93b2b6f6c2f.jpg' alt='Wallpaper – iPhone/Android | ONE PIXEL UNLIMITED | Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cf/b9/23/cfb923d4cc5df9733213e93b2b6f6c2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' alt='100+] Aesthetic Minimalist Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-minimalist-iphone-wbqih46njcd111yz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Waves Minimal Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gradient-waves-minimal-dark-iphone-yg5bu0gnouu1fe63.jpg' alt='Gradient Waves Minimal Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gradient-waves-minimal-dark-iphone-yg5bu0gnouu1fe63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

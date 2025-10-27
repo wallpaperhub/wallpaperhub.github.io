@@ -1,0 +1,129 @@
+<title>Vintage Santa Wallpaper: Timeless Holiday Decor</title>
+                    <meta name="description" content="Discover the charm of vintage Santa wallpaper, perfect for creating a festive ambiance this holiday season. Transform your home with classic, whimsical designs that evoke a sense of nostalgia and holiday cheer. Ideal for all ages, embrace the spirit of Christmas with these timeless decorations.">
+                    <meta name="keywords" content="vintage santa wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-santa-wallpaper">
+                            <span itemprop="name">vintage santa wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Santa Wallpaper: Timeless Holiday Decor</h1>
+                <p>Vintage Santa wallpaper brings a nostalgic charm to your holiday decor, featuring classic images of jolly St. Nick in timeless illustrations. Perfect for creating a festive ambiance in any room, this wallpaper can transform ordinary spaces into a winter wonderland. Embrace the spirit of Christmas with whimsical designs that evoke warmth and cheer, ideal for all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Grade Wallpaper 27ft x 2ft - Vintage Christmas Ivory ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6159-qOw81L._AC_UF894,1000_QL80_.jpg' alt='Commercial Grade Wallpaper 27ft x 2ft - Vintage Christmas Ivory ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6159-qOw81L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Vintage Santa Clause ideas | vintage santas, vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/af/31/f4/af31f4cd55871b769643c3893a52b009.jpg' alt='900+ Vintage Santa Clause ideas | vintage santas, vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/af/31/f4/af31f4cd55871b769643c3893a52b009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper Christmas | Vintage Christmas illustration with Santa Claus">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-noel-illustration-vintage-de-noel-avec-le-pere-noel_f1aa9b35-a629-453f-94b4-7e38dab5bfe1.png?v=1734105730' alt='Mural Wallpaper Christmas | Vintage Christmas illustration with Santa Claus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-noel-illustration-vintage-de-noel-avec-le-pere-noel_f1aa9b35-a629-453f-94b4-7e38dab5bfe1.png?v=1734105730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Santa Claus Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13892888/p/f/l/rbo6EClMSVSrk2OPHnGJtcFTmWyCQMTyuDHVqdde11rbmoYamck33OU-Xg/Vintage%20Santa%20and%20Christmas%20Greenery%20Damask%20Style.jpg' alt='Vintage Santa Claus Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13892888/p/f/l/rbo6EClMSVSrk2OPHnGJtcFTmWyCQMTyuDHVqdde11rbmoYamck33OU-Xg/Vintage%20Santa%20and%20Christmas%20Greenery%20Damask%20Style.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,651 Vintage Santa Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vintage-santa-claus-spreading-joy-christmas-presents-snowy-background-festive-holiday-scene-christmas-celebration-concept-337884731.jpg' alt='84,651 Vintage Santa Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vintage-santa-claus-spreading-joy-christmas-presents-snowy-background-festive-holiday-scene-christmas-celebration-concept-337884731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Vintage Santas Sleigh Seamless Pattern Repeating File for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21821996/r/il/7e0a43/6262796928/il_570xN.6262796928_7qyl.jpg' alt='Retro Vintage Santas Sleigh Seamless Pattern Repeating File for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21821996/r/il/7e0a43/6262796928/il_570xN.6262796928_7qyl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Free Vintage Christmas Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5f/9d/0e/5f9d0e8d6a098e28d931ca84c3d4ef23.jpg' alt='35+ Free Vintage Christmas Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5f/9d/0e/5f9d0e8d6a098e28d931ca84c3d4ef23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Santa Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13805124/p/f/m/tYa9Ge5NZ6bieZsEWpAOhZwGsCa_fcu-hgRzt7Qk3x2LdaKUYF8T/Pink%20Retro%20Santa%20Light%20Pink%20Background%20-%20Large%20%20Scale.jpg' alt='Retro Santa Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13805124/p/f/m/tYa9Ge5NZ6bieZsEWpAOhZwGsCa_fcu-hgRzt7Qk3x2LdaKUYF8T/Pink%20Retro%20Santa%20Light%20Pink%20Background%20-%20Large%20%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Santa Seamless Pattern Free Stock Photo - Public Domain ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/530000/nahled/vintage-santa-seamless-pattern-16913463858uL.jpg' alt='Vintage Santa Seamless Pattern Free Stock Photo - Public Domain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/530000/nahled/vintage-santa-seamless-pattern-16913463858uL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Santa Claus & Reindeer print by TAlex | Posterlounge">
+                                <img itemprop="contentUrl url" src='https://media.posterlounge.com/img/products/780000/770889/770889_poster.jpg' alt='Vintage Christmas Santa Claus & Reindeer print by TAlex | Posterlounge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterlounge" />
+                                </span>
+                                <a href='https://media.posterlounge.com/img/products/780000/770889/770889_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

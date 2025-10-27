@@ -1,0 +1,129 @@
+<title>Streamline Your Hiring with Effective Employment Screening Services</title>
+                    <meta name="description" content="Discover top-notch employment screening services designed to enhance your hiring process. Our solutions ensure thorough background checks, employment verification, and risk assessment, helping you select the best candidates efficiently and securely. Boost your hiring confidence today!">
+                    <meta name="keywords" content="employment screening services">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/employment-screening-services">
+                            <span itemprop="name">employment screening services</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Your Hiring with Effective Employment Screening Services</h1>
+                <p>Employment screening services are essential for organizations seeking to hire trustworthy and qualified candidates. These services typically include background checks, employment verification, and criminal record searches, helping employers make informed decisions. By ensuring candidates meet specific criteria, businesses can enhance their workforce integrity and reduce risks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Employment Screening Services (ESS)">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063545711166' alt='Profile for Employment Screening Services (ESS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063545711166' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services">
+                                <img itemprop="contentUrl url" src='https://www.employscreen.com/lib/images/Home_Header_1200.jpg' alt='Employment Screening Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.employscreen.com" />
+                                </span>
+                                <a href='https://www.employscreen.com/lib/images/Home_Header_1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services (ESS) | Jobvite">
+                                <img itemprop="contentUrl url" src='https://www.jobvite.com/wp-content/uploads/2022/12/employment-screening-services-300x125-1.png' alt='Employment Screening Services (ESS) | Jobvite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobvite" />
+                                </span>
+                                <a href='https://www.jobvite.com/wp-content/uploads/2022/12/employment-screening-services-300x125-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services LLC | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQErtmAzx4lKOQ/company-logo_200_200/company-logo_200_200/0/1697053472441/employment_screening_services_llc_logo?e=2147483647&v=beta&t=EIOTWHKNcV6MK1MDeVD1HgafC8WD5chyr2IJ8dHsfug' alt='Employment Screening Services LLC | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQErtmAzx4lKOQ/company-logo_200_200/company-logo_200_200/0/1697053472441/employment_screening_services_llc_logo?e=2147483647&v=beta&t=EIOTWHKNcV6MK1MDeVD1HgafC8WD5chyr2IJ8dHsfug' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services">
+                                <img itemprop="contentUrl url" src='http://priorityonediagnostics.com/wp-content/uploads/2023/02/T401468132_g.jpg' alt='Employment Screening Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Priorityonediagnostics" />
+                                </span>
+                                <a href='http://priorityonediagnostics.com/wp-content/uploads/2023/02/T401468132_g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services">
+                                <img itemprop="contentUrl url" src='https://www.employscreen.com/lib/images/tech_Header_1200.jpg' alt='Employment Screening Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening Services" />
+                                </span>
+                                <a href='https://www.employscreen.com/lib/images/tech_Header_1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening and Background Check Services | AIS">
+                                <img itemprop="contentUrl url" src='https://aisbackgroundchecks.com/wp-content/uploads/2016/02/employee-screening.jpg' alt='Employment Screening and Background Check Services | AIS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Information Systems" />
+                                </span>
+                                <a href='https://aisbackgroundchecks.com/wp-content/uploads/2016/02/employee-screening.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services">
+                                <img itemprop="contentUrl url" src='https://www.essconsumercorner.com/lib/images/Consumer_Corner_Header_1200.jpg' alt='Employment Screening Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.essconsumercorner.com" />
+                                </span>
+                                <a href='https://www.essconsumercorner.com/lib/images/Consumer_Corner_Header_1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Services 2025 Company Profile: Valuation ...">
+                                <img itemprop="contentUrl url" src='https://image.pitchbook.com/UJEa7VJ2bAjf8pqdhaQIYRzTfTO1610692170973_200x200' alt='Employment Screening Services 2025 Company Profile: Valuation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PitchBook" />
+                                </span>
+                                <a href='https://image.pitchbook.com/UJEa7VJ2bAjf8pqdhaQIYRzTfTO1610692170973_200x200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Employment Screening: Your Comprehensive Guide [For 2025] - AIHR">
+                                <img itemprop="contentUrl url" src='https://www.aihr.com/wp-content/uploads/Pre-employment-Screening-Checklist-social.png' alt='Pre-Employment Screening: Your Comprehensive Guide [For 2025] - AIHR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AIHR" />
+                                </span>
+                                <a href='https://www.aihr.com/wp-content/uploads/Pre-employment-Screening-Checklist-social.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

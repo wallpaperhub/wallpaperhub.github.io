@@ -1,0 +1,129 @@
+<title>Charming Japanese Cat Wallpaper for Cat Lovers</title>
+                    <meta name="description" content="Discover delightful Japanese cat wallpaper that adds a touch of whimsy to your home. Perfect for cat enthusiasts, these designs will enliven any room and showcase your love for felines in style. Shop now to transform your space with these adorable patterns!">
+                    <meta name="keywords" content="japanese cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/japanese-cat-wallpaper">
+                            <span itemprop="name">japanese cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Japanese Cat Wallpaper for Cat Lovers</h1>
+                <p>Transform your space with adorable Japanese cat wallpaper! Featuring charming designs inspired by Japanese culture, these wallpapers bring warmth and cuteness to any room. Ideal for cat lovers and those seeking a unique home aesthetic, these vibrant patterns will create a cozy atmosphere while showcasing your love for feline friends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Catana" by Vincent Trinidad">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/30/89/f5308979a6a231adf8e3fff1cfc8fd8c.jpg' alt='Catana" by Vincent Trinidad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/30/89/f5308979a6a231adf8e3fff1cfc8fd8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is so cute, hilarious, elegantly and quirky-ily beautiful in ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/af/cc/bfafcc238e89d55eb5a4c4cc0b4605be.jpg' alt='This is so cute, hilarious, elegantly and quirky-ily beautiful in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/af/cc/bfafcc238e89d55eb5a4c4cc0b4605be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cat Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3BkbWlzYzE1LXdrNjQyOTUzMzEtaW1hZ2UuanBn.jpg' alt='Japanese Cat Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3BkbWlzYzE1LXdrNjQyOTUzMzEtaW1hZ2UuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cat, glasses, head, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/982/832/HD-wallpaper-japanese-cat-glasses-head.jpg' alt='Japanese Cat, glasses, head, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/982/832/HD-wallpaper-japanese-cat-glasses-head.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese cat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/84/66/f2/8466f2a1bb565316d2641a7068fce57a.jpg' alt='Japanese cat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/84/66/f2/8466f2a1bb565316d2641a7068fce57a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Minimalism, Japan, Cat, Wave, Style, Sushi, Background ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/e/f1/minimalizm-stil-fon-art-art-style-background-illustration--4.webp' alt='Wallpaper Minimalism, Japan, Cat, Wave, Style, Sushi, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/e/f1/minimalizm-stil-fon-art-art-style-background-illustration--4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62,300+ Japanese Cat Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1372316278/photo/blooming-white-sakura-in-spring-sunny-day-pair-of-cats-sitting-on-a-tree-ueno-park-tokyo-japan.jpg?s=612x612&w=0&k=20&c=z5H34wInEZpPmAMr1B8eVdrAiFKKwEHQLj_JQ3YAv4k=' alt='62,300+ Japanese Cat Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1372316278/photo/blooming-white-sakura-in-spring-sunny-day-pair-of-cats-sitting-on-a-tree-ueno-park-tokyo-japan.jpg?s=612x612&w=0&k=20&c=z5H34wInEZpPmAMr1B8eVdrAiFKKwEHQLj_JQ3YAv4k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cat Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/053/604/157/non_2x/curious-cat-exploring-serene-japanese-garden-with-stone-path-and-bonsai-trees-photo.jpg' alt='Japanese Cat Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1797">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/053/604/157/non_2x/curious-cat-exploring-serene-japanese-garden-with-stone-path-and-bonsai-trees-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Cat wallpaper by PinkuPandas - Download on ZEDGE™ | 81b3">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=EK4UPZoNx3xEMTdu-x4CbrNtWj6GnArwPOBcav4fDBKgOY9piS15Gx_2_4-XqX9xbdiSmdkRWcI70O6WK61O_hlnt3ZJbrrudrLLV_3cZT12XKboCuxEdc0APofMw5WktegL7iFjGCCWmvI0TonBWN2vN19LqTtdEbQtgOifK6ArADlAlPc-YS0CgZBPuczMPjgstPlN_9kGR1uHGmfmOJ0fz8O_QC2aJKBgQKK-dBTvbZ8ARCH5tt8XcpA' alt='Japan Cat wallpaper by PinkuPandas - Download on ZEDGE™ | 81b3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=EK4UPZoNx3xEMTdu-x4CbrNtWj6GnArwPOBcav4fDBKgOY9piS15Gx_2_4-XqX9xbdiSmdkRWcI70O6WK61O_hlnt3ZJbrrudrLLV_3cZT12XKboCuxEdc0APofMw5WktegL7iFjGCCWmvI0TonBWN2vN19LqTtdEbQtgOifK6ArADlAlPc-YS0CgZBPuczMPjgstPlN_9kGR1uHGmfmOJ0fz8O_QC2aJKBgQKK-dBTvbZ8ARCH5tt8XcpA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats, Cat, Samurai, Japanese, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/916/916/HD-wallpaper-cats-cat-samurai-japanese.jpg' alt='Cats, Cat, Samurai, Japanese, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/916/916/HD-wallpaper-cats-cat-samurai-japanese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

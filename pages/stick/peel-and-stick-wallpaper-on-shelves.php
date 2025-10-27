@@ -1,0 +1,129 @@
+<title>Elegant Peel and Stick Wallpaper for Shelves</title>
+                    <meta name="description" content="Discover how to enhance your shelves with peel and stick wallpaper! Effortlessly add color and personality to your space with this easy-to-use solution. Perfect for both renters and homeowners, it’s a quick and affordable way to revamp your shelves. Explore creative designs to transform your home today!">
+                    <meta name="keywords" content="peel and stick wallpaper on shelves">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-on-shelves">
+                            <span itemprop="name">peel and stick wallpaper on shelves</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Peel and Stick Wallpaper for Shelves</h1>
+                <p>Transform your shelves with peel and stick wallpaper for an affordable and stylish upgrade. This easy-to-use option allows you to customize your shelves in any room. Simply cut to size, peel off the backing, and stick it on for a fresh look. Ideal for renters and DIY enthusiasts, peel and stick wallpaper is a quick way to make a big impact!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...">
+                                <img itemprop="contentUrl url" src='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_35-700x980.jpg' alt='How to Wallpaper the Back of a Bookcase | Step-by-Step - The Homes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Homes I Have Made" />
+                                </span>
+                                <a href='https://thehomesihavemade.com/wp-content/uploads/2022/11/Wallpaper-Back-of-Bookcase_35-700x980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back-to-School Decorating with Peel + Stick Wallpaper - Emily A. Clark">
+                                <img itemprop="contentUrl url" src='https://emilyaclark.com/wp-content/uploads/2019/08/peel-stick-wallpaper-1.jpg' alt='Back-to-School Decorating with Peel + Stick Wallpaper - Emily A. Clark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily A. Clark" />
+                                </span>
+                                <a href='https://emilyaclark.com/wp-content/uploads/2019/08/peel-stick-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapered Bookcase DIY — One Smith">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f7b76419448424d00ccd379/1620771515927-7RE3PV2FFSYC24URGC8R/wallpaperedbookcase.jpg' alt='Wallpapered Bookcase DIY — One Smith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1264">
+                                <meta itemprop="height" content="1686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Smith Studio" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f7b76419448424d00ccd379/1620771515927-7RE3PV2FFSYC24URGC8R/wallpaperedbookcase.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upcycle a Bookshelf with Peel and Stick Wallpaper - Delicious And DIY">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.deliciousanddiy.com/wp-content/uploads/2019/05/How-To-Update-Furniture-With-Peel-And-Stick-Wallpaper51.jpg?resize=775%2C1163&ssl=1' alt='Upcycle a Bookshelf with Peel and Stick Wallpaper - Delicious And DIY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delicious And DIY -" />
+                                </span>
+                                <a href='https://i0.wp.com/www.deliciousanddiy.com/wp-content/uploads/2019/05/How-To-Update-Furniture-With-Peel-And-Stick-Wallpaper51.jpg?resize=775%2C1163&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A New & Easy Look for the Built-in - Peel & Stick Wallpaper - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YBpybBWfhPg/sddefault.jpg' alt='A New & Easy Look for the Built-in - Peel & Stick Wallpaper - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YBpybBWfhPg/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Wallpaper a Bookcase with Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://averageinspired.com/wp-content/uploads/2020/02/painted-built-in-makeover-with-peel-and-stick-wallpaper-5314.jpg' alt='How to Wallpaper a Bookcase with Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Average But Inspired" />
+                                </span>
+                                <a href='https://averageinspired.com/wp-content/uploads/2020/02/painted-built-in-makeover-with-peel-and-stick-wallpaper-5314.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Hang Peel and Stick Wallpaper - Driven by Decor">
+                                <img itemprop="contentUrl url" src='https://www.drivenbydecor.com/wp-content/uploads/2020/03/blue-wallpaper-bookcase-back.jpg' alt='How to Hang Peel and Stick Wallpaper - Driven by Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Driven by Decor" />
+                                </span>
+                                <a href='https://www.drivenbydecor.com/wp-content/uploads/2020/03/blue-wallpaper-bookcase-back.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Apply Removable Wallpaper to Ikea Billy Bookshelves - Top ...">
+                                <img itemprop="contentUrl url" src='https://topshelfdiy.com/wp-content/uploads/2018/09/How-To-Add.png' alt='How To Apply Removable Wallpaper to Ikea Billy Bookshelves - Top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Top Shelf DIY" />
+                                </span>
+                                <a href='https://topshelfdiy.com/wp-content/uploads/2018/09/How-To-Add.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makeover a Bookcase with Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/buXV2ajbZmg/maxresdefault.jpg' alt='Makeover a Bookcase with Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/buXV2ajbZmg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Best Wallpaper bookcase ideas | wallpaper, peel and stick ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/88/be/d2/88bed2f0b6cb0cc6ad191e460d181f9c.jpg' alt='12 Best Wallpaper bookcase ideas | wallpaper, peel and stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/88/be/d2/88bed2f0b6cb0cc6ad191e460d181f9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

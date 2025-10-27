@@ -1,0 +1,129 @@
+<title>UCF Logo on Transparent Background: Perfect for Any Use</title>
+                    <meta name="description" content="Discover the UCF logo with a transparent background for seamless integration into your projects. Ideal for presentations, social media, and marketing materials, this logo version ensures brand consistency and visual appeal. Download it today for clean and professional design options!">
+                    <meta name="keywords" content="ucf logo transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ucf-logo-transparent-background">
+                            <span itemprop="name">ucf logo transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>UCF Logo on Transparent Background: Perfect for Any Use</h1>
+                <p>The UCF logo with a transparent background allows for versatile use across various platforms, ensuring that the iconic design shines without any interfering elements. Perfect for presentations, promotional materials, or web design, this format enhances the logo's visibility while maintaining UCF's brand integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:UCF Knights logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/UCF_Knights_logo.svg/1274px-UCF_Knights_logo.svg.png' alt='File:UCF Knights logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1274">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/UCF_Knights_logo.svg/1274px-UCF_Knights_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ucf Logo - UCF Logo with Bold Design - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180610/owt/aa8uolpy9.webp' alt='Ucf Logo - UCF Logo with Bold Design - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180610/owt/aa8uolpy9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UCF Knights Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/6144784d5953a50004ee16c1.png' alt='UCF Knights Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/6144784d5953a50004ee16c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Central Florida Logo and symbol, meaning, history ...">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2017/11/University-of-Central-Florida-Logo.png' alt='University of Central Florida Logo and symbol, meaning, history ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2017/11/University-of-Central-Florida-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ucf - UCF University Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180529/brb/kisspng-university-of-central-florida-ucf-knights-football-5b0e1fe42b6d78.5073536515276523241779.jpg' alt='Ucf - UCF University Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180529/brb/kisspng-university-of-central-florida-ucf-knights-football-5b0e1fe42b6d78.5073536515276523241779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UCF Knights men's basketball UCF Knights women's basketball ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/626/574/png-clipart-ucf-knights-men-s-basketball-ucf-knights-women-s-basketball-university-of-central-florida-application-essay-pegasus-text-essay.png' alt='UCF Knights men's basketball UCF Knights women's basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/626/574/png-clipart-ucf-knights-men-s-basketball-ucf-knights-women-s-basketball-university-of-central-florida-application-essay-pegasus-text-essay.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UCF Knights svg, png, dxf, eps file NCAA0000298 – DreamSVG Store">
+                                <img itemprop="contentUrl url" src='https://dreamsvg.com/cdn/shop/products/spfwm_copy_992e0260-73e7-421d-a575-ee21b34884b2.jpg?crop=center&height=1844&v=1597667408&width=1844' alt='UCF Knights svg, png, dxf, eps file NCAA0000298 – DreamSVG Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1844">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamsvg" />
+                                </span>
+                                <a href='https://dreamsvg.com/cdn/shop/products/spfwm_copy_992e0260-73e7-421d-a575-ee21b34884b2.jpg?crop=center&height=1844&v=1597667408&width=1844' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Central Florida (UCF) Logo PNG Vector (SVG) Free ...">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/U/university-of-central-florida-ucf-logo-7B4ADEF3C7-seeklogo.com.png' alt='University of Central Florida (UCF) Logo PNG Vector (SVG) Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/U/university-of-central-florida-ucf-logo-7B4ADEF3C7-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ucf Logo - UCF Logo Golden Design Representation - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180329/dsw/avi1zzxkg.webp' alt='Ucf Logo - UCF Logo Golden Design Representation - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180329/dsw/avi1zzxkg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Central Florida Knights Alternate Logo | SPORTS LOGO HISTORY">
+                                <img itemprop="contentUrl url" src='http://sportslogohistory.com/wp-content/uploads/2021/12/central_florida_knights_2021-pres_a.png' alt='Central Florida Knights Alternate Logo | SPORTS LOGO HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Logo History" />
+                                </span>
+                                <a href='http://sportslogohistory.com/wp-content/uploads/2021/12/central_florida_knights_2021-pres_a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

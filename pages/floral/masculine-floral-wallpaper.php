@@ -1,0 +1,129 @@
+<title>masculine floral wallpaper: Bold Elegance for Men</title>
+                    <meta name="description" content="Discover the allure of masculine floral wallpaper, featuring rich patterns and colors. Perfect for adding a touch of sophistication to any room, this design blends ruggedness with elegance, ideal for modern interiors. Elevate your space with bold floral motifs that redefine masculine decor.">
+                    <meta name="keywords" content="masculine floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/masculine-floral-wallpaper">
+                            <span itemprop="name">masculine floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>masculine floral wallpaper: Bold Elegance for Men</h1>
+                <p>Embrace the bold charm of masculine floral wallpaper, where rugged elegance meets nature's beauty. Perfect for men seeking a unique touch in their interiors, these designs incorporate rich, dark hues and striking patterns that evoke strength and sophistication. Transform any space with this striking and modern approach to floral decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="307300 | Museum, Claude Black Floral Wallpaper Black - Eijffinger">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_b58b5551-a93a-439c-8086-3a221fb43d54.jpg?v=1667587114' alt='307300 | Museum, Claude Black Floral Wallpaper Black - Eijffinger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_b58b5551-a93a-439c-8086-3a221fb43d54.jpg?v=1667587114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15392415/p/f/l/Td1mPnE5Q4jqomyrxFXC7OKd9INQCAwtuuOXdLLySupY2Osv-fs0XRXe0g/Ben%20Franklin%2C%20Abe%20Lincoln%2C%20George%20Washington%2C%20Alexander%20Hamilton%2C%20Thomas%20Jefferson%20Bubble%20Gum%20Home%20Decor%20Print%20Floral%20Back.jpg' alt='Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15392415/p/f/l/Td1mPnE5Q4jqomyrxFXC7OKd9INQCAwtuuOXdLLySupY2Osv-fs0XRXe0g/Ben%20Franklin%2C%20Abe%20Lincoln%2C%20George%20Washington%2C%20Alexander%20Hamilton%2C%20Thomas%20Jefferson%20Bubble%20Gum%20Home%20Decor%20Print%20Floral%20Back.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17775745/p/f/m/eFAFA66lQLAwMl08IQZuZk-8xjZVuIzTH_vGPaKSMMzQAhgVXRKd/medium%20-%20loose%20off%20white%20black%20and%20grey%20watercolor%20flowers%20on%20dark%20grey.jpg' alt='Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17775745/p/f/m/eFAFA66lQLAwMl08IQZuZk-8xjZVuIzTH_vGPaKSMMzQAhgVXRKd/medium%20-%20loose%20off%20white%20black%20and%20grey%20watercolor%20flowers%20on%20dark%20grey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13863520/p/f/m/EKyAGCXUzfIEgX_-SC2l1CttHJYX2LB_-rQy-BSFEw9UTuOjR7oTc5TxQjbz/Heathcliff%20Field%2C%20Cream%20Flowers%20on%20Teal%2C%20Standard%20Scale%20.jpg' alt='Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13863520/p/f/m/EKyAGCXUzfIEgX_-SC2l1CttHJYX2LB_-rQy-BSFEw9UTuOjR7oTc5TxQjbz/Heathcliff%20Field%2C%20Cream%20Flowers%20on%20Teal%2C%20Standard%20Scale%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/18100796/p/f/m/hndP5bd5AmNoQHe6srZtNwYbwGHl6jz2wx9P3jJZXcu5Hc79uO9X/Modern%20Floral%20Blockprint%20dark%20burgundy%20red%20on%20warm%20wine%20red%20-%20large.jpg' alt='Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/18100796/p/f/m/hndP5bd5AmNoQHe6srZtNwYbwGHl6jz2wx9P3jJZXcu5Hc79uO9X/Modern%20Floral%20Blockprint%20dark%20burgundy%20red%20on%20warm%20wine%20red%20-%20large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Mosaic Vector Texture Masculine Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/dark-floral-mosaic-vector-texture-260nw-1598648098.jpg' alt='Dark Floral Mosaic Vector Texture Masculine Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/dark-floral-mosaic-vector-texture-260nw-1598648098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claude Teal Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/claude-teal-floral-wallpaper-qqbj-l.jpg' alt='Claude Teal Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/claude-teal-floral-wallpaper-qqbj-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Manly Masculine Template On Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/304517630/display_1500/stock-photo-dark-floral-manly-masculine-template-on-a-green-blue-background-tropical-flowers-and-plants-for-304517630.jpg' alt='Dark Floral Manly Masculine Template On Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/304517630/display_1500/stock-photo-dark-floral-manly-masculine-template-on-a-green-blue-background-tropical-flowers-and-plants-for-304517630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/18349883/p/f/m/29OWf7XPTeSCMznCP_DU66dBiblSEKda57SoNOt3Ro-G6xNGOq_Iwas/Farmhouse%20Flowers%20-%20White%20on%20Smoky%20Blue%20Grey.jpg' alt='Masculine Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/18349883/p/f/m/29OWf7XPTeSCMznCP_DU66dBiblSEKda57SoNOt3Ro-G6xNGOq_Iwas/Farmhouse%20Flowers%20-%20White%20on%20Smoky%20Blue%20Grey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="736 Masculine Floral Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/masculine-indigo-floral-blockprint-linen-seamless-pattern-all-over-print-navy-blue-cotton-effect-flower-linocut-fabric-287293643.jpg' alt='736 Masculine Floral Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/masculine-indigo-floral-blockprint-linen-seamless-pattern-all-over-print-navy-blue-cotton-effect-flower-linocut-fabric-287293643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

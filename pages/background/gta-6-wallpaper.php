@@ -1,0 +1,129 @@
+<title>Stunning GTA 6 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a wide range of high-quality GTA 6 wallpapers perfect for personalizing your devices. Explore vibrant visuals from Grand Theft Auto 6 that showcase the game's thrilling atmosphere. Download your favorites now and elevate your gaming experience in style!">
+                    <meta name="keywords" content="gta 6 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gta-6-wallpaper">
+                            <span itemprop="name">gta 6 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning GTA 6 Wallpapers for Your Device</h1>
+                <p>Enhance your device's look with stunning GTA 6 wallpapers! Whether you're a fan of thrilling heists or the vibrant world of Los Santos, our collection offers high-quality images that capture the essence of Grand Theft Auto 6. Update your background and immerse yourself in the action and stunning visuals of your favorite game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="By popular demand, here it is in 4k! : r/GTA6">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/by-popular-demand-here-it-is-in-4k-v0-kw9580jk7i4c1.png?auto=webp&s=7458754d1e54b3b871f2c53b3c6835c5bb3f9ef4' alt='By popular demand, here it is in 4k! : r/GTA6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/by-popular-demand-here-it-is-in-4k-v0-kw9580jk7i4c1.png?auto=webp&s=7458754d1e54b3b871f2c53b3c6835c5bb3f9ef4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ben Geskin on X: "Grand Theft Auto VI iPhone wallpaper #GTA6 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GAiySyBWkAAJsrt?format=jpg&name=4096x4096' alt='Ben Geskin on X: "Grand Theft Auto VI iPhone wallpaper #GTA6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GAiySyBWkAAJsrt?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA VI Wallpaper : r/GTA6">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gta-vi-wallpaper-v0-vdr9qrfqnw4c1.jpg?width=2160&format=pjpg&auto=webp&s=ca78886eca98d53f4fb90400efbad4289a87bfb8' alt='GTA VI Wallpaper : r/GTA6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="4697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gta-vi-wallpaper-v0-vdr9qrfqnw4c1.jpg?width=2160&format=pjpg&auto=webp&s=ca78886eca98d53f4fb90400efbad4289a87bfb8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA 6 logo, artwork and wallpapers - RockstarINTEL">
+                                <img itemprop="contentUrl url" src='https://rockstarintel.com/wp-content/uploads/2023/12/Trailer-1-Illustration-16x9-1.png' alt='GTA 6 logo, artwork and wallpapers - RockstarINTEL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RockstarINTEL" />
+                                </span>
+                                <a href='https://rockstarintel.com/wp-content/uploads/2023/12/Trailer-1-Illustration-16x9-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA VI - Wallpapers - GTA VI - GTAForums">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/62xW52J.png' alt='GTA VI - Wallpapers - GTA VI - GTAForums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GTAForums" />
+                                </span>
+                                <a href='https://i.imgur.com/62xW52J.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA 6 GTA VI by anibalturek">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/134/1343610.jpeg' alt='GTA 6 GTA VI by anibalturek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/134/1343610.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Box iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/ea/e5/e6eae58b37f40b502de93a23587c3a7b.jpg' alt='Gamer Box iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/ea/e5/e6eae58b37f40b502de93a23587c3a7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GTA VI - Wallpapers - GTA VI - GTAForums">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/8EDF98g.png' alt='GTA VI - Wallpapers - GTA VI - GTAForums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GTAForums" />
+                                </span>
+                                <a href='https://i.imgur.com/8EDF98g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Theft Auto 6 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_grand_theft_auto_6_02_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' alt='Grand Theft Auto 6 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_grand_theft_auto_6_02_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gta 6 artwork phone wallpaper! : r/GTA">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gta-6-artwork-phone-wallpaper-v0-5i84kq4qoq3c1.jpg?width=1080&crop=smart&auto=webp&s=339fda69dcc06fe78e0dda8c6ee5f62efab83ec2' alt='Gta 6 artwork phone wallpaper! : r/GTA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gta-6-artwork-phone-wallpaper-v0-5i84kq4qoq3c1.jpg?width=1080&crop=smart&auto=webp&s=339fda69dcc06fe78e0dda8c6ee5f62efab83ec2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Delicious History of Peanut Butter</title>
+                    <meta name="description" content="Explore the fascinating history of peanut butter, from its ancient origins to its rise as a popular, nutritious spread. Learn how this creamy delight brings flavor and fun to meals and snacks, making it a favorite choice for everyone!">
+                    <meta name="keywords" content="peanut butter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peanut-butter-background">
+                            <span itemprop="name">peanut butter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Delicious History of Peanut Butter</h1>
+                <p>Peanut butter, a beloved spread, has roots dating back to ancient civilizations that ground peanuts into a paste. Popularized in the 19th century, it gained fame with the invention of commercial peanut butter in the early 1900s. Today, it’s celebrated for its rich flavor, versatility, and nutritional benefits, appealing to all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter Images – Browse 150,759 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/81/73/17/360_F_81731718_MUxuDh00r7BpxycxVEKXFTkGroYq8ZyL.jpg' alt='Peanut Butter Images – Browse 150,759 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/81/73/17/360_F_81731718_MUxuDh00r7BpxycxVEKXFTkGroYq8ZyL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter Images – Browse 150,759 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/86/09/99/360_F_286099983_gY0R2UdaxHW6AIwb0ntxXdTSnHXx7syd.jpg' alt='Peanut Butter Images – Browse 150,759 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/86/09/99/360_F_286099983_gY0R2UdaxHW6AIwb0ntxXdTSnHXx7syd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34,400+ Peanut Butter Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1051092868/photo/peanut-paste-in-an-open-jar-and-peanuts.jpg?s=612x612&w=0&k=20&c=RSGZKGuMzzb_sUD9EyjopguIf9_3PdC2lmx0xWy238U=' alt='34,400+ Peanut Butter Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1051092868/photo/peanut-paste-in-an-open-jar-and-peanuts.jpg?s=612x612&w=0&k=20&c=RSGZKGuMzzb_sUD9EyjopguIf9_3PdC2lmx0xWy238U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut butter photo background with copy space peanuts | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/peanut-butter-photo-background-with-copy-space-peanuts_1096472-23504.jpg' alt='Peanut butter photo background with copy space peanuts | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/peanut-butter-photo-background-with-copy-space-peanuts_1096472-23504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/798/477/small_2x/sweet-melted-peanut-butter-background-free-vector.jpg' alt='Peanut Butter Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/798/477/small_2x/sweet-melted-peanut-butter-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicious peanut butter on plain background | Premium AI-generated ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/delicious-peanut-butter-plain-background_1174497-90861.jpg' alt='Delicious peanut butter on plain background | Premium AI-generated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/delicious-peanut-butter-plain-background_1174497-90861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/028/140/868/small/sample-close-up-top-view-of-caramelized-peanut-butter-photo.jpg' alt='Peanut Butter Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/028/140/868/small/sample-close-up-top-view-of-caramelized-peanut-butter-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter View From The Top Exquisite Texture Of Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/peanut-butter-view-from-the-top-exquisite-texture-of_9921117.jpg!w700wp' alt='Peanut Butter View From The Top Exquisite Texture Of Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/peanut-butter-view-from-the-top-exquisite-texture-of_9921117.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="creamy peanut butter in a glass jar and peanuts beans on wooden ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/40/12/37/1000_F_240123711_uKTG1nTCo0xc007wcRvkQ26NnDDCS9BC.jpg' alt='creamy peanut butter in a glass jar and peanuts beans on wooden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/40/12/37/1000_F_240123711_uKTG1nTCo0xc007wcRvkQ26NnDDCS9BC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peanut Butter Background, Top View Stock Photo, Picture and ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/magone/magone1504/magone150400062/39190319-peanut-butter-background-top-view.jpg' alt='Peanut Butter Background, Top View Stock Photo, Picture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/magone/magone1504/magone150400062/39190319-peanut-butter-background-top-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

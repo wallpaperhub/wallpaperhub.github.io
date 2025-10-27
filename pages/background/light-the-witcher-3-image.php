@@ -1,0 +1,129 @@
+<title>Stunning Light Effects in The Witcher 3</title>
+                    <meta name="description" content="Explore the captivating lighting in The Witcher 3! Discover how dynamic shadows and rich colors elevate the fantasy landscape, creating an unforgettable gaming experience. Dive into the details that make every scene mesmerizing!">
+                    <meta name="keywords" content="light the witcher 3 image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-the-witcher-3-image">
+                            <span itemprop="name">light the witcher 3 image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light Effects in The Witcher 3</h1>
+                <p>In "The Witcher 3," lighting plays a crucial role in the game’s immersive atmosphere. The use of dynamic shadows and vibrant colors brings the fantasy world to life. From Geralt’s ominous torchlight piercing dark forests to the warm glow of tavern hearths, every image captures the intricate interplay of light, enhancing the overall gaming experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3 Realistic Quality Booster Improves Phoenix Lighting ...">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2020/01/The-Witcher-3-Realistic-Quality-Booster.jpeg' alt='The Witcher 3 Realistic Quality Booster Improves Phoenix Lighting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2020/01/The-Witcher-3-Realistic-Quality-Booster.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3: Light, Medium, and Heavy Armor Explained">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/the-witcher-3-geralt-standing.jpg' alt='The Witcher 3: Light, Medium, and Heavy Armor Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/the-witcher-3-geralt-standing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher - The Official Light - Wild Hunt Edition">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MEcHqD7pL._AC_UF894,1000_QL80_.jpg' alt='The Witcher - The Official Light - Wild Hunt Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MEcHqD7pL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3 Immersive Lighting Mod Overhauls Lighting In All Regions">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LdkmsQHWkNY/maxresdefault.jpg' alt='The Witcher 3 Immersive Lighting Mod Overhauls Lighting In All Regions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LdkmsQHWkNY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witcher 3 Lighting Mod Makes The Game Look Phenomenal - Gamesear">
+                                <img itemprop="contentUrl url" src='https://www.gamesear.com/images/2015/12/witcher-3-lighting-mod.jpg' alt='Witcher 3 Lighting Mod Makes The Game Look Phenomenal - Gamesear'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamesear" />
+                                </span>
+                                <a href='https://www.gamesear.com/images/2015/12/witcher-3-lighting-mod.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Witcher 3 Better Vanilla Lighting Mod Introduces Improved ...">
+                                <img itemprop="contentUrl url" src='https://cdn.wccftech.com/wp-content/uploads/2023/02/The-Witcher-3-Vanilla-Lighting-Enhanced.jpg' alt='The Witcher 3 Better Vanilla Lighting Mod Introduces Improved ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wccftech" />
+                                </span>
+                                <a href='https://cdn.wccftech.com/wp-content/uploads/2023/02/The-Witcher-3-Vanilla-Lighting-Enhanced.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Witcher - The Official Light - Wild Hunt Edition : Tools &  Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MEcHqD7pL.jpg' alt='Amazon.com: The Witcher - The Official Light - Wild Hunt Edition : Tools &  Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MEcHqD7pL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witcher 3 BEST Light Armor Location for CRIT Build - Cat School Gear  Location!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/C2BxSrRwDj0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRzIN8SUm4euBCR0Wli1vx4q5_vA' alt='Witcher 3 BEST Light Armor Location for CRIT Build - Cat School Gear  Location!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/C2BxSrRwDj0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRzIN8SUm4euBCR0Wli1vx4q5_vA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new ray tracing really adds some nice lighting : r/witcher">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/the-new-ray-tracing-really-adds-some-nice-lighting-v0-35ENbcOsmWAjZfL7lGbQSesLpiYJxRTh-w-F3fT93jY.png?width=640&crop=smart&auto=webp&s=1585d821249d128dac962c26d088cfb67f0cb5ab' alt='The new ray tracing really adds some nice lighting : r/witcher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/the-new-ray-tracing-really-adds-some-nice-lighting-v0-35ENbcOsmWAjZfL7lGbQSesLpiYJxRTh-w-F3fT93jY.png?width=640&crop=smart&auto=webp&s=1585d821249d128dac962c26d088cfb67f0cb5ab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Immersive Lighting at The Witcher 3 Nexus - Mods and community">
+                                <img itemprop="contentUrl url" src='https://staticdelivery.nexusmods.com/mods/952/images/headers/3953_1673789910.jpg' alt='Immersive Lighting at The Witcher 3 Nexus - Mods and community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nexus Mods" />
+                                </span>
+                                <a href='https://staticdelivery.nexusmods.com/mods/952/images/headers/3953_1673789910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

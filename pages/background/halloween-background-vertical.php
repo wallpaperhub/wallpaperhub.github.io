@@ -1,0 +1,129 @@
+<title>Spooky Halloween Vertical Backgrounds for Festive Decor</title>
+                    <meta name="description" content="Discover the perfect Halloween vertical backgrounds to elevate your spooky celebrations! Our collection features haunted imagery and festive designs that are ideal for both digital and print projects. Make your Halloween event unforgettable with stunning visuals that evoke the spirit of the season.">
+                    <meta name="keywords" content="halloween background vertical">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-background-vertical">
+                            <span itemprop="name">halloween background vertical</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Vertical Backgrounds for Festive Decor</h1>
+                <p>Get in the Halloween spirit with a spooky vertical background featuring haunted houses, bats, and pumpkins. Perfect for festive decorations or digital projects, this background sets the mood for all things eerie and fun. Let your creativity shine as you celebrate the season of fright and delight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/halloween-pumpkins-bats_567746-4055.jpg' alt='Halloween Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/halloween-pumpkins-bats_567746-4055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175083503/vector/halloween-smiling-card-drawn-greeting-cat-style-vintage-abstract-background-calligraphy.jpg?s=612x612&w=0&k=20&c=r8grt92mYEF1GFrSr6j63jW2HGN6zM0gUU-tBX8judM=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175083503/vector/halloween-smiling-card-drawn-greeting-cat-style-vintage-abstract-background-calligraphy.jpg?s=612x612&w=0&k=20&c=r8grt92mYEF1GFrSr6j63jW2HGN6zM0gUU-tBX8judM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1409209291/vector/happy-halloween-silhouette-vector-illustration-for-poster-template-etc.jpg?s=612x612&w=0&k=20&c=mOtmqHbj4jozcjqmT67RKv2LOlJLy9lEr3mW6x2NbcM=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1409209291/vector/happy-halloween-silhouette-vector-illustration-for-poster-template-etc.jpg?s=612x612&w=0&k=20&c=mOtmqHbj4jozcjqmT67RKv2LOlJLy9lEr3mW6x2NbcM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="584 Halloween Background Vertical High Res Illustrations - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1404881597/vector/beautiful-halloween-background.jpg?s=612x612&w=gi&k=20&c=ewYZunS6zQXslWHJgtX-1RWiXgndU-6OxikJQE3d43o=' alt='584 Halloween Background Vertical High Res Illustrations - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1404881597/vector/beautiful-halloween-background.jpg?s=612x612&w=gi&k=20&c=ewYZunS6zQXslWHJgtX-1RWiXgndU-6OxikJQE3d43o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1328292678/vector/vector-background-with-halloween-illustrations-for-banners-cards-flyers-social-media.jpg?s=612x612&w=0&k=20&c=YL4LK5qdl0v1gI4b87gy0GYDvkGPTJbbSR_XXYAfswM=' alt='14,000+ Halloween Background Vertical Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1328292678/vector/vector-background-with-halloween-illustrations-for-banners-cards-flyers-social-media.jpg?s=612x612&w=0&k=20&c=YL4LK5qdl0v1gI4b87gy0GYDvkGPTJbbSR_XXYAfswM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Cute Background Vertical Stock Illustrations – 1,857 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-night-orange-vertical-background-trees-bats-cats-pumpkins-graphic-59498787.jpg' alt='Halloween Cute Background Vertical Stock Illustrations – 1,857 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-night-orange-vertical-background-trees-bats-cats-pumpkins-graphic-59498787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Loop Orange & Blue Vertical Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1348962932/video/halloween-loop-orange-blue-vertical.jpg?s=640x640&k=20&c=8nKR5lpog6kg7ZS-5uaiu-BENb-YOyOJc-aBtdbRqsc=' alt='Halloween Loop Orange & Blue Vertical Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1348962932/video/halloween-loop-orange-blue-vertical.jpg?s=640x640&k=20&c=8nKR5lpog6kg7ZS-5uaiu-BENb-YOyOJc-aBtdbRqsc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/b9/a1/9bb9a1b1f1de9bac5c9b2f7c2f8edcbe.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/b9/a1/9bb9a1b1f1de9bac5c9b2f7c2f8edcbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Vertical Stock Illustrations – 8,887 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-background-vertical-frame-creepy-cute-characters-cartoon-style-hand-drawn-blank-copy-space-beige-purple-334830171.jpg' alt='Halloween Background Vertical Stock Illustrations – 8,887 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-background-vertical-frame-creepy-cute-characters-cartoon-style-hand-drawn-blank-copy-space-beige-purple-334830171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Night Purple Vertical Background Graphic Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/317128430/display_1500/stock-photo-halloween-night-purple-vertical-background-graphic-with-trees-bats-cats-and-pumpkins-317128430.jpg' alt='Halloween Night Purple Vertical Background Graphic Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/317128430/display_1500/stock-photo-halloween-night-purple-vertical-background-graphic-with-trees-bats-cats-and-pumpkins-317128430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

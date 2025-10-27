@@ -1,0 +1,129 @@
+<title>Empowering Breast Cancer Background Wallpapers</title>
+                    <meta name="description" content="Explore our collection of empowering breast cancer background wallpapers. Each design symbolizes hope and resilience, perfect for celebrating strength and raising awareness. Enhance your devices with inspiring visuals that remind us of the ongoing fight against breast cancer. Download now!">
+                    <meta name="keywords" content="background breast cancer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-breast-cancer-wallpaper">
+                            <span itemprop="name">background breast cancer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Breast Cancer Background Wallpapers</h1>
+                <p>Discover stunning background breast cancer wallpapers that inspire hope and strength. These wallpapers, featuring symbolic pink ribbons and empowering messages, serve as a reminder of the fight against breast cancer. Perfect for personal devices, our collection merges artistry with awareness to support breast cancer survivors and thrivers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,800+ Cancer Ribbon Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1427569023/vector/breast-cancer-pink-ribbon-doodle-background.jpg?s=612x612&w=0&k=20&c=C6O8vFNt5b8rebG7i0yyzR-MJxt72GOpt_fq-Dpz2u4=' alt='9,800+ Cancer Ribbon Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1427569023/vector/breast-cancer-pink-ribbon-doodle-background.jpg?s=612x612&w=0&k=20&c=C6O8vFNt5b8rebG7i0yyzR-MJxt72GOpt_fq-Dpz2u4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Ribbon Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12368557/p/f/m/J4voHvNRh9TcL88_iqWKWdxfs5ckGCkZyBCnA2XdS1tUlyv4YRDzngJAuA/Breast%20cancer%20survivor%20pink%20ribbon%20black.jpg' alt='Breast Cancer Ribbon Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12368557/p/f/m/J4voHvNRh9TcL88_iqWKWdxfs5ckGCkZyBCnA2XdS1tUlyv4YRDzngJAuA/Breast%20cancer%20survivor%20pink%20ribbon%20black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn background for breast cancer awareness month">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-background-breast-cancer-awareness-month_23-2150729493.jpg' alt='Free Vector | Hand drawn background for breast cancer awareness month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-background-breast-cancer-awareness-month_23-2150729493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancer Ribbon Wallpaper Stock Illustrations – 886 Cancer Ribbon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/pink-breast-cancer-awareness-ribbon-grey-background-reflection-glow-mobile-wallpaper-103092816.jpg' alt='Cancer Ribbon Wallpaper Stock Illustrations – 886 Cancer Ribbon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/pink-breast-cancer-awareness-ribbon-grey-background-reflection-glow-mobile-wallpaper-103092816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Wallpaper Vector Images (over 280)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/28/95/breast-cancer-pink-flower-doodle-background-vector-33892895.jpg' alt='Breast Cancer Wallpaper Vector Images (over 280)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/28/95/breast-cancer-pink-flower-doodle-background-vector-33892895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Ribbon pink bow breast cancer awareness Ribbon bow ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/ribbon-pink-bow-breast-cancer-awareness-ribbon-bow-wallpaper-pattern-with-copy-space_556176-443.jpg' alt='Premium Photo | Ribbon pink bow breast cancer awareness Ribbon bow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/ribbon-pink-bow-breast-cancer-awareness-ribbon-bow-wallpaper-pattern-with-copy-space_556176-443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,636 Breast Cancer Wallpaper Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/breast-cancer-awareness-month-vector-600nw-708399121.jpg' alt='1,636 Breast Cancer Wallpaper Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/breast-cancer-awareness-month-vector-600nw-708399121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="http://empressariel.tumblr.com/image/101610731869">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b5/54/c0/b554c0da4b0db1b9c69ce25aa25b9310.jpg' alt='http://empressariel.tumblr.com/image/101610731869'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b5/54/c0/b554c0da4b0db1b9c69ce25aa25b9310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breast Cancer Awareness Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtMjE4YmF0Y2g2LWthdGllLTU5ay14LmpwZw.jpg' alt='Breast Cancer Awareness Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtMjE4YmF0Y2g2LWthdGllLTU5ay14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="236 Pink Ribbon Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1145288600/vector/pink-cancer-awareness-ribbons-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=fYb2tbej4mvIrUDytl4p812wppqbLwTOc87zj0jJtq8=' alt='236 Pink Ribbon Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1145288600/vector/pink-cancer-awareness-ribbons-seamless-pattern.jpg?s=612x612&w=gi&k=20&c=fYb2tbej4mvIrUDytl4p812wppqbLwTOc87zj0jJtq8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Gravel Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Explore the beauty of gravel backgrounds, perfect for enhancing your creative projects. Discover various textures and colors that add depth to your photos and designs. Elevate your visuals with these versatile and stylish options today!">
+                    <meta name="keywords" content="gravel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gravel-background">
+                            <span itemprop="name">gravel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gravel Backgrounds for Your Creative Projects</h1>
+                <p>Gravel backgrounds offer a unique and textured aesthetic for photos, design projects, and visual presentations. Available in various colors and sizes, they add depth and interest, creating a natural setting that enhances any subject. Ideal for both professional and personal use, gravel backgrounds are versatile and visually appealing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/small-stone-texture-background_1150-12917.jpg' alt='Gravel Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/small-stone-texture-background_1150-12917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel ground background texture - high resolution (1924365)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/e7b2828731920e06e198d9282da1845c5995fbc87c364a18e5482a044dc21357.jpg' alt='Gravel ground background texture - high resolution (1924365)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/e7b2828731920e06e198d9282da1845c5995fbc87c364a18e5482a044dc21357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel background stock photo. Image of boulder, pebble - 114684">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gravel-background-114684.jpg' alt='Gravel background stock photo. Image of boulder, pebble - 114684'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gravel-background-114684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel Background" Images – Browse 1,819 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/38/81/95/360_F_1038819530_fofkuu7Q0Xs5RV4U6ysGbWEYkQ8OgIZt.jpg' alt='Gravel Background" Images – Browse 1,819 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/38/81/95/360_F_1038819530_fofkuu7Q0Xs5RV4U6ysGbWEYkQ8OgIZt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="142,396 Gravel Background Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/small-gray-gravel-background-texture-small-gray-gravel-background-texture-extreme-closeup-170447695.jpg' alt='142,396 Gravel Background Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/small-gray-gravel-background-texture-small-gray-gravel-background-texture-extreme-closeup-170447695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel Texture. Gravel Background. Stones Texture. Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/ilyabukowski/ilyabukowski1706/ilyabukowski170600053/80036958-gravel-texture-gravel-background-stones-texture.jpg' alt='Gravel Texture. Gravel Background. Stones Texture. Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/ilyabukowski/ilyabukowski1706/ilyabukowski170600053/80036958-gravel-texture-gravel-background-stones-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel Texture Gravel Background Design Real Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/gravel-texture-background-design-real-260nw-1725791554.jpg' alt='Gravel Texture Gravel Background Design Real Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/gravel-texture-background-design-real-260nw-1725791554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Gravel texture Fine stone gravel Natural textural ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/gravel-texture-fine-stone-gravel-natural-textural-background_314149-2250.jpg' alt='Premium Photo | Gravel texture Fine stone gravel Natural textural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/gravel-texture-fine-stone-gravel-natural-textural-background_314149-2250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="860 Gravel Texture Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1337548618/vector/empty-blank-black-or-dark-grey-coloured-pebbles-gravel-road-horizontal-vector-backgrounds.jpg?s=612x612&w=gi&k=20&c=8EqkruJ0Hbm_C7q4uA05gk3uMPHpY-C2k0WnBr8G44s=' alt='860 Gravel Texture Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1337548618/vector/empty-blank-black-or-dark-grey-coloured-pebbles-gravel-road-horizontal-vector-backgrounds.jpg?s=612x612&w=gi&k=20&c=8EqkruJ0Hbm_C7q4uA05gk3uMPHpY-C2k0WnBr8G44s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gravel Photos, Download The BEST Free Gravel Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/414765/pexels-photo-414765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Gravel Photos, Download The BEST Free Gravel Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/414765/pexels-photo-414765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

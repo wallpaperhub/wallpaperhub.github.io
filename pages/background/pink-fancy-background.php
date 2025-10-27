@@ -1,0 +1,129 @@
+<title>Elegant Pink Fancy Backgrounds for Stunning Designs</title>
+                    <meta name="description" content="Discover stunning pink fancy backgrounds to elevate your design projects. Perfect for any occasion, our collection offers vibrant hues and elegant patterns that enhance your creativity. Ideal for invitations, digital media, and more. Make your visuals pop with the charm of pink!">
+                    <meta name="keywords" content="pink fancy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-fancy-background">
+                            <span itemprop="name">pink fancy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Fancy Backgrounds for Stunning Designs</h1>
+                <p>Transform your visuals with a pink fancy background that exudes elegance and charm. Perfect for special occasions, creative projects, or a touch of whimsy, this hue adds depth and sophistication to any design. Whether you're crafting invitations, website banners, or social media posts, a pink fancy background sets the perfect tone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Pink Background Images – Browse 1,808,184 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/81/08/09/360_F_481080937_XRcXO0M4SsU6fX5nVpjz3IaAq1fLtkp3.jpg' alt='Luxury Pink Background Images – Browse 1,808,184 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/81/08/09/360_F_481080937_XRcXO0M4SsU6fX5nVpjz3IaAq1fLtkp3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink - Food I Fancy Backgrounds">
+                                <img itemprop="contentUrl url" src='https://foodifancybackgrounds.com/wp-content/uploads/2020/06/Pastel-Pink-2.jpg' alt='Pastel Pink - Food I Fancy Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food I Fancy Backgrounds" />
+                                </span>
+                                <a href='https://foodifancybackgrounds.com/wp-content/uploads/2020/06/Pastel-Pink-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7c2e5716a2fa1fd59f020ef16a08ce2e048749fa 7C">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/6e/db/d16edb7b122ea060c8d69afc52ec26da.jpg' alt='7c2e5716a2fa1fd59f020ef16a08ce2e048749fa 7C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/6e/db/d16edb7b122ea060c8d69afc52ec26da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-luxury-ribbon-background_52683-151698.jpg' alt='Premium Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-luxury-ribbon-background_52683-151698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink - Food I Fancy Backgrounds">
+                                <img itemprop="contentUrl url" src='https://foodifancybackgrounds.com/wp-content/uploads/2020/05/Pink.jpg' alt='Hot Pink - Food I Fancy Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food I Fancy Backgrounds" />
+                                </span>
+                                <a href='https://foodifancybackgrounds.com/wp-content/uploads/2020/05/Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Pink fancy background wallpaper material">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/4e/4eb775f5a65ff366b635c33b02e803ed_t.jpeg' alt='Free Vectors | Pink fancy background wallpaper material'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/4e/4eb775f5a65ff366b635c33b02e803ed_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Royal Pink Damask Texture A Luxurious Seamless Pattern ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20231227/pngtree-vintage-royal-pink-damask-texture-a-luxurious-seamless-pattern-image_13924057.png' alt='Vintage Royal Pink Damask Texture A Luxurious Seamless Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20231227/pngtree-vintage-royal-pink-damask-texture-a-luxurious-seamless-pattern-image_13924057.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink shabby background with fancy swirl border Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/13/61/25/1000_F_13612540_8O3FuwHy9W6CHU78fs3RA8cubQbp78s5.jpg' alt='Pink shabby background with fancy swirl border Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/13/61/25/1000_F_13612540_8O3FuwHy9W6CHU78fs3RA8cubQbp78s5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Luxury Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/987/789/small/abstract-triangles-pink-design-geometric-background-decor-golden-lines-with-copy-space-for-text-luxury-style-free-vector.jpg' alt='Pink Luxury Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="283">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/987/789/small/abstract-triangles-pink-design-geometric-background-decor-golden-lines-with-copy-space-for-text-luxury-style-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='http://dpegb9ebondhq.cloudfront.net/product_photos/3786310/Bright-Pink-Floral-Wallpaper_original.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='http://dpegb9ebondhq.cloudfront.net/product_photos/3786310/Bright-Pink-Floral-Wallpaper_original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

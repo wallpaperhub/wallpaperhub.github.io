@@ -1,0 +1,129 @@
+<title>Engaging Phonics Images for Effective Learning</title>
+                    <meta name="description" content="Discover how phonics images can boost reading skills in children. Explore engaging visuals that connect sounds with relatable pictures, making learning phonics fun and effective. Perfect for educators and parents looking to enhance literacy through visual aids.">
+                    <meta name="keywords" content="phonics images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/phonics-images">
+                            <span itemprop="name">phonics images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Phonics Images for Effective Learning</h1>
+                <p>Phonics images are visual tools that help enhance the learning experience for children by associating sounds with pictures. They make phonics lessons engaging and memorable, aiding in the development of reading skills. By using colorful and relatable images, educators can foster a deeper understanding of phonetic sounds, making learning enjoyable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phonics Images – Browse 14,147 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/63/53/23/360_F_163532337_I03tbZE4CqGOTzw2jXSR8IBxdXU9krqt.jpg' alt='Phonics Images – Browse 14,147 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/63/53/23/360_F_163532337_I03tbZE4CqGOTzw2jXSR8IBxdXU9krqt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Phonics? | Nessy">
+                                <img itemprop="contentUrl url" src='https://website-nessycdn.com/darkroom/1664/22ace50c513a818195ede33659ea5768:83ca32e1e3523bfc7fe340aaa3aa03c2/ud-hthd-phonics-phonics-important.jpg' alt='What is Phonics? | Nessy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1664">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nessy" />
+                                </span>
+                                <a href='https://website-nessycdn.com/darkroom/1664/22ace50c513a818195ede33659ea5768:83ca32e1e3523bfc7fe340aaa3aa03c2/ud-hthd-phonics-phonics-important.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phonics Activities And Games For Preschoolers To Build Literacy Skills">
+                                <img itemprop="contentUrl url" src='https://cdn.firstcry.com/education/2023/01/02200537/Phonics-Activities-And-Games-For-Preschooler-To-Build-Literacy-Skills.jpg' alt='Phonics Activities And Games For Preschoolers To Build Literacy Skills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstCry" />
+                                </span>
+                                <a href='https://cdn.firstcry.com/education/2023/01/02200537/Phonics-Activities-And-Games-For-Preschooler-To-Build-Literacy-Skills.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phonic Worksheets - SOUND-IT-OUT PHONICS">
+                                <img itemprop="contentUrl url" src='https://sounditoutphonics.weebly.com/uploads/8/4/1/2/84129334/published/sound-it-outlogl-v-no-background.jpg?1675492795' alt='Phonic Worksheets - SOUND-IT-OUT PHONICS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sound-it-out phonics" />
+                                </span>
+                                <a href='https://sounditoutphonics.weebly.com/uploads/8/4/1/2/84129334/published/sound-it-outlogl-v-no-background.jpg?1675492795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Importance of Phonics in Early Childhood Education - Dot ...">
+                                <img itemprop="contentUrl url" src='https://dotandlinelearning.com/blog/wp-content/uploads/2023/05/unnamed-4.png' alt='The Importance of Phonics in Early Childhood Education - Dot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dot and Line" />
+                                </span>
+                                <a href='https://dotandlinelearning.com/blog/wp-content/uploads/2023/05/unnamed-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Phonics Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1401311760/vector/ph-digraph-spelling-rule-educational-poster-set.jpg?s=612x612&w=0&k=20&c=A1pmEiNW3uOTJwIG86lS0pX2NiLCLJ94XXU6K8ulALs=' alt='1,300+ Phonics Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1401311760/vector/ph-digraph-spelling-rule-educational-poster-set.jpg?s=612x612&w=0&k=20&c=A1pmEiNW3uOTJwIG86lS0pX2NiLCLJ94XXU6K8ulALs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Phonics Sound Charts for Kindergarten, 1st Grade, and 2nd Grade">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/2147486318/images/ZMLeCLM8TIKS207CQ1vX_Free_Phonics_Sound_Charts.001.jpeg' alt='Free Phonics Sound Charts for Kindergarten, 1st Grade, and 2nd Grade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="From Sounds to Spelling" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/2147486318/images/ZMLeCLM8TIKS207CQ1vX_Free_Phonics_Sound_Charts.001.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phonics - Sound and District Primary School">
+                                <img itemprop="contentUrl url" src='https://soundprimary.co.uk/wp-content/uploads/2020/03/phonics.jpg' alt='Phonics - Sound and District Primary School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sound and District Primary School" />
+                                </span>
+                                <a href='https://soundprimary.co.uk/wp-content/uploads/2020/03/phonics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Phonics? How to Teach Phonics Step-By-Step - Twinkl">
+                                <img itemprop="contentUrl url" src='https://images.twinkl.co.uk/tr/raw/upload/u/ux/phonics_ver_1.png' alt='What is Phonics? How to Teach Phonics Step-By-Step - Twinkl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twinkl" />
+                                </span>
+                                <a href='https://images.twinkl.co.uk/tr/raw/upload/u/ux/phonics_ver_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phonics learning | Information for parents">
+                                <img itemprop="contentUrl url" src='https://www.theschoolrun.com/sites/theschoolrun.com/files/inline-images/phoneme_chart.webp' alt='Phonics learning | Information for parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheSchoolRun" />
+                                </span>
+                                <a href='https://www.theschoolrun.com/sites/theschoolrun.com/files/inline-images/phoneme_chart.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

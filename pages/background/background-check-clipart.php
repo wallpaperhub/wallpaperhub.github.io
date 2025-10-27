@@ -1,0 +1,129 @@
+<title>Dynamic Background Check Clipart for Effective Visual Communication</title>
+                    <meta name="description" content="Explore a collection of engaging background check clipart designed for effective communication. Perfect for websites, presentations, and more, these visuals help convey the importance of verification in hiring and security processes. Enhance your content with eye-catching designs today!">
+                    <meta name="keywords" content="background check clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-clipart">
+                            <span itemprop="name">background check clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Background Check Clipart for Effective Visual Communication</h1>
+                <p>Background check clipart includes various visual elements that represent the concept of verifying information about individuals or businesses. This clipart can feature icons like magnifying glasses, check marks, and files, making it a useful resource for websites, presentations, or any materials related to employment screenings and security processes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+ Criminal Background Check Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1137729682/vector/check-of-documents-illustration-a-magnifying-glass-in-hand.jpg?s=612x612&w=0&k=20&c=k2j9GiS3LDwAaOeg9STvdgeWtXHB_zvsUR5-C_j5Y-E=' alt='300+ Criminal Background Check Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1137729682/vector/check-of-documents-illustration-a-magnifying-glass-in-hand.jpg?s=612x612&w=0&k=20&c=k2j9GiS3LDwAaOeg9STvdgeWtXHB_zvsUR5-C_j5Y-E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+ Criminal Background Check Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1490373200/vector/background-check-for-employment-or-hiring-work-experience-or-career-history-concept-criminal.jpg?s=612x612&w=0&k=20&c=5WI525EnfEYERwwn2KYO45jA5K1MvTwllIwLs5-I_zs=' alt='300+ Criminal Background Check Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1490373200/vector/background-check-for-employment-or-hiring-work-experience-or-career-history-concept-criminal.jpg?s=612x612&w=0&k=20&c=5WI525EnfEYERwwn2KYO45jA5K1MvTwllIwLs5-I_zs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Stock Illustrations – 346,131 Background Check ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-check-folder-information-review-evaluation-d-illustr-background-check-folder-information-review-evaluation-d-95119544.jpg' alt='Background Check Stock Illustrations – 346,131 Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-check-folder-information-review-evaluation-d-illustr-background-check-folder-information-review-evaluation-d-95119544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Images – Browse 1,900,390 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/15/29/38/360_F_315293858_hLYmX2KKd3tW269WUE0UShGU3bsOT010.jpg' alt='Background Check Images – Browse 1,900,390 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/15/29/38/360_F_315293858_hLYmX2KKd3tW269WUE0UShGU3bsOT010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check - Free professions and jobs icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/6213/6213439.png' alt='Background check - Free professions and jobs icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/6213/6213439.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Check Stock Illustrations – 528 Criminal ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/criminal-background-check-concept-employment-screening-potential-candidates-to-verify-police-analysis-any-hidden-92456288.jpg' alt='Criminal Background Check Stock Illustrations – 528 Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/criminal-background-check-concept-employment-screening-potential-candidates-to-verify-police-analysis-any-hidden-92456288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passed Background Check Stock Illustrations – 1,062 Passed ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-check-security-police-criminal-investigation-research-words-box-mark-to-illustrate-hiring-workers-59237474.jpg' alt='Passed Background Check Stock Illustrations – 1,062 Passed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-check-security-police-criminal-investigation-research-words-box-mark-to-illustrate-hiring-workers-59237474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Required Gun Law Tag Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/background-check-required-gun-law-260nw-1032011047.jpg' alt='Background Check Required Gun Law Tag Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/background-check-required-gun-law-260nw-1032011047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Employee Background Check Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1409637645/vector/vector-illustration-of-choice-of-worker-or-personnel-recruitment-concept.jpg?s=612x612&w=0&k=20&c=lfwK7hRYGOlsX3kw2N8fBurzxe6kcvoqo5oIwNwB7is=' alt='1,300+ Employee Background Check Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1409637645/vector/vector-illustration-of-choice-of-worker-or-personnel-recruitment-concept.jpg?s=612x612&w=0&k=20&c=lfwK7hRYGOlsX3kw2N8fBurzxe6kcvoqo5oIwNwB7is=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+ Criminal Background Check Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393612094/vector/background-check-for-employment-or-recruitment-criminal-or-drug-check-on-candidate-or.jpg?s=612x612&w=0&k=20&c=afHA_ENTlFsqCiLR5LFMnIm-yfXkTax8e4gi0HCyU2Q=' alt='300+ Criminal Background Check Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393612094/vector/background-check-for-employment-or-recruitment-criminal-or-drug-check-on-candidate-or.jpg?s=612x612&w=0&k=20&c=afHA_ENTlFsqCiLR5LFMnIm-yfXkTax8e4gi0HCyU2Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

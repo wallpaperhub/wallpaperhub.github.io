@@ -1,0 +1,129 @@
+<title>Charming Mint Green & Pink Wallpaper for Vibrant Spaces</title>
+                    <meta name="description" content="Add a playful touch to your home with mint green and pink wallpaper. Ideal for any room, this combination enhances décor with freshness and warmth. Transform your space into a stylish yet cozy retreat with these delightful pastel shades!">
+                    <meta name="keywords" content="mint green and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/mint-green-and-pink-wallpaper">
+                            <span itemprop="name">mint green and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Mint Green & Pink Wallpaper for Vibrant Spaces</h1>
+                <p>Mint green and pink wallpaper creates a fresh and vibrant atmosphere in any room. This charming combination balances softness and energy, making it perfect for nurseries, bedrooms, or play areas. The soothing mint green paired with playful pink accents adds a touch of whimsy, transforming your space into a stylish, welcoming haven.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Jolene' Wallpaper by Wallshoppe - Mint With Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Jolene_product_MintwPink_forWEB_detail_1af24239-40b2-4b06-a126-e6116c59803a_720x.jpg?v=1633379124' alt=''Jolene' Wallpaper by Wallshoppe - Mint With Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Jolene_product_MintwPink_forWEB_detail_1af24239-40b2-4b06-a126-e6116c59803a_720x.jpg?v=1633379124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' alt='Mint Green Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint & Pink Walk the Line Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/mint-pink-walk-the-line-wallpaper-fuys-l.jpg' alt='Mint & Pink Walk the Line Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/mint-pink-walk-the-line-wallpaper-fuys-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint green and pink chevron http://htctokok-infinity.hu , http ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/92/e3/7d92e3b12d5d0f71a4d6cb5768a516f8.jpg' alt='Mint green and pink chevron http://htctokok-infinity.hu , http ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/92/e3/7d92e3b12d5d0f71a4d6cb5768a516f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper, System Solution, Blumenmuster, Vines, Linen Look, Mint ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rTYAAOSw44BYJYZg/s-l1200.jpg' alt='Wallpaper, System Solution, Blumenmuster, Vines, Linen Look, Mint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rTYAAOSw44BYJYZg/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background-design_23-2150319801.jpg' alt='Mint Green Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background-design_23-2150319801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A watercolor wash with tones changing from hot pink to frosty mint ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/5e0fae97377fa6d252fa0649b4779d85/bbb582879afe3e9e07d15e44a686d14e.jpg?q=70&w=500' alt='A watercolor wash with tones changing from hot pink to frosty mint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/5e0fae97377fa6d252fa0649b4779d85/bbb582879afe3e9e07d15e44a686d14e.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Grade Wallpaper 27ft x 2ft - Neutral Boho Chic Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+wa2RQPaL._AC_UF894,1000_QL80_.jpg' alt='Commercial Grade Wallpaper 27ft x 2ft - Neutral Boho Chic Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+wa2RQPaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers, green, mint, pink, sweet, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/5/434/HD-wallpaper-flowers-green-mint-pink-sweet.jpg' alt='Flowers, green, mint, pink, sweet, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/5/434/HD-wallpaper-flowers-green-mint-pink-sweet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/24/71/6d247143d48b5e64c9bd5084a9342c17.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/24/71/6d247143d48b5e64c9bd5084a9342c17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

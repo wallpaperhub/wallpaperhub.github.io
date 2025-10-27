@@ -1,0 +1,129 @@
+<title>Purple & White Checkered Background: Playful Design Ideas</title>
+                    <meta name="description" content="Transform your designs with a stunning purple and white checkered background. This vibrant pattern is ideal for creative projects, adding a playful yet elegant touch. Perfect for events, branding, or personal use, it enhances visual appeal effortlessly. Explore unique design ideas today!">
+                    <meta name="keywords" content="purple and white checkered background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-and-white-checkered-background">
+                            <span itemprop="name">purple and white checkered background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple & White Checkered Background: Playful Design Ideas</h1>
+                <p>Discover the charm of a purple and white checkered background! Perfect for adding a playful touch to designs, this vibrant pattern evokes feelings of fun and creativity. Ideal for digital projects, events, or branding, it combines elegance with whimsy, making it versatile for various themes and occasions. Explore its aesthetic appeal today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Chalky Pale Lilac Pastel Color and White Checkerboard Art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/58/82/a95882e5d59dab6dc53d5d12e0d234ab.jpg' alt='Large Chalky Pale Lilac Pastel Color and White Checkerboard Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/58/82/a95882e5d59dab6dc53d5d12e0d234ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plaid Pattern Purple Images – Browse 27,976 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/27/04/56/360_F_527045641_wOUhz8CnmaHGWNE3oAg4SmJHQaEl1lte.jpg' alt='Plaid Pattern Purple Images – Browse 27,976 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/27/04/56/360_F_527045641_wOUhz8CnmaHGWNE3oAg4SmJHQaEl1lte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic cute vertical purple and white checkerboard, gingham ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f1/c1/b0/f1c1b053b9bfbc5290b998e5114e3a08.jpg' alt='aesthetic cute vertical purple and white checkerboard, gingham ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f1/c1/b0/f1c1b053b9bfbc5290b998e5114e3a08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Purple Checkerboard: Over 1,076 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/small-checkerboard-pattern-260nw-376589953.jpg' alt='White Purple Checkerboard: Over 1,076 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/small-checkerboard-pattern-260nw-376589953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Aesthetic cute abstract purple and white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/aesthetic-cute-abstract-purple-white-distorted-checkers-checkerboard-wallpaper-illustration-perfect-backdrop-wallpaper-background-banner-cover_565280-1082.jpg' alt='Premium Vector | Aesthetic cute abstract purple and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/aesthetic-cute-abstract-purple-white-distorted-checkers-checkerboard-wallpaper-illustration-perfect-backdrop-wallpaper-background-banner-cover_565280-1082.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered Purple And White Check Pattern Background Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1195374536/vector/checkered-purple-and-white-check-pattern-background-vector-illustration.jpg?s=1024x1024&w=is&k=20&c=seTT1kbEm_JGYg5ADoZdkgxQGCGIS7XZHjqkrdQDx58=' alt='Checkered Purple And White Check Pattern Background Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1195374536/vector/checkered-purple-and-white-check-pattern-background-vector-illustration.jpg?s=1024x1024&w=is&k=20&c=seTT1kbEm_JGYg5ADoZdkgxQGCGIS7XZHjqkrdQDx58=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract purple and white checkered background design 34243021 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/034/243/021/small/abstract-purple-and-white-checkered-background-design-vector.jpg' alt='Abstract purple and white checkered background design 34243021 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/034/243/021/small/abstract-purple-and-white-checkered-background-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Checkered Wallpaper Pattern White Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/light-purple-checkered-wallpaper-pattern-260nw-2063339717.jpg' alt='Light Purple Checkered Wallpaper Pattern White Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/light-purple-checkered-wallpaper-pattern-260nw-2063339717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Checkered background purple">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/2f/2f464d1ecb8c5cb846f38d62e2124173_t.jpeg' alt='Free Vectors | Checkered background purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/2f/2f464d1ecb8c5cb846f38d62e2124173_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/29/2b/ce/292bce92652bfe8bb54773bfb0d9c5fd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/29/2b/ce/292bce92652bfe8bb54773bfb0d9c5fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Boho Solid Color Backgrounds: Add Charm to Your Design</title>
+                    <meta name="description" content="Discover the beauty of boho solid color backgrounds! Ideal for enhancing your design projects, these versatile and earthy-toned backgrounds offer a minimalist vibe that's perfect for social media, digital art, and more. Transform your visuals with the laid-back elegance of bohemian style.">
+                    <meta name="keywords" content="boho solid color background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boho-solid-color-background">
+                            <span itemprop="name">boho solid color background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Solid Color Backgrounds: Add Charm to Your Design</h1>
+                <p>Boho solid color backgrounds are perfect for creating a relaxed and inviting atmosphere in any design project. These backgrounds combine earthy tones and minimalist aesthetics, making them versatile for various applications, from digital art to social media posts. Elevate your visuals with a touch of bohemian charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Boho background ideas | aesthetic wallpapers, solid color ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3a/6a/fa/3a6afabeed6b74b490bc52f8dcc1d2c6.jpg' alt='11 Boho background ideas | aesthetic wallpapers, solid color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3a/6a/fa/3a6afabeed6b74b490bc52f8dcc1d2c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Boho background ideas | aesthetic wallpapers, solid color ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9f/7a/30/9f7a303833d63bb30fb9f5d5b46606c4.jpg' alt='11 Boho background ideas | aesthetic wallpapers, solid color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9f/7a/30/9f7a303833d63bb30fb9f5d5b46606c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15197897/p/f/m/S2hO1UJMpxeUOrAJoqTInwBBrXPv6LGNEE-3WxdihXxnC3J2UkrU6zItvg/Boho%20Blush%20Pink%20Pale%20Pink%20Solid%20%23f8e1da.jpg' alt='Boho Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15197897/p/f/m/S2hO1UJMpxeUOrAJoqTInwBBrXPv6LGNEE-3WxdihXxnC3J2UkrU6zItvg/Boho%20Blush%20Pink%20Pale%20Pink%20Solid%20%23f8e1da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Boho colors background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/boho-colors-background_280388-1485.jpg' alt='Premium Photo | Boho colors background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/boho-colors-background_280388-1485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Solid Colors digital paper pack, neutral boho colors, digital  scrapbook paper, earthy solid color paper, bohemian digital backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19555586/r/il/532d24/3612393217/il_fullxfull.3612393217_cx1m.jpg' alt='Boho Solid Colors digital paper pack, neutral boho colors, digital  scrapbook paper, earthy solid color paper, bohemian digital backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19555586/r/il/532d24/3612393217/il_fullxfull.3612393217_cx1m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Beach Tan Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12178729/p/f/m/9SpP_hpjlurfmOJ7tfjuWcZbbrIa_8klNXXgR4yQ9wy_Vy53pfBK/Tiki%20Solid.jpg' alt='Solid Beach Tan Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12178729/p/f/m/9SpP_hpjlurfmOJ7tfjuWcZbbrIa_8klNXXgR4yQ9wy_Vy53pfBK/Tiki%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Muted Rainbow Backgrounds [personal and commercial use]">
+                                <img itemprop="contentUrl url" src='https://cdnapisec.kaltura.com/p/2172211/thumbnail/entry_id/1_h0ybti2f/def_height/500/def_width/500/' alt='Boho Muted Rainbow Backgrounds [personal and commercial use]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://cdnapisec.kaltura.com/p/2172211/thumbnail/entry_id/1_h0ybti2f/def_height/500/def_width/500/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Boho Solid Colors digital paper pack, fall boho colors, earthy  digital scrapbook paper, solid color paper, boho digital backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19555586/r/il/65de7b/3612393931/il_fullxfull.3612393931_py5w.jpg' alt='Autumn Boho Solid Colors digital paper pack, fall boho colors, earthy  digital scrapbook paper, solid color paper, boho digital backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19555586/r/il/65de7b/3612393931/il_fullxfull.3612393931_py5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Solid Color Background in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/111924/free-boho-solid-color-background-563a6.jpg' alt='Boho Solid Color Background in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/111924/free-boho-solid-color-background-563a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Dusty Rose Solid Color Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/plain-dusty-rose-solid-color-260nw-1799348101.jpg' alt='Plain Dusty Rose Solid Color Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/plain-dusty-rose-solid-color-260nw-1799348101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Michael Jordan: The Legend of Basketball</title>
+                    <meta name="description" content="Discover the remarkable journey of Michael Jordan, the iconic basketball player known for his unmatched skills and relentless drive. Explore his impact on the NBA and his legacy as one of the greatest athletes in sports history. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="michael jordan no background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/michael-jordan-no-background">
+                            <span itemprop="name">michael jordan no background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Michael Jordan: The Legend of Basketball</h1>
+                <p>Michael Jordan, a legendary basketball player, rose to prominence in the 1980s and 90s. His incredible skills and competitive spirit earned him six NBA championships with the Chicago Bulls. Often regarded as the greatest of all time, Jordan's influence extended beyond the court, inspiring generations of athletes and fans alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan Transparent Transparent HQ PNG Download | FreePNGimg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c3/fc/0c/c3fc0cfb13b594c61d11ebc9fe86b807.jpg' alt='Michael Jordan Transparent Transparent HQ PNG Download | FreePNGimg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c3/fc/0c/c3fc0cfb13b594c61d11ebc9fe86b807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/5/Michael-Jordan-PNG.png' alt='Michael Jordan PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1432">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/5/Michael-Jordan-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/190/4/png-clipart-michael-jordan-nba-chicago-bulls-michael-jordan-image-file-formats-computer-wallpaper-thumbnail.png' alt='Michael Jordan png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/190/4/png-clipart-michael-jordan-nba-chicago-bulls-michael-jordan-image-file-formats-computer-wallpaper-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Michael Jordan PNG Image ideas | michael jordan, png images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7d/e0/d6/7de0d6ae4e7127c883640ce1afdba663.png' alt='11 Michael Jordan PNG Image ideas | michael jordan, png images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7d/e0/d6/7de0d6ae4e7127c883640ce1afdba663.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Michael Jordan Png Image - Michael Jordan Png PNG Image ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/13-138214_michael-jordan-png-image-michael-jordan-png.png' alt='Download Michael Jordan Png Image - Michael Jordan Png PNG Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/13-138214_michael-jordan-png-image-michael-jordan-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan Background - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190619/hq/kisspng-basketball-player-t-shirt-kobe-bryant-outerwear-5d0a1cef7f0a49.0611340215609438555204.jpg' alt='Michael Jordan Background - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190619/hq/kisspng-basketball-player-t-shirt-kobe-bryant-outerwear-5d0a1cef7f0a49.0611340215609438555204.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Michael Jordan PNG Image ideas | michael jordan, png images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/be/2f/82/be2f82d85042fc28e32294073064d6f0.png' alt='11 Michael Jordan PNG Image ideas | michael jordan, png images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/be/2f/82/be2f82d85042fc28e32294073064d6f0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan PNG Vector Images with Transparent background ...">
+                                <img itemprop="contentUrl url" src='https://www.transparentpng.com/thumb/michael-jordan/hd-png-michael-jordan-photo-13.png' alt='Michael Jordan PNG Vector Images with Transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransparentPNG.com" />
+                                </span>
+                                <a href='https://www.transparentpng.com/thumb/michael-jordan/hd-png-michael-jordan-photo-13.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Michael Jordan PNG Image ideas | michael jordan, png images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/c9/9c/08c99c50e9d65045c0c95506067be604.jpg' alt='11 Michael Jordan PNG Image ideas | michael jordan, png images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/c9/9c/08c99c50e9d65045c0c95506067be604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Michael Jordan 12, Michael Jordan Pictures, Mike Jordan ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/15-154162_michael-jordan-12-michael-jordan-pictures-mike-jordan.png' alt='Download Michael Jordan 12, Michael Jordan Pictures, Mike Jordan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="412">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/15-154162_michael-jordan-12-michael-jordan-pictures-mike-jordan.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

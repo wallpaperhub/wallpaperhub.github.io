@@ -1,0 +1,129 @@
+<title>Vibrant Blue and White Palm Wallpaper for Tropical Style</title>
+                    <meta name="description" content="Discover stunning blue and white palm wallpaper that brings tropical elegance to your home. Perfect for any room, this chic design enhances decor while creating a serene atmosphere. Explore various patterns to elevate your interior style effortlessly!">
+                    <meta name="keywords" content="blue and white palm wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-palm-wallpaper">
+                            <span itemprop="name">blue and white palm wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue and White Palm Wallpaper for Tropical Style</h1>
+                <p>Transform your space with beautiful blue and white palm wallpaper. This refreshing design adds a tropical touch to any room, creating a light and airy atmosphere. Perfect for accent walls or entire rooms, it blends elegance with nature-inspired aesthetics. Elevate your home’s decor effortlessly with this stunning wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & White Charleston Palm Tree Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-white-charleston-palm-tree-wallpap-atwr.jpg' alt='Blue & White Charleston Palm Tree Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-white-charleston-palm-tree-wallpap-atwr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Transform Blue Palm Leaves Peel and Stick Wallpaper : Tools &  Home Improvement">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yRVWJCTUL.jpg' alt='Amazon.com: Transform Blue Palm Leaves Peel and Stick Wallpaper : Tools &  Home Improvement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yRVWJCTUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR10702 Seabrook Paradise Palm Wallpaper - Coastal Blue – US Wall ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/PR10702-A.jpg?v=1670439409&width=1445' alt='PR10702 Seabrook Paradise Palm Wallpaper - Coastal Blue – US Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/PR10702-A.jpg?v=1670439409&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manaus Blue Palm Frond Tropical Leaf Watercolor Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/manaus-blue-palm-frond-tropical-leaf-wa-scod-l.jpg' alt='Manaus Blue Palm Frond Tropical Leaf Watercolor Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/manaus-blue-palm-frond-tropical-leaf-wa-scod-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Blue Palm Leaf Silhouettes White Seamless Tropical  Textile Print Self Adhesive Removable and Contact Paper for Room Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vymVF4aDL.jpg' alt='Peel and Stick Wallpaper Blue Palm Leaf Silhouettes White Seamless Tropical  Textile Print Self Adhesive Removable and Contact Paper for Room Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vymVF4aDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Palm Silhouette Hampton Blue Coastal 20.5 in. x 18 ft ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/207252d0-b008-4b71-b6b8-54facb56f0c5/svn/nextwall-wallpaper-rolls-nw39812-64_1000.jpg' alt='NextWall Palm Silhouette Hampton Blue Coastal 20.5 in. x 18 ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/207252d0-b008-4b71-b6b8-54facb56f0c5/svn/nextwall-wallpaper-rolls-nw39812-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grassland Palm Peel & Stick Wallpaper in Coastal Blue">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/NW53802.jpg?v=1708028571' alt='Grassland Palm Peel & Stick Wallpaper in Coastal Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/NW53802.jpg?v=1708028571' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Monstera leaf removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Delicate-palm-leaves-design-removable-wallpaper-in-ligth-blue-color-1_1100x.jpg?v=1593951451' alt='Blue Monstera leaf removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Delicate-palm-leaves-design-removable-wallpaper-in-ligth-blue-color-1_1100x.jpg?v=1593951451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alfresco leaves Palm Leaf Wallpaper White navy blue Jungle Tropical  2744-24133">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_223.jpg?v=1563003003' alt='Alfresco leaves Palm Leaf Wallpaper White navy blue Jungle Tropical  2744-24133'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_223.jpg?v=1563003003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue, White & Sky Blue Tropical Large Palm Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/blue-white-sky-blue-tropical-large-palm-ftgx.jpg' alt='Blue, White & Sky Blue Tropical Large Palm Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/blue-white-sky-blue-tropical-large-palm-ftgx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

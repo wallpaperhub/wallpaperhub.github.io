@@ -1,0 +1,129 @@
+<title>Mastering Facis Level 3: Elevate Your Financial Skills</title>
+                    <meta name="description" content="Unlock your potential with Facis Level 3. This advanced program equips you with essential skills in financial analysis and risk management to enhance your career in finance. Perfect for professionals aiming for leadership roles. Sign up today for a transformative learning experience!">
+                    <meta name="keywords" content="facis level 3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facis-level-3">
+                            <span itemprop="name">facis level 3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Facis Level 3: Elevate Your Financial Skills</h1>
+                <p>Facis Level 3 is an advanced training program designed for professionals seeking to enhance their skills in financial analysis and auditing. This level focuses on deepening understanding of complex financial concepts, risk assessment techniques, and regulatory compliance. Ideal for those aiming for career progression in finance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What sources are covered with a FACIS® Level III?">
+                                <img itemprop="contentUrl url" src='https://usabackground.com/wp-content/uploads/FACIS-Level-3-background-check.jpg' alt='What sources are covered with a FACIS® Level III?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BCS Background Screening, LLC" />
+                                </span>
+                                <a href='https://usabackground.com/wp-content/uploads/FACIS-Level-3-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New USA check - FACIS Level 3">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/651ae2ee3ec84e438e1b03c8_New%20USA%20check%20-%20FACIS%20Level%203.webp' alt='New USA check - FACIS Level 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veremark" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63fef929dc32cb28d93d6c87/651ae2ee3ec84e438e1b03c8_New%20USA%20check%20-%20FACIS%20Level%203.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Background Check? 11 Common Background Check Types - Pre ...">
+                                <img itemprop="contentUrl url" src='https://www.pre-employ.com/wp-content/uploads/Pre-employ-FACIS-Level-3-Background-Check.png' alt='What Is A Background Check? 11 Common Background Check Types - Pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pre-Employ" />
+                                </span>
+                                <a href='https://www.pre-employ.com/wp-content/uploads/Pre-employ-FACIS-Level-3-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Many people ask us what a FACIS Level 3 search entails">
+                                <img itemprop="contentUrl url" src='https://www.safesthires.com/content/uploads/2017/05/colorFacis.png' alt='Many people ask us what a FACIS Level 3 search entails'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafestHires" />
+                                </span>
+                                <a href='https://www.safesthires.com/content/uploads/2017/05/colorFacis.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions | Verisys">
+                                <img itemprop="contentUrl url" src='https://verisys.com/wp-content/uploads/2022/11/Christopher_Power__NoV_16-01-1-scaled.jpg' alt='Frequently Asked Questions | Verisys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verisys" />
+                                </span>
+                                <a href='https://verisys.com/wp-content/uploads/2022/11/Christopher_Power__NoV_16-01-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Gaps in Healthcare Screening Programs">
+                                <img itemprop="contentUrl url" src='https://www.safesthires.com/content/uploads/2017/05/facis_numbers.png' alt='Three Gaps in Healthcare Screening Programs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafestHires" />
+                                </span>
+                                <a href='https://www.safesthires.com/content/uploads/2017/05/facis_numbers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is FACIS? Fraud Abuse Control Information System">
+                                <img itemprop="contentUrl url" src='https://verisys.com/wp-content/uploads/2020/05/Square-Headers.png' alt='What is FACIS? Fraud Abuse Control Information System'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verisys" />
+                                </span>
+                                <a href='https://verisys.com/wp-content/uploads/2020/05/Square-Headers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 3 Background Check For Employment?">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/level-3-background-check.png' alt='What Is a Level 3 Background Check For Employment?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/level-3-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FACIS Search | Background Screening |">
+                                <img itemprop="contentUrl url" src='https://www.corragroup.com/images/FACIS-clipboard-trans.png' alt='FACIS Search | Background Screening |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corra Group" />
+                                </span>
+                                <a href='https://www.corragroup.com/images/FACIS-clipboard-trans.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 3 Background Check Is NOT Federal (Sanctions & FACIS Explained)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/04/What-Is-a-Level-Three-Background-Check.png' alt='Level 3 Background Check Is NOT Federal (Sanctions & FACIS Explained)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/04/What-Is-a-Level-Three-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

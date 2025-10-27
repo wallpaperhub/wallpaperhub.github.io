@@ -1,0 +1,129 @@
+<title>Mario Underwater Adventures: Dive into the Depths</title>
+                    <meta name="description" content="Explore Mario's enchanting underwater backgrounds filled with colorful coral, diverse sea life, and thrilling challenges. Perfect for fans and gamers alike, embark on exciting underwater adventures and rediscover iconic levels in this captivating world.">
+                    <meta name="keywords" content="mario underwater background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mario-underwater-background">
+                            <span itemprop="name">mario underwater background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mario Underwater Adventures: Dive into the Depths</h1>
+                <p>Dive into the colorful world of Mario's underwater backgrounds, where vibrant coral reefs, mesmerizing sea creatures, and floating bubbles create an enchanting atmosphere. Experience the thrill of navigating through treacherous currents while collecting coins and power-ups. Whether you're reminiscing about classic stages or discovering new ones, the magic of Mario underwater adventures captivates players of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater - Super Mario Wiki, the Mario encyclopedia">
+                                <img itemprop="contentUrl url" src='https://mario.wiki.gallery/images/thumb/5/50/SMM-1-2-Underwater.jpg/1200px-SMM-1-2-Underwater.jpg' alt='Underwater - Super Mario Wiki, the Mario encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Mario Wiki" />
+                                </span>
+                                <a href='https://mario.wiki.gallery/images/thumb/5/50/SMM-1-2-Underwater.jpg/1200px-SMM-1-2-Underwater.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Underwater in Art of 16-bit Super Mario Bros Classic Video ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/mario-underwater-art-bit-super-bros-classic-video-game-pixel-design-vector-illustration-kiev-ukraine-september-developed-232560788.jpg' alt='Mario Underwater in Art of 16-bit Super Mario Bros Classic Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/mario-underwater-art-bit-super-bros-classic-video-game-pixel-design-vector-illustration-kiev-ukraine-september-developed-232560788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Super Mario Bros. Underwater Background Music - piano by ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000111706874-tqmggt-t1080x1080.jpg' alt='Stream Super Mario Bros. Underwater Background Music - piano by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000111706874-tqmggt-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supper Mario Broth - Super Mario World underwater background.">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/db7fbe5374015e64c80600bad7a94632/tumblr_n0tohnbLDO1rrftcdo1_500.gif' alt='Supper Mario Broth - Super Mario World underwater background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Supper Mario Broth" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/db7fbe5374015e64c80600bad7a94632/tumblr_n0tohnbLDO1rrftcdo1_500.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NinMobileNews on X: "New Super Mario Odyssey underwater themed ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DGG_BPTUAAAEzVu.jpg' alt='NinMobileNews on X: "New Super Mario Odyssey underwater themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DGG_BPTUAAAEzVu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Super Mario Bros. Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/154/15463.jpg' alt='Download Video Game Super Mario Bros. Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/154/15463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario underwater, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/231/977/HD-wallpaper-mario-underwater.jpg' alt='Mario underwater, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/231/977/HD-wallpaper-mario-underwater.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="98 Mario Level Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/famous-old-arcade-video-game-260nw-1773480515.jpg' alt='98 Mario Level Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/famous-old-arcade-video-game-260nw-1773480515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SMC Water Underwater Ocean – Super Mario Construct Backgrounds">
+                                <img itemprop="contentUrl url" src='https://smcbgs.wordpress.com/wp-content/uploads/2020/04/uf2yei5.png?w=1024' alt='SMC Water Underwater Ocean – Super Mario Construct Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Mario Construct Backgrounds - WordPress.com" />
+                                </span>
+                                <a href='https://smcbgs.wordpress.com/wp-content/uploads/2020/04/uf2yei5.png?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Super Mario Bros - Underwater Theme Cover by violinous ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000078866803-4v5rxm-t500x500.jpg' alt='Stream Super Mario Bros - Underwater Theme Cover by violinous ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000078866803-4v5rxm-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

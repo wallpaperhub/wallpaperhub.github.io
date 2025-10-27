@@ -1,0 +1,129 @@
+<title>Charming Pastel Pink Floral Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the beauty of pastel pink floral wallpaper! Perfect for adding a touch of elegance to any room, this wallpaper enhances your decor with a soft, inviting vibe. Ideal for bedrooms, nurseries, and more, create your dream space effortlessly. Explore our collection today!">
+                    <meta name="keywords" content="pastel pink floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pastel-pink-floral-wallpaper">
+                            <span itemprop="name">pastel pink floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Pink Floral Wallpaper for Your Space</h1>
+                <p>Pastel pink floral wallpaper adds a soft, whimsical touch to any space. Its delicate blooms create an inviting atmosphere, perfect for bedrooms, nurseries, or living areas. Whether paired with elegant furniture or minimalist decor, this wallpaper can transform your room into a serene sanctuary, embodying both charm and warmth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Blush">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_design_4d5da9d8-2d00-4bff-b81b-c927f96e3ee2.jpg?v=1633378017' alt=''Françoise Floral' Wallpaper by Clare V. - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_design_4d5da9d8-2d00-4bff-b81b-c927f96e3ee2.jpg?v=1633378017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Pink Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617&width=1080' alt='Peony Bouquet - Pink Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/Peony_pink.jpg?v=1691527617&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' alt='Magnolia Home Renewed Floral Peel & Stick Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1493RL_256afa46-0429-488d-829c-a7e228da2c3b.jpg?v=1673644326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper 17.5in X 23ft Removable Aesthetic Floral Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iLYbpx2YL._AC_UF350,350_QL80_.jpg' alt='ReWallpaper 17.5in X 23ft Removable Aesthetic Floral Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iLYbpx2YL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_detail_720x.jpg?v=1633378004' alt=''Françoise Floral' Wallpaper by Clare V. - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Pink_detail_720x.jpg?v=1633378004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Floral Pink Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.shabbychic.com/cdn/shop/files/125127_1_084a3dea-b4bf-425e-a1ff-9033b5ac9a96.jpg?v=1724859796' alt='Garden Floral Pink Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shabby Chic" />
+                                </span>
+                                <a href='http://www.shabbychic.com/cdn/shop/files/125127_1_084a3dea-b4bf-425e-a1ff-9033b5ac9a96.jpg?v=1724859796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Watercolor Roses Background Flowers Wallpaper Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18820237/r/il/783ebd/2827919690/il_fullxfull.2827919690_eetl.jpg' alt='Pastel Pink Watercolor Roses Background Flowers Wallpaper Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18820237/r/il/783ebd/2827919690/il_fullxfull.2827919690_eetl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Pink Posie Floral Nursery Kid's Wallpaper, Children's ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37911932/r/il/4d7289/4413057278/il_570xN.4413057278_49yi.jpg' alt='Removable Pink Posie Floral Nursery Kid's Wallpaper, Children's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37911932/r/il/4d7289/4413057278/il_570xN.4413057278_49yi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roommates Watercolor Floral Peel And Stick Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6756057645102_35fe309b-85ff-424b-828d-74d6fe9f95f7.jpg?v=1657322041' alt='Roommates Watercolor Floral Peel And Stick Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6756057645102_35fe309b-85ff-424b-828d-74d6fe9f95f7.jpg?v=1657322041' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pastel Floral Wallpaper - Shop Now on Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/42079/pink_pastel_floral_masked.jpg' alt='Pink Pastel Floral Wallpaper - Shop Now on Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/42079/pink_pastel_floral_masked.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

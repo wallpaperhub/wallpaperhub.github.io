@@ -1,0 +1,129 @@
+<title>Explore the Nordic Background: Culture & Heritage</title>
+                    <meta name="description" content="Discover the Nordic background, highlighting the culture, history, and stunning landscapes of Denmark, Finland, Iceland, Norway, and Sweden. Learn about unique traditions, Viking heritage, and the region's commitment to sustainability and equality. Dive into the essence of Nordic identity today!">
+                    <meta name="keywords" content="nordic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nordic-background">
+                            <span itemprop="name">nordic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Nordic Background: Culture & Heritage</h1>
+                <p>The Nordic background refers to the rich cultural, historical, and linguistic heritage of the Nordic countries: Denmark, Finland, Iceland, Norway, and Sweden. This region is known for its stunning landscapes, progressive societies, and a focus on sustainability and equality. Traditions like Midsummer and the influence of Viking history shape its unique identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nordic Background Images – Browse 464,516 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/93/97/38/360_F_893973864_lFpkhVGGHnG36e9I9hHgP2sxhpo971eV.jpg' alt='Nordic Background Images – Browse 464,516 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/93/97/38/360_F_893973864_lFpkhVGGHnG36e9I9hHgP2sxhpo971eV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nordic Landscape. [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pjvic9eq4vt41.jpg' alt='Nordic Landscape. [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pjvic9eq4vt41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nordic theme : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0hhrv0qwb9r71.jpg' alt='Nordic theme : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0hhrv0qwb9r71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nordic runes(2560X1600) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nordic-runes-2560x1600-v0-qcnvtadbu5j81.png?auto=webp&s=d847d76e51b76fd11c8cf4d4a2b16810835639a3' alt='Nordic runes(2560X1600) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nordic-runes-2560x1600-v0-qcnvtadbu5j81.png?auto=webp&s=d847d76e51b76fd11c8cf4d4a2b16810835639a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking Background Images – Browse 83,009 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/63/95/96/360_F_263959640_MiwWBtjsRmPoNoRLmOJCQaLVOHWRkyix.jpg' alt='Viking Background Images – Browse 83,009 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/63/95/96/360_F_263959640_MiwWBtjsRmPoNoRLmOJCQaLVOHWRkyix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Wallpaper | Nordic Ruins in a Snowy Blizzard - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxq9Dss_wQR948dvtYDwcogrB35p_imHjDN5ujkzptZG5eVeA7UrMSvPRG7RJtlUURkdTxY6ofkK5uvdrHMnAAUuNWAI6uREHZ74f1-s9nOITMlcgbffqi7HJLknS0ltAKJ_MrZ9gyMDU0tmxuQOgjemzaJjWFcsMSw1AZAbyLug6kzlnEsElHOoNztg/s5824/Nordic%20Ruins%20in%20a%20Snowy%20Blizzard%204K%20Wallpaper%20562023.png' alt='4K Wallpaper | Nordic Ruins in a Snowy Blizzard - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5824">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxq9Dss_wQR948dvtYDwcogrB35p_imHjDN5ujkzptZG5eVeA7UrMSvPRG7RJtlUURkdTxY6ofkK5uvdrHMnAAUuNWAI6uREHZ74f1-s9nOITMlcgbffqi7HJLknS0ltAKJ_MrZ9gyMDU0tmxuQOgjemzaJjWFcsMSw1AZAbyLug6kzlnEsElHOoNztg/s5824/Nordic%20Ruins%20in%20a%20Snowy%20Blizzard%204K%20Wallpaper%20562023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210630/pngtree-vikings-symbols-image_735267.jpg' alt='Viking Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210630/pngtree-vikings-symbols-image_735267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Hd Norse Viking Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-hd-norse-viking-luxktzqd2panelmz.jpg' alt='Dark Hd Norse Viking Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-hd-norse-viking-luxktzqd2panelmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nordic Snowstorm. [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jq9pg7kvf7u41.png' alt='Nordic Snowstorm. [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jq9pg7kvf7u41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viking Background Images – Browse 83,009 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/65/67/94/360_F_1065679421_qtCIwN9kfGdJFElBJV0UnRQ7atpICz1V.jpg' alt='Viking Background Images – Browse 83,009 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/65/67/94/360_F_1065679421_qtCIwN9kfGdJFElBJV0UnRQ7atpICz1V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

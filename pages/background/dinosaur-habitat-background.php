@@ -1,0 +1,129 @@
+<title>Understanding Dinosaur Habitats: A Journey Through Time</title>
+                    <meta name="description" content="Explore the fascinating world of dinosaur habitats, where lush forests and arid deserts shaped their lives. Discover how these prehistoric creatures adapted to diverse environments during the Mesozoic Era, offering insights into their survival and evolution. Join us on a journey through time!">
+                    <meta name="keywords" content="dinosaur habitat background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinosaur-habitat-background">
+                            <span itemprop="name">dinosaur habitat background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Dinosaur Habitats: A Journey Through Time</h1>
+                <p>Dinosaur habitats varied widely, encompassing lush forests, arid deserts, and coastal regions. During the Mesozoic Era, dinosaurs thrived in environments rich in vegetation, providing ample food sources. Different species adapted to unique surroundings, from the dense jungles of the Late Jurassic to the open plains of the Late Cretaceous, showcasing nature's diversity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/529998558/photo/jurassic-mamenchisaurus-habitat.jpg?s=612x612&w=0&k=20&c=Ym_W5h85VhRfMaUj31mpFSXYRXkQdrGwIlz6OrL7VSM=' alt='9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/529998558/photo/jurassic-mamenchisaurus-habitat.jpg?s=612x612&w=0&k=20&c=Ym_W5h85VhRfMaUj31mpFSXYRXkQdrGwIlz6OrL7VSM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1050196856/vector/vector-illustration-of-silhouette-of-dinosaurs-on-the-jurassic-period-landscape-with.jpg?s=612x612&w=0&k=20&c=J-0l37ErexNz4yCrrdktRGVSmpOXVLV5JceNEe7xhfc=' alt='9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1050196856/vector/vector-illustration-of-silhouette-of-dinosaurs-on-the-jurassic-period-landscape-with.jpg?s=612x612&w=0&k=20&c=J-0l37ErexNz4yCrrdktRGVSmpOXVLV5JceNEe7xhfc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dinosaur habitat - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/60/d2/b1/60d2b1b28cc4e32d49d6b5319bfc4834.jpg' alt='dinosaur habitat - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/60/d2/b1/60d2b1b28cc4e32d49d6b5319bfc4834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35,400+ Dinosaur Habitat Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/498758308/vector/prehistoric-landscape-with-volcanoes.jpg?s=612x612&w=0&k=20&c=n56VJmDKAPWWelZBS_93Sda-kZUi9oWfR9c3NRL5t_Q=' alt='35,400+ Dinosaur Habitat Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/498758308/vector/prehistoric-landscape-with-volcanoes.jpg?s=612x612&w=0&k=20&c=n56VJmDKAPWWelZBS_93Sda-kZUi9oWfR9c3NRL5t_Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/809864030/vector/prehistoric-landscape-with-dinosaurs-mountains-and-plants.jpg?s=612x612&w=0&k=20&c=ikfzKee3e6IFB--q5MaNG3fViT5iNK6iUHf6i-fqzgM=' alt='9,200+ Dinosaur Landscape Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/809864030/vector/prehistoric-landscape-with-dinosaurs-mountains-and-plants.jpg?s=612x612&w=0&k=20&c=ikfzKee3e6IFB--q5MaNG3fViT5iNK6iUHf6i-fqzgM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,900+ Dinosaur Habitat Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436628327/photo/dinosaurs-in-the-forest.jpg?s=612x612&w=0&k=20&c=jNlYnU6LEdYRQckQR6_lmYGBmw6DccMe9XpT7aXEYfc=' alt='60,900+ Dinosaur Habitat Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436628327/photo/dinosaurs-in-the-forest.jpg?s=612x612&w=0&k=20&c=jNlYnU6LEdYRQckQR6_lmYGBmw6DccMe9XpT7aXEYfc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tyrannosaurus Rex Habitat Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ancient-dinosaurs-lived-nature-park-260nw-2211466969.jpg' alt='Tyrannosaurus Rex Habitat Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ancient-dinosaurs-lived-nature-park-260nw-2211466969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaurs Diorama Craft Project. TeachersMag.com">
+                                <img itemprop="contentUrl url" src='http://teachersmag.com/wp-content/uploads/2019/12/Dino2.jpg' alt='Dinosaurs Diorama Craft Project. TeachersMag.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeachersMag.com" />
+                                </span>
+                                <a href='http://teachersmag.com/wp-content/uploads/2019/12/Dino2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/78/96/85/360_F_578968585_NIPEtzXnbifuEnM608PMDsrOeeLkAZed.jpg' alt='Dinosaur Background Images – Browse 253,202 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/78/96/85/360_F_578968585_NIPEtzXnbifuEnM608PMDsrOeeLkAZed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Did Dinosaurs Live?">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/NjXdDbdRnQxpnMSJuCOQxwnwlLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/interior-of-a-rainforest--malaysia-149113572-5b48090146e0fb0037b9903c.jpg' alt='Where Did Dinosaurs Live?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/NjXdDbdRnQxpnMSJuCOQxwnwlLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/interior-of-a-rainforest--malaysia-149113572-5b48090146e0fb0037b9903c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

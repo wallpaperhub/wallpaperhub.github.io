@@ -1,0 +1,129 @@
+<title>Rosa Parks PNG Images: Honor a Civil Rights Icon</title>
+                    <meta name="description" content="Discover a collection of Rosa Parks PNG images, perfect for educational and creative projects. Celebrate the legacy of this civil rights icon with high-quality visuals that represent her courage and impact on American history.">
+                    <meta name="keywords" content="rosa parks png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rosa-parks-png">
+                            <span itemprop="name">rosa parks png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rosa Parks PNG Images: Honor a Civil Rights Icon</h1>
+                <p>Rosa Parks was a prominent figure in the American civil rights movement, best known for her pivotal role in the Montgomery Bus Boycott. If you're looking for high-quality PNG images of Rosa Parks, you'll find several options that capture her legacy. Use these images for educational projects or to honor her contributions to justice and equality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/download/218772/rosaparks-face.svg' alt='Rosa Parks - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/download/218772/rosaparks-face.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks SVG / SVG Cut File / Car Decal SVG / Instant Download /  Printable vector clip art / Silhouette & Cricut / Black">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27469994/r/il/33103d/3674095855/il_fullxfull.3674095855_50mn.jpg' alt='Rosa Parks SVG / SVG Cut File / Car Decal SVG / Instant Download /  Printable vector clip art / Silhouette & Cricut / Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27469994/r/il/33103d/3674095855/il_fullxfull.3674095855_50mn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/128/959/png-clipart-rosa-parks-montgomery-bus-boycott-african-american-civil-rights-movement-tuskegee-freedom-riders-jay-z-miscellaneous-photography-thumbnail.png' alt='Rosa Parks png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/128/959/png-clipart-rosa-parks-montgomery-bus-boycott-african-american-civil-rights-movement-tuskegee-freedom-riders-jay-z-miscellaneous-photography-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks Legacy">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/HIr7380xwMaJxbB1sSzUS6C63cw.png' alt='Rosa Parks Legacy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Confinity" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/HIr7380xwMaJxbB1sSzUS6C63cw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks - Women on 20s">
+                                <img itemprop="contentUrl url" src='https://assets.nationbuilder.com/forwardfokus/pages/702/meta_images/original/Rosa_Parks.png?1446242830' alt='Rosa Parks - Women on 20s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women on 20s" />
+                                </span>
+                                <a href='https://assets.nationbuilder.com/forwardfokus/pages/702/meta_images/original/Rosa_Parks.png?1446242830' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks' Birthday Celebration Should Be Vegetarian—Just Like ...">
+                                <img itemprop="contentUrl url" src='https://www.peta.org/wp-content/uploads/2013/10/4274.lossless_2D00_page1_2D00_560px_2D00_Rosa_5F00_Parks_5F002800_detail_2900_.tiff-_2800_2_2900_.png' alt='Rosa Parks' Birthday Celebration Should Be Vegetarian—Just Like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PETA" />
+                                </span>
+                                <a href='https://www.peta.org/wp-content/uploads/2013/10/4274.lossless_2D00_page1_2D00_560px_2D00_Rosa_5F00_Parks_5F002800_detail_2900_.tiff-_2800_2_2900_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Maya Angelou And Malcolm X - Png Of Rosa Parks PNG Image ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/939-9392651_maya-angelou-and-malcolm-x-png-of-rosa.png' alt='Download Maya Angelou And Malcolm X - Png Of Rosa Parks PNG Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/939-9392651_maya-angelou-and-malcolm-x-png-of-rosa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks - Amazons Watch Magazine">
+                                <img itemprop="contentUrl url" src='https://www.amazonswatchmagazine.com/wp-content/uploads/2022/08/Rosa-Parks.png' alt='Rosa Parks - Amazons Watch Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazons Watch Magazine" />
+                                </span>
+                                <a href='https://www.amazonswatchmagazine.com/wp-content/uploads/2022/08/Rosa-Parks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Parks - Forge of Empires - Wiki EN">
+                                <img itemprop="contentUrl url" src='https://en.wiki.forgeofempires.com/images/6/67/Allage_rosa_large_300.png' alt='Rosa Parks - Forge of Empires - Wiki EN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forge of Empires - Wiki EN" />
+                                </span>
+                                <a href='https://en.wiki.forgeofempires.com/images/6/67/Allage_rosa_large_300.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today in 1913, Rosa Parks was born in... - Captain Mark Kelly ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3638839646171267' alt='Today in 1913, Rosa Parks was born in... - Captain Mark Kelly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3638839646171267' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

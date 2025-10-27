@@ -1,0 +1,129 @@
+<title>PowerPoint Backgrounds for a Welcoming Church Experience</title>
+                    <meta name="description" content="Discover the perfect PowerPoint background for your church! Our templates are designed to enhance your worship services, fostering a welcoming environment. Easy to use and visually appealing, they are ideal for sharing announcements and engaging your congregation. Make your presentations impactful!">
+                    <meta name="keywords" content="powerpoint welcome to church background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/powerpoint-welcome-to-church-background">
+                            <span itemprop="name">powerpoint welcome to church background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>PowerPoint Backgrounds for a Welcoming Church Experience</h1>
+                <p>Welcome to our church! This PowerPoint background sets a warm and inviting tone for our services. With vibrant colors and serene visuals, it creates a peaceful atmosphere for worship and fellowship. Use this template to enhance your presentations, share announcements, or engage the congregation in meaningful discussions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Welcome Church PowerPoint Slides – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1250720428037_80/slide-02.jpg' alt='ShareFaith Media » Welcome Church PowerPoint Slides – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1250720428037_80/slide-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Church Visuals including motion backgrounds, countdown ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/98/e1/8f/98e18fa93f2125b59df22448732377ef.jpg' alt='Creative Church Visuals including motion backgrounds, countdown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/98/e1/8f/98e18fa93f2125b59df22448732377ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Welcome Cross PowerPoint – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1250720701072_82/slide-12.jpg' alt='ShareFaith Media » Welcome Cross PowerPoint – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1250720701072_82/slide-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Preaching Slide: Welcome to Church (Paint Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.cdn-sc.com/MediaVaultImages/7963_thumbnail.jpg' alt='Church Preaching Slide: Welcome to Church (Paint Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sermon Central" />
+                                </span>
+                                <a href='https://i.cdn-sc.com/MediaVaultImages/7963_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generic Welcome Slides - Church Media Drop">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/churchmediadrop.com/wp-content/uploads/edd/2017/08/Welcome-Slide-1_720p.jpg?fit=1280%2C720&ssl=1' alt='Generic Welcome Slides - Church Media Drop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Church Media Drop" />
+                                </span>
+                                <a href='https://i0.wp.com/churchmediadrop.com/wp-content/uploads/edd/2017/08/Welcome-Slide-1_720p.jpg?fit=1280%2C720&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Worship PowerPoint Church Template – ShareFaith ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1327423613015_340/slide-12.jpg' alt='ShareFaith Media » Worship PowerPoint Church Template – ShareFaith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1327423613015_340/slide-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WELCOME TO CHURCH 4">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/pow/ss/welcometochurch4.jpg' alt='WELCOME TO CHURCH 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorshipHouse Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/pow/ss/welcometochurch4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Church Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-church-design-template-0e51e6ae9c9ebedb1c90a8b3ade608ab_screen.jpg?ts=1664972878' alt='Welcome to Church Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-church-design-template-0e51e6ae9c9ebedb1c90a8b3ade608ab_screen.jpg?ts=1664972878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Reborn Church PowerPoint Template – ShareFaith ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1330385246931_16/slide-12.jpg' alt='ShareFaith Media » Reborn Church PowerPoint Template – ShareFaith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1330385246931_16/slide-12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Cross Church Welcome PowerPoint">
+                                <img itemprop="contentUrl url" src='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2020/03/24211334/CrossDrop_Welcome.png' alt='Colorful Cross Church Welcome PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Progressive Church Media" />
+                                </span>
+                                <a href='https://cdn1.progressivechurchmedia.com/wp-content/uploads/2020/03/24211334/CrossDrop_Welcome.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

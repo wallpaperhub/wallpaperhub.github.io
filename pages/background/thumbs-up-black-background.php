@@ -1,0 +1,129 @@
+<title>Thumbs Up: A Powerful Symbol on Black Background</title>
+                    <meta name="description" content="Discover the impact of a thumbs-up against a sleek black background. This imagery symbolizes positivity and support, perfect for enhancing your message. Explore how this powerful visual can elevate your communications and inspire confidence in your audience.">
+                    <meta name="keywords" content="thumbs up black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thumbs-up-black-background">
+                            <span itemprop="name">thumbs up black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thumbs Up: A Powerful Symbol on Black Background</h1>
+                <p>The striking contrast of a thumbs-up gesture against a black background evokes a sense of positivity and empowerment. This simple yet powerful symbol communicates approval and encouragement, making it an effective element in visual communications. Utilize this imagery to enhance messages of support and affirmation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A white hand with the thumb up on a black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/white-hand-with-thumb-up-black-background_24886-1005.jpg' alt='Premium Vector | A white hand with the thumb up on a black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/white-hand-with-thumb-up-black-background_24886-1005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Thumbs Up Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/034/797/485/small_2x/thumb-up-symbol-of-excellent-hitchhiking-man-black-background-ai-generated-photo.jpg' alt='Black Thumbs Up Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/034/797/485/small_2x/thumb-up-symbol-of-excellent-hitchhiking-man-black-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thumb up hand on black background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/43/95/thumb-up-hand-on-black-background-vector-22854395.jpg' alt='Thumb up hand on black background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/43/95/thumb-up-hand-on-black-background-vector-22854395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation Flickering Thumbs Emoji Icon On">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1042768762/thumb/10.jpg?ip=x480' alt='Animation Flickering Thumbs Emoji Icon On'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1042768762/thumb/10.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Skin Tone Thumbs Animated Emoji">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3596905305/thumb/1.jpg?ip=x480' alt='Light Skin Tone Thumbs Animated Emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3596905305/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="241 Thumbs Up Black Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/936237136/vector/thumbs-up-icon.jpg?s=612x612&w=gi&k=20&c=rIOpUyS01HA6PUvokhrLSCGuCPTIK8lzv1TJx7UcWDg=' alt='241 Thumbs Up Black Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/936237136/vector/thumbs-up-icon.jpg?s=612x612&w=gi&k=20&c=rIOpUyS01HA6PUvokhrLSCGuCPTIK8lzv1TJx7UcWDg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thumbs Up Black Images – Browse 127,359 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/33/56/93/360_F_633569326_aQdB3FVryJ6oB0urzjXbjUa10xcRJq05.jpg' alt='Thumbs Up Black Images – Browse 127,359 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/33/56/93/360_F_633569326_aQdB3FVryJ6oB0urzjXbjUa10xcRJq05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Thumbs Up Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/018/896/694/non_2x/thumb-up-of-caucasian-female-hand-on-black-background-photo.jpg' alt='Black Thumbs Up Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/018/896/694/non_2x/thumb-up-of-caucasian-female-hand-on-black-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Neon Thumbs Animation On Black">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1046160931/thumb/4.jpg?ip=x480' alt='4k Neon Thumbs Animation On Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1046160931/thumb/4.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector White Thumb Up Icon On Black Background Royalty Free SVG ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700011/29680486-vector-white-thumb-up-icon-on-black-background.jpg' alt='Vector White Thumb Up Icon On Black Background Royalty Free SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700011/29680486-vector-white-thumb-up-icon-on-black-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

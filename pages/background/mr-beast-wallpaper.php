@@ -1,0 +1,129 @@
+<title>Stunning Mr. Beast Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a diverse selection of Mr. Beast wallpapers that brighten up your screen! Download vibrant designs showcasing his thrilling challenges and philanthropic moments. Perfect for fans looking to personalize their devices with inspiring visuals from the beloved YouTuber.">
+                    <meta name="keywords" content="mr beast wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mr-beast-wallpaper">
+                            <span itemprop="name">mr beast wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mr. Beast Wallpapers for Your Device</h1>
+                <p>Discover the ultimate Mr. Beast wallpaper collection featuring vibrant images and inspiring quotes from the famous YouTuber. Transform your device with captivating visuals that reflect his adventurous spirit, philanthropy, and entertaining challenges. Bring Mr. Beast's world to your screen and stay motivated every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Beast wallpaper ideas | beast wallpaper, beast, mr. beast">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/83/97/57/83975735e3eed25057bcc0498ad094e7.png' alt='8 Beast wallpaper ideas | beast wallpaper, beast, mr. beast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1054">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/83/97/57/83975735e3eed25057bcc0498ad094e7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MrBeast Wallpapers (14 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/d/c/23456-1920x1080-desktop-full-hd-mrbeast-wallpaper-image.jpg' alt='MrBeast Wallpapers (14 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/d/c/23456-1920x1080-desktop-full-hd-mrbeast-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mr Beast Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-mr-beast-logo-dvlm4poo2sk968cu.jpg' alt='100+] Mr Beast Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-mr-beast-logo-dvlm4poo2sk968cu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mr Beast Logo In Blue Backdrop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/mr-beast-logo-in-blue-backdrop-kevdndxu9anc7rol.jpg' alt='Mr Beast Logo In Blue Backdrop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/mr-beast-logo-in-blue-backdrop-kevdndxu9anc7rol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mr beast wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/677/237/HD-wallpaper-mrbeast-mr-beast-youtube.jpg' alt='HD mr beast wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/677/237/HD-wallpaper-mrbeast-mr-beast-youtube.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edit for a Samsung Galaxy S10+ Background : r/MrBeast">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/c1f8ymlpm1131.png?width=640&crop=smart&auto=webp&s=0c144278de7804feeeb23ab5faf70ab8cd724fbf' alt='Edit for a Samsung Galaxy S10+ Background : r/MrBeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/c1f8ymlpm1131.png?width=640&crop=smart&auto=webp&s=0c144278de7804feeeb23ab5faf70ab8cd724fbf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mrbeast iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/52/bd/b852bd4139d01123b12d7403ae3fa7ad.jpg' alt='mrbeast iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/52/bd/b852bd4139d01123b12d7403ae3fa7ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MR Beast, Jimmy Donaldson, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/690/470/HD-wallpaper-mr-beast-jimmy-donaldson.jpg' alt='MR Beast, Jimmy Donaldson, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/690/470/HD-wallpaper-mr-beast-jimmy-donaldson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mr Beast Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mr-beast-logo-abstract-stripes-backdrop-wffr6q2xp3dqj5s5.jpg' alt='100+] Mr Beast Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mr-beast-logo-abstract-stripes-backdrop-wffr6q2xp3dqj5s5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A cool MrBeast wallpaper for Halloween. : r/MrBeast">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ww8gqs32wys51.jpg' alt='A cool MrBeast wallpaper for Halloween. : r/MrBeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ww8gqs32wys51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

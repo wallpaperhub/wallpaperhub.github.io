@@ -1,0 +1,129 @@
+<title>Inuyasha Desktop Wallpaper - Stunning Anime Backgrounds</title>
+                    <meta name="description" content="Discover a collection of breathtaking Inuyasha desktop wallpapers. Perfect for anime fans, these high-quality images will enhance your computer screen while showcasing the beloved characters and art style. Download now for a vibrant addition to your desktop! Perfectly sized for mobile display.">
+                    <meta name="keywords" content="inuyasha desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/inuyasha-desktop-wallpaper">
+                            <span itemprop="name">inuyasha desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inuyasha Desktop Wallpaper - Stunning Anime Backgrounds</h1>
+                <p>Transform your desktop with stunning Inuyasha wallpapers! Immerse yourself in the magical world of feudal Japan, featuring iconic characters like Inuyasha, Kagome, and Sesshomaru. Perfect for fans of the anime and manga series, these high-quality images will bring your screen to life. Download your favorite now and showcase your love for this timeless classic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha HD Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/757/757223.jpg' alt='InuYasha HD Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2147">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/757/757223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha Adventure - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/126/thumb-1920-126084.jpg' alt='InuYasha Adventure - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/126/thumb-1920-126084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Inuyasha 4K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/86/d2/7f86d299fd837aefbb7e7de1f005d041.jpg' alt='Awesome Inuyasha 4K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/86/d2/7f86d299fd837aefbb7e7de1f005d041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/f/e/752922-1920x1395-desktop-hd-inuyasha-wallpaper-photo.jpg' alt='InuYasha Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/f/e/752922-1920x1395-desktop-hd-inuyasha-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InuYasha Adventure HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/227/227924.jpg' alt='InuYasha Adventure HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/227/227924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper brothers, Inuyasha, InuYasha, Seshoumaru for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/d/35/inuyasha-inuiasha-seshoumaru-bratia.webp' alt='Wallpaper brothers, Inuyasha, InuYasha, Seshoumaru for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/d/35/inuyasha-inuiasha-seshoumaru-bratia.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Inuyasha Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inuyasha-and-kagome-in-garden-5l3wljcclvbi4nnw.jpg' alt='100+] Inuyasha Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inuyasha-and-kagome-in-garden-5l3wljcclvbi4nnw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some photos I used to have as my desktop wallpaper when I was a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/r7ra5unnr7h51.jpg?width=640&crop=smart&auto=webp&s=c5427cd2657385cf544ad17cd25de3050032116b' alt='Some photos I used to have as my desktop wallpaper when I was a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/r7ra5unnr7h51.jpg?width=640&crop=smart&auto=webp&s=c5427cd2657385cf544ad17cd25de3050032116b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inuyasha HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/glowing-red-inuyasha-8wo70zyclgx0b0id.jpg' alt='Inuyasha HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/glowing-red-inuyasha-8wo70zyclgx0b0id.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inuyasha | Minimalist by matsumayu on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/cc/b6/a8ccb6156b36f7991b7acfc6e506a389.jpg' alt='Inuyasha | Minimalist by matsumayu on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/cc/b6/a8ccb6156b36f7991b7acfc6e506a389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

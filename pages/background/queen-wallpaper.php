@@ -1,0 +1,129 @@
+<title>Elegant Queen Wallpaper Designs for Your Home</title>
+                    <meta name="description" content="Discover exquisite queen wallpaper options to elevate your home decor. From classic elegance to bold patterns, find the perfect style that showcases your personality. Shop now for high-quality designs that bring your walls to life! Perfect for all spaces and tastes.">
+                    <meta name="keywords" content="queen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/queen-wallpaper">
+                            <span itemprop="name">queen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Queen Wallpaper Designs for Your Home</h1>
+                <p>Transform your space with stunning queen wallpaper designs! Whether you're after a regal touch or colorful patterns, queen wallpapers add elegance to any room. Explore various styles that cater to both classic and modern tastes, making your walls a statement of beauty. Find the perfect queen wallpaper that reflects your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Queen Wallpapers ideas | queens wallpaper, queen wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a1/64/4f/a1644f3e76464188478ddf02da376a9e.jpg' alt='24 Queen Wallpapers ideas | queens wallpaper, queen wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a1/64/4f/a1644f3e76464188478ddf02da376a9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen Wallpapers (17 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/e/1/36682-1836x3264-samsung-hd-queen-background.jpg' alt='Queen Wallpapers (17 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1836">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/e/1/36682-1836x3264-samsung-hd-queen-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so im going to leave pinterest im trying to get people too like ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/7b/d5/f97bd52f2c3feb7c60c3299071476402.jpg' alt='so im going to leave pinterest im trying to get people too like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/7b/d5/f97bd52f2c3feb7c60c3299071476402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some wallpapers based on Queen album covers, do they look ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dzpfi7m6pdr91.jpg?width=640&crop=smart&auto=webp&s=bbac6607551785b61f3d85ae4cf14b3f4824714e' alt='Made some wallpapers based on Queen album covers, do they look ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dzpfi7m6pdr91.jpg?width=640&crop=smart&auto=webp&s=bbac6607551785b61f3d85ae4cf14b3f4824714e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen wallpaper by boreto8 - Download on ZEDGE™ | 99e3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/1c/3b/241c3b49edccbae854fe5fe8e86b4673.jpg' alt='Queen wallpaper by boreto8 - Download on ZEDGE™ | 99e3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/1c/3b/241c3b49edccbae854fe5fe8e86b4673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Queen Girly Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/king-and-queen-crown-text-jlpyesf9f9ew4hli.webp' alt='Marble Queen Girly Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/king-and-queen-crown-text-jlpyesf9f9ew4hli.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Queen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-queen-1080-x-1080-wallpaper-stlypkup7gd8p04a.jpg' alt='100+] Cute Queen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-queen-1080-x-1080-wallpaper-stlypkup7gd8p04a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen Wallpapers (17 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/1/2/36657-1242x2208-mobile-hd-queen-wallpaper.jpg' alt='Queen Wallpapers (17 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/1/2/36657-1242x2208-mobile-hd-queen-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD single queen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/530/151/HD-wallpaper-queen-landscape-crown-girl-clouds-sky-beautiful-art-landscapes-single.jpg' alt='HD single queen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/530/151/HD-wallpaper-queen-landscape-crown-girl-clouds-sky-beautiful-art-landscapes-single.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Music Queen (Band) HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/805/805820.jpg' alt='Download Music Queen (Band) HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/805/805820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

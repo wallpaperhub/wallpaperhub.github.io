@@ -1,0 +1,129 @@
+<title>Stunning Mustang Lock Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of incredible Mustang lock screen wallpapers that bring your screen to life. Perfect for car enthusiasts, these high-quality images feature iconic Ford Mustang designs, allowing you to showcase your love for speed and style every time you check your device. Download now and personalize your screen!">
+                    <meta name="keywords" content="lock screen mustang wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-mustang-wallpaper">
+                            <span itemprop="name">lock screen mustang wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mustang Lock Screen Wallpapers for Your Device</h1>
+                <p>Enhance your device's style with stunning lock screen Mustang wallpapers. Capture the essence of power and elegance with high-resolution images featuring classic and modern Ford Mustang models. Perfect for car enthusiasts, these wallpapers showcase iconic designs and vibrant colors, bringing your screen to life and showcasing your passion for automobiles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang+chalnger">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/85/fb/4b85fbde8b4837a06117f32e9b1d08d9.jpg' alt='Mustang+chalnger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/85/fb/4b85fbde8b4837a06117f32e9b1d08d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Mustang Bullitt 2019 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/ae/64/8fae64077c20c981e9b1dc5975e528eb.jpg' alt='Ford Mustang Bullitt 2019 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/ae/64/8fae64077c20c981e9b1dc5975e528eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Lock Screens | 2015+ S550 Mustang Forum (GT, EcoBoost ...">
+                                <img itemprop="contentUrl url" src='https://www.mustang6g.com/forums/attachments/lock-screen-jpeg.394183/' alt='iPhone Lock Screens | 2015+ S550 Mustang Forum (GT, EcoBoost ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="877">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mustang6G.com" />
+                                </span>
+                                <a href='https://www.mustang6g.com/forums/attachments/lock-screen-jpeg.394183/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang Power, black, led, lock, logo, rainbow, red, screen, ultra ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/827/294/HD-wallpaper-mustang-power-black-led-lock-logo-rainbow-red-screen-ultra-view.jpg' alt='Mustang Power, black, led, lock, logo, rainbow, red, screen, ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/827/294/HD-wallpaper-mustang-power-black-led-lock-logo-rainbow-red-screen-ultra-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang, ford, muscle, power, turbo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/796/766/HD-wallpaper-mustang-ford-muscle-power-turbo.jpg' alt='Mustang, ford, muscle, power, turbo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/796/766/HD-wallpaper-mustang-ford-muscle-power-turbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby Gt iPhone Lock Screen Wallpaper | 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/shelby-gt.png' alt='Shelby Gt iPhone Lock Screen Wallpaper | 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/shelby-gt.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelby Mustang Photos, Download The BEST Free Shelby Mustang Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/15094173/pexels-photo-15094173.jpeg?cs=srgb&dl=pexels-rodrigo-chable-380091428-15094173.jpg&fm=jpg' alt='Shelby Mustang Photos, Download The BEST Free Shelby Mustang Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3603">
+                                <meta itemprop="height" content="5404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/15094173/pexels-photo-15094173.jpeg?cs=srgb&dl=pexels-rodrigo-chable-380091428-15094173.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustang car wallpapers app - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/gEa9ocKrNlE9y6I188rUdoHVCWpf_TPFZuxev474P7eTgosAflSbuHKKDKq-Sxuivr-E=w526-h296-rw' alt='Mustang car wallpapers app - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/gEa9ocKrNlE9y6I188rUdoHVCWpf_TPFZuxev474P7eTgosAflSbuHKKDKq-Sxuivr-E=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="not sure if repost but here is a phone wallpaper : r/Mustang">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/KlmrylE.jpg' alt='not sure if repost but here is a phone wallpaper : r/Mustang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/KlmrylE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/3e/17/443e175d7dcc4556e5a167f0491c4aed.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/3e/17/443e175d7dcc4556e5a167f0491c4aed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

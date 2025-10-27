@@ -1,0 +1,129 @@
+<title>Candy Style Edit Backgrounds: Sweeten Your Photos</title>
+                    <meta name="description" content="Explore vibrant candy style edit backgrounds to elevate your photos! Perfect for social media and personal projects, these playful and colorful designs will add flair and charm. Transform your images and attract attention with delightful aesthetics that sweeten any visual experience! Perfect for mobile viewing!">
+                    <meta name="keywords" content="candy style edit background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-style-edit-background">
+                            <span itemprop="name">candy style edit background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Style Edit Backgrounds: Sweeten Your Photos</h1>
+                <p>Transform your images with a candy style edit background! This vibrant and playful aesthetic features pastel colors, sweet motifs, and whimsical designs, perfect for social media posts and personal projects. Create a dreamy vibe that captivates audiences and adds a touch of fun to any photo. Dive into a world of colorful creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Style Background | Alight Motion Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/086D0B8AaWU/maxresdefault.jpg' alt='Candy Style Background | Alight Motion Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/086D0B8AaWU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Candy Style Backgrounds/Overlays for editors !">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/44kgQX6wym0/maxresdefault.jpg' alt='Free Candy Style Backgrounds/Overlays for editors !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/44kgQX6wym0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Candy Editing Background 2 Stripes by xSweetDiamondz on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abf85e89-acd5-4b75-b3bd-a447398cf1a1/dakabum-2b93457b-4334-4871-9d98-1e87f117b53c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiZjg1ZTg5LWFjZDUtNGI3NS1iM2JkLWE0NDczOThjZjFhMVwvZGFrYWJ1bS0yYjkzNDU3Yi00MzM0LTQ4NzEtOWQ5OC0xZTg3ZjExN2I1M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T_bweWMeWpBGOqkJCe6K-T5RaoK-gMaHVluKRLVpqJg' alt='Free Candy Editing Background 2 Stripes by xSweetDiamondz on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abf85e89-acd5-4b75-b3bd-a447398cf1a1/dakabum-2b93457b-4334-4871-9d98-1e87f117b53c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiZjg1ZTg5LWFjZDUtNGI3NS1iM2JkLWE0NDczOThjZjFhMVwvZGFrYWJ1bS0yYjkzNDU3Yi00MzM0LTQ4NzEtOWQ5OC0xZTg3ZjExN2I1M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T_bweWMeWpBGOqkJCe6K-T5RaoK-gMaHVluKRLVpqJg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Style Edit Background Giveaway">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7266374143677959457&location=0&aid=1988' alt='Candy Style Edit Background Giveaway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7266374143677959457&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating Stunning Candy Style Edits with Alight Motion">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7315354409125301510&location=0&aid=1988' alt='Creating Stunning Candy Style Edits with Alight Motion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7315354409125301510&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Candy Editing Background 1 Polka Dots by xSweetDiamondz on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abf85e89-acd5-4b75-b3bd-a447398cf1a1/dakabqa-e90bda0d-cdff-4b2c-8fd6-52f325241f40.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiZjg1ZTg5LWFjZDUtNGI3NS1iM2JkLWE0NDczOThjZjFhMVwvZGFrYWJxYS1lOTBiZGEwZC1jZGZmLTRiMmMtOGZkNi01MmYzMjUyNDFmNDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DCWgJItt2qnWpAyPqdfNyRfJ9vSPx29ZEYrvxPyDRtg' alt='Free Candy Editing Background 1 Polka Dots by xSweetDiamondz on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abf85e89-acd5-4b75-b3bd-a447398cf1a1/dakabqa-e90bda0d-cdff-4b2c-8fd6-52f325241f40.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiZjg1ZTg5LWFjZDUtNGI3NS1iM2JkLWE0NDczOThjZjFhMVwvZGFrYWJxYS1lOTBiZGEwZC1jZGZmLTRiMmMtOGZkNi01MmYzMjUyNDFmNDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DCWgJItt2qnWpAyPqdfNyRfJ9vSPx29ZEYrvxPyDRtg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Style Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/64/fa/5c/64fa5c2bc539ee1cecdb88bf11d14ddf.jpg' alt='Candy Style Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/64/fa/5c/64fa5c2bc539ee1cecdb88bf11d14ddf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Candy Editing Overlay by Helxya on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b107c0a-dcad-4690-bf29-155391abada6/ddo51tr-605cd918-00d1-4283-b278-dba83b6b52c8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA3YzBhLWRjYWQtNDY5MC1iZjI5LTE1NTM5MWFiYWRhNlwvZGRvNTF0ci02MDVjZDkxOC0wMGQxLTQyODMtYjI3OC1kYmE4M2I2YjUyYzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2jcfsAnVsXnaxZWthUEauaArlw6qNAOmWo8O7LDuvj4' alt='Free Candy Editing Overlay by Helxya on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b107c0a-dcad-4690-bf29-155391abada6/ddo51tr-605cd918-00d1-4283-b278-dba83b6b52c8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViMTA3YzBhLWRjYWQtNDY5MC1iZjI5LTE1NTM5MWFiYWRhNlwvZGRvNTF0ci02MDVjZDkxOC0wMGQxLTQyODMtYjI3OC1kYmE4M2I2YjUyYzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2jcfsAnVsXnaxZWthUEauaArlw6qNAOmWo8O7LDuvj4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CANDY STYLE BACKGROUND | ALIGHT MOTION TUTORIAL   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VDvYBwkzZv0/maxresdefault.jpg' alt='CANDY STYLE BACKGROUND | ALIGHT MOTION TUTORIAL   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VDvYBwkzZv0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Small Fresh Origami Style Candy Style Three-dimensional ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/backgrounds/20190220/simple-small-fresh-origami-style-candy-style-three-dimensional-background_1863732.jpg!sw800' alt='Simple Small Fresh Origami Style Candy Style Three-dimensional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/backgrounds/20190220/simple-small-fresh-origami-style-candy-style-three-dimensional-background_1863732.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Burning City: A Fiery Tale of Resilience</title>
+                    <meta name="description" content="Discover the gripping tale of a city engulfed in flames. Explore the chaos, bravery, and stories of survival that emerge from a burning metropolis. Join us as we delve into the heart of a city rising from the ashes and the indomitable human spirit.">
+                    <meta name="keywords" content="burning city">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/burning-city">
+                            <span itemprop="name">burning city</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Burning City: A Fiery Tale of Resilience</h1>
+                <p>In a world where flames consume the skyline, a burning city is a haunting spectacle. Sirens wail as ash blankets the streets and smoke billows upward. The heat ignites urgency, forcing residents to flee and firefighters to battle the blaze. Amidst the chaos, stories of resilience emerge. Will hope rise from the ashes?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning City Images – Browse 158,273 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/59/08/58/360_F_1059085863_r2ccRExOYXazvbCex8HNyxwtV4TdY3og.jpg' alt='Burning City Images – Browse 158,273 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/59/08/58/360_F_1059085863_r2ccRExOYXazvbCex8HNyxwtV4TdY3og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Burning City Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1322437822/vector/burning-city-ruins-in-fire-destroyed-town-houses.jpg?s=612x612&w=0&k=20&c=I_aQi8O90S8w_TOX01uJEZ1v_e9RnueqdCH8eOes51w=' alt='2,000+ Burning City Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1322437822/vector/burning-city-ruins-in-fire-destroyed-town-houses.jpg?s=612x612&w=0&k=20&c=I_aQi8O90S8w_TOX01uJEZ1v_e9RnueqdCH8eOes51w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,500+ Burning City Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/646319410/photo/cinematic-portrayal-of-destroyed-city.jpg?s=612x612&w=0&k=20&c=iaTfh-s_0rg_jw-vYxo5P7ymyDXl1JR9yq-Nm9ZFPIs=' alt='23,500+ Burning City Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/646319410/photo/cinematic-portrayal-of-destroyed-city.jpg?s=612x612&w=0&k=20&c=iaTfh-s_0rg_jw-vYxo5P7ymyDXl1JR9yq-Nm9ZFPIs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London burns an architectural model of the city to mark the 350th ...">
+                                <img itemprop="contentUrl url" src='https://compote.slate.com/images/c9848e26-367a-4260-bb0c-62c3f74351c9.jpg' alt='London burns an architectural model of the city to mark the 350th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slate.com" />
+                                </span>
+                                <a href='https://compote.slate.com/images/c9848e26-367a-4260-bb0c-62c3f74351c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A city street after a disaster with burning debris and smoke filling the  air.">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/80/70/38/360_F_1080703891_OTpidIdzTfzdIn8OVEooggkwL96fvOSC.jpg' alt='A city street after a disaster with burning debris and smoke filling the  air.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/80/70/38/360_F_1080703891_OTpidIdzTfzdIn8OVEooggkwL96fvOSC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camp Fire: The Terrifying Science Behind California's Massive ...">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/5be5baad89450468242a14ba/16:9/w_2400,h_1350,c_limit/CampFire-1059476842.jpg' alt='Camp Fire: The Terrifying Science Behind California's Massive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/5be5baad89450468242a14ba/16:9/w_2400,h_1350,c_limit/CampFire-1059476842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Free Burning City & City Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2017/06/30/19/52/apocalypse-2459465_1280.jpg' alt='100,000+ Free Burning City & City Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2017/06/30/19/52/apocalypse-2459465_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free photo: Burning city with with dark smoke illustration ...">
+                                <img itemprop="contentUrl url" src='https://i1.pickpik.com/photos/203/932/873/city-disaster-end-of-the-world-apocalypse-8aa7d7b4a842c91bd249a74e2d858558.jpg' alt='Royalty-Free photo: Burning city with with dark smoke illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PickPik" />
+                                </span>
+                                <a href='https://i1.pickpik.com/photos/203/932/873/city-disaster-end-of-the-world-apocalypse-8aa7d7b4a842c91bd249a74e2d858558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A burning city - PixaHive">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pixahive.com/wp-content/uploads/2020/11/A-burning-city-180961-pixahive.jpg?fit=2200%2C1467&ssl=1' alt='A burning city - PixaHive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixaHive" />
+                                </span>
+                                <a href='https://i0.wp.com/pixahive.com/wp-content/uploads/2020/11/A-burning-city-180961-pixahive.jpg?fit=2200%2C1467&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="desktop-wallpaper-quotes-about-burning-cities-burning-city ...">
+                                <img itemprop="contentUrl url" src='https://yaktribe.games/community/data/xfmg/thumbnail/86/86193-cc81b2f86a42a4671449ae15e01d5225.jpg?1675173230' alt='desktop-wallpaper-quotes-about-burning-cities-burning-city ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YakTribe.games" />
+                                </span>
+                                <a href='https://yaktribe.games/community/data/xfmg/thumbnail/86/86193-cc81b2f86a42a4671449ae15e01d5225.jpg?1675173230' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

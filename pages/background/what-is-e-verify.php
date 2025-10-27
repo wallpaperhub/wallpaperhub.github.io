@@ -1,0 +1,129 @@
+<title>What is e-Verify? Understanding This Employment Verification Tool</title>
+                    <meta name="description" content="Discover what e-Verify is and how it helps employers confirm the employment eligibility of their workforce in the U.S. Learn the benefits of using this free system to enhance compliance and integrity in the hiring process. Perfect for employers and job seekers alike!">
+                    <meta name="keywords" content="what is e verify">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-e-verify">
+                            <span itemprop="name">what is e verify</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What is e-Verify? Understanding This Employment Verification Tool</h1>
+                <p>e-Verify is a free online system that allows employers in the United States to confirm the employment eligibility of their employees. By comparing employee information against government databases, e-Verify helps ensure that workers are authorized to work in the U.S., enhancing compliance with immigration laws and improving workplace integrity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="E-Verify Overview | E-Verify">
+                                <img itemprop="contentUrl url" src='https://www.e-verify.gov/sites/default/files/everify/images/Article/EVerifyParticipationPoster.JPG' alt='E-Verify Overview | E-Verify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E-Verify" />
+                                </span>
+                                <a href='https://www.e-verify.gov/sites/default/files/everify/images/Article/EVerifyParticipationPoster.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="E-Verify Tip Sheet">
+                                <img itemprop="contentUrl url" src='https://www.govdocs.com/wp-content/uploads/2024/08/tipsheet-e-verify-at-a-glancepdf-66bd11d983ad6.webp' alt='E-Verify Tip Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GovDocs" />
+                                </span>
+                                <a href='https://www.govdocs.com/wp-content/uploads/2024/08/tipsheet-e-verify-at-a-glancepdf-66bd11d983ad6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Verification Process | E-Verify">
+                                <img itemprop="contentUrl url" src='https://www.e-verify.gov/sites/default/files/everify/images/Article/EEV_VerificationProcess.png' alt='Verification Process | E-Verify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E-Verify" />
+                                </span>
+                                <a href='https://www.e-verify.gov/sites/default/files/everify/images/Article/EEV_VerificationProcess.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is E-Verify?">
+                                <img itemprop="contentUrl url" src='https://assets-wp.boundless.com/uploads/2024/03/I-E-Verify-Seal-v2.jpeg' alt='What is E-Verify?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1375">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boundless" />
+                                </span>
+                                <a href='https://assets-wp.boundless.com/uploads/2024/03/I-E-Verify-Seal-v2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment | Jefferson Lab">
+                                <img itemprop="contentUrl url" src='https://www.jlab.org/div_dept/admin/HR/employment/EVerifyPoster.jpg' alt='Employment | Jefferson Lab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jefferson Lab" />
+                                </span>
+                                <a href='https://www.jlab.org/div_dept/admin/HR/employment/EVerifyPoster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I-9 or E-Verify? - CIC">
+                                <img itemprop="contentUrl url" src='https://www.corpintel.com/images/blog/corpintel_I9-everify.png' alt='I-9 or E-Verify? - CIC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corporate Intelligence Consultants" />
+                                </span>
+                                <a href='https://www.corpintel.com/images/blog/corpintel_I9-everify.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Things You Should Know About E-Verify | PBS News">
+                                <img itemprop="contentUrl url" src='http://www-tc.pbs.org/prod-media/newshour/photos/2013/06/17/Form_Specific_Process_Flow_blog_main_horizontal.jpg' alt='5 Things You Should Know About E-Verify | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='http://www-tc.pbs.org/prod-media/newshour/photos/2013/06/17/Form_Specific_Process_Flow_blog_main_horizontal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Reference Guide for E-Verify Enrollment">
+                                <img itemprop="contentUrl url" src='https://www.e-verify.gov/sites/default/files/everify/images/manuals/QRGEVEnr2.2-11-Users2.png' alt='Quick Reference Guide for E-Verify Enrollment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="771">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E-Verify" />
+                                </span>
+                                <a href='https://www.e-verify.gov/sites/default/files/everify/images/manuals/QRGEVEnr2.2-11-Users2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Things You Should Know About E-Verify | PBS News">
+                                <img itemprop="contentUrl url" src='http://www-tc.pbs.org/prod-media/newshour/photos/2013/06/17/e-verify_blog_main_horizontal.jpg' alt='5 Things You Should Know About E-Verify | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='http://www-tc.pbs.org/prod-media/newshour/photos/2013/06/17/e-verify_blog_main_horizontal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Form I‑9; Notice Published Allowing E‑Verify Employers to ...">
+                                <img itemprop="contentUrl url" src='https://www.e-verify.gov/sites/default/files/everify/images/WhatsNew/RemoteDocumentInspectionInfoGraphicAid.png' alt='New Form I‑9; Notice Published Allowing E‑Verify Employers to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E-Verify" />
+                                </span>
+                                <a href='https://www.e-verify.gov/sites/default/files/everify/images/WhatsNew/RemoteDocumentInspectionInfoGraphicAid.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Purple Anime: Unleashing Creativity</title>
+                    <meta name="description" content="Discover the allure of purple anime! Explore iconic characters, vibrant visuals, and the symbolism behind this captivating color in your favorite series. Dive into a world where creativity and mystery reign supreme. Perfect for anime fans looking to expand their colorful horizons!">
+                    <meta name="keywords" content="purple anime">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-anime">
+                            <span itemprop="name">purple anime</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Purple Anime: Unleashing Creativity</h1>
+                <p>Purple anime captures the imagination with its vibrant hues and enchanting characters. This unique color often symbolizes creativity, mystery, and spirituality in various anime series. From iconic characters like Yzma in "The Emperor's New Groove" to mystical realms in "Fairy Tail," the cinematic use of purple creates captivating visuals that resonate with fans.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Purple anime aesthetic ideas | anime, aesthetic anime, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/a2/7d/1fa27d348bfb5b69b10d1cfa4a28e2a1.jpg' alt='52 Purple anime aesthetic ideas | anime, aesthetic anime, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/a2/7d/1fa27d348bfb5b69b10d1cfa4a28e2a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Girl | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4998815267.1986/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Purple Anime Girl | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4998815267.1986/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Anime Girl Purple Clean Wallpeaper">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2509137691627326564/87BFF879AB2077BF4BA4309A4C7EA41F763856BE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Anime Girl Purple Clean Wallpeaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2509137691627326564/87BFF879AB2077BF4BA4309A4C7EA41F763856BE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Girl - 4K Ultra HD Wallpaper by CelestialCanvas">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/137/thumb-350-1377813.webp' alt='Purple Anime Girl - 4K Ultra HD Wallpaper by CelestialCanvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/137/thumb-350-1377813.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Purple anime aesthetic ideas | anime, aesthetic anime, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/78/ed/f0/78edf07264a4a92c4540a52276512134.jpg' alt='52 Purple anime aesthetic ideas | anime, aesthetic anime, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/78/ed/f0/78edf07264a4a92c4540a52276512134.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Aesthetic Sung Jinwoo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-anime-aesthetic-sung-jinwoo-3gcq86vh20l3batt.jpg' alt='Purple Anime Aesthetic Sung Jinwoo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-anime-aesthetic-sung-jinwoo-3gcq86vh20l3batt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WUSOP Anime Cute Girl Purple Poster Decorative Painting Canvas ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71WDUzRy6cL._AC_UF894,1000_QL80_.jpg' alt='WUSOP Anime Cute Girl Purple Poster Decorative Painting Canvas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71WDUzRy6cL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Purple Anime Girl Audio responsive">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/957466784429725448/511A2C8EB1E10CDBF4011ECA7135C655F70C6685/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Purple Anime Girl Audio responsive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/957466784429725448/511A2C8EB1E10CDBF4011ECA7135C655F70C6685/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Anime Character Pfps - Anime Purple Pfp Collection (@pfp ...">
+                                <img itemprop="contentUrl url" src='https://cdn.hero.page/pfp/bf43ce49-2770-4491-9bfc-611c8380386a-purple-haired-anime-girl-close-up-purple-anime-character-pfps-1.png' alt='Purple Anime Character Pfps - Anime Purple Pfp Collection (@pfp ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hero" />
+                                </span>
+                                <a href='https://cdn.hero.page/pfp/bf43ce49-2770-4491-9bfc-611c8380386a-purple-haired-anime-girl-close-up-purple-anime-character-pfps-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple anime girl - widgetopia homescreen widgets for iPhone ...">
+                                <img itemprop="contentUrl url" src='https://dk2dv4ezy246u.cloudfront.net/widgets/sLg79oqYQL0_large.jpg' alt='purple anime girl - widgetopia homescreen widgets for iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="widgetopia" />
+                                </span>
+                                <a href='https://dk2dv4ezy246u.cloudfront.net/widgets/sLg79oqYQL0_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

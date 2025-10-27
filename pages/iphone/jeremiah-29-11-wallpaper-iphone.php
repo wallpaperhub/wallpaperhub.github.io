@@ -1,0 +1,129 @@
+<title>Inspiring Jeremiah 29:11 iPhone Wallpapers</title>
+                    <meta name="description" content="Discover beautiful Jeremiah 29:11 wallpapers for your iPhone. Our collection features designs that inspire hope and faith, perfect for daily motivation. Personalize your device while keeping your spirituality close. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="jeremiah 29 11 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/jeremiah-29-11-wallpaper-iphone">
+                            <span itemprop="name">jeremiah 29 11 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Jeremiah 29:11 iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning Jeremiah 29:11 wallpapers that inspire hope and purpose. These uplifting designs remind you that "For I know the plans I have for you," making them perfect for daily motivation. Explore a variety of styles that fit your aesthetic while keeping your faith close at hand.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah 29:11 Iphone/Mobile Wallpaper by oxquarius on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be294b-56fe-4235-a118-65b6e0ac06cb/db7bgvt-309d6b08-e825-496a-9f59-13d8ecdc00c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1YmUyOTRiLTU2ZmUtNDIzNS1hMTE4LTY1YjZlMGFjMDZjYlwvZGI3Ymd2dC0zMDlkNmIwOC1lODI1LTQ5NmEtOWY1OS0xM2Q4ZWNkYzAwYzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S59MW23FZRdKUrMrPq-WdRgrgKk1xpXcOD7rcgvklCI' alt='Jeremiah 29:11 Iphone/Mobile Wallpaper by oxquarius on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be294b-56fe-4235-a118-65b6e0ac06cb/db7bgvt-309d6b08-e825-496a-9f59-13d8ecdc00c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1YmUyOTRiLTU2ZmUtNDIzNS1hMTE4LTY1YjZlMGFjMDZjYlwvZGI3Ymd2dC0zMDlkNmIwOC1lODI1LTQ5NmEtOWY1OS0xM2Q4ZWNkYzAwYzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S59MW23FZRdKUrMrPq-WdRgrgKk1xpXcOD7rcgvklCI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah 29:11 iPhone Wallpaper by vmitchell85 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/33/8d/f2338d7e248ca1e35e6599e468e24d0c.jpg' alt='Jeremiah 29:11 iPhone Wallpaper by vmitchell85 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/33/8d/f2338d7e248ca1e35e6599e468e24d0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah 29:11 Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/dd/a5/f8dda5c9f32b64c5d2aef84d8d93900a.jpg' alt='Jeremiah 29:11 Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/dd/a5/f8dda5c9f32b64c5d2aef84d8d93900a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah 29:11 Lockscreen - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36070732/r/il/011d87/3974321497/il_1080xN.3974321497_k8kz.jpg' alt='Jeremiah 29:11 Lockscreen - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36070732/r/il/011d87/3974321497/il_1080xN.3974321497_k8kz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Jer 29:11 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Black_Jer_29-11_Web-1.png' alt='Black Jer 29:11 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Black_Jer_29-11_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Swan Jeremiah 29:11 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Pink_Swan_Jer_29-11_Web-1.png' alt='Pink Swan Jeremiah 29:11 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Pink_Swan_Jer_29-11_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Wall Art, Bible Quote, Jeremiah 29:11, Instant Download, Bible  Wallpaper, Christian Sign - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37578563/r/il/de8531/4199113023/il_1080xN.4199113023_gdlv.jpg' alt='Bible Verse Wall Art, Bible Quote, Jeremiah 29:11, Instant Download, Bible  Wallpaper, Christian Sign - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37578563/r/il/de8531/4199113023/il_1080xN.4199113023_gdlv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jeremiah 2911 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jeremiah-2911-9qlkxc0ahlsjipou.jpg' alt='100+] Jeremiah 2911 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jeremiah-2911-9qlkxc0ahlsjipou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeremiah 29:11 lockscreen for iphone Camp Cherith week 2 2016">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/c2/6c/8fc26c92e55479a60d20e09adacbc244.jpg' alt='Jeremiah 29:11 lockscreen for iphone Camp Cherith week 2 2016'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/c2/6c/8fc26c92e55479a60d20e09adacbc244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Phone Jeremiah 29:11 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5468622.jpg' alt='Best Phone Jeremiah 29:11 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5468622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>High-Quality Virus PNG Images for Your Projects</title>
+                    <meta name="description" content="Explore our selection of premium virus PNG images. Ideal for educational and design purposes, these transparent images enhance your presentations and graphics. Download now for high-quality visuals that capture attention and convey your message effectively!">
+                    <meta name="keywords" content="virus png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/virus-png">
+                            <span itemprop="name">virus png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Virus PNG Images for Your Projects</h1>
+                <p>Discover a collection of high-quality virus PNG images perfect for your projects. Use them in presentations, websites, or educational materials. Whether you're illustrating health topics or creating infographics, our virus PNGs are transparent, easily editable, and visually engaging, ensuring your message is communicated effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:SARS-CoV-2 without background.png - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/1200px-SARS-CoV-2_without_background.png' alt='File:SARS-CoV-2 without background.png - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/1200px-SARS-CoV-2_without_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="uci-engineers-collaborate-to-attack-virus.png | Samueli School of ...">
+                                <img itemprop="contentUrl url" src='https://engineering.uci.edu/files/uci-engineers-collaborate-to-attack-virus.png' alt='uci-engineers-collaborate-to-attack-virus.png | Samueli School of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Henry Samueli School of Engineering - UC Irvine" />
+                                </span>
+                                <a href='https://engineering.uci.edu/files/uci-engineers-collaborate-to-attack-virus.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berkeley-led study identifies human lung proteins that can advance ...">
+                                <img itemprop="contentUrl url" src='https://engineering.berkeley.edu/wp-content/uploads/2020/04/Coronavirus-CDC-e1585883549505.png' alt='Berkeley-led study identifies human lung proteins that can advance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkeley Engineering" />
+                                </span>
+                                <a href='https://engineering.berkeley.edu/wp-content/uploads/2020/04/Coronavirus-CDC-e1585883549505.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="virus-icon.png | The New York Public Library">
+                                <img itemprop="contentUrl url" src='https://live-cdn-www.nypl.org/s3fs-public/virus-icon.png' alt='virus-icon.png | The New York Public Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Public Library" />
+                                </span>
+                                <a href='https://live-cdn-www.nypl.org/s3fs-public/virus-icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="coronavirus.png | Council of New Jersey Grantmakers">
+                                <img itemprop="contentUrl url" src='https://www.cnjg.org/sites/default/files/coronavirus_0.png' alt='coronavirus.png | Council of New Jersey Grantmakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Council of New Jersey Grantmakers" />
+                                </span>
+                                <a href='https://www.cnjg.org/sites/default/files/coronavirus_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About COVID-19 | COVID-19 | CDC">
+                                <img itemprop="contentUrl url" src='https://www.cdc.gov/covid/media/images/2024/11/GettyImages-1773970411_1200x675.png' alt='About COVID-19 | COVID-19 | CDC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDC" />
+                                </span>
+                                <a href='https://www.cdc.gov/covid/media/images/2024/11/GettyImages-1773970411_1200x675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virus - Free healthcare and medical icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/2927/2927712.png' alt='Virus - Free healthcare and medical icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/2927/2927712.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Science and Technology - VBI Vaccines">
+                                <img itemprop="contentUrl url" src='https://www.vbivaccines.com/wp-content/uploads/2021/02/virus.png' alt='Our Science and Technology - VBI Vaccines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VBI Vaccines" />
+                                </span>
+                                <a href='https://www.vbivaccines.com/wp-content/uploads/2021/02/virus.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Virus Stickers, + 86 stickers (SVG, PNG) | Flaticon">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/256/10252/10252303.png' alt='Free Virus Stickers, + 86 stickers (SVG, PNG) | Flaticon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/256/10252/10252303.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coronavirus resources">
+                                <img itemprop="contentUrl url" src='https://www.tdi.texas.gov/artwork/dwc/virus.png' alt='Coronavirus resources'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Department of Insurance - Texas.gov" />
+                                </span>
+                                <a href='https://www.tdi.texas.gov/artwork/dwc/virus.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

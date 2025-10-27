@@ -1,0 +1,129 @@
+<title>Bold Pink Leopard Wallpaper for iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink leopard wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-leopard-wallpaper-iphone">
+                            <span itemprop="name">pink leopard wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Pink Leopard Wallpaper for iPhone</h1>
+                <p>Pink leopard wallpaper for iPhone adds a splash of bold style to your device. This vibrant and chic pattern brings a playful yet edgy vibe, perfect for those who love to stand out. Its unique blend of colors and design will elevate your screen, showcasing your personality and taste. Refresh your iPhone with this trendy wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink leopard iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d9/23/b7/d923b7ce29d8753b97032b1fcfc0b668.jpg' alt='Pink leopard iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d9/23/b7/d923b7ce29d8753b97032b1fcfc0b668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Gray Leopard">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/60/ca/1a/60ca1ad604cc8db3bb5d9fe8038e4969.jpg' alt='Pink And Gray Leopard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/60/ca/1a/60ca1ad604cc8db3bb5d9fe8038e4969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Leopard Print Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-leopard-print-2mdh34mio47z3yb8.jpg' alt='100+] Pink Leopard Print Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-leopard-print-2mdh34mio47z3yb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Neon Pink Leopard Print Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/girly-neon-pink-leopard-print-08t1yxumb9p318aw.jpg' alt='Girly Neon Pink Leopard Print Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/girly-neon-pink-leopard-print-08t1yxumb9p318aw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful C Wallpaper Love | Iphone Background, Pretty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/09/71/88/097188b43e511fca5f29260bdfff5ba0.jpg' alt='Beautiful C Wallpaper Love | Iphone Background, Pretty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/09/71/88/097188b43e511fca5f29260bdfff5ba0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheetah Print Apple iPhone Wallpapers, 3 Pack of Cell Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30801745/r/il/8b160c/3855833769/il_fullxfull.3855833769_dys7.jpg' alt='Cheetah Print Apple iPhone Wallpapers, 3 Pack of Cell Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30801745/r/il/8b160c/3855833769/il_fullxfull.3855833769_dys7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shades Of Pink Leopard Print Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shades-of-pink-leopard-print-xt3ixztjcepj4i9p.jpg' alt='Download Shades Of Pink Leopard Print Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shades-of-pink-leopard-print-xt3ixztjcepj4i9p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal print ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/67/39/3b6739d38d0af268795948fafd91b7d6.jpg' alt='Animal print ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/67/39/3b6739d38d0af268795948fafd91b7d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK LEOPARD, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/673/HD-wallpaper-pink-leopard.jpg' alt='PINK LEOPARD, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/673/HD-wallpaper-pink-leopard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affirmation Leopard Pink iPhone Wallpaper Neon Pink Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43474236/r/il/a8825b/5264426124/il_fullxfull.5264426124_cybf.jpg' alt='Affirmation Leopard Pink iPhone Wallpaper Neon Pink Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43474236/r/il/a8825b/5264426124/il_fullxfull.5264426124_cybf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

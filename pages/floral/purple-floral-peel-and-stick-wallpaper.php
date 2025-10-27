@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Purple Floral Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Add elegance to your home with stunning purple floral peel and stick wallpaper. Easy to install and remove, it's ideal for renters and DIYers. Perfect for creating beautiful accent walls or adding a fresh look to any room. Shop now for a vibrant transformation!">
+                    <meta name="keywords" content="purple floral peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/purple-floral-peel-and-stick-wallpaper">
+                            <span itemprop="name">purple floral peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Purple Floral Peel and Stick Wallpaper</h1>
+                <p>Transform your space with vibrant purple floral peel and stick wallpaper. Effortlessly add a touch of elegance and charm to any room without the hassle of traditional wallpaper. Easy to apply and remove, this peel and stick wallpaper offers versatility for renters and homeowners alike. Perfect for accent walls, nurseries, or any area needing a pop of color.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3416849334_hwq4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Floral Peel and Stick Wallpaper / Botanical Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/9c69ae/4055554222/il_570xN.4055554222_d7nu.jpg' alt='Purple Floral Peel and Stick Wallpaper / Botanical Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/9c69ae/4055554222/il_570xN.4055554222_d7nu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3376621210_4i5p_46f2f37b-48d5-4084-8fb0-8a3b239108c7.jpg?v=1652600897&width=2400' alt='Dark Purple Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3472'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3376621210_4i5p_46f2f37b-48d5-4084-8fb0-8a3b239108c7.jpg?v=1652600897&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Botanical Watercolor Floral Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern5.jpg?v=1739232080&width=1214' alt='Purple Botanical Watercolor Floral Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern5.jpg?v=1739232080&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nukofal Purple Floral Peel and Stick Wallpaper 17.7inchX118.1inch Tropical  Palm Leaf Wallpaper Peel and Stick Floral Contact Paper Pink Floral Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81G2vmhYzCL.jpg' alt='Nukofal Purple Floral Peel and Stick Wallpaper 17.7inchX118.1inch Tropical  Palm Leaf Wallpaper Peel and Stick Floral Contact Paper Pink Floral Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81G2vmhYzCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark floral peonies wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800_1100x.jpg?v=1590580783' alt='Dark floral peonies wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Dark-floral-removable-wallpaper_025b8a35-9edd-466f-a7a8-778a46a0b800_1100x.jpg?v=1590580783' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Tropical Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Mural 2351">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3299522051_k7gh_78e9ac53-9de7-4290-a3f7-1259c16f9894.jpg' alt='Purple Tropical Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Mural 2351'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3299522051_k7gh_78e9ac53-9de7-4290-a3f7-1259c16f9894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Purple Floral Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.modifiedtot.com/cdn/shop/products/large-purple-floral-removable-wallpaper-317644.jpg?v=1661449321' alt='Large Purple Floral Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modified Tot" />
+                                </span>
+                                <a href='https://www.modifiedtot.com/cdn/shop/products/large-purple-floral-removable-wallpaper-317644.jpg?v=1661449321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Rose Floral Wallpaper/Peel and Stick Removable ...">
+                                <img itemprop="contentUrl url" src='https://babymaes.com/cdn/shop/products/WallpaperSunlightEntryWaycopy_910ae70f-2023-46c6-bf61-de4490b7b5a2.jpg?v=1680882554' alt='Purple Lavender Rose Floral Wallpaper/Peel and Stick Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Maes" />
+                                </span>
+                                <a href='https://babymaes.com/cdn/shop/products/WallpaperSunlightEntryWaycopy_910ae70f-2023-46c6-bf61-de4490b7b5a2.jpg?v=1680882554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Botanical Watercolor Floral Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern4.jpg?v=1739232079&width=1500' alt='Purple Botanical Watercolor Floral Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/PurpleBotanicalPattern4.jpg?v=1739232079&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

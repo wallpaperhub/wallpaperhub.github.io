@@ -1,0 +1,129 @@
+<title>Transform Your Space with Floral Adhesive Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of floral adhesive wallpaper! Easy to apply and remove, it's perfect for any home. Explore a range of designs to elevate your decor and create a stylish, personal touch in your living space today!">
+                    <meta name="keywords" content="floral adhesive wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-adhesive-wallpaper">
+                            <span itemprop="name">floral adhesive wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Floral Adhesive Wallpaper</h1>
+                <p>Floral adhesive wallpaper adds a touch of nature to your interior, instantly brightening any space. Its easy application and removal make it perfect for renters or those who love to change their decor frequently. With a variety of designs available, you can create a vibrant accent wall or timeless charm in any room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 120" Dark Floral  Wallpaper Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' alt='Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 120" Dark Floral  Wallpaper Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81eXdEvfphL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Navy Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3620">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602979230_9faw_c041299c-43da-4175-82ce-1d516c5d2a20.jpg?v=1644724078&width=3000' alt='Pink And Navy Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3620'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602979230_9faw_c041299c-43da-4175-82ce-1d516c5d2a20.jpg?v=1644724078&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Peel and Stick Wallpaper - Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' alt='Floral Peel and Stick Wallpaper - Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1156">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/peony-floral-wallpaper-peel-stick-462964.png?crop=center&height=1156&v=1702983898&width=1156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 120" Floral Wallpaper  Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets Furniture ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81FSL2Pc-bL._AC_UF894,1000_QL80_.jpg' alt='Simon&Siff Floral Peel and Stick Wallpaper, 17.3" x 120" Floral Wallpaper  Self Adhesive Wallpaper Boho Flower Wallpaper Kitchen Cabinets Furniture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81FSL2Pc-bL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flowers Wallpaper, Peel and Stick, Vintage Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/2dccb8/1966477618/il_570xN.1966477618_cuw3.jpg' alt='Beautiful Flowers Wallpaper, Peel and Stick, Vintage Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/2dccb8/1966477618/il_570xN.1966477618_cuw3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UMIGGEE 17.7" x 236" Floral Peel and Stick Wallpaper Grey Floral Contact  Paper Removable Wallpaper Decorative Self Adhesive Wallpaper Wall Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/UMIGGEE-17-7-x-236-Floral-Peel-Stick-Wallpaper-Grey-Contact-Paper-Removable-Decorative-Self-Adhesive-Wall-Home-Decor-Covering-Old-Furniture-Renovatio_e170d546-ddca-4fad-8df5-d33817a4f44a.4d74c66a37a8d1839b95a0604cdf3f04.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' alt='UMIGGEE 17.7" x 236" Floral Peel and Stick Wallpaper Grey Floral Contact  Paper Removable Wallpaper Decorative Self Adhesive Wallpaper Wall Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Business" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/UMIGGEE-17-7-x-236-Floral-Peel-Stick-Wallpaper-Grey-Contact-Paper-Removable-Decorative-Self-Adhesive-Wall-Home-Decor-Covering-Old-Furniture-Renovatio_e170d546-ddca-4fad-8df5-d33817a4f44a.4d74c66a37a8d1839b95a0604cdf3f04.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Crush Floral Peel And Stick Wallpaper 17.3"X118"Flower PVC Wall Decor  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/QpcAAOSwhtFl-TCS/s-l400.jpg' alt='Black Crush Floral Peel And Stick Wallpaper 17.3"X118"Flower PVC Wall Decor  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/QpcAAOSwhtFl-TCS/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Tile Adhesive Peel and Stick Removable Wallpaper 5717">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/tile_adhesive_27785717_02-sw_grande.jpg?v=1723302434' alt='Blue Floral Tile Adhesive Peel and Stick Removable Wallpaper 5717'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/tile_adhesive_27785717_02-sw_grande.jpg?v=1723302434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allen + roth 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/2e481c9d-5a5b-4017-9786-82fd34f08843/63475790.jpg?size=pdhz' alt='allen + roth 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/2e481c9d-5a5b-4017-9786-82fd34f08843/63475790.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

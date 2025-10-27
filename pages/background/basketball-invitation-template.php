@@ -1,0 +1,129 @@
+<title>Basketball Game Invitation Template: Easy & Fun!</title>
+                    <meta name="description" content="Create the perfect basketball invitation with our customizable template. Ideal for parties, tournaments, or casual games, this easy-to-use design helps you gather friends for some hoops. Get ready to shoot some hoops and have fun – it’s game time!">
+                    <meta name="keywords" content="basketball invitation template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/basketball-invitation-template">
+                            <span itemprop="name">basketball invitation template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Basketball Game Invitation Template: Easy & Fun!</h1>
+                <p>Looking to invite friends for a basketball game? Our customizable basketball invitation template makes organizing your next hoop session easy and exciting! Choose your design, add the game details, and send it out! Perfect for birthday parties, friendly matches, or tournaments. Ready, set, play!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Birthday - Sports & games Invitation Template (Free ...">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/party%20theme/previews/basketball-birthday-15778.jpeg?auto=format,compress' alt='Basketball Birthday - Sports & games Invitation Template (Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/party%20theme/previews/basketball-birthday-15778.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Invitation Instant Download Printable File - Editable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8765985/r/il/1218f0/1652342830/il_570xN.1652342830_e35s.jpg' alt='Basketball Invitation Instant Download Printable File - Editable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8765985/r/il/1218f0/1652342830/il_570xN.1652342830_e35s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Ticket Invitation Template - Birthday Party - INSTANT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6259208/r/il/ee1549/3680374548/il_570xN.3680374548_r7wp.jpg' alt='Basketball Ticket Invitation Template - Birthday Party - INSTANT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6259208/r/il/ee1549/3680374548/il_570xN.3680374548_r7wp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BASKETBALL Birthday Invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/basketball-birthday-invitation-design-template-94285b089cfefd181a00f3c39927fdb4_screen.jpg?ts=1692666047' alt='BASKETBALL Birthday Invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/basketball-birthday-invitation-design-template-94285b089cfefd181a00f3c39927fdb4_screen.jpg?ts=1692666047' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Basketball Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a7/c2/29/a7c229db14a03bdd7dba784a1967cdd9.jpg' alt='Free Printable Basketball Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a7/c2/29/a7c229db14a03bdd7dba784a1967cdd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : FujLoy Basketball Birthday Invitation, Basketball ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51y708jL8nL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : FujLoy Basketball Birthday Invitation, Basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51y708jL8nL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable basketball templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF_okdBIKA/1/0/1143w/canva-blue-and-red-illustrative-basketball-tournament-poster-Lv4DQBAsEbc.jpg' alt='Free and customizable basketball templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF_okdBIKA/1/0/1143w/canva-blue-and-red-illustrative-basketball-tournament-poster-Lv4DQBAsEbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Ticket Invitation Template - colors">
+                                <img itemprop="contentUrl url" src='https://www.simonemadeit.com/wp-content/uploads/edd/2014/03/Printable-Basketball-Party-Invitation-Template-black-blue1.png' alt='Basketball Ticket Invitation Template - colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SIMONEmadeit Parties" />
+                                </span>
+                                <a href='https://www.simonemadeit.com/wp-content/uploads/edd/2014/03/Printable-Basketball-Party-Invitation-Template-black-blue1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Printable Invitation, Basketball Party, Basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6307739/r/il/26db5f/2928001229/il_fullxfull.2928001229_eaqs.jpg' alt='Basketball Printable Invitation, Basketball Party, Basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6307739/r/il/26db5f/2928001229/il_fullxfull.2928001229_eaqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Basketball Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/92/bb/b692bb36e81f4997d578318634a0f366.jpg' alt='Free Printable Basketball Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/92/bb/b692bb36e81f4997d578318634a0f366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

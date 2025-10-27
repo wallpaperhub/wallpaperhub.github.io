@@ -1,0 +1,129 @@
+<title>Goth Pink Wallpaper: Unique Designs for Edgy Aesthetics</title>
+                    <meta name="description" content="Discover stylish goth pink wallpaper that fuses bold goth elements with soft pink tones. Perfect for creating a unique room that showcases your individual style. Transform your space with artistic designs that stand out and resonate with your personality. Shop now for the perfect blend of whimsy and edge!">
+                    <meta name="keywords" content="goth pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/goth-pink-wallpaper">
+                            <span itemprop="name">goth pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goth Pink Wallpaper: Unique Designs for Edgy Aesthetics</h1>
+                <p>Goth pink wallpaper combines the edgy aesthetic of goth culture with soft, pastel pink hues, creating a unique and striking visual. Perfect for bedrooms or creative spaces, it blends dark romanticism with whimsy. Adding this wallpaper can transform your room into a quirky haven, reflecting your personal style and artistic flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Wallpaper | Occult Design in Light & Dark Options | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/Group1copy4_545x545_crop_center.jpg?v=1736182619' alt='Gothic Wallpaper | Occult Design in Light & Dark Options | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0597/1755/0251/products/Group1copy4_545x545_crop_center.jpg?v=1736182619' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Goth Coquette Wallpaper Pink Goth House Gothic Flowers Edgy Goth  Fabric byrubiconsummer">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17722694/p/f/m/ZCd5SS8O2bzSu3qiSjEYGwsaHkAwaUy5YVXYAQdhkbKjjNiUPwlJ/Pink_Goth_Coquette_Wallpaper_Pink_Goth_House_Gothic_Flowers_Edgy_Goth.jpg' alt='Pink Goth Coquette Wallpaper Pink Goth House Gothic Flowers Edgy Goth  Fabric byrubiconsummer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17722694/p/f/m/ZCd5SS8O2bzSu3qiSjEYGwsaHkAwaUy5YVXYAQdhkbKjjNiUPwlJ/Pink_Goth_Coquette_Wallpaper_Pink_Goth_House_Gothic_Flowers_Edgy_Goth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Princess wallpaper by RoseWater17 - Download on ZEDGE™ | 6395 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/cc/09/6dcc092eee2d86db0ba9274d1041c148.jpg' alt='Goth Princess wallpaper by RoseWater17 - Download on ZEDGE™ | 6395 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/cc/09/6dcc092eee2d86db0ba9274d1041c148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth pink aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/90/dd/3090dd4990fe0e16c33a35db4e0c80c5.jpg' alt='Goth pink aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/90/dd/3090dd4990fe0e16c33a35db4e0c80c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Gothic Hearts Abstract Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-gothic-hearts-abstract-osn7dlzhgag16tz5.jpg' alt='Download Pink Gothic Hearts Abstract Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-gothic-hearts-abstract-osn7dlzhgag16tz5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gothic seamless pink wallpaper Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/23/39/41/1000_F_23394111_wmU6SdykGFX2YI2VYEknTDkvmxftFUF2.jpg' alt='gothic seamless pink wallpaper Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/23/39/41/1000_F_23394111_wmU6SdykGFX2YI2VYEknTDkvmxftFUF2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Goth Collage Aesthetic.jpg Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-goth-collage-aesthetic-jpg-bong8awp4wsre8hy.jpg' alt='Download Pink Goth Collage Aesthetic.jpg Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-goth-collage-aesthetic-jpg-bong8awp4wsre8hy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gothic Stock Illustrations – 6,776 Pink Gothic Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gothic-valentine-rose-ornaments-28417786.jpg' alt='Pink Gothic Stock Illustrations – 6,776 Pink Gothic Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gothic-valentine-rose-ornaments-28417786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' alt='Goth wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Goth - Other & Abstract Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/1238/1238080-bigthumbnail.jpg' alt='Pink Goth - Other & Abstract Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/1238/1238080-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

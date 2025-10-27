@@ -1,0 +1,129 @@
+<title>Creating Transparent Backgrounds in Canva Made Easy</title>
+                    <meta name="description" content="Learn how to easily create transparent backgrounds in Canva to enhance your designs. Perfect for logos and graphics, this step-by-step guide helps you seamlessly incorporate images into your projects. Enjoy professional-quality results with just a few clicks!">
+                    <meta name="keywords" content="canva transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/canva-transparent-background">
+                            <span itemprop="name">canva transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creating Transparent Backgrounds in Canva Made Easy</h1>
+                <p>Canva offers a powerful feature that allows users to create designs with transparent backgrounds. This functionality is essential for making logos, graphics, and images that seamlessly integrate with various backgrounds. By removing the background, you can ensure your design stands out and fits perfectly in any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make an Image Transparent - Easy Online Tool | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1156550/tools-feature_transparent-image_hero_mobile.2bae9e7e.jpg' alt='Make an Image Transparent - Easy Online Tool | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2568">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1156550/tools-feature_transparent-image_hero_mobile.2bae9e7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make an Image Transparent - Easy Online Tool | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1156552/tools-feature_transparent-image_promo-showcase_02.jpg' alt='Make an Image Transparent - Easy Online Tool | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5041">
+                                <meta itemprop="height" content="3360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1156552/tools-feature_transparent-image_promo-showcase_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Transparent Background in Canva">
+                                <img itemprop="contentUrl url" src='https://houndstoothmediagroup.com/wp-content/uploads/2019/04/HMG-Logo-Canva-Button.png' alt='How to Make a Transparent Background in Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="935">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houndstooth Media Group" />
+                                </span>
+                                <a href='https://houndstoothmediagroup.com/wp-content/uploads/2019/04/HMG-Logo-Canva-Button.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make an Image Transparent - Easy Online Tool | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/24d35095-1a24-4ae5-a91e-5a6d36b867e8/transparency.jpg' alt='Make an Image Transparent - Easy Online Tool | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2508">
+                                <meta itemprop="height" content="1596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/24d35095-1a24-4ae5-a91e-5a6d36b867e8/transparency.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canva new logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/62b1ff178309c32ce1623dee.png' alt='Canva new logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/62b1ff178309c32ce1623dee.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make an Image Transparent - Easy Online Tool | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1156547/tools-feature_transparent-image_how-to.jpg' alt='Make an Image Transparent - Easy Online Tool | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4184">
+                                <meta itemprop="height" content="2848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1156547/tools-feature_transparent-image_how-to.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Background Transparent in Canva - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f9ivKfo-Nos/hqdefault.jpg' alt='How to Make Background Transparent in Canva - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f9ivKfo-Nos/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canva Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png' alt='Canva Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canva Logo PNG With Transparent Background">
+                                <img itemprop="contentUrl url" src='https://freepnglogo.com/images/all_img/1691829322canva-app-logo-png.png' alt='Canva Logo PNG With Transparent Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepnglogo" />
+                                </span>
+                                <a href='https://freepnglogo.com/images/all_img/1691829322canva-app-logo-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make the Background Transparent in Canva">
+                                <img itemprop="contentUrl url" src='https://www.alphr.com/wp-content/uploads/2021/06/3-51.png' alt='How to Make the Background Transparent in Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1017">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphr" />
+                                </span>
+                                <a href='https://www.alphr.com/wp-content/uploads/2021/06/3-51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

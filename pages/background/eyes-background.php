@@ -1,0 +1,129 @@
+<title>Exploring the Fascinating World of Eyes</title>
+                    <meta name="description" content="Delve into the intriguing background of eyes, uncovering their unique characteristics, biological importance, and emotional expression. Perfect for eye enthusiasts and art lovers alike, this content reveals the beauty and complexity of these vital organs in a concise manner.">
+                    <meta name="keywords" content="eyes background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eyes-background">
+                            <span itemprop="name">eyes background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Fascinating World of Eyes</h1>
+                <p>Eyes are not just windows to the soul; they're also fascinating biological structures that reveal a lot about our health and emotions. The background of eyes can reflect various characteristics, such as color, shape, and patterns, providing insight into genetic traits. They're expressive, essential for communication, and often captivate artistic representations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/fe/e4/62fee49377a6bb3c4ca4351ded087b2e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/fe/e4/62fee49377a6bb3c4ca4351ded087b2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/856/533/small/close-up-of-a-person-s-eye-with-a-blue-tint-the-eye-is-surrounded-by-a-blurry-blue-background-free-photo.jpg' alt='Eye Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/856/533/small/close-up-of-a-person-s-eye-with-a-blue-tint-the-eye-is-surrounded-by-a-blurry-blue-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract eye seamless pattern Seamless eye ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-eye-seamless-pattern-seamless-eye-background-pattern_183471-61.jpg' alt='Premium Vector | Abstract eye seamless pattern Seamless eye ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-eye-seamless-pattern-seamless-eye-background-pattern_183471-61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,700+ Background Of Eyes Watching You Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1355569095/vector/digital-eye-data-network-cyber-security-technology.jpg?s=612x612&w=0&k=20&c=b5moC17mfe_--IMWUnv1ez6sZpXcuWRFw3HwCp5n4Q4=' alt='4,700+ Background Of Eyes Watching You Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1355569095/vector/digital-eye-data-network-cyber-security-technology.jpg?s=612x612&w=0&k=20&c=b5moC17mfe_--IMWUnv1ez6sZpXcuWRFw3HwCp5n4Q4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Abstract Background Distorted Eye Pattern Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1877534347/display_1500/stock-photo-psychedelic-abstract-background-of-distorted-eye-pattern-with-one-big-eye-looking-real-eyes-with-1877534347.jpg' alt='Psychedelic Abstract Background Distorted Eye Pattern Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1877534347/display_1500/stock-photo-psychedelic-abstract-background-of-distorted-eye-pattern-with-one-big-eye-looking-real-eyes-with-1877534347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Background Of Blue Eyes Close Up Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2160631420/vector/colorful-eyes-background-gray-brown-green-blue-eyes-background.jpg?s=612x612&w=0&k=20&c=zGbmCWNSlHsZTXNLQKdVw_S63jLYAbcauwacu9H7_jo=' alt='40+ Background Of Blue Eyes Close Up Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2160631420/vector/colorful-eyes-background-gray-brown-green-blue-eyes-background.jpg?s=612x612&w=0&k=20&c=zGbmCWNSlHsZTXNLQKdVw_S63jLYAbcauwacu9H7_jo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,088 Eyes Wallpaper High Res Illustrations - Getty Images | Eyes ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1304102715/vector/seamless-eyes-spy-abstract-background-pattern.jpg?s=612x612&w=gi&k=20&c=bWlDgk25y6FHrxQI_kpO3xg4ZrDLVT3wpTZtAvOWRfk=' alt='4,088 Eyes Wallpaper High Res Illustrations - Getty Images | Eyes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1304102715/vector/seamless-eyes-spy-abstract-background-pattern.jpg?s=612x612&w=gi&k=20&c=bWlDgk25y6FHrxQI_kpO3xg4ZrDLVT3wpTZtAvOWRfk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyes Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/1990516/p/f/m/f-uDBx4Ah9khzZuphB1zBsFohrZTpKYM_2XLYQc-Vy0kQKbX4xE6tQ/Eye%20Eye%20Eye.jpg' alt='Eyes Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/1990516/p/f/m/f-uDBx4Ah9khzZuphB1zBsFohrZTpKYM_2XLYQc-Vy0kQKbX4xE6tQ/Eye%20Eye%20Eye.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Creepy eyes on a white background. Vector ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/creepy-eyes-white-background-vector-seamless-pattern_534489-353.jpg' alt='Premium Vector | Creepy eyes on a white background. Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/creepy-eyes-white-background-vector-seamless-pattern_534489-353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Background" Images – Browse 652 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/47/45/51/360_F_1047455139_9pZTWY4Xkwg92ff1kp1UbjcMj5s0DMm0.jpg' alt='Eye Background" Images – Browse 652 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/47/45/51/360_F_1047455139_9pZTWY4Xkwg92ff1kp1UbjcMj5s0DMm0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

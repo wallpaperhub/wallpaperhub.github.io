@@ -1,0 +1,129 @@
+<title>Stunning White Silver Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover the elegance of white silver wallpaper, perfect for adding a modern touch to your home. Its shimmering finish enhances any space, creating a tranquil ambiance and complementing diverse decor styles. Transform your interiors effortlessly with our stunning collection!">
+                    <meta name="keywords" content="white silver wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-silver-wallpaper">
+                            <span itemprop="name">white silver wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning White Silver Wallpaper for Elegant Interiors</h1>
+                <p>White silver wallpaper adds a touch of elegance and sophistication to any space. Its shimmering finish creates a tranquil atmosphere, reflecting light beautifully. Perfect for modern interiors, it complements various decor styles and enhances the overall aesthetic. Ideal for bedrooms, living rooms, or accent walls, it transforms interiors effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant White Silver Damask Wallpaper, Rich Textured Embossed ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42583895/r/il/8fd73f/5569693972/il_570xN.5569693972_ji4j.jpg' alt='Elegant White Silver Damask Wallpaper, Rich Textured Embossed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42583895/r/il/8fd73f/5569693972/il_570xN.5569693972_ji4j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern wallpaper – Tagged "silver-wallpaper" – wallcoveringsmart">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/98p978657646_75f4e0a5-8a24-48b1-ba92-47a5571c8226_480x480.jpg?v=1638973669' alt='Modern wallpaper – Tagged "silver-wallpaper" – wallcoveringsmart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/98p978657646_75f4e0a5-8a24-48b1-ba92-47a5571c8226_480x480.jpg?v=1638973669' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eternity White and Silver Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8948/13939/104067_2__38100.1682003051.jpg' alt='Eternity White and Silver Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/8948/13939/104067_2__38100.1682003051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moroccan Damask Wallpaper in White and Silver">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/296302-1_c96e29ff-14c3-4725-9d13-38125fa0b14a.webp?v=1706107524&width=1024' alt='Moroccan Damask Wallpaper in White and Silver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/296302-1_c96e29ff-14c3-4725-9d13-38125fa0b14a.webp?v=1706107524&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bellagio Floral by Albany - White Silver - Wallpaper - M95633">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/209985/main/albany-bellagio-floral-white-silver-wallpaper-1@lg.webp?v=1691069796' alt='Bellagio Floral by Albany - White Silver - Wallpaper - M95633'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/209985/main/albany-bellagio-floral-white-silver-wallpaper-1@lg.webp?v=1691069796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall G78142 Micro Texture White Opaque Light Silver Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/248084.jpg' alt='Patton Norwall G78142 Micro Texture White Opaque Light Silver Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/248084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White/Silver - Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/68ad3e94-8ea8-421a-94b9-da5839913246/svn/laura-ashley-wallpaper-rolls-113379-64_300.jpg' alt='White/Silver - Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/68ad3e94-8ea8-421a-94b9-da5839913246/svn/laura-ashley-wallpaper-rolls-113379-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver & White Metallic Scroll Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/silver-white-metallic-scroll-wallpaper-twqr.jpg' alt='Silver & White Metallic Scroll Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/silver-white-metallic-scroll-wallpaper-twqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver Wallpaper | White & Silver Wallpaper | Graham & Brown">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/products/9023/images/14174/119678_2__48971.1682003049.386.513.jpg?c=1' alt='Silver Wallpaper | White & Silver Wallpaper | Graham & Brown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/products/9023/images/14174/119678_2__48971.1682003049.386.513.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silver Glitter Grey White Damask Textured Heavy Duty Vinyl Feature 3D  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/NSMAAOSwxp1fvj~V/$_57.JPG?set_id=8800005007' alt='Silver Glitter Grey White Damask Textured Heavy Duty Vinyl Feature 3D  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/NSMAAOSwxp1fvj~V/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

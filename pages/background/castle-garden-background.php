@@ -1,0 +1,129 @@
+<title>Enchanting Castle Gardens: A Historical Retreat</title>
+                    <meta name="description" content="Discover the beauty and history of castle gardens! Explore lush landscapes, vibrant flowers, and serene settings that reflect architectural grandeur. Perfect for nature lovers and history enthusiasts alike, these gardens offer a peaceful retreat into the past. Visit to experience their timeless charm today!">
+                    <meta name="keywords" content="castle garden background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/castle-garden-background">
+                            <span itemprop="name">castle garden background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Castle Gardens: A Historical Retreat</h1>
+                <p>Castle gardens are enchanting spaces adorned with lush greenery, vibrant flowers, and often a historical significance. These serene landscapes, typically surrounding majestic castles, blend nature and architecture, inviting visitors to stroll through their beauty. Designed for leisure, they often reflect the style of the era they were created in.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle Garden Background Digital Composite - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21512177/r/il/9dae70/2308445390/il_fullxfull.2308445390_ljyq.jpg' alt='Castle Garden Background Digital Composite - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21512177/r/il/9dae70/2308445390/il_fullxfull.2308445390_ljyq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Palace and Castle Garden Landscape Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/p/a/palace-wallpaper-castle-garden-wall-mural-landscape-wall-print-y_zgl0bgvjbqn_3d_5.jpg' alt='The Palace and Castle Garden Landscape Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/p/a/palace-wallpaper-castle-garden-wall-mural-landscape-wall-print-y_zgl0bgvjbqn_3d_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 7x5ft Fabric Fantasy Castle Garden Backdrop Stairway to Castle  Garden Fountain Flowers Trees Blue Sky White Clouds Background Castle Party  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81X4lxfo0fL._AC_UF894,1000_QL80_.jpg' alt='BELECO 7x5ft Fabric Fantasy Castle Garden Backdrop Stairway to Castle  Garden Fountain Flowers Trees Blue Sky White Clouds Background Castle Party  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81X4lxfo0fL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Princess Castle Photo Backdrop Fairy Tale Blue Sky ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lLCcTEveL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Princess Castle Photo Backdrop Fairy Tale Blue Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lLCcTEveL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle Garden Fantasy Digital Background for Composites, Fine Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40529771/r/il/732b8f/4651773153/il_570xN.4651773153_ncoi.jpg' alt='Castle Garden Fantasy Digital Background for Composites, Fine Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40529771/r/il/732b8f/4651773153/il_570xN.4651773153_ncoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 10x8ft Fabric Fantasy Castle Garden Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mFvUVMPsL.jpg' alt='Amazon.com : BELECO 10x8ft Fabric Fantasy Castle Garden Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mFvUVMPsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper trees, flowers, castle, garden, UK for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/7/19/velikobritaniia-zamok-sad-derevia-tsvety.webp' alt='Wallpaper trees, flowers, castle, garden, UK for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/7/19/velikobritaniia-zamok-sad-derevia-tsvety.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5x7ft Vintage Castle Garden Backdrop Retro Arch Door of Medieval ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/5x7ft-Vintage-Castle-Garden-Backdrop-Retro-Arch-Door-Medieval-Palace-Photography-Background-Lovers-Girlfriend-Adult-Artistic-Portrait-Wedding-Photosh_a4ab580a-4ec4-4200-90f1-35fc93058599.baf61d76700ee45385b11986262f6fe4.jpeg' alt='5x7ft Vintage Castle Garden Backdrop Retro Arch Door of Medieval ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1378">
+                                <meta itemprop="height" content="2024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/5x7ft-Vintage-Castle-Garden-Backdrop-Retro-Arch-Door-Medieval-Palace-Photography-Background-Lovers-Girlfriend-Adult-Artistic-Portrait-Wedding-Photosh_a4ab580a-4ec4-4200-90f1-35fc93058599.baf61d76700ee45385b11986262f6fe4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle Garden Park': Over 3,150 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/fairytale-background-flower-meadow-wonderland-600nw-2259861189.jpg' alt='Castle Garden Park': Over 3,150 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/fairytale-background-flower-meadow-wonderland-600nw-2259861189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle Garden Stock Illustrations – 13,946 Castle Garden Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fantastic-castle-garden-7745965.jpg' alt='Castle Garden Stock Illustrations – 13,946 Castle Garden Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fantastic-castle-garden-7745965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

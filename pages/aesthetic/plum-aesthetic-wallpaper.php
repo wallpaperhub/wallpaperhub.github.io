@@ -1,0 +1,129 @@
+<title>Enhance Your Space with Plum Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover the charm of plum aesthetic wallpaper, perfect for adding warmth and style to your home. Explore designs that range from modern to vintage, creating a unique ambiance in any room. Upgrade your decor effortlessly with these stunning wallpapers that radiate elegance and comfort.">
+                    <meta name="keywords" content="plum aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/plum-aesthetic-wallpaper">
+                            <span itemprop="name">plum aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with Plum Aesthetic Wallpaper</h1>
+                <p>Transform your space with plum aesthetic wallpaper that beautifully blends deep purples and rich tones. Ideal for creating a cozy and stylish atmosphere, these patterns offer versatility for any room. Whether you prefer a bold statement or subtle elegance, plum wallpapers can make your home feel inviting and chic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270 Violet/plum aesthetics ideas | purple aesthetic, violet ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f5/28/35/f52835f0e93d55b27cfdbdb3029f87d8.jpg' alt='270 Violet/plum aesthetics ideas | purple aesthetic, violet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f5/28/35/f52835f0e93d55b27cfdbdb3029f87d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauve and Plum Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/1c/81/141c8167a7330c1cdc3568ecf672d5a2.jpg' alt='Mauve and Plum Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/1c/81/141c8167a7330c1cdc3568ecf672d5a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Best Plum ideas | purple wallpaper, cellphone wallpaper, plum">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/85/34/f18534d1ab5890eccf9683563b9bef44.jpg' alt='170 Best Plum ideas | purple wallpaper, cellphone wallpaper, plum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/85/34/f18534d1ab5890eccf9683563b9bef44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170 Best Plum ideas | purple wallpaper, cellphone wallpaper, plum">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c4/7e/70/c47e703018879421d530d35fa4083bf8.jpg' alt='170 Best Plum ideas | purple wallpaper, cellphone wallpaper, plum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c4/7e/70/c47e703018879421d530d35fa4083bf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauve, Plum And Purple Butterfly Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mauve-plum-and-purple-butterfly-phone-gtwbxscy0pqdca8n.jpg' alt='Mauve, Plum And Purple Butterfly Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mauve-plum-and-purple-butterfly-phone-gtwbxscy0pqdca8n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plum colour aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/7f/5e/38/7f5e382abe8cce351ae8aa922d41db5f.jpg' alt='Plum colour aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/7f/5e/38/7f5e382abe8cce351ae8aa922d41db5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Plum Aesthetic Wall Collage Kit (digital Download) 60pc ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26752312/r/il/65814b/3345729449/il_fullxfull.3345729449_e288.jpg' alt='Pink & Plum Aesthetic Wall Collage Kit (digital Download) 60pc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26752312/r/il/65814b/3345729449/il_fullxfull.3345729449_e288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270 Violet/plum aesthetics ideas | purple aesthetic, violet ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c7/a1/5c/c7a15c9b5689d857ceb840f93eda96f7.jpg' alt='270 Violet/plum aesthetics ideas | purple aesthetic, violet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c7/a1/5c/c7a15c9b5689d857ceb840f93eda96f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Purple Leaves, aesthetic purple, purple leaves, purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/521/311/HD-wallpaper-aesthetic-purple-leaves-aesthetic-purple-purple-leaves-purple-color-plants.jpg' alt='Aesthetic Purple Leaves, aesthetic purple, purple leaves, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/521/311/HD-wallpaper-aesthetic-purple-leaves-aesthetic-purple-purple-leaves-purple-color-plants.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/61/74/a2617404dfa620fc9d5bc8cbbd5286bf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/61/74/a2617404dfa620fc9d5bc8cbbd5286bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

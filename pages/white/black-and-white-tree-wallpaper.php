@@ -1,0 +1,129 @@
+<title>Elegant Black and White Tree Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of black and white tree wallpaper. Perfect for any room, this elegant design adds a stylish touch while creating a calming atmosphere. Explore a variety of patterns to elevate your home decor effortlessly. Ideal for minimalists who appreciate nature's beauty!">
+                    <meta name="keywords" content="black and white tree wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-tree-wallpaper">
+                            <span itemprop="name">black and white tree wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Tree Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning black and white tree wallpaper. This minimalist design adds an elegant touch to any room, creating a serene atmosphere. Perfect for modern or rustic interiors, these wallpapers are versatile and easy to apply, allowing you to express your style effortlessly. Discover the beauty of nature indoors!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Tree Silhouettes Wallpaper Mural, Custom Sizes Available">
+                                <img itemprop="contentUrl url" src='https://maughons.com/cdn/shop/products/black-and-white-tree-silhouettes-wallpaper-mural-custom-sizes-available-wall-murals-maughons-267499_1024x1024.jpg?v=1696170493' alt='Black And White Tree Silhouettes Wallpaper Mural, Custom Sizes Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="748">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maughon's Murals" />
+                                </span>
+                                <a href='https://maughons.com/cdn/shop/products/black-and-white-tree-silhouettes-wallpaper-mural-custom-sizes-available-wall-murals-maughons-267499_1024x1024.jpg?v=1696170493' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Tree">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/42512/landscape/wallpaper/room45.jpg?w=2000&q=80' alt='Black and White Tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/42512/landscape/wallpaper/room45.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Retro Hand Painted Black and White Forest Tree Wall Mural  Wallpaper, Removable Peel and Stick Custom 3D Wallpaper Decorative for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817geAiZnHL.jpg' alt='Amazon.com: Retro Hand Painted Black and White Forest Tree Wall Mural  Wallpaper, Removable Peel and Stick Custom 3D Wallpaper Decorative for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817geAiZnHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Trees, Black & White">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715777531/articles/R20655_product.jpg' alt='Graphic Trees, Black & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715777531/articles/R20655_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black And White Tree Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520262494112-9fe481d36ec3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHRyZWV8ZW58MHx8MHx8fDA%3D' alt='1000+ Black And White Tree Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520262494112-9fe481d36ec3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHRyZWV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Black and White Tree and People Landscape Wallpaper | Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/cc9156/3470961872/il_570xN.3470961872_2b8k.jpg' alt='Old Black and White Tree and People Landscape Wallpaper | Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/cc9156/3470961872/il_570xN.3470961872_2b8k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wall Mural Black and White Birch Trees - Peel and Stick Fabric  Wallpaper for Interior Home Decor (118" w x 78" h) : Tools & Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MFGwyKxQL.jpg' alt='Amazon.com: Wall Mural Black and White Birch Trees - Peel and Stick Fabric  Wallpaper for Interior Home Decor (118" w x 78" h) : Tools & Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MFGwyKxQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallquest JB20900 Trees Black and White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/209228.jpg' alt='Wallquest JB20900 Trees Black and White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/209228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Trees Painting Wallpaper, Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/e0a47e/2899835496/il_570xN.2899835496_k7kq.jpg' alt='Black and White Trees Painting Wallpaper, Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/e0a47e/2899835496/il_570xN.2899835496_k7kq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="311,710 Black White Tree Wallpaper Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/high-detail-illustration-trees-hand-600nw-2245511143.jpg' alt='311,710 Black White Tree Wallpaper Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/high-detail-illustration-trees-hand-600nw-2245511143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

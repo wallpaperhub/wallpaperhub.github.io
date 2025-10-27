@@ -1,0 +1,129 @@
+<title>Rapunzel Transparent Background Images</title>
+                    <meta name="description" content="Explore high-quality Rapunzel images with a transparent background. Ideal for graphic design, social media, and creative projects. Download now for a magical touch to your artwork, ensuring easy integration and stunning visuals!">
+                    <meta name="keywords" content="rapunzel transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rapunzel-transparent-background">
+                            <span itemprop="name">rapunzel transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rapunzel Transparent Background Images</h1>
+                <p>Discover stunning images of Rapunzel with a transparent background for your creative projects. Perfect for designing unique graphics, posters, or social media content, these transparent images allow for seamless integration into any backdrop. Unveil the magic of Rapunzel's story in your artwork today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Image PNG Transparent Background, Free Download #43412 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/rapunzel-png-transparent-image-1.png' alt='Rapunzel Image PNG Transparent Background, Free Download #43412 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/rapunzel-png-transparent-image-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Rapunzel PNG Transparent Background, Free Download #43416 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/disney-rapunzel-png-5.png' alt='Disney Rapunzel PNG Transparent Background, Free Download #43416 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/disney-rapunzel-png-5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Rapunzel PNG Clipart​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Transparent_Rapunzel_PNG_Clipart.png?m=1629784134' alt='Transparent Rapunzel PNG Clipart​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2871">
+                                <meta itemprop="height" content="2412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Cartoons-PNG/Transparent_Rapunzel_PNG_Clipart.png?m=1629784134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Flynn Rider Tiana Gothel Disney Princess, Disney Princess ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/23/b6/5823b6441fa782ddd2daa7634305e1b3.jpg' alt='Rapunzel Flynn Rider Tiana Gothel Disney Princess, Disney Princess ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/23/b6/5823b6441fa782ddd2daa7634305e1b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Pic PNG Transparent Background, Free Download #43423 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/rapunzel-png-pic-12.png' alt='Rapunzel Pic PNG Transparent Background, Free Download #43423 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/rapunzel-png-pic-12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/5/Rapunzel-Tangled-PNG-Picture.png' alt='Tangled PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/5/Rapunzel-Tangled-PNG-Picture.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled: The Video Game Rapunzel Flynn Rider Gothel, Disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/25/61/f12561bb6f714bc192371d0889e0a9d1.jpg' alt='Tangled: The Video Game Rapunzel Flynn Rider Gothel, Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/25/61/f12561bb6f714bc192371d0889e0a9d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel Pictures PNG Transparent Background, Free Download #43433 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/rapunzel-png-transparent-pictures-22.png' alt='Rapunzel Pictures PNG Transparent Background, Free Download #43433 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freeiconspng" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/rapunzel-png-transparent-pictures-22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/58887e2bbc2fc2ef3a18607d.png' alt='Rapunzel transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/58887e2bbc2fc2ef3a18607d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Rapunzel illustration, Mandy Moore Rapunzel Tangled: The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/8d/1e/008d1eca56c41eb50bbd8ca68ff95867.jpg' alt='Disney Rapunzel illustration, Mandy Moore Rapunzel Tangled: The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/8d/1e/008d1eca56c41eb50bbd8ca68ff95867.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

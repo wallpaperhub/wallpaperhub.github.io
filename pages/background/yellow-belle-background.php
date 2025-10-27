@@ -1,0 +1,129 @@
+<title>Brighten Your Day with a Yellow Belle Background</title>
+                    <meta name="description" content="Discover the uplifting charm of yellow belle backgrounds, perfect for enhancing your designs and social media posts. Embrace warmth, positivity, and joy with this vibrant backdrop that captivates and engages your audience effortlessly. Ideal for all creative projects, let your visuals shine brightly!">
+                    <meta name="keywords" content="yellow belle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-belle-background">
+                            <span itemprop="name">yellow belle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Day with a Yellow Belle Background</h1>
+                <p>The yellow belle background radiates warmth and positivity, creating an inviting ambiance for any project. Its golden hue evokes feelings of joy, happiness, and cheerfulness. Ideal for various uses like social media posts, presentations, or creative designs, the yellow belle background beautifully complements vibrant visuals and encourages engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle - Desktop Nexus Wallpapers | Disney princess wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ff/75/24/ff75247f041eb1b226f0a5b8bbcfdd68.jpg' alt='Belle - Desktop Nexus Wallpapers | Disney princess wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ff/75/24/ff75247f041eb1b226f0a5b8bbcfdd68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle (Disney) Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/9/1/1071890-3840x2160-desktop-4k-belle-disney-background.jpg' alt='Belle (Disney) Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/9/1/1071890-3840x2160-desktop-4k-belle-disney-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle Yellow phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/af/ba/faafba1f9e6937de2b407be62fa44505.jpg' alt='Belle Yellow phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/af/ba/faafba1f9e6937de2b407be62fa44505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Belle Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12535872/p/f/l/ZjVv62MA2V7yC2Tb60r3qWdy9MhJPF5rFarvY_4kv6jBwFUTwaL4fuJ2yg/Belle%20Scatter.jpg' alt='Princess Belle Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12535872/p/f/l/ZjVv62MA2V7yC2Tb60r3qWdy9MhJPF5rFarvY_4kv6jBwFUTwaL4fuJ2yg/Belle%20Scatter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle Cotton Fabric by the Yard - Disney Beauty and the Beast Yellow Toss -  Camelot 85100109-1">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22098416/r/il/574ea8/2943348910/il_fullxfull.2943348910_sgip.jpg' alt='Belle Cotton Fabric by the Yard - Disney Beauty and the Beast Yellow Toss -  Camelot 85100109-1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22098416/r/il/574ea8/2943348910/il_fullxfull.2943348910_sgip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/5b/27/2f5b271748cc0eafde5ecc1937abec4d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/5b/27/2f5b271748cc0eafde5ecc1937abec4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Belle Photo Backdrop 5x3ft Golded Horse Backgrounds Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719KXHQx24S._AC_UF1000,1000_QL80_.jpg' alt='Princess Belle Photo Backdrop 5x3ft Golded Horse Backgrounds Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.amazon.sa" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719KXHQx24S._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle Wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/fb/99/4afb99c10d6409e137de245f62eb406c.jpg' alt='Belle Wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/fb/99/4afb99c10d6409e137de245f62eb406c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Belle, princess, beauty and the beast, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/706/721/HD-wallpaper-belle-princess-beauty-and-the-beast.jpg' alt='Belle, princess, beauty and the beast, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/706/721/HD-wallpaper-belle-princess-beauty-and-the-beast.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Belle Pink Aesthetic Cartoon Disney Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/princess-belle-pink-aesthetic-cartoon-disney-ratamy5gkw1rjchu.jpg' alt='Princess Belle Pink Aesthetic Cartoon Disney Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/princess-belle-pink-aesthetic-cartoon-disney-ratamy5gkw1rjchu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

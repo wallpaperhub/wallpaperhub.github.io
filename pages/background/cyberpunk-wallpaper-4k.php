@@ -1,0 +1,129 @@
+<title>Stunning 4K Cyberpunk Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover breathtaking 4K cyberpunk wallpapers that breathe life into your devices. Perfect for enhancing your desktop or mobile display, these visually striking images feature futuristic themes, neon colors, and captivating designs. Download now and transform your screen experience!">
+                    <meta name="keywords" content="cyberpunk wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cyberpunk-wallpaper-4k">
+                            <span itemprop="name">cyberpunk wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Cyberpunk Wallpapers for Your Screen</h1>
+                <p>Explore the vibrant world of cyberpunk with our stunning 4K wallpapers. Immerse yourself in futuristic cityscapes, neon lights, and high-tech aesthetics that push the boundaries of imagination. Perfect for your desktop or mobile backgrounds, these wallpapers bring a touch of science fiction to your everyday life. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Pixelated Wallpaper 3840x2160 : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4e0y9g1f3so11.jpg' alt='Cyberpunk 2077 Pixelated Wallpaper 3840x2160 : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4e0y9g1f3so11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mdvmefeejg331.jpg' alt='Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mdvmefeejg331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cyberpunk Neon City 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/135/1355218.jpg' alt='Download Cyberpunk Neon City 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/135/1355218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Cyberpunk 2077 - Japantown View Live Wallpaper 4K ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1754683971593377527/1D6541DDF7988E0F83A6F524152F742EA700183B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Cyberpunk 2077 - Japantown View Live Wallpaper 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1754683971593377527/1D6541DDF7988E0F83A6F524152F742EA700183B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Wallpaper 4K, McLaren, Supercars, Neon art">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cyberpunk-mclaren-supercars-neon-art-3840x2160-1003.jpg' alt='Cyberpunk Wallpaper 4K, McLaren, Supercars, Neon art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cyberpunk-mclaren-supercars-neon-art-3840x2160-1003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Wallpapers (25 images)">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_h/26309.jpg' alt='Cyberpunk Wallpapers (25 images)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_h/26309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 3840x2160 cyberpunk, city, buildings, art 4k ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/3840x2160/13377a/cyberpunk-city-buildings-art.jpg' alt='Download wallpaper 3840x2160 cyberpunk, city, buildings, art 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/3840x2160/13377a/cyberpunk-city-buildings-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741574591784143/310818E5D3AE1CF90927AB9555326A88AECAA889/' alt='Steam Community :: Guide :: Wallpaper: Cyberpunk 2077 | Ultra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741574591784143/310818E5D3AE1CF90927AB9555326A88AECAA889/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 4k wallpaper pack by ValencyGraphics on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/745af01a-5d51-441b-9c45-a8feda5f195c/dcec1z4-fb6cca7b-27bd-49e6-b530-65b537f9c91a.jpg' alt='Cyberpunk 2077 4k wallpaper pack by ValencyGraphics on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/745af01a-5d51-441b-9c45-a8feda5f195c/dcec1z4-fb6cca7b-27bd-49e6-b530-65b537f9c91a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mdtsc6cx5d4c1.png' alt='Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mdtsc6cx5d4c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

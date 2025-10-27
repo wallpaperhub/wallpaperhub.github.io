@@ -1,0 +1,129 @@
+<title>Explore the Historical Significance of the Church of Pergamum</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="historical background of the church of pergamum">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/historical-background-of-the-church-of-pergamum">
+                            <span itemprop="name">historical background of the church of pergamum</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Historical Significance of the Church of Pergamum</h1>
+                <p>The Church of Pergamum, located in modern-day Turkey, was a significant center of early Christianity in the 1st century. Known for its impressive altar dedicated to Zeus and the library that rivaled Alexandria's, it was also a hub of pagan worship. The Book of Revelation refers to it as a place of great spiritual challenge, highlighting its struggles against idolatry and false teachings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pergamum – Drive Thru History">
+                                <img itemprop="contentUrl url" src='https://drivethruhistory.com/wp-content/uploads/2018/12/pergamum_ruins-1-e1542237317399.png' alt='Pergamum – Drive Thru History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drive Thru History" />
+                                </span>
+                                <a href='https://drivethruhistory.com/wp-content/uploads/2018/12/pergamum_ruins-1-e1542237317399.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Church At Pergamum: Understanding The Indulged Church Age Errors">
+                                <img itemprop="contentUrl url" src='http://folcc.org/wp-content/uploads/2021/04/Nicea-1.jpg' alt='The Church At Pergamum: Understanding The Indulged Church Age Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fountain of Life Christian Center" />
+                                </span>
+                                <a href='http://folcc.org/wp-content/uploads/2021/04/Nicea-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pergamos">
+                                <img itemprop="contentUrl url" src='https://lifehopeandtruth.com/cache/images/Pergamos-Temple_825_460_80_c1.JPG' alt='Pergamos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life, Hope & Truth" />
+                                </span>
+                                <a href='https://lifehopeandtruth.com/cache/images/Pergamos-Temple_825_460_80_c1.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Church in Pergamos – Guided Bible Studies for Hungry Christians">
+                                <img itemprop="contentUrl url" src='https://guidedbiblestudies.com/wp-content/uploads/2015/06/The-church-in-Pergamos.jpg' alt='The Church in Pergamos – Guided Bible Studies for Hungry Christians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guided Bible Studies for Hungry Christians" />
+                                </span>
+                                <a href='https://guidedbiblestudies.com/wp-content/uploads/2015/06/The-church-in-Pergamos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church of Pergamos, Age of Popularity | The Biblical Timeline">
+                                <img itemprop="contentUrl url" src='http://timeline.biblehistory.com/media/images/original/800px-Drawing_of_ancient_Pergamon_8-8-2013%203-51-21%20PM.jpg' alt='Church of Pergamos, Age of Popularity | The Biblical Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Timeline" />
+                                </span>
+                                <a href='http://timeline.biblehistory.com/media/images/original/800px-Drawing_of_ancient_Pergamon_8-8-2013%203-51-21%20PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pergamum | Turkey, Location, Map, & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/140849-050-15FAC2F0/Ruins-Pergamum-Turkey-Bergama.jpg' alt='Pergamum | Turkey, Location, Map, & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/140849-050-15FAC2F0/Ruins-Pergamum-Turkey-Bergama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pergamum, Turkey | The Brave Church">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/7a452d3c/dms3rep/multi/opt/ancient_temple_ruins_pergamum-640w.jpg' alt='Pergamum, Turkey | The Brave Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspiring Faith" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/7a452d3c/dms3rep/multi/opt/ancient_temple_ruins_pergamum-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pergamum (BiblePlaces.com)">
+                                <img itemprop="contentUrl url" src='https://www.bibleplaces.com/wp-content/uploads/2021/01/Pergamum-acropolis-Trajan-temple-tb041505765.jpg' alt='Pergamum (BiblePlaces.com)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BiblePlaces.com" />
+                                </span>
+                                <a href='https://www.bibleplaces.com/wp-content/uploads/2021/01/Pergamum-acropolis-Trajan-temple-tb041505765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHURCH 3-PERGAMUM: THE WORLDLY, COMPROMISING CHURCH | WMTLC TEACHINGS">
+                                <img itemprop="contentUrl url" src='https://wmteachings.wordpress.com/wp-content/uploads/2022/03/maxresdefault-1.jpg?w=640' alt='CHURCH 3-PERGAMUM: THE WORLDLY, COMPROMISING CHURCH | WMTLC TEACHINGS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wmtlc teachings - WordPress.com" />
+                                </span>
+                                <a href='https://wmteachings.wordpress.com/wp-content/uploads/2022/03/maxresdefault-1.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Church At Pergamum: Understanding The Indulged Church Age Errors">
+                                <img itemprop="contentUrl url" src='http://folcc.org/wp-content/uploads/2021/04/Picture2.jpg' alt='The Church At Pergamum: Understanding The Indulged Church Age Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fountain of Life Christian Center" />
+                                </span>
+                                <a href='http://folcc.org/wp-content/uploads/2021/04/Picture2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

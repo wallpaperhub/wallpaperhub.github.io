@@ -1,0 +1,129 @@
+<title>Festive Animated Christmas Wallpapers for Christmas Cheer</title>
+                    <meta name="description" content="Discover vibrant animated moving Christmas wallpapers that bring your device to life! Enjoy festive scenes, cheerful animations, and twinkling lights optimized for a delightful holiday experience. Perfect for adding holiday cheer to your screen, find your favorite wallpaper today!">
+                    <meta name="keywords" content="animated moving christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/animated-moving-christmas-wallpaper">
+                            <span itemprop="name">animated moving christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Animated Christmas Wallpapers for Christmas Cheer</h1>
+                <p>Bring the festive spirit to your screen with animated moving Christmas wallpaper! Delight in enchanting scenes of falling snowflakes, twinkling lights, and cheerful holiday animations that make your device come alive. Perfect for setting a joyful mood, these wallpapers enhance your Christmas experience with vibrant visuals and captivating motions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Best Christmas Animated Gif Moving Images & Xmas Clip Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8b/af/43/8baf4334dfe0d9ec65995ebec58dd484.gif' alt='40 Best Christmas Animated Gif Moving Images & Xmas Clip Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8b/af/43/8baf4334dfe0d9ec65995ebec58dd484.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/81/0a/57/810a57a63b4c329d35a19d07fe220aa5.gif' alt='Animated Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="346">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/81/0a/57/810a57a63b4c329d35a19d07fe220aa5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Eve in the Woods">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/052/003/656/small_2x/christmas-eve-in-the-woods-free-video.jpg' alt='Christmas Eve in the Woods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/052/003/656/small_2x/christmas-eve-in-the-woods-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="merry,christmas,happy,new,year,santa,claus,sow,winter,snowing ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/eb/4b/df/eb4bdf33aca5f6bd7af0f1d09624c563.gif' alt='merry,christmas,happy,new,year,santa,claus,sow,winter,snowing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/eb/4b/df/eb4bdf33aca5f6bd7af0f1d09624c563.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Winter Wonderland Motion Background Animation Video Effect HD">
+                                <img itemprop="contentUrl url" src='https://s2.dmcdn.net/v/P8VkN1S5YncEknBH2/x1080' alt='Christmas Winter Wonderland Motion Background Animation Video Effect HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1908">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dailymotion" />
+                                </span>
+                                <a href='https://s2.dmcdn.net/v/P8VkN1S5YncEknBH2/x1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Animated Christmas Wallpapers | christmaswallpapers18">
+                                <img itemprop="contentUrl url" src='https://christmaswallpapers18.wordpress.com/wp-content/uploads/2013/09/free-animated-christmas-wallpaper-for-desktop.jpg' alt='Free Animated Christmas Wallpapers | christmaswallpapers18'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="christmaswallpapers18 - WordPress.com" />
+                                </span>
+                                <a href='https://christmaswallpapers18.wordpress.com/wp-content/uploads/2013/09/free-animated-christmas-wallpaper-for-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpaper, christmas motion wallpaper , Christmas animated  image, loop background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/k3DoFxG-5no/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgTShyMA8=&rs=AOn4CLCw3M1H_-0ak6anZfXrCaHiVNJpDQ' alt='Christmas Live Wallpaper, christmas motion wallpaper , Christmas animated  image, loop background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/k3DoFxG-5no/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgTShyMA8=&rs=AOn4CLCw3M1H_-0ak6anZfXrCaHiVNJpDQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51 Christmas Backgrounds/Graphics ideas | christmas art, christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/53/96/80/539680a2996027a41b1362572748889d.jpg' alt='51 Christmas Backgrounds/Graphics ideas | christmas art, christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/53/96/80/539680a2996027a41b1362572748889d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video for backgrounds for Christmas and other festive seasons.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/026/748/581/small_2x/for-backgrounds-for-christmas-and-other-festive-seasons-video.jpg' alt='Video for backgrounds for Christmas and other festive seasons.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/026/748/581/small_2x/for-backgrounds-for-christmas-and-other-festive-seasons-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Christmas Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-christmas-background-with-garland-christmas-branches-presents-winter-landscape_7993-5834.jpg?semt=ais_hybrid' alt='Animated Christmas Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-christmas-background-with-garland-christmas-branches-presents-winter-landscape_7993-5834.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ultimate Jiren 4K Wallpaper Collection</title>
+                    <meta name="description" content="Discover an amazing selection of Jiren wallpapers in breathtaking 4K quality. Perfect for avid Dragon Ball Super fans looking to enhance their devices with vibrant and striking visuals. Download now and bring the power of Jiren to your screens!">
+                    <meta name="keywords" content="jiren wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/jiren-wallpaper-4k">
+                            <span itemprop="name">jiren wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Jiren 4K Wallpaper Collection</h1>
+                <p>Transform your device with stunning Jiren wallpaper in 4K resolution. Perfect for fans of Dragon Ball Super, these high-quality images capture Jiren's fierce spirit and vibrant colors. Download and personalize your screens with epic visuals that showcase one of the series' most powerful warriors. Elevate your wallpaper game today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jiren (Dragon Ball) Anime Dragon Ball Super 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/991/991791.png' alt='Download Jiren (Dragon Ball) Anime Dragon Ball Super 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/991/991791.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD jiren wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/266/665/HD-wallpaper-jiren-anime-dbs-thumbnail.jpg' alt='HD jiren wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/266/665/HD-wallpaper-jiren-anime-dbs-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+] Jiren (Dragon Ball) Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/865/865872.png' alt='80+] Jiren (Dragon Ball) Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/865/865872.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jiren, fuerza, ultra, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/776/623/HD-wallpaper-jiren-fuerza-ultra.jpg' alt='Jiren, fuerza, ultra, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/776/623/HD-wallpaper-jiren-fuerza-ultra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1+ Popular Jiren (Dragon Ball) HD Wallpapers, Backgrounds and Photos">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/jiren-hd-dragon-ball-art_bWduaWWUmZqaraWkpJRoamZmrWdpbG4.jpg' alt='1+ Popular Jiren (Dragon Ball) HD Wallpapers, Backgrounds and Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3511">
+                                <meta itemprop="height" content="2479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/jiren-hd-dragon-ball-art_bWduaWWUmZqaraWkpJRoamZmrWdpbG4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Jiren ideas | anime dragon ball, dragon ball super, dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4b/ab/80/4bab80d62aa30cce1870ec9b9fb5a7d5.jpg' alt='12 Jiren ideas | anime dragon ball, dragon ball super, dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4b/ab/80/4bab80d62aa30cce1870ec9b9fb5a7d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "GRN Jiren Character Art + 4K PC Wallpaper + 4K Phone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/En-sEXGXEAIgArH?format=jpg&name=4096x4096' alt='Hydros on X: "GRN Jiren Character Art + 4K PC Wallpaper + 4K Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/En-sEXGXEAIgArH?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jiren (Full Power) Wallpaper [Xenoverse 2] by Maxiuchiha22 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf7w4-2c3c184b-a653-4b6d-a847-e352fc09699c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4Zjd3NC0yYzNjMTg0Yi1hNjUzLTRiNmQtYTg0Ny1lMzUyZmMwOTY5OWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iYfIjjlirX9RTTAZnYKTmOGvTHR8RPBxbiiSb2bMfzc' alt='Jiren (Full Power) Wallpaper [Xenoverse 2] by Maxiuchiha22 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf7w4-2c3c184b-a653-4b6d-a847-e352fc09699c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4Zjd3NC0yYzNjMTg0Yi1hNjUzLTRiNmQtYTg0Ny1lMzUyZmMwOTY5OWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iYfIjjlirX9RTTAZnYKTmOGvTHR8RPBxbiiSb2bMfzc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jiren (Dragon Ball) Anime Dragon Ball Super 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/945/945372.png' alt='Download Jiren (Dragon Ball) Anime Dragon Ball Super 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/945/945372.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "PUR Legends Limited Sparking Full Power Jiren HD + ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FMQjij7XMAAe1at?format=jpg&name=4096x4096' alt='Hydros on X: "PUR Legends Limited Sparking Full Power Jiren HD + ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FMQjij7XMAAe1at?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Lilly Pulitzer Christmas Wallpaper: Festive Decor Ideas</title>
+                    <meta name="description" content="Discover the vibrant world of Lilly Pulitzer Christmas wallpaper! Perfect for adding a festive touch to your home, these cheerful designs are sure to brighten your holiday season. Explore patterns that embody the spirit of Christmas while showcasing your unique style effortlessly this holiday!">
+                    <meta name="keywords" content="lilly pulitzer christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/lilly-pulitzer-christmas-wallpaper">
+                            <span itemprop="name">lilly pulitzer christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lilly Pulitzer Christmas Wallpaper: Festive Decor Ideas</h1>
+                <p>Transform your holiday decor with Lilly Pulitzer Christmas wallpaper! Bright, colorful patterns infused with festive cheer instantly elevate your space. Ideal for traditional or modern homes, these wallpapers bring joy and vibrancy to your walls. Embrace the spirit of the season and create a chic, cheerful atmosphere this Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer on Instagram: “Merry Christmas   #Lilly5x5​”">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/01/8d/18018d81add4f63d4bd3e06ebaf0574e.jpg' alt='Lilly Pulitzer on Instagram: “Merry Christmas   #Lilly5x5​”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/01/8d/18018d81add4f63d4bd3e06ebaf0574e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer - Wishing you all a very Merry Christmas! #lilly5x5 ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159670684374361' alt='Lilly Pulitzer - Wishing you all a very Merry Christmas! #lilly5x5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159670684374361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer on Instagram: “Merry Christmas and Happy Holidays ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/29/b7/af29b7c481ede69ea386f891987d2353.jpg' alt='Lilly Pulitzer on Instagram: “Merry Christmas and Happy Holidays ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/29/b7/af29b7c481ede69ea386f891987d2353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lilly Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15974712/p/f/m/EjaCIlqyNIyO3YDqQErc4mWuZcUMaT1XWqUfeXd6nUgv0j0jCaCZNXsFtbk557lgIQ/Baubles%20in%20Bloom%20%E2%80%93%20Green%20-%20New.jpg' alt='Christmas Lilly Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15974712/p/f/m/EjaCIlqyNIyO3YDqQErc4mWuZcUMaT1XWqUfeXd6nUgv0j0jCaCZNXsFtbk557lgIQ/Baubles%20in%20Bloom%20%E2%80%93%20Green%20-%20New.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer - Merry Christmas    #Lilly5x5 | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156778850489361' alt='Lilly Pulitzer - Merry Christmas    #Lilly5x5 | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156778850489361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lilly Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15942039/p/f/m/KnF-lDAqCdJz2K4avVGwsgetm_Sv4fDsEnrv4w5hthoDJSj14wIZ/Lilly's%20Enchanted%20Forest%20-%20Teal%2FPink.jpg' alt='Christmas Lilly Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15942039/p/f/m/KnF-lDAqCdJz2K4avVGwsgetm_Sv4fDsEnrv4w5hthoDJSj14wIZ/Lilly's%20Enchanted%20Forest%20-%20Teal%2FPink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilly Pulitzer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/90/ac/8a90ac1afbda2f9ee51f5fea9a6f7380.jpg' alt='Lilly Pulitzer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/90/ac/8a90ac1afbda2f9ee51f5fea9a6f7380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bows, Pearls & Curls on X: "Lilly Pulitzer makes Christmas even ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CVk3DuYXAAU_H0w.jpg' alt='Bows, Pearls & Curls on X: "Lilly Pulitzer makes Christmas even ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CVk3DuYXAAU_H0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lilly Pulitzer Desktop Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lilly-pulitzer-desktop-background-cxz7sh7ftk8jxn7y.jpg' alt='100+] Lilly Pulitzer Desktop Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lilly-pulitzer-desktop-background-cxz7sh7ftk8jxn7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Lilly Holidays ideas | lillies, lilly pulitzer, lilly pulitzer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/73/18/f8/7318f82d04bd73bfd979f79618dfe86a.jpg' alt='32 Lilly Holidays ideas | lillies, lilly pulitzer, lilly pulitzer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/73/18/f8/7318f82d04bd73bfd979f79618dfe86a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Clearance Peel and Stick Wallpaper - Easy and Affordable Decor</title>
+                    <meta name="description" content="Discover unbeatable deals on clearance peel and stick wallpaper! Transform your home effortlessly with easy application and removal. Perfect for any space, our stylish designs let you refresh your decor while staying on budget. Shop now for amazing savings and elevate your interiors!">
+                    <meta name="keywords" content="clearance peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/clearance-peel-and-stick-wallpaper">
+                            <span itemprop="name">clearance peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Clearance Peel and Stick Wallpaper - Easy and Affordable Decor</h1>
+                <p>Clearance peel and stick wallpaper offers a stylish, budget-friendly way to transform your space effortlessly. Perfect for renters and DIY enthusiasts, it's easy to apply and remove without damaging walls. Choose from various designs to match your decor and elevate any room in minutes, all while enjoying great savings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harlow Wallpaper - CLEARANCE 6 Sheets 24" w x 96" h">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/harlow-wallpaper-clearance-6-sheets-24-w-x-96-h-858564.jpg?v=1731651839' alt='Harlow Wallpaper - CLEARANCE 6 Sheets 24" w x 96" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/harlow-wallpaper-clearance-6-sheets-24-w-x-96-h-858564.jpg?v=1731651839' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clearance! Self-Adhesive Wallpaper, Self-Adhesive PVC Wallpaper Peel and  Stick, 3D Art Wall Panels for Living Room Bedroom Background Wall ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/eb793ed4-65e3-445d-b04f-408b5fe689c4.ca02898b8630e1068cbfe637ed1cf9dc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Clearance! Self-Adhesive Wallpaper, Self-Adhesive PVC Wallpaper Peel and  Stick, 3D Art Wall Panels for Living Room Bedroom Background Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/eb793ed4-65e3-445d-b04f-408b5fe689c4.ca02898b8630e1068cbfe637ed1cf9dc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' alt='Moody Floral Wallpaper - CLEARANCE 4 Sheets 24" w x 72" h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/moody-floral-wallpaper-clearance-4-sheets-388281.png?v=1716911447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clearance Peel and Stick Wallpaper Black and White Wall Covering Lines  Concise Tv Background Easy to Clean (W) 59" X(H) 48"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61znWdOT1UL._AC_UF894,1000_QL80_.jpg' alt='Clearance Peel and Stick Wallpaper Black and White Wall Covering Lines  Concise Tv Background Easy to Clean (W) 59" X(H) 48"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61znWdOT1UL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21219368/r/il/229a2c/5761917950/il_570xN.5761917950_phzs.jpg' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21219368/r/il/229a2c/5761917950/il_570xN.5761917950_phzs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Clearance Peel and Stick Wallpaper Blue Contact Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71wE+v+yIbL._AC_UF894,1000_QL80_.jpg' alt='YANFENQI Clearance Peel and Stick Wallpaper Blue Contact Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71wE+v+yIbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Clearance! Flower Tree Wallpaper Peel and Stick Wallpaper Self Adhesive  Removable Paper Wall Covering Shelf Drawer Liner Vinyl Roll">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Big-Clearance-Flower-Tree-Wallpaper-Peel-and-Stick-Wallpaper-Self-Adhesive-Removable-Paper-Wall-Covering-Shelf-Drawer-Liner-Vinyl-Roll_3c89c91c-30ba-4f25-b750-fe50ca17d410.0ac5e37c7dcac7e9a13b456d1b47dae4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Big Clearance! Flower Tree Wallpaper Peel and Stick Wallpaper Self Adhesive  Removable Paper Wall Covering Shelf Drawer Liner Vinyl Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Big-Clearance-Flower-Tree-Wallpaper-Peel-and-Stick-Wallpaper-Self-Adhesive-Removable-Paper-Wall-Covering-Shelf-Drawer-Liner-Vinyl-Roll_3c89c91c-30ba-4f25-b750-fe50ca17d410.0ac5e37c7dcac7e9a13b456d1b47dae4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sale: Peel & Stick Wallpaper, Wall Decals, Rugs, Borders ...">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/PG15055-blue-petite-garden-party-peel-stick-wallpaper-living-room.jpg?v=1724538492&width=1080' alt='Sale: Peel & Stick Wallpaper, Wall Decals, Rugs, Borders ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/PG15055-blue-petite-garden-party-peel-stick-wallpaper-living-room.jpg?v=1724538492&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Peel and Stick. Removable Wallpaper. Woven. Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/f48977/3563469608/il_570xN.3563469608_r5kx.jpg' alt='Buy Peel and Stick. Removable Wallpaper. Woven. Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/f48977/3563469608/il_570xN.3563469608_r5kx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

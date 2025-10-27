@@ -1,0 +1,129 @@
+<title>Elegant Brown Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Explore the beauty of brown wallpaper for your home! Discover stylish designs that enhance warmth and elegance in any room. From deep chocolate tones to light beige, find the perfect shade to transform your space with modern decor. Add comfort and sophistication with our top picks!">
+                    <meta name="keywords" content="brown wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-wallpaper">
+                            <span itemprop="name">brown wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Brown Wallpaper Ideas for Your Home</h1>
+                <p>Brown wallpaper adds warmth and sophistication to any space, creating a cozy atmosphere that complements various decor styles. From rich chocolate hues to soft taupe shades, brown wallpaper can enhance your interior design while offering a subtle backdrop for furniture and artwork. Perfect for living rooms, bedrooms, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walnut Brown Simple Plain Wallpaper R9171">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/WalnutBrownSimplePlainWallpaperR9171.jpg?v=1736259409&width=1200' alt='Walnut Brown Simple Plain Wallpaper R9171'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/WalnutBrownSimplePlainWallpaperR9171.jpg?v=1736259409&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable brown wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFR460lzLw/1/0/900w/canva-brown-simple-watercolor-phone-wallpaper-IKaf_Fk0M4I.jpg' alt='Free and customizable brown wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFR460lzLw/1/0/900w/canva-brown-simple-watercolor-phone-wallpaper-IKaf_Fk0M4I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/49/50/024950d56e116f043427ec93aa55a169.jpg' alt='Brown aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/49/50/024950d56e116f043427ec93aa55a169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_ab02973e-604a-4b58-acea-a052e2b71c78.jpg?v=1706127268&width=1621' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1621">
+                                <meta itemprop="height" content="1621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_ab02973e-604a-4b58-acea-a052e2b71c78.jpg?v=1706127268&width=1621' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic brown phone background free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b8/f4/08/b8f40856d7d9973d99adbea9afd4d65c.jpg' alt='Aesthetic brown phone background free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b8/f4/08/b8f40856d7d9973d99adbea9afd4d65c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable brown wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF09yyc0Vc/1/0/225w/canva-brown-beige-aesthetic-leaf-phone-wallpaper-b5zaygxwO2U.jpg' alt='Free and customizable brown wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF09yyc0Vc/1/0/225w/canva-brown-beige-aesthetic-leaf-phone-wallpaper-b5zaygxwO2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/a7/94/b7a79480994a23938f187375577be5f0.jpg' alt='Brown aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/a7/94/b7a79480994a23938f187375577be5f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UniGoos Beige Flowers Peel and Stick Wallpaper Brown Leaves Temporary Wall  Paper Roll Modern Self Adhesive Contact Paper for Cabinet Kids Room DIY ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XYXHLFt7L.jpg' alt='UniGoos Beige Flowers Peel and Stick Wallpaper Brown Leaves Temporary Wall  Paper Roll Modern Self Adhesive Contact Paper for Cabinet Kids Room DIY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XYXHLFt7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Brown Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/brown-iphone-wzb26td5mkbphk2p.jpg' alt='100+] Brown Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/brown-iphone-wzb26td5mkbphk2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2021/05/brown-wallpaper-1-2.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2021/05/brown-wallpaper-1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

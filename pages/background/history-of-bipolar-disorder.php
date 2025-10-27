@@ -1,0 +1,129 @@
+<title>The Evolution of Bipolar Disorder: A Historical Perspective</title>
+                    <meta name="description" content="Discover the intriguing history of bipolar disorder, exploring its origins, evolution, and how our understanding has changed over centuries. Learn about key milestones in diagnosis and treatment, and how this knowledge impacts those living with bipolar today.">
+                    <meta name="keywords" content="history of bipolar disorder">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-bipolar-disorder">
+                            <span itemprop="name">history of bipolar disorder</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of Bipolar Disorder: A Historical Perspective</h1>
+                <p>The history of bipolar disorder dates back thousands of years, with early references found in ancient texts like the Egyptians and Greeks. Initially termed "manic-depressive illness" in the 19th century, it was recognized as a psychiatric condition. Advances in psychiatry and neuroscience continue to shape our understanding and treatment of this complex disorder today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bipolar Life Victoria">
+                                <img itemprop="contentUrl url" src='https://irp.cdn-website.com/02921c43/dms3rep/multi/history-of-bipolar-2.webp' alt='Bipolar Life Victoria'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bipolar Life Victoria" />
+                                </span>
+                                <a href='https://irp.cdn-website.com/02921c43/dms3rep/multi/history-of-bipolar-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bipolar disorder - History, definitions, diagnosis, epidemiology ...">
+                                <img itemprop="contentUrl url" src='https://neurotorium.org/wp-content/uploads/bd-history-definitions-diagnosis-epidemiology-slide6-1024x576.png' alt='Bipolar disorder - History, definitions, diagnosis, epidemiology ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Neurotorium" />
+                                </span>
+                                <a href='https://neurotorium.org/wp-content/uploads/bd-history-definitions-diagnosis-epidemiology-slide6-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Bipolar Disorder: It Dates Back to Antiquity">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/yixw23k2v6vo/2ONaJCLzLO71xVQAoR89sK/7f5934dd9549b17785fe5a472d875357/people-in-a-psychiatric-hospital-illustration-GettyImages-1398758090-3000x2000.jpg' alt='History of Bipolar Disorder: It Dates Back to Antiquity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4900">
+                                <meta itemprop="height" content="3267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HealthCentral" />
+                                </span>
+                                <a href='https://images.ctfassets.net/yixw23k2v6vo/2ONaJCLzLO71xVQAoR89sK/7f5934dd9549b17785fe5a472d875357/people-in-a-psychiatric-hospital-illustration-GettyImages-1398758090-3000x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Bipolar Disorder: An Untold Story | Dr. Manuel ...">
+                                <img itemprop="contentUrl url" src='https://www.crestbd.ca/wp-content/uploads/2023/12/history-of-bipolar-disorder-1024x512.jpg' alt='The History of Bipolar Disorder: An Untold Story | Dr. Manuel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="crest.bd" />
+                                </span>
+                                <a href='https://www.crestbd.ca/wp-content/uploads/2023/12/history-of-bipolar-disorder-1024x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of bipolar disorder - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A_case_of_circular_insanity%2C_photographed_first_in_maniacal_or_exalted_phase%2C_and_some_months_later_in_the_melancholic_phase_%28Peterson_275%29.jpg/220px-A_case_of_circular_insanity%2C_photographed_first_in_maniacal_or_exalted_phase%2C_and_some_months_later_in_the_melancholic_phase_%28Peterson_275%29.jpg' alt='History of bipolar disorder - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A_case_of_circular_insanity%2C_photographed_first_in_maniacal_or_exalted_phase%2C_and_some_months_later_in_the_melancholic_phase_%28Peterson_275%29.jpg/220px-A_case_of_circular_insanity%2C_photographed_first_in_maniacal_or_exalted_phase%2C_and_some_months_later_in_the_melancholic_phase_%28Peterson_275%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF] The Early Natural History of Bipolar Disorder: What We Have ...">
+                                <img itemprop="contentUrl url" src='https://figures.semanticscholar.org/e4e11cd6fc4eb159f2845fea2bd54f53ae301677/5-Figure1-1.png' alt='PDF] The Early Natural History of Bipolar Disorder: What We Have ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1394">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semantic Scholar" />
+                                </span>
+                                <a href='https://figures.semanticscholar.org/e4e11cd6fc4eb159f2845fea2bd54f53ae301677/5-Figure1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Bipolar: Through the Ages — It's Been There ...">
+                                <img itemprop="contentUrl url" src='https://www.bphope.com/wp-content/uploads/2020/01/history-bipolar-facebook.jpg' alt='The History of Bipolar: Through the Ages — It's Been There ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bpHope.com" />
+                                </span>
+                                <a href='https://www.bphope.com/wp-content/uploads/2020/01/history-bipolar-facebook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Bipolar Disorder: An Untold Story | Dr. Manuel ...">
+                                <img itemprop="contentUrl url" src='https://www.crestbd.ca/wp-content/uploads/2023/12/The-History-of-Bipolar-Disorder-Dr.-Manuel-Sanchez-de-Carmona-talkBD-Bipolar-Disorder-Podcast-2L.jpg' alt='The History of Bipolar Disorder: An Untold Story | Dr. Manuel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="crest.bd" />
+                                </span>
+                                <a href='https://www.crestbd.ca/wp-content/uploads/2023/12/The-History-of-Bipolar-Disorder-Dr.-Manuel-Sanchez-de-Carmona-talkBD-Bipolar-Disorder-Podcast-2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Bipolar Disorder">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/10/78/3510780dd48db182072bb170631f7050.jpg' alt='The History of Bipolar Disorder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/10/78/3510780dd48db182072bb170631f7050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Surprising Facts About the History of Bipolar | bpHope.com">
+                                <img itemprop="contentUrl url" src='https://www.bphope.com/wp-content/uploads/2021/12/The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.jpg' alt='7 Surprising Facts About the History of Bipolar | bpHope.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bpHope.com" />
+                                </span>
+                                <a href='https://www.bphope.com/wp-content/uploads/2021/12/The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

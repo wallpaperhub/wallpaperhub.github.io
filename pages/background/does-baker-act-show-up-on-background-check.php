@@ -1,0 +1,129 @@
+<title>Does Baker Act Appear on Background Checks?</title>
+                    <meta name="description" content="Learn whether a Baker Act commitment appears on background checks. Understand its implications for mental health records and how it differs from criminal history. Get insights on privacy laws and what you need to know when undergoing background checks.">
+                    <meta name="keywords" content="does baker act show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-baker-act-show-up-on-background-check">
+                            <span itemprop="name">does baker act show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Baker Act Appear on Background Checks?</h1>
+                <p>A Baker Act involuntary commitment can potentially show up on a background check, depending on the depth of the search and local laws. Typically, if a person has been committed, it may appear on mental health records. However, many background checks focus on criminal history, which may not include Baker Act incidents.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job Concerns: Can You Be Fired for Undergoing the Baker Act?">
+                                <img itemprop="contentUrl url" src='https://fherehab.com/wp-content/uploads/2022/05/baker-acted-fire.png' alt='Job Concerns: Can You Be Fired for Undergoing the Baker Act?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FHE Health" />
+                                </span>
+                                <a href='https://fherehab.com/wp-content/uploads/2022/05/baker-acted-fire.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job Concerns: Can You Be Fired for Undergoing the Baker Act?">
+                                <img itemprop="contentUrl url" src='https://fherehab.com/wp-content/uploads/2022/05/baker-acted-fire-employer.png' alt='Job Concerns: Can You Be Fired for Undergoing the Baker Act?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FHE Health" />
+                                </span>
+                                <a href='https://fherehab.com/wp-content/uploads/2022/05/baker-acted-fire-employer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job Concerns: Can You Be Fired for Undergoing the Baker Act?">
+                                <img itemprop="contentUrl url" src='https://fherehab.com/wp-content/uploads/2022/05/fired-for-baker-act-900.jpg' alt='Job Concerns: Can You Be Fired for Undergoing the Baker Act?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FHE Health" />
+                                </span>
+                                <a href='https://fherehab.com/wp-content/uploads/2022/05/fired-for-baker-act-900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Being Baker Acted Go On Your Record? - South Florida Reporter">
+                                <img itemprop="contentUrl url" src='https://southfloridareporter.com/wp-content/uploads/2021/10/portrait-person-with-mental-disorders-640x427.jpg' alt='Does Being Baker Acted Go On Your Record? - South Florida Reporter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Florida Reporter" />
+                                </span>
+                                <a href='https://southfloridareporter.com/wp-content/uploads/2021/10/portrait-person-with-mental-disorders-640x427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does A Baker Act Go On Your Record?">
+                                <img itemprop="contentUrl url" src='https://cchrflorida.org/wp-content/uploads/2020/04/Ask-CCHR-5.jpg' alt='Does A Baker Act Go On Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCHR Florida" />
+                                </span>
+                                <a href='https://cchrflorida.org/wp-content/uploads/2020/04/Ask-CCHR-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sheriffs want tougher Baker Act, better background checks, more ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/wp-brights/-brights/2018/02/20105856/GradyJudd_1519145917.jpg' alt='Sheriffs want tougher Baker Act, better background checks, more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tampa Bay Times" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/wp-brights/-brights/2018/02/20105856/GradyJudd_1519145917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Shows Up on Your Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' alt='What Shows Up on Your Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311360176345435422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I was tooooo mad        its the fact you literally cant do NOTHING but  watch them #cna #futurenurse #icu #baddieinhealthcare">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7394591063417031967&location=0&aid=1988' alt='I was tooooo mad        its the fact you literally cant do NOTHING but  watch them #cna #futurenurse #icu #baddieinhealthcare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7394591063417031967&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baker Act Is Harmful Not Helpful – Citizens Commission On Human ...">
+                                <img itemprop="contentUrl url" src='https://cchrflorida.org/wp-content/uploads/2023/05/wall.jpg' alt='Baker Act Is Harmful Not Helpful – Citizens Commission On Human ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1430">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CCHR Florida" />
+                                </span>
+                                <a href='https://cchrflorida.org/wp-content/uploads/2023/05/wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I want to expunge my Baker Act or Marchman Act from my record: How ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aEzNUeG8IXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFDb3bJWUKgacwZeUMiJc9Y6TNXA' alt='I want to expunge my Baker Act or Marchman Act from my record: How ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aEzNUeG8IXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFDb3bJWUKgacwZeUMiJc9Y6TNXA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

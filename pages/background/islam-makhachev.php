@@ -1,0 +1,129 @@
+<title>Islam Makhachev: Rising Star in UFC</title>
+                    <meta name="description" content="Discover the journey of Islam Makhachev, a top UFC fighter known for his exceptional grappling and striking skills. Explore his rise in MMA, training background with Khabib Nurmagomedov, and what makes him a contender for the championship title. Stay updated on his latest fights and achievements!">
+                    <meta name="keywords" content="islam makhachev">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/islam-makhachev">
+                            <span itemprop="name">islam makhachev</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Islam Makhachev: Rising Star in UFC</h1>
+                <p>Islam Makhachev is a prominent mixed martial artist from Dagestan, Russia, competing in the UFC. Known for his grappling skills and striking technique, he has quickly risen through the ranks, showcasing his talent and determination. A pupil of the legendary Khabib Nurmagomedov, Makhachev combines discipline and strategy in every fight, aiming for championship glory.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam Makhachev (Lightweight) MMA Profile - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3332412.png&w=350&h=254' alt='Islam Makhachev (Lightweight) MMA Profile - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3332412.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam Makhachev | UFC">
+                                <img itemprop="contentUrl url" src='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/7/MAKHACHEV_ISLAM_L_BELT_01-18.png?itok=VptniX86' alt='Islam Makhachev | UFC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UFC.com" />
+                                </span>
+                                <a href='https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2025-01/7/MAKHACHEV_ISLAM_L_BELT_01-18.png?itok=VptniX86' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam Makhachev - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Islam_Makhachev_2022_UFC_belt_%28cropped%29.png/800px-Islam_Makhachev_2022_UFC_belt_%28cropped%29.png' alt='Islam Makhachev - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Islam_Makhachev_2022_UFC_belt_%28cropped%29.png/800px-Islam_Makhachev_2022_UFC_belt_%28cropped%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unstoppable Islam Makhachev Moments   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XG4Hhd4rqhA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByiQA8_XQxPUP25NjzCPV6P9urQw' alt='Unstoppable Islam Makhachev Moments   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XG4Hhd4rqhA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByiQA8_XQxPUP25NjzCPV6P9urQw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC 311: Can Islam Makhachev Break Record For UFC Title Fight Wins?">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6774658b15a14546bd5f1bcc/UFC-311-Press-Conference/960x0.jpg?format=jpg&width=960' alt='UFC 311: Can Islam Makhachev Break Record For UFC Title Fight Wins?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6774658b15a14546bd5f1bcc/UFC-311-Press-Conference/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC champ Islam Makhachev reveals surprising dream fight">
+                                <img itemprop="contentUrl url" src='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2025/01/islam-makhachev-khabib-nurmagomedov-ufc-311.jpg?w=1000&h=600&crop=1' alt='UFC champ Islam Makhachev reveals surprising dream fight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MMA Junkie - USA Today" />
+                                </span>
+                                <a href='https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2025/01/islam-makhachev-khabib-nurmagomedov-ufc-311.jpg?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam Makhachev - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGIzM2E2OWYtMWFkZC00NGI5LWEwYTktYTg0MmY3NDFhMTkyXkEyXkFqcGc@._V1_.jpg' alt='Islam Makhachev - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGIzM2E2OWYtMWFkZC00NGI5LWEwYTktYTg0MmY3NDFhMTkyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC 311: Islam Makhachev breaks Khabib Nurmagomedov's record with ...">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8459/live/2fbb0090-d635-11ef-bbcb-e18188e71859.jpg' alt='UFC 311: Islam Makhachev breaks Khabib Nurmagomedov's record with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8459/live/2fbb0090-d635-11ef-bbcb-e18188e71859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam Makhachev submits late-replacement Renato Moicano in 1st ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/2681cf6/2147483647/strip/false/crop/6000x3999+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F81%2F8039de8b38f3a674537837a93a68%2Fcb3d2edc93bc49b7a4828529f70004be' alt='Islam Makhachev submits late-replacement Renato Moicano in 1st ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/2681cf6/2147483647/strip/false/crop/6000x3999+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F81%2F8039de8b38f3a674537837a93a68%2Fcb3d2edc93bc49b7a4828529f70004be' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC: UFC Vegas 49: Islam Makhachev defeats Bobby Green by TKO at 3 ...">
+                                <img itemprop="contentUrl url" src='https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/27/16459304991658.jpg' alt='UFC: UFC Vegas 49: Islam Makhachev defeats Bobby Green by TKO at 3 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marca.com" />
+                                </span>
+                                <a href='https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/27/16459304991658.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

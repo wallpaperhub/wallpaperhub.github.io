@@ -1,0 +1,129 @@
+<title>Stunning Shark Week Images: Dive into the Deep!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="shark week images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shark-week-images">
+                            <span itemprop="name">shark week images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Shark Week Images: Dive into the Deep!</h1>
+                <p>Shark Week images capture the thrilling essence of the ocean's apex predators. From stunning underwater shots showcasing their majestic beauty to vivid depictions of educational content, these images highlight both the power and conservation efforts surrounding sharks. Perfect for enthusiasts and educators alike, they evoke awe and respect for marine life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SHARK WEEK 2021 Starts July 11 | Discovery">
+                                <img itemprop="contentUrl url" src='https://discovery.sndimg.com/content/dam/images/discovery/editorial/shows/s/shark-week-/2021/marketing/dsc_sw_s21_3000x3000_nologos_02.jpg.rend.hgtvcom.1280.1280.suffix/1622055357382.jpeg' alt='SHARK WEEK 2021 Starts July 11 | Discovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discovery Channel" />
+                                </span>
+                                <a href='https://discovery.sndimg.com/content/dam/images/discovery/editorial/shows/s/shark-week-/2021/marketing/dsc_sw_s21_3000x3000_nologos_02.jpg.rend.hgtvcom.1280.1280.suffix/1622055357382.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Week (TV Series 1987– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTU4ZDRkMGQtYmY0ZS00ZTE2LThlMzMtYjkxYWJiYzVjM2I3XkEyXkFqcGc@._V1_.jpg' alt='Shark Week (TV Series 1987– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTU4ZDRkMGQtYmY0ZS00ZTE2LThlMzMtYjkxYWJiYzVjM2I3XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Week (@sharkweek) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3411636517666130790' alt='Shark Week (@sharkweek) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3411636517666130790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Prime 3D | Discovery Shark Week | Great White Shark | 500 Piece  Jigsaw 3D Puzzle for Adults and Kids Challenging | Perfect for Game Nights  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ToairgJwL.jpg' alt='Amazon.com: Prime 3D | Discovery Shark Week | Great White Shark | 500 Piece  Jigsaw 3D Puzzle for Adults and Kids Challenging | Perfect for Game Nights  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ToairgJwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Shark Week became a cultural phenomenon : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2021/07/12/gettyimages-sb10064075am-001-c49600c46e11d24f055f6ee573ad41eea52cd6fa.jpg' alt='How Shark Week became a cultural phenomenon : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4535">
+                                <meta itemprop="height" content="3399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2021/07/12/gettyimages-sb10064075am-001-c49600c46e11d24f055f6ee573ad41eea52cd6fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Week - Shark Adventure Wall Poster, 14.725" x 22.375"">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Shark-Week-Shark-Adventure-Wall-Poster-22-375-x-34_e5792ef5-2e37-45cc-9518-88d3905d8513.bbbc7ab88ae79074ea64d3dc420af17c.jpeg' alt='Shark Week - Shark Adventure Wall Poster, 14.725" x 22.375"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Shark-Week-Shark-Adventure-Wall-Poster-22-375-x-34_e5792ef5-2e37-45cc-9518-88d3905d8513.bbbc7ab88ae79074ea64d3dc420af17c.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Momoa Bites into Shark Week, Beginning July 23 on Discovery ...">
+                                <img itemprop="contentUrl url" src='https://bellmedia-images.imgix.net/lede/wp-content/uploads/2023/07/PH122480_dsc-SharkWeek2023-KeyArt-FN-1_master-copy.jpg?auto=format&q=60&crop=faces%2C%20edges&ar=16%3A9&fit=crop&ixlib=react-9.8.1&w=1400' alt='Jason Momoa Bites into Shark Week, Beginning July 23 on Discovery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bell Media" />
+                                </span>
+                                <a href='https://bellmedia-images.imgix.net/lede/wp-content/uploads/2023/07/PH122480_dsc-SharkWeek2023-KeyArt-FN-1_master-copy.jpg?auto=format&q=60&crop=faces%2C%20edges&ar=16%3A9&fit=crop&ixlib=react-9.8.1&w=1400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Week - Shark Week updated their cover photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5939907249356729' alt='Shark Week - Shark Week updated their cover photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shark Week - Shark Week updated their cover photo." />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5939907249356729' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shark Week is huge, and that's kind of a problem">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/9970cd90ede937dbfe93a927111f754ae9050f0e/c=0-233-2048-1389/local/-/media/USATODAY/USATODAY/2014/08/07/1407443509000-XXX-ROB-LOWE-SHARK-WEEK-TV-jy-1571-.JPG' alt='Shark Week is huge, and that's kind of a problem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/9970cd90ede937dbfe93a927111f754ae9050f0e/c=0-233-2048-1389/local/-/media/USATODAY/USATODAY/2014/08/07/1407443509000-XXX-ROB-LOWE-SHARK-WEEK-TV-jy-1571-.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ethics of Why You Should Definitely Watch Shark Week | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/5926e4da7034dc5f91becf7d/191:100/w_1200,h_630,c_limit/SharkWeekHP-549035883.jpg' alt='The Ethics of Why You Should Definitely Watch Shark Week | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/5926e4da7034dc5f91becf7d/191:100/w_1200,h_630,c_limit/SharkWeekHP-549035883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

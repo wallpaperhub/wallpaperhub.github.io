@@ -1,0 +1,129 @@
+<title>"Discover the Fascinating Background of the FIFA World Cup"</title>
+                    <meta name="description" content=""Explore the rich history and significance of the FIFA World Cup, the premier global soccer event connecting nations and celebrating football's passion. Learn about its origins, evolution, and cultural impact."">
+                    <meta name="keywords" content="world cup background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/world-cup-background">
+                            <span itemprop="name">world cup background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Fascinating Background of the FIFA World Cup"</h1>
+                <p>The FIFA World Cup, established in 1930, is the world's premier soccer tournament, held every four years. It unites nations through competition, showcasing elite talent and vibrant cultures. From humble beginnings in Uruguay, the tournament has evolved into a global spectacle, reflecting the spirit of unity and the passion for football.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/37/20/16/360_F_537201659_fdMtc4hpI2Acv8VS5wwfh6xqbHFaG7EE.jpg' alt='World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/37/20/16/360_F_537201659_fdMtc4hpI2Acv8VS5wwfh6xqbHFaG7EE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Cup 2022 Backdrop 7x5ft Super Football Star Background Qatar World  Cup 2022 Album Poster for Wall Decorations Vinyl Soccer Football Birthday  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ErENcoHvL.jpg' alt='World Cup 2022 Backdrop 7x5ft Super Football Star Background Qatar World  Cup 2022 Album Poster for Wall Decorations Vinyl Soccer Football Birthday  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ErENcoHvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of the World Cup | Sky HISTORY TV Channel">
+                                <img itemprop="contentUrl url" src='https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2022-11/shutterstock_2190840355-min.jpg' alt='The history of the World Cup | Sky HISTORY TV Channel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky History" />
+                                </span>
+                                <a href='https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2022-11/shutterstock_2190840355-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/16/33/41/360_F_516334139_cXbDaEWQ4msiTVXHSTmxiMrPBRhpLYsi.jpg' alt='World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/16/33/41/360_F_516334139_cXbDaEWQ4msiTVXHSTmxiMrPBRhpLYsi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fifa World Cup In Large Arena Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fifa-world-cup-in-large-arena-rl7pvperogkafxdl.jpg' alt='Fifa World Cup In Large Arena Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fifa-world-cup-in-large-arena-rl7pvperogkafxdl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/07/43/86/360_F_207438699_kl3YZht6S93gWd3GqDxKfjj6RmXVmiEN.jpg' alt='World Cup Background Images – Browse 217,442 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/07/43/86/360_F_207438699_kl3YZht6S93gWd3GqDxKfjj6RmXVmiEN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Facts About the Soccer World Cup Every Fan Should Know | Coast ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/thecharlotteweekly.com/content/tncms/assets/v3/editorial/a/26/a26539bc-6a80-11ed-9163-63ae3f5921b7/637cf562e968a.image.jpg?resize=1200%2C642' alt='Fun Facts About the Soccer World Cup Every Fan Should Know | Coast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Charlotte Weekly" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/thecharlotteweekly.com/content/tncms/assets/v3/editorial/a/26/a26539bc-6a80-11ed-9163-63ae3f5921b7/637cf562e968a.image.jpg?resize=1200%2C642' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the FIFA World Cup Trophy Made of Pure Gold? | GOLD AVENUE">
+                                <img itemprop="contentUrl url" src='https://assets.goldavenue.com/uploads/tag/og_image/1578/fifa_world_cup_.jpeg' alt='Is the FIFA World Cup Trophy Made of Pure Gold? | GOLD AVENUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gold avenue" />
+                                </span>
+                                <a href='https://assets.goldavenue.com/uploads/tag/og_image/1578/fifa_world_cup_.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Cup Posters Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210710/original/pngtree-russia-world-cup-poster-picture-image_1023110.jpg' alt='World Cup Posters Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210710/original/pngtree-russia-world-cup-poster-picture-image_1023110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Brazil, World, Cup Background Images, World Cup Banner Photo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/aa/62/40aa62e001985aa6981b2386b602cd0c.jpg' alt='Free Brazil, World, Cup Background Images, World Cup Banner Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/aa/62/40aa62e001985aa6981b2386b602cd0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Spooky "Nightmare Before Christmas" Wallpaper for Fans</title>
+                    <meta name="description" content="Explore stunning "Nightmare Before Christmas" wallpapers that bring your favorite characters to life! Perfect for fans of all ages, these backgrounds add a touch of Halloween magic to any space. Transform your walls with iconic imagery and celebrate this beloved classic in style!">
+                    <meta name="keywords" content="background nightmare before christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/background-nightmare-before-christmas-wallpaper">
+                            <span itemprop="name">background nightmare before christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky "Nightmare Before Christmas" Wallpaper for Fans</h1>
+                <p>Transform your space with mesmerizing "Nightmare Before Christmas" wallpaper that captures the enchanting essence of Halloween Town. Featuring iconic characters like Jack Skellington and Sally, these backgrounds blend whimsy and spookiness, perfect for fans. Elevate your décor while celebrating this timeless classic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nightmare Before Christmas Wallpaper by Thekingblader995 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dbwfwb9-2335b765-d2fd-4c70-8c4f-0b639239c993.jpg/v1/fill/w_1192,h_670,q_70,strp/the_nightmare_before_christmas_wallpaper_by_thekingblader995_dbwfwb9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGJ3ZndiOS0yMzM1Yjc2NS1kMmZkLTRjNzAtOGM0Zi0wYjYzOTIzOWM5OTMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OVqQRuZO8i2L4t3GuDzhcaque-xtCteowiek1oxeeu0' alt='The Nightmare Before Christmas Wallpaper by Thekingblader995 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dbwfwb9-2335b765-d2fd-4c70-8c4f-0b639239c993.jpg/v1/fill/w_1192,h_670,q_70,strp/the_nightmare_before_christmas_wallpaper_by_thekingblader995_dbwfwb9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGJ3ZndiOS0yMzM1Yjc2NS1kMmZkLTRjNzAtOGM0Zi0wYjYzOTIzOWM5OTMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OVqQRuZO8i2L4t3GuDzhcaque-xtCteowiek1oxeeu0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nightmare Before Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nightmare-before-christmas-4ts5ovztpnimbaea.jpg' alt='100+] Nightmare Before Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nightmare-before-christmas-4ts5ovztpnimbaea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nightmare Before Christmas Wallpaper : HD Wallpapers Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/18/69/741869527b92401a461724189e1ade0a.jpg' alt='Nightmare Before Christmas Wallpaper : HD Wallpapers Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/18/69/741869527b92401a461724189e1ade0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oogie Artwork The Nightmare Before Christmas Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/excited-jack-from-the-nightmare-before-christmas-vhqd0et3le9gmrq2.webp' alt='Oogie Artwork The Nightmare Before Christmas Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/excited-jack-from-the-nightmare-before-christmas-vhqd0et3le9gmrq2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nightmare Before Christmas Desktop Wallpaper by CyanideSeason on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b8e4cca-02b8-4357-b258-348bf0c50887/d4kx9ao-a7ccdc5d-3a49-40d4-8ef6-01126a91d986.jpg/v1/fill/w_900,h_543,q_75,strp/nightmare_before_christmas_desktop_wallpaper_by_cyanideseason_d4kx9ao-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQzIiwicGF0aCI6IlwvZlwvMWI4ZTRjY2EtMDJiOC00MzU3LWIyNTgtMzQ4YmYwYzUwODg3XC9kNGt4OWFvLWE3Y2NkYzVkLTNhNDktNDBkNC04ZWY2LTAxMTI2YTkxZDk4Ni5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B8NoojVfqrpGpsZuO_dpOo0wYlwpTYBz03SqtYlmJrc' alt='Nightmare Before Christmas Desktop Wallpaper by CyanideSeason on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b8e4cca-02b8-4357-b258-348bf0c50887/d4kx9ao-a7ccdc5d-3a49-40d4-8ef6-01126a91d986.jpg/v1/fill/w_900,h_543,q_75,strp/nightmare_before_christmas_desktop_wallpaper_by_cyanideseason_d4kx9ao-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQzIiwicGF0aCI6IlwvZlwvMWI4ZTRjY2EtMDJiOC00MzU3LWIyNTgtMzQ4YmYwYzUwODg3XC9kNGt4OWFvLWE3Y2NkYzVkLTNhNDktNDBkNC04ZWY2LTAxMTI2YTkxZDk4Ni5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.B8NoojVfqrpGpsZuO_dpOo0wYlwpTYBz03SqtYlmJrc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Jack Skellington & Oogie Boogie from The Nightmare ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/668/668513.jpg' alt='HD Wallpaper of Jack Skellington & Oogie Boogie from The Nightmare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/668/668513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nightmare Before Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6b/9f/9f/6b9f9f59e084a98a8fadfc8c33273193.jpg' alt='Nightmare Before Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6b/9f/9f/6b9f9f59e084a98a8fadfc8c33273193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nightmare Before Christmas Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/d/2/178816-1440x2560-phone-hd-the-nightmare-before-christmas-background.jpg' alt='The Nightmare Before Christmas Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/d/2/178816-1440x2560-phone-hd-the-nightmare-before-christmas-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is “The Nightmare Before Christmas” a Christmas movie? – BruinLife">
+                                <img itemprop="contentUrl url" src='https://bruinlife.com/wp-content/uploads/2023/12/NightmarebeforeXmas_AT-scaled.jpeg' alt='Is “The Nightmare Before Christmas” a Christmas movie? – BruinLife'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BruinLife" />
+                                </span>
+                                <a href='https://bruinlife.com/wp-content/uploads/2023/12/NightmarebeforeXmas_AT-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nightmare Before Christmas Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nightmare-before-christmas-phone-nvuzvejzuoutavlj.jpg' alt='100+] Nightmare Before Christmas Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nightmare-before-christmas-phone-nvuzvejzuoutavlj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

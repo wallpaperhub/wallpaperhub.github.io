@@ -1,0 +1,129 @@
+<title>Stunning Dragon Wallpaper for Your Chromebook</title>
+                    <meta name="description" content="Explore a fantastic collection of dragon wallpapers designed for Chromebooks. Enhance your device's aesthetic with high-quality, vibrant designs that reflect your passion for fantasy. Perfect for personalizing your Chromebook, these wallpapers are just a click away!">
+                    <meta name="keywords" content="dragon wallpaper for chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-wallpaper-for-chromebook">
+                            <span itemprop="name">dragon wallpaper for chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Wallpaper for Your Chromebook</h1>
+                <p>Transform your Chromebook with stunning dragon wallpapers that ignite your imagination! From majestic fire-breathing dragons to mystical landscapes, these vibrant designs cater to every fantasy lover. Customize your device's look with high-resolution images that pop against your screen, making your Chromebook truly unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44+ Popular Dragon HD Wallpapers in Chromebook Pixel, 2560x1700 ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-dragon-fire-art_70622.jpg' alt='44+ Popular Dragon HD Wallpapers in Chromebook Pixel, 2560x1700 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-dragon-fire-art_70622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/ucfHlL2sgH3ntxwfyyY0RbVcvwd6nNDGKRujeUOZZngXO1i1uzRWhbhZ0j5u4FzkFog5tsqm15vwlFwukobfAoB3=s1280-w1280-h800' alt='Dragon Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/ucfHlL2sgH3ntxwfyyY0RbVcvwd6nNDGKRujeUOZZngXO1i1uzRWhbhZ0j5u4FzkFog5tsqm15vwlFwukobfAoB3=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpaper HD & Background | Dragon Chrome Theme New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2020/11/dragon-features.jpg' alt='Dragon Wallpaper HD & Background | Dragon Chrome Theme New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2020/11/dragon-features.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fantasy Dragon 4k Ultra HD Wallpaper by R8A-creations">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/999/999330.png' alt='Download Fantasy Dragon 4k Ultra HD Wallpaper by R8A-creations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/999/999330.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-kryptonite-dragon-cmkxonr7qqdhsfik.jpg' alt='100+] Cool Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-kryptonite-dragon-cmkxonr7qqdhsfik.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic Fire Dragon Unleashing Its Power Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/majestic-fire-dragon-unleashing-its-power-6ztff3heo0f36pqo.jpg' alt='Majestic Fire Dragon Unleashing Its Power Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/majestic-fire-dragon-unleashing-its-power-6ztff3heo0f36pqo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fantasy Dragon HD Wallpaper by Deviant-Soulmates">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/998/998422.jpg' alt='Download Fantasy Dragon HD Wallpaper by Deviant-Soulmates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3569">
+                                <meta itemprop="height" content="2310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/998/998422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Dragon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-dragon-hwa4fryzgxz66vmc.jpg' alt='100+] Black Dragon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-dragon-hwa4fryzgxz66vmc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2560x1700 Dragon Digital Art Fantasy Chromebook Pixel ,HD 4k ...">
+                                <img itemprop="contentUrl url" src='https://images.hdqwalls.com/wallpapers/dragon-digital-art-fantasy-4b.jpg' alt='2560x1700 Dragon Digital Art Fantasy Chromebook Pixel ,HD 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hdqwalls" />
+                                </span>
+                                <a href='https://images.hdqwalls.com/wallpapers/dragon-digital-art-fantasy-4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fire, dragon, fire, artist, artwork, digital-art, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/589/79/HD-wallpaper-dragon-fire-dragon-fire-artist-artwork-digital-art.jpg' alt='Dragon Fire, dragon, fire, artist, artwork, digital-art, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/589/79/HD-wallpaper-dragon-fire-dragon-fire-artist-artwork-digital-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

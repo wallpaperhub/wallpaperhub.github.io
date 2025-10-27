@@ -1,0 +1,129 @@
+<title>Red Cross and Allegations of War Crimes: Uncovering the Facts</title>
+                    <meta name="description" content="Explore the allegations against the Red Cross regarding potential involvement in war crimes. Delve into the organization's role in conflicts and the implications of these claims on its humanitarian mission and reputation. Stay informed on this complex issue that challenges the principles of neutrality and aid.">
+                    <meta name="keywords" content="red cross war crime">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-cross-war-crime">
+                            <span itemprop="name">red cross war crime</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red Cross and Allegations of War Crimes: Uncovering the Facts</h1>
+                <p>The Red Cross, renowned for its humanitarian work during conflicts, faces scrutiny amid allegations of complicity in war crimes. Reports have emerged of its involvement in controversial decisions that may exacerbate suffering. As the organization strives to uphold neutrality, it must address these serious claims to maintain credibility and trust.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross Urges Gamers To Not Commit War Crimes In Fortnite">
+                                <img itemprop="contentUrl url" src='https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/541597f3e5adbd104be5c06deab020bb.jpg' alt='Red Cross Urges Gamers To Not Commit War Crimes In Fortnite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kotaku" />
+                                </span>
+                                <a href='https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/541597f3e5adbd104be5c06deab020bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="War Crime Rule? : r/196">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/erylrmbzptfa1.jpg' alt='War Crime Rule? : r/196'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/erylrmbzptfa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red cross : don't commit war crimes in video games! Me : : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/red-cross-dont-commit-war-crimes-in-video-games-me-v0-jw94t8r4m16b1.jpg?width=1080&crop=smart&auto=webp&s=30aca2181f784e111ab8a26fc545107d49b2c990' alt='Red cross : don't commit war crimes in video games! Me : : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/red-cross-dont-commit-war-crimes-in-video-games-me-v0-jw94t8r4m16b1.jpg?width=1080&crop=smart&auto=webp&s=30aca2181f784e111ab8a26fc545107d49b2c990' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty sure this is a war crime : r/BreakPoint">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pretty-sure-this-is-a-war-crime-v0-p1py8q19a71d1.png?width=640&crop=smart&auto=webp&s=2da49a326e09c5b8469928dd91bda79b5ea4a747' alt='Pretty sure this is a war crime : r/BreakPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pretty-sure-this-is-a-war-crime-v0-p1py8q19a71d1.png?width=640&crop=smart&auto=webp&s=2da49a326e09c5b8469928dd91bda79b5ea4a747' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross Suggests Video Games Punish War Crimes | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/articles/059c04CX2bIpbBdk1aWkBsx-1..v1569490506.jpg' alt='Red Cross Suggests Video Games Punish War Crimes | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/articles/059c04CX2bIpbBdk1aWkBsx-1..v1569490506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The ICRC Wants To Stop War Crimes In Video Games, So Here's How To Commit  More.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mi-X7-di4g0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLUyJ25jWjTq67K5YhWEKpzfc9Wg' alt='The ICRC Wants To Stop War Crimes In Video Games, So Here's How To Commit  More.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mi-X7-di4g0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLUyJ25jWjTq67K5YhWEKpzfc9Wg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""This is almost a war crime" Sticker for Sale by perpetuallyConf">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4996218933.6683/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"This is almost a war crime" Sticker for Sale by perpetuallyConf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4996218933.6683/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross wants gamers to avoid war crimes - Niche Gamer">
+                                <img itemprop="contentUrl url" src='https://media.nichegamer.com/wp-content/uploads/2023/04/red-cross-play-by-the-rules-04-28-2023-e1682681988773.jpg' alt='Red Cross wants gamers to avoid war crimes - Niche Gamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Niche Gamer" />
+                                </span>
+                                <a href='https://media.nichegamer.com/wp-content/uploads/2023/04/red-cross-play-by-the-rules-04-28-2023-e1682681988773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the Red Cross cares how video games treat war crimes | Polygon">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14481063/rc.0.1488937034.jpg?quality=90&strip=all&crop=7.9320113314448,0,84.13597733711,100' alt='Why the Red Cross cares how video games treat war crimes | Polygon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="593">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14481063/rc.0.1488937034.jpg?quality=90&strip=all&crop=7.9320113314448,0,84.13597733711,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross Urges Game Developers to Code Consequences for In-Game ...">
+                                <img itemprop="contentUrl url" src='https://hothardware.com/newsimages/Item27683/GTAV_Torture.jpg' alt='Red Cross Urges Game Developers to Code Consequences for In-Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HotHardware" />
+                                </span>
+                                <a href='https://hothardware.com/newsimages/Item27683/GTAV_Torture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kansas Background Check Laws: What You Need to Know</title>
+                    <meta name="description" content="Discover the essential aspects of Kansas background check laws, including employee rights, employer responsibilities, and compliance details to navigate hiring processes effectively. Stay informed and ensure your hiring practices meet legal standards!">
+                    <meta name="keywords" content="kansas background check laws">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kansas-background-check-laws">
+                            <span itemprop="name">kansas background check laws</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kansas Background Check Laws: What You Need to Know</h1>
+                <p>In Kansas, background check laws allow employers to conduct checks on potential employees, primarily focusing on criminal history. These checks help ensure workplace safety and protect sensitive information. However, candidates must provide consent, and employers must comply with the Fair Credit Reporting Act (FCRA) to maintain legal standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Background Check: Laws & Screening Guidelines">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Kansas-Background-Check.png' alt='Kansas Background Check: Laws & Screening Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Kansas-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Kansas State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/bb3d45c98b59033e96376d412dca7fe8/66ab1/Kansas-background-checks-1.png' alt='Kansas Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1232">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/bb3d45c98b59033e96376d412dca7fe8/66ab1/Kansas-background-checks-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas State Background Check Laws | KS | DISA - Formerly Crimcheck">
+                                <img itemprop="contentUrl url" src='http://crimcheck.net/wp-content/uploads/2019/10/kansas-background-check-laws-300x300.webp' alt='Kansas State Background Check Laws | KS | DISA - Formerly Crimcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crimcheck" />
+                                </span>
+                                <a href='http://crimcheck.net/wp-content/uploads/2019/10/kansas-background-check-laws-300x300.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Kansas Background Checks (2023) | PreSearch, Inc.">
+                                <img itemprop="contentUrl url" src='https://presearchinc.com/wp-content/uploads/2023/06/Kansas-Background-Check-1024x576.jpg' alt='Understanding Kansas Background Checks (2023) | PreSearch, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreSearch Background Services" />
+                                </span>
+                                <a href='https://presearchinc.com/wp-content/uploads/2023/06/Kansas-Background-Check-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Kansas.png?width=602&height=409&name=Kansas.png' alt='Kansas State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Kansas.png?width=602&height=409&name=Kansas.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Background Check: Laws & Screening Guidelines">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/Instant-CheckMate-3.png' alt='Kansas Background Check: Laws & Screening Guidelines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/Instant-CheckMate-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts About Expungement in Kansas | Kansas Legal Services">
+                                <img itemprop="contentUrl url" src='https://www.kansaslegalservices.org/sites/kansaslegalservices.org/files/Eligibility%20Flow%20Chart-Expungement.jpg' alt='Facts About Expungement in Kansas | Kansas Legal Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kansas Legal Services" />
+                                </span>
+                                <a href='https://www.kansaslegalservices.org/sites/kansaslegalservices.org/files/Eligibility%20Flow%20Chart-Expungement.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Kansas Background Checks (2023) | PreSearch, Inc.">
+                                <img itemprop="contentUrl url" src='https://presearchinc.com/wp-content/uploads/2023/06/Kansas-Background-Check-Laws-1024x576.jpg' alt='Understanding Kansas Background Checks (2023) | PreSearch, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreSearch Background Services" />
+                                </span>
+                                <a href='https://presearchinc.com/wp-content/uploads/2023/06/Kansas-Background-Check-Laws-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kbi Background Checks">
+                                <img itemprop="contentUrl url" src='https://kbi-background-checks.govbackgroundchecks.com/screenshots/kbi-background-checks/1.jpg' alt='Kbi Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://kbi-background-checks.govbackgroundchecks.com/screenshots/kbi-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Yellow Striped Wallpaper</title>
+                    <meta name="description" content="Discover the charm of yellow striped wallpaper! Perfect for brightening up any room, this design brings energy and style to your interior. Explore various patterns and shades to elevate your home's aesthetic and create a welcoming atmosphere for all.">
+                    <meta name="keywords" content="yellow striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-striped-wallpaper">
+                            <span itemprop="name">yellow striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Yellow Striped Wallpaper</h1>
+                <p>Yellow striped wallpaper can transform any space with its vibrant and playful design. Perfect for adding a touch of elegance or whimsy, this wallpaper complements various interior styles. Whether you opt for bold yellow hues or soft, pastel shades, striped patterns create a sense of depth and character, enhancing your home’s atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Stripes' Wallpaper by Clare V. - Yellow">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Stripe_yellow-yellow_Product_8380654d-9c09-410f-a713-67ee92e380d3.jpg?v=1615485788' alt=''Stripes' Wallpaper by Clare V. - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Stripe_yellow-yellow_Product_8380654d-9c09-410f-a713-67ee92e380d3.jpg?v=1615485788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Yellow">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/CandyStripe_yellow_insitu_Web_971b3dab-3ad5-40e0-b25a-6eac2edf78c8_720x.jpg?v=1633379904' alt=''Candy Stripe' Wallpaper by Wallshoppe - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/CandyStripe_yellow_insitu_Web_971b3dab-3ad5-40e0-b25a-6eac2edf78c8_720x.jpg?v=1633379904' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closet Stripe by Farrow & Ball - Pale Yellow / White - Wallpaper - BP 356">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/105135/tiled/farrow-and-ball-closet-stripe-pale-yellow-white-wallpaper-tiled-105135.jpg' alt='Closet Stripe by Farrow & Ball - Pale Yellow / White - Wallpaper - BP 356'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/105135/tiled/farrow-and-ball-closet-stripe-pale-yellow-white-wallpaper-tiled-105135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Lemon Yellow – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-ClassicStripe-LemonYellow_ILW50310_Roomset_WEB.webp?crop=center&height=1024&v=1705668705&width=1024' alt='Classic Stripe Wallpaper in Lemon Yellow – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-ClassicStripe-LemonYellow_ILW50310_Roomset_WEB.webp?crop=center&height=1024&v=1705668705&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SA9178 Waters Edge Resource Library Awning Stripe Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SA9178_YWDE30AwningStripe_RS2.jpg?v=1623703085&width=1946' alt='SA9178 Waters Edge Resource Library Awning Stripe Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1592">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SA9178_YWDE30AwningStripe_RS2.jpg?v=1623703085&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quincy Yellow and Off-white Striped Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/13024825/Quincy-32.7-x-20.5-Striped-Wallpaper-in-Yellow-and-Off-White-726a7073-2f1a-4dbe-ad5d-5c38d0faba37_600.jpg?impolicy=medium' alt='Quincy Yellow and Off-white Striped Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/13024825/Quincy-32.7-x-20.5-Striped-Wallpaper-in-Yellow-and-Off-White-726a7073-2f1a-4dbe-ad5d-5c38d0faba37_600.jpg?impolicy=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Margaret Stripe">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/lavinia-stripe-llfv-l.jpg' alt='Margaret Stripe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/lavinia-stripe-llfv-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Vinyl Yellow and White Striped Wallpaper Contact  Paper Wallpaper Self Adhesive Stripe Shelf Liner Dresser Drawer Cabinets ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61d-OMcfb5L.jpg' alt='Amazon.com: Peel and Stick Vinyl Yellow and White Striped Wallpaper Contact  Paper Wallpaper Self Adhesive Stripe Shelf Liner Dresser Drawer Cabinets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61d-OMcfb5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro blue and yellow stripes striped wallpaper - TenStickers">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/49382.jpg' alt='Retro blue and yellow stripes striped wallpaper - TenStickers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/wallpaper/large/49382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yellow Striped Wallpaper, Kids Room Wall Art, Yellow White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/566f08/3286482115/il_570xN.3286482115_ah2d.jpg' alt='Light Yellow Striped Wallpaper, Kids Room Wall Art, Yellow White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/566f08/3286482115/il_570xN.3286482115_ah2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

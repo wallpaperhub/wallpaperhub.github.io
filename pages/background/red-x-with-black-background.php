@@ -1,0 +1,129 @@
+<title>Bold Red X on Black Background: A Striking Visual Impact</title>
+                    <meta name="description" content="Explore the powerful impact of a red "X" on a black background. This eye-catching combination is ideal for design, conveying intensity and sophistication. Perfect for graphics, signage, or art, let the vibrant colors speak volumes in your projects.">
+                    <meta name="keywords" content="red x with black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-x-with-black-background">
+                            <span itemprop="name">red x with black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Red X on Black Background: A Striking Visual Impact</h1>
+                <p>The striking contrast of a red "X" against a black background creates a bold visual statement. This combination evokes feelings of intensity and urgency, making it perfect for design elements in graphics, signs, or art. The vivid red symbolizes passion and energy, while the black adds depth and sophistication, captivating viewers instantly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Red Letter X on a black background.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/81/Red_Letter_X_on_a_black_background.png' alt='File:Red Letter X on a black background.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/81/Red_Letter_X_on_a_black_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Red X icon Brushstroke style Black background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-x-icon-brushstroke-style-black-background-bold-vector-graphic_213497-4281.jpg' alt='Premium Vector | Red X icon Brushstroke style Black background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-x-icon-brushstroke-style-black-background-bold-vector-graphic_213497-4281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Red X on black background.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/01/Red_X_on_black_background.png' alt='File:Red X on black background.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/01/Red_X_on_black_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red X With Circle Images – Browse 33,111 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/73/19/17/360_F_973191721_2DePDRut7xqiG8KFt3Yzj85vox1g9fsb.jpg' alt='Red X With Circle Images – Browse 33,111 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/73/19/17/360_F_973191721_2DePDRut7xqiG8KFt3Yzj85vox1g9fsb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross Black Background Stock Illustrations – 23,470 Red Cross ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-black-grunge-brush-stroke-cross-no-decline-aggressive-vector-vintage-sign-curved-isolated-check-mark-object-dark-background-95414900.jpg' alt='Red Cross Black Background Stock Illustrations – 23,470 Red Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-black-grunge-brush-stroke-cross-no-decline-aggressive-vector-vintage-sign-curved-isolated-check-mark-object-dark-background-95414900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Ban Icon Cross On Black Stock Footage Video (100% Royalty-free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1090284007/thumb/5.jpg?ip=x480' alt='Red Ban Icon Cross On Black Stock Footage Video (100% Royalty-free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1090284007/thumb/5.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red X Shape Light On Black Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1172913697/vector/red-x-shape-light-on-black-background.jpg?s=612x612&w=0&k=20&c=F3JbDWqqbNq9N2Cqq9QKSCcwQJJop9_gomEbYUi5flo=' alt='Red X Shape Light On Black Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1172913697/vector/red-x-shape-light-on-black-background.jpg?s=612x612&w=0&k=20&c=F3JbDWqqbNq9N2Cqq9QKSCcwQJJop9_gomEbYUi5flo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross over a black background. Stock Illustration | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/01/86/76/1000_F_201867627_N2SGvuLTg8Ttf97W2OuyBh5zMQQ2qt74.jpg' alt='Red Cross over a black background. Stock Illustration | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/01/86/76/1000_F_201867627_N2SGvuLTg8Ttf97W2OuyBh5zMQQ2qt74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cross On Black Background Checklist Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2042619215/display_1500/stock-vector-red-cross-on-black-background-checklist-mark-choice-emblem-abstract-thin-line-art-vector-2042619215.jpg' alt='Red Cross On Black Background Checklist Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2042619215/display_1500/stock-vector-red-cross-on-black-background-checklist-mark-choice-emblem-abstract-thin-line-art-vector-2042619215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X Red reliable Cross on">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1925026753.6587/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='X Red reliable Cross on'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="srappa" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1925026753.6587/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

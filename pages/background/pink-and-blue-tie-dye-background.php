@@ -1,0 +1,129 @@
+<title>Stunning Pink and Blue Tie Dye Backgrounds</title>
+                    <meta name="description" content="Discover enchanting pink and blue tie dye backgrounds! Perfect for art projects, wallpapers, and more, these vibrant designs blend creativity with style. Enhance your projects effortlessly with these eye-catching patterns that evoke fun and excitement. Ideal for anyone looking to add a playful touch to their designs!">
+                    <meta name="keywords" content="pink and blue tie dye background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-blue-tie-dye-background">
+                            <span itemprop="name">pink and blue tie dye background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink and Blue Tie Dye Backgrounds</h1>
+                <p>Explore the vibrant world of pink and blue tie dye backgrounds, perfect for elevating your designs! This striking color combination blends soft pastels and bold hues, creating a visually appealing aesthetic. Ideal for digital art, wallpapers, or fabric prints, these backgrounds add a playful touch to any project and inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink + Blue Cotton Candy Tiedye Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/b02394/3941661013/il_fullxfull.3941661013_56az.jpg' alt='Pink + Blue Cotton Candy Tiedye Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/b02394/3941661013/il_fullxfull.3941661013_56az.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="840+ Pink Blue Tie Dye Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1302292415/vector/tie-dye-shibori-seamless-pattern-watercolour-abstract-texture.jpg?s=612x612&w=0&k=20&c=MkAmw9Ct0mt_ylmowCEAFscwD-PdEjTODn5B8J4MI28=' alt='840+ Pink Blue Tie Dye Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1302292415/vector/tie-dye-shibori-seamless-pattern-watercolour-abstract-texture.jpg?s=612x612&w=0&k=20&c=MkAmw9Ct0mt_ylmowCEAFscwD-PdEjTODn5B8J4MI28=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract modern pink blue background. Tie dye pattern. 11892777 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/892/777/large_2x/abstract-modern-pink-blue-background-tie-dye-pattern-free-photo.JPG' alt='Abstract modern pink blue background. Tie dye pattern. 11892777 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/892/777/large_2x/abstract-modern-pink-blue-background-tie-dye-pattern-free-photo.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink + Blue Pastel Tiedye Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/e54298/4066238496/il_570xN.4066238496_2vqw.jpg' alt='Pink + Blue Pastel Tiedye Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/e54298/4066238496/il_570xN.4066238496_2vqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Tie Dye Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_23-2149238019.jpg' alt='Pink Blue Tie Dye Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_23-2149238019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink + Blue Neon Tiedye Digital Paper Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1646333751506-JU7Q6OYBM4ST9455QONH/neon+pink+blue+tiedye+Cover+WM+1.jpg?format=1500w' alt='Pink + Blue Neon Tiedye Digital Paper Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1646333751506-JU7Q6OYBM4ST9455QONH/neon+pink+blue+tiedye+Cover+WM+1.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract pastel tie-dye background. Abstract painted texture with ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/69/24/32/1000_F_469243273_cdWypyxbYV5YO0iYkdIDEPju2ofJzzsC.jpg' alt='Abstract pastel tie-dye background. Abstract painted texture with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/69/24/32/1000_F_469243273_cdWypyxbYV5YO0iYkdIDEPju2ofJzzsC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue to Pink Watercolor Tie Dye Background Pattern Texture | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1501549471.5360/fposter,small,wall_texture,product,750x1000.jpg' alt='Blue to Pink Watercolor Tie Dye Background Pattern Texture | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1501549471.5360/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Tie Dye Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-tie-dye-background_52683-79733.jpg' alt='Pink Blue Tie Dye Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-tie-dye-background_52683-79733.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Tie Dye Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pink-blue-tie-dye-pattern-260nw-2435005151.jpg' alt='Pink Blue Tie Dye Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pink-blue-tie-dye-pattern-260nw-2435005151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

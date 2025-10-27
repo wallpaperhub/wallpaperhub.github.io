@@ -1,0 +1,129 @@
+<title>Stunning 4K iPhone Avatar Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best collection of 4K avatar wallpapers for iPhone! Customize your screen with dazzling designs that reflect your personality. Easy to download and perfect for mobile viewing. Upgrade your device's style today with our high-definition wallpapers!">
+                    <meta name="keywords" content="iphone avatar wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-avatar-wallpaper-4k">
+                            <span itemprop="name">iphone avatar wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K iPhone Avatar Wallpapers for Your Device</h1>
+                <p>Transform your iPhone with stunning 4K avatar wallpapers that make a statement! Dive into a world of vibrant designs and high-definition graphics tailored for your device. Express your personality and style every time you unlock your phone. Explore a diverse collection of themes to find the perfect match for you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free download the avatar 5k wallpaper ,beaty your iphone . #avatar ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/29/cf/c229cf726c9de9dc0e37b6e763586d55.jpg' alt='Free download the avatar 5k wallpaper ,beaty your iphone . #avatar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/29/cf/c229cf726c9de9dc0e37b6e763586d55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/3/1/33209-1183x2560-iphone-hd-avatar-wallpaper-photo.jpg' alt='Avatar Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/3/1/33209-1183x2560-iphone-hd-avatar-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Avatar Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/avatar-movie-charactersand-dragon-creatures-zvad0wv9b3ggm481.jpg' alt='100+] Avatar Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/avatar-movie-charactersand-dragon-creatures-zvad0wv9b3ggm481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Avatar wallpaper setup : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=1080&crop=smart&auto=webp&s=b515d29fcf2f5f8bbed2a29b3af364e7e466feec' alt='My Avatar wallpaper setup : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-setup-v0-66ze14nvba6a1.jpg?width=1080&crop=smart&auto=webp&s=b515d29fcf2f5f8bbed2a29b3af364e7e466feec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2 iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/e6/27/48e6279f51629475cd51bd0c5d1b6ac6.jpg' alt='Avatar 2 iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/e6/27/48e6279f51629475cd51bd0c5d1b6ac6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar 2: TWOW 4K Wallpaper : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-4z013dklpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=162eb15adf11cba4e4a57185b6c1922c74955d3b' alt='Avatar 2: TWOW 4K Wallpaper : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/avatar-2-twow-4k-wallpaper-v0-4z013dklpjta1.jpeg?width=2880&format=pjpg&auto=webp&s=162eb15adf11cba4e4a57185b6c1922c74955d3b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar, movie, zoe saldana, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/433/548/HD-wallpaper-avatar-movie-zoe-saldana.jpg' alt='Avatar, movie, zoe saldana, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/433/548/HD-wallpaper-avatar-movie-zoe-saldana.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/Avatar-2-Wallpaper-iPhone-6.webp' alt='Avatar iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='http://m.gettywallpapers.com/iphone/wp-content/uploads/2022/06/Avatar-2-Wallpaper-iPhone-6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar: The Way of Water Wallpaper 4K, Dark background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/avatar-the-way-of-water-avatar-2-2022-movies-dark-1284x2778-8788.png' alt='Avatar: The Way of Water Wallpaper 4K, Dark background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/avatar-the-way-of-water-avatar-2-2022-movies-dark-1284x2778-8788.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar Way Of Water 4k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9424753.jpg' alt='Avatar Way Of Water 4k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9424753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

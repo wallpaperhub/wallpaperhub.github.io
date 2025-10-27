@@ -1,0 +1,129 @@
+<title>Stunning FFXIV Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover captivating Final Fantasy XIV wallpapers to enhance your devices! Choose from a wide range of beautiful designs showcasing beloved characters and epic landscapes. Perfect for gamers who want to showcase their love for FFXIV. Download your favorites effortlessly!">
+                    <meta name="keywords" content="ffxiv wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ffxiv-wallpaper">
+                            <span itemprop="name">ffxiv wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning FFXIV Wallpapers for Every Fan</h1>
+                <p>Elevate your gaming experience with stunning Final Fantasy XIV wallpapers! Explore a variety of high-quality designs featuring your favorite characters, breathtaking landscapes, and iconic scenes. Perfect for your desktop, tablet, or mobile device, these wallpapers will immerse you in the vibrant world of Eorzea. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Endwalker Credits wallpaper shot 4k : r/ffxiv">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/syya7v8uqb681.jpg' alt='Endwalker Credits wallpaper shot 4k : r/ffxiv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/syya7v8uqb681.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone background of Famitsu's FFXIV cover art (via FFXIV's Line ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xk44trwek8481.jpg' alt='Phone background of Famitsu's FFXIV cover art (via FFXIV's Line ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xk44trwek8481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FFXIV Dawntrail (No Logo) Phone Wallpaper - 1536x2730 : r/ffxiv">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ffxiv-dawntrail-no-logo-phone-wallpaper-1536x2730-v0-hpcdvhvlg2bc1.jpeg?auto=webp&s=b882620ae4b3ffbe44000292f74d4b0b1ea6c2c1' alt='FFXIV Dawntrail (No Logo) Phone Wallpaper - 1536x2730 : r/ffxiv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ffxiv-dawntrail-no-logo-phone-wallpaper-1536x2730-v0-hpcdvhvlg2bc1.jpeg?auto=webp&s=b882620ae4b3ffbe44000292f74d4b0b1ea6c2c1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper with latest Endwalker art : r/ffxiv">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h9mdueop31471.jpg' alt='Wallpaper with latest Endwalker art : r/ffxiv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h9mdueop31471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Put the new artwork from the flow MV through a AI upscaler if ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ovo3hb04l8091.png?auto=webp&s=c55995745cd60497129c93985d4769679f6fb3fc' alt='Put the new artwork from the flow MV through a AI upscaler if ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ovo3hb04l8091.png?auto=webp&s=c55995745cd60497129c93985d4769679f6fb3fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FINAL FANTASY XIV Fan Kit">
+                                <img itemprop="contentUrl url" src='https://lds-img.finalfantasyxiv.com/h/w/fOyHSPoI-F5eFEaRIPPU2eRBAg.jpg' alt='FINAL FANTASY XIV Fan Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FINAL FANTASY XIV Fan Kit" />
+                                </span>
+                                <a href='https://lds-img.finalfantasyxiv.com/h/w/fOyHSPoI-F5eFEaRIPPU2eRBAg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper: Trailer screenshot + Shadowbringers logo : r/ffxiv">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/7uzwg6vnbto21.png?width=1080&crop=smart&auto=webp&s=b6a8b542a50bccdda197f07b291f4e961e443ec9' alt='Made a wallpaper: Trailer screenshot + Shadowbringers logo : r/ffxiv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/7uzwg6vnbto21.png?width=1080&crop=smart&auto=webp&s=b6a8b542a50bccdda197f07b291f4e961e443ec9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Endwalker Credits Art Wallpaper (4k Upscaling, Color Adjusted ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kuxifu8ejk681.png?width=640&crop=smart&auto=webp&s=58af053d67be5d298b16975463f09f785b169ca2' alt='Endwalker Credits Art Wallpaper (4k Upscaling, Color Adjusted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kuxifu8ejk681.png?width=640&crop=smart&auto=webp&s=58af053d67be5d298b16975463f09f785b169ca2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FINAL FANTASY XIV Fan Kit">
+                                <img itemprop="contentUrl url" src='https://lds-img.finalfantasyxiv.com/h/w/ztHePNkFRqmZ08weDAJG4UGlF4.jpg' alt='FINAL FANTASY XIV Fan Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FINAL FANTASY XIV Fan Kit" />
+                                </span>
+                                <a href='https://lds-img.finalfantasyxiv.com/h/w/ztHePNkFRqmZ08weDAJG4UGlF4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Final Fantasy XIV: A Realm Reborn Illustrations Make for ...">
+                                <img itemprop="contentUrl url" src='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2014/06/en3_05.jpg' alt='New Final Fantasy XIV: A Realm Reborn Illustrations Make for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DualShockers" />
+                                </span>
+                                <a href='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2014/06/en3_05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

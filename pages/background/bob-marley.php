@@ -1,0 +1,129 @@
+<title>Bob Marley: The Reggae Legend Who Changed the World</title>
+                    <meta name="description" content="Discover the life and legacy of Bob Marley, the reggae icon whose music transcended borders. Explore his impact on culture, peace, and social justice through timeless hits and inspiring messages that continue to resonate worldwide.">
+                    <meta name="keywords" content="bob marley">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bob-marley">
+                            <span itemprop="name">bob marley</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bob Marley: The Reggae Legend Who Changed the World</h1>
+                <p>Bob Marley, the legendary reggae musician, championed peace and love through his music. Born in Jamaica in 1945, he became a global icon with hits like "No Woman, No Cry" and "One Love." Marley's messages of unity resonate with fans today, as he inspires generations to embrace positivity and social change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg' alt='Bob Marley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley painting portrait | Legend of Reggae, acrylics on canvas">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/spirossoutsos.com/wp-content/uploads/2022/11/Bob_marley_painting_portrait_canvas_wall_art.jpg?ssl=1' alt='Bob Marley painting portrait | Legend of Reggae, acrylics on canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spiros Soutsos Art" />
+                                </span>
+                                <a href='https://i0.wp.com/spirossoutsos.com/wp-content/uploads/2022/11/Bob_marley_painting_portrait_canvas_wall_art.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley, Reggae Singer, Songwriter, and Activist born - African ...">
+                                <img itemprop="contentUrl url" src='https://aaregistry.org/wp-content/uploads/2009/09/bob-marley.jpg' alt='Bob Marley, Reggae Singer, Songwriter, and Activist born - African ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="African American Registry" />
+                                </span>
+                                <a href='https://aaregistry.org/wp-content/uploads/2009/09/bob-marley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley: 50 Greatest Songs">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2020/01/Bob-Marley-Lead.jpg' alt='Bob Marley: 50 Greatest Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2020/01/Bob-Marley-Lead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTM0MzM3MTg3MF5BMl5BanBnXkFtZTcwNDcwODE0Nw@@._V1_.jpg' alt='Bob Marley - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTM0MzM3MTg3MF5BMl5BanBnXkFtZTcwNDcwODE0Nw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The death of Bob Marley | Reggae | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/5743de9e91191ba7458ca9a0c6f60231b7b1b8c5/0_98_2048_1230/master/2048.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=892525836bac229d86f83cf4b3b374d4' alt='The death of Bob Marley | Reggae | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/5743de9e91191ba7458ca9a0c6f60231b7b1b8c5/0_98_2048_1230/master/2048.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=892525836bac229d86f83cf4b3b374d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley Wall Art">
+                                <img itemprop="contentUrl url" src='http://www.chrishoffmanart.com/cdn/shop/products/il_fullxfull.1979739545_f6c7_74c0e7ee-ccaf-4889-9fab-2d18a21443b3.jpg?v=1633021256&width=2048' alt='Bob Marley Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1237">
+                                <meta itemprop="height" content="1691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chris Hoffman Art" />
+                                </span>
+                                <a href='http://www.chrishoffmanart.com/cdn/shop/products/il_fullxfull.1979739545_f6c7_74c0e7ee-ccaf-4889-9fab-2d18a21443b3.jpg?v=1633021256&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley | Biography, Songs, Albums, Death, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/73/101873-050-D341E939/Bob-Marley-1978.jpg' alt='Bob Marley | Biography, Songs, Albums, Death, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/73/101873-050-D341E939/Bob-Marley-1978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley - One Love">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vdB-8eLEW8g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZCgRMA8=&rs=AOn4CLAXsjnhBqS_G2OyVveaM-1vPo2lEA' alt='Bob Marley - One Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vdB-8eLEW8g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZCgRMA8=&rs=AOn4CLAXsjnhBqS_G2OyVveaM-1vPo2lEA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bob Marley Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d00001e02020afd88c3c961749b339872' alt='Bob Marley Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d00001e02020afd88c3c961749b339872' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Lego Christmas Wallpaper: Festive Fun for Your Screens</title>
+                    <meta name="description" content="Discover the joy of Lego Christmas wallpapers! Brighten your devices with festive designs that capture the holiday spirit. Perfect for all ages, these wallpapers bring a playful touch to your Christmas celebrations. Download your favorites now and enjoy a jolly vibe all season long!">
+                    <meta name="keywords" content="lego christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/lego-christmas-wallpaper">
+                            <span itemprop="name">lego christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lego Christmas Wallpaper: Festive Fun for Your Screens</h1>
+                <p>Get into the festive spirit with vibrant Lego Christmas wallpapers! Transform your screens with whimsical designs featuring Santa, snowflakes, and joyous Lego characters. Perfect for kids and adults alike, these wallpapers add a playful touch to your holiday season, making every glance at your device feel merry and bright!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a wallpaper for the holidays. The minifigs represent my ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/8YvLKkTTunwS5zA4VCztTQ0V3-nFTA-QfumiKyJzdfI.jpg?width=640&crop=smart&auto=webp&s=15657b8948d32abc58e77ef9c06c43edf86172af' alt='Made a wallpaper for the holidays. The minifigs represent my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/8YvLKkTTunwS5zA4VCztTQ0V3-nFTA-QfumiKyJzdfI.jpg?width=640&crop=smart&auto=webp&s=15657b8948d32abc58e77ef9c06c43edf86172af' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,522 Lego Christmas Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/lego-santa-claus-sitting-bench-outdoors-stack-gifts-christmas-tree-tambov-russian-federation-october-studio-163417935.jpg' alt='1,522 Lego Christmas Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/lego-santa-claus-sitting-bench-outdoors-stack-gifts-christmas-tree-tambov-russian-federation-october-studio-163417935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Christmas Images – Browse 890 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/13/50/41/360_F_513504118_T1x55PEr8VkHTyEWWQCUmCVZLupIwpGk.jpg' alt='Lego Christmas Images – Browse 890 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/13/50/41/360_F_513504118_T1x55PEr8VkHTyEWWQCUmCVZLupIwpGk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper every day! @Lego Santa        ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC6nc-dITma/2/image.jpg' alt='New wallpaper every day! @Lego Santa        '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC6nc-dITma/2/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toy Christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/25/8c/70258cec3381015d30cbb9b2882853e1.jpg' alt='Toy Christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/25/8c/70258cec3381015d30cbb9b2882853e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d2/e6/a2/d2e6a292020165fd01a8ba32b4eba923.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d2/e6/a2/d2e6a292020165fd01a8ba32b4eba923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,971 Lego Christmas Images, Stock Photos, and Vectors | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/bangkok-thailand-december-142016-santa-260nw-1517767292.jpg' alt='1,971 Lego Christmas Images, Stock Photos, and Vectors | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/bangkok-thailand-december-142016-santa-260nw-1517767292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEGO® City Advent Calendar - Videos - LEGO.com for kids">
+                                <img itemprop="contentUrl url" src='https://www.lego.com/cdn/cs/catalog/assets/bltc994a2bc9dc7212f/1/60352_WEB_PRI.jpg?quality=80&format=webply&width=2560' alt='LEGO® City Advent Calendar - Videos - LEGO.com for kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO for kids" />
+                                </span>
+                                <a href='https://www.lego.com/cdn/cs/catalog/assets/bltc994a2bc9dc7212f/1/60352_WEB_PRI.jpg?quality=80&format=webply&width=2560' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Christmas Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220729/pngtree-christmas-scene-with-lego-santa-claus-minifigure-on-wooden-background-photo-image_32967288.jpg' alt='Lego Christmas Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220729/pngtree-christmas-scene-with-lego-santa-claus-minifigure-on-wooden-background-photo-image_32967288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper every day! @Lego Santa        ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC6nc-dITma/1/image.jpg' alt='New wallpaper every day! @Lego Santa        '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DC6nc-dITma/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

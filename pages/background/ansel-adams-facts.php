@@ -1,0 +1,129 @@
+<title>Ansel Adams: Fascinating Facts About the Iconic Photographer</title>
+                    <meta name="description" content="Discover captivating facts about Ansel Adams, the legendary photographer known for his stunning landscapes and commitment to environmentalism. Learn about his techniques, influences, and legacy in this concise overview, perfect for photography enthusiasts and nature lovers alike!">
+                    <meta name="keywords" content="ansel adams facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ansel-adams-facts">
+                            <span itemprop="name">ansel adams facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ansel Adams: Fascinating Facts About the Iconic Photographer</h1>
+                <p>Ansel Adams was a renowned American photographer and environmentalist, celebrated for his black-and-white landscapes of the American West, particularly Yosemite National Park. Born in 1902, he was instrumental in developing the Zone System, a photographic technique that allows for precise control of exposure and development. His work championed conservation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams | Biography, Photography, Books, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/22/197622-050-D83A284B/Photographer-Ansel-Adams-circa-1950.jpg' alt='Ansel Adams | Biography, Photography, Books, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/22/197622-050-D83A284B/Photographer-Ansel-Adams-circa-1950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams Biography - A Photographer & Environmentalist">
+                                <img itemprop="contentUrl url" src='https://www.anseladams.com/wp-content/uploads/2018/10/AA-moonrise-768x768-1.jpg' alt='Ansel Adams Biography - A Photographer & Environmentalist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ansel Adams Gallery" />
+                                </span>
+                                <a href='https://www.anseladams.com/wp-content/uploads/2018/10/AA-moonrise-768x768-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Pioneering Photographer Ansel Adams">
+                                <img itemprop="contentUrl url" src='https://mymodernmet.com/wp/wp-content/uploads/2020/09/ansel-adams-2.jpg' alt='10 Facts About Pioneering Photographer Ansel Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Modern Met" />
+                                </span>
+                                <a href='https://mymodernmet.com/wp/wp-content/uploads/2020/09/ansel-adams-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams | Biography, Photography, Books, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/65/59965-050-69A8E849/Mount-Williamson---Clearing-Storm-Ansel-Adams-1944.jpg' alt='Ansel Adams | Biography, Photography, Books, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/65/59965-050-69A8E849/Mount-Williamson---Clearing-Storm-Ansel-Adams-1944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Ansel Adams">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/533616-public-domain-wikimedia-commons-f3a3deeb70863eaabfef98dd738c8479.jpg' alt='10 Facts About Ansel Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/533616-public-domain-wikimedia-commons-f3a3deeb70863eaabfef98dd738c8479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams - Yosemite National Park (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/yose/learn/historyculture/images/Ansel.Adams-web.jpg' alt='Ansel Adams - Yosemite National Park (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/yose/learn/historyculture/images/Ansel.Adams-web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tetons and the Snake River - Ansel Adams">
+                                <img itemprop="contentUrl url" src='https://www.anseladams.com/wp-content/uploads/2023/07/1701186112_Zoom_v2-1030x808.jpg' alt='The Tetons and the Snake River - Ansel Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1030">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ansel Adams Gallery" />
+                                </span>
+                                <a href='https://www.anseladams.com/wp-content/uploads/2023/07/1701186112_Zoom_v2-1030x808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Pioneering Photographer Ansel Adams">
+                                <img itemprop="contentUrl url" src='https://mymodernmet.com/wp/wp-content/uploads/2020/09/ansel-adams-14.jpg' alt='10 Facts About Pioneering Photographer Ansel Adams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Modern Met" />
+                                </span>
+                                <a href='https://mymodernmet.com/wp/wp-content/uploads/2020/09/ansel-adams-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams: 10 things to know | Christie's">
+                                <img itemprop="contentUrl url" src='https://www.christies.com/-/jssmedia/images/features/articles/evergreen/ansel-adams-update/69369612_digital-content-jpeg.jpg?h=1934&iar=0&w=2400&rev=3bb257d932fc48a7aba4a8afb8d98fc2&hash=a9f0b0401e75ab5d4ec6c23183dbcd2591e958ee' alt='Ansel Adams: 10 things to know | Christie's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christie's" />
+                                </span>
+                                <a href='https://www.christies.com/-/jssmedia/images/features/articles/evergreen/ansel-adams-update/69369612_digital-content-jpeg.jpg?h=1934&iar=0&w=2400&rev=3bb257d932fc48a7aba4a8afb8d98fc2&hash=a9f0b0401e75ab5d4ec6c23183dbcd2591e958ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ansel Adams - Photographs, Yosemite & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1175305402.jpg' alt='Ansel Adams - Photographs, Yosemite & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3499">
+                                <meta itemprop="height" content="3499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1175305402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

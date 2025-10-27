@@ -1,0 +1,129 @@
+<title>Wood Arched Panel Background Stand for Stunning Events</title>
+                    <meta name="description" content="Enhance your events with our wood arched panel background stand. Perfect for weddings, photoshoots, and exhibitions, its elegant design fits any theme. Lightweight and easy to assemble, it offers both style and functionality. Create beautiful backdrops effortlessly! Ideal for various occasions.">
+                    <meta name="keywords" content="wood arched panel background stand">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wood-arched-panel-background-stand">
+                            <span itemprop="name">wood arched panel background stand</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wood Arched Panel Background Stand for Stunning Events</h1>
+                <p>Introducing our stunning wood arched panel background stand, perfect for adding elegance to any event. Made from high-quality wood, its natural finish complements various themes and aesthetics. Lightweight yet sturdy, it’s easy to set up and dismantle, making it ideal for weddings, photoshoots, and exhibitions. Transform your space effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3-Panel Wooden Arch Backdrop Stand - Natural Finish Background Arch Stand  for Weddings & Events - Photo Backdrop Arch Stand For Parties, Baby  Showers, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/415OvMT1knL._AC_UF894,1000_QL80_.jpg' alt='3-Panel Wooden Arch Backdrop Stand - Natural Finish Background Arch Stand  for Weddings & Events - Photo Backdrop Arch Stand For Parties, Baby  Showers, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/415OvMT1knL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Fixing Hobby Lobby Arch for Wedding and Events">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7226740085272644907&location=0&aid=1988' alt='DIY Fixing Hobby Lobby Arch for Wedding and Events'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7226740085272644907&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3-Panel Wooden Arch Backdrop Stand - Natural Finish Background  Arch Stand for Weddings & Events - Photo Backdrop Arch Stand For Parties,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71t47MTzVWL.jpg' alt='Amazon.com: 3-Panel Wooden Arch Backdrop Stand - Natural Finish Background  Arch Stand for Weddings & Events - Photo Backdrop Arch Stand For Parties,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71t47MTzVWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Hobby Lobby Plywood Arched Panel Background Stand : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41dlx6RSU3L.jpg' alt='Amazon.com : Hobby Lobby Plywood Arched Panel Background Stand : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41dlx6RSU3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Baby Shower Arch: How to Create a Stunning Backdrop with Hobby Lobby  Finds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7239426160839511342&location=0&aid=1988' alt='DIY Baby Shower Arch: How to Create a Stunning Backdrop with Hobby Lobby  Finds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7239426160839511342&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3-Panel Wooden Arch Backdrop Stand - Natural Finish ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41UPtbdYmJL.jpg' alt='Amazon.com: 3-Panel Wooden Arch Backdrop Stand - Natural Finish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41UPtbdYmJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop - Chiara Panel - full piece">
+                                <img itemprop="contentUrl url" src='http://cc-eventpropdesign.com/cdn/shop/files/1000041962-01_b76bc443-ebf1-4fde-9bf3-0191eec8f0ba.jpg?v=1701149332' alt='Backdrop - Chiara Panel - full piece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="1833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CC EVENT PROP DESIGN" />
+                                </span>
+                                <a href='http://cc-eventpropdesign.com/cdn/shop/files/1000041962-01_b76bc443-ebf1-4fde-9bf3-0191eec8f0ba.jpg?v=1701149332' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Wood Arched Panel Background Stand from Hobby Lobby ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7223021728602066218&location=0&aid=1988' alt='How to Use Wood Arched Panel Background Stand from Hobby Lobby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7223021728602066218&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The transformation ⚾️ #hobbylobby #baseballtiktoks #birthdayideas #diy  #partydecor #momsoftiktok #backdrop @Hobby Lobby">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7344931504021064991&location=0&aid=1988' alt='The transformation ⚾️ #hobbylobby #baseballtiktoks #birthdayideas #diy  #partydecor #momsoftiktok #backdrop @Hobby Lobby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7344931504021064991&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hobby Lobby Wood Arched Panel Background Stand - Room Dividers ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=987404279774699' alt='Hobby Lobby Wood Arched Panel Background Stand - Room Dividers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=987404279774699' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

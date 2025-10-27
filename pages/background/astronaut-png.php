@@ -1,0 +1,129 @@
+<title>High-Quality Astronaut PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover premium astronaut PNG images for all your design needs. Perfect for websites, graphics, and educational content, our collection offers versatility and quality. Download now and elevate your creative projects effortlessly!">
+                    <meta name="keywords" content="astronaut png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/astronaut-png">
+                            <span itemprop="name">astronaut png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Astronaut PNG Images for Your Projects</h1>
+                <p>Looking for high-quality astronaut PNG images? Our collection features stunning graphics perfect for your projects. Whether you're designing space-themed content, websites, or educational materials, our astronaut PNGs are versatile and easy to use. Download now and bring your creative ideas to new heights!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronauts from space, astronaut, spacewalk png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/299/334/png-clipart-astronauts-from-space-astronaut-spacewalk.png' alt='Astronauts from space, astronaut, spacewalk png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/299/334/png-clipart-astronauts-from-space-astronaut-spacewalk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Astronaut on Transparent Background 47307971 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/307/971/non_2x/3d-astronaut-on-transparent-background-free-png.png' alt='3D Astronaut on Transparent Background 47307971 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/307/971/non_2x/3d-astronaut-on-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-astronautastronautcosmonauttrainedtrainedspaceflightpilotspace-travelerspersonscientistnasa-14215266633432wd0q.png' alt='Astronaut PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-astronautastronautcosmonauttrainedtrainedspaceflightpilotspace-travelerspersonscientistnasa-14215266633432wd0q.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Png Images – Browse 78,615 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/27/17/98/360_F_527179874_nX97J5biJHwdYqzXgJTwB4XePPvwIR1X.jpg' alt='Astronaut Png Images – Browse 78,615 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/27/17/98/360_F_527179874_nX97J5biJHwdYqzXgJTwB4XePPvwIR1X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut PNG transparent image download, size: 640x640px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/astronaut_PNG33.png' alt='Astronaut PNG transparent image download, size: 640x640px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/astronaut_PNG33.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut png graphic clipart design 20003935 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/003/935/non_2x/astronaut-graphic-clipart-design-free-png.png' alt='Astronaut png graphic clipart design 20003935 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/003/935/non_2x/astronaut-graphic-clipart-design-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240412/rq/transparent-astronaut-astronaut-in-white-spacesuit-with-arms-raised-prou66192b7be3a556.38650149.webp' alt='Astronaut PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240412/rq/transparent-astronaut-astronaut-in-white-spacesuit-with-arms-raised-prou66192b7be3a556.38650149.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Astronaut Floating Space & Earth Transparent PNG Clipart, Cool Kids  Cartoon Design, Printable Sublimation,Commercial, Magical Clip Art">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16060308/r/il/3386df/5110323880/il_fullxfull.5110323880_h4ty.jpg' alt='Cute Astronaut Floating Space & Earth Transparent PNG Clipart, Cool Kids  Cartoon Design, Printable Sublimation,Commercial, Magical Clip Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16060308/r/il/3386df/5110323880/il_fullxfull.5110323880_h4ty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut, Astronaut png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/929/790/png-clipart-astronaut-astronaut.png' alt='Astronaut, Astronaut png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/929/790/png-clipart-astronaut-astronaut.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut PNG transparent image download, size: 498x539px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/astronaut_PNG41.png' alt='Astronaut PNG transparent image download, size: 498x539px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/astronaut_PNG41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

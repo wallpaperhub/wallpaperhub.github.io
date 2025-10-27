@@ -1,0 +1,129 @@
+<title>Discover the Island of Misfit Toys: A Story of Acceptance</title>
+                    <meta name="description" content="Explore the enchanting Island of Misfit Toys, where misunderstood toys come together in a heartwarming tale of acceptance and friendship. Join their journey to discover the value in every misfit and celebrate diversity with this timeless story loved by all ages.">
+                    <meta name="keywords" content="island of misfit toys">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/island-of-misfit-toys">
+                            <span itemprop="name">island of misfit toys</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Island of Misfit Toys: A Story of Acceptance</h1>
+                <p>The Island of Misfit Toys is a whimsical place where discarded and misunderstood toys find refuge. Each toy has its unique story and flaws, embodying themes of acceptance and the importance of embracing differences. This imaginative world reminds us that every misfit has value and a place, celebrating diversity and the spirit of friendship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rudolph the Red-Nosed Reindeer: The Island of Misfit Toys">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81phq68OAWL._AC_UF1000,1000_QL80_.jpg' alt='Rudolph the Red-Nosed Reindeer: The Island of Misfit Toys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81phq68OAWL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Island of Misfit Toys | Basic Sciences | Vanderbilt University">
+                                <img itemprop="contentUrl url" src='https://medschool.vanderbilt.edu/basic-sciences/wp-content/uploads/sites/64/2022/12/Misfit-Toys.png' alt='The Island of Misfit Toys | Basic Sciences | Vanderbilt University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanderbilt School of Medicine - Vanderbilt University" />
+                                </span>
+                                <a href='https://medschool.vanderbilt.edu/basic-sciences/wp-content/uploads/sites/64/2022/12/Misfit-Toys.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Island of Misfit Toys | Basic Sciences | Vanderbilt University">
+                                <img itemprop="contentUrl url" src='https://medschool.vanderbilt.edu/basic-sciences/wp-content/uploads/sites/101/2022/12/Hermey_the_elf_and_Rudolph.jpg' alt='The Island of Misfit Toys | Basic Sciences | Vanderbilt University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanderbilt School of Medicine - Vanderbilt University" />
+                                </span>
+                                <a href='https://medschool.vanderbilt.edu/basic-sciences/wp-content/uploads/sites/101/2022/12/Hermey_the_elf_and_Rudolph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys  [DVD] : Richard Dreyfuss, Jamie Lee Curtis, Rick Moranis, Kathleen Barr,  Scott ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91eriAVEV2L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys  [DVD] : Richard Dreyfuss, Jamie Lee Curtis, Rick Moranis, Kathleen Barr,  Scott ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91eriAVEV2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Island of Misfit Toys - Digital Dreambook">
+                                <img itemprop="contentUrl url" src='https://www.thedigitaldreambook.com/wp-content/uploads/1500QXI7219-The-Island-of-Misfit-Toys.jpg' alt='The Island of Misfit Toys - Digital Dreambook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Dreambook" />
+                                </span>
+                                <a href='https://www.thedigitaldreambook.com/wp-content/uploads/1500QXI7219-The-Island-of-Misfit-Toys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wisdom, and the Island of Misfit Toys - CUInsight">
+                                <img itemprop="contentUrl url" src='https://www.cuinsight.com/wp-content/uploads/2024/09/3118239128_67f7d6cd77_b.jpg' alt='Wisdom, and the Island of Misfit Toys - CUInsight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CUInsight" />
+                                </span>
+                                <a href='https://www.cuinsight.com/wp-content/uploads/2024/09/3118239128_67f7d6cd77_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hungry for God: Remember the Island of Misfit Toys?">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBZYlDgTKVVmGwE-WoI7zkkLAR92ATtUPv_Pn8NxKe6P2c6IPlLrFOzvJdH5-xXVBPrgr5GRwVrbTsUN_G5C14SkZJ4oQ347zNiD2b75sjrq9pbq5R-Ef-ahyCRP952zT7pkPfyr0Be8/s1600/Rudolph.jpg' alt='Hungry for God: Remember the Island of Misfit Toys?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hungry for God" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBZYlDgTKVVmGwE-WoI7zkkLAR92ATtUPv_Pn8NxKe6P2c6IPlLrFOzvJdH5-xXVBPrgr5GRwVrbTsUN_G5C14SkZJ4oQ347zNiD2b75sjrq9pbq5R-Ef-ahyCRP952zT7pkPfyr0Be8/s1600/Rudolph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys (Video ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYmVmYTA1YmQtOTI5OS00NTdmLTg0MjctZDM2ZGZiYTM1MzA0XkEyXkFqcGc@._V1_.jpg' alt='Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys (Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYmVmYTA1YmQtOTI5OS00NTdmLTg0MjctZDM2ZGZiYTM1MzA0XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Island of Misfit Toys 10 Image Mega Bundle With Lion, Elephant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27502336/r/il/76e283/4328529854/il_fullxfull.4328529854_d1ob.jpg' alt='Island of Misfit Toys 10 Image Mega Bundle With Lion, Elephant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1827">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27502336/r/il/76e283/4328529854/il_fullxfull.4328529854_d1ob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gay Conscious and The Island of Misfit Toys | Joseph Sciambra">
+                                <img itemprop="contentUrl url" src='https://josephsciambra.com/wp-content/uploads/2013/12/misfit-toys.png' alt='The Gay Conscious and The Island of Misfit Toys | Joseph Sciambra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1838">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joseph Sciambra" />
+                                </span>
+                                <a href='https://josephsciambra.com/wp-content/uploads/2013/12/misfit-toys.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

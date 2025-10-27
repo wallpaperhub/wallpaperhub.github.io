@@ -1,0 +1,129 @@
+<title>Discover the Magic of Stars and the Moon</title>
+                    <meta name="description" content="Explore the enchanting relationship between stars and the moon. Dive into the mysteries of the night sky and uncover the beauty and influence they have on our world. Perfect for stargazers and dreamers alike!">
+                    <meta name="keywords" content="stars and moon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stars-and-moon">
+                            <span itemprop="name">stars and moon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Stars and the Moon</h1>
+                <p>Stars twinkle in the night sky, captivating our imagination with their distant glows. The moon, a luminous beacon, guides us through darkness, influencing tides and inspiring countless tales. Together, they form a celestial duo, reminding us of the beauty of the universe and our place within it. A nightly spectacle that connects us all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon and Stars | NOIRLab">
+                                <img itemprop="contentUrl url" src='https://noirlab.edu/public/media/archives/images/publicationjpg/noao0107a.jpg' alt='Moon and Stars | NOIRLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3796">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NOIRLab" />
+                                </span>
+                                <a href='https://noirlab.edu/public/media/archives/images/publicationjpg/noao0107a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="244,300+ Moon And Stars Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1066372854/vector/crescent-moon.jpg?s=612x612&w=0&k=20&c=HjaFg-7qy6Ez1WxyMOOev7xeob_4B7CYHoJ26ax0N9c=' alt='244,300+ Moon And Stars Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1066372854/vector/crescent-moon.jpg?s=612x612&w=0&k=20&c=HjaFg-7qy6Ez1WxyMOOev7xeob_4B7CYHoJ26ax0N9c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Full moon with stars at dark night sky ., 40x24 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/02/26/39/04/1000_F_226390464_YgAh6tNLwylNbZr1LQwVZL3xJFvPhPo5.jpg' alt='Poster, Print Full moon with stars at dark night sky ., 40x24 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/02/26/39/04/1000_F_226390464_YgAh6tNLwylNbZr1LQwVZL3xJFvPhPo5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="244,300+ Moon And Stars Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/497785654/vector/starry-sky-and-crescent.jpg?s=612x612&w=0&k=20&c=up9JyUhjTrYxgT0OhxJ-i08HEY7WrclCMKIsvZW5MgY=' alt='244,300+ Moon And Stars Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/497785654/vector/starry-sky-and-crescent.jpg?s=612x612&w=0&k=20&c=up9JyUhjTrYxgT0OhxJ-i08HEY7WrclCMKIsvZW5MgY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars And Moon Background Images – Browse 1,259,481 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/26/64/55/360_F_326645591_drHoYVmK1thEDnTDL42BUhSO8em6Rdiu.jpg' alt='Stars And Moon Background Images – Browse 1,259,481 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/26/64/55/360_F_326645591_drHoYVmK1thEDnTDL42BUhSO8em6Rdiu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon and stars drawing.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15928565/r/il/faabad/6328219436/il_570xN.6328219436_dabx.jpg' alt='Moon and stars drawing.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15928565/r/il/faabad/6328219436/il_570xN.6328219436_dabx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky Stars Moon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg?semt=ais_hybrid' alt='Night Sky Stars Moon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon and Stars - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/37580/moon-star-clipart-lg.png' alt='Moon and Stars - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/37580/moon-star-clipart-lg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,300+ Moon Stars Clouds Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/485289973/photo/romantic-sky-night-for-valentine-background.jpg?s=612x612&w=0&k=20&c=MinA4-YXUdMv8PilucPaw84e3jdc-3jCMeTynTRtzZo=' alt='50,300+ Moon Stars Clouds Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/485289973/photo/romantic-sky-night-for-valentine-background.jpg?s=612x612&w=0&k=20&c=MinA4-YXUdMv8PilucPaw84e3jdc-3jCMeTynTRtzZo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="full moon with stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/7a/59/0b7a59a92af2b329a9020535e75666ca.jpg' alt='full moon with stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/7a/59/0b7a59a92af2b329a9020535e75666ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

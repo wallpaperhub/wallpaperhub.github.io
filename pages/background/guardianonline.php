@@ -1,0 +1,129 @@
+<title>Stay Informed with GuardianOnline: Your Trusted News Source</title>
+                    <meta name="description" content="Explore GuardianOnline for up-to-date news, expert insights, and engaging articles on diverse topics. Stay informed and discover new perspectives in a fast-paced world. Join our community today to connect with trusted writers and thinkers!">
+                    <meta name="keywords" content="guardianonline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/guardianonline">
+                            <span itemprop="name">guardianonline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Informed with GuardianOnline: Your Trusted News Source</h1>
+                <p>GuardianOnline is your trusted source for the latest news, insights, and expert advice on various topics. Our platform offers in-depth articles and engaging content that covers everything from health to technology, helping you stay informed in a fast-paced world. Discover new perspectives and connect with knowledgeable writers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to the new Guardian website | | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/28/1422439180039/f8deb38f-0283-45a0-87e9-7c2db48b8d9a-1020x612.png?width=700&quality=85&auto=format&fit=max&s=75edc089babe4dbcc8cd0c7c38126688' alt='Welcome to the new Guardian website | | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/28/1422439180039/f8deb38f-0283-45a0-87e9-7c2db48b8d9a-1020x612.png?width=700&quality=85&auto=format&fit=max&s=75edc089babe4dbcc8cd0c7c38126688' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to access the Guardian's global editions | Information | The ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/60313bdf0888dd4aab6db0e4997570e608c53b25/0_0_2560_1536/master/2560.jpg?width=465&dpr=1&s=none&crop=none' alt='How to access the Guardian's global editions | Information | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/60313bdf0888dd4aab6db0e4997570e608c53b25/0_0_2560_1536/master/2560.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us">
+                                <img itemprop="contentUrl url" src='https://workforus.theguardian.com/files/4915/5240/7697/Picture_318_1_002.png' alt='About Us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1431">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian Work For Us" />
+                                </span>
+                                <a href='https://workforus.theguardian.com/files/4915/5240/7697/Picture_318_1_002.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardian Pest Solutions | Take control with pest solutions from ...">
+                                <img itemprop="contentUrl url" src='https://guardian-online.com/wp-content/themes/guardian-2017/images/logo.svg' alt='Guardian Pest Solutions | Take control with pest solutions from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="guardian-online.com" />
+                                </span>
+                                <a href='https://guardian-online.com/wp-content/themes/guardian-2017/images/logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About our journalism | The Guardian">
+                                <img itemprop="contentUrl url" src='https://www.theguardian.com/about/images/journalism-9.jpg' alt='About our journalism | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://www.theguardian.com/about/images/journalism-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use the new Guardian Editions app | The Guardian | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/0f76b61054ae18806dd83fdaffadbe8524554308/0_0_5000_3000/master/5000.jpg?width=465&dpr=1&s=none&crop=none' alt='How to use the new Guardian Editions app | The Guardian | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/0f76b61054ae18806dd83fdaffadbe8524554308/0_0_5000_3000/master/5000.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardian | Poets & Writers">
+                                <img itemprop="contentUrl url" src='https://www.pw.org/files/small_press_images/the-guardian-logo1.jpg' alt='Guardian | Poets & Writers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poets & Writers" />
+                                </span>
+                                <a href='https://www.pw.org/files/small_press_images/the-guardian-logo1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardian makes it easy for readers to reject all ad cookies with ...">
+                                <img itemprop="contentUrl url" src='https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/guardianrejectall.jpeg' alt='Guardian makes it easy for readers to reject all ad cookies with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="743">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campaign" />
+                                </span>
+                                <a href='https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/guardianrejectall.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The guardian online version hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/CX4F85/more-people-now-read-the-guardian-online-than-buy-the-printed-newspaper-CX4F85.jpg' alt='The guardian online version hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/CX4F85/more-people-now-read-the-guardian-online-than-buy-the-printed-newspaper-CX4F85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After 18 months of work and 130,000 pieces of feedback Guardian ...">
+                                <img itemprop="contentUrl url" src='https://pressgazette.co.uk/wp-content/uploads/sites/7/styles/node_image/public/guardian_new_look.png' alt='After 18 months of work and 130,000 pieces of feedback Guardian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Press Gazette" />
+                                </span>
+                                <a href='https://pressgazette.co.uk/wp-content/uploads/sites/7/styles/node_image/public/guardian_new_look.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

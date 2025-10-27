@@ -1,0 +1,129 @@
+<title>Stunning Orca Pictures: Capture the Majesty of Killer Whales</title>
+                    <meta name="description" content="Explore breathtaking orca pictures that showcase the beauty and intelligence of these fascinating marine creatures. Discover stunning images that highlight their playful nature and powerful presence in the ocean. Perfect for wildlife lovers and photography enthusiasts alike!">
+                    <meta name="keywords" content="orca pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orca-pictures">
+                            <span itemprop="name">orca pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Orca Pictures: Capture the Majesty of Killer Whales</h1>
+                <p>Orca pictures capture the majestic beauty and intelligence of these incredible marine mammals. Known as killer whales, orcas exhibit striking black and white patterns, making them a favorite among photographers. From breaching in the ocean to playful pod interactions, orca images evoke wonder and appreciation for wildlife.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orca - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/37/Killerwhales_jumping.jpg' alt='Orca - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2186">
+                                <meta itemprop="height" content="1453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/37/Killerwhales_jumping.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orcas (Killer whales)">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/87a36612-27e8-4e6b-b188-82c37a8dd95a/NationalGeographic_2772395.jpg' alt='Orcas (Killer whales)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/87a36612-27e8-4e6b-b188-82c37a8dd95a/NationalGeographic_2772395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,200+ Killer Whale Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1227190928/photo/killer-whale-orcinus-orca-pair-leaping-canada.jpg?s=612x612&w=0&k=20&c=OaiNyQ--zzRPt-qdyKSAfbdugHr0rzsolsetddg9KqM=' alt='12,200+ Killer Whale Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1227190928/photo/killer-whale-orcinus-orca-pair-leaping-canada.jpg?s=612x612&w=0&k=20&c=OaiNyQ--zzRPt-qdyKSAfbdugHr0rzsolsetddg9KqM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orca guide: diet, how they hunt, and what they're related to ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/62/2016/05/GettyImages-912769276-c96f25b.jpg?w=1029&webp=1' alt='Orca guide: diet, how they hunt, and what they're related to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Wildlife Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/62/2016/05/GettyImages-912769276-c96f25b.jpg?w=1029&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Killer Photos of Killer Whales">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/8100dd13-85ba-4384-8ceb-360e7c886da0/02_orca_killer_whale_gallery.jpg' alt='13 Killer Photos of Killer Whales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/8100dd13-85ba-4384-8ceb-360e7c886da0/02_orca_killer_whale_gallery.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Killer Whales Are Not Our Friends - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/KyzXci2AFmRK5_XcXzepimzi2VM=/1x968:6239x4477/1600x900/media/img/mt/2023/06/GettyImages_672838591/original.jpg' alt='Killer Whales Are Not Our Friends - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/KyzXci2AFmRK5_XcXzepimzi2VM=/1x968:6239x4477/1600x900/media/img/mt/2023/06/GettyImages_672838591/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Videos capture orcas' tricks for taking down the largest fish on Earth">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/11/112924_sm_orca-v-shark_feat.jpg' alt='Videos capture orcas' tricks for taking down the largest fish on Earth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science News" />
+                                </span>
+                                <a href='https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/11/112924_sm_orca-v-shark_feat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to know the Salish Sea orcas - David Suzuki Foundation">
+                                <img itemprop="contentUrl url" src='https://davidsuzuki.org/wp-content/uploads/2018/01/salish-sea-orca-L-pod.png' alt='Get to know the Salish Sea orcas - David Suzuki Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Suzuki Foundation" />
+                                </span>
+                                <a href='https://davidsuzuki.org/wp-content/uploads/2018/01/salish-sea-orca-L-pod.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KUOW - Endangered baby orca J60 missing, presumed dead">
+                                <img itemprop="contentUrl url" src='https://kuow-prod.imgix.net/store/327fddab37977ed1d0f14d3cb034ad75.jpg?ixlib=rails-4.3.1&fit=clip&crop=faces&auto=format&w=924&h=634' alt='KUOW - Endangered baby orca J60 missing, presumed dead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUOW" />
+                                </span>
+                                <a href='https://kuow-prod.imgix.net/store/327fddab37977ed1d0f14d3cb034ad75.jpg?ixlib=rails-4.3.1&fit=clip&crop=faces&auto=format&w=924&h=634' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orcas (Orcinus orca) | New Scientist">
+                                <img itemprop="contentUrl url" src='https://images.newscientist.com/wp-content/uploads/2020/12/11153312/orca-killer-whale-a2c8ec_web.jpg' alt='Orcas (Orcinus orca) | New Scientist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Scientist" />
+                                </span>
+                                <a href='https://images.newscientist.com/wp-content/uploads/2020/12/11153312/orca-killer-whale-a2c8ec_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

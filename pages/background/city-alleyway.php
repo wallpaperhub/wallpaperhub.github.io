@@ -1,0 +1,129 @@
+<title>Discover the Charm of City Alleyways</title>
+                    <meta name="description" content="Explore the hidden beauty of city alleyways, where art meets culture. Uncover unique shops, colorful murals, and delightful eats in these narrow passages that showcase a city's spirit. Experience urban exploration like never before!">
+                    <meta name="keywords" content="city alleyway">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-alleyway">
+                            <span itemprop="name">city alleyway</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of City Alleyways</h1>
+                <p>City alleyways are hidden gems bustling with stories and vibrant culture. These narrow passages often reveal artistic murals, quaint cafés, or cozy shops, inviting exploration beyond the crowded streets. Each alleyway has its unique charm, from the echoes of laughter to the scent of street food, making them perfect for discovering a city's true character.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guest Commentary: Right Up Our Alley">
+                                <img itemprop="contentUrl url" src='https://thephiladelphiacitizen.org/wp-content/uploads/2024/08/Philadelphia_Alley.jpg' alt='Guest Commentary: Right Up Our Alley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Philadelphia Citizen" />
+                                </span>
+                                <a href='https://thephiladelphiacitizen.org/wp-content/uploads/2024/08/Philadelphia_Alley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270,500+ City Alley Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/655391120/photo/dark-gritty-alleyway.jpg?s=612x612&w=0&k=20&c=1MJph3u_Mzj0-UKn-lfsbuuH0VCtQJC97fr_TkC7NGI=' alt='270,500+ City Alley Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/655391120/photo/dark-gritty-alleyway.jpg?s=612x612&w=0&k=20&c=1MJph3u_Mzj0-UKn-lfsbuuH0VCtQJC97fr_TkC7NGI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cortlandt Alley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Cortlandt_Alley.jpg' alt='Cortlandt Alley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3448">
+                                <meta itemprop="height" content="4592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d0/Cortlandt_Alley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alley 4 | Filming and Photography Location | Downtown Los Angeles">
+                                <img itemprop="contentUrl url" src='https://imagelocations-laravel.s3.us-west-1.amazonaws.com/media/43366/conversions/alley-4-feature-medium.jpg' alt='Alley 4 | Filming and Photography Location | Downtown Los Angeles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Image Locations" />
+                                </span>
+                                <a href='https://imagelocations-laravel.s3.us-west-1.amazonaws.com/media/43366/conversions/alley-4-feature-medium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Alley Street Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://negativespace.co/wp-content/uploads/2019/10/negative-space-skinny-city-alley.jpg' alt='City Alley Street Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3201">
+                                <meta itemprop="height" content="4802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NegativeSpace" />
+                                </span>
+                                <a href='https://negativespace.co/wp-content/uploads/2019/10/negative-space-skinny-city-alley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is This "Gritty" NYC Alley Featured in So Many TV Shows and">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2019/09/cortlandt_alley.jpg' alt='Why Is This "Gritty" NYC Alley Featured in So Many TV Shows and'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2019/09/cortlandt_alley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5e/Streets_of_Sanaa%2C_Yemen_%2810732822016%29.jpg' alt='Alley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4016">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5e/Streets_of_Sanaa%2C_Yemen_%2810732822016%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270,500+ City Alley Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155128548/photo/dark-grungy-alley.jpg?s=612x612&w=0&k=20&c=iDie7m96fc3dLPyq40guSLdP4RIEDqgJbxT0l_36BUs=' alt='270,500+ City Alley Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155128548/photo/dark-grungy-alley.jpg?s=612x612&w=0&k=20&c=iDie7m96fc3dLPyq40guSLdP4RIEDqgJbxT0l_36BUs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Innovation Alleyways - City of Spokane, Washington">
+                                <img itemprop="contentUrl url" src='https://static.spokanecity.org/photos/2020/02/27/railroad-alley/16x7/large/railroad-alley.jpg' alt='Innovation Alleyways - City of Spokane, Washington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Spokane" />
+                                </span>
+                                <a href='https://static.spokanecity.org/photos/2020/02/27/railroad-alley/16x7/large/railroad-alley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Neon-lit Alleyway Scene Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/6/0/4/604e28b0-28d9-431a-a903-8b1e12cb4766_large/neon-lit-alleyway-scene-stockcake.jpg' alt='Free Neon-lit Alleyway Scene Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/6/0/4/604e28b0-28d9-431a-a903-8b1e12cb4766_large/neon-lit-alleyway-scene-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

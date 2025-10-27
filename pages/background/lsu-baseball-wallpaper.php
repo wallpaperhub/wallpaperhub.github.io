@@ -1,0 +1,129 @@
+<title>Stunning LSU Baseball Wallpapers: Show Your Team Spirit</title>
+                    <meta name="description" content="Explore our collection of striking LSU baseball wallpapers perfect for any fan! Elevate your device's look and feel the excitement of the game every time you unlock your screen. Download now for free and support your Tigers in style!">
+                    <meta name="keywords" content="lsu baseball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lsu-baseball-wallpaper">
+                            <span itemprop="name">lsu baseball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning LSU Baseball Wallpapers: Show Your Team Spirit</h1>
+                <p>Transform your device with vibrant LSU baseball wallpapers that capture the spirit of the Tigers! Show your team pride and enhance your screens with dynamic images featuring iconic plays, players, and logos. Whether you're a die-hard fan or just love the game, these wallpapers will keep you inspired every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Baseball on X: "New month, new wallpapers    https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GRap1fKb0AEtiTv?format=jpg&name=large' alt='LSU Baseball on X: "New month, new wallpapers    https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GRap1fKb0AEtiTv?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Baseball: A Vision of Tradition. This piece has been one of ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C2-SL84OduO/0/image.jpg' alt='LSU Baseball: A Vision of Tradition. This piece has been one of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/C2-SL84OduO/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Baseball on X: "Set your wallpapers. Tigers are once again ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FzmgNaNWIAA_v2Y.jpg:large' alt='LSU Baseball on X: "Set your wallpapers. Tigers are once again ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FzmgNaNWIAA_v2Y.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019-20 LSU Athletics Virtual Backgrounds, Covers, Lock Screens – LSU">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/lsusports-com/2020/03/7bd949f0-zoom_alex_box8-1024x576.jpg' alt='2019-20 LSU Athletics Virtual Backgrounds, Covers, Lock Screens – LSU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LSU Athletics" />
+                                </span>
+                                <a href='https://storage.googleapis.com/lsusports-com/2020/03/7bd949f0-zoom_alex_box8-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2019-20 LSU Athletics Virtual Backgrounds, Covers, Lock Screens – LSU">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/lsusports-com/2020/03/951a3ea4-zoom_alex_box_stadium16-1024x576.jpg' alt='2019-20 LSU Athletics Virtual Backgrounds, Covers, Lock Screens – LSU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LSU Athletics" />
+                                </span>
+                                <a href='https://storage.googleapis.com/lsusports-com/2020/03/951a3ea4-zoom_alex_box_stadium16-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Baseball on X: "Home Grown The Louisiana boys are featured in ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FwRw_rwakAAeS3f.jpg:large' alt='LSU Baseball on X: "Home Grown The Louisiana boys are featured in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FwRw_rwakAAeS3f.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Baseball - Let's Geaux, Tigers   : Vanderbilt   : Alex Box ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5384797808227509' alt='LSU Baseball - Let's Geaux, Tigers   : Vanderbilt   : Alex Box ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5384797808227509' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No. 8">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3173822952055035440' alt='No. 8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3173822952055035440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lsu Baseball Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7d/9f/13/7d9f138a0b6fbc317b41f190f499a0d2.jpg' alt='Lsu Baseball Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7d/9f/13/7d9f138a0b6fbc317b41f190f499a0d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LSU Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/ae/cd/6daecd617c3e24437b93f86f506f31ad.jpg' alt='LSU Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/ae/cd/6daecd617c3e24437b93f86f506f31ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

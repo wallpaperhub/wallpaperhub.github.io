@@ -1,0 +1,129 @@
+<title>Captain America Shield PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Explore our collection of Captain America shield PNGs, perfect for designs, art, and fan projects. High-quality images with transparent backgrounds make it easy to elevate your creativity. Download now for instant access to the iconic superhero emblem!">
+                    <meta name="keywords" content="captain america shield png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/captain-america-shield-png">
+                            <span itemprop="name">captain america shield png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captain America Shield PNG Images for Your Creative Projects</h1>
+                <p>Discover high-quality Captain America shield PNG images perfect for your design projects! Our collection features various styles and resolutions, ensuring you find the ideal graphic for your needs. Whether you're creating posters, digital art, or fan merchandise, these transparent background PNGs will elevate your work with iconic superhero flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Shield PNG (Isolated-Objects) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/captain-america-shield-PNG-thumb26.png' alt='Captain America Shield PNG (Isolated-Objects) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/captain-america-shield-PNG-thumb26.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Captain America Shield Logo Illustration PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/free-captain-america-shield-logo-illustration-png-701751694711351zbxcxhmh7v.png' alt='FREE Captain America Shield Logo Illustration PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/free-captain-america-shield-logo-illustration-png-701751694711351zbxcxhmh7v.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free transparent Captain america PNG images Download | PurePNG ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/thumbnail//purepng.com-captin-america-shieldcaptain-americacaptainamericafictional-charactercomic-booksmarvel-comicsupersoldierthe-warcostumeshield-1701528531904qi3zk.png' alt='Free transparent Captain america PNG images Download | PurePNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/thumbnail//purepng.com-captin-america-shieldcaptain-americacaptainamericafictional-charactercomic-booksmarvel-comicsupersoldierthe-warcostumeshield-1701528531904qi3zk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Shield PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/captain-america-shield-png-7040816951189488vdd1pe90g.png' alt='Captain America Shield PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/captain-america-shield-png-7040816951189488vdd1pe90g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Shield PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/captain-america-shield-9KJwlo8-600.jpg' alt='Captain America Shield PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/captain-america-shield-9KJwlo8-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America shield PNG transparent image download, size: 585x586px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/captain_america_PNG92.png' alt='Captain America shield PNG transparent image download, size: 585x586px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/captain_america_PNG92.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Captain America Shield.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Captain_America_Shield.svg/2048px-Captain_America_Shield.svg.png' alt='File:Captain America Shield.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Captain_America_Shield.svg/2048px-Captain_America_Shield.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captin America Shield PNG Image - PurePNG | Free transparent CC0 ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-captin-america-shieldcaptain-americacaptainamericafictional-charactercomic-booksmarvel-comicsupersoldierthe-warcostumesteve-rogers-1701528531475uxcym.png' alt='Captin America Shield PNG Image - PurePNG | Free transparent CC0 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-captin-america-shieldcaptain-americacaptainamericafictional-charactercomic-booksmarvel-comicsupersoldierthe-warcostumesteve-rogers-1701528531475uxcym.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America Shield by JDRincs on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0d59d31-2d41-41da-a3bc-dd8bbe8891d9/d47gy9f-641b6593-25b8-47bf-bde6-27b3770ef1cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QwZDU5ZDMxLTJkNDEtNDFkYS1hM2JjLWRkOGJiZTg4OTFkOVwvZDQ3Z3k5Zi02NDFiNjU5My0yNWI4LTQ3YmYtYmRlNi0yN2IzNzcwZWYxY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ssOlDumidUvO1OnVS4BnOaotuS3jFEnDz2d-MKZioOQ' alt='Captain America Shield by JDRincs on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0d59d31-2d41-41da-a3bc-dd8bbe8891d9/d47gy9f-641b6593-25b8-47bf-bde6-27b3770ef1cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QwZDU5ZDMxLTJkNDEtNDFkYS1hM2JjLWRkOGJiZTg4OTFkOVwvZDQ3Z3k5Zi02NDFiNjU5My0yNWI4LTQ3YmYtYmRlNi0yN2IzNzcwZWYxY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ssOlDumidUvO1OnVS4BnOaotuS3jFEnDz2d-MKZioOQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain America shield illustration, Captain America Iron Man ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/598/543/png-clipart-captain-america-shield-illustration-captain-america-iron-man-falcon-marvel-comics-marvel-cinematic-universe-captain-america-shield-heroes-captain-americas-shield.png' alt='Captain America shield illustration, Captain America Iron Man ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/598/543/png-clipart-captain-america-shield-illustration-captain-america-iron-man-falcon-marvel-comics-marvel-cinematic-universe-captain-america-shield-heroes-captain-americas-shield.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

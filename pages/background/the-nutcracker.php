@@ -1,0 +1,129 @@
+<title>The Magic of The Nutcracker Ballet</title>
+                    <meta name="description" content="Discover the enchanting world of The Nutcracker ballet! Join Clara on her magical journey filled with excitement, unforgettable characters, and delightful music. Experience this festive classic that brings joy and wonder to audiences of all ages during the holiday season.">
+                    <meta name="keywords" content="the nutcracker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-nutcracker">
+                            <span itemprop="name">the nutcracker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Magic of The Nutcracker Ballet</h1>
+                <p>The Nutcracker is a beloved ballet that captivates audiences with its enchanting story, vibrant characters, and magical music by Tchaikovsky. Set during the festive season, it follows young Clara and her dreamlike journey to the Land of Sweets, where she encounters the brave Nutcracker. This timeless tale celebrates imagination and holiday spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker was a flop. So how did it come to save American ballet?">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/ffaf4024-d9e5-4d3f-bdf9-ec228f02628d/nut4.jpg' alt='The Nutcracker was a flop. So how did it come to save American ballet?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/ffaf4024-d9e5-4d3f-bdf9-ec228f02628d/nut4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker: The Original Holiday Classic">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81TxVwDLFnL._AC_UF1000,1000_QL80_.jpg' alt='The Nutcracker: The Original Holiday Classic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81TxVwDLFnL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring history and cultural representation in The Nutcracker ...">
+                                <img itemprop="contentUrl url" src='https://shgreenwichkingstreetchronicle.org/wp-content/uploads/2023/12/Screen-Shot-2023-12-06-at-7.27.48-PM-e1701909213661.png' alt='Exploring history and cultural representation in The Nutcracker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="King Street Chronicle" />
+                                </span>
+                                <a href='https://shgreenwichkingstreetchronicle.org/wp-content/uploads/2023/12/Screen-Shot-2023-12-06-at-7.27.48-PM-e1701909213661.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlanta Ballet | The Nutcracker: A Brief History">
+                                <img itemprop="contentUrl url" src='https://atlanta-ballet.imgix.net/assets/front/_pageContentImage/Atlanta-Ballet-Dancers_The-Nutcracker_Photo-by-Kim-Kenney_2018_Web.jpg' alt='Atlanta Ballet | The Nutcracker: A Brief History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlanta Ballet" />
+                                </span>
+                                <a href='https://atlanta-ballet.imgix.net/assets/front/_pageContentImage/Atlanta-Ballet-Dancers_The-Nutcracker_Photo-by-Kim-Kenney_2018_Web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker 2024 - Hanover Theatre and Conservatory">
+                                <img itemprop="contentUrl url" src='https://thehanovertheatre.org/wp-content/uploads/2023/07/Nutcracker2022_Arabesque_1920x1080-1080x1080.png' alt='The Nutcracker 2024 - Hanover Theatre and Conservatory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hanover Theatre" />
+                                </span>
+                                <a href='https://thehanovertheatre.org/wp-content/uploads/2023/07/Nutcracker2022_Arabesque_1920x1080-1080x1080.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker': A holiday classic in the U.S. - U.S. Embassy ...">
+                                <img itemprop="contentUrl url" src='https://ru.usembassy.gov/wp-content/uploads/sites/138/ballet_nutcracker_clara_nutcracker_GettyImages-628314734-1140x684.jpg' alt='The Nutcracker': A holiday classic in the U.S. - U.S. Embassy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Embassy and Consulates in Russia" />
+                                </span>
+                                <a href='https://ru.usembassy.gov/wp-content/uploads/sites/138/ballet_nutcracker_clara_nutcracker_GettyImages-628314734-1140x684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker and the Four Realms (2018) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOTg1NDI1MjEyMl5BMl5BanBnXkFtZTgwOTA5MTgwNjM@._V1_.jpg' alt='The Nutcracker and the Four Realms (2018) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1382">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOTg1NDI1MjEyMl5BMl5BanBnXkFtZTgwOTA5MTgwNjM@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker | Dec 6–31, 2024: NBoC Official Box Office">
+                                <img itemprop="contentUrl url" src='https://national.ballet.ca/media/p2kp5oo1/nboc2425-hero-desktop-nutcracker-25309-pm.jpg' alt='The Nutcracker | Dec 6–31, 2024: NBoC Official Box Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Ballet of Canada" />
+                                </span>
+                                <a href='https://national.ballet.ca/media/p2kp5oo1/nboc2425-hero-desktop-nutcracker-25309-pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nutcracker Story | The Nutcracker">
+                                <img itemprop="contentUrl url" src='https://www.sjnutcracker.com/wp-content/uploads/2016/09/Mother-Cupcake-San-Jose-Nutcracker.jpg' alt='Nutcracker Story | The Nutcracker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Jose Nutcracker" />
+                                </span>
+                                <a href='https://www.sjnutcracker.com/wp-content/uploads/2016/09/Mother-Cupcake-San-Jose-Nutcracker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Nutcracker | Ballet, Summary, Christmas, History, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/252244-050-4BB0FAF9/Clara-with-the-Nutcracker-Ukraine-Kiev-ballet-dancers.jpg' alt='The Nutcracker | Ballet, Summary, Christmas, History, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/252244-050-4BB0FAF9/Clara-with-the-Nutcracker-Ukraine-Kiev-ballet-dancers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

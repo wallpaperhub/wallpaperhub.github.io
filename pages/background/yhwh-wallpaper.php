@@ -1,0 +1,129 @@
+<title>YHWH Wallpaper: Spiritual Designs for Your Space</title>
+                    <meta name="description" content="Explore our collection of YHWH wallpaper designs! Perfect for those seeking to express their faith, these backgrounds offer a unique touch to any room. Choose from various styles that inspire and uplift, making your space more meaningful. Ideal for all mobile devices!">
+                    <meta name="keywords" content="yhwh wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yhwh-wallpaper">
+                            <span itemprop="name">yhwh wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>YHWH Wallpaper: Spiritual Designs for Your Space</h1>
+                <p>Enhance your space with stunning YHWH wallpaper designs! Discover a variety of styles, colors, and patterns that reflect your faith and personal aesthetic. From modern to traditional, find the perfect background to inspire and uplift your daily life. Transform your environment and experience spiritual growth with these beautiful wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/07/a6/6507a651544f0b2212f521ddfc82db45.jpg' alt='YHWH wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/07/a6/6507a651544f0b2212f521ddfc82db45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH wallpaper by JeffC29 - Download on ZEDGE™ | 1ba2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/2d/cf/1f2dcf5f6f1c14e1c48239e8e8058c1f.jpg' alt='YHWH wallpaper by JeffC29 - Download on ZEDGE™ | 1ba2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/2d/cf/1f2dcf5f6f1c14e1c48239e8e8058c1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian wallpaper aesthetic YHWH">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/a1/29/ffa129d3b9480d851d6ad5747f851e88.jpg' alt='Christian wallpaper aesthetic YHWH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/a1/29/ffa129d3b9480d851d6ad5747f851e88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH, inspiration, jesus, love, yaweh, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/20/722/HD-wallpaper-yhwh-inspiration-jesus-love-yaweh.jpg' alt='YHWH, inspiration, jesus, love, yaweh, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/20/722/HD-wallpaper-yhwh-inspiration-jesus-love-yaweh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yahweh Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2915402.jpg' alt='Yahweh Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2915402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD yhwh wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/766/261/HD-wallpaper-eternal-creator-deus-god-yhwh.jpg' alt='HD yhwh wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/766/261/HD-wallpaper-eternal-creator-deus-god-yhwh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH – Praxis: Faith in Action">
+                                <img itemprop="contentUrl url" src='https://jhkim.work/wp-content/uploads/2022/11/image-4.png' alt='YHWH – Praxis: Faith in Action'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Praxis: Faith in Action" />
+                                </span>
+                                <a href='https://jhkim.work/wp-content/uploads/2022/11/image-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH in Hebrew and English - Christian Wallpaper Free">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.christianwallpaperfree.com/wp-content/uploads/2020/07/YHWH-In-Hebrew-And-English.jpg?fit=1920%2C1200&ssl=1' alt='YHWH in Hebrew and English - Christian Wallpaper Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christian Wallpaper Free" />
+                                </span>
+                                <a href='https://i0.wp.com/www.christianwallpaperfree.com/wp-content/uploads/2020/07/YHWH-In-Hebrew-And-English.jpg?fit=1920%2C1200&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YHWH Lion of Judah Yahweh by Reuben Iga">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/yhwh-lion-of-judah-yahweh-reuben-iga.jpg' alt='YHWH Lion of Judah Yahweh by Reuben Iga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/yhwh-lion-of-judah-yahweh-reuben-iga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yhwh Posters for Sale - Fine Art America">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/medium/poster/6/8/break/images/artworkimages/medium/3/yhwh-1-bible-verses-print-2-christian-faith-based-studio-grafiikka.jpg' alt='Yhwh Posters for Sale - Fine Art America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/medium/poster/6/8/break/images/artworkimages/medium/3/yhwh-1-bible-verses-print-2-christian-faith-based-studio-grafiikka.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

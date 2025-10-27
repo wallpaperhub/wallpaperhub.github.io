@@ -1,0 +1,129 @@
+<title>Ruth Bader Ginsburg: A Legacy of Justice</title>
+                    <meta name="description" content="Explore the legacy of Ruth Bader Ginsburg, the Supreme Court Justice who fought for gender equality and civil rights. Discover her impact on the law, her influential dissents, and how she became a cultural icon in the pursuit of justice for all. Learn more about her remarkable journey and contributions.">
+                    <meta name="keywords" content="supreme court ruth bader ginsburg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/supreme-court-ruth-bader-ginsburg">
+                            <span itemprop="name">supreme court ruth bader ginsburg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ruth Bader Ginsburg: A Legacy of Justice</h1>
+                <p>Ruth Bader Ginsburg, a trailblazing Supreme Court Justice, championed gender equality and civil rights throughout her tenure. Appointed in 1993, she became a cultural icon, known for her powerful dissents and commitment to justice. Ginsburg's legacy inspires future generations to fight for equality and justice for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruth Bader Ginsburg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/1200px-Ruth_Bader_Ginsburg_2016_portrait.jpg' alt='Ruth Bader Ginsburg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/1200px-Ruth_Bader_Ginsburg_2016_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Supreme Court Justice Ruth Bader Ginsburg dies at 87">
+                                <img itemprop="contentUrl url" src='https://www.alreporter.com/wp-content/uploads/2020/09/RBG_Memoriam_Graphic.png' alt='U.S. Supreme Court Justice Ruth Bader Ginsburg dies at 87'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alabama Political Reporter" />
+                                </span>
+                                <a href='https://www.alreporter.com/wp-content/uploads/2020/09/RBG_Memoriam_Graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Supreme Court Justice Ruth Bader Ginsburg Dies of Pancreatic ...">
+                                <img itemprop="contentUrl url" src='https://pancan.org/wp-content/uploads/2019/08/ruth-bader-ginsburg-733x450.jpg' alt='U.S. Supreme Court Justice Ruth Bader Ginsburg Dies of Pancreatic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pancreatic Cancer Action Network" />
+                                </span>
+                                <a href='https://pancan.org/wp-content/uploads/2019/08/ruth-bader-ginsburg-733x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justice Ruth Bader Ginsburg Misses Supreme Court Arguments - The ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/01/07/us/08GINSBURG2/08GINSBURG2-superJumbo.jpg' alt='Justice Ruth Bader Ginsburg Misses Supreme Court Arguments - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/01/07/us/08GINSBURG2/08GINSBURG2-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruth Bader Ginsburg | National Women's History Museum">
+                                <img itemprop="contentUrl url" src='https://www.womenshistory.org/sites/default/files/styles/main_image/public/images/2021-03/RuthBaderGinsburg_Square.jpg' alt='Ruth Bader Ginsburg | National Women's History Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Women's History Museum" />
+                                </span>
+                                <a href='https://www.womenshistory.org/sites/default/files/styles/main_image/public/images/2021-03/RuthBaderGinsburg_Square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruth Bader Ginsburg Isn't Looking to Retire Yet, But Is Another ...">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/5c64457cb001b15d200ec0b0/master/pass/Toobin-Supreme-Court.jpg' alt='Ruth Bader Ginsburg Isn't Looking to Retire Yet, But Is Another ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/5c64457cb001b15d200ec0b0/master/pass/Toobin-Supreme-Court.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruth Ginsburg | The First Amendment Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/Ruth_Bader_Ginsburg__SCOTUS_photo_portrait_0.jpg' alt='Ruth Ginsburg | The First Amendment Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/Ruth_Bader_Ginsburg__SCOTUS_photo_portrait_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ruth Bader Ginsburg & Dissents: What's a Dissent? | Boston Public ...">
+                                <img itemprop="contentUrl url" src='https://www.bpl.org/wp-content/uploads/sites/30/2020/09/ruth_bader_ginsburg-670x1005.jpg' alt='Ruth Bader Ginsburg & Dissents: What's a Dissent? | Boston Public ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston Public Library" />
+                                </span>
+                                <a href='https://www.bpl.org/wp-content/uploads/sites/30/2020/09/ruth_bader_ginsburg-670x1005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Court Justice Ruth Bader Ginsburg Dies at 87 – NBC4 Washington">
+                                <img itemprop="contentUrl url" src='https://media.nbcwashington.com/2020/09/GettyImages-1094804416.jpg?quality=85&strip=all&resize=850%2C478' alt='Supreme Court Justice Ruth Bader Ginsburg Dies at 87 – NBC4 Washington'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC4 Washington" />
+                                </span>
+                                <a href='https://media.nbcwashington.com/2020/09/GettyImages-1094804416.jpg?quality=85&strip=all&resize=850%2C478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering and Celebrating Supreme Court Justice, Ruth Bader ...">
+                                <img itemprop="contentUrl url" src='https://med.emory.edu/departments/pathology/_images/dei/ruth-bader-ginsburg.jpg' alt='Remembering and Celebrating Supreme Court Justice, Ruth Bader ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1004">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emory School of Medicine - Emory University" />
+                                </span>
+                                <a href='https://med.emory.edu/departments/pathology/_images/dei/ruth-bader-ginsburg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

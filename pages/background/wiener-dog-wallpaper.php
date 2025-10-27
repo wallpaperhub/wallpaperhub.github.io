@@ -1,0 +1,129 @@
+<title>Adorable Wiener Dog Wallpaper to Elevate Your Space</title>
+                    <meta name="description" content="Discover the perfect wiener dog wallpaper for your home! Our charming designs bring warmth and personality to any room. Ideal for dog lovers, this wallpaper adds a whimsical touch that will make your space truly unique. Shop now for a delightful decor upgrade!">
+                    <meta name="keywords" content="wiener dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wiener-dog-wallpaper">
+                            <span itemprop="name">wiener dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Wiener Dog Wallpaper to Elevate Your Space</h1>
+                <p>Transform your living space with charming wiener dog wallpaper that celebrates the playful spirit of these adorable pups. Perfect for any dog lover, this unique wallpaper features delightful patterns and vibrant colors that brighten up your home. Get ready to showcase your love for dachshunds in a fun, stylish way!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper 6ft x 2ft - Tan, Wiener Dog, Doxie, Dachshund ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61d0XjSZCBL._AC_UF894,1000_QL80_.jpg' alt='Removable Wallpaper 6ft x 2ft - Tan, Wiener Dog, Doxie, Dachshund ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61d0XjSZCBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiener Dog Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7063061/p/f/m/MRgTVsCl8CSeTlm-sn_wY_f7ptwM5USAR-rVmYGqLQZqURomigY/Dachshunds%20and%20dogwood%20blossoms%20-%20pink%2C%20large.jpg' alt='Wiener Dog Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7063061/p/f/m/MRgTVsCl8CSeTlm-sn_wY_f7ptwM5USAR-rVmYGqLQZqURomigY/Dachshunds%20and%20dogwood%20blossoms%20-%20pink%2C%20large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiener Dog Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cb/e0/b6/cbe0b61c5bf623deb4bb8bbc9aa96f6f.jpg' alt='Wiener Dog Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cb/e0/b6/cbe0b61c5bf623deb4bb8bbc9aa96f6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiener Dog Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664299531182-c43d0d91e25d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2llbmVyJTIwZG9nfGVufDB8fDB8fHww' alt='Wiener Dog Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664299531182-c43d0d91e25d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2llbmVyJTIwZG9nfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Dachshund Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1532616934112-95f7d1d49e8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFjaHNodW5kfGVufDB8fDB8fHww' alt='30k+ Dachshund Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1532616934112-95f7d1d49e8c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFjaHNodW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366924668/vector/dachshund-dogs-and-hearts-seamless-pattern-on-a-pink-background-valentines-day-vector.jpg?s=612x612&w=0&k=20&c=CaF3_3HgJT3nnfPtWz2PbkpHIOsePs45z47VqUThfd4=' alt='2,600+ Dachshund Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366924668/vector/dachshund-dogs-and-hearts-seamless-pattern-on-a-pink-background-valentines-day-vector.jpg?s=612x612&w=0&k=20&c=CaF3_3HgJT3nnfPtWz2PbkpHIOsePs45z47VqUThfd4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42119390/r/il/01dd2b/4790060995/il_fullxfull.4790060995_33zy.jpg' alt='Dachshund wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42119390/r/il/01dd2b/4790060995/il_fullxfull.4790060995_33zy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Best Dachshund Wallpaper! ideas | dachshund, dachshund ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ea/05/c7/ea05c7eaf95234ab29d11477e061b882.jpg' alt='56 Best Dachshund Wallpaper! ideas | dachshund, dachshund ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ea/05/c7/ea05c7eaf95234ab29d11477e061b882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund Dog Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dachshund-dog-black-qx17m21p50xsgylx.jpg' alt='Dachshund Dog Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dachshund-dog-black-qx17m21p50xsgylx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dachshund dog breed pet fabric pattern Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6655951/p/f/m/h1rjar5uY1887s6nMI3smc_Bddeo3CXLugQfgfPcA36weQ8rDqgzQtGN/6655951-dachshund-dog-breed-pet-fabric-pattern-florals-white-by-petfriendly.jpg' alt='Dachshund dog breed pet fabric pattern Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6655951/p/f/m/h1rjar5uY1887s6nMI3smc_Bddeo3CXLugQfgfPcA36weQ8rDqgzQtGN/6655951-dachshund-dog-breed-pet-fabric-pattern-florals-white-by-petfriendly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

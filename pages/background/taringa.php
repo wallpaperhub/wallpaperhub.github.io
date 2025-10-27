@@ -1,0 +1,129 @@
+<title>Explore Taringa: Connect, Share & Collaborate!</title>
+                    <meta name="description" content="Discover Taringa, the vibrant social network that connects users through content sharing and collaborative discussions. Engage with a diverse community, explore new ideas, and showcase your creativity in a dynamic environment. Join Taringa today and be part of the conversation!">
+                    <meta name="keywords" content="taringa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/taringa">
+                            <span itemprop="name">taringa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Taringa: Connect, Share & Collaborate!</h1>
+                <p>Taringa is a dynamic social network platform that started in Argentina, fostering community engagement through content sharing and collaboration. Users can post articles, participate in forums, and connect over shared interests. Taringa empowers creators, encourages knowledge exchange, and offers a vibrant space for discussions and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Million Exposed in Taringa Data Breach [2017] | SpyCloud">
+                                <img itemprop="contentUrl url" src='https://spycloud.com/wp-content/uploads/2017/09/Taringa-data-breach-hacker.png' alt='28 Million Exposed in Taringa Data Breach [2017] | SpyCloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpyCloud" />
+                                </span>
+                                <a href='https://spycloud.com/wp-content/uploads/2017/09/Taringa-data-breach-hacker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taringa, Queensland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/34/Skyline_of_Brisbane_CBD_seen_from_Taringa%2C_Queensland_in_May_2020.jpg' alt='Taringa, Queensland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3702">
+                                <meta itemprop="height" content="2714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/34/Skyline_of_Brisbane_CBD_seen_from_Taringa%2C_Queensland_in_May_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Taringa!">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064536020291' alt='Profile for Taringa!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064536020291' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taringa! founders absolved of piracy charges by Argentine court ...">
+                                <img itemprop="contentUrl url" src='https://latamlist.com/wp-content/uploads/2018/12/image5bd275d6117b0.jpg' alt='Taringa! founders absolved of piracy charges by Argentine court ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LatamList" />
+                                </span>
+                                <a href='https://latamlist.com/wp-content/uploads/2018/12/image5bd275d6117b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taringa! Shouts - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/516LK0NavOL.png' alt='Taringa! Shouts - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/516LK0NavOL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Taringa Logo SVG, PNG Icon, Symbol. Download Image.">
+                                <img itemprop="contentUrl url" src='https://www.iconpacks.net/icons/2/free-taringa-logo-icon-2444-thumb.png' alt='Free Taringa Logo SVG, PNG Icon, Symbol. Download Image.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Packs" />
+                                </span>
+                                <a href='https://www.iconpacks.net/icons/2/free-taringa-logo-icon-2444-thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trending stories published on Taringa! – Medium">
+                                <img itemprop="contentUrl url" src='https://cdn-images-1.medium.com/max/1200/1*SNI2ONdjDxSA3zeHYaMazg.png' alt='Trending stories published on Taringa! – Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://cdn-images-1.medium.com/max/1200/1*SNI2ONdjDxSA3zeHYaMazg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Urban living in Taringa | O'Neill">
+                                <img itemprop="contentUrl url" src='https://www.byronyoneill.com.au/wp-content/uploads/2021/02/Taringa-Community-Guide-low-res1.jpg' alt='Urban living in Taringa | O'Neill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Byrony O'Neill" />
+                                </span>
+                                <a href='https://www.byronyoneill.com.au/wp-content/uploads/2021/02/Taringa-Community-Guide-low-res1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taringa - Free social icons">
+                                <img itemprop="contentUrl url" src='https://cdn-icons-png.flaticon.com/512/3670/3670351.png' alt='Taringa - Free social icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flaticon" />
+                                </span>
+                                <a href='https://cdn-icons-png.flaticon.com/512/3670/3670351.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taringa! Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/images/thumbs/2x/taringa-logo.png' alt='Taringa! Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/images/thumbs/2x/taringa-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

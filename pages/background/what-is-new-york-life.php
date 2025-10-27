@@ -1,0 +1,129 @@
+<title>Discover New York Life: Your Path to Financial Security</title>
+                    <meta name="description" content="Explore New York Life, a leading life insurance provider since 1845. Learn how its comprehensive financial solutions can safeguard your future and help achieve your goals. Trust in a reliable partner for life insurance and retirement planning, ensuring peace of mind for you and your loved ones.">
+                    <meta name="keywords" content="what is new york life">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-new-york-life">
+                            <span itemprop="name">what is new york life</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover New York Life: Your Path to Financial Security</h1>
+                <p>New York Life is a prominent life insurance company founded in 1845, providing financial security and peace of mind to individuals and families. With a strong focus on life insurance, retirement planning, and investment solutions, it aims to empower people to achieve their financial goals. Its commitment to integrity and service makes it a trusted choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us - Learn why we are here for you | New York Life">
+                                <img itemprop="contentUrl url" src='https://assets.newyorklife.com/is/image/newyorklife/Thumbnail-3x2-educator-brand-article-What-you-need-to-know-about-insurers-credit-ratings_NYLbuilding-w720-h600' alt='About Us - Learn why we are here for you | New York Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Life Insurance" />
+                                </span>
+                                <a href='https://assets.newyorklife.com/is/image/newyorklife/Thumbnail-3x2-educator-brand-article-What-you-need-to-know-about-insurers-credit-ratings_NYLbuilding-w720-h600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for New York Life Insurance Company">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064834986712' alt='Profile for New York Life Insurance Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064834986712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Life Insurance Company - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/53/New_York_Life_Insurance_Building.jpg' alt='New York Life Insurance Company - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1583">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/53/New_York_Life_Insurance_Building.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="With robust strength and stability, New York Life is built for ...">
+                                <img itemprop="contentUrl url" src='https://assets.newyorklife.com/is/image/newyorklife/new-york-life-building-1-w1024-h682' alt='With robust strength and stability, New York Life is built for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Life Insurance" />
+                                </span>
+                                <a href='https://assets.newyorklife.com/is/image/newyorklife/new-york-life-building-1-w1024-h682' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Life Insurance Review: Whole and Universal Life ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/value-penguin/image/upload/f_auto,q_auto/referral_logos/us/life_insurance/NEWY-3' alt='New York Life Insurance Review: Whole and Universal Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ValuePenguin" />
+                                </span>
+                                <a href='https://res.cloudinary.com/value-penguin/image/upload/f_auto,q_auto/referral_logos/us/life_insurance/NEWY-3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retail and Institutional Life Insurance | New York Life">
+                                <img itemprop="contentUrl url" src='https://assets.newyorklife.com/is/image/newyorklife/nyl-building-1-w2000-h857' alt='Retail and Institutional Life Insurance | New York Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Life Insurance" />
+                                </span>
+                                <a href='https://assets.newyorklife.com/is/image/newyorklife/nyl-building-1-w2000-h857' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why New York Life Insurance">
+                                <img itemprop="contentUrl url" src='https://www.usba.com/images/why-new-york-life-usba-blog.jpg' alt='Why New York Life Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USBA" />
+                                </span>
+                                <a href='https://www.usba.com/images/why-new-york-life-usba-blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | New York Life Investments">
+                                <img itemprop="contentUrl url" src='https://assets.newyorklifeinvestments.com/is/image/newyorklife/2020-175years-w630-h440' alt='Our History | New York Life Investments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Life Investments" />
+                                </span>
+                                <a href='https://assets.newyorklifeinvestments.com/is/image/newyorklife/2020-175years-w630-h440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of 51 Madison Avenue: The New York Life Building ...">
+                                <img itemprop="contentUrl url" src='https://flatironnomad.nyc/wp-content/uploads/2022/05/educator-brand-article-image-10x3-what-you-need-to-know-about-insurers-credit-ratings_nylbuilding.detail.jpeg' alt='The History of 51 Madison Avenue: The New York Life Building ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flatiron NoMad Partnership" />
+                                </span>
+                                <a href='https://flatironnomad.nyc/wp-content/uploads/2022/05/educator-brand-article-image-10x3-what-you-need-to-know-about-insurers-credit-ratings_nylbuilding.detail.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Life Careers: What MBAs Should Know | MetroMBA">
+                                <img itemprop="contentUrl url" src='https://www.metromba.com/wp-content/uploads/2019/02/new-york-insurance-crop.jpg' alt='New York Life Careers: What MBAs Should Know | MetroMBA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MetroMBA" />
+                                </span>
+                                <a href='https://www.metromba.com/wp-content/uploads/2019/02/new-york-insurance-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

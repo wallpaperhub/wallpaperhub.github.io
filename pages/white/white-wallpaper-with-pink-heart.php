@@ -1,0 +1,129 @@
+<title>Charming White Wallpaper with Pink Heart Designs</title>
+                    <meta name="description" content="Transform your space with enchanting white wallpaper featuring pink heart patterns. Ideal for nurseries and romantic rooms, this design brings warmth and style to any decor. Easy to apply and versatile, it enhances your home with a playful touch. Perfect for creating a cozy atmosphere!">
+                    <meta name="keywords" content="white wallpaper with pink heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-wallpaper-with-pink-heart">
+                            <span itemprop="name">white wallpaper with pink heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming White Wallpaper with Pink Heart Designs</h1>
+                <p>White wallpaper with pink heart designs adds a touch of whimsy and charm to any room. Perfect for nurseries, bedrooms, or accent walls, this delightful pattern creates a warm and inviting atmosphere. Easy to match with decor, it brings a playful yet elegant vibe, making your space feel both cozy and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Hearts' Wallpaper by Sugar Paper - Pink On White">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/ScatterHearts_hires4web_pink-on-white__C_web_detail_0bd36832-3018-43d5-acd8-22694234dc46_720x.jpg?v=1633379211' alt=''Hearts' Wallpaper by Sugar Paper - Pink On White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/ScatterHearts_hires4web_pink-on-white__C_web_detail_0bd36832-3018-43d5-acd8-22694234dc46_720x.jpg?v=1633379211' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Pink and White Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/e6/43/35e643e781ca87909ff6036c1eb63b6e.jpg' alt='Minimal Pink and White Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/e6/43/35e643e781ca87909ff6036c1eb63b6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White wallpaper with pink hearts">
+                                <img itemprop="contentUrl url" src='https://www.caramellainteriors.com/cache/files/1511724415/05584f2d3b2c26db6b2170964c4dd9b0_1---w-1200.jpg' alt='White wallpaper with pink hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caramella" />
+                                </span>
+                                <a href='https://www.caramellainteriors.com/cache/files/1511724415/05584f2d3b2c26db6b2170964c4dd9b0_1---w-1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   ࣪ ֢    ࣪˖♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/0b/1b/860b1b8184978dda2aa1c42ae93ad3a8.jpg' alt='   ࣪ ֢    ࣪˖♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/0b/1b/860b1b8184978dda2aa1c42ae93ad3a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Pink Heart Pattern On A White Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-pink-heart-pattern-on-a-white-background-sqbw4w0gv5kb8x7y.jpg' alt='A Pink Heart Pattern On A White Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-pink-heart-pattern-on-a-white-background-sqbw4w0gv5kb8x7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/67/e3/c167e3828c4930b66fc166794952e391.jpg' alt='Pink Heart Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/67/e3/c167e3828c4930b66fc166794952e391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Sparkle Heart White And Bubblegum Glitter Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/3940122689603_aad4c37e-f690-442e-9f9e-6e0d0de73c80.jpg?v=1645010349' alt='Seabrook Sparkle Heart White And Bubblegum Glitter Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/3940122689603_aad4c37e-f690-442e-9f9e-6e0d0de73c80.jpg?v=1645010349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink hearts on a white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-hearts-white-background_363897-14308.jpg' alt='Premium Vector | Pink hearts on a white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-hearts-white-background_363897-14308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Pink Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/simple-pink-heart-39ktyk4atc29x7m7.jpg' alt='Simple Pink Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/simple-pink-heart-39ktyk4atc29x7m7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and white big 33 cm hearts wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.dekoori.com/upload/file-tap-0039-rb_7444-scienna-rozowa-tapeta-w-serca-biale-duze-30cm-obiektowa-walentynki-wzor-sklep-dekoori-pl.webp' alt='Pink and white big 33 cm hearts wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dekoori" />
+                                </span>
+                                <a href='https://www.dekoori.com/upload/file-tap-0039-rb_7444-scienna-rozowa-tapeta-w-serca-biale-duze-30cm-obiektowa-walentynki-wzor-sklep-dekoori-pl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

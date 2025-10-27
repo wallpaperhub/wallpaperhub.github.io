@@ -1,0 +1,129 @@
+<title>Timeless Vintage Floral Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the charm of vintage floral wallpaper backgrounds! Ideal for creating a cozy, nostalgic atmosphere in any room. Transform your space with timeless designs that blend vintage elegance with modern style. Perfect for homeowners and designers looking to add a unique touch to their interiors.">
+                    <meta name="keywords" content="vintage floral wallpaper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/vintage-floral-wallpaper-background">
+                            <span itemprop="name">vintage floral wallpaper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Timeless Vintage Floral Wallpaper: Elevate Your Space</h1>
+                <p>Vintage floral wallpaper backgrounds evoke a sense of nostalgia and timeless beauty. The intricate designs feature vibrant blooms and delicate patterns, perfect for adding character to any space. Whether used in living rooms, bedrooms, or cafes, these wallpapers create a charming ambiance that blends vintage elegance with modern styling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' alt='Vintage Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grace - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?v=1734718105' alt='Grace - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0094_1s_Vintage-Floral-Wallpaper-for-Walls-Grace_Repeating-Pattern-Sample-1.jpg?v=1734718105' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Floral Wallpaper Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/f/4/c/f4c35e8c-aa39-46f7-9ade-d914dce88c83_large/vintage-floral-wallpaper-stockcake.jpg' alt='Free Vintage Floral Wallpaper Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/f/4/c/f4c35e8c-aa39-46f7-9ade-d914dce88c83_large/vintage-floral-wallpaper-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' alt='Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Lativo Floral Peel and Stick Wallpaper Vintage Floral Contact  Paper for Cabinets Drawers Liner Boho Contact Paper Dark Green Leaf Flower  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' alt='Amazon.com: Lativo Floral Peel and Stick Wallpaper Vintage Floral Contact  Paper for Cabinets Drawers Liner Boho Contact Paper Dark Green Leaf Flower  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/SHBC163_5x7.jpg?v=1613409964&width=720' alt='Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/SHBC163_5x7.jpg?v=1613409964&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flower Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-pink-rose-floral-background-illustration-remix-from-artworks-by-l-prang-co_53876-112691.jpg' alt='Vintage Flower Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-pink-rose-floral-background-illustration-remix-from-artworks-by-l-prang-co_53876-112691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flora">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' alt='Victorian Flora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0481_1s_Victorian-Flora-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_acbd0579-a3dd-4744-81f1-def87d1912b3.jpg?v=1734717992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper • Antique Asian Design • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' alt='Vintage Floral Wallpaper • Antique Asian Design • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/01/MO016-Vintage-Floral-Classic-Blue-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/SKU_TH081.2.jpg?v=1537902549' alt='1970s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/SKU_TH081.2.jpg?v=1537902549' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

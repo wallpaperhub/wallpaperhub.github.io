@@ -1,0 +1,129 @@
+<title>Understanding Civics History: A Journey Through Citizenship</title>
+                    <meta name="description" content="Dive into civics history and discover the evolution of citizenship and governance. Learn how democratic principles shaped societies and the vital role of active participation in democracy. Enhance your understanding of civic duties and rights for an informed citizenship today!">
+                    <meta name="keywords" content="civics history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/civics-history">
+                            <span itemprop="name">civics history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Civics History: A Journey Through Citizenship</h1>
+                <p>Civics history explores the evolution of citizenship, governance, and civic duties through time. It traces the development of democratic principles and legal frameworks that shape societies today. Understanding civics history is crucial for fostering informed and active citizenship in modern democracies, ensuring individuals recognize their rights and responsibilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bipartisan Civics and History Guidelines Get a Dose of Federal Funding">
+                                <img itemprop="contentUrl url" src='https://epe.brightspotcdn.com/dims4/default/862fc17/2147483647/strip/true/crop/1970x1337+15+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F55%2F45%2F8d9a496640c7aa753e8ebe1ed4e1%2Famerican-democracy-roadmap-092023-1310021544.jpg' alt='Bipartisan Civics and History Guidelines Get a Dose of Federal Funding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Education Week" />
+                                </span>
+                                <a href='https://epe.brightspotcdn.com/dims4/default/862fc17/2147483647/strip/true/crop/1970x1337+15+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F55%2F45%2F8d9a496640c7aa753e8ebe1ed4e1%2Famerican-democracy-roadmap-092023-1310021544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A history lesson in civics - CIVITAS-STL">
+                                <img itemprop="contentUrl url" src='https://civitas-stl.com/wp-content/uploads/2019/07/founding-daddies-789x445.png' alt='A history lesson in civics - CIVITAS-STL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="civitas-stl" />
+                                </span>
+                                <a href='https://civitas-stl.com/wp-content/uploads/2019/07/founding-daddies-789x445.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6.15 Civics, history and geography: How do kids learn about their ...">
+                                <img itemprop="contentUrl url" src='https://ed100.org/uploads/images/shares/covers/civics-california.jpg' alt='6.15 Civics, history and geography: How do kids learn about their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ED100" />
+                                </span>
+                                <a href='https://ed100.org/uploads/images/shares/covers/civics-california.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learning Civics from History – James Hankins">
+                                <img itemprop="contentUrl url" src='https://lawliberty.org/app/uploads/2024/09/Civics-Forum-2-1060x530.png' alt='Learning Civics from History – James Hankins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law & Liberty" />
+                                </span>
+                                <a href='https://lawliberty.org/app/uploads/2024/09/Civics-Forum-2-1060x530.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American History - Founding Principles, Civics and Economics - Home">
+                                <img itemprop="contentUrl url" src='https://gasiorowskicivicsandeconomics.weebly.com/uploads/6/0/9/9/60996043/header_images/1442525046.jpg' alt='American History - Founding Principles, Civics and Economics - Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weebly" />
+                                </span>
+                                <a href='https://gasiorowskicivicsandeconomics.weebly.com/uploads/6/0/9/9/60996043/header_images/1442525046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New National Civics Guidelines Carve a Middle Path for Teachers in ...">
+                                <img itemprop="contentUrl url" src='https://epe.brightspotcdn.com/e1/26/4b865d244df4af77b92feeb2e3e0/we-the-people-constitution-022021-93490246.jpg' alt='New National Civics Guidelines Carve a Middle Path for Teachers in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Education Week" />
+                                </span>
+                                <a href='https://epe.brightspotcdn.com/e1/26/4b865d244df4af77b92feeb2e3e0/we-the-people-constitution-022021-93490246.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civics and Economics in U.S. History: CKHG Student Reader">
+                                <img itemprop="contentUrl url" src='https://www.coreknowledge.org/wp-content/uploads/2023/09/CKHG_G7_USHistory_SR_CE_CoverImage.jpg' alt='Civics and Economics in U.S. History: CKHG Student Reader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Core Knowledge Foundation" />
+                                </span>
+                                <a href='https://www.coreknowledge.org/wp-content/uploads/2023/09/CKHG_G7_USHistory_SR_CE_CoverImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Difference between History and Civics & Their Comparisons">
+                                <img itemprop="contentUrl url" src='https://cdn1.byjus.com/wp-content/uploads/2020/06/Difference-Between-History-and-Civics-700x525.jpg' alt='Difference between History and Civics & Their Comparisons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BYJU'S" />
+                                </span>
+                                <a href='https://cdn1.byjus.com/wp-content/uploads/2020/06/Difference-Between-History-and-Civics-700x525.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civic engagement keeps citizens well versed on how our government ...">
+                                <img itemprop="contentUrl url" src='https://www.lowellsun.com/wp-content/uploads/2019/10/sen-l-civics.jpg?w=1800&resize=1800,1800' alt='Civic engagement keeps citizens well versed on how our government ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowell Sun" />
+                                </span>
+                                <a href='https://www.lowellsun.com/wp-content/uploads/2019/10/sen-l-civics.jpg?w=1800&resize=1800,1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lesson Plan from Cyberlearning World by George Cassutto: Civics vs ...">
+                                <img itemprop="contentUrl url" src='https://www.cyberlearning-world.com/lessons/lp_civ1.jpg' alt='Lesson Plan from Cyberlearning World by George Cassutto: Civics vs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cyberlearning World" />
+                                </span>
+                                <a href='https://www.cyberlearning-world.com/lessons/lp_civ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

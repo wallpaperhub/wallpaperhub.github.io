@@ -1,0 +1,129 @@
+<title>Stunning Arsenal Wallpapers for Your Desktop</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="desktop:qvhgjyxdkge= arsenal wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktopqvhgjyxdkge-arsenal-wallpaper">
+                            <span itemprop="name">desktop:qvhgjyxdkge= arsenal wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Arsenal Wallpapers for Your Desktop</h1>
+                <p>Elevate your desktop experience with stunning Arsenal wallpapers! Discover a variety of high-resolution images that showcase your favorite players, moments, and the iconic team logo. Whether you're a die-hard supporter or just love the aesthetics, find the perfect Arsenal wallpaper to personalize your computer today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_light.png' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_light.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_1.png' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_3.png' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080.jpg' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARSENAL FC WALLPAPER- HD by nirmalyabasu5 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20504dbd-53c9-4f8d-8a25-bf1b2e0e9498/d75ap3x-f58a6efc-2235-4700-954e-7b74f3cea668.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwNTA0ZGJkLTUzYzktNGY4ZC04YTI1LWJmMWIyZTBlOTQ5OFwvZDc1YXAzeC1mNThhNmVmYy0yMjM1LTQ3MDAtOTU0ZS03Yjc0ZjNjZWE2NjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k-NIbi2cWBAkLqpbbPIRJkbP59oOQL-7sHNuP5UsUeE' alt='ARSENAL FC WALLPAPER- HD by nirmalyabasu5 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20504dbd-53c9-4f8d-8a25-bf1b2e0e9498/d75ap3x-f58a6efc-2235-4700-954e-7b74f3cea668.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwNTA0ZGJkLTUzYzktNGY4ZC04YTI1LWJmMWIyZTBlOTQ5OFwvZDc1YXAzeC1mNThhNmVmYy0yMjM1LTQ3MDAtOTU0ZS03Yjc0ZjNjZWE2NjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k-NIbi2cWBAkLqpbbPIRJkbP59oOQL-7sHNuP5UsUeE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Arsenal Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/arsenal-wqxzw66oyg1tun7k.jpg' alt='200+] Arsenal Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/arsenal-wqxzw66oyg1tun7k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal FC Desktop Wallpaper by HassanGFX7 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94731c10-d709-4209-89cb-8ecf2e31f1bb/db0cvmx-7a7d0b52-c1e8-454e-9b77-9dfe29673bbc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0NzMxYzEwLWQ3MDktNDIwOS04OWNiLThlY2YyZTMxZjFiYlwvZGIwY3ZteC03YTdkMGI1Mi1jMWU4LTQ1NGUtOWI3Ny05ZGZlMjk2NzNiYmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zU2SpDgun7bYGfwmatrQhgoSxsdyo5pp2lNmaAtv79Q' alt='Arsenal FC Desktop Wallpaper by HassanGFX7 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94731c10-d709-4209-89cb-8ecf2e31f1bb/db0cvmx-7a7d0b52-c1e8-454e-9b77-9dfe29673bbc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0NzMxYzEwLWQ3MDktNDIwOS04OWNiLThlY2YyZTMxZjFiYlwvZGIwY3ZteC03YTdkMGI1Mi1jMWU4LTQ1NGUtOWI3Ny05ZGZlMjk2NzNiYmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zU2SpDgun7bYGfwmatrQhgoSxsdyo5pp2lNmaAtv79Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_0.png' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/wallpaper_1920x1080_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Arsenal.com">
+                                <img itemprop="contentUrl url" src='https://www.arsenal.com/sites/default/files/wallpaper/1366x768_wallpaper_21.jpg' alt='Wallpapers | Arsenal.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arsenal.com" />
+                                </span>
+                                <a href='https://www.arsenal.com/sites/default/files/wallpaper/1366x768_wallpaper_21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsenal Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/46/b0/7c46b0e5a4158159a43d3db0a1288369.jpg' alt='Arsenal Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/46/b0/7c46b0e5a4158159a43d3db0a1288369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

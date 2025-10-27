@@ -1,0 +1,129 @@
+<title>Anime Cat Wallpapers for Your Phone: Purrfect Designs</title>
+                    <meta name="description" content="Discover a collection of vibrant anime cat wallpapers for your phone! Immerse yourself in delightful designs that showcase adorable feline characters, perfect for any cat lover. Elevate your mobile aesthetic with stunning, high-quality images that bring joy and personality to your device.">
+                    <meta name="keywords" content="anime cat wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/anime-cat-wallpaper-phone">
+                            <span itemprop="name">anime cat wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anime Cat Wallpapers for Your Phone: Purrfect Designs</h1>
+                <p>Transform your phone with stunning anime cat wallpapers! Dive into a world of adorable kittens and whimsical characters brought to life through vibrant art. Perfect for cat lovers and anime fans, these wallpapers add a touch of charm to your device. Choose your favorite feline design and express your personality today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cat wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/93/8a/24938a56e8d5a0fed7e5520d3d2103c6.jpg' alt='cat wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/93/8a/24938a56e8d5a0fed7e5520d3d2103c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="apofiss cats - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/13/a6/4c/13a64cfddc35416c7cb2c58922f51531.jpg' alt='apofiss cats - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/13/a6/4c/13a64cfddc35416c7cb2c58922f51531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Anime Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11155241.jpg' alt='Cat Anime Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11155241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable cat phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFY18T-DFU/2/0/900w/canva-orange-and-white-illustration-meow-phone-wallpaper-HBGil5mWd8I.jpg' alt='Free customizable cat phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFY18T-DFU/2/0/900w/canva-orange-and-white-illustration-meow-phone-wallpaper-HBGil5mWd8I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lindos Gatitos">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/9a/c6/d2/9ac6d2b8a4e54e9f1fb5578e1dd8ea97.jpg' alt='Lindos Gatitos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/9a/c6/d2/9ac6d2b8a4e54e9f1fb5578e1dd8ea97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Cat and Background on PicGaGa, Aesthetic Anime Cat, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/795/228/HD-wallpaper-anime-cat-and-background-on-picgaga-aesthetic-anime-cat.jpg' alt='Anime Cat and Background on PicGaGa, Aesthetic Anime Cat, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/795/228/HD-wallpaper-anime-cat-and-background-on-picgaga-aesthetic-anime-cat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Cat, Aesthetic Anime Cat, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/793/127/HD-wallpaper-purple-cat-aesthetic-anime-cat.jpg' alt='Purple Cat, Aesthetic Anime Cat, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/793/127/HD-wallpaper-purple-cat-aesthetic-anime-cat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Top Anime Cat Phone Wallpaper Bundle, iPhone Kawaii Cute Cat ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43280815/r/il/3d64a2/5126844361/il_570xN.5126844361_7lzt.jpg' alt='4K Top Anime Cat Phone Wallpaper Bundle, iPhone Kawaii Cute Cat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43280815/r/il/3d64a2/5126844361/il_570xN.5126844361_7lzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Anime Cat Silhoiuette Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-anime-cat-h46y8xwq0bua76qe.jpg' alt='Download Kawaii Anime Cat Silhoiuette Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-anime-cat-h46y8xwq0bua76qe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossom Nap: HD Anime Cat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/811/811587.png' alt='Cherry Blossom Nap: HD Anime Cat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/811/811587.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

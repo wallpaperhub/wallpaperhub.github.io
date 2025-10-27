@@ -1,0 +1,129 @@
+<title>Discover the Allure of Classic Diners: A Nostalgic Journey</title>
+                    <meta name="description" content="Explore the vibrant world of diners, where classic comfort food meets nostalgic charm. Uncover their unique history, iconic designs, and the welcoming atmosphere that keeps customers coming back for more. Join us in celebrating these beloved eateries!">
+                    <meta name="keywords" content="diner background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diner-background">
+                            <span itemprop="name">diner background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Allure of Classic Diners: A Nostalgic Journey</h1>
+                <p>Diners have a rich history, originating in the 1920s as food trucks serving late-night workers. Their retro charm features booth seating, neon signs, and a menu filled with comfort food classics like burgers, fries, and milkshakes. Diners represent community gathering spots, offering a nostalgic atmosphere and warm service.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 10x8ft Fabric Retro 50s Diner Backdrop for Photography Classic 1950s  Fast Food Soda Shop Restaurant Bar Stools Wine Shelf Neon Dining ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71aj5SIBOqL.jpg' alt='BELECO 10x8ft Fabric Retro 50s Diner Backdrop for Photography Classic 1950s  Fast Food Soda Shop Restaurant Bar Stools Wine Shelf Neon Dining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71aj5SIBOqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Diner Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1555992336-03a23c7b20ee?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmV0cm8lMjBkaW5lcnxlbnwwfHwwfHx8MA%3D%3D' alt='Retro Diner Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1555992336-03a23c7b20ee?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmV0cm8lMjBkaW5lcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 15x10ft American Restaurant Backdrop Retro ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81DlCZ+sDLL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : CHNYWORK 15x10ft American Restaurant Backdrop Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81DlCZ+sDLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="diner background - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/1d/ee/6e1deeeecf78cab33d5f0d24151e31c2.jpg' alt='diner background - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/1d/ee/6e1deeeecf78cab33d5f0d24151e31c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Diner Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/725/833/non_2x/classic-american-1950s-style-diner-showcasing-red-booths-checkerboard-floor-and-neon-lights-during-daytime-evoking-nostalgic-vibes-photo.jpg' alt='American Diner Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/725/833/non_2x/classic-american-1950s-style-diner-showcasing-red-booths-checkerboard-floor-and-neon-lights-during-daytime-evoking-nostalgic-vibes-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diner Background: Over 62,442 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/retro-cafe-american-diner-interior-600nw-2231488967.jpg' alt='Diner Background: Over 62,442 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/retro-cafe-american-diner-interior-600nw-2231488967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 5x3ft American Restaurant Backdrop Retro 50s Diner  Classic 1950s Bar Stools Checkerboard Floor Local Diner Background 50s ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/719AfRL5k+L.jpg' alt='Amazon.com : CHNYWORK 5x3ft American Restaurant Backdrop Retro 50s Diner  Classic 1950s Bar Stools Checkerboard Floor Local Diner Background 50s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/719AfRL5k+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White 50s Diner Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/red-and-white-50s-diner-2sv8sohxzasettcv.jpg' alt='Red And White 50s Diner Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/red-and-white-50s-diner-2sv8sohxzasettcv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950's American Diner in Florence, no really! - Girl in Florence">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/b6/73/9ab6730190885d5479ccb036cccc953b.jpg' alt='1950's American Diner in Florence, no really! - Girl in Florence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/b6/73/9ab6730190885d5479ccb036cccc953b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950S Diner Background Images – Browse 1,278 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/72/26/84/360_F_972268499_5NhCXrdSByZkhdwHjLvYA596YshraS1R.jpg' alt='1950S Diner Background Images – Browse 1,278 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/72/26/84/360_F_972268499_5NhCXrdSByZkhdwHjLvYA596YshraS1R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

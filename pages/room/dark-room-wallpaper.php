@@ -1,0 +1,129 @@
+<title>Stylish Dark Room Wallpaper: Elevate Your Space Today</title>
+                    <meta name="description" content="Explore stunning dark room wallpaper to redefine your interiors. Choose from rich colors and beautiful patterns that create a cozy, mysterious ambiance. Perfect for adding depth and personality to your space. Discover designs that impress and inspire! Ideal for any mobile browsing experience.">
+                    <meta name="keywords" content="dark room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/dark-room-wallpaper">
+                            <span itemprop="name">dark room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Dark Room Wallpaper: Elevate Your Space Today</h1>
+                <p>Transform your space with dark room wallpaper that exudes mystery and elegance. Perfect for creating a cozy atmosphere, these wallpapers come in a variety of designs, from deep florals to dramatic textures. Elevate your interiors with the rich hues and intriguing patterns that dark room wallpaper offers, making every wall a captivating statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/696407/pexels-photo-696407.jpeg?cs=srgb&dl=pexels-marcelo-jaboo-219257-696407.jpg&fm=jpg' alt='Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/696407/pexels-photo-696407.jpeg?cs=srgb&dl=pexels-marcelo-jaboo-219257-696407.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/162389/lost-places-old-decay-ruin-162389.jpeg?cs=srgb&dl=pexels-pixabay-162389.jpg&fm=jpg' alt='Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4470">
+                                <meta itemprop="height" content="2980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/162389/lost-places-old-decay-ruin-162389.jpeg?cs=srgb&dl=pexels-pixabay-162389.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1616163527093-41acfce459ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHJvb218ZW58MHx8MHx8fDA%3D' alt='Dark Room Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1616163527093-41acfce459ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHJvb218ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1874636/pexels-photo-1874636.jpeg?cs=srgb&dl=pexels-anthony-macajone-874129-1874636.jpg&fm=jpg' alt='Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="5600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1874636/pexels-photo-1874636.jpeg?cs=srgb&dl=pexels-anthony-macajone-874129-1874636.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1643280/pexels-photo-1643280.jpeg?cs=srgb&dl=pexels-dorran-737683-1643280.jpg&fm=jpg' alt='Dark Room Photos, Download The BEST Free Dark Room Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1643280/pexels-photo-1643280.jpeg?cs=srgb&dl=pexels-dorran-737683-1643280.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Room Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511406361295-0a1ff814c0ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMHJvb218ZW58MHx8MHx8fDA%3D' alt='Dark Room Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511406361295-0a1ff814c0ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMHJvb218ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Room Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/549/549940.jpg' alt='Download Dark Room Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/549/549940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark - Room Wallpapers and Backgrounds ID : 382904. 2560x1600 Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/27/66/782766fccd7c1d6327b296395aae00ff.jpg' alt='Dark - Room Wallpapers and Backgrounds ID : 382904. 2560x1600 Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/27/66/782766fccd7c1d6327b296395aae00ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Cibdy on °『aesthetic 』° | Black aesthetic wallpaper, 18th ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/e4/91/cfe491adedafeb3681093528822754a9.jpg' alt='Pin by Cibdy on °『aesthetic 』° | Black aesthetic wallpaper, 18th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/e4/91/cfe491adedafeb3681093528822754a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Dark Bedroom Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1596557872750-7f1a5dd9e464?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGFyayUyMGJlZHJvb218ZW58MHx8MHx8fDA%3D' alt='1K+ Dark Bedroom Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1596557872750-7f1a5dd9e464?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGFyayUyMGJlZHJvb218ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

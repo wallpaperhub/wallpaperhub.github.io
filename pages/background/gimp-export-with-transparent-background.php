@@ -1,0 +1,129 @@
+<title>How to Export Images with Transparent Background in GIMP</title>
+                    <meta name="description" content="Learn how to easily export images with a transparent background using GIMP. Follow our step-by-step guide to preserve transparency and enhance your design projects. Perfect for beginners and pros alike, our tips streamline your workflow.">
+                    <meta name="keywords" content="gimp export with transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gimp-export-with-transparent-background">
+                            <span itemprop="name">gimp export with transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Export Images with Transparent Background in GIMP</h1>
+                <p>To export images with a transparent background in GIMP, first, ensure your image has an alpha channel by navigating to Layer > Transparency > Add Alpha Channel. Delete the background layer or use the eraser tool. Finally, go to File > Export As, choose a PNG format, and confirm the box for 'Save color values from transparent pixels'. This retains transparency.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Background Transparent in Gimp A developer's notes">
+                                <img itemprop="contentUrl url" src='https://sirarsalih.com/public/img/gimp_1.png' alt='How to Make Background Transparent in Gimp A developer's notes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1033">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sirar Salih" />
+                                </span>
+                                <a href='https://sirarsalih.com/public/img/gimp_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Save Images as PNGs in GIMP">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/JcUOO-bul9Y-LuznM0ITeSlnw84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/004-saving-images-as-pngs-in-gimp-1701725-58c6ff866629493095f1b62f512f50b3.jpg' alt='How to Save Images as PNGs in GIMP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/JcUOO-bul9Y-LuznM0ITeSlnw84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/004-saving-images-as-pngs-in-gimp-1701725-58c6ff866629493095f1b62f512f50b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to export a transparent png - GIMP - discuss.pixls.us">
+                                <img itemprop="contentUrl url" src='https://d2x313g9lpht1q.cloudfront.net/original/3X/1/f/1f748c577e0fe0466c76d0b659a591e50a5eb787.jpeg' alt='How to export a transparent png - GIMP - discuss.pixls.us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="943">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="discuss.pixls.us" />
+                                </span>
+                                <a href='https://d2x313g9lpht1q.cloudfront.net/original/3X/1/f/1f748c577e0fe0466c76d0b659a591e50a5eb787.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to export a transparent png - GIMP - discuss.pixls.us">
+                                <img itemprop="contentUrl url" src='https://d2x313g9lpht1q.cloudfront.net/original/3X/9/6/9646fbf552925fd1a7b9c21b7c7df93cf88ac9e2.png' alt='How to export a transparent png - GIMP - discuss.pixls.us'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="discuss.pixls.us" />
+                                </span>
+                                <a href='https://d2x313g9lpht1q.cloudfront.net/original/3X/9/6/9646fbf552925fd1a7b9c21b7c7df93cf88ac9e2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Background Transparent in Gimp A developer's notes">
+                                <img itemprop="contentUrl url" src='https://sirarsalih.com/public/img/gimp_5.png' alt='How to Make Background Transparent in Gimp A developer's notes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sirar Salih" />
+                                </span>
+                                <a href='https://sirarsalih.com/public/img/gimp_5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Save an Image with a Transparent Background in Gimp">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/c_iWJ6-MSdo/maxresdefault.jpg' alt='How to Save an Image with a Transparent Background in Gimp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/c_iWJ6-MSdo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Transparent Image Using Gimp (with Pictures)">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/d/db/Make-a-Transparent-Image-Using-Gimp-Step-23.jpg' alt='How to Make a Transparent Image Using Gimp (with Pictures)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3203">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/d/db/Make-a-Transparent-Image-Using-Gimp-Step-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make a background transparent in GIMP | Photoroom">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/191576/1919x1005/571914147f/export.webp' alt='How to make a background transparent in GIMP | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/191576/1919x1005/571914147f/export.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gimp How To Export With Transparent Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RvSNwT2bjyA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAC3Sgi96CEbhKMcULKH7_tx2uSPw' alt='Gimp How To Export With Transparent Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RvSNwT2bjyA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAC3Sgi96CEbhKMcULKH7_tx2uSPw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Transparent Background in GIMP">
+                                <img itemprop="contentUrl url" src='https://itsfoss.com/content/images/wordpress/2020/06/add-alpha-channel.png' alt='How to Make a Transparent Background in GIMP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="It's FOSS" />
+                                </span>
+                                <a href='https://itsfoss.com/content/images/wordpress/2020/06/add-alpha-channel.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

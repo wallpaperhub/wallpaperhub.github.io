@@ -1,0 +1,129 @@
+<title>Earth Tone iPhone Wallpapers: Nature's Serenity on Your Screen</title>
+                    <meta name="description" content="Discover serene earth tone iPhone wallpapers that enhance your device’s aesthetic. Featuring natural, calming colors, these wallpapers are perfect for anyone seeking a tranquil vibe. Transform your home screen with the beauty of nature—simple, soothing, and beautifully designed for your lifestyle.">
+                    <meta name="keywords" content="earth tone iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/earth-tone-iphone-wallpaper">
+                            <span itemprop="name">earth tone iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Earth Tone iPhone Wallpapers: Nature's Serenity on Your Screen</h1>
+                <p>Earth tone iPhone wallpapers provide a calming and earthy aesthetic for your device. These wallpapers, featuring natural hues like browns, greens, and muted blues, evoke a sense of tranquility. Perfect for nature lovers, they beautifully complement any iPhone home screen, bringing a touch of the outdoors right to your fingertips.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Wallpaper, Earth Tones, Neutral Tones. Royalty ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/10/21/07/45/minimalist-wallpaper-6728248_1280.jpg' alt='Download Minimalist Wallpaper, Earth Tones, Neutral Tones. Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/10/21/07/45/minimalist-wallpaper-6728248_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Wallpaper Iphone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NjMtYmctMDAzYy14LmpwZw.jpg' alt='Earth Tone Wallpaper Iphone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NjMtYmctMDAzYy14LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Earth tone abstract print background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/64/2d/8e/642d8e859f36f971202ccbd8a8f54e77.jpg' alt='Download premium vector of Earth tone abstract print background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/64/2d/8e/642d8e859f36f971202ccbd8a8f54e77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Wallpaper Iphone Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3RwMTg0LWJhY2tncm91bmQtMjUuanBn.jpg' alt='Earth Tone Wallpaper Iphone Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3RwMTg0LWJhY2tncm91bmQtMjUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | Simple iphone wallpaper, Iphone wallpaper rock, Earth ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/49/3a/17493aa8f163bcc45403487006a73660.jpg' alt='Wallpaper | Simple iphone wallpaper, Iphone wallpaper rock, Earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/49/3a/17493aa8f163bcc45403487006a73660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Wallpaper Iphone Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-earth-tone-memphis-mobile-phone-wallpaper-vector_53876-144352.jpg' alt='Earth Tone Wallpaper Iphone Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-earth-tone-memphis-mobile-phone-wallpaper-vector_53876-144352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Wallpaper Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-earth-tone-papercut-wallpaper-image_779902.jpg' alt='Earth Tone Wallpaper Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-earth-tone-papercut-wallpaper-image_779902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An abstract picture of Earth Tones colors Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-tones-1200-x-2133-8za6uss4c3mtr1o9.jpg' alt='Download An abstract picture of Earth Tones colors Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-tones-1200-x-2133-8za6uss4c3mtr1o9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD earth-toned wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/627/303/HD-wallpaper-abstract-neutral-earth-tone-background-adj-abstract-background-plain-iphone-aesthetic-iphone-thumbnail.jpg' alt='HD earth-toned wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/627/303/HD-wallpaper-abstract-neutral-earth-tone-background-adj-abstract-background-plain-iphone-aesthetic-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Wallpaper Iphone Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-earth-tone-memphis-mobile-phone-wallpaper_53876-114368.jpg' alt='Earth Tone Wallpaper Iphone Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-earth-tone-memphis-mobile-phone-wallpaper_53876-114368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

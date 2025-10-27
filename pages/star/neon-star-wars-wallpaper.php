@@ -1,0 +1,129 @@
+<title>Neon Star Wars Wallpaper: Illuminate Your Space!</title>
+                    <meta name="description" content="Discover vibrant neon Star Wars wallpaper that adds a cosmic touch to your decor. Perfect for fans, our unique designs captivate with iconic characters and stunning colors. Transform your room into a galactic adventure and express your love for the saga today!">
+                    <meta name="keywords" content="neon star wars wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/neon-star-wars-wallpaper">
+                            <span itemprop="name">neon star wars wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Neon Star Wars Wallpaper: Illuminate Your Space!</h1>
+                <p>Elevate your space with stunning neon Star Wars wallpaper that brings the galaxy to life! Featuring vibrant colors and iconic characters, these wallpapers transform any room into a cosmic adventure. Perfect for fans and gamers alike, they provide a unique backdrop that inspires imagination and energy. Explore the Force in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon StarWars Wallpaper [3840 x 2160] : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fjsz8h2q8yv41.jpg' alt='Neon StarWars Wallpaper [3840 x 2160] : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fjsz8h2q8yv41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An imperial neon wallpaper I made [3840 x 2160] : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1yunymew9eq41.jpg' alt='An imperial neon wallpaper I made [3840 x 2160] : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1yunymew9eq41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Star Wars Darth Vader digital wallpaper, artwork ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/22/e4/e422e4429e3cd2edab78fdabded7be60.jpg' alt='HD wallpaper: Star Wars Darth Vader digital wallpaper, artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/22/e4/e422e4429e3cd2edab78fdabded7be60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jedi order neon wallpaper by me [3840 x 2160] : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tbhydlvij4r41.jpg' alt='Jedi order neon wallpaper by me [3840 x 2160] : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tbhydlvij4r41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stormtrooper Wallpaper 4K, Star Wars, Neon">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/stormtrooper-star-wars-neon-2048x2048-1491.jpg' alt='Stormtrooper Wallpaper 4K, Star Wars, Neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/stormtrooper-star-wars-neon-2048x2048-1491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD star wars neon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/489/218/HD-wallpaper-r2-d2-star-wars-neon-r2-r2d2.jpg' alt='HD star wars neon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/489/218/HD-wallpaper-r2-d2-star-wars-neon-r2-r2d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars logo in neon blue light  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/b6/9f/4eb69f0ab8ac524347cf0e0a734db5cd.jpg' alt='Star Wars logo in neon blue light  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/b6/9f/4eb69f0ab8ac524347cf0e0a734db5cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper star wars, neon, boba fett, dark, art desktop wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1024x768/1843f2/star-wars-neon-boba-fett-art.jpg' alt='Wallpaper star wars, neon, boba fett, dark, art desktop wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1024x768/1843f2/star-wars-neon-boba-fett-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon First Order Stormtrooper Wallpaper [3840 x 2160] Special ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1hxrowyjskt41.jpg' alt='Neon First Order Stormtrooper Wallpaper [3840 x 2160] Special ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1hxrowyjskt41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stormtrooper helmet - Star Wars wallpaper - Movie wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/movies/neon-stormtrooper-helmet-star-wars-52394-400x250.jpg' alt='Neon Stormtrooper helmet - Star Wars wallpaper - Movie wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/movies/neon-stormtrooper-helmet-star-wars-52394-400x250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

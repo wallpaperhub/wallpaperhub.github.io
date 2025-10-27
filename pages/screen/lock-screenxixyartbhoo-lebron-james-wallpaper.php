@@ -1,0 +1,129 @@
+<title>LeBron James Lock Screen Wallpapers: Elevate Your Device</title>
+                    <meta name="description" content="Discover captivating LeBron James wallpapers for your lock screen! Perfect for fans and sports lovers alike, these high-quality designs will bring your device to life with iconic imagery of the basketball superstar. Download now and showcase your love for the game, making each unlock a slam dunk!">
+                    <meta name="keywords" content="lock screen:xixyartbhoo= lebron james wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screenxixyartbhoo-lebron-james-wallpaper">
+                            <span itemprop="name">lock screen:xixyartbhoo= lebron james wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LeBron James Lock Screen Wallpapers: Elevate Your Device</h1>
+                <p>Transform your lock screen with stunning LeBron James wallpapers! Featuring vibrant colors and dynamic designs, our collection showcases the basketball legend in action. Whether you're a die-hard fan of the King or just appreciate incredible sports art, these wallpapers will elevate your device and keep you inspired each time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 LeBron James (Los Angeles Lakers) iPhone X/XS/XR Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6f/7a/f4/6f7af41f2cd4ec33c449672ade1a44fe.jpg' alt='23 LeBron James (Los Angeles Lakers) iPhone X/XS/XR Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6f/7a/f4/6f7af41f2cd4ec33c449672ade1a44fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thank you LeBron for the win, and my new Lock Screen. : r/lakers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wigh8c9ha0wa1.jpg' alt='Thank you LeBron for the win, and my new Lock Screen. : r/lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wigh8c9ha0wa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LEBRON JAMES Wallpaper | Lebron james lakers, Lebron james ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/8b/61/568b61800b9db062f4c6a1cdfc0d5491.jpg' alt='LEBRON JAMES Wallpaper | Lebron james lakers, Lebron james ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/8b/61/568b61800b9db062f4c6a1cdfc0d5491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lebron James Lakers Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/57/37/dc/5737dc8693fa383d0b41d4f3bd207191.jpg' alt='Lebron James Lakers Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/57/37/dc/5737dc8693fa383d0b41d4f3bd207191.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron James Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/50/ea/dc50ea9ca73b24e1d1dcc6489eca9bab.jpg' alt='LeBron James Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/50/ea/dc50ea9ca73b24e1d1dcc6489eca9bab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/f9/0f/57f90f674d63be7bf9712b59375c1041.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/f9/0f/57f90f674d63be7bf9712b59375c1041.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lebron James Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/ec/72/32ec72d1ec6a51b95994a675a80f81a4.jpg' alt='Lebron James Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/ec/72/32ec72d1ec6a51b95994a675a80f81a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron James Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/7b/96/567b9685ff1cfe4f8e2301032f334ccf.jpg' alt='LeBron James Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/7b/96/567b9685ff1cfe4f8e2301032f334ccf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lebron James       Wallpaper LA Lakers      NBA Basketball Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/a0/93/dba093f0a67b32fa97cac58f97d7357c.jpg' alt='Lebron James       Wallpaper LA Lakers      NBA Basketball Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/a0/93/dba093f0a67b32fa97cac58f97d7357c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lebron James Showing Off His Iconic Hand Sign Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lebron-james-showing-off-his-iconic-hand-sign-0gwybz0hbulqdlkx.jpg' alt='Lebron James Showing Off His Iconic Hand Sign Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lebron-james-showing-off-his-iconic-hand-sign-0gwybz0hbulqdlkx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

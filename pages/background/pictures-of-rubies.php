@@ -1,0 +1,129 @@
+<title>Stunning Ruby Pictures: The Beauty & Brilliance of Red Gemstones</title>
+                    <meta name="description" content="Explore stunning pictures of rubies that capture their rich colors and sparkling clarity. Discover the allure of this precious gemstone and find inspiration for jewelry and gifts that reflect love and passion. Perfect for gem enthusiasts and collectors alike!">
+                    <meta name="keywords" content="pictures of rubies">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-rubies">
+                            <span itemprop="name">pictures of rubies</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ruby Pictures: The Beauty & Brilliance of Red Gemstones</h1>
+                <p>Rubies, with their deep red hues and exquisite brilliance, are often considered the king of gemstones. Captivating in every aspect, pictures of rubies showcase their striking colors, clarity, and unique cuts, ranging from traditional oval to modern heart shapes. A true symbol of love and passion, rubies are perfect for jewelry enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of rubies by size - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Corundum-winza-17d.jpg/220px-Corundum-winza-17d.jpg' alt='List of rubies by size - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Corundum-winza-17d.jpg/220px-Corundum-winza-17d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/176982445/photo/ruby-xl.jpg?s=612x612&w=0&k=20&c=XjNZgXXR6ipGOVkSsV7UNnBbEaD48VbkB3wyKg-ArAk=' alt='51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/176982445/photo/ruby-xl.jpg?s=612x612&w=0&k=20&c=XjNZgXXR6ipGOVkSsV7UNnBbEaD48VbkB3wyKg-ArAk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/911006430/photo/closeup-of-a-bunch-of-red-rough-uncut-ruby-crystals.jpg?s=612x612&w=0&k=20&c=fLW9b05-3WR6YRd2H_mwmHhQaURSs0PsygdUE_fg2KM=' alt='51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/911006430/photo/closeup-of-a-bunch-of-red-rough-uncut-ruby-crystals.jpg?s=612x612&w=0&k=20&c=fLW9b05-3WR6YRd2H_mwmHhQaURSs0PsygdUE_fg2KM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/673968342/photo/ruby.jpg?s=612x612&w=0&k=20&c=NCvUeqFJLllvDSPa6u_mOB9uiqJdMmxdbkJCvpDk06E=' alt='51,900+ Rubies Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/673968342/photo/ruby.jpg?s=612x612&w=0&k=20&c=NCvUeqFJLllvDSPa6u_mOB9uiqJdMmxdbkJCvpDk06E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where & How Are Rubies Formed?">
+                                <img itemprop="contentUrl url" src='https://www.angara.com/blog/wp-content/uploads/2023/08/Know-How-Are-Rubies-Formed-840x438.jpg' alt='Where & How Are Rubies Formed?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angara" />
+                                </span>
+                                <a href='https://www.angara.com/blog/wp-content/uploads/2023/08/Know-How-Are-Rubies-Formed-840x438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are Heat Treated Rubies? – Vintage Tom Antique Jewellery">
+                                <img itemprop="contentUrl url" src='https://vintagetom.co.uk/cdn/shop/articles/ruby_942db7ac-c874-4084-9eef-31e1dff7ec30.jpg?v=1738689813&width=1400' alt='What Are Heat Treated Rubies? – Vintage Tom Antique Jewellery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Tom" />
+                                </span>
+                                <a href='https://vintagetom.co.uk/cdn/shop/articles/ruby_942db7ac-c874-4084-9eef-31e1dff7ec30.jpg?v=1738689813&width=1400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="208 Rough Ruby Stock Photos, High-Res Pictures, and Images - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1031084300/photo/a-worker-examines-a-large-ruby.jpg?s=612x612&w=gi&k=20&c=5FM0RElOGQBVltEJTrPaMqgFAv9DtceWzmZWvv_35zQ=' alt='208 Rough Ruby Stock Photos, High-Res Pictures, and Images - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1031084300/photo/a-worker-examines-a-large-ruby.jpg?s=612x612&w=gi&k=20&c=5FM0RElOGQBVltEJTrPaMqgFAv9DtceWzmZWvv_35zQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unveiling the Mystery: How Are Lab-Grown Rubies Made">
+                                <img itemprop="contentUrl url" src='https://www.angara.com/blog/wp-content/uploads/2024/06/How-Are-Lab-Grown-Rubies-Made.jpg' alt='Unveiling the Mystery: How Are Lab-Grown Rubies Made'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Angara" />
+                                </span>
+                                <a href='https://www.angara.com/blog/wp-content/uploads/2024/06/How-Are-Lab-Grown-Rubies-Made.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ravishing. Red. Rubies. - Happenings Magazine">
+                                <img itemprop="contentUrl url" src='https://www.happeningsmagazinepa.com/wp-content/uploads/2023/06/581907195-Rubies.jpg' alt='Ravishing. Red. Rubies. - Happenings Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happenings Magazine" />
+                                </span>
+                                <a href='https://www.happeningsmagazinepa.com/wp-content/uploads/2023/06/581907195-Rubies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubies Are Red-Hot Right Now – and Expensive">
+                                <img itemprop="contentUrl url" src='https://rapaport.com/wp-content/uploads/2024/10/1280x720-Colored-gem-main-20241008071932.jpg' alt='Rubies Are Red-Hot Right Now – and Expensive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rapaport" />
+                                </span>
+                                <a href='https://rapaport.com/wp-content/uploads/2024/10/1280x720-Colored-gem-main-20241008071932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

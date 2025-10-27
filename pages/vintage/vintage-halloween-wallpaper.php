@@ -1,0 +1,129 @@
+<title>Vintage Halloween Wallpaper: Spooky Charm for Your Home</title>
+                    <meta name="description" content="Add a touch of nostalgia to your Halloween decor with vintage wallpaper. Our curated collection showcases spooky designs that capture the essence of the season, making it easy to create a charming and festive atmosphere in any room. Perfect for those who love classic Halloween style!">
+                    <meta name="keywords" content="vintage halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-halloween-wallpaper">
+                            <span itemprop="name">vintage halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Halloween Wallpaper: Spooky Charm for Your Home</h1>
+                <p>Transform your home this Halloween with stunning vintage wallpaper! Featuring classic designs like creepy pumpkins, black cats, and spooky ghosts, vintage wallpaper brings a nostalgic charm to your decor. Perfect for accent walls or complete room makeovers, these timeless patterns create an enchanting atmosphere that celebrates the season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230609/pngtree-vintage-children-enjoying-halloween-with-jackolanterns-image_2940172.jpg' alt='Vintage Halloween Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230609/pngtree-vintage-children-enjoying-halloween-with-jackolanterns-image_2940172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween #halloween #vintagehalloween">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/db/30/d9db308a749e897433eb1c0375ed9cab.jpg' alt='Vintage Halloween #halloween #vintagehalloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/db/30/d9db308a749e897433eb1c0375ed9cab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage halloween 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/74/889/151/vintage-halloween14-wallpaper-preview.jpg' alt='Vintage halloween 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/74/889/151/vintage-halloween14-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween screen background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/bd/61/e3bd61191140c5a4fe01c432484afa74.jpg' alt='Vintage Halloween screen background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/bd/61/e3bd61191140c5a4fe01c432484afa74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1063/6137/rrrrvintage-halloween-final_shop_thumb.png' alt='Vintage Halloween Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1063/6137/rrrrvintage-halloween-final_shop_thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10036605.jpg' alt='Vintage Halloween iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10036605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage halloween 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F1wveCHWIAEWUb0.jpg:large' alt='Vintage halloween 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F1wveCHWIAEWUb0.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Wallpaper for Fall Season     ">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7259279990615739691&location=0&aid=1988' alt='Vintage Halloween Wallpaper for Fall Season     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7259279990615739691&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Pattern Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/214434/raw/74fd8b43c9e6907d93b13eb59249de43-vintage-halloween-pattern-design.jpg' alt='Vintage Halloween Pattern Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/214434/raw/74fd8b43c9e6907d93b13eb59249de43-vintage-halloween-pattern-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Vintage Halloween Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1419986370/vector/vintage-vector-halloween-characters.jpg?s=612x612&w=0&k=20&c=sN-O5ACVKqgpWXLUY_3PXiE0c9_dWPWVIXtv8L0HZBw=' alt='30,000+ Vintage Halloween Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1419986370/vector/vintage-vector-halloween-characters.jpg?s=612x612&w=0&k=20&c=sN-O5ACVKqgpWXLUY_3PXiE0c9_dWPWVIXtv8L0HZBw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

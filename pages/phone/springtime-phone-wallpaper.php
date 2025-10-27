@@ -1,0 +1,129 @@
+<title>Springtime Phone Wallpaper: Refresh Your Screen</title>
+                    <meta name="description" content="Explore stunning springtime phone wallpapers! Brighten your device with colorful blooms and serene landscapes that capture the essence of the season. Perfect for adding a fresh touch to your mobile screen, these wallpapers will keep you inspired and uplifted all spring long!">
+                    <meta name="keywords" content="springtime phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/springtime-phone-wallpaper">
+                            <span itemprop="name">springtime phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Springtime Phone Wallpaper: Refresh Your Screen</h1>
+                <p>Transform your device this spring with vibrant and refreshing phone wallpapers! Embrace the season's beauty with blossoms, pastel hues, and scenic landscapes that breathe new life into your screen. Choose from floral patterns, sunny skies, and nature-inspired designs to reflect the joy of springtime and uplift your mood daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Stunning Spring Wallpapers For IPhone Screens (2025)">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/02/Spring-Wallpapers-for-iPhone-wildflowers-576x1024.jpg' alt='50+ Stunning Spring Wallpapers For IPhone Screens (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/02/Spring-Wallpapers-for-iPhone-wildflowers-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwM2IuanBn.jpg' alt='Spring Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwM2IuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/79/80/f679802bd6f3cab5cbbe0b348bfe0fe5.jpg' alt='Spring Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/79/80/f679802bd6f3cab5cbbe0b348bfe0fe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Spring Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-spring-phone-jwl7bm0j85aab6jo.jpg' alt='100+] Cute Spring Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-spring-phone-jwl7bm0j85aab6jo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free spring aesthetic phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE1WBQt1lQ/1/0/900w/canva-beige-minimalist-cute-spring-blossom-and-wreath-pattern-phone-wallpaper-CYpTEpZ5Y5s.jpg' alt='Free spring aesthetic phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE1WBQt1lQ/1/0/900w/canva-beige-minimalist-cute-spring-blossom-and-wreath-pattern-phone-wallpaper-CYpTEpZ5Y5s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Stunning Spring Wallpapers For IPhone Screens (2025)">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/02/Spring-Wallpapers-for-iPhone-Cherry-Blossoms-576x1024.jpg' alt='50+ Stunning Spring Wallpapers For IPhone Screens (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/02/Spring-Wallpapers-for-iPhone-Cherry-Blossoms-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="new phone backgrounds for spring!    | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7231994402258928133&index=3&sign=407491adef431c012d3549665c55d145' alt='new phone backgrounds for spring!    | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7231994402258928133&index=3&sign=407491adef431c012d3549665c55d145' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring iPhone Wallpaper Aesthetic: 20 Beautiful Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/04/222.jpeg' alt='Spring iPhone Wallpaper Aesthetic: 20 Beautiful Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/04/222.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Breathtaking Spring Phone Wallpapers to Brighten your screen ...">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2024/02/spring-phone-wallpaper-106.jpg' alt='100+ Breathtaking Spring Phone Wallpapers to Brighten your screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2024/02/spring-phone-wallpaper-106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 FREE SPRING IPHONE WALLPAPERS - PremiumCoding">
+                                <img itemprop="contentUrl url" src='http://premiumcoding.com/wp-content/uploads/2015/04/spring3.jpg' alt='10 FREE SPRING IPHONE WALLPAPERS - PremiumCoding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumCoding" />
+                                </span>
+                                <a href='http://premiumcoding.com/wp-content/uploads/2015/04/spring3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Delicious Pumpkin Pie PNG Images for Your Projects</title>
+                    <meta name="description" content="Explore a wide selection of pumpkin pie PNG images designed for easy use in your seasonal projects. Perfect for web design, social media, and marketing materials. Download high-quality, transparent PNGs now to elevate your fall content!">
+                    <meta name="keywords" content="pumpkin pie png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pumpkin-pie-png">
+                            <span itemprop="name">pumpkin pie png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Pumpkin Pie PNG Images for Your Projects</h1>
+                <p>Discover stunning pumpkin pie PNG images perfect for your fall projects! Whether you need a transparent background for designs, websites, or decorations, our collection of high-quality pumpkin pie PNGs will elevate your creative ideas. Ideal for seasonal promotions, recipes, or festive content, these images are just a click away!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pie PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sweeter-than-pumpkin-pie-png-image_9237997.png' alt='Pumpkin Pie PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-sweeter-than-pumpkin-pie-png-image_9237997.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slice Of Pumpkin Pie PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/265230/isolated/preview/dbf987b4c4f0704c6f8adfd6db33d87f-slice-of-pumpkin-pie.png' alt='Slice Of Pumpkin Pie PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/265230/isolated/preview/dbf987b4c4f0704c6f8adfd6db33d87f-slice-of-pumpkin-pie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pie Slice PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/pumpkin-pie-slice-oJV0zDB-600.jpg' alt='Pumpkin Pie Slice PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/pumpkin-pie-slice-oJV0zDB-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Pumpkin Pie, PNG Instant Download File, Fall Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24209592/r/il/73e39e/5173951976/il_570xN.5173951976_7sl2.jpg' alt='Watercolor Pumpkin Pie, PNG Instant Download File, Fall Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24209592/r/il/73e39e/5173951976/il_570xN.5173951976_7sl2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pie Slice Free SVG Cuttable File & Clipart">
+                                <img itemprop="contentUrl url" src='https://www.printablecuttablecreatables.com/wp-content/uploads/2016/10/E202-Pumpkin-Pie-Slice-Free-SVG-Cut-File-Clipart-preview.png' alt='Pumpkin Pie Slice Free SVG Cuttable File & Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Printable Cuttable Creatables" />
+                                </span>
+                                <a href='https://www.printablecuttablecreatables.com/wp-content/uploads/2016/10/E202-Pumpkin-Pie-Slice-Free-SVG-Cut-File-Clipart-preview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Slice of Pumpkin Pie 47590124 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/590/124/non_2x/a-slice-of-pumpkin-pie-png.png' alt='A Slice of Pumpkin Pie 47590124 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/590/124/non_2x/a-slice-of-pumpkin-pie-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSD Pumpkin Pie PNG Cutout isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/psd-pumpkin-pie-png-cutout-isolated-transparent-background_753500-3270.jpg' alt='PSD Pumpkin Pie PNG Cutout isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/psd-pumpkin-pie-png-cutout-isolated-transparent-background_753500-3270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Pumpkin-Pie-Slice.jpg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Pumpkin-Pie-Slice.jpg' alt='File:Pumpkin-Pie-Slice.jpg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2820">
+                                <meta itemprop="height" content="2260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/84/Pumpkin-Pie-Slice.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Pumpkin Pie Clipart | FREE Download | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/11/FREE-Pumpkin-Pie-Clipart-WM.png?fit=1001%2C1001&ssl=1' alt='FREE Pumpkin Pie Clipart | FREE Download | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/11/FREE-Pumpkin-Pie-Clipart-WM.png?fit=1001%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Bake Pumpkin Pie (Gluten Free & Dairy Free)">
+                                <img itemprop="contentUrl url" src='https://thefitcookie.com/wp-content/uploads/2018/11/Best-No-Bake-Pumpkin-Pie-short-hero-3-500x375.png' alt='No Bake Pumpkin Pie (Gluten Free & Dairy Free)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fit Cookie" />
+                                </span>
+                                <a href='https://thefitcookie.com/wp-content/uploads/2018/11/Best-No-Bake-Pumpkin-Pie-short-hero-3-500x375.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

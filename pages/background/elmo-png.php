@@ -1,0 +1,129 @@
+<title>Elmo PNG Images - Fun and Playful Graphics</title>
+                    <meta name="description" content="Discover a collection of high-quality Elmo PNG images, perfect for adding a cheerful touch to your designs. Great for stickers, graphics, and presentations, these transparent images will brighten up any project while ensuring a seamless blend with your background. Explore now!">
+                    <meta name="keywords" content="elmo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elmo-png">
+                            <span itemprop="name">elmo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elmo PNG Images - Fun and Playful Graphics</h1>
+                <p>Elmo PNG images are perfect for adding a playful touch to your projects. These transparent background images showcase everyone's favorite red monster from Sesame Street, making them ideal for printing stickers, designing graphics, or creating fun presentations. Enjoy the cuteness overload with high-quality Elmo PNGs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo PNG transparent image download, size: 611x831px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/elmo_PNG90467.png' alt='Elmo PNG transparent image download, size: 611x831px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/elmo_PNG90467.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo (Sesame Street PNG) by JamesMuchtastic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680dcb9c-f5f7-4dd6-97c0-d34984b06ef7/dhriqlh-5e52f9d2-b05a-458a-a7de-af8d034cbede.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGRjYjljLWY1ZjctNGRkNi05N2MwLWQzNDk4NGIwNmVmN1wvZGhyaXFsaC01ZTUyZjlkMi1iMDVhLTQ1OGEtYTdkZS1hZjhkMDM0Y2JlZGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eD6yZpEbdY3RYXkK1wXxwYhfZwp31gMiKNuxJ030mKw' alt='Elmo (Sesame Street PNG) by JamesMuchtastic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680dcb9c-f5f7-4dd6-97c0-d34984b06ef7/dhriqlh-5e52f9d2-b05a-458a-a7de-af8d034cbede.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGRjYjljLWY1ZjctNGRkNi05N2MwLWQzNDk4NGIwNmVmN1wvZGhyaXFsaC01ZTUyZjlkMi1iMDVhLTQ1OGEtYTdkZS1hZjhkMDM0Y2JlZGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eD6yZpEbdY3RYXkK1wXxwYhfZwp31gMiKNuxJ030mKw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo PNG HD - PlusPNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/ac/1e/b2ac1e5a9ab6ba8383d0e9ed9a3e1215.jpg' alt='Elmo PNG HD - PlusPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/ac/1e/b2ac1e5a9ab6ba8383d0e9ed9a3e1215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo PNG transparent image download, size: 590x509px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/elmo_PNG90517.png' alt='Elmo PNG transparent image download, size: 590x509px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/elmo_PNG90517.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo Clipart png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/556/144/png-clipart-sesame-street-elmo-illustration-elmo-cookie-monster-ernie-count-von-count-wedding-invitation-elmo-happy-birthday-to-you-orange-thumbnail.png' alt='Elmo Clipart png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/556/144/png-clipart-sesame-street-elmo-illustration-elmo-cookie-monster-ernie-count-von-count-wedding-invitation-elmo-happy-birthday-to-you-orange-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Elmo png by Fernando8029 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f592b729-0e84-4571-9da6-ea21a834564d/di2q1ub-68939651-4c41-481a-9120-d0b38f848c74.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1OTJiNzI5LTBlODQtNDU3MS05ZGE2LWVhMjFhODM0NTY0ZFwvZGkycTF1Yi02ODkzOTY1MS00YzQxLTQ4MWEtOTEyMC1kMGIzOGY4NDhjNzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WjHmoAlcMn6Fglc2CYCnTzda1ZCJb9q1JWX50KGHaGk' alt='Sesame Street Elmo png by Fernando8029 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f592b729-0e84-4571-9da6-ea21a834564d/di2q1ub-68939651-4c41-481a-9120-d0b38f848c74.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1OTJiNzI5LTBlODQtNDU3MS05ZGE2LWVhMjFhODM0NTY0ZFwvZGkycTF1Yi02ODkzOTY1MS00YzQxLTQ4MWEtOTEyMC1kMGIzOGY4NDhjNzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WjHmoAlcMn6Fglc2CYCnTzda1ZCJb9q1JWX50KGHaGk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo Svg, Sesame Street Svg, Cartoon Svg, Children TV Series Svg, Cut files  for Cricut, Instant download">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/30048/iu_1711423693_1.png' alt='Elmo Svg, Sesame Street Svg, Cartoon Svg, Children TV Series Svg, Cut files  for Cricut, Instant download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1894">
+                                <meta itemprop="height" content="2555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/30048/iu_1711423693_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/14/Elmo-PNG-File.png' alt='Elmo PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/14/Elmo-PNG-File.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Elmo Clip Art - Elmo Head Png - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/elmo-clip-art-elmo-head-png--m2K9A0A0b1K9A0d3.jpg' alt='Free: Elmo Clip Art - Elmo Head Png - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/elmo-clip-art-elmo-head-png--m2K9A0A0b1K9A0d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elmo PNG by JamesMuchtastic on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680dcb9c-f5f7-4dd6-97c0-d34984b06ef7/dif77uv-6d860b2d-e117-4556-9eaa-9756bad0e1d0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGRjYjljLWY1ZjctNGRkNi05N2MwLWQzNDk4NGIwNmVmN1wvZGlmNzd1di02ZDg2MGIyZC1lMTE3LTQ1NTYtOWVhYS05NzU2YmFkMGUxZDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hTCeJpOQeV_YalgQ0AioWpp975Ayu1cgIFqL2185-7E' alt='Elmo PNG by JamesMuchtastic on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680dcb9c-f5f7-4dd6-97c0-d34984b06ef7/dif77uv-6d860b2d-e117-4556-9eaa-9756bad0e1d0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGRjYjljLWY1ZjctNGRkNi05N2MwLWQzNDk4NGIwNmVmN1wvZGlmNzd1di02ZDg2MGIyZC1lMTE3LTQ1NTYtOWVhYS05NzU2YmFkMGUxZDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hTCeJpOQeV_YalgQ0AioWpp975Ayu1cgIFqL2185-7E' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

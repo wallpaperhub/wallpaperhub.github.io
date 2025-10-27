@@ -1,0 +1,129 @@
+<title>Elegant Dark Blue Floral Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of dark blue floral wallpaper. Perfect for enhancing any room, this wallpaper combines elegance and comfort, making it an excellent choice for your home. Explore our collection and elevate your decor with floral designs that inspire tranquility and style.">
+                    <meta name="keywords" content="dark blue floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/dark-blue-floral-wallpaper">
+                            <span itemprop="name">dark blue floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Dark Blue Floral Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with dark blue floral wallpaper, a perfect blend of elegance and tranquility. Its rich, deep hues bring a touch of sophistication, while vibrant floral patterns add warmth and charm. Ideal for living rooms, bedrooms, or any area needing a stylish makeover, this wallpaper creates a serene, inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Midnight Blue Meadow Floral Peel and Stick Wallpaper Wildflowers  Floral Wallpaper 17.7x118'' Dark Blue Contact Paper for Cabinets Shelves ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UUYFqwJQL.jpg' alt='VEELIKE Midnight Blue Meadow Floral Peel and Stick Wallpaper Wildflowers  Floral Wallpaper 17.7x118'' Dark Blue Contact Paper for Cabinets Shelves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UUYFqwJQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Floral Wallpaper, Blue Botanical Wallpaper, Boho ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19529219/r/il/599d1a/4865869961/il_570xN.4865869961_6j9o.jpg' alt='Dark Blue Floral Wallpaper, Blue Botanical Wallpaper, Boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19529219/r/il/599d1a/4865869961/il_570xN.4865869961_6j9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW45702_5.jpg?quality=100?width=900' alt='NextWall Peel & Stick Vintage Floral Navy Blue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW45702_5.jpg?quality=100?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 403472135 Marilyn Dark Blue Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/259631.jpg' alt='A Street Prints 403472135 Marilyn Dark Blue Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/259631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c25fffb4-f78d-4e43-87d9-9adf301ebf09/svn/nextwall-wallpaper-rolls-nw45702-64_600.jpg' alt='NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c25fffb4-f78d-4e43-87d9-9adf301ebf09/svn/nextwall-wallpaper-rolls-nw45702-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Navy Blue Botanical Floral Removable Wallpaper - 24'' inch ...">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/ddb70e386144ccabc59b1f86b4ec221bb47a3519/Vintage-Navy-Blue-Botanical-Floral-Removable-Wallpaper.jpg?impolicy=medium' alt='Vintage Navy Blue Botanical Floral Removable Wallpaper - 24'' inch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/ddb70e386144ccabc59b1f86b4ec221bb47a3519/Vintage-Navy-Blue-Botanical-Floral-Removable-Wallpaper.jpg?impolicy=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Floral Wallpaper Removable Peel and Stick Botanical Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/80a109/4399616706/il_570xN.4399616706_e3rd.jpg' alt='Dark Blue Floral Wallpaper Removable Peel and Stick Botanical Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/80a109/4399616706/il_570xN.4399616706_e3rd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/09/Wallpaper-Forest-Floral-Blue-1.jpg.optimal.jpg' alt='Forest Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/09/Wallpaper-Forest-Floral-Blue-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Floral Wallpaper, Small Meadow Flowers Wallpaper, Peel and Stick  Removable Wild Botanical Wall Decor, Navy Blue Field Floral Pattern">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/2-WN113-watercolor-blue-meadow-flowers-wallpaper.jpg?v=1720059389&width=2500' alt='Dark Blue Floral Wallpaper, Small Meadow Flowers Wallpaper, Peel and Stick  Removable Wild Botanical Wall Decor, Navy Blue Field Floral Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/2-WN113-watercolor-blue-meadow-flowers-wallpaper.jpg?v=1720059389&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Flowers Wallpaper Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/98878272/compr-r85/1927/192736088/dark-blue-flowers-wallpaper-floral-roll.jpg' alt='Dark Blue Flowers Wallpaper Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/98878272/compr-r85/1927/192736088/dark-blue-flowers-wallpaper-floral-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enchanting Purple Skull and Roses Wallpaper</title>
+                    <meta name="description" content="Discover the captivating purple skull and roses wallpaper that brings a unique blend of gothic charm and floral beauty to your decor. Ideal for anyone looking to make a bold statement, this wallpaper is designed for easy application and a stylish upgrade to any space. Perfect for your next project!">
+                    <meta name="keywords" content="purple skull and roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-skull-and-roses-wallpaper">
+                            <span itemprop="name">purple skull and roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Purple Skull and Roses Wallpaper</h1>
+                <p>Transform your space with our stunning purple skull and roses wallpaper. This unique design combines the edgy allure of skull motifs with the romantic elegance of roses, creating a striking contrast that enhances any room. Perfect for those who embrace individuality, this wallpaper adds a bold statement to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Skull Wallpaper | Happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' alt='Witchy Skull Wallpaper | Happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull and roses - Desktop Nexus Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/99/c8/8099c8bd3561753e8e606dbbf621696a.jpg' alt='Skull and roses - Desktop Nexus Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/99/c8/8099c8bd3561753e8e606dbbf621696a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/4a/32/b94a324e25db3de4e51476108673522d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/4a/32/b94a324e25db3de4e51476108673522d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD skulls pink roses wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/808/620/HD-wallpaper-pastel-flower-flowers-pink-plants-purple-rose-roses-skull-skulls-thumbnail.jpg' alt='HD skulls pink roses wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/808/620/HD-wallpaper-pastel-flower-flowers-pink-plants-purple-rose-roses-skull-skulls-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull & Roses Grunge Galaxy iPhone/Android Wallpaper I Created For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/a1/1b/a4a11bb814cce03c77bedd892f286334.jpg' alt='Skull & Roses Grunge Galaxy iPhone/Android Wallpaper I Created For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/a1/1b/a4a11bb814cce03c77bedd892f286334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artsbay Grey & Purple Skull Wall Art Human Head Love With Romantic  Heart-Shaped Rose Flowers Painting Vintage Skeleton Lovers Artwork for  Bedroomm ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81arZe5A1wL._AC_UF894,1000_QL80_.jpg' alt='Artsbay Grey & Purple Skull Wall Art Human Head Love With Romantic  Heart-Shaped Rose Flowers Painting Vintage Skeleton Lovers Artwork for  Bedroomm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81arZe5A1wL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull with Black and Purple Roses" Art Board Print by Gothic ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2030396169.2042/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Skull with Black and Purple Roses" Art Board Print by Gothic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2030396169.2042/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Skulls And Roses Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14060536/p/f/m/7wn6Pq7oGqUOf4iGZIEz_kjAjoYwk9KQKwECX8EqOcxouwUiAD1hA6vBrw/Skulls%20and%20roses%20purple.jpg' alt='Purple Skulls And Roses Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14060536/p/f/m/7wn6Pq7oGqUOf4iGZIEz_kjAjoYwk9KQKwECX8EqOcxouwUiAD1hA6vBrw/Skulls%20and%20roses%20purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull and Roses Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/skull-and-roses-wallpaper-7.webp' alt='Skull and Roses Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/skull-and-roses-wallpaper-7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Colorful Skull with Roses Wallpaper PNGs Online ...">
+                                <img itemprop="contentUrl url" src='https://images.creativefabrica.com/products/previews/2023/10/27/iYV50J7G3/2XL69nZGM0Spbg032J3tJNJ2V9u-desktop.jpg' alt='Download Colorful Skull with Roses Wallpaper PNGs Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://images.creativefabrica.com/products/previews/2023/10/27/iYV50J7G3/2XL69nZGM0Spbg032J3tJNJ2V9u-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History and Evolution of Golf</title>
+                    <meta name="description" content="Explore the rich background of golf, from its Scottish roots to its global popularity. Uncover how this beloved sport has evolved over centuries, its unique challenges, and what makes it captivating for players of all skill levels. Perfect for golf enthusiasts and curious newcomers alike!">
+                    <meta name="keywords" content="golf background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/golf-background">
+                            <span itemprop="name">golf background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History and Evolution of Golf</h1>
+                <p>Golf originated in 15th century Scotland, evolving into a popular sport played worldwide. Known for its rich history, the game combines skill and precision as players aim to hit a ball into a series of holes using the fewest strokes. Golf courses offer diverse landscapes, making each game unique and challenging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golfing Background Images – Browse 266,004 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/83/29/93/360_F_283299374_tIjJXE360HvdK9r5pskkZbeTQ2qokQfT.jpg' alt='Golfing Background Images – Browse 266,004 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/83/29/93/360_F_283299374_tIjJXE360HvdK9r5pskkZbeTQ2qokQfT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Golf Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golf-realistic-background_1284-6412.jpg' alt='Page 2 | Golf Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golf-realistic-background_1284-6412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Course Wallpaper. Sunset Over Golf Course. #6747">
+                                <img itemprop="contentUrl url" src='https://miramarpaintcenter.com/cdn/shop/files/GolfWallpaperCourse0_2048x.jpg?v=1717609486' alt='Golf Course Wallpaper. Sunset Over Golf Course. #6747'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Miramar Paint Center" />
+                                </span>
+                                <a href='https://miramarpaintcenter.com/cdn/shop/files/GolfWallpaperCourse0_2048x.jpg?v=1717609486' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Background" Images – Browse 1,239 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/10/57/01/360_F_910570109_cadxgGeoHH0ZRpWNiOfUZDrnPet5Jmfw.jpg' alt='Golf Background" Images – Browse 1,239 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/10/57/01/360_F_910570109_cadxgGeoHH0ZRpWNiOfUZDrnPet5Jmfw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,726 Summer Golf Backgrounds Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/golf-course-golf-bag-idyllic-forest-cart-summer-landscape-park-69200010.jpg' alt='1,726 Summer Golf Backgrounds Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/golf-course-golf-bag-idyllic-forest-cart-summer-landscape-park-69200010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf ball on tee in the evening golf course with sunshine ...">
+                                <img itemprop="contentUrl url" src='https://reveregolf.com/wp-content/uploads/2023/05/iStock-1454927838-scaled.jpg' alt='Golf ball on tee in the evening golf course with sunshine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Revere Golf Club" />
+                                </span>
+                                <a href='https://reveregolf.com/wp-content/uploads/2023/05/iStock-1454927838-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 10x6.5ft Fabric Golf Backdrop Golf Sports ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/916zvWXaF-L.jpg' alt='Amazon.com : Loccor 10x6.5ft Fabric Golf Backdrop Golf Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/916zvWXaF-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golfing Background Images – Browse 266,004 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/87/25/02/360_F_987250230_9OneYSkQZI1h6BhmlGHmVDAjmeSUI2Hs.jpg' alt='Golfing Background Images – Browse 266,004 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/87/25/02/360_F_987250230_9OneYSkQZI1h6BhmlGHmVDAjmeSUI2Hs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Free Golf Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165594199/vector/golf-field-with-flag.jpg?s=612x612&w=0&k=20&c=bdXBjxCkHnCy_j94-IfYxMuxc-XoLJUqV-UPaTFkg-0=' alt='250+ Free Golf Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165594199/vector/golf-field-with-flag.jpg?s=612x612&w=0&k=20&c=bdXBjxCkHnCy_j94-IfYxMuxc-XoLJUqV-UPaTFkg-0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golf Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golf-ball-tee-realistic-vector-illustration_1441-3859.jpg' alt='Golf Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golf-ball-tee-realistic-vector-illustration_1441-3859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

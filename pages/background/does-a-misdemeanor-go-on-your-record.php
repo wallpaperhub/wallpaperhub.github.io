@@ -1,0 +1,129 @@
+<title>Do Misdemeanors Stay on Your Record?</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="does a misdemeanor go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-misdemeanor-go-on-your-record">
+                            <span itemprop="name">does a misdemeanor go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Misdemeanors Stay on Your Record?</h1>
+                <p>A misdemeanor typically does go on your criminal record. This type of offense is less severe than a felony but can still have significant impacts on your life, including job prospects, housing applications, and more. It’s important to understand the long-term implications and explore options for expungement where applicable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Misdemeanor Stay on Your Record?">
+                                <img itemprop="contentUrl url" src='https://scharfflawfirm.com/wp-content/uploads/2021/02/My-How-Long-Does-a-Misdemeanor-Stay-on-Your-Record.jpg' alt='How Long Does a Misdemeanor Stay on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scharff Law Firm" />
+                                </span>
+                                <a href='https://scharfflawfirm.com/wp-content/uploads/2021/02/My-How-Long-Does-a-Misdemeanor-Stay-on-Your-Record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Misdemeanor Stay on Your Record in California?">
+                                <img itemprop="contentUrl url" src='https://thenieveslawfirm.com/wp-content/uploads/2023/05/How-Long-Does-a-Misdemeanor-Stay-on-Your-Record-California-Misdemeanor-Lawyer.jpg' alt='How Long Does a Misdemeanor Stay on Your Record in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Nieves Law Firm" />
+                                </span>
+                                <a href='https://thenieveslawfirm.com/wp-content/uploads/2023/05/How-Long-Does-a-Misdemeanor-Stay-on-Your-Record-California-Misdemeanor-Lawyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Misdemeanor Stay On Your Record? (How to Erase)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2021/11/How-Long-Does-A-Misdemeanor-Stay-On-Your-Record.png' alt='How Long Does A Misdemeanor Stay On Your Record? (How to Erase)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2021/11/How-Long-Does-A-Misdemeanor-Stay-On-Your-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a misdemeanor go on your record? | The Law Office Of Brett V ...">
+                                <img itemprop="contentUrl url" src='https://www.bvbdefense.com/app/uploads/2023/12/misdemeanor.jpg' alt='Does a misdemeanor go on your record? | The Law Office Of Brett V ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brett Beaubien" />
+                                </span>
+                                <a href='https://www.bvbdefense.com/app/uploads/2023/12/misdemeanor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Reasons to Reduce Felony to Misdemeanor: Worth It">
+                                <img itemprop="contentUrl url" src='https://www.wklaw.com/wp-content/uploads/2015/10/FELONY_REDUCTION.jpg' alt='6 Reasons to Reduce Felony to Misdemeanor: Worth It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallin & Klarich" />
+                                </span>
+                                <a href='https://www.wklaw.com/wp-content/uploads/2015/10/FELONY_REDUCTION.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does A Misdemeanor Go On Your Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/daQ5Df8Z2Vg/maxresdefault.jpg' alt='Does A Misdemeanor Go On Your Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/daQ5Df8Z2Vg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Misdemeanor Stay On Your Record? | Free Consult">
+                                <img itemprop="contentUrl url" src='https://www.rbisenberg.com/wp-content/uploads/2024/09/How-long-does-a-misdemeanor-stay-on-your-record.jpg' alt='Does a Misdemeanor Stay On Your Record? | Free Consult'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Defense & DWI Lawyer" />
+                                </span>
+                                <a href='https://www.rbisenberg.com/wp-content/uploads/2024/09/How-long-does-a-misdemeanor-stay-on-your-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Misdemeanor Go on Your Record in NC?">
+                                <img itemprop="contentUrl url" src='https://scharfflawfirm.com/wp-content/uploads/2024/08/1200-x-675-Scharff-Law.jpg' alt='Does a Misdemeanor Go on Your Record in NC?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scharff Law Firm" />
+                                </span>
+                                <a href='https://scharfflawfirm.com/wp-content/uploads/2024/08/1200-x-675-Scharff-Law.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Misdemeanor Stay On Your Record? (How to Erase)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2021/11/How-Do-You-Erase-Misdemeanors-from-Your-Criminal-Record.png' alt='How Long Does A Misdemeanor Stay On Your Record? (How to Erase)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2021/11/How-Do-You-Erase-Misdemeanors-from-Your-Criminal-Record.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A Misdemeanor Stay On Your Record? - Leverson Budke">
+                                <img itemprop="contentUrl url" src='https://cdn.leversonbudke.com/wp-content/uploads/2024/01/how-long-does-a-misdemeanor-stay-on-your-record.jpg' alt='How Long Does A Misdemeanor Stay On Your Record? - Leverson Budke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leverson Budke" />
+                                </span>
+                                <a href='https://cdn.leversonbudke.com/wp-content/uploads/2024/01/how-long-does-a-misdemeanor-stay-on-your-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

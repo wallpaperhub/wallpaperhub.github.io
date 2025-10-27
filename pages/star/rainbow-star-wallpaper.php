@@ -1,0 +1,129 @@
+<title>Vibrant Rainbow Star Wallpaper for Dreamy Spaces</title>
+                    <meta name="description" content="Discover our vibrant rainbow star wallpaper, perfect for brightening up any room! Easy to apply and ideal for kids' rooms or creative spaces, it transforms your walls into a playful oasis. Elevate your decor with a touch of whimsy and color—a perfect choice for those seeking inspiration!">
+                    <meta name="keywords" content="rainbow star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/rainbow-star-wallpaper">
+                            <span itemprop="name">rainbow star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Rainbow Star Wallpaper for Dreamy Spaces</h1>
+                <p>Transform your space with stunning rainbow star wallpaper! Ideal for bedrooms, nurseries, or creative spaces, this vibrant design combines colorful stars with a mesmerizing rainbow backdrop. Easy to apply and perfect for adding a whimsical touch, it brings joy and inspiration to any wall. Unleash your creativity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Rainbow Star Shapes Flashing Colorful Neon Light Spectrum 4K 60fps  Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/c7L962W3DlI/maxresdefault.jpg' alt='Abstract Rainbow Star Shapes Flashing Colorful Neon Light Spectrum 4K 60fps  Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/c7L962W3DlI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Pride Month! Pride Month Colorful Rainbow Stars Abstract Background  Loop. LGBTQIA+ Flag Colors. Stars Tunnel Abstract Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/08/21/24/360_F_608212492_VqtVBvtZQk02H5ZhJZ5ScwIvSXEkicjY.jpg' alt='Happy Pride Month! Pride Month Colorful Rainbow Stars Abstract Background  Loop. LGBTQIA+ Flag Colors. Stars Tunnel Abstract Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/08/21/24/360_F_608212492_VqtVBvtZQk02H5ZhJZ5ScwIvSXEkicjY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star" Images – Browse 5,818 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/17/45/62/360_F_517456262_rizQsry8AOlB29LdFxPlZHkUSBkU7idI.jpg' alt='Rainbow Star" Images – Browse 5,818 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/17/45/62/360_F_517456262_rizQsry8AOlB29LdFxPlZHkUSBkU7idI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  little stars background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/eb/7c/2aeb7cb4fa6cec9bc1907248cd20399f.jpg' alt='  little stars background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/eb/7c/2aeb7cb4fa6cec9bc1907248cd20399f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#electric #neon #star #falling #down #black #background #livebackground  #rainbow #relax">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7292546274061143342&location=0&aid=1988' alt='#electric #neon #star #falling #down #black #background #livebackground  #rainbow #relax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7292546274061143342&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Stars Unique Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rainbow-stars-unique-xl05pzxn87ub1o1o.jpg' alt='Rainbow Stars Unique Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rainbow-stars-unique-xl05pzxn87ub1o1o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/cb/2f/6acb2f3a584d98d9f8f0d808c7f7b17b.jpg' alt='Rainbow stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/cb/2f/6acb2f3a584d98d9f8f0d808c7f7b17b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Star Stock Image Background Illustration - 12" x14", Only ...">
+                                <img itemprop="contentUrl url" src='https://freestocktheartchickgraphics.com/cdn/shop/products/2_Rainbow_Star_Background_thumbnail_400x.png?v=1645644802' alt='Rainbow Star Stock Image Background Illustration - 12" x14", Only ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Chick Graphics and Design" />
+                                </span>
+                                <a href='https://freestocktheartchickgraphics.com/cdn/shop/products/2_Rainbow_Star_Background_thumbnail_400x.png?v=1645644802' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow, Rainbow, Cute, Pattern Of Wallpaper Material, Star, Star ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/tomo00/tomo001605/tomo00160500330/56812684-rainbow-rainbow-cute-pattern-of-wallpaper-material-star-star-stardust-stardust-starry-sky.jpg' alt='Rainbow, Rainbow, Cute, Pattern Of Wallpaper Material, Star, Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/tomo00/tomo001605/tomo00160500330/56812684-rainbow-rainbow-cute-pattern-of-wallpaper-material-star-star-stardust-stardust-starry-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rainbow Star">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/ef/e1/f6efe1fbb083402d0cd7a114a69ab739.jpg' alt='Neon Rainbow Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/ef/e1/f6efe1fbb083402d0cd7a114a69ab739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

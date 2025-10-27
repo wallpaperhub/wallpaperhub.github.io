@@ -1,0 +1,129 @@
+<title>Anime AI Generator: Create Stunning Anime Art Effortlessly</title>
+                    <meta name="description" content="Discover the power of Anime AI generators! Effortlessly turn your ideas into breathtaking anime art with cutting-edge AI technology. Perfect for creators and fans, unleash your creativity and bring your visions to life in a few simple clicks.">
+                    <meta name="keywords" content="anime ai generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-ai-generator">
+                            <span itemprop="name">anime ai generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anime AI Generator: Create Stunning Anime Art Effortlessly</h1>
+                <p>Anime AI generators are innovative tools that utilize artificial intelligence to create unique anime-style artwork. These generators allow users to input specific parameters or concepts, transforming them into visually stunning anime characters or scenes. Perfect for artists, writers, and fans looking to explore creativity in the anime realm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Anime Generator Online Free">
+                                <img itemprop="contentUrl url" src='https://www.zmo.ai/wp-content/uploads/2024/07/AI-anime-generator-feature-image.webp' alt='AI Anime Generator Online Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZMO.AI" />
+                                </span>
+                                <a href='https://www.zmo.ai/wp-content/uploads/2024/07/AI-anime-generator-feature-image.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Anime AI Generator - Online Text to Anime Art App - Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/f9653ee0-af4c-4012-aa36-a1b0cc5cd938/anime-ai-generator_promo-showcase_032x.png' alt='Free Anime AI Generator - Online Text to Anime Art App - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1328">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/f9653ee0-af4c-4012-aa36-a1b0cc5cd938/anime-ai-generator_promo-showcase_032x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Anime Generator">
+                                <img itemprop="contentUrl url" src='https://hotpot.ai/images/site/ai/image_generator/anime_maker/teaser_400.jpg' alt='AI Anime Generator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hotpot.ai" />
+                                </span>
+                                <a href='https://hotpot.ai/images/site/ai/image_generator/anime_maker/teaser_400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Anime Generator Online Free">
+                                <img itemprop="contentUrl url" src='https://www.zmo.ai/wp-content/uploads/2024/01/AI-anime-art-image-generated-by-ZMOs-AI-anime-generator.webp' alt='AI Anime Generator Online Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZMO.AI" />
+                                </span>
+                                <a href='https://www.zmo.ai/wp-content/uploads/2024/01/AI-anime-art-image-generated-by-ZMOs-AI-anime-generator.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime AI Generator: Make AI Anime Art From Text & Photo | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/share/Various-anime-images-made-by-Fotor-anime-AI-generator.png' alt='Anime AI Generator: Make AI Anime Art From Text & Photo | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/share/Various-anime-images-made-by-Fotor-anime-AI-generator.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime AI Generator : r/aiArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anime-ai-generator-v0-mb9jo9yu2uvb1.jpg?width=928&format=pjpg&auto=webp&s=cb00f7cdc3e803844237519c27caedf47086c504' alt='Anime AI Generator : r/aiArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anime-ai-generator-v0-mb9jo9yu2uvb1.jpg?width=928&format=pjpg&auto=webp&s=cb00f7cdc3e803844237519c27caedf47086c504' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Anime AI Generator - Online Text to Anime Art App - Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/007bcb0d-4370-4f4b-bf3b-2903f6a42155/anime-ai-generator_ogimage_2x.png' alt='Free Anime AI Generator - Online Text to Anime Art App - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/007bcb0d-4370-4f4b-bf3b-2903f6a42155/anime-ai-generator_ogimage_2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI ART Generator - Free Text to Image in OpenDream">
+                                <img itemprop="contentUrl url" src='https://opendream.ai/assets/img/page/homepage-anime-1.png?v=4.2.7' alt='AI ART Generator - Free Text to Image in OpenDream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="opendream.ai" />
+                                </span>
+                                <a href='https://opendream.ai/assets/img/page/homepage-anime-1.png?v=4.2.7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Art - AI Art Generator - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/SdBxkpuYKUgIbp4K8PI35chk9wZq_3qFewXWd7iFCn5TZeXnLgNuDQmo1CXoeyeoroE' alt='Anime Art - AI Art Generator - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/SdBxkpuYKUgIbp4K8PI35chk9wZq_3qFewXWd7iFCn5TZeXnLgNuDQmo1CXoeyeoroE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Anime Generator - Convert Text or Photo into Anime Art | Artguru">
+                                <img itemprop="contentUrl url" src='https://www.artguru.ai/blogs/wp-content/uploads/sites/25/sites/37/2023/06/ai-anime-01.png' alt='AI Anime Generator - Convert Text or Photo into Anime Art | Artguru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artguru" />
+                                </span>
+                                <a href='https://www.artguru.ai/blogs/wp-content/uploads/sites/25/sites/37/2023/06/ai-anime-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

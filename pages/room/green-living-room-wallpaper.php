@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Elegant Green Living Room Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of green living room wallpaper! Refresh your home with nature-inspired designs that create a serene and inviting atmosphere. Perfect for any style, from modern to rustic, our collection offers something for everyone. Elevate your living space effortlessly!">
+                    <meta name="keywords" content="green living room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/green-living-room-wallpaper">
+                            <span itemprop="name">green living room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Elegant Green Living Room Wallpaper</h1>
+                <p>Transform your living room with green wallpaper that brings nature indoors. Choose from various shades and patterns, such as leafy prints or soothing pastels, to create a tranquil space. Green wallpaper not only enhances aesthetics but also promotes a calming atmosphere, making it perfect for relaxation and social gatherings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Tropical Leaf Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/green-leaves-mural-wallpaper-living-room.jpg?v=1732536109&width=1445' alt='Emerald Green Tropical Leaf Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/green-leaves-mural-wallpaper-living-room.jpg?v=1732536109&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' alt='Emerald Green Marble Wallpaper Peel and Stick Removable Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2759">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/e6fa8d/3648002241/il_fullxfull.3648002241_rnny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' alt='Dark Green Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - C828'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C828_06.png?v=1734124025&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZocKz Sunshine Forest 3D Large Wallpaper, Green Moss Wallpapers Panoramic  Mural for Living Room Bedroom TV Background Hotel Bar Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kaLu7l4kL.jpg' alt='ZocKz Sunshine Forest 3D Large Wallpaper, Green Moss Wallpapers Panoramic  Mural for Living Room Bedroom TV Background Hotel Bar Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kaLu7l4kL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unique Green Patterned Wallpaper for the home - BelarteSTUDIO ...">
+                                <img itemprop="contentUrl url" src='http://belartestudio.com/cdn/shop/collections/ModernTradition-OrganicBrushStroke-BAS01503041-DustyGreen-2_a1b72a42-25ad-47c4-a7bc-32a59168f544.jpg?v=1699362845' alt='Unique Green Patterned Wallpaper for the home - BelarteSTUDIO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='http://belartestudio.com/cdn/shop/collections/ModernTradition-OrganicBrushStroke-BAS01503041-DustyGreen-2_a1b72a42-25ad-47c4-a7bc-32a59168f544.jpg?v=1699362845' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerald -Emerald Green Abstract Painting Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/Emerald_mockup4.jpg?v=1717014619&width=2048' alt='Emerald -Emerald Green Abstract Painting Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/Emerald_mockup4.jpg?v=1717014619&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How I Created A Sophisticated Living Room Using Green Botanical ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56e579b545bf2119aa58e055/78e3feaf-3761-434a-8a7f-86f335d10087/95BD1FA7-CEAC-4763-B050-796860C89F12.jpeg' alt='How I Created A Sophisticated Living Room Using Green Botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MELANIE LISSACK INTERIORS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56e579b545bf2119aa58e055/78e3feaf-3761-434a-8a7f-86f335d10087/95BD1FA7-CEAC-4763-B050-796860C89F12.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Feminine Wallpaper - Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/05/sage_green_feminine_wallpaper_3.jpg' alt='Sage Green Feminine Wallpaper - Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/05/sage_green_feminine_wallpaper_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper – Gorgeous Color and Prints for Your Home – BURKE ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0153/0623/products/NW43604-C_540x.jpg?v=1658955551' alt='Green Wallpaper – Gorgeous Color and Prints for Your Home – BURKE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0153/0623/products/NW43604-C_540x.jpg?v=1658955551' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dense Forest - Green">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/93887/landscape/wallpaper/room41.jpg?w=2000&q=80' alt='Dense Forest - Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/93887/landscape/wallpaper/room41.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

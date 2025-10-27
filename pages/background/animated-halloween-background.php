@@ -1,0 +1,129 @@
+<title>Spooky Animated Halloween Backgrounds for Festive Fun</title>
+                    <meta name="description" content="Enhance your Halloween spirit with captivating animated backgrounds! Ideal for parties or social media, these spooky visuals will create a festive atmosphere, featuring ghosts, pumpkins, and more. Perfect for adding a touch of magic to your celebrations. Explore our collection now!">
+                    <meta name="keywords" content="animated halloween background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/animated-halloween-background">
+                            <span itemprop="name">animated halloween background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Animated Halloween Backgrounds for Festive Fun</h1>
+                <p>Transform your Halloween celebrations with enchanting animated backgrounds! These spooky and vibrant visuals bring your festivities to life, featuring dancing ghosts, flickering jack-o-lanterns, and eerie landscapes. Perfect for virtual parties, social media posts, or making your home screen more festive. Get ready to celebrate in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Haunted House Bats Pumpkins Under">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1107381245/thumb/1.jpg?ip=x480' alt='Halloween Haunted House Bats Pumpkins Under'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1107381245/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Trick or Treat Halloween Animation">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/741/710/small_2x/cartoon-trick-or-treat-halloween-animation-video.jpg' alt='Cartoon Trick or Treat Halloween Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/741/710/small_2x/cartoon-trick-or-treat-halloween-animation-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Animated Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-halloween-s17d40dagft081r5.jpg' alt='100+] Animated Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-halloween-s17d40dagft081r5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Night of Halloween Background Animation with Stars Moon ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/8fe096e6-1331-4955-ad2e-e6fa90b05097/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=d3cb41ae81ef90a012fcb2294d9a3976354afae3ac5734c4f2b754d80739513d' alt='Scary Night of Halloween Background Animation with Stars Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/8fe096e6-1331-4955-ad2e-e6fa90b05097/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=d3cb41ae81ef90a012fcb2294d9a3976354afae3ac5734c4f2b754d80739513d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween night party background stock video 1642514060">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1642514060/video/happy-halloween-night-party-background.jpg?s=640x640&k=20&c=XbkkY5smt8xvhjQUaAI9HY6Mex73rmO0qqf9QBW4H0c=' alt='Happy Halloween night party background stock video 1642514060'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1642514060/video/happy-halloween-night-party-background.jpg?s=640x640&k=20&c=XbkkY5smt8xvhjQUaAI9HY6Mex73rmO0qqf9QBW4H0c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Night Decorative Bat Moon Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1107291853/thumb/1.jpg?ip=x480' alt='Halloween Night Decorative Bat Moon Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1107291853/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Halloween Backgrounds GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/sqteWohvL4QAAAAM/lilytober.gif' alt='Animated Halloween Backgrounds GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/sqteWohvL4QAAAAM/lilytober.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween background animation with the concept of Spooky Pumpkins ...">
+                                <img itemprop="contentUrl url" src='https://static.videezy.com/system/resources/thumbnails/000/018/146/original/halloween2_1.jpg' alt='Halloween background animation with the concept of Spooky Pumpkins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videezy" />
+                                </span>
+                                <a href='https://static.videezy.com/system/resources/thumbnails/000/018/146/original/halloween2_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 4 - Free Halloween Zoom virtual background templates to edit ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAErVsRhh1I/1/0/1600w/canva-wooden-abandoned-house-halloween-scene-animated-halloween-zoom-virtual-background-vZTmvws3UgY.jpg' alt='Page 4 - Free Halloween Zoom virtual background templates to edit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAErVsRhh1I/1/0/1600w/canva-wooden-abandoned-house-halloween-scene-animated-halloween-zoom-virtual-background-vZTmvws3UgY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cartoon-halloween-wallpaper_23-2151854825.jpg' alt='Halloween Background Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cartoon-halloween-wallpaper_23-2151854825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

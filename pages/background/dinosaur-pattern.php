@@ -1,0 +1,129 @@
+<title>Explore Fun Dinosaur Patterns for Kids</title>
+                    <meta name="description" content="Discover exciting dinosaur patterns perfect for kids! From clothing to decor, bring the joy of dinosaurs into your child's life. Explore creative ideas and inspire learning with these playful designs. Perfect for parents, teachers, and dino enthusiasts alike!">
+                    <meta name="keywords" content="dinosaur pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dinosaur-pattern">
+                            <span itemprop="name">dinosaur pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Fun Dinosaur Patterns for Kids</h1>
+                <p>Dinosaur patterns are vibrant and dynamic designs that evoke the fascinating world of prehistoric reptiles. These patterns often feature iconic dinosaur shapes and textures, making them popular in children's clothing, nursery decor, and educational materials. Embrace the playful essence of dinosaurs in arts and crafts to spark creativity and learning!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/922/079/non_2x/kids-baby-pattern-with-cute-dinosaurs-concept-free-vector.jpg' alt='Dinosaur Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/922/079/non_2x/kids-baby-pattern-with-cute-dinosaurs-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Pattern Images – Browse 63,002 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/96/22/10/360_F_196221061_LWWpJTb41sfEuhKQlHNieNI4T8Efsgb4.jpg' alt='Dinosaur Pattern Images – Browse 63,002 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/96/22/10/360_F_196221061_LWWpJTb41sfEuhKQlHNieNI4T8Efsgb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Dinosaur Seamless Pattern Design for Fabric, Dino Families ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31714679/r/il/77d3ea/3671902863/il_fullxfull.3671902863_bok5.jpg' alt='Two Dinosaur Seamless Pattern Design for Fabric, Dino Families ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31714679/r/il/77d3ea/3671902863/il_fullxfull.3671902863_bok5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-dinosaurs-khaki-coloring-children-s-background-cartoon-textile-cover_713008-71.jpg?semt=ais_hybrid' alt='Dinosaur Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-dinosaurs-khaki-coloring-children-s-background-cartoon-textile-cover_713008-71.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Skeleton Pattern Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/hand-drawn-dinosaur-skeletons-seamless-600nw-2249322799.jpg' alt='Dinosaur Skeleton Pattern Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/hand-drawn-dinosaur-skeletons-seamless-600nw-2249322799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Pattern Images – Browse 63,002 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/02/97/28/360_F_302972848_Ucu5NMynzVysWd9E37vV3DrCe2QojWB4.jpg' alt='Dinosaur Pattern Images – Browse 63,002 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/02/97/28/360_F_302972848_Ucu5NMynzVysWd9E37vV3DrCe2QojWB4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dinosaur Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241296/Cute-Dinosaur-Pattern-Wallpaper.jpg?v=638179779752930000' alt='Cute Dinosaur Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241296/Cute-Dinosaur-Pattern-Wallpaper.jpg?v=638179779752930000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue dinosaurs watercolor seamless pattern. Dino baby boy pattern ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4002861_3zse1q4e0dd24co40tz22qdlknuzcyivavdt0dhx_blue-dinosaurs-watercolor-seamless-pattern-dino-baby-boy-pattern.jpg' alt='Blue dinosaurs watercolor seamless pattern. Dino baby boy pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4002861_3zse1q4e0dd24co40tz22qdlknuzcyivavdt0dhx_blue-dinosaurs-watercolor-seamless-pattern-dino-baby-boy-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Long Neck Dino Pattern And Tutorial | We Lived Happily Ever After">
+                                <img itemprop="contentUrl url" src='https://welivedhappilyeverafter.com/wp-content/uploads/2015/04/DIY-Stuffed-Animal-Dinosaur-Pattern-Tutorial-.png' alt='DIY Long Neck Dino Pattern And Tutorial | We Lived Happily Ever After'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We Lived Happily Ever After" />
+                                </span>
+                                <a href='https://welivedhappilyeverafter.com/wp-content/uploads/2015/04/DIY-Stuffed-Animal-Dinosaur-Pattern-Tutorial-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaurs Seamless Pattern Stock Illustrations – 6,222 Dinosaurs ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/print-hand-drawn-seamless-pattern-dinosaurs-tropical-leaves-flowers-perfect-kids-fabric-textile-nursery-wallpaper-128416952.jpg' alt='Dinosaurs Seamless Pattern Stock Illustrations – 6,222 Dinosaurs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/print-hand-drawn-seamless-pattern-dinosaurs-tropical-leaves-flowers-perfect-kids-fabric-textile-nursery-wallpaper-128416952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

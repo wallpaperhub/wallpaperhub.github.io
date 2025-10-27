@@ -1,0 +1,129 @@
+<title>Cute Purple Kuromi Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest purple Kuromi wallpapers to brighten your screen! Perfectly designed for fans, these vibrant wallpapers will add a playful touch to your devices. Explore our collection and find the ideal backdrop that reflects your unique style!">
+                    <meta name="keywords" content="cute:awb1viotgfe= purple:-aqzylwufk8= kuromi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/cuteawb1viotgfe-purple-aqzylwufk8-kuromi-wallpaper">
+                            <span itemprop="name">cute:awb1viotgfe= purple:-aqzylwufk8= kuromi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Purple Kuromi Wallpapers for Your Device</h1>
+                <p>Looking for the perfect blend of cuteness and style? Check out our collection of adorable Kuromi wallpapers in charming purple hues! These wallpapers feature the quirky, mischievous Kuromi character, adding a playful touch to your device. Transform your screens with these vibrant and delightful designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Kuromi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/03/25/01/0325019a4b86d5f174074f2128190347.jpg' alt='Purple Kuromi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/03/25/01/0325019a4b86d5f174074f2128190347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love kuromi and purple       | Gallery posted by drakeya green ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7273233506212659717&index=1&sign=bb58e7742e9898fe1ac99d2db8da14b4' alt='I love kuromi and purple       | Gallery posted by drakeya green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7273233506212659717&index=1&sign=bb58e7742e9898fe1ac99d2db8da14b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/98/36/9a/98369ae19bac8426e29bade297c8ae1f.jpg' alt='kuromi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/98/36/9a/98369ae19bac8426e29bade297c8ae1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi #sanrio #sanriocore #kuromiaesthetic #purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/56/2a/d3562a5f8c3568e5d1da84758f93a99e.jpg' alt='kuromi #sanrio #sanriocore #kuromiaesthetic #purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/56/2a/d3562a5f8c3568e5d1da84758f93a99e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel purple cloud kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/62/6f/54626f809d43b4394de3eecc13c0a2a9.jpg' alt='Pastel purple cloud kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/62/6f/54626f809d43b4394de3eecc13c0a2a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    kuromi purple wallpaper    ~">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/13/77/df/1377df4f42994696dff738bbe8767b2d.jpg' alt='    kuromi purple wallpaper    ~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/13/77/df/1377df4f42994696dff738bbe8767b2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi wallpaper for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/e7/fa/e6e7fafaaff525bb57230bda17635a13.jpg' alt='kuromi wallpaper for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/e7/fa/e6e7fafaaff525bb57230bda17635a13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love kuromi and purple       | Gallery posted by drakeya green ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7273233506212659717&index=3&sign=4b90560c0b9a845b8605169e295fe695' alt='I love kuromi and purple       | Gallery posted by drakeya green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7273233506212659717&index=3&sign=4b90560c0b9a845b8605169e295fe695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/7b/2a/1a7b2ad779e9a7d07ad2edb97b5401ff.jpg' alt='Kuromi Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/7b/2a/1a7b2ad779e9a7d07ad2edb97b5401ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi #sanrio #purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/88/82/02888245a91dcd2eabce048d98c66f58.jpg' alt='kuromi #sanrio #purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/88/82/02888245a91dcd2eabce048d98c66f58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

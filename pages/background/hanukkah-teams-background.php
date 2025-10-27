@@ -1,0 +1,129 @@
+<title>Celebrate Hanukkah: Team Spirit & Traditions</title>
+                    <meta name="description" content="Join Hanukkah teams to celebrate this joyous festival! Engage in fun activities, honor traditions, and build community spirit. Discover the significance of Hanukkah through teamwork, cultural events, and more. Light up the holiday season with friends and family!">
+                    <meta name="keywords" content="hanukkah teams background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hanukkah-teams-background">
+                            <span itemprop="name">hanukkah teams background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Hanukkah: Team Spirit & Traditions</h1>
+                <p>Hanukkah teams bring together individuals to celebrate the festival of lights through teamwork and collaboration. These groups participate in various activities, including lighting the menorah, playing dreidel, and sharing traditional food. Hanukkah teams foster community spirit and create lasting memories while honoring Jewish traditions and culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chanukah Virtual Backgrounds | Jewish United Fund">
+                                <img itemprop="contentUrl url" src='https://www.juf.org/virtualBG/img/juf-chanukah-vb-03.jpg' alt='Chanukah Virtual Backgrounds | Jewish United Fund'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3800">
+                                <meta itemprop="height" content="2138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JUF.org." />
+                                </span>
+                                <a href='https://www.juf.org/virtualBG/img/juf-chanukah-vb-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://everydayjewishmom.com/wp-content/uploads/2022/12/Sparkle-Hanukkah.png' alt='Hanukkah Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everyday Jewish Mom" />
+                                </span>
+                                <a href='https://everydayjewishmom.com/wp-content/uploads/2022/12/Sparkle-Hanukkah.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah zoom Microsoft Team background Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/hanukkah-zoom-microsoft-team-background-design-template-94a793524b5e527cc4d12d45a3f51616_screen.jpg?ts=1606990067' alt='Hanukkah zoom Microsoft Team background Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/hanukkah-zoom-microsoft-team-background-design-template-94a793524b5e527cc4d12d45a3f51616_screen.jpg?ts=1606990067' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Hanukkah Zoom Backgrounds To Use For Your Virtual Celebration">
+                                <img itemprop="contentUrl url" src='https://stylecaster.com/wp-content/uploads/2020/12/hannukah-zoom-background5-1.jpeg?w=670' alt='8 Hanukkah Zoom Backgrounds To Use For Your Virtual Celebration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StyleCaster" />
+                                </span>
+                                <a href='https://stylecaster.com/wp-content/uploads/2020/12/hannukah-zoom-background5-1.jpeg?w=670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-background-jewish-hanukkah-holiday_23-2150978926.jpg' alt='Hanukkah Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-background-jewish-hanukkah-holiday_23-2150978926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201023/pngtree-gradient-blue-snowflake-hanukkah-background-image_428386.jpg' alt='Hanukkah Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201023/pngtree-gradient-blue-snowflake-hanukkah-background-image_428386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 7x5ft Fabric Hanukkah Party Photography Backdrop  Menorah Blue Gold Glitter Bokeh Lights Chanukah Holiday Decorations Banner  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tbBp1EqwL.jpg' alt='Amazon.com : BELECO 7x5ft Fabric Hanukkah Party Photography Backdrop  Menorah Blue Gold Glitter Bokeh Lights Chanukah Holiday Decorations Banner  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tbBp1EqwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201023/pngtree-blue-pendant-hanukkah-background-image_428408.jpg' alt='Hanukkah Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201023/pngtree-blue-pendant-hanukkah-background-image_428408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-background-jewish-hanukkah-holiday_52683-146570.jpg' alt='Hanukkah Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-background-jewish-hanukkah-holiday_52683-146570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jewish holiday Hanukkah. Traditional candlestick stock video 1177622341">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1177622341/video/jewish-holiday-hanukkah-traditional-candlestick.jpg?s=640x640&k=20&c=aqmiXkI3fHi-naJXiFFWm9c8jBk0dOMXWdSzjNCu11w=' alt='Jewish holiday Hanukkah. Traditional candlestick stock video 1177622341'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1177622341/video/jewish-holiday-hanukkah-traditional-candlestick.jpg?s=640x640&k=20&c=aqmiXkI3fHi-naJXiFFWm9c8jBk0dOMXWdSzjNCu11w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

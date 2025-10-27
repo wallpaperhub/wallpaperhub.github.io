@@ -1,0 +1,129 @@
+<title>Ultimate Game Controller Templates for Custom Designs</title>
+                    <meta name="description" content="Discover the best game controller templates for custom designs! Create unique controllers for any gaming platform with our easy-to-use templates. Perfect for developers and designers looking to streamline their projects. Get started today!">
+                    <meta name="keywords" content="game controller template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/game-controller-template">
+                            <span itemprop="name">game controller template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Game Controller Templates for Custom Designs</h1>
+                <p>Game controller templates provide a ready-to-use design for creating custom game controllers. Whether you're developing a game or designing merchandise, these templates can help streamline your process. With a variety of layouts available, you can easily adapt them to suit different gaming platforms and styles, making your project unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Controller Card, cut file & digi versions">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/ae/76/40ae763a41cd5594a42fc0bf4de0f9af.jpg' alt='Game Controller Card, cut file & digi versions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/ae/76/40ae763a41cd5594a42fc0bf4de0f9af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Generic Gamepad Template | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/controller.png' alt='Generic Gamepad Template | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/controller.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ps4 Controller Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/025/742/720/non_2x/video-game-gaming-controller-isolated-vector.jpg' alt='Ps4 Controller Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/025/742/720/non_2x/video-game-gaming-controller-isolated-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game controller design template icon. Nintendo Switch. Gamepad ...">
+                                <img itemprop="contentUrl url" src='https://l450v.alamy.com/450v/2b2eyf7/game-icon-template-black-color-editable-game-icon-symbol-flat-vector-illustration-for-graphic-and-web-design-2b2eyf7.jpg' alt='Game controller design template icon. Nintendo Switch. Gamepad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://l450v.alamy.com/450v/2b2eyf7/game-icon-template-black-color-editable-game-icon-symbol-flat-vector-illustration-for-graphic-and-web-design-2b2eyf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Controller Outline Svg, Gamer Svg, Gaming Svg, Gaming Clipart, Gaming  Files for Cricut, Gaming Cut Files for Silhouette, Png, Dxf - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36867827/r/il/bfaeda/4194155157/il_1080xN.4194155157_1wca.jpg' alt='Game Controller Outline Svg, Gamer Svg, Gaming Svg, Gaming Clipart, Gaming  Files for Cricut, Gaming Cut Files for Silhouette, Png, Dxf - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36867827/r/il/bfaeda/4194155157/il_1080xN.4194155157_1wca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="game controller icon vector design template in white background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/040/162/305/non_2x/game-controller-icon-design-template-in-white-background-free-vector.jpg' alt='game controller icon vector design template in white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/040/162/305/non_2x/game-controller-icon-design-template-in-white-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Game Controller Template | Mysite">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/9a587c_6138fd3877ce41c28a2c5abdd48b493f~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9a587c_6138fd3877ce41c28a2c5abdd48b493f~mv2.jpg' alt='Game Controller Template | Mysite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mysite" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/9a587c_6138fd3877ce41c28a2c5abdd48b493f~mv2.jpg/v1/fill/w_980,h_1268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9a587c_6138fd3877ce41c28a2c5abdd48b493f~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joystick game controller icon design template Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/62/56/joystick-game-controller-icon-design-template-vector-37416256.jpg' alt='Joystick game controller icon design template Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/62/56/joystick-game-controller-icon-design-template-vector-37416256.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="98 Ps4 Controller Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/video-game-ps4-controllers-gamepad-260nw-1743259301.jpg' alt='98 Ps4 Controller Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/video-game-ps4-controllers-gamepad-260nw-1743259301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xbox Controller Printable Template | Free Printable Papercraft ...">
+                                <img itemprop="contentUrl url" src='https://www.supercoloring.com/sites/default/files/fif/2022/01/xbox-controller-outline-paper-crafts.png' alt='Xbox Controller Printable Template | Free Printable Papercraft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2468">
+                                <meta itemprop="height" content="1740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super Coloring" />
+                                </span>
+                                <a href='https://www.supercoloring.com/sites/default/files/fif/2022/01/xbox-controller-outline-paper-crafts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

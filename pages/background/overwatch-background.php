@@ -1,0 +1,129 @@
+<title>Explore the Rich Background of Overwatch: Heroes and Lore</title>
+                    <meta name="description" content="Discover the captivating background of Overwatch, a game that brings together diverse heroes in a thrilling universe. Dive into the lore, the fall of Overwatch, and the epic battles defining this iconic franchise. Join the fight, understand the characters, and enjoy the rich storytelling that makes Overwatch exceptional.">
+                    <meta name="keywords" content="overwatch background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/overwatch-background">
+                            <span itemprop="name">overwatch background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich Background of Overwatch: Heroes and Lore</h1>
+                <p>Overwatch is set in a vibrant, near-future Earth where heroes rise against threats to humanity. Following the fall of the Overwatch organization, tensions flare between various factions. Players choose diverse heroes, each with unique abilities and backgrounds, in a dynamic blend of cooperative and competitive gameplay.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone else wish they would let us keep these to change the main ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/anyone-else-wish-they-would-let-us-keep-these-to-change-the-v0-32vcwgmxpdvc1.jpg?width=2036&format=pjpg&auto=webp&s=460a718484434149bad3a3c95be57924d92874b8' alt='Anyone else wish they would let us keep these to change the main ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2036">
+                                <meta itemprop="height" content="1145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/anyone-else-wish-they-would-let-us-keep-these-to-change-the-v0-32vcwgmxpdvc1.jpg?width=2036&format=pjpg&auto=webp&s=460a718484434149bad3a3c95be57924d92874b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Overwatch Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/overwatch-dpacmg5qk3abi7qn.jpg' alt='300+] Overwatch Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/overwatch-dpacmg5qk3abi7qn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overwatch x Le Sserafim Xbox Wallpaper : r/Overwatch">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F9uk9JnWUAAqR1q?format=jpg&name=4096x4096' alt='Overwatch x Le Sserafim Xbox Wallpaper : r/Overwatch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F9uk9JnWUAAqR1q?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overwatch Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Overwatch-PS4-Wallpapers-09.jpg' alt='Overwatch Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Overwatch-PS4-Wallpapers-09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Overwatch Overwatch 2 Reaper (Overwatch) Juno (Overwatch ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/137/1375579.png' alt='Download Overwatch Overwatch 2 Reaper (Overwatch) Juno (Overwatch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/137/1375579.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overwatch Wallpapers (118 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/e/9/5945-3840x2160-desktop-4k-overwatch-background-image.jpg' alt='Overwatch Wallpapers (118 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/e/9/5945-3840x2160-desktop-4k-overwatch-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overwatch Wallpapers (118 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/3/9/289-3840x2160-desktop-4k-overwatch-background-image.jpg' alt='Overwatch Wallpapers (118 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/3/9/289-3840x2160-desktop-4k-overwatch-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Overwatch Genji (Overwatch) Wallpaper | Overwatch ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/63/5d/32635d57c930e3ed1ceec5a0d8fb34bc.jpg' alt='Video Game Overwatch Genji (Overwatch) Wallpaper | Overwatch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/63/5d/32635d57c930e3ed1ceec5a0d8fb34bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overwatch Le Sserafim menu wallpaper : r/overwatch2">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/overwatch-le-sserafim-menu-wallpaper-v0-dNmDAiACr1IUJC8TQsOVMgnLfEURFbwvR9v1hk5uzss.jpg?auto=webp&s=0e7f61f311284e61c95f3d844aa76851fa18493c' alt='Overwatch Le Sserafim menu wallpaper : r/overwatch2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/overwatch-le-sserafim-menu-wallpaper-v0-dNmDAiACr1IUJC8TQsOVMgnLfEURFbwvR9v1hk5uzss.jpg?auto=webp&s=0e7f61f311284e61c95f3d844aa76851fa18493c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Overwatch Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/overwatch-heroes-unique-powers-hd-9mpo06gatuc2tsup.jpg' alt='300+] Overwatch Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/overwatch-heroes-unique-powers-hd-9mpo06gatuc2tsup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

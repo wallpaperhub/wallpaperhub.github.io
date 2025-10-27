@@ -1,0 +1,129 @@
+<title>Rickie Fowler's Wife: Allison Stokke Uncovered</title>
+                    <meta name="description" content="Explore the inspiring love story of Rickie Fowler and his wife, Allison Stokke. Discover their shared passions, support for each other's careers, and life beyond the golf course. Unravel the dynamic duo that continues to capture hearts in the world of sports.">
+                    <meta name="keywords" content="rickie fowler wife">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rickie-fowler-wife">
+                            <span itemprop="name">rickie fowler wife</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rickie Fowler's Wife: Allison Stokke Uncovered</h1>
+                <p>Rickie Fowler, the accomplished golfer, is married to Allison Stokke, a renowned pole vaulter and fitness model. Their love story has captured fans, showcasing their supportive relationship both on and off the course. Known for their shared passion for sports and active lifestyle, they often inspire each other to excel in their respective fields.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickie Fowler, Wife Allison Stokke's Relationship Timeline: Pics ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/01/Professional-Golfer-Rickie-Fowler-and-Wife-Allison-Stokkes-Relationship-Timeline-Main.jpg?quality=86&strip=all' alt='Rickie Fowler, Wife Allison Stokke's Relationship Timeline: Pics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="1154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/01/Professional-Golfer-Rickie-Fowler-and-Wife-Allison-Stokkes-Relationship-Timeline-Main.jpg?quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickie Fowler, Wife Allison Stokke's Relationship Timeline: Pics ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/01/Professional-Golfer-Rickie-Fowler-and-Wife-Allison-Stokkes-Relationship-Timeline-November-2021.jpg?quality=40&strip=all' alt='Rickie Fowler, Wife Allison Stokke's Relationship Timeline: Pics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1149">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/01/Professional-Golfer-Rickie-Fowler-and-Wife-Allison-Stokkes-Relationship-Timeline-November-2021.jpg?quality=40&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Love Story Between Rickie Fowler and His Wife, Allison Stokke">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/7224f326-ef01-4928-96e5-58e65714e9fc~rs_768.h-cr_137.7.937.807' alt='The Love Story Between Rickie Fowler and His Wife, Allison Stokke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Knot" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/7224f326-ef01-4928-96e5-58e65714e9fc~rs_768.h-cr_137.7.937.807' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Rickie Fowler's Wife? All About Allison Stokke">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/FYmMvtlDML09quBCPU1JK_JDrvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(939x599:941x601)/rickie-fowler-allison-stoke-1-11a96a7288d64006b9c0a992d156fcbd.jpg' alt='Who Is Rickie Fowler's Wife? All About Allison Stokke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/FYmMvtlDML09quBCPU1JK_JDrvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(939x599:941x601)/rickie-fowler-allison-stoke-1-11a96a7288d64006b9c0a992d156fcbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickie Fowler embraces wife Allison Stokke after Rocket Mortgage ...">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2023/07/fowler-1.jpg' alt='Rickie Fowler embraces wife Allison Stokke after Rocket Mortgage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2023/07/fowler-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golfer Rickie Fowler secretly marries Allison Stokke">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2019/10/allison-stokke-rickie-fowler.jpg?quality=75&strip=all' alt='Golfer Rickie Fowler secretly marries Allison Stokke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2442">
+                                <meta itemprop="height" content="1628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2019/10/allison-stokke-rickie-fowler.jpg?quality=75&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Rickie Fowler's Wife? All About Allison Stokke">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/jtnD3WXslXPXy9OcepXaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEyNzM-/https://media.zenfs.com/en/people_218/93e681e95dca88924139e6a9a82cb372' alt='Who Is Rickie Fowler's Wife? All About Allison Stokke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/jtnD3WXslXPXy9OcepXaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEyNzM-/https://media.zenfs.com/en/people_218/93e681e95dca88924139e6a9a82cb372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickie Fowler Marries Track Star Allison Stokke in Beach Wedding">
+                                <img itemprop="contentUrl url" src='https://imagez.tmz.com/image/76/4by3/2019/10/11/762d7a10b8104364874061efb183cce3_xl.jpg' alt='Rickie Fowler Marries Track Star Allison Stokke in Beach Wedding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TMZ" />
+                                </span>
+                                <a href='https://imagez.tmz.com/image/76/4by3/2019/10/11/762d7a10b8104364874061efb183cce3_xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Rickie Fowler's Wife, Allison Stokke & What Is Their ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/8hPEi_en69qaeyFhp5ka4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/mandatory_995/35f11d4e628ebd3162025d4bf14fcbf8' alt='Who Is Rickie Fowler's Wife, Allison Stokke & What Is Their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/8hPEi_en69qaeyFhp5ka4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/mandatory_995/35f11d4e628ebd3162025d4bf14fcbf8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickie Fowler girlfriend Who is Allison Stokke? Does The Open ...">
+                                <img itemprop="contentUrl url" src='https://cdn.images.express.co.uk/img/dynamic/79/590x/990832_1.jpg' alt='Rickie Fowler girlfriend Who is Allison Stokke? Does The Open ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Express" />
+                                </span>
+                                <a href='https://cdn.images.express.co.uk/img/dynamic/79/590x/990832_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
